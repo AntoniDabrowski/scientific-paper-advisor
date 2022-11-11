@@ -10,14 +10,37 @@ class ArticleNode {
     }
 }
 */
-const results = document.getElementsByClassName("gs_ggs gs_fl")
+const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
 
-if (results) {
-    for (let i = 0; i < results.length; i++) {
+
+if (pdf_results) {
+    for (let i = 0; i < pdf_results.length; i++) {
         const create_graph = document.createElement("button");
+        create_graph.className = "collapsible";
         create_graph.textContent = `project button`;
 
-        results[i].insertAdjacentElement("beforeend", create_graph);
+        const drawing_board = document.createElement("div");
+        drawing_board.innerHTML = "<p>Lorem ipsum...</p>";
+        drawing_board.className = "content";
+
+        create_graph.addEventListener("click", function () {
+            this.classList.toggle("active");
+            if (drawing_board.style.display === "block") {
+                drawing_board.style.display = "none";
+            } else {
+                drawing_board.style.display = "block";
+            }
+        });
+
+        let links_of_result;
+        let search_result_box;
+
+        pdf_results[i].insertAdjacentElement("beforeend", create_graph);
+        search_result_box = pdf_results[i].parentNode;
+        links_of_result = search_result_box.getElementsByClassName('gs_fl');
+        links_of_result[1].insertAdjacentElement('afterend', drawing_board)
+
+
     }
 
 }
