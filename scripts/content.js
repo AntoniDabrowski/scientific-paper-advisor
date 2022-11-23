@@ -22,6 +22,7 @@ if (pdf_results) {
         const drawing_board = document.createElement("div");
         drawing_board.innerHTML = "<p>Lorem ipsum...</p>";
         drawing_board.className = "content";
+        drawing_board.style.display = "none"
 
         create_graph.addEventListener("click", function () {
             this.classList.toggle("active");
