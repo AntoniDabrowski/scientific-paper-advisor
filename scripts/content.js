@@ -1,4 +1,4 @@
-const {create_graph_on_scholar_result} = require("./graphs");
+const {create_graph_on_scholar_result, purge_graph} = require("./graphs");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
 
@@ -19,8 +19,10 @@ if (pdf_results) {
             this.classList.toggle("active");
             if (drawing_board.style.display === "block") {
                 drawing_board.style.display = "none";
+                purge_graph(divid)
             } else {
                 drawing_board.style.display = "block";
+                create_graph_on_scholar_result(divid, [1, 2, 3], [2, 1, 3]);
             }
         });
 
@@ -32,9 +34,6 @@ if (pdf_results) {
         search_result_box = pdf_results[i].parentNode;
         links_of_result = search_result_box.getElementsByClassName('gs_fl');
         links_of_result[1].insertAdjacentElement('afterend', drawing_board)
-
-        create_graph_on_scholar_result(divid, [1, 2, 3], [2, 1, 3])
-
     }
 
 }
