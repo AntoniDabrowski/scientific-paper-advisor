@@ -2,5 +2,8 @@
   "devDependencies": {
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "plotly.js-strict-dist": "^2.16.3"
   }
 }
