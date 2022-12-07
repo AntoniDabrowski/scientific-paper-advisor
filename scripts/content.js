@@ -22,7 +22,7 @@ if (pdf_results) {
                 purge_graph(divid)
             } else {
                 drawing_board.style.display = "block";
-                create_graph_on_scholar_result(divid, [1, 2, 3], [2, 1, 3]);
+                create_graph_on_scholar_result(divid, [1, 2, 3, 4, 5], [2, 1, 2, 2, 3]);
             }
         });
 
