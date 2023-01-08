@@ -8,7 +8,7 @@ from typing import List
 import arxiv
 import pandas as pd
 from nltk.tokenize import sent_tokenize
-from science_parse_api.api import parse_pdf
+from science_parse_api.api import parse_pdf  # TODO replace this with other method, bottleneck
 from tqdm import tqdm
 
 from utils.FRDownloader.common import verify_primary_topic, default_fr_dataframe, prepare_nltk
@@ -92,7 +92,8 @@ def _parse_result(result: arxiv.Result) -> pd.DataFrame:
     return df if len(df) > 0 else None
 
 
-def create_database(num_articles: int, primary_topic: str) -> pd.DataFrame:
+def create_database(num_articles: int = 1000, primary_topic: str = 'cs.AI', checkpoint: int = 10,
+                    filename: str = None) -> pd.DataFrame:
     """
 
     :param num_articles:
@@ -100,10 +101,13 @@ def create_database(num_articles: int, primary_topic: str) -> pd.DataFrame:
         category taxonomy (https://arxiv.org/category_taxonomy)
     :return:
     """
+    if filename == None:
+        filename = "trainint_data.{}.csv".format(primary_topic)
     verify_primary_topic()
 
     search = arxiv.Search(
-        query="cat:{primary_topic}".format(primary_topic=primary_topic)
+        query="cat:{primary_topic}".format(primary_topic=primary_topic),
+        sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
     df = default_fr_dataframe()
@@ -116,9 +120,11 @@ def create_database(num_articles: int, primary_topic: str) -> pd.DataFrame:
             if (parsed_result := _parse_result(result)) is not None:
                 pbar.update(len(parsed_result))
                 df = pd.concat([df, parsed_result], ignore_index=True)
+                if len(df) % checkpoint == 0:
+                    df.to_csv(filename)
 
     return df
 
 
 if __name__ == "__main__":
-    create_database(50, 'cs.AI')
+    create_database(1000, 'cs.AI', )
