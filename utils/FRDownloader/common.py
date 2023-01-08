@@ -1,5 +1,5 @@
-import pandas as pd
 import nltk
+import pandas as pd
 
 
 def verify_primary_topic():
@@ -15,10 +15,20 @@ def prepare_nltk():
 
 def default_fr_dataframe():
     return pd.DataFrame(columns={
-        'further research': pd.Series('str'),
+        'further research line': pd.Series('str'),
+        'further research prefix': pd.Series('str'),
+        'further research suffix': pd.Series('str'),
         'publication date': pd.Series('date'),
-        'tags': pd.Series('str'),
         'title': pd.Series('str'),
+        'primary category': pd.Series('str'),
+        'categories': pd.Series('str'),
         'authors': pd.Series('str'),
         'abstract': pd.Series('str')
     })
+
+
+def safe_list_get(l, idx, default):
+    try:
+        return l[idx]
+    except IndexError:
+        return default
