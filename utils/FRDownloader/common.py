@@ -1,8 +1,16 @@
 import pandas as pd
+import nltk
 
 
 def verify_primary_topic():
     pass
+
+
+def prepare_nltk():
+    try:
+        nltk.data.find('punkt')
+    except LookupError:
+        nltk.download('punkt')
 
 
 def default_fr_dataframe():
