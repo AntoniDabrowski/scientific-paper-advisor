@@ -3,10 +3,14 @@ import os.path
 import pickle
 import sys
 import tempfile
+import time
 from multiprocessing import Pool
+from multiprocessing.pool import MaybeEncodingError
 
 import arxiv
 import pandas as pd
+import requests
+from arxiv import UnexpectedEmptyPageError
 from nltk.tokenize import sent_tokenize
 from pdfminer.high_level import extract_text
 from pdfminer.pdfparser import PDFSyntaxError
@@ -29,11 +33,18 @@ def _get_further_research_sections(article: arxiv.Result):
     log.debug("Article url: {}".format(article.pdf_url))
 
     with tempfile.NamedTemporaryFile() as fp:
-        article.download_pdf(filename=fp.name)
+        url = article.pdf_url.replace('arxiv.org', 'export.arxiv.org')
         try:
+            response = requests.get(url)
+            fp.write(response.content)
             article_text = extract_text(fp.name)
         except PDFSyntaxError:
             return results
+        except Exception as e:
+            log.error(str(e))
+            log.error("Error occurred while parsing {}".format(article.title))
+            log.error("URL of the article {}".format(url))
+            return "Parsing error"
 
     article_text = sent_tokenize(article_text)
     fr_idxs = [x for x, t in enumerate(article_text) if 'further research' in t.lower()]
@@ -53,22 +64,27 @@ def _parse_result(result: arxiv.Result, ) -> (str, pd.DataFrame):
     :param result:
     :return: DataFrame containing row that should be appended to the results' database.
     """
-    df = default_fr_dataframe()
-    log.debug(result.title)
-    fr = _get_further_research_sections(result)
+    try:
+        df = default_fr_dataframe()
+        log.debug(result.title)
+        fr = _get_further_research_sections(result)
 
-    for fr_section, fr_prefix, fr_suffix in fr:
-        df.loc[len(df)] = [fr_section,
-                           fr_prefix,
-                           fr_suffix,
-                           result.published,
-                           result.title,
-                           result.primary_category,
-                           result.categories,
-                           result.authors,
-                           result.summary]
+        for fr_section, fr_prefix, fr_suffix in fr:
+            df.loc[len(df)] = [fr_section,
+                               fr_prefix,
+                               fr_suffix,
+                               result.published,
+                               result.title,
+                               result.primary_category,
+                               result.categories,
+                               result.authors,
+                               result.summary]
 
-    return result.title, df if len(df) > 0 else None
+        return df if len(df) > 0 else result.title
+    except Exception as e:
+        log.error(str(e))
+        log.error("Error occurred while parsing {}".format(result.title))
+        return "Parsing error"
 
 
 def get_results_batch(results_generator, batch_size=32, articles_to_ignore=None):
@@ -78,10 +94,15 @@ def get_results_batch(results_generator, batch_size=32, articles_to_ignore=None)
     result_batch = []
     more_to_come = True
 
-    while len(result_batch) < batch_size \
-            and (more_to_come := ((result := next(results_generator)) is not None)):
-        if result.title not in articles_to_ignore:
-            result_batch.append(result)
+    while len(result_batch) < batch_size and more_to_come:
+        try:
+            more_to_come = ((result := next(results_generator)) is not None)
+            if result.title not in articles_to_ignore:
+                result_batch.append(result)
+        except UnexpectedEmptyPageError as e:
+            log.error(str(e))
+            time.sleep(10)
+            continue
 
     return result_batch, more_to_come
 
@@ -98,6 +119,8 @@ def create_database(target_row_count: int = 1000,
         category taxonomy (https://arxiv.org/category_taxonomy)
     :return:
     """
+    verify_primary_topic(primary_topic)
+
     if filename is None:
         filename = "training_data.{}.csv".format(primary_topic)
 
@@ -107,8 +130,6 @@ def create_database(target_row_count: int = 1000,
             no_fr_set = pickle.load(fr_set)
     else:
         no_fr_set = set()
-
-    verify_primary_topic()
 
     search = arxiv.Search(
         query="cat:{primary_topic}".format(primary_topic=primary_topic),
@@ -126,18 +147,23 @@ def create_database(target_row_count: int = 1000,
             articles_batch, more_to_come = get_results_batch(results_generator,
                                                              batch_size=pararell_processes,
                                                              articles_to_ignore=no_fr_set)
-
-            for article_id, parsed_result in pool.map(_parse_result, articles_batch):
-                if parsed_result is not None:
-                    pbar.update(len(parsed_result))
-                    df = pd.concat([df, parsed_result], ignore_index=True)
-                    if len(df) % checkpoint == 0:
-                        df.to_csv(filename)
-                else:
-                    no_fr_set.add(article_id)
-                    if len(no_fr_set) % checkpoint == 0:
-                        with open(file_no_fr, 'wb') as fr_set:
-                            pickle.dump(no_fr_set, fr_set)
+            try:
+                for parsed_result in pool.map(_parse_result, articles_batch):
+                    # article_id, parsed_result = result_tuple
+                    if not isinstance(parsed_result, str):
+                        pbar.update(len(parsed_result))
+                        df = pd.concat([df, parsed_result], ignore_index=True)
+                        if len(df) % checkpoint == 0:
+                            df.to_csv(filename)
+                    else:
+                        no_fr_set.add(parsed_result)
+                        if len(no_fr_set) % checkpoint == 0:
+                            with open(file_no_fr, 'wb') as fr_set_file:
+                                pickle.dump(no_fr_set, fr_set_file)
+            except MaybeEncodingError:
+                log.error("Some of those articles caused errors.")
+                for article in articles_batch:
+                    log.error(article.title)
 
     return df
 
