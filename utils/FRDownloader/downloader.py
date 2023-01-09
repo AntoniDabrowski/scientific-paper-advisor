@@ -8,6 +8,7 @@ from multiprocessing import Pool
 from multiprocessing.pool import MaybeEncodingError
 
 import arxiv
+import pandas
 import pandas as pd
 import requests
 from arxiv import UnexpectedEmptyPageError
@@ -87,7 +88,7 @@ def _parse_result(result: arxiv.Result, ) -> (str, pd.DataFrame):
         return "Parsing error"
 
 
-def get_results_batch(results_generator, batch_size=32, articles_to_ignore=None):
+def get_results_batch(results_generator, batch_size=32, articles_to_ignore=None, already_processed=[]):
     if articles_to_ignore is None:
         articles_to_ignore = set()
 
@@ -97,7 +98,7 @@ def get_results_batch(results_generator, batch_size=32, articles_to_ignore=None)
     while len(result_batch) < batch_size and more_to_come:
         try:
             more_to_come = ((result := next(results_generator)) is not None)
-            if result.title not in articles_to_ignore:
+            if result.title not in articles_to_ignore and result.title not in already_processed:
                 result_batch.append(result)
         except UnexpectedEmptyPageError as e:
             log.error(str(e))
@@ -135,18 +136,24 @@ def create_database(target_row_count: int = 1000,
         query="cat:{primary_topic}".format(primary_topic=primary_topic),
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
+    print(search.results())
 
-    df = default_fr_dataframe()
+    if not os.path.exists(filename):
+        df = default_fr_dataframe()
+    else:
+        df = pandas.read_csv(filename)
+
     more_to_come = True
     client = arxiv.Client()
 
     results_generator = client.results(search)
 
-    with tqdm(total=target_row_count) as pbar, Pool(processes=pararell_processes) as pool:
+    with tqdm(total=target_row_count-len(df)) as pbar, Pool(processes=pararell_processes) as pool:
         while len(df) < target_row_count and more_to_come:
             articles_batch, more_to_come = get_results_batch(results_generator,
                                                              batch_size=pararell_processes,
-                                                             articles_to_ignore=no_fr_set)
+                                                             articles_to_ignore=no_fr_set,
+                                                             already_processed=df['title'].values)
             try:
                 for parsed_result in pool.map(_parse_result, articles_batch):
                     # article_id, parsed_result = result_tuple
