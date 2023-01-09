@@ -1,3 +1,4 @@
+import argparse
 import logging
 import os.path
 import pickle
@@ -17,15 +18,13 @@ from pdfminer.high_level import extract_text
 from pdfminer.pdfparser import PDFSyntaxError
 from tqdm import tqdm
 
-from utils.FRDownloader.common import verify_primary_topic, default_fr_dataframe, prepare_nltk, safe_list_get
+from utils.FRDownloader.common import verify_primary_topic, default_fr_dataframe, prepare_nltk, safe_list_get, \
+    category_map
 
 prepare_nltk()
 
 log = logging.getLogger(__name__)
 log.setLevel(logging.DEBUG)
-handler = logging.StreamHandler(sys.stderr)
-handler.setLevel(logging.WARNING)
-log.addHandler(handler)
 
 
 def _get_further_research_sections(article: arxiv.Result):
@@ -60,11 +59,6 @@ def _get_further_research_sections(article: arxiv.Result):
 
 
 def _parse_result(result: arxiv.Result, ) -> (str, pd.DataFrame):
-    """
-
-    :param result:
-    :return: DataFrame containing row that should be appended to the results' database.
-    """
     try:
         df = default_fr_dataframe()
         log.debug(result.title)
@@ -88,7 +82,9 @@ def _parse_result(result: arxiv.Result, ) -> (str, pd.DataFrame):
         return "Parsing error"
 
 
-def get_results_batch(results_generator, batch_size=32, articles_to_ignore=None, already_processed=[]):
+def _get_results_batch(results_generator, batch_size=32, articles_to_ignore=None, already_processed=None):
+    if already_processed is None:
+        already_processed = []
     if articles_to_ignore is None:
         articles_to_ignore = set()
 
@@ -112,13 +108,19 @@ def create_database(target_row_count: int = 1000,
                     primary_topic: str = 'cs.AI',
                     checkpoint: int = 10,
                     filename: str = None,
-                    pararell_processes: int = 8) -> pd.DataFrame:
+                    parallel_processes: int = 8) -> pd.DataFrame:
     """
+    Tool to collect a set of further research suggestions from arxiv pdfs. Designed to be used as a method of
+    collecting data for identifying most pressing further research topics.
 
-    :param target_row_count:
-    :param primary_topic: The focus of the articles. This has to match one of the categories in the arxiv
+    :param parallel_processes: Number of multiprocessing workers that will download ad parse articles.
+    :param filename: If provided, the database will be saved in the file <filename>.csv
+    :param checkpoint: The partial progress will be saved every <checkpoint> articles.
+    :param target_row_count: The numbers of rows the database should contain.
+    :param primary_topic: The topic this tool will focus on. This has to match one of the categories in the arxiv
         category taxonomy (https://arxiv.org/category_taxonomy)
-    :return:
+    :return: Pandas DataFrame with <target_row_count> records,
+        collection of situations where the articles used 'further research' term.
     """
     verify_primary_topic(primary_topic)
 
@@ -136,7 +138,6 @@ def create_database(target_row_count: int = 1000,
         query="cat:{primary_topic}".format(primary_topic=primary_topic),
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
-    print(search.results())
 
     if not os.path.exists(filename):
         df = default_fr_dataframe()
@@ -148,15 +149,14 @@ def create_database(target_row_count: int = 1000,
 
     results_generator = client.results(search)
 
-    with tqdm(total=target_row_count-len(df)) as pbar, Pool(processes=pararell_processes) as pool:
+    with tqdm(total=target_row_count - len(df)) as pbar, Pool(processes=parallel_processes) as pool:
         while len(df) < target_row_count and more_to_come:
-            articles_batch, more_to_come = get_results_batch(results_generator,
-                                                             batch_size=pararell_processes,
-                                                             articles_to_ignore=no_fr_set,
-                                                             already_processed=df['title'].values)
+            articles_batch, more_to_come = _get_results_batch(results_generator,
+                                                              batch_size=parallel_processes,
+                                                              articles_to_ignore=no_fr_set,
+                                                              already_processed=df['title'].values)
             try:
                 for parsed_result in pool.map(_parse_result, articles_batch):
-                    # article_id, parsed_result = result_tuple
                     if not isinstance(parsed_result, str):
                         pbar.update(len(parsed_result))
                         df = pd.concat([df, parsed_result], ignore_index=True)
@@ -175,5 +175,41 @@ def create_database(target_row_count: int = 1000,
     return df
 
 
+parser = argparse.ArgumentParser(description="Tool for collecting the further research suggestions "
+                                             "from the arxiv articles. ")
+
+parser.add_argument("-t", "--target-row-count",
+                    default=1000,
+                    help="Dictates how many records should the output database contain.",
+                    type=int)
+parser.add_argument("-p", "--primary-topic",
+                    default="cs.AI",
+                    help="Type of articles to be collected. This should follow the arxiv taxonomy.",
+                    choices=category_map.keys())
+parser.add_argument("-c", "--checkpoint",
+                    default=10,
+                    help="Number of articles after which the partial progress will be saved.",
+                    type=int)
+parser.add_argument("-f", "--filename",
+                    help="Name of the output file. This will be a csv file."
+                         "If this files already exist and is of csv format the script will try to append "
+                         "the results to it, to allow continuation of interrupted processes.",
+                    required=True)
+parser.add_argument("-pp", "--parallel-processes",
+                    default=2,
+                    help="Numbers of parallel processes to use for downloading and parsing of the articles.",
+                    type=int)
+parser.add_argument("-d", "--debug", action="store_true")
+
+args = parser.parse_args()
+
+handler = logging.StreamHandler(sys.stderr)
+handler.setLevel(logging.DEBUG if args.debug else logging.WARNING)
+log.addHandler(handler)
+
 if __name__ == "__main__":
-    create_database(1000, 'cs.AI')
+    create_database(target_row_count=args.target_row_count,
+                    primary_topic=args.primary_topic,
+                    checkpoint=args.checkpoint,
+                    filename=args.filename,
+                    parallel_processes=args.parallel_processes)
