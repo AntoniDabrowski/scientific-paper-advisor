@@ -114,7 +114,7 @@ def create_database(target_row_count: int = 1000,
     collecting data for identifying most pressing further research topics.
 
     :param parallel_processes: Number of multiprocessing workers that will download ad parse articles.
-    :param filename: If provided, the database will be saved in the file <filename>.csv
+    :param filename: If provided, the database will be saved in the file <filename>
     :param checkpoint: The partial progress will be saved every <checkpoint> articles.
     :param target_row_count: The numbers of rows the database should contain.
     :param primary_topic: The topic this tool will focus on. This has to match one of the categories in the arxiv
@@ -123,30 +123,28 @@ def create_database(target_row_count: int = 1000,
         collection of situations where the articles used 'further research' term.
     """
     verify_primary_topic(primary_topic)
+    no_fr_set = set()
 
-    if filename is None:
-        filename = "training_data.{}.csv".format(primary_topic)
-
-    file_no_fr = "{}_no_fr.pickle".format(primary_topic)
-    if os.path.exists(file_no_fr):
-        with open(file_no_fr, 'rb') as fr_set:
-            no_fr_set = pickle.load(fr_set)
+    if filename is not None:
+        file_no_fr = "{}.no_fr.pickle".format(filename)
+        if os.path.exists(file_no_fr):
+            with open(file_no_fr, 'rb') as fr_set:
+                no_fr_set = pickle.load(fr_set)
     else:
-        no_fr_set = set()
+        file_no_fr = None
 
     search = arxiv.Search(
         query="cat:{primary_topic}".format(primary_topic=primary_topic),
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
-    if not os.path.exists(filename):
-        df = default_fr_dataframe()
-    else:
+    if (filename is not None) and os.path.exists(filename):
         df = pandas.read_csv(filename)
+    else:
+        df = default_fr_dataframe()
 
     more_to_come = True
     client = arxiv.Client()
-
     results_generator = client.results(search)
 
     with tqdm(total=target_row_count - len(df)) as pbar, Pool(processes=parallel_processes) as pool:
@@ -160,11 +158,11 @@ def create_database(target_row_count: int = 1000,
                     if not isinstance(parsed_result, str):
                         pbar.update(len(parsed_result))
                         df = pd.concat([df, parsed_result], ignore_index=True)
-                        if len(df) % checkpoint == 0:
+                        if (filename is not None) and len(df) % checkpoint == 0:
                             df.to_csv(filename)
                     else:
                         no_fr_set.add(parsed_result)
-                        if len(no_fr_set) % checkpoint == 0:
+                        if (file_no_fr is not None) and (len(no_fr_set) % checkpoint == 0):
                             with open(file_no_fr, 'wb') as fr_set_file:
                                 pickle.dump(no_fr_set, fr_set_file)
             except MaybeEncodingError:
