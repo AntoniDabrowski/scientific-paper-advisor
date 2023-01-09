@@ -188,16 +188,16 @@ parser.add_argument("-c", "--checkpoint",
                     default=10,
                     help="Number of articles after which the partial progress will be saved.",
                     type=int)
-parser.add_argument("-f", "--filename",
-                    help="Name of the output file. This will be a csv file."
-                         "If this files already exist and is of csv format the script will try to append "
-                         "the results to it, to allow continuation of interrupted processes.",
-                    required=True)
 parser.add_argument("-pp", "--parallel-processes",
                     default=2,
                     help="Numbers of parallel processes to use for downloading and parsing of the articles.",
                     type=int)
 parser.add_argument("-d", "--debug", action="store_true")
+parser.add_argument("-f", "--filename",
+                    help="Name of the output file. This will be a csv file."
+                         "If this files already exist and is of csv format the script will try to append "
+                         "the results to it, to allow continuation of interrupted processes.",
+                    required=True)
 
 args = parser.parse_args()
 
