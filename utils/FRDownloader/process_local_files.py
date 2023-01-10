@@ -2,7 +2,7 @@ import os.path
 import pickle
 import time
 from itertools import repeat
-from multiprocessing import Pool, Semaphore
+from multiprocessing import Pool, Semaphore, Manager
 from pathlib import Path
 from typing import Union, Set, List, Dict
 
@@ -12,7 +12,7 @@ from nltk import sent_tokenize
 from pdftextract import XPdf
 from tqdm import tqdm
 
-from utils.FRDownloader.common import default_fr_dataframe, prepare_nltk, contain_phrase, safe_list_get
+from utils.FRDownloader.common import default_fr_dataframe, prepare_nltk, contain_phrase, safe_list_get, chunks
 
 prepare_nltk()
 
@@ -35,25 +35,24 @@ def _get_files_list(files: Union[Path, str],
     return files_list
 
 
-def get_article_info(title: Union[str, List[str]],
+def get_article_info(id_list: Union[str, List[str]],
                      semaphore: Semaphore = None) -> Dict[str, arxiv.Result]:
     """
     Find information about an article from the arxiv api based on the title
     :param semaphore:
-    :param title: Title of the article
+    :param id_list: ID of the article
     :return: Result of the search
     """
     result = {}
     if semaphore is not None:
         semaphore.acquire()
 
-    if isinstance(title, str):
-        title = [title]
+    if isinstance(id_list, str):
+        id_list = [id_list]
 
-    query = "+OR+".join(["ti:{}".format(t) for t in title])
-    arxiv_api_results = arxiv.Search(query=query).results()
+    arxiv_api_results = arxiv.Search(id_list=id_list).results()
     for arxiv_result in arxiv_api_results:
-        result[arxiv_result.title] = arxiv_result
+        result[arxiv_result.entry_id.split('/')[-1]] = arxiv_result
 
     time.sleep(1)  # Waiting to make sure we are abiding by the arxiv API rules
 
@@ -89,12 +88,13 @@ def _parse_files(files: List[Union[str, Path]],
                  semaphore: Semaphore = None) -> (List[Union[str, Path]], List[pd.DataFrame]):
     results = []
     pdfs = [XPdf(file) for file in files]
+    arxiv_ids = [os.path.basename(file).split('.pdf')[0] for file in files]
 
     # We are getting arxiv infor for the whole batch at the same time to save up on the number of queries
-    arxiv_info = get_article_info([pdf.info['Title'] for pdf in pdfs], semaphore)
+    arxiv_info = get_article_info(arxiv_ids, semaphore)
 
-    for pdf in pdfs:
-        article_info = arxiv_info.get(pdf.info['Title'], None)
+    for pdf, arx_id in zip(pdfs, arxiv_ids):
+        article_info = arxiv_info.get(arx_id, None)
         # None here means article wasn't found and we skip
         if article_info is not None:
             result = _parse_pdf(pdf, article_info)
@@ -132,18 +132,17 @@ def make_pdfs_into_fr_database(files: Union[Path, str],
                                checkpoint: int = 10,
                                parallel_workers: int = 2,
                                chunksize: int = 10):
-    arxiv_semaphore = Semaphore(4)  # Make 4 requests max each second
 
     # Load progress done so far
     df, processed_files, processed_set_path = _load_progress(output_file)
 
     files = _get_files_list(files, files_to_ignore=processed_files)
-    total_iterations = len(files) / chunksize
+    total_iterations = round(len(files) / chunksize)
 
-    with tqdm(total=total_iterations) as pbar, Pool(processes=parallel_workers) as pool:
+    with tqdm(total=total_iterations) as pbar, Pool(processes=parallel_workers) as pool, Manager() as manager:
+        arxiv_semaphore = manager.Semaphore(4)
         for parsed_files, parsed_result in pool.starmap(_parse_files,
-                                                        zip(files, repeat([arxiv_semaphore])),
-                                                        chunksize=chunksize):
+                                                        zip(list(chunks(files, chunksize)), repeat(arxiv_semaphore))):
 
             # Update database and processed files set with results
             df = pd.concat([df] + parsed_result, ignore_index=True)
@@ -158,4 +157,8 @@ def make_pdfs_into_fr_database(files: Union[Path, str],
 
 
 if __name__ == '__main__':
-    pass
+    make_pdfs_into_fr_database(
+        files="/mnt/i/arxiv",
+        output_file="results/mass_parsing.csv",
+        parallel_workers=8
+    )
