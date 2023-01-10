@@ -11,3 +11,4 @@ nltk==3.8.1
 pdfminer.six==20221105
 requests==2.28.1
 pdfminer==20191125
+pdftextract==0.0.5

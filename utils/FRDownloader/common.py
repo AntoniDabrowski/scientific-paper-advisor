@@ -1,5 +1,9 @@
+from typing import List
+
 import nltk
 import pandas as pd
+
+FURTHER_RESEARCH_PHRASES = ['further research', 'further study']
 
 category_map = {'astro-ph': 'Astrophysics',
                 'astro-ph.CO': 'Cosmology and Nongalactic Astrophysics',
@@ -160,6 +164,17 @@ category_map = {'astro-ph': 'Astrophysics',
 def verify_primary_topic(topic):
     if topic not in category_map.keys():
         raise ValueError('This is not a correct category of arxiv category taxonomy')
+
+
+def contain_phrase(sentence: str, interesting_phrases: List[str] = None) -> bool:
+    """
+    :param sentence: String in which the function will be looking for phrases.
+    :param interesting_phrases: List of phrases to be checked for.
+    :return: True if any string from interesting_phrases is in the sentence
+    """
+    if interesting_phrases is None:
+        interesting_phrases = FURTHER_RESEARCH_PHRASES
+    return any([True for phrase in interesting_phrases if phrase in sentence])
 
 
 def prepare_nltk():
