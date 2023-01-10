@@ -3,6 +3,7 @@ from doc2vec import doc2vec
 from clustering import k_centroids
 from dimensionality_reduction import dimensionality_reduction
 
+
 def pipeline(path):
     df, docs = load_data(path)
     article_ids, embeddings = doc2vec(docs)

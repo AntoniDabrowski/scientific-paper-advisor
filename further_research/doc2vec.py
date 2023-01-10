@@ -1,5 +1,7 @@
 from sentence_transformers import SentenceTransformer
+
 SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
+
 
 def doc2vec(docs):
     article_ids = list(docs.keys())

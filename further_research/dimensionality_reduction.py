@@ -34,7 +34,6 @@ def dimensionality_reduction(vectors, labels, docs):
         'hover': hovers
     })
 
-
     fig = px.scatter_3d(df,
                         x='x',
                         y='y',
