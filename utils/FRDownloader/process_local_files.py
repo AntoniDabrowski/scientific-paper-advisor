@@ -1,7 +1,6 @@
 import os.path
 import pickle
 import time
-from itertools import repeat
 from multiprocessing import Pool, Semaphore, Manager
 from pathlib import Path
 from typing import Union, Set, List, Dict
@@ -127,33 +126,44 @@ def _load_progress(result_path):
     return df, processed_files, processed_set_path
 
 
+def _create_batch_for_workers(num_workers, chunks_generator, semaphore):
+    return [(next(chunks_generator), semaphore) for _ in range(num_workers)]
+
+
 def make_pdfs_into_fr_database(files: Union[Path, str],
                                output_file: Union[Path, str],
                                checkpoint: int = 10,
-                               parallel_workers: int = 2,
+                               parallel_workers: int = 8,
                                chunksize: int = 10):
-
     # Load progress done so far
     df, processed_files, processed_set_path = _load_progress(output_file)
 
     files = _get_files_list(files, files_to_ignore=processed_files)
     total_iterations = round(len(files) / chunksize)
+    chunks_generator = chunks(files, chunksize)
+    more_to_come = True
 
     with tqdm(total=total_iterations) as pbar, Pool(processes=parallel_workers) as pool, Manager() as manager:
         arxiv_semaphore = manager.Semaphore(4)
-        for parsed_files, parsed_result in pool.starmap(_parse_files,
-                                                        zip(list(chunks(files, chunksize)), repeat(arxiv_semaphore))):
+        while more_to_come:
+            try:
+                articles_batch = _create_batch_for_workers(num_workers=parallel_workers,
+                                                           chunks_generator=chunks_generator,
+                                                           semaphore=arxiv_semaphore)
 
-            # Update database and processed files set with results
-            df = pd.concat([df] + parsed_result, ignore_index=True)
-            processed_files.update(parsed_files)
+                for parsed_files, parsed_result in pool.starmap(_parse_files, articles_batch):
+                    # Update database and processed files set with results
+                    df = pd.concat([df] + parsed_result, ignore_index=True)
+                    processed_files.update(parsed_files)
 
-            pbar.update()
-            if pbar.n % checkpoint == 0:
-                _save_progress(output_file_path=output_file,
-                               processed_files_path=processed_set_path,
-                               curr_dataset=df,
-                               processed_files=processed_files)
+                    pbar.update()
+                    if pbar.n % checkpoint == 0:
+                        _save_progress(output_file_path=output_file,
+                                       processed_files_path=processed_set_path,
+                                       curr_dataset=df,
+                                       processed_files=processed_files)
+            except StopIteration:
+                more_to_come = False
 
 
 if __name__ == '__main__':
