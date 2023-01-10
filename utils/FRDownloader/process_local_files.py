@@ -55,7 +55,7 @@ def get_article_info(title: Union[str, List[str]],
     for arxiv_result in arxiv_api_results:
         result[arxiv_result.title] = arxiv_result
 
-    time.sleep(4)  # Waiting to make sure we are abiding by the arxiv API rules
+    time.sleep(1)  # Waiting to make sure we are abiding by the arxiv API rules
 
     if semaphore is not None:
         semaphore.release()
@@ -111,33 +111,44 @@ def _save_progress(output_file_path, processed_files_path, curr_dataset: pd.Data
         pickle.dump(processed_files, processed_files_pickle)
 
 
+def _load_progress(result_path):
+    processed_set_path = "{}.processed.pickle".format(result_path)
+    processed_files = set()
+
+    if not os.path.exists(result_path):
+        return default_fr_dataframe(), processed_files, processed_set_path
+
+    df = pd.read_csv(result_path)
+
+    if os.path.exists(processed_set_path):
+        with open(processed_set_path, 'rb') as processed_files_pickle:
+            processed_files = pickle.load(processed_files_pickle)
+
+    return df, processed_files, processed_set_path
+
+
 def make_pdfs_into_fr_database(files: Union[Path, str],
                                output_file: Union[Path, str],
                                checkpoint: int = 10,
-                               save_on_exit: bool = False,  # TODO add save on ctrl+c
                                parallel_workers: int = 2,
                                chunksize: int = 10):
-    arxiv_semaphore = Semaphore(4)
+    arxiv_semaphore = Semaphore(4)  # Make 4 requests max each second
 
-    # Load current progress
-    # TODO load curr progress here
-    processed_set_path = "{}.processed.pickle".format(output_file)
-    if os.path.exists(processed_set_path):
-        with open(processed_set_path, 'rb') as processed_set_file:
-            processed_files = pickle.load(processed_set_file)
-    else:
-        processed_files = set()
+    # Load progress done so far
+    df, processed_files, processed_set_path = _load_progress(output_file)
 
-    files = _get_files_list(files, processed_files)
-    df = default_fr_dataframe()
+    files = _get_files_list(files, files_to_ignore=processed_files)
     total_iterations = len(files) / chunksize
 
     with tqdm(total=total_iterations) as pbar, Pool(processes=parallel_workers) as pool:
         for parsed_files, parsed_result in pool.starmap(_parse_files,
                                                         zip(files, repeat([arxiv_semaphore])),
                                                         chunksize=chunksize):
+
+            # Update database and processed files set with results
             df = pd.concat([df] + parsed_result, ignore_index=True)
             processed_files.update(parsed_files)
+
             pbar.update()
             if pbar.n % checkpoint == 0:
                 _save_progress(output_file_path=output_file,
