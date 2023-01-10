@@ -1,5 +1,7 @@
+import logging
 import os.path
 import pickle
+import sys
 import time
 from multiprocessing import Pool, Semaphore, Manager
 from pathlib import Path
@@ -14,6 +16,9 @@ from tqdm import tqdm
 from utils.FRDownloader.common import default_fr_dataframe, prepare_nltk, contain_phrase, safe_list_get, chunks
 
 prepare_nltk()
+
+log = logging.getLogger(__name__)
+log.setLevel(logging.DEBUG)
 
 
 def _get_files_list(files: Union[Path, str],
@@ -63,22 +68,27 @@ def get_article_info(id_list: Union[str, List[str]],
 
 def _parse_pdf(pdf: XPdf, article_info: arxiv.Result) -> Union[pd.DataFrame, None]:
     df = default_fr_dataframe()
-    extracted_text = sent_tokenize(pdf.to_text())
+    try:
+        extracted_text = pdf.to_text()
+        extracted_text = sent_tokenize(extracted_text)
 
-    for i, sentence in enumerate(extracted_text):
-        if contain_phrase(sentence):
-            sentence_prefix = safe_list_get(extracted_text, i - 1, None)
-            sentence_suffix = safe_list_get(extracted_text, i + 1, None)
+        for i, sentence in enumerate(extracted_text):
+            if contain_phrase(sentence):
+                sentence_prefix = safe_list_get(extracted_text, i - 1, None)
+                sentence_suffix = safe_list_get(extracted_text, i + 1, None)
 
-            df.loc[len(df)] = [sentence,
-                               sentence_prefix,
-                               sentence_suffix,
-                               article_info.published,
-                               article_info.title,
-                               article_info.primary_category,
-                               article_info.categories,
-                               article_info.authors,
-                               article_info.summary]
+                df.loc[len(df)] = [sentence,
+                                   sentence_prefix,
+                                   sentence_suffix,
+                                   article_info.published,
+                                   article_info.title,
+                                   article_info.primary_category,
+                                   article_info.categories,
+                                   article_info.authors,
+                                   article_info.summary]
+    except Exception as e:
+        log.debug("\nArticle {}, title {} can't be decoded".format(pdf.pdf_file, article_info.title))
+        log.debug(str(e))
 
     return df if len(df) > 0 else None
 
@@ -153,7 +163,8 @@ def make_pdfs_into_fr_database(files: Union[Path, str],
 
                 for parsed_files, parsed_result in pool.starmap(_parse_files, articles_batch):
                     # Update database and processed files set with results
-                    df = pd.concat([df] + parsed_result, ignore_index=True)
+                    if parsed_result:
+                        df = pd.concat([df] + parsed_result, ignore_index=True)
                     processed_files.update(parsed_files)
 
                     pbar.update()
@@ -166,6 +177,10 @@ def make_pdfs_into_fr_database(files: Union[Path, str],
                 more_to_come = False
 
 
+handler = logging.StreamHandler(sys.stderr)
+handler.setLevel(logging.DEBUG)
+log.addHandler(handler)
+# TODO add argparsing
 if __name__ == '__main__':
     make_pdfs_into_fr_database(
         files="/mnt/i/arxiv",
