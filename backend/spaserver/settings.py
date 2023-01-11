@@ -75,8 +75,12 @@ WSGI_APPLICATION = 'spaserver.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'spadvisor',
+        'USER': 'spa_user',
+        'PASSWORD': 'gjLpuhet999MQY7Z',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
