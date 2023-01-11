@@ -12,3 +12,4 @@ pdfminer.six==20221105
 requests==2.28.1
 pdfminer==20191125
 pdftextract==0.0.5
+psycopg2-binary==2.9.5
