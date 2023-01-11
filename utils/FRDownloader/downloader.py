@@ -50,8 +50,8 @@ def _get_further_research_sections(article: arxiv.Result):
     fr_idxs = [x for x, t in enumerate(article_text) if 'further research' in t.lower()]
     for i in fr_idxs:
         results.append((
-            safe_list_get(article_text, i - 1, None),
             safe_list_get(article_text, i, None),
+            safe_list_get(article_text, i - 1, None),
             safe_list_get(article_text, i + 1, None)
         ))
 
