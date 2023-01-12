@@ -23,3 +23,19 @@ export function extract_article_data(scholar_result) {
 
     return new ArticleData(title, author);
 }
+
+// https://medium.com/meta-box/how-to-send-get-and-post-requests-with-javascript-fetch-api-d0685b7ee6ed
+const request = (url, params = {}, method = 'GET') => {
+    let options = {
+        method
+    };
+    if ('GET' === method) {
+        url += '?' + (new URLSearchParams(params)).toString();
+    } else {
+        options.body = JSON.stringify(params);
+    }
+    console.log(url)
+    return fetch(url, options).then(response => response.json());
+};
+export const get = (url, params) => request(url, params, 'GET');
+export const post = (url, params) => request(url, params, 'POST');
