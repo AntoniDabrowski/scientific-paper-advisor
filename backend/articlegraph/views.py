@@ -2,7 +2,7 @@ import unicodedata
 from typing import List, Union
 
 import networkx as nx
-from django.http import HttpResponse, HttpRequest
+from django.http import HttpRequest, JsonResponse
 from scholarly import scholarly, Publication
 
 
@@ -25,25 +25,28 @@ class ArticleGraph(nx.Graph):
 
     def create_left_side_of_graph(self):
         core_article_cites = get_citations(self.core_article)
-        core_article_cites = [next(core_article_cites) for _ in
-                              range(min(core_article_cites.total_results), self.max_articles_per_column)]
-        core_article_cites = sorted(core_article_cites,
-                                    key=lambda x: x['num_citations'])
-        print(core_article_cites)
-        start_idx = self.number_of_nodes()
-        for i, article in enumerate(core_article_cites):
-            self.add_article_node(start_idx + 1, article, 0)
+        if core_article_cites.total_results is not None:
+            core_article_cites = [next(core_article_cites) for _ in
+                                  range(min([core_article_cites.total_results, self.max_articles_per_column]))]
+            core_article_cites = sorted(core_article_cites,
+                                        key=lambda x: x.get('num_citations', 0))
+            start_idx = self.number_of_nodes()
+            for i, article in enumerate(core_article_cites):
+                self.add_article_node(start_idx + i, article, 0)
 
-        # TODO add next level
+            # TODO add next level
 
     def create_right_side_of_graph(self):
         core_article_cited_by = get_articles_from_url(self.core_article['citedby_url'])
-        core_article_cited_by = sorted(core_article_cited_by,
-                                       key=lambda x: x['num_citations'])[:self.max_articles_per_column]
+        if core_article_cited_by.total_results is not None:
+            core_article_cited_by = [next(core_article_cited_by) for _ in
+                                     range(min([core_article_cited_by.total_results, self.max_articles_per_column]))]
+            core_article_cited_by = sorted(core_article_cited_by,
+                                           key=lambda x: x.get('num_citations', 0))
 
-        start_idx = self.number_of_nodes()
-        for i, article in enumerate(core_article_cited_by):
-            self.add_article_node(start_idx + 1, article, 0)
+            start_idx = self.number_of_nodes()
+            for i, article in enumerate(core_article_cited_by):
+                self.add_article_node(start_idx + i, article, 0)
 
     def add_article_node(self, idx, article: Publication, article_from=None):
         self.add_node(idx,
@@ -84,5 +87,6 @@ def index(request: HttpRequest):
 
     article = find_article(title, authors)
     graph_schema = ArticleGraph(article)
+    json_graph = nx.node_link_data(graph_schema)
 
-    return HttpResponse("Hello, world. You're at the articlegraph index.")
+    return JsonResponse(json_graph)
