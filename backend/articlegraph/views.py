@@ -3,7 +3,12 @@ from typing import List, Union
 
 import networkx as nx
 from django.http import HttpRequest, JsonResponse
-from scholarly import scholarly, Publication
+from scholarly import scholarly, Publication, ProxyGenerator
+
+pg = ProxyGenerator()
+success = pg.ScraperAPI("6312b33d8af2fa7e8e30579203d3ab63")
+print("Success:{}".format(success))
+scholarly.use_proxy(pg)
 
 
 def get_articles_from_url(query):

@@ -1,6 +1,11 @@
 var Plotly = require('plotly.js-strict-dist')
 
-export function create_graph_on_scholar_result(divid, x, y) {
+export function create_graph_on_scholar_result(divid, json) {
+    Plotly.newPlot(divid,
+};
+
+/*
+export function create_graph_on_scholar_result(divid, json) {
     Plotly.newPlot(divid, [{
             x: x,
             y: y,
@@ -43,6 +48,8 @@ export function create_graph_on_scholar_result(divid, x, y) {
             }]
         });
 }
+*/
+
 
 export function purge_graph(divid) {
     Plotly.purge(divid)
