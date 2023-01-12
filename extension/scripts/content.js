@@ -1,4 +1,6 @@
 const {create_graph_on_scholar_result, purge_graph} = require("./graphs");
+const {extract_article_data} = require("./utils");
+const {get_graph_layout} = require("./backend_communication");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
 
@@ -22,7 +24,9 @@ if (pdf_results) {
                 purge_graph(divid)
             } else {
                 drawing_board.style.display = "block";
-                create_graph_on_scholar_result(divid, [1, 2, 3, 4, 5], [2, 1, 2, 2, 3]);
+                let article_data = extract_article_data(pdf_results[i].parentNode)
+                let graph_schema = get_graph_layout(article_data)
+                create_graph_on_scholar_result(divid, graph_schema);
             }
         });
 
