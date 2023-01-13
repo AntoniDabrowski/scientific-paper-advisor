@@ -32,7 +32,7 @@ function prepare_article_markers(layout, nodes) {
         y.push(layout[key][1])
     }
     for (let i = 0; i < nodes.length; i++) {
-        point_size.push(Math.log(nodes[i]['num_publications']))
+        point_size.push(nodes[i]['num_publications'])
     }
 
     const text = create_text_for_graph(nodes)
