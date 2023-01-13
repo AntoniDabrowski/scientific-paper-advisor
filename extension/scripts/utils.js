@@ -7,7 +7,14 @@ class ArticleData {
 
 function get_title(scholar_result) {
     const title_box = scholar_result.getElementsByClassName("gs_rt")
-    return title_box[0].firstChild.innerText;
+    var title = title_box[0].innerText
+    if (title.startsWith('[')) {
+        title = title.split('] ')
+        title.shift()
+        console.log(title)
+        title = title.join('')
+    }
+    return title;
 }
 
 function get_author(scholar_result) {
