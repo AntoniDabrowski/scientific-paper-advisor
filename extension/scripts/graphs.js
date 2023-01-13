@@ -12,27 +12,32 @@ function create_text_for_graph(nodes) {
     return result;
 }
 
-export function create_graph_on_scholar_result(divid, json) {
-    console.debug(json)
+function create_edges_between_articles(links, layout) {
+    let results = []
+    for (let i = 0; i < links.length; i++) {
+        results.push({
+            x: [layout[links[i]['source']][0], layout[links[i]['target']][0]],
+            y: [layout[links[i]['source']][1], layout[links[i]['target']][1]]
+        })
+    }
+    return results;
+}
+
+function prepare_article_markers(layout, nodes) {
     let x = [];
     let y = [];
     let point_size = [];
-    for (let key in json.layout) {
-        x.push(json.layout[key][0])
-        y.push(json.layout[key][1])
+    for (let key in layout) {
+        x.push(layout[key][0])
+        y.push(layout[key][1])
     }
-    for (let i = 0; i < json.nodes.length; i++) {
-        point_size.push(json.nodes[i]['num_publications'])
+    for (let i = 0; i < nodes.length; i++) {
+        point_size.push(nodes[i]['num_publications'])
     }
 
-    const text = create_text_for_graph(json.nodes)
+    const text = create_text_for_graph(nodes)
 
-    console.debug(x)
-    console.debug(y)
-    console.debug(point_size)
-
-
-    Plotly.newPlot(divid, [{
+    return {
         x: x,
         y: y,
         text: text,
@@ -41,54 +46,30 @@ export function create_graph_on_scholar_result(divid, json) {
             size: point_size,
             sizemode: 'area'
         }
-    }])
+    };
 }
 
-/*
 export function create_graph_on_scholar_result(divid, json) {
-    Plotly.newPlot(divid, [{
-            x: x,
-            y: y,
-            text: ['A<br>size: 40', 'B<br>size: 60', 'C<br>size: 80', 'D<br>size: 100', 'E<br>size: 80'],
-            mode: 'markers',
-            marker: {
-                size: [400, 600, 800, 1000, 800],
-                sizemode: 'area'
-            }
+    console.debug(json)
+
+    const articles_markers = prepare_article_markers(json.layout, json.nodes)
+    const citation_edges = create_edges_between_articles(json.links, json.layout)
+    const layout = {
+        showlegend: false,
+        xaxis: {
+            visible: false
         },
-            {
-                x: x,
-                y: y,
-            }
-        ],
-        {
-            sliders: [{
-                pad: {t: 30},
-                currentvalue: {
-                    xanchor: 'right',
-                    prefix: 'color: ',
-                    font: {
-                        color: '#888',
-                        size: 20
-                    }
-                },
-                steps: [{
-                    label: 'red',
-                    method: 'restyle',
-                    args: ['line.color', 'red']
-                }, {
-                    label: 'green',
-                    method: 'restyle',
-                    args: ['line.color', 'green']
-                }, {
-                    label: 'blue',
-                    method: 'restyle',
-                    args: ['line.color', 'blue']
-                }]
-            }]
-        });
+        yaxis: {
+            visible: false
+        },
+        aaxis: {
+            showgrid: true
+        }
+    }
+
+    const graph_data = [articles_markers].concat(citation_edges)
+    Plotly.newPlot(divid, graph_data, layout)
 }
-*/
 
 
 export function purge_graph(divid) {
