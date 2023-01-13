@@ -1,8 +1,36 @@
 var Plotly = require('plotly.js-strict-dist')
 
 export function create_graph_on_scholar_result(divid, json) {
-    Plotly.newPlot(divid,
-};
+    console.log("Inside of graph")
+    const figure = JSON.parse(json);
+    console.debug(figure)
+    let x = [];
+    let y = [];
+    let point_size = [];
+    for (let key in figure.layout){
+        x.push(figure.layout[key][0])
+        y.push(figure.layout[key][1])
+    }
+    for (let i = 0; i < figure.nodes.length; i++){
+        point_size.push(figure.nodes[i]['num_publications'])
+    }
+
+    console.debug(x)
+    console.debug(y)
+    console.debug(point_size)
+
+
+    Plotly.newPlot(divid,[{
+        x:x,
+        y:y,
+        text: [`A<br>size: 40`, 'B<br>size: 60', 'C<br>size: 80', 'D<br>size: 100', 'E<br>size: 80', 'E<br>size: 80'],
+        mode: 'markers',
+        marker: {
+            size: point_size,
+            sizemode:'area'
+        }
+    }])
+}
 
 /*
 export function create_graph_on_scholar_result(divid, json) {

@@ -26,7 +26,15 @@ if (pdf_results) {
                 drawing_board.style.display = "block";
                 let article_data = extract_article_data(pdf_results[i].parentNode)
                 let graph_schema = get_graph_layout(article_data)
-                create_graph_on_scholar_result(divid, graph_schema);
+                console.log('Just before graph schema')
+                graph_schema.then(returned_json => {
+                    console.log('Inside then')
+                    create_graph_on_scholar_result(divid, returned_json.body);
+                }).catch(error => {
+                    console.error("inside catch")
+                    const json_str = '{"directed": false, "multigraph": false, "graph": {}, "nodes": [{"title": "Genetic algorithm: Review and application", "authors": ["D Gupta", "D Husain", "M Kumar", "N Upreti"], "num_publications": 471, "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3529843", "subset": 0, "id": 0}, {"title": "Evaluation on state of charge estimation of batteries with adaptive extended Kalman filter by experiment approach", "authors": ["R Xiong", "H He", "F Sun", "K Zhao"], "num_publications": 399, "url": "https://ieeexplore.ieee.org/abstract/document/6323045/", "subset": 1, "id": 1}, {"title": "Application of artificial neural networks for catalysis: a review", "authors": ["H Li", "Z Zhang", "Z Liu"], "num_publications": 203, "url": "https://www.mdpi.com/230962", "subset": 1, "id": 2}, {"title": "Learning path personalization and recommendation methods: A survey of the state-of-the-art", "authors": ["AH Nabizadeh", "JP Leal", "HN Rafsanjani"], "num_publications": 73, "url": "https://www.sciencedirect.com/science/article/pii/S0957417420304206", "subset": 1, "id": 3}, {"title": "Prediction of maximum pitting corrosion depth in oil and gas pipelines", "authors": ["MEAB Seghier", "B Keshtegar", "KF Tee", "T Zayed"], "num_publications": 71, "url": "https://www.sciencedirect.com/science/article/pii/S1350630719318746", "subset": 1, "id": 4}, {"title": "Modeling, diagnostics, optimization, and control of internal combustion engines via modern machine learning techniques: A review and future directions", "authors": ["M Aliramezani", "CR Koch", "M Shahbakhti"], "num_publications": 30, "url": "https://www.sciencedirect.com/science/article/pii/S0360128521000654", "subset": 1, "id": 5}], "links": [{"source": 0, "target": 1}, {"source": 0, "target": 2}, {"source": 0, "target": 3}, {"source": 0, "target": 4}, {"source": 0, "target": 5}], "layout": {"0": [-0.41666666666666663, 0.0], "5": [0.08333333333333334, -1.0], "4": [0.08333333333333334, -0.5], "3": [0.08333333333333334, 0.0], "2": [0.08333333333333334, 0.5], "1": [0.08333333333333334, 1.0]}}'
+                    create_graph_on_scholar_result(divid, json_str);
+                })
             }
         });
 
