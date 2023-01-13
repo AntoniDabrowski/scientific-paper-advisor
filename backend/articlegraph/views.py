@@ -11,46 +11,23 @@ print("Success:{}".format(success))
 scholarly.use_proxy(pg)
 
 
-def get_articles_from_url(query):
-    return scholarly.search_pubs(query=query)
-
-
-def get_citations(core_article: Publication):
-    return scholarly.citedby(scholarly.fill(core_article))
-
-
 class ArticleGraph(nx.Graph):
     def __init__(self, core_article: Publication, max_articles_per_column: int = 5, **attr):
         super().__init__(**attr)
         self.core_article = core_article
         self.max_articles_per_column = max_articles_per_column
         self.add_article_node(0, self.core_article)
-        self.create_left_side_of_graph()
         self.create_right_side_of_graph()
 
-    def create_left_side_of_graph(self):
-        core_article_cites = get_citations(self.core_article)
+    def create_right_side_of_graph(self):
+        core_article_cites = scholarly.citedby(scholarly.fill(self.core_article))
         if core_article_cites.total_results is not None:
             core_article_cites = [next(core_article_cites) for _ in
                                   range(min([core_article_cites.total_results, self.max_articles_per_column]))]
             core_article_cites = sorted(core_article_cites,
-                                        key=lambda x: x.get('num_citations', 0))
+                                        key=lambda x: x.get('num_citations', 0), reverse=True)
             start_idx = self.number_of_nodes()
             for i, article in enumerate(core_article_cites):
-                self.add_article_node(start_idx + i, article, 0)
-
-            # TODO add next level
-
-    def create_right_side_of_graph(self):
-        core_article_cited_by = get_articles_from_url(self.core_article['citedby_url'])
-        if core_article_cited_by.total_results is not None:
-            core_article_cited_by = [next(core_article_cited_by) for _ in
-                                     range(min([core_article_cited_by.total_results, self.max_articles_per_column]))]
-            core_article_cited_by = sorted(core_article_cited_by,
-                                           key=lambda x: x.get('num_citations', 0))
-
-            start_idx = self.number_of_nodes()
-            for i, article in enumerate(core_article_cited_by):
                 self.add_article_node(start_idx + i, article, 0)
 
     def add_article_node(self, idx, article: Publication, article_from=None):
