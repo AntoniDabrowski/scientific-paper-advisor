@@ -5,9 +5,11 @@ import networkx as nx
 from django.http import HttpRequest, JsonResponse
 from scholarly import scholarly, Publication, ProxyGenerator
 
+from .models import JsonOfArticleGraphs, ScholarlyPublication
+
 pg = ProxyGenerator()
 success = pg.ScraperAPI("6312b33d8af2fa7e8e30579203d3ab63")
-print("Success:{}".format(success))
+print("Proxy setup success:{}".format(success))
 scholarly.use_proxy(pg)
 
 
@@ -28,14 +30,15 @@ class ArticleGraph(nx.Graph):
                                         key=lambda x: x.get('num_citations', 0), reverse=True)
             start_idx = self.number_of_nodes()
             for i, article in enumerate(core_article_cites):
-                self.add_article_node(start_idx + i, article, 0)
+                self.add_article_node(start_idx + i, article, 0, subset=1)
 
-    def add_article_node(self, idx, article: Publication, article_from=None):
+    def add_article_node(self, idx, article: Publication, article_from=None, subset=0):
         self.add_node(idx,
                       title=article['bib']['title'],
                       authors=article['bib']['author'],
                       num_publications=article['num_citations'],
-                      url=article['pub_url'])
+                      url=article['pub_url'],
+                      subset=subset)
         if article_from is not None:
             self.add_edge(idx, article_from)
 
@@ -48,18 +51,41 @@ def articles_match(publication_dict, authors, title):
 
 
 def find_article(title: str, authors: List[str]) -> Union[Publication, None]:
-    # query need to reflect what we put into the Google Scholar search bar.
-    query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
-    publication_generator = scholarly.search_pubs(query=query)
+    # Check the database for stored data
+    authors_mash = "".join(authors)
+    if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
+        # Publication found. Get from the database
+        print("Record for publication {} retrieved from the database.".format(title))
+        return ScholarlyPublication.objects.get(title=title, authors=authors_mash).publication
+    else:
+        # query need to reflect what we put into the Google Scholar search bar.
+        query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
+        publication_generator = scholarly.search_pubs(query=query)
 
-    authors.sort()  # We sort here not to repeat on each articles_match
-    for publication in publication_generator:
-        if articles_match(publication.get('bib'), authors, title):
+        authors.sort()  # We sort here not to repeat on each articles_match
+        for publication in publication_generator:
             # Use api to find an article with matching title and authors list.
-            return publication
+            if articles_match(publication.get('bib'), authors, title):
+                # Save article to db for reuse.
+                ScholarlyPublication.objects.create(title=title, authors=authors_mash, publication=publication)
+                return publication
 
     # Matching article wasn't found.
     return None
+
+
+def get_graph_as_json(article: Publication):
+    title = article['bib'].get('title')
+    if JsonOfArticleGraphs.objects.filter(title=title).exists():
+        print('Json for {} found in the database'.format(title))
+        json_graph = JsonOfArticleGraphs.objects.get(title=title).json
+    else:
+        graph_schema = ArticleGraph(article)
+        json_graph = nx.node_link_data(graph_schema)
+        json_graph['layout'] = {k: tuple(v) for k, v in nx.multipartite_layout(graph_schema).items()}
+        JsonOfArticleGraphs.objects.create(title=title, json=json_graph)
+
+    return json_graph
 
 
 def index(request: HttpRequest):
@@ -68,7 +94,6 @@ def index(request: HttpRequest):
     title = request.GET.get('title')
 
     article = find_article(title, authors)
-    graph_schema = ArticleGraph(article)
-    json_graph = nx.node_link_data(graph_schema)
+    graph_json_schema = get_graph_as_json(article)
 
-    return JsonResponse(json_graph)
+    return JsonResponse(graph_json_schema)
