@@ -1,18 +1,16 @@
 var Plotly = require('plotly.js-strict-dist')
 
 export function create_graph_on_scholar_result(divid, json) {
-    console.log("Inside of graph")
-    const figure = JSON.parse(json);
-    console.debug(figure)
+    console.debug(json)
     let x = [];
     let y = [];
     let point_size = [];
-    for (let key in figure.layout){
-        x.push(figure.layout[key][0])
-        y.push(figure.layout[key][1])
+    for (let key in json.layout){
+        x.push(json.layout[key][0])
+        y.push(json.layout[key][1])
     }
-    for (let i = 0; i < figure.nodes.length; i++){
-        point_size.push(figure.nodes[i]['num_publications'])
+    for (let i = 0; i < json.nodes.length; i++){
+        point_size.push(json.nodes[i]['num_publications'])
     }
 
     console.debug(x)

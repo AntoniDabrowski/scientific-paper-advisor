@@ -7,7 +7,5 @@ export async function get_graph_layout(article_data) {
         title: article_data.title
     };
 
-    const response = get(ARTICLE_GRAPH_ENDPOINT, params)
-
-    return JSON.parse(await response);
+    return get(ARTICLE_GRAPH_ENDPOINT, params);
 }
