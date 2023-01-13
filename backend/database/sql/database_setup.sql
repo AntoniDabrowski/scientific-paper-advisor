@@ -1,0 +1,2 @@
+CREATE DATABASE spadvisor;
+CREATE USER spa_user WITH PASSWORD 'gjLpuhet999MQY7Z';
