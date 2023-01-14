@@ -52,7 +52,7 @@ def dimensionality_reduction(vectors, labels, docs, alg='t-SNE'):
         tsne = TSNE(n_components=3, learning_rate='auto', init='random', perplexity=3)
         reduced_vectors = tsne.fit_transform(vectors)
     else:
-        raise ValueError
+        raise ValueError(f"Dimensionality reduction can be only performed with algorithm PCA or t-SNE, not {alg}")
 
     reduced_vectors, labels, hovers = remove_outliers(reduced_vectors, labels, docs.values())
 
