@@ -1,6 +1,8 @@
 from sklearn.decomposition import PCA
 import plotly.express as px
 import pandas as pd
+import numpy as np
+from sklearn.manifold import TSNE
 
 
 def parse_hovers(docs):
@@ -20,11 +22,41 @@ def parse_hovers(docs):
     return hovers
 
 
-def dimensionality_reduction(vectors, labels, docs):
-    pca = PCA(n_components=3)
-    pca.fit(vectors)
-    reduced_vectors = pca.transform(vectors)
-    hovers = parse_hovers(docs.values())
+def remove_outliers(reduced_vectors, labels, hovers):
+    center = reduced_vectors.mean(axis=0)
+
+    MSE = [np.mean((center - vector) ** 2) for vector in reduced_vectors]
+
+    avg_MSE = np.mean(MSE)
+    std_MSE = np.std(MSE)
+
+    new_vectors = []
+    new_labels = []
+    new_hovers = []
+
+    for vector, label, hover, MSE_single in zip(reduced_vectors, labels, hovers, MSE):
+        if MSE_single < avg_MSE + 2 * std_MSE:
+            new_vectors.append(vector)
+            new_labels.append(label)
+            new_hovers.append(hover)
+
+    return np.array(new_vectors), new_labels, new_hovers
+
+
+def dimensionality_reduction(vectors, labels, docs, alg='t-SNE'):
+    if alg == 'PCA':
+        pca = PCA(n_components=3)
+        pca.fit(vectors)
+        reduced_vectors = pca.transform(vectors)
+    elif alg == 't-SNE':
+        tsne = TSNE(n_components=3, learning_rate='auto', init='random', perplexity=3)
+        reduced_vectors = tsne.fit_transform(vectors)
+    else:
+        raise ValueError
+
+    reduced_vectors, labels, hovers = remove_outliers(reduced_vectors, labels, docs.values())
+
+    hovers = parse_hovers(hovers)
 
     df = pd.DataFrame(data={
         'x': reduced_vectors[:, 0],
