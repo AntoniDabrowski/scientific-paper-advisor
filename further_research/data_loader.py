@@ -9,10 +9,9 @@ def load_data(path):
 
     for index, record in df.iterrows():
         records[index] = ""
-        # records[index] += record['further research line'] + ' ' if type(record['further research line']) == str else ""
-        records[index] += record['further research prefix'] + ' ' if type(
-            record['further research prefix']) == str else ""
-        # records[index] += record['further research suffix'] + ' ' if type(record['further research suffix']) == str else ""
+        records[index] += record['further research line'] + ' ' if type(record['further research line']) == str else ""
+        records[index] += record['further research prefix'] + ' ' if type(record['further research prefix']) == str else ""
+        records[index] += record['further research suffix'] + ' ' if type(record['further research suffix']) == str else ""
         if not records[index]:
             del records[index]
 

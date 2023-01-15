@@ -43,7 +43,7 @@ def remove_outliers(reduced_vectors, labels, hovers):
     return np.array(new_vectors), new_labels, new_hovers
 
 
-def dimensionality_reduction(vectors, labels, docs, alg='t-SNE'):
+def dimensionality_reduction(vectors, labels, docs, alg='t-SNE', cut_outliers=False):
     if alg == 'PCA':
         pca = PCA(n_components=3)
         pca.fit(vectors)
@@ -54,8 +54,9 @@ def dimensionality_reduction(vectors, labels, docs, alg='t-SNE'):
     else:
         raise ValueError(f"Dimensionality reduction can be only performed with algorithm PCA or t-SNE, not {alg}")
 
-    reduced_vectors, labels, hovers = remove_outliers(reduced_vectors, labels, docs.values())
-
+    hovers = docs.values()
+    if cut_outliers:
+        reduced_vectors, labels, hovers = remove_outliers(reduced_vectors, labels, hovers)
     hovers = parse_hovers(hovers)
 
     df = pd.DataFrame(data={
