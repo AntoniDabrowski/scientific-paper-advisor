@@ -25,12 +25,11 @@ SECRET_KEY = 'django-insecure-!u*s0*5q=!336v5v808ndye_iz7wzj+-@30xc%%!#!s^)0f3fq
 DEBUG = True
 
 # TODO set this
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
 INSTALLED_APPS = [
-    "database",
     'articlegraph',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -80,8 +79,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'spadvisor',
         'USER': 'spa_user',
-        'PASSWORD': 'gjLpuhet999MQY7Z',
-        'HOST': 'localhost',
+        'PASSWORD': 'spapostgrespass',
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
