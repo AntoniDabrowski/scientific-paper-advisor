@@ -1,0 +1,569 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+117,"In this
+section, we discuss a number of directions of further study.","In light of the complete theory (for ﬁnitely supported functions)
+that is available in one dimension (established in [19]), there is much to be learned and many open
+questions remain concerning the convolution powers of complex-valued function on Zd for d > 1.","To preface this discussion, we ﬁrst outline
+another class of functions on Zd for which it is possible to prove local limit theorems.",2022-01-04 19:10:03+00:00,Local Limit Theorems for Complex Functions on $\mathbb{Z}^d$,math.CA,"['math.CA', 'Primary 42A85, Secondary 60F99 & 42B20']",[arxiv.Result.Author('Evan Randles')],"The local (central) limit theorem precisely describes the behavior of
+iterated convolution powers of a probability distribution on the
+$d$-dimensional integer lattice, $\mathbb{Z}^d$. Under certain mild assumptions
+on the distribution, the theorem says that the convolution powers are
+well-approximated by a single scaled Gaussian density which we call an
+attractor. When such distributions are allowed to take on complex values, their
+convolution powers exhibit new and disparate behaviors not seen in the
+probabilistic setting. Following works of I. J. Schoenberg, T. N. E. Greville,
+P. Diaconis, and L. Saloff-Coste, the author and L. Saloff-Coste provided a
+complete description of local limit theorems for the class of finitely
+supported complex-valued functions on $\mathbb{Z}$. For convolution powers of
+complex-valued functions on $\mathbb{Z}^d$, much less is known. In a previous
+work by the author and L. Saloff-Coste, local limit theorems were established
+for complex-valued functions whose Fourier transform is maximized in absolute
+value at so-called points of positive homogeneous type and, in that case, the
+resultant attractors are generalized heat kernels corresponding to a class of
+higher order partial differential operators. By considering the possibility
+that the Fourier transform can be maximized in absolute value at points of
+imaginary homogeneous type, this article extends previous work of the author
+and L. Saloff-Coste to broaden the class of complex-valued functions for which
+it is possible to obtain local limit theorems. These local limit theorems
+contain attractors given by certain oscillatory integrals and their convergence
+is established using a generalized polar-coordinate integration formula, due to
+H. Bui and the author, and the Van der Corput lemma. The article also extends
+recent results on sup-norm type estimates of H. Bui and the author."
+118,"Another direction of further research involves the condition µ < 1 appearing in Theorem 1.9, Theorem
+2.4, and Theorem 3.8.","The author suspects that the one-dimensional
+problem is tractable in light of the methods of [19] and [5]; however, a more robust analysis of the
+oscillatory integrals considered in this article would likely be needed to handle the case in which d > 1.","For a local limit theorem to be valid for φ where Ω(φ) contains a point of
+imaginary homogeneous type for φ, this condition is not necessary.",2022-01-04 19:10:03+00:00,Local Limit Theorems for Complex Functions on $\mathbb{Z}^d$,math.CA,"['math.CA', 'Primary 42A85, Secondary 60F99 & 42B20']",[arxiv.Result.Author('Evan Randles')],"The local (central) limit theorem precisely describes the behavior of
+iterated convolution powers of a probability distribution on the
+$d$-dimensional integer lattice, $\mathbb{Z}^d$. Under certain mild assumptions
+on the distribution, the theorem says that the convolution powers are
+well-approximated by a single scaled Gaussian density which we call an
+attractor. When such distributions are allowed to take on complex values, their
+convolution powers exhibit new and disparate behaviors not seen in the
+probabilistic setting. Following works of I. J. Schoenberg, T. N. E. Greville,
+P. Diaconis, and L. Saloff-Coste, the author and L. Saloff-Coste provided a
+complete description of local limit theorems for the class of finitely
+supported complex-valued functions on $\mathbb{Z}$. For convolution powers of
+complex-valued functions on $\mathbb{Z}^d$, much less is known. In a previous
+work by the author and L. Saloff-Coste, local limit theorems were established
+for complex-valued functions whose Fourier transform is maximized in absolute
+value at so-called points of positive homogeneous type and, in that case, the
+resultant attractors are generalized heat kernels corresponding to a class of
+higher order partial differential operators. By considering the possibility
+that the Fourier transform can be maximized in absolute value at points of
+imaginary homogeneous type, this article extends previous work of the author
+and L. Saloff-Coste to broaden the class of complex-valued functions for which
+it is possible to obtain local limit theorems. These local limit theorems
+contain attractors given by certain oscillatory integrals and their convergence
+is established using a generalized polar-coordinate integration formula, due to
+H. Bui and the author, and the Van der Corput lemma. The article also extends
+recent results on sup-norm type estimates of H. Bui and the author."
+378,"We now focus on the case when f (z) = g(z) and will further study the
+condition f (ax + b) = f (x).","z−a      z−b
+Moreover we will show that it is ω-categorical.","Recall that f (z) is such that zz′′′ = f (z) is
+strongly minimal.",2022-01-11 08:44:22+00:00,On the equations of Poizat and Liénard,math.CA,"['math.CA', 'math.AG', 'math.LO', '34M15, 12H05, 03C60']","[arxiv.Result.Author('James Freitag'), arxiv.Result.Author('Rémi Jaoui'), arxiv.Result.Author('David Marker'), arxiv.Result.Author('Joel Nagloo')]","We study the structure of the solution sets in universal differential fields
+of certain differential equations of order two, the Poizat equations, which are
+particular cases of Li\'enard equations. We give a necessary and sufficient
+condition for strong minimality for equations in this class and a complete
+classification of the algebraic relations for solutions of strongly minimal
+Poizat equations. We also give an analysis of the non strongly minimal cases as
+well as applications concerning the Liouvillian and Pfaffian solutions of some
+Li\'enard equations."
+564,"Although, this subject is not dealt in this
+manuscript and attracts further research.","This observation raises a question that what assumptions on µk’s and
+νk’s to be made such that the co-modiﬁed (or co-dilated) RI polynomials do show some
+interlacing with the unperturbed polynomials.",4.,2022-01-14 12:45:33+00:00,Rational spectral transformation of continued fractions associated to a perturbed $R_I$ type recurrence relations,math.CA,"['math.CA', '42C05']","[arxiv.Result.Author('Vinay Shukla'), arxiv.Result.Author('A. Swaminathan')]","n this work, orthogonal polynomials satisfying recurrence relation
+$\mc{P}_{n+1}(z) = (z-c_n)\mc{P}_n(z)-\lambda_n (z-a_n)\mc{P}_{n-1}(z),$ with
+$\mc{P}_{-1}(z) = 0$ and $\mc{P}_0(z) = 1$ are analyzed when modifications of
+the recurrence coefficient is considered. Specifically, representation of new
+perturbed polynomials in terms of old unperturbed ones, behaviour of zeros and
+spectral transformation of Stieltjes function are given. Further, Toda lattice
+equations corresponding to perturbed system of recurrence coefficients are
+obtained. Finally, when $\lambda_n$ is a positive chain sequence, co-dilation
+and its consequences are interpreted with the help of some illustrations."
+855,"Finally, Section 5 is reserved for some open questions we hope can
+be a source of inspiration for further research in this interesting area.","In order not to disturb our
+discussions later on some deﬁnitions and notations are given in Section
+4.",2.,2022-01-21 00:19:40+00:00,Some new results for subsequences of Nörlund logarithmic means of Walsh-Fourier series,math.CA,"['math.CA', 'math.AP', '42C10']","[arxiv.Result.Author('D. Baramidze'), arxiv.Result.Author('L. -E. Persson'), arxiv.Result.Author('H. Singh'), arxiv.Result.Author('G. Tephnadze')]","We prove that there exists a martingale $f\in H_p $ such that the subsequence
+$\{L_{2^n}f \}$ of N\""orlund logarithmic means with respect to the Walsh system
+are not bounded in the Lebesgue space $weak-L_p $ for $0<p<1 $. Moreover, we
+prove that for any $f\in L_p(G),$ $p\geq 1, $ $L_{2^n}f$ converge to $f$ at any
+Lebesgue point $x$. Some new related inequalities are derived."
+1832,"We
+
+also refer to [17] for a further study in the homogeneous situation, while dropping the condition
+
+of the convergence of the initial data.","After the seminal work [2], the second author gave answer to the problem of analyticity of such
+
+problems [16], via splitting of the characteristic equation with respect to one of its variables.","Further knowledge on the solutions to moment partial
+
+diﬀerential equations with constant coeﬃcients is given in [18] to study the growth properties and
+
+summability of the formal solutions.",2022-02-11 00:21:39+00:00,Multisummability of formal solutions for a family of generalized singularly perturbed moment differential equations,math.CA,"['math.CA', 'math.CV', '34K26, 34K41, 34E10, 34M30']","[arxiv.Result.Author('Alberto Lastra'), arxiv.Result.Author('Sławomir Michalik'), arxiv.Result.Author('Maria Suwińska')]","The notion of moment differentiation is extended to the set of generalized
+multisums of formal power series via an appropriate integral representation and
+accurate estimates of the moment derivatives. The main result is applied to
+characterize generalized multisummability of the formal solution to a family of
+singularly perturbed moment differential equations in the complex domain,
+broadening widely the range of singularly perturbed functional equations to be
+considered in practice, such as singularly perturbed differential equations and
+singularly perturbed fractional differential equations."
+2026,"19
+    A more general treatment of eigenfunction expansions for the Dirichlet
+Laplacian in arbitrary triangular domains requires further research.","5,(b)).","Acknowledgments
+
+I owe a special thanks to my doctoral advisor, Prof James C. Robinson, for
+many insightful discussions and his helpful criticism of early drafts.",2022-02-15 18:40:08+00:00,The $L^p$ convergence of Fourier series on triangular domains,math.CA,"['math.CA', 'math.AP', 'math.FA', '42B08 (Primary) 42B05, 34L10, 35P10, 42A10 (Secondary)']",[arxiv.Result.Author('Ryan Luis Acosta Babb')],"We prove $L^p$ norm convergence for (appropriate truncations of) the Fourier
+series arising from the Dirichlet Laplacian eigenfunctions on three types of
+triangular domains in $\mathbb{R}^2$: (i) the 45-90-45 triangle, (ii) the
+equilateral triangle and (iii) the hemiequilateral triangle (i.e. half an
+equilateral triangle cut along its height). The limitations of our argument to
+these three types are discussed in light of Lam\'e's Theorem."
+2725,"• Last, but deﬁnitely not least, we have a set of curious examples in Section 8, whose exami-
+  nation poses several interesting questions and suggests possible lines of further research.","• Since third order linear diﬀerential equations associated to the multiple orthogonal polyno-
+  mials are well known in the literature, we have included in Section 7 their derivation from
+  the system of second order ODE described in Theorem 5.2.",2.,2022-03-02 21:19:29+00:00,Electrostatic partners and zeros of orthogonal and multiple orthogonal polynomials,math.CA,"['math.CA', '42C05, 30C15, 31A15, 33C45, 33C47']","[arxiv.Result.Author('Andrei Martínez-Finkelshtein'), arxiv.Result.Author('Ramón Orive'), arxiv.Result.Author('Joaquín Sánchez-Lara')]","For a given polynomial $P$ with simple zeros, and a given semiclassical
+weight $w$, we present a construction that yields a linear second-order
+differential equation (ODE), and in consequence, an electrostatic model for
+zeros of $P$. The coefficients of this ODE are written in terms of a dual
+polynomial that we call the electrostatic partner of $P$. This construction is
+absolutely general and can be carried out for any polynomial with simple zeros
+and any semiclassical weight on the complex plane. An additional assumption of
+quasi-orthogonality of $P$ with respect to $w$ allows us to give more precise
+bounds on the degree of the electrostatic partner. In the case of orthogonal
+and quasi-orthogonal polynomials, we recover some of the known results and
+generalize others. Additionally, for the Hermite--Pad\'e or multiple orthogonal
+polynomials of type II, this approach yields a system of linear second-order
+differential equations, from which we derive an electrostatic interpretation of
+their zeros in terms of a vector equilibrium. More detailed results are
+obtained in the special cases of Angelesco, Nikishin, and generalized Nikishin
+systems. We also discuss the discrete-to-continuous transition of these models
+in the asymptotic regime, as the number of zeros tends to infinity, into the
+known vector equilibrium problems. Finally, we discuss how the system of
+obtained second-order ODEs yields a third-order differential equation for these
+polynomials, well described in the literature. We finish the paper by
+presenting several illustrative examples."
+3650,"It is
+the rise of these applications that give new vitality to the ﬁeld of fractional calculus and fractional
+diﬀerential equations and call for further research in this ﬁeld.","In addition to true mathematical interest and curiosity, this trend is also driven
+by interesting scientiﬁc and engineering applications that have produced fractional diﬀerential equa-
+tion models to better describe (time) memory eﬀects and (space) non-local phenomena [8–13].","On the other hand, recently, based on the concept of fractional derivative of Riemann−Liouville
+on time scales [14], the authors of [7] established the fractional Sobolev space on time scales.",2022-03-12 08:32:16+00:00,Left fractional Sobolev space via Riemann$-$Liouville derivatives on time scales and its application to a fractional boundary value problem on time scales,math.CA,"['math.CA', 'math.FA', '34A08, 26A33, 34B15, 34N05']","[arxiv.Result.Author('Xing Hu'), arxiv.Result.Author('Yongkun Li')]","We first prove the equivalence of two definitions of Riemann-Liouville
+fractional integral on time scales, then by the concept of fractional
+derivative of Riemann-Liouville on time scales, we introduce fractional Sobolev
+spaces, characterize them, define weak fractional derivatives, and show that
+they coincide with the Riemann-Liouville ones on time scales. Next, we prove
+equivalence of some norms in the introduced spaces and derive their
+completeness, reflexivity, separability and some imbeddings. Finally, as an
+application, by constructing an appropriate variational setting, using the
+mountain pass theorem and the genus properties, the existence of weak solutions
+for a class of Kirchhoff-type fractional p-Laplacian systems on time scales
+with boundary condition is studied, and three results of the existence of weak
+solutions for this problem is obtained."
+4745,In this article we use Orponen’s result to further study sets with PBP.,"Their conjecture was recently solved in a breakthrough
+work of Orponen [Orp21] (see Theorem 2.5 for the precise statement).","The main
+novelty of our work stems from the fact that we do not assume our sets to be Ahlfors
+regular.",2022-04-12 13:43:39+00:00,Analytic capacity and dimension of sets with plenty of big projections,math.CA,"['math.CA', 'math.MG', '28A75 (Primary) 28A80, 42B20 (Secondary)']","[arxiv.Result.Author('Damian Dąbrowski'), arxiv.Result.Author('Michele Villa')]","Our main result marks progress on an old conjecture of Vitushkin. We show
+that a compact set in the plane with plenty of big projections (PBP) has
+positive analytic capacity, along with a quantitative lower bound. A higher
+dimensional counterpart is also proved for capacities related to the Riesz
+kernel, including the Lipschitz harmonic capacity. The proof uses a
+construction of a doubling Frostman measure on a lower content regular set,
+which may be of independent interest. Our second main result is the Analyst's
+Traveling Salesman Theorem for sets with plenty of big projections. As a
+corollary, we obtain a lower bound for the Hausdorff dimension of uniformly
+wiggly sets with PBP. The second corollary is an estimate for the capacities of
+subsets of sets with PBP, in the spirit of the quantitative solution to
+Denjoy's conjecture."
+5131,"For further research about Bakry-E´mery curvature on
+ﬁnite graphs, see [BCLL17, CLY14, CKK+21, CKL+19, CKPWM20, FL22, FS18, HL19, KMY21,
+LMP18, LMP17, LMPR19, LP18, Ma13, Man15, Mu¨n18, Mu¨n19, MR20, PES+16, Rob19, Sal21b,
+
+Sal21a, SY20].","The curvature was then reintroduced several times in the set-
+ting of graphs, see [Elw91, Sch99, LY10].",Deﬁnition 1.1 (Bakry-E´mery curvature).,2022-04-21 12:52:48+00:00,Bakry-Émery curvature sharpness and curvature flow in finite weighted graphs. I. Theory,math.CA,"['math.CA', 'math.CO', 'math.DG', 'math.PR', '05C21, 05C50, 51K10, 53C21, 53E20']","[arxiv.Result.Author('David Cushing'), arxiv.Result.Author('Supanat Kamtue'), arxiv.Result.Author('Shiping Liu'), arxiv.Result.Author('Florentin Münch'), arxiv.Result.Author('Norbert Peyerimhoff'), arxiv.Result.Author('Hugo Benedict Snodgrass')]","In this sequence of two papers, we introduce a curvature flow on (mixed)
+weighted graphs which is based on the Bakry-\'Emery calculus. The flow is
+described via a time-continuous evolution through the weighting schemes. By
+adapting this flow to preserve the Markovian property, its limits turn out to
+be curvature sharp. Our aim is to present the flow in the most general case of
+not necessarily reversible random walks allowing laziness, including vanishing
+transition probabilities along some edges (""degenerate"" edges). This approach
+requires to extend all concepts (in particular, the Bakry-\'Emery curvature
+related notions) to this general case and it leads to a distinction between the
+underlying topology (a mixed combinatorial graph) and the weighting scheme
+(given by transition rates). We present various results about curvature sharp
+vertices and weighted graphs as well as some fundamental properties of this new
+curvature flow. This paper is accompanied by a second paper discussing the
+curvature flow implementation in Python for practical use. In this second paper
+we present examples and exhibit further properties of the flow."
+5132,"For further research about Bakry-E´mery curvature on
+ﬁnite graphs, see [BCLL17, CLY14, CKK+21, CKL+22b, CKPWM20, FL22, FS18, HL19, KMY21,
+LMP18, LMP, LMPR19, LP18, Ma13, Man15, Mu¨n18, Mu¨n19, MR20, PES+16, Rob19, Sal21b,
+Sal21a, SY20].","The curvature was then reintroduced several times in the set-
+ting of graphs, see [Elw91, Sch99, LY10].",Deﬁnition 1.1 (Bakry-E´mery curvature).,2022-04-21 12:52:48+00:00,Bakry-Émery curvature sharpness and curvature flow in finite weighted graphs. I. Theory,math.CA,"['math.CA', 'math.CO', 'math.DG', 'math.PR', '05C21, 05C50, 51K10, 53C21, 53E20']","[arxiv.Result.Author('David Cushing'), arxiv.Result.Author('Supanat Kamtue'), arxiv.Result.Author('Shiping Liu'), arxiv.Result.Author('Florentin Münch'), arxiv.Result.Author('Norbert Peyerimhoff'), arxiv.Result.Author('Hugo Benedict Snodgrass')]","In this sequence of two papers, we introduce a curvature flow on (mixed)
+weighted graphs which is based on the Bakry-\'Emery calculus. The flow is
+described via a time-continuous evolution through the weighting schemes. By
+adapting this flow to preserve the Markovian property, its limits turn out to
+be curvature sharp. Our aim is to present the flow in the most general case of
+not necessarily reversible random walks allowing laziness, including vanishing
+transition probabilities along some edges (""degenerate"" edges). This approach
+requires to extend all concepts (in particular, the Bakry-\'Emery curvature
+related notions) to this general case and it leads to a distinction between the
+underlying topology (a mixed combinatorial graph) and the weighting scheme
+(given by transition rates). We present various results about curvature sharp
+vertices and weighted graphs as well as some fundamental properties of this new
+curvature flow. This paper is accompanied by a second paper discussing the
+curvature flow implementation in Python for practical use. In this second paper
+we present examples and exhibit further properties of the flow."
+5634,"In the further study of the above problem, the Newton-Maclaurin type inequalities
+
+for the operators derived from the left-hand side of the equations are always needed.","l=0
+
+Recently, Liu and Ren [16] discussed the Pogorelov-type C2 estimates for (k − 1)-convex
+and k-convex solutions of the following Sum Hessian equations
+
+   σk(λ(uij)) + ασk−1(λ(uij )) = f (x, u, ∇u),
+
+and established a rigidity theorem when the right-hand side of the equation is constant.","A
+            GENERALIZATION OF NEWTON-MACLAURIN’S INEQUALITIES                                3
+
+natural question is that whether the Newton-Maclaurin type inequalities for the operators
+of linear combinations of these primary symmetric functions still hold?",2022-04-29 10:24:46+00:00,A generalization of Newton-Maclaurin's inequalities,math.CA,"['math.CA', '26D05, 26D15']",[arxiv.Result.Author('Changyu Ren')],"In this paper, we prove Newton-Maclaurin type inequalities for functions
+obtained by linear combination of two neighboring primary symmetry functions,
+which is a generalization of the classical Newton-Maclaurin inequality."
+6194,"We believe that the general case can be established using an
+appropriate inductive argument, but we leave it as an open question for further research.","In the following proposition, we verify this assertion
+in the particular case of m = 2.",Proposition 5.2.,2022-05-15 02:21:30+00:00,"Dingle's final main rule, Berry's transition, and Howls' conjecture",math.CA,"['math.CA', '41A60, 41A80, 33B15']",[arxiv.Result.Author('Gergő Nemes')],"The Stokes phenomenon is the apparent discontinuous change in the form of the
+asymptotic expansion of a function across certain rays in the complex plane,
+known as Stokes lines, as additional expansions, pre-factored by exponentially
+small terms, appear in its representation. It was first observed by G. G.
+Stokes while studying the asymptotic behaviour of the Airy function. R. B.
+Dingle proposed a set of rules for locating Stokes lines and continuing
+asymptotic expansions across them. Included among these rules is the ""final
+main rule"" stating that half the discontinuity in form occurs on reaching the
+Stokes line, and half on leaving it the other side. M. V. Berry demonstrated
+that, if an asymptotic expansion is terminated just before its numerically
+least term, the transition between two different asymptotic forms across a
+Stokes line is effected smoothly and not discontinuously as in the conventional
+interpretation of the Stokes phenomenon. On a Stokes line, in accordance with
+Dingle's final main rule, Berry's law predicts a multiplier of $\frac{1}{2}$
+for the emerging small exponentials. In this paper, we consider two closely
+related asymptotic expansions in which the multipliers of exponentially small
+contributions may no longer obey Dingle's rule: their values can differ from
+$\frac{1}{2}$ on a Stokes line and can be non-zero only on the line itself.
+This unusual behaviour of the multipliers is a result of a sequence of
+higher-order Stokes phenomena. We show that these phenomena are rapid but
+smooth transitions in the remainder terms of a series of optimally truncated
+hyperasymptotic re-expansions. To this end, we verify a conjecture due to C. J.
+Howls."
+6689,"As a further study, the function f1,0,−1 is LCM
+on (−1 , ∞) [13, Theorem 1] and f1,0,+1 is geometrically convex on (0 , ∞) [14, Theorem 1] .","In addition, it is also proved that
+f1,1−γ,−1 is decreasing on (1 , ∞), see [12] .","Moreover, the conditions for f1,c,±1 to be LCM on (0 , ∞) are shown [13, Theorem 3, Theorem
+4].",2022-05-25 06:49:33+00:00,"Monotonicity, convexity, and inequalities for functions involving gamma function",math.CA,"['math.CA', '33E50 (33E20)']","[arxiv.Result.Author('Peipei Du'), arxiv.Result.Author('Gendi Wang')]","In this paper, we study some properties such as the monotonicity,
+logarithmically complete monotonicity, logarithmic convexity, and geometric
+convexity, of the combinations of gamma function and power function. The
+results we obtain generalize some related known results for parameters with
+specific values."
+6690,"The purpose of the present paper is to further study the analytical properties of the gamma
+function.","In
+                                64
+
+addition, the conditions for ga,c,±1 to be LCM on (0 , ∞) have been discussed [17, Theorem 1.2,
+
+Remark 2.1] .","Speciﬁcally, motivated by [13, Theorem 1] which says f1,0,−1 is LCM on (−1 , ∞) ,
+we study the monotonicity property of fa,0,−1 for all a ∈ R and ﬁnd the necessary and sufﬁcient
+conditions for fa,0,−1 to be LCM either on (0 , ∞) or on (−a , ∞) in Theorem 1.",2022-05-25 06:49:33+00:00,"Monotonicity, convexity, and inequalities for functions involving gamma function",math.CA,"['math.CA', '33E50 (33E20)']","[arxiv.Result.Author('Peipei Du'), arxiv.Result.Author('Gendi Wang')]","In this paper, we study some properties such as the monotonicity,
+logarithmically complete monotonicity, logarithmic convexity, and geometric
+convexity, of the combinations of gamma function and power function. The
+results we obtain generalize some related known results for parameters with
+specific values."
+7145,"Finally, in the fourth section, some
+discussions and directions for further research are presented.","We also present a formula for the projector operator for the 1st
+level GFDs that comprises the form of the natural initial conditions for the fractional
+diﬀerential equations with these derivatives.","In particular, there
+we suggest a construction of the nth level GFDs that will be discussed elsewhere in
+detail.",2022-06-05 11:19:01+00:00,The 1st Level General Fractional Derivatives and some of their Properties,math.CA,"['math.CA', '26A33, 26B30, 33E30, 44A10, 44A35, 44A40, 45D05, 45E10, 45J05']",[arxiv.Result.Author('Yuri Luchko')],"In this paper, we first provide a short summary of the main properties of the
+so-called general fractional derivatives with the Sonine kernels introduced so
+far. These are the integro-differential operators of convolution type defined
+as compositions of the first order derivative and an integral operator of
+convolution type. Depending on the succession of these operators, two different
+types of the general fractional derivatives have been introduced by Sonine and
+Kochubei, respectively. The main object of this paper is a construction of the
+1st level general fractional derivatives that comprise both the Sonine and the
+Kochubei general fractional derivatives. We also provide some of their
+properties including the 1st and the 2nd fundamental theorems of Fractional
+Calculus for these derivatives and the suitably defined general fractional
+integrals."
+7146,"Discussions and directions for further research
+
+   In this paper, a construction of the 1st level GFDs that contain both the Sonine
+and the Kochubei GFDs as their particular cases is suggested.","(74)
+
+The right-hand side of the formula (74) determines the form of the natural initial
+conditions that should be posed while dealing with the initial-value problems for the
+fractional diﬀerential equations with the 1st level GFDs (see [8] for an operational
+method for derivation of the closed form formulas for solutions to the initial-value
+problems for the linear fractional diﬀerential equations with the Hilfer fractional
+derivatives and the initial conditions determined by the right-hand side of the formula
+(73))
+
+             4.","To this end, a suitable
+generalization of a pair of the Sonine kernels to the case of a kernel triple is ﬁrst
+introduced.",2022-06-05 11:19:01+00:00,The 1st Level General Fractional Derivatives and some of their Properties,math.CA,"['math.CA', '26A33, 26B30, 33E30, 44A10, 44A35, 44A40, 45D05, 45E10, 45J05']",[arxiv.Result.Author('Yuri Luchko')],"In this paper, we first provide a short summary of the main properties of the
+so-called general fractional derivatives with the Sonine kernels introduced so
+far. These are the integro-differential operators of convolution type defined
+as compositions of the first order derivative and an integral operator of
+convolution type. Depending on the succession of these operators, two different
+types of the general fractional derivatives have been introduced by Sonine and
+Kochubei, respectively. The main object of this paper is a construction of the
+1st level general fractional derivatives that comprise both the Sonine and the
+Kochubei general fractional derivatives. We also provide some of their
+properties including the 1st and the 2nd fundamental theorems of Fractional
+Calculus for these derivatives and the suitably defined general fractional
+integrals."
+7147,"As to the topics for further research, we mention an in-depth investigation of the
+
+fractional diﬀerential equations with the 1st level GFDs in the linear and non-linear
+
+cases (see [16, 18] for some results related to the fractional diﬀerential equations with
+
+the Sonine GFDs and [9, 11, 15, 20, 23] for analysis of the fractional diﬀerential
+
+equations with the Kochubei GFDs).","This operator determines the
+14                                  YURI LUCHKO
+
+form of the natural initial conditions while dealing with the initial-value problems
+
+containing the 1st level GFDs.","Because the 1st level GFD containes the
+
+Sonine and the Kochubei GFDs as its particular cases, one can cover both types
+
+of the fractional diﬀerential equations while considering the fractional diﬀerential
+
+equations with the 1st level GFDs.",2022-06-05 11:19:01+00:00,The 1st Level General Fractional Derivatives and some of their Properties,math.CA,"['math.CA', '26A33, 26B30, 33E30, 44A10, 44A35, 44A40, 45D05, 45E10, 45J05']",[arxiv.Result.Author('Yuri Luchko')],"In this paper, we first provide a short summary of the main properties of the
+so-called general fractional derivatives with the Sonine kernels introduced so
+far. These are the integro-differential operators of convolution type defined
+as compositions of the first order derivative and an integral operator of
+convolution type. Depending on the succession of these operators, two different
+types of the general fractional derivatives have been introduced by Sonine and
+Kochubei, respectively. The main object of this paper is a construction of the
+1st level general fractional derivatives that comprise both the Sonine and the
+Kochubei general fractional derivatives. We also provide some of their
+properties including the 1st and the 2nd fundamental theorems of Fractional
+Calculus for these derivatives and the suitably defined general fractional
+integrals."
+7148,"Finally, in the fourth section, some discussions and directions for
+further research are presented.","We also present a formula for the projector operator for the 1st level GFDs that
+comprises the form of the natural initial conditions for the fractional diﬀerential equations
+with these derivatives.","In particular, there we suggest a construction of the nth
+level GFDs that will be discussed elsewhere in detail.",2022-06-05 11:19:01+00:00,The 1st Level General Fractional Derivatives and some of their Properties,math.CA,"['math.CA', '26A33, 26B30, 33E30, 44A10, 44A35, 44A40, 45D05, 45E10, 45J05']",[arxiv.Result.Author('Yuri Luchko')],"In this paper, we first provide a short summary of the main properties of the
+so-called general fractional derivatives with the Sonin kernels introduced so
+far. These are integro-differential operators defined as compositions of the
+first order derivative and an integral operator of convolution type. Depending
+on succession of these operators, the general fractional derivatives of the
+Riemann-Liouville and of the Caputo types were defined and studied. The main
+objective of this paper is a construction of the 1st level general fractional
+derivatives that comprise both the general fractional derivative of the
+Riemann-Liouville type and the general fractional derivative of the Caputo
+type. We also provide some of their properties including the 1st and the 2nd
+fundamental theorems of Fractional Calculus for these derivatives and the
+suitably defined general fractional integrals."
+7149,"4 Discussions and directions for further research
+
+In this paper, a construction of the 1st level GFD that contains both the GFD of the
+Riemann-Liouville type the GFD of the Caputo type as its particular cases is suggested.","(74)
+
+The right-hand side of the formula (74) determines the form of the natural initial condi-
+tions that should be posed while dealing with the initial-value problems for the fractional
+diﬀerential equations with the 1st level GFDs (see [8] for an operational method for deriva-
+tion of the closed form formulas for solutions to the initial-value problems for the linear
+fractional diﬀerential equations with the Hilfer fractional derivatives and the initial condi-
+tions determined by the right-hand side of the formula (73)).","To this end, a suitable generalization of a pair of the Sonin kernels to the case of a
+kernel triple is ﬁrst introduced.",2022-06-05 11:19:01+00:00,The 1st Level General Fractional Derivatives and some of their Properties,math.CA,"['math.CA', '26A33, 26B30, 33E30, 44A10, 44A35, 44A40, 45D05, 45E10, 45J05']",[arxiv.Result.Author('Yuri Luchko')],"In this paper, we first provide a short summary of the main properties of the
+so-called general fractional derivatives with the Sonin kernels introduced so
+far. These are integro-differential operators defined as compositions of the
+first order derivative and an integral operator of convolution type. Depending
+on succession of these operators, the general fractional derivatives of the
+Riemann-Liouville and of the Caputo types were defined and studied. The main
+objective of this paper is a construction of the 1st level general fractional
+derivatives that comprise both the general fractional derivative of the
+Riemann-Liouville type and the general fractional derivative of the Caputo
+type. We also provide some of their properties including the 1st and the 2nd
+fundamental theorems of Fractional Calculus for these derivatives and the
+suitably defined general fractional integrals."
+7150,"As to the topics for further research, we mention an in-depth investigation of the
+fractional diﬀerential equations with the 1st level GFDs in the linear and non-linear cases
+(see [16, 18] for some results related to the fractional diﬀerential equations with the GFDs
+of the Riemann-Liouville type and [9, 11, 15, 20, 23] for analysis of the fractional diﬀerential
+equations with the GFDs of the Caputo type).","This operator determines the form of the natural initial
+conditions while dealing with the initial-value problems containing the 1st level GFDs.","Because the 1st level GFD contains the
+GFDs of the Riemann-Liouville and of the Caputo types as its particular cases, one can
+cover both types of the fractional diﬀerential equations while considering the fractional
+diﬀerential equations with the 1st level GFDs.",2022-06-05 11:19:01+00:00,The 1st Level General Fractional Derivatives and some of their Properties,math.CA,"['math.CA', '26A33, 26B30, 33E30, 44A10, 44A35, 44A40, 45D05, 45E10, 45J05']",[arxiv.Result.Author('Yuri Luchko')],"In this paper, we first provide a short summary of the main properties of the
+so-called general fractional derivatives with the Sonin kernels introduced so
+far. These are integro-differential operators defined as compositions of the
+first order derivative and an integral operator of convolution type. Depending
+on succession of these operators, the general fractional derivatives of the
+Riemann-Liouville and of the Caputo types were defined and studied. The main
+objective of this paper is a construction of the 1st level general fractional
+derivatives that comprise both the general fractional derivative of the
+Riemann-Liouville type and the general fractional derivative of the Caputo
+type. We also provide some of their properties including the 1st and the 2nd
+fundamental theorems of Fractional Calculus for these derivatives and the
+suitably defined general fractional integrals."
+8971,"Further results and open problems
+
+   The aim of this section is to mention some open problems which might be of
+
+interest for further research on .",5.,"Notice ﬁrst that any perturbation of an ω-m-star-convex function Φ satisfying the
+
+hypotheses of Theorem 1 by a bounded function Π verify an inequality of majoriza-
+                                                              N                   N
+tion very close to (4.1).",2022-07-17 02:44:00+00:00,The Hardy-Littlewood-Polya inequality of majorization in the context of w-m-star-convex functions,math.CA,"['math.CA', 'math.FA']","[arxiv.Result.Author('Geanina Maria Lachescu'), arxiv.Result.Author('Ionel Roventa')]","The Hardy-Littlewood-Polya inequality of majorization is extended for the
+{\omega}-m-star-convex functions to the framework of ordered Banach spaces.
+Several open problems which seem of interest for further extensions of the
+Hardy-Littlewood-Polya inequality are also included."
+9324,"Although these properties seem to be still rather poorly
+investigated in mathematical analysis, they clearly play a crucial role in this setting
+and hence also merit further study.","Lastly, this theory also revealed how natural and useful are the higher order
+convexity properties.","References
+
+ [1] V. S. Adamchik.",2022-07-26 07:30:41+00:00,A Generalization of Bohr-Mollerup's Theorem for Higher Order Convex Functions: A Tutorial,math.CA,"['math.CA', 'cs.DM', 'math.CO', 'math.NT', '26A51, 33B15, 33B20, 39A06, 39B22']","[arxiv.Result.Author('Jean-Luc Marichal'), arxiv.Result.Author('Naïm Zenaïdi')]","In its additive version, Bohr-Mollerup's remarkable theorem states that the
+unique (up to an additive constant) convex solution $f(x)$ to the equation
+$\Delta f(x)=\ln x$ on the open half-line $(0,\infty)$ is the log-gamma
+function $f(x)=\ln\Gamma(x)$, where $\Delta$ denotes the classical difference
+operator and $\Gamma(x)$ denotes the Euler gamma function. In a recently
+published open access book, the authors provided and illustrated a far-reaching
+generalization of Bohr-Mollerup's theorem by considering the functional
+equation $\Delta f(x)=g(x)$, where $g$ can be chosen in a wide and rich class
+of functions that have convexity or concavity properties of any order. They
+also showed that the solutions $f(x)$ arising from this generalization satisfy
+counterparts of many properties of the log-gamma function (or equivalently, the
+gamma function), including analogues of Bohr-Mollerup's theorem itself,
+Burnside's formula, Euler's infinite product, Euler's reflection formula,
+Gauss' limit, Gauss' multiplication formula, Gautschi's inequality, Legendre's
+duplication formula, Raabe's formula, Stirling's formula, Wallis's product
+formula, Weierstrass' infinite product, and Wendel's inequality for the gamma
+function. In this paper, we review the main results of this new and intriguing
+theory and provide an illustrative application."
+10814,"It seems that their results do not rely on
+44  YUMI ARAI AND KOUICHI TAKEMURA
+
+the q-middle convolution, and it would be interesting to compare them with our ones
+for further study.","Fujii also obtained several results
+on this direction in his master’s thesis [4].","Acknowledgements
+    The second author was supported by JSPS KAKENHI Grant Number JP22K03368.",2022-09-06 05:35:54+00:00,On q-middle convolution and q-hypergeometric equations,math.CA,"['math.CA', '33D15, 39A13']","[arxiv.Result.Author('Yumi Arai'), arxiv.Result.Author('Kouichi Takemura')]","We reformulate q-integral transformations associated with the q-middle
+convolution. We obtain q-integral representations of the variants of the
+q-hypergeometric equation by applying the q-middle convolution."
+10815,"It seems that their results do not rely on
+44  YUMI ARAI AND KOUICHI TAKEMURA
+
+the q-middle convolution, and it would be interesting to compare them with our ones
+for further study.","Fujii also obtained several results
+on this direction in his master’s thesis [4].","Acknowledgements
+    The second author was supported by JSPS KAKENHI Grant Number JP22K03368.",2022-09-06 05:35:54+00:00,On q-middle convolution and q-hypergeometric equations,math.CA,"['math.CA', '33D15, 39A13']","[arxiv.Result.Author('Yumi Arai'), arxiv.Result.Author('Kouichi Takemura')]","We reformulate q-integral transformations associated with the q-middle
+convolution. We obtain q-integral representations of the variants of the
+q-hypergeometric equation by applying the q-middle convolution."
+10990,"We strongly believe it will be an inspiration for
+considering Mη with more general non-radial and non-doubling η, and for further research
+in the future.",Our main result is the following theorem.,Theorem 1.,2022-09-09 10:49:25+00:00,On non-centered maximal operators related to a non-doubling and non-radial exponential measure,math.CA,"['math.CA', '42B25']","[arxiv.Result.Author('Adam Nowak'), arxiv.Result.Author('Emanuela Sasso'), arxiv.Result.Author('Peter Sjögren'), arxiv.Result.Author('Krzysztof Stempak')]","We investigate mapping properties of non-centered Hardy-Littlewood maximal
+operators related to the exponential measure $d\mu(x) =
+\exp(-|x_1|-\ldots-|x_d|)dx$ in $\mathbb{R}^d$. The mean values are taken over
+Euclidean balls or cubes ($\ell^{\infty}$ balls) or diamonds ($\ell^1$ balls).
+Assuming that $d \ge 2$, in the cases of cubes and diamonds we prove the
+$L^p$-boundedness for $p > 1$ and disprove the weak type $(1,1)$ estimate. The
+same is proved in the case of Euclidean balls, under the restriction $d \le 4$
+for the positive part."
+11309,"For further study, see Chapters 1 and 2 of [10], and Chapter 4 of [16].","Newton polyhedron and Dual Face Decomposition
+
+   For a systematic study, it is very useful to know some terminology of convex geometry.",2.1.,2022-09-16 17:36:57+00:00,Discrete Double Hilbert Transforms Along Polynomial Surfaces,math.CA,"['math.CA', '42B20, 42B25']","[arxiv.Result.Author('Joonil Kim'), arxiv.Result.Author('Hoyoung Song')]","We obtain a necessary and sufficient condition on a polynomial $P(t_1,t_2)$
+for the $\ell^{p}$ boundedness of the discrete double Hilbert transforms
+associated with $P(t)$ for $1 < p < \infty$. The proof is based on the
+multi-parameter circle method treating the cases of $|t_1|\not\approx |t_2|$
+arising from $1/t_1$ and $1/t_2$."
+12118,"Unfortunately, we were not able to answer the next two questions,
+
+which we believe might deserve further research.",8.2.,"First, in the framework
+of Theorem 7.6, given µ1 ∈ M+α1(R) and µ2 ∈ M+α2 (R), α1, α2 > 0, it is
+not, in general, clear whether there always exists a µ ∈ M+α1+α2(R) such
+that Cα1 [µ1]Cα2 [µ2] = Cα1+α2 [µ].",2022-10-07 11:57:35+00:00,To the theory of generalized Stieltjes transforms,math.CA,"['math.CA', 'math.PR']","[arxiv.Result.Author('Alexander Gomilko'), arxiv.Result.Author('Yuri Tomilov')]","We identify measures arising in the representations of products of
+generalized Stieltjes transforms as generalized Stieltjes transforms, provide
+optimal estimates for the size of those measures, and address a similar issue
+for generalized Cauchy transforms. In the latter case, in two particular
+settings, we give criteria ensuring that the measures are positive. On this
+way, we also obtain new, applicable conditions for representability of
+functions as generalized Stieltjes transforms, thus providing a partial answer
+to a problem posed by Sokal and shedding a light at spectral multipliers
+emerged recently in probabilistic studies. As a byproduct of our approach, we
+improve several known results on Stieltjes and Hilbert transforms."
+13161,"A further study of some algebraic and analytic properties of this type of orthogonality is done in [3, 6] for
+                                          some ﬁrst and second–order linear homogeneous diﬀerential operators.","There, the authors show that the concept of Chebyshev
+                                          system plays a fundamental role to solve the problem of the uniqueness of the sequence of the polynomials.","Formally, orthogonality with respect
+                                          to a linear homogeneous diﬀerential operator is deﬁned as follows,
+
+                                          Deﬁnition 1.",2022-10-29 14:05:10+00:00,On orthogonal polynomials with respect to a class of differential operators,math.CA,['math.CA'],[arxiv.Result.Author('Jorge A. Borrego-Morell')],"We consider orthogonal polynomials with respect to a linear differential
+operator $$\mathcal{L}^{(M)}=\sum_{k=0}^{M}\rho_{k}(z)\frac{d^k}{dz^k}, $$
+where $\{\rho_k\}_{k=0}^{M}$ are complex polynomials such that $deg[\rho_k]\leq
+k, 0\leq k \leq M$, with equality for at least one index. We analyze the
+uniqueness and zero location of these polynomials. An interesting phenomenon
+occurring in this kind of orthogonality is the existence of operators for which
+the associated sequence of orthogonal polynomials reduces to a finite set. For
+a given operator, we find a classification of the measures for which it is
+possible to guarantee the existence of an infinite sequence of orthogonal
+polynomials, in terms of a linear system of difference equations with varying
+coefficients. Also, for the case of a first-order differential operator, we
+locate the zeros and establish the strong asymptotic behavior of these
+polynomials."
+14694,"Kai Diethelm, Virginia Kiryakova, Yuri Luchko, J A Tenreiro Machado, and Vasily E Tarasov,
+     Trends, directions for further research, and some open problems of fractional calculus, Non-
+     linear Dynamics 107 (2022), 3245–3270.",15.,16.,2022-12-08 06:42:30+00:00,Some useful inequalities for nabla tempered fractional calculus,math.CA,"['math.CA', '26A33, 39A70, 34A08, 97H30, 35B51']","[arxiv.Result.Author('Yiheng Wei'), arxiv.Result.Author('Linlin Zhao'), arxiv.Result.Author('Kai Cao'), arxiv.Result.Author('Jinde Cao')]","This paper gives particular emphasis to the nabla tempered fractional
+calculus, which involves the multiplication of the rising function kernel with
+tempered functions, and provides a more flexible alternative with considerable
+promise for practical applications. Some remarkable inequalities for such nabla
+fractional calculus are developed and analyzed, which greatly enrich the
+mathematical theory of nabla tempered fractional calculus. Numerical results
+confirm the validity of the developed properties once again, which also reveals
+that the introduction of tempered function provides high value and huge
+potential."
+15014,"In general, the
+density of Zn,α exhibits a curious family of polynomials having positive and symmetric coeﬃcients,
+which will be the matter of further research.","With the notation of the proof of Theorem B, this is done in computing the density of Z3,α up to
+some constant as (1 − x) α4 −5 (1 + x) (1 + cαx + x2) 1(0,1)(x) with
+
+                                                               10(1 − α)
+                                                      cα = 3 − α
+on the one hand, and in showing that the bivariate function (x, y) → x(x + y)(x2 + cαxy + y2) is
+log-concave on {0 ≤ x ≤ y} if and only if cα ≥ 10/11 ⇔ α ≤ 4/5 on the other hand.","(b) The fact that ϕα,0 is log-concave and ϕα,1−α is not log-concave for α ∈ (α∗, 4/5] show that
+
+fractional integration of order in (0, 1) does not preserve log-concavity in general, in view of
+
+                     ϕα,1−α(x) = 1                     ∞
+                                        Γ(α) Γ(γ) x
+                                                         ϕα,0(t) (t − x)γ−1 dt
+
+with γ = α−1 − 1 ∈ (0, 1).",2022-12-15 17:13:38+00:00,On the log-concavity of the Wright function,math.CA,"['math.CA', 'math.PR']","[arxiv.Result.Author('Rui A. C. Ferreira'), arxiv.Result.Author('Thomas Simon')]","We investigate the log-concavity on the half-line of the Wright function
+$\phi(-\alpha,\beta,-x),$ in the probabilistic setting $\alpha\in (0,1)$ and
+$\beta \ge 0.$ Applications are given to the construction of generalized
+entropies associated to the corresponding Mittag-Leffler function. A natural
+conjecture for the equivalence between the log-concavity of the Wright function
+and the existence of such generalized entropies is formulated. The problem is
+solved for $\beta\geq\alpha$ and in the classical case $\beta = 1-\alpha$ of
+the Mittag-Leffler distribution, which exhibits a certain critical parameter
+$\alpha_*= 0.771667...$ defined implicitly on the Gamma function and
+characterizing the log-concavity. We also prove that the probabilistic Wright
+functions are always unimodal, and that they are multiplicatively strongly
+unimodal if and only if $\beta\geq\alpha$ or $\alpha\le 1/2$ and $\beta = 0.$"
+15206,"In light of this limitation, there is room for further study of the stability of
+
+                                                                                       22
+iterated dyadic ﬁlter banks in which the pointwise expanding condition used in Theorem 5.3 might
+be replaced by an average expanding condition derived with the help of tools from ergodic theory,
+as found in the works of Conze and Raugi [14] or Gundy [18].","The suﬃcient conditions presented here are limited to ﬁlter banks for which (5.3) is expanding
+almost everywhere.","It may also be possible to use
+perturbation methods [10, Corollary 22.1.5] to broaden the class of ﬁlters that give rise to iterated
+ﬁlter banks which remain stable under an arbitrary number of iterations.",2022-12-21 01:03:00+00:00,Stability of iterated dyadic filter banks,math.CA,"['math.CA', 'cs.IT', 'math.IT']","[arxiv.Result.Author('Marcin Bownik'), arxiv.Result.Author('Brody Johnson'), arxiv.Result.Author('Simon McCreary-Ellis')]","This paper examines the frame properties of finitely and infinitely iterated
+dyadic filter banks. It is shown that the stability of an infinitely iterated
+dyadic filter bank guarantees that of any associated finitely iterated dyadic
+filter bank with uniform bounds. Conditions under which the stability of
+finitely iterated dyadic filter banks with uniform bounds implies that of the
+infinitely iterated dyadic filter bank are also given. The main result
+describes a sufficient condition under which the infinitely iterated dyadic
+filter bank associated with a specific class of finitely supported filters is
+stable."

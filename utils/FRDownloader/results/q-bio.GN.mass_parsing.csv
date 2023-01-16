@@ -1,0 +1,212 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+517,"1 MSK Data
+
+                                           We further study the paired MSK data sets for the same set of tumor samples for which a detailed
+                                           description of the data was previously reported in Qin et al.","All results were generated in R ver-
+                                           sion 4.0.2 and the code, data, and results are available on GitHub at https://github.com/LXQin/
+                                           DANA-paper-supplementary-materials.",(2020).,2022-01-13 16:28:31+00:00,Depth Normalization of Small RNA Sequencing: Using Data and Biology to Select a Suitable Method,q-bio.GN,"['q-bio.GN', 'q-bio.QM', 'stat.ME']","[arxiv.Result.Author('Yannick Düren'), arxiv.Result.Author('Johannes Lederer'), arxiv.Result.Author('Li-Xuan Qin')]","Deep sequencing has become one of the most popular tools for transcriptome
+profiling in biomedical studies. While an abundance of computational methods
+exists for ""normalizing"" sequencing data to remove unwanted between-sample
+variations due to experimental handling, there is no consensus on which
+normalization is the most suitable for a given data set. To address this
+problem, we developed ""DANA"" - an approach for assessing the performance of
+normalization methods for microRNA sequencing data based on biology-motivated
+and data-driven metrics. Our approach takes advantage of well-known biological
+features of microRNAs for their expression pattern and chromosomal clustering
+to simultaneously assess (1) how effectively normalization removes handling
+artifacts, and (2) how aptly normalization preserves biological signals. With
+DANA, we confirm that the performance of eight commonly used normalization
+methods vary widely across different data sets and provide guidance for
+selecting a suitable method for the data at hand. Hence, it should be adopted
+as a routine preprocessing step (preceding normalization) for microRNA
+sequencing data analysis. DANA is implemented in R and publicly available at
+https://github.com/LXQin/DANA."
+3158,"Expanding this dictionary for
+completeness could be another area for further research.","These lists of strings and their associated costs are computationally intensive to create (although still
+generally under a minute), but once one is made (stored as a dictionary in Python for fast lookups) it can
+be used any number of times, as long as the motif and costs stay the same.","Multiple Motifs and Time Complexity
+
+Some forensic DNA loci have multiple motifs (e. g., [ACT]5 [AGGT]12).",2022-03-11 18:10:49+00:00,Restricted Forensic Levenshtein Distance,q-bio.GN,"['q-bio.GN', 'q-bio.QM']","[arxiv.Result.Author('Taylor Petty'), arxiv.Result.Author('Jan Hannig'), arxiv.Result.Author('Tunde I Huszar'), arxiv.Result.Author('Hari Iyer')]","String edit distances have been used for decades in applications ranging from
+spelling correction and web search suggestions to DNA analysis. In short tandem
+repeat (STR) regions of the genome, motifs of nucleotides 2-6 base pairs long
+repeat consecutively, and these motifs most often expand and contract as a
+whole unit. This phenomenon of slippage of the polymerase on the template is
+referred to as stutter in forensic DNA analysis. String edit distances that
+only consider single-character edits fail to capture true DNA sequence
+similarity in STR regions. In forensic applications, stutter appears in vitro
+as an artifact of the PCR amplification. Forensic DNA analysis now also
+utilizes data from massively parallel sequencing (MPS) beyond just length-based
+analysis by capillary electrophoresis data. The algorithm presented here
+measures distance between sequences, using dynamic programming, that allows the
+addition or deletion of motifs as a separate edit type from single-nucleotide
+insertion, deletion, and substitution. Forensic examples are shown, but the
+applications extend to sequence alignment and string similarity in other
+biological applications."
+3159,"Expanding this dictionary for
+completeness could be another area for further research.","These lists of strings and their associated costs are computationally intensive to create (although still
+generally under a minute), but once one is made (stored as a dictionary in Python for fast lookups) it can
+be used any number of times, as long as the motif and costs stay the same.","Multiple Motifs and Time Complexity
+
+Some forensic DNA loci have multiple motifs (e. g., [ACT]5 [AGGT]12).",2022-03-11 18:10:49+00:00,Restricted Forensic Levenshtein Distance,q-bio.GN,"['q-bio.GN', 'q-bio.QM']","[arxiv.Result.Author('Taylor Petty'), arxiv.Result.Author('Jan Hannig'), arxiv.Result.Author('Tunde I Huszar'), arxiv.Result.Author('Hari Iyer')]","String edit distances have been used for decades in applications ranging from
+spelling correction and web search suggestions to DNA analysis. In short tandem
+repeat (STR) regions of the genome, motifs of nucleotides 2-6 base pairs long
+repeat consecutively, and these motifs most often expand and contract as a
+whole unit. This phenomenon of slippage of the polymerase on the template is
+referred to as stutter in forensic DNA analysis. String edit distances that
+only consider single-character edits fail to capture true DNA sequence
+similarity in STR regions. In forensic applications, stutter appears in vitro
+as an artifact of the PCR amplification. Forensic DNA analysis now also
+utilizes data from massively parallel sequencing (MPS) beyond just length-based
+analysis by capillary electrophoresis data. The algorithm presented here
+measures distance between sequences, using dynamic programming, that allows the
+addition or deletion of motifs as a separate edit type from single-nucleotide
+insertion, deletion, and substitution. Forensic examples are shown, but the
+applications extend to sequence alignment and string similarity in other
+biological applications."
+3160,"Expanding
+this dictionary for completeness could be another area for further research.","These lists of strings and their associated costs are computationally intensive to create (although
+still generally under a minute), but once one is made (stored as a dictionary in Python for fast
+lookups) it can be used any number of times, as long as the motif and costs stay the same.","2.3.5 Multiple Motifs and Time Complexity
+
+Some forensic DNA loci have multiple motifs (e. g., [ACT]5 [AGGT]12).",2022-03-11 18:10:49+00:00,A New String Edit Distance and Applications,q-bio.GN,"['q-bio.GN', 'q-bio.QM']","[arxiv.Result.Author('Taylor Petty'), arxiv.Result.Author('Jan Hannig'), arxiv.Result.Author('Tunde I Huszar'), arxiv.Result.Author('Hari Iyer')]","String edit distances have been used for decades in applications ranging from
+spelling correction and web search suggestions to DNA analysis. Most string
+edit distances are variations of the Levenshtein distance and consider only
+single-character edits. In forensic applications polymorphic genetic markers
+such as short tandem repeats (STRs) are used. At these repetitive motifs the
+DNA copying errors consist of more than just single base differences. More
+often the phenomenon of ``stutter'' is observed, where the number of repeated
+units differs (by whole units) from the template. To adapt the Levenshtein
+distance to be suitable for forensic applications where DNA sequence similarity
+is of interest, a generalized string edit distance is defined that accommodates
+the addition or deletion of whole motifs in addition to single-nucleotide
+edits. A dynamic programming implementation is developed for computing this
+distance between sequences. The novelty of this algorithm is in handling the
+complex interactions that arise between multiple- and single-character edits.
+Forensic examples illustrate the purpose and use of the Restricted Forensic
+Levenshtein (RFL) distance measure, but applications extend to sequence
+alignment and string similarity in other biological areas, as well as dynamic
+programming algorithms more broadly."
+6084,"The appropriate level of calibration of the ROC
+curve in the clinical context requires further research.","Smaller FPR and TPR ranges
+get further enhanced with a larger dataset size.","Potential approaches include using a power
+function with fractional power such as square root, cube root or the fourth root to scale FPR and
+TPR.",2022-05-12 06:34:39+00:00,"CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods",q-bio.GN,['q-bio.GN'],[arxiv.Result.Author('The Critical Assessment of Genome Interpretation Consortium')],"The Critical Assessment of Genome Interpretation (CAGI) aims to advance the
+state of the art for computational prediction of genetic variant impact,
+particularly those relevant to disease. The five complete editions of the CAGI
+community experiment comprised 50 challenges, in which participants made blind
+predictions of phenotypes from genetic data, and these were evaluated by
+independent assessors. Overall, results show that while current methods are
+imperfect, they have major utility for research and clinical applications.
+Missense variant interpretation methods are able to estimate biochemical
+effects with increasing accuracy. Performance is particularly strong for
+clinical pathogenic variants, including some difficult-to-diagnose cases, and
+extends to interpretation of cancer-related variants. Assessment of methods for
+regulatory variants and complex trait disease risk is less definitive, and
+indicates performance potentially suitable for auxiliary use in the clinic.
+Emerging methods and increasingly large, robust datasets for training and
+assessment promise further progress ahead."
+6900,"This discovery will also open the door for further research on synthetic
+biology: The SLI0883-0884 system is a small peptide biosynthetic system.","Its investigation therefore should lead to a scientific publication regarding this subjects, and this is
+currently being prepared.","Indeed, the LFT
+enzyme, the core of the system, has already been proven to be able to incorporate promiscuously
+natural and unnatural amino acids (Taki et al, 2009).",2022-05-30 09:25:35+00:00,Functional and evolutionary genomics of the Streptomyces metabolism,q-bio.GN,['q-bio.GN'],[arxiv.Result.Author('Pablo Cruz-Morales')],"This thesis is focused in the study of the evolution of the metabolic
+repertoire of Streptomyces, which are renowned as proficient producers of
+bioactive Natural Products (NPs). The main goal of my work was to contribute
+into the understanding of the evolutionary mechanisms behind the evolution of
+NP biosynthetic pathways. Specifically, the development of a bioinformatic
+method that helps into the discovery of new NP biosynthetic pathways from
+actinobacterial genome sequences with emphasis on members of the genus
+Streptomyces. I developed this method using a comparative and functional
+genomics perspective. My studies indicate that central metabolic enzymes were
+expanded in a genus-specific manner in Actinobacteria, and that they have been
+extensively recruited for the biosynthesis of NPs. Based in these observations,
+I developed EvoMining, a bioinformatic pipeline for the identificatoon of novel
+biosynthetic pathways in microbial genomes. Using EvoMining several new NP
+biosynthetic pathways have been predicted in different members of the phylum
+Actinobacteria, including the model organism S. lividans 66. To test this
+approach, the genome sequence of this model strain was obtained, and its
+analysis led to the discovery of an unprecedented system for peptide bond
+formation, as well as a biosynthetic pathway for an arsenic-containing
+metabolite. Moreover, this work also led to the identification of expansions on
+a conserved metabolic node in the glycolytic pathway of Streptomyces. These
+expansions occurred before the radiation of Streptomyces and are concomitant
+with the evolution of their capability to produce NPs. Experimental analyses
+indicate that this node evolved to mediate the interplay between central an NP
+metabolism."
+7025,"6 Discussion
+
+The experimental results clearly demonstrate practical value and usefulness of the proposed learning-
+based framework which opens new avenues for further research.","Full results can be seen in
+Table 2.","Next steps will include application
+of the developed framework to genomes of different species and to different types of data, e.g.",2022-06-01 04:14:25+00:00,Learning to Untangle Genome Assembly with Graph Convolutional Networks,q-bio.GN,"['q-bio.GN', 'cs.LG']","[arxiv.Result.Author('Lovro Vrček'), arxiv.Result.Author('Xavier Bresson'), arxiv.Result.Author('Thomas Laurent'), arxiv.Result.Author('Martin Schmitz'), arxiv.Result.Author('Mile Šikić')]","A quest to determine the complete sequence of a human DNA from telomere to
+telomere started three decades ago and was finally completed in 2021. This
+accomplishment was a result of a tremendous effort of numerous experts who
+engineered various tools and performed laborious manual inspection to achieve
+the first gapless genome sequence. However, such method can hardly be used as a
+general approach to assemble different genomes, especially when the assembly
+speed is critical given the large amount of data. In this work, we explore a
+different approach to the central part of the genome assembly task that
+consists of untangling a large assembly graph from which a genomic sequence
+needs to be reconstructed. Our main motivation is to reduce human-engineered
+heuristics and use deep learning to develop more generalizable reconstruction
+techniques. Precisely, we introduce a new learning framework to train a graph
+convolutional network to resolve assembly graphs by finding a correct path
+through them. The training is supervised with a dataset generated from the
+resolved CHM13 human sequence and tested on assembly graphs built using real
+human PacBio HiFi reads. Experimental results show that a model, trained on
+simulated graphs generated solely from a single chromosome, is able to
+remarkably resolve all other chromosomes. Moreover, the model outperforms
+hand-crafted heuristics from a state-of-the-art \textit{de novo} assembler on
+the same graphs. Reconstructed chromosomes with graph networks are more
+accurate on nucleotide level, report lower number of contigs, higher genome
+reconstructed fraction and NG50/NGA50 assessment metrics."
+13381,"Our metrics can be used to guide further research to
+understand the phenomenon of more lineages with less complex body plans and traits have more
+complexity in through genomes.","Multicellular organisms have larger sizes and tissue types likely a caused by
+novel adaptation giving rise to new functional outlets for the transcriptome to evolve (Levine &
+Tjian, 2003; Sealfon et al., 2021).","As future genomic resources emerge, it may be possible to
+compare single celled and multicellular relatives to infer how transcriptomes evolve as novel
+body forms emerge.",2022-11-04 16:13:36+00:00,Transcriptome Complexities Across Eukaryotes,q-bio.GN,['q-bio.GN'],"[arxiv.Result.Author('James E. Titus-McQuillan'), arxiv.Result.Author('Adalena V. Nanni'), arxiv.Result.Author('Lauren M. McIntyre'), arxiv.Result.Author('Rebekah L. Rogers')]","Genomic complexity is a growing field of evolution, with case studies for
+comparative evolutionary analyses in model and emerging non-model systems.
+Understanding complexity and the functional components of the genome is an
+untapped wealth of knowledge ripe for exploration. With the ""remarkable lack of
+correspondence"" between genome size and complexity, there needs to be a way to
+quantify complexity across organisms. In this study we use a set of complexity
+metrics that allow for evaluation of changes in complexity using TranD. We
+ascertain if complexity is increasing or decreasing across transcriptomes and
+at what structural level, as complexity is varied. We define three metrics --
+TpG, EpT, and EpG in this study to quantify the complexity of the transcriptome
+that encapsulate the dynamics of alternative splicing. Here we compare
+complexity metrics across 1) whole genome annotations, 2) a filtered subset of
+orthologs, and 3) novel genes to elucidate the impacts of ortholog and novel
+genes in transcriptome analysis. We also derive a metric from Hong et al.,
+2006, Effective Exon Number (EEN), to compare the distribution of exon sizes
+within transcripts against random expectations of uniform exon placement. EEN
+accounts for differences in exon size, which is important because novel genes
+differences in complexity for orthologs and whole transcriptome analyses are
+biased towards low complexity genes with few exons and few alternative
+transcripts. With our metric analyses, we are able to implement changes in
+complexity across diverse lineages with greater precision and accuracy than
+previous cross-species comparisons under ortholog conditioning. These analyses
+represent a step forward toward whole transcriptome analysis in the emerging
+field of non-model evolutionary genomics, with key insights for evolutionary
+inference of complexity changes on deep timescales across the tree of life. We
+suggest a means to quantify biases generated in ortholog calling and correct
+complexity analysis for lineage-specific effects. With these metrics, we
+directly assay the quantitative properties of newly formed lineage-specific
+genes as they lower complexity in transcriptomes."
+14590,"To further study the clus-
+tering estimate and its differences between the control and mutant group, we deﬁne a cluster as stable if the proportion
+of HET and HOM cells in that cluster is close to the overall proportion, and under-represented/over-represented in the
+mutant group if the proportion of HOM cells in that cluster is lower/greater than the overall proportion.","The estimated clustering which minimizes the variation of information
+contains 8 clusters, all of which are shared between HET and HOM; while this clustering estimate is clearly observed
+in Figure 5, there is also some apparent uncertainty on whether to further split some clusters.","Under this
+deﬁnition, clusters 1, 4, 7 are stable, clusters 2 and 6 are under-represented in the mutant group, and remaining clusters
+3, 5, 8 are over-represented in the mutant group.",2022-12-05 11:36:21+00:00,Shared Differential Clustering across Single-cell RNA Sequencing Datasets with the Hierarchical Dirichlet Process,q-bio.GN,"['q-bio.GN', 'stat.ME']","[arxiv.Result.Author('Jinlu Liu'), arxiv.Result.Author('Sara Wade'), arxiv.Result.Author('Natalia Bochkina')]","Single-cell RNA sequencing (scRNA-seq) is powerful technology that allows
+researchers to understand gene expression patterns at the single-cell level.
+However, analysing scRNA-seq data is challenging due to issues and biases in
+data collection. In this work, we construct an integrated Bayesian model that
+simultaneously addresses normalization, imputation and batch effects and also
+nonparametrically clusters cells into groups across multiple datasets. A Gibbs
+sampler based on a finite-dimensional approximation of the HDP is developed for
+posterior inference."

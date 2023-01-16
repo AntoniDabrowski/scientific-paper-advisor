@@ -1,0 +1,367 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+1602,"In the last section, besides brieﬂy summarizing the main guidelines along
+the work, we pose for further study continuous evolution algebras arising
+from dynamical systems obeying more general diﬀerential equations.","In the ﬁfth section we show how G-continuous evolution algebras, result-
+ing in section 3, make way towards continuous evolution algebras understood
+as ﬂow lines for global ﬂows on matrix Lie groups.","2 Continuous evolution algebras
+
+    Let K be R or C. Matrices will be denoted boldface.",2022-02-06 15:48:46+00:00,Continuous Evolution Algebras,math.RA,"['math.RA', '17D92, 17A01, 92D25']","[arxiv.Result.Author('Fernando Montaner'), arxiv.Result.Author('Irene Paniello')]","We formulate the notion of continuous evolution algebra in terms of
+differentiable matrix-valued functions, to then study those such algebras
+arising as solutions of ODE problems. Given their dependence on natural bases,
+matrix Lie groups provide a suitable framework where considering time-variant
+evolution algebras. We conclude by broadening our approach by considering
+continuous evolution algebras stemming as flow lines on matrix Lie groups."
+2877,"In other words, Rota apparently asked to identify “good” OPIs that are worth of
+further study.","The second stage in our understanding of Rota’s Classiﬁcation Problem is what distinguishes
+the operated polynomial identities (OPIs) satisﬁed by these above listed linear operators from the
+arbitrary OPIs?","Roughly speaking, since algebras in Rota’s Classiﬁcation Problem are associative
+algebras, such OPIs looked for by Rota are compatible with associativity.",2022-03-06 01:48:42+00:00,New operated polynomial identities and Gröbner-Shirshov bases,math.RA,"['math.RA', '16W99, 16S10, 08B20, 13P10, 05A05']","[arxiv.Result.Author('Jinwei Wang'), arxiv.Result.Author('Zhicheng Zhu'), arxiv.Result.Author('Xing Gao')]","Quite recently, Bremner et al. introduced a new approach to Rota's
+Classification Problem and classified some (new) operated polynomial
+identities. In this paper, we prove that all operated polynomial identities
+classified by Bremner et al. are Gr\""{o}bner-Shirshov."
+3248,"Finally, Section 10 presents the main conclusions of this work, and some lines of further research.","(1) to be consistent when B is skew-symmetric
+
+for most matrices.","2
+2 Basic setting
+
+As we have mentioned in the Introduction, the Canonical Form for Congruence (CFC) of matrices plays a central role
+in this work.",2022-03-14 13:45:27+00:00,The equation $X^\top AX=B$ with $B$ skew-symmetric: How much of a bilinear form is skew-symmetric?,math.RA,"['math.RA', '15A21, 15A24, 15A63']","[arxiv.Result.Author('Alberto Borobia'), arxiv.Result.Author('Roberto Canogar'), arxiv.Result.Author('Fernando De Terán')]","Given a bilinear form on $\mathbb C^n$, represented by a matrix $A\in\mathbb
+C^{n\times n}$, the problem of finding the largest dimension of a subspace of
+$\mathbb C^n$ such that the restriction of $A$ to this subspace is a
+non-degenerate skew-symmetric bilinear form is equivalent to finding the size
+of the largest invertible skew-symmetric matrix $B$ such that the equation
+$X^\top AX=B$ is consistent (here $X^\top$ denotes the transpose of the matrix
+$X$). In this paper, we provide a characterization, by means of a necessary and
+sufficient condition, for the matrix equation $X^\top AX=B$ to be consistent
+when $B$ is a skew-symmetric matrix. This condition is valid for most matrices
+$A\in\mathbb C^{n\times n}$. To be precise, the condition depends on the
+canonical form for congruence (CFC) of the matrix $A$, which is a direct sum of
+blocks of three types. The condition is valid for all matrices $A$ except those
+whose CFC contains blocks, of one of the types, with size smaller than $3$.
+However, we show that the condition is necessary for all matrices $A$."
+3431,"To further study of the weak global dimension, we need more tool.","the following equalities are true
+
+                               l.w.Ggl(F,A)(R) = fd(A) = fd(A∨).","To do so, let
+us consider a complementary dimension, which is an adaptation of the copure ﬂat
+dimension deﬁned by E. Enochs and O. M. G. Jenda [11].",2022-03-17 01:18:45+00:00,"$(\mathcal{F},\mathcal{A})$-Gorenstein flat homological dimensions",math.RA,['math.RA'],[arxiv.Result.Author('Víctor Becerril')],"In this paper we develop the homological properties of the $(\mathcal{L},
+\mathcal{A})$-Gorenstein flat $R$-modules $\mathcal{GF}_{(\mathcal{F}(R),
+\mathcal{A})}$ proposed by Gillespie. Where the class $\mathcal{A} \subseteq
+\mathrm{Mod} (R^{op})$ sometimes corresponds to a duality pair $(\mathcal{L},
+\mathcal{A})$. We study the weak global and finitistic dimensions that comes
+with $\mathcal{GF}_{(\mathcal{F}(R), \mathcal{A})}$ and show that over a
+$(\mathcal{L}, \mathcal{A})$-Gorenstein ring, the functor $-\otimes _R -$ is
+left balanced over $\mathrm{Mod} (R^{op}) \times \mathrm{Mod} (R)$ by the
+classes $\mathcal{GF}_{(\mathcal{F}(R^{op}), \mathcal{A})} \times
+\mathcal{GF}_{(\mathcal{F}(R), \mathcal{A})}$. When the duality pair is
+$(\mathcal{F} (R), \mathcal{FP}Inj (R^{op}))$ we recover the G. Yang's result
+over a Ding-Chen ring, and we see that is new for $(\mathrm{Lev} (R),
+\mathrm{AC} (R^{op}))$ among others."
+3432,"To further study of the weak global dimension, we need more tool.","the following equalities are true
+
+                               l.w.Ggl(F,A)(R) = fd(A) = fd(A∨).","To do so, let
+us consider a complementary dimension, which is an adaptation of the copure ﬂat
+dimension deﬁned by E. Enochs and O. M. G. Jenda [11].",2022-03-17 01:18:45+00:00,"$(\mathcal{F},\mathcal{A})$-Gorenstein flat homological dimensions",math.RA,['math.RA'],[arxiv.Result.Author('Víctor Becerril')],"In this paper we develop the homological properties of the $(\mathcal{L},
+\mathcal{A})$-Gorenstein flat $R$-modules $\mathcal{GF}_{(\mathcal{F}(R),
+\mathcal{A})}$ proposed by Gillespie. Where the class $\mathcal{A} \subseteq
+\mathrm{Mod} (R^{op})$ sometimes corresponds to a duality pair $(\mathcal{L},
+\mathcal{A})$. We study the weak global and finitistic dimensions that comes
+with $\mathcal{GF}_{(\mathcal{F}(R), \mathcal{A})}$ and show that over a
+$(\mathcal{L}, \mathcal{A})$-Gorenstein ring, the functor $-\otimes _R -$ is
+left balanced over $\mathrm{Mod} (R^{op}) \times \mathrm{Mod} (R)$ by the
+classes $\mathcal{GF}_{(\mathcal{F}(R^{op}), \mathcal{A})} \times
+\mathcal{GF}_{(\mathcal{F}(R), \mathcal{A})}$. When the duality pair is
+$(\mathcal{F} (R), \mathcal{FP}Inj (R^{op}))$ we recover the G. Yang's result
+over a Ding-Chen ring, and we see that is new for $(\mathrm{Lev} (R),
+\mathrm{AC} (R^{op}))$ among others."
+4710,"So the further study on the characteristics of these inﬁnite dimensional
+algebras are meaningful and challenging.","The above result shows that there also exist inﬁnite dimensional
+algebras whose Frobenius-Perron dimension is equal to the maximal number of
+loops.",Acknowledgements.,2022-04-12 01:05:08+00:00,Frobenius-Perron theory of the bound quiver algebras containing loops,math.RA,"['math.RA', 'math.CT', 'math.RT']","[arxiv.Result.Author('J. M. Chen'), arxiv.Result.Author('J. Y. Chen')]","The spectral radius of matrix, also known as Frobenius-Perron dimension, is a
+useful tool for studying linear algebras and plays an important role in the
+classification of the representation categories of algebras. In this paper, we
+study the Frobenius-Perron theory of the representation categories of bound
+quiver algebras containing loops, find a way to calculate the Frobenius-Perron
+dimension of these algebras when they satisfy the commutativity condition of
+loops. As an application, we prove that the Frobenius-Perron dimension of the
+representation category of a modified ADE bounded quiver algebra is equal to
+the maximum number of loops at a vertex. Finally, we point out that there also
+exists infinite dimensional algebras whose Frobenius-Perron dimension is equal
+to the maximal number of loops by giving an example."
+5069,"Our results are helpful for the further study of dual quaternion matrix theory,
+                                          algorithmic design, and applications.","In particular, we also present two vari-
+                                          ants of the above two inequalities expressed by eigenvalues of dual quaternion Hermitian
+                                          matrices.",Key words.,2022-04-20 04:13:25+00:00,von Neumann type trace inequality for dual quaternion matrices,math.RA,"['math.RA', 'math.OC']","[arxiv.Result.Author('Chen Ling'), arxiv.Result.Author('Hongjin He'), arxiv.Result.Author('Liqun Qi')]","As a powerful tool to represent rigid body motion in 3D spaces, dual
+quaternions have been successfully applied to robotics, 3D motion modelling and
+control, and computer graphics. Due to the important applications in
+multi-agent formation control, this paper addresses the concept of spectral
+norm of dual quaternion matrices. We introduce a von Neumann type trace
+inequality and a Hoffman-Wielandt type inequality for general dual quaternion
+matrices, where the latter characterizes a simultaneous perturbation bound on
+all singular values of a dual quaternion matrix. In particular, we also present
+two variants of the above two inequalities expressed by eigenvalues of dual
+quaternion Hermitian matrices. Our results are helpful for the further study of
+dual quaternion matrix theory, algorithmic design, and applications."
+5070,"We believe that our results will
+enrich the theory of dual quaternion matrices, and they will be of beneﬁt to further study of
+dual quaternion matrices, algorithmic design, and applications.","Moreover, by considering the application
+of dual quaternion Hermitian matrices in multi-agent formation control, we also discuss the
+above two inequalities for dual quaternion Hermitian matrices.",This paper is divided into ﬁve sections.,2022-04-20 04:13:25+00:00,von Neumann type trace inequality for dual quaternion matrices,math.RA,"['math.RA', 'math.OC']","[arxiv.Result.Author('Chen Ling'), arxiv.Result.Author('Hongjin He'), arxiv.Result.Author('Liqun Qi')]","As a powerful tool to represent rigid body motion in 3D spaces, dual
+quaternions have been successfully applied to robotics, 3D motion modelling and
+control, and computer graphics. Due to the important applications in
+multi-agent formation control, this paper addresses the concept of spectral
+norm of dual quaternion matrices. We introduce a von Neumann type trace
+inequality and a Hoffman-Wielandt type inequality for general dual quaternion
+matrices, where the latter characterizes a simultaneous perturbation bound on
+all singular values of a dual quaternion matrix. In particular, we also present
+two variants of the above two inequalities expressed by eigenvalues of dual
+quaternion Hermitian matrices. Our results are helpful for the further study of
+dual quaternion matrix theory, algorithmic design, and applications."
+5276,"We should also note that the notion of the antipode and the quasi-
+Hopf algebra is brieﬂy discussed for the involutive case in [16] for some special set-theoretic
+18  ANASTASIA DOIKOU AND BERNARD RYBOLOWICZ
+
+solutions, however further study in this direction is required.","In the involutive case ΦT = 1 ⊗ 1 ⊗ 1,
+so the task in this situation is to identify Φ, but this will be discussed in future works as is a
+quite demanding problem.","The Baxterization of the non-
+involutive solutions and the derivation of a universal R-matrix are among the most challenging
+questions in this context and will be addressed in future investigations.",2022-04-25 12:09:05+00:00,Novel non-involutive solutions of the Yang-Baxter equation from (skew) braces,math.RA,"['math.RA', 'math-ph', 'math.MP', 'math.QA']","[arxiv.Result.Author('Anastasia Doikou'), arxiv.Result.Author('Bernard Rybolowicz')]","We produce novel non-involutive solutions of the Yang-Baxter equation coming
+from (skew) braces. These solutions are generalisations of the known ones
+coming from the standard braces and skew braces, and surprisingly in the case
+of braces they are not necessarily involutive. In the case of two-sided (skew)
+braces one can assign such solutions to every element of the set. Novel
+bijective maps associated to the inverse solutions are also introduced.
+Moreover, we show that the recently derived Drinfeld twists of the involutive
+case are still admissible in the non-involutive frame and we identify the
+twisted r-matrices and twisted copoducts. We observe that as in the involutive
+case the underlying quantum algebra is not a quasi-triangular bialgebra, as one
+would expect, but a quasi-triangular quasi-bialgebra. The same applies to the
+quantum algebra of the twisted r-matrices, contrary to the involutive case."
+5277,"We should also note that the notion of the antipode and the quasi-Hopf algebra is brieﬂy discussed
+for the involutive case in [16] for some special set-theoretic solutions, however further study in
+this direction is required.","In the involutive case ΦT = 1 ⊗ 1 ⊗ 1, so the task in
+this situation is to identify Φ, but this will be discussed in future works as is a demanding problem.","The Baxterization of the non-involutive solutions and the derivation of a
+universal R-matrix are among the most challenging questions in this context and will be addressed
+in future investigations.",2022-04-25 12:09:05+00:00,Novel non-involutive solutions of the Yang-Baxter equation from (skew) braces,math.RA,"['math.RA', 'math-ph', 'math.MP', 'math.QA']","[arxiv.Result.Author('Anastasia Doikou'), arxiv.Result.Author('Bernard Rybolowicz')]","We produce novel non-involutive solutions of the Yang-Baxter equation coming
+from (skew) braces. These solutions are generalisations of the known ones
+coming from the standard braces and skew braces, and surprisingly in the case
+of braces they are not necessarily involutive. In the case of two-sided (skew)
+braces one can assign such solutions to every element of the set. Novel
+bijective maps associated to the inverse solutions are also introduced.
+Moreover, we show that the recently derived Drinfeld twists of the involutive
+case are still admissible in the non-involutive frame and we identify the
+twisted r-matrices and twisted copoducts. We observe that as in the involutive
+case the underlying quantum algebra is not a quasi-triangular bialgebra, as one
+would expect, but a quasi-triangular quasi-bialgebra. The same applies to the
+quantum algebra of the twisted r-matrices, contrary to the involutive case."
+5333,"Before proceeding to the
+main section, we give some deﬁnitions and results which are helpful to
+further study.","CF M
+denotes the column ﬁnite matrix, R-Mod denotes the category of right
+R-modules, σ[M ] denotes the full subcategory of R-Mod, E(M ) de-
+notes an injective hull of an R-module M .",Deﬁnition 1.1.,2022-04-26 11:25:12+00:00,Σ-dual Rickart modules,math.RA,['math.RA'],"[arxiv.Result.Author('Shiv Kumar'), arxiv.Result.Author('Ashok Ji Gupta')]","In this paper, we dualize the concept of {\Sigma}-Rickart modules as
+{\Sigma}-dual Rickart modules. An R-module M is said to be {\Sigma}-dual
+Rickart if the direct sum of arbitrary copies of M is dual Rickart. We prove
+that each cohereditary module over the Noetherian ring is a {\Sigma}-dual
+Rickart. We introduce the notion of strongly cogenerated modules and
+characterize {\Sigma}-dual Rickart modules in terms of strongly cogenerated
+modules. We also study some properties of {\Sigma}- dual Rickart modules and
+find connections with semisimple Artinian ring, regular ring semi-hereditary
+ring and FP-injective module. Further, we study the endomorphism ring of
+{\Sigma}-dual Rickart modules"
+5334,"Before proceed to the main section, we give some
+deﬁnitions and results which are helpful to our further study.","For undeﬁned symboles and deﬁnitions (if any)
+please see [3], [14] and [20].",Deﬁnition 1.1.,2022-04-26 11:25:12+00:00,Σ-dual Rickart modules,math.RA,['math.RA'],"[arxiv.Result.Author('Shiv Kumar'), arxiv.Result.Author('Ashok Ji Gupta')]","In this paper, we dualize the concept of {\Sigma}-Rickart modules as
+{\Sigma}-dual Rickart modules. An R-module M is said to be {\Sigma}-dual
+Rickart if the direct sum of arbitrary copies of M is dual Rickart. We prove
+that each cohereditary module over the Noetherian ring is a {\Sigma}-dual
+Rickart. We introduce the notion of strongly cogenerated modules and
+characterize {\Sigma}-dual Rickart modules in terms of strongly cogenerated
+modules. We also study some properties of {\Sigma}- dual Rickart modules and
+find connections with semisimple Artinian ring, regular ring semi-hereditary
+ring and FP-injective module. Further, we study the endomorphism ring of
+{\Sigma}-dual Rickart modules"
+5761,"The ﬁrst purpose of this paper is to construct new hereditary abelian model struc-
+tures on the category of left R-modules that involve the class of GC-ﬂat modules and
+the well-known Foxby classes, and use the homotopy categories of these model struc-
+tures in order to further study these classes.","We refer
+the reader to [22] for a recent and interesting survey on hereditary abelian model
+structures.","A second purpose of this paper is to
+continue the study initiated in [5, 7, 8, 9] of relative Gorenstein homological algebra
+with respect to a non necessary semidualizing module C. In particular, we will prove
+results that are new even in the case where C is a semidualizing module.",2022-05-04 12:44:54+00:00,Relative Gorenstein flat modules and Foxby classes and their model structures,math.RA,"['math.RA', 'Primary: 18G25. Secondary: 18N40']","[arxiv.Result.Author('Driss Bennis'), arxiv.Result.Author('Rachid EL Maaouy'), arxiv.Result.Author('Juan Ramón García Rozas'), arxiv.Result.Author('Luis Oyonarte')]","A model structure on a category is a formal way of introducing a homotopy
+theory on that category, and if the model structure is abelian and hereditary,
+its homotopy category is known to be triangulated. So a good way to both build
+and model a triangulated category is to build a hereditary abelian model
+structure. Given a ring $R$ and a (non necessarily semidualizing) left
+$R$-module $C$, we introduce and study new concepts of relative Gorenstein
+cotorsion and cotorsion modules: $\rm G_C$-cotorsion and (strongly)
+$\mathcal{C}_C$-cotorsion. As an application, we prove that there is a unique
+hereditary abelian model structure on the category of left $R$-modules, in
+which the cofibrations are the monomorphisms with $\rm G_C$-flat cokernel and
+the fibrations are the epimorphisms with $\mathcal{C}_C$-cotorsion kernel
+belonging to the Bass class $\mathcal{B}_C(R)$. In the second part, when $C$ is
+a semidualizing $(R,S)$-bimodule, we investigate the existence of abelian model
+structures on the category of left (resp., right) $R$-modules where the
+cofibrations are the epimorphisms (resp., monomorphisms) with kernel (resp.,
+cokernel) belonging to the Bass (resp., Auslander) class $\mathcal{B}_C(R)$
+(resp., $\mathcal{A}_C(R)$). We also study the class of $\rm G_C$-flat modules
+and the Bass class from the Auslander-Buchweitz approximation theory point of
+view. We show that they are part of weak AB-contexts. As the concept of weak
+AB-context can be dualized, we also give dual results that involve the class of
+$\rm G_C$-cotorsion modules and the Auslander class."
+6593,"As a further research, we intend to
+continue this study by extended it to other classes of logical algebras.","For this, we
+investigated some properties of the lattice of ideals in commutative rings and we
+show that, for ﬁnite rings of the form A = Zk1 × Zk2 × ... × Zkr , where ki = pαi i
+and pi a prime number, for all i ∈ {1, 2, ..., r}, this lattice is a Boolean algebra
+or an MV-algebra (which is not Boolean).","Also we
+will investigate the codes attached to such structures, since we can have here
+two directions of research.",2022-05-23 16:20:37+00:00,Connections between commutative rings and some algebras of logic,math.RA,['math.RA'],"[arxiv.Result.Author('Cristina Flaut'), arxiv.Result.Author('Dana Piciu')]","In this paper using the connections between some subvarieties of residuated
+lattices, we investigated some properties of the lattice of ideals in
+commutative and unitary rings. We give new characterizations for commutative
+rings $A$ in which $Id(A)$ is an MV-algebra, a Heyting algebra or a Boolean
+algebra and we establish connections between these types of rings. We are very
+interested in the finite case and we present summarizing statistics. We show
+that the lattice of ideals in a finite commutative ring of the form $A=%
+\mathbb{Z}_{k_{1}}\times \mathbb{Z}_{k_{2}}\times ...\times \mathbb{Z}%
+_{k_{r}},$ where $k_{i}=p_{i}^{\alpha _{i}}$ and $p_{i}$ a prime number, for
+all $i\in \{1,2,...,r\},$ \ is a Boolean algebra or an MV-algebra (which is not
+Boolean).
+  Using this result we generate the binary block codes associated to the
+lattice of ideals in finite commutative rings and we present a new way to
+generate all (up to an isomorphism) finite MV-algebras using rings."
+8895,"A further study
+                                          on an L∞-algebra structure associated to this cohomology theory will be given in a subsequent
+                                          paper.","Inspired by the work of Wang and Zhou [4] for Rota-Baxter algebras, we develop a co-
+                                          homology theory of Rota-Baxter systems and justify it by interpreting the lower degree cohomology
+                                          groups as formal deformations and as abelian extensions of Rota-Baxter systems.","Contents
+
+                                          1.",2022-07-14 12:28:01+00:00,Deformations and Cohomology Theory of Rota-Baxter Systems,math.RA,"['math.RA', '16E40, 16S80, 16S70']","[arxiv.Result.Author('Yuming Liu'), arxiv.Result.Author('Kai Wang'), arxiv.Result.Author('Liwen Yin')]","Inspired by the work of Wang and Zhou [4] for Rota-Baxter algebras, we
+develop a cohomology theory of Rota-Baxter systems and justify it by
+interpreting the lower degree cohomology groups as formal deformations and as
+abelian extensions of Rota-Baxter systems. A further study on an
+$L_\infty$-algebra structure associated to this cohomology theory will be given
+in a subsequent paper."
+10195,"Directions for
+further research involving “combinatorial contactization” are discussed in Section 7.","In
+Section 6, we characterize toral posets corresponding to contact, type-A Lie poset algebras.","2 Preliminaries
+
+A ﬁnite poset (P, P ) consists of a ﬁnite set P = {1, 2, .",2022-08-18 20:57:20+00:00,On toral posets and contact Lie algebras,math.RA,"['math.RA', 'math.CO']","[arxiv.Result.Author('Nicholas W. Mayers'), arxiv.Result.Author('Nicholas Russoniello')]","A $(2k+1)-$dimensional Lie algebra is called contact if it admits a one-form
+$\varphi$ such that $\varphi\wedge(d\varphi)^k\neq 0.$ Here, we extend recent
+work to describe a combinatorial procedure for generating contact, type-A Lie
+poset algebras whose associated posets have chains of arbitrary cardinality,
+and we conjecture that our construction leads to a complete characterization."
+10196,"A potential direction for further research related to the notion of combinatorial contactization is in Lie
+poset algebras of other types.","The beneﬁt of this approach is that it appears to be the ﬁrst instance of its kind to use
+combinatorics, rather than algebra or geometry.","In general, a Lie poset subalgebra of a classical, simple Lie algebra g is one
+which lies between a Cartan subalgebra of g and an associated Borel subalgebra of g (see [5]).",2022-08-18 20:57:20+00:00,On toral posets and contact Lie algebras,math.RA,"['math.RA', 'math.CO']","[arxiv.Result.Author('Nicholas W. Mayers'), arxiv.Result.Author('Nicholas Russoniello')]","A $(2k+1)-$dimensional Lie algebra is called contact if it admits a one-form
+$\varphi$ such that $\varphi\wedge(d\varphi)^k\neq 0.$ Here, we extend recent
+work to describe a combinatorial procedure for generating contact, type-A Lie
+poset algebras whose associated posets have chains of arbitrary cardinality,
+and we conjecture that our construction leads to a complete characterization."
+10627,"2
+
+ [12] C. M. Bai, A further study on non-abelian phase spaces: Left-symmetric algebraic approach and
+        related geometry , Rev.","Cambridge University Press, Cambridge (1890).",Math.,2022-09-01 00:31:03+00:00,On n-Hom-pre-Lie superalgebras structures and their representations,math.RA,['math.RA'],"[arxiv.Result.Author('Othmen Ncib'), arxiv.Result.Author('Sihem Sendi')]","In this paper, we introduce the notion of n-Hom-pre-Lie superalgebras. We
+investigate the representation theory of n-Hom-pre-Lie superalgebras and we
+give some related results and structures based on Rota-Baxter operators,
+O-operators and Nijenhuis operators. Moreover, we study relationships between
+n-Hom-pre-Lie superalgebras and its induced Hom-pre-Lie superalgebras. The same
+procedure is applied for the representations of n- Hom-pre-Lie superalgebras."
+11932,"The purpose of this paper is to further study of the
+                                                      Mitsch order on modules by investigating basic properties via endomorphism
+                                                      rings.","The Mitsch order is already known as a natural partial order for
+                                                      semigroups and rings.","And so this study also contribute to the results related to the orders
+                                                      on rings.",2022-10-02 08:15:24+00:00,The Natural partial order on modules,math.RA,"['math.RA', '06A06, 06F25, 06F99, 16B99']","[arxiv.Result.Author('Tugba Pakel'), arxiv.Result.Author('Tugce Pekacar Calci'), arxiv.Result.Author('Sait Halicioglu'), arxiv.Result.Author('Abdullah Harmanci'), arxiv.Result.Author('Burcu Ungor')]","The Mitsch order is already known as a natural partial order for semigroups
+and rings. The purpose of this paper is to further study of the Mitsch order on
+modules by investigating basic properties via endomorphism rings. And so this
+study also contribute to the results related to the orders on rings. As a
+module theoretic analog of the Mitsch order, we show that this order is a
+partial order on arbitrary modules. Among others, lattice properties of the
+Mitsch order and the relations between the Mitsch order and the other
+well-known orders, such as, the minus order, the Jones order, the direct sum
+order and the space pre-order on modules are studied. In particular, we prove
+that the minus order is the Mitsch order and we supply an example to show that
+the converse does not hold in general."
+11939,"16  JUN ZHAO AND BO HOU
+
+                                                 References
+
+ [1] C. Bai, A further study on non-abelian phase spaces: left-symmetric algebraic approach and related geome-
+      try.","The data that support the ﬁndings of this study are available from the corre-
+sponding author upon reasonable request.",Rev.,2022-10-02 09:12:39+00:00,The cohomology of left-symmetric conformal algebra and its applications,math.RA,['math.RA'],"[arxiv.Result.Author('Jun Zhao'), arxiv.Result.Author('Bo Hou')]","In this paper, we develop a cohomology theory of a left-symmetric conformal
+algebra and study its some applications. We define the cohomology of a
+left-symmetric conformal algebra, and then give an isomorphism between the
+cohomology spaces of the left-symmetric conformal algebra and its sub-adjacent
+Lie conformal algebra. As applications of the cohomology theory, we study
+linear deformations, formal $1$-parameter deformations, $T^*$-extensions of a
+left-symmetric conformal algebra respectively and obtain some properties."
+11940,"16  JUN ZHAO AND BO HOU
+
+                                                 References
+
+ [1] C. Bai, A further study on non-abelian phase spaces: left-symmetric algebraic approach and related geome-
+      try.","The data that support the ﬁndings of this study are available from the corre-
+sponding author upon reasonable request.",Rev.,2022-10-02 09:12:39+00:00,The cohomology of left-symmetric conformal algebra and its applications,math.RA,['math.RA'],"[arxiv.Result.Author('Jun Zhao'), arxiv.Result.Author('Bo Hou')]","In this paper, we develop a cohomology theory of a left-symmetric conformal
+algebra and study its some applications. We define the cohomology of a
+left-symmetric conformal algebra, and then give an isomorphism between the
+cohomology spaces of the left-symmetric conformal algebra and its sub-adjacent
+Lie conformal algebra. As applications of the cohomology theory, we study
+linear deformations, formal $1$-parameter deformations, $T^*$-extensions of a
+left-symmetric conformal algebra respectively and obtain some properties."
+12304,"In 2022, further study in the context of vector
+                                          spaces was carried by Krishna and Johnson [26].","In 2021, by identifying essential mechanisms of dilation theory, Bhat, De and Rakshit [8] obtained sur-
+                                          prising results in the set theory context and vector spaces.","We note that another vector space variant is also studied
+                                          by Han, Larson, Liu and Liu [23].",2022-09-27 14:00:05+00:00,"Indefinite Halmos, Egervary and Sz.-Nagy Dilations",math.RA,"['math.RA', 'math.AC', 'math.OA', '47A20, 16D10, 46C20']",[arxiv.Result.Author('K. Mahesh Krishna')],"Let $\mathcal{M}$ be an indefinite inner product module over a *-ring of
+characteristic 2. We show that every self-adjoint operator on $\mathcal{M}$
+admits Halmos, Egervary and Sz.-Nagy dilations."
+13400,[31] had a further study the properties of even-order tensors with Einstein product.,Ji et al.,"The notion
+of the Drazin inverse of a square matrix to an even-order square tensor were extended.",2022-11-05 07:46:08+00:00,The generalized inverses of the quaternion tensor via the T-product,math.RA,['math.RA'],"[arxiv.Result.Author('Hongwei Jin'), arxiv.Result.Author('Peifeng Zhou'), arxiv.Result.Author('Hongjie Jiang'), arxiv.Result.Author('Xiaoji Liu')]","In this article, specific definitions of the Moore-Penrose inverse, Drazin
+inverse of the quaternion tensor and the inverse along two quaternion tensors
+are introduced under the T-product. Some characterizations, representations and
+properties of the defined inverses are investigated. Moreover, algorithms are
+established for computing the Moore-Penrose inverse, Drazin inverse of the
+quaternion tensor and the inverse along two quaternion tensors, respectively."
+13401,[14] had a further study on the generalized inverses of tensors.,Behera et al.,"Several characterizations of
+                                         generalized inverses of tensors are provided.",2022-11-05 07:53:00+00:00,The generalized inverses of tensors via the C-Product,math.RA,['math.RA'],"[arxiv.Result.Author('Hongwei Jin'), arxiv.Result.Author('Shumin Xu'), arxiv.Result.Author('Hongjie Jiang'), arxiv.Result.Author('Xiaoji Liu')]","This paper studies the issues about the generalized inverses of tensors under
+the C-Product. The aim of this paper is threefold. Firstly, this paper present
+the definition of the Moore-Penrose inverse, Drazin inverse of tensors under
+the C-Product. Moreover, the inverse along a tensor is also introduced.
+Secondly, this paper gives some other expressions of the generalized inverses
+of tensors by using several decomposition forms of tensors. Finally, the
+algorithms for the Moore-Penrose inverse, Drazin inverse of tensors and the
+inverse along a tensor are established."
+13423,"In this paper we
+                                                   give a further study of the notion of a strongly π-∗-regular ring, which is the
+                                                   ∗-version of strongly π-regular rings and which was originally introduced by
+                                                   Cui-Wang in J. Korean Math.","Recall that a ring R is called strongly π-regular if, for every a ∈ R,
+                                                   there is a positive integer n such that an ∈ an+1R ∩ Ran+1.",Soc.,2022-11-06 23:11:46+00:00,On strongly pi-regular rings with involution,math.RA,"['math.RA', '16E50, 16W10']","[arxiv.Result.Author('Jian Cui'), arxiv.Result.Author('Peter Danchev')]","Recall that a ring R is called strongly pi-regular if, for every a in R,
+there is a positive integer n such that a^n belongs to the intersection of
+a^{n+1}R and Ra^{n+1}. In this paper we give a further study of the notion of a
+strongly pi-star-regular ring, which is the star-version of strongly pi-regular
+rings and which was originally introduced by Cui-Wang in J. Korean Math. Soc.
+(2015). We also establish various properties of these rings and give several
+new characterizations in terms of (strong) pi-regularity and involution. Our
+results also considerably extend recent ones in the subject due to Cui-Yin in
+Algebra Colloq. (2018) proved for pi-star-regular rings and due to Cui-Danchev
+in J. Algebra Appl. (2020) proved for star-periodic rings."
+13595,"Exploratory results show that the situation splits into two cases depending
+on whether the parameter p is zero or not, leading to potential further study.","In the case d = 2 appears a new family of Lie algebras
+indexed when char k = 2 by a couple of scalars (p, q) ∈ k × k× such that
+p2 − 4q is not a square in k and whose Lie brackets on a basis {x, y, z} are
+given by
+
+                     [x, y] = −qz, [x, z] = y + pz, [y, z] = 0.","References
+
+ [1] J. Alev and F. Dumas.",2022-11-10 17:22:26+00:00,Rational equivalence for enveloping algebras of three-dimensional Lie algebras,math.RA,"['math.RA', '16S30, 16K40, 16K20, 16S36, 17B35']","[arxiv.Result.Author('Jacques Alev'), arxiv.Result.Author('François Dumas'), arxiv.Result.Author('César Lecoutre')]","We study from the point of view of rational equivalence the enveloping
+algebras of Lie algebras of dimension 3 whose derived Lie subalgebra is of
+dimension 2, over an algebraically closed base field in arbitrary
+characteristics."
+13705,"Preliminaries
+
+    In this section, we give some basic theories for further research, such as the singular value
+decomposition (SVD for short) of real matrix, characterizations of star partial order and DMPGI
+and so on.",2.,THEOREM 2.1 (SVD).,2022-11-14 07:20:10+00:00,Characterizations and properties of dual matrix star orders,math.RA,"['math.RA', '15A09, 06A06']","[arxiv.Result.Author('Hongxing Wang'), arxiv.Result.Author('Pei Huang')]","In this paper, we introduce D-star order, T-star order and P-star order on
+the class of dual matrices. By applying matrix decomposition and dual
+generalized inverses, we discuss properties, characterizations and relations
+among these orders, and illustrate their relations with examples."

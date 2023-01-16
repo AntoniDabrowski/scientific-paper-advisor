@@ -1,0 +1,1343 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+894,"While these considerations will not be important for the complexity-theoretic statements of
+    the main theorem, further research on the complexity of ksat-prob≥δ could address these
+    questions.","It is,
+    however, not clear whether such a family exists as the natural way of searching for packings
+    or sunﬂowers involves color coding, which seems to need a quadratic size for derandomization.","4.2 Lower Complexity Bounds for the Strictly-Greater-Than Problem
+
+    We now show that ksat-prob>δ is NL- or NP-hard for certain values of k and δ.",2022-01-21 21:31:20+00:00,On the Satisfaction Probability of $k$-CNF Formulas,cs.CC,"['cs.CC', 'cs.LO', 'F.1.3; F.4.1; F.2.2']",[arxiv.Result.Author('Till Tantau')],"The satisfaction probability $\sigma(\phi) := \Pr_{\beta:\mathrm{vars}(\phi)
+\to \{0,1\}}[\beta\models \phi]$ of a propositional formula $\phi$ is the
+likelihood that a random assignment $\beta$ makes the formula true. We study
+the complexity of the problem $k$sat-prob$_{>\delta} = \{ \phi$ is a
+$k\mathrm{cnf}$ formula $\mid \sigma(\phi) > \delta\}$ for fixed $k$ and
+$\delta$. While 3sat-prob$_{>0}$ = 3sat is NP-complete and sat-prob$_{>1/2}$ is
+PP-complete, Akmal and Williams recently showed 3sat-prob$_{>1/2} \in$ P and
+4sat-prob$_{>1/2} \in$ NP-complete; but the methods used to prove these
+striking results stay silent about, say, 4sat-prob$_{>1/3}$, leaving the
+computational complexity of $k$sat-prob$_{>\delta}$ open for most $k$ and
+$\delta$. In the present paper we give a complete characterization in the form
+of a trichotomy: $k$sat-prob$_{>\delta}$ lies in AC$^0$, is NL-complete, or is
+NP-complete; and given $k$ and $\delta$ we can decide which of the three
+applies. The proof of the trichotomy hinges on a new order-theoretic insight:
+Every set of $k$cnf formulas contains a formula of maximum satisfaction
+probability. This deceptively simple result allows us to (1) kernelize
+$k$sat-prob$_{\ge \delta}$, (2) show that the variables of the kernel form a
+strong backdoor set when the trichotomy states membership in AC$^0$ or NL, and
+(3) prove a new locality property for the models of second-order formulas that
+describe problems like $k$sat-prob$_{\ge \delta}$. The locality property will
+allow us to prove a conjecture of Akmal and Williams: The majority-of-majority
+satisfaction problem for $k$cnfs lies in P for all $k$."
+895,"While these considerations will not be important for the complexity-theoretic statements of
+    the main theorem, further research on the complexity of ksat-prob≥δ could address these
+    questions.","It is,
+    however, not clear whether such a family exists as the natural way of searching for packings
+    or sunﬂowers involves color coding, which seems to need a quadratic size for derandomization.","4.2 Lower Complexity Bounds for the Strictly-Greater-Than Problem
+
+    We now show that ksat-prob>δ is NL- or NP-hard for certain values of k and δ.",2022-01-21 21:31:20+00:00,On the Satisfaction Probability of $k$-CNF Formulas,cs.CC,"['cs.CC', 'cs.LO', 'F.1.3; F.4.1; F.2.2']",[arxiv.Result.Author('Till Tantau')],"The satisfaction probability $\sigma(\phi) := \Pr_{\beta:\mathrm{vars}(\phi)
+\to \{0,1\}}[\beta\models \phi]$ of a propositional formula $\phi$ is the
+likelihood that a random assignment $\beta$ makes the formula true. We study
+the complexity of the problem $k$sat-prob$_{>\delta} = \{ \phi$ is a
+$k\mathrm{cnf}$ formula $\mid \sigma(\phi) > \delta\}$ for fixed $k$ and
+$\delta$. While 3sat-prob$_{>0}$ = 3sat is NP-complete and sat-prob$_{>1/2}$ is
+PP-complete, Akmal and Williams recently showed 3sat-prob$_{>1/2} \in$ P and
+4sat-prob$_{>1/2} \in$ NP-complete; but the methods used to prove these
+striking results stay silent about, say, 4sat-prob$_{>3/4}$, leaving the
+computational complexity of $k$sat-prob$_{>\delta}$ open for most $k$ and
+$\delta$. In the present paper we give a complete characterization in the form
+of a trichotomy: $k$sat-prob$_{>\delta}$ lies in AC$^0$, is NL-complete, or is
+NP-complete; and given $k$ and $\delta$ we can decide which of the three
+applies. The proof of the trichotomy hinges on a new order-theoretic insight:
+Every set of $k$cnf formulas contains a formula of maximum satisfaction
+probability. This deceptively simple result allows us to (1) kernelize
+$k$sat-prob$_{\ge \delta}$, (2) show that the variables of the kernel form a
+strong backdoor set when the trichotomy states membership in AC$^0$ or NL, and
+(3) prove a new locality property for the models of second-order formulas that
+describe problems like $k$sat-prob$_{\ge \delta}$. The locality property will
+allow us to prove a conjecture of Akmal and Williams: The majority-of-majority
+satisfaction problem for $k$cnfs lies in P for all $k$."
+904,"We also mention that the existence of algorithms for the
+problems Count-IP and Opt-And-Count-IP in the form Standard-Form with
+multiplicities, parameterized by k and polynomial by n, is open, and it is a
+good direction for further research.","To handle the problems with multiplicities, we just take the com-
+plexity bound (13).","Sparse ILP and Applications                                      13
+
+Table 2: New complexity bounds for ILP problems in the form Standard-Form
+
+           Problems:                                               T ime : 1
+   Opt-IP without mult.",2022-01-22 08:04:18+00:00,Faster Algorithms for Sparse ILP and Hypergraph Multi-Packing/Multi-Cover Problems,cs.CC,"['cs.CC', 'cs.DS', 'math.CO']","[arxiv.Result.Author('Dmitry Gribanov'), arxiv.Result.Author('Dmitry Malyshev'), arxiv.Result.Author('Nikolai Zolotykh')]","In our paper, we consider the following general problems: check feasibility,
+count the number of feasible solutions, find an optimal solution, and count the
+number of optimal solutions in $P \cap Z^n$, assuming that $P$ is a polyhedron,
+defined by systems $A x \leq b$ or $Ax = b,\, x \geq 0$ with a sparse matrix
+$A$. We develop algorithms for these problems that outperform state of the art
+ILP and counting algorithms on sparse instances with bounded elements.
+  We use known and new methods to develop new exponential algorithms for
+Edge/Vertex Multi-Packing/Multi-Cover Problems on graphs and hypergraphs. This
+framework consists of many different problems, such as the Stable Multi-set,
+Vertex Multi-cover, Dominating Multi-set, Set Multi-cover, Multi-set
+Multi-cover, and Hypergraph Multi-matching problems, which are natural
+generalizations of the standard Stable Set, Vertex Cover, Dominating Set, Set
+Cover, and Maximal Matching problems."
+905,"We also mention that the existence of algorithms for the
+problems Count-IP and Opt-And-Count-IP in the form Standard-Form with
+multiplicities, parameterized by k and polynomial by n, is open, and it is a
+good direction for further research.","To handle the problems with multiplicities, we just take the com-
+plexity bound (13).","Table 2: New complexity bounds for ILP problems in the form Standard-Form
+
+           Problems:                                               T ime : 1
+   Opt-IP without mult.",2022-01-22 08:04:18+00:00,Faster Algorithms for Sparse ILP and Hypergraph Multi-Packing/Multi-Cover Problems,cs.CC,"['cs.CC', 'cs.DS', 'math.CO']","[arxiv.Result.Author('Dmitry Gribanov'), arxiv.Result.Author('Dmitry Malyshev'), arxiv.Result.Author('Nikolai Zolotykh')]","In our paper, we consider the following general problems: check feasibility,
+count the number of feasible solutions, find an optimal solution, and count the
+number of optimal solutions in $P \cap Z^n$, assuming that $P$ is a polyhedron,
+defined by systems $A x \leq b$ or $Ax = b,\, x \geq 0$ with a sparse matrix
+$A$. We develop algorithms for these problems that outperform state of the art
+ILP and counting algorithms on sparse instances with bounded elements.
+  We use known and new methods to develop new exponential algorithms for
+Edge/Vertex Multi-Packing/Multi-Cover Problems on graphs and hypergraphs. This
+framework consists of many different problems, such as the Stable Multi-set,
+Vertex Multi-cover, Dominating Multi-set, Set Multi-cover, Multi-set
+Multi-cover, and Hypergraph Multi-matching problems, which are natural
+generalizations of the standard Stable Set, Vertex Cover, Dominating Set, Set
+Cover, and Maximal Matching problems."
+2151,"We advocate for the theory of total search problems (TFNP)
+                                                as a unifying language for these connections and discuss how this perspective suggests a whole
+                                                programme for further research.","de Rezende1 M. G¨o¨os2 R. Robere3
+
+                                                                                                        Abstract
+                                                    We survey lower-bound results in complexity theory that have been obtained via new-
+                                                found interconnections between propositional proof complexity, boolean circuit complexity, and
+                                                query/communication complexity.","1 Introduction
+
+                                        In recent years there has been a large number of new results in both propositional proof complex-
+                                        ity and boolean circuit complexity.",2022-02-17 21:46:43+00:00,"Proofs, Circuits, and Communication",cs.CC,['cs.CC'],"[arxiv.Result.Author('Susanna F. de Rezende'), arxiv.Result.Author('Mika Göös'), arxiv.Result.Author('Robert Robere')]","We survey lower-bound results in complexity theory that have been obtained
+via newfound interconnections between propositional proof complexity, boolean
+circuit complexity, and query/communication complexity. We advocate for the
+theory of total search problems (TFNP) as a unifying language for these
+connections and discuss how this perspective suggests a whole programme for
+further research."
+2152,"5 Perspectives and Open Problems
+
+In this ﬁnal section, we discuss directions for further research inspired by the themes of this survey.","We note that, in contrast to [BEGJ00], for this application it is indeed important that the
+communication model of the lifting theorem is real communication protocols and not triangle-dags.","Our main conceptual message is this: We advocate to foster the interplay between the diﬀerent
+subﬁelds of complexity theory—circuit complexity, proof complexity, query/communication com-
+plexity, and the theory of total search problems.",2022-02-17 21:46:43+00:00,"Proofs, Circuits, and Communication",cs.CC,['cs.CC'],"[arxiv.Result.Author('Susanna F. de Rezende'), arxiv.Result.Author('Mika Göös'), arxiv.Result.Author('Robert Robere')]","We survey lower-bound results in complexity theory that have been obtained
+via newfound interconnections between propositional proof complexity, boolean
+circuit complexity, and query/communication complexity. We advocate for the
+theory of total search problems (TFNP) as a unifying language for these
+connections and discuss how this perspective suggests a whole programme for
+further research."
+3047,"It is precisely
+because of this link between the security of LWE and BDD that further study of Eldar and Hallgren’s
+algorithm for BDD is so important.","Elsewhere in the paper, they proved the opposite direction of the reduction as well, meaning
+that the conjectured hardness of γ-GAP-SVP is equivalent to the hardness of BDD.","2.4 Survey of Quantum Approaches to Lattice Problems
+
+Before Eldar and Hallgren’s algorithm for BDD, a number of other quantum algorithms have been
+
+proposed for diﬀerent lattice problems.",2022-02-18 04:09:41+00:00,Quantum and Classical Algorithms for Bounded Distance Decoding,cs.CC,"['cs.CC', 'cs.DS', 'quant-ph']","[arxiv.Result.Author('Richard Allen'), arxiv.Result.Author('Ratip Emin Berker'), arxiv.Result.Author('Sílvia Casacuberta'), arxiv.Result.Author('Michael Gul')]","In this paper, we provide a comprehensive overview of a recent debate over
+the quantum versus classical solvability of bounded distance decoding (BDD).
+Specifically, we review the work of Eldar and Hallgren [EH22], [Hal21]
+demonstrating a quantum algorithm solving $\lambda_1 2^{-\Omega(\sqrt{k \log
+q})}$-BDD in polynomial time for lattices of periodicity $q$, finite group rank
+$k$, and shortest lattice vector length $\lambda_1$. Subsequently, we prove the
+results of [DvW21a], [DvW21b] with far greater detail and elaboration than in
+the original work. Namely, we show that there exists a deterministic, classical
+algorithm achieving the same result."
+3334,"5 with references to possible future work which focuses on further research
+regarding computational complexity and decidability issues on the reachability problems of NN or
+deep learning models in a broader sense.",We conclude in Sec.,2.,2022-03-15 14:25:44+00:00,Reachability In Simple Neural Networks,cs.CC,"['cs.CC', 'cs.LG']","[arxiv.Result.Author('Marco Sälzer'), arxiv.Result.Author('Martin Lange')]","We investigate the complexity of the reachability problem for (deep) neural
+networks: does it compute valid output given some valid input? It was recently
+claimed that the problem is NP-complete for general neural networks and
+specifications over the input/output dimension given by conjunctions of linear
+inequalities. We recapitulate the proof and repair some flaws in the original
+upper and lower bound proofs. Motivated by the general result, we show that
+NP-hardness already holds for restricted classes of simple specifications and
+neural networks. Allowing for a single hidden layer and an output dimension of
+one as well as neural networks with just one negative, zero and one positive
+weight or bias is sufficient to ensure NP-hardness. Additionally, we give a
+thorough discussion and outlook of possible extensions for this direction of
+research on neural network verification."
+3335,"5 with references to possible future work which focuses on further research
+regarding computational complexity and decidability issues on the reachability problems of NN or
+deep learning models in a broader sense.",We conclude in Sec.,2.,2022-03-15 14:25:44+00:00,Reachability In Simple Neural Networks,cs.CC,"['cs.CC', 'cs.LG']","[arxiv.Result.Author('Marco Sälzer'), arxiv.Result.Author('Martin Lange')]","We investigate the complexity of the reachability problem for (deep) neural
+networks: does it compute valid output given some valid input? It was recently
+claimed that the problem is NP-complete for general neural networks and
+specifications over the input/output dimension given by conjunctions of linear
+inequalities. We recapitulate the proof and repair some flaws in the original
+upper and lower bound proofs. Motivated by the general result, we show that
+NP-hardness already holds for restricted classes of simple specifications and
+neural networks. Allowing for a single hidden layer and an output dimension of
+one as well as neural networks with just one negative, zero and one positive
+weight or bias is sufficient to ensure NP-hardness. Additionally, we give a
+thorough discussion and outlook of possible extensions for this direction of
+research on neural network verification."
+3489,"7 Discussion
+
+In this section, we will discuss the importance of the paper by Reingold[1] and some further research
+based on the paper.",This is a direct consequence of Theorem 4.1 and Theorem 6.2.,The paper by Reingold has made progress towards discovering the relationship between L and RL.,2022-03-18 04:01:15+00:00,On the Problem of Undirected st-connectivity,cs.CC,"['cs.CC', 'F.1.3']","[arxiv.Result.Author('Shilun Li'), arxiv.Result.Author('Alex Lee')]","In this paper, we discuss an algorithm for the problem of undirected
+st-connectivity that is deterministic and log-space, namely that of Reingold
+within his 2008 paper ""Undirected Connectivity in Log-Space"". We further
+present a separate proof by Rozenman and Vadhan of $\text{USTCONN} \in L$ and
+discuss its similarity with Reingold's proof. Undirected st-connectively is
+known to be complete for the complexity class SL--problems solvable by
+symmetric, non-deterministic, log-space algorithms. Likewise, by Aleliunas et.
+al., it is known that undirected st-connectivity is within the RL complexity
+class, problems solvable by randomized (probabilistic) Turing machines with
+one-sided error in logarithmic space and polynomial time. Finally, our paper
+also shows that undirected st-connectivity is within the L complexity class,
+problems solvable by deterministic Turing machines in logarithmic space.
+Leading from this result, we shall explain why SL = L and discuss why is it
+believed that RL = L."
+4315,"This includes, but is not limited to, identifying angles from which it is tight and angles
+from which it leaves room for further research.","1.2 Discussion
+
+In this section, we discuss our main theorem from various perspectives, pointing out strengths and
+limitations.",Input Neurons.,2022-04-04 10:28:11+00:00,Training Fully Connected Neural Networks is $\exists\mathbb{R}$-Complete,cs.CC,"['cs.CC', 'cs.LG', 'cs.NE']","[arxiv.Result.Author('Daniel Bertschinger'), arxiv.Result.Author('Christoph Hertrich'), arxiv.Result.Author('Paul Jungeblut'), arxiv.Result.Author('Tillmann Miltzow'), arxiv.Result.Author('Simon Weber')]","We consider the algorithmic problem of finding the optimal weights and biases
+for a two-layer fully connected neural network to fit a given set of data
+points. This problem is known as empirical risk minimization in the machine
+learning community. We show that the problem is $\exists\mathbb{R}$-complete.
+This complexity class can be defined as the set of algorithmic problems that
+are polynomial-time equivalent to finding real roots of a polynomial with
+integer coefficients. Our results hold even if the following restrictions are
+all added simultaneously.
+  $\bullet$ There are exactly two output neurons.
+  $\bullet$ There are exactly two input neurons.
+  $\bullet$ The data has only 13 different labels.
+  $\bullet$ The number of hidden neurons is a constant fraction of the number
+of data points.
+  $\bullet$ The target training error is zero.
+  $\bullet$ The ReLU activation function is used.
+  This shows that even very simple networks are difficult to train. The result
+offers an explanation (though far from a complete understanding) on why only
+gradient descent is widely successful in training neural networks in practice.
+We generalize a recent result by Abrahamsen, Kleist and Miltzow [NeurIPS 2021].
+  This result falls into a recent line of research that tries to unveil that a
+series of central algorithmic problems from widely different areas of computer
+science and mathematics are $\exists\mathbb{R}$-complete: This includes the art
+gallery problem [JACM/STOC 2018], geometric packing [FOCS 2020], covering
+polygons with convex polygons [FOCS 2021], and continuous constraint
+satisfaction problems [FOCS 2021]."
+4316,"This includes, but is not limited to, identifying angles from which it is tight and angles from
+which it leaves room for further research.","1.2 Discussion
+
+In this section, we discuss our results from various perspectives, pointing out strengths and limita-
+tions.",Input Neurons.,2022-04-04 10:28:11+00:00,Training Fully Connected Neural Networks is $\exists\mathbb{R}$-Complete,cs.CC,"['cs.CC', 'cs.LG', 'cs.NE']","[arxiv.Result.Author('Daniel Bertschinger'), arxiv.Result.Author('Christoph Hertrich'), arxiv.Result.Author('Paul Jungeblut'), arxiv.Result.Author('Tillmann Miltzow'), arxiv.Result.Author('Simon Weber')]","We consider the algorithmic problem of finding the optimal weights and biases
+for a two-layer fully connected neural network to fit a given set of data
+points. This problem is known as empirical risk minimization in the machine
+learning community. We show that the problem is $\exists\mathbb{R}$-complete.
+This complexity class can be defined as the set of algorithmic problems that
+are polynomial-time equivalent to finding real roots of a polynomial with
+integer coefficients. Furthermore, we show that arbitrary algebraic numbers are
+required as weights to be able to train some instances to optimality, even if
+all data points are rational. Our results hold even if the following
+restrictions are all added simultaneously.
+  $\bullet$ There are exactly two output neurons.
+  $\bullet$ There are exactly two input neurons.
+  $\bullet$ The data has only 13 different labels.
+  $\bullet$ The number of hidden neurons is a constant fraction of the number
+of data points.
+  $\bullet$ The target training error is zero.
+  $\bullet$ The ReLU activation function is used.
+  This shows that even very simple networks are difficult to train. The result
+explains why typical methods for $\mathsf{NP}$-complete problems, like
+mixed-integer programming or SAT-solving, cannot train neural networks to
+global optimality, unless $\mathsf{NP}=\exists\mathbb{R}$. We strengthen a
+recent result by Abrahamsen, Kleist and Miltzow [NeurIPS 2021]."
+4317,"Consequently, an exciting question for further research is to explain this discrepancy between the-
+oretical hardness and practical eﬃciency by ﬁnding suitable extra assumptions which circumvent
+hardness and are satisﬁed in practical settings.","A famous example is mixed-integer programming, which is NP-complete, but highly op-
+timized solvers can eﬃciently ﬁnd globally optimal solutions to a wide range of practical instances.","1.3 Existential Theory of the Reals
+
+The complexity class ∃R (pronounced as “ER”) has gained a lot of interest in recent years.",2022-04-04 10:28:11+00:00,Training Fully Connected Neural Networks is $\exists\mathbb{R}$-Complete,cs.CC,"['cs.CC', 'cs.LG', 'cs.NE']","[arxiv.Result.Author('Daniel Bertschinger'), arxiv.Result.Author('Christoph Hertrich'), arxiv.Result.Author('Paul Jungeblut'), arxiv.Result.Author('Tillmann Miltzow'), arxiv.Result.Author('Simon Weber')]","We consider the algorithmic problem of finding the optimal weights and biases
+for a two-layer fully connected neural network to fit a given set of data
+points. This problem is known as empirical risk minimization in the machine
+learning community. We show that the problem is $\exists\mathbb{R}$-complete.
+This complexity class can be defined as the set of algorithmic problems that
+are polynomial-time equivalent to finding real roots of a polynomial with
+integer coefficients. Furthermore, we show that arbitrary algebraic numbers are
+required as weights to be able to train some instances to optimality, even if
+all data points are rational. Our results hold even if the following
+restrictions are all added simultaneously.
+  $\bullet$ There are exactly two output neurons.
+  $\bullet$ There are exactly two input neurons.
+  $\bullet$ The data has only 13 different labels.
+  $\bullet$ The number of hidden neurons is a constant fraction of the number
+of data points.
+  $\bullet$ The target training error is zero.
+  $\bullet$ The ReLU activation function is used.
+  This shows that even very simple networks are difficult to train. The result
+explains why typical methods for $\mathsf{NP}$-complete problems, like
+mixed-integer programming or SAT-solving, cannot train neural networks to
+global optimality, unless $\mathsf{NP}=\exists\mathbb{R}$. We strengthen a
+recent result by Abrahamsen, Kleist and Miltzow [NeurIPS 2021]."
+4747,"6 Conclusion and further research
+
+We investigated the computational complexity of 1-Extendability.","Corollary 2. param-1-Extendability admits a kernel with O(k2) vertices on
+planar graphs and d-degenerate graphs for bounded d, and a kernel with O(kr2 )
+vertices on Kr-free graphs for every ﬁxed r 3.","We showed
+that in general graphs it cannot be solved in subexponential-time unless the
+ETH fails, and that it remains NP-hard in subcubic planar graphs and in
+unit disk graphs.",2022-04-12 13:48:28+00:00,1-Extendability of independent sets,cs.CC,"['cs.CC', 'cs.DS']","[arxiv.Result.Author('Pierre Bergé'), arxiv.Result.Author('Anthony Busson'), arxiv.Result.Author('Carl Feghali'), arxiv.Result.Author('Rémi Watrigant')]","In the 70s, Berge introduced 1-extendable graphs (also called B-graphs),
+which are graphs where every vertex belongs to a maximum independent set.
+Motivated by an application in the design of wireless networks, we study the
+computational complexity of 1-extendability, the problem of deciding whether a
+graph is 1-extendable. We show that, in general, 1-extendability cannot be
+solved in $2^{o(n)}$ time assuming the Exponential Time Hypothesis, where $n$
+is the number of vertices of the input graph, and that it remains NP-hard in
+subcubic planar graphs and in unit disk graphs (which is a natural model for
+wireless networks). Although 1-extendability seems to be very close to the
+problem of finding an independent set of maximum size (a.k.a. Maximum
+Independent Set), we show that, interestingly, there exist 1-extendable graphs
+for which Maximum Independent Set is NP-hard. Finally, we investigate a
+parameterized version of 1-extendability."
+5362,"An interesting line of further research could be to study the minimization version of the problems pre-
+sented within this paper.","Using a collection of additional reduction rules, we were able to generalize the results from pα,d-abs-dnf to
+pα,d-abs-io, which tries to optimize the absolute value of the target function of a restricted integer optimization
+problem.","Usually, minimization and maximization problems have similar complexity, as one
+can perform some easy modiﬁcations such as multiplying all weights with −1.",2022-04-26 22:18:24+00:00,MaxSAT with Absolute Value Functions: A Parameterized Perspective,cs.CC,"['cs.CC', 'cs.DS', 'cs.LO', 'F.2.0']","[arxiv.Result.Author('Max Bannach'), arxiv.Result.Author('Pamela Fleischmann'), arxiv.Result.Author('Malte Skambath')]","The natural generalization of the Boolean satisfiability problem to
+optimization problems is the task of determining the maximum number of clauses
+that can simultaneously be satisfied in a propositional formula in conjunctive
+normal form. In the weighted maximum satisfiability problem each clause has a
+positive weight and one seeks an assignment of maximum weight. The literature
+almost solely considers the case of positive weights. While the general case of
+the problem is only restricted slightly by this constraint, many special cases
+become trivial in the absence of negative weights. In this work we study the
+problem with negative weights and observe that the problem becomes
+computationally harder - which we formalize from a parameterized perspective in
+the sense that various variations of the problem become W[1]-hard if negative
+weights are present.
+  Allowing negative weights also introduces new variants of the problem:
+Instead of maximizing the sum of weights of satisfied clauses, we can maximize
+the absolute value of that sum. This turns out to be surprisingly expressive
+even restricted to monotone formulas in disjunctive normal form with at most
+two literals per clause. In contrast to the versions without the absolute
+value, however, we prove that these variants are fixed-parameter tractable. As
+technical contribution we present a kernelization for an auxiliary problem on
+hypergraphs in which we seek, given an edge-weighted hypergraph, an induced
+subgraph that maximizes the absolute value of the sum of edge-weights."
+5774,"In Section 3.3, we further study the notion of slice rank, a particular instance of k-
+   restricted strength.","In Theorem 13, we apply this new method to give a lower bound on the
+   k-restricted strengths of an explicit sequence of polynomials, which implies a lower bound on
+   the minimal size of an algebraic branching program computing it.","Theorem 17 gives an improved version of Proposition 8 in the case
+   of slice rank.",2022-05-04 16:04:47+00:00,Degree-restricted strength decompositions and algebraic branching programs,cs.CC,"['cs.CC', 'math.AG', '15A69, 14N07, 68Q17', 'F.1.3']","[arxiv.Result.Author('Purnata Ghosal'), arxiv.Result.Author('Fulvio Gesmundo'), arxiv.Result.Author('Christian Ikenmeyer'), arxiv.Result.Author('Vladimir Lysikov')]","We analyze Kumar's recent quadratic algebraic branching program size lower
+bound proof method (CCC 2017). We provide a refinement of this method and show
+examples in which the refined method gives a better lower bound than the
+original one.
+  The lower bound relies on Noether-Lefschetz type conditions on the
+hypersurface defined by the homogeneous polynomial. In the explicit example
+that we provide, the lower bound is proved resorting to classical intersection
+theory.
+  Further, we use similar methods to improve the known lower bound methods for
+slice rank of polynomials. We give a sequence of polynomials for which the
+improved lower bound matches the known upper bound."
+5775,"In Section 3.4, we further study the notion of slice rank of homogeneous polynomials,
+
+   which is a special case of k-restricted strength when k = 1.","If the degree is exponential
+   in N , we get a further additive improvement of order N2 dc/N , see Corollary 17(c).","Theorem 18 gives a method to
+
+   prove lower bounds on the slice rank.",2022-05-04 16:04:47+00:00,Degree-restricted strength decompositions and algebraic branching programs,cs.CC,"['cs.CC', 'math.AG', '15A69, 14N07, 68Q17', 'F.1.3']","[arxiv.Result.Author('Fulvio Gesmundo'), arxiv.Result.Author('Purnata Ghosal'), arxiv.Result.Author('Christian Ikenmeyer'), arxiv.Result.Author('Vladimir Lysikov')]","We analyze Kumar's recent quadratic algebraic branching program size lower
+bound proof method (CCC 2017) for the power sum polynomial. We present a
+refinement of this method that gives better bounds in some cases.
+  The lower bound relies on Noether-Lefschetz type conditions on the
+hypersurface defined by the homogeneous polynomial. In the explicit example
+that we provide, the lower bound is proved resorting to classical intersection
+theory.
+  Furthermore, we use similar methods to improve the known lower bound methods
+for slice rank of polynomials. We consider a sequence of polynomials that have
+been studied before by Shioda and show that for these polynomials the improved
+lower bound matches the known upper bound."
+5864,One obvious open question is to further study the impact of cost functions on the competitive ratio.,"We conjecture our algorithms can be extended to arbitrary dynamic graphs, which is left
+for future work.","Not all functions in U O allow a ﬁnite competitive ratio:
+
+                                    17
+Lemma 9.",2022-05-04 06:51:39+00:00,Constrained Backward Time Travel Planning is in P,cs.CC,"['cs.CC', 'cs.DS']","[arxiv.Result.Author('Quentin Bramas'), arxiv.Result.Author('Jean-Romain Luttringer'), arxiv.Result.Author('Sébastien Tixeuil')]","We consider transportation networks that are modeled by dynamic graphs, and
+introduce the possibility for traveling agents to use Backward Time-Travel
+(BTT) devices at any node to go back in time (to some extent, and with some
+appropriate fee) before resuming their trip. We focus on dynamic line graphs.
+In more detail, we propose exact algorithms to compute travel plans with
+constraints on the BTT cost or on how far back in time you can go, while
+minimizing travel delay (that is, the time difference between the arrival
+instant and the starting instant), in polynomial time. We study the impact of
+the BTT devices pricing policies on the computation process of those plans
+considering travel delay and cost, and provide necessary properties that
+pricing policies should satisfy to enable to compute such plans. Finally, we
+provide an optimal online algorithm for the unconstrained problem when the cost
+function is the identity."
+6243,Section 5 concludes and identiﬁes questions for further research.,"Section 4 considers whether the set of tautologies has dense hard
+sequences.","2 Density of Hard Sequences
+
+This section shows that a language is not easy on average if it has dense
+
+hard sequences, focusing initially on the example of coTHEOREMS rather than
+
+TAUT to highlight the role of hard sequences.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6244,It suggests numerous avenues for further research.,"5 Conclusion and Further Research
+
+This paper has stated a conjecture linking the average-case hardness proving
+tautologies are theorems.","A key question is whether the above analysis is relevant to NP and the
+existence of one-way functions (OWFs), which has been the driving force
+behind research on average-case complexity.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6245,"The set H′, which includes all dense sets of true unprovable sentences, de-
+serves further study.","but also c.e.-complete,
+this would allow construction of a hard sequence since the complement would
+then be a productive set (Rogers [15]).","We suspect that H′ is more complex and poorly-behaved
+than the statements above.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6246,"In sum, there are numerous areas for further research including the rele-
+vance of hard sequences for NP and OWFs, developing conjectures implying
+a resolution of other open problems, elaborating the implications of these
+conjectures, exploring other applications for hard sequences, understanding
+whether hard sequences can be constructed, and exploring the nature of
+H′.","Another interesting question is whether there are
+dense sets of true unprovable sentences that do not have Kolmogorov random
+strings embedded.","References
+
+ [1] Leonard Berman and Juris Hartmanis, On isomorphisms and density of
+      NP and other complete sets, SIAM J. Comput.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6247,Section 5 concludes and identiﬁes questions for further research.,"Section 4 considers whether the set of tautologies has dense hard
+sequences.","2 Density of Hard Sequences
+
+This section shows that a language is not easy on average if it has dense
+
+hard sequences, focusing initially on the example of coTHEOREMS rather than
+
+TAUT to highlight the role of hard sequences.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is not Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6248,It suggests numerous avenues for further research.,"5 Conclusion and Further Research
+
+This paper has stated a conjecture linking the average-case hardness proving
+tautologies are theorems.","A key question is whether the above analysis is relevant to NP and the
+existence of one-way functions (OWFs), which has been the driving force
+behind research on average-case complexity.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is not Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6249,"The set H′, which includes all dense sets of true unprovable sentences, de-
+serves further study.","but also c.e.-complete,
+this would allow construction of a hard sequence since the complement would
+then be a productive set (Rogers [15]).","We suspect that H′ is more complex and poorly-behaved
+than the statements above.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is not Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6250,"In sum, there are numerous areas for further research including the rele-
+vance of hard sequences for NP and OWFs, developing conjectures implying
+a resolution of other open problems, elaborating the implications of these
+conjectures, exploring other applications for hard sequences, understanding
+whether hard sequences can be constructed, and exploring the nature of
+H′.","Another interesting question is whether there are
+dense sets of true unprovable sentences that do not have Kolmogorov random
+strings embedded.","References
+
+ [1] Leonard Berman and Juris Hartmanis, On isomorphisms and density of
+      NP and other complete sets, SIAM J. Comput.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is not Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6251,Section 5 concludes and identiﬁes questions for further research.,"Section 4 considers whether the set of tautologies has dense hard
+sequences.","2 Density of Hard Sequences
+
+This section shows that a language is not easy on average if it has dense
+
+hard sequences, focusing initially on the example of coTHEOREMS rather than
+
+TAUT to highlight the role of hard sequences.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6252,It suggests numerous avenues for further research.,"5 Conclusion and Further Research
+
+This paper has stated a conjecture linking the average-case hardness proving
+tautologies are theorems.","A key question is whether the above analysis is relevant to NP and the
+existence of one-way functions (OWFs), which has been the driving force
+behind research on average-case complexity.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6253,"The set H′, which includes all dense sets of true unprovable sentences, de-
+serves further study.","but also c.e.-complete,
+this would allow construction of a hard sequence since the complement would
+then be a productive set (Rogers [15]).","We suspect that H′ is more complex and poorly-behaved
+than the statements above.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6254,"In sum, there are numerous areas for further research including the rele-
+vance of hard sequences for NP and OWFs, developing conjectures implying
+a resolution of other open problems, elaborating the implications of these
+conjectures, exploring other applications for hard sequences, understanding
+whether hard sequences can be constructed, and exploring the nature of
+H′.","Another interesting question is whether there are
+dense sets of true unprovable sentences that do not have Kolmogorov random
+strings embedded.","References
+
+ [1] Leonard Berman and Juris Hartmanis, On isomorphisms and density of
+      NP and other complete sets, SIAM J. Comput.",2022-05-16 16:49:59+00:00,Average-Case Hardness of Proving Tautologies and Theorems,cs.CC,"['cs.CC', 'math.LO']",[arxiv.Result.Author('Hunter Monroe')],"We consolidate two widely believed conjectures about tautologies -- no
+optimal proof system exists, and most require superpolynomial size proofs in
+any system -- into a $p$-isomorphism-invariant condition satisfied by all
+paddable $\textbf{coNP}$-complete languages or none. The condition is: for any
+Turing machine (TM) $M$ accepting the language, $\textbf{P}$-uniform input
+families requiring superpolynomial time by $M$ exist (equivalent to the first
+conjecture) and appear with positive upper density in an enumeration of input
+families (implies the second). In that case, no such language is easy on
+average (in $\textbf{AvgP}$) for a distribution applying non-negligible weight
+to the hard families.
+  The hardness of proving tautologies and theorems is likely related. Motivated
+by the fact that arithmetic sentences encoding ""string $x$ is Kolmogorov
+random"" are true but unprovable with positive density in a finitely axiomatized
+theory $\mathcal{T}$ (Calude and J{\""u}rgensen), we conjecture that any
+propositional proof system requires superpolynomial size proofs for a dense set
+of $\textbf{P}$-uniform families of tautologies encoding ""there is no
+$\mathcal{T}$ proof of size $\leq t$ showing that string $x$ is Kolmogorov
+random"". This implies the above condition.
+  The conjecture suggests that there is no optimal proof system because
+undecidable theories help prove tautologies and do so more efficiently as
+axioms are added, and that constructing hard tautologies seems difficult
+because it is impossible to construct Kolmogorov random strings. Similar
+conjectures that computational blind spots are manifestations of
+noncomputability would resolve other open problems."
+6885,"Along the way, we highlight some
+concrete open problems and present directions for further research.","In the remaining parts of this article, we explain the recent progress on Questions Q1-Q5
+achieved by references [Oli19, LO21, LOS21, GKLO22, LOZ22].","Due to space constraints, we
+often provide only a sketch of the underlying arguments, referring to the original references for
+more details.",2022-05-29 17:07:38+00:00,Theory and Applications of Probabilistic Kolmogorov Complexity,cs.CC,"['cs.CC', 'cs.IT', 'math.IT']","[arxiv.Result.Author('Zhenjian Lu'), arxiv.Result.Author('Igor C. Oliveira')]","Diverse applications of Kolmogorov complexity to learning [CIKK16], circuit
+complexity [OPS19], cryptography [LP20], average-case complexity [Hir21], and
+proof search [Kra22] have been discovered in recent years. Since the running
+time of algorithms is a key resource in these fields, it is crucial in the
+corresponding arguments to consider time-bounded variants of Kolmogorov
+complexity. While fruitful interactions between time-bounded Kolmogorov
+complexity and different areas of theoretical computer science have been known
+for quite a while (e.g., [Sip83, Ko91, ABK+06, AF09], to name a few), the
+aforementioned results have led to a renewed interest in this topic.
+  The theory of Kolmogorov complexity is well understood, but many useful
+results and properties of Kolmogorov complexity are not known to hold in
+time-bounded settings. This creates technical difficulties or leads to
+conditional results when applying methods from time-bounded Kolmogorov
+complexity to algorithms and complexity theory. Perhaps even more importantly,
+in many cases it is necessary to consider randomised algorithms. Since random
+strings have high complexity, the classical theory of time-bounded Kolmogorov
+complexity might be inappropriate in such contexts.
+  To mitigate these issues and develop a theory of time-bounded Kolmogorov
+complexity that survives in the setting of randomised computations, some recent
+papers [Oli19, LO21, LOS21, GKLO22, LOZ22] have explored probabilistic notions
+of time-bounded Kolmogorov complexity, such as $\mathsf{rKt}$ complexity
+[Oli19], $\mathsf{rK}^t$ complexity [LOS21], and $\mathsf{pK}^t$ complexity
+[GKLO22]. These measures consider different ways of encoding an object via a
+probabilistic representation. In this survey, we provide an introduction to
+probabilistic time-bounded Kolmogorov complexity and its applications,
+highlighting many open problems and research directions."
+7051,"For further study, it would be interesting to examine the power of real-time
+ﬁnite-state veriﬁers with less severe bounds on the amount of randomness that
+can be used, as well as real-time veriﬁcation of debates [5] between two opposing
+“provers” by similarly restricted machines.","We suspect that it is impossible
+to design certiﬁcates from which real-time input machines can acquire these two
+pieces of information without getting tricked into accepting some illegal inputs.","Restricting the veriﬁers further by
+imposing other conditions like reversibility [10] is another possible direction.",2022-06-02 10:06:48+00:00,"Real-Time, Constant-Space, Constant-Randomness Verifiers",cs.CC,['cs.CC'],"[arxiv.Result.Author('Özdeniz Dolu'), arxiv.Result.Author('Nevzat Ersoy'), arxiv.Result.Author('M. Utkan Gezer'), arxiv.Result.Author('A. C. Cem Say')]","We study the class of languages that have membership proofs which can be
+verified by real-time finite-state machines using only a constant number of
+random bits, regardless of the size of their inputs. Since any further
+restriction on the verifiers would preclude the verification of nonregular
+languages, this is the tightest computational budget which allows the checking
+of externally provided proofs to have meaningful use. We show that all
+languages that can be recognized by two-head one-way deterministic finite
+automata have such membership proofs. For any $k>0$, there exist languages that
+cannot be recognized by any $k$-head one-way nondeterministic finite automaton,
+but that are nonetheless real-time verifiable in this sense. The set of
+nonpalindromes, which cannot be recognized by any one-way multihead
+deterministic finite automaton, is also demonstrated to be verifiable within
+these restrictions."
+7835,"In §5 we discuss the highlights of our technique, the possibility of a complexity gap
+between arbitrary conﬁgurations and naturally reachable conﬁgurations, and suggest a
+further research question.","In §4 we prove that W GT C is in PSPACE and W SP F ≤p W GT C. The reduction
+is hard to read, so we progress slowly toward the actual construction, starting from a
+very high level description.","1
+2  LEAR BAHACK
+
+                       2.",2022-06-19 19:45:55+00:00,The Game of Tumbleweed is PSPACE-complete,cs.CC,"['cs.CC', 'math.CO']",[arxiv.Result.Author('Lear Bahack')],"Tumbleweed is a popular two-player perfect-information new territorial game
+played at the prestigious Mind Sport Olympiad. We define a generalized version
+of the game, where the board size is arbitrary and so is the possible number of
+neutral stones.
+  Our result: the complexity of deciding for a given configuration which of the
+players has a winning strategy is PSPACE-complete. The proof is by a log-space
+reduction from a Boolean formula game of T.J. Schaefer, known to be
+PSPACE-complete.
+  We embed the non-planar Schaefer game within the planar Tumbleweed board
+without using proper ""bridges"", that are impossible due to the board's
+topology. Instead, our new technique uses a one-move tight race that forces the
+players to move only according to the protocol of playing the embedded 4-CNF
+game."
+8281,"We leave it here as a jumping off point for
+        further research.","In that
+paper Immerman remarked,
+
+        “Little is known about how to play the separability game.","We urge others to study it, hoping that the separability game may become a viable tool
+        for ascertaining some of the lower bounds which are ‘well believed’ but have so far escaped proof.”
+
+    Immerman’s paper laid the groundwork for studying the number of quantiﬁers needed to express prop-
+erties in ﬁrst-order logic, but alas, the game seemed to be too complicated to study and the paper used the
+surrogate measure of quantiﬁer rank, which provides a lower bound on the number of quantiﬁers, to make
+its arguments.",2022-06-30 21:20:58+00:00,On the Number of Quantifiers as a Complexity Measure,cs.CC,"['cs.CC', 'F.4.1']","[arxiv.Result.Author('Ronald Fagin'), arxiv.Result.Author('Jonathan Lenchner'), arxiv.Result.Author('Nikhil Vyas'), arxiv.Result.Author('Ryan Williams')]","In 1981, Neil Immerman described a two-player game, which he called the
+``separability game'' \cite{Immerman81}, that captures the number of
+quantifiers needed to describe a property in first-order logic. Immerman's
+paper laid the groundwork for studying the number of quantifiers needed to
+express properties in first-order logic, but the game seemed to be too
+complicated to study, and the arguments of the paper almost exclusively used
+quantifier rank as a lower bound on the total number of quantifiers. However,
+last year Fagin, Lenchner, Regan and Vyas rediscovered the games, provided some
+tools for analyzing them, and showed how to utilize them to characterize the
+number of quantifiers needed to express linear orders of different sizes. In
+this paper, we push forward in the study of number of quantifiers as a bona
+fide complexity measure by establishing several new results. First we carefully
+distinguish minimum number of quantifiers from the more usual descriptive
+complexity measures, minimum quantifier rank and minimum number of variables.
+Then, for each positive integer $k$, we give an explicit example of a property
+of finite structures (in particular, of finite graphs) that can be expressed
+with a sentence of quantifier rank $k$, but where the same property needs
+$2^{\Omega (k^2)}$ quantifiers to be expressed."
+8282,"We leave it here as a jumping oﬀ
+                   point for further research.","In that paper Immerman remarked,
+
+                   “Little is known about how to play the separability game.","We urge others to study it, hoping that the separability game
+                   may become a viable tool for ascertaining some of the lower bounds which are ‘well believed’
+                   but have so far escaped proof.”
+
+                 Immerman’s paper laid the groundwork for studying the number of quantiﬁers needed
+            to express properties in FOL, but alas, the game seemed too complicated to study and the
+            paper used the surrogate measure of quantiﬁer rank, which provides a lower bound on the
+            number of quantiﬁers, to make its arguments.",2022-06-30 21:20:58+00:00,On the Number of Quantifiers as a Complexity Measure,cs.CC,"['cs.CC', 'F.4.1']","[arxiv.Result.Author('Ronald Fagin'), arxiv.Result.Author('Jonathan Lenchner'), arxiv.Result.Author('Nikhil Vyas'), arxiv.Result.Author('Ryan Williams')]","In 1981, Neil Immerman described a two-player game, which he called the
+""separability game"" \cite{Immerman81}, that captures the number of quantifiers
+needed to describe a property in first-order logic. Immerman's paper laid the
+groundwork for studying the number of quantifiers needed to express properties
+in first-order logic, but the game seemed to be too complicated to study, and
+the arguments of the paper almost exclusively used quantifier rank as a lower
+bound on the total number of quantifiers. However, last year Fagin, Lenchner,
+Regan and Vyas rediscovered the games, provided some tools for analyzing them,
+and showed how to utilize them to characterize the number of quantifiers needed
+to express linear orders of different sizes. In this paper, we push forward in
+the study of number of quantifiers as a bona fide complexity measure by
+establishing several new results. First we carefully distinguish minimum number
+of quantifiers from the more usual descriptive complexity measures, minimum
+quantifier rank and minimum number of variables. Then, for each positive
+integer $k$, we give an explicit example of a property of finite structures (in
+particular, of finite graphs) that can be expressed with a sentence of
+quantifier rank $k$, but where the same property needs $2^{\Omega (k^2)}$
+quantifiers to be expressed."
+8786,Our work leaves several directions for further research.,"As a corollary, we obtained that GI is not βiFO((log log n)c)-reducible to isomorphism testing of
+Latin square graphs, k-net graphs (for ﬁxed k), and the block-intersection graphs arising from Steiner triple
+systems.","In Proposition 4.7, we showed that a Steiner 2-design can be recovered from its block-incidence graph in
+AC0 when the block size is bounded.",2022-07-13 02:38:08+00:00,On the Complexity of Identifying Strongly Regular Graphs,cs.CC,"['cs.CC', 'cs.DS', 'math.CO', '05C60, 68Q17, 05E16, 05E30, 68R10', 'F.1.3; G.2.2']",[arxiv.Result.Author('Michael Levet')],"In this note, we show that Graph Isomorphism (GI) is not
+$\textsf{AC}^{0}$-reducible to several problems, including the Latin Square
+Isotopy problem and isomorphism testing of several families of Steiner designs.
+As a corollary, we obtain that GI is not $\textsf{AC}^{0}$-reducible to
+isomorphism testing of Latin square graphs and strongly regular graphs arising
+from special cases of Steiner $2$-designs. We accomplish this by showing that
+the generator-enumeration technique for each of these problems can be
+implemented in $\beta_{2}\textsf{FOLL}$, which cannot compute Parity
+(Chattopadhyay, Tor\'an, & Wagner, $\textit{ACM Trans. Comp. Theory}$, 2013)."
+9645,We conclude the paper discussing some further research directions in Section 7.,"This latter one elucidates the contrast between the complexity of SG (NP-complete)
+and SGR (polynomial-time solvable).Some polynomial-time algorithms for block and cacti graphs
+are also provided.","2 Deﬁnitions, Notations, and Preliminaries
+
+2.1 Deﬁnitions and Notations
+
+For a positive integer k, let [k] = {1, 2, .",2022-08-03 00:50:38+00:00,On the Computational Complexity of the Strong Geodetic Recognition Problem,cs.CC,"['cs.CC', '05C, 90C39, 94C15']","[arxiv.Result.Author('Carlos V. G. C. Lima'), arxiv.Result.Author('Vinicius F. dos Santos'), arxiv.Result.Author('João H. G. Sousa'), arxiv.Result.Author('Sebastián A. Urrutia')]","A strong geodetic set of a graph~$G=(V,E)$ is a vertex set~$S \subseteq V(G)$
+in which it is possible to cover all the remaining vertices of~$V(G) \setminus
+S$ by assigning a unique shortest path between each vertex pair of~$S$. In the
+Strong Geodetic problem (SG) a graph~$G$ and a positive integer~$k$ are given
+as input and one has to decide whether~$G$ has a strong geodetic set of
+cardinality at most~$k$. This problem is known to be NP-hard for general
+graphs. In this work we introduce the Strong Geodetic Recognition problem
+(SGR), which consists in determining whether even a given vertex set~$S
+\subseteq V(G)$ is strong geodetic. We demonstrate that this version is
+NP-complete. We investigate and compare the computational complexity of both
+decision problems restricted to some graph classes, deriving polynomial-time
+algorithms, NP-completeness proofs, and initial parameterized complexity
+results, including an answer to an open question in the literature for the
+complexity of SG for chordal graphs."
+10664,"5 Discussion and Open Problems
+
+Our work can stimulate further research based on several possible directions.","In particular,
+a spectator vertex sv forces vertex v to stay visible until sv appears, while a
+subdivision vertex wei makes edge e visible only when Gi must be drawn.",– It would be interesting to study further parameterizations of StoryPlan.,2022-09-01 13:45:12+00:00,On the Complexity of the Storyplan Problem,cs.CC,['cs.CC'],"[arxiv.Result.Author('Carla Binucci'), arxiv.Result.Author('Emilio Di Giacomo'), arxiv.Result.Author('William J. Lenhart'), arxiv.Result.Author('Giuseppe Liotta'), arxiv.Result.Author('Fabrizio Montecchiani'), arxiv.Result.Author('Martin Nöllenburg'), arxiv.Result.Author('Antonios Symvonis')]","Motivated by dynamic graph visualization, we study the problem of
+representing a graph $G$ in the form of a \emph{storyplan}, that is, a sequence
+of frames with the following properties. Each frame is a planar drawing of the
+subgraph of $G$ induced by a suitably defined subset of its vertices. Between
+two consecutive frames, a new vertex appears while some other vertices may
+disappear, namely those whose incident edges have already been drawn in at
+least one frame. In a storyplan, each vertex appears and disappears exactly
+once. For a vertex (edge) visible in a sequence of consecutive frames, the
+point (curve) representing it does not change throughout the sequence.
+  Note that the order in which the vertices of $G$ appear in the sequence of
+frames is a total order. In the \textsc{StoryPlan} problem, we are given a
+graph and we want to decide whether there exists a total order of its vertices
+for which a storyplan exists. We prove that the problem is NP-complete, and
+complement this hardness with two parameterized algorithms, one in the vertex
+cover number and one in the feedback edge set number of $G$. Also, we prove
+that partial $3$-trees always admit a storyplan, which can be computed in
+linear time. Finally, we show that the problem remains NP-complete in the case
+in which the total order of the vertices is given as part of the input and we
+have to choose how to draw the frames."
+10665,"5 Discussion and Open Problems
+
+Our work can stimulate further research based on several possible directions.","In particular,
+a spectator vertex sv forces vertex v to stay visible until sv appears, while a
+subdivision vertex wei makes edge e visible only when Gi must be drawn.",– It would be interesting to study further parameterizations of StoryPlan.,2022-09-01 13:45:12+00:00,On the Complexity of the Storyplan Problem,cs.CC,['cs.CC'],"[arxiv.Result.Author('Carla Binucci'), arxiv.Result.Author('Emilio Di Giacomo'), arxiv.Result.Author('William J. Lenhart'), arxiv.Result.Author('Giuseppe Liotta'), arxiv.Result.Author('Fabrizio Montecchiani'), arxiv.Result.Author('Martin Nöllenburg'), arxiv.Result.Author('Antonios Symvonis')]","Motivated by dynamic graph visualization, we study the problem of
+representing a graph $G$ in the form of a \emph{storyplan}, that is, a sequence
+of frames with the following properties. Each frame is a planar drawing of the
+subgraph of $G$ induced by a suitably defined subset of its vertices. Between
+two consecutive frames, a new vertex appears while some other vertices may
+disappear, namely those whose incident edges have already been drawn in at
+least one frame. In a storyplan, each vertex appears and disappears exactly
+once. For a vertex (edge) visible in a sequence of consecutive frames, the
+point (curve) representing it does not change throughout the sequence.
+  Note that the order in which the vertices of $G$ appear in the sequence of
+frames is a total order. In the \textsc{StoryPlan} problem, we are given a
+graph and we want to decide whether there exists a total order of its vertices
+for which a storyplan exists. We prove that the problem is NP-complete, and
+complement this hardness with two parameterized algorithms, one in the vertex
+cover number and one in the feedback edge set number of $G$. Also, we prove
+that partial $3$-trees always admit a storyplan, which can be computed in
+linear time. Finally, we show that the problem remains NP-complete in the case
+in which the total order of the vertices is given as part of the input and we
+have to choose how to draw the frames."
+10911,"Thus, we leave the classiﬁcation for hereditary classes of patterns as an
+open problem for further research.","However, even for very special cases, such as classes of degenerate host graphs (which are
+somewhere dense and monotone), it is still open whether induced grid minor size is the
+
+                                                           18
+correct answer [6].","4 Counting Subgraphs
+
+We begin with the analysis of the problem of counting k-matchings.",2022-09-07 18:10:22+00:00,Counting Subgraphs in Somewhere Dense Graphs,cs.CC,"['cs.CC', 'cs.DM']","[arxiv.Result.Author('Marco Bressan'), arxiv.Result.Author('Leslie Ann Goldberg'), arxiv.Result.Author('Kitty Meeks'), arxiv.Result.Author('Marc Roth')]","We study the problems of counting copies and induced copies of a small
+pattern graph $H$ in a large host graph $G$. Recent work fully classified the
+complexity of those problems according to structural restrictions on the
+patterns $H$. In this work, we address the more challenging task of analysing
+the complexity for restricted patterns and restricted hosts. Specifically we
+ask which families of allowed patterns and hosts imply fixed-parameter
+tractability, i.e., the existence of an algorithm running in time $f(H)\cdot
+|G|^{O(1)}$ for some computable function $f$. Our main results present
+exhaustive and explicit complexity classifications for families that satisfy
+natural closure properties. Among others, we identify the problems of counting
+small matchings and independent sets in subgraph-closed graph classes
+$\mathcal{G}$ as our central objects of study and establish the following crisp
+dichotomies as consequences of the Exponential Time Hypothesis: (1) Counting
+$k$-matchings in a graph $G\in\mathcal{G}$ is fixed-parameter tractable if and
+only if $\mathcal{G}$ is nowhere dense. (2) Counting $k$-independent sets in a
+graph $G\in\mathcal{G}$ is fixed-parameter tractable if and only if
+$\mathcal{G}$ is nowhere dense. Moreover, we obtain almost tight conditional
+lower bounds if $\mathcal{G}$ is somewhere dense, i.e., not nowhere dense.
+These base cases of our classifications subsume a wide variety of previous
+results on the matching and independent set problem, such as counting
+$k$-matchings in bipartite graphs (Curticapean, Marx; FOCS 14), in
+$F$-colourable graphs (Roth, Wellnitz; SODA 20), and in degenerate graphs
+(Bressan, Roth; FOCS 21), as well as counting $k$-independent sets in bipartite
+graphs (Curticapean et al.; Algorithmica 19)."
+10912,"Thus, we leave the classiﬁcation for hereditary
+classes of patterns as an open problem for further research.","However, even for very special cases, such as classes of degener-
+ate host graphs (which are somewhere dense and monotone), it is still open whether induced
+grid minor size is the correct answer [8].","4 Counting Subgraphs
+
+This section is devoted to the proofs of Theorem 2, Theorem 4, and Theorem 3.",2022-09-07 18:10:22+00:00,Counting Subgraphs in Somewhere Dense Graphs,cs.CC,"['cs.CC', 'cs.DM']","[arxiv.Result.Author('Marco Bressan'), arxiv.Result.Author('Leslie Ann Goldberg'), arxiv.Result.Author('Kitty Meeks'), arxiv.Result.Author('Marc Roth')]","We study the problems of counting copies and induced copies of a small
+pattern graph $H$ in a large host graph $G$. Recent work fully classified the
+complexity of those problems according to structural restrictions on the
+patterns $H$. In this work, we address the more challenging task of analysing
+the complexity for restricted patterns and restricted hosts. Specifically we
+ask which families of allowed patterns and hosts imply fixed-parameter
+tractability, i.e., the existence of an algorithm running in time $f(H)\cdot
+|G|^{O(1)}$ for some computable function $f$. Our main results present
+exhaustive and explicit complexity classifications for families that satisfy
+natural closure properties. Among others, we identify the problems of counting
+small matchings and independent sets in subgraph-closed graph classes
+$\mathcal{G}$ as our central objects of study and establish the following crisp
+dichotomies as consequences of the Exponential Time Hypothesis: (1) Counting
+$k$-matchings in a graph $G\in\mathcal{G}$ is fixed-parameter tractable if and
+only if $\mathcal{G}$ is nowhere dense. (2) Counting $k$-independent sets in a
+graph $G\in\mathcal{G}$ is fixed-parameter tractable if and only if
+$\mathcal{G}$ is nowhere dense. Moreover, we obtain almost tight conditional
+lower bounds if $\mathcal{G}$ is somewhere dense, i.e., not nowhere dense.
+These base cases of our classifications subsume a wide variety of previous
+results on the matching and independent set problem, such as counting
+$k$-matchings in bipartite graphs (Curticapean, Marx; FOCS 14), in
+$F$-colourable graphs (Roth, Wellnitz; SODA 20), and in degenerate graphs
+(Bressan, Roth; FOCS 21), as well as counting $k$-independent sets in bipartite
+graphs (Curticapean et al.; Algorithmica 19)."
+11031,"6 Future Directions
+
+Our work raises the following questions for further research:
+
+                                                                                                 24
+• The most important question is to obtain an unconditional derandomization of the black-
+   box RIT problem.","This also leads to randomized polynomial-time black-box
+algorithm that simply substitutes the variables randomly from matrices of dimension O(s2) over
+
+suﬃciently large ﬁelds.","The current best known result is a quasipolynomial-time black-box RIT
+   algorithm for rational formulas of inversion height at most two [2].",2022-09-11 06:13:57+00:00,On Identity Testing and Noncommutative Rank Computation over the Free Skew Field,cs.CC,['cs.CC'],"[arxiv.Result.Author('V. Arvind'), arxiv.Result.Author('Abhranil Chatterjee'), arxiv.Result.Author('Utsab Ghosal'), arxiv.Result.Author('Partha Mukhopadhyay'), arxiv.Result.Author('C. Ramya')]","The identity testing of rational formulas (RIT) in the free skew field
+efficiently reduces to computing the rank of a matrix whose entries are linear
+polynomials in noncommuting variables\cite{HW15}. This rank computation problem
+has deterministic polynomial-time white-box algorithms \cite{GGOW16, IQS18} and
+a randomized polynomial-time algorithm in the black-box setting \cite{DM17}. In
+this paper, we propose a new approach for efficient derandomization of
+\emph{black-box} RIT. Additionally, we obtain results for matrix rank
+computation over the free skew field, and construct efficient linear pencil
+representations for a new class of rational expressions. More precisely, we
+show the following results:
+  1. Under the hardness assumption that the ABP (algebraic branching program)
+complexity of every polynomial identity for the $k\times k$ matrix algebra is
+$2^{\Omega(k)}$ \cite{BW05}, we obtain a subexponential-time black-box
+algorithm for RIT in almost general setting. This can be seen as the first
+""hardness implies derandomization"" type theorem for rational formulas.
+  2. We show that the noncommutative rank of any matrix over the free skew
+field whose entries have small linear pencil representations can be computed in
+deterministic polynomial time. Prior to this, an efficient rank computation was
+only known for matrices with noncommutative formulas as entries\cite{GGOW20}.
+As special cases of our algorithm, we obtain the first deterministic
+polynomial-time algorithms for rank computation of matrices whose entries are
+noncommutative ABPs or rational formulas.
+  3. Motivated by the definition given by Bergman\cite{Ber76}, we define a new
+class that contains noncommutative ABPs and rational formulas. We obtain a
+polynomial-size linear pencil representation for this class. As a by-product,
+we obtain a white-box deterministic polynomial-time identity testing algorithm
+for the class."
+11032,• Theorem 4 opens up a new motivation to further study the Conjecture 2.,"The current best known result is a quasipolynomial-time black-box RIT
+   algorithm for rational formulas of inversion height at most two [2].","In [4], it is shown
+   that a nonzero noncommutative polynomial of sparsity s can not be an identity for some
+   k = O(log s) dimensional matrix algebra.",2022-09-11 06:13:57+00:00,On Identity Testing and Noncommutative Rank Computation over the Free Skew Field,cs.CC,['cs.CC'],"[arxiv.Result.Author('V. Arvind'), arxiv.Result.Author('Abhranil Chatterjee'), arxiv.Result.Author('Utsab Ghosal'), arxiv.Result.Author('Partha Mukhopadhyay'), arxiv.Result.Author('C. Ramya')]","The identity testing of rational formulas (RIT) in the free skew field
+efficiently reduces to computing the rank of a matrix whose entries are linear
+polynomials in noncommuting variables\cite{HW15}. This rank computation problem
+has deterministic polynomial-time white-box algorithms \cite{GGOW16, IQS18} and
+a randomized polynomial-time algorithm in the black-box setting \cite{DM17}. In
+this paper, we propose a new approach for efficient derandomization of
+\emph{black-box} RIT. Additionally, we obtain results for matrix rank
+computation over the free skew field, and construct efficient linear pencil
+representations for a new class of rational expressions. More precisely, we
+show the following results:
+  1. Under the hardness assumption that the ABP (algebraic branching program)
+complexity of every polynomial identity for the $k\times k$ matrix algebra is
+$2^{\Omega(k)}$ \cite{BW05}, we obtain a subexponential-time black-box
+algorithm for RIT in almost general setting. This can be seen as the first
+""hardness implies derandomization"" type theorem for rational formulas.
+  2. We show that the noncommutative rank of any matrix over the free skew
+field whose entries have small linear pencil representations can be computed in
+deterministic polynomial time. Prior to this, an efficient rank computation was
+only known for matrices with noncommutative formulas as entries\cite{GGOW20}.
+As special cases of our algorithm, we obtain the first deterministic
+polynomial-time algorithms for rank computation of matrices whose entries are
+noncommutative ABPs or rational formulas.
+  3. Motivated by the definition given by Bergman\cite{Ber76}, we define a new
+class that contains noncommutative ABPs and rational formulas. We obtain a
+polynomial-size linear pencil representation for this class. As a by-product,
+we obtain a white-box deterministic polynomial-time identity testing algorithm
+for the class."
+11435,"It is natural to further study the hierarchy between sets of gates and we believe that
+a promising direction would be to study reversible gate sets such as Toﬀoli or Fredkin gates.","G-networks Proposition 5 together with theorems 33 and 37 provide an interesting starting point to
+explore the link between diﬀerent gate sets and the richness of their synchronous closure and the associated
+family of G-networks.","Also, we would
+like to understand how easy it is to deduce global properties of the family of G-networks from the knowledge
+of G. Typically, one can consider the following decision problem:
+
+       • input: G
+       • question: is the family of G-networks strongly universal?",2022-09-20 07:51:34+00:00,Intrinsic Simulations and Universality in Automata Networks,cs.CC,"['cs.CC', 'cs.DM', 'math.DS']","[arxiv.Result.Author('Martín Ríos-Wilson'), arxiv.Result.Author('Guillaume Theyssier')]","An automata network (AN) is a finite graph where each node holds a state from
+a finite alphabet and is equipped with a local map defining the evolution of
+the state of the node depending on its neighbors. They are studied both from
+the dynamical and the computational complexity point of view. Inspired from
+well-established notions in the context of cellular automata, we develop a
+theory of intrinsic simulations and universality for families of automata
+networks. We establish many consequences of intrinsic universality in terms of
+complexity of orbits (periods of attractors, transients, etc) as well as
+hardness of the standard well-studied decision problems for automata networks
+(short/long term prediction, reachability, etc). In the way, we prove
+orthogonality results for these problems: the hardness of a single one does not
+imply hardness of the others, while intrinsic universality implies hardness of
+all of them. As a complement, we develop a proof technique to establish
+intrinsic simulation and universality results which is suitable to deal with
+families of symmetric networks were connections are non-oriented. It is based
+on an operation of glueing of networks, which allows to produce complex orbits
+in large networks from compatible pseudo-orbits in small networks. As an
+illustration, we give a short proof that the family of networks were each node
+obeys the rule of the 'game of life' cellular automaton is strongly universal.
+This formalism and proof technique is also applied in a companion paper devoted
+to studying the effect of update schedules on intrinsic universality for
+concrete symmetric families of automata networks."
+11436,"It is natural to further study the hierarchy between sets of gates and we believe that
+a promising direction would be to study reversible gate sets such as Toﬀoli or Fredkin gates.","G-networks Proposition 5 together with theorems 33 and 37 provide an interesting starting point to
+explore the link between diﬀerent gate sets and the richness of their synchronous closure and the associated
+family of G-networks.","Also, we would
+like to understand how easy it is to deduce global properties of the family of G-networks from the knowledge
+of G. Typically, one can consider the following decision problem:
+
+       • input: G
+       • question: is the family of G-networks strongly universal?",2022-09-20 07:51:34+00:00,Intrinsic Simulations and Universality in Automata Networks,cs.CC,"['cs.CC', 'cs.DM', 'math.DS']","[arxiv.Result.Author('Martín Ríos-Wilson'), arxiv.Result.Author('Guillaume Theyssier')]","An automata network (AN) is a finite graph where each node holds a state from
+a finite alphabet and is equipped with a local map defining the evolution of
+the state of the node depending on its neighbors. They are studied both from
+the dynamical and the computational complexity point of view. Inspired from
+well-established notions in the context of cellular automata, we develop a
+theory of intrinsic simulations and universality for families of automata
+networks. We establish many consequences of intrinsic universality in terms of
+complexity of orbits (periods of attractors, transients, etc) as well as
+hardness of the standard well-studied decision problems for automata networks
+(short/long term prediction, reachability, etc). In the way, we prove
+orthogonality results for these problems: the hardness of a single one does not
+imply hardness of the others, while intrinsic universality implies hardness of
+all of them. As a complement, we develop a proof technique to establish
+intrinsic simulation and universality results which is suitable to deal with
+families of symmetric networks were connections are non-oriented. It is based
+on an operation of glueing of networks, which allows to produce complex orbits
+in large networks from compatible pseudo-orbits in small networks. As an
+illustration, we give a short proof that the family of networks were each node
+obeys the rule of the 'game of life' cellular automaton is strongly universal.
+This formalism and proof technique is also applied in a companion paper devoted
+to studying the effect of update schedules on intrinsic universality for
+concrete symmetric families of automata networks."
+11560,"Section 5 closes the paper with three further research
+ideas.","In section 4 we provide the polynomial time algorithm for solving general rank-3 games,
+and analyze its running time.",2.,2022-09-22 17:44:09+00:00,Solving the General Case of Rank-3 Maker-Breaker Games in Polynomial Time,cs.CC,"['cs.CC', 'math.CO']",[arxiv.Result.Author('Lear Bahack')],"A rank-3 Maker-Breaker game is played on a hypergraph in which all hyperedges
+are sets of at most 3 vertices. The two players of the game, called Maker and
+Breaker, move alternately. On his turn, maker chooses a vertex to be withdrawn
+from all hyperedges, while Breaker on her turn chooses a vertex and delete all
+the hyperedges containing that vertex. Maker wins when by the end of his turn
+some hyperedge is completely covered, i.e. the last remaining vertex of that
+hyperedge is withdrawn. Breaker wins when by the end of her turn, all
+hyperedges have been deleted.
+  Solving a Maker-Breaker game is the computational problem of choosing an
+optimal move, or equivalently, deciding which player has a winning strategy in
+a configuration. The complexity of solving two degenerate cases of rank-3 games
+has been proven before to be polynomial. In this paper, we show that the
+general case of rank-3 Maker-Breaker games is also solvable in polynomial time."
+11561,"Further Research
+
+   We would like to share some further research ideas that we ﬁnd interesting.",5.,5.1.,2022-09-22 17:44:09+00:00,Solving the General Case of Rank-3 Maker-Breaker Games in Polynomial Time,cs.CC,"['cs.CC', 'math.CO']",[arxiv.Result.Author('Lear Bahack')],"A rank-3 Maker-Breaker game is played on a hypergraph in which all hyperedges
+are sets of at most 3 vertices. The two players of the game, called Maker and
+Breaker, move alternately. On his turn, maker chooses a vertex to be withdrawn
+from all hyperedges, while Breaker on her turn chooses a vertex and delete all
+the hyperedges containing that vertex. Maker wins when by the end of his turn
+some hyperedge is completely covered, i.e. the last remaining vertex of that
+hyperedge is withdrawn. Breaker wins when by the end of her turn, all
+hyperedges have been deleted.
+  Solving a Maker-Breaker game is the computational problem of choosing an
+optimal move, or equivalently, deciding which player has a winning strategy in
+a configuration. The complexity of solving two degenerate cases of rank-3 games
+has been proven before to be polynomial. In this paper, we show that the
+general case of rank-3 Maker-Breaker games is also solvable in polynomial time."
+12048,"Imposing the property convexity on bipartite graphs is a promising direction for further research because many
+problems that are NP-complete on bipartite graphs become polynomial-time solvable on convex bipartite
+graphs.","Thus, the convex ordering on bipartite graphs
+reinforces the borderline separating P-versus-NPC instances of many classical combinatorial problems.","Further, some of the NP-hard reductions restricted to bipartite graphs can be reinforced further by
+introducing convex properties such as star, comb, tree, etc., For example, Hamiltonian cycle and Hamiltonian
+path are NP-hard on star-convex bipartite graphs [11].",2022-10-05 14:24:35+00:00,On Convexity in Split graphs: Complexity of Steiner tree and Domination,cs.CC,['cs.CC'],"[arxiv.Result.Author('A Mohanapriya'), arxiv.Result.Author('P Renjith'), arxiv.Result.Author('N Sadagopan')]","Given a graph $G$ with a terminal set $R \subseteq V(G)$, the Steiner tree
+problem (STREE) asks for a set $S\subseteq V(G) \setminus R$ such that the
+graph induced on $S\cup R$ is connected. A split graph is a graph which can be
+partitioned into a clique and an independent set. It is known that STREE is
+NP-complete on split graphs \cite{white1985steiner}. To strengthen this result,
+we introduce convex ordering on one of the partitions (clique or independent
+set), and prove that STREE is polynomial-time solvable for tree-convex split
+graphs with convexity on clique ($K$), whereas STREE is NP-complete on
+tree-convex split graphs with convexity on independent set ($I$). We further
+strengthen our NP-complete result by establishing a dichotomy which says that
+for unary-tree-convex split graphs (path-convex split graphs), STREE is
+polynomial-time solvable, and NP-complete for binary-tree-convex split graphs
+(comb-convex split graphs). We also show that STREE is polynomial-time solvable
+for triad-convex split graphs with convexity on $I$, and circular-convex split
+graphs. Further, we show that STREE can be used as a framework for the
+dominating set problem (DS) on split graphs, and hence the classical complexity
+(P vs NPC) of STREE and DS is the same for all these subclasses of split
+graphs. Furthermore, it is important to highlight that in
+\cite{CHLEBIK20081264}, it is incorrectly claimed that the problem of finding a
+minimum dominating set on split graphs cannot be approximated within
+$(1-\epsilon)\ln |V(G)|$ in polynomial-time for any $\epsilon >0$ unless NP
+$\subseteq$ DTIME $n^{O(\log \log n)}$. When the input is restricted to split
+graphs, we show that the minimum dominating set problem has
+$2-\frac{1}{|I|}$-approximation algorithm that runs in polynomial time."
+12049,"Conclusions and directions for further research:
+We have proved the classical complexity of STREE, and domination and its variants on tree-convex and
+circular-convex split graphs.","Thus for (G, R), S is the Steiner set.","The results presented in this paper can be used as a framework for the Steiner
+tree variants (Steiner path and cycle) and the domination problems (outer-connected domination, Roman
+domination) restricted to split, and bipartite graphs.",2022-10-05 14:24:35+00:00,On Convexity in Split graphs: Complexity of Steiner tree and Domination,cs.CC,['cs.CC'],"[arxiv.Result.Author('A Mohanapriya'), arxiv.Result.Author('P Renjith'), arxiv.Result.Author('N Sadagopan')]","Given a graph $G$ with a terminal set $R \subseteq V(G)$, the Steiner tree
+problem (STREE) asks for a set $S\subseteq V(G) \setminus R$ such that the
+graph induced on $S\cup R$ is connected. A split graph is a graph which can be
+partitioned into a clique and an independent set. It is known that STREE is
+NP-complete on split graphs \cite{white1985steiner}. To strengthen this result,
+we introduce convex ordering on one of the partitions (clique or independent
+set), and prove that STREE is polynomial-time solvable for tree-convex split
+graphs with convexity on clique ($K$), whereas STREE is NP-complete on
+tree-convex split graphs with convexity on independent set ($I$). We further
+strengthen our NP-complete result by establishing a dichotomy which says that
+for unary-tree-convex split graphs (path-convex split graphs), STREE is
+polynomial-time solvable, and NP-complete for binary-tree-convex split graphs
+(comb-convex split graphs). We also show that STREE is polynomial-time solvable
+for triad-convex split graphs with convexity on $I$, and circular-convex split
+graphs. Further, we show that STREE can be used as a framework for the
+dominating set problem (DS) on split graphs, and hence the classical complexity
+(P vs NPC) of STREE and DS is the same for all these subclasses of split
+graphs. Furthermore, it is important to highlight that in
+\cite{CHLEBIK20081264}, it is incorrectly claimed that the problem of finding a
+minimum dominating set on split graphs cannot be approximated within
+$(1-\epsilon)\ln |V(G)|$ in polynomial-time for any $\epsilon >0$ unless NP
+$\subseteq$ DTIME $n^{O(\log \log n)}$. When the input is restricted to split
+graphs, we show that the minimum dominating set problem has
+$2-\frac{1}{|I|}$-approximation algorithm that runs in polynomial time."
+13210,"Eventually, in Section 8 we describe directions for further research.","We prove an exponential lower bound on the size of derivations of formulas in
+
+       conjunctive normal form from eBVP.","2 Preliminaries
+
+In this paper we are going to work with polynomials over integers or rationals.",2022-10-31 15:59:42+00:00,The power of the Binary Value Principle,cs.CC,"['cs.CC', 'math.LO', '03F20', 'F.2.2']","[arxiv.Result.Author('Yaroslav Alekseev'), arxiv.Result.Author('Edward A. Hirsch')]","The (extended) Binary Value Principle (eBVP: $\sum_{i=1}^n x_i2^{i-1} = -k$
+for $k>0$ and $x^2_i=x_i$) has received a lot of attention recently: several
+lower bounds have been proved for it (Alekseev et al 2020, Alekseev 2021, Part
+and Tzameret 2021), and a polynomial simulation of a strong semialgebraic proof
+system in IPS+eBVP has been shown (Alekseev et al 2020). In this paper we
+consider Ext-PC: Polynomial Calculus with the algebraic version of Tseitin's
+extension rule. Contrary to IPS, this is a Cook--Reckhow proof system. We show
+that in this context eBVP still allows to simulate similar semialgebraic
+systems. We also prove that it allows to simulate the Square Root Rule
+(Grigoriev and Hirsch 2003), which is absolutely unclear in the context of
+ordinary Polynomial Calculus. On the other hand, we demonstrate that eBVP
+probably does not help in proving exponential lower bounds for Boolean
+tautologies: we show that an Ext-PC (even with the Square Root Rule) derivation
+of any such tautology from eBVP must be of exponential size."
+13211,"Eventually, in Section 8 we describe directions for further research.","We prove an exponential lower bound on the size of derivations of formulas in
+       conjunctive normal form from eBVP.","2 Preliminaries
+
+In this paper we work with polynomials over integers or rationals.",2022-10-31 15:59:42+00:00,The power of the Binary Value Principle,cs.CC,"['cs.CC', 'math.LO', '03F20', 'F.2.2']","[arxiv.Result.Author('Yaroslav Alekseev'), arxiv.Result.Author('Edward A. Hirsch')]","The (extended) Binary Value Principle (eBVP: $\sum_{i=1}^n x_i2^{i-1} = -k$
+for $k>0$ and $x^2_i=x_i$) has received a lot of attention recently, several
+lower bounds have been proved for it (Alekseev et al 2020, Alekseev 2021, Part
+and Tzameret 2021). Also it has been shown (Alekseev et al 2020) that the
+probabilistically verifiable Ideal Proof System (IPS) (Grochow and Pitassi
+2018) together with eBVP polynomially simulates a similar semialgebraic proof
+system. In this paper we consider Polynomial Calculus with the algebraic
+version of Tseitin's extension rule (Ext-PC). Contrary to IPS, this is a
+Cook--Reckhow proof system. We show that in this context eBVP still allows to
+simulate similar semialgebraic systems. We also prove that it allows to
+simulate the Square Root Rule (Grigoriev and Hirsch 2003), which is absolutely
+unclear in the context of ordinary Polynomial Calculus. On the other hand, we
+demonstrate that eBVP probably does not help in proving exponential lower
+bounds for Boolean tautologies: we show that an Ext-PC (even with the Square
+Root Rule) derivation of any such tautology from eBVP must be of exponential
+size."
+13212,"Eventually, in Section 8 we describe directions for further research.","We prove an exponential lower bound on the size of derivations of formulas in
+       conjunctive normal form from eBVP.","2 Preliminaries
+
+In this paper we work with polynomials over integers or rationals.",2022-10-31 15:59:42+00:00,The power of the Binary Value Principle,cs.CC,"['cs.CC', 'math.LO', '03F20', 'F.2.2']","[arxiv.Result.Author('Yaroslav Alekseev'), arxiv.Result.Author('Edward A. Hirsch')]","The (extended) Binary Value Principle (eBVP: $\sum_{i=1}^n x_i2^{i-1} = -k$
+for $k>0$ and $x^2_i=x_i$) has received a lot of attention recently, several
+lower bounds have been proved for it (Alekseev et al 2020, Alekseev 2021, Part
+and Tzameret 2021). Also it has been shown (Alekseev et al 2020) that the
+probabilistically verifiable Ideal Proof System (IPS) (Grochow and Pitassi
+2018) together with eBVP polynomially simulates a similar semialgebraic proof
+system. In this paper we consider Polynomial Calculus with the algebraic
+version of Tseitin's extension rule (Ext-PC). Contrary to IPS, this is a
+Cook--Reckhow proof system. We show that in this context eBVP still allows to
+simulate similar semialgebraic systems. We also prove that it allows to
+simulate the Square Root Rule (Grigoriev and Hirsch 2003), which is in sharp
+contrast with the result of (Alekseev 2021) that shows an exponential lower
+bound on the size of Ext-PC derivations of the Binary Value Principle from its
+square. On the other hand, we demonstrate that eBVP probably does not help in
+proving exponential lower bounds for Boolean tautologies: we show that an
+Ext-PC (even with the Square Root Rule) derivation of any such tautology from
+eBVP must be of exponential size."
+13213,"Eventually, in Section 8 we describe directions for further research.","We prove an exponential lower bound on the size of derivations of formulas in
+       conjunctive normal form from eBVP.","2 Preliminaries
+
+In this paper we work with polynomials over integers or rationals.",2022-10-31 15:59:42+00:00,The power of the Binary Value Principle,cs.CC,"['cs.CC', 'math.LO', '03F20', 'F.2.2']","[arxiv.Result.Author('Yaroslav Alekseev'), arxiv.Result.Author('Edward A. Hirsch')]","The (extended) Binary Value Principle (eBVP: $\sum_{i=1}^n x_i2^{i-1} = -k$
+for $k>0$ and $x^2_i=x_i$) has received a lot of attention recently, several
+lower bounds have been proved for it (Alekseev et al 2020, Alekseev 2021, Part
+and Tzameret 2021). Also it has been shown (Alekseev et al 2020) that the
+probabilistically verifiable Ideal Proof System (IPS) (Grochow and Pitassi
+2018) together with eBVP polynomially simulates a similar semialgebraic proof
+system. In this paper we consider Polynomial Calculus with the algebraic
+version of Tseitin's extension rule (Ext-PC). Contrary to IPS, this is a
+Cook--Reckhow proof system. We show that in this context eBVP still allows to
+simulate similar semialgebraic systems. We also prove that it allows to
+simulate the Square Root Rule (Grigoriev and Hirsch 2003), which is in sharp
+contrast with the result of (Alekseev 2021) that shows an exponential lower
+bound on the size of Ext-PC derivations of the Binary Value Principle from its
+square. On the other hand, we demonstrate that eBVP probably does not help in
+proving exponential lower bounds for Boolean formulas: we show that an Ext-PC
+(even with the Square Root Rule) derivation of any unsatisfiable Boolean
+formula in CNF from eBVP must be of exponential size."
+14658,"6 Summary and further research
+
+We summarize our main results on MLS, MLED, and MLVD in Table 1.","A more direct
+approach is to use Corollary 1 to directly determine a set S of swaps of minimum
+cardinality for which I S ∈ FML, transform S into a set S of edges with
+size |S | ≤ |S| such that I − S ∈ FML, and then apply Lemma 7 to solve J using
+the edge set S .","Inter-
+estingly, all our hardness results hold for strict preference systems, and we were
+able to extend all our positive results for preference systems with weak orders.",2022-12-07 09:04:58+00:00,Recognizing when a preference system is close to admitting a master list,cs.CC,"['cs.CC', 'cs.GT', '68Q27 (Primary) 68Q25, 91A68, 91B10, 91B68 (Secondary)']",[arxiv.Result.Author('Ildikó Schlotter')],"A preference system $\mathcal{I}$ is an undirected graph where vertices have
+preferences over their neighbors, and $\mathcal{I}$ admits a master list if all
+preferences can be derived from a single ordering over all vertices. We study
+the problem of deciding whether a given preference system~$\mathcal{I}$ is
+close to admitting a master list based on three different distance measures. We
+determine the computational complexity of the following questions: can
+$\mathcal{I}$ be modified by (i) $k$ swaps in the preferences, (ii) $k$ edge
+deletions, or (iii) $k$ vertex deletions so that the resulting instance admits
+a master list? We investigate these problems in detail from the viewpoint of
+parameterized complexity and of approximation. We also present two applications
+related to stable and popular matchings."
+14659,"6 Summary and further research
+
+We summarize our main results on MLS, MLED, and MLVD in Table 1.","A more direct
+approach is to use Corollary 5 to directly determine a set S of swaps of minimum
+cardinality for which I S ∈ FML, transform S into a set S of edges with
+size |S | ≤ |S| such that I − S ∈ FML, and then apply Lemma 18 to solve J
+using the edge set S .","Inter-
+estingly, all our hardness results hold for strict preference systems, and we were
+able to extend all our positive results for preference systems with weak orders.",2022-12-07 09:04:58+00:00,Recognizing when a preference system is close to admitting a master list,cs.CC,"['cs.CC', 'cs.GT', '68Q27 (Primary) 68Q25, 91A68, 91B10, 91B68 (Secondary)']",[arxiv.Result.Author('Ildikó Schlotter')],"A preference system $\mathcal{I}$ is an undirected graph where vertices have
+preferences over their neighbors, and $\mathcal{I}$ admits a master list if all
+preferences can be derived from a single ordering over all vertices. We study
+the problem of deciding whether a given preference system $\mathcal{I}$ is
+close to admitting a master list based on three different distance measures. We
+determine the computational complexity of the following questions: can
+$\mathcal{I}$ be modified by (i) $k$ swaps in the preferences, (ii) $k$ edge
+deletions, or (iii) $k$ vertex deletions so that the resulting instance admits
+a master list? We investigate these problems in detail from the viewpoint of
+parameterized complexity and of approximation. We also present two applications
+related to stable and popular matchings."
+15018,"Therefore, an interesting                            acknowledges funding from the European Union’s Horizon
+avenue for further research would be investigating how this                          2020 research and innovation programme under the Marie
+approach of weighting variables could be used to simplify                            Sklodowska-Curie grant agreement No 101018390.","JvdW
+[23], while being much simpler.",#SAT instances or find upper bounds on runtime.,2022-12-15 18:53:37+00:00,A Graphical #SAT Algorithm for Formulae with Small Clause Density,cs.CC,['cs.CC'],"[arxiv.Result.Author('Tuomas Laakkonen'), arxiv.Result.Author('Konstantinos Meichanetzidis'), arxiv.Result.Author('John van de Wetering')]","We study the counting version of the Boolean satisfiability problem #SAT
+using the ZH-calculus, a graphical language originally introduced to reason
+about quantum circuits. Using this we find a natural extension of #SAT which we
+call $\#SAT_\pm$, where variables are additionally labeled by phases, which is
+GapP-complete. Using graphical reasoning, we find a reduction from #SAT to
+$\#2SAT_\pm$ in the ZH-calculus. We observe that the DPLL algorithm for #2SAT
+can be adapted to $\#2SAT_\pm$ directly and hence that Wahlstrom's
+$O^*(1.2377^n)$ upper bound applies to $\#2SAT_\pm$ as well. Combining this
+with our reduction from #SAT to $\#2SAT_\pm$ gives us novel upper bounds in
+terms of clauses and variables that are better than $O^*(2^n)$ for small clause
+densities of $\frac{m}{n} < 2.25$. This is to our knowledge the first
+non-trivial upper bound for #SAT that is independent of clause size. Our
+algorithm improves on Dubois' upper bound for $\#kSAT$ whenever $\frac{m}{n} <
+1.85$ and $k \geq 4$, and the Williams' average-case analysis whenever
+$\frac{m}{n} < 1.21$ and $k \geq 6$. We also obtain an unconditional upper
+bound of $O^*(1.88^m)$ for $\#4SAT$ in terms of clauses only, and find an
+improved bound on $\#3SAT$ for $1.2577 < \frac{m}{n} \leq \frac{7}{3}$. Our
+results demonstrate that graphical reasoning can lead to new algorithmic
+insights, even outside the domain of quantum computing that the calculus was
+intended for."

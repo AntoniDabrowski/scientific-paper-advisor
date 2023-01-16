@@ -1,3 +1,4 @@
+import argparse
 import logging
 import os.path
 import pickle
@@ -140,11 +141,27 @@ def _create_batch_for_workers(num_workers, chunks_generator, semaphore):
     return [(next(chunks_generator), semaphore) for _ in range(num_workers)]
 
 
+def purge_unnamed_columns(df) -> pd.DataFrame:
+    df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
+    return df
+
+
+def dataframe_category_split(df: pd.DataFrame,
+                             output_file: str = None) -> List[pd.DataFrame]:
+    groups = df.groupby(['primary category'])
+
+    for name, group in groups:
+        group.to_csv("{}/{}.{}".format(os.path.dirname(output_file), name, os.path.basename(output_file)))
+
+    return groups
+
+
 def make_pdfs_into_fr_database(files: Union[Path, str],
                                output_file: Union[Path, str],
                                checkpoint: int = 10,
                                parallel_workers: int = 8,
-                               chunksize: int = 10):
+                               chunksize: int = 10,
+                               split_by_category=False) -> Union[pd.DataFrame, List[pd.DataFrame]]:
     # Load progress done so far
     df, processed_files, processed_set_path = _load_progress(output_file)
 
@@ -176,14 +193,59 @@ def make_pdfs_into_fr_database(files: Union[Path, str],
             except StopIteration:
                 more_to_come = False
 
+    df = purge_unnamed_columns(df)
+
+    _save_progress(output_file_path=output_file,
+                   processed_files_path=processed_set_path,
+                   curr_dataset=df,
+                   processed_files=processed_files)
+
+    if split_by_category:
+        dataframe_category_split(df, output_file)
+
+    return df
+
+
+parser = argparse.ArgumentParser(description="Tool for parsing pdf articles into a database of further "
+                                             "research topics.")
+
+parser.add_argument("-d", "--source-directory",
+                    help="Dictates from where the pdfs should be taken.",
+                    required=True)
+parser.add_argument("-c", "--checkpoint",
+                    default=10,
+                    help="Number of chunks after which the result will be saved..",
+                    type=int)
+parser.add_argument("-ch", "--chunksize",
+                    default=10,
+                    help="Number of the articles given to the worker in a single chunk.",
+                    type=int)
+parser.add_argument("-pp", "--parallel-processes",
+                    default=2,
+                    help="Numbers of parallel workers to use for parsing of the articles.",
+                    type=int)
+parser.add_argument("--debug", action="store_true")
+parser.add_argument("-o", "--output-file",
+                    help="Name of the output file. This will be a csv file."
+                         "If this files already exist and is of csv format the script will try to append "
+                         "the results to it, to allow continuation of interrupted processes.",
+                    required=True)
+parser.add_argument("-s", "--category-split", action="store_true", help="Creates a set of csv files that are the "
+                                                                        "result of splitting the output file by "
+                                                                        "primary categories.")
+
+args = parser.parse_args()
 
 handler = logging.StreamHandler(sys.stderr)
-handler.setLevel(logging.DEBUG)
+handler.setLevel(logging.DEBUG if args.debug else logging.WARNING)
 log.addHandler(handler)
-# TODO add argparsing
+
 if __name__ == '__main__':
     make_pdfs_into_fr_database(
-        files="/mnt/i/arxiv",
-        output_file="results/mass_parsing.csv",
-        parallel_workers=8
+        files=args.source_directory,
+        output_file=args.output_file,
+        parallel_workers=args.parallel_processes,
+        chunksize=args.chunksize,
+        checkpoint=args.checkpoint,
+        split_by_category=args.category_split
     )

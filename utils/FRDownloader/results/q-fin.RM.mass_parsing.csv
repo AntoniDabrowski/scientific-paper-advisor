@@ -1,0 +1,465 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+658,Section 6 concludes and discusses further research.,"Section 5 applies the method
+to a more complex asset-liability-model.","All
+proofs and auxiliary material are collected in an appendix.",2022-01-17 10:12:15+00:00,Multinomial Backtesting of Distortion Risk Measures,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Sören Bettels'), arxiv.Result.Author('Sojung Kim'), arxiv.Result.Author('Stefan Weber')]","We extend the scope of risk measures for which backtesting models are
+available by proposing a multinomial backtesting method for general distortion
+risk measures. The method relies on a stratification and randomization of risk
+levels. We illustrate the performance of our methods in numerical case studies."
+1558,"Avenues of further research include the analysis of the effect of the discrepancies among
+the different CDS contributors on potential debt decoupling (Hu and Black, 2008) or the
+usefulness of such dispersion as a signaling tool for supervisory monitoring in comparison
+
+                                                                                                        36
+to the usefulness of other financial instruments (Hamalainen, Pop, Hall and Howcroft,
+2012).","Second, extant price discovery
+research focused on CDS spreads and/or stock returns should be complemented with
+additional robustness tests in the light of the differences found across databases.","References
+Acharya, V. and Johnson, T., “Insider Trading in Credit Derivatives”.",2022-02-04 17:58:48+00:00,Are all Credit Default Swap Databases equal?,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Sergio Mayordomo'), arxiv.Result.Author('Juan Ignacio Peña'), arxiv.Result.Author('Eduardo S. Schwartz')]","We compare the five major sources of corporate Credit Default Swap prices:
+GFI, Fenics, Reuters, CMA, and Markit, using the most liquid single name 5-year
+CDS in the iTraxx and CDX indexes from 2004 to 2010. Deviations from the common
+trend among prices in the different databases are not random but are explained
+by idiosyncratic factors, financing costs, global risk, and other trading
+factors. The CMA quotes lead the price discovery process. Moreover, we find
+that there is not a full agreement among databases in the results of the price
+discovery analysis between stock and CDS returns."
+1559,"The
+application of our measures for asset pricing, hedging strategies, portfolio
+diversification, and risk management purposes represent other natural directions for
+further research.","Looking forward, a comparison of our measures with other measures based on
+alternative asset markets would offer an interesting topic for further investigation.","Appendices
+
+Appendix A
+      We apply the theorem of the law of total variance,
+
+                   Var (Y ) = EX Var (Y | X ) +VarX E (Y | X ) .",2022-02-04 18:04:50+00:00,Measuring Systemic Risk: Common Factor Exposures and Tail Dependence Effects,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Wan-Chien Chiu'), arxiv.Result.Author('Juan Ignacio Peña'), arxiv.Result.Author('Chih-Wei Wang')]","We model systemic risk using a common factor that accounts for market-wide
+shocks and a tail dependence factor that accounts for linkages among extreme
+stock returns. Specifically, our theoretical model allows for firm-specific
+impacts of infrequent and extreme events. Using data on the four sectors of the
+U.S. financial industry from 1996 to 2011, we uncover two key empirical
+findings. First, disregarding the effect of the tail dependence factor leads to
+a downward bias in the measurement of systemic risk, especially during weak
+economic times. Second, when these measures serve as leading indicators of the
+St. Louis Fed Financial Stress Index, measures that include a tail dependence
+factor offer better forecasting ability than measures based on a common factor
+only."
+2979,"6 Conclusion and further research
+
+In this paper, we derive and analyze a Stackelberg equilibrium in a Stackelberg game between
+a reinsurer and an insurer, which appears in the context of an equity-linked insurance product
+with a capital guarantee.","For RRAI = 15 and T = 20 we
+have W EU CI (θR(86.73%), ξI∗, 0, 0) = 287bp.","We assume that the reinsurance is only purchased at the beginning of
+the investment horizon and is not continuously adjusted.",2022-03-08 12:48:26+00:00,Risk sharing in equity-linked insurance products: Stackelberg equilibrium between an insurer and a reinsurer,q-fin.RM,"['q-fin.RM', 'q-fin.PM', '91G10 (Primary), 91B30 (Secondary), 91A10 (Secondary)']","[arxiv.Result.Author('Yevhen Havrylenko'), arxiv.Result.Author('Maria Hinken'), arxiv.Result.Author('Rudi Zagst')]","Equity-linked insurance products often have capital guarantees. Common
+investment strategies ensuring these guarantees are challenged nowadays by low
+interest rates. Thus, we study an alternative strategy when an insurance
+company shares financial risk with a reinsurance company. We model this
+situation as a Stackelberg game. The reinsurer is the leader in the game and
+maximizes its expected utility by selecting its optimal investment strategy and
+a safety loading in the reinsurance contract it offers to the insurer. The
+reinsurer can assess how the insurer will rationally react on each action of
+the reinsurer. The insurance company is the follower and maximizes its expected
+utility by choosing its investment strategy and the amount of reinsurance the
+company purchases at the price offered by the reinsurer. In this game, we
+derive the Stackelberg equilibrium for general utility functions. For power
+utility functions, we calculate the equilibrium explicitly and find that the
+reinsurer selects the largest reinsurance premium such that the insurer may
+still buy the maximal amount of reinsurance. Since in the equilibrium the
+insurer is indifferent in the amount of reinsurance, in practice, the reinsurer
+should consider charging a smaller reinsurance premium than the equilibrium
+one. Therefore, we propose several criteria for choosing such a discount rate
+and investigate its wealth-equivalent impact on the utilities of both parties."
+5029,"We further study some technical properties of PELVE
+                                                   by oﬀering a few new results on monotonicity and convergence.","In the most complicated case of a curve constraint, we convert the calibration problem
+                                                   to that of an advanced diﬀerential equation.","Keywords: Value-at-Risk, Expected Shortfall, risk measures, heavy tails, advanced diﬀerential
+                                           equation.",2022-04-19 13:27:48+00:00,Calibrating distribution models from PELVE,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Hirbod Assa'), arxiv.Result.Author('Liyuan Lin'), arxiv.Result.Author('Ruodu Wang')]","The Value-at-Risk (VaR) and the Expected Shortfall (ES) are the two most
+popular risk measures in banking and insurance regulation. To bridge between
+the two regulatory risk measures, the Probability Equivalent Level of VaR-ES
+(PELVE) was recently proposed to convert a level of VaR to that of ES. It is
+straightforward to compute the value of PELVE for a given distribution model.
+In this paper, we study the converse problem of PELVE calibration, that is, to
+find a distribution model that yields a given PELVE, which may either be
+obtained from data or from expert opinion. We discuss separately the cases when
+one-point, two-point and curve constraints are given. In the most complicated
+case of a curve constraint, we convert the calibration problem to that of an
+advanced differential equation. We further study some technical properties of
+PELVE by offering a few new results on monotonicity and convergence."
+5297,"We further study the correlation between        HIDAM combines node embeddings with the downstream learning
+relationships and default risks.","Finally,
+   Impact analysis (P3).","For each view, we collect the meta-     objective for prediction.",2022-04-24 11:26:12+00:00,Heterogeneous Information Network based Default Analysis on Banking Micro and Small Enterprise Users,q-fin.RM,"['q-fin.RM', 'cs.AI', 'cs.LG', 'cs.SI']","[arxiv.Result.Author('Zheng Zhang'), arxiv.Result.Author('Yingsheng Ji'), arxiv.Result.Author('Jiachen Shen'), arxiv.Result.Author('Xi Zhang'), arxiv.Result.Author('Guangwen Yang')]","Risk assessment is a substantial problem for financial institutions that has
+been extensively studied both for its methodological richness and its various
+practical applications. With the expansion of inclusive finance, recent
+attentions are paid to micro and small-sized enterprises (MSEs). Compared with
+large companies, MSEs present a higher exposure rate to default owing to their
+insecure financial stability. Conventional efforts learn classifiers from
+historical data with elaborate feature engineering. However, the main obstacle
+for MSEs involves severe deficiency in credit-related information, which may
+degrade the performance of prediction. Besides, financial activities have
+diverse explicit and implicit relations, which have not been fully exploited
+for risk judgement in commercial banks. In particular, the observations on real
+data show that various relationships between company users have additional
+power in financial risk analysis. In this paper, we consider a graph of banking
+data, and propose a novel HIDAM model for the purpose. Specifically, we attempt
+to incorporate heterogeneous information network with rich attributes on
+multi-typed nodes and links for modeling the scenario of business banking
+service. To enhance feature representation of MSEs, we extract interactive
+information through meta-paths and fully exploit path information. Furthermore,
+we devise a hierarchical attention mechanism respectively to learn the
+importance of contents inside each meta-path and the importance of different
+metapahs. Experimental results verify that HIDAM outperforms state-of-the-art
+competitors on real-world banking data."
+5298,"We further study the correlation between
+We conduct data investigation into the following perspectives of      relationships and default risks.","3.2 Exploratory Analyses
+                                                                         Impact analysis (P3).","For each view, we collect the meta-
+the graph-based default prediction problem: (P1) What kinds of        path based neighbors of each MSE and count the number of default
+relational data are used for graph modeling?",2022-04-24 11:26:12+00:00,Heterogeneous Information Network based Default Analysis on Banking Micro and Small Enterprise Users,q-fin.RM,"['q-fin.RM', 'cs.AI', 'cs.LG', 'cs.SI']","[arxiv.Result.Author('Zheng Zhang'), arxiv.Result.Author('Yingsheng Ji'), arxiv.Result.Author('Jiachen Shen'), arxiv.Result.Author('Xi Zhang'), arxiv.Result.Author('Guangwen Yang')]","Risk assessment is a substantial problem for financial institutions that has
+been extensively studied both for its methodological richness and its various
+practical applications. With the expansion of inclusive finance, recent
+attentions are paid to micro and small-sized enterprises (MSEs). Compared with
+large companies, MSEs present a higher exposure rate to default owing to their
+insecure financial stability. Conventional efforts learn classifiers from
+historical data with elaborate feature engineering. However, the main obstacle
+for MSEs involves severe deficiency in credit-related information, which may
+degrade the performance of prediction. Besides, financial activities have
+diverse explicit and implicit relations, which have not been fully exploited
+for risk judgement in commercial banks. In particular, the observations on real
+data show that various relationships between company users have additional
+power in financial risk analysis. In this paper, we consider a graph of banking
+data, and propose a novel HIDAM model for the purpose. Specifically, we attempt
+to incorporate heterogeneous information network with rich attributes on
+multi-typed nodes and links for modeling the scenario of business banking
+service. To enhance feature representation of MSEs, we extract interactive
+information through meta-paths and fully exploit path information. Furthermore,
+we devise a hierarchical attention mechanism respectively to learn the
+importance of contents inside each meta-path and the importance of different
+metapahs. Experimental results verify that HIDAM outperforms state-of-the-art
+competitors on real-world banking data."
+5689,"8 Conclusion and further research
+
+The novel contribution of this paper is to empirically analyse the impact of introducing
+ML techniques to include linear and non-linear dependencies among obligors’ charac-
+teristics in the credit risk evaluation of a portfolio.","17
+         4e-04
+
+         3e-04
+
+density  2e-04
+
+         1e-04
+
+         0e+00
+
+                0  1000  2000  3000  4000  5000  6000
+
+                               S
+
+          Figure 5: Beta binomial pmf estimated with LR (black) and AB (red).","We perform our analysis on a set
+of credit card owners with observable characteristics.",2022-05-03 14:18:52+00:00,Machine learning techniques in joint default assessment,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Margherita Doria'), arxiv.Result.Author('Elisa Luciano'), arxiv.Result.Author('Patrizia Semeraro')]","This paper studies the consequences of capturing non-linear dependence among
+the covariates that drive the default of different obligors and the overall
+riskiness of their credit portfolio. Joint default modeling is, without loss of
+generality, the classical Bernoulli mixture model. Using an application to a
+credit card dataset we show that, even when Machine Learning techniques perform
+only slightly better than Logistic Regression in classifying individual
+defaults as a function of the covariates, they do outperform it at the
+portfolio level. This happens because they capture linear and non-linear
+dependence among the covariates, whereas Logistic Regression only captures
+linear dependence. The ability of Machine Learning methods to capture
+non-linear dependence among the covariates produces higher default correlation
+compared with Logistic Regression. As a consequence, on our data, Logistic
+Regression underestimates the riskiness of the credit portfolio."
+6366,"In a further study, Evans           𝑌 reserves  𝑥
+et al.","Evans [17] studies the returns of liquidity                               𝑢
+providers and shows that they are capable of replicating various
+trading strategies and financial derivatives.","[18] find the optimal transaction fee for liquidity pools to                                   𝑚
+attract liquidity.",2022-05-18 12:56:37+00:00,Risks and Returns of Uniswap V3 Liquidity Providers,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Lioba Heimbach'), arxiv.Result.Author('Eric Schertenleib'), arxiv.Result.Author('Roger Wattenhofer')]","Trade execution on Decentralized Exchanges (DEXes) is automatic and does not
+require individual buy and sell orders to be matched. Instead, liquidity
+aggregated in pools from individual liquidity providers enables trading between
+cryptocurrencies. The largest DEX measured by trading volume, Uniswap V3,
+promises a DEX design optimized for capital efficiency. However, Uniswap V3
+requires far more decisions from liquidity providers than previous DEX designs.
+  In this work, we develop a theoretical model to illustrate the choices faced
+by Uniswap V3 liquidity providers and their implications. Our model suggests
+that providing liquidity on Uniswap V3 is highly complex and requires many
+considerations from a user. Our supporting data analysis of the risks and
+returns of real Uniswap V3 liquidity providers underlines that liquidity
+providing in Uniswap V3 is incredibly complicated, and performances can vary
+wildly. While there are simple and profitable strategies for liquidity
+providers in liquidity pools characterized by negligible price volatilities,
+these strategies only yield modest returns. Instead, significant returns can
+only be obtained by accepting increased financial risks and at the cost of
+active management. Thus, providing liquidity has become a game reserved for
+sophisticated players with the introduction of Uniswap V3, where retail traders
+do not stand a chance."
+6367,"Thus, while liquidity position’s on Uniswap              To further study the risks associated with providing liquidity,
+V3 experience little to no risks of losing money, the returns are           we also consider the conditional value at risk (CVaR) of the ana-
+generally small.","with lifetimes exceeding 30 days exhibit mean daily returns rang-
+ing from 0% to 0.04%.",For the four normal pair pools (cf.,2022-05-18 12:56:37+00:00,Risks and Returns of Uniswap V3 Liquidity Providers,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Lioba Heimbach'), arxiv.Result.Author('Eric Schertenleib'), arxiv.Result.Author('Roger Wattenhofer')]","Trade execution on Decentralized Exchanges (DEXes) is automatic and does not
+require individual buy and sell orders to be matched. Instead, liquidity
+aggregated in pools from individual liquidity providers enables trading between
+cryptocurrencies. The largest DEX measured by trading volume, Uniswap V3,
+promises a DEX design optimized for capital efficiency. However, Uniswap V3
+requires far more decisions from liquidity providers than previous DEX designs.
+  In this work, we develop a theoretical model to illustrate the choices faced
+by Uniswap V3 liquidity providers and their implications. Our model suggests
+that providing liquidity on Uniswap V3 is highly complex and requires many
+considerations from a user. Our supporting data analysis of the risks and
+returns of real Uniswap V3 liquidity providers underlines that liquidity
+providing in Uniswap V3 is incredibly complicated, and performances can vary
+wildly. While there are simple and profitable strategies for liquidity
+providers in liquidity pools characterized by negligible price volatilities,
+these strategies only yield modest returns. Instead, significant returns can
+only be obtained by accepting increased financial risks and at the cost of
+active management. Thus, providing liquidity has become a game reserved for
+sophisticated players with the introduction of Uniswap V3, where retail traders
+do not stand a chance."
+6368,"In a further study, Evans   𝑌 reserves  𝑥
+et al.","Evans [17] studies the returns of liquidity                      𝑢
+providers and shows that they are capable of replicating various
+trading strategies and financial derivatives.","[18] find the optimal transaction fee for liquidity pools to                             𝑚
+attract liquidity.",2022-05-18 12:56:37+00:00,Risks and Returns of Uniswap V3 Liquidity Providers,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Lioba Heimbach'), arxiv.Result.Author('Eric Schertenleib'), arxiv.Result.Author('Roger Wattenhofer')]","Trade execution on Decentralized Exchanges (DEXes) is automatic and does not
+require individual buy and sell orders to be matched. Instead, liquidity
+aggregated in pools from individual liquidity providers enables trading between
+cryptocurrencies. The largest DEX measured by trading volume, Uniswap V3,
+promises a DEX design optimized for capital efficiency. However, Uniswap V3
+requires far more decisions from liquidity providers than previous DEX designs.
+  In this work, we develop a theoretical model to illustrate the choices faced
+by Uniswap V3 liquidity providers and their implications. Our model suggests
+that providing liquidity on Uniswap V3 is highly complex and requires many
+considerations from a user. Our supporting data analysis of the risks and
+returns of real Uniswap V3 liquidity providers underlines that liquidity
+providing in Uniswap V3 is incredibly complicated, and performances can vary
+wildly. While there are simple and profitable strategies for liquidity
+providers in liquidity pools characterized by negligible price volatilities,
+these strategies only yield modest returns. Instead, significant returns can
+only be obtained by accepting increased financial risks and at the cost of
+active management. Thus, providing liquidity has become a game reserved for
+sophisticated players with the introduction of Uniswap V3, where retail traders
+do not stand a chance."
+6369,"Less than
+                                                                        30% of the liquidity positions in the four pools are rewarded for
+   To further study the risks associated with providing liquidity,
+Risks and Returns of Uniswap V3 Liquidity Providers                                [2] 2022.",providers do not appear to be rewarded with high returns.,Balancer.,2022-05-18 12:56:37+00:00,Risks and Returns of Uniswap V3 Liquidity Providers,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Lioba Heimbach'), arxiv.Result.Author('Eric Schertenleib'), arxiv.Result.Author('Roger Wattenhofer')]","Trade execution on Decentralized Exchanges (DEXes) is automatic and does not
+require individual buy and sell orders to be matched. Instead, liquidity
+aggregated in pools from individual liquidity providers enables trading between
+cryptocurrencies. The largest DEX measured by trading volume, Uniswap V3,
+promises a DEX design optimized for capital efficiency. However, Uniswap V3
+requires far more decisions from liquidity providers than previous DEX designs.
+  In this work, we develop a theoretical model to illustrate the choices faced
+by Uniswap V3 liquidity providers and their implications. Our model suggests
+that providing liquidity on Uniswap V3 is highly complex and requires many
+considerations from a user. Our supporting data analysis of the risks and
+returns of real Uniswap V3 liquidity providers underlines that liquidity
+providing in Uniswap V3 is incredibly complicated, and performances can vary
+wildly. While there are simple and profitable strategies for liquidity
+providers in liquidity pools characterized by negligible price volatilities,
+these strategies only yield modest returns. Instead, significant returns can
+only be obtained by accepting increased financial risks and at the cost of
+active management. Thus, providing liquidity has become a game reserved for
+sophisticated players with the introduction of Uniswap V3, where retail traders
+do not stand a chance."
+8006,"Therefore, risks in LPs are infectious, and
+more further study can help to understand cross-LP effects better.","For the case of DAI, more liquidity risks in Aave can negatively
+relate to market cap and revenue of Compound.","Although our findings appear conceptually and empirically robust, they should be interpreted
+with their limitations in mind.",2022-06-23 20:54:15+00:00,Liquidity Risks in Lending Protocols (LPs): Evidence from Aave Protocol,q-fin.RM,"['q-fin.RM', 'cs.CR', 'q-fin.CP', 'q-fin.TR']","[arxiv.Result.Author('Xiaotong Sun'), arxiv.Result.Author('Charalampos Stasinakis'), arxiv.Result.Author('Georgios Sermpinis')]","Lending Protocols (LPs), as blockchain-based lending systems, allow any
+agents to borrow and lend cryptocurrencies. By choosing Aave protocol as a case
+study, we investigate liquidity risks in the emerging on-chain lending market.
+In Aave, a small group of users are both borrowers and depositors, and these
+users account for significant loans and deposits. Therefore, these users can
+launch illiquidity attacks by collectively withdrawing deposits and initiating
+loans. After establishing measurements of potential liquidity risks caused by
+dual-role users, we find that these users have complex effects on Aave, and
+potential liquidity risks can spread across LP market as well. Overall,
+liquidity risks caused by dual-role users can be a double-edged sword for LPs."
+11210,"Developing estimation procedures is outside the scope of
+this paper, but it constitutes an interesting direction for further research.","To use these expressions in practice, one would need to estimate the transition rates µjk and the
+conditional distribution PZ(2)|T2(dz | t).",Reserves: alternative expressions.,2022-08-11 15:32:54+00:00,Transaction time models in multi-state life insurance,q-fin.RM,"['q-fin.RM', 'math.PR', '91G05, 60J76']","[arxiv.Result.Author('Kristian Buchardt'), arxiv.Result.Author('Christian Furrer'), arxiv.Result.Author('Oliver Lunding Sandqvist')]","In life insurance contracts, benefits and premiums are typically paid
+contingent on the biometric state of the insured. Due to delays between the
+occurrence, reporting, and settlement of changes to the biometric state, the
+state process is not fully observable in real-time. This fact implies that the
+classic multi-state models for the biometric state of the insured are not able
+to describe the development of the policy in real-time, which encompasses
+handling of incurred-but-not-reported and reported-but-not-settled claims. We
+give a fundamental treatment of the problem in the setting of continuous-time
+multi-state life insurance by introducing a new class of models: transaction
+time models. The relation between the transaction time model and the classic
+model is studied and a result linking the present values in the two models is
+derived. The results and their practical implications are illustrated for total
+permanent disability insurance, where we show how added structure allows one to
+obtain explicit expressions for the transaction time reserve."
+11271,"As even a minor improvement can prevent dramatic loss,
+                                           forms are facing is to assess the creditworthiness of applicants      the further research of credit scoring is necessary and lies in 2
+                                           and decide whether or not to grant credit.",A crucial challenge that the leading plat-     [3].,"Therefore, credit          directions, namely feature engineering and methodology.",2022-08-23 12:24:19+00:00,Towards a Better Microcredit Decision,q-fin.RM,"['q-fin.RM', 'cs.LG']","[arxiv.Result.Author('Mengnan Song'), arxiv.Result.Author('Jiasong Wang'), arxiv.Result.Author('Suisui Su')]","Reject inference comprises techniques to infer the possible repayment
+behavior of rejected cases. In this paper, we model credit in a brand new view
+by capturing the sequential pattern of interactions among multiple stages of
+loan business to make better use of the underlying causal relationship.
+Specifically, we first define 3 stages with sequential dependence throughout
+the loan process including credit granting(AR), withdrawal application(WS) and
+repayment commitment(GB) and integrate them into a multi-task architecture.
+Inside stages, an intra-stage multi-task classification is built to meet
+different business goals. Then we design an Information Corridor to express
+sequential dependence, leveraging the interaction information between customer
+and platform from former stages via a hierarchical attention module controlling
+the content and size of the information channel. In addition, semi-supervised
+loss is introduced to deal with the unobserved instances. The proposed
+multi-stage interaction sequence(MSIS) method is simple yet effective and
+experimental results on a real data set from a top loan platform in China show
+the ability to remedy the population bias and improve model generalization
+ability."
+13115,These ﬁndings are the basis for further research directions.,"Current cybersecu-
+                                                                                         rity assessment methodologies need to be enhanced to include
+                                                                                         network-related feature scores and evaluate companies from
+                                                                                         a supply chain standpoint for more accurate assessments of
+                                                                                         overall company cyber risk, which will consequently drive more
+                                                                                         eﬀective cybersecurity decisions and countermeasures.","The local supply chain network construction and feature design
+                                                                                         developed in this study can inform future work for assessing
+                                                                                         cyber risk within supply chains and large network structures in
+                                                                                         general.",2022-10-27 21:58:34+00:00,Supply Chain Characteristics as Predictors of Cyber Risk: A Machine-Learning Assessment,q-fin.RM,"['q-fin.RM', 'cs.CR']","[arxiv.Result.Author('Kevin Hu'), arxiv.Result.Author('Retsef Levi'), arxiv.Result.Author('Raphael Yahalom'), arxiv.Result.Author('El Ghali Zerhouni')]","This paper provides the first large-scale data-driven analysis to evaluate
+the predictive power of different attributes for assessing risk of cyberattack
+data breaches. Furthermore, motivated by rapid increase in third party enabled
+cyberattacks, the paper provides the first quantitative empirical evidence that
+digital supply-chain attributes are significant predictors of enterprise cyber
+risk. The paper leverages outside-in cyber risk scores that aim to capture the
+quality of the enterprise internal cybersecurity management, but augment these
+with supply chain features that are inspired by observed third party
+cyberattack scenarios, as well as concepts from network science research. The
+main quantitative result of the paper is to show that supply chain network
+features add significant detection power to predicting enterprise cyber risk,
+relative to merely using enterprise-only attributes. Particularly, compared to
+a base model that relies only on internal enterprise features, the supply chain
+network features improve the out-of-sample AUC by 2.3\%. Given that each cyber
+data breach is a low probability high impact risk event, these improvements in
+the prediction power have significant value. Additionally, the model highlights
+several cybersecurity risk drivers related to third party cyberattack and
+breach mechanisms and provides important insights as to what interventions
+might be effective to mitigate these risks."
+13116,"The importance
+    Secondly, the paper also stimulates and highlights impor-   of local network connectivity features and network exposure
+tant further research directions.","can inform future work for assessing cyber risk within supply
+                                                                chains and large network structures in general.","The local supply chain net-
+
+Hu et al.",2022-10-27 21:58:34+00:00,Supply Chain Characteristics as Predictors of Cyber Risk: A Machine-Learning Assessment,q-fin.RM,"['q-fin.RM', 'cs.CR']","[arxiv.Result.Author('Kevin Hu'), arxiv.Result.Author('Retsef Levi'), arxiv.Result.Author('Raphael Yahalom'), arxiv.Result.Author('El Ghali Zerhouni')]","This paper provides the first large-scale data-driven analysis to evaluate
+the predictive power of different attributes for assessing risk of cyberattack
+data breaches. Furthermore, motivated by rapid increase in third party enabled
+cyberattacks, the paper provides the first quantitative empirical evidence that
+digital supply-chain attributes are significant predictors of enterprise cyber
+risk. The paper leverages outside-in cyber risk scores that aim to capture the
+quality of the enterprise internal cybersecurity management, but augment these
+with supply chain features that are inspired by observed third party
+cyberattack scenarios, as well as concepts from network science research. The
+main quantitative result of the paper is to show that supply chain network
+features add significant detection power to predicting enterprise cyber risk,
+relative to merely using enterprise-only attributes. Particularly, compared to
+a base model that relies only on internal enterprise features, the supply chain
+network features improve the out-of-sample AUC by 2.3\%. Given that each cyber
+data breach is a low probability high impact risk event, these improvements in
+the prediction power have significant value. Additionally, the model highlights
+several cybersecurity risk drivers related to third party cyberattack and
+breach mechanisms and provides important insights as to what interventions
+might be effective to mitigate these risks."
+13117,"U.S. Securities and Exchange Commission, Sec proposes rules on cybersecurity risk man-
+tant further research directions.","Secondly, the paper also stimulates and highlights impor-    5.","The local supply chain net-
+work construction and feature design developed in this study     agement, strategy, governance, and incident disclosure by public companies (https://www.",2022-10-27 21:58:34+00:00,Supply Chain Characteristics as Predictors of Cyber Risk: A Machine-Learning Assessment,q-fin.RM,"['q-fin.RM', 'cs.CR']","[arxiv.Result.Author('Kevin Hu'), arxiv.Result.Author('Retsef Levi'), arxiv.Result.Author('Raphael Yahalom'), arxiv.Result.Author('El Ghali Zerhouni')]","This paper provides the first large-scale data-driven analysis to evaluate
+the predictive power of different attributes for assessing risk of cyberattack
+data breaches. Furthermore, motivated by rapid increase in third party enabled
+cyberattacks, the paper provides the first quantitative empirical evidence that
+digital supply-chain attributes are significant predictors of enterprise cyber
+risk. The paper leverages outside-in cyber risk scores that aim to capture the
+quality of the enterprise internal cybersecurity management, but augment these
+with supply chain features that are inspired by observed third party
+cyberattack scenarios, as well as concepts from network science research. The
+main quantitative result of the paper is to show that supply chain network
+features add significant detection power to predicting enterprise cyber risk,
+relative to merely using enterprise-only attributes. Particularly, compared to
+a base model that relies only on internal enterprise features, the supply chain
+network features improve the out-of-sample AUC by 2.3\%. Given that each cyber
+data breach is a low probability high impact risk event, these improvements in
+the prediction power have significant value. Additionally, the model highlights
+several cybersecurity risk drivers related to third party cyberattack and
+breach mechanisms and provides important insights as to what interventions
+might be effective to mitigate these risks."
+13118,"Secondly, the paper also stimulates and highlights impor-
+tant further research directions.","agement, strategy, governance, and incident disclosure by public companies (https://www.","The local supply chain net-    sec.gov/news/press-release/2022-39) (2022) Accessed: 2022-11-11.
+work construction and feature design developed in this study
+can inform future work for assessing cyber risk within supply    6.",2022-10-27 21:58:34+00:00,Supply Chain Characteristics as Predictors of Cyber Risk: A Machine-Learning Assessment,q-fin.RM,"['q-fin.RM', 'cs.CR']","[arxiv.Result.Author('Kevin Hu'), arxiv.Result.Author('Retsef Levi'), arxiv.Result.Author('Raphael Yahalom'), arxiv.Result.Author('El Ghali Zerhouni')]","This paper provides the first large-scale data-driven analysis to evaluate
+the predictive power of different attributes for assessing risk of cyberattack
+data breaches. Furthermore, motivated by rapid increase in third party enabled
+cyberattacks, the paper provides the first quantitative empirical evidence that
+digital supply-chain attributes are significant predictors of enterprise cyber
+risk. The paper leverages outside-in cyber risk scores that aim to capture the
+quality of the enterprise internal cybersecurity management, but augment these
+with supply chain features that are inspired by observed third party
+cyberattack scenarios, as well as concepts from network science research. The
+main quantitative result of the paper is to show that supply chain network
+features add significant detection power to predicting enterprise cyber risk,
+relative to merely using enterprise-only attributes. Particularly, compared to
+a base model that relies only on internal enterprise features, the supply chain
+network features improve the out-of-sample AUC by 2.3\%. Given that each cyber
+data breach is a low probability high impact risk event, these improvements in
+the prediction power have significant value. Additionally, the model highlights
+several cybersecurity risk drivers related to third party cyberattack and
+breach mechanisms and provides important insights as to what interventions
+might be effective to mitigate these risks."
+13284,"In further research, we will explore a general
+way to detect the optimal feature weights.","In the proposed approach, the design
+of global similarity is based on the existing feature scoring methods.","In addition, the maintenance of a CBR system is necessary, the costs of
+which may include the cost of adding new cases to strengthen the case base and reﬁning existing cases (Bensoussan
+et al.",2022-11-02 07:10:09+00:00,A Data-driven Case-based Reasoning in Bankruptcy Prediction,q-fin.RM,"['q-fin.RM', 'cs.LG']","[arxiv.Result.Author('Wei Li'), arxiv.Result.Author('Wolfgang Karl Härdle'), arxiv.Result.Author('Stefan Lessmann')]","There has been intensive research regarding machine learning models for
+predicting bankruptcy in recent years. However, the lack of interpretability
+limits their growth and practical implementation. This study proposes a
+data-driven explainable case-based reasoning (CBR) system for bankruptcy
+prediction. Empirical results from a comparative study show that the proposed
+approach performs superior to existing, alternative CBR systems and is
+competitive with state-of-the-art machine learning models. We also demonstrate
+that the asymmetrical feature similarity comparison mechanism in the proposed
+CBR system can effectively capture the asymmetrically distributed nature of
+financial attributes, such as a few companies controlling more cash than the
+majority, hence improving both the accuracy and explainability of predictions.
+In addition, we delicately examine the explainability of the CBR system in the
+decision-making process of bankruptcy prediction. While much research suggests
+a trade-off between improving prediction accuracy and explainability, our
+findings show a prospective research avenue in which an explainable model that
+thoroughly incorporates data attributes by design can reconcile the dilemma."
+14240,"The framework of CSR in food supply chain proposed in this paper lays a
+                      foundation for the food industry to further study the elements of CSR in supply chain.","Thus, it’s a substantial improvement in accuracy using machine learning methods.","In this paper, an opportunistic MCDM clustering algorithm is proposed to rank the popular algorithms in the ﬁeld
+                      of ﬁnancial risk analysis.",2022-11-28 01:51:16+00:00,"A Comprehensive Survey on Enterprise Financial Risk Analysis: Problems, Methods, Spotlights and Applications",q-fin.RM,"['q-fin.RM', 'cs.AI', 'cs.LG']","[arxiv.Result.Author('Yu Zhao'), arxiv.Result.Author('Huaming Du')]","Enterprise financial risk analysis aims at predicting the enterprises' future
+financial risk.Due to the wide application, enterprise financial risk analysis
+has always been a core research issue in finance. Although there are already
+some valuable and impressive surveys on risk management, these surveys
+introduce approaches in a relatively isolated way and lack the recent advances
+in enterprise financial risk analysis. Due to the rapid expansion of the
+enterprise financial risk analysis, especially from the computer science and
+big data perspective, it is both necessary and challenging to comprehensively
+review the relevant studies. This survey attempts to connect and systematize
+the existing enterprise financial risk researches, as well as to summarize and
+interpret the mechanisms and the strategies of enterprise financial risk
+analysis in a comprehensive way, which may help readers have a better
+understanding of the current research status and ideas. This paper provides a
+systematic literature review of over 300 articles published on enterprise risk
+analysis modelling over a 50-year period, 1968 to 2022. We first introduce the
+formal definition of enterprise risk as well as the related concepts. Then, we
+categorized the representative works in terms of risk type and summarized the
+three aspects of risk analysis. Finally, we compared the analysis methods used
+to model the enterprise financial risk. Our goal is to clarify current
+cutting-edge research and its possible future directions to model enterprise
+risk, aiming to fully understand the mechanisms of enterprise risk
+communication and influence and its application on corporate governance,
+financial institution and government regulation."
+14723,"Finally, Section 6 provides some con-
+cluding remarks and perspectives for further research, and several proofs are collected
+
+                                                       4
+in Section 7.","A series
+of numerical analyses is conducted in Section 5.","2 Underlying ﬁnancial market
+
+We assume that we are in a ﬁnancial market with two traded assets: one risky and one
+risk-free asset.",2022-12-08 16:52:59+00:00,Optimal investment under partial observations and robust VaR-type constraint,q-fin.RM,['q-fin.RM'],"[arxiv.Result.Author('Nicole Bäuerle'), arxiv.Result.Author('An Chen')]","The present paper extends the literature on utility maximization by combining
+the framework of partial information and (robust) regulatory constraints.
+Partial information is characterized by the fact that the stock price itself is
+observable to the optimizing financial institution, but the outcome of the
+market price of risk $\theta$ is unknown to the institution. The regulator
+builds the same or a different belief about the market price of risk as the
+financial institution. The solution to our optimization problem takes the same
+form as in the full information case: the optimal wealth can be expressed as a
+decreasing function of the state price density, and the regulatory threshold is
+ensured in the intermediate economic states. The main difference lies in the
+terminal state price density depending on the entire evolution of the estimated
+market price of risk $\hat{\theta}(s)$. The subjective evaluation of the
+regulatory constraint influences the width of the ensured region."
