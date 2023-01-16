@@ -1,14 +1,13 @@
 import pandas as pd
-
+from collections import defaultdict as dd
 
 def load_data(path):
     df = pd.read_csv(path)
     df = df.fillna("")
     df.reset_index()
-    records = dict()
+    records = dd(str)
 
     for index, record in df.iterrows():
-        records[index] = ""
         records[index] += record['further research line'] + ' ' if type(record['further research line']) == str else ""
         records[index] += record['further research prefix'] + ' ' if type(record['further research prefix']) == str else ""
         records[index] += record['further research suffix'] + ' ' if type(record['further research suffix']) == str else ""
