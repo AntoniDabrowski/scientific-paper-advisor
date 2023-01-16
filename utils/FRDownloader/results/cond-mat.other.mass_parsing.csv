@@ -1,0 +1,218 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+2852,"To further study these behaviors, a model was designed to
+include the following factors: (i) alignment between sensor orientation and external ﬁeld,
+and (ii) a correlated noise term to account for stochastic steps.","The experimental results suggest that sensor location aﬀects the emergent trajectories
+by imposing a preferential direction of rotation and, in addition, the stochastic component
+introduces a bistability eﬀect.","The evolution of the position
+r and the orientation n = (cos α, sin α) are
+
+r˙ = v0 n ,                    (1)
+
+τ0α˙ zˆ = s × ∇rI(r) + ξ zˆ ,  (2)
+
+where v0 is the constant velocity of the particle, α is the orientation angle of the particle
+n, s = (cos α + β, sin α + β) is the orientation of the sensor, τ0 is a characteristic relaxation
+time, I(r) the ﬁeld intensity at distance r, and ξ Gaussian colored noise with correlation
+ ξ(t)ξ(t ) = 2τDξ exp −| t−τξt | that models the stochastic steps.",2022-03-05 01:18:20+00:00,Bistability in orbital trajectories of a chiral self-propelled particle interacting with an external field,cond-mat.other,"['cond-mat.other', 'cond-mat.soft']",[arxiv.Result.Author('GA Patterson')],"In this work, the dynamics of a self-propelled stochastic particle under the
+influence of an axisymmetric light field was experimentally studied. The
+particle under consideration has the main characteristic of carrying a light
+sensor in an eccentric location. For the chosen experimental conditions, the
+emerging trajectories were orbital, and, more interestingly, they presented two
+preferential radial distances. A mathematical model incorporating the key
+experimental components was introduced. By means of numerical simulations and
+theoretical analysis, it was found that, in addition to the orbiting behavior,
+the sensor location could produce trapped or diffusive behaviors. Furthermore,
+the study revealed that stochastic perturbation and the eccentric location of
+the sensor are responsible for inducing bistability in the orbital
+trajectories, in agreement with the experimental observations."
+4821,"In our further study [60], we showed the dissocia-
+                                                                                                                tion of such bound electron-hole (e-h) pairs.",sumed.,"Excitons in
+                                                    Initially, the transition of ﬂuid hydrogen from the         liquids are not unusual, e.g.",2022-04-13 17:57:22+00:00,Exciton nature of plasma phase transition in warm dense fluid hydrogen,cond-mat.other,"['cond-mat.other', 'physics.plasm-ph']","[arxiv.Result.Author('Ilya Fedorov'), arxiv.Result.Author('Vladimir Stegailov')]","The transition of a warm dense fluid hydrogen from insulator to a conducting
+state at pressures of the order of 20-300 GPa and temperatures of 1000-5000 K
+has been the subject of active scientific research over the past few decades.
+The use of various experimental methods has not yet led to obtaining reliable
+consistent results, and despite numerous attempts, theoretical methods have not
+yet been able to explain the existing discrepancies, as well as the microscopic
+nature of the mechanism for the transition of hydrogen fluid to a conducting
+state. In this work, we have discovered a key mechanism of the transition
+associated with formation and dissociation of exciton pairs, which allows to
+explain several stages of the transition of hydrogen from molecular state to
+plasma. This mechanism is able to give quantitative description of several
+experimental results as well as to resolve the discrepancies between different
+experimental studies."
+7596,"Since such approximate symmetries are not in-
+                         i=4                                                                                                     cluded in the studies on physical properties, the physics
+                         i=5                                                                                                     of such approximate symmetries is an interesting topic
+                         i=6                                                                                                     for further study.","For example, in the case of screw symmetry,
+                                                                                                                            i=8  while only 2, 3, 4, and 6-fold screw symmetries are al-
+                                                                                                                            i=9  lowed as exact symmetries in crystals, we show that ap-
+                         i=1 i=10                                                                                                proximate 7-fold and 10-fold screw symmetries can be
+                         i=2                                                                                                     realized, which are also reﬂected in the phonon wave
+                         i=3                                                                                                     function.","For example, such phonon properties
+                         i=7                                                                                                     under approximate screw symmetries will be reﬂected in
+                         i=8                                                                                                     the optical selection rules, as has been studied in the con-
+                         i=9                                                                                                     text of chiral phonons under exact symmetries, and it is
+                       i=10                                                                                                      left as a future study.",2022-06-14 06:46:55+00:00,Physics of Phonons in Systems with Approximate Screw Symmetry,cond-mat.other,"['cond-mat.other', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Hisayoshi Komiyama'), arxiv.Result.Author('Tiantian Zhang'), arxiv.Result.Author('Shuichi Murakami')]","Properties of systems with exact n-fold screw symmetry (n=2, 3, 4, 6) have
+been well studied because they can be understood in terms of space groups. On
+the other hand, existence of materials with approximate screw symmetries, such
+as 7-fold and 10-fold screw symmetries, has been predicted. In this paper, we
+study properties of phonons in crystals with approximate screw symmetries,
+which will lead to unique and new physical phenomena. In a crystal with an
+approximate screw symmetry, we propose a method to extract information of
+pseudoangular momentum of phonons, which is a quantum number characterizing the
+properties of phonon modes under screw symmetry, based on the fact that the
+information of the quantum numbers defined under exact screw symmetry partially
+remains in the eigenvectors of approximate screw symmetric systems. As a
+preparation, we study a one-dimensional crystal with partially broken
+translation symmetry to have an enlarged unit cell, and we show how to extract
+information of a quantum number corresponding to the pseudoangular momentum, by
+studying a relative phase between neighboring atoms. We also extend this method
+to systems with an approximate screw symmetry, and discuss properties of the
+pseudoangular momentum. We apply this method to results of our first-principle
+calculations on candidate materials with an approximate translational symmetry
+or with an approximate screw symmetry, and show how this approximate symmetry
+is reflected in the phonon wavefunctions."
+7597,"We       cluded in the studies on physical properties, the physics
+showed that the behavior of this quantum number is nat-     of such approximate symmetries is an interesting topic for
+urally understood in the extended Brillouin zone, and       further study.","Since such approximate symmetries are not in-
+izes the relative phase between neighboring atoms.","For example, such an approximate sym-
+showed several key properties of this quantum number        metry is expected to aﬀect physical processes involving
+and the relative phase.",2022-06-14 06:46:55+00:00,Physics of Phonons in Systems with Approximate Screw Symmetry,cond-mat.other,"['cond-mat.other', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Hisayoshi Komiyama'), arxiv.Result.Author('Tiantian Zhang'), arxiv.Result.Author('Shuichi Murakami')]","Properties of systems with exact n-fold screw symmetry (n=2, 3, 4, 6) have
+been well studied because they can be understood in terms of space groups. On
+the other hand, existence of materials with approximate screw symmetries, such
+as 7-fold and 10-fold screw symmetries, has been predicted. In this paper, we
+study properties of phonons in crystals with approximate screw symmetries,
+which will lead to unique and new physical phenomena. In a crystal with an
+approximate screw symmetry, we propose a method to extract information of
+pseudoangular momentum of phonons, which is a quantum number characterizing the
+properties of phonon modes under screw symmetry, based on the fact that the
+information of the quantum numbers defined under exact screw symmetry partially
+remains in the eigenvectors of approximate screw symmetric systems. As a
+preparation, we study a one-dimensional crystal with partially broken
+translation symmetry to have an enlarged unit cell, and we show how to extract
+information of a quantum number corresponding to the pseudoangular momentum, by
+studying a relative phase between neighboring atoms. We also extend this method
+to systems with an approximate screw symmetry, and discuss properties of the
+pseudoangular momentum. We apply this method to results of our first-principle
+calculations on candidate materials with an approximate translational symmetry
+or with an approximate screw symmetry, and show how this approximate symmetry
+is reflected in the phonon wavefunctions."
+10520,"After this brief enumeration of the intriguing features
+                                                                                                              of PT -symmetric systems, the need for further research
+                                                                                          2
+
+on the problem of tunneling time in PT -symmetric sys-       of the key elements of developing the concept of tunnel-
+tems becomes apparent.","[31], using the tight-binding model.","Moreover, as shown in Ref.",2022-08-29 12:31:07+00:00,Tunneling time in $\mathcal{P}\mathcal{T}$-symmetric systems,cond-mat.other,"['cond-mat.other', 'cond-mat.mes-hall', 'hep-lat', 'quant-ph']","[arxiv.Result.Author('Peng Guo'), arxiv.Result.Author('Vladimir Gasparian'), arxiv.Result.Author('Esther Jódar'), arxiv.Result.Author('Christopher Wisehart')]","In the present work we propose a generalization of tunneling time in parity
+and time ($\mathcal{P}\mathcal{T}$)-symmetric systems. The properties of
+tunneling time in $\mathcal{P}\mathcal{T}$-symmetric systems are studied with a
+simple contact interactions periodic finite size diatomic
+$\mathcal{P}\mathcal{T}$-symmetric model. The physical meaning of negative
+tunneling time in $\mathcal{P}\mathcal{T}$-symmetric systems and its relation
+to spectral singularities is discussed."
+10877,The present work suggests various possible directions for further research.,"The dependence of entanglement on the ring’s magnetic ﬂux provides a mechanism that can be used to design an
+entanglement switch between the system’s edges.","Here we have focused on the entanglement
+features of a Su-Schrieﬀer-Heeger chain with an embedded Aharonov-Bohm ring, related to the eigenstates of the
+system.",2022-09-07 03:36:54+00:00,Tunable mode entanglement: topological Su-Schrieffer-Heeger (SSH) chain with an embedded Aharonov-Bohm quantum ring,cond-mat.other,"['cond-mat.other', 'quant-ph']","[arxiv.Result.Author('A. P. Garrido'), arxiv.Result.Author('A. R. Plastino'), arxiv.Result.Author('M. L. Ladrón de Guevara'), arxiv.Result.Author('V. M. Apel')]","We investigate a variant of the SSH model consisting of an SSH chain with an
+embedded Aharonov-Bohm quantum ring. The embedded ring gives rise to domain
+wall states whose energy levels are in the band gap. The dependence of some of
+the states on the ring's magnetic flux provides a mechanism to control the
+entanglement between the two SSH edge fermion modes. The concurrence between
+the edge modes depends periodically on the magnetic flux. In the deep
+topological zone, for appropriate values of the flux, the concurrence reaches
+the extreme values of $0$ and $1$, corresponding to vanishing entanglement and
+to maximum entanglement. Therefore, the QR-SSH system offers a tuning mechanism
+that can be used either as an entanglement modulator or as an entanglement
+switch."
+13153,"The
+spread in vacancy yield may be due to variable surface
+termination, motivating further study into maintaining
+high-quality surface termination during annealing so as
+to keep more vacancies within the diamond.","[24] for the case
+of the diamond surface acting as a vacancy sink.","No obvious
+trends were present within our data based on the two
+surface preparations carried out, however.",2022-10-29 02:47:15+00:00,On the creation of near-surface nitrogen-vacancy centre ensembles by implantation of type Ib diamond,cond-mat.other,"['cond-mat.other', 'quant-ph']","[arxiv.Result.Author('A. J. Healey'), arxiv.Result.Author('S. C. Scholten'), arxiv.Result.Author('A. Nadarajah'), arxiv.Result.Author('P. Singh'), arxiv.Result.Author('N. Dontschuk'), arxiv.Result.Author('L. C. L. Hollenberg'), arxiv.Result.Author('D. A. Simpson'), arxiv.Result.Author('J. -P. Tetienne')]","Dense, near-surface (within 10 nm) ensembles of nitrogen-vacancy (NV) centres
+in diamond are rapidly moving into prominence as the workhorse of a variety of
+envisaged applications, ranging from the imaging of fast-fluctuating magnetic
+signals to the facilitation of nuclear hyperpolarisation. Unlike their bulk
+counterparts, near-surface ensembles suffer from charge stability issues and
+reduced NV formation efficiency due to the diamond surface's role as a vacancy
+sink during annealing and an electron sink afterwards. To this end, work is
+ongoing to determine the best methods for producing high-quality ensembles in
+this regime. Here we examine the prospects for creating such ensembles
+cost-effectively by implanting nitrogen-rich type Ib diamond with electron
+donors, aiming to exploit the high bulk nitrogen density to combat
+surface-induced band bending in the process. This approach has previously been
+successful at creating deeper ensembles, however we find that in the
+near-surface regime there are fewer benefits over nitrogen implantation into
+pure diamond substrates. Our results suggest that control over diamond surface
+termination during annealing is key to successfully creating high-yield
+near-surface NV ensembles generally, and implantation into type Ib diamond may
+be worth revisiting once that has been accomplished."
+15307,"The
+effect of the square cross section of the channel on our measurement is out of the scope of this
+paper, but requires further research.","The boundary conditions of this
+canonical problem are such that about one layer of vortex lines is missing close to the border
+of the container because of the “image” vortex lines contribution to the velocity field.","Therefore, we are left with the fact that with a depth of
+
+field of about 150 µm, we can measure a separation between the exact Feynman’s rule value δ
+if the principal axis of the lattice is colinear with the imaged region, and δ 𝑐𝑜𝑠(π/6) if it is
+misaligned (see Figure 3 inset).",2022-12-23 10:51:14+00:00,Direct visualization of the quantum vortex density law in rotating 4He,cond-mat.other,"['cond-mat.other', 'cond-mat.stat-mech', 'physics.class-ph', 'physics.flu-dyn']","[arxiv.Result.Author('Mathieu Gibert'), arxiv.Result.Author('Charles Peretti'), arxiv.Result.Author('Jeremy Vessaire'), arxiv.Result.Author('Emeric Durozoy')]","The study of quantum vortex dynamics in He II holds great promise to refine
+quantum-fluid models. Bose-Einstein condensates, neutron stars or even
+superconductors exhibit quantum vortices, whose interactions are a key element
+of dissipation in these systems. These quantum objects have their velocity
+circulation around their core quantized and, in He II, a core as thin as a
+helium atom. They have been observed experimentally by indirect means, such as
+second sound attenuation or electron bubble imprints on photo sensitive
+material, and for the last twenty years, decorating cryogenic flows with
+particles has proved to be a powerful method to study these vortices. However,
+in these recent particle visualization observations, experimental stability,
+initial condition, stationarity and reproducibility are elusive or fragmented
+and 2d dynamical analysis are performed although most of the considered flows
+are inherently 3d. Here we show that we are able to visualize these vortices in
+the canonical and higher symmetry case of a stationary rotating superfluid
+bucket. Using direct visualization, we quantitatively verify Feynman's rule
+linking the resulting quantum vortex density to the imposed rotational speed.
+Our statistically meaningful results demonstrate that decorated quantum
+vortices behave as Feynman predicted. It follows that hydrogen flakes are good
+tracers of quantum vortices for stationary cases in He II. The observed vortex
+lattices are analogous to Abrikosov lattices found in superconductors and
+Bose-Einstein condensates. Moreover, these lattices aligned with the rotation
+axis can play the role of a well-defined and controlled initial condition for
+dynamical cases. We make the most of this stable configuration by observing
+collective wave mode propagation along quantum vortices and quantum vortex
+interactions in rotating He II. These results provide a new experimental
+baseline for models to evolve towards a better description of all
+quantum-fluids."
+15308,"Both dynamical cases introduced here
+deserves further research that should lead to a better understanding of the physics of quantum
+vortices and ultimately improve superfluid models, thanks to direct visualization of this
+macroscopic quantum object in He II.","This
+opens a way to study quantum vortex reconnexion while controlling their initial condition and
+the driving force that triggers these extreme events.","Main references:
+1.",2022-12-23 10:51:14+00:00,Direct visualization of the quantum vortex density law in rotating 4He,cond-mat.other,"['cond-mat.other', 'cond-mat.stat-mech', 'physics.class-ph', 'physics.flu-dyn']","[arxiv.Result.Author('Mathieu Gibert'), arxiv.Result.Author('Charles Peretti'), arxiv.Result.Author('Jeremy Vessaire'), arxiv.Result.Author('Emeric Durozoy')]","The study of quantum vortex dynamics in He II holds great promise to refine
+quantum-fluid models. Bose-Einstein condensates, neutron stars or even
+superconductors exhibit quantum vortices, whose interactions are a key element
+of dissipation in these systems. These quantum objects have their velocity
+circulation around their core quantized and, in He II, a core as thin as a
+helium atom. They have been observed experimentally by indirect means, such as
+second sound attenuation or electron bubble imprints on photo sensitive
+material, and for the last twenty years, decorating cryogenic flows with
+particles has proved to be a powerful method to study these vortices. However,
+in these recent particle visualization observations, experimental stability,
+initial condition, stationarity and reproducibility are elusive or fragmented
+and 2d dynamical analysis are performed although most of the considered flows
+are inherently 3d. Here we show that we are able to visualize these vortices in
+the canonical and higher symmetry case of a stationary rotating superfluid
+bucket. Using direct visualization, we quantitatively verify Feynman's rule
+linking the resulting quantum vortex density to the imposed rotational speed.
+Our statistically meaningful results demonstrate that decorated quantum
+vortices behave as Feynman predicted. It follows that hydrogen flakes are good
+tracers of quantum vortices for stationary cases in He II. The observed vortex
+lattices are analogous to Abrikosov lattices found in superconductors and
+Bose-Einstein condensates. Moreover, these lattices aligned with the rotation
+axis can play the role of a well-defined and controlled initial condition for
+dynamical cases. We make the most of this stable configuration by observing
+collective wave mode propagation along quantum vortices and quantum vortex
+interactions in rotating He II. These results provide a new experimental
+baseline for models to evolve towards a better description of all
+quantum-fluids."

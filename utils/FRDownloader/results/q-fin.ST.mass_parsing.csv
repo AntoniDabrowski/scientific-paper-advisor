@@ -1,0 +1,315 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+317,"To further study the inﬂuence
+                                                                              of events on the stock market volatility, we present the empiri-
+4.","These two types of events have signiﬁcantly different ef-
+January 11, 2016 to July 25, 2016.                                            fects on the stock volatility [8,27].","Empirical results and discussion                                           cal results of volatility evolution after endogenous and exogenous
+                                                                              events respectively.",2022-01-10 08:45:58+00:00,New volatility evolution model after extreme events,q-fin.ST,"['q-fin.ST', 'q-fin.CP']","[arxiv.Result.Author('Mei-Ling Cai'), arxiv.Result.Author('Zhang-HangJian Chen'), arxiv.Result.Author('Sai-Ping Li'), arxiv.Result.Author('Xiong Xiong'), arxiv.Result.Author('Wei Zhang'), arxiv.Result.Author('Ming-Yuan Yang'), arxiv.Result.Author('Fei Ren')]","In this paper, we propose a new dynamical model to study the two-stage
+volatility evolution of stock market index after extreme events, and find that
+the volatility after extreme events follows a stretched exponential decay in
+the initial stage and becomes a power law decay at later times by using high
+frequency minute data. Empirical study of the evolutionary behaviors of
+volatility after endogenous and exogenous events further demonstrates the
+descriptive power of our new model. To further explore the underlying
+mechanisms of volatility evolution, we introduce the sequential arrival of
+information hypothesis (SAIH) and the mixture of distribution hypothesis (MDH)
+to test the two-stage assumption, and find that investors transform from the
+uninformed state to the informed state in the first stage and informed
+investors subsequently dominate in the second stage. The testing results offer
+a supporting explanation for the validity of our new model and the fitted
+values of relevant parameters."
+2187,"Experiments are based on historical data of            & Issar, 2013) motivated me to do further study as still there
+Nifty 50 Index of Indian Stock Market from 22nd April, 1996 to              are very limited researches have been done in the area of
+16th April, 2021, which is time series data of around 25 years.","Nearest Neighbors (kNN), Linear Regression (LR), Artificial
+Neural Network (ANN), Random Forest (RF), Stochastic                           My previous research works in the area of Stock Market
+Gradient Descent (SGD), Support Vector Machine (SVM) and                    (Singh & Nagar, 2012), (Nagar & Singh, 2012) and (Nagar
+Decision Trees (DT).",Stock Market.,2022-02-06 10:33:42+00:00,Machine Learning Models in Stock Market Prediction,q-fin.ST,"['q-fin.ST', 'cs.LG']",[arxiv.Result.Author('Gurjeet Singh')],"The paper focuses on predicting the Nifty 50 Index by using 8 Supervised
+Machine Learning Models. The techniques used for empirical study are Adaptive
+Boost (AdaBoost), k-Nearest Neighbors (kNN), Linear Regression (LR), Artificial
+Neural Network (ANN), Random Forest (RF), Stochastic Gradient Descent (SGD),
+Support Vector Machine (SVM) and Decision Trees (DT). Experiments are based on
+historical data of Nifty 50 Index of Indian Stock Market from 22nd April, 1996
+to 16th April, 2021, which is time series data of around 25 years. During the
+period there were 6220 trading days excluding all the non trading days. The
+entire trading dataset was divided into 4 subsets of different size-25% of
+entire data, 50% of entire data, 75% of entire data and entire data. Each
+subset was further divided into 2 parts-training data and testing data. After
+applying 3 tests- Test on Training Data, Test on Testing Data and Cross
+Validation Test on each subset, the prediction performance of the used models
+were compared and after comparison, very interesting results were found. The
+evaluation results indicate that Adaptive Boost, k- Nearest Neighbors, Random
+Forest and Decision Trees under performed with increase in the size of data
+set. Linear Regression and Artificial Neural Network shown almost similar
+prediction results among all the models but Artificial Neural Network took more
+time in training and validating the model. Thereafter Support Vector Machine
+performed better among rest of the models but with increase in the size of data
+set, Stochastic Gradient Descent performed better than Support Vector Machine."
+2406,"Our study also moti-
+to completely diﬀerent results, so that the distribution      vates further research to evaluate the response of ﬁnan-
+of eigenvalues takes on an exponential tail rather than       cial markets to diﬀerent kinds of external perturbations
+a power-law tail (see the Supplementary Figure S3(a)—         and the controbility of real-life networks.","network and topology as well as the clustering properties
+                                                              of the involved stocks based on the similar spectra with
+   A similar analysis for 2D-L´evyα=3/2- (t) model leads      the scale-free complex networks.",please note the semi-logarithmic scale).,2022-02-24 12:46:35+00:00,A 2D Levy-flight model for the complex dynamics of real-life financial markets,q-fin.ST,"['q-fin.ST', 'cond-mat.stat-mech', 'physics.data-an']","[arxiv.Result.Author('Hediye Yarahmadi'), arxiv.Result.Author('Abbas Ali Saberi')]","We report on the emergence of scaling laws in the temporal evolution of the
+daily closing values of the S\&P 500 index prices and its modeling based on the
+L\'evy flights in two dimensions (2D). The efficacy of our proposed model is
+verified and validated by using the extreme value statistics in random matrix
+theory. We find that the random evolution of each pair of stocks in a 2D price
+space is a scale-invariant complex trajectory whose tortuosity is governed by a
+$2/3$ geometric law between the gyration radius $R_g(t)$ and the total length
+$\ell(t)$ of the path, i.e., $R_g(t)\sim\ell(t)^{2/3}$. We construct a Wishart
+matrix containing all stocks up to a specific variable period and look at its
+spectral properties over 30 years. In contrast to the standard random matrix
+theory, we find that the distribution of eigenvalues has a power-law tail with
+a decreasing exponent over time -- a quantitative indicator of the temporal
+correlations. We find that the time evolution of the distance of a 2D L\'evy
+flights with index $\alpha=3/2$ from origin generates the same empirical
+spectral properties. The statistics of the largest eigenvalues of the model and
+the observations are in perfect agreement."
+5162,"At
+the same time, our results could inform further research aimed at establishing how to optimally design
+collections, as well as eﬀective trading strategies for the NFT market.",The breadth of our analysis suggests this market behaviour is likely to be genuinely self-organised.,Our work adds to the relatively small yet rapidly growing body of research on the NFT ecosystem.,2022-04-21 16:20:46+00:00,How rarity shapes the NFT market,q-fin.ST,"['q-fin.ST', 'cs.CY', 'physics.soc-ph']","[arxiv.Result.Author('Amin Mekacher'), arxiv.Result.Author('Alberto Bracci'), arxiv.Result.Author('Matthieu Nadini'), arxiv.Result.Author('Mauro Martino'), arxiv.Result.Author('Laura Alessandretti'), arxiv.Result.Author('Luca Maria Aiello'), arxiv.Result.Author('Andrea Baronchelli')]","We quantify Non Fungible Token (NFT) rarity and investigate how it impacts
+market behaviour by analysing a dataset of 3.7M transactions collected between
+January 2018 and March 2022, involving 1.3M NFTs distributed across 410
+collections. First, we consider the rarity of an NFT based on the set of
+human-readable attributes it possesses and show that most collections present
+heterogeneous rarity patterns, with few rare NFTs and a large number of more
+common ones. Then, we analyse market performance and show that, on average,
+rarer NFTs: (i) sell for higher prices, (ii) are traded less frequently, (iii)
+guarantee higher returns on investment (ROIs), and (iv) are less risky, i.e.,
+less prone to yield negative returns. We anticipate that these findings will be
+of interest to researchers as well as NFT creators, collectors, and traders."
+5163,"At
+the same time, our results could inform further research aimed at establishing how to optimally design
+collections, as well as eﬀective trading strategies for the NFT market.",The breadth of our analysis suggests this market behaviour is likely to be genuinely self-organised.,Our work adds to the relatively small yet rapidly growing body of research on the NFT ecosystem.,2022-04-21 16:20:46+00:00,How rarity shapes the NFT market,q-fin.ST,"['q-fin.ST', 'cs.CY', 'physics.soc-ph']","[arxiv.Result.Author('Amin Mekacher'), arxiv.Result.Author('Alberto Bracci'), arxiv.Result.Author('Matthieu Nadini'), arxiv.Result.Author('Mauro Martino'), arxiv.Result.Author('Laura Alessandretti'), arxiv.Result.Author('Luca Maria Aiello'), arxiv.Result.Author('Andrea Baronchelli')]","We quantify Non Fungible Token (NFT) rarity and investigate how it impacts
+market behaviour by analysing a dataset of 3.7M transactions collected between
+January 2018 and March 2022, involving 1.3M NFTs distributed across 410
+collections. First, we consider the rarity of an NFT based on the set of
+human-readable attributes it possesses and show that most collections present
+heterogeneous rarity patterns, with few rare NFTs and a large number of more
+common ones. Then, we analyse market performance and show that, on average,
+rarer NFTs: (i) sell for higher prices, (ii) are traded less frequently, (iii)
+guarantee higher returns on investment (ROIs), and (iv) are less risky, i.e.,
+less prone to yield negative returns. We anticipate that these findings will be
+of interest to researchers as well as NFT creators, collectors, and traders."
+5164,"At
+the same time, our results could inform further research aimed at establishing how to optimally design
+collections, as well as eﬀective trading strategies for the NFT market.",The breadth of our analysis suggests this market behaviour is likely to be genuinely self-organised.,Our work adds to the relatively small yet rapidly growing body of research on the NFT ecosystem.,2022-04-21 16:20:46+00:00,How rarity shapes the NFT market,q-fin.ST,"['q-fin.ST', 'cs.CY', 'physics.soc-ph']","[arxiv.Result.Author('Amin Mekacher'), arxiv.Result.Author('Alberto Bracci'), arxiv.Result.Author('Matthieu Nadini'), arxiv.Result.Author('Mauro Martino'), arxiv.Result.Author('Laura Alessandretti'), arxiv.Result.Author('Luca Maria Aiello'), arxiv.Result.Author('Andrea Baronchelli')]","We quantify Non Fungible Token (NFT) rarity and investigate how it impacts
+market behaviour by analysing a dataset of 3.7M transactions collected between
+January 2018 and March 2022, involving 1.3M NFTs distributed across 410
+collections. First, we consider the rarity of an NFT based on the set of
+human-readable attributes it possesses and show that most collections present
+heterogeneous rarity patterns, with few rare NFTs and a large number of more
+common ones. Then, we analyse market performance and show that, on average,
+rarer NFTs: (i) sell for higher prices, (ii) are traded less frequently, (iii)
+guarantee higher returns on investment (ROIs), and (iv) are less risky, i.e.,
+less prone to yield negative returns. We anticipate that these findings will be
+of interest to researchers as well as NFT creators, collectors, and traders."
+5165,"At the same time, our results could inform further research aimed at establishing how to
+optimally design collections, as well as eﬀective trading strategies for the NFT market.","The breadth of our analysis suggests this market behaviour is likely to be genuinely
+self-organised.",Our work adds to the relatively small yet rapidly growing body of research on the NFT ecosystem.,2022-04-21 16:20:46+00:00,Heterogeneous rarity patterns drive price dynamics in NFT collections,q-fin.ST,"['q-fin.ST', 'cs.CY', 'physics.soc-ph']","[arxiv.Result.Author('Amin Mekacher'), arxiv.Result.Author('Alberto Bracci'), arxiv.Result.Author('Matthieu Nadini'), arxiv.Result.Author('Mauro Martino'), arxiv.Result.Author('Laura Alessandretti'), arxiv.Result.Author('Luca Maria Aiello'), arxiv.Result.Author('Andrea Baronchelli')]","We quantify Non Fungible Token (NFT) rarity and investigate how it impacts
+market behaviour by analysing a dataset of 3.7M transactions collected between
+January 2018 and June 2022, involving 1.4M NFTs distributed across 410
+collections. First, we consider the rarity of an NFT based on the set of
+human-readable attributes it possesses and show that most collections present
+heterogeneous rarity patterns, with few rare NFTs and a large number of more
+common ones. Then, we analyze market performance and show that, on average,
+rarer NFTs: (i) sell for higher prices, (ii) are traded less frequently, (iii)
+guarantee higher returns on investment (ROIs), and (iv) are less risky, i.e.,
+less prone to yield negative returns. We anticipate that these findings will be
+of interest to researchers as well as NFT creators, collectors, and traders."
+6162,"Long term forecasts could be chosen for further research or guidance and it may include quarterly stock performance reviews, sales,
+profit returns, organizational stability, and other factors.","Other timeframes such as 5 days, 10 days and 15 days can
+be studied and compared.","Technical indicators based on short-term duration, such as SMA or EMA 10 days or 50 days, are available
+in this paper, but can also be researched and validated for longer timeframes if long-term predictions are desired.",2022-05-08 07:01:12+00:00,Univariate and Multivariate LSTM Model for Short-Term Stock Market Prediction,q-fin.ST,"['q-fin.ST', 'cs.AI', 'cs.LG']","[arxiv.Result.Author('Vishal Kuber'), arxiv.Result.Author('Divakar Yadav'), arxiv.Result.Author('Arun Kr Yadav')]","Designing robust and accurate prediction models has been a viable research
+area since a long time. While proponents of a well-functioning market
+predictors believe that it is difficult to accurately predict market prices but
+many scholars disagree. Robust and accurate prediction systems will not only be
+helpful to the businesses but also to the individuals in making their financial
+investments. This paper presents an LSTM model with two different input
+approaches for predicting the short-term stock prices of two Indian companies,
+Reliance Industries and Infosys Ltd. Ten years of historic data (2012-2021) is
+taken from the yahoo finance website to carry out analysis of proposed
+approaches. In the first approach, closing prices of two selected companies are
+directly applied on univariate LSTM model. For the approach second, technical
+indicators values are calculated from the closing prices and then collectively
+applied on Multivariate LSTM model. Short term market behaviour for upcoming
+days is evaluated. Experimental outcomes revel that approach one is useful to
+determine the future trend but multivariate LSTM model with technical
+indicators found to be useful in accurately predicting the future price
+behaviours."
+7881,"Using a time shift is especially relevant in systems in which latency is important, which deserves
+further study.","6 Conclusions
+
+Having asymptotic tests for the presence of Transfer Entropy and a comparison of TE makes it possible to infer causality
+networks of a large number of nodes with long time series, especially since the minimum number of points required
+is relatively small.","Finally, being able to compare the TE from two sets of predictors of a given time series opens many
+possibilities, such as pair-wise ranking of feature importance.",2022-06-21 08:13:47+00:00,Statistical inference of lead-lag at various timescales between asynchronous time series from p-values of transfer entropy,q-fin.ST,"['q-fin.ST', 'math.ST', 'physics.data-an', 'q-fin.TR', 'stat.TH', '62G10', 'G.3']","[arxiv.Result.Author('Christian Bongiorno'), arxiv.Result.Author('Damien Challet')]","Symbolic transfer entropy is a powerful non-parametric tool to detect
+lead-lag between time series. Because a closed expression of the distribution
+of Transfer Entropy is not known for finite-size samples, statistical testing
+is often performed with bootstraps whose slowness prevents the inference of
+large lead-lag networks between long time series. On the other hand, the
+asymptotic distribution of Transfer Entropy between two time series is known.
+In this work, we derive the asymptotic distribution of the test for one time
+series having a larger Transfer Entropy than another one on a target time
+series. We then measure the convergence speed of both tests in the small sample
+size limits via benchmarks. We then introduce Transfer Entropy between
+time-shifted time series, which allows to measure the timescale at which
+information transfer is maximal and vanishes. We finally apply these methods to
+tick-by-tick price changes of several hundreds of stocks, yielding non-trivial
+statistically validated networks."
+10052,"We encourage
+                                                      further research in this area, as much depends on the sample period chosen, the input features, the
+                                                      model architecture, and the hyperparameters.","Therefore, based on this study, we ﬁnd evidence that the Bitcoin market is
+                                                      efﬁcient in the sense of the efﬁcient market hypothesis during the sample period.","Keywords Neural Networks, Feedforward, Bitcoin, Efﬁcient Market Hypothesis
+
+                                               *Financial support by the Swiss National Science Foundation within the project “Mathematics and Fintech - the next revolution
+                                           in the digital transformation of the Finance industry” is gratefully acknowledged by the corresponding author.",2022-06-25 09:04:37+00:00,The Efficient Market Hypothesis for Bitcoin in the context of neural networks,q-fin.ST,"['q-fin.ST', 'cs.LG', 'q-fin.TR']","[arxiv.Result.Author('Mike Kraehenbuehl'), arxiv.Result.Author('Joerg Osterrieder')]","This study examines the weak form of the efficient market hypothesis for
+Bitcoin using a feedforward neural network. Due to the increasing popularity of
+cryptocurrencies in recent years, the question has arisen, as to whether market
+inefficiencies could be exploited in Bitcoin. Several studies we refer to here
+discuss this topic in the context of Bitcoin using either statistical tests or
+machine learning methods, mostly relying exclusively on data from Bitcoin
+itself. Results regarding market efficiency vary from study to study. In this
+study, however, the focus is on applying various asset-related input features
+in a neural network. The aim is to investigate whether the prediction accuracy
+improves when adding equity stock indices (S&P 500, Russell 2000), currencies
+(EURUSD), 10 Year US Treasury Note Yield as well as Gold&Silver producers index
+(XAU), in addition to using Bitcoin returns as input feature. As expected, the
+results show that more features lead to higher training performance from 54.6%
+prediction accuracy with one feature to 61% with six features. On the test set,
+we observe that with our neural network methodology, adding additional asset
+classes, no increase in prediction accuracy is achieved. One feature set is
+able to partially outperform a buy-and-hold strategy, but the performance drops
+again as soon as another feature is added. This leads us to the partial
+conclusion that weak market inefficiencies for Bitcoin cannot be detected using
+neural networks and the given asset classes as input. Therefore, based on this
+study, we find evidence that the Bitcoin market is efficient in the sense of
+the efficient market hypothesis during the sample period. We encourage further
+research in this area, as much depends on the sample period chosen, the input
+features, the model architecture, and the hyperparameters."
+13311,"This experiment was performed on all stocks and decentralised cur-           This work has a lot of directions where further research could
+rencies using the datasets: Y+G, Y+E, Y+Gr and Y+Er.","4)
+                                                                             RQ-3: Our findings using tweets also hold good for Reddit posts.",The motivation       be performed.,2022-11-01 03:45:17+00:00,Evaluating Impact of Social Media Posts by Executives on Stock Prices,q-fin.ST,"['q-fin.ST', 'cs.CL', 'cs.IR', 'cs.SI', 'I.7']","[arxiv.Result.Author('Anubhav Sarkar'), arxiv.Result.Author('Swagata Chakraborty'), arxiv.Result.Author('Sohom Ghosh'), arxiv.Result.Author('Sudip Kumar Naskar')]","Predicting stock market movements has always been of great interest to
+investors and an active area of research. Research has proven that popularity
+of products is highly influenced by what people talk about. Social media like
+Twitter, Reddit have become hotspots of such influences. This paper
+investigates the impact of social media posts on close price prediction of
+stocks using Twitter and Reddit posts. Our objective is to integrate sentiment
+of social media data with historical stock data and study its effect on closing
+prices using time series models. We carried out rigorous experiments and deep
+analysis using multiple deep learning based models on different datasets to
+study the influence of posts by executives and general people on the close
+price. Experimental results on multiple stocks (Apple and Tesla) and
+decentralised currencies (Bitcoin and Ethereum) consistently show improvements
+in prediction on including social media data and greater improvements on
+including executive posts."
+13312,"This work has a lot of directions where further research could
+This experiment was performed on all stocks and decentralised cur-        be performed.","with and without imputation (Experiment
+      4)                                                                     RQ-3: Our findings using tweets also hold good for Reddit posts.","Instead of just using the sentiment of the tweets,
+rencies using the datasets: Y+G, Y+E, Y+Gr and Y+Er.",2022-11-01 03:45:17+00:00,Evaluating Impact of Social Media Posts by Executives on Stock Prices,q-fin.ST,"['q-fin.ST', 'cs.CL', 'cs.IR', 'cs.SI', 'I.7']","[arxiv.Result.Author('Anubhav Sarkar'), arxiv.Result.Author('Swagata Chakraborty'), arxiv.Result.Author('Sohom Ghosh'), arxiv.Result.Author('Sudip Kumar Naskar')]","Predicting stock market movements has always been of great interest to
+investors and an active area of research. Research has proven that popularity
+of products is highly influenced by what people talk about. Social media like
+Twitter, Reddit have become hotspots of such influences. This paper
+investigates the impact of social media posts on close price prediction of
+stocks using Twitter and Reddit posts. Our objective is to integrate sentiment
+of social media data with historical stock data and study its effect on closing
+prices using time series models. We carried out rigorous experiments and deep
+analysis using multiple deep learning based models on different datasets to
+study the influence of posts by executives and general people on the close
+price. Experimental results on multiple stocks (Apple and Tesla) and
+decentralised currencies (Bitcoin and Ethereum) consistently show improvements
+in prediction on including social media data and greater improvements on
+including executive posts."
+13826,"Thus, we suggest caution before attempting to generalize these
+results outside of consumer auto loans, and we leave this open as an area of further study.","While this bodes well for
+observing credit risk convergence in residential mortgage loans, it does raise the question if it
+will still occur for unsecured forms of consumer lending, such as credit cards, peer-to-peer, or
+unsecured consumer loans.","42
+Rolling Monthly Expected Return (Annual % Yield)   0.15                                                                 2017
+                                                   0.10
+                                                   0.05                                                                 2019
+                                                   0.00
+                                                  −0.05             10       20        30            40           50
+                                                  −0.10       deep_subprime                         prime  super_prime
+                                                   0.15
+                                                   0.10
+                                                   0.05
+                                                   0.00
+                                                  −0.05
+                                                  −0.10
+
+                                                           0
+
+                                                                                 Loan Age (Months)
+
+                                                                             subprime  near_prime
+
+Figure 11: The expected monthly rate of return given survival.",2022-11-16 19:48:40+00:00,On the Convergence of Credit Risk in Current Consumer Automobile Loans,q-fin.ST,"['q-fin.ST', 'econ.GN', 'q-fin.EC', 'q-fin.GN']","[arxiv.Result.Author('Jackson P. Lautier'), arxiv.Result.Author('Vladimir Pozdnyakov'), arxiv.Result.Author('Jun Yan')]","Risk-based pricing of loans is well-accepted. Left unstudied, however, is the
+conditional credit risk of a loan that remains current. Using large-sample
+statistics and asset-level consumer automobile asset-backed security data, we
+find that default risk conditional on survival converges for borrowers in
+disparate credit risk bands well before scheduled termination, a phenomenon we
+call credit risk convergence. We then use actuarial techniques to derive the
+conditional market-implied credit spread by credit risk band to estimate
+current deep subprime and subprime borrowers eventually overpay by annual
+percentage rates of 285-1,391 basis points. Our results are robust to various
+sensitivity tests."
+14112,"The inﬂuence of the merit-order shape as explanatory variable for the volatility warrants further research
+into its modelling for short-term markets.","Further research is also needed to better understand the impact of fundamental
+variables for modelling the volatility, kurtosis and skewness of the distribution of intraday price returns.","Acknowledgements
+
+This paper is based on research conducted during a joint project of Simon Hirsch and Statkraft Trading
+GmbH.",2022-11-23 15:08:50+00:00,"Simulation-based Forecasting for Intraday Power Markets: Modelling Fundamental Drivers for Location, Shape and Scale of the Price Distribution",q-fin.ST,"['q-fin.ST', 'econ.EM', 'q-fin.CP', 'stat.AP', 'stat.ML']","[arxiv.Result.Author('Simon Hirsch'), arxiv.Result.Author('Florian Ziel')]","During the last years, European intraday power markets have gained importance
+for balancing forecast errors due to the rising volumes of intermittent
+renewable generation. However, compared to day-ahead markets, the drivers for
+the intraday price process are still sparsely researched. In this paper, we
+propose a modelling strategy for the location, shape and scale parameters of
+the return distribution in intraday markets, based on fundamental variables. We
+consider wind and solar forecasts and their intraday updates, outages, price
+information and a novel measure for the shape of the merit-order, derived from
+spot auction curves as explanatory variables. We validate our modelling by
+simulating price paths and compare the probabilistic forecasting performance of
+our model to benchmark models in a forecasting study for the German market. The
+approach yields significant improvements in the forecasting performance,
+especially in the tails of the distribution. At the same time, we are able to
+derive the contribution of the driving variables. We find that, apart from the
+first lag of the price changes, none of our fundamental variables have
+explanatory power for the expected value of the intraday returns. This implies
+weak-form market efficiency as renewable forecast changes and outage
+information seems to be priced in by the market. We find that the volatility is
+driven by the merit-order regime, the time to delivery and the closure of
+cross-border order books. The tail of the distribution is mainly influenced by
+past price differences and trading activity. Our approach is directly
+transferable to other continuous intraday markets in Europe."
+14319,"Here, further researches and analyses should be followed to clarify why and how
+such causal relationships exist in the crypto-asset economy.","It was also remarkable that the
+instantaneous effects were all positive, whereas the spot rate at 𝑡 − 1 affected prices of the three crypto
+assets negatively.","Acknowledgment
+
+T.K.",2022-11-29 13:08:25+00:00,Mechanism of information transmission from a spot rate market to crypto-asset markets,q-fin.ST,['q-fin.ST'],"[arxiv.Result.Author('Takeshi Yoshihara'), arxiv.Result.Author('Taisei Kaizoji')]","We applied the SVAR-LiNGAM to illustrate the causal relationships between the
+spot exchange rate, and three crypto-asset exchange rates, Bitcoin, Ethereum,
+and Ripple. It was notable that the causal order, the EUR_USD spot
+rate->Bitcoin->Ethereum->Ripple, was obtained by this approach. All the
+instantaneous effects were strongly positive. Moreover, it was notable that
+Bitcoin can influence the EUR_USD spot rate positively with a one-day time lag."
+14847,"It can be subject of further research to generate more informative graph-based models of the stocks and index
+relations, possibly by analyzing the historical data along with other available information such as fundamental indi-
+cators or experts’ market analysis reports.","The results also conﬁrmed that the clustering-based information injection method as
+well as the ﬁnal information propagation for index label prediction moth make a positive contribution in the NETpred
+success.","Also using more sophisticated network analysis techniques to improve the
+performance of initial information injection seems to be a promising line of research.",2022-12-02 17:23:09+00:00,NETpred: Network-based modeling and prediction of multiple connected market indices,q-fin.ST,"['q-fin.ST', 'cs.LG']","[arxiv.Result.Author('Alireza Jafari'), arxiv.Result.Author('Saman Haratizadeh')]","Market prediction plays a major role in supporting financial decisions. An
+emerging approach in this domain is to use graphical modeling and analysis to
+for prediction of next market index fluctuations. One important question in
+this domain is how to construct an appropriate graphical model of the data that
+can be effectively used by a semi-supervised GNN to predict index fluctuations.
+In this paper, we introduce a framework called NETpred that generates a novel
+heterogeneous graph representing multiple related indices and their stocks by
+using several stock-stock and stock-index relation measures. It then thoroughly
+selects a diverse set of representative nodes that cover different parts of the
+state space and whose price movements are accurately predictable. By assigning
+initial predicted labels to such a set of nodes, NETpred makes sure that the
+subsequent GCN model can be successfully trained using a semi-supervised
+learning process. The resulting model is then used to predict the stock labels
+which are finally aggregated to infer the labels for all the index nodes in the
+graph. Our comprehensive set of experiments shows that NETpred improves the
+performance of the state-of-the-art baselines by 3%-5% in terms of F-score
+measure on different well-known data sets."

@@ -1,0 +1,392 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+1582,"Section 5 contains some concluding
+comments and questions for further study.","In section 4, GSM is
+applied to equations with a third order Lax Pair.","In the Appendix we show the Maple program
+for computation of GSs.",2022-02-05 21:04:11+00:00,Computation of generating symmetries,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '58D19 17B80']",[arxiv.Result.Author('Alexander G. Rasin')],"In this article we continue to develop the theory of generating symmetries
+for integrable equations. The technique for computations of generating
+symmetries using the Maple program is presented. The technique is based on the
+standard symmetry method. By using it we find generating symmetries for KdV,
+Camassa-Holm, mKdV, sine-Gordon, Boussinesq, associated Degasperis-Procesi and
+associated Novikov equations."
+1583,"Directions for further research:
+
+    • Discovering GSs for more equations, including higher dimensional equations, for
+       example KP and the Calogero–Bogoyavlensky–Schiﬀ equation [33].","In the
+case of equations with the third order Lax Pair nine essential GSs were found.",• Expansion of obtained GSs into hierarchies of symmetries.,2022-02-05 21:04:11+00:00,Computation of generating symmetries,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '58D19 17B80']",[arxiv.Result.Author('Alexander G. Rasin')],"In this article we continue to develop the theory of generating symmetries
+for integrable equations. The technique for computations of generating
+symmetries using the Maple program is presented. The technique is based on the
+standard symmetry method. By using it we find generating symmetries for KdV,
+Camassa-Holm, mKdV, sine-Gordon, Boussinesq, associated Degasperis-Procesi and
+associated Novikov equations."
+1584,"Section 5 contains some concluding
+comments and questions for further study.","In section 4, GSM is
+applied to equations with a third order Lax pair.","In the Appendix we show the Maple program
+for computation of GSs.",2022-02-05 21:04:11+00:00,Computation of generating symmetries,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '58D19 17B80']",[arxiv.Result.Author('Alexander G. Rasin')],"In this article we continue to develop the theory of generating symmetries
+for integrable equations. A technique for computation of generating symmetries
+using Maple is presented. The technique is based on the standard symmetry
+method. By using it we find generating symmetries for the KdV, Camassa-Holm,
+mKdV, sine-Gordon, Boussinesq, associated Degasperis-Procesi and associated
+Novikov equations."
+1585,"Directions for further research:
+
+    • Discovering GSs for more equations, including higher dimensional equations, for
+       example KP and the Calogero–Bogoyavlensky–Schiﬀ equation [34].","In the
+case of equations with the third order Lax pair nine essential GSs were found.",• Expansion of obtained GSs into hierarchies of symmetries.,2022-02-05 21:04:11+00:00,Computation of generating symmetries,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '58D19 17B80']",[arxiv.Result.Author('Alexander G. Rasin')],"In this article we continue to develop the theory of generating symmetries
+for integrable equations. A technique for computation of generating symmetries
+using Maple is presented. The technique is based on the standard symmetry
+method. By using it we find generating symmetries for the KdV, Camassa-Holm,
+mKdV, sine-Gordon, Boussinesq, associated Degasperis-Procesi and associated
+Novikov equations."
+1651,"Finally in Section
+5, we present some ideas on further research.","Thus we obtain explicitly the
+
+non-Abelian lattice-modiﬁed and the lattice-(Q3)0 Gel’fand-Dikii hierarchies.","We conclude this article with Appendix A where we
+
+present non-Abelian forms of the lattice-potential KdV equation.",2022-02-07 18:54:58+00:00,Hierarchies of compatible maps and integrable difference systems,nlin.SI,['nlin.SI'],[arxiv.Result.Author('Pavlos Kassotakis')],"We present two non-equivalent hierarchies of non-Abelian $3D-$compatible maps
+and we provide their Lax pair formulation. These hierarchies are naturally
+associated with integrable difference systems with variables defined on edges
+of an elementary cell of the $\mathbb{Z}^2$ graph, that in turn lead to
+hierarchies of difference systems with variables defined on vertices of the
+same cell."
+3750,"Generalizing the results obtained herein to arbitrary n
+would be an interesting topic for further study.","Besides, though we just discussed solutions up to the third-order, nth-order lumps can be
+obtained by using the n-fold DT (9).","Our results show that there exists a quite rich dynamics for rational solutions of DS II, which
+can be a basis for corresponding observations in areas of application where the DS II is relevant,
+including most notably in nonlinear optics and plasma physics, among others.",2022-03-23 13:14:38+00:00,Dynamics of higher-order lumps in the Davey-Stewartson II equation,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '35C08, 35Q51, 37K35, 37K40']","[arxiv.Result.Author('Lijuan Guo'), arxiv.Result.Author('P. G. Kevrekidis'), arxiv.Result.Author('Jingsong He')]","A family of higher-order rational lumps on non-zero constant background of
+Davey-Stewartson (DS) II equation are investigated. These solutions have
+multiple peaks whose heights and trajectories are approximately given by
+asymptotical analysis. It is found that the heights are time-dependent and for
+large time they approach the same constant height value of the first-order
+fundamental lump. The resulting trajectories are considered and it is found
+that the scattering angle can assume arbitrary values in the interval of
+$(\frac{\pi}{2}, \pi)$ which is markedly distinct from the necessary orthogonal
+scattering for the higher-order lumps on zero background. Additionally, it is
+illustrated that the higher-order lumps containing multi-peaked $n$-lumps can
+be regarded as a nonlinear superposition of $n$ first-order ones as
+$|t|\rightarrow\infty$."
+3751,"Generalizing the results obtained herein to arbitrary n
+would be an interesting topic for further study.","Besides, though we just discussed solutions up to the third-order, nth-order lumps can be
+
+                                                                               14
+obtained by using the n-fold DT (9).","Our results concerning the dynamics for rational solutions of DS II can be a basis for cor-
+responding observations in areas of application where the DS II is relevant, including most
+notably in nonlinear optics and plasma physics, among others.",2022-03-23 13:14:38+00:00,Asymptotic dynamics of higher-order lumps in the Davey-Stewartson II equation,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '35C08, 35Q51, 37K35, 37K40']","[arxiv.Result.Author('Lijuan Guo'), arxiv.Result.Author('P. G. Kevrekidis'), arxiv.Result.Author('Jingsong He')]","A family of higher-order rational lumps on non-zero constant background of
+Davey-Stewartson (DS) II equation are investigated. These solutions have
+multiple peaks whose heights and trajectories are approximately given by
+asymptotical analysis. It is found that the heights are time-dependent and for
+large time they approach the same constant height value of the first-order
+fundamental lump. The resulting trajectories are considered and it is found
+that the scattering angle can assume arbitrary values in the interval of
+$(\frac{\pi}{2}, \pi)$ which is markedly distinct from the necessary orthogonal
+scattering for the higher-order lumps on zero background. Additionally, it is
+illustrated that the higher-order lumps containing multi-peaked $n$-lumps can
+be regarded as a nonlinear superposition of $n$ first-order ones as
+$|t|\rightarrow\infty$."
+5762,We leave this question to further research.,"Nevertheless it seems likely
+that the transformation does not depend on ∆.","Finally we remark, that this situation is somewhat analogous to the one treated in [31],
+where it was shown that the XXZ spin chain with a special anisotropy has peculiar properties
+just in the odd length cases.",2022-05-04 12:52:31+00:00,Integrable deformations of superintegrable quantum circuits,nlin.SI,"['nlin.SI', 'cond-mat.stat-mech']","[arxiv.Result.Author('Tamás Gombor'), arxiv.Result.Author('Balázs Pozsgay')]","Superintegrable models are very special dynamical systems: they possess more
+conservation laws than what is necessary for complete integrability. This
+severely constrains their dynamical processes, and it often leads to their
+exact solvability, even in non-equilibrium situations. In this paper we
+consider special Hamiltonian deformations of superintegrable quantum circuits.
+The deformations break superintegrability, but they preserve integrability. We
+focus on a selection of concrete models and show that for each model there is
+an (at least) one parameter family of integrable deformations. Our most
+interesting example is the so-called Rule54 model. We show that the model is
+compatible with a one parameter family of Yang-Baxter integrable spin chains
+with six-site interaction. Therefore, the Rule54 model does not have a unique
+integrability structure, instead it lies at the intersection of a family of
+quantum integrable models."
+5763,We leave this question to further research.,"Nevertheless it seems likely
+that the transformation does not depend on ∆.","Finally we remark, that this situation is somewhat analogous to the one treated in [31],
+where it was shown that the XXZ spin chain with a special anisotropy has peculiar properties
+just in the odd length cases.",2022-05-04 12:52:31+00:00,Integrable deformations of superintegrable quantum circuits,nlin.SI,"['nlin.SI', 'cond-mat.stat-mech']","[arxiv.Result.Author('Tamás Gombor'), arxiv.Result.Author('Balázs Pozsgay')]","Superintegrable models are very special dynamical systems: they possess more
+conservation laws than what is necessary for complete integrability. This
+severely constrains their dynamical processes, and it often leads to their
+exact solvability, even in non-equilibrium situations. In this paper we
+consider special Hamiltonian deformations of superintegrable quantum circuits.
+The deformations break superintegrability, but they preserve integrability. We
+focus on a selection of concrete models and show that for each model there is
+an (at least) one parameter family of integrable deformations. Our most
+interesting example is the so-called Rule54 model. We show that the model is
+compatible with a one parameter family of Yang-Baxter integrable spin chains
+with six-site interaction. Therefore, the Rule54 model does not have a unique
+integrability structure, instead it lies at the intersection of a family of
+quantum integrable models."
+5764,We leave this question to further research.,"Nevertheless it seems likely
+that the transformation does not depend on ∆.","Finally we remark, that this situation is somewhat analogous to the one treated in [32],
+where it was shown that the XXZ spin chain with a special anisotropy has peculiar properties
+just in the odd length cases.",2022-05-04 12:52:31+00:00,Integrable deformations of superintegrable quantum circuits,nlin.SI,"['nlin.SI', 'cond-mat.stat-mech']","[arxiv.Result.Author('Tamás Gombor'), arxiv.Result.Author('Balázs Pozsgay')]","Superintegrable models are very special dynamical systems: they possess more
+conservation laws than what is necessary for complete integrability. This
+severely constrains their dynamical processes, and it often leads to their
+exact solvability, even in non-equilibrium situations. In this paper we
+consider special Hamiltonian deformations of superintegrable quantum circuits.
+The deformations break superintegrability, but they preserve integrability. We
+focus on a selection of concrete models and show that for each model there is
+an (at least) one parameter family of integrable deformations. Our most
+interesting example is the so-called Rule54 model. We show that the model is
+compatible with a one parameter family of Yang-Baxter integrable spin chains
+with six-site interaction. Therefore, the Rule54 model does not have a unique
+integrability structure, instead it lies at the intersection of a family of
+quantum integrable models."
+7770,In the paper we formulate some open questions for further research.,"We describe all elementary verbal solutions of the TE, which are possible
+to deﬁne on free non-abelian groups.",Throughout the paper we use standard notations.,2022-06-17 17:34:06+00:00,Set-theoretical solutions of simplex equations,nlin.SI,"['nlin.SI', 'math-ph', 'math.GR', 'math.MP', '08A02, 16T25, 17A42, 20F36, 20F29']","[arxiv.Result.Author('V. Bardakov'), arxiv.Result.Author('B. Chuzinov'), arxiv.Result.Author(""I. Emel'yanenkov""), arxiv.Result.Author('M. Ivanov'), arxiv.Result.Author('T. Kozlovskaya'), arxiv.Result.Author('V. Leshkov')]","The $n$-simplex equation ($n$-SE) was introduced by A. B. Zamolodchikov as a
+generalization of the Yang--Baxter equation, which is the $2$-simplex equation
+in these terms. In the present paper we suggest some general approaches to
+constructing solutions of $n$-simplex equations, describe some types of
+solutions, introduce an operation which under some conditions allows us to
+construct a solution of $(n+m+k)$-SE from solution of $(n+k)$-SE and
+$(m+k)$-SE. We consider the tropicalization of rational solutions and discuss a
+way to generalize it. We prove that if a group $G$ is an extension of a group
+$H$ by a group $K$, then we can find a solution of the $n$-SE on $G$ from
+solutions of this equation on $H$ and on $K$. Also, we find solutions of the
+parametric Yang-Baxter equation on $H$ with parameters in $K$. For studying
+solutions of the 3-simplex equations we introduce algebraic systems with
+ternary operations and give examples of these systems which gives solutions of
+the $3$-SE. We find all elementary verbal solutions of the $3$-SE on free
+groups."
+7771,"Research problems
+
+   At the end, we would like to suggest some problems for further research.","(a, b, c, d) → (bd−1, ac, d, c);
+              (a, b, c, d) → (bc−αdαβ−1, ac, cαd1−αβ, dβ);
+              (a, b, c, d) → (b, a, a−αbcα, aαβ−1c1−αβdβ);
+              (a, b, c, d) → (bc−αdαβ, acd−β, cαd1−αβ, dβ);
+              (a, b, c, d) → (b, a, a−αbcα, aαβb−βc1−αβdβ);
+              (a, b, c, d) → (aαbc−α, c, b, b−βcdβ);
+              (a, b, c, d) → (aα, bcd−β, a−αbd, dβ);
+              (a, b, c, d) → (aαbc−αdαβ, cd−β, bd, dβ);
+              (a, b, c, d) → (aαb1−αβcγ(αβ−1)dγδ(1−αβ), bβc1−βγ dδ(βγ−1), cγ d1−γδ, dδ);
+              (a, b, c, d) → (aαb1−αβcα(βγ−1)dαδ(1−βγ), bβc1−βγ dδ(βγ−1), cγ d1−γδ, dδ);
+              (a, b, c, d) → (aαb1−αβcα(βγ−1)dαβ(1−γδ), bβc1−βγ dβ(γδ−1), cγ d1−γδ, dδ),
+
+where a, b, c, d ∈ G.
+
+                                        11.",Problem 11.1.,2022-06-17 17:34:06+00:00,Set-theoretical solutions of simplex equations,nlin.SI,"['nlin.SI', 'math-ph', 'math.GR', 'math.MP', '08A02, 16T25, 17A42, 20F36, 20F29']","[arxiv.Result.Author('V. Bardakov'), arxiv.Result.Author('B. Chuzinov'), arxiv.Result.Author(""I. Emel'yanenkov""), arxiv.Result.Author('M. Ivanov'), arxiv.Result.Author('T. Kozlovskaya'), arxiv.Result.Author('V. Leshkov')]","The $n$-simplex equation ($n$-SE) was introduced by A. B. Zamolodchikov as a
+generalization of the Yang--Baxter equation, which is the $2$-simplex equation
+in these terms. In the present paper we suggest some general approaches to
+constructing solutions of $n$-simplex equations, describe some types of
+solutions, introduce an operation which under some conditions allows us to
+construct a solution of $(n+m+k)$-SE from solution of $(n+k)$-SE and
+$(m+k)$-SE. We consider the tropicalization of rational solutions and discuss a
+way to generalize it. We prove that if a group $G$ is an extension of a group
+$H$ by a group $K$, then we can find a solution of the $n$-SE on $G$ from
+solutions of this equation on $H$ and on $K$. Also, we find solutions of the
+parametric Yang-Baxter equation on $H$ with parameters in $K$. For studying
+solutions of the 3-simplex equations we introduce algebraic systems with
+ternary operations and give examples of these systems which gives solutions of
+the $3$-SE. We find all elementary verbal solutions of the $3$-SE on free
+groups."
+7900,"made their eﬀorts to further study
+
+long time asymptotic behavior of nonlinear evolution equations [58].","Later, inspired of Manakov, Zakharov et al.","In 1993, a crucial work was reported for the research on the long time asymptotic behavior of
+
+the nonlinear evolution equations.",2022-06-21 13:30:12+00:00,Long-time asymptotic behavior of the nonlocal nonlinear Schrödinger equation with finite density type initial data,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP']","[arxiv.Result.Author('Shou-Fu Tian'), arxiv.Result.Author('Zhi-Qiang Li'), arxiv.Result.Author('Jin-Jie Yang')]","In this work, we employ the $\bar{\partial}$-steepest descent method to
+investigate the Cauchy problem of the nonlocal nonlinear Schr\""{o}dinger (NNLS)
+equation with finite density type initial conditions in weighted Sobolev space
+$\mathcal{H}(\mathbb{R})$. Based on the Lax spectrum problem, a Riemann-Hilbert
+problem corresponding to the original problem is constructed to give the
+solution of the NNLS equation with the finite density type initial boundary
+value condition. By developing the $\bar{\partial}$-generalization of
+Deift-Zhou nonlinear steepest descent method, we derive the leading order
+approximation to the solution $q(x,t)$ in soliton region of space-time,
+$\left(\frac{x}{2t}\right)=\xi$ for any fixed $\xi=\in (1,K)$($K$ is a
+sufficiently large real constant), and give bounds for the error decaying as
+$|t|\rightarrow\infty$. Based on the resulting asymptotic behavior, the
+asymptotic approximation of the NNLS equation is characterized with the soliton
+term confirmed by $N(\Lambda)$-soliton on discrete spectrum and the
+$t^{-\frac{1}{2}}$ order term on continuous spectrum with residual error up to
+$O(t^{-\frac{3}{4}})$."
+8808,"It can be anticipated that further research in this direction will lead to the discovery of a
+number of novel beautiful geometric constructions of integrable maps in dimension three
+and higher, related to addition laws on ellliptic rational surfaces and on more complicated
+Abelian varieties.","We expect that relaxing some of the restrictive geometric conditions will lead to an inte-
+grable Kahan-type discretization of general Nambu systems in R3 with quadratic Hamil-
+tonians.","This will mark a further progress in the theory of integrable systems,
+under the general motto “Geometry rules!”
+
+References
+
+ [1] Bobenko, A. I., and Suris, Y.",2022-07-13 08:52:41+00:00,A three-dimensional generalization of QRT maps,nlin.SI,"['nlin.SI', 'math-ph', 'math.AG', 'math.DS', 'math.MP']","[arxiv.Result.Author('Jaume Alonso'), arxiv.Result.Author('Yuri B. Suris'), arxiv.Result.Author('Kangning Wei')]","We propose a geometric construction of three-dimensional birational maps that
+preserve two pencils of quadrics. The maps act as compositions of involutions,
+which, in turn, act along the straight line generators of the quadrics of the
+first pencil and are defined by the intersections with quadrics of the second
+pencil. On each quadric of the first pencil, the maps act as two-dimensional
+QRT maps.
+  While these maps are of a pretty high degree in general, we find geometric
+conditions which guarantee that the degree is reduced to 3. The resulting
+degree 3 maps are illustrated by two known and two novel Kahan-type
+discretizations of three-dimensional Nambu systems, including the Euler top and
+the Zhukovski-Volterra gyrostat with two non-vanishing components of the
+gyrostatic momentum."
+8849,"In order to further study the eﬀect of the dispersion
+
+and nonlinear term on the dynamics of the solution, we give the diﬀerent excitation states of α1 and α4.","Next, we study the speciﬁc eﬀects of diﬀerent nonlinear terms
+
+and dispersion terms on the dynamic behaviour of the solutions.","First, we let the dispersion term be in the simplest polynomial form.",2022-07-13 14:45:56+00:00,High-order soliton solutions and their dynamics in the inhomogeneous variable coefficients Hirota equation,nlin.SI,['nlin.SI'],"[arxiv.Result.Author('Huijuan Zhou'), arxiv.Result.Author('Yong Chen')]","A series of new soliton solutions are presented for the inhomogeneous
+variable coefficient Hirota equation by using the Riemann Hilbert method and
+transformation relationship. First, through a standard dressing procedure, the
+N-soliton matrix associated with the simple zeros in the Riemann Hilbert
+problem for the Hirota equation is constructed. Then the N-soliton matrix of
+the inhomogeneous variable coefficient Hirota equation can be obtained by a
+special transformation relationship from the N-soliton matrix of the Hirota
+equation. Next, using the generalized Darboux transformation, the high-order
+soliton solutions corresponding to the elementary high-order zeros in the
+Riemann Hilbert problem for the Hirota equation can be derived. Similarly,
+employing the transformation relationship mentioned above can lead to the
+high-order soliton solutions of the inhomogeneous variable coefficient Hirota
+equation. In addition, the collision dynamics of Hirota and inhomogeneous
+variable coefficient Hirota equations are analyzed; the asymptotic behaviors
+for multi-solitons and long-term asymptotic estimates for the high-order
+one-soliton of the Hirota equation are concretely calculated. Most notably, by
+analyzing the dynamics of the multi-solitons and high-order solitons of the
+inhomogeneous variable coefficient Hirota equation, we discover numerous new
+waveforms such as heart-shaped periodic wave solutions, O-shaped periodic wave
+solutions etc. that have never been reported before, which are crucial in
+theory and practice."
+8850,"In order to further study the eﬀect of the dispersion
+
+and nonlinear term on the dynamics of the solution, we give the diﬀerent excitation states of α1 and α4.","Next, we study the speciﬁc eﬀects of diﬀerent nonlinear terms
+
+and dispersion terms on the dynamic behaviour of the solutions.","First, we let the dispersion term be in the simplest polynomial form.",2022-07-13 14:45:56+00:00,High-order soliton solutions and their dynamics in the inhomogeneous variable coefficients Hirota equation,nlin.SI,['nlin.SI'],"[arxiv.Result.Author('Huijuan Zhou'), arxiv.Result.Author('Yong Chen')]","A series of new soliton solutions are presented for the inhomogeneous
+variable coefficient Hirota equation by using the Riemann Hilbert method and
+transformation relationship. First, through a standard dressing procedure, the
+N-soliton matrix associated with the simple zeros in the Riemann Hilbert
+problem for the Hirota equation is constructed. Then the N-soliton matrix of
+the inhomogeneous variable coefficient Hirota equation can be obtained by a
+special transformation relationship from the N-soliton matrix of the Hirota
+equation. Next, using the generalized Darboux transformation, the high-order
+soliton solutions corresponding to the elementary high-order zeros in the
+Riemann Hilbert problem for the Hirota equation can be derived. Similarly,
+employing the transformation relationship mentioned above can lead to the
+high-order soliton solutions of the inhomogeneous variable coefficient Hirota
+equation. In addition, the collision dynamics of Hirota and inhomogeneous
+variable coefficient Hirota equations are analyzed; the asymptotic behaviors
+for multi-solitons and long-term asymptotic estimates for the high-order
+one-soliton of the Hirota equation are concretely calculated. Most notably, by
+analyzing the dynamics of the multi-solitons and high-order solitons of the
+inhomogeneous variable coefficient Hirota equation, we discover numerous new
+waveforms such as heart-shaped periodic wave solutions, O-shaped periodic wave
+solutions etc. that have never been reported before, which are crucial in
+theory and practice."
+8851,"In order to further study the eﬀect of the dispersion
+
+and nonlinear term on the dynamics of the solution, we give the diﬀerent excitation states of α1 and α4.","Next, we study the speciﬁc eﬀects of diﬀerent nonlinear terms
+
+and dispersion terms on the dynamic behaviour of the solutions.","First, we let the dispersion term be in the simplest polynomial form.",2022-07-13 14:45:56+00:00,High-order soliton solutions and their dynamics in the inhomogeneous variable coefficients Hirota equation,nlin.SI,['nlin.SI'],"[arxiv.Result.Author('Huijuan Zhou'), arxiv.Result.Author('Yong Chen')]","A series of new soliton solutions are presented for the inhomogeneous
+variable coefficient Hirota equation by using the Riemann Hilbert method and
+transformation relationship. First, through a standard dressing procedure, the
+N-soliton matrix associated with the simple zeros in the Riemann Hilbert
+problem for the Hirota equation is constructed. Then the N-soliton matrix of
+the inhomogeneous variable coefficient Hirota equation can be obtained by a
+special transformation relationship from the N-soliton matrix of the Hirota
+equation. Next, using the generalized Darboux transformation, the high-order
+soliton solutions corresponding to the elementary high-order zeros in the
+Riemann Hilbert problem for the Hirota equation can be derived. Similarly,
+employing the transformation relationship mentioned above can lead to the
+high-order soliton solutions of the inhomogeneous variable coefficient Hirota
+equation. In addition, the collision dynamics of Hirota and inhomogeneous
+variable coefficient Hirota equations are analyzed; the asymptotic behaviors
+for multi-solitons and long-term asymptotic estimates for the high-order
+one-soliton of the Hirota equation are concretely calculated. Most notably, by
+analyzing the dynamics of the multi-solitons and high-order solitons of the
+inhomogeneous variable coefficient Hirota equation, we discover numerous new
+waveforms such as heart-shaped periodic wave solutions, O-shaped periodic wave
+solutions etc. that have never been reported before, which are crucial in
+theory and practice."
+13195,"So, this
+
+topic will be subject of further research.","However, at present, such
+
+a theory is not enough developed to treat a system of the form (3.15).","In the sequent section we carefully analysed the obtained systems in the
+
+realization (2.18) and proved explicitly their Liouville integrability and quasi-
+
+maximal superintegrability.",2022-10-31 09:34:50+00:00,The $\mathfrak{sl}_{2}(\mathbb{R})$ coalgebra symmetry and the superintegrable discrete-time systems,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '39A36, 16T15, 17B62, 17B63']","[arxiv.Result.Author('Giorgio Gubbiotti'), arxiv.Result.Author('Danilo Latini')]","In this paper, we classify all the pseudo-standard variational discrete-time
+systems in $N$ degrees of freedom admitting coalgebra symmetry with respect to
+the generic realization of the Lie-Poisson algebra
+$\mathfrak{sl}_{2}(\mathbb{R})$. This approach naturally yields several
+quasi-maximally and maximally superintegrable discrete-time systems, both known
+and new. We conjecture that this exhausts the (super)integrable cases
+associated with this algebraic construction."
+13681,"(A8)-(A9) in Appendix A; this randomization               see a few groups of solitons having simultaneously close
+should change the statistical state, so that the correla-          positions and phases; without further study of their tem-
+tion of phases should mean a statistical state which is            poral evolution, it is diﬃcult to conclude whether this
+not yet stationary.","10(b), one can
+see Eqs.",Note that in [36] this hypothesis has          is a phase-locking or a coincidence.,2022-11-13 08:54:51+00:00,Bound-state soliton gas as a limit of adiabatically growing integrable turbulence,nlin.SI,['nlin.SI'],"[arxiv.Result.Author('D. S. Agafontsev'), arxiv.Result.Author('A. A. Gelash'), arxiv.Result.Author('R. I. Mullyadzhanov'), arxiv.Result.Author('V. E. Zakharov')]","We study numerically the integrable turbulence in the framework of the
+one-dimensional nonlinear Schrodinger equation (1D-NLSE) of the focusing type
+using a new approach called the ""growing of turbulence"". In this approach, we
+add a small linear pumping term to the equation and start evolution from
+statistically homogeneous Gaussian noise. After reaching a certain level of
+average intensity, we switch off the pumping and examine the resulting
+integrable turbulence. For sufficiently small initial noise and pumping
+coefficient, and also for not very wide simulation box (basin length), we
+observe that the turbulence grows in a universal adiabatic regime, moving
+successively through the statistically stationary states of the integrable
+1D-NLSE, which do not depend on the pumping coefficient, amplitude of the
+initial noise or basing length. Waiting longer in the growth stage, we transit
+from weakly nonlinear states to strongly nonlinear ones, characterized by a
+high frequency of rogue waves. Using the inverse scattering transform (IST)
+method to monitor the evolution, we observe that the solitonic part of the
+wavefield becomes dominant even when the (linear) dispersion effects are still
+leading in the dynamics and with increasing average intensity the wavefield
+approaches a dense bound-state soliton gas, whose properties are defined by the
+Fourier spectrum of initial noise. Regimes deviating from the universal
+adiabatic growth also lead to solitonic states, but solitons in these states
+have noticeably different velocities and a significantly wider distribution by
+amplitude, while the statistics of wavefield indicates a much more frequent
+appearance of very large waves."
+13688,"Nevertheless,
+we do consider the equations that we have obtained here to be of some interest and worthy
+of further study.","Due to the mentioned restrictions
+on the form of the recursion operator, this is certainly not a complete classiﬁcation of all
+third-order evolution equations of this form that admit a recursion operator.","It would, for example, be interesting to ﬁnd all the potentialisations of
+the four fully-nonlinear equations (3.5a) to (3.8), as well as the equations (3.9a) to (3.13).",2022-11-13 16:12:14+00:00,On fully-nonlinear symmetry-integrable equations with rational functions in their highest derivative: Recursion operator,nlin.SI,['nlin.SI'],"[arxiv.Result.Author('Marianna Euler'), arxiv.Result.Author('Norbert Euler')]","We report a class of symmetry-intergable third-order evolution equations in
+1+1 dimensions under the condition that the equations admit a second-order
+recursion operator that contains an adjoint symmetry (integrating factor) of
+order six. The recursion operators are given explicitly."
+13689,"Nevertheless, we do consider the equations
+that we have obtained here to be of some interest and worthy of further study.","Due to the mentioned restrictions on the form of the recursion operator, this is
+certainly not a complete classiﬁcation of all fully-nonlinear third-order evolution equations
+of this form that admit a recursion operator.","It would, for
+example, be interesting to ﬁnd all the potentialisations of the four fully-nonlinear equations
+(3.5a) to (3.8), as well as the equations (3.9a) to (3.13).",2022-11-13 16:12:14+00:00,On fully-nonlinear symmetry-integrable equations with rational functions in their highest derivative: Recursion operators,nlin.SI,['nlin.SI'],"[arxiv.Result.Author('Marianna Euler'), arxiv.Result.Author('Norbert Euler')]","We report a class of symmetry-intergable third-order evolution equations in
+1+1 dimensions under the condition that the equations admit a second-order
+recursion operator that contains an adjoint symmetry (integrating factor) of
+order six. The recursion operators are given explicitly."
+13696,"A fundamental question that needs further study is the eigenvalues portraits of localized small-amplitude arbitrary-
+shaped perturbations of the vector condensate.",IV.,"As was shown in [65] for the scalar case, superregular eigenvalue
+pairs can be embedded into small amplitude and arbitrary-shaped condensate perturbations under certain conditions.",2022-11-13 20:52:36+00:00,Vector breathers in the Manakov system,nlin.SI,['nlin.SI'],"[arxiv.Result.Author('Andrey Gelash'), arxiv.Result.Author('Anton Raskovalov')]","We study theoretically the nonlinear interactions of vector breathers
+propagating on an unstable wavefield background. As a model, we use the
+two-component extension of the one-dimensional focusing nonlinear Schrodinger
+equation -- the Manakov system. With the dressing method, we generate the
+multi-breather solutions to the Manakov model. As shown previously in [D.
+Kraus, G. Biondini, and G. Kovacic, Nonlinearity 28, 310, 2015] the class of
+vector breathers is presented by three fundamental types I, II, and III. Their
+interactions produce a broad family of the two-component (polarized) nonlinear
+wave patterns. First, we demonstrate that the type I and the types II and III
+correspond to two different branches of the dispersion law of the Manakov
+system in the presence of the unstable background. Then we investigate the key
+interaction scenarios, including collisions of standing and moving breathers
+and resonance breather transformations. Analysis of the two-breather solution
+allows us to derive general formulas describing phase and space shifts acquired
+by breathers in mutual collisions. The found expressions enable us to describe
+the asymptotic states of the breather interactions and interpret the resonance
+fusion and decay of breathers as a limiting case of infinite space shift in the
+case of merging breather eigenvalues. Finally, we demonstrate that only type
+$\mathrm{I}$ breathers participate in the development of modulation instability
+from small-amplitude perturbations within the superregular scenario, while the
+breathers of types $\mathrm{II}$ and $\mathrm{III}$, belonging to the stable
+branch of the dispersion law, are not involved in this process."
+14675,"Our results strongly suggest that the IMM system is an
+integrable model and worthy of further study; we list some such possibilities below.","More speciﬁcally, we constructed exact multi-soliton solutions of the IMM system on
+the real line governed by the hyperbolic CM system and corresponding multi-wave solutions of the periodic
+IMM system governed by the elliptic CM system.",1.,2022-12-07 16:23:31+00:00,A focusing-defocusing intermediate nonlinear Schrödinger system,nlin.SI,"['nlin.SI', 'math-ph', 'math.MP', '33E05, 35C08, 35Q51, 35Q55, 35Q70']","[arxiv.Result.Author('Bjorn K. Berntson'), arxiv.Result.Author('Alexander Fagerlund')]","We introduce and study a system of coupled nonlocal nonlinear Schr\""odinger
+equations that interpolates between the mixed, focusing-defocusing Manakov
+system on one hand and a limiting case of the intermediate nonlinear
+Schr\""odinger equation on the other. We show that this new system, which we
+call the intermediate mixed Manakov (IMM) system, admits multi-soliton
+solutions governed by a complexification of the hyperbolic Calogero-Moser (CM)
+system. Furthermore, we introduce a spatially periodic version of the IMM
+system, for which our result is a class of exact solutions governed by a
+complexified elliptic CM system."

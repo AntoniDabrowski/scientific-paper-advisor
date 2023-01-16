@@ -1,0 +1,1046 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+1020,"This highlights the             two complement each other for assessing systemic risk
+importance of further research in this area to further under-       in ﬁnancial networks.","curring will affect the subsequent network structure whilst         [14] explore both community and centrality methods to
+accounting for communities and disconnected components              identify nodes that are systemically ‘too interconnected
+provides useful insights into the role of network structure         to fail’ or ‘too important to fail’, and they note that the
+in the evolution of these networks.","It is also worth noting how both
+
+                                                                 2
+                                                                   A PREPRINT - JANUARY 27, 2022
+
+centrality and community detection can be intuitively con-         to indicate bipartivity, as well as presenting methods to
+sidered using the concept of a random walk, with a number          evaluate network correlations, such as assortativity, using
+of methods for community detection, and also for ﬁnd-              the modularity matrix.",2022-01-25 20:43:39+00:00,Structural importance and evolution: an application to financial transaction networks,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","A fundamental problem in the study of networks is the identification of
+important nodes. This is typically achieved using centrality metrics, which
+rank nodes in terms of their position in the network. This approach works well
+for static networks, that do not change over time, but does not consider the
+dynamics of the network. Here we propose instead to measure the importance of a
+node based on how much a change to its strength will impact the global
+structure of the network, which we measure in terms of the spectrum of its
+adjacency matrix. We apply our method to the identification of important nodes
+in equity transaction networks, and we show that, while it can still be
+computed from a static network, our measure is a good predictor of nodes
+subsequently transacting. This implies that static representations of temporal
+networks can contain information about their dynamics."
+1021,"Our ﬁndings present us with a novel
+used centrality measures and also to degree, community            insight into the evolutionary behaviour of transaction net-
+label and the number of times a node has appeared his-            works for the capital markets, which we hope will motivate
+torically, demonstrating that our measure is not simply           further research into the links between structural impor-
+acting as a proxy for these key node properties.","For        crisis, enduring stress in the money markets was observed
+these networks, which all show complex structures with            due to the interdependence of banks, who rationally sought
+both disconnected communities and ‘hub’ nodes, we com-            to protect themselves from infection from other banks by
+pare our measures of node importance to two commonly              hoarding liquidity.","When             tance, network evolution and how these relate to market
+exploring whether static node importance is able to pre-          stability constraints.",2022-01-25 20:43:39+00:00,Structural importance and evolution: an application to financial transaction networks,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","A fundamental problem in the study of networks is the identification of
+important nodes. This is typically achieved using centrality metrics, which
+rank nodes in terms of their position in the network. This approach works well
+for static networks, that do not change over time, but does not consider the
+dynamics of the network. Here we propose instead to measure the importance of a
+node based on how much a change to its strength will impact the global
+structure of the network, which we measure in terms of the spectrum of its
+adjacency matrix. We apply our method to the identification of important nodes
+in equity transaction networks, and we show that, while it can still be
+computed from a static network, our measure is a good predictor of nodes
+subsequently transacting. This implies that static representations of temporal
+networks can contain information about their dynamics."
+1022,"This highlights the
+require the ability to identify important players and to un-        importance of further research in this area to further under-
+derstand how their actions affect other market participants         stand how network structure relates to stability, particularly
+as well as the evolution of the system as a whole.","Keywords
+
+                                        Temporal network, spectral perturbation, node predictability
+                                                                    JUNE 23, 2022
+
+1 Introduction                                                      accounting for communities and disconnected components
+                                                                    provides useful insights into the role of network structure
+Regulating and developing policies for ﬁnancial markets             in the evolution of these networks.",This can         in the context of ﬁnancial networks.,2022-01-25 20:43:39+00:00,Structural importance and evolution: an application to financial transaction networks,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","A fundamental problem in the study of networks is the identification of
+important nodes. This is typically achieved using centrality metrics, which
+rank nodes in terms of their position in the network. This approach works well
+for static networks, that do not change over time, but does not consider the
+dynamics of the network. Here we propose instead to measure the importance of a
+node based on how much a change to its strength will impact the global
+structure of the network, which we measure in terms of the spectrum of its
+adjacency matrix. We apply our method to the identification of important nodes
+in equity transaction networks, and we show that, while it can still be
+computed from a static network, our measure is a good predictor of nodes
+subsequently transacting. This implies that static representations of temporal
+networks can contain information about their dynamics."
+1023,"For       works for the capital markets, which we hope will motivate
+these networks, which all show complex structures with           further research into the links between structural impor-
+both disconnected communities and ‘hub’ nodes, we com-           tance, network evolution and how these relate to market
+pare our measures of node importance to two commonly             stability constraints.","Our ﬁndings present us with a novel
+of complex structures, which makes our methods particu-          insight into the evolutionary behaviour of transaction net-
+larly suited for studying equity transaction networks.","used centrality measures and also to degree, community
+label and the number of times a node has appeared his-           It is worth noting that our measure of structural node im-
+torically, demonstrating that our measure is not simply          portance, mb, is not suitable for use on random networks,
+acting as a proxy for these key node properties.",2022-01-25 20:43:39+00:00,Structural importance and evolution: an application to financial transaction networks,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","A fundamental problem in the study of networks is the identification of
+important nodes. This is typically achieved using centrality metrics, which
+rank nodes in terms of their position in the network. This approach works well
+for static networks, that do not change over time, but does not consider the
+dynamics of the network. Here we propose instead to measure the importance of a
+node based on how much a change to its strength will impact the global
+structure of the network, which we measure in terms of the spectrum of its
+adjacency matrix. We apply our method to the identification of important nodes
+in equity transaction networks, and we show that, while it can still be
+computed from a static network, our measure is a good predictor of nodes
+subsequently transacting. This implies that static representations of temporal
+networks can contain information about their dynamics."
+1024,"This highlights the
+require the ability to identify important players and to un-        importance of further research in this area to further under-
+derstand how their actions affect other market participants         stand how network structure relates to stability, particularly
+as well as the evolution of the system as a whole.","SEPTEMBER 9, 2022
+
+1 Motivation                                                        accounting for communities and disconnected components
+                                                                    provides useful insights into the role of network structure
+Regulating and developing policies for ﬁnancial markets             in the evolution of these networks.",This can         in the context of ﬁnancial networks.,2022-01-25 20:43:39+00:00,Structural importance and evolution: an application to financial transaction networks,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","A fundamental problem in the study of networks is the identification of
+important nodes. This is typically achieved using centrality metrics, which
+rank nodes in terms of their position in the network. This approach works well
+for static networks, that do not change over time, but does not consider the
+dynamics of the network. Here we propose instead to measure the importance of a
+node based on how much a change to its strength will impact the global
+structure of the network, which we measure in terms of the spectrum of its
+adjacency matrix. We apply our method to the identification of important nodes
+in equity transaction networks, and we show that, while it can still be
+computed from a static network, our measure is a good predictor of nodes
+subsequently transacting. This implies that static representations of temporal
+networks can contain information about their dynamics."
+1025,"Additional
+insight into the evolutionary behaviour of transaction net-     work could also include considering whether the nodes that
+works for the capital markets, which we hope will motivate      are changing in these networks do so persistently, as this
+further research into the links between structural impor-       would allow us to gain deeper insights into the evolutionary
+tance, network evolution and how these relate to market         behaviour of these networks and also an exploration of the
+stability constraints.","Our ﬁndings present us with a novel         relation networks [49, 50, 51, 52, 53, 54, 55].","resultant structural changes that occur when an important
+                                                                node changes.",2022-01-25 20:43:39+00:00,Structural importance and evolution: an application to financial transaction networks,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","A fundamental problem in the study of networks is the identification of
+important nodes. This is typically achieved using centrality metrics, which
+rank nodes in terms of their position in the network. This approach works well
+for static networks, that do not change over time, but does not consider the
+dynamics of the network. Here we propose instead to measure the importance of a
+node based on how much a change to its strength will impact the global
+structure of the network, which we measure in terms of the spectrum of its
+adjacency matrix. We apply our method to the identification of important nodes
+in equity transaction networks, and we show that, while it can still be
+computed from a static network, our measure is a good predictor of nodes
+subsequently transacting. This implies that static representations of temporal
+networks can contain information about their dynamics."
+1254,"Due to the limited amount of data available at locations 3 and 4 and the
+space limitiations of this paper these locations are omitted from further study.","Alternatively, one could partly trim stationary parts of a
+trajectory, hence keeping all of the more interesting parts.",It can be veriﬁed that the method in Sec.,2022-01-30 19:06:00+00:00,Road User Position Prediction in Urban Environments via Locally Weighted Learning,cs.CE,['cs.CE'],"[arxiv.Result.Author('Angelos Toytziaridis'), arxiv.Result.Author('Paolo Falcone'), arxiv.Result.Author('Jonas Sjöberg')]","Prediction of the future position of a target road user given its current
+position, velocity and type is formulated as a weighted average. Weights are
+determined from data of previously observed road users, specifically from those
+that are most similar to the target. This formulation results in an
+interpretable model with few parameters. The model is validated on a dataset of
+vehicles, bicycles, and pedestrians in real-world traffic situations. The model
+outperforms the baseline constant velocity model, wheras a baseline neural
+network model shows comparable performance, but this model lacks the same level
+of interpretability. A comparison is made with state-of-the-arts, where these
+show superior performance on a sparse dataset, for which it is expected that
+the weighted average model works less well. With some further refinements a
+weighted average formulation could yield a reliable and interpretable model, in
+constrast to one which is difficult to analyze and has a huge number of
+uninterpretable parameters."
+1765,"Some potential functionalities of this software are concluded as: (1) designing
+the non-spherical particle and generating its three-dimensional geometric data, which
+can be conveniently imported to other commercial numerical software (e.g., COMSOL
+Multiphysics) for further research; (2) visualizing the specified plane wavefield or
+piston-like wavefield from a user-customized transducer array; (3) estimating the
+acoustic radiation force and torque exerted on the particle designed in (1), and the
+incident wavefield is specified in (2); (4) predicting and visualizing the time-variant
+dynamic process of the particle designed in (1) under the incident wavefield given in
+(2), i.e., illustrating the time-variant acoustophoretic process of the particle.","The host fluid and particle boundary conditions also remain
+flexible.","A brief overview of the software, Soundiation, is described in section 2 (more
+explanations in how to use the software can refer to the user manual given in the
+“Soundiation-Acoustophoresis ./docs/user_manual” folder).",2022-02-06 04:03:01+00:00,Soundiation: A multi-functional GUI-based software in evaluation of the acoustophoresis by the acoustic radiation force and torque on arbitrary axisymmetric objects,cs.CE,"['cs.CE', 'physics.app-ph']","[arxiv.Result.Author('Tianquan Tang'), arxiv.Result.Author('Lixi Huang')]","Acoustic radiation force and torque arising from wave scattering are commonly
+used to manipulate micro-objects without contact. We applied the partial wave
+expansion series and the conformal transformation approach to estimate the
+radiation force and torque exerted on an axisymmetric particle. Meanwhile,
+translational and rotational transformations are required to keep the
+coordinate system consistent [1]. Although these theoretical derivations have
+been well established, coding the required systems, including generation of the
+wave function, implementation of the transformations, calculations between
+modules, etc., is non-trivial and time-consuming. Here, a new open-source,
+MATLAB-based software, called Soundiation, is provided to address the radiation
+force and torque while supporting the dynamic prediction of non-spherical
+particles. The implementation is basically generic, and its applicability is
+demonstrated through the validation of numerical methods. Furthermore, a
+graphical user interface is provided so that it can be used and extended
+easily."
+1904,"A further study revealed that such discrepancy is associated
+with the contribution of the continuous circumferential mortar joint, which is spread along the
+
+                    21
+entire thickness of the arch in the macroscale description.","The macroscale models, however, overestimate the peak load of about 15% compared to the
+mesoscale and experimental results.","In fact, a mesoscale simulation for a
+single ring arch with the same geometrical and mechanical characteristics of the analysed two-
+ring masonry arch leads to a peak load very close to that predicted by the proposed macroscale
+model (Figure 7a).",2022-02-13 11:36:48+00:00,A macro modelling continuum approach with embedded discontinuities for the assessment of masonry arch bridges under earthquake loading,cs.CE,['cs.CE'],"[arxiv.Result.Author('B. Pantò'), arxiv.Result.Author('S. Grosman'), arxiv.Result.Author('L. Macorini'), arxiv.Result.Author('B. A. Izzuddin')]","The paper presents an effective macro-modelling approach, utilising an
+anisotropic material model with embedded discontinuities, for masonry arches
+and bridges under cyclic loading, including dynamic actions induced by
+earthquakes. Realistic numerical simulations of masonry arch bridges under
+static and dynamic loading require accurate models representing the
+anionotropic nature of masonry and material nonlinearity due to opening and
+closure of tensile cracks and shear sliding along mortar joints. The proposed
+3D modelling approach allows for masonry bond via simple calibration, and
+enables the representation of tensile cracking, crushing and shear damage in
+the brickwork. A two-scale representation is adopted, where 3D continuum
+elements at the structural scale are linked to embedded nonlinear interfaces
+representing the meso-structure of the material. The potential and accuracy of
+the proposed approach are shown in numerical examples and comparisons against
+physical experiments on masonry arches and bridges under static and dynamic
+loading."
+2565,"To further study the performance of the trained GPR model, we plot the scaled true energy y¯true
+
+                          13
+versus the scaled predicted energy y¯pred.","For this reason, we chose GPR as our surrogate model for the edge update functions.","For consistency, the scaling uses training data as the refer-
+ence.",2022-02-24 00:20:28+00:00,Learning the nonlinear dynamics of soft mechanical metamaterials with graph networks,cs.CE,"['cs.CE', 'cs.LG']","[arxiv.Result.Author('Tianju Xue'), arxiv.Result.Author('Sigrid Adriaenssens'), arxiv.Result.Author('Sheng Mao')]","The dynamics of soft mechanical metamaterials provides opportunities for many
+exciting engineering applications. Previous studies often use discrete systems,
+composed of rigid elements and nonlinear springs, to model the nonlinear
+dynamic responses of the continuum metamaterials. Yet it remains a challenge to
+accurately construct such systems based on the geometry of the building blocks
+of the metamaterial. In this work, we propose a machine learning approach to
+address this challenge. A metamaterial graph network (MGN) is used to represent
+the discrete system, where the nodal features contain the positions and
+orientations the rigid elements, and the edge update functions describe the
+mechanics of the nonlinear springs. We use Gaussian process regression as the
+surrogate model to characterize the elastic energy of the nonlinear springs as
+a function of the relative positions and orientations of the connected rigid
+elements. The optimal model can be obtained by ""learning"" from the data
+generated via finite element calculation over the corresponding building block
+of the continuum metamaterial. Then, we deploy the optimal model to the network
+so that the dynamics of the metamaterial at the structural scale can be
+studied. We verify the accuracy of our machine learning approach against
+several representative numerical examples. In these examples, the proposed
+approach can significantly reduce the computational cost when compared to
+direct numerical simulation while reaching comparable accuracy. Moreover,
+defects and spatial inhomogeneities can be easily incorporated into our
+approach, which can be useful for the rational design of soft mechanical
+metamaterials."
+2585,We further study the convergence of interfacial displacement errors with diﬀerent values of R. In Fig.,"Here, θ = 0.5 is taken as a ﬁxed relaxation parameter.","13,
+we highlight the results from the N-D coupling method with the black line and the results of R-D/R-N with
+R = 0.25 (best result) in red.",2022-02-25 20:46:08+00:00,Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems,cs.CE,"['cs.CE', 'cs.LG']","[arxiv.Result.Author('Minglang Yin'), arxiv.Result.Author('Enrui Zhang'), arxiv.Result.Author('Yue Yu'), arxiv.Result.Author('George Em Karniadakis')]","Multiscale modeling is an effective approach for investigating multiphysics
+systems with largely disparate size features, where models with different
+resolutions or heterogeneous descriptions are coupled together for predicting
+the system's response. The solver with lower fidelity (coarse) is responsible
+for simulating domains with homogeneous features, whereas the expensive
+high-fidelity (fine) model describes microscopic features with refined
+discretization, often making the overall cost prohibitively high, especially
+for time-dependent problems. In this work, we explore the idea of multiscale
+modeling with machine learning and employ DeepONet, a neural operator, as an
+efficient surrogate of the expensive solver. DeepONet is trained offline using
+data acquired from the fine solver for learning the underlying and possibly
+unknown fine-scale dynamics. It is then coupled with standard PDE solvers for
+predicting the multiscale systems with new boundary/initial conditions in the
+coupling stage. The proposed framework significantly reduces the computational
+cost of multiscale simulations since the DeepONet inference cost is negligible,
+facilitating readily the incorporation of a plurality of interface conditions
+and coupling schemes. We present various benchmarks to assess accuracy and
+speedup, and in particular we develop a coupling algorithm for a time-dependent
+problem, and we also demonstrate coupling of a continuum model (finite element
+methods, FEM) with a neural operator representation of a particle system
+(Smoothed Particle Hydrodynamics, SPH) for a uniaxial tension problem with
+hyperelastic material. What makes this approach unique is that a well-trained
+over-parametrized DeepONet can generalize well and make predictions at a
+negligible cost."
+3031,"2941–2962, Nov. 2017.
+gestion and contention problems is another suggestion for
+further research.","6, pp.","This would allow for a better utilization of      [8] S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, “Distributed
+the available communication network resources, by allocating             optimization and statistical learning via the alternating direction method
+these resources and coordinating data transmission according             of multipliers,” Foundations and Trends in Machine Learning, vol.",2022-03-09 15:50:32+00:00,Practical Considerations of DER Coordination with Distributed Optimal Power Flow,cs.CE,"['cs.CE', 'cs.SY', 'eess.SY']","[arxiv.Result.Author('Daniel Gebbran'), arxiv.Result.Author('Sleiman Mhanna'), arxiv.Result.Author('Archie C. Chapman'), arxiv.Result.Author('Wibowo Hardjawana'), arxiv.Result.Author('Branka Vucetic'), arxiv.Result.Author('Gregor Verbic')]","The coordination of prosumer-owned, behind-the-meter distributed energy
+resources (DER) can be achieved using a multiperiod, distributed optimal power
+flow (DOPF), which satisfies network constraints and preserves the privacy of
+prosumers. To solve the problem in a distributed fashion, it is decomposed and
+solved using the alternating direction method of multipliers (ADMM), which may
+require many iterations between prosumers and the central entity (i.e., an
+aggregator). Furthermore, the computational burden is shared among the agents
+with different processing capacities. Therefore, computational constraints and
+communication requirements may make the DOPF infeasible or impractical. In this
+paper, part of the DOPF (some of the prosumer subproblems) is executed on a
+Raspberry Pi-based hardware prototype, which emulates a low processing power,
+edge computing device. Four important aspects are analyzed using test cases of
+different complexities. The first is the computation cost of executing the
+subproblems in the edge computing device. The second is the algorithm operation
+on congested electrical networks, which impacts the convergence speed of DOPF
+solutions. Third, the precision of the computed solution, including the
+trade-off between solution quality and the number of iterations, is examined.
+Fourth, the communication requirements for implementation across different
+communication networks are investigated. The above metrics are analyzed in four
+scenarios involving 26-bus and 51-bus networks."
+3706,"The obtained results foster
+the obtained results do not outperform the classic cor-      the claim that there is room for improvement and thus,
+relation in many considered scenarios, we showed that        further research is needed.",While  and ﬁnancial applications.,"On the other hand, such ap-
+a proper tuning of the hyper-parameters employed in          plications can in turn foster novel research in the data
+the allocation schemes can have a strong inﬂuence on         and information science theoretical domains, trying to
+the ﬁnal performance.",2022-03-22 14:43:37+00:00,On the Modeling and Simulation of Portfolio Allocation Schemes: an Approach based on Network Community Detection,cs.CE,"['cs.CE', 'cs.PF', 'cs.SI', 'J.1']",[arxiv.Result.Author('Stefano Ferretti')],"We present a study on portfolio investments in financial applications. We
+describe a general modeling and simulation framework and study the impact on
+the use of different metrics to measure the correlation among assets. In
+particular, besides the traditional Pearson's correlation, we employ the
+Detrended Cross-Correlation Analysis (DCCA) and Detrended Partial
+Cross-Correlation Analysis (DPCCA). Moreover, a novel portfolio allocation
+scheme is introduced that treats assets as a complex network and uses
+modularity to detect communities of correlated assets. Weights of the
+allocation are then distributed among different communities for the sake of
+diversification. Simulations compare this novel scheme against Critical Line
+Algorithm (CLA), Inverse Variance Portfolio (IVP), the Hierarchical Risk Parity
+(HRP). Synthetic times series are generated using the Gaussian model, Geometric
+Brownian motion, GARCH, ARFIMA and modified ARFIMA models. Results show that
+the proposed scheme outperforms state of the art approaches in many scenarios.
+We also validate simulation results via backtesting, whose results confirm the
+viability of the proposal."
+4082,"Hence,
+based on the current work, further research will focus on applying the NURBS-
+based method to interface-coupled problems in various ﬁelds of application.","The presented spline-based FSI solver framework, in combination with an
+RN coupling scheme, is a promising candidate for accurately solving FSI prob-
+lems involving enclosed, fully Dirichlet-bounded and curved domains.","Future research involving more complex NURBS geometries, including trimmed
+NURBS, is needed.",2022-03-30 08:49:42+00:00,Spline-Based Space-Time Finite Element Approach for Fluid-Structure Interaction Problems With a Focus on Fully Enclosed Domains,cs.CE,"['cs.CE', 'cs.NA', 'math.NA']","[arxiv.Result.Author('Michel Make'), arxiv.Result.Author('Thomas Spenke'), arxiv.Result.Author('Norbert Hosters'), arxiv.Result.Author('Marek Behr')]","Non-Uniform Rational B-Spline (NURBS) surfaces are commonly used within
+Computer-Aided Design (CAD) tools to represent geometric objects. When using
+isogeometric analysis (IGA), it is possible to use such NURBS geometries for
+numerical analysis directly. Analyzing fluid flows, however, requires complex
+three-dimensional geometries to represent flow domains. Defining a
+parametrization of such volumetric domains using NURBS can be challenging and
+is still an ongoing topic in the IGA community. With the recently developed
+NURBS-enhanced finite element method (NEFEM), the favorable geometric
+characteristics of NURBS are used within a standard finite element method. This
+is achieved by enhancing the elements touching the boundary by using the NURBS
+geometry itself. In the current work, a new variation of NEFEM is introduced,
+which is suitable for three-dimensional space-time finite element formulations.
+The proposed method makes use of a new mapping which results in a non-Cartesian
+formulation suitable for fluid-structure interaction (FSI). This is
+demonstrated by combining the method with an IGA formulation in a
+strongly-coupled partitioned framework for solving FSI problems. The framework
+yields a fully spline-based representation of the fluid-structure interface
+through a single NURBS. The coupling conditions at the fluid-structure
+interface are enforced through a Robin-Neumann type coupling scheme. This
+scheme is particularly useful when considering incompressible fluids in fully
+Dirichlet-bounded and curved problems, as it satisfies the incompressibility
+constraint on the fluid for each step within the coupling procedure. The
+accuracy and performance of the introduced spline-based space-time finite
+element approach and its use within the proposed coupled FSI framework are
+demonstrated using a series of two- and three-dimensional benchmark problems."
+4561,"The
+advancement of this paradigm is to further study the data visibility or so called observation window in
+this work, such as 1-week, 2-week and 3-week observations.","For the paradigm method, weekly rolling horizon is validated and adapted from previous studies.","Based on the experimental results over
+different hyper-parameterized scenarios, the proposed approach achieves remarkable optimal results
+under a quadratic level of computational complexity.",2022-04-08 09:30:23+00:00,Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Large Spatial-Temporal Data-Driven Approach -- Part 2,cs.CE,"['cs.CE', 'cs.AI', 'cs.LG', 'cs.NE']","[arxiv.Result.Author('Deqing Zhai'), arxiv.Result.Author('Xiuju Fu'), arxiv.Result.Author('Xiao Feng Yin'), arxiv.Result.Author('Haiyan Xu'), arxiv.Result.Author('Wanbing Zhang'), arxiv.Result.Author('Ning Li')]","In this study, a novel coordinative scheduling optimization approach is
+proposed to enhance port efficiency by reducing weighted average turnaround
+time. The proposed approach is developed as a heuristic algorithm applied and
+investigated through different observation windows with weekly rolling horizon
+paradigm method. The experimental results show that the proposed approach is
+effective and promising on mitigating the turnaround time of vessels. The
+results demonstrate that largest potential savings of turnaround time (weighted
+average) are around 17 hours (28%) reduction on baseline of 1-week observation,
+45 hours (37%) reduction on baseline of 2-week observation and 70 hours (40%)
+reduction on baseline of 3-week observation. Even though the experimental
+results are based on historical datasets, the results potentially present
+significant benefits if real-time applications were applied under a quadratic
+computational complexity."
+5633,They demonstrate that at least a 90% overlap of the     made the datasets available online for further research [17].,"We
+Protocol.",UNLs is required to ensure network safety.,2022-05-02 12:53:09+00:00,Topology Analysis of the XRP Network,cs.CE,"['cs.CE', 'cs.SI']","[arxiv.Result.Author('Vytautas Tumas'), arxiv.Result.Author('Sean Rivera'), arxiv.Result.Author('Damien Magoni'), arxiv.Result.Author('Radu State')]","XRP is one of the oldest, well-established cryptocurrencies. Despite the
+popularity of XRP, little is known about its underlying peer-to-peer network.
+The structural properties of a network impact its efficiency, security and
+robustness. We aim to close the knowledge gap by providing a detailed analysis
+of the XRP overlay network.
+  In this paper we examine the graph-theoretic properties of the XRP Network
+topology and its temporal characteristics. We crawl the XRP Network over two
+months and collect 1,300 unique network snapshots. We uncover a small group of
+nodes that act as a networking backbone. In addition, we observe a high network
+churn, with a third of the nodes changing every five days. Our findings have
+strong implications for the resilience and safety of the XRP Ledger."
+5739,"We further study how the social proﬁt is affected by the net-
+                                                                          work charge price.","This implies that the
+                                                                          proposed network charge mechanism can provide near-optimal
+                                                                          social welfare.","Similarly, we simulate the range of network
+                                                                          charge price γ ∈ [0, 1]s$/(kW · km) with an incremental of
+                                                                          ∆γ = 0.01 s$/(kW · km).",2022-05-04 08:33:30+00:00,Optimal Network Charge for Peer-to-Peer Energy Trading: A Grid Perspective,cs.CE,['cs.CE'],"[arxiv.Result.Author('Yu Yang'), arxiv.Result.Author('Yue Chen'), arxiv.Result.Author('Guoqiang Hu'), arxiv.Result.Author('Costas J. Spanos')]","Peer-to-peer (P2P) energy trading is a promising market scheme to accommodate
+the increasing distributed energy resources (DERs). However, how P2P to be
+integrated into the existing power systems remains to be investigated. In this
+paper, we apply network charge as a means for the grid operator to attribute
+transmission loss and ensure network constraints for empowering P2P
+transaction. The interaction between the grid operator and the prosumers is
+modeled as a Stackelberg game, which yields a bi-level optimization problem. We
+prove that the Stackelberg game admits an equilibrium network charge price.
+Besides, we propose a method to obtain the network charge price by converting
+the bi-level optimization into a single-level mixed-integer quadratic
+programming (MIQP), which can handle a reasonable scale of prosumers
+efficiently. Simulations on the IEEE bus systems show that the proposed optimal
+network charge is favorable as it can benefit both the grid operator and the
+prosumers for empowering the P2P market, and achieves near-optimal social
+welfare. Moreover, the results show that the presence of energy storage will
+make the prosumers more sensitive to the network charge price changes."
+5740,"We imply that when there is no network charge (i.e., Free P2P                    We further study how the social proﬁt is affected by the net-
+and Free P2P + ES), the prosumers can gain considerable                       work charge price.",8 (With ES).,"Similarly, we simulate the range of network
+beneﬁt from the P2P market.",2022-05-04 08:33:30+00:00,Optimal Network Charge for Peer-to-Peer Energy Trading: A Grid Perspective,cs.CE,['cs.CE'],"[arxiv.Result.Author('Yu Yang'), arxiv.Result.Author('Yue Chen'), arxiv.Result.Author('Guoqiang Hu'), arxiv.Result.Author('Costas J. Spanos')]","Peer-to-peer (P2P) energy trading is a promising market scheme to accommodate
+the increasing distributed energy resources (DERs). However, how P2P to be
+integrated into the existing power systems remains to be investigated. In this
+paper, we apply network charge as a means for the grid operator to attribute
+transmission loss and ensure network constraints for empowering P2P
+transaction. The interaction between the grid operator and the prosumers is
+modeled as a Stackelberg game, which yields a bi-level optimization problem. We
+prove that the Stackelberg game admits an equilibrium network charge price.
+Besides, we propose a method to obtain the network charge price by converting
+the bi-level optimization into a single-level mixed-integer quadratic
+programming (MIQP), which can handle a reasonable scale of prosumers
+efficiently. Simulations on the IEEE bus systems show that the proposed optimal
+network charge is favorable as it can benefit both the grid operator and the
+prosumers for empowering the P2P market, and achieves near-optimal social
+welfare. Moreover, the results show that the presence of energy storage will
+make the prosumers more sensitive to the network charge price changes."
+5741,"We further study how the social proﬁt is affected by the net-
+                                                                          work charge price.","This implies that the
+                                                                          proposed network charge mechanism can provide near-optimal
+                                                                          social welfare.","Similarly, we simulate the range of network
+                                                                          charge price γ ∈ [0, 1]s$/(kW · km) with an incremental of
+                                                                          ∆γ = 0.01 s$/(kW · km).",2022-05-04 08:33:30+00:00,Optimal Network Charge for Peer-to-Peer Energy Trading: A Grid Perspective,cs.CE,['cs.CE'],"[arxiv.Result.Author('Yu Yang'), arxiv.Result.Author('Yue Chen'), arxiv.Result.Author('Guoqiang Hu'), arxiv.Result.Author('Costas J. Spanos')]","Peer-to-peer (P2P) energy trading is a promising market scheme to accommodate
+the increasing distributed energy resources (DERs). However, how P2P to be
+integrated into the existing power systems remains to be investigated. In this
+paper, we apply network charge as a means for the grid operator to attribute
+transmission loss and ensure network constraints for empowering P2P
+transaction. The interaction between the grid operator and the prosumers is
+modeled as a Stackelberg game, which yields a bi-level optimization problem. We
+prove that the Stackelberg game admits an equilibrium network charge price.
+Besides, we propose a method to obtain the network charge price by converting
+the bi-level optimization into a single-level mixed-integer quadratic
+programming (MIQP), which can handle a reasonable scale of prosumers
+efficiently. Simulations on the IEEE bus systems show that the proposed optimal
+network charge is favorable as it can benefit both the grid operator and the
+prosumers for empowering the P2P market, and achieves near-optimal social
+welfare. Moreover, the results show that the presence of energy storage will
+make the prosumers more sensitive to the network charge price changes."
+7012,"For an improvement,
+more cases studies, detailed reﬁnement of the modeling process of ﬁrst-principles models, and data governance are
+worth further research.","In this context, whether given information will contribute to
+the model accuracy due to inherent uncertainty needs to be considered and further investigated.","6 Conclusion
+
+In this paper, we proposed a hybrid-model approach to demonstrate how domain knowledge via simulation incorporated
+with data-driven methods, especially ML leads to improved predictions.",2022-05-30 21:51:24+00:00,A hybrid-model approach for reducing the performance gap in building energy forecasting,cs.CE,['cs.CE'],"[arxiv.Result.Author('Xia Chen'), arxiv.Result.Author('Tong Guo'), arxiv.Result.Author('Martin Kriegel'), arxiv.Result.Author('Philipp Geyer')]","The performance gap between predicted and actual energy consumption in the
+building domain remains an unsolved problem in practice. The gap exists
+differently in both current mainstream methods: the first-principles model and
+the machine learning (ML) model. Inspired by the concept of time-series
+decomposition to identify different uncertainties, we proposed a hybrid-model
+approach by combining both methods to minimize this gap: 1. Use the
+first-principles method as an encoding tool to convert the building static
+features and predictable patterns in time-series simulation results; 2. The ML
+method combines the results as extra inputs with historical records
+simultaneously, trains the model to capture the implicit performance
+difference, and aligns to calibrate the output. To extend this approach in
+practice, a new concept in the modeling process: Level-of-Information (LOI), is
+introduced to leverage the balance between the investment of simulation
+modeling detail and the accuracy boost. The approach is tested over a
+three-year period, with hourly measured energy load from an operating
+commercial building in Shanghai. The result presents a dominant accuracy
+enhancement: The hybrid-model shows higher accuracy in prediction with better
+interpretability; More important, it releases the practitioners from modeling
+workload and computational resources in refining simulation. In summary, the
+approach provides a nexus for integrating domain knowledge via building
+simulation with data-driven methods. This mindset applies to solving general
+engineering problems and leads to improved prediction accuracy. The result and
+source data are available at
+https://github.com/ResearchGroup-G/PerformanceGap-Hybrid-Approach."
+7563,"For the dynamics of a tensegrity system, the Lagrange-d’Alembert
+elaborated in this paper and subject to further research.","where M´ = Eˇ T M, Mˇ = M´ Eˇ , and M¯ = M´ E˜ are diﬀerent mass matrices that will
+It is beneﬁcial for the design of control schemes, which, however, will not be                      be used later.","principle states that the virtual work vanishes for all inertial forces, generalized
+                                                                                                    forces, and constraint forces acting on the virtual displacement:
+   Expression (27) allows any constitutive laws of the cables.",2022-06-13 14:52:52+00:00,A Unified Framework for Dynamic Analysis of Tensegrity Structures with Arbitrary Rigid Bodies and Rigid Bars,cs.CE,['cs.CE'],"[arxiv.Result.Author('Jiahui Luo'), arxiv.Result.Author('Zhigang Wu'), arxiv.Result.Author('Xiaoming Xu')]","In this paper, we develop a unified framework to study the dynamics of
+tensegrity systems that can include any arbitrary rigid bodies and rigid bars.
+The natural coordinates are adopted as a completely non-minimal modeling
+approach to describe both rigid bodies and rigid bars in terms of different
+combinations of basic points and base vectors. Various types of coordinates
+combinations are then unified into polymorphic expressions which succinctly
+encompass Class-1-to-$k$ tensegrities. Then, we employ the Lagrange-d'Alembert
+principle to derive the dynamic equation, which has a constant mass matrix and
+is free from trigonometric functions as well as centrifugal and Coriolis terms,
+owing to the non-minimal formulations. For numerical analysis of nonlinear
+dynamics, a modified symplectic integration scheme is derived, accommodating
+non-conservative forces and prescribed boundary conditions. Additionally,
+formulations for statics and linearized dynamics around static equilibrium
+states are derived to help determine cable actuations and calculate natural
+frequencies and mode shapes, which are commonly needed for structural analyses.
+Numerical examples are given to demonstrate the proposed approach's abilities
+in the modeling of tensegrity structures composed of Class-1-to-$k$ modules and
+conducting dynamic simulations with complex conditions, including slack cables,
+gravity loads, seismic grounds, and cable-based deployments. Finally, two novel
+designs of tensegrity structures exemplify new ways to create multi-functional
+composite structures."
+7564,"It is
+p on the rigid member I are, respectively,                                                                               beneﬁcial for the design of cable-based control schemes, which, however, will
+                                                                                                                         not be elaborated in this paper and subject to further research.","[25, 26].","rI,p = CI,pTI q and δrI,p = CI,pTˇ I δqˇ.",2022-06-13 14:52:52+00:00,A Unified Framework for Dynamic Analysis of Tensegrity Structures with Arbitrary Rigid Bodies and Rigid Bars,cs.CE,['cs.CE'],"[arxiv.Result.Author('Jiahui Luo'), arxiv.Result.Author('Zhigang Wu'), arxiv.Result.Author('Xiaoming Xu')]","This paper develops a unified framework to study the dynamics of tensegrity
+systems with any arbitrary rigid bodies and rigid bars. The natural coordinates
+are adopted as a completely non-minimal modeling approach to describe both
+rigid bodies and rigid bars in terms of different combinations of basic points
+and base vectors. Various coordinate combinations are then unified into
+polymorphic expressions that succinctly encompass Class-1-to-$k$ tensegrities.
+Then, the Lagrange-d'Alembert principle is employed to derive the dynamic
+equation, which has a constant mass matrix and is free from trigonometric
+functions as well as centrifugal and Coriolis terms. For numerical analysis of
+nonlinear dynamics, a modified symplectic integration scheme is derived,
+accommodating non-conservative forces and boundary conditions. Additionally,
+formulations for statics and linearized dynamics around static equilibrium
+states are derived to help determine cable actuation values and calculate
+natural frequencies and mode shapes, which are commonly needed for structural
+analyses. Numerical examples are given to demonstrate the proposed approach's
+abilities in modeling tensegrity structures composed of Class-1-to-$k$ modules
+and conducting dynamic simulations with complex conditions, including slack
+cables, gravity loads, seismic grounds, and cable-based deployments. Finally,
+two novel designs of tensegrity structures exemplify new ways to create
+multi-functional composite structures."
+8071,"How to choose a more reasonable signal embedding way and how to
+further combine with topological data analysis to comprehensively investigate the signal
+from the whole and local to get more eﬃcient algorithms need further research.","Meanwhile, WSCEC algorithm can also be
+applied to a variety of signal research such as signal identiﬁcation and Electroencephalo-
+gram (EEG) analysis.","References
+
+  [1] World Health Qrganization.",2022-06-25 16:40:27+00:00,ECG Classification based on Wasserstein Scalar Curvature,cs.CE,['cs.CE'],"[arxiv.Result.Author('Fupeng Sun'), arxiv.Result.Author('Yin Ni'), arxiv.Result.Author('Yihao Luo'), arxiv.Result.Author('Huafei Sun')]","Electrocardiograms (ECG) analysis is one of the most important ways to
+diagnose heart disease. This paper proposes an efficient ECG classification
+method based on Wasserstein scalar curvature to comprehend the connection
+between heart disease and mathematical characteristics of ECG. The newly
+proposed method converts an ECG into a point cloud on the family of Gaussian
+distribution, where the pathological characteristics of ECG will be extracted
+by the Wasserstein geometric structure of the statistical manifold.
+Technically, this paper defines the histogram dispersion of Wasserstein scalar
+curvature, which can accurately describe the divergence between different heart
+diseases. By combining medical experience with mathematical ideas from geometry
+and data science, this paper provides a feasible algorithm for the new method,
+and the theoretical analysis of the algorithm is carried out. Digital
+experiments on the classical database with large samples show the new
+algorithm's accuracy and efficiency when dealing with the classification of
+heart disease."
+8559,"Even though these numerical results for thermal parameters still need in-
+depth numerical analysis and experimental validation, we provide herein a complete methodology and
+its implementation to encourage further research for a better understanding of the interplay between
+microscale morphology and thermo-mechanical material parameters.","These cases has shown that thermoelastic
+interaction βM has a similar reaction to pore morphology as the stiﬀness matrix CM while higher-order
+thermal parameters γM mirror the response of the higher-order mechanical parameter GM as both of
+them are linearly dependent to the size of the RVE and have the same behavior with respect to the
+centro-symmetry of the RVE.",5.,2022-07-07 15:00:24+00:00,Determining parameters in generalized thermomechanics for metamaterials by means of asymptotic homogenization,cs.CE,"['cs.CE', 'math-ph', 'math.MP']","[arxiv.Result.Author('Bozo Vazic'), arxiv.Result.Author('Bilen Emek Abali'), arxiv.Result.Author('Pania Newell')]","Advancement in manufacturing methods enable designing so called metamaterials
+with a tailor-made microstructure. Microstructure affects materials response
+within a length-scale, where we model this behavior by using the generalized
+thermomechanics. Strain gradient theory is employed as a higher-order theory
+with thermodynamics modeled as a first-order theory. Developing multiphysics
+models for heterogeneous materials is indeed a challenge and even this
+``simplest'' model in generalized thermomechanics causes dozens of parameters
+to be determined. We develop a computational model by using a given
+microstructure, modeled as a periodic domain, and numerically calculate all
+parameters by means of asymptotic homogenization. Finite element method (FEM)
+is employed with the aid of open-source codes (FEniCS). Some example with
+symmetric and random distribution of voids in a model problem verifies the
+method and provides an example at which length-scale we need to consider
+generalized thermoeleasticity in composite materials."
+8560,"192–220
+
+[15] D. Del Vescovo & I. Giorgio (2014) Dynamic problems for metamaterials: review of existing
+          models and ideas for further research, International Journal of Engineering Science, 80:pp.","2175–2182
+
+[14] K. Matouˇs, M. G. Geers, V. G. Kouznetsova, & A. Gillman (2017) A review of predictive nonlinear
+          theories for multiscale modeling of heterogeneous materials, Journal of Computational Physics,
+          330:pp.","153–172
+
+[16] R. D. Mindlin (1965) Second gradient of strain and surface-tension in linear elasticity, Interna-
+          tional Journal of Solids and Structures, 1(4):pp.",2022-07-07 15:00:24+00:00,Determining parameters in generalized thermomechanics for metamaterials by means of asymptotic homogenization,cs.CE,"['cs.CE', 'math-ph', 'math.MP']","[arxiv.Result.Author('Bozo Vazic'), arxiv.Result.Author('Bilen Emek Abali'), arxiv.Result.Author('Pania Newell')]","Advancement in manufacturing methods enable designing so called metamaterials
+with a tailor-made microstructure. Microstructure affects materials response
+within a length-scale, where we model this behavior by using the generalized
+thermomechanics. Strain gradient theory is employed as a higher-order theory
+with thermodynamics modeled as a first-order theory. Developing multiphysics
+models for heterogeneous materials is indeed a challenge and even this
+``simplest'' model in generalized thermomechanics causes dozens of parameters
+to be determined. We develop a computational model by using a given
+microstructure, modeled as a periodic domain, and numerically calculate all
+parameters by means of asymptotic homogenization. Finite element method (FEM)
+is employed with the aid of open-source codes (FEniCS). Some example with
+symmetric and random distribution of voids in a model problem verifies the
+method and provides an example at which length-scale we need to consider
+generalized thermoeleasticity in composite materials."
+9114,"The achievement
+of this network requires further research on the design of the network as well as the pre-processing of the data
+that gets passed to the network, which is beyond the immediate objectives of this study and requires some
+advancements in the design of neural networks by the active research community in this ﬁeld [31, 75, 77].","To the best of the author’s knowledge, current NN applications are always
+limited by a certain set of geometries, boundary conditions, and other model-speciﬁc details.","Therefore, we bound the exploration space in most of the aforementioned parameters and mainly focus on the
+feasibility of integrating PINNs within a nonlinear ﬁnite element analysis, training a single PINN for a single
+combination of meshed geometry and applied load.",2022-07-14 05:32:21+00:00,Integrated Finite Element Neural Network (I-FENN) for non-local continuum damage mechanics,cs.CE,"['cs.CE', 'physics.app-ph']","[arxiv.Result.Author('Panos Pantidis'), arxiv.Result.Author('Mostafa E. Mobasher')]","We present a new Integrated Finite Element Neural Network framework (I-FENN),
+with the objective to accelerate the numerical solution of nonlinear
+computational mechanics problems. We leverage the swift predictive capability
+of neural networks (NNs) and we embed them inside the finite element stiffness
+function, to compute element-level state variables and their derivatives within
+a nonlinear, iterative numerical solution. This process is conducted jointly
+with conventional finite element methods that involve shape functions: the NN
+receives input data that resembles the material point deformation and its
+output is used to construct element-level field variables such as the element
+Jacobian matrix and residual vector. Here we introduce I-FENN to the continuum
+damage analysis of quasi-brittle materials, and we establish a new non-local
+gradient-based damage framework which operates at the cost of a local damage
+approach. First, we develop a physics informed neural network (PINN) to
+resemble the non-local gradient model and then we train the neural network
+offline. The network learns to predict the non-local equivalent strain at each
+material point, as well as its derivative with respect to the local strain.
+Then, the PINN is integrated in the element stiffness definition and conducts
+the local to non-local strain transformation, whereas the two PINN outputs are
+used to construct the element Jacobian matrix and residual vector. This process
+is carried out within the nonlinear solver, until numerical convergence is
+achieved. The resulting method bears the computational cost of the conventional
+local damage approach, but ensures mesh-independent results and a diffused
+non-local strain and damage profile. As a result, the proposed method tackles
+the vital drawbacks of both the local and non-local gradient method,
+respectively being the mesh-dependence and additional computational cost."
+9115,"The achievement of this network requires further research on the design of the network as well as the pre-
+processing of the data that gets passed to the network, which is beyond the immediate objectives of this study
+and requires some advancements in the design of neural networks by the active research community in this
+ﬁeld [31, 75, 83].","Consequently, the state-of-the-art implementation of PINNs lacks the desired generalizability.","Therefore, we bound the exploration space in most of the aforementioned parameters and
+mainly focus on the feasibility of integrating PINNs within a nonlinear ﬁnite element analysis, training a single
+PINN for a single combination of meshed geometry and applied load.",2022-07-14 05:32:21+00:00,Integrated Finite Element Neural Network (I-FENN) for non-local continuum damage mechanics,cs.CE,"['cs.CE', 'physics.app-ph']","[arxiv.Result.Author('Panos Pantidis'), arxiv.Result.Author('Mostafa E. Mobasher')]","We present a new Integrated Finite Element Neural Network framework (I-FENN),
+with the objective to accelerate the numerical solution of nonlinear
+computational mechanics problems. We leverage the swift predictive capability
+of neural networks (NNs) and we embed them inside the finite element stiffness
+function, to compute element-level state variables and their derivatives within
+a nonlinear, iterative numerical solution. This process is conducted jointly
+with conventional finite element methods that involve shape functions: the NN
+receives input data that resembles the material point deformation and its
+output is used to construct element-level field variables such as the element
+Jacobian matrix and residual vector. Here we introduce I-FENN to the continuum
+damage analysis of quasi-brittle materials, and we establish a new non-local
+gradient-based damage framework which operates at the cost of a local damage
+approach. First, we develop a physics informed neural network (PINN) to
+resemble the non-local gradient model and then we train the neural network
+offline. The network learns to predict the non-local equivalent strain at each
+material point, as well as its derivative with respect to the local strain.
+Then, the PINN is integrated in the element stiffness definition and conducts
+the local to non-local strain transformation, whereas the two PINN outputs are
+used to construct the element Jacobian matrix and residual vector. This process
+is carried out within the nonlinear solver, until numerical convergence is
+achieved. The resulting method bears the computational cost of the conventional
+local damage approach, but ensures mesh-independent results and a diffused
+non-local strain and damage profile. As a result, the proposed method tackles
+the vital drawbacks of both the local and non-local gradient method,
+respectively being the mesh-dependence and additional computational cost."
+9155,"In future work, further research should focus on the improved diagnosis approach for
+small-sample learning.","Since suﬃcient unlabeled data is needed in this study, the main limitation lies in that the proposed method is not
+suitable for the small sample.","Acknowledgements
+
+    It is very grateful for the ﬁnancial supports from the National Major Science and Technology Projects of China
+(No.",2022-07-21 12:02:50+00:00,A Wavelet Transform and self-supervised learning-based framework for bearing fault diagnosis with limited labeled data,cs.CE,['cs.CE'],"[arxiv.Result.Author('Yuhong Jin'), arxiv.Result.Author('Lei Hou'), arxiv.Result.Author('Ming Du'), arxiv.Result.Author('Yushu Chen')]","Traditional supervised bearing fault diagnosis methods rely on massive
+labelled data, yet annotations may be very time-consuming or infeasible. The
+fault diagnosis approach that utilizes limited labelled data is becoming
+increasingly popular. In this paper, a Wavelet Transform (WT) and
+self-supervised learning-based bearing fault diagnosis framework is proposed to
+address the lack of supervised samples issue. Adopting the WT and cubic spline
+interpolation technique, original measured vibration signals are converted to
+the time-frequency maps (TFMs) with a fixed scale as inputs. The Vision
+Transformer (ViT) is employed as the encoder for feature extraction, and the
+self-distillation with no labels (DINO) algorithm is introduced in the proposed
+framework for self-supervised learning with limited labelled data and
+sufficient unlabeled data. Two rolling bearing fault datasets are used for
+validations. In the case of both datasets only containing 1% labelled samples,
+utilizing the feature vectors extracted by the trained encoder without
+fine-tuning, over 90\% average diagnosis accuracy can be obtained based on the
+simple K-Nearest Neighbor (KNN) classifier. Furthermore, the superiority of the
+proposed method is demonstrated in comparison with other self-supervised fault
+diagnosis methods."
+9390,"However, the multivariate approach performed much better than the univariate edge
+model in reproducing the cross sectional properties of the transaction networks, suggesting that improvements to this
+model, for example allowing the kernel decay to vary across the different edges, would be a promising avenue for
+further research.","The better performance of the univariate edge model is in agreement with the strong performance of
+the frequency based edge selection, since both suggest that historical counterparty relationships are inﬂuential in the
+presence of a future relationship.","Finally, we observed strong performance in applying a bivariate model to buys and sells for trades occurring through a
+single central clearing counterparty, with the burstiness reproduced in the majority of cases.",2022-07-22 19:10:24+00:00,Modelling Equity Transaction Networks as Bursty Processes,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","Trade executions for major stocks come in bursts of activity, which can be
+partly attributed to the presence of self- and mutual excitations endogenous to
+the system. In this paper, we study transaction reports for five FTSE 100
+stocks. We model the dynamic of transactions between counterparties using both
+univariate and multivariate Hawkes processes, which we fit to the data using a
+parametric approach. We find that the frequency of transactions between
+counterparties increases the likelihood of them to transact in the future, and
+that univariate and multivariate Hawkes processes show promise as generative
+models able to reproduce the bursty, hub dominated systems that we observe in
+the real world. We further show that Hawkes processes perform well when used to
+model buys and sells through a central clearing counterparty when considered as
+a bivariate process, but not when these are modelled as individual univariate
+processes, indicating that mutual excitation between buys and sells is present
+in these markets."
+9391,"Further to this, we have considered application of Hawkes processes to trade
+executions only, and further research into how the dynamics of the order book inﬂuences the generative processes of
+these executions would be useful to explore in addition to the other potential avenues suggested.","These links introduce a direct channel of contagion between these critical
+nodes in the ﬁnancial system, so in order for our methods to fully capture the macroprudential risks in these systems,
+these links would need to be included.","Availability of data and materials
+
+All ﬁve datasets studied in this paper were extracted from a dataset of transaction reports collected by the FCA under
+MIFID II regulations.",2022-07-22 19:10:24+00:00,Modelling Equity Transaction Networks as Bursty Processes,cs.CE,['cs.CE'],"[arxiv.Result.Author('Isobel Seabrook'), arxiv.Result.Author('Paolo Barucca'), arxiv.Result.Author('Fabio Caccioli')]","Trade executions for major stocks come in bursts of activity, which can be
+partly attributed to the presence of self- and mutual excitations endogenous to
+the system. In this paper, we study transaction reports for five FTSE 100
+stocks. We model the dynamic of transactions between counterparties using both
+univariate and multivariate Hawkes processes, which we fit to the data using a
+parametric approach. We find that the frequency of transactions between
+counterparties increases the likelihood of them to transact in the future, and
+that univariate and multivariate Hawkes processes show promise as generative
+models able to reproduce the bursty, hub dominated systems that we observe in
+the real world. We further show that Hawkes processes perform well when used to
+model buys and sells through a central clearing counterparty when considered as
+a bivariate process, but not when these are modelled as individual univariate
+processes, indicating that mutual excitation between buys and sells is present
+in these markets."
+9428,"It would be of interest to further study the convergence behavior of PINNs in the small-thickness limit
+towards an improved understanding of the challenges of training PINNs in a general sense.","One can therefore exploit
+PINN-based methods such as the one presented here to serve as a sanity check for FEM to ensure locking-free
+behavior.","Besides, fur-
+ther improvements to reduce the computational eﬀorts are necessary to make PINNs competitive with
+well-established FEM techniques.",2022-07-26 07:48:14+00:00,Physics-Informed Neural Networks for Shell Structures,cs.CE,"['cs.CE', 'cs.LG']","[arxiv.Result.Author('Jan-Hendrik Bastek'), arxiv.Result.Author('Dennis M. Kochmann')]","The numerical modeling of thin shell structures is a challenge, which has
+been met by a variety of finite element (FE) and other formulations -- many of
+which give rise to new challenges, from complex implementations to artificial
+locking. As a potential alternative, we use machine learning and present a
+Physics-Informed Neural Network (PINN) to predict the small-strain response of
+arbitrarily curved shells. To this end, the shell midsurface is described by a
+chart, from which the mechanical fields are derived in a curvilinear coordinate
+frame by adopting Naghdi's shell theory. Unlike in typical PINN applications,
+the corresponding strong or weak form must therefore be solved in a
+non-Euclidean domain. We investigate the performance of the proposed PINN in
+three distinct scenarios, including the well-known Scordelis-Lo roof setting
+widely used to test FE shell elements against locking. Results show that the
+PINN can accurately identify the solution field in all three benchmarks if the
+equations are presented in their weak form, while it may fail to do so when
+using the strong form. In the thin-thickness limit, where classical methods are
+susceptible to locking, training time notably increases as the differences in
+scaling of the membrane, shear, and bending energies lead to adverse numerical
+stiffness in the gradient flow dynamics. Nevertheless, the PINN can accurately
+match the ground truth and performs well in the Scordelis-Lo roof benchmark,
+highlighting its potential for a drastically simplified alternative to
+designing locking-free shell FE formulations."
+9709,"The resulting ﬁndings are used to detail recommendations believed to
+                                       encourage avenues of potential scientiﬁc progress for further research within the ﬁeld.","A thorough analysis identiﬁes and diﬀerentiates between problematic and
+                                       promising aspects of existing models.",1 Introduction                                                     complex mapping from problem-deﬁning characteristics (i.e.,2022-08-04 10:13:05+00:00,On the use of Artificial Neural Networks in Topology Optimisation,cs.CE,['cs.CE'],"[arxiv.Result.Author('Rebekka V. Woldseth'), arxiv.Result.Author('Niels Aage'), arxiv.Result.Author('J. Andreas Bærentzen'), arxiv.Result.Author('Ole Sigmund')]","The question of how methods from the field of artificial intelligence can
+help improve the conventional frameworks for topology optimisation has received
+increasing attention over the last few years. Motivated by the capabilities of
+neural networks in image analysis, different model-variations aimed at
+obtaining iteration-free topology optimisation have been proposed with varying
+success. Other works focused on speed-up through replacing expensive optimisers
+and state solvers, or reducing the design-space have been attempted, but have
+not yet received the same attention. The portfolio of articles presenting
+different applications has as such become extensive, but few real breakthroughs
+have yet been celebrated. An overall trend in the literature is the strong
+faith in the ""magic"" of artificial intelligence and thus misunderstandings
+about the capabilities of such methods. The aim of this article is therefore to
+present a critical review of the current state of research in this field. To
+this end, an overview of the different model-applications is presented, and
+efforts are made to identify reasons for the overall lack of convincing
+success. A thorough analysis identifies and differentiates between problematic
+and promising aspects of existing models. The resulting findings are used to
+detail recommendations believed to encourage avenues of potential scientific
+progress for further research within the field."
+9710,"is the worst-case performance          TO this is beyond the scope of this review, but it is believed
+           presented and is the computational gain fairly repre-     that this could be an interesting path for further research in
+           sented?)",(E.g.,the ﬁeld.,2022-08-04 10:13:05+00:00,On the use of Artificial Neural Networks in Topology Optimisation,cs.CE,['cs.CE'],"[arxiv.Result.Author('Rebekka V. Woldseth'), arxiv.Result.Author('Niels Aage'), arxiv.Result.Author('J. Andreas Bærentzen'), arxiv.Result.Author('Ole Sigmund')]","The question of how methods from the field of artificial intelligence can
+help improve the conventional frameworks for topology optimisation has received
+increasing attention over the last few years. Motivated by the capabilities of
+neural networks in image analysis, different model-variations aimed at
+obtaining iteration-free topology optimisation have been proposed with varying
+success. Other works focused on speed-up through replacing expensive optimisers
+and state solvers, or reducing the design-space have been attempted, but have
+not yet received the same attention. The portfolio of articles presenting
+different applications has as such become extensive, but few real breakthroughs
+have yet been celebrated. An overall trend in the literature is the strong
+faith in the ""magic"" of artificial intelligence and thus misunderstandings
+about the capabilities of such methods. The aim of this article is therefore to
+present a critical review of the current state of research in this field. To
+this end, an overview of the different model-applications is presented, and
+efforts are made to identify reasons for the overall lack of convincing
+success. A thorough analysis identifies and differentiates between problematic
+and promising aspects of existing models. The resulting findings are used to
+detail recommendations believed to encourage avenues of potential scientific
+progress for further research within the field."
+9764,"We plan to further research the similarities and uses                       • Note that:
+of traditional derivatives and the economics that Decentralized
+Exchanges present.","https://doi.org/10.48550/ARXIV.2103.12732
+
+   We are excited about delta-neutral liquidity positions and plan                       A EQUATIONS
+to apply the concept to more tasks such as Strategic Liquidity Pro-
+vision [15].","𝑖    =      𝑓   =   1            (7)
+
+                                                                                                                   𝑝𝑏;𝑏       𝑝
+
+                                                                                                                               𝑏;𝑏
+
+                                                                                         • Constant Product Formula:
+
+                                                                                                                𝜅 = 𝑎𝑚𝑜𝑢𝑛𝑡𝑎 × 𝑎𝑚𝑜𝑢𝑛𝑡𝑏                (8)
+
+   We provide a repository including an implementation of the                            • Price from Constant Product Formula:
+algorithm:
+https://github.com/adamkhakhar/lp-delta-hedge                                                                      𝑝𝑎;𝑏 =   𝑎𝑚𝑜𝑢𝑛𝑡      𝑏
+
+                                                                                                                                                     (9)
+
+                                                                                                                            𝑎𝑚𝑜𝑢𝑛𝑡𝑎
+
+ACKNOWLEDGMENTS                                                                          • Let 𝛿 represent the price change from 𝑝𝑎𝑖 ;𝑏 to 𝑝𝑎𝑓 ;𝑏 :
+
+We are grateful to Amy Lipkind for their helpful discussions.",2022-08-04 19:30:26+00:00,Delta Hedging Liquidity Positions on Automated Market Makers,cs.CE,"['cs.CE', 'cs.LG', 'q-fin.TR', 'F.m']","[arxiv.Result.Author('Akhilesh Adam Khakhar'), arxiv.Result.Author('Xi Chen')]","Liquidity Providers on Automated Market Makers generate millions of USD in
+transaction fees daily. However, the net value of a Liquidity Position is
+vulnerable to price changes in the underlying assets in the pool. The dominant
+measure of loss in a Liquidity Position is Impermanent Loss. Impermanent Loss
+for Constant Function Market Makers has been widely studied. We propose a new
+metric to measure Liquidity Position PNL based on price movement from the
+underlying assets. We show how this new metric more appropriately measures the
+change in the net value of a Liquidity Position as a function of price movement
+in the underlying assets. Our second contribution is an algorithm to delta
+hedge arbitrary Liquidity Positions on both uniform liquidity Automated Market
+Makers (such as Uniswap v2) and concentrated liquidity Automated Market Makers
+(such as Uniswap v3) via a combination of derivatives."
+9765,"We plan to further research quantitative strategies in
+                                                                        the economics that Decentralized Exchanges present.","We are excited about delta-neutral liquidity positions and plan
+                                                                        to apply the concept to more tasks such as Strategic Liquidity Pro-
+                                                                        vision [17].","We provide a repository including an implementation of the
+                                                                        algorithm:
+                                                                        https://github.com/adamkhakhar/lp-delta-hedge
+
+                                                                        ACKNOWLEDGMENTS
+
+                                                                        We are grateful to Ami Lipkind for their helpful discussions.",2022-08-04 19:30:26+00:00,Delta Hedging Liquidity Positions on Automated Market Makers,cs.CE,"['cs.CE', 'cs.LG', 'q-fin.TR', 'F.m']","[arxiv.Result.Author('Adam Khakhar'), arxiv.Result.Author('Xi Chen')]","Liquidity Providers on Automated Market Makers generate millions of USD in
+transaction fees daily. However, the net value of a Liquidity Position is
+vulnerable to price changes in the underlying assets in the pool. The dominant
+measure of loss in a Liquidity Position is Impermanent Loss. Impermanent Loss
+for Constant Function Market Makers has been widely studied. We propose a new
+metric to measure Liquidity Position PNL based on price movement from the
+underlying assets. We show how this new metric more appropriately measures the
+change in the net value of a Liquidity Position as a function of price movement
+in the underlying assets. Our second contribution is an algorithm to delta
+hedge arbitrary Liquidity Positions on both uniform liquidity Automated Market
+Makers (such as Uniswap v2) and concentrated liquidity Automated Market Makers
+(such as Uniswap v3) via a combination of derivatives."
+9766,"We plan to further research quantitative strategies in
+                                                                        the economics that Decentralized Exchanges present.","We are excited about delta-neutral liquidity positions and plan
+                                                                        to apply the concept to more tasks such as Strategic Liquidity Pro-
+                                                                        vision [18].","We provide a repository including an implementation of the
+                                                                        algorithm:
+                                                                        https://github.com/adamkhakhar/lp-delta-hedge
+
+                                                                        ACKNOWLEDGMENTS
+
+                                                                        We are grateful to Ami Lipkind for their helpful discussions.",2022-08-04 19:30:26+00:00,Delta Hedging Liquidity Positions on Automated Market Makers,cs.CE,"['cs.CE', 'cs.LG', 'q-fin.TR', 'F.m']","[arxiv.Result.Author('Adam Khakhar'), arxiv.Result.Author('Xi Chen')]","Liquidity Providers on Automated Market Makers generate millions of USD in
+transaction fees daily. However, the net value of a Liquidity Position is
+vulnerable to price changes in the underlying assets in the pool. The dominant
+measure of loss in a Liquidity Position is Impermanent Loss. Impermanent Loss
+for Constant Function Market Makers has been widely studied. We propose a new
+metric to measure Liquidity Position PNL based on price movement from the
+underlying assets. We show how this new metric more appropriately measures the
+change in the net value of a Liquidity Position as a function of price movement
+in the underlying assets. Our second contribution is an algorithm to delta
+hedge arbitrary Liquidity Positions on both uniform liquidity Automated Market
+Makers (such as Uniswap v2) and concentrated liquidity Automated Market Makers
+(such as Uniswap v3) via a combination of derivatives."
+11390,"In
+addition, they demonstrated the suitability of doppler echocardiography as
+a velocity data acquisition tool and motivated the case for further study of
+its implementation.","The goal of the study was to develop
+a pipeline that could be implemented in resource constrained settings [5].","This, despite current preference for phase contrast mag-
+netic resonance imaging (PC-MRI) in patient-speciﬁc CFD literature [7–11].",2022-09-19 16:00:38+00:00,Machine Learning based Extraction of Boundary Conditions from Doppler Echo Images for Patient Specific Coarctation of the Aorta: Computational Fluid Dynamics Study,cs.CE,"['cs.CE', 'cs.LG', 'cs.NA', 'math.NA']","[arxiv.Result.Author('Vincent Milimo Masilokwa Punabantu'), arxiv.Result.Author('Malebogo Ngoepe'), arxiv.Result.Author('Amit Kumar Mishra'), arxiv.Result.Author('Thomas Aldersley'), arxiv.Result.Author('John Lawrenson'), arxiv.Result.Author('Liesl Zulke')]","Purpose- Coarctation of the Aorta (CoA) patient-specific computational fluid
+dynamics (CFD) studies in resource constrained settings are limited by the
+available imaging modalities for geometry and velocity data acquisition.
+Doppler echocardiography has been seen as a suitable velocity acquisition
+modality due to its higher availability and safety. This study aimed to
+investigate the application of classical machine learning (ML) methods to
+create an adequate and robust approach for obtaining boundary conditions (BCs)
+from Doppler Echocardiography images, for haemodynamic modeling using CFD.
+  Methods- Our proposed approach combines ML and CFD to model haemodynamic flow
+within the region of interest. With the key feature of the approach being the
+use of ML models to calibrate the inlet and outlet boundary conditions (BCs) of
+the CFD model. The key input variable for the ML model was the patients heart
+rate as this was the parameter that varied in time across the measured vessels
+within the study. ANSYS Fluent was used for the CFD component of the study
+whilst the scikit-learn python library was used for the ML component.
+  Results- We validated our approach against a real clinical case of severe CoA
+before intervention. The maximum coarctation velocity of our simulations were
+compared to the measured maximum coarctation velocity obtained from the patient
+whose geometry is used within the study. Of the 5 ML models used to obtain BCs
+the top model was within 5\% of the measured maximum coarctation velocity.
+  Conclusion- The framework demonstrated that it was capable of taking
+variations of the patients heart rate between measurements into account. Thus,
+enabling the calculation of BCs that were physiologically realistic when the
+heart rate was scaled across each vessel whilst providing a reasonably accurate
+solution."
+11391,"In
+addition, they demonstrated the suitability of doppler echocardiography as
+a velocity data acquisition tool and motivated the case for further study of
+its implementation.","The goal of the study was to develop
+a pipeline that could be implemented in resource constrained settings [5].","This, despite current preference for phase contrast mag-
+netic resonance imaging (PC-MRI) in patient-speciﬁc CFD literature [7–11].",2022-09-19 16:00:38+00:00,Machine Learning based Extraction of Boundary Conditions from Doppler Echo Images for Patient Specific Coarctation of the Aorta: Computational Fluid Dynamics Study,cs.CE,"['cs.CE', 'cs.LG', 'cs.NA', 'math.NA']","[arxiv.Result.Author('Vincent Milimo Masilokwa Punabantu'), arxiv.Result.Author('Malebogo Ngoepe'), arxiv.Result.Author('Amit Kumar Mishra'), arxiv.Result.Author('Thomas Aldersley'), arxiv.Result.Author('John Lawrenson'), arxiv.Result.Author('Liesl Zuhlke')]","Purpose- Coarctation of the Aorta (CoA) patient-specific computational fluid
+dynamics (CFD) studies in resource constrained settings are limited by the
+available imaging modalities for geometry and velocity data acquisition.
+Doppler echocardiography has been seen as a suitable velocity acquisition
+modality due to its higher availability and safety. This study aimed to
+investigate the application of classical machine learning (ML) methods to
+create an adequate and robust approach for obtaining boundary conditions (BCs)
+from Doppler Echocardiography images, for haemodynamic modeling using CFD.
+  Methods- Our proposed approach combines ML and CFD to model haemodynamic flow
+within the region of interest. With the key feature of the approach being the
+use of ML models to calibrate the inlet and outlet boundary conditions (BCs) of
+the CFD model. The key input variable for the ML model was the patients heart
+rate as this was the parameter that varied in time across the measured vessels
+within the study. ANSYS Fluent was used for the CFD component of the study
+whilst the scikit-learn python library was used for the ML component.
+  Results- We validated our approach against a real clinical case of severe CoA
+before intervention. The maximum coarctation velocity of our simulations were
+compared to the measured maximum coarctation velocity obtained from the patient
+whose geometry is used within the study. Of the 5 ML models used to obtain BCs
+the top model was within 5\% of the measured maximum coarctation velocity.
+  Conclusion- The framework demonstrated that it was capable of taking
+variations of the patients heart rate between measurements into account. Thus,
+enabling the calculation of BCs that were physiologically realistic when the
+heart rate was scaled across each vessel whilst providing a reasonably accurate
+solution."
+11392,"In addition, they demonstrated
+the suitability of doppler echocardiography as a velocity data acquisition tool
+and motivated the case for further study of its implementation.","The goal of the study was to develop a pipeline that could be imple-
+mented in resource constrained settings [5].","This, despite
+current preference for phase contrast magnetic resonance imaging (PC-MRI)
+in patient-speciﬁc CFD literature [7–11].",2022-09-19 16:00:38+00:00,Machine Learning based Extraction of Boundary Conditions from Doppler Echo Images for Patient Specific Coarctation of the Aorta: Computational Fluid Dynamics Study,cs.CE,"['cs.CE', 'cs.LG', 'cs.NA', 'math.NA']","[arxiv.Result.Author('Vincent Milimo Masilokwa Punabantu'), arxiv.Result.Author('Malebogo Ngoepe'), arxiv.Result.Author('Amit Kumar Mishra'), arxiv.Result.Author('Thomas Aldersley'), arxiv.Result.Author('John Lawrenson'), arxiv.Result.Author('Liesl Zuhlke')]","Purpose- Coarctation of the Aorta (CoA) patient-specific computational fluid
+dynamics (CFD) studies in resource constrained settings are limited by the
+available imaging modalities for geometry and velocity data acquisition.
+Doppler echocardiography has been seen as a suitable velocity acquisition
+modality due to its higher availability and safety. This study aimed to
+investigate the application of classical machine learning (ML) methods to
+create an adequate and robust approach for obtaining boundary conditions (BCs)
+from Doppler Echocardiography images, for haemodynamic modeling using CFD.
+  Methods- Our proposed approach combines ML and CFD to model haemodynamic flow
+within the region of interest. With the key feature of the approach being the
+use of ML models to calibrate the inlet and outlet boundary conditions (BCs) of
+the CFD model. The key input variable for the ML model was the patients heart
+rate as this was the parameter that varied in time across the measured vessels
+within the study. ANSYS Fluent was used for the CFD component of the study
+whilst the scikit-learn python library was used for the ML component.
+  Results- We validated our approach against a real clinical case of severe CoA
+before intervention. The maximum coarctation velocity of our simulations were
+compared to the measured maximum coarctation velocity obtained from the patient
+whose geometry is used within the study. Of the 5 ML models used to obtain BCs
+the top model was within 5\% of the measured maximum coarctation velocity.
+  Conclusion- The framework demonstrated that it was capable of taking
+variations of the patients heart rate between measurements into account. Thus,
+enabling the calculation of BCs that were physiologically realistic when the
+heart rate was scaled across each vessel whilst providing a reasonably accurate
+solution."
+11770,"We further study chemical information driven design and
+atom-based pre-training.","More Ablation We also do ablation study about some model variants (including discretization and
+robust training) and decoding strategies.",We refer the reader for more details to the Appendix 2.2.,2022-09-28 06:43:14+00:00,Zero-Shot 3D Drug Design by Sketching and Generating,cs.CE,['cs.CE'],"[arxiv.Result.Author('Siyu Long'), arxiv.Result.Author('Yi Zhou'), arxiv.Result.Author('Xinyu Dai'), arxiv.Result.Author('Hao Zhou')]","Drug design is a crucial step in the drug discovery cycle. Recently, various
+deep learning-based methods design drugs by generating novel molecules from
+scratch, avoiding traversing large-scale drug libraries. However, they depend
+on scarce experimental data or time-consuming docking simulation, leading to
+overfitting issues with limited training data and slow generation speed. In
+this study, we propose the zero-shot drug design method DESERT (Drug dEsign by
+SkEtching and geneRaTing). Specifically, DESERT splits the design process into
+two stages: sketching and generating, and bridges them with the molecular
+shape. The two-stage fashion enables our method to utilize the large-scale
+molecular database to reduce the need for experimental data and docking
+simulation. Experiments show that DESERT achieves a new state-of-the-art at a
+fast speed."
+11771,"We further study chemical information driven design and
+atom-based pre-training.","More Ablation We also do ablation study about some model variants (including discretization and
+robust training) and decoding strategies.",We refer the reader for more details to the Appendix 2.2.,2022-09-28 06:43:14+00:00,Zero-Shot 3D Drug Design by Sketching and Generating,cs.CE,['cs.CE'],"[arxiv.Result.Author('Siyu Long'), arxiv.Result.Author('Yi Zhou'), arxiv.Result.Author('Xinyu Dai'), arxiv.Result.Author('Hao Zhou')]","Drug design is a crucial step in the drug discovery cycle. Recently, various
+deep learning-based methods design drugs by generating novel molecules from
+scratch, avoiding traversing large-scale drug libraries. However, they depend
+on scarce experimental data or time-consuming docking simulation, leading to
+overfitting issues with limited training data and slow generation speed. In
+this study, we propose the zero-shot drug design method DESERT (Drug dEsign by
+SkEtching and geneRaTing). Specifically, DESERT splits the design process into
+two stages: sketching and generating, and bridges them with the molecular
+shape. The two-stage fashion enables our method to utilize the large-scale
+molecular database to reduce the need for experimental data and docking
+simulation. Experiments show that DESERT achieves a new state-of-the-art at a
+fast speed."
+12638,"Therefore, we illustrated that this data set is challenging for current graph neural network
+architectures, and we hope that our initial work encourages further research on the optimization of
+GNN architectures, particularly for disjoint graph representations, in order to extend their scope
+of application in chemistry.","One reason might be that the hyperparameters of the MPNN are not optimally tuned
+for the task at hand (while the hyperparameters of the MLP are roughly optimized), but it might
+also be the case that the global node method is not optimal in the generalization task for disjoint
+graphs.","Acknowledgement
+
+The authors acknowledge support by the state of Baden-Württemberg through bwHPC.",2022-10-14 14:42:48+00:00,Graph neural networks to learn joint representations of disjoint molecular graphs,cs.CE,"['cs.CE', 'q-bio.QM']","[arxiv.Result.Author('Chen Shao'), arxiv.Result.Author('Zhou Chen'), arxiv.Result.Author('Pascal Friederich')]","Graph neural networks are widely used to learn global representations of
+graphs, which are then used for regression or classification tasks. Typically,
+the graphs in such data sets are connected, i.e. each training sample consists
+of a single internally connected graph associated with a global label. However,
+there is a wide variety of yet unconsidered but application-relevant tasks,
+where labels are assigned to sets of disjoint graphs, which requires the
+generation of global representations of disjoint graphs. In this paper, we
+present a new data set with chemical reactions, which is illustrating this
+task. Each sample consists of a pair of disjoint molecular graphs and a joint
+label representing a scalar measure associated with the chemical reaction of
+the molecules. We show the initial results of graph neural networks that are
+able to solve the task within a combinatorial subset of the dataset but do not
+generalize well to the full data set and unseen (sub)graphs."
+13143,"A Third path for further research is to explore how to measure specific aspects of human
+behaviour such as cultural transmission or cognitive load using the reconstructions of past production
+process as Petri net models.","Approaches like quantitative
+ethnography [74] that generate substantial amounts of structured data are a good choice for such
+studies.","Analytical methods of Petri nets such as invariants, inequalities, and
+distributed runs might be used as proxies to link those aspects with the structure or behaviour of
+production systems.",2022-10-20 19:37:03+00:00,Modelling and measuring complexity of traditional and ancient technologies using Petri nets,cs.CE,['cs.CE'],"[arxiv.Result.Author('Sebastian Fajardo'), arxiv.Result.Author('Jetty Kleijn'), arxiv.Result.Author('Frank W. Takes'), arxiv.Result.Author('Geeske H. J. Langejans')]","Technologies and their production systems are used by archaeologists and
+anthropologists to study complexity of sociotechnical systems. However, there
+are several issues that hamper agreement about what constitutes complexity and
+how we can systematically compare the complexity of production systems. In this
+work, we propose a novel approach to assess the behavioural and structural
+complexity of production systems using Petri nets. Petri nets are well known
+formal models commonly used in, for example, biological and business process
+modelling, as well as software engineering. The use of Petri nets overcomes
+several obstacles of current approaches in archaeology and anthropology, such
+as the incompatibility of the intrinsic sequential logic of the available
+methods with inherently non sequential processes, and the inability to
+explicitly model activities and resources separately. We test the proposed
+Petri net modelling approach on two traditional production systems of adhesives
+made by Ju hoan makers from Nyae, Namibia from Ammocharis coranica and Ozoroa
+schinzii plants. We run simulations in which we assess the complexity of these
+two adhesive production systems in detail and show how Petri net dynamics
+reveal the structural and behavioural complexity of different production
+scenarios. We show that concurrency may be prevalent in the production system
+of adhesive technologies and discuss how changes in location during the process
+may serve to control the behavioural complexity of a production system. The
+approach presented in this paper paves the way for future systematic
+visualization, analysis, and comparison of ancient production systems,
+accounting for the inherent complex, concurrent, and action and resource
+oriented aspects of such processes."
+14540,"Speciﬁcally,          In the low-data setting, understanding a ML model’s
+                                       data science and machine learning (ML) have played crit-     performance is important since predictions inform deci-
+                                       ical roles in modern science in general,2 enabling the uti-  sions about further research directions, or, in a sequen-
+                                       lization of data at unprecedented scales.","Models that leverage statistical patterns in data are now
+                                       often the state of the art on such tasks.","Deep learning      tial learning setting, promote molecules to be subject to
+                                       (DL) models are able to extract statistical patterns in      property measurement.",2022-12-03 08:19:06+00:00,Calibration and generalizability of probabilistic models on low-data chemical datasets with DIONYSUS,cs.CE,"['cs.CE', 'cs.AI']","[arxiv.Result.Author('Gary Tom'), arxiv.Result.Author('Riley J. Hickman'), arxiv.Result.Author('Anizet Zinzuwadia'), arxiv.Result.Author('Afshan Mohajeri'), arxiv.Result.Author('Benjamin Sanchez-Lengeling'), arxiv.Result.Author('Alan Aspuru-Guzik')]","Deep learning models that leverage large datasets are often the state of the
+art for modelling molecular properties. When the datasets are smaller (< 2000
+molecules), it is not clear that deep learning approaches are the right
+modelling tool. In this work we perform an extensive study of the calibration
+and generalizability of probabilistic machine learning models on small chemical
+datasets. Using different molecular representations and models, we analyse the
+quality of their predictions and uncertainties in a variety of tasks (binary,
+regression) and datasets. We also introduce two simulated experiments that
+evaluate their performance: (1) Bayesian optimization guided molecular design,
+(2) inference on out-of-distribution data via ablated cluster splits. We offer
+practical insights into model and feature choice for modelling small chemical
+datasets, a common scenario in new chemical experiments. We have packaged our
+analysis into the DIONYSUS repository, which is open sourced to aid in
+reproducibility and extension to new datasets."
+14541,"Speciﬁcally,          In the low-data setting, understanding a ML model’s
+                                       data science and machine learning (ML) have played crit-     performance is important since predictions inform deci-
+                                       ical roles in modern science in general,2 enabling the uti-  sions about further research directions, or, in a sequen-
+                                       lization of data at unprecedented scales.","Models that leverage statistical patterns in data are now
+                                       often the state of the art on such tasks.","Deep learning      tial learning setting, promote molecules to be subject to
+                                       (DL) models are able to extract statistical patterns in      property measurement.",2022-12-03 08:19:06+00:00,Calibration and generalizability of probabilistic models on low-data chemical datasets with DIONYSUS,cs.CE,"['cs.CE', 'cs.AI']","[arxiv.Result.Author('Gary Tom'), arxiv.Result.Author('Riley J. Hickman'), arxiv.Result.Author('Aniket Zinzuwadia'), arxiv.Result.Author('Afshan Mohajeri'), arxiv.Result.Author('Benjamin Sanchez-Lengeling'), arxiv.Result.Author('Alan Aspuru-Guzik')]","Deep learning models that leverage large datasets are often the state of the
+art for modelling molecular properties. When the datasets are smaller (< 2000
+molecules), it is not clear that deep learning approaches are the right
+modelling tool. In this work we perform an extensive study of the calibration
+and generalizability of probabilistic machine learning models on small chemical
+datasets. Using different molecular representations and models, we analyse the
+quality of their predictions and uncertainties in a variety of tasks (binary,
+regression) and datasets. We also introduce two simulated experiments that
+evaluate their performance: (1) Bayesian optimization guided molecular design,
+(2) inference on out-of-distribution data via ablated cluster splits. We offer
+practical insights into model and feature choice for modelling small chemical
+datasets, a common scenario in new chemical experiments. We have packaged our
+analysis into the DIONYSUS repository, which is open sourced to aid in
+reproducibility and extension to new datasets."
+15375,"Finding an optimal starting
+region thus can be an interesting topic for further research.","12, it can be found that while the algorithm works effectively with
+different starting regions, the starting region has a large inﬂuence on the ﬁnal distortion.",Figure 13: (a) The optimized fabrication sequence where the fabrication is supposed to start from the bottom edge of the component.,2022-12-26 21:59:40+00:00,Fabrication Sequence Optimization for Minimizing Distortion in Multi-Axis Additive Manufacturing,cs.CE,['cs.CE'],"[arxiv.Result.Author('Weiming Wang'), arxiv.Result.Author('Fred van Keulen'), arxiv.Result.Author('Jun Wu')]","Additive manufacturing of metal parts involves phase transformations and high
+temperature gradients which lead to uneven thermal expansion and contraction,
+and, consequently, distortion of the fabricated components. The distortion has
+a great influence on the structural performance and dimensional accuracy, e.g.,
+for assembly. It is therefore of critical importance to model, predict and,
+ultimately, reduce distortion. In this paper, we present a computational
+framework for fabrication sequence optimization to minimize distortion in
+multi-axis additive manufacturing (e.g., robotic wire arc additive
+manufacturing), in which the fabrication sequence is not limited to planar
+layers only. We encode the fabrication sequence by a continuous pseudo-time
+field, and optimize it using gradient-based numerical optimization. To
+demonstrate this framework, we adopt a computationally tractable yet reasonably
+accurate model to mimic the material shrinkage in metal additive manufacturing
+and thus to predict the distortion of the fabricated components. Numerical
+studies show that optimized curved layers can reduce distortion by orders of
+magnitude as compared to their planar counterparts."
