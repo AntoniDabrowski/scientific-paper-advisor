@@ -1,0 +1,74 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+1553,"Finally, some conclusions and further research are depicted in
+Section 4
+
+                                                                    3
+2 Notation, deﬁnitions
+
+Consider a ﬁnancial market formed by N assets.","Section 3 reports the structure of the empirical ﬁnancial dataset we employed in
+the experimental phase described in Section 3.1.","Let Pjt be the daily closing price of asset j at time t, t = 0, .",2022-02-04 15:41:24+00:00,Evaluating conditional covariance estimates via a new targeting approach and a networks-based analysis,q-fin.PM,"['q-fin.PM', '62M10, 91B84', 'G.2.2; G.3']","[arxiv.Result.Author('Carlo Drago'), arxiv.Result.Author('Andrea Scozzari')]","Modeling and forecasting of dynamically varying covariances have received
+much attention in the literature. The two most widely used conditional
+covariances and correlations models are BEKK and DCC. In this paper, we advance
+a new method to introduce targeting in both models to estimate matrices
+associated with financial time series. Our approach is based on specific groups
+of highly correlated assets in a financial market, and these relationships
+remain unaltered over time. Based on the estimated parameters, we evaluate our
+targeting method on simulated series by referring to two well-known loss
+functions introduced in the literature and Network analysis. We find all the
+maximal cliques in correlation graphs to evaluate the effectiveness of our
+method. Results from an empirical case study are encouraging, mainly when the
+number of assets is not large.",-0.44163334,0.0872389,0.5835604,B_centroid
+1554,"This, therefore, leaves plenty of room for further research.","To conclude, we cannot state whether the modiﬁed models always prevail over the original ones, and much more
+experiments are needed.","On the one hand, one can
+experiment with other loss functions introduced in the log-likelihood objective functions to improve the estimates.",2022-02-04 15:41:24+00:00,Evaluating conditional covariance estimates via a new targeting approach and a networks-based analysis,q-fin.PM,"['q-fin.PM', '62M10, 91B84', 'G.2.2; G.3']","[arxiv.Result.Author('Carlo Drago'), arxiv.Result.Author('Andrea Scozzari')]","Modeling and forecasting of dynamically varying covariances have received
+much attention in the literature. The two most widely used conditional
+covariances and correlations models are BEKK and DCC. In this paper, we advance
+a new method to introduce targeting in both models to estimate matrices
+associated with financial time series. Our approach is based on specific groups
+of highly correlated assets in a financial market, and these relationships
+remain unaltered over time. Based on the estimated parameters, we evaluate our
+targeting method on simulated series by referring to two well-known loss
+functions introduced in the literature and Network analysis. We find all the
+maximal cliques in correlation graphs to evaluate the effectiveness of our
+method. Results from an empirical case study are encouraging, mainly when the
+number of assets is not large.",0.3667642,0.66420436,-0.16544574,C_centroid
+8033,"For further study, identifying the optimized parameter for
+the MACD applied to stocks listed on US stocks market indices becomes critical.","Or is
+the result of misusing parameters?",Figure 1: The scatter plots for the MACDhist strategy.,2022-06-18 11:33:55+00:00,A comparative study of the MACD-base trading strategies: evidence from the US stock market,q-fin.PM,"['q-fin.PM', 'q-fin.GN']",[arxiv.Result.Author('Pat Tong Chio')],"In recent years, more and more investors use technical analysis methods in
+their own trading. Evaluating the effectiveness of technical analysis has
+become more feasible due to increasing computing capability and blooming public
+data, which indie investors can perform stock analysis and backtest their own
+trading strategy conveniently. The Moving Average Convergence Divergence (MACD)
+indicator is one of the popular technical indicators that are widely used in
+different strategies. In order to verify the MACD effectiveness, in this
+thesis, I use the MACD indicator with traditional parameters (12, 26, 9) to
+build various trading strategies. Then, I apply these strategies to stocks
+listed on three indices in the US stock market (i.e., Dow-Jones, Nasdaq, and
+S&P 500) and evaluate its performance in terms of win rate, profitability,
+Sharpe ratio, number of trades and maximum drawdown. The backtesting is
+programmed using Python, covering the period between 01/01/2015 and 28-08-2021.
+The result shows that the win-rate of the strategy with only the MACD indicator
+is less than 50%. However, the win-rate is improved for the trading strategies
+that combine the MACD indicator with other momentum indicators like the Money
+Flow Index (MFI) and the Relative Strength Index (RSI). Based on this result, I
+redesign the MACD mathematical formula by taking the trading volume and daily
+price volatility into consideration to derive a new indicator called VPVMA. The
+results show that the win-rate and risk-adjust performance of this new trading
+strategy have been improved significantly. In general, the findings suggest
+that while all the MACD trading strategies mentioned above can generate
+positive returns, the performance is not good without using other momentum
+indicators. Hence, the VPVMA indicator performs better.",-0.5114111,-0.21452054,-0.513379,B
+10551,"Conclusions and an outlook for further research are presented in
+Section 4.","Section 3 reports details
+on numerical implementation and results.",Appendix A provides a sketch of the proof of the main theorem and its corollary.,2022-08-30 11:11:19+00:00,Constrained portfolios in incomplete markets: a dynamic programming approach to Heston's model,q-fin.PM,"['q-fin.PM', 'math.OC', '91G10 (Primary), 49L20 (Secondary), 90C39 (Secondary)']","[arxiv.Result.Author('Marcos Escobar-Anel'), arxiv.Result.Author('Yevhen Havrylenko'), arxiv.Result.Author('Rudi Zagst')]","We solve an expected utility-maximization problem with terminal-wealth
+constraints via dynamic programming in a setting of incomplete markets due to
+stochastic volatility. We demonstrate that the value function in the
+constrained problem can be represented as an expected modified utility of a
+vega-neutral financial derivative on the optimal unconstrained wealth. The
+optimal wealth and the optimal investment strategy in the constrained problem
+follow similarly. The case of a power utility and a Value-at-Risk constraint is
+treated theoretically in details. In numerical studies, we substantiate the
+impact of risk aversion levels, and investment horizons on the optimal
+investment strategy. We find a 20% relative difference between constrained and
+unconstrained allocations for average parameters in a low risk-aversion,
+short-horizon setting.",0.5862801,-0.5369225,0.09526427,A_centroid
