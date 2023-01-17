@@ -4,6 +4,10 @@ import tensorflow as tf
 from tqdm.auto import tqdm
 import numpy as np
 
+DPRQ_tokenizer = DPRQuestionEncoderTokenizer.from_pretrained("facebook/dpr-question_encoder-single-nq-base")
+DPRQ_model = TFDPRQuestionEncoder.from_pretrained("facebook/dpr-question_encoder-single-nq-base", from_pt=True)
+SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
+
 
 def artificial_padding(documents_tokens):
     max_words = max([documents_token.shape[1] for documents_token in documents_tokens])
@@ -18,19 +22,15 @@ def doc2vec(docs, model='document transformer'):
 
     if model == 'sentence transformer':
         # Loading model
-        SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
-
         embeddings = SentenceTransformerModel.encode(article_bodies)
     elif model == 'document transformer':
-        # Loading model
-        tokenizer = DPRQuestionEncoderTokenizer.from_pretrained("facebook/dpr-question_encoder-single-nq-base")
-        model = TFDPRQuestionEncoder.from_pretrained("facebook/dpr-question_encoder-single-nq-base", from_pt=True)
+        # demonstrational purposes / won't work online
         embeddings = np.array([]).reshape(0, 768)
         for i in tqdm(range(0, len(article_bodies), 50)):
-            embeddings_batch = [tokenizer(article, return_tensors="tf")["input_ids"] for article in
+            embeddings_batch = [DPRQ_tokenizer(article, return_tensors="tf")["input_ids"] for article in
                                 article_bodies[i:i + 50]]
             embeddings_batch = artificial_padding(embeddings_batch)
-            embeddings_batch = model(embeddings_batch).pooler_output.numpy()
+            embeddings_batch = DPRQ_model(embeddings_batch).pooler_output.numpy()
             embeddings = np.vstack([embeddings, embeddings_batch])
     else:
         pass

@@ -1,0 +1,895 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+106,"We think that developing methods for observational settings where
+treatment timing is approximately random, possibly conditional on covariates and lagged
+outcomes, is an interesting area for further study in the years ahead.","Shaikh and Toulis (2021) propose a
+method for observational settings where treatment timing is random conditional on ﬁxed ob-
+servable characteristics.",Sequential random assignment.,2022-01-04 15:21:33+00:00,What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Jonathan Roth'), arxiv.Result.Author(""Pedro H. C. Sant'Anna""), arxiv.Result.Author('Alyssa Bilinski'), arxiv.Result.Author('John Poe')]","This paper synthesizes recent advances in the econometrics of
+difference-in-differences (DiD) and provides concrete recommendations for
+practitioners. We begin by articulating a simple set of ""canonical"" assumptions
+under which the econometrics of DiD are well-understood. We then argue that
+recent advances in DiD methods can be broadly classified as relaxing some
+components of the canonical DiD setup, with a focus on $(i)$ multiple periods
+and variation in treatment timing, $(ii)$ potential violations of parallel
+trends, or $(iii)$ alternative frameworks for inference. Our discussion
+highlights the different ways that the DiD literature has advanced beyond the
+canonical model, and helps to clarify when each of the papers will be relevant
+for empirical work. We conclude by discussing some promising areas for future
+research.",-0.174825,0.6190896,0.34411117,A
+107,"We think that developing methods for observational settings where
+treatment timing is approximately random, possibly conditional on covariates and lagged
+outcomes, is an interesting area for further study in the years ahead.","Shaikh and Toulis (2021) propose a
+method for observational settings where treatment timing is random conditional on ﬁxed ob-
+servable characteristics.","41
+Sequential random assignment.",2022-01-04 15:21:33+00:00,What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Jonathan Roth'), arxiv.Result.Author(""Pedro H. C. Sant'Anna""), arxiv.Result.Author('Alyssa Bilinski'), arxiv.Result.Author('John Poe')]","This paper synthesizes recent advances in the econometrics of
+difference-in-differences (DiD) and provides concrete recommendations for
+practitioners. We begin by articulating a simple set of ""canonical"" assumptions
+under which the econometrics of DiD are well-understood. We then argue that
+recent advances in DiD methods can be broadly classified as relaxing some
+components of the canonical DiD setup, with a focus on $(i)$ multiple periods
+and variation in treatment timing, $(ii)$ potential violations of parallel
+trends, or $(iii)$ alternative frameworks for inference. Our discussion
+highlights the different ways that the DiD literature has advanced beyond the
+canonical model, and helps to clarify when each of the papers will be relevant
+for empirical work. We conclude by discussing some promising areas for future
+research.",-0.17938507,0.6190604,0.34677792,A_centroid
+569,"We further study the performance of the two-step estimator in settings with structural
+breaks of smaller or larger magnitude.","This also means that the most diﬃcult cases (leading to a
+non-rejection of the sequential test’s hypothesis) are not considered for the evaluation of the
+precision of the likelihood-based approach because in columns two to six of Table 2 only those
+cases with the correctly estimated number of breaks can be properly evaluated.","For instance, we apply the factor c = 1.5 to increase
+the break magnitude in Equation (11).",2022-01-14 13:01:58+00:00,Efficiently Detecting Multiple Structural Breaks in Systems of Linear Regression Equations with Integrated and Stationary Regressors,econ.EM,['econ.EM'],[arxiv.Result.Author('Karsten Schweikert')],"In this paper, we propose a two-step procedure based on the group LASSO
+estimator in combination with a backward elimination algorithm to efficiently
+detect multiple structural breaks in linear regressions with multivariate
+responses. Applying the two-step estimator, we jointly detect the number and
+location of change points, and provide consistent estimates of the
+coefficients. Our framework is flexible enough to allow for a mix of integrated
+and stationary regressors, as well as deterministic terms. Using simulation
+experiments, we show that the proposed two-step estimator performs
+competitively against the likelihood-based approach (Qu and Perron, 2007; Li
+and Perron, 2017; Oka and Perron, 2018) when trying to detect common breaks in
+finite samples. However, the two-step estimator is computationally much more
+efficient. An economic application to the identification of structural breaks
+in the term structure of interest rates illustrates this methodology.",0.074210964,-0.256944,0.28618172,B
+570,"We further study the performance of the two-step estimator in settings with structural
+breaks of smaller or larger magnitude.","This also means that the most diﬃcult cases (leading to a
+non-rejection of the sequential test’s hypothesis) are not considered for the evaluation of the
+precision of the likelihood-based approach because in columns two to six of Table 2 only those
+cases with the correctly estimated number of breaks can be properly evaluated.","For instance, we apply the factor c = 1.5 to increase
+the break magnitude in Equation (11).",2022-01-14 13:01:58+00:00,Efficiently Detecting Multiple Structural Breaks in Systems of Linear Regression Equations with Integrated and Stationary Regressors,econ.EM,['econ.EM'],[arxiv.Result.Author('Karsten Schweikert')],"In this paper, we propose a two-step procedure based on the group LASSO
+estimator in combination with a backward elimination algorithm to efficiently
+detect multiple structural breaks in linear regressions with multivariate
+responses. Applying the two-step estimator, we jointly detect the number and
+location of change points, and provide consistent estimates of the
+coefficients. Our framework is flexible enough to allow for a mix of integrated
+and stationary regressors, as well as deterministic terms. Using simulation
+experiments, we show that the proposed two-step estimator performs
+competitively against the likelihood-based approach (Qu and Perron, 2007; Li
+and Perron, 2017; Oka and Perron, 2018) when trying to detect common breaks in
+finite samples. However, the two-step estimator is computationally much more
+efficient. An economic application to the identification of structural breaks
+in the term structure of interest rates illustrates this methodology.",0.074210964,-0.256944,0.28618172,B
+692,"How many moment constraints to incorporate in the
+maximum entropy problem, and of what type, is a question worthy of further research.","In particular, the
+functional specification of the moment constraints used in the definition of the ET statistic
+deserves further exploration.","In
+addition, rather than converting composite hypotheses to simple hypotheses through
+sample data transformations, as illustrated in this paper, the possibility of formulating an
+ET statistic that applies to composite hypotheses directly is worth contemplating.",2022-01-17 22:29:04+00:00,An Entropy-Based Approach for Nonparametrically Testing Simple Probability Distribution Hypotheses,econ.EM,['econ.EM'],"[arxiv.Result.Author('Ron Mittelhammer'), arxiv.Result.Author('George Judge'), arxiv.Result.Author('Miguel Henry')]","In this paper, we introduce a flexible and widely applicable nonparametric
+entropy-based testing procedure that can be used to assess the validity of
+simple hypotheses about a specific parametric population distribution. The
+testing methodology relies on the characteristic function of the population
+probability distribution being tested and is attractive in that, regardless of
+the null hypothesis being tested, it provides a unified framework for
+conducting such tests. The testing procedure is also computationally tractable
+and relatively straightforward to implement. In contrast to some alternative
+test statistics, the proposed entropy test is free from user-specified kernel
+and bandwidth choices, idiosyncratic and complex regularity conditions, and/or
+choices of evaluation grids. Several simulation exercises were performed to
+document the empirical performance of our proposed test, including a regression
+example that is illustrative of how, in some contexts, the approach can be
+applied to composite hypothesis-testing situations via data transformations.
+Overall, the testing procedure exhibits notable promise, exhibiting appreciable
+increasing power as sample size increases for a number of alternative
+distributions when contrasted with hypothesized null distributions. Possible
+general extensions of the approach to composite hypothesis-testing contexts,
+and directions for future work are also discussed.",-0.04354278,-0.13226789,-0.09160186,B
+1267,"We further study nonparametric and
+high-dimensional adjustments and provide conditions under which they are weakly more eﬃcient
+than all the other adjusted estimators considered in this paper and are as if the correctly speciﬁed
+regression adjustments are used.","We fur-
+ther construct a new estimator which combines the linearly and nonlinearly adjusted estimators,
+and show it is weakly more than both as well as the one without any adjustments, i.e., the fully
+saturated estimator proposed by Bugni and Gao (2021).","The ﬁnal contribution of the paper is to provide simulation evidence and empirical support for
+the eﬃciency gains achieved by our regression-adjusted LATE estimator.",2022-01-31 05:37:28+00:00,Regression Adjustments under Covariate-Adaptive Randomizations with Imperfect Compliance,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Liang Jiang'), arxiv.Result.Author('Oliver B. Linton'), arxiv.Result.Author('Haihan Tang'), arxiv.Result.Author('Yichong Zhang')]","We study regression adjustments with additional covariates in randomized
+experiments under covariate-adaptive randomizations (CARs) when subject
+compliance is imperfect. We develop a regression-adjusted local average
+treatment effect (LATE) estimator that is proven to improve efficiency in the
+estimation of LATEs under CARs. Our adjustments can be parametric in linear and
+nonlinear forms, nonparametric, and high-dimensional. Even when the adjustments
+are misspecified, our proposed estimator is still consistent and asymptotically
+normal, and their inference method still achieves the exact asymptotic size
+under the null. When the adjustments are correctly specified, our estimator
+achieves the minimum asymptotic variance. When the adjustments are
+parametrically misspecified, we construct a new estimator which is weakly more
+efficient than linearly and nonlinearly adjusted estimators, as well as the one
+without any adjustments. Simulation evidence and empirical application confirm
+efficiency gains achieved by regression adjustments relative to both the
+estimator without adjustment and the standard two-stage least squares
+estimator.",-0.37507617,-0.2784801,0.090131566,B_centroid
+1268,"We further study nonparametric and
+high-dimensional adjustments and provide conditions under which they are weakly more eﬃcient
+than all the other adjusted estimators considered in this paper and are as if the correctly speciﬁed
+regression adjustments are used.","We further
+construct a new estimator which combines the linearly and nonlinearly adjusted estimators, and
+show it is weakly more eﬃcient than both as well as the one without any adjustments, i.e., the
+fully saturated estimator proposed by Bugni and Gao (2021).","The ﬁnal contribution of the paper is to provide simulation evidence and empirical support for
+the eﬃciency gains achieved by our regression-adjusted LATE estimator.",2022-01-31 05:37:28+00:00,Regression Adjustments under Covariate-Adaptive Randomizations with Imperfect Compliance,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Liang Jiang'), arxiv.Result.Author('Oliver B. Linton'), arxiv.Result.Author('Haihan Tang'), arxiv.Result.Author('Yichong Zhang')]","We study regression adjustments with additional covariates in randomized
+experiments under covariate-adaptive randomizations (CARs) when subject
+compliance is imperfect. We develop a regression-adjusted local average
+treatment effect (LATE) estimator that is proven to improve efficiency in the
+estimation of LATEs under CARs. Our adjustments can be parametric in linear and
+nonlinear forms, nonparametric, and high-dimensional. Even when the adjustments
+are misspecified, our proposed estimator is still consistent and asymptotically
+normal, and their inference method still achieves the exact asymptotic size
+under the null. When the adjustments are correctly specified, our estimator
+achieves the minimum asymptotic variance. When the adjustments are
+parametrically misspecified, we construct a new estimator which is weakly more
+efficient than linearly and nonlinearly adjusted estimators, as well as the one
+without any adjustments. Simulation evidence and empirical application confirm
+efficiency gains achieved by regression adjustments relative to both the
+estimator without adjustment and the standard two-stage least squares
+estimator.",-0.3599844,-0.27814668,0.094935484,B
+1269,"We further study the nonparametric and high-dimensional adjustments
+which are completely new to these two papers.","It is also guaranteed to
+be weakly more eﬃcient than the 2SLS estimator with control variables which is commonly used
+in empirical researches.","Ren and Liu (2021) studied the regression-adjusted
+LATE estimator in completely randomized experiments for a binary outcome using the ﬁnite pop-
+ulation asymptotics.",2022-01-31 05:37:28+00:00,Regression Adjustments under Covariate-Adaptive Randomizations with Imperfect Compliance,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Liang Jiang'), arxiv.Result.Author('Oliver B. Linton'), arxiv.Result.Author('Haihan Tang'), arxiv.Result.Author('Yichong Zhang')]","We study regression adjustments with additional covariates in randomized
+experiments under covariate-adaptive randomizations (CARs) when subject
+compliance is imperfect. We develop a regression-adjusted local average
+treatment effect (LATE) estimator that is proven to improve efficiency in the
+estimation of LATEs under CARs. Our adjustments can be parametric in linear and
+nonlinear forms, nonparametric, and high-dimensional. Even when the adjustments
+are misspecified, our proposed estimator is still consistent and asymptotically
+normal, and their inference method still achieves the exact asymptotic size
+under the null. When the adjustments are correctly specified, our estimator
+achieves the minimum asymptotic variance. When the adjustments are
+parametrically misspecified, we construct a new estimator which is weakly more
+efficient than linearly and nonlinearly adjusted estimators, as well as the one
+without any adjustments. Simulation evidence and empirical application confirm
+efficiency gains achieved by regression adjustments relative to both the
+estimator without adjustment and the standard two-stage least squares
+estimator.",-0.3846557,-0.039425578,0.16586277,B
+1329,"Therefore, further research is needed to propose suitable statistical methodologies that take into consid-
+eration these challenges, especially when testing for the presence of a structural break in nonstationary
+time series models.","In particular, despite the large availability of macroeconomic and ﬁnancial variables which can be
+included as regressors in predictive regressions (such as ﬁnancial ratios, diﬀusion indices, fundamentals),
+practitioners have no prior knowledge regarding the persistence properties of predictors so conventional
+estimation and inference methods for model parameters, such as predictability tests, forecast evaluation
+tests as well as structural break testing require to handle the nuisance parameter of persistent.","Practically, the extension of structural break tests in nonstationary time series models,
+such as predictive regressions, which are particularly useful when information regarding the time series
+properties of regressors is not lost by taking the ﬁrst diﬀerence for instance, is crucial for both theoretical
+and empirical studies.",2022-01-31 23:10:30+00:00,Partial Sum Processes of Residual-Based and Wald-type Break-Point Statistics in Time Series Regression Models,econ.EM,['econ.EM'],[arxiv.Result.Author('Christis Katsouris')],"We revisit classical asymptotics when testing for a structural break in
+linear regression models by obtaining the limit theory of residual-based and
+Wald-type processes. First, we establish the Brownian bridge limiting
+distribution of these test statistics. Second, we study the asymptotic
+behaviour of the partial-sum processes in nonstationary (linear) time series
+regression models. Although, the particular comparisons of these two different
+modelling environments is done from the perspective of the partial-sum
+processes, it emphasizes that the presence of nuisance parameters can change
+the asymptotic behaviour of the functionals under consideration. Simulation
+experiments verify size distortions when testing for a break in nonstationary
+time series regressions which indicates that the Brownian bridge limit cannot
+provide a suitable asymptotic approximation in this case. Further research is
+required to establish the cause of size distortions under the null hypothesis
+of parameter stability.",0.4051748,-0.2815044,0.47108757,C_centroid
+1330,"Therefore, further research is needed to propose suitable statistical methodologies that take into consid-
+eration these challenges, especially when testing for the presence of a structural break in nonstationary
+time series models.","In particular, despite the large availability of macroeconomic and ﬁnancial variables which can be
+included as regressors in predictive regressions (such as ﬁnancial ratios, diﬀusion indices, fundamentals),
+practitioners have no prior knowledge regarding the persistence properties of predictors so conventional
+estimation and inference methods for model parameters, such as predictability tests, forecast evaluation
+tests as well as structural break testing require to handle the nuisance parameter of persistent.","Practically, the extension of structural break tests in nonstationary time series models,
+such as predictive regressions, which are particularly useful when information regarding the time series
+properties of regressors is not lost by taking the ﬁrst diﬀerence for instance, is crucial for both theoretical
+and empirical studies.",2022-01-31 23:10:30+00:00,Partial Sum Processes of Residual-Based and Wald-type Break-Point Statistics in Time Series Regression Models,econ.EM,['econ.EM'],[arxiv.Result.Author('Christis Katsouris')],"We revisit classical asymptotics when testing for a structural break in
+linear regression models by obtaining the limit theory of residual-based and
+Wald-type processes. First, we establish the Brownian bridge limiting
+distribution of these test statistics. Second, we study the asymptotic
+behaviour of the partial-sum processes in nonstationary (linear) time series
+regression models. Although, the particular comparisons of these two different
+modelling environments is done from the perspective of the partial-sum
+processes, it emphasizes that the presence of nuisance parameters can change
+the asymptotic behaviour of the functionals under consideration. Simulation
+experiments verify size distortions when testing for a break in nonstationary
+time series regressions which indicates that the Brownian bridge limit cannot
+provide a suitable asymptotic approximation in this case. Further research is
+required to establish the cause of size distortions under the null hypothesis
+of parameter stability.",0.4051748,-0.2815044,0.47108757,C
+1748,"Kline and Tamer (2016) further study this
+approach and Kitagawa (2011) obtain related results under multiple priors for set identiﬁed
+parameters.","Norets and Tang (2013)
+point out in their Section 3.2 that Bayesian and classical inference results can be reconciled
+if inference is performed on the identiﬁed sets.","In this subsection, we describe how credible and conﬁdence sets for identiﬁed
+sets can be deﬁned and computed from the output of our MCMC algorithm.",2022-02-09 08:51:37+00:00,Semiparametric Bayesian Estimation of Dynamic Discrete Choice Models,econ.EM,['econ.EM'],"[arxiv.Result.Author('Andriy Norets'), arxiv.Result.Author('Kenichi Shimizu')]","We propose a tractable semiparametric estimation method for dynamic discrete
+choice models.The distribution of additive utility shocks is modeled by
+location-scale mixtures of extreme value distributions with varying numbers of
+mixture components. Our approach exploits the analytical tractability of
+extreme value distributions and the flexibility of the location-scale mixtures.
+We implement the Bayesian approach to inference using Hamiltonian Monte Carlo
+and an approximately optimal reversible jump algorithm. For binary dynamic
+choice model, our approach delivers estimation results that are consistent with
+the previous literature. We also apply the proposed method to multinomial
+choice models, for which previous literature does not provide tractable
+estimation methods in general settings without distributional assumptions on
+the utility shocks. In our simulation experiments, we show that the standard
+dynamic logit model can deliver misleading results, especially about
+counterfactuals, when the shocks are not extreme value distributed. Our
+semiparametric approach delivers reliable inference in these settings. We
+develop theoretical results on approximations by location-scale mixtures in an
+appropriate distance and posterior concentration of the set identified utility
+parameters and the distribution of shocks in the model.",-0.10772537,0.20462534,-0.19669843,A
+1816,We suggest that there are several directions for further research.,"In characterising the limiting behaviour of our chosen measures
+of divergence, we provide results that are useful for the theoretical development of econometric
+methods, especially those that involve penalisation.","Firstly, the von Mises-Fisher
+family is highly restrictive.",2022-02-10 17:50:21+00:00,von Mises-Fisher distributions and their statistical divergence,econ.EM,['econ.EM'],"[arxiv.Result.Author('Toru Kitagawa'), arxiv.Result.Author('Jeff Rowley')]","The von Mises-Fisher family is a parametric family of distributions on the
+surface of the unit ball, summarised by a concentration parameter and a mean
+direction. As a quasi-Bayesian prior, the von Mises-Fisher distribution is a
+convenient and parsimonious choice when parameter spaces are isomorphic to the
+hypersphere (e.g., maximum score estimation in semi-parametric discrete choice,
+estimation of single-index treatment assignment rules via empirical welfare
+maximisation, under-identifying linear simultaneous equation models). Despite a
+long history of application, measures of statistical divergence have not been
+analytically characterised for von Mises-Fisher distributions. This paper
+provides analytical expressions for the $f$-divergence of a von Mises-Fisher
+distribution from another, distinct, von Mises-Fisher distribution in
+$\mathbb{R}^p$ and the uniform distribution over the hypersphere. This paper
+also collect several other results pertaining to the von Mises-Fisher family of
+distributions, and characterises the limiting behaviour of the measures of
+divergence that we consider.",-0.03598944,-0.22738972,-0.25152522,B
+1817,We suggest that there are several directions for further research.,"In characterising the limiting behaviour of our chosen measures
+of divergence, we provide results that are useful for the theoretical development of econometric
+methods, especially those that involve penalisation.","Firstly, the von Mises-Fisher
+family is highly restrictive.",2022-02-10 17:50:21+00:00,von Mises-Fisher distributions and their statistical divergence,econ.EM,['econ.EM'],"[arxiv.Result.Author('Toru Kitagawa'), arxiv.Result.Author('Jeff Rowley')]","The von Mises-Fisher family is a parametric family of distributions on the
+surface of the unit ball, summarised by a concentration parameter and a mean
+direction. As a quasi-Bayesian prior, the von Mises-Fisher distribution is a
+convenient and parsimonious choice when parameter spaces are isomorphic to the
+hypersphere (e.g., maximum score estimation in semi-parametric discrete choice,
+estimation of single-index treatment assignment rules via empirical welfare
+maximisation, under-identifying linear simultaneous equation models). Despite a
+long history of application, measures of statistical divergence have not been
+analytically characterised for von Mises-Fisher distributions. This paper
+provides analytical expressions for the $f$-divergence of a von Mises-Fisher
+distribution from another, distinct, von Mises-Fisher distribution in
+$\mathbb{R}^p$ and the uniform distribution over the hypersphere. This paper
+also collect several other results pertaining to the von Mises-Fisher family of
+distributions, and characterises the limiting behaviour of the measures of
+divergence that we consider.",-0.03598944,-0.22738972,-0.25152522,B
+2891,"We further study the time-varying exposures of the 10% ES of the industry returns
+to the Fama-French 5 factors.","The
+results highlight the diﬀerent dynamics between the risk measures and the means or
+quantiles of returns and the importance of the factors in capturing the variations of
+the risk measures of the portfolio returns.","The period used for estimation is the past twenty years
+and we roll the estimation period every year.",2022-03-06 19:06:53+00:00,Weighted-average quantile regression,econ.EM,"['econ.EM', 'stat.ML', '62J02']","[arxiv.Result.Author('Denis Chetverikov'), arxiv.Result.Author('Yukun Liu'), arxiv.Result.Author('Aleh Tsyvinski')]","In this paper, we introduce the weighted-average quantile regression
+framework, $\int_0^1 q_{Y|X}(u)\psi(u)du = X'\beta$, where $Y$ is a dependent
+variable, $X$ is a vector of covariates, $q_{Y|X}$ is the quantile function of
+the conditional distribution of $Y$ given $X$, $\psi$ is a weighting function,
+and $\beta$ is a vector of parameters. We argue that this framework is of
+interest in many applied settings and develop an estimator of the vector of
+parameters $\beta$. We show that our estimator is $\sqrt T$-consistent and
+asymptotically normal with mean zero and easily estimable covariance matrix,
+where $T$ is the size of available sample. We demonstrate the usefulness of our
+estimator by applying it in two empirical settings. In the first setting, we
+focus on financial data and study the factor structures of the expected
+shortfalls of the industry portfolios. In the second setting, we focus on wage
+data and study inequality and social welfare dependence on commonly used
+individual characteristics.",0.10813296,-0.102082774,-0.017222285,C
+2892,This is an area that merits further research.,"9It brings our theory close to Gilbert Harman’s “Inference to the best explanation” idea; see Harman
+(1965).","10Glomerular ﬁltration rate (GFR) measures how much blood is ﬁltered through the kidney to remove
+excess wastes and ﬂuids.",2022-03-06 20:05:07+00:00,Modelplasticity and Abductive Decision Making,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Subhadeep'), arxiv.Result.Author('Mukhopadhyay')]","`All models are wrong but some are useful' (George Box 1979). But, how to
+find those useful ones starting from an imperfect model? How to make informed
+data-driven decisions equipped with an imperfect model? These fundamental
+questions appear to be pervasive in virtually all empirical fields -- including
+economics, finance, marketing, healthcare, climate change, defense planning,
+and operations research. This article presents a modern approach (builds on two
+core ideas: abductive thinking and density-sharpening principle) and practical
+guidelines to tackle these issues in a systematic manner.",-0.060023554,0.26956573,-0.0006449111,A
+2942,"Following our analysis,
+                                                                           and besides promoting further research and applications in-
+                                                                           volving Bayesian deep learning methods, future research might
+                                                                           explore to which extent posterior probabilities lead to better
+                                                                           uncertainty-informed trades, e.g.","The paper discusses how to make use and
+                                                                           interpret predictive probabilities, providing insights on their
+                                                                           implication in the decision process.","by applying and comparing
+                                                                           Bayesian and non-Bayesian models for constructing actionable
+                                                                           trading strategies, veriﬁed with robust back-testing procedures.",2022-03-07 18:59:54+00:00,Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets,econ.EM,"['econ.EM', 'stat.ML']","[arxiv.Result.Author('Martin Magris'), arxiv.Result.Author('Mostafa Shabani'), arxiv.Result.Author('Alexandros Iosifidis')]","The prediction of financial markets is a challenging yet important task. In
+modern electronically-driven markets traditional time-series econometric
+methods often appear incapable of capturing the true complexity of the
+multi-level interactions driving the price dynamics. While recent research has
+established the effectiveness of traditional machine learning (ML) models in
+financial applications, their intrinsic inability in dealing with
+uncertainties, which is a great concern in econometrics research and real
+business applications, constitutes a major drawback. Bayesian methods naturally
+appear as a suitable remedy conveying the predictive ability of ML methods with
+the probabilistically-oriented practice of econometric research. By adopting a
+state-of-the-art second-order optimization algorithm, we train a Bayesian
+bilinear neural network with temporal attention, suitable for the challenging
+time-series task of predicting mid-price movements in ultra-high-frequency
+limit-order book markets. By addressing the use of predictive distributions to
+analyze errors and uncertainties associated with the estimated parameters and
+model forecasts, we thoroughly compare our Bayesian model with traditional ML
+alternatives. Our results underline the feasibility of the Bayesian deep
+learning approach and its predictive and decisional advantages in complex
+econometric tasks, prompting future research in this direction.",0.15828091,0.16816692,-0.23720637,C
+3420,"We leave these questions for
+further research.","Sec-
+ond, how do the new estimators compare to existing methods requiring the number
+of groups to be known or when covariates are included?","17
+References
+
+Acemoglu, D., Johnson, S., Robinson, J.",2022-03-16 18:50:22+00:00,Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models,econ.EM,['econ.EM'],[arxiv.Result.Author('Martin Mugnier')],"Novel estimators are proposed for linear grouped fixed effects models. Rather
+than predicting a single grouping of units, they deliver a collection of
+groupings with the same flavor as the so-called LASSO regularization path. Mild
+conditions are found that ensure their asymptotic guarantees are the same as
+the so-called grouped fixed effects and post-spectral estimators (Bonhomme and
+Manresa, 2015; Chetverikov and Manresa, 2021). In contrast, the new estimators
+are computationally straightforward and do not require prior knowledge of the
+number of groups. Monte Carlo simulations suggest good finite sample
+performance. Applying the approach to real data provides new insights on the
+potential network structure of the unobserved heterogeneity.",-0.3799009,-0.012078416,0.031219129,B
+3421,We leave these questions for further research.,"Second, how do the new estimators perform in ﬁnite sample relative to alternative
+existing methods requiring the number of groups to be known or when covariates are
+included?","17
+References
+
+Acemoglu, D., Johnson, S., Robinson, J.",2022-03-16 18:50:22+00:00,Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models,econ.EM,['econ.EM'],[arxiv.Result.Author('Martin Mugnier')],"Novel estimators are proposed for linear grouped fixed effects models. Rather
+than predicting a single grouping of units, they deliver a collection of
+groupings with the same flavor as the so-called Lasso regularization path. Mild
+conditions are found that ensure their asymptotic guarantees are the same as
+the so-called grouped fixed effects and post-spectral estimators (Bonhomme and
+Manresa, 2015; Chetverikov and Manresa, 2021). In contrast, the new estimators
+are computationally straightforward and do not require prior knowledge of the
+number of groups. Monte Carlo simulations suggest good finite sample
+performance. Applying the approach to real data provides new insights on the
+potential network structure of the unobserved heterogeneity.",-0.41093367,-0.05654717,0.00088721886,B
+4304,"Given the way of solving the numerical issue of the RL model, there are a number of open
+and potentially valuable research directions for further study.","It
+has been necessary to develop a method that is able to analyze the attractiveness having positive
+eﬀects on pedestrians’ behavior, and our proposed method can also be considered as a signiﬁcant
+contribution in such a context.","Recursive modeling of behavior
+is a general framework, and its application is not limited to route choice behavior.",2022-04-04 02:49:25+00:00,Capturing positive utilities during the estimation of recursive logit models: A prism-based approach,econ.EM,"['econ.EM', 'cs.LG']",[arxiv.Result.Author('Yuki Oyama')],"Although the recursive logit (RL) model has been recently popular and has led
+to many applications and extensions, an important numerical issue with respect
+to the evaluation of value functions remains unsolved. This issue is
+particularly significant for model estimation, during which the parameters are
+updated every iteration and may violate the model feasible condition. To solve
+this numerical issue, this paper proposes a prism-constrained RL (Prism-RL)
+model that implicitly restricts the path set by the prism constraint defined
+based upon a state-extended network representation. Providing a set of
+numerical experiments, we show that the Prism-RL model succeeds in the stable
+estimation regardless of the initial and true parameter values and is able to
+capture positive utilities. In the real application to a pedestrian network, we
+found the positive effect of street green presence on pedestrians. Moreover,
+the Prism-RL model achieved higher goodness of fit than the RL model, implying
+that the Prism-RL model can also describe more realistic route choice behavior.",0.2724146,0.4352919,-0.44947982,A
+4305,"Having a way of solving the numerical issue of the RL model, we consider many open and
+potentially valuable research directions for further study.","Because most previous studies used a classical route choice model that
+requires path enumeration, e.g., the path-size logit model (Ben-Akiva and Bierlaire, 1999), it is
+an interesting topic for future research to use the Prism-RL model for a more detailed analysis
+on pedestrian route choice and compare it with the ﬁndings in the literature.","Recursive modeling of behavior is a
+general framework, and its application is not limited to route choice analysis.",2022-04-04 02:49:25+00:00,Capturing positive network attributes during the estimation of recursive logit models: A prism-based approach,econ.EM,"['econ.EM', 'cs.LG']",[arxiv.Result.Author('Yuki Oyama')],"Although the recursive logit (RL) model has been recently popular and has led
+to many applications and extensions, an important numerical issue with respect
+to the computation of value functions remains unsolved. This issue is
+particularly significant for model estimation, during which the parameters are
+updated every iteration and may violate the model feasible condition. To solve
+this numerical issue of the value function in the model estimation, this study
+performs an extensive analysis of a prism-constrained RL (Prism-RL) model
+proposed by Oyama and Hato (2019), which has a path set constrained by the
+prism defined based upon a state-extended network representation. The numerical
+experiments have shown two important properties of the Prism-RL model for
+parameter estimation. First, the prism-based approach allows for a stable
+estimation regardless of the initial and true parameter values, even in cases
+where the original RL model cannot be estimated. We also successfully captured
+a positive effect of the presence of street green on pedestrian route choice in
+a real application. Second, the Prism-RL model achieved higher goodness of fit
+and prediction performance than the RL model, by implicitly restricting paths
+with large detour or many loops. Defining the prism-based path set in a data
+oriented manner, we demonstrated the possibility of the Prism-RL model
+describing more realistic route choice behavior. Stable capture of positive
+network attributes while retaining the diversity of path alternatives
+significantly extends the practical applicability of the RL model.",0.18660368,0.498081,-0.37975663,A
+4417,"2
+in treatment eﬀects and heterogeneity in untreated outcomes that motivate further research questions.","In the last section, I
+revisit Lutz (2011) that studies the eﬀect of the district court rulings on school desegregation plans in US on
+school desegregation and ﬁnd that the suggested method shows us interesting patterns between heterogeneity
+
+     1The term ‘selection bias’ can be used in diﬀerent contexts but in this paper, what I refer to as the selection bias is the
+selection into treatment.","In addition to the treatment timing being random conditional upon a latent variable, I also assume
+
+that the type variable has a ﬁnite support.",2022-04-05 16:58:53+00:00,Finitely Heterogeneous Treatment Effect in Event-study,econ.EM,['econ.EM'],[arxiv.Result.Author('Myungkou Shin')],"Treatment effect estimation strategies in the event-study setup, namely a
+panel data with variation in treatment timing, often use the parallel trend
+assumption that assumes mean independence across different treatment timings.
+In this paper, I relax the parallel trend assumption by including a latent type
+variable and develop a conditional two-way fixed-effects model. With finite
+support assumption on the latent type variable, I show that an extremum
+classifier consistently estimates the type assignment. Firstly, I solve the
+endogeneity problem of the selection into treatment by conditioning on the
+latent type, through which the treatment timing is correlated with the outcome.
+Secondly, as the type assignment is explicitly estimated, further heterogeneity
+than the usual unit fixed-effects across units can be documented; treatment is
+allowed to affect units of different types differently and the variation in
+treatment effect is documented jointly with the variation in untreated outcome.",-0.36825714,0.38091856,0.17040262,A
+5920,"In section 5, I summarize and
+discuss some extensions for further research.",Section 4 describes the estimation method.,"2 Model
+
+I present a framework that includes both storable and durable diﬀerentiated products.",2022-05-08 20:35:57+00:00,Dynamic demand for differentiated products with fixed-effects unobserved heterogeneity,econ.EM,['econ.EM'],[arxiv.Result.Author('Victor Aguirregabiria')],"This paper studies identification and estimation of a dynamic discrete choice
+model of demand for differentiated product using consumer-level panel data with
+few purchase events per consumer (i.e., short panel). Consumers are
+forward-looking and their preferences incorporate two sources of dynamics: last
+choice dependence due to habits and switching costs, and duration dependence
+due to inventory, depreciation, or learning. A key distinguishing feature of
+the model is that consumer unobserved heterogeneity has a Fixed Effects (FE)
+structure -- that is, its probability distribution conditional on the initial
+values of endogenous state variables is unrestricted. I apply and extend recent
+results to establish the identification of all the structural parameters as
+long as the dataset includes four or more purchase events per household. The
+parameters can be estimated using a sufficient statistic - conditional maximum
+likelihood (CML) method. An attractive feature of CML in this model is that the
+sufficient statistic controls for the forward-looking value of the consumer's
+decision problem such that the method does not require solving dynamic
+programming problems or calculating expected present values.",0.09505547,-0.10252637,-0.33533597,B
+5921,Several extensions of the results in this paper are interesting topics for further research.,"I apply and extend recent results from Aguirregabiria,
+Gu, and Luo (2021) to establish the identiﬁcation of all structural parameters in this model.","First, an important motivation for the estimation of structural models is using them for coun-
+terfactual experiments that consist in evaluating the eﬀects on agents’ behavior of hypothetical
+changes in structural parameters or/and exogenous variables.",2022-05-08 20:35:57+00:00,Dynamic demand for differentiated products with fixed-effects unobserved heterogeneity,econ.EM,['econ.EM'],[arxiv.Result.Author('Victor Aguirregabiria')],"This paper studies identification and estimation of a dynamic discrete choice
+model of demand for differentiated product using consumer-level panel data with
+few purchase events per consumer (i.e., short panel). Consumers are
+forward-looking and their preferences incorporate two sources of dynamics: last
+choice dependence due to habits and switching costs, and duration dependence
+due to inventory, depreciation, or learning. A key distinguishing feature of
+the model is that consumer unobserved heterogeneity has a Fixed Effects (FE)
+structure -- that is, its probability distribution conditional on the initial
+values of endogenous state variables is unrestricted. I apply and extend recent
+results to establish the identification of all the structural parameters as
+long as the dataset includes four or more purchase events per household. The
+parameters can be estimated using a sufficient statistic - conditional maximum
+likelihood (CML) method. An attractive feature of CML in this model is that the
+sufficient statistic controls for the forward-looking value of the consumer's
+decision problem such that the method does not require solving dynamic
+programming problems or calculating expected present values.",0.20416403,-0.047786128,0.06881369,C
+5922,"In section 5, I summarize and
+discuss some extensions for further research.",Section 4 describes the estimation method.,"2 Model
+
+I present a framework that includes both storable and durable diﬀerentiated products.",2022-05-08 20:35:57+00:00,Dynamic demand for differentiated products with fixed-effects unobserved heterogeneity,econ.EM,['econ.EM'],[arxiv.Result.Author('Victor Aguirregabiria')],"This paper studies identification and estimation of a dynamic discrete choice
+model of demand for differentiated product using consumer-level panel data with
+few purchase events per consumer (i.e., short panel). Consumers are
+forward-looking and their preferences incorporate two sources of dynamics: last
+choice dependence due to habits and switching costs, and duration dependence
+due to inventory, depreciation, or learning. A key distinguishing feature of
+the model is that consumer unobserved heterogeneity has a Fixed Effects (FE)
+structure -- that is, its probability distribution conditional on the initial
+values of endogenous state variables is unrestricted. I apply and extend recent
+results to establish the identification of all the structural parameters as
+long as the dataset includes four or more purchase events per household. The
+parameters can be estimated using a sufficient statistic - conditional maximum
+likelihood (CML) method. An attractive feature of CML in this model is that the
+sufficient statistic controls for the forward-looking value of the consumer's
+decision problem such that the method does not require solving dynamic
+programming problems or calculating expected present values.",0.09505547,-0.10252637,-0.33533597,B
+5923,"Establishing identiﬁcation of this, more ﬂexible, model of habit
+formation in this Fixed Eﬀects framework is an interesting topic for further research.","More generally, following the
+seminal work by Guadagni and Little (1983), the model can include a habits (brand loyalty)
+
+9
+stock variable for each product, where the stock depreciates with a certain rate and increases
+when the product is purchased.",(iv) Extreme value distributed shocks in preferences.,2022-05-08 20:35:57+00:00,Dynamic demand for differentiated products with fixed-effects unobserved heterogeneity,econ.EM,['econ.EM'],[arxiv.Result.Author('Victor Aguirregabiria')],"This paper studies identification and estimation of a dynamic discrete choice
+model of demand for differentiated product using consumer-level panel data with
+few purchase events per consumer (i.e., short panel). Consumers are
+forward-looking and their preferences incorporate two sources of dynamics: last
+choice dependence due to habits and switching costs, and duration dependence
+due to inventory, depreciation, or learning. A key distinguishing feature of
+the model is that consumer unobserved heterogeneity has a Fixed Effects (FE)
+structure -- that is, its probability distribution conditional on the initial
+values of endogenous state variables is unrestricted. I apply and extend recent
+results to establish the identification of all the structural parameters as
+long as the dataset includes four or more purchase events per household. The
+parameters can be estimated using a sufficient statistic - conditional maximum
+likelihood (CML) method. An attractive feature of CML in this model is that the
+sufficient statistic controls for the forward-looking value of the consumer's
+decision problem such that the method does not require solving dynamic
+programming problems or calculating expected present values.",0.3643927,0.09416645,-0.23475844,C
+5924,Several extensions of the results in this paper are interesting topics for further research.,"I apply and extend recent results from Aguirregabiria,
+Gu, and Luo (2021) to establish the identiﬁcation of all structural parameters in this model.","First, the speciﬁcation of the sources of demand dynamics in the model of this paper is
+restrictive.",2022-05-08 20:35:57+00:00,Dynamic demand for differentiated products with fixed-effects unobserved heterogeneity,econ.EM,['econ.EM'],[arxiv.Result.Author('Victor Aguirregabiria')],"This paper studies identification and estimation of a dynamic discrete choice
+model of demand for differentiated product using consumer-level panel data with
+few purchase events per consumer (i.e., short panel). Consumers are
+forward-looking and their preferences incorporate two sources of dynamics: last
+choice dependence due to habits and switching costs, and duration dependence
+due to inventory, depreciation, or learning. A key distinguishing feature of
+the model is that consumer unobserved heterogeneity has a Fixed Effects (FE)
+structure -- that is, its probability distribution conditional on the initial
+values of endogenous state variables is unrestricted. I apply and extend recent
+results to establish the identification of all the structural parameters as
+long as the dataset includes four or more purchase events per household. The
+parameters can be estimated using a sufficient statistic - conditional maximum
+likelihood (CML) method. An attractive feature of CML in this model is that the
+sufficient statistic controls for the forward-looking value of the consumer's
+decision problem such that the method does not require solving dynamic
+programming problems or calculating expected present values.",0.41625458,-0.08392226,-0.14386794,C
+5927,"However this is not a trivial extension, and we leave it for
+further research.","It is possible to
+extend their analysis to our time-series setting and assess whether or not the rate shown in
+Theorem 5.3 can be improved.","5.3.2 Estimation of propensity scores
+
+In this subsection, we brieﬂy review various methods of estimating propensity score functions.",2022-05-08 23:22:35+00:00,Policy Choice in Time Series by Empirical Welfare Maximization,econ.EM,['econ.EM'],"[arxiv.Result.Author('Toru Kitagawa'), arxiv.Result.Author('Weining Wang'), arxiv.Result.Author('Mengshan Xu')]","This paper develops a novel method for policy choice in a dynamic setting
+where the available data is a multivariate time series. Building on the
+statistical treatment choice framework, we propose Time-series Empirical
+Welfare Maximization (T-EWM) methods to estimate an optimal policy rule for the
+current period or over multiple periods by maximizing an empirical welfare
+criterion constructed using nonparametric potential outcome time-series. We
+characterize conditions under which T-EWM consistently learns a policy choice
+that is optimal in terms of conditional welfare given the time-series history.
+We then derive a nonasymptotic upper bound for conditional welfare regret and
+its minimax lower bound. To illustrate the implementation and uses of T-EWM, we
+perform simulation studies and apply the method to estimate optimal monetary
+policy rules from macroeconomic time-series data.",-0.15193394,-0.006901957,0.17762727,B
+6653,Some related topics are worth further study.,"An application to the FRED-MD dataset demonstrates the poten-
+tial of using many time series with our method for quick detection of business cycle
+turning points.","First, it would be interesting to see
+the performance of the portfolio constructed using regime speciﬁc loadings, and how
+the identiﬁed regime is related to exogenous variables such as market volatility and
+money growth.",2022-05-24 14:57:58+00:00,Estimation and Inference for High Dimensional Factor Model with Regime Switching,econ.EM,['econ.EM'],"[arxiv.Result.Author('Giovanni Urga'), arxiv.Result.Author('Fa Wang')]","This paper proposes maximum (quasi)likelihood estimation for high dimensional
+factor models with regime switching in the loadings. The model parameters are
+estimated jointly by EM algorithm, which in the current context only requires
+iteratively calculating regime probabilities and principal components of the
+weighted sample covariance matrix. When regime dynamics are taken into account,
+smoothed regime probabilities are calculated using a recursive algorithm.
+Consistency, convergence rates and limit distributions of the estimated
+loadings and the estimated factors are established under weak cross-sectional
+and temporal dependence as well as heteroscedasticity. It is worth noting that
+due to high dimension, regime switching can be identified consistently right
+after the switching point with only one observation. Simulation results show
+good performance of the proposed method. An application to the FRED-MD dataset
+demonstrates the potential of the proposed method for quick detection of
+business cycle turning points.",0.4313897,0.055768896,0.25349504,C
+7535,"In order to better use our GAN-ATT estimator, this issue
+awaits our further research.","If the R-squared is suﬃciently close to 1, it can be considered that
+
+                                                                15
+there is no major unobserved covariates.","6 Conclusion
+
+In this paper we propose the GAN-ATT estimator that can better estimate average treatment eﬀect
+on the treated (ATT) without matching.",2022-06-13 12:54:29+00:00,A Constructive GAN-based Approach to Exact Estimate Treatment Effect without Matching,econ.EM,['econ.EM'],"[arxiv.Result.Author('Boyang You'), arxiv.Result.Author('Kerry Papps')]","Matching has become the mainstream in counterfactual inference, with which
+selection bias between sample groups can be significantly eliminated. However
+in practice, when estimating average treatment effect on the treated (ATT) via
+matching, no matter which method, the trade-off between estimation accuracy and
+information loss constantly exist. Attempting to completely replace the
+matching process, this paper proposes the GAN-ATT estimator that integrates
+generative adversarial network (GAN) into counterfactual inference framework.
+Through GAN machine learning, the probability density functions (PDFs) of
+samples in both treatment group and control group can be approximated. By
+differentiating conditional PDFs of the two groups with identical input
+condition, the conditional average treatment effect (CATE) can be estimated,
+and the ensemble average of corresponding CATEs over all treatment group
+samples is the estimate of ATT. Utilizing GAN-based infinite sample
+augmentations, problems in the case of insufficient samples or lack of common
+support domains can be easily solved. Theoretically, when GAN could perfectly
+learn the PDFs, our estimators can provide exact estimate of ATT.
+  To check the performance of the GAN-ATT estimator, three sets of data are
+used for ATT estimations: Two toy data sets with 1/2 dimensional covariate
+inputs and constant/covariate-dependent treatment effect are tested. The
+estimates of GAN-ATT are proved close to the ground truth and are better than
+traditional matching approaches; A real firm-level data set with
+high-dimensional input is tested and the applicability towards real data sets
+is evaluated by comparing matching approaches. Through the evidences obtained
+from the three tests, we believe that the GAN-ATT estimator has significant
+advantages over traditional matching methods in estimating ATT.",-0.3763137,0.04212528,0.044325653,B
+8616,"So far this reduced-form VAR is
+used for forecasting, and further research is needed to incorporate identiﬁcation restric-
+tions for structural analysis.","Lastly, the recent paper Chan, Koop, and Yu (2021) extends the
+stochastic volatility model of Cogley and Sargent (2005) by avoiding the use of Cholesky
+decomposition so that the extension is order-invariant.",The rest of this paper is organized as follows.,2022-07-08 16:22:26+00:00,"Large Bayesian VARs with Factor Stochastic Volatility: Identification, Order Invariance and Structural Analysis",econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Joshua Chan'), arxiv.Result.Author('Eric Eisenstat'), arxiv.Result.Author('Xuewen Yu')]","Vector autoregressions (VARs) with multivariate stochastic volatility are
+widely used for structural analysis. Often the structural model identified
+through economically meaningful restrictions--e.g., sign restrictions--is
+supposed to be independent of how the dependent variables are ordered. But
+since the reduced-form model is not order invariant, results from the
+structural analysis depend on the order of the variables. We consider a VAR
+based on the factor stochastic volatility that is constructed to be order
+invariant. We show that the presence of multivariate stochastic volatility
+allows for statistical identification of the model. We further prove that, with
+a suitable set of sign restrictions, the corresponding structural model is
+point-identified. An additional appeal of the proposed approach is that it can
+easily handle a large number of dependent variables as well as sign
+restrictions. We demonstrate the methodology through a structural analysis in
+which we use a 20-variable VAR with sign restrictions to identify 5 structural
+shocks.",0.3186615,-0.035950165,0.051004723,C
+8981,"Finally, the Conclusion discusses possible further research directions.","Section 6 describes various models of the relationship between multiple time series with poten-
+tially explosive regimes.","1Tao and Yu (2020) investigated information criteria to select the best model among the unit root model,
+the local-to-unit-root model, the mildly explosive model and the regular explosive model.",2022-07-17 18:15:07+00:00,Testing for explosive bubbles: a review,econ.EM,"['econ.EM', 'stat.AP', 'stat.ME']",[arxiv.Result.Author('Anton Skrobotov')],"This review discusses methods of testing for explosive bubbles in time
+series. A large number of recently developed testing methods under various
+assumptions about innovation of errors are covered. The review also considers
+the methods for dating explosive (bubble) regimes. Special attention is devoted
+to time-varying volatility in the errors. Moreover, the modelling of possible
+relationships between time series with explosive regimes is discussed.",0.41584003,0.013997378,0.2506045,C
+10787,"We leave for further research the use of
+more complex shrinkage priors.","In this article, we focus on a simple case by
+setting the prior mean of the coeﬃcient associated with each equation at the frequentist
+
+                                                      12
+univariate regression estimate, µβ = β, and a prior variance Ωβ = 100 · Inβ , which
+results in a relatively ﬂat prior distribution.","The other parameter of interest is the scale matrix, Σ ∈ Sn++, and in this scenario,
+we assume an inverse Wishart prior distribution
+
+                                         Σ ∼ IWn(ν0, Φ0),
+
+where  ν0  >  n  −  1  is  the  degrees  of  freedom  parameter  and  Φ0  ∈  Sn    is  a  scale  matrix,
+                                                                               ++
+
+such that if ν0 > n + 1 then E[Σ] = Φ0/(ν0 − n − 1).",2022-09-05 11:17:40+00:00,Bayesian Mixed-Frequency Quantile Vector Autoregression: Eliciting tail risks of Monthly US GDP,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Matteo Iacopini'), arxiv.Result.Author('Aubrey Poon'), arxiv.Result.Author('Luca Rossini'), arxiv.Result.Author('Dan Zhu')]","Timely characterizations of risks in economic and financial systems play an
+essential role in both economic policy and private sector decisions. However,
+the informational content of low-frequency variables and the results from
+conditional mean models provide only limited evidence to investigate this
+problem. We propose a novel mixed-frequency quantile vector autoregression
+(MF-QVAR) model to address this issue. Inspired by the univariate Bayesian
+quantile regression literature, the multivariate asymmetric Laplace
+distribution is exploited under the Bayesian framework to form the likelihood.
+A data augmentation approach coupled with a precision sampler efficiently
+estimates the missing low-frequency variables at higher frequencies under the
+state-space representation. The proposed methods allow us to nowcast
+conditional quantiles for multiple variables of interest and to derive
+quantile-related risk measures at high frequency, thus enabling timely policy
+interventions. The main application of the model is to nowcast conditional
+quantiles of the US GDP, which is strictly related to the quantification of
+Value-at-Risk and the Expected Shortfall.",-0.029065136,-0.10764749,-0.22164285,C
+11000,"For further research it
+would be interesting to see whether typically encountered subscription advertisements run
+by news outlets themselves have comparable intent-to-treat eﬀects as nudges provided by
+outside sources.",(2021).,7.,2022-09-09 14:42:03+00:00,Heterogeneous Treatment Effect Bounds under Sample Selection with an Application to the Effects of Social Media on Political Polarization,econ.EM,"['econ.EM', 'stat.ML']",[arxiv.Result.Author('Phillip Heiler')],"We propose a method for estimation and inference for bounds for heterogeneous
+causal effect parameters in general sample selection models where the treatment
+can affect whether an outcome is observed and no exclusion restrictions are
+available. The method provides conditional effect bounds as functions of policy
+relevant pre-treatment variables. It allows for conducting valid statistical
+inference on the unidentified conditional effects. We use a flexible
+debiased/double machine learning approach that can accommodate non-linear
+functional forms and high-dimensional confounders. Easily verifiable high-level
+conditions for estimation and misspecification robust inference guarantees are
+provided as well. Re-analyzing data from a large scale field experiment on
+Facebook, we find significant depolarization effects of counter-attitudinal
+news subscription nudges. The effect bounds are highly heterogeneous and
+suggest strong depolarization effects for moderates, conservatives, and younger
+users.",0.05848732,0.05720958,-0.19921407,B
+11028,"How to address this problem
+requires further study.","(2021a), if h(·; θ) is a nonlinear function of θ, the asymptotic bias ξn includes some unknown information
+which makes the estimation of ξn extremely diﬃcult (if not impossible).","5 Simulation studies
+
+In this section, we examine the ﬁnite sample performance of our proposed test in comparison with the
+ones proposed by Hong et al.",2022-09-11 02:59:39+00:00,Testing the martingale difference hypothesis in high dimension,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Jinyuan Chang'), arxiv.Result.Author('Qing Jiang'), arxiv.Result.Author('Xiaofeng Shao')]","In this paper, we consider testing the martingale difference hypothesis for
+high-dimensional time series. Our test is built on the sum of squares of the
+element-wise max-norm of the proposed matrix-valued nonlinear dependence
+measure at different lags. To conduct the inference, we approximate the null
+distribution of our test statistic by Gaussian approximation and provide a
+simulation-based approach to generate critical values. The asymptotic behavior
+of the test statistic under the alternative is also studied. Our approach is
+nonparametric as the null hypothesis only assumes the time series concerned is
+martingale difference without specifying any parametric forms of its
+conditional moments. As an advantage of Gaussian approximation, our test is
+robust to the cross-series dependence of unknown magnitude. To the best of our
+knowledge, this is the first valid test for the martingale difference
+hypothesis that not only allows for large dimension but also captures nonlinear
+serial dependence. The practical usefulness of our test is illustrated via
+simulation and a real data analysis. The test is implemented in a user-friendly
+R-function.",-0.27291238,-0.3412779,-0.11166808,B
+11029,"How to
+address this problem requires further study.","(2021a), if h(·; θ) is a nonlinear function of θ, the asymptotic bias ξn may include some
+unknown information which makes the estimation of ξn extremely diﬃcult (if not impossible).","5 Simulation studies
+
+In this section, we examine the ﬁnite sample performance of our proposed test in comparison with the
+ones proposed by Hong et al.",2022-09-11 02:59:39+00:00,Testing the martingale difference hypothesis in high dimension,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Jinyuan Chang'), arxiv.Result.Author('Qing Jiang'), arxiv.Result.Author('Xiaofeng Shao')]","In this paper, we consider testing the martingale difference hypothesis for
+high-dimensional time series. Our test is built on the sum of squares of the
+element-wise max-norm of the proposed matrix-valued nonlinear dependence
+measure at different lags. To conduct the inference, we approximate the null
+distribution of our test statistic by Gaussian approximation and provide a
+simulation-based approach to generate critical values. The asymptotic behavior
+of the test statistic under the alternative is also studied. Our approach is
+nonparametric as the null hypothesis only assumes the time series concerned is
+martingale difference without specifying any parametric forms of its
+conditional moments. As an advantage of Gaussian approximation, our test is
+robust to the cross-series dependence of unknown magnitude. To the best of our
+knowledge, this is the first valid test for the martingale difference
+hypothesis that not only allows for large dimension but also captures nonlinear
+serial dependence. The practical usefulness of our test is illustrated via
+simulation and a real data analysis. The test is implemented in a user-friendly
+R-function.",-0.27086794,-0.34760588,-0.10773271,B
+11527,"Extending our theoretical results to the
+case where n grows with the time series length T is a possible topic for further research.","Throughout the paper, we restrict attention to the case where the
+number of time series n in model (2.2) is ﬁxed.","2.3 Assumptions
+
+The error processes Ei = {εit : 1 ≤ t ≤ T } satisfy the following conditions.",2022-09-22 08:05:16+00:00,Multiscale Comparison of Nonparametric Trend Curves,econ.EM,['econ.EM'],"[arxiv.Result.Author('Marina Khismatullina'), arxiv.Result.Author('Michael Vogt')]","We develop new econometric methods for the comparison of nonparametric time
+trends. In many applications, practitioners are interested in whether the
+observed time series all have the same time trend. Moreover, they would often
+like to know which trends are different and in which time intervals they
+differ. We design a multiscale test to formally approach these questions.
+Specifically, we develop a test which allows to make rigorous confidence
+statements about which time trends are different and where (that is, in which
+time intervals) they differ. Based on our multiscale test, we further develop a
+clustering algorithm which allows to cluster the observed time series into
+groups with the same trend. We derive asymptotic theory for our test and
+clustering methods. The theory is complemented by a simulation study and two
+applications to GDP growth data and house pricing data.",0.18677518,-0.13028519,0.05221398,C
+11593,Inference in these models is still an open question for further research.,"They also show the robustness of the group ﬁxed-eﬀects estimator to not having this same
+knowledge.",The model is applied to a simple demand model for beer consumption.,2022-09-23 16:11:09+00:00,Multidimensional Interactive Fixed-Effects,econ.EM,"['econ.EM', 'cs.LG', 'stat.ME']",[arxiv.Result.Author('Hugo Freeman')],"This paper studies a linear and additively separable model for
+multidimensional panel data of three or more dimensions with unobserved
+interactive fixed effects. Two approaches are considered to account for these
+unobserved interactive fixed-effects when estimating coefficients on the
+observed covariates. First, the model is embedded within the standard
+two-dimensional panel framework and restrictions are derived under which the
+factor structure methods in Bai (2009) lead to consistent estimation of model
+parameters. The second approach considers group fixed-effects and kernel
+methods that are more robust to the multidimensional nature of the problem.
+Theoretical results and simulations show the benefit of standard
+two-dimensional panel methods when the structure of the interactive
+fixed-effect term is known, but also highlight how the group fixed-effects and
+kernel methods perform well without knowledge of this structure. The methods
+are implemented to estimate the demand elasticity for beer under a handful of
+models for demand.",0.034686968,-0.093618974,-0.26160255,B
+11819,"This is a challenging statistical problem, which
+we leave for further research.","Unfortunately, the extent of
+the bias depends itself on the true yet unknown value of λ˜1.","However, the result we obtained can be used to derive an upper bound on the
+bias.",2022-09-29 08:08:04+00:00,With big data come big problems: pitfalls in measuring basis risk for crop index insurance,econ.EM,['econ.EM'],"[arxiv.Result.Author('Matthieu Stigler'), arxiv.Result.Author('Apratim Dey'), arxiv.Result.Author('Andrew Hobbs'), arxiv.Result.Author('David Lobell')]","New satellite sensors will soon make it possible to estimate field-level crop
+yields, showing a great potential for agricultural index insurance. This paper
+identifies an important threat to better insurance from these new technologies:
+data with many fields and few years can yield downward biased estimates of
+basis risk, a fundamental metric in index insurance. To demonstrate this bias,
+we use state-of-the-art satellite-based data on agricultural yields in the US
+and in Kenya to estimate and simulate basis risk. We find a substantive
+downward bias leading to a systematic overestimation of insurance quality.
+  In this paper, we argue that big data in crop insurance can lead to a new
+situation where the number of variables $N$ largely exceeds the number of
+observations $T$. In such a situation where $T\ll N$, conventional asymptotics
+break, as evidenced by the large bias we find in simulations. We show how the
+high-dimension, low-sample-size (HDLSS) asymptotics, together with the spiked
+covariance model, provide a more relevant framework for the $T\ll N$ case
+encountered in index insurance. More precisely, we derive the asymptotic
+distribution of the relative share of the first eigenvalue of the covariance
+matrix, a measure of systematic risk in index insurance. Our formula accurately
+approximates the empirical bias simulated from the satellite data, and provides
+a useful tool for practitioners to quantify bias in insurance quality.",-0.33714545,-0.24720728,-0.1482087,B
+12428,"Many issues related to the estimation of the posterior distribution of states are beyond the
+scope of this paper and require further research.","Amortization is a great property that helps to solve this problem if the model is
+frequently re-estimated.",Some of them are discussed below.,2022-10-13 16:37:05+00:00,Fast Estimation of Bayesian State Space Models Using Amortized Simulation-Based Inference,econ.EM,"['econ.EM', 'stat.ML']","[arxiv.Result.Author('Ramis Khabibullin'), arxiv.Result.Author('Sergei Seleznev')]","This paper presents a fast algorithm for estimating hidden states of Bayesian
+state space models. The algorithm is a variation of amortized simulation-based
+inference algorithms, where a large number of artificial datasets are generated
+at the first stage, and then a flexible model is trained to predict the
+variables of interest. In contrast to those proposed earlier, the procedure
+described in this paper makes it possible to train estimators for hidden states
+by concentrating only on certain characteristics of the marginal posterior
+distributions and introducing inductive bias. Illustrations using the examples
+of the stochastic volatility model, nonlinear dynamic stochastic general
+equilibrium model, and seasonal adjustment procedure with breaks in seasonality
+show that the algorithm has sufficient accuracy for practical use. Moreover,
+after pretraining, which takes several hours, finding the posterior
+distribution for any dataset takes from hundredths to tenths of a second.",0.11094121,0.015530209,-0.17306387,C
+12429,"Although extensions have clear theoretical
+solutions (M-estimators for estimating other characteristics and more ﬂexible families of distri-
+butions), their practical implementation requires further research20.","13
+
+ond moments of the marginal distributions of states.","We have bypassed the issues of forecasting and missing variables, which are related in the
+sense that the forecasting problem can be thought of as a problem of constructing a posterior
+distribution for the missing variables on the forecasting horizon.",2022-10-13 16:37:05+00:00,Fast Estimation of Bayesian State Space Models Using Amortized Simulation-Based Inference,econ.EM,"['econ.EM', 'stat.ML']","[arxiv.Result.Author('Ramis Khabibullin'), arxiv.Result.Author('Sergei Seleznev')]","This paper presents a fast algorithm for estimating hidden states of Bayesian
+state space models. The algorithm is a variation of amortized simulation-based
+inference algorithms, where a large number of artificial datasets are generated
+at the first stage, and then a flexible model is trained to predict the
+variables of interest. In contrast to those proposed earlier, the procedure
+described in this paper makes it possible to train estimators for hidden states
+by concentrating only on certain characteristics of the marginal posterior
+distributions and introducing inductive bias. Illustrations using the examples
+of the stochastic volatility model, nonlinear dynamic stochastic general
+equilibrium model, and seasonal adjustment procedure with breaks in seasonality
+show that the algorithm has sufficient accuracy for practical use. Moreover,
+after pretraining, which takes several hours, finding the posterior
+distribution for any dataset takes from hundredths to tenths of a second.",0.059262246,-0.07007073,-0.05498222,C
+12759,"We hope this work
+spurs further research connecting the growing ﬁelds of synthetic controls and panel data methods
+with dynamic treatment models studied in econometrics, and potentially sequential learning methods
+such as reinforcement learning studied in computer science.","Depending on the structure placed
+on this factor model, we quantify the trade-off on the sample complexity and the level of adaptivity
+allowed in the intervention policy, for estimating counterfactual mean outcomes.","17
+Figure 3: DAG that is consistent with the exogeneity conditions implied by the deﬁnition of I˜a.",2022-10-20 04:11:20+00:00,Synthetic Blip Effects: Generalizing Synthetic Controls for the Dynamic Treatment Regime,econ.EM,"['econ.EM', 'cs.LG', 'stat.ME']","[arxiv.Result.Author('Anish Agarwal'), arxiv.Result.Author('Vasilis Syrgkanis')]","We propose a generalization of the synthetic control and synthetic
+interventions methodology to the dynamic treatment regime. We consider the
+estimation of unit-specific treatment effects from panel data collected via a
+dynamic treatment regime and in the presence of unobserved confounding. That
+is, each unit receives multiple treatments sequentially, based on an adaptive
+policy, which depends on a latent endogenously time-varying confounding state
+of the treated unit. Under a low-rank latent factor model assumption and a
+technical overlap assumption we propose an identification strategy for any
+unit-specific mean outcome under any sequence of interventions. The latent
+factor model we propose admits linear time-varying and time-invariant dynamical
+systems as special cases. Our approach can be seen as an identification
+strategy for structural nested mean models under a low-rank latent factor
+assumption on the blip effects. Our method, which we term ""synthetic blip
+effects"", is a backwards induction process, where the blip effect of a
+treatment at each period and for a target unit is recursively expressed as
+linear combinations of blip effects of a carefully chosen group of other units
+that received the designated treatment. Our work avoids the combinatorial
+explosion in the number of units that would be required by a vanilla
+application of prior synthetic control and synthetic intervention methods in
+such dynamic treatment regime settings.",-0.13631746,0.22995627,0.1844346,A
+13254,"In
+our empirical study, we use only the aligned M-MFESN architecture even though we see the stacked
+M-MFESNs as an interesting avenue for further research.","The proliferation of model
+hyperparameters due to the additional lag speciﬁcation required by a stacked M-MFESN can seriously
+complicate tuning for this class of models, especially when many distinct frequencies are modeled.","Example 3.2 (Aligned M-MFESN Forecasting) Similar to Example 3.1, we aim to forecast a
+quarterly target with monthly and daily series, but this time we use a M-MFESN model.",2022-11-01 10:25:54+00:00,Reservoir Computing for Macroeconomic Forecasting with Mixed Frequency Data,econ.EM,['econ.EM'],"[arxiv.Result.Author('Giovanni Ballarin'), arxiv.Result.Author('Petros Dellaportas'), arxiv.Result.Author('Lyudmila Grigoryeva'), arxiv.Result.Author('Marcel Hirt'), arxiv.Result.Author('Sophie van Huellen'), arxiv.Result.Author('Juan-Pablo Ortega')]","Macroeconomic forecasting has recently started embracing techniques that can
+deal with large-scale datasets and series with unequal release periods. The aim
+is to exploit the information contained in heterogeneous data sampled at
+different frequencies to improve forecasting exercises. Currently, MIxed-DAta
+Sampling (MIDAS) and Dynamic Factor Models (DFM) are the two main
+state-of-the-art approaches that allow modeling series with non-homogeneous
+frequencies. We introduce a new framework called the Multi-Frequency Echo State
+Network (MFESN), which originates from a relatively novel machine learning
+paradigm called reservoir computing (RC). Echo State Networks are recurrent
+neural networks with random weights and trainable readout. They are formulated
+as nonlinear state-space systems with random state coefficients where only the
+observation map is subject to estimation. This feature makes the estimation of
+MFESNs considerably more efficient than DFMs. In addition, the MFESN modeling
+framework allows to incorporate many series, as opposed to MIDAS models, which
+are prone to the curse of dimensionality. Our discussion encompasses
+hyperparameter tuning, penalization, and nonlinear multistep forecast
+computation. In passing, a new DFM aggregation scheme with Almon exponential
+structure is also presented, bridging MIDAS and dynamic factor models. All
+methods are compared in extensive multistep forecasting exercises targeting US
+GDP growth. We find that our ESN models achieve comparable or better
+performance than MIDAS and DFMs at a much lower computational cost.",0.2584984,0.076781884,0.15036312,C
+13363,"In addition, more applications in both cross-section regression
+and VAR are needed to further study the property of the p-value.","It will be interesting to design a procedure to properly control the FDR based on the
+sequential p-values in a VAR.","We leave these topics for
+future work.",2022-11-04 01:52:55+00:00,Boosted p-Values for High-Dimensional Vector Autoregression,econ.EM,['econ.EM'],[arxiv.Result.Author('Xiao Huang')],"Assessing the statistical significance of parameter estimates is an important
+step in high-dimensional vector autoregression modeling. Using the
+least-squares boosting method, we compute the p-value for each selected
+parameter at every boosting step in a linear model. The p-values are
+asymptotically valid and also adapt to the iterative nature of the boosting
+procedure. Our simulation experiment shows that the p-values can keep false
+positive rate under control in high-dimensional vector autoregressions. In an
+application with more than 100 macroeconomic time series, we further show that
+the p-values can not only select a sparser model with good prediction
+performance but also help control model stability. A companion R package
+boostvar is developed.",0.1367543,0.24021311,0.16257766,A
+14056,"This result suggests a bias-variance tradeoﬀ when using
+the averaged outcome of the control units for treatment eﬀect evaluation and motivates us
+to further study how the SC weight w compare with other weighting schemes in terms of
+MSPE.","To conclude this subsection, the above discussion shows that the SC estimator constructed
+using the limiting optimal weight wTop1t minimizes the expected MSPE but also suﬀers from
+an asymptotic bias under ﬁxed J.","3.2 Asymptotic optimality of SC estimators
+
+In this subsection, we investigate how the SC weights balance the bias and variance.",2022-11-22 08:55:07+00:00,Asymptotic Properties of the Synthetic Control Method,econ.EM,"['econ.EM', 'stat.ME']","[arxiv.Result.Author('Xiaomeng Zhang'), arxiv.Result.Author('Wendun Wang'), arxiv.Result.Author('Xinyu Zhang')]","This paper provides new insights into the asymptotic properties of the
+synthetic control method (SCM). We show that the synthetic control (SC) weight
+converges to a limiting weight that minimizes the mean squared prediction risk
+of the treatment-effect estimator when the number of pretreatment periods goes
+to infinity, and we also quantify the rate of convergence. Observing the link
+between the SCM and model averaging, we further establish the asymptotic
+optimality of the SC estimator under imperfect pretreatment fit, in the sense
+that it achieves the lowest possible squared prediction error among all
+possible treatment effect estimators that are based on an average of control
+units, such as matching, inverse probability weighting and
+difference-in-differences. The asymptotic optimality holds regardless of
+whether the number of control units is fixed or divergent. Thus, our results
+provide justifications for the SCM in a wide range of applications. The
+theoretical results are verified via simulations.",-0.40028223,0.18435413,0.038781695,B
+14963,"To better match practical circumstances, we
+further study LASSO given mixed regressors.","We then apply them to obtain the rates of convergence of Plasso and
+Slasso given pure unit root regressors, respectively.","Section 4 carries out Monte Carlo simulations and the
+results corroborate the theoretical analysis.",2022-12-14 06:14:58+00:00,On LASSO for High Dimensional Predictive Regression,econ.EM,"['econ.EM', 'stat.ML']","[arxiv.Result.Author('Ziwei Mei'), arxiv.Result.Author('Zhentao Shi')]","In a high dimensional linear predictive regression where the number of
+potential predictors can be larger than the sample size, we consider using
+LASSO, a popular L1-penalized regression method, to estimate the sparse
+coefficients when many unit root regressors are present. Consistency of LASSO
+relies on two building blocks: the deviation bound of the cross product of the
+regressors and the error term, and the restricted eigenvalue of the Gram matrix
+of the regressors. In our setting where unit root regressors are driven by
+temporal dependent non-Gaussian innovations, we establish original
+probabilistic bounds for these two building blocks. The bounds imply that the
+rates of convergence of LASSO are different from those in the familiar cross
+sectional case. In practical applications given a mixture of stationary and
+nonstationary predictors, asymptotic guarantee of LASSO is preserved if all
+predictors are scale-standardized. In an empirical example of forecasting the
+unemployment rate with many macroeconomic time series, strong performance is
+delivered by LASSO when the initial specification is guided by macroeconomic
+domain expertise.",0.02070416,-0.056871604,0.009965648,C

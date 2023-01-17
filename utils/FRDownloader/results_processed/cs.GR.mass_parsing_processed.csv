@@ -1,0 +1,471 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+113,"Since our ex-
+In this work, we presented Environment Navigation Incompatibility         periments showed mixed results in terms of the correlation between
+(ENI) metric, a novel metric for quantifying the navigability of a        ENI scores and navigability measures, we would like to further study
+pair of physical and virtual environments, based on their geometric       the ENI metric with a larger set of benchmark environments to get
+layouts.","6 CONCLUSION, LIMITATIONS, & FUTURE WORK                                     There are many avenues for future work in this area.","ENI measures the navigability of a PE, VE pair by mea-           a better understanding of the relationship between our ENI metric
+suring the similarity (compatibility) of the two environments, since      and the navigability of environment pairs.",2022-01-04 17:49:07+00:00,ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality,cs.GR,['cs.GR'],"[arxiv.Result.Author('Niall L. Williams'), arxiv.Result.Author('Aniket Bera'), arxiv.Result.Author('Dinesh Manocha')]","We present a novel metric to analyze the similarity between the physical
+environment and the virtual environment for natural walking in virtual reality.
+Our approach is general and can be applied to any pair of physical and virtual
+environments. We use geometric techniques based on conforming constrained
+Delaunay triangulations and visibility polygons to compute the Environment
+Navigation Incompatibility (ENI) metric that can be used to measure the
+complexity of performing simultaneous navigation. We demonstrate applications
+of ENI for highlighting regions of incompatibility for a pair of environments,
+guiding the design of the virtual environments to make them more compatible
+with a fixed physical environment, and evaluating the performance of different
+redirected walking controllers. We validate the ENI metric using simulations
+and two user studies. Results of our simulations and user studies show that in
+the environment pair that our metric identified as more navigable, users were
+able to walk for longer before colliding with objects in the physical
+environment. Overall, ENI is the first general metric that can automatically
+identify regions of high and low compatibility in physical and virtual
+environments. Our project website is available at https://gamma.umd.edu/eni/.",-0.06382923,0.7001904,-0.03284722,C
+114,"Since our ex-
+In this work, we presented Environment Navigation Incompatibility         periments showed mixed results in terms of the correlation between
+(ENI) metric, a novel metric for quantifying the navigability of a        ENI scores and navigability measures, we would like to further study
+pair of physical and virtual environments, based on their geometric       the ENI metric with a larger set of benchmark environments to get
+layouts.","6 CONCLUSION, LIMITATIONS, & FUTURE WORK                                     There are many avenues for future work in this area.","ENI measures the navigability of a PE, VE pair by mea-           a better understanding of the relationship between our ENI metric
+suring the similarity (compatibility) of the two environments, since      and the navigability of environment pairs.",2022-01-04 17:49:07+00:00,ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality,cs.GR,['cs.GR'],"[arxiv.Result.Author('Niall L. Williams'), arxiv.Result.Author('Aniket Bera'), arxiv.Result.Author('Dinesh Manocha')]","We present a novel metric to analyze the similarity between the physical
+environment and the virtual environment for natural walking in virtual reality.
+Our approach is general and can be applied to any pair of physical and virtual
+environments. We use geometric techniques based on conforming constrained
+Delaunay triangulations and visibility polygons to compute the Environment
+Navigation Incompatibility (ENI) metric that can be used to measure the
+complexity of performing simultaneous navigation. We demonstrate applications
+of ENI for highlighting regions of incompatibility for a pair of environments,
+guiding the design of the virtual environments to make them more compatible
+with a fixed physical environment, and evaluating the performance of different
+redirected walking controllers. We validate the ENI metric using simulations
+and two user studies. Results of our simulations and user studies show that in
+the environment pair that our metric identified as more navigable, users were
+able to walk for longer before colliding with objects in the physical
+environment. Overall, ENI is the first general metric that can automatically
+identify regions of high and low compatibility in physical and virtual
+environments. Our project website is available at https://gamma.umd.edu/eni/.",-0.06382923,0.7001904,-0.03284722,C
+1340,further research.,"interior design guidelines into differentiable functions to quantify
+the ergonomic quality of indoor layouts can be a promising topic of       Matthew Fisher, Manolis Savva, Yangyan Li, Pat Hanrahan, and Matthias Nießner.",2015.,2022-02-01 02:25:04+00:00,ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis,cs.GR,"['cs.GR', 'cs.AI', 'cs.CV', 'cs.LG', 'I.3.6; I.2.6; I.4.8']","[arxiv.Result.Author('Kurt Leimer'), arxiv.Result.Author('Paul Guerrero'), arxiv.Result.Author('Tomer Weiss'), arxiv.Result.Author('Przemyslaw Musialski')]","We address the problem of indoor layout synthesis, which is a topic of
+continuing research interest in computer graphics. The newest works made
+significant progress using data-driven generative methods; however, these
+approaches rely on suitable datasets. In practice, desirable layout properties
+may not exist in a dataset, for instance, specific expert knowledge can be
+missing in the data. We propose a method that combines expert knowledge, for
+example, knowledge about ergonomics, with a data-driven generator based on the
+popular Transformer architecture. The knowledge is given as differentiable
+scalar functions, which can be used both as weights or as additional terms in
+the loss function. Using this knowledge, the synthesized layouts can be biased
+to exhibit desirable properties, even if these properties are not present in
+the dataset. Our approach can also alleviate problems of lack of data and
+imperfections in the data. Our work aims to improve generative machine learning
+for modeling and provide novel tools for designers and amateurs for the problem
+of interior layout creation.",-0.28646463,0.52384746,-0.070895255,A
+1341,further research [Schwartz 2021].,"We think that the problem of
+is expected, since we aim to improve the ergonomic qualities of the                                       translating the vast number of ergonomic rules and interior design
+synthesized layouts instead of perfectly recreating the distribution                                      guidelines into differentiable functions can be a promising topic of
+of the dataset.","5.2 Room-conditioned Layout Synthesis                                                                        While we have demonstrated that our approach of incorporating
+                                                                                                          expert knowledge into the Transformer training process produces
+We use our proposed model and its ablations introduced in the                                             promising results, we think that this is only the first step in com-
+previous section for layout synthesis and evaluate the results in                                         bining data-driven and rule-based learning using state-of-the-art
+terms of both realism and ergonomic loss.",2022-02-01 02:25:04+00:00,LayoutEnhancer: Generating Good Indoor Layouts from Imperfect Data,cs.GR,"['cs.GR', 'cs.AI', 'cs.CV', 'cs.LG', 'I.3.6; I.2.1; I.4.9']","[arxiv.Result.Author('Kurt Leimer'), arxiv.Result.Author('Paul Guerrero'), arxiv.Result.Author('Tomer Weiss'), arxiv.Result.Author('Przemyslaw Musialski')]","We address the problem of indoor layout synthesis, which is a topic of
+continuing research interest in computer graphics. The newest works made
+significant progress using data-driven generative methods; however, these
+approaches rely on suitable datasets. In practice, desirable layout properties
+may not exist in a dataset, for instance, specific expert knowledge can be
+missing in the data. We propose a method that combines expert knowledge, for
+example, knowledge about ergonomics, with a data-driven generator based on the
+popular Transformer architecture. The knowledge is given as differentiable
+scalar functions, which can be used both as weights or as additional terms in
+the loss function. Using this knowledge, the synthesized layouts can be biased
+to exhibit desirable properties, even if these properties are not present in
+the dataset. Our approach can also alleviate problems of lack of data and
+imperfections in the data. Our work aims to improve generative machine learning
+for modeling and provide novel tools for designers and amateurs for the problem
+of interior layout creation.",-0.2894007,0.2756539,-0.27300796,A
+2461,"Despite the most prominent methods were developed more
+                                                                         than 10 years ago and the field remained quiet for some years, major
+   Cai and Tautges [2015] propose an approach that heavily relies        improvements have been proposed in recent years, also opening
+on integer programming due to the classification of the edges for        avenues for further research.",2020].,their parameterization.,2022-02-25 13:05:39+00:00,Hex-Mesh Generation and Processing: a Survey,cs.GR,['cs.GR'],"[arxiv.Result.Author('Nico Pietroni'), arxiv.Result.Author('Marcel Campen'), arxiv.Result.Author('Alla Sheffer'), arxiv.Result.Author('Gianmarco Cherchi'), arxiv.Result.Author('David Bommes'), arxiv.Result.Author('Xifeng Gao'), arxiv.Result.Author('Riccardo Scateni'), arxiv.Result.Author('Franck Ledoux'), arxiv.Result.Author('Jean-Francois Remacle'), arxiv.Result.Author('Marco Livesu')]","In this article, we provide a detailed survey of techniques for hexahedral
+mesh generation. We cover the whole spectrum of alternative approaches to mesh
+generation, as well as post processing algorithms for connectivity editing and
+mesh optimization. For each technique, we highlight capabilities and
+limitations, also pointing out the associated unsolved challenges. Recent
+relaxed approaches, aiming to generate not pure-hex but hex-dominant meshes,
+are also discussed. The required background, pertaining to geometrical as well
+as combinatorial aspects, is introduced along the way.",0.27170473,-0.14571548,-0.42104962,C
+2462,"Unfortunately, both questions are still unanswered and demand
+further research to understand these geometrical entities at a deeper
+level.","not only for practitioners in mesh generation but also for the graph
+                                                                              community.","For the characterization of hex-meshable fields, in [Liu et al.",2022-02-25 13:05:39+00:00,Hex-Mesh Generation and Processing: a Survey,cs.GR,['cs.GR'],"[arxiv.Result.Author('Nico Pietroni'), arxiv.Result.Author('Marcel Campen'), arxiv.Result.Author('Alla Sheffer'), arxiv.Result.Author('Gianmarco Cherchi'), arxiv.Result.Author('David Bommes'), arxiv.Result.Author('Xifeng Gao'), arxiv.Result.Author('Riccardo Scateni'), arxiv.Result.Author('Franck Ledoux'), arxiv.Result.Author('Jean-Francois Remacle'), arxiv.Result.Author('Marco Livesu')]","In this article, we provide a detailed survey of techniques for hexahedral
+mesh generation. We cover the whole spectrum of alternative approaches to mesh
+generation, as well as post processing algorithms for connectivity editing and
+mesh optimization. For each technique, we highlight capabilities and
+limitations, also pointing out the associated unsolved challenges. Recent
+relaxed approaches, aiming to generate not pure-hex but hex-dominant meshes,
+are also discussed. The required background, pertaining to geometrical as well
+as combinatorial aspects, is introduced along the way.",-0.10728047,-0.27848995,-0.097242564,A
+3778,"(b)                                          We further study the temporal distribution of the cita-
+                                                                                    tions over the publication venues (T2), as shown in Fig-
+                                       Yingcai Wu - Huamin Qu                       ure 5 (c).","In addition, Cao seems to receive more citations for
+                                     Nan Cao - Huamin Qu                            his data mining papers.","We can see that Wu’s citations were mostly ob-
+                                                                                    tained for his papers in TVCG, CHI, and TVC, which did not
+                                                                                    change much over the years.",2022-03-19 04:44:17+00:00,SD2: Slicing and Dicing Scholarly Data for Interactive Evaluation of Academic Performance,cs.GR,"['cs.GR', 'cs.DL']","[arxiv.Result.Author('Zhichun Guo'), arxiv.Result.Author('Jun Tao'), arxiv.Result.Author('Siming Chen'), arxiv.Result.Author('Nitesh V. Chawla'), arxiv.Result.Author('Chaoli Wang')]","Comprehensively evaluating and comparing researchers' academic performance is
+complicated due to the intrinsic complexity of scholarly data. Different
+scholarly evaluation tasks often require the publication and citation data to
+be investigated in various manners. In this paper, we present an interactive
+visualization framework, SD2, to enable flexible data partition and composition
+to support various analysis requirements within a single system. SD2 features
+the hierarchical histogram, a novel visual representation for flexibly slicing
+and dicing the data, allowing different aspects of scholarly performance to be
+studied and compared. We also leverage the state-of-the-art set visualization
+technique to select individual researchers or combine multiple scholars for
+comprehensive visual comparison. We conduct multiple rounds of expert
+evaluation to study the effectiveness and usability of SD2 and revise the
+design and system implementation accordingly. The effectiveness of SD2 is
+demonstrated via multiple usage scenarios with each aiming to answer a
+specific, commonly raised question.",0.39219117,-0.25574118,0.053279165,B
+4814,"The training data        ation from the ground-truth values suggests mispredicted
+(i.e., visualization images conditioned on visual mappings    spatiotemporal regions for further study.","The predicted values’ devi-
+exploration of ensemble simulations.",and view parameters) were collected in situ.,2022-04-13 16:42:32+00:00,DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization,cs.GR,"['cs.GR', 'cs.AI', 'cs.CV', 'cs.HC', 'cs.LG']","[arxiv.Result.Author('Chaoli Wang'), arxiv.Result.Author('Jun Han')]","Since 2016, we have witnessed the tremendous growth of artificial
+intelligence+visualization (AI+VIS) research. However, existing survey papers
+on AI+VIS focus on visual analytics and information visualization, not
+scientific visualization (SciVis). In this paper, we survey related deep
+learning (DL) works in SciVis, specifically in the direction of DL4SciVis:
+designing DL solutions for solving SciVis problems. To stay focused, we
+primarily consider works that handle scalar and vector field data but exclude
+mesh data. We classify and discuss these works along six dimensions: domain
+setting, research task, learning type, network architecture, loss function, and
+evaluation metric. The paper concludes with a discussion of the remaining gaps
+to fill along the discussed dimensions and the grand challenges we need to
+tackle as a community. This state-of-the-art survey guides SciVis researchers
+in gaining an overview of this emerging topic and points out future directions
+to grow this research.",-0.1802686,0.08349383,0.07500982,A
+6011,"Users can ﬁrst utilize well-    plicit representations, such as NeRFs, further studying how
+                                        developed mesh-based deformation methods to deform the         to edit the implicit representation has become a new explo-
+                                        mesh representation of the scene.","Therefore,
+                                        explicit mesh representation and the implicit neural repre-    based on the promising novel view synthesis ability of im-
+                                        sentation of the target scene.",Our method then utilizes     ration direction.,2022-05-10 15:35:52+00:00,NeRF-Editing: Geometry Editing of Neural Radiance Fields,cs.GR,"['cs.GR', 'cs.CV']","[arxiv.Result.Author('Yu-Jie Yuan'), arxiv.Result.Author('Yang-Tian Sun'), arxiv.Result.Author('Yu-Kun Lai'), arxiv.Result.Author('Yuewen Ma'), arxiv.Result.Author('Rongfei Jia'), arxiv.Result.Author('Lin Gao')]","Implicit neural rendering, especially Neural Radiance Field (NeRF), has shown
+great potential in novel view synthesis of a scene. However, current NeRF-based
+methods cannot enable users to perform user-controlled shape deformation in the
+scene. While existing works have proposed some approaches to modify the
+radiance field according to the user's constraints, the modification is limited
+to color editing or object translation and rotation. In this paper, we propose
+a method that allows users to perform controllable shape deformation on the
+implicit representation of the scene, and synthesizes the novel view images of
+the edited scene without re-training the network. Specifically, we establish a
+correspondence between the extracted explicit mesh representation and the
+implicit neural representation of the target scene. Users can first utilize
+well-developed mesh-based deformation methods to deform the mesh representation
+of the scene. Our method then utilizes user edits from the mesh representation
+to bend the camera rays by introducing a tetrahedra mesh as a proxy, obtaining
+the rendering results of the edited scene. Extensive experiments demonstrate
+that our framework can achieve ideal editing results not only on synthetic
+data, but also on real scenes captured by users.",-0.41205242,-0.1018195,-0.023945313,A
+6498,"To further study this similarity, we deﬁne normalized average diﬀerence e¯
+to measure the diﬀerence in ﬂagella nodal conﬁgurations between IMC and IPC:
+
+                1 M−1 N−1 i,IMC i,IPC
+                e¯ = MNh           xj − xj ,                   (22)
+
+                          i=0 j=0
+
+The relationship between normalized average diﬀerence e¯ and time t is shown in Fig.","For various time steps, we can
+see that the conﬁgurations of the ﬂagella are near identical, indicating that both methods have
+comparable accuracy.",4(d).,2022-05-20 17:21:26+00:00,A Fully Implicit Method for Robust Frictional Contact Handling in Elastic Rods,cs.GR,['cs.GR'],"[arxiv.Result.Author('Dezhong Tong'), arxiv.Result.Author('Andrew Choi'), arxiv.Result.Author('Jungseock Joo'), arxiv.Result.Author('M. Khalid Jawed')]","Accurate frictional contact is critical in simulating the assembly of
+rod-like structures in the practical world, such as knots, hairs, flagella, and
+more. Due to their high geometric nonlinearity and elasticity, rod-on-rod
+contact remains a challenging problem tackled by researchers in both
+computational mechanics and computer graphics. Typically, frictional contact is
+regarded as constraints for the equations of motions of a system. Such
+constraints are often computed independently at every time step in a dynamic
+simulation, thus slowing down the simulation and possibly introducing numerical
+convergence issues. This paper proposes a fully implicit penalty-based
+frictional contact method, Implicit Contact Model (IMC), that efficiently and
+robustly captures accurate frictional contact responses. We showcase our
+algorithm's performance for the challenging and novel contact scenario of
+flagella bundling in fluid medium, a significant phenomenon in biology that
+motivates novel engineering applications in soft robotics. In addition to this,
+we offer a side-by-side comparison with Incremental Potential Contact (IPC), a
+state-of-the-art contact handling algorithm. We show that IMC possesses
+comparable accuracy to IPC while converging at a faster rate for the flagella
+bundling case.",0.5321728,0.10511805,0.5937854,B_centroid
+6499,"To further study this similarity, we deﬁne normalized average
+diﬀerence e¯ to measure the diﬀerence in ﬂagella nodal conﬁgurations between IMC and IPC:
+
+e¯ =  1  M−1 N−1                      (22)
+
+                   xi,IMC − xi,IPC ,
+      MNh i=0 j=0 j  j
+
+The relationship between normalized average diﬀerence e¯ and time t is shown in Fig.","For various time steps,
+we can see that the conﬁgurations of the ﬂagella are near identical, indicating that both methods
+have comparable performance.",4(d).,2022-05-20 17:21:26+00:00,A Fully Implicit Method for Robust Frictional Contact Handling in Elastic Rods,cs.GR,['cs.GR'],"[arxiv.Result.Author('Dezhong Tong'), arxiv.Result.Author('Andrew Choi'), arxiv.Result.Author('Jungseock Joo'), arxiv.Result.Author('M. Khalid Jawed')]","Accurate frictional contact is critical in simulating the assembly of
+rod-like structures in the practical world, such as knots, hairs, flagella, and
+more. Due to their high geometric nonlinearity and elasticity, rod-on-rod
+contact remains a challenging problem tackled by researchers in both
+computational mechanics and computer graphics. Typically, frictional contact is
+regarded as constraints for the equations of motions of a system. Such
+constraints are often computed independently at every time step in a dynamic
+simulation, thus slowing down the simulation and possibly introducing numerical
+convergence issues. This paper proposes a fully implicit penalty-based
+frictional contact method, Implicit Contact Model (IMC), that efficiently and
+robustly captures accurate frictional contact responses. We showcase our
+algorithm's performance in achieving visually realistic results for the
+challenging and novel contact scenario of flagella bundling in fluid medium, a
+significant phenomenon in biology that motivates novel engineering applications
+in soft robotics. In addition to this, we offer a side-by-side comparison with
+Incremental Potential Contact (IPC), a state-of-the-art contact handling
+algorithm. We show that IMC possesses comparable performance to IPC while
+converging at a faster rate.",0.52279043,0.10566589,0.60382754,B
+7432,Handcrafted-based Methods                                  scale of our database for further research.,"Therefore, we will push forward our work and enlarge the
+3.3.1.",The experimental results are clearly shown in Table 2.,2022-06-10 11:48:24+00:00,Subjective Quality Assessment for Images Generated by Computer Graphics,cs.GR,"['cs.GR', 'cs.CV']","[arxiv.Result.Author('Tao Wang'), arxiv.Result.Author('Zicheng Zhang'), arxiv.Result.Author('Wei Sun'), arxiv.Result.Author('Xiongkuo Min'), arxiv.Result.Author('Wei Lu'), arxiv.Result.Author('Guangtao Zhai')]","With the development of rendering techniques, computer graphics generated
+images (CGIs) have been widely used in practical application scenarios such as
+architecture design, video games, simulators, movies, etc. Different from
+natural scene images (NSIs), the distortions of CGIs are usually caused by poor
+rending settings and limited computation resources. What's more, some CGIs may
+also suffer from compression distortions in transmission systems like cloud
+gaming and stream media. However, limited work has been put forward to tackle
+the problem of computer graphics generated images' quality assessment (CG-IQA).
+Therefore, in this paper, we establish a large-scale subjective CG-IQA database
+to deal with the challenge of CG-IQA tasks. We collect 25,454 in-the-wild CGIs
+through previous databases and personal collection. After data cleaning, we
+carefully select 1,200 CGIs to conduct the subjective experiment. Several
+popular no-reference image quality assessment (NR-IQA) methods are tested on
+our database. The experimental results show that the handcrafted-based methods
+achieve low correlation with subjective judgment and deep learning based
+methods obtain relatively better performance, which demonstrates that the
+current NR-IQA models are not suitable for CG-IQA tasks and more effective
+models are urgently needed.",0.123193435,-0.06514821,-0.34976172,C
+8361,"This demonstrates the significant
+                                                                              improvement provided by our method, as well as showing that there
+   MatFormer (n. order 𝜋r)                                                    is still room for further research.","We received a score of 1.82 (40% of scores ≥ 3) compared
+   MatFormer (n. order 𝜋b)       0.060    62.8   0.80  1.84                   to 0.35 (10% scores ≥ 3) for the Macro-nodes and 0.48 (0% scores
+  MatFormer (n. order 𝜋rr)       0.046   48.6    1.01  1.34                   ≥ 3) for the Pairwise baselines.","Most prominent feedback for our
+46:10 • Guerrero et al.",2022-07-03 13:41:29+00:00,MatFormer: A Generative Model for Procedural Materials,cs.GR,['cs.GR'],"[arxiv.Result.Author('Paul Guerrero'), arxiv.Result.Author('Miloš Hašan'), arxiv.Result.Author('Kalyan Sunkavalli'), arxiv.Result.Author('Radomír Měch'), arxiv.Result.Author('Tamy Boubekeur'), arxiv.Result.Author('Niloy J. Mitra')]","Procedural material graphs are a compact, parameteric, and
+resolution-independent representation that are a popular choice for material
+authoring. However, designing procedural materials requires significant
+expertise and publicly accessible libraries contain only a few thousand such
+graphs. We present MatFormer, a generative model that can produce a diverse set
+of high-quality procedural materials with complex spatial patterns and
+appearance. While procedural materials can be modeled as directed (operation)
+graphs, they contain arbitrary numbers of heterogeneous nodes with
+unstructured, often long-range node connections, and functional constraints on
+node parameters and connections. MatFormer addresses these challenges with a
+multi-stage transformer-based model that sequentially generates nodes, node
+parameters, and edges, while ensuring the semantic validity of the graph. In
+addition to generation, MatFormer can be used for the auto-completion and
+exploration of partial material graphs. We qualitatively and quantitatively
+demonstrate that our method outperforms alternative approaches, in both
+generated graph and material quality.",0.49115556,-0.044624254,-0.31847614,C_centroid
+8362,"This demonstrates the significant
+                                                                              improvement provided by our method, as well as showing that there
+   MatFormer (n. order 𝜋r)                                                    is still room for further research.","We received a score of 1.82 (40% of scores ≥ 3) compared
+   MatFormer (n. order 𝜋b)       0.060    62.8   0.80  1.84                   to 0.35 (10% scores ≥ 3) for the Macro-nodes and 0.48 (0% scores
+  MatFormer (n. order 𝜋rr)       0.046   48.6    1.01  1.34                   ≥ 3) for the Pairwise baselines.","Most prominent feedback for our
+46:10 • Guerrero et al.",2022-07-03 13:41:29+00:00,MatFormer: A Generative Model for Procedural Materials,cs.GR,['cs.GR'],"[arxiv.Result.Author('Paul Guerrero'), arxiv.Result.Author('Miloš Hašan'), arxiv.Result.Author('Kalyan Sunkavalli'), arxiv.Result.Author('Radomír Měch'), arxiv.Result.Author('Tamy Boubekeur'), arxiv.Result.Author('Niloy J. Mitra')]","Procedural material graphs are a compact, parameteric, and
+resolution-independent representation that are a popular choice for material
+authoring. However, designing procedural materials requires significant
+expertise and publicly accessible libraries contain only a few thousand such
+graphs. We present MatFormer, a generative model that can produce a diverse set
+of high-quality procedural materials with complex spatial patterns and
+appearance. While procedural materials can be modeled as directed (operation)
+graphs, they contain arbitrary numbers of heterogeneous nodes with
+unstructured, often long-range node connections, and functional constraints on
+node parameters and connections. MatFormer addresses these challenges with a
+multi-stage transformer-based model that sequentially generates nodes, node
+parameters, and edges, while ensuring the semantic validity of the graph. In
+addition to generation, MatFormer can be used for the auto-completion and
+exploration of partial material graphs. We qualitatively and quantitatively
+demonstrate that our method outperforms alternative approaches, in both
+generated graph and material quality.",0.49115556,-0.044624254,-0.31847614,C
+11467,"We encourage further research to
+in the lower dataset shown in Figure 15.",The difference in quality is especially apparent                  or ﬂow ﬁelds could also be added.,The fading color towards the                     explore the speciﬁcs of such extensions.,2022-09-20 19:48:56+00:00,FoVolNet: Fast Volume Rendering using Foveated Deep Neural Networks,cs.GR,"['cs.GR', 'cs.LG']","[arxiv.Result.Author('David Bauer'), arxiv.Result.Author('Qi Wu'), arxiv.Result.Author('Kwan-Liu Ma')]","Volume data is found in many important scientific and engineering
+applications. Rendering this data for visualization at high quality and
+interactive rates for demanding applications such as virtual reality is still
+not easily achievable even using professional-grade hardware. We introduce
+FoVolNet -- a method to significantly increase the performance of volume data
+visualization. We develop a cost-effective foveated rendering pipeline that
+sparsely samples a volume around a focal point and reconstructs the full-frame
+using a deep neural network. Foveated rendering is a technique that prioritizes
+rendering computations around the user's focal point. This approach leverages
+properties of the human visual system, thereby saving computational resources
+when rendering data in the periphery of the user's field of vision. Our
+reconstruction network combines direct and kernel prediction methods to produce
+fast, stable, and perceptually convincing output. With a slim design and the
+use of quantization, our method outperforms state-of-the-art neural
+reconstruction techniques in both end-to-end frame times and visual quality. We
+conduct extensive evaluations of the system's rendering performance, inference
+speed, and perceptual properties, and we provide comparisons to competing
+neural image reconstruction techniques. Our test results show that FoVolNet
+consistently achieves significant time saving over conventional rendering while
+preserving perceptual quality.",0.03701361,-0.10673647,0.30072054,A
+11812,"Section 7 concludes
+                                                                                and provides further research areas.","scalability, especially regarding our test scenarios.",Table 1: The Fun3D “Mars Lander” data set statistics.,2022-09-29 03:49:16+00:00,"GPU-based Data-parallel Rendering of Large, Unstructured, and Non-convexly Partitioned Data",cs.GR,['cs.GR'],"[arxiv.Result.Author('Alper Sahistan'), arxiv.Result.Author('Serkan Demirci'), arxiv.Result.Author('Ingo Wald'), arxiv.Result.Author('Stefan Zellmann'), arxiv.Result.Author('João Barbosa'), arxiv.Result.Author('Nathan Morrical'), arxiv.Result.Author('Uğur Güdükbay')]","Computational fluid dynamic simulations often produce large clusters of
+finite elements with non-trivial, non-convex boundaries and uneven
+distributions among compute nodes, posing challenges to compositing during
+interactive volume rendering. Correct, in-place visualization of such clusters
+becomes difficult because viewing rays straddle domain boundaries across
+multiple compute nodes. We propose a GPU-based, scalable, memory-efficient
+direct volume visualization framework suitable for in~situ and post~hoc usage.
+Our approach reduces memory usage of the unstructured volume elements by
+leveraging an exclusive or-based index reduction scheme and provides fast
+ray-marching-based traversal without requiring large external data structures
+built over the elements themselves. Moreover, we present a GPU-optimized deep
+compositing scheme that allows correct order compositing of intermediate color
+values accumulated across different ranks that works even for non-convex
+clusters. Our method scales well on large data-parallel systems and achieves
+interactive frame rates during visualization. We can interactively render both
+Fun3D Small Mars Lander (14 GB / 798.4 million finite elements) and Huge Mars
+Lander (111.57 GB / 6.4 billion finite elements) data sets at 14 and 10 frames
+per second using 72 and 80 GPUs, respectively, on TACC's Frontera
+supercomputer.",0.14818884,0.080960505,-0.15369324,C
+11813,Possible areas for further research are as follows.,"Journal of Visualization, 22, 08 2019.","While we allow
+visualizations of multiple scalar ﬁelds and timesteps, we do not use           [12] L. Castanie, C. Mion, X. Cavin, and B.",2022-09-29 03:49:16+00:00,"GPU-based Data-parallel Rendering of Large, Unstructured, and Non-convexly Partitioned Data",cs.GR,['cs.GR'],"[arxiv.Result.Author('Alper Sahistan'), arxiv.Result.Author('Serkan Demirci'), arxiv.Result.Author('Ingo Wald'), arxiv.Result.Author('Stefan Zellmann'), arxiv.Result.Author('João Barbosa'), arxiv.Result.Author('Nathan Morrical'), arxiv.Result.Author('Uğur Güdükbay')]","Computational fluid dynamic simulations often produce large clusters of
+finite elements with non-trivial, non-convex boundaries and uneven
+distributions among compute nodes, posing challenges to compositing during
+interactive volume rendering. Correct, in-place visualization of such clusters
+becomes difficult because viewing rays straddle domain boundaries across
+multiple compute nodes. We propose a GPU-based, scalable, memory-efficient
+direct volume visualization framework suitable for in~situ and post~hoc usage.
+Our approach reduces memory usage of the unstructured volume elements by
+leveraging an exclusive or-based index reduction scheme and provides fast
+ray-marching-based traversal without requiring large external data structures
+built over the elements themselves. Moreover, we present a GPU-optimized deep
+compositing scheme that allows correct order compositing of intermediate color
+values accumulated across different ranks that works even for non-convex
+clusters. Our method scales well on large data-parallel systems and achieves
+interactive frame rates during visualization. We can interactively render both
+Fun3D Small Mars Lander (14 GB / 798.4 million finite elements) and Huge Mars
+Lander (111.57 GB / 6.4 billion finite elements) data sets at 14 and 10 frames
+per second using 72 and 80 GPUs, respectively, on TACC's Frontera
+supercomputer.",-0.018551152,-0.26164258,0.12639773,A
+12343,"Nonetheless, we believe that
+hybrid result with the ground truth (Cook et al., 1984),  our technique can be adapted and optimized for in-
+we chose a shot of PINK ROOM with very blurred            teractive rendering and motivate further research in
+foreground geometry that exhibits highly specular         this direction.","are not representative of how our algorithm would
+                                                          perform if professionally implemented and properly
+    To quantitatively compare the visual quality of our   optimized for games.","We have achieved relatively interactive
+bokeh shapes and semi-transparent silhouettes in Fig-     frame rates without extensive optimization, validating
+ure 7.",2022-10-11 14:24:44+00:00,A Hybrid System for Real-time Rendering of Depth of Field Effect in Games,cs.GR,"['cs.GR', 'I.3']","[arxiv.Result.Author('Yu Wei Tan'), arxiv.Result.Author('Nicholas Chua'), arxiv.Result.Author('Nathan Biette'), arxiv.Result.Author('Anand Bhojan')]","Real-time depth of field in game cinematics tends to approximate the
+semi-transparent silhouettes of out-of-focus objects through post-processing
+techniques. We leverage ray tracing hardware acceleration and spatio-temporal
+reconstruction to improve the realism of such semi-transparent regions through
+hybrid rendering, while maintaining interactive frame rates for immersive
+gaming. This paper extends our previous work with a complete presentation of
+our technique and details on its design, implementation, and future work.",-0.41331142,-0.055265695,0.18354973,A
+13301,seeds for further research in comptuational crochet.,[2020] (see Figure 12 there).,"9.3 Creases                                                              ACKNOWLEDGMENTS
+
+Since stuffed items tend to be smooth, there exist crochet shaping       M. Edelstein acknowledges funding from the Jacobs Qualcomm
+techniques that allow the generation of creases.",2022-11-02 14:53:21+00:00,AmiGo: Computational Design of Amigurumi Crochet Patterns,cs.GR,['cs.GR'],"[arxiv.Result.Author('Michal Edelstein'), arxiv.Result.Author('Hila Peleg'), arxiv.Result.Author('Shachar Itzhaky'), arxiv.Result.Author('Mirela Ben-Chen')]","We propose an approach for generating crochet instructions (patterns) from an
+input 3D model. We focus on Amigurumi, which are knitted stuffed toys. Given a
+closed triangle mesh, and a single point specified by the user, we generate
+crochet instructions, which when knitted and stuffed result in a toy similar to
+the input geometry. Our approach relies on constructing the geometry and
+connectivity of a Crochet Graph, which is then translated into a crochet
+pattern. We segment the shape automatically into chrochetable components, which
+are connected using the join-as-you-go method, requiring no additional sewing.
+We demonstrate that our method is applicable to a large variety of shapes and
+geometries, and yields easily crochetable patterns.",-0.082647815,-0.38335264,-0.24175876,A
+13419,"We further study different schemes for taking steps in ﬂow map
+optimization, here for Double Gyre.",15.,,2022-11-06 17:59:45+00:00,Integration-free Learning of Flow Maps,cs.GR,['cs.GR'],"[arxiv.Result.Author('Saroj Sahoo'), arxiv.Result.Author('Matthew Berger')]","We present a method for learning neural representations of flow maps from
+time-varying vector field data. The flow map is pervasive within the area of
+flow visualization, as it is foundational to numerous visualization techniques,
+e.g. integral curve computation for pathlines or streaklines, as well as
+computing separation/attraction structures within the flow field. Yet
+bottlenecks in flow map computation, namely the numerical integration of vector
+fields, can easily inhibit their use within interactive visualization settings.
+In response, in our work we seek neural representations of flow maps that are
+efficient to evaluate, while remaining scalable to optimize, both in
+computation cost and data requirements. A key aspect of our approach is that we
+can frame the process of representation learning not in optimizing for samples
+of the flow map, but rather, a self-consistency criterion on flow map
+derivatives that eliminates the need for flow map samples, and thus numerical
+integration, altogether. Central to realizing this is a novel neural network
+design for flow maps, coupled with an optimization scheme, wherein our
+representation only requires the time-varying vector field for learning,
+encoded as instantaneous velocity. We show the benefits of our method over
+prior works in terms of accuracy and efficiency across a range of 2D and 3D
+time-varying vector fields, while showing how our neural representation of flow
+maps can benefit unsteady flow visualization techniques such as streaklines,
+and the finite-time Lyapunov exponent.",0.0321701,-0.093264714,-0.049749948,A
+13767,"To facilitate further research
+editing intermediary that is aligned with the facial volume.","Qualitative and quantita-
+                                                                          tive experiments show that our approach outperforms state-of-the-
+   To directly control the geometry, one approach is to introduce an      art methods for various applications.","Semantic     studies, we will release our code.",2022-11-15 08:11:39+00:00,NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields,cs.GR,"['cs.GR', 'cs.CV']","[arxiv.Result.Author('Kaiwen Jiang'), arxiv.Result.Author('Shu-Yu Chen'), arxiv.Result.Author('Feng-Lin Liu'), arxiv.Result.Author('Hongbo Fu'), arxiv.Result.Author('Lin Gao')]","Recent methods for synthesizing 3D-aware face images have achieved rapid
+development thanks to neural radiance fields, allowing for high quality and
+fast inference speed. However, existing solutions for editing facial geometry
+and appearance independently usually require retraining and are not optimized
+for the recent work of generation, thus tending to lag behind the generation
+process. To address these issues, we introduce NeRFFaceEditing, which enables
+editing and decoupling geometry and appearance in the pretrained
+tri-plane-based neural radiance field while retaining its high quality and fast
+inference speed. Our key idea for disentanglement is to use the statistics of
+the tri-plane to represent the high-level appearance of its corresponding
+facial volume. Moreover, we leverage a generated 3D-continuous semantic mask as
+an intermediary for geometry editing. We devise a geometry decoder (whose
+output is unchanged when the appearance changes) and an appearance decoder. The
+geometry decoder aligns the original facial volume with the semantic mask
+volume. We also enhance the disentanglement by explicitly regularizing rendered
+images with the same appearance but different geometry to be similar in terms
+of color distribution for each facial component separately. Our method allows
+users to edit via semantic masks with decoupled control of geometry and
+appearance. Both qualitative and quantitative evaluations show the superior
+geometry and appearance control abilities of our method compared to existing
+and alternative solutions.",-0.23217064,-0.23705217,-0.09932812,A
+13768,"features that may be beneﬁcial in this context are not reﬂected
+in existing research, therefore, further research is required to     Based on the analysis and summary of existing foveated
+investigate this.","The combination
+foveated rendering method only uses parts of the HVS features,    of foveated displays and prescription corrective optics also
+including visual acuity and contrast sensitivity, and other       presents a challenge.","For example, visual masking may be utilized     rendering methods, some open questions require urgent
+for accelerating foveated rendering.",2022-11-15 08:12:37+00:00,Foveated Rendering: a State-of-the-Art Survey,cs.GR,['cs.GR'],"[arxiv.Result.Author('Lili Wang'), arxiv.Result.Author('Xuehuai Shi'), arxiv.Result.Author('Yi Liu')]","Recently, virtual reality (VR) technology has been widely used in medical,
+military, manufacturing, entertainment, and other fields.
+  These applications must simulate different complex material surfaces, various
+dynamic objects, and complex physical phenomena, increasing the complexity of
+VR scenes. Current computing devices cannot efficiently render these complex
+scenes in real time, and delayed rendering makes the content observed by the
+user inconsistent with the user's interaction, causing discomfort.
+  Foveated rendering is a promising technique that can accelerate rendering. It
+takes advantage of human eyes' inherent features and renders different regions
+with different qualities without sacrificing perceived visual quality.
+  Foveated rendering research has a history of 31 years and is mainly focused
+on solving the following three problems.
+  The first is to apply perceptual models of the human visual system into
+foveated rendering. The second is to render the image with different qualities
+according to foveation principles. The third is to integrate foveated rendering
+into existing rendering paradigms to improve rendering performance.
+  In this survey, we review foveated rendering research from 1990 to 2021.
+  We first revisit the visual perceptual models related to foveated rendering.
+  Subsequently, we propose a new foveated rendering taxonomy and then classify
+and review the research on this basis. Finally, we discuss potential
+opportunities and open questions in the foveated rendering field.
+  We anticipate that this survey will provide new researchers with a high-level
+overview of the state of the art in this field, furnish experts with up-to-date
+information and offer ideas alongside a framework to VR display software and
+hardware designers and engineers.",-0.45070067,-0.23349178,0.31419253,A
+13769,"Thus, further research is required
+human visual features to achieve more aggressive foveated         to identify a more suitable foveated rendering method for
+rendering without compromising perceptual awareness.","We believe that the next important          volume data and geometric meshes are used for reference, such
+step towards foveated rendering is eﬀectively capitalizing of     as the ray tracing method.",these new data types.,2022-11-15 08:12:37+00:00,Foveated Rendering: a State-of-the-Art Survey,cs.GR,['cs.GR'],"[arxiv.Result.Author('Lili Wang'), arxiv.Result.Author('Xuehuai Shi'), arxiv.Result.Author('Yi Liu')]","Recently, virtual reality (VR) technology has been widely used in medical,
+military, manufacturing, entertainment, and other fields.
+  These applications must simulate different complex material surfaces, various
+dynamic objects, and complex physical phenomena, increasing the complexity of
+VR scenes. Current computing devices cannot efficiently render these complex
+scenes in real time, and delayed rendering makes the content observed by the
+user inconsistent with the user's interaction, causing discomfort.
+  Foveated rendering is a promising technique that can accelerate rendering. It
+takes advantage of human eyes' inherent features and renders different regions
+with different qualities without sacrificing perceived visual quality.
+  Foveated rendering research has a history of 31 years and is mainly focused
+on solving the following three problems.
+  The first is to apply perceptual models of the human visual system into
+foveated rendering. The second is to render the image with different qualities
+according to foveation principles. The third is to integrate foveated rendering
+into existing rendering paradigms to improve rendering performance.
+  In this survey, we review foveated rendering research from 1990 to 2021.
+  We first revisit the visual perceptual models related to foveated rendering.
+  Subsequently, we propose a new foveated rendering taxonomy and then classify
+and review the research on this basis. Finally, we discuss potential
+opportunities and open questions in the foveated rendering field.
+  We anticipate that this survey will provide new researchers with a high-level
+overview of the state of the art in this field, furnish experts with up-to-date
+information and offer ideas alongside a framework to VR display software and
+hardware designers and engineers.",-0.44122943,-0.26815146,0.23231657,A_centroid
