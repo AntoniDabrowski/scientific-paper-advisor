@@ -1,11 +1,11 @@
 import unicodedata
-from typing import List, Union
+from typing import List
 
 import networkx as nx
 from django.http import HttpRequest, JsonResponse
 from scholarly import scholarly, Publication, ProxyGenerator
 
-from .models import JsonOfArticleGraphs, ScholarlyPublication
+from .models import ScholarlyPublication, CitationReferences
 
 pg = ProxyGenerator()
 success = pg.ScraperAPI("6312b33d8af2fa7e8e30579203d3ab63")
@@ -13,13 +13,43 @@ print("Proxy setup success:{}".format(success))
 scholarly.use_proxy(pg)
 
 
+class PublicationWithID:
+    def __init__(self, idx: int, publication: Publication):
+        self.idx = idx
+        self.publication = publication
+
+
+def add_publication_to_database(publication: Publication, cites: int = None):
+    authors_mash = "".join(publication['bib'].get('author'))
+
+    try:
+        record = ScholarlyPublication.objects.get(title=publication['bib'].get('title'),
+                                                  authors=authors_mash)
+    except ScholarlyPublication.DoesNotExist:
+        record = ScholarlyPublication.objects.create(title=publication['bib'].get('title'),
+                                                     authors=authors_mash,
+                                                     publication=publication)
+    else:
+        record.update(title=publication['bib'].get('title'),
+                      authors=authors_mash,
+                      publication=publication)
+
+    if cites is not None:
+        CitationReferences.objects.get_or_create(article_id=record.pk, cites_id=cites)
+
+    return PublicationWithID(idx=record.pk, publication=publication)
+
+
 class ArticleGraph(nx.Graph):
-    def __init__(self, core_article: Publication, max_articles_per_column: int = 5, **attr):
+    def __init__(self, core_article: PublicationWithID, max_articles_per_column: int = 5, **attr):
         super().__init__(**attr)
         self.core_article = core_article
         self.max_articles_per_column = max_articles_per_column
-        self.add_article_node(0, self.core_article)
+        self.add_article_node(0, self.core_article.publication)
         self.create_right_side_of_graph()
+
+    def get_citedby(self, article: PublicationWithID):
+        return CitationReferences.objects.get(article.idx)
 
     def create_right_side_of_graph(self):
         core_article_cites = scholarly.citedby(scholarly.fill(self.core_article))
@@ -50,13 +80,24 @@ def articles_match(publication_dict, authors, title):
     return title == publication_dict['title'] and authors == publication_authors
 
 
-def find_article(title: str, authors: List[str]) -> Union[Publication, None]:
+def find_article(title: str, authors: List[str]) -> PublicationWithID:
+    """
+    :param title: Title of the article.
+    :param authors: List of authors of the article.
+    :return:
+    :raises RuntimeError: More than one record found in the database or the record couldn't
+        have been found in Google Scholar.
+    """
     # Check the database for stored data
     authors_mash = "".join(authors)
     if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
         # Publication found. Get from the database
         print("Record for publication {} retrieved from the database.".format(title))
-        return ScholarlyPublication.objects.get(title=title, authors=authors_mash).publication
+        db_records = ScholarlyPublication.objects.get(title=title, authors=authors_mash)
+        if len(db_records) == 1:
+            raise RuntimeError('Database contain more than one result with this title and authors.')
+        else:
+            return PublicationWithID(db_records.pk, publication=db_records.publication)
     else:
         # query need to reflect what we put into the Google Scholar search bar.
         query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
@@ -67,23 +108,16 @@ def find_article(title: str, authors: List[str]) -> Union[Publication, None]:
             # Use api to find an article with matching title and authors list.
             if articles_match(publication.get('bib'), authors, title):
                 # Save article to db for reuse.
-                ScholarlyPublication.objects.create(title=title, authors=authors_mash, publication=publication)
-                return publication
+                return add_publication_to_database(publication=publication)
 
     # Matching article wasn't found.
-    return None
+    raise RuntimeError('Article not found in Scholar.')
 
 
-def get_graph_as_json(article: Publication):
-    title = article['bib'].get('title')
-    if JsonOfArticleGraphs.objects.filter(title=title).exists():
-        print('Json for {} found in the database'.format(title))
-        json_graph = JsonOfArticleGraphs.objects.get(title=title).json
-    else:
-        graph_schema = ArticleGraph(article)
-        json_graph = nx.node_link_data(graph_schema)
-        json_graph['layout'] = {k: tuple(v) for k, v in nx.multipartite_layout(graph_schema).items()}
-        JsonOfArticleGraphs.objects.create(title=title, json=json_graph)
+def get_graph_as_json(article: PublicationWithID):
+    graph_schema = ArticleGraph(article)
+    json_graph = nx.node_link_data(graph_schema)
+    json_graph['layout'] = {k: tuple(v) for k, v in nx.multipartite_layout(graph_schema).items()}
 
     return json_graph
 
