@@ -2,6 +2,7 @@ import unicodedata
 from typing import List
 
 import networkx as nx
+from django.db.models import QuerySet
 from django.http import HttpRequest, JsonResponse
 from scholarly import scholarly, Publication, ProxyGenerator
 
@@ -19,8 +20,9 @@ class PublicationWithID:
         self.publication = publication
 
 
-def add_publication_to_database(publication: Publication, cites: int = None):
-    authors_mash = "".join(publication['bib'].get('author'))
+def add_publication_to_database(publication: Publication, cites: ScholarlyPublication = None):
+    authors = sorted(publication['bib'].get('author'))
+    authors_mash = "".join(authors)
 
     try:
         record = ScholarlyPublication.objects.get(title=publication['bib'].get('title'),
@@ -30,12 +32,13 @@ def add_publication_to_database(publication: Publication, cites: int = None):
                                                      authors=authors_mash,
                                                      publication=publication)
     else:
-        record.objects.update(title=publication['bib'].get('title'),
-                              authors=authors_mash,
-                              publication=publication)
+        record.title = publication['bib'].get('title')
+        record.authors = authors_mash
+        record.publication = publication
+        record.save()
 
     if cites is not None:
-        CitationReferences.objects.get_or_create(article_id=record.pk, cites_id=cites)
+        CitationReferences.objects.get_or_create(article_id=record, cites_id=cites)
 
     return PublicationWithID(idx=record.pk, publication=publication)
 
@@ -51,23 +54,28 @@ class ArticleGraph(nx.Graph):
     def get_citedby(self, article: PublicationWithID) -> List[PublicationWithID]:
         already_used = set()
 
-        query_set_publications = ScholarlyPublication.objects.filter(citationreferences__cites_id=article.idx).values()
-        fetched_results_num = len(query_set_publications)
+        db_record_of_publication = ScholarlyPublication.objects.get(pk=article.idx)
 
-        results = [PublicationWithID(query_set_publications[x]['id'], query_set_publications[x]['publication'])
-                   for x in range(min([fetched_results_num, self.max_articles_per_column]))]
+        query_set_publications = CitationReferences.objects.filter(cites_id=article.idx).values()
+        results = []
+        for result in query_set_publications:
+            citing_pub = ScholarlyPublication.objects.get(pk=result['article_id_id'])
+            results.append(PublicationWithID(citing_pub.id, citing_pub.publication))
+
         already_used.update([r.publication['bib'].get('title') for r in results])
 
-        core_article_cites = scholarly.citedby(scholarly.fill(article.publication))
-        counter = 0
-        while counter < core_article_cites.total_results and len(results) < self.max_articles_per_column:
-            next_publication = next(core_article_cites)
-            if next_publication['bib'].get('title') not in already_used:
-                article_with_id = add_publication_to_database(publication=next_publication, cites=article.idx)
-                results.append(article_with_id)
+        if len(results) < self.max_articles_per_column:
+            core_article_cites = scholarly.citedby(scholarly.fill(article.publication))
+            counter = 0
+            while counter < core_article_cites.total_results and len(results) < self.max_articles_per_column:
+                next_publication = next(core_article_cites)
+                if next_publication['bib'].get('title') not in already_used:
+                    article_with_id = add_publication_to_database(publication=next_publication,
+                                                                  cites=db_record_of_publication)
+                    results.append(article_with_id)
 
-                counter += 1
-                already_used.add(next_publication['bib'].get('title'))
+                    counter += 1
+                    already_used.add(next_publication['bib'].get('title'))
 
         return results
 
@@ -106,17 +114,19 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
         have been found in Google Scholar.
     """
     # Check the database for stored data
+    authors = sorted(authors)
     authors_mash = "".join(authors)
     if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
         # Publication found. Get from the database
         print("Record for publication {} retrieved from the database.".format(title))
         db_records = ScholarlyPublication.objects.get(title=title, authors=authors_mash)
-        if len(db_records) == 1:
+        if isinstance(db_records, QuerySet):
             raise RuntimeError('Database contain more than one result with this title and authors.')
         else:
             return PublicationWithID(db_records.pk, publication=db_records.publication)
     else:
         # query need to reflect what we put into the Google Scholar search bar.
+        print("Looking for article {} in scholarly.".format(title))
         query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
         publication_generator = scholarly.search_pubs(query=query)
 
