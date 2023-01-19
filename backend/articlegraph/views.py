@@ -30,9 +30,9 @@ def add_publication_to_database(publication: Publication, cites: int = None):
                                                      authors=authors_mash,
                                                      publication=publication)
     else:
-        record.update(title=publication['bib'].get('title'),
-                      authors=authors_mash,
-                      publication=publication)
+        record.objects.update(title=publication['bib'].get('title'),
+                              authors=authors_mash,
+                              publication=publication)
 
     if cites is not None:
         CitationReferences.objects.get_or_create(article_id=record.pk, cites_id=cites)
@@ -72,7 +72,7 @@ class ArticleGraph(nx.Graph):
         return results
 
     def create_right_side_of_graph(self):
-        core_article_cited_in = self.get_citedby(scholarly.fill(self.core_article))
+        core_article_cited_in = self.get_citedby(self.core_article)
         core_article_cited_in = sorted(core_article_cited_in,
                                        key=lambda x: x.publication.get('num_citations', 0), reverse=True)
         start_idx = self.number_of_nodes()
