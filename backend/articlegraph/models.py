@@ -9,5 +9,5 @@ class ScholarlyPublication(models.Model):
 
 
 class CitationReferences(models.Model):
-    article_id = models.ForeignKey(ScholarlyPublication, on_delete=models.CASCADE)
-    cites_id = models.ForeignKey(ScholarlyPublication, on_delete=models.CASCADE)
+    article_id = models.ForeignKey(ScholarlyPublication, related_name='article_id', on_delete=models.CASCADE)
+    cites_id = models.ForeignKey(ScholarlyPublication, related_name='cites_id', on_delete=models.CASCADE)
