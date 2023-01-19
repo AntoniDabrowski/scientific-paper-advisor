@@ -1,0 +1,948 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+39,These results highlight that further research is required for scaling sOoO cores to larger instruction windows.,"This is because larger instruction windows offer more ILP opportunities to OoO execution, thus widening
+the performance gap with Ideal-sOoO which only extracts MLP.","Furthermore, given that MLP’s contribution to overall performance reduces at large windows and that Freeway already
+extracts a large portion of the available MLP, the research in scaling sOoO cores should focus on ILP rather than
+capturing the MLP opportunities missed by Freeway.",2022-01-03 05:46:31+00:00,Freeway to Memory Level Parallelism in Slice-Out-of-Order Cores,cs.AR,['cs.AR'],"[arxiv.Result.Author('Rakesh Kumar'), arxiv.Result.Author('Mehdi Alipour'), arxiv.Result.Author('David Black-Schaffer')]","Exploiting memory level parallelism (MLP) is crucial to hide long memory and
+last level cache access latencies. While out-of-order (OoO) cores, and
+techniques building on them, are effective at exploiting MLP, they deliver poor
+energy efficiency due to their complex and energy-hungry hardware. This work
+revisits slice-out-of-order (sOoO) cores as an energy efficient alternative for
+MLP exploitation. sOoO cores achieve energy efficiency by constructing and
+executing \textit{slices} of MLP generating instructions out-of-order only with
+respect to the rest of instructions; the slices and the remaining instructions,
+by themselves, execute in-order. However, we observe that existing sOoO cores
+miss significant MLP opportunities due to their dependence-oblivious in-order
+slice execution, which causes dependent slices to frequently block MLP
+generation. To boost MLP generation, we introduce Freeway, a sOoO core based on
+a new dependence-aware slice execution policy that tracks dependent slices and
+keeps them from blocking subsequent independent slices and MLP extraction. The
+proposed core incurs minimal area and power overheads, yet approaches the MLP
+benefits of fully OoO cores. Our evaluation shows that Freeway delivers 12%
+better performance than the state-of-the-art sOoO core and is within 7% of the
+MLP limits of full OoO execution.",-0.14117339,0.14009853,-0.044966627,C
+425,"This study will spark further research
+a set of operations to update the age bits of blocks for                             in designing more advanced thermal-aware replacement
+each cache access and to ﬁnd the suitable victim for each                            policies for STT-MRAM caches.","Moreover, LRU conducts                                 higher performance.",cache miss.,2022-01-12 09:11:12+00:00,TA-LRW: A Replacement Policy for Error Rate Reduction in STT-MRAM Caches,cs.AR,['cs.AR'],"[arxiv.Result.Author('Elham Cheshmikhani'), arxiv.Result.Author('Hamed Farbeh'), arxiv.Result.Author('Seyed Ghassem Miremadi'), arxiv.Result.Author('Hossein Asadi')]","As technology process node scales down, on-chip SRAM caches lose their
+efficiency because of their low scalability, high leakage power, and increasing
+rate of soft errors. Among emerging memory technologies, Spin-Transfer Torque
+Magnetic RAM (STT-MRAM) is known as the most promising replacement for
+SRAM-based cache memories. The main advantages of STT-MRAM are its
+non-volatility, near-zero leakage power, higher density, soft-error immunity,
+and higher scalability. Despite these advantages, the high error rate in
+STT-MRAM cells due to retention failure, write failure, and read disturbance
+threatens the reliability of cache memories built upon STT-MRAM technology. The
+error rate is significantly increased in higher temperatures, which further
+affects the reliability of STT-MRAM-based cache memories. The major source of
+heat generation and temperature increase in STT-MRAM cache memories is write
+operations, which are managed by cache replacement policy. In this paper, we
+first analyze the cache behavior in the conventional LRU replacement policy and
+demonstrate that the majority of consecutive write operations (more than 66%)
+are committed to adjacent cache blocks. These adjacent write operations cause
+accumulated heat and increased temperature, which significantly increases the
+cache error rate. To eliminate heat accumulation and the adjacency of
+consecutive writes, we propose a cache replacement policy, named Thermal-Aware
+Least-Recently Written (TA-LRW), to smoothly distribute the generated heat by
+conducting consecutive write operations in distant cache blocks. TA-LRW
+guarantees the distance of at least three blocks for each two consecutive write
+operations in an 8-way associative cache. This distant write scheme reduces the
+temperature-induced error rate by 94.8%, on average, compared with the
+conventional LRU policy, which results in 6.9x reduction in cache error rate.",-0.002158001,0.1889301,0.00864396,C
+519,"Our SparseP software package is freely and publicly available [49] to enable further research
+ on SpMV in current and future PIM systems.","(4) Design high-speed communication channels and optimized libraries for data transfers
+    to/from thousands of DRAM banks of PIM-enabled memory.","The main contributions of this work are as follows:
+• We present SparseP, the first open-source SpMV software package for real PIM architectures.",2022-01-13 16:56:57+00:00,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,cs.AR,"['cs.AR', 'cs.DC', 'cs.PF']","[arxiv.Result.Author('Christina Giannoula'), arxiv.Result.Author('Ivan Fernandez'), arxiv.Result.Author('Juan Gómez-Luna'), arxiv.Result.Author('Nectarios Koziris'), arxiv.Result.Author('Georgios Goumas'), arxiv.Result.Author('Onur Mutlu')]","Several manufacturers have already started to commercialize near-bank
+Processing-In-Memory (PIM) architectures. Near-bank PIM architectures place
+simple cores close to DRAM banks and can yield significant performance and
+energy improvements in parallel applications by alleviating data access costs.
+Real PIM systems can provide high levels of parallelism, large aggregate memory
+bandwidth and low memory access latency, thereby being a good fit to accelerate
+the widely-used, memory-bound Sparse Matrix Vector Multiplication (SpMV)
+kernel.
+  This paper provides the first comprehensive analysis of SpMV on a real-world
+PIM architecture, and presents SparseP, the first SpMV library for real PIM
+architectures. We make three key contributions. First, we implement a wide
+variety of software strategies on SpMV for a multithreaded PIM core and
+characterize the computational limits of a single multithreaded PIM core.
+Second, we design various load balancing schemes across multiple PIM cores, and
+two types of data partitioning techniques to execute SpMV on thousands of PIM
+cores: (1) 1D-partitioned kernels to perform the complete SpMV computation only
+using PIM cores, and (2) 2D-partitioned kernels to strive a balance between
+computation and data transfer costs to PIM-enabled memory. Third, we compare
+SpMV execution on a real-world PIM system with 2528 PIM cores to
+state-of-the-art CPU and GPU systems to study the performance and energy
+efficiency of various devices. SparseP software package provides 25 SpMV
+kernels for real PIM systems supporting the four most widely used compressed
+matrix formats, and a wide range of data types. Our extensive evaluation
+provides new insights and recommendations for software designers and hardware
+architects to efficiently accelerate SpMV on real PIM systems.",0.66316926,-0.25035235,-0.0060621016,A_centroid
+520,"Our SparseP software package is freely and publicly available [88] to enable further research on
+SpMV in current and future PIM systems.","(4) Design high-speed communication channels and optimized libraries for data transfers to/from
+       thousands of DRAM banks of PIM-enabled memory.","The main contributions of this work are as follows:
+    • We present SparseP, the first open-source SpMV software package for real PIM architectures.",2022-01-13 16:56:57+00:00,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,cs.AR,"['cs.AR', 'cs.DC', 'cs.PF']","[arxiv.Result.Author('Christina Giannoula'), arxiv.Result.Author('Ivan Fernandez'), arxiv.Result.Author('Juan Gómez-Luna'), arxiv.Result.Author('Nectarios Koziris'), arxiv.Result.Author('Georgios Goumas'), arxiv.Result.Author('Onur Mutlu')]","Several manufacturers have already started to commercialize near-bank
+Processing-In-Memory (PIM) architectures. Near-bank PIM architectures place
+simple cores close to DRAM banks and can yield significant performance and
+energy improvements in parallel applications by alleviating data access costs.
+Real PIM systems can provide high levels of parallelism, large aggregate memory
+bandwidth and low memory access latency, thereby being a good fit to accelerate
+the widely-used, memory-bound Sparse Matrix Vector Multiplication (SpMV)
+kernel.
+  This paper provides the first comprehensive analysis of SpMV on a real-world
+PIM architecture, and presents SparseP, the first SpMV library for real PIM
+architectures. We make three key contributions. First, we implement a wide
+variety of software strategies on SpMV for a multithreaded PIM core and
+characterize the computational limits of a single multithreaded PIM core.
+Second, we design various load balancing schemes across multiple PIM cores, and
+two types of data partitioning techniques to execute SpMV on thousands of PIM
+cores: (1) 1D-partitioned kernels to perform the complete SpMV computation only
+using PIM cores, and (2) 2D-partitioned kernels to strive a balance between
+computation and data transfer costs to PIM-enabled memory. Third, we compare
+SpMV execution on a real-world PIM system with 2528 PIM cores to
+state-of-the-art CPU and GPU systems to study the performance and energy
+efficiency of various devices. SparseP software package provides 25 SpMV
+kernels for real PIM systems supporting the four most widely used compressed
+matrix formats, and a wide range of data types. Our extensive evaluation
+provides new insights and recommendations for software designers and hardware
+architects to efficiently accelerate SpMV on real PIM systems.",0.6636101,-0.2515654,-0.0062408517,A
+521,"Our SparseP software package is freely and publicly available [88] to enable further research on
+SpMV in current and future PIM systems.","(4) Design high-speed communication channels and optimized libraries for data transfers to/from
+       thousands of DRAM banks of PIM-enabled memory.","The main contributions of this work are as follows:
+    • We present SparseP, the first open-source SpMV software package for real PIM architectures.",2022-01-13 16:56:57+00:00,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,cs.AR,"['cs.AR', 'cs.DC', 'cs.PF']","[arxiv.Result.Author('Christina Giannoula'), arxiv.Result.Author('Ivan Fernandez'), arxiv.Result.Author('Juan Gómez-Luna'), arxiv.Result.Author('Nectarios Koziris'), arxiv.Result.Author('Georgios Goumas'), arxiv.Result.Author('Onur Mutlu')]","Several manufacturers have already started to commercialize near-bank
+Processing-In-Memory (PIM) architectures. Near-bank PIM architectures place
+simple cores close to DRAM banks and can yield significant performance and
+energy improvements in parallel applications by alleviating data access costs.
+Real PIM systems can provide high levels of parallelism, large aggregate memory
+bandwidth and low memory access latency, thereby being a good fit to accelerate
+the widely-used, memory-bound Sparse Matrix Vector Multiplication (SpMV)
+kernel.
+  This paper provides the first comprehensive analysis of SpMV on a real-world
+PIM architecture, and presents SparseP, the first SpMV library for real PIM
+architectures. We make three key contributions. First, we implement a wide
+variety of software strategies on SpMV for a multithreaded PIM core and
+characterize the computational limits of a single multithreaded PIM core.
+Second, we design various load balancing schemes across multiple PIM cores, and
+two types of data partitioning techniques to execute SpMV on thousands of PIM
+cores: (1) 1D-partitioned kernels to perform the complete SpMV computation only
+using PIM cores, and (2) 2D-partitioned kernels to strive a balance between
+computation and data transfer costs to PIM-enabled memory. Third, we compare
+SpMV execution on a real-world PIM system with 2528 PIM cores to
+state-of-the-art CPU and GPU systems to study the performance and energy
+efficiency of various devices. SparseP software package provides 25 SpMV
+kernels for real PIM systems supporting the four most widely used compressed
+matrix formats, and a wide range of data types. Our extensive evaluation
+provides new insights and recommendations for software designers and hardware
+architects to efficiently accelerate SpMV on real PIM systems.",0.6636101,-0.2515654,-0.0062408517,A
+522,"Our SparseP software package is freely and publicly available [88] to enable further research on
+SpMV in current and future PIM systems.","(4) Design high-speed communication channels and optimized libraries for data transfers to/from
+       thousands of DRAM banks of PIM-enabled memory.","The main contributions of this work are as follows:
+    • We present SparseP, the first open-source SpMV software package for real PIM architectures.",2022-01-13 16:56:57+00:00,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,cs.AR,"['cs.AR', 'cs.DC', 'cs.PF']","[arxiv.Result.Author('Christina Giannoula'), arxiv.Result.Author('Ivan Fernandez'), arxiv.Result.Author('Juan Gómez-Luna'), arxiv.Result.Author('Nectarios Koziris'), arxiv.Result.Author('Georgios Goumas'), arxiv.Result.Author('Onur Mutlu')]","Several manufacturers have already started to commercialize near-bank
+Processing-In-Memory (PIM) architectures. Near-bank PIM architectures place
+simple cores close to DRAM banks and can yield significant performance and
+energy improvements in parallel applications by alleviating data access costs.
+Real PIM systems can provide high levels of parallelism, large aggregate memory
+bandwidth and low memory access latency, thereby being a good fit to accelerate
+the widely-used, memory-bound Sparse Matrix Vector Multiplication (SpMV)
+kernel.
+  This paper provides the first comprehensive analysis of SpMV on a real-world
+PIM architecture, and presents SparseP, the first SpMV library for real PIM
+architectures. We make three key contributions. First, we implement a wide
+variety of software strategies on SpMV for a multithreaded PIM core and
+characterize the computational limits of a single multithreaded PIM core.
+Second, we design various load balancing schemes across multiple PIM cores, and
+two types of data partitioning techniques to execute SpMV on thousands of PIM
+cores: (1) 1D-partitioned kernels to perform the complete SpMV computation only
+using PIM cores, and (2) 2D-partitioned kernels to strive a balance between
+computation and data transfer costs to PIM-enabled memory. Third, we compare
+SpMV execution on a real-world PIM system with 2528 PIM cores to
+state-of-the-art CPU and GPU systems to study the performance and energy
+efficiency of various devices. SparseP software package provides 25 SpMV
+kernels for real PIM systems supporting the four most widely used compressed
+matrix formats, and a wide range of data types. Our extensive evaluation
+provides new insights and recommendations for software designers and hardware
+architects to efficiently accelerate SpMV on real PIM systems.",0.6636101,-0.2515654,-0.0062408517,A
+821,"The toolbox is open-source       integer approximate multiplier can be deﬁned as:
+      and can contribute to further research on approximate
+      computing and quantization for DNNs.","Therefore, the average error of an
+      approximate multiplication.","In the following sections, we ﬁrstly demonstrate our op-
+timization method for the automatic design of approximate
+multipliers and describe how to apply this method to the
+multiplier for DNNs.",2022-01-20 07:10:48+00:00,HEAM: High-Efficiency Approximate Multiplier Optimization for Deep Neural Networks,cs.AR,"['cs.AR', 'cs.AI']","[arxiv.Result.Author('Su Zheng'), arxiv.Result.Author('Zhen Li'), arxiv.Result.Author('Yao Lu'), arxiv.Result.Author('Jingbo Gao'), arxiv.Result.Author('Jide Zhang'), arxiv.Result.Author('Lingli Wang')]","Deep neural networks (DNNs) are widely applied to artificial intelligence
+applications, achieving promising performance at the cost of massive
+computation, large power consumption, and high latency. Diverse solutions have
+been proposed to cope with the challenge of latency and power consumption,
+including light-weight neural networks and efficient hardware accelerators.
+Moreover, research on quantization reduces the cost of computation and shows
+the error resiliency of DNNs. To improve the latency and power efficiency of
+hardware accelerators by exploiting the error resiliency, we propose an
+application-specific optimization method for the automatic design of
+approximate multipliers for DNNs. The proposed method optimizes an approximate
+multiplier by minimizing the error according to the probability distributions
+extracted from DNNs. By applying the optimized approximate multiplier to a DNN,
+we obtain 1.60%, 15.32%, and 20.19% higher accuracies than the best reproduced
+approximate multiplier on the widely used MNIST, FashionMNIST, and CIFAR-10
+datasets, respectively, with 12.17% smaller area, 23.38% less power
+consumption, and 16.53% lower latency. Compared with an exact multiplier, the
+optimized multiplier reduces the area, power consumption, and latency by
+36.88%, 52.45%, and 26.63%, respectively. Applied to FPGA-based and ASIC-based
+DNN accelerator modules, our approximate multiplier obtains low LUT utilization
+and small area respectively with competitive max frequency and power
+consumption, which shows the effectiveness of the proposed method in reducing
+the hardware cost of DNN accelerators.",-0.40858656,-0.26002362,-0.48401535,B
+2729,This plot shows variants of the Small model with         WNNs warrant further research in this area.,"The low
+value b increases to compensate for the larger number of hash       latency and low energy beneﬁts that can be obtained from
+functions.",up to 128 hash functions per Bloom ﬁlter.,2022-03-03 01:46:05+00:00,Weightless Neural Networks for Efficient Edge Inference,cs.AR,"['cs.AR', 'cs.LG']","[arxiv.Result.Author('Zachary Susskind'), arxiv.Result.Author('Aman Arora'), arxiv.Result.Author('Igor Dantas Dos Santos Miranda'), arxiv.Result.Author('Luis Armando Quintanilla Villon'), arxiv.Result.Author('Rafael Fontella Katopodis'), arxiv.Result.Author('Leandro Santiago de Araujo'), arxiv.Result.Author('Diego Leonel Cadette Dutra'), arxiv.Result.Author('Priscila Machado Vieira Lima'), arxiv.Result.Author('Felipe Maia Galvao Franca'), arxiv.Result.Author('Mauricio Breternitz Jr.'), arxiv.Result.Author('Lizy K. John')]","Weightless Neural Networks (WNNs) are a class of machine learning model which
+use table lookups to perform inference. This is in contrast with Deep Neural
+Networks (DNNs), which use multiply-accumulate operations. State-of-the-art WNN
+architectures have a fraction of the implementation cost of DNNs, but still lag
+behind them on accuracy for common image recognition tasks. Additionally, many
+existing WNN architectures suffer from high memory requirements. In this paper,
+we propose a novel WNN architecture, BTHOWeN, with key algorithmic and
+architectural improvements over prior work, namely counting Bloom filters,
+hardware-friendly hashing, and Gaussian-based nonlinear thermometer encodings
+to improve model accuracy and reduce area and energy consumption. BTHOWeN
+targets the large and growing edge computing sector by providing superior
+latency and energy efficiency to comparable quantized DNNs. Compared to
+state-of-the-art WNNs across nine classification datasets, BTHOWeN on average
+reduces error by more than than 40% and model size by more than 50%. We then
+demonstrate the viability of the BTHOWeN architecture by presenting an
+FPGA-based accelerator, and compare its latency and resource usage against
+similarly accurate quantized DNN accelerators, including Multi-Layer Perceptron
+(MLP) and convolutional models. The proposed BTHOWeN models consume almost 80%
+less energy than the MLP models, with nearly 85% reduction in latency. In our
+quest for efficient ML on the edge, WNNs are clearly deserving of additional
+attention.",-0.18386911,0.02294043,-0.22334784,C
+2831,"These ndings support the                         Microprocessor,” in ISLPED, 2012.
+adoption of AW in future CPUs targeting servers in datacen-
+ters running microservices and calls for further research that        [14] R. Schöne, D. Molka, and M. Werner, “Wake-up Laten-
+                                                                             cies for Processor Idle States on Current x86 Processors,”
+                                                                             Computer Science-Research and Development, 2015.","Our detailed evaluation reveals that AW has the potential             [13] A. Rogers, D. Kaplan, E. Quinnell, and B. Kwan, “The
+to realize power savings up to 71% per core at a worst-case                  Core-C6 (CC6) Sleep State of the AMD Bobcat x86
+1% performance degradation.","13
+[15] R. Schöne, T. Ilsche, M. Bielert, A. Gocht, and                  [28] CPUbenchmark, “AMD vs Intel Market Share,” ac-
+      D. Hackenberg, “Energy E ciency Features of the In-                   cessed Nov 2020, https://bit.ly/3kV6kWY.",2022-03-04 19:56:56+00:00,AgileWatts: An Energy-Efficient CPU Core Idle-State Architecture for Latency-Sensitive Server Applications,cs.AR,['cs.AR'],"[arxiv.Result.Author('Jawad Haj Yahya'), arxiv.Result.Author('Haris Volos'), arxiv.Result.Author('Davide B. Bartolini'), arxiv.Result.Author('Georgia Antoniou'), arxiv.Result.Author('Jeremie S. Kim'), arxiv.Result.Author('Zhe Wang'), arxiv.Result.Author('Kleovoulos Kalaitzidis'), arxiv.Result.Author('Tom Rollet'), arxiv.Result.Author('Zhirui Chen'), arxiv.Result.Author('Ye Geng'), arxiv.Result.Author('Onur Mutlu'), arxiv.Result.Author('Yiannakis Sazeides')]","User-facing applications running in modern datacenters exhibit irregular
+request patterns and are implemented using a multitude of services with tight
+latency requirements. These characteristics render ineffective existing energy
+conserving techniques when processors are idle due to the long transition time
+from a deep idle power state (C-state). While prior works propose management
+techniques to mitigate this inefficiency, we tackle it at its root with
+AgileWatts (AW): a new deep C-state architecture optimized for datacenter
+server processors targeting latency-sensitive applications. AW is based on
+three key ideas. First, AW eliminates the latency overhead of saving/restoring
+the core context (i.e., micro-architectural state) when powering-off/-on the
+core in a deep idle power state by i) implementing medium-grained power-gates,
+carefully distributed across the CPU core, and ii) retaining context in the
+power-ungated domain. Second, AW eliminates the flush latency overhead (several
+tens of microseconds) of the L1/L2 caches when entering a deep idle power state
+by keeping L1/L2 cache content power-ungated. A minimal control logic also
+remains power-ungated to serve cache coherence traffic (i.e., snoops)
+seamlessly. AW implements sleep-mode in caches to reduce caches leakage power
+consumption and lowers a core voltage to the minimum operational voltage level
+to minimize the leakage power of the power-ungated domain. Third, using a
+state-of-the-art power efficient all-digital phase-locked loop (ADPLL) clock
+generator, AW keeps the PLL active and locked during the idle state, further
+cutting precious microseconds of wake-up latency at a negligible power cost.
+Our evaluation with an accurate simulator calibrated against an Intel Skylake
+server shows that AW reduces the energy consumption of Memcached by up to 71%
+(35% on average) with up to 1% performance degradation.",-0.16532995,0.3880817,0.034523983,C
+2832,"Be-                       latency-critical applications and calls for further research into
+sides C-states, the other major power-management feature of            lowering the latency of deep idle states.","These results support
+                                                                       the adoption of AW in future datacenter server CPUs running
+Fine-grained, Latency-Aware DVFS Management.","modern processors is dynamic voltage and frequency scaling
+(DVFS).",2022-03-04 19:56:56+00:00,AgileWatts: An Energy-Efficient CPU Core Idle-State Architecture for Latency-Sensitive Server Applications,cs.AR,['cs.AR'],"[arxiv.Result.Author('Jawad Haj Yahya'), arxiv.Result.Author('Haris Volos'), arxiv.Result.Author('Davide B. Bartolini'), arxiv.Result.Author('Georgia Antoniou'), arxiv.Result.Author('Jeremie S. Kim'), arxiv.Result.Author('Zhe Wang'), arxiv.Result.Author('Kleovoulos Kalaitzidis'), arxiv.Result.Author('Tom Rollet'), arxiv.Result.Author('Zhirui Chen'), arxiv.Result.Author('Ye Geng'), arxiv.Result.Author('Onur Mutlu'), arxiv.Result.Author('Yiannakis Sazeides')]","User-facing applications running in modern datacenters exhibit irregular
+request patterns and are implemented using a multitude of services with tight
+latency requirements. These characteristics render ineffective existing energy
+conserving techniques when processors are idle due to the long transition time
+from a deep idle power state (C-state). While prior works propose management
+techniques to mitigate this inefficiency, we tackle it at its root with
+AgileWatts (AW): a new deep C-state architecture optimized for datacenter
+server processors targeting latency-sensitive applications. AW is based on
+three key ideas. First, AW eliminates the latency overhead of saving/restoring
+the core context (i.e., micro-architectural state) when powering-off/-on the
+core in a deep idle power state by i) implementing medium-grained power-gates,
+carefully distributed across the CPU core, and ii) retaining context in the
+power-ungated domain. Second, AW eliminates the flush latency overhead (several
+tens of microseconds) of the L1/L2 caches when entering a deep idle power state
+by keeping L1/L2 cache content power-ungated. A minimal control logic also
+remains power-ungated to serve cache coherence traffic (i.e., snoops)
+seamlessly. AW implements sleep-mode in caches to reduce caches leakage power
+consumption and lowers a core voltage to the minimum operational voltage level
+to minimize the leakage power of the power-ungated domain. Third, using a
+state-of-the-art power efficient all-digital phase-locked loop (ADPLL) clock
+generator, AW keeps the PLL active and locked during the idle state, further
+cutting precious microseconds of wake-up latency at a negligible power cost.
+Our evaluation with an accurate simulator calibrated against an Intel Skylake
+server shows that AW reduces the energy consumption of Memcached by up to 71%
+(35% on average) with up to 1% performance degradation.",-0.03865582,0.3068914,-0.029428855,C
+3566,"further research is desirable to develop faster reconﬁgurable                  [16] Dirk Koch, Nguyen Dao, Bea Healy, Jing Yu, and Andrew Attwood.",Intel intrinsics guide.,"FPGAs, especially for smaller regions to implement instruc-
+tions.",2022-03-19 17:21:01+00:00,FPGA-extended Modified Harvard Architecture,cs.AR,"['cs.AR', 'cs.OS']",[arxiv.Result.Author('Philippos Papaphilippou')],"This paper explores a computer architecture, where part of the instruction
+set architecture (ISA) is implemented on small highly-integrated
+field-programmable gate arrays (FPGAs). It has already been demonstrated that
+small FPGAs inside a general-purpose processor (CPU) can be used effectively to
+implement custom instructions and, in some cases, approach accelerator-level of
+performance. Our proposed architecture goes one step further to directly
+address some related challenges for high-end CPUs, where such highly-integrated
+FPGAs would have the highest impact, including access to the memory hierarchy
+with the highest bandwidth available. The main contribution is the introduction
+of the ""FPGA-extended modified Harvard architecture"" model to enable
+context-switching between processes with a different distribution of
+instructions without modifying the applications. The cycle-approximate
+evaluation of a dynamically reconfigurable core shows promising results for
+multi-processing, approaching the performance to an equivalent core with all
+enabled instructions, and better performance than when featuring a fixed subset
+of the supported instructions.",-0.101992145,0.0739776,-0.2455321,C
+6202,further research on joint hardware and algorithm optimization.,"Therefore, there is a critical need to minimize the
+                                        companies, including Google and Facebook, have developed                 latency and energy consumption due to the off-chip memory
+                                        libraries and computing systems for GCNs [6, 7], stimulating             accesses in GCN accelerators.","In-memory computing (IMC) decreases memory access-
+                                           GCNs operate on graphs by preserving their interconnec-               related latency and energy consumption by integrating com-
+                                        tions.",2022-05-15 15:29:42+00:00,COIN: Communication-Aware In-Memory Acceleration for Graph Convolutional Networks,cs.AR,"['cs.AR', 'cs.LG']","[arxiv.Result.Author('Sumit K. Mandal'), arxiv.Result.Author('Gokul Krishnan'), arxiv.Result.Author('A. Alper Goksoy'), arxiv.Result.Author('Gopikrishnan Ravindran Nair'), arxiv.Result.Author('Yu Cao'), arxiv.Result.Author('Umit Y. Ogras')]","Graph convolutional networks (GCNs) have shown remarkable learning
+capabilities when processing graph-structured data found inherently in many
+application areas. GCNs distribute the outputs of neural networks embedded in
+each vertex over multiple iterations to take advantage of the relations
+captured by the underlying graphs. Consequently, they incur a significant
+amount of computation and irregular communication overheads, which call for
+GCN-specific hardware accelerators. To this end, this paper presents a
+communication-aware in-memory computing architecture (COIN) for GCN hardware
+acceleration. Besides accelerating the computation using custom compute
+elements (CE) and in-memory computing, COIN aims at minimizing the intra- and
+inter-CE communication in GCN operations to optimize the performance and energy
+efficiency. Experimental evaluations with widely used datasets show up to 105x
+improvement in energy consumption compared to state-of-the-art GCN accelerator.",-0.06034082,0.22894233,-0.24608499,C_centroid
+6203,"The irregular structure
+of these matrices and the need for a column-level or block           [3] H. Dai, Z. Kozareva, B. Dai, A. Smola, and L. Song, “Learning
+sparsity for IMC is left for further research.","We
+do not exploit the adjacency matrix and feature matrix sparsity      [2] R. Ying et al., “Hierarchical graph representation learning with
+in this work while addressing the ever-important on-chip com-             differentiable pooling,” arXiv preprint arXiv:1806.08804, 2018.
+munication cost for GCN acceleration.","Experimental               steady-states of iterative algorithms over graphs,” in Interna-
+evaluations across different datasets show that COIN achieves             tional conference on machine learning.",2022-05-15 15:29:42+00:00,COIN: Communication-Aware In-Memory Acceleration for Graph Convolutional Networks,cs.AR,"['cs.AR', 'cs.LG']","[arxiv.Result.Author('Sumit K. Mandal'), arxiv.Result.Author('Gokul Krishnan'), arxiv.Result.Author('A. Alper Goksoy'), arxiv.Result.Author('Gopikrishnan Ravindran Nair'), arxiv.Result.Author('Yu Cao'), arxiv.Result.Author('Umit Y. Ogras')]","Graph convolutional networks (GCNs) have shown remarkable learning
+capabilities when processing graph-structured data found inherently in many
+application areas. GCNs distribute the outputs of neural networks embedded in
+each vertex over multiple iterations to take advantage of the relations
+captured by the underlying graphs. Consequently, they incur a significant
+amount of computation and irregular communication overheads, which call for
+GCN-specific hardware accelerators. To this end, this paper presents a
+communication-aware in-memory computing architecture (COIN) for GCN hardware
+acceleration. Besides accelerating the computation using custom compute
+elements (CE) and in-memory computing, COIN aims at minimizing the intra- and
+inter-CE communication in GCN operations to optimize the performance and energy
+efficiency. Experimental evaluations with widely used datasets show up to 105x
+improvement in energy consumption compared to state-of-the-art GCN accelerator.",-0.23081246,-0.12417963,-0.03970933,C
+6275,"A further study can look into these devices
+looking trends on the role of ﬂash for key-value stores.","Lastly, we will identify forward-       vices [13,67,148].",with regards to key-value stores.,2022-05-11 08:21:34+00:00,Key-Value Stores on Flash Storage Devices: A Survey,cs.AR,"['cs.AR', 'cs.DB', 'H.3.4; A.1']","[arxiv.Result.Author('Krijn Doekemeijer'), arxiv.Result.Author('Animesh Trivedi')]","Key-value stores (KV) have become one of the main components of the modern
+storage and data processing system stack. With the increasing need for timely
+data analysis, performance becomes more and more critical. In the past, these
+stores were frequently optimised to run on HDD and DRAM devices. However, the
+last decade saw an increased interest in the use of flash devices because of
+their attractive properties. Flash is cheaper than DRAM and yet has a lower
+latency and higher throughput than HDDs. This literature survey aims to
+highlight the changes proposed in the last decade to optimise key-value stores
+for flash devices and predict what role these devices might play for key-value
+stores in the future.",-0.112022586,0.11126266,0.030295886,C
+6401,"As such,                      V. Chandra, “Heterogeneous Dataﬂow Accelerators for
+further research effort needs to be invested in                         Multi-DNN Workloads,” in HPCA, 2021.
+developing scalable methodologies that overcome                    8.","H. Kwon, L. Lai, M. Pellauer, T. Krishna, Y.-H. Chen, and
+the multiplicity and variability of DNNs.","E. Wang, J. J. Davis, R. Zhao, H.-C. Ng, X. Niu, W. Luk,
+this complexity in order to lead to the next-                           P. Y. K. Cheung, and G. A. Constantinides, “Deep
+generation of multi-DNN platforms.",2022-05-19 08:15:50+00:00,Multi-DNN Accelerators for Next-Generation AI Systems,cs.AR,"['cs.AR', 'cs.AI', 'cs.LG']","[arxiv.Result.Author('Stylianos I. Venieris'), arxiv.Result.Author('Christos-Savvas Bouganis'), arxiv.Result.Author('Nicholas D. Lane')]","As the use of AI-powered applications widens across multiple domains, so do
+increase the computational demands. Primary driver of AI technology are the
+deep neural networks (DNNs). When focusing either on cloud-based systems that
+serve multiple AI queries from different users each with their own DNN model,
+or on mobile robots and smartphones employing pipelines of various models or
+parallel DNNs for the concurrent processing of multi-modal data, the next
+generation of AI systems will have multi-DNN workloads at their core.
+Large-scale deployment of AI services and integration across mobile and
+embedded systems require additional breakthroughs in the computer architecture
+front, with processors that can maintain high performance as the number of DNNs
+increases while meeting the quality-of-service requirements, giving rise to the
+topic of multi-DNN accelerator design.",-0.34134072,-0.13115321,-0.25792938,B
+6422,"We are currently conducting further research to                            12th International Conference on Neural Information Processing Sys-
+develop this line of reasoning: how can we correlate learning                         tems, ser.","It is also difﬁcult to                            2019.
+estimate how novelty-driven veriﬁcation will perform apriori,
+whereas metrics such as classiﬁcation accuracy could be used                    [14] B. Scho¨lkopf, R. Williamson, A. Smola, J. Shawe-Taylor, and J. Platt,
+to estimate the future performance of coverage-directed test                          “Support vector method for novelty detection,” in Proceedings of the
+selection.",NIPS’99.,2022-05-19 13:22:08+00:00,Hybrid Intelligent Testing in Simulation-Based Verification,cs.AR,"['cs.AR', 'cs.AI', 'cs.LG', 'cs.SE']","[arxiv.Result.Author('Nyasha Masamba'), arxiv.Result.Author('Kerstin Eder'), arxiv.Result.Author('Tim Blackmore')]","Efficient and effective testing for simulation-based hardware verification is
+challenging. Using constrained random test generation, several millions of
+tests may be required to achieve coverage goals. The vast majority of tests do
+not contribute to coverage progress, yet they consume verification resources.
+In this paper, we propose a hybrid intelligent testing approach combining two
+methods that have previously been treated separately, namely Coverage-Directed
+Test Selection and Novelty-Driven Verification. Coverage-Directed Test
+Selection learns from coverage feedback to bias testing towards the most
+effective tests. Novelty-Driven Verification learns to identify and simulate
+stimuli that differ from previous stimuli, thereby reducing the number of
+simulations and increasing testing efficiency. We discuss the strengths and
+limitations of each method, and we show how our approach addresses each
+method's limitations, leading to hardware testing that is both efficient and
+effective.",-0.4465505,-0.40445915,0.5607116,B
+6423,"We are currently conducting further research to                      Workshop on Machine Learning for CAD, ser.","It is also difﬁcult to                      Available: https://doi.org/10.1007/978-3-030-04666-8 13
+estimate how novelty-driven veriﬁcation will perform apriori,
+whereas metrics such as classiﬁcation accuracy could be used              [11] R. Gal, E. Haber, and A. Ziv, “Using DNNs and smart sampling for
+to estimate the future performance of coverage-directed test                    coverage closure acceleration,” in Proceedings of the 2020 ACM/IEEE
+selection.",MLCAD ’20.,2022-05-19 13:22:08+00:00,Hybrid Intelligent Testing in Simulation-Based Verification,cs.AR,"['cs.AR', 'cs.AI', 'cs.LG', 'cs.SE']","[arxiv.Result.Author('Nyasha Masamba'), arxiv.Result.Author('Kerstin Eder'), arxiv.Result.Author('Tim Blackmore')]","Efficient and effective testing for simulation-based hardware verification is
+challenging. Using constrained random test generation, several millions of
+tests may be required to achieve coverage goals. The vast majority of tests do
+not contribute to coverage progress, yet they consume verification resources.
+In this paper, we propose a hybrid intelligent testing approach combining two
+methods that have previously been treated separately, namely Coverage-Directed
+Test Selection and Novelty-Driven Verification. Coverage-Directed Test
+Selection learns from coverage feedback to bias testing towards the most
+effective tests. Novelty-Driven Verification learns to identify and simulate
+stimuli that differ from previous stimuli, thereby reducing the number of
+simulations and increasing testing efficiency. We discuss the strengths and
+limitations of each method, and we show how our approach addresses each
+method's limitations, leading to hardware testing that is both efficient and
+effective.",-0.55098426,-0.37687618,0.5716208,B
+6424,"We are currently conducting further research to                      Workshop on Machine Learning for CAD, ser.","It is also difﬁcult to                      Available: https://doi.org/10.1007/978-3-030-04666-8 13
+estimate how novelty-driven veriﬁcation will perform apriori,
+whereas metrics such as classiﬁcation accuracy could be used              [11] R. Gal, E. Haber, and A. Ziv, “Using DNNs and smart sampling for
+to estimate the future performance of coverage-directed test                    coverage closure acceleration,” in Proceedings of the 2020 ACM/IEEE
+selection.",MLCAD ’20.,2022-05-19 13:22:08+00:00,Hybrid Intelligent Testing in Simulation-Based Verification,cs.AR,"['cs.AR', 'cs.AI', 'cs.LG', 'cs.SE']","[arxiv.Result.Author('Nyasha Masamba'), arxiv.Result.Author('Kerstin Eder'), arxiv.Result.Author('Tim Blackmore')]","Efficient and effective testing for simulation-based hardware verification is
+challenging. Using constrained random test generation, several millions of
+tests may be required to achieve coverage goals. The vast majority of tests do
+not contribute to coverage progress, yet they consume verification resources.
+In this paper, we propose a hybrid intelligent testing approach combining two
+methods that have previously been treated separately, namely Coverage-Directed
+Test Selection and Novelty-Driven Verification. Coverage-Directed Test
+Selection learns from coverage feedback to bias testing toward the most
+effective tests. Novelty-Driven Verification learns to identify and simulate
+stimuli that differ from previous stimuli, thereby reducing the number of
+simulations and increasing testing efficiency. We discuss the strengths and
+limitations of each method, and we show how our approach addresses each
+method's limitations, leading to hardware testing that is both efficient and
+effective.",-0.55098426,-0.37687618,0.5716208,B
+6996,"However, they (i) do not
+                                       trivial challenges that require further research to nd appro-       model DRAM operation beyond manufacturer-recommended
+                                       priate solutions.","Third, system simulators (e.g., gem5 [158, 159],
+                                                                                                           Ramulator [160, 161], Ramulator-PIM [162], zsim [163]) can
+                                       Integration of PiM techniques in a real system imposes non-         model end-to-end computing systems.","For example, in-DRAM copy and initializa-         timing parameters, (ii) do not have a way of interfacing with
+                                       tion techniques [51, 72] that copy data in bulk (e.g., one or       real DRAM chips that embody undisclosed and unique char-
+                                       multiple memory pages) require modi cations related to mem-         acteristics that have implications on how PiM techniques are
+                                       ory management that a ect various di erent parts of the sys-        integrated into real systems (e.g., proprietary and chip-speci c
+                                       tem.",2022-06-01 06:43:58+00:00,PiDRAM: An FPGA-based Framework for End-to-end Evaluation of Processing-in-DRAM Techniques,cs.AR,['cs.AR'],"[arxiv.Result.Author('Ataberk Olgun'), arxiv.Result.Author('Juan Gomez Luna'), arxiv.Result.Author('Konstantinos Kanellopoulos'), arxiv.Result.Author('Behzad Salami'), arxiv.Result.Author('Hasan Hassan'), arxiv.Result.Author('Oguz Ergin'), arxiv.Result.Author('Onur Mutlu')]","DRAM-based main memory is used in nearly all computing systems as a major
+component. One way of overcoming the main memory bottleneck is to move
+computation near memory, a paradigm known as processing-in-memory (PiM). Recent
+PiM techniques provide a promising way to improve the performance and energy
+efficiency of existing and future systems at no additional DRAM hardware cost.
+  We develop the Processing-in-DRAM (PiDRAM) framework, the first flexible,
+end-to-end, and open source framework that enables system integration studies
+and evaluation of real PiM techniques using real DRAM chips. We demonstrate a
+prototype of PiDRAM on an FPGA-based platform (Xilinx ZC706) that implements an
+open-source RISC-V system (Rocket Chip). To demonstrate the flexibility and
+ease of use of PiDRAM, we implement two PiM techniques: (1) RowClone, an
+in-DRAM copy and initialization mechanism (using command sequences proposed by
+ComputeDRAM), and (2) D-RaNGe, an in-DRAM true random number generator based on
+DRAM activation-latency failures.
+  Our end-to-end evaluation of RowClone shows up to 14.6X speedup for copy and
+12.6X initialization operations over CPU copy (i.e., conventional memcpy) and
+initialization (i.e., conventional calloc) operations. Our implementation of
+D-RaNGe provides high throughput true random numbers, reaching 8.30 Mb/s
+throughput. Over the Verilog and C++ basis provided by PiDRAM, implementing the
+required hardware and software components, implementing RowClone end-to-end
+takes 198 (565) and implementing D-RaNGe end-to-end takes 190 (78) lines of
+Verilog (C++) code. PiDRAM is open sourced on Github:
+https://github.com/CMU-SAFARI/PiDRAM.",0.21825291,0.070076,0.056469973,A
+8144,"Therefore, the design
+space exploration of STT-MRAM and SOT-MRAM for mobile CPUs and hardware
+accelerators for inference workloads merits further research.","Thus, last-level caches of mobile CPUs or hardware accelerators can
+also be replaced by STT-MRAM and SOT-MRAM to improve performance and
+energy by reducing leakage energy and costly oﬀ-chip memory accesses due to
+their non-volatility and higher cell density [79, 80, 81, 82].","6 Conclusion
+
+In this chapter, we present the ﬁrst cross-layer analysis framework to characterize,
+model, and analyze various NVM technologies in GPU architectures for deep learn-
+ing workloads.",2022-06-27 19:27:57+00:00,Efficient Deep Learning Using Non-Volatile Memory Technology,cs.AR,"['cs.AR', 'cs.LG']","[arxiv.Result.Author('Ahmet Inci'), arxiv.Result.Author('Mehmet Meric Isgenc'), arxiv.Result.Author('Diana Marculescu')]","Embedded machine learning (ML) systems have now become the dominant platform
+for deploying ML serving tasks and are projected to become of equal importance
+for training ML models. With this comes the challenge of overall efficient
+deployment, in particular low power and high throughput implementations, under
+stringent memory constraints. In this context, non-volatile memory (NVM)
+technologies such as STT-MRAM and SOT-MRAM have significant advantages compared
+to conventional SRAM due to their non-volatility, higher cell density, and
+scalability features. While prior work has investigated several architectural
+implications of NVM for generic applications, in this work we present
+DeepNVM++, a comprehensive framework to characterize, model, and analyze
+NVM-based caches in GPU architectures for deep learning (DL) applications by
+combining technology-specific circuit-level models and the actual memory
+behavior of various DL workloads. DeepNVM++ relies on iso-capacity and iso-area
+performance and energy models for last-level caches implemented using
+conventional SRAM and emerging STT-MRAM and SOT-MRAM technologies. In the
+iso-capacity case, STT-MRAM and SOT-MRAM provide up to 3.8x and 4.7x
+energy-delay product (EDP) reduction and 2.4x and 2.8x area reduction compared
+to conventional SRAM, respectively. Under iso-area assumptions, STT-MRAM and
+SOT-MRAM provide up to 2.2x and 2.4x EDP reduction and accommodate 2.3x and
+3.3x cache capacity when compared to SRAM, respectively. We also perform a
+scalability analysis and show that STT-MRAM and SOT-MRAM achieve orders of
+magnitude EDP reduction when compared to SRAM for large cache capacities.
+DeepNVM++ is demonstrated on STT-/SOT-MRAM technologies and can be used for the
+characterization, modeling, and analysis of any NVM technology for last-level
+caches in GPUs for DL applications.",-0.085950494,0.038912646,-0.16655001,C
+8168,"The motivation        dividers, and FPGA-customized programs will be open-sourced at
+                                                                             https://cfaed.tu-dresden.de/pd-downloads, to fuel further research
+behind devising LeAp is based on translation of multiplication to            in reconﬁgurable and approximate computing communities.","The implementations of RAPID multipliers,
+the ﬁrst logarithmic multiplier specialized for FPGAs.","addition in the logarithmic presentation, through Mitchell’s algorithm        The rest of this article is organized as follows: Section II presents a
+                                                                           brief survey on the imprecise multipliers and dividers and distinguish
+[18]  (P  = A×B   Approx.",2022-06-28 12:55:08+00:00,RAPID: AppRoximAte Pipelined Soft Multipliers and Dividers for High-Throughput and Energy-Efficiency,cs.AR,['cs.AR'],"[arxiv.Result.Author('Zahra Ebrahimi'), arxiv.Result.Author('Muhammad Zaid'), arxiv.Result.Author('Mark Wijtvliet'), arxiv.Result.Author('Akash Kumar')]","The rapid updates in error-resilient applications along with their quest for
+high throughput have motivated designing fast approximate functional units for
+Field-Programmable Gate Arrays (FPGAs). Studies that proposed imprecise
+functional techniques are posed with three shortcomings: first, most inexact
+multipliers and dividers are specialized for Application-Specific Integrated
+Circuit (ASIC) platforms. Second, state-of-the-art (SoA) approximate units are
+substituted, mostly in a single kernel of a multi-kernel application. Moreover,
+the end-to-end assessment is adopted on the Quality of Results (QoR), but not
+on the overall gained performance. Finally, existing imprecise components are
+not designed to support a pipelined approach, which could boost the operating
+frequency/throughput of, e.g., division-included applications. In this paper,
+we propose RAPID, the first pipelined approximate multiplier and divider
+architecture, customized for FPGAs. The proposed units efficiently utilize
+6-input Look-up Tables (6-LUTs) and fast carry chains to implement Mitchell's
+approximate algorithms. Our novel error-refinement scheme not only has
+negligible overhead over the baseline Mitchell's approach but also boosts its
+accuracy to 99.4% for arbitrary size of multiplication and division.
+Experimental results demonstrate the efficiency of the proposed pipelined and
+non-pipelined RAPID multipliers and dividers over accurate counterparts.
+Moreover, the end-to-end evaluations of RAPID, deployed in three multi-kernel
+applications in the domains of bio-signal processing, image processing, and
+moving object tracking for Unmanned Air Vehicles (UAV) indicate up to 45%
+improvements in area, latency, and Area-Delay-Product (ADP), respectively, over
+accurate kernels, with negligible loss in QoR.",-0.1507723,0.0061307633,-0.46505874,C
+8945,"Experimental results suggest that they
+                                                                                                         either induce significant overhead or are not quite effective, and
+                80                                                                                       further research is needed.","3, 2022, San Diego, CA                                                                    Zheyu Yan, Xiaobo Sharon Hu, and Yiyu Shi
+
+                100  MC Actual                                                                           enhancing DNN robustness.","Error Rate (%)  60                                                                                          The main contributions of this work are multi-fold:
+
+                40                                                                                            • This is the first work that formulates the problem of find-
+                                                                                                                 ing worst-case performance in DNN CiM accelerators with
+                20                                                                                               device variations for safety-critical applications.",2022-07-15 17:38:01+00:00,Computing-In-Memory Neural Network Accelerators for Safety-Critical Systems: Can Small Device Variations Be Disastrous?,cs.AR,"['cs.AR', 'cs.LG']","[arxiv.Result.Author('Zheyu Yan'), arxiv.Result.Author('Xiaobo Sharon Hu'), arxiv.Result.Author('Yiyu Shi')]","Computing-in-Memory (CiM) architectures based on emerging non-volatile memory
+(NVM) devices have demonstrated great potential for deep neural network (DNN)
+acceleration thanks to their high energy efficiency. However, NVM devices
+suffer from various non-idealities, especially device-to-device variations due
+to fabrication defects and cycle-to-cycle variations due to the stochastic
+behavior of devices. As such, the DNN weights actually mapped to NVM devices
+could deviate significantly from the expected values, leading to large
+performance degradation. To address this issue, most existing works focus on
+maximizing average performance under device variations. This objective would
+work well for general-purpose scenarios. But for safety-critical applications,
+the worst-case performance must also be considered. Unfortunately, this has
+been rarely explored in the literature. In this work, we formulate the problem
+of determining the worst-case performance of CiM DNN accelerators under the
+impact of device variations. We further propose a method to effectively find
+the specific combination of device variation in the high-dimensional space that
+leads to the worst-case performance. We find that even with very small device
+variations, the accuracy of a DNN can drop drastically, causing concerns when
+deploying CiM accelerators in safety-critical applications. Finally, we show
+that surprisingly none of the existing methods used to enhance average DNN
+performance in CiM accelerators are very effective when extended to enhance the
+worst-case performance, and further research down the road is needed to address
+this problem.",-0.4711333,-0.22242238,-0.19379619,B_centroid
+9515,"Similar to (b), (d) shows the
+map values to reduce the effective variance and mean of quan-                    results for layer 4.
+tization error
+                                                                                    To further study the impact of mean shifts in the output
+   Here, we ﬁrst analyze the impact of variations in the bias                    feature maps, we performed an experiment where we added noise
+values of a CNN on its classiﬁcation accuracy.",Strategy 2: Exploit correlation between neighboring feature                   noise having the same magnitude.,"Note that this
+generated using a Gaussian distribution to the bias values of                                                           Based on the above analysis, we conclude that only intra-
+the ﬁlters/neurons of different layers of a pre-trained AlexNet                                                      feature map correlation can be exploited for error compensation.",2022-07-31 01:34:56+00:00,CoNLoCNN: Exploiting Correlation and Non-Uniform Quantization for Energy-Efficient Low-precision Deep Convolutional Neural Networks,cs.AR,"['cs.AR', 'cs.LG']","[arxiv.Result.Author('Muhammad Abdullah Hanif'), arxiv.Result.Author('Giuseppe Maria Sarda'), arxiv.Result.Author('Alberto Marchisio'), arxiv.Result.Author('Guido Masera'), arxiv.Result.Author('Maurizio Martina'), arxiv.Result.Author('Muhammad Shafique')]","In today's era of smart cyber-physical systems, Deep Neural Networks (DNNs)
+have become ubiquitous due to their state-of-the-art performance in complex
+real-world applications. The high computational complexity of these networks,
+which translates to increased energy consumption, is the foremost obstacle
+towards deploying large DNNs in resource-constrained systems. Fixed-Point (FP)
+implementations achieved through post-training quantization are commonly used
+to curtail the energy consumption of these networks. However, the uniform
+quantization intervals in FP restrict the bit-width of data structures to large
+values due to the need to represent most of the numbers with sufficient
+resolution and avoid high quantization errors. In this paper, we leverage the
+key insight that (in most of the scenarios) DNN weights and activations are
+mostly concentrated near zero and only a few of them have large magnitudes. We
+propose CoNLoCNN, a framework to enable energy-efficient low-precision deep
+convolutional neural network inference by exploiting: (1) non-uniform
+quantization of weights enabling simplification of complex multiplication
+operations; and (2) correlation between activation values enabling partial
+compensation of quantization errors at low cost without any run-time overheads.
+To significantly benefit from non-uniform quantization, we also propose a novel
+data representation format, Encoded Low-Precision Binary Signed Digit, to
+compress the bit-width of weights while ensuring direct use of the encoded
+weight for processing using a novel multiply-and-accumulate (MAC) unit design.",-0.40505344,-0.3676532,-0.1522195,B
+9589,"small amount of WRAM for the intermediate alignment data
+                                                                              structures (i.e., GenASM), the implementation that only uses
+   To further study the scalability of our framework, we evaluate             WRAM is faster (up to 2.76×).","aforementioned reasons, the results without the transfer time
+demonstrate the potential that future PIM systems have at                        The second observation is that for the algorithm that uses a
+accelerating memory-bound sequence alignment workloads.","The reason is that the WRAM
+the state-of-the-art algorithm, WFA-adaptive, on larger read                  only implementation can support a large enough number of
+lengths of 5,000 and 10,000 and for more edit distance                        DPU threads to utilize the DPU pipeline well, which makes the
+thresholds while aligning one million sequence pairs.",2022-08-02 04:25:17+00:00,A Framework for High-throughput Sequence Alignment using Real Processing-in-Memory Systems,cs.AR,"['cs.AR', 'cs.DC']","[arxiv.Result.Author('Safaa Diab'), arxiv.Result.Author('Amir Nassereldine'), arxiv.Result.Author('Mohammed Alser'), arxiv.Result.Author('Juan Gómez-Luna'), arxiv.Result.Author('Onur Mutlu'), arxiv.Result.Author('Izzat El Hajj')]","Sequence alignment is a fundamentally memory bound computation whose
+performance in modern systems is limited by the memory bandwidth bottleneck.
+Processing-in-memory architectures alleviate this bottleneck by providing the
+memory with computing competencies. We propose Alignment-in-Memory (AIM), a
+framework for high-throughput sequence alignment using processing-in-memory,
+and evaluate it on UPMEM, the first publicly-available general-purpose
+programmable processing-in-memory system. Our evaluation shows that a real
+processing-in-memory system can substantially outperform server-grade
+multi-threaded CPU systems running at full-scale when performing sequence
+alignment for a wide variety of algorithms, read lengths, and edit distance
+thresholds. We hope that our findings inspire more work on creating and
+accelerating bioinformatics algorithms for such real processing-in-memory
+systems.",0.2082724,0.043354176,-0.09371176,A
+10775,"The main takeaway from Figure 8 is that, even
+ZRTL for different bugs, we further study the relationship among               though ProcessorFuzz uses CSR-transition coverage extracted from
+register coverage, CSR-transition coverage, and bug-finding times.","slower when collecting coverage, and therefore, we could report
+                                                                               coverage progress for the first 12 hours of fuzzing although we run
+   To understand the performance of ProcessorFuzz and DIFUZ-                   VCS tool for a week.","ISA simulation, ProcessorFuzz performs as well as DIFUZZRTL
+Specifically, in Figure 7a, we show the measured register coverage             in terms of standard RTL coverage metrics and is able to cover
+progress for different settings of DIFUZZRTL and ProcessorFuzz.",2022-09-05 06:57:14+00:00,ProcessorFuzz: Guiding Processor Fuzzing using Control and Status Registers,cs.AR,"['cs.AR', 'cs.CR']","[arxiv.Result.Author('Sadullah Canakci'), arxiv.Result.Author('Chathura Rajapaksha'), arxiv.Result.Author('Anoop Mysore Nataraja'), arxiv.Result.Author('Leila Delshadtehrani'), arxiv.Result.Author('Michael Taylor'), arxiv.Result.Author('Manuel Egele'), arxiv.Result.Author('Ajay Joshi')]","As the complexity of modern processors has increased over the years,
+developing effective verification strategies to identify bugs prior to
+manufacturing has become critical. Undiscovered micro-architectural bugs in
+processors can manifest as severe security vulnerabilities in the form of side
+channels, functional bugs, etc. Inspired by software fuzzing, a technique
+commonly used for software testing, multiple recent works use hardware fuzzing
+for the verification of Register-Transfer Level (RTL) designs. However, these
+works suffer from several limitations such as lack of support for widely-used
+Hardware Description Languages (HDLs) and misleading coverage-signals that
+misidentify ""interesting"" inputs. Towards overcoming these shortcomings, we
+present ProcessorFuzz, a processor fuzzer that guides the fuzzer with a novel
+CSR-transition coverage metric. ProcessorFuzz monitors the transitions in
+Control and Status Registers (CSRs) as CSRs are in charge of controlling and
+holding the state of the processor. Therefore, transitions in CSRs indicate a
+new processor state, and guiding the fuzzer based on this feedback enables
+ProcessorFuzz to explore new processor states. ProcessorFuzz is agnostic to the
+HDL and does not require any instrumentation in the processor design. Thus, it
+supports a wide range of RTL designs written in different hardware languages.
+We evaluated ProcessorFuzz with three real-world open-source processors --
+Rocket, BOOM, and BlackParrot. ProcessorFuzz triggered a set of ground-truth
+bugs 1.23$\times$ faster (on average) than DIFUZZRTL. Moreover, our experiments
+exposed 8 new bugs across the three RISC-V cores and one new bug in a reference
+model. All nine bugs were confirmed by the developers of the corresponding
+projects.",-0.21189772,0.2404953,0.03270174,C
+12526,"Ͳ ͳͳ͸ ͸Ͷ ͳͳ͸ ͸Ͷ ͳͳ͸ ͸Ͷ  Figure 11: Effect of                                                                                                  To further study the speculation overhead in M3D, in
+                ͓   branch speculation.","ʹ  ͵ ͵                                                                                                                               average across all workloads, we observe that eliminating
+ͳ                                                                                                                                            the speculation bottleneck leads to a 28% speedup.","Figure 12 for a representative speculation-bound work-
+                                                                                                                                             load (Triangle), we (i) analyze the performance beneﬁt
+Figure 10: Effect of                                                                                                                         of a state-of-the-art branch predictor [76] (TAGE-SC-L),
+                                                                                                                                             and (ii) perform an idealized study where the issue and
+pipeline width.",2022-10-16 11:21:26+00:00,RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory,cs.AR,"['cs.AR', 'cs.DC']","[arxiv.Result.Author('Nika Mansouri Ghiasi'), arxiv.Result.Author('Mohammad Sadrosadati'), arxiv.Result.Author('Geraldo F. Oliveira'), arxiv.Result.Author('Konstantinos Kanellopoulos'), arxiv.Result.Author('Rachata Ausavarungnirun'), arxiv.Result.Author('Juan Gómez Luna'), arxiv.Result.Author('Aditya Manglik'), arxiv.Result.Author('João Ferreira'), arxiv.Result.Author('Jeremie S. Kim'), arxiv.Result.Author('Christina Giannoula'), arxiv.Result.Author('Nandita Vijaykumar'), arxiv.Result.Author('Jisung Park'), arxiv.Result.Author('Onur Mutlu')]","Recent nano-technological advances enable the Monolithic 3D (M3D) integration
+of multiple memory and logic layers in a single chip with fine-grained
+connections. M3D technology leads to significantly higher main memory bandwidth
+and shorter latency than existing 3D-stacked systems. We show for a variety of
+workloads on a state-of-the-art M3D system that the performance and energy
+bottlenecks shift from the main memory to the core and cache hierarchy. Hence,
+there is a need to revisit current core and cache designs that have been
+conventionally tailored to tackle the memory bottleneck.
+  Our goal is to redesign the core and cache hierarchy, given the fundamentally
+new trade-offs of M3D, to benefit a wide range of workloads. To this end, we
+take two steps. First, we perform a design space exploration of the cache and
+core's key components. We highlight that in M3D systems, (i) removing the
+shared last-level cache leads to similar or larger performance benefits than
+increasing its size or reducing its latency; (ii) improving L1 latency has a
+large impact on improving performance; (iii) wider pipelines are increasingly
+beneficial; (iv) the performance impact of branch speculation and pipeline
+frontend increases; (v) the current synchronization schemes limit parallel
+speedup. Second, we propose an optimized M3D system, RevaMp3D, where (i) using
+the tight connectivity between logic layers, we efficiently increase pipeline
+width, reduce L1 latency, and enable fine-grained synchronization; (ii) using
+the high-bandwidth and energy-efficient main memory, we alleviate the amplified
+energy and speculation bottlenecks by memoizing the repetitive fetched,
+decoded, and reordered instructions and turning off the relevant parts of the
+core pipeline when possible. RevaMp3D provides, on average, 81% speedup, 35%
+energy reduction, and 12.3% smaller area compared to the baseline M3D system.",-0.2863754,0.19146363,0.0003337348,C
+13374,"However, the average packet latency of Branch-and-bound and the proposed algorithm is almost
+
+                                                               25
+the same, So further research can be done on decreasing the average packet latency compared to
+all other algorithms.","Compared to existing algorithms like Onyx [111], CastNet [112] and Nmap
+[113], the proposed algorithm generates 3D NoCs with low packet latency and energy consumption.","As network congestion may have a large impact on packet delay, two diﬀerent models are em-
+ployed for packet latency under no congestion and congestion conditions, which use rank-based
+multi-objective genetic algorithm (RMGA) [57].",2022-11-04 11:12:41+00:00,A survey on scheduling and mapping techniques in 3D Network-on-chip,cs.AR,['cs.AR'],"[arxiv.Result.Author('Simran Preet Kaur'), arxiv.Result.Author('Manojit Ghose'), arxiv.Result.Author('Ananya Pathak'), arxiv.Result.Author('Rutuja Patole')]","Network-on-Chips (NoCs) have been widely employed in the design of
+multiprocessor system-on-chips (MPSoCs) as a scalable communication solution.
+NoCs enable communications between on-chip Intellectual Property (IP) cores and
+allow those cores to achieve higher performance by outsourcing their
+communication tasks. Mapping and Scheduling methodologies are key elements in
+assigning application tasks, allocating the tasks to the IPs, and organising
+communication among them to achieve some specified objectives. The goal of this
+paper is to present a detailed state-of-the-art of research in the field of
+mapping and scheduling of applications on 3D NoC, classifying the works based
+on several dimensions and giving some potential research directions.",-0.07233645,0.1506196,-0.0013366868,C
+13607,"ColorTM and BalColorTM are freely and publicly available [2] at github.com/cgiannoula/ColorTM to
+enable further research on the graph coloring kernel in modern multicore systems.","We also demonstrate that ColorTM and BalColorTM can provide sig-
+ni cant performance improvements in real-world end-applications, e.g., Community Detection [355].","1.3.2 SmartPQ [4]: An Adaptive Concurrent Priority  eue for NUMA CPU
+         Architectures (Chapter 3)
+
+Concurrent priority queues lie at the heart of many important applications including graph process-
+ing [356–360] and discrete event simulations [361–363].",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",-0.019886667,0.50081825,0.1819269,C
+13608,"Our SparseP so ware package is freely and
+publicly available at h ps://github.com/CMU-SAFARI/SparseP to enable further research on the ir-
+regular SpMV kernel in current and future PIM systems.","Based on our rigorous experimental results and ob-
+servations, we provide programming recommendations for so ware designers and suggestions for
+hardware and system designers of future PIM systems.","1.4 Contributions
+
+   is dissertation explores lightweight synchronization approaches in cooperation with e cient data
+access techniques to accelerate irregular applications both in processor-centric CPU systems and
+memory-centric NDP/PIM systems.",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",0.4922564,-0.008573594,0.096085,A
+13609,"We conclude that SmartPQ is an e cient concurrent priority
+queue for NUMA systems, and hope that this work encourages further study on adaptive concurrent
+data structures for NUMA architectures.","Our
+evaluation over a wide range of contention scenarios demonstrates that SmartPQ switches between
+the two algorithmic modes with negligible overheads, and signi cantly outperforms prior schemes,
+even when contention varies over time.","106  Chapter 3
+                     CHAPTER 4
+
+                             SynCron
+
+4.1 Overview
+
+Recent advances in 3D-stacked memories [467–472] have renewed interest in Near-Data Process-
+ing (NDP) [32, 36, 268, 473].",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",0.08071941,0.4116748,0.2548685,C
+13610,"Our SparseP so ware package is freely and publicly available [6] to enable further research on
+SpMV in current and future PIM systems.","Design high-speed communication channels and optimized libraries for data transfers to/from
+       thousands of DRAM banks of PIM-enabled memory.","e main contributions of this work are as follows:
+
+    • We present SparseP, the rst open-source SpMV so ware package for real PIM architectures.",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",0.65348107,-0.23123541,0.01996539,A
+13611,"ColorTM and BalColorTM are freely and publicly available [2] at github.com/cgiannoula/ColorTM to
+enable further research on the graph coloring kernel in modern multicore systems.","We also demonstrate that ColorTM and BalColorTM can provide sig-
+ni cant performance improvements in real-world end-applications, e.g., Community Detection [355].","1.3.2 SmartPQ [4]: An Adaptive Concurrent Priority  eue for NUMA CPU
+         Architectures (Chapter 3)
+
+Concurrent priority queues lie at the heart of many important applications including graph process-
+ing [356–360] and discrete event simulations [361–363].",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",-0.019886667,0.50081825,0.1819269,C
+13612,"Our SparseP so ware package is freely and
+publicly available at h ps://github.com/CMU-SAFARI/SparseP to enable further research on the ir-
+regular SpMV kernel in current and future PIM systems.","Based on our rigorous experimental results and ob-
+servations, we provide programming recommendations for so ware designers and suggestions for
+hardware and system designers of future PIM systems.","1.4 Contributions
+
+   is dissertation explores lightweight synchronization approaches in cooperation with e cient data
+access techniques to accelerate irregular applications both in processor-centric CPU systems and
+memory-centric NDP/PIM systems.",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",0.4922564,-0.008573594,0.096085,A
+13613,"We conclude that SmartPQ is an e cient concurrent priority
+queue for NUMA systems, and hope that this work encourages further study on adaptive concurrent
+data structures for NUMA architectures.","Our
+evaluation over a wide range of contention scenarios demonstrates that SmartPQ switches between
+the two algorithmic modes with negligible overheads, and signi cantly outperforms prior schemes,
+even when contention varies over time.","106  Chapter 3
+                     CHAPTER 4
+
+                             SynCron
+
+4.1 Overview
+
+Recent advances in 3D-stacked memories [467–472] have renewed interest in Near-Data Process-
+ing (NDP) [32, 36, 268, 473].",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",0.08071941,0.4116748,0.2548685,C
+13614,"Our SparseP so ware package is freely and publicly available [6] to enable further research on
+SpMV in current and future PIM systems.","Design high-speed communication channels and optimized libraries for data transfers to/from
+       thousands of DRAM banks of PIM-enabled memory.","e main contributions of this work are as follows:
+
+    • We present SparseP, the rst open-source SpMV so ware package for real PIM architectures.",2022-11-10 22:53:21+00:00,Accelerating Irregular Applications via Efficient Synchronization and Data Access Techniques,cs.AR,"['cs.AR', 'cs.DC', 'cs.DS', 'cs.PF', 'cs.SE']",[arxiv.Result.Author('Christina Giannoula')],"Irregular applications comprise an increasingly important workload domain for
+many fields, including bioinformatics, chemistry, physics, social sciences and
+machine learning. Therefore, achieving high performance and energy efficiency
+in the execution of emerging irregular applications is of vital importance.
+This dissertation studies the root causes of inefficiency of irregular
+applications in modern computing systems, and fundamentally addresses such
+inefficiencies, by proposing low-overhead synchronization techniques among
+parallel threads in cooperation with well-crafted data access policies.
+  We make four major contributions to accelerating irregular applications in
+different contexts including CPU and Near-Data-Processing (NDP) (or
+Processing-In-Memory (PIM)) systems. First, we design ColorTM, a novel parallel
+graph coloring algorithm for CPU systems that trades off using synchronization
+with lower data access costs. Second, we propose SmartPQ, an adaptive priority
+queue that achieves high performance under all various contention scenarios in
+Non-Uniform Memory Access CPU systems. Third, we introduce SynCron, the first
+practical hardware synchronization mechanism tailored for NDP systems. Fourth,
+we design SparseP, the first library for high-performance Sparse Matrix Vector
+Multiplication on real PIM systems.
+  We demonstrate that the execution of irregular applications in CPU and
+NDP/PIM architectures can be significantly accelerated by co-designing
+lightweight synchronization approaches along with well-crafted data access
+policies. This dissertation bridges the gap between processor-centric CPU
+systems and memory-centric PIM systems in the critically-important area of
+irregular applications. We hope that this dissertation inspires future work in
+co-designing software algorithms with cutting-edge computing platforms to
+significantly accelerate emerging irregular applications.",0.65348107,-0.23123541,0.01996539,A
+14709,"Most of the recent methods give very promising results and pave the way for further research,
+by proving that approximations can be applied at various levels, from the topology of the DNN, to
+the data value and type, and including the backends-DNN codesign (hardware or software).","The diﬀerence in backend compatibility with the various approximation
+methods also regularly involves manual tuning steps, which are hard to reproduce and compare to
+other backends.","8 Acknowledgments
+
+This work has been funded by the French National Research Agency (ANR) through the Ade-
+quatedDL research project (ANR-18-CE23-0012).",2022-12-08 14:39:01+00:00,Approximations in Deep Learning,cs.AR,"['cs.AR', 'eess.SP']","[arxiv.Result.Author('Etienne Dupuis'), arxiv.Result.Author('Silviu-Ioan Filip'), arxiv.Result.Author('Olivier Sentieys'), arxiv.Result.Author('David Novo'), arxiv.Result.Author(""Ian O'Connor""), arxiv.Result.Author('Alberto Bosio')]","The design and implementation of Deep Learning (DL) models is currently
+receiving a lot of attention from both industrials and academics. However, the
+computational workload associated with DL is often out of reach for low-power
+embedded devices and is still costly when run on datacenters. By relaxing the
+need for fully precise operations, Approximate Computing (AxC) substantially
+improves performance and energy efficiency. DL is extremely relevant in this
+context, since playing with the accuracy needed to do adequate computations
+will significantly enhance performance, while keeping the quality of results in
+a user-constrained range. This chapter will explore how AxC can improve the
+performance and energy efficiency of hardware accelerators in DL applications
+during inference and training.",-0.47534508,-0.2788533,-0.30414206,B

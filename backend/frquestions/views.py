@@ -5,6 +5,7 @@ from pathlib import Path
 import requests
 from django.http import HttpResponse, HttpRequest, JsonResponse
 from science_parse_api.api import parse_pdf
+from frquestions.process_new_article import pipeline
 
 
 def index(request: HttpRequest):
@@ -22,5 +23,6 @@ def parsepdf(request: HttpRequest):
         fp.write(response.content)
 
         output_dict = parse_pdf(host, Path(fp.name), port=port)
-        # TODO process data to one acceptable by Plotly
-    return JsonResponse(output_dict)
+        to_export = pipeline(output_dict)
+
+    return JsonResponse(to_export)

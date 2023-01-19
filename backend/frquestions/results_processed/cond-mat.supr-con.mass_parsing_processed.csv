@@ -1,0 +1,1577 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+20,"To further study the physical properties of Nb2CFx, it is necessary to measure the
+resistivity curves with temperature.","It should be pointed out that the
+diamagnetic shielding volume fraction estimated by their magnetic measurements was
+only about 0.12%, and the zero resistivity (ρ) data of the superconductor was absent.","Figure 2c illustrates the temperature-dependent
+resistivity of Nb2CFx prepared by the hydrothermal method.",2022-01-02 05:54:05+00:00,Role of surface functional groups to superconductivity in Nb$_2$C-MXene: Experiments and density functional theory calculations,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Kai Wang'), arxiv.Result.Author('Haolin Jin'), arxiv.Result.Author('Hongye Li'), arxiv.Result.Author('Zhongquan Mao'), arxiv.Result.Author('Lingyun Tang'), arxiv.Result.Author('Dan Huang'), arxiv.Result.Author('Ji-Hai Liao'), arxiv.Result.Author('Jiang Zhang')]","The recently discovered surface-group-dependent superconductivity in
+Nb$_2$C-MXene fabricated by the molten salts method is attracting wide
+attention. However, regarding the superconductivity of Nb$_2$C-MXene with
+functional F groups (Nb$_2$CF$_x$), there were some conflicting results in
+experimental and theoretical studies. Herein, we systematically carried out
+experimental and theoretical investigations on the superconductivity in
+Nb$_2$C-MXene with the Cl functional group (Nb$_2$CCl$_x$) and Nb$_2$CF$_x$.
+The experimental results of the Meissner effect and zero resistivity have
+proved that Nb$_2$CClx is superconducting with the transition temperature (Tc)
+~ 5.2 K. We extract its superconducting parameters from the temperature
+dependence of resistivity and the field dependence of the magnetization. The
+Ginzburg-Landau parameter K$_G$$_L$ is estimated to be 2.41, indicating that
+Nb$_2$CClx is a typical type-II superconductor. Conversely, both magnetic and
+electrical transport measurements demonstrate that Nb$_2$CF$_x$ is not
+superconducting. The first-principles density functional theory (DFT)
+calculations show that the Tc of Nb$_2$Cl$_x$ is ~ 5.2 K, while Nb$_2$CF$_x$ is
+dynamically unstable with imaginary frequency in phonon spectrum, which is in
+good agreement with the experimental results. Our studies not only are useful
+for clarifying the present inconsistency but also offer referential
+significance for future investigations on the superconductivity of MXenes.",-0.17916265,0.16073284,0.055495776,B
+240,"At the moment this is just an hypothesis, further study is needed to elucidate the relative
+contribution of 2DEG and Al to the superﬂuid density, as well as the role of the unconventional pairing to the vortex inductance,
+as discussed in the main text.","A possible explanation for this overestimate
+is the suppression of the order parameter in the proximitized 2DEG, which recent experiments showed to take place precisely
+in this magnetic ﬁeld range [9].","ISOTROPY OF THE KINETIC INDUCTANCE IN THE ABSENCE OF VORTICES
+
+   Figure 4 focuses on the inductance measurements at Bip = 0.5 T for Bz = 0 mT (blue) and Bz = 2 mT (green).",2022-01-07 15:56:04+00:00,Anisotropic vortex squeezing in synthetic Rashba superconductors: a manifestation of Lifshitz invariants,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Lorenz Fuchs'), arxiv.Result.Author('Denis Kochan'), arxiv.Result.Author('Christian Baumgartner'), arxiv.Result.Author('Simon Reinhardt'), arxiv.Result.Author('Sergei Gronin'), arxiv.Result.Author('Geoffrey C. Gardner'), arxiv.Result.Author('Tyler Lindemann'), arxiv.Result.Author('Michael J. Manfra'), arxiv.Result.Author('Christoph Strunk'), arxiv.Result.Author('Nicola Paradiso')]","Most of 2D superconductors are of type II, i.e., they are penetrated by
+quantized vortices when exposed to out-of-plane magnetic fields. In presence of
+a supercurrent, a Lorentz-like force acts on the vortices, leading to drift and
+dissipation. The current-induced vortex motion is impeded by pinning at
+defects, enabling the use of superconductors to generate high magnetic fields
+without dissipation. Usually, the pinning strength decreases upon any type of
+pair-breaking. Here we show that in Rashba superconductors the application of
+an in-plane field leads, instead, to an unexpected enhancement of pinning. When
+rotating the in-plane component of the field with respect to the current
+direction, the vortex inductance turns out to be highly anisotropic. We explain
+this phenomenon as a manifestation of Lifshitz invariant terms in the
+Ginzburg-Landau free energy, which are enabled by inversion and time-reversal
+symmetry breaking and lead to an elliptic squeezing of vortex cores. Our
+experiment provides access to a fundamental property of Rashba superconductors
+and offers an entirely new approach to vortex manipulation.",-0.104361646,-0.3317356,-0.26634562,A_centroid
+241,"At the moment this is just an hypothesis, further study is needed to elucidate the relative
+contribution of 2DEG and Al to the superﬂuid density, as well as the role of the unconventional pairing to the vortex inductance,
+as discussed in the main text.","A possible explanation for this overestimate
+is the suppression of the order parameter in the proximitized 2DEG, which recent experiments showed to take place precisely
+in this magnetic ﬁeld range [9].","INDUCTANCE PER VORTEX IN THE LINEAR REGIME OF Lv(Bz)
+
+   Figure 1c of the main text shows the dependence of the vortex inductance Lv on the out-of-plane ﬁeld Bz.",2022-01-07 15:56:04+00:00,Anisotropic vortex squeezing in synthetic Rashba superconductors: a manifestation of Lifshitz invariants,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Lorenz Fuchs'), arxiv.Result.Author('Denis Kochan'), arxiv.Result.Author('Christian Baumgartner'), arxiv.Result.Author('Simon Reinhardt'), arxiv.Result.Author('Sergei Gronin'), arxiv.Result.Author('Geoffrey C. Gardner'), arxiv.Result.Author('Tyler Lindemann'), arxiv.Result.Author('Michael J. Manfra'), arxiv.Result.Author('Christoph Strunk'), arxiv.Result.Author('Nicola Paradiso')]","Most of 2D superconductors are of type II, i.e., they are penetrated by
+quantized vortices when exposed to out-of-plane magnetic fields. In presence of
+a supercurrent, a Lorentz-like force acts on the vortices, leading to drift and
+dissipation. The current-induced vortex motion is impeded by pinning at
+defects, enabling the use of superconductors to generate high magnetic fields
+without dissipation. Usually, the pinning strength decreases upon any type of
+pair-breaking. Here we show that in Rashba superconductors the application of
+an in-plane field leads, instead, to an unexpected enhancement of pinning. When
+rotating the in-plane component of the field with respect to the current
+direction, the vortex inductance turns out to be highly anisotropic. We explain
+this phenomenon as a manifestation of Lifshitz invariant terms in the
+Ginzburg-Landau free energy, which are enabled by inversion and time-reversal
+symmetry breaking and lead to an elliptic squeezing of vortex cores. Our
+experiment provides access to a fundamental property of Rashba superconductors
+and offers an entirely new approach to vortex manipulation.",-0.10826224,-0.36603662,-0.3192264,A
+662,"Thus, study on a reference         Therefore, further study on TOS is desired to thoroughly un-
+                                                    system, of which superconductivity also originates from 3d        derstand the mechanism of superconductivity originated from
+                                                    electrons, will provide valuable perspectives for further com-    3d electrons.",3d transition metal compounds.,prehension of unconventional superconductivity.,2022-01-17 13:33:57+00:00,Epitaxial stabilization of an orthorhombic Mg-Ti-O superconductor,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Zhuang Ni'), arxiv.Result.Author('Wei Hu'), arxiv.Result.Author('Qinghua Zhang'), arxiv.Result.Author('Yanmin Zhang'), arxiv.Result.Author('Peiyu Xiong'), arxiv.Result.Author('Qian Li'), arxiv.Result.Author('Jie Yuan'), arxiv.Result.Author('Qihong Chen'), arxiv.Result.Author('Beiyi Zhu'), arxiv.Result.Author('Xiaoli Dong'), arxiv.Result.Author('Lin Gu'), arxiv.Result.Author('Kui Jin')]","The family of titanium oxide superconductors exhibits many intriguing
+phenomena comparable to cuprates and iron pnictides/chalcogenides, and thus
+provides an ideal platform to contrastively study the unconventional pairing
+mechanism of high-temperature superconductors. Here, we successfully deposit
+superconducting Mg-Ti-O films on MgAl$_2$O$_4$ substrates with three principal
+orientations by ablating a MgTi$_2$O$_4$ target. Particularly, it is striking
+to observed that a single-crystalline film of an unintended structure has been
+grown on the (011)-oriented substrate, with the highest zero resistance
+transition temperature ($T_{\mathrm{c}0}$) of 5.0 K among them. The film has a
+highly reduced Mg/Ti ratio and an orthorhombic Ti$_9$O$_{10}$-like structure
+(denoted as Mg: Ti$_9$O$_{10}$), demonstrated by further characterizations of
+chemical composition and structure. Such a structure is unstable in bulk but
+favorable to be epitaxially stabilized on the (011)-surface of MgAl$_2$O$_4$
+due to a relatively small strain at the formed interface. An isotropic upper
+critical field ($B_{\mathrm{c}2}$) up to 13.7 T that breaks the Pauli limit is
+observed in the Mg: Ti$_9$O$_{10}$ film, analogous to other superconducting
+titanium oxides. The similarity points to a common origin for the
+superconductivity in the family, which will provide valuable opinions for the
+mechanism of unconventional superconductivity in transition metal compounds.",-0.2934392,0.08944701,0.025829809,B
+663,"Thus, study on a reference         Therefore, further study on TOS is desired to thoroughly un-
+                                                    system, of which superconductivity also originates from 3d        derstand the mechanism of superconductivity originated from
+                                                    electrons, will provide valuable perspectives for further com-    3d electrons.",3d transition metal compounds.,prehension of unconventional superconductivity.,2022-01-17 13:33:57+00:00,Epitaxial stabilization of an orthorhombic Mg-Ti-O superconductor,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Zhuang Ni'), arxiv.Result.Author('Wei Hu'), arxiv.Result.Author('Qinghua Zhang'), arxiv.Result.Author('Yanmin Zhang'), arxiv.Result.Author('Peiyu Xiong'), arxiv.Result.Author('Qian Li'), arxiv.Result.Author('Jie Yuan'), arxiv.Result.Author('Qihong Chen'), arxiv.Result.Author('Beiyi Zhu'), arxiv.Result.Author('Hua Zhang'), arxiv.Result.Author('Xiaoli Dong'), arxiv.Result.Author('Lin Gu'), arxiv.Result.Author('Kui Jin')]","The family of titanium oxide superconductors exhibits many intriguing
+phenomena comparable to cuprates and iron pnictides/chalcogenides, and thus
+provides an ideal platform to contrastively study the unconventional pairing
+mechanism of high-temperature superconductors. Here, we successfully deposit
+superconducting Mg-Ti-O films on MgAl$_2$O$_4$ substrates with three principal
+orientations by ablating a MgTi$_2$O$_4$ target. Particularly, it is striking
+to observed that a single-crystalline film of an unintended structure has been
+grown on the (011)-oriented substrate, with the highest zero resistance
+transition temperature ($T_{\mathrm{c}0}$) of 5.0 K among them. The film has a
+highly reduced Mg/Ti ratio and an orthorhombic Ti$_9$O$_{10}$-like structure
+(denoted as Mg: Ti$_9$O$_{10}$), demonstrated by further characterizations of
+chemical composition and structure. Such a structure is unstable in bulk but
+favorable to be epitaxially stabilized on the (011)-surface of MgAl$_2$O$_4$
+due to a relatively small strain at the formed interface. An isotropic upper
+critical field ($B_{\mathrm{c}2}$) up to 13.7 T that breaks the Pauli limit is
+observed in the Mg: Ti$_9$O$_{10}$ film, analogous to other superconducting
+titanium oxides. The similarity points to a common origin for the
+superconductivity in the family, which will provide valuable opinions for the
+mechanism of unconventional superconductivity in transition metal compounds.",-0.2934392,0.08944701,0.025829809,B
+795,"Finally, in Section V we oﬀer concluding remarks      tor in a parallel magnetic ﬁeld: A = A0 sin(ωt)e−z/λyˆ,
+and possibilities for further study.","(1) at the surface of a superconduc-
+slope.","where λ is the London penetration depth of the super-
+                                                             conductor.",2022-01-19 17:40:57+00:00,Dissipation by surface states in superconducting RF cavities,cond-mat.supr-con,"['cond-mat.supr-con', 'physics.acc-ph']","[arxiv.Result.Author('Sean Deyo'), arxiv.Result.Author('Michelle Kelley'), arxiv.Result.Author('Nathan Sitaraman'), arxiv.Result.Author('Thomas Oseroff'), arxiv.Result.Author('Danilo B. Liarte'), arxiv.Result.Author('Tomas Arias'), arxiv.Result.Author('Matthias Liepe'), arxiv.Result.Author('James P. Sethna')]","Recent experiments on superconducting cavities have found that under large
+radio-frequency (RF) electromagnetic fields the quality factor can improve with
+increasing field amplitude, a so-called ""anti-Q slope."" Linear theories of
+dissipation break down under these extreme conditions and are unable to explain
+this behavior. We numerically solve the Bogoliubov-de Gennes equations at the
+surface of a superconductor in a parallel AC magnetic field, finding that at
+large fields there are quasiparticle surface states with energies below the
+bulk value of the superconducting gap. As the field oscillates, such states
+emerge and disappear with every cycle. We consider the dissipation resulting
+from inelastic quasiparticle-phonon scattering into these states and
+investigate the ability of this mechanism to explain features of the
+experimental observations, including the field dependence of the quality
+factor. We find that this mechanism is likely not the dominant source of
+dissipation and does not produce an anti-Q slope by itself; however, we
+demonstrate in a modified two-fluid model how these bound states can play a
+role in producing an anti-Q slope.",-0.26779065,0.033682745,-0.31292352,B
+796,"Finally, in Section V we oﬀer concluding remarks
+and possibilities for further study.",slope.,II.,2022-01-19 17:40:57+00:00,Dissipation by surface states in superconducting RF cavities,cond-mat.supr-con,"['cond-mat.supr-con', 'physics.acc-ph']","[arxiv.Result.Author('Sean Deyo'), arxiv.Result.Author('Michelle Kelley'), arxiv.Result.Author('Nathan Sitaraman'), arxiv.Result.Author('Thomas Oseroff'), arxiv.Result.Author('Danilo B. Liarte'), arxiv.Result.Author('Tomas Arias'), arxiv.Result.Author('Matthias Liepe'), arxiv.Result.Author('James P. Sethna')]","Recent experiments on superconducting cavities have found that under large
+radio-frequency (RF) electromagnetic fields the quality factor can improve with
+increasing field amplitude, a so-called ""anti-Q slope."" Linear theories of
+dissipation break down under these extreme conditions and are unable to explain
+this behavior. We numerically solve the Bogoliubov-de Gennes equations at the
+surface of a superconductor in a parallel AC magnetic field, finding that at
+large fields there are quasiparticle surface states with energies below the
+bulk value of the superconducting gap. As the field oscillates, such states
+emerge and disappear with every cycle. We consider the dissipation resulting
+from inelastic quasiparticle-phonon scattering into these states and
+investigate the ability of this mechanism to explain features of the
+experimental observations, including the field dependence of the quality
+factor. We find that this mechanism is likely not the dominant source of
+dissipation and does not produce an anti-Q slope by itself; however, we
+demonstrate in a modified two-fluid model how these bound states can play a
+role in producing an anti-Q slope.",0.4428833,-0.06856418,-0.42804366,A
+797,"Finally, in Section V we oﬀer concluding remarks      tial externally, rather than using the current density and
+and possibilities for further study.","For simplicity we impose the vector poten-
+slope.","Maxwell’s equations to solve for a new vector potential
+                                                             after each iteration of the self-consistency process.",2022-01-19 17:40:57+00:00,Dissipation by surface states in superconducting RF cavities,cond-mat.supr-con,"['cond-mat.supr-con', 'physics.acc-ph']","[arxiv.Result.Author('Sean Deyo'), arxiv.Result.Author('Michelle Kelley'), arxiv.Result.Author('Nathan Sitaraman'), arxiv.Result.Author('Thomas Oseroff'), arxiv.Result.Author('Danilo B. Liarte'), arxiv.Result.Author('Tomas Arias'), arxiv.Result.Author('Matthias Liepe'), arxiv.Result.Author('James P. Sethna')]","Recent experiments on superconducting cavities have found that under large
+radio-frequency (RF) electromagnetic fields the quality factor can improve with
+increasing field amplitude, a so-called ""anti-Q slope."" Linear theories of
+dissipation break down under these extreme conditions and are unable to explain
+this behavior. We numerically solve the Bogoliubov-de Gennes equations at the
+surface of a superconductor in a parallel AC magnetic field, finding that at
+large fields there are quasiparticle surface states with energies below the
+bulk value of the superconducting gap. As the field oscillates, such states
+emerge and disappear with every cycle. We consider the dissipation resulting
+from inelastic quasiparticle-phonon scattering into these states and
+investigate the ability of this mechanism to explain features of the
+experimental observations, including the field dependence of the quality
+factor. We find that this mechanism is likely not the dominant source of
+dissipation and does not produce an anti-Q slope by itself; however, we
+demonstrate in a modified two-fluid model how these bound states can play a
+role in producing an anti-Q slope.",0.22699079,-0.23055059,-0.37420636,A
+984,Within the random phase approximation and             compounds deserves further study.,"In summary, we have obtained an eﬀective low-energy six-              Whether the van Hove singularity related Pomeranchuk ﬂuc-
+band model for CsV3Sb5 by ﬁtting the the ﬁrst-principles elec-           tuations could survive in the present intermediate correlated
+tronic structures.","on the basis of the eﬀective minimal model, we have found
+
+ ∗ These authors contributed equally.",2022-01-25 04:35:22+00:00,Effective minimal model and unconventional spin-singlet pairing in Kagome superconductor CsV3Sb5,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Xiao-Cheng Bai'), arxiv.Result.Author('Wen-Feng Wu'), arxiv.Result.Author('Han-Yu Wang'), arxiv.Result.Author('Ya-Min Quan'), arxiv.Result.Author('Xian-Long Wang'), arxiv.Result.Author('Zhi Zeng'), arxiv.Result.Author('Liang-Jian Zou')]","Recently synthesized Kagome compounds AV$_3$Sb$_5$ attract great attention
+due to the unusual coexistence of the topology, charge density wave and
+superconductivity. In this {\it Letter}, based on the band structures for
+CsV$_3$Sb$_5$ in pristine phase, we fit an effective 6-band model for the
+low-energy processes; utilizing the random phase approximation (RPA) on the
+effective minimal model, we obtain the momentum-resolved static spin
+susceptibility attributing the spin-fluctuation pairing mechanism, we find that
+the superconducting pairing strengths increase with the lift of the Coulomb
+correlation, and the superconductive pairing symmetry is singlet, the gap
+functions are antisymmetric with respect to the x-axis and the y-axis in the
+intermediate to strong Coulomb correlated regime,indicating the unconventional
+superconductivity in Kagome compounds AV$_3$Sb$_5$.",0.20892106,-0.1233593,-0.0073599834,C
+991,"Electronic structures
+   In this section, we further study the doping dependence of the electronic
+structures, lattice dynamics and EPC in Ba1-xKxSbO3 (x = 0.5, 0.6, 0.7, 0.8, x
+represents the K-doping level).","The doping dependence of properties in BKSO
+                               1.","In all doping cases, the cubic perovskite phase
+structure is adopted, and the VCA method is used to simulate the K-doping.",2022-01-25 08:46:19+00:00,"Correlation-enhanced electron-phonon coupling and superconductivity in (Ba,K)SbO$_3$ superconductors",cond-mat.supr-con,"['cond-mat.supr-con', 'physics.comp-ph']","[arxiv.Result.Author('Zhihong Yuan'), arxiv.Result.Author('Pengyu Zheng'), arxiv.Result.Author('Yiran Peng'), arxiv.Result.Author('Rui Liu'), arxiv.Result.Author('Xiaobo Ma'), arxiv.Result.Author('Guangwei Wang'), arxiv.Result.Author('Tianye Yu'), arxiv.Result.Author('Zhiping Yin')]","The electronic structure, lattice dynamics, and electron-phonon coupling
+(EPC) of the newly discovered (Ba,K)SbO$_3$ superconductors are investigated by
+first-principles calculations. The EPC of (Ba,K)SbO$_3$ is significantly
+enhanced by considering non-local electronic correlation using the
+Heyd-Scuseria-Ernzerhof hybrid exchange-correlation functional (HSE06). The EPC
+strength {\lambda} of Ba$_{0.35}$K$_{0.65}$SbO$_3$ is strongly increased from
+0.33 in local-density approximation calculations to 0.59 in HSE06 calculations,
+resulting in a superconducting transition temperature Tc of about 14.9 K, which
+is in excellent agreement with experimental value of ~ 15 K. Our findings
+suggest (Ba,K)SbO$_3$ are extraordinary conventional superconductors, where
+non-local electronic correlation expands the bandwidth, enhances the EPC, and
+boosts the Tc. Moreover, we find both {\lambda} and Tc depend crucially on the
+K-doping level for (Ba,K)SbO$_3$ and (Ba,K)SbO$_3$ compounds. (Ba,K)SbO$_3$
+have stronger EPC strength and higher Tc than those of (Ba,K)SbO$_3$ at the
+same K-doping level.",0.20409966,-0.045107387,0.29319352,C
+1265,"This work was supported by National
+   To explore how to promote Tc, we further study the impact           Natural Science Foundation of China (NSFC) Grant No.","We acknowledge fruitful discussion with Zhicheng Zhong
+                                                                       and Guangming Zhang.","12174278, the startup fund from Soochow University, and
+                                                                       Priority Academic Program Development (PAPD) of Jiangsu
+                                                                       Higher Education Institutions.",2022-01-31 02:35:28+00:00,Characterizing the superconducting instability in a two-orbital $d$-$s$ model: insights to infinite-layer nickelate superconductors,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']",[arxiv.Result.Author('Mi Jiang')],"Motivated by the recent realization of the infinite-layer nickelate
+superconductivity (SC), we quantitatively investigate a two-orbital $d$-$s$
+model by dynamic cluster quantum Monte Carlo calculations. Focusing on the
+impact of inter-orbital hybridization on the superconducting properties, our
+simulations indicate that the $d$-$s$ hybridization strength has a decisive
+role in the suppression of the $d$-wave pairing in the doping regime relevant
+to infinite-layer nickelates. Although we confirm on the single-orbital
+description at weak hybridization, at relatively large hybridization, there
+exists a constructive effect of the non-negligibly finite $s$ orbital occupancy
+on inhibiting the suppression of the superconductivity. More strikingly, there
+exists a possible SC enhancement at large enough Hubbard interaction via large
+$d$-$s$ hybridization. We further provide some insights on the relevance of
+$d$-$s$ model to infinite-layer nickelates.",0.30695066,0.23437041,0.02434514,B
+1398,rections for further research.,"[10] M. Ritter, N. Crescini, D. Haxell, M. Hinderling, H. Riel,
+   The success of the present model in predicting the ob-              C. Bruder, A. Fuhrer, and F. Nichele, arXiv preprint
+served experimental behaviour opens up several new di-                 arXiv:2106.01816 (2021).","Arguably the most impor-
+tant task is to calculate the additional couplings β1 and        [11] T. Elalaily, O. Ku¨rt¨ossy, Z. Scheru¨bl, M. Berke, G. Fu¨lo¨p,
+β2 directly from a microscopic theory.",2022-02-01 19:00:01+00:00,Destroying superconductivity in thin films with an electric field,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall', 'hep-th']","[arxiv.Result.Author('Andrea Amoretti'), arxiv.Result.Author('Daniel K. Brattan'), arxiv.Result.Author('Nicodemo Magnoli'), arxiv.Result.Author('Luca Martinoia'), arxiv.Result.Author('Ioannis Matthaiakakis'), arxiv.Result.Author('Paolo Solinas')]","In this Letter we use a Ginzburg-Landau approach to show that a suitably
+strong electric field can drive a phase transition from a superconductor to a
+normal metal. The transition is induced by taking into account corrections to
+the permittivity due to the superconductive gap and persists even when
+screening effects are considered. We test the model against recent experimental
+observations in which a strong electric field has been observed to control the
+supercurrent in superconducting thin films. We find excellent agreement with
+the experimental data and are able to explain several observed features. We
+additionally suggest a way to test our theoretical proposal via
+superconductor-superconductor electron tunneling.",0.25283068,-0.10680824,-0.0077742212,A
+1399,"Theoretically, this phase transition is induced by       The success of the present model in predicting the ob-
+the mutual backreaction between the order parameter          served experimental behaviour opens up several new di-
+and the electric ﬁeld, encoded in the modiﬁcation of the     rections for further research.","superconductivity and the emergence of a normal-metal
+phase.","Arguably the most impor-
+electric permittivity appearing in the GL functional.",2022-02-01 19:00:01+00:00,Destroying superconductivity in thin films with an electric field,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall', 'hep-th']","[arxiv.Result.Author('Andrea Amoretti'), arxiv.Result.Author('Daniel K. Brattan'), arxiv.Result.Author('Nicodemo Magnoli'), arxiv.Result.Author('Luca Martinoia'), arxiv.Result.Author('Ioannis Matthaiakakis'), arxiv.Result.Author('Paolo Solinas')]","In this paper we use a Ginzburg-Landau approach to show that a suitably
+strong electric field can drive a phase transition from a superconductor to a
+normal metal. The transition is induced by taking into account corrections to
+the permittivity due to the superconductive gap and persists even when
+screening effects are considered. We test the model against recent experimental
+observations in which a strong electric field has been observed to control the
+supercurrent in superconducting thin films. We find excellent agreement with
+the experimental data and are able to explain several observed features. We
+additionally suggest a way to test our theoretical proposal via
+superconductor-superconductor electron tunneling.",-0.096844524,-0.05393649,-0.026837729,B
+1420,"However, it is usually diﬃcult          observations are found to be consistent with a nonunitary
+                                                   to unambiguously establish the structure of the super-         triplet superconducting ground state, the veriﬁcation of
+                                                                                                                  which shall stimulate further study, both experimentally
+                                                                                                                                                                                 2
+
+and theoretically.","By
+                                                   sional irreducible representation [5, 6] of the crystal point  means of symmetry analysis and model calculations, our
+                                                   group of the material.","low the respective Tc-s. A clear increase in the muon-spin
+                                                                                                                                               relaxation rate in the superconducting state compared to
+                RESULTS AND DISCUSSION
+                                                                                                                                               the normal state is evident from both ﬁgures.",2022-02-02 12:23:15+00:00,Time-Reversal Symmetry Breaking Superconductivity in Three-Dimensional Dirac Semimetallic Silicides,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Sudeep K. Ghosh'), arxiv.Result.Author('P. K. Biswas'), arxiv.Result.Author('Chunqiang Xu'), arxiv.Result.Author('B. Li'), arxiv.Result.Author('J. Z. Zhao'), arxiv.Result.Author('A. D. Hillier'), arxiv.Result.Author('Xiaofeng Xu')]","Superconductors with broken time-reversal symmetry represent arguably one of
+the most promising venues for realizing highly sought-after topological
+superconductivity that is vital to fault-tolerant quantum computation. Here, by
+using extensive muon-spin relaxation and rotation measurements, we report that
+the isostructural silicide superconductors (Ta, Nb)OsSi spontaneously break
+time-reversal symmetry at the superconducting transition while surprisingly
+showing a fully-gapped superconductivity characteristic of conventional
+superconductors. The first-principles calculations show that (Ta, Nb)OsSi are
+three-dimensional Dirac semimetals protected by nonsymmorphic symmetries.
+Taking advantage of the exceptional low symmetry crystal structure of these
+materials, we have performed detailed theoretical calculations to establish
+that the superconducting ground state for both (Ta, Nb)OsSi is most likely a
+nonunitary triplet state.",-0.27519715,0.0746776,0.019245548,B
+1790,"further research, we identify the near-zero-energy vortex      The three dashed vertical lines in each panel denote the three
+core states here in a self-consistent manner by employing      low energy peak positions for β = 0.",The curves are vertically shifted for clarity.,"The arrows in (b), (c)
+the honeycomb lattice model, where the band structure          and (d) indicate the peak position shift with respect to that
+has the Dirac-type dispersion near the half ﬁlling.",2022-02-10 02:16:42+00:00,Local breaking of the spin degeneracy in the vortex states of Ising superconductors: Induced antiphase ferromagnetic order,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Hong-Min Jiang'), arxiv.Result.Author('Xiao-Yin Pan')]","Ising spin-orbital coupling is usually easy to identify in the Ising
+superconductors via an in-plane critical field enhancement, but we show that
+the Ising spin-orbital coupling also manifests in the vortex physics for
+perpendicular magnetic fields. By self-consistently solving the Bogoliubov-de
+Gennes equations of a model Hamiltonian built on the honeycomb lattice with the
+Ising spin-orbital coupling pertinent to the transition metal dichalcogenides,
+we numerically investigate the local breaking of the spin and sublattice
+degeneracies in the presence of a perpendicular magnetic field. It is revealed
+that the ferromagnetic orders are induced inside the vortex core region by the
+Ising spin-orbital coupling. The induced magnetic orders are antiphase in terms
+of their opposite polarizations inside the two nearest-neighbor vortices with
+one of the two polarizations coming dominantly from one sublattice sites,
+implying the local breaking of the spin and sublattice degeneracies. The
+finite-energy peaks of the local-density-of-states for spin-up and spin-down
+in-gap states are split and shifted oppositely by the Ising spin-orbital
+coupling, and the relative shifts of them on sublattices $A$ and $B$ are also
+of opposite algebraic sign. The calculated results and the proposed scenario
+may not only serve as experimental signatures for identifying the Ising
+spin-orbital coupling in the Ising superconductors, but also be prospective in
+manipulation of electron spins in motion through the orbital effect in the
+superconducting vortex states.",-0.046171643,-0.29715985,-0.11680186,A
+2754,"In this paper, we present data on fully-   lines has allowed further study of this intrinsic VL struc-
+                                                   oxygenated YBCO in ﬁelds up to 25.9 T - experimental        ture, which shows that the ﬁeld-induced VL structural
+                                                   results obtained from the HFM/EXED neutron beam-            transitions are ﬁrst-order, unlike the second-order struc-
+                                                   line at the Helmholtz Zentrum Berlin [14–16].","advances in sample quality and SANS sample environ-
+                                                   ments have allowed VL studies in YBCO to ﬂourish and           The availability of high-quality de-twinned single crys-
+                                                   yield much information about superconductivity in this      tals of YBCO and high magnetic ﬁelds on SANS beam-
+                                                   material [2–13].","SANS          tural transitions observed in the twinned samples [8, 10].",2022-03-03 13:25:17+00:00,Deviations from the extended London model at high magnetic fields in YBa$_2$Cu$_3$O$_7$,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('E. Campillo'), arxiv.Result.Author('M. Bartkowiak'), arxiv.Result.Author('R. Riyat'), arxiv.Result.Author('E. Jellyman'), arxiv.Result.Author('A. S. Cameron'), arxiv.Result.Author('A. T. Holmes'), arxiv.Result.Author('O. Prokhnenko'), arxiv.Result.Author('W. -D. Stein'), arxiv.Result.Author('A. Erb'), arxiv.Result.Author('E. M. Forgan'), arxiv.Result.Author('E. Blackburn')]","We report on the evolution with magnetic field and temperature of the vortex
+lattice (VL) in fully-oxygenated YBa2Cu3O7 as studied by time-of-flight small
+angle neutron scattering. Using the HFM/EXED beamline, we have obtained data up
+to 25.9 T - much higher than that available previously. Our VL structure
+results indicate the progressive suppression by field of the superconductivity
+along the crystallographic b (CuO chain) direction. The intensity of the
+diffracted signal reveals the spatial variation of magnetization caused by the
+VL (the ""form factor""). Instead of a rapid fall-off with field, as seen in
+superconductors with smaller upper critical fields, we find that the form
+factor is almost constant with field above about 12 T. We speculate that this
+is due to Pauli paramagnetic moments, which increase at high fields due to
+alignment of the spins of quasiparticles in the vortex cores.",-0.17689046,0.063766,0.12137004,B
+2900,"On cool-
+for this is unclear, and this issue requires further study.",The reason                                        temperatures reﬂects the localized 4f moments.,"ing, (1/T1)4f decreased below 40 K, which is consistent
+   The hyperﬁne coupling constant Ahf,i can be deter-                                       with the broad maximum of the electrical resistivity at
+mined by the slope of the K–χ plot, as shown in Figs.",2022-03-07 07:41:46+00:00,Two-dimensional XY-type Magnetic Properties of Locally Noncentrosymmetric Superconductor CeRh$_2$As$_2$,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Shunsaku Kitagawa'), arxiv.Result.Author('Mayu Kibune'), arxiv.Result.Author('Katsuki Kinjo'), arxiv.Result.Author('Masahiro Manago'), arxiv.Result.Author('Takanori Taniguchi'), arxiv.Result.Author('Kenji Ishida'), arxiv.Result.Author('Manuel Brando'), arxiv.Result.Author('Elena Hassinger'), arxiv.Result.Author('Christoph Geibel'), arxiv.Result.Author('Seunghyun Khim')]","We performed $^{75}$As-NMR measurements to investigate the normal-state
+magnetic properties of CeRh$_2$As$_2$, a recently-discovered heavy-fermion
+superconductor. The magnitude and temperature dependence of the Knight shift at
+the As(2) site indicate easy-plane-type magnetic anisotropy in CeRh$_2$As$_2$.
+With regard to spin fluctuations, the temperature dependence of the nuclear
+spin-lattice relaxation rate $1/T_1$ arising from the 4$f$ electrons decreases
+from high-temperature constant behavior on cooling at $\sim$ 40~K, which is
+typical behavior of heavy-fermion systems. In addition, $1/T_1$ becomes
+constant at low temperatures, suggesting spatially two-dimensional
+antiferromagnetic fluctuations. Two-dimensional magnetic correlations in the
+real space are quite rare among heavy-fermion superconductors, and they may be
+a key factor in the unique superconducting multi-phase in CeRh$_2$As$_2$.",0.13653372,-0.032197893,-0.09831381,A
+2934,"It may arise from the orbital loop current phase as
+predicted by some theories[3], or it is induced by the field-induced correlated magnetic
+moments of the vanadium ions[29], which deserves further study.","While it remains to be resolved
+what is the final reason for the AHE.","In summary, we have successfully synthesized Nb-doped Cs(V1-xNbx)3Sb5 single
+crystals with a solution limit of 7%.",2022-03-07 17:13:12+00:00,Tuning the competition between superconductivity and charge order in kagome superconductor Cs(V1-xNbx)3Sb5,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Yongkai Li'), arxiv.Result.Author('Qing Li'), arxiv.Result.Author('Xinwei Fan'), arxiv.Result.Author('Jinjin Liu'), arxiv.Result.Author('Qi Feng'), arxiv.Result.Author('Min Liu'), arxiv.Result.Author('Chunlei Wang'), arxiv.Result.Author('Jia-Xin Yin'), arxiv.Result.Author('Junxi Duan'), arxiv.Result.Author('Xiang Li'), arxiv.Result.Author('Zhiwei Wang'), arxiv.Result.Author('Hai-Hu Wen'), arxiv.Result.Author('Yugui Yao')]","The recently discovered coexistence of superconductivity and charge density
+wave order in the kagome systems AV3Sb5 (A = K, Rb, Cs) has stimulated enormous
+interest. According to theory, a vanadium-based kagome system may host a flat
+band, nontrivial linear dispersive Dirac surface states and electronic
+correlation. Despite intensive investigations, it remains controversial about
+the origin of the charge density wave (CDW) order, how does the
+superconductivity relate to the CDW, and whether the anomalous Hall effect
+(AHE) arises primarily from the kagome lattice or the CDW order. We report an
+extensive investigation on Cs(V1-xNbx)3Sb5 samples with systematic Nb doping.
+Our results show that the Nb doping induces apparent suppression of CDW order
+and promotes superconductivity; meanwhile, the AHE and magnetoresistance (MR)
+will be significantly weakened together with the CDW order. Combining with our
+density functional calculations, we interpret these effects by an antiphase
+shift of the Fermi energy with respect to the saddle points near M and the
+Fermi surface centered around {\Gamma}. It is found that the former depletes
+the filled states for the CDW instability and worsens the nesting condition for
+CDW order; while the latter lifts the Fermi level upward and enlarges the Fermi
+surface surrounding the {\Gamma} point, and thus promotes superconductivity.
+Our results uncover a delicate but unusual competition between the CDW order
+and superconductivity.",0.1131482,-0.16262406,0.22883609,C
+3015,"To further study the superconducting properties,
+we perform the magnetization measurements at low temperatures between 1.9 and 2.5 K for the
+CuIr1.94Cr0.06Te4 sample.","In addition, a large
+Meissner fraction close to 100 % at 1.8 K is observed in CuIr1.94Cr0.06Te4, which rules out the
+possibility of filamentary SC or impurity phases.",Figure.,2022-03-09 09:31:19+00:00,"Interplay between Charge-Density-Wave, Superconductivity, and Ferromagnetism in CuIr2-xCrxTe4 Chalcogenides",cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Lingyong Zeng'), arxiv.Result.Author('Xunwu Hu'), arxiv.Result.Author('Ningning Wang'), arxiv.Result.Author('Jianping Sun'), arxiv.Result.Author('Pengtao Yang'), arxiv.Result.Author('Mebrouka Boubeche'), arxiv.Result.Author('Shaojuan Luo'), arxiv.Result.Author('Yiyi He'), arxiv.Result.Author('Jinguang Cheng'), arxiv.Result.Author('Dao-Xin Yao'), arxiv.Result.Author('Huixia Luo')]","We report the crystal structure, charge-density-wave (CDW), superconductivity
+(SC), and ferromagnetism (FM) in CuIr2-xCrxTe4 chalcogenides. Powder x-ray
+diffraction (PXRD) results reveal that CuIr2-xCrxTe4 series are distinguished
+between two structural types and three different regions: (i) layered trigonal
+structure region, (ii) mixed phase regions, (iii) spinel structure region.
+Besides, Cr substitution for Ir site results in rich physical properties
+including the collapse of CDW, the formation of dome-shaped like SC, and the
+emergence of magnetism. Cr doping slightly elevates the superconducting
+critical temperature (Tsc) to its highest Tsc = 2.9 K around x = 0.06. As x
+increases from 0.3 to 0.4, the ferromagnetic Curie temperature (Tc) increases
+from 175 to 260 K. However, the Tc remains unchanged in the spinel range from
+1.9 to 2. This finding provides a comprehensive material platform for
+investigating the interplay between CDW, SC, and FM multipartite quantum
+states.",-0.26023299,0.14111021,0.09196765,B
+3016,"However, it needs further study to verify it.","Finally, Raman scattering investigations have
+suggested that a quantum critical point occurs within the superconducting composition area in the
+CuxTiSe2 series,66 thus a quantum critical phase transition may exist in our CuIr2-xCrxTe4 system
+around a critical composition x  0.25 where the SC disappears, followed by the emergence of FM.","18
+      In order to compare with the experimental results, we further investigate the electronic
+structure and magnetism of the CuIr2-xCrxTe4 by combining First-principles calculations.",2022-03-09 09:31:19+00:00,"Interplay between Charge-Density-Wave, Superconductivity, and Ferromagnetism in CuIr2-xCrxTe4 Chalcogenides",cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Lingyong Zeng'), arxiv.Result.Author('Xunwu Hu'), arxiv.Result.Author('Ningning Wang'), arxiv.Result.Author('Jianping Sun'), arxiv.Result.Author('Pengtao Yang'), arxiv.Result.Author('Mebrouka Boubeche'), arxiv.Result.Author('Shaojuan Luo'), arxiv.Result.Author('Yiyi He'), arxiv.Result.Author('Jinguang Cheng'), arxiv.Result.Author('Dao-Xin Yao'), arxiv.Result.Author('Huixia Luo')]","We report the crystal structure, charge-density-wave (CDW), superconductivity
+(SC), and ferromagnetism (FM) in CuIr2-xCrxTe4 chalcogenides. Powder x-ray
+diffraction (PXRD) results reveal that CuIr2-xCrxTe4 series are distinguished
+between two structural types and three different regions: (i) layered trigonal
+structure region, (ii) mixed phase regions, (iii) spinel structure region.
+Besides, Cr substitution for Ir site results in rich physical properties
+including the collapse of CDW, the formation of dome-shaped like SC, and the
+emergence of magnetism. Cr doping slightly elevates the superconducting
+critical temperature (Tsc) to its highest Tsc = 2.9 K around x = 0.06. As x
+increases from 0.3 to 0.4, the ferromagnetic Curie temperature (Tc) increases
+from 175 to 260 K. However, the Tc remains unchanged in the spinel range from
+1.9 to 2. This finding provides a comprehensive material platform for
+investigating the interplay between CDW, SC, and FM multipartite quantum
+states.",-0.020524815,0.022432452,0.2702397,B
+3044,"be helpful in designing new experiments to further study
+                                                              this unusual state.","This analysis should
+tional superconductor and an altermagnet.","One of the most interesting eﬀects in this environment
+is spin-polarized Andreev reﬂection.",2022-03-09 19:01:17+00:00,Notes on altermagnetism and superconductivity,cond-mat.supr-con,['cond-mat.supr-con'],[arxiv.Result.Author('Igor I. Mazin')],"A brief discussion of possible interplay between altermagnetism (a third type
+of collinear magnetism, besides ferro- and antiferromagnetism), and
+superconductivity.",-0.17102197,-0.12418983,-0.124609,B
+3121,"To confirm that the dip feature emerging in the normalized dI/dV spectra corresponds
+to a SC gap, we further study its temperature (T) dependence.","This
+gap evolution with the magnetic field can be fitted to the empirical formula ∆(𝑇, 𝐵) =
+
+∆(𝑇, 0) · √1 − (𝐵⁄𝐵𝐶2) from the Ginzburg-Landau theory [28].",Fig.,2022-03-10 21:32:31+00:00,Superconducting dome by tuning through a Van Hove singularity in a two-dimensional metal,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Wen Wan'), arxiv.Result.Author('Rishav Harsh'), arxiv.Result.Author('Paul Dreher'), arxiv.Result.Author('Fernando de Juan'), arxiv.Result.Author('Miguel M. Ugeda')]","Chemical substitution is a promising route for the exploration of a rich
+variety of doping- and/or disorder-dependent collective phenomena in
+low-dimensional quantum materials. Here we show that transition metal
+dichalcogenide alloys are ideal platforms to this purpose. In particular, we
+demonstrate the emergence of superconductivity in the otherwise metallic
+single-layer TaSe$_{2}$ by minute electron doping provided by substitutional W
+atoms. We investigate the temperature- and magnetic field-dependence of the
+superconducting state of Ta$_{1-\delta}$W$_\delta$Se$_2$ with electron doping
+($\delta$) using variable temperature (0.34 K - 4.2 K) scanning tunneling
+spectroscopy (STS). We unveil the emergence of a superconducting dome spanning
+0.003 < $\delta$ < 0.03 with a maximized critical temperature of 0.85 K, a
+significant increase from that of bulk TaSe$_{2}$ (T$_C$ = 0.14 K).
+Superconductivity emerges from an increase of the density of states (DOS) as
+the Fermi surface approaches a van Hove singularity due to doping. Once the
+singularity is reached, however, the DOS decreases with $\delta$, which
+gradually weakens the superconducting state, thus shaping the superconducting
+dome. Lastly, our doping-dependent measurements allow us to unambiguously track
+the development of a Coulomb glass phase triggered by disorder due to W
+dopants.",0.05646978,-0.118265495,-0.18332271,A
+3133,"[36] But this foundation still requires further research
+indeed.","[35] Similarly, it is
+reasonable to deduce that the CDW gap is possibly opened due to the disorder created
+with S element doping, leading to a reduced density of states (DOS) near the Fermi level
+(EF) and the suppression of Tc.","After all, Tcs of the 2H-TaSe2-xSx series are remarkably greater than those of the
+two end undoped 2H-TaSe2 and 2H-TaS2 compounds, but there is only subtle
+enhancement of Tc at even the optimal doping composition CuIr2Te3.85S0.15.",2022-03-11 09:55:59+00:00,Superconducting dome associated with the suppression and re-emergence of charge density wave states upon sulfur substitution in CuIr2Te4 chalcogenides,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Mebrouka Boubeche'), arxiv.Result.Author('Ningning Wang'), arxiv.Result.Author('Jianping Sun'), arxiv.Result.Author('Pengtao Yang'), arxiv.Result.Author('Lingyong Zeng'), arxiv.Result.Author('Shaojuan Luo'), arxiv.Result.Author('Yiyi He'), arxiv.Result.Author('Jia Yu'), arxiv.Result.Author('Meng Wang'), arxiv.Result.Author('Jinguang Cheng'), arxiv.Result.Author('Huixia Luo')]","We report the path from the charge density wave (CDW)-bearing superconductor
+CuIr2Te4 to the metal insulator transition (MIT)-bearing compound CuIr2S4 by
+chemical alloying with the gradual substitution of S for Te. The evolution of
+structural and physical properties of the CuIr2Te4-xSx polycrystalline system
+with the doping range from 0 to 4 is systemically examined. The X-ray
+diffraction (XRD) results imply CuIr2Te4-xSx in the range between 0 and 0.5
+crystallizes in a NiAs defected trigonal structure, whereas it adapts to the
+cubic spinel structure in the doping range from 3.6 to 4 and it is a mixed
+phase in the doping range from 0.5 to 3.6. Unexpectedly, the resistivity and
+magnetization measurements reveal that small-concentration S substitution for
+Te can suppress the CDW transition, but it reappears around x = 0.2, and the
+CDW transition temperature enhances clearly as x augments in the range from 0.2
+to 0.5. Besides, the superconducting critical temperature (Tc) first increases
+with S doping content and then decreases after reaching a maximum Tc = 2.82 K
+for CuIr2Te3.85S0.15. MIT order has been observed in the spinel region from 3.6
+to 4 associated with TMI increasing with x increasing. Finally, the rich
+electronic phase diagram of temperature versus x for this CuIr2Te4-xSx system
+is assembled, where the superconducting dome is associated with the suppression
+and re-emergence of CDW as well as MIT states at the end upon sulfur
+substitution in the CuIr2Te4-xSx chalcogenides.",0.23503375,-0.067435645,0.43103656,C
+3134,"Based on our results, CuIr2Te4-xSx is a
+potential platform for further study of the interrelationships between different types of
+electronic orders.","On the other hand, S
+substitution for Te can slightly enhance the Tc and the optimal doping lever is x = 0.15
+(CuIr2Te3.85S0.15) with the highest Tc  2.82 K. The metal-insulator transition exists in the region
+of 3.6  x  4 and TMI is enhanced by S substitution.","Future systematic studies will be important to better understand these
+interactions and ascertain the physical origin of these electronic instabilities.",2022-03-11 09:55:59+00:00,Superconducting dome associated with the suppression and re-emergence of charge density wave states upon sulfur substitution in CuIr2Te4 chalcogenides,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Mebrouka Boubeche'), arxiv.Result.Author('Ningning Wang'), arxiv.Result.Author('Jianping Sun'), arxiv.Result.Author('Pengtao Yang'), arxiv.Result.Author('Lingyong Zeng'), arxiv.Result.Author('Shaojuan Luo'), arxiv.Result.Author('Yiyi He'), arxiv.Result.Author('Jia Yu'), arxiv.Result.Author('Meng Wang'), arxiv.Result.Author('Jinguang Cheng'), arxiv.Result.Author('Huixia Luo')]","We report the path from the charge density wave (CDW)-bearing superconductor
+CuIr2Te4 to the metal insulator transition (MIT)-bearing compound CuIr2S4 by
+chemical alloying with the gradual substitution of S for Te. The evolution of
+structural and physical properties of the CuIr2Te4-xSx polycrystalline system
+with the doping range from 0 to 4 is systemically examined. The X-ray
+diffraction (XRD) results imply CuIr2Te4-xSx in the range between 0 and 0.5
+crystallizes in a NiAs defected trigonal structure, whereas it adapts to the
+cubic spinel structure in the doping range from 3.6 to 4 and it is a mixed
+phase in the doping range from 0.5 to 3.6. Unexpectedly, the resistivity and
+magnetization measurements reveal that small-concentration S substitution for
+Te can suppress the CDW transition, but it reappears around x = 0.2, and the
+CDW transition temperature enhances clearly as x augments in the range from 0.2
+to 0.5. Besides, the superconducting critical temperature (Tc) first increases
+with S doping content and then decreases after reaching a maximum Tc = 2.82 K
+for CuIr2Te3.85S0.15. MIT order has been observed in the spinel region from 3.6
+to 4 associated with TMI increasing with x increasing. Finally, the rich
+electronic phase diagram of temperature versus x for this CuIr2Te4-xSx system
+is assembled, where the superconducting dome is associated with the suppression
+and re-emergence of CDW as well as MIT states at the end upon sulfur
+substitution in the CuIr2Te4-xSx chalcogenides.",0.26044878,-0.0003360398,0.4850061,C
+3937,"This study indicates the prospects for further research of alloy-based high-Tc hydrides at
+moderate pressures.","In the pressure range of 95–130 GPa, the ternary hexagonal
+La–Ce–H system shows higher Tc than the binary La–H system, with the maximum difference reaching
+100 K. The compounds of both these systems were synthesized at the same pressure and temperature
+conditions.","Acknowledgments
+The authors thank the staff of the Shanghai Synchrotron Radiation Facility for their help during the
+synchrotron XRD measurements.",2022-03-27 17:23:04+00:00,Enhancement of the superconducting critical temperature realized in the La-Ce-H system at moderate pressures,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Wuhao Chen'), arxiv.Result.Author('Xiaoli Huang'), arxiv.Result.Author('Dmitrii V. Semenok'), arxiv.Result.Author('Su Chen'), arxiv.Result.Author('Kexin Zhang'), arxiv.Result.Author('Artem R. Oganov'), arxiv.Result.Author('Tian Cui')]","Covalent and ionic polyhydrides have become the two main camps in searching
+for the high-temperature superconductors under pressure. They have been
+considered as important platforms for exploring ternary or multiple hydrides in
+order to further increase the Tc or decrease the stabilization pressure. In
+this work, we successfully synthesized ternary hexagonal La-Ce polyhydrides
+stable in the pressure range of 95-130 GPa by laser-heating the La-Ce alloy
+(initial ratio La:Ce=2.5-3.5) in ammonia borane. Superconductivity at 176 K was
+strikingly preserved to about 100 GPa. The extrapolated upper critical field
+Hc2(0) reached 216 T at 100 GPa, the highest value among the synthesized
+polyhydrides. We also performed the contrast experiments and stabilized binary
+high-temperature superconducting LaHx with Tc-103 K at 78 GPa. In the pressure
+range of 95-130 GPa, the ternary hexagonal La-Ce-H system exhibits higher Tc
+than the binary La-H system, with the maximum difference of 100 K, and the
+compounds of both systems were synthesized at the same pressure and temperature
+conditions. These results clearly indicate that the discovered La-Ce-H system
+not only enriches the high-temperature superconducting hydrides but also
+realizes high-Tc at moderate pressures.",0.18089849,0.22060016,0.20281997,C
+4037,"To                                                        tional patterns of these phonon modes are demonstrated
+further study the electronic structure of monolayer Ba2N,                                                       in Fig.","The vibra-
+lower surfaces, which is similar to monolayer Ca2N61.",3(d).,2022-03-29 15:30:41+00:00,Superconductivity in monolayer Ba$_2$N electride: a first-principles study,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Xiao-Le Qiu'), arxiv.Result.Author('Jian-Feng Zhang'), arxiv.Result.Author('Huan-Cheng Yang'), arxiv.Result.Author('Zhong-Yi Lu'), arxiv.Result.Author('Kai Liu')]","The exploration of superconductivity in low-dimensional materials has
+attracted intensive attention for decades. Based on first-principles electronic
+structure calculations, we have systematically investigated the electronic and
+superconducting properties of the two-dimensional electride Ba$_2$N in the
+monolayer limit. Our results show that monolayer Ba$_2$N has a low work
+function of 3.0 eV and a predicted superconducting transition temperature
+($T_c$) of 3.4 K. The superconductivity can be further improved with the
+tensile strain, which results from the increase of density of states at the
+Fermi level as well as the enhanced coupling between inner-layer electrons and
+phonons. Remarkably, at the 4$\%$ tensile strain, the acoustic branches have
+noticeable softening at the K point of Brillouin zone and the superconducting
+$T_c$ can reach 10.8 K. The effect of lattice strain on the electron transfer
+from the superficial region to the inner-layer region of monolayer Ba$_2$N may
+also apply to other electride materials and influence their physical
+properties.",0.054783825,-0.09558156,0.19254068,C
+4070,"In this regard, candidate Kagome materials
+                                                    having ﬂat band close to Fermi surface, such as CoSn9,10,36
+                                                    and Pd3P2S814,15, are favored for further study by doping or
+                                                    pressure tuning.","An alternative way to look for novel phases is to
+                                                    tune the materials by doping or pressure34,35, so that the elec-
+
+                                                    trons can be partly delocalized and bring in the electron cor-
+
+                                                    relation effect.","Here we report our high-pressure transport studies on a
+
+                                                    van-der-Waals (vdW) Kagome compound Pd3P2S8 and its
+                                                    Se-doped compound Pd3P2(S0.75Se0.25)8, both of which are
+                                                    highly insulating at the ambient pressure14,15.",2022-03-30 00:26:53+00:00,Pressure-induced superconductivity in flat-band Kagome compounds Pd$_3$P$_2$(S$_{1-x}$Se$_x$)$_8$,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Shuo Li'), arxiv.Result.Author('Shuo Han'), arxiv.Result.Author('Shaohua Yan'), arxiv.Result.Author('Yi Cui'), arxiv.Result.Author('Le Wang'), arxiv.Result.Author('Shanmin Wang'), arxiv.Result.Author('Shanshan Chen'), arxiv.Result.Author('Hechang Lei'), arxiv.Result.Author('Feng Yuan'), arxiv.Result.Author('Jinshan Zhang'), arxiv.Result.Author('Weiqiang Yu')]","We performed high-pressure transport studies on the flat-band Kagome
+compounds, Pd$_3$P$_2$(S$_{1-x}$Se$_x$)$_8$ ($x$ = 0, 0.25), with a diamond
+anvil cell. For both compounds, the resistivity exhibits an insulating behavior
+with pressure up to 17 GPa. With pressure above 20 GPa, a metallic behavior is
+observed at high temperatures in Pd$_3$P$_2$S$_8$, and superconductivity
+emerges at low temperatures. The onset temperature of superconducting
+transition $T_{\rm C}$ rises monotonically from 2 K to 5 K and does not
+saturate with pressure up to 43 GPa. For the Se-doped compound
+Pd$_3$P$_2$(S$_{0.75}$Se$_{0.25}$)$_8$, the $T_{\rm C}$ is about 1.5 K higher
+than that of the undoped one over the whole pressure range, and reaches 6.5 K
+at 43 GPa. The upper critical field with field applied along the $c$ axis at
+typical pressures is about 50$\%$ of the Pauli limit, suggests a 3D
+superconductivity. The Hall coefficient is low and exhibits a peaked behavior
+at about 40 K, which suggests a multi-band electronic structure.",0.27773649,0.14262064,0.45514396,C_centroid
+4071,"In this regard, candidate Kagome materials
+                                                    having ﬂat band close to Fermi surface, such as CoSn9,10,36
+                                                    and Pd3P2S814,15, are favored for further study by doping or
+                                                    pressure tuning.","An alternative way to look for novel phases is to
+                                                    tune the materials by doping or pressure34,35, so that the elec-
+
+                                                    trons can be partly delocalized and bring in the electron cor-
+
+                                                    relation effect.","Here we report our high-pressure transport studies on a
+
+                                                    van-der-Waals Kagome compound Pd3P2S8 and its Se-doped
+                                                    compound Pd3P2(S0.75Se0.25)8, both of which are highly in-
+                                                    sulating at the ambient pressure14,15.",2022-03-30 00:26:53+00:00,Pressure-induced superconductivity in flat-band Kagome compounds Pd$_3$P$_2$(S$_{1-x}$Se$_x$)$_8$,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Shuo Li'), arxiv.Result.Author('Shuo Han'), arxiv.Result.Author('Shaohua Yan'), arxiv.Result.Author('Yi Cui'), arxiv.Result.Author('Le Wang'), arxiv.Result.Author('Shanmin Wang'), arxiv.Result.Author('Shanshan Chen'), arxiv.Result.Author('Hechang Lei'), arxiv.Result.Author('Feng Yuan'), arxiv.Result.Author('Jinshan Zhang'), arxiv.Result.Author('Weiqiang Yu')]","We performed high-pressure transport studies on the flat-band Kagome
+compounds, Pd$_3$P$_2$(S$_{1-x}$Se$_x$)$_8$ ($x$ = 0, 0.25), with a diamond
+anvil cell. For both compounds, the resistivity exhibits an insulating behavior
+with pressure up to 17 GPa. With pressure above 20 GPa, a metallic behavior is
+observed at high temperatures in Pd$_3$P$_2$S$_8$, and superconductivity
+emerges at low temperatures. The onset temperature of superconducting
+transition $T_{\rm C}$ rises monotonically from 2 K to 4.8 K and does not
+saturate with pressure up to 43 GPa. For the Se-doped compound
+Pd$_3$P$_2$(S$_{0.75}$Se$_{0.25}$)$_8$, the $T_{\rm C}$ is about 1.5 K higher
+than that of the undoped one over the whole pressure range, and reaches 6.4 K
+at 43 GPa. The upper critical field with field applied along the $c$ axis at
+typical pressures is about 50$\%$ of the Pauli limit, suggesting a 3D
+superconductivity. The Hall coefficient in the metallic phase is low and
+exhibits a peaked behavior at about 30 K, which suggests either a multi-band
+electronic structure or an electron correlation effect in the system.",0.26866916,0.14271995,0.45311248,C
+4306,"4 (b) (c)          diﬀerent t values does not always follow the commonly
+without the Zeeman energy, but to strengthen this argu-          held belief that the maxima bc2(π/2, φ, t) always occurs
+ment requires further study.","It is intriguing
+ther study shows that the such crossing points seem to           to ﬁnd that bc2(π/2, φ, t) including the Zeeman energy at
+disappear comparing with the results in Figs.",We only show a few ex-              along the antinodal directions of the of the OP.,2022-04-04 05:23:52+00:00,Angular dependence of the upper critical induction of clean $s$- and $d_{x^2-y^2}$-wave superconductors with self-consistent ellipsoidal effective mass and Zeeman anisotropies,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Aiying Zhao'), arxiv.Result.Author('Qiang Gu'), arxiv.Result.Author('Richard A. Klemm')]","We employ the Schr{\""o}dinger-Dirac method generalized to an ellipsoidal
+effective mass anisotropy in order to treat the spin and orbital effective mass
+anisotropies self consistently, which is important when Pauli-limiting effects
+on the upper critical field characteristic of singlet superconductivity are
+present. By employing the Klemm-Clem transformations to map the equations of
+motion into isotropic form, we then calculate the upper critical magnetic
+induction $B_{c2}(\theta, \phi, T)$ at arbitrary directions and temperatures
+$T$ for isotropic $s$-wave and for anisotropic $d_{x^2-y^2}$-wave
+superconducting order parameters. As for anisotropic $s$-wave superconductors,
+the reduced upper critical field $b_{c2}$ is largest in the direction of the
+lowest effective mass, and is proportional to the universal orientation factor
+$\alpha(\theta,\phi)$. However, for $d_{x^2-y^2}$-wave pairing, ${\bm
+B}_{c2}(\pi/2,\phi,T)$ exhibits either a four-fold pattern with $C_4$ symmetry
+just below the transition temperature $T_c$ that rotates by $\pi/4$ as $T$ is
+lowered, or a two-fold pattern with $C_2$ symmetry, depending upon the planar
+effective mass anisotropy. This provides a new method to distinguish these
+pairing symmetries in clean unconventional superconductors.",0.1978766,-0.27080476,-0.14294049,A
+4597,"band topology and its relation with the superconductiv-
+ity in this family requires further study.",The         range of ASOC splitting to be realized.,IV.,2022-04-09 12:50:46+00:00,"A Family of Lanthanide Noncentrosymmetric Superconductors La$_4$$TX$ ($T$ = Ru, Rh, Ir; $X$ = Al, In)",cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Hang Su'), arxiv.Result.Author('Feng Du'), arxiv.Result.Author('Shuaishuai Luo'), arxiv.Result.Author('Zhiyong Nie'), arxiv.Result.Author('Rui Li'), arxiv.Result.Author('Wu Xie'), arxiv.Result.Author('Bin Shen'), arxiv.Result.Author('Yunfeng Wang'), arxiv.Result.Author('An Wang'), arxiv.Result.Author('Toshiro Takabatake'), arxiv.Result.Author('Chao Cao'), arxiv.Result.Author('Michael Smidman'), arxiv.Result.Author('Huiqiu Yuan')]","We report the discovery of superconductivity in a series of
+noncentrosymmetric compounds La$_4$$TX$ ($T$ = Ru, Rh, Ir; $X$ = Al, In), which
+have a cubic crystal structure with space group $F\bar{4}3m$. La$_4$RuAl,
+La$_4$RhAl, La$_4$IrAl, La$_4$RuIn and La$_4$IrIn exhibit bulk superconducting
+transitions with critical temperatures $T_c$ of 1.77 K, 3.05 K, 1.54 K, 0.58 K
+and 0.93 K, respectively. The specific heat of the La$_4$$T$Al compounds are
+consistent with an $s$-wave model with a fully open superconducting gap. In all
+cases, the upper critical fields are well described by the
+Werthamer-Helfand-Hohenberg model, and the values are well below the Pauli
+limit, indicating that orbital limiting is the dominant pair-breaking
+mechanism. Density functional theory (DFT) calculations reveal that the degree
+of band splitting by the antisymmetric spin-orbit coupling (ASOC) shows
+considerable variation between the different compounds. This indicates that the
+strength of the ASOC is highly tunable across this series of superconductors,
+suggesting that these are good candidates for examining the relationship
+between the ASOC and superconducting properties in noncentrosymmetric
+superconductors.",-0.23143753,-0.04450802,-0.10007445,B
+5053,"Our experimental ﬁndings would stimulate further research
+                                                                  on the relation between antiferromagnetism and superconductivity in these rare-earth compounds.","In a magnetic ﬁeld, anomalous magnetic properties
+                                                                  including the bifurcation between zero-ﬁeld and ﬁeld cooling magnetization, a butterﬂy-shaped
+                                                                  magnetic hysteresis and slow magnetic relaxation emerge, which are related to the ﬁeld-induced
+                                                                  metamagnetic transitions in Dy2O2Te.","INTRODUCTION                       transition when they become superconductor, exhibiting
+                                                                                                                 the coexistence of antiferromagnetism with superconduc-
+                                                       The layered compounds of the ThCr2Si2 structure have      tivity according to the measurements of resistivity and
+                                                    shown great variety of novel superconducting and mag-        susceptibility [27, 34–36].",2022-04-19 19:26:09+00:00,Antiferromagnetic structure and magnetic properties of Dy2O2Te: An isostructural analog of the rare-earth superconductors R2O2Bi,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Juanjuan Liu'), arxiv.Result.Author('Jiale Huang'), arxiv.Result.Author('Jieming Sheng'), arxiv.Result.Author('Jinchen Wang'), arxiv.Result.Author('Feihao Pan'), arxiv.Result.Author('Hongxia Zhang'), arxiv.Result.Author('Daye Xu'), arxiv.Result.Author('Jianfei Qin'), arxiv.Result.Author('Lijie Hao'), arxiv.Result.Author('Yuanhua Xia'), arxiv.Result.Author('Hao Li'), arxiv.Result.Author('Xin Tong'), arxiv.Result.Author('Liusuo Wu'), arxiv.Result.Author('Peng Cheng'), arxiv.Result.Author('Wei Bao')]","The rare-earth compounds R2O2Bi (R=Tb, Dy, Er, Lu, Y) are newly discovered
+superconductors in the vicinity of a rare-earth magnetic long-range order. In
+this work, we determine the magnetic order of the parent compound Dy2O2Te by
+neutron scattering as the A-type antiferromagnetic structure below the N\'eel
+temperature TN=9.7K. The large staggered magnetic moment 9.4(1) {\mu}B per Dy
+at T=3.5K lies in the basal ab plane. In a magnetic field, anomalous magnetic
+properties including the bifurcation between zero-field- and field-cooling
+magnetization, a butterfly-shaped magnetic hysteresis, and slow magnetic
+relaxation emerge, which are related to the field-induced metamagnetic
+transitions in Dy2O2Te. Our experimental findings could stimulate further
+research on the relation between antiferromagnetism and superconductivity in
+these rare-earth compounds.",-0.24168885,0.018057376,0.13546737,B
+5192,"Lastly, we further study the case representing an incompleted reduction process: LaNiO2.125,
+achieved by intercalating a single O into a 2×2×2 LaNiO2 supercell [LaNiO2.125: Fig.","These frequencies correspond to energies
+of 103 meV and 186 meV, respectively, beyond the range <80 meV measured for La1−xSrxNiO2
+in [83].",4(d)].,2022-04-22 11:57:46+00:00,Signatures of topotactic hydrogen in nickelate superconductors,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Liang Si'), arxiv.Result.Author('Paul Worm'), arxiv.Result.Author('Karsten Held')]","Superconductivity has entered the nickel age marked by enormous experimental
+and theoretical efforts. Notwithstanding, synthesizing nickelate
+superconductors remains extremely challenging, not least due to incomplete
+oxygen reduction and topotactic hydrogen. Here, we present density-functional
+theory calculations, identify a phonon mode as a possible indication for
+topotactic hydrogen and discuss the charge redistribution patterns around
+oxygen and hydrogen impurities.",0.20441741,-0.17159826,0.009287907,A
+5226,"( ) 0 CaK Fe0.976Mn0.024 4As4                                                        In order to further study the eﬀects of Mn substitu-
+                                                                                                    tion on the superconducting state, anisotropic Hc2(T )
+M (emu/mol f.u.)","Figure 10b shows a
+V. SUPERCONDUCTING CRITICAL FIELDS                                                                  monotonic decrease in Hc1 as Mn substitution increases
+                      AND ANISOTROPY                                                                and Tc decreases.","-2000                                                                             data for temperatures near Tc were determined for the
+                                                                                                    substitution levels that have superconductivity.",2022-04-22 20:41:42+00:00,Superconductivity and phase diagrams of CaK(Fe$_{1-x}$Mn$_{x}$)$_{4}$As$_{4}$ single crystals,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('M. Xu'), arxiv.Result.Author('J. Schmidt'), arxiv.Result.Author('E. Gati'), arxiv.Result.Author('L. Xiang'), arxiv.Result.Author('W. R. Meier'), arxiv.Result.Author('V. G. Kogan'), arxiv.Result.Author(""S. L. Bud'ko""), arxiv.Result.Author('P. C. Canfield')]","Members of the CaK(Fe$_{1-x}$Mn$_{x}$)$_{4}$As$_{4}$ series have been
+synthesized in single crystalline form and characterized by elemental analysis,
+thermodynamic and transport measurements. These measurements show that the
+superconducting transition temperature decreases monotonically and is finally
+suppressed below 1.8 K. For $x$-values greater than 0.016, signatures of a
+magnetic transition can be detected in both thermodynamic and transport
+measurements in which kink-like features allow for the determination of the
+transition temperature, $T^*$, that increases as Mn substitution increases. A
+temperature-composition ($T$-$x$) phase diagram is constructed, revealing a
+half-dome of superconductivity with the magnetic transition temperature, $T^*$,
+appearing near 26 K for $x$ $\sim$ 0.017 and rising slowly up to 33 K for $x$
+$\sim$ 0.036. Specific heat data are used to track the jump in specific heat at
+$T_c$; The CaK(Fe$_{1-x}$Mn$_x$)$_4$As$_4$ data does not follow the scaling of
+$\Delta$$C_{p}$ with $T_{c}^3$ as many of the other Fe-based superconducting
+systems do. Elastoresistivity coefficients, $2m_{66}$ and $m_{11}-m_{12}$, as a
+function of temperature are also measured. $2m_{66}$ and $m_{11}-m_{12}$ are
+qualitatively similar to CaK(Fe$_{1-x}$Ni$_x$)$_4$As$_4$. This may indicate
+that the magnetic order in Mn substituted system may be still the same as
+CaK(Fe$_{1-x}$Ni$_x$)$_4$As$_4$. A clear change in $H^\prime_{c2}$($T$)/$T_c$,
+where $H^\prime_{c2}$($T$) is d$H_{c2}$($T$)/d$T$, at $x$ $\sim$ 0.015 is
+observed and probably is related to change of the Fermi surface due to magnetic
+order. Coherence lengths and the London penetration depths are also calculated
+based on $H_{c1}$ and $H_{c2}$ data. Coherence lengths as the function of $x$
+also shows the changes near $x$ = 0.015.",-0.31941468,0.21741065,0.024395194,B
+5227,"( ) 0 CaK Fe0.976Mn0.024 4As4                                                        In order to further study the eﬀects of Mn substitu-
+                                                                                                    tion on the superconducting state, anisotropic Hc2(T )
+M (emu/mol f.u.)","Figure 10b shows a
+V. SUPERCONDUCTING CRITICAL FIELDS                                                                  monotonic decrease in Hc1 as Mn substitution increases
+                      AND ANISOTROPY                                                                and Tc decreases.","-2000                                                                             data for temperatures near Tc were determined for the
+                                                                                                    substitution levels that have superconductivity.",2022-04-22 20:41:42+00:00,Superconductivity and phase diagrams of CaK(Fe$_{1-x}$Mn$_{x}$)$_{4}$As$_{4}$ single crystals,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('M. Xu'), arxiv.Result.Author('J. Schmidt'), arxiv.Result.Author('E. Gati'), arxiv.Result.Author('L. Xiang'), arxiv.Result.Author('W. R. Meier'), arxiv.Result.Author('V. G. Kogan'), arxiv.Result.Author(""S. L. Bud'ko""), arxiv.Result.Author('P. C. Canfield')]","Members of the CaK(Fe$_{1-x}$Mn$_{x}$)$_{4}$As$_{4}$ series have been
+synthesized in single crystalline form and characterized by elemental analysis,
+thermodynamic and transport measurements. These measurements show that the
+superconducting transition temperature decreases monotonically and is finally
+suppressed below 1.8 K. For $x$-values greater than 0.016, signatures of a
+magnetic transition can be detected in both thermodynamic and transport
+measurements in which kink-like features allow for the determination of the
+transition temperature, $T^*$, that increases as Mn substitution increases. A
+temperature-composition ($T$-$x$) phase diagram is constructed, revealing a
+half-dome of superconductivity with the magnetic transition temperature, $T^*$,
+appearing near 26 K for $x$ $\sim$ 0.017 and rising slowly up to 33 K for $x$
+$\sim$ 0.036. Specific heat data are used to track the jump in specific heat at
+$T_c$; The CaK(Fe$_{1-x}$Mn$_x$)$_4$As$_4$ data does not follow the scaling of
+$\Delta$$C_{p}$ with $T_{c}^3$ as many of the other Fe-based superconducting
+systems do. Elastoresistivity coefficients, $2m_{66}$ and $m_{11}-m_{12}$, as a
+function of temperature are also measured. $2m_{66}$ and $m_{11}-m_{12}$ are
+qualitatively similar to CaK(Fe$_{1-x}$Ni$_x$)$_4$As$_4$. This may indicate
+that the magnetic order in Mn substituted system may be still the same as
+CaK(Fe$_{1-x}$Ni$_x$)$_4$As$_4$. A clear change in $H^\prime_{c2}$($T$)/$T_c$,
+where $H^\prime_{c2}$($T$) is d$H_{c2}$($T$)/d$T$, at $x$ $\sim$ 0.015 is
+observed and probably is related to change of the Fermi surface due to magnetic
+order. Coherence lengths and the London penetration depths are also calculated
+based on $H_{c1}$ and $H_{c2}$ data. Coherence lengths as the function of $x$
+also shows the changes near $x$ = 0.015.",-0.31941468,0.21741065,0.024395194,B
+5722,"A minor discrepancy occurs between measured (black circles) and fitted (red curve) curves in
+the superconducting gap and suggests excess subgap DOS, whose origin merits further study.",3c.,Figure 3d exhibits another region in which a set of spatially dependent dI/dV spectra (Fig.,2022-05-04 01:40:06+00:00,Direct observation of nodeless superconductivity and phonon modes in electron-doped copper oxide Sr$_{1-x}$Nd$_x$CuO$_2$,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Jia-Qi Fan'), arxiv.Result.Author('Xue-Qing Yu'), arxiv.Result.Author('Fang-Jun Cheng'), arxiv.Result.Author('Heng Wang'), arxiv.Result.Author('Ruifeng Wang'), arxiv.Result.Author('Xiaobing Ma'), arxiv.Result.Author('Xiao-Peng Hu'), arxiv.Result.Author('Ding Zhang'), arxiv.Result.Author('Xu-Cun Ma'), arxiv.Result.Author('Qi-Kun Xue'), arxiv.Result.Author('Can-Li Song')]","The microscopic understanding of high-temperature superconductivity in
+cuprates has been hindered by the apparent complexity of crystal structures in
+these materials. We used scanning tunneling microscopy and spectroscopy to
+study an electron-doped copper oxide compound Sr$_{1-x}$Nd$_x$CuO$_2$ that has
+only bare cations separating the CuO$_2$ planes and thus the simplest
+infinite-layer structure among all cuprate superconductors. Tunneling
+conductance spectra of the major CuO$_2$ planes in the superconducting state
+revealed direct evidence for a nodeless pairing gap, regardless of variation of
+its magnitude with the local doping of trivalent neodymium. Furthermore, three
+distinct bosonic modes are observed as multiple peak-dip-hump features outside
+the superconducting gaps and their respective energies depend little on the
+spatially varying gaps. Along with the bosonic modes with energies identical to
+those of the external, bending and stretching phonons of copper oxides, our
+findings indicate their origin from lattice vibrations rather than spin
+excitations.",-0.19262487,0.04916639,-0.13397415,B
+6192,"21 mT
+
+                                                                                                                  1
+
+                                                                                                      0 mT
+
+                             TUNNELING CONDUCTANCE IN A                                                           0
+
+                                        MAGNETIC FIELD
+
+   To further study the superconducting properties we                                            FIG.","3(b)) with the Fermi function at a temperature of 0.1 K.
+
+For comparison, we provide in blue the density of states fol-
+
+lowing Dynes inelastic scattering expression NDynes(E) that                                           33 mT
+
+best follows NSuperc(E), with Γ =0.05 meV and ∆ = 0.16
+
+meV.",10.,2022-05-14 16:57:51+00:00,Superconducting density of states and bandstructure at the surface of the candidate topological superconductor Au2Pb,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall']","[arxiv.Result.Author('Francisco Martín-Vega'), arxiv.Result.Author('Edwin Herrera'), arxiv.Result.Author('Beilun Wu'), arxiv.Result.Author('Víctor Barrena'), arxiv.Result.Author('Federico Mompeán'), arxiv.Result.Author('Mar García-Hernández'), arxiv.Result.Author('Paul C. Canfield'), arxiv.Result.Author('Annica M. Black-Schaffer'), arxiv.Result.Author('José J. Baldoví'), arxiv.Result.Author('Isabel Guillamón'), arxiv.Result.Author('Hermann Suderow')]","The electronic bandstructure of Au$_2$Pb has a Dirac cone which gaps when
+undergoing a structural transition into a low temperature superconducting
+phase. This suggests that the superconducting phase ($T_c=1.1$ K) might hold
+topological properties at the surface. Here we make Scanning Tunneling
+Microscopy experiments on the surface of superconducting Au$_2$Pb. We measure
+the superconducting gap and find a sizeable superconducting density of states
+at the Fermi level. We discuss possible origins for this finding in terms of
+superconductivity induced into surface states.",-0.26443583,-0.09812983,0.021019198,B
+6209,"To
+further study the nature of the charge and magnetic or-      In this equation, σˇα is a 4×4 Pauli matrix in the particle-
+ders in the system, we have calculated the zero-frequency    hole symmetric Nambu space deﬁned by
+two-point charge density-charge density and spin density-
+spin density correlation functions, respectively.","For example, at             k,iνm
+ n = 1.1, the most dominant charge and spin ﬂuctua-
+tions happen around the K point in BZ at ω = 0, leading                                                   (A1)
+to incommensurate charge and magnetic ﬂuctuations.","We have              σˇ = σˆα 0 .α                      (A2)
+found that in the regime of V0/U0 ≤ 1/2, the system does                       0 −σˆα
+not show any long-range charge or spin order.",2022-05-15 23:14:21+00:00,Topological Superconductivity in Sn/Si(111) driven by non-local Coulomb interactions,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Mehdi Biderang'), arxiv.Result.Author('Mohammad-Hossein Zare'), arxiv.Result.Author('Jesko Sirker')]","Superconductivity was recently observed in boron-doped
+($\sqrt{3}\times\sqrt{3}$)Sn/Si(111). The material can be described by an
+extended Hubbard model on a triangular lattice. Here, we use the random-phase
+approximation to investigate the charge and spin fluctuations as well as the
+superconducting properties of the system with respect to filling and the
+relative strength of the extended versus the on-site Hubbard interactions. Our
+calculations reveal that near half-filling and weak extended Hubbard
+interactions, the superconducting ground state exhibits chiral $d$-wave
+pairing. Far from half-filling and for stronger nearest-neighbor Coulomb
+interactions, the system shows chiral $p$-wave (hole-doping) and $f$-wave
+(electron-doping) pairings. The dependence of the pairing symmetry on the
+extended Hubbard interactions suggests that charge fluctuations play an
+important role in the formation of Cooper pairs. Finally, the temperature
+dependence of the Knight shift is calculated for all observed superconducting
+textures and put forward as an experimental method to examine the symmetry of
+the superconducting gap function.",-0.022074351,-0.41003734,-0.19672881,A
+6353,"This requires a further study as
+an interesting problem.","In the present study, however, such signs of the crossover were not
+found at least the present temprature range.","The proposed mechanism of the superﬂuid transition of 4He conﬁned in
+Gelsil is also supported by an analysis of the dissipation energy of the resonator
+below Tc discussed elsewhere[11]
+4He in Nanoporous Media: 4D XY Quantum Criticality at Finite Temperatures  7
+
+5 Experimental perspectives
+
+Interesting questions remain to be solved.",2022-05-18 05:23:18+00:00,$^4$He in Nanoporous Media: 4D XY Quantum Criticality at Finite Temperatures,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall']","[arxiv.Result.Author('Tomoyuki Tani'), arxiv.Result.Author('Yusuke Nago'), arxiv.Result.Author('Satoshi Murakawa'), arxiv.Result.Author('Keiya Shirahama')]","We review our study of critical phenomena in superfluid $^4$He confined in
+nanoporous glasses. $^4$He in nanoporous media is an ideal ground to survey the
+quantum phase transition of bosons. In the present work, critical phenomena
+were examined using a newly developed hydrodynamic mechanical resonator. The
+critical exponent of superfluid density $\zeta$ was found to be 1.0, in
+contrast to 0.67 in bulk $^4$He. We also demonstrate that the superfluid
+density is proportional to $|P - P_{\mathrm c}|^{\zeta_p}$ with $\zeta_p = 1$
+at any finite temperatures. These are the decisive evidences for the 4D XY
+criticality, which should have been observed only at 0 K, at finite
+temperatures. We propose a mechanism of the quantum criticality at finite
+temperatures in terms of phase alignment among the nanoscale localized Bose
+condensates (LBECs) in nanopores. The proposed mechanism are discussed in the
+consideration of the correlation length compared with the quantum effect.",0.025806732,-0.11658923,0.08518106,B
+7502,"To further study the SC properties of La2Rh3+δSb4, we turn to speciﬁc heat measure-
+ments, the results of which are summarized in Fig.","The bottom inset, (C − Cph − CSch)/T as a function of T ,
+which displays the jump due to SC transition ∆C/T |Tc=6.5 mJ/mol·K2.",6.,2022-06-12 00:54:49+00:00,La$_2$Rh$_{3+δ}$Sb$_4$: A new ternary superconducting rhodium-antimonide,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Kangqiao Cheng'), arxiv.Result.Author('Wei Xie'), arxiv.Result.Author('Shuo Zou'), arxiv.Result.Author('Huanpeng Bu'), arxiv.Result.Author('Jin-Ke Bao'), arxiv.Result.Author('Zengwei Zhu'), arxiv.Result.Author('Hanjie Guo'), arxiv.Result.Author('Chao Cao'), arxiv.Result.Author('Yongkang Luo')]","A new ternary rhodium-antimonide La$_2$Rh$_{3+\delta}$Sb$_4$
+($\delta\approx0.12$) has been synthesized by a Bi-flux method. It crystallizes
+in the orthorhombic Pr$_2$Ir$_3$Sb$_4$-type structure, with space group $Pnma$
+(No. 62). The cell parameters are: $a$ = 16.2667(5) \AA, $b$ = 4.5858(2) \AA,
+$c$ = 11.0068(4) \AA, $\alpha$ = $\beta$ = $\gamma$ = 90 $^{\circ}$, and $Z$ =
+4. The crystalline structure appears as stacking the two dimensional RhSb$_4$-
+and RhSb$_5$-polyhedra networks along $\mathbf{b}$ axis, and the La atoms embed
+in the cavities of these networks. Band structure calculations confirm it a
+multi-band metal with a van-Hove singularity like feature at the Fermi level,
+whose density of states are mainly of Rh-4$d$ and Sb-5$p$ characters. The
+calculations also implies that the redundant Rh acts as charge dopant.
+Superconductivity is observed in this material with onset transition at
+$T_c^{on}\approx$ 0.8 K. Ultra-low temperature magnetic susceptibility and
+specific heat measurements suggest that it is an $s$-wave type-II
+superconductor.",0.27654552,0.06375685,0.0058705914,C
+7503,"To further study the SC properties of La2Rh3+δSb4, we turn to speciﬁc heat
+measurements, the results of which are summarized in Fig.","The bottom inset, (C − Cph − CSch)/T as
+                     a function of T , displays the jump due to SC transition ∆C/T |Tc =6.5 mJ/mol·K2.",6.,2022-06-12 00:54:49+00:00,La$_2$Rh$_{3+δ}$Sb$_4$: A new ternary superconducting rhodium-antimonide,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Kangqiao Cheng'), arxiv.Result.Author('Wei Xie'), arxiv.Result.Author('Shuo Zou'), arxiv.Result.Author('Huanpeng Bu'), arxiv.Result.Author('Jin-Ke Bao'), arxiv.Result.Author('Zengwei Zhu'), arxiv.Result.Author('Hanjie Guo'), arxiv.Result.Author('Chao Cao'), arxiv.Result.Author('Yongkang Luo')]","Rhodium-containing compounds offer a fertile playground to explore novel
+materials with superconductivity and other fantastic electronic correlation
+effects. A new ternary rhodium-antimonide La$_2$Rh$_{3+\delta}$Sb$_4$
+($\delta\approx 1/8$) has been synthesized by a Bi-flux method. It crystallizes
+in the orthorhombic Pr$_2$Ir$_3$Sb$_4$-like structure, with the space group
+$Pnma$ (No. 62). The crystalline structure appears as stacking the two
+dimensional RhSb$_4$- and RhSb$_5$-polyhedra networks along $\mathbf{b}$ axis,
+and the La atoms embed in the cavities of these networks. Band structure
+calculations confirm it as a multi-band metal with a van-Hove singularity like
+feature at the Fermi level, whose density of states are mainly of Rh-4$d$ and
+Sb-5$p$ characters. The calculations also imply that the redundant Rh acts as
+charge dopant. Superconductivity is observed in this material with onset
+transition at $T_c^{on}\approx$ 0.8 K. Ultra-low temperature magnetic
+susceptibility and specific heat measurements suggest that it is an s-wave
+type-II superconductor. Our work may also imply that the broad
+$Ln_2$$Tm_{3+\delta}$Sb$_4$ ($Ln$=Rare earth, $Tm$=Rh, Ir...) family may host
+new material bases where new superconductors, quantum magnetism and other
+electronic correlation effects could be found.",0.27008176,0.09450452,0.03185686,C
+7510,"However, we
+100  2  500  17.5  30.5         8 100                                             would like to suggest it as a topic for further research due to
+                                                                                  a number of complications in experimental detection.","THE ERROR ANALYSIS
+                                                                                     Usually, further experimental validation could be a good
+f (kHz) rC (mm) Irms (µA) HL (mm) HU (mm) LD (mm) Nθ
+                                                                                  way to prove the reliability of our model design.","Other
+   However, some parameters like the number of coils are ﬂex-                     alternative ways are applied to improve the reliability in this
+ible and will also affect the detection results.",2022-06-12 07:34:22+00:00,Novel Sample Stages for Detecting Magnetic Feedback Due to Superconducting Transition Based on the Mirror Image Method,cond-mat.supr-con,"['cond-mat.supr-con', 'physics.ins-det']","[arxiv.Result.Author('Ziyan Li'), arxiv.Result.Author('Mengbo Guo')]","In traditional detection of the magnetic signal in the experiment,
+complicated electronic devices are usually set up to explore the feedback from
+the superconducting transition due to the external magnetic field. This kind of
+direct detection will be more time-consuming, especially in experiments with
+strict requirements like low temperature and high vacuum. To make the signal
+detection more convenient to realize, we design a novel sample stage with
+functions of both placement and acceptance of the magnetic field based on the
+mirror image method. This device consists of two parts, drive coils and
+receiver coils. The drive coils apply the initial magnetic field to the
+superconducting material while the receiver coils are used to collect the
+magnetic signal feedback. With only the power supply and a signal amplifier
+needed to be connected to the coils, our device makes it more convenient to
+finish magnetic signal detection. Another highlight of our design is using
+first-principles numerical simulation to help accurately determine the size and
+parameters of the device. With these calculated parameters, we build a 3D model
+of the device using the software SOLIDWORKS.",0.38456887,0.117194,-0.1851128,A
+7897,"In the later part of this article, we
+
+will establish the microscopic origin behind such a granular structure and further study about its
+impact on dissipation under large I.","This logarithmic divergence is incompatible with the prediction
+of weak localization correction in 2D or Kondo effect [36] and is ultimately connected with the
+
+emergent granular nature of our conducting interface [37, 38].",Fig.,2022-06-21 13:12:20+00:00,Anomalous dissipation in KTaO$_3$ (111) interface superconductor in the absence of external magnetic field,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Shashank Kumar Ojha'), arxiv.Result.Author('Prithwijit Mandal'), arxiv.Result.Author('Siddharth Kumar'), arxiv.Result.Author('Srimanta Middey')]","Understanding the nature of dissipation mechanisms in two-dimensional (2D)
+superconductors under applied perpendicular magnetic field ($B$$_\perp$) using
+very small current ($I$) excitations has been a subject of huge interest in the
+last two decades. However, dissipation mechanisms at large $I$ drive remain
+largely unexplored. We investigate this fundamental question for a newly
+fabricated KTaO$_3$ (111)-based interfacial superconductor, which lies in the
+intermediate disorder regime. We demonstrate two distinct regimes of
+dissipation across the Berezinskii Kosterlitz Thouless phase transition
+temperature ($T_\mathrm{BKT}$). Below $T_\mathrm{BKT}$, $I$ driven breaking of
+vortex-antivortex pairs and superconducting weak links are found to be the
+major sources of dissipation. Most importantly, we uncover a new source of
+dissipation arising from large electric field driven electronic instability in
+the temperature range $T_\mathrm{BKT}$ < $T$ < $T_C$ (where $T_C$ is
+superconducting transition temperature), leading to a rare observation of
+clockwise hysteresis loop in $I$-$V$ curve. While such behavior had been
+reported earlier in type II superconductors in the presence of $B$$_\perp$,
+experimental demonstration in the absence of external $B$ remains elusive so
+far. Our results not only reveal the microscopic structure of 2D
+superconductors close to BKT transition, but also deepens the understanding of
+how a BKT system is ultimately transferred to a normal state by increasing $I$.",0.11203908,-0.24087678,-0.23270231,A
+8437,"For further studying the superconductiv-
+ity in the HK model, we introduce a BCS pairing interaction                                      unconventional superconductivity.","In this treatment, the
+                                                                                                 HK interaction remains intact and plays a crucial role in the
+   HK-BCS model.",Two-stage transitions.,2022-07-05 09:14:41+00:00,Two-stage superconductivity in the Hatsugai-Kohomoto-BCS model,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Yu Li'), arxiv.Result.Author('Vivek Mishra'), arxiv.Result.Author('Yi Zhou'), arxiv.Result.Author('Fu-Chun Zhang')]","Superconductivity in strongly correlated electrons can emerge out from a
+normal state that is beyond the Landau's Fermi liquid paradigm, often dubbed as
+``non-Fermi liquid"". While the theory for non-Fermi liquid is still not yet
+conclusive, a recent study on the exactly-solvable Hatsugai-Kohomoto (HK) model
+has suggested a non-Fermi liquid ground state whose Green's function resembles
+the Yang-Rice-Zhang ansatz for cuprates [P. W. Phillips, L. Yeo and E. W.
+Huang, Nat. Phys. $\bf{16}$, 1175 (2020)]. Similar to the effect of on-site
+Coulomb repulsion in the Hubbard model, the repulsive interaction in the HK
+model divides the momentum space into three parts: empty, single-occupied and
+double-occupied regions, that are separated from each other by two distinct
+Fermi surfaces. In the presence of an additional Bardeen-Cooper-Schrieffer
+(BCS)-type pairing interaction of a moderate strength, we show that the system
+exhibits a ``two-stage superconductivity"" feature as temperature decreases: a
+first-order superconducting transition occurs at a temperature $T_{\rm c}$ that
+is followed by a sudden increase of the superconducting order parameter at a
+lower temperature $T_{\rm c}^{\prime}<T_{\rm c}$. At the first stage, $T_{\rm
+c}^{\prime}<T<T_{\rm c}$, the pairing function arises and the entropy is
+released only in the vicinity of the two Fermi surfaces; while at the second
+stage, $T<T_{\rm c}^{\prime}$, the pairing function becomes significant and the
+entropy is further released in deep (single-occupied) region in the Fermi sea.
+The phase transitions are analyzed within the Ginzburg-Landau theory. Our work
+sheds new light on unconventional superconductivity in strongly correlated
+electrons.",-0.37904868,-0.024750303,-0.11986619,B_centroid
+8438,"For further studying the superconductiv-
+ity in the HK model, we introduce a BCS pairing interaction                                      unconventional superconductivity.","In this treatment, the
+                                                                                                 HK interaction remains intact and plays a crucial role in the
+   HK-BCS model.",Two-stage transitions.,2022-07-05 09:14:41+00:00,Two-stage superconductivity in the Hatsugai-Kohomoto-BCS model,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Yu Li'), arxiv.Result.Author('Vivek Mishra'), arxiv.Result.Author('Yi Zhou'), arxiv.Result.Author('Fu-Chun Zhang')]","Superconductivity in strongly correlated electrons can emerge out from a
+normal state that is beyond the Landau's Fermi liquid paradigm, often dubbed as
+""non-Fermi liquid"". While the theory for non-Fermi liquid is still not yet
+conclusive, a recent study on the exactly-solvable Hatsugai-Kohomoto (HK) model
+has suggested a non-Fermi liquid ground state whose Green's function resembles
+the Yang-Rice-Zhang ansatz for cuprates [P. W. Phillips, L. Yeo and E. W.
+Huang, Nat. Phys. $\bf{16}$, 1175 (2020)]. Similar to the effect of on-site
+Coulomb repulsion in the Hubbard model, the repulsive interaction in the HK
+model divides the momentum space into three parts: empty, single-occupied and
+double-occupied regions, that are separated from each other by two distinct
+Fermi surfaces. In the presence of an additional Bardeen-Cooper-Schrieffer
+(BCS)-type pairing interaction of a moderate strength, we show that the system
+exhibits a ""two-stage superconductivity"" feature as temperature decreases: a
+first-order superconducting transition occurs at a temperature $T_{\rm c}$ that
+is followed by a sudden increase of the superconducting order parameter at a
+lower temperature $T_{\rm c}^{\prime}<T_{\rm c}$. At the first stage, $T_{\rm
+c}^{\prime}<T<T_{\rm c}$, the pairing function arises and the entropy is
+released only in the vicinity of the two Fermi surfaces; while at the second
+stage, $T<T_{\rm c}^{\prime}$, the pairing function becomes significant and the
+entropy is further released in deep (single-occupied) region in the Fermi sea.
+The phase transitions are analyzed within the Ginzburg-Landau theory. Our work
+sheds new light on unconventional superconductivity in strongly correlated
+electrons.",-0.37904868,-0.024750303,-0.11986619,B
+8439,"For further studying the superconductiv-
+lines represent numerical solutions to Eq.",Solid                          HK-BCS model.,(3).,2022-07-05 09:14:41+00:00,Two-stage superconductivity in the Hatsugai-Kohomoto-BCS model,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Yu Li'), arxiv.Result.Author('Vivek Mishra'), arxiv.Result.Author('Yi Zhou'), arxiv.Result.Author('Fu-Chun Zhang')]","Superconductivity in strongly correlated electrons can emerge out from a
+normal state that is beyond the Landau's Fermi liquid paradigm, often dubbed as
+""non-Fermi liquid"". While the theory for non-Fermi liquid is still not yet
+conclusive, a recent study on the exactly-solvable Hatsugai-Kohomoto (HK) model
+has suggested a non-Fermi liquid ground state whose Green's function resembles
+the Yang-Rice-Zhang ansatz for cuprates [P. W. Phillips, L. Yeo and E. W.
+Huang, Nat. Phys. $\bf{16}$, 1175 (2020)]. Similar to the effect of on-site
+Coulomb repulsion in the Hubbard model, the repulsive interaction in the HK
+model divides the momentum space into three parts: empty, single-occupied and
+double-occupied regions, that are separated from each other by two distinct
+Fermi surfaces. In the presence of an additional Bardeen-Cooper-Schrieffer
+(BCS)-type pairing interaction of a moderate strength, we show that the system
+exhibits a ""two-stage superconductivity"" feature as temperature decreases: a
+first-order superconducting transition occurs at a temperature $T_{\rm c}$ that
+is followed by a sudden increase of the superconducting order parameter at a
+lower temperature $T_{\rm c}^{\prime}<T_{\rm c}$. At the first stage, $T_{\rm
+c}^{\prime}<T<T_{\rm c}$, the pairing function arises and the entropy is
+released only in the vicinity of the two Fermi surfaces; while at the second
+stage, $T<T_{\rm c}^{\prime}$, the pairing function becomes significant and the
+entropy is further released in deep (single-occupied) region in the Fermi sea.
+The phase transitions are analyzed within the Ginzburg-Landau theory. Our work
+sheds new light on unconventional superconductivity in strongly correlated
+electrons.",-0.26637024,0.056063768,-0.2886748,B
+8440,"For further studying the superconductiv-
+lines represent numerical solutions to Eq.",Solid                          HK-BCS model.,(3).,2022-07-05 09:14:41+00:00,Two-stage superconductivity in the Hatsugai-Kohmoto-BCS model,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('Yu Li'), arxiv.Result.Author('Vivek Mishra'), arxiv.Result.Author('Yi Zhou'), arxiv.Result.Author('Fu-Chun Zhang')]","Superconductivity in strongly correlated electrons can emerge out from a
+normal state that is beyond the Landau's Fermi liquid paradigm, often dubbed as
+""non-Fermi liquid"". While the theory for non-Fermi liquid is still not yet
+conclusive, a recent study on the exactly-solvable Hatsugai-Kohmoto (HK) model
+has suggested a non-Fermi liquid ground state whose Green's function resembles
+the Yang-Rice-Zhang ansatz for cuprates [P. W. Phillips, L. Yeo and E. W.
+Huang, Nat. Phys. $\bf{16}$, 1175 (2020)]. Similar to the effect of on-site
+Coulomb repulsion in the Hubbard model, the repulsive interaction in the HK
+model divides the momentum space into three parts: empty, single-occupied and
+double-occupied regions, that are separated from each other by two distinct
+Fermi surfaces. In the presence of an additional Bardeen-Cooper-Schrieffer
+(BCS)-type pairing interaction of a moderate strength, we show that the system
+exhibits a ""two-stage superconductivity"" feature as temperature decreases: a
+first-order superconducting transition occurs at a temperature $T_{\rm c}$ that
+is followed by a sudden increase of the superconducting order parameter at a
+lower temperature $T_{\rm c}^{\prime}<T_{\rm c}$. At the first stage, $T_{\rm
+c}^{\prime}<T<T_{\rm c}$, the pairing function arises and the entropy is
+released only in the vicinity of the two Fermi surfaces; while at the second
+stage, $T<T_{\rm c}^{\prime}$, the pairing function becomes significant and the
+entropy is further released in deep (single-occupied) region in the Fermi sea.
+The phase transitions are analyzed within the Ginzburg-Landau theory. Our work
+sheds new light on unconventional superconductivity in strongly correlated
+electrons.",-0.26637024,0.056063768,-0.2886748,B
+9125,"3 (b), we further study the eﬀect of chemical     and (b) illustrate a nested domain wall construction similar to
+potential µ on the formation of ET2.","(a)
+   In Fig.","For a small µ, the      that in Fig.",2022-07-20 18:01:05+00:00,Higher-Order Topological Lattice Defects in Iron-based Superconductors,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Lun-Hui Hu'), arxiv.Result.Author('Rui-Xing Zhang')]","We show that lattice dislocations of topological iron-based superconductors
+such as FeTe$_{1-x}$Se$_x$ will intrinsically trap non-Abelian Majorana
+quasiparticles, in the absence of any external magnetic field. Our theory is
+motivated by the recent experimental observations of normal-state topology and
+surface magnetism that coexist with superconductivity in FeTe$_{1-x}$Se$_x$,
+the combination of which naturally evokes an emergent second-order topological
+superconductivity in a two-dimensional subsystem spanned by screw or edge
+dislocations. This exemplifies a new embedded higher-order topological phase in
+class D, where Majorana zero modes appear around the ""corners"" of a
+low-dimensional embedded subsystem, instead of those of the full crystal. A
+nested domain wall theory is developed to understand the origin of these defect
+Majorana zero modes. When the surface magnetism is absent, we further find that
+$s_{\pm}$ pairing symmetry itself is capable of inducing a different type of
+class-DIII embedded higher-order topology with defect-bound Majorana Kramers
+pairs. We also provide detailed discussions on the real-world material
+candidates for our proposals, including FeTe$_{1-x}$Se$_x$, LiFeAs,
+$\beta$-PdBi$_2$, and heterostructures of bismuth, etc. Our work establishes
+lattice defects as a new venue to achieve high-temperature topological quantum
+information processing.",0.2804346,-0.25712177,-0.00935274,A
+9126,"3 (b), we further study the eﬀect of chemical        As the FM is gradually turned on, the (001) surface
+potential µ on the formation of ET2.","(9)
+
+   In Fig.","For a small µ, the      gaps close and reopen in our cubic geometry following
+topological phase boundary separating ET2 and trivial        Fig.",2022-07-20 18:01:05+00:00,Dislocation Majorana Bound States in Iron-based Superconductors,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Lun-Hui Hu'), arxiv.Result.Author('Rui-Xing Zhang')]","We show that lattice dislocations of topological iron-based superconductors
+such as FeTe$_{1-x}$Se$_x$ will intrinsically trap non-Abelian Majorana
+quasiparticles, in the absence of any external magnetic field. Our theory is
+motivated by the recent experimental observations of normal-state topology and
+surface magnetism that coexist with superconductivity in FeTe$_{1-x}$Se$_x$,
+the combination of which naturally evokes an emergent second-order topological
+superconductivity in a two-dimensional subsystem spanned by screw or edge
+dislocations. This exemplifies a new embedded higher-order topological phase in
+class D, where Majorana zero modes appear around the ""corners"" of a
+low-dimensional embedded subsystem, instead of those of the full crystal. A
+nested domain wall theory is developed to understand the origin of these defect
+Majorana zero modes. When the surface magnetism is absent, we further find that
+$s_{\pm}$ pairing symmetry itself is capable of inducing a different type of
+class-DIII embedded higher-order topology with defect-bound Majorana Kramers
+pairs. We also provide detailed discussions on the real-world material
+candidates for our proposals, including FeTe$_{1-x}$Se$_x$, LiFeAs,
+$\beta$-PdBi$_2$, and heterostructures of bismuth, etc. Our work establishes
+lattice defects as a new venue to achieve high-temperature topological quantum
+information processing.",0.2745667,-0.24639246,-0.1022389,A
+9129,"S5), the ﬂat bands from Γ to
+most phases in or near this area are the doped MgB2, it      A shows a cross at the Fermi level, which also results in
+also identiﬁes three non-MgB2 phases for further study,      a signiﬁcant change in the Fermi surface in Fig.",While   MgB2 (Supplementary Fig.,5 (b).,2022-07-20 18:25:27+00:00,High-throughput screening of strong electron-phonon couplings in ternary metal diborides,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Renhai Wang'), arxiv.Result.Author('Yang Sun'), arxiv.Result.Author('Feng Zhang'), arxiv.Result.Author('Feng Zheng'), arxiv.Result.Author('Yimei Fang'), arxiv.Result.Author('Shunqing Wu'), arxiv.Result.Author('Huafeng Dong'), arxiv.Result.Author('Cai-Zhuang Wang'), arxiv.Result.Author('Vladimir Antropov'), arxiv.Result.Author('Kai-Ming Ho')]","We perform a high-throughput screening on phonon-mediated superconductivity
+in ternary metal diboride structure with alkali, alkaline earth, and transition
+metals. We find 17 ground states and 78 low-energy metastable phases. From fast
+calculations of zone-center electron-phonon coupling, 43 compounds are revealed
+to show electron-phonon coupling strength higher than that of MgB2. An
+anti-correlation between energetic stability and electron-phonon coupling
+strength is identified. We suggest two phases, i.e., Li3ZrB8 and Ca3YB8, to be
+synthesized, which show reasonable energetic stability and superconducting
+critical temperature.",0.023382682,-0.1575975,0.12685682,C
+9306,"This topic requires further study, however, as      TEM analyses were performed using JEOL ARM 200 CF mi-
+                                                    Nb exhibits a low yield strength(30-80 MPa) and critical re-      croscope with 200 kV electron beam.","High-resolution
+                                                    been limited.","The microscope was
+                                                    solved (20 MPa) shear stress, making it easily deformable un-     equipped with a Cold FEG source and probe aberration cor-
+                                                    der stress16.",2022-07-25 19:53:19+00:00,Stress-induced omega phase transition in Nb thin films for superconducting qubits,cond-mat.supr-con,"['cond-mat.supr-con', 'physics.app-ph']","[arxiv.Result.Author('Jaeyel Lee'), arxiv.Result.Author('Zuhawn Sung'), arxiv.Result.Author('Akshay A. Murthy'), arxiv.Result.Author('Anna Grassellino'), arxiv.Result.Author('Alex Romanenko')]","We report the observation of omega phase formation in Nb thin films deposited
+by high-power impulse magnetron sputtering (HiPIMS) for superconducting qubits
+using transmission electron microscopy (TEM). We hypothesize that this phase
+transformation to the omega phase with hexagonal structure from bcc phase as
+well as the formation of {111}<112> mechanical twins is induced by internal
+stress in the Nb thin films. In terms of lateral dimensions, the size of the
+omega phase of Nb range from 10 to 100 nm, which is comparable to the coherence
+length of Nb (~40 nm). In terms of overall volume fraction, ~1 vol.% of the Nb
+grains exhibit this omega phase. We also find that the omega phase in Nb is not
+observed in large grain Nb samples, suggesting that the phase transition can be
+suppressed through reducing the grain boundary density, which may serve as a
+source of strain and dislocations in this system. The current finding may
+indicate that the Nb thin film is prone to the omega phase transition due to
+the internal stress in the Nb thin film. We conclude by discussing effects of
+the omega phase on the superconducting properties of Nb thin films and
+discussing pathways to mitigate their formation.",0.20814118,0.17941234,0.09251847,C
+9356,"two-orbital Hubbard model [20–22],
+
+   As unconventional superconductivity is usually in the                                           HI = U i,α nˆiα↑nˆiα↓ + U ′ − 12 JH i,α<β nˆiαnˆiβ (2)
+vicinity of magnetic orders, we further study magnetic
+interactions in BCN by performing calculations includ-                                                  −JH i,α=β Siα · Siβ + JH i,α=β d†iα↑d†iα↓diβ↓diβ↑,
+ing an onsite interaction U in Co sites (DFT+U )[17].","The correlation part of the Hamiltonian HI follows the
+A reasonable agreement is reached between them.","We ﬁnd that there are strong antiferromagnetic (AFM)                                               where the intra and interorbital repulsion U and U ′ are
+interactions between two NN dimers in the tetragonal lat-                                          related by Hund’s rule coupling JH through U = U ′ +
+tice in the presence of electron-electron correlations.",2022-07-27 04:50:45+00:00,Cobalt-dimer Nitrides -- a Potential Novel Family of High Temperature Superconductors,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Yuhao Gu'), arxiv.Result.Author('Kun Jiang'), arxiv.Result.Author('Xianxian Wu'), arxiv.Result.Author('Jiangping Hu')]","We predict that the square lattice layer formed by [Co$_2$N$_2$]$^{2-}$
+diamond-like units can host high temperature superconductivity. The layer
+appears in the stable ternary cobalt nitride, BaCo$_2$N$_2$. The electronic
+physics of the material stems from Co$_2$N$_2$ layers where the dimerized Co
+pairs form a square lattice. The low energy physics near Fermi energy can be
+described by an effective two orbital model. Without considering interlayer
+couplings, the two orbitals are effectively decoupled. This electronic
+structure satisfies the ""gene"" character proposed for unconventional high
+temperature superconductors. We predict that the leading superconducting
+pairing instability is driven from an extended $s$-wave (s$^\pm$) to a $d$-wave
+by hole doping, for example in Ba$_{1-x}$K$_x$Co$_2$N$_2$. This study provides
+a new platform to establish the superconducting mechanism of unconventional
+high temperature superconductivity.",-0.12556118,-0.15829189,0.018252745,B
+9818,"Today, the existence of MZM in
+none of these systems can be considered proven with certainty, and further research is needed,
+including new promising systems.","These devices exhibited some
+of the characteristic physical properties of MZM, although uncertainties about the origins of the
+claimed signatures were reported for many of them [19,28-31].","It has been proposed that the MZM are localized at the two ends
+of a nanowire with quasi-1D effective px+ipy-wave SC, made of a thin-film 2D px+ipy-wave SC
+of width W comparable to or smaller than the superconducting coherence length ξ0 in a long wire
+with length L>>ξ0 [17].",2022-08-08 05:24:26+00:00,Quasi-one-dimensional interfacial superconductivity and zero bias peak in a Bi2Te3/Fe1+yTe heterostructure nanowire,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Man Kit Cheng'), arxiv.Result.Author('Sui Lun Ho'), arxiv.Result.Author('Omargeldi Atanov'), arxiv.Result.Author('Wai Ting Tai'), arxiv.Result.Author('Jing Liang'), arxiv.Result.Author('Rolf Lortz'), arxiv.Result.Author('Iam Keong Sou')]","Bi2Te3/Fe1+yTe heterostructures are known to exhibit interfacial
+superconductivity between two non-superconducting materials: Fe1+yTe as the
+parent compound of Fe-based superconducting materials and the topological
+insulator Bi2Te3. Here, we present a top-down approach starting from
+two-dimensional heterostructures and using a focused ion beam technique to
+fabricate quasi-one-dimensional Bi2Te3/Fe1+yTe nanowires. We demonstrate that
+the Bi2Te3/Fe1+yTe heterostructure remains intact in narrow nanowire structures
+with widths on the order of 100 nm and the interfacial superconductivity is
+preserved, as evidenced by electric transport and Andreev reflection point
+contact spectroscopy experiments measured at one end of the nanowire. The
+differential conductance shows a similar superconducting twin-gap structure as
+in two-dimensional heterostructures, but with enhanced fluctuation effects due
+to the lower dimensionality. A zero-bias conductance peak indicates either an
+unconventional nodal order parameter symmetry or the presence of an Andreev
+bound state, likely related to the inevitable presence of local magnetic
+moments from the interstitial excess iron in the Fe1+yTe layer, and given the
+involvement of the Bi2Te3 topological surface state with a possible link to a
+Majorana zero mode.",-0.31224197,-0.26063862,0.21074516,B
+9819,"Today, the existence of MZM in
+none of these systems can be considered proven with certainty, and further research is needed,
+including new promising systems.","These devices exhibited some
+of the characteristic physical properties of MZM, although uncertainties about the origins of the
+claimed signatures were reported for many of them [19,28-31].","It has been proposed that the MZM are localized at the two ends
+of a nanowire with quasi-1D effective px+ipy-wave SC, made of a thin-film 2D px+ipy-wave SC
+of width W comparable to or smaller than the superconducting coherence length ξ0 in a long wire
+with length L>>ξ0 [17].",2022-08-08 05:24:26+00:00,Quasi-one-dimensional interfacial superconductivity and zero bias peak in a Bi2Te3/Fe1+yTe heterostructure nanowire,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Man Kit Cheng'), arxiv.Result.Author('Sui Lun Ho'), arxiv.Result.Author('Omargeldi Atanov'), arxiv.Result.Author('Wai Ting Tai'), arxiv.Result.Author('Jing Liang'), arxiv.Result.Author('Rolf Lortz'), arxiv.Result.Author('Iam Keong Sou')]","Bi2Te3/Fe1+yTe heterostructures are known to exhibit interfacial
+superconductivity between two non-superconducting materials: Fe1+yTe as the
+parent compound of Fe-based superconducting materials and the topological
+insulator Bi2Te3. Here, we present a top-down approach starting from
+two-dimensional heterostructures and using a focused ion beam technique to
+fabricate quasi-one-dimensional Bi2Te3/Fe1+yTe nanowires. We demonstrate that
+the Bi2Te3/Fe1+yTe heterostructure remains intact in narrow nanowire structures
+with widths on the order of 100 nm and the interfacial superconductivity is
+preserved, as evidenced by electric transport and Andreev reflection point
+contact spectroscopy experiments measured at one end of the nanowire. The
+differential conductance shows a similar superconducting twin-gap structure as
+in two-dimensional heterostructures, but with enhanced fluctuation effects due
+to the lower dimensionality. A zero-bias conductance peak indicates either an
+unconventional nodal order parameter symmetry or the presence of an Andreev
+bound state, likely related to the inevitable presence of local magnetic
+moments from the interstitial excess iron in the Fe1+yTe layer, and given the
+involvement of the Bi2Te3 topological surface state with a possible link to a
+Majorana zero mode.",-0.31224197,-0.26063862,0.21074516,B
+9820,"Today, the existence of MZM in
+none of these systems can be considered proven with certainty, and further research is needed,
+including new promising systems.","These devices exhibited some
+of the characteristic physical properties of MZM, although uncertainties about the origins of the
+claimed signatures were reported for many of them [19,28-31].","It has been proposed that the MZM are localized at the two ends
+of a nanowire with quasi-1D effective px+ipy-wave SC, made of a thin-film 2D px+ipy-wave SC
+of width W comparable to or smaller than the superconducting coherence length ξ0 in a long wire
+with length L>>ξ0 [17].",2022-08-08 05:24:26+00:00,Quasi-one-dimensional interfacial superconductivity and zero bias peak in a Bi2Te3/Fe1+yTe heterostructure nanowire,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Man Kit Cheng'), arxiv.Result.Author('Sui Lun Ho'), arxiv.Result.Author('Omargeldi Atanov'), arxiv.Result.Author('Wai Ting Tai'), arxiv.Result.Author('Jing Liang'), arxiv.Result.Author('Rolf Lortz'), arxiv.Result.Author('Iam Keong Sou')]","Bi2Te3/Fe1+yTe heterostructures are known to exhibit interfacial
+superconductivity between two non-superconducting materials: Fe1+yTe as the
+parent compound of Fe-based superconducting materials and the topological
+insulator Bi2Te3. Here, we present a top-down approach starting from
+two-dimensional heterostructures and using a focused ion beam technique to
+fabricate quasi-one-dimensional Bi2Te3/Fe1+yTe nanowires. We demonstrate that
+the Bi2Te3/Fe1+yTe heterostructure remains intact in narrow nanowire structures
+with widths on the order of 100 nm and the interfacial superconductivity is
+preserved, as evidenced by electric transport and Andreev reflection point
+contact spectroscopy experiments measured at one end of the nanowire. The
+differential conductance shows a similar superconducting twin-gap structure as
+in two-dimensional heterostructures, but with enhanced fluctuation effects due
+to the lower dimensionality. A zero-bias conductance peak indicates either an
+unconventional nodal order parameter symmetry or the presence of an Andreev
+bound state, likely related to the inevitable presence of local magnetic
+moments from the interstitial excess iron in the Fe1+yTe layer, and given the
+involvement of the Bi2Te3 topological surface state with a possible link to a
+Majorana zero mode.",-0.31224197,-0.26063862,0.21074516,B
+9821,"Today, the existence of MZM in
+none of these systems can be considered proven, and further research is needed, including new
+promising platforms.","These devices exhibited some of
+the characteristic physical properties of MZM, although uncertainties about the origins of the
+claimed signatures were reported for many of them [11,21-23].","Recently, we reported that SC occurs at the interface of a Bi2Te3/Fe1+yTe heterostructure in which
+both the Bi2Te3 and Fe1+yTe layers are non-superconducting.",2022-08-08 05:24:26+00:00,Interfacial superconductivity and zero bias peak in quasi-one-dimensional Bi2Te3/Fe1+yTe heterostructure nanostructures,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Man Kit Cheng'), arxiv.Result.Author('Cheuk Yin Ng'), arxiv.Result.Author('Sui Lun Ho'), arxiv.Result.Author('Omargeldi Atanov'), arxiv.Result.Author('Wai Ting Tai'), arxiv.Result.Author('Jing Liang'), arxiv.Result.Author('Rolf Lortz'), arxiv.Result.Author('Iam Keong Sou')]","Bi2Te3/Fe1+yTe heterostructures are known to exhibit interfacial
+superconductivity between two non-superconducting materials: Fe1+yTe as the
+parent compound of Fe-based superconducting materials and the topological
+insulator Bi2Te3. Here, we present a top-down approach starting from
+two-dimensional (2D) heterostructures to fabricate one-dimensional (1D)
+Bi2Te3/Fe1+yTe nanowires or narrow nanoribbons. We demonstrate that the
+Bi2Te3/Fe1+yTe heterostructure remains intact in nanostructures of widths on
+the order of 100 nm and the interfacial superconductivity is preserved, as
+evidenced by electrical transport and Andreev reflection point contact
+spectroscopy experiments measured at the end of the nanowire. The differential
+conductance shows a similar superconducting twin-gap structure as in
+two-dimensional heterostructures, but with enhanced fluctuation effects due to
+the lower dimensionality. A zero-bias conductance peak indicates the presence
+of an Andreev bound state and given the involvement of the topological Bi2Te3
+surface state, we discuss a possible topological nature of superconductivity
+with strong interplay with an emerging ferromagnetism due to the interstitial
+excess iron in the Fe1+yTe layer, developing in parallel with superconductivity
+at low temperatures.",-0.22811009,-0.10000332,0.32543403,B
+10156,"The lack of information on a number of mechanisms of action
+of such currents on biological objects unequivocally indicates the need for further research in this
+direction.","Thus, the use of low-intensity currents without external power supplies in medicine and in the
+treatment of patients with burns in particular, has undeniable effectiveness and requires wider
+implementation in clinical practice.","71
+                                                                71
+References
+1.",2022-04-25 14:58:24+00:00,Intrinsic Josephson Effect and Horizons of Superconducting Spintronics,cond-mat.supr-con,['cond-mat.supr-con'],[arxiv.Result.Author('Anatolie Sidorenko')],"International Conference on Intrinsic Josephson Effect and Horizons of
+Superconducting Spintronics. The 12th International Conference on Intrinsic
+Josephson Effect and Horizons of Superconducting Spintronics, 22-25 September
+2021, Chisinau, Moldova; Abstract Book, The editor Anatolie Sidorenko ;
+organizing committee Anatolie Sidorenko, Moldova; Alexander
+Golubov,Netherlands; Vladimir Krasnov,Sweden. Chisinau, 2021 F.E.-P. Tipografia
+Central. 87 p.",0.41284627,0.088250175,-0.012303034,A
+10473,"However, there is a considerable change       chosen for further study because its composition bridges
+in the width of the two regions, the low- and high-         the divide between LiB and MgB, while having one of
+frequency portions having shrunken and extended by ap-      the smaller unit cells of the phases discussed in this
+proximately 15 and 20 meV, respectively.","This phase was
+B vibrations.","As for the         work, with lattice parameters a=3.073 ˚A, b=12.045 ˚A,
+other phases investigated here, the e-ph coupling in MgB    and c=5.291 ˚A.",2022-08-26 19:55:42+00:00,$Ab~initio$ study of Li-Mg-B superconductors,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Gyanu P. Kafle'), arxiv.Result.Author('Charlsey R. Tomassetti'), arxiv.Result.Author('Igor I. Mazin'), arxiv.Result.Author('Aleksey N. Kolmogorov'), arxiv.Result.Author('Elena R. Margine')]","LiB, a predicted layered compound analogous to the MgB$_2$ superconductor,
+has been recently synthesized via cold compression and quenched to ambient
+pressure, yet its superconducting properties have not been measured. According
+to prior isotropic superconductivity calculations, the critical temperature
+($T_{\rm{c}}$) was expected to be only 10$-$15 K. Using the anisotropic
+Migdal-Eliashberg formalism, we show that the $T_{\rm{c}}$ may actually exceed
+32 K. Our analysis of the contribution from different electronic states helps
+explain the detrimental effect of pressure and doping on the compound's
+superconducting properties. In the search for related superconductors, we
+screened Li-Mg-B binary and ternary layered materials and found metastable
+phases with $T_{\rm{c}}$ close to or even 10$-$20% above the record 39 K value
+in MgB$_2$. Our reexamination of the Li-B binary phase stability reveals a
+possible route to synthesize the LiB superconductor at lower pressures readily
+achievable in multianvil cells.",0.18556686,-0.17911544,0.122955695,C
+10924,"Thus, further study     the depairing mechanism, which is intrinsic to each supercon-
+                                                   of the SDE is an urgent issue both from the engineering and       ducting material, is called the intrinsic SDE37, and is expected
+                                                   fundamental-physics viewpoints.","The SDE caused by
+                                                   mass momentum of Cooper pairs33,37,39,40.","to be quantitatively feasible especially in small-width samples
+                                                                                                                     where the supercurrent ﬂows with a nearly spatially-uniform
+                                                      The SDE of bulk materials was ﬁrst reported in a su-           proﬁle.",2022-09-08 00:55:55+00:00,Superconducting diode effect and nonreciprocal transition lines,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Akito Daido'), arxiv.Result.Author('Youichi Yanase')]","Nonreciprocity in superconductors is attracting much interest owing to its
+fundamental importance as well as its potential applicability to engineering.
+In this paper, we generalize the previous theories of the intrinsic
+superconducting diode effect (SDE) and microscopically elucidate its
+relationship with the nonreciprocity of the transition lines under
+supercurrent. We derive a general formula for the intrinsic SDE by using the
+phenomenological Ginzburg-Landau theory and thereby show that the SDE is
+determined by the relative angle between the magnetic field and an effective
+anti-symmetric spin-orbit coupling defined from the Ginzburg-Landau
+coefficients. The obtained formula offers a convenient criterion to obtain a
+finite SDE. We also study the SDE and the nonreciprocal phase transitions of
+the $s$-wave and $d$-wave superconductors by using the mean-field theory. It is
+established that the sign reversal of the SDE accompanied by the crossover of
+the helical superconductivity is a general feature irrespective of the system
+details. We study the phase transition lines in the temperature-magnetic-field
+phase diagram under the supercurrent, and clarify that the sign reversal of the
+SDE generally accompanies the crossings of the transition lines under positive
+and negative current directions. Furthermore, the superconducting phases under
+the supercurrent even become re-entrant under moderate strength of the electric
+current, implying the current-induced first-order phase transitions. Our
+findings establish the electric current as the control parameter and the
+powerful probe to study the superconducting properties related to the
+finite-momentum Cooper pairs.",-0.044025328,0.07167882,-0.18875647,B
+10925,"Thus, further study     the depairing mechanism, which is intrinsic to each supercon-
+                                                    of the SDE is an urgent issue both from the engineering and       ducting material, is called the intrinsic SDE37, and is expected
+                                                    fundamental-physics viewpoints.","The SDE caused by
+                                                    mass momentum of Cooper pairs33,37,39,40.","to be quantitatively feasible especially in small-width samples
+                                                                                                                      where the supercurrent ﬂows with a nearly spatially-uniform
+                                                       The SDE of bulk materials was ﬁrst reported in a su-           proﬁle.",2022-09-08 00:55:55+00:00,Superconducting diode effect and nonreciprocal transition lines,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Akito Daido'), arxiv.Result.Author('Youichi Yanase')]","Nonreciprocity in superconductors is attracting much interest owing to its
+fundamental importance as well as its potential applicability to engineering.
+In this paper, we generalize the previous theories of the intrinsic
+superconducting diode effect (SDE) and microscopically elucidate its
+relationship with the nonreciprocity of the transition lines under
+supercurrent. We derive a general formula for the intrinsic SDE by using the
+phenomenological Ginzburg-Landau theory and thereby show that the SDE is
+determined by the relative angle between the magnetic field and an effective
+anti-symmetric spin-orbit coupling defined from the Ginzburg-Landau
+coefficients. The obtained formula offers a convenient criterion to obtain a
+finite SDE. We also study the SDE and the nonreciprocal phase transitions of
+the $s$-wave and $d$-wave superconductors by using the mean-field theory. It is
+established that the sign reversal of the SDE accompanied by the crossover of
+the helical superconductivity is a general feature irrespective of the system
+details. We study the phase transition lines in the temperature-magnetic-field
+phase diagram under the supercurrent, and clarify that the sign reversal of the
+SDE generally accompanies the crossings of the transition lines under positive
+and negative current directions. Furthermore, the superconducting phases under
+the supercurrent even become re-entrant under moderate strength of the electric
+current, implying the current-induced first-order phase transitions. Our
+findings establish the electric current as the control parameter and the
+powerful probe to study the superconducting properties related to the
+finite-momentum Cooper pairs.",-0.044025328,0.07167882,-0.18875647,B
+11824,"However, further research is needed         short-range phase correlations).","Most likely,           dimensional (3D) SC fluctuations, where local pairs be-
+this indicates that the use of very strong pulsed magnetic          have in a good many way like SC Cooper pairs but without
+fields can lead to the appearance of additional defects in          long-range correlation interaction [1–6, 30] (the so-called
+the sample under study.","This conclusion is confirmed
+to elucidate this issue.",2022-09-29 10:05:09+00:00,Temperature dependence of upper critical fields and coherence lengths for optimally-doped $YBa_2Cu_3O_{7-δ}$ thin films,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('E. V. Petrenko'), arxiv.Result.Author('L. V. Omelchenko'), arxiv.Result.Author('A. V. Terekhov'), arxiv.Result.Author('Yu. A. Kolesnichenko'), arxiv.Result.Author('K. Rogacki'), arxiv.Result.Author('D. M. Sergeyev'), arxiv.Result.Author('A. L. Solovjov')]","We report the comprehensive comparative analysis of the upper critical
+magnetic fields $\mu_{0}H_{c2}(0)$ obtained within Ginzburg-Landau and
+Werthamer-Helfand-Hohenberg theories for optimally-doped
+$YBa_2Cu_3O_{7-\delta}$ thin films. For different orientations of the magnetic
+field, our calculations give 638 and 153 T for $\mu_{0}H_{c2}(0)$, H || ab and
+$\mu_{0}H_{c2}(0)$, H || c, respectively, when using $H_{c2}(0)$. For the first
+time, the temperature dependences of coherence lengths $\xi_{ab}(T)$ and
+$\xi_{c}(T)$ within proposed theories were determined using 50 and 90% criteria
+of the normal state resistivity value $\rho_{N}$. The Ginzburg-Landau
+0.9$\rho_{N}$ approach gives $\xi_{ab}(0)$=11.8 A, and $\xi_{c}(0)$=3.0 A which
+are in a good agreement with literature data. The implications of very short
+coherence lengths in HTSCs are discussed.",-0.06781185,-0.10054664,-0.121134,A
+12158,"In order to further study this one-electron-
+deficient compound, we calculated the electronic band structure of Ba5In4Bi5 with spin-
+orbit coupling (SOC) using the first-principles calculations, with details described in
+Supplemental Material.","In
+electron-deficient compounds, Madelung energy and packing efficiency become more
+dominant than covalent bonding [21].","Figure S2(b) presents an overview of the band structure and
+density of states (DOS) of Ba5In4Bi5.",2022-10-09 03:55:07+00:00,Observation of superconductivity in the noncentrosymmetric nodal chain semimetal Ba5In4Bi5,cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Yuzhe Ma'), arxiv.Result.Author('Yulong Wang'), arxiv.Result.Author('Yuxin Wang'), arxiv.Result.Author('Soham Manni'), arxiv.Result.Author('Qisheng Lin'), arxiv.Result.Author('Linlin Wang'), arxiv.Result.Author('Kun Jiang'), arxiv.Result.Author(""Sergey L. Bud'ko""), arxiv.Result.Author('Paul C. Canfield'), arxiv.Result.Author('Gang Wang')]","The combination with superconductivity and topological nontrivial band
+structure provides a promising route towards novel quantum states such as
+topological superconductivity. Here, we report the first observation of
+superconductivity (4.1 K) in Ba5In4Bi5 single crystal, a noncentrosymmetric
+topological semimetal featuring nodal chain loops at the high-symmetry points R
+and X. The magnetization, resistivity, and specific heat capacity measurements
+reveal that Ba5In4Bi5 is a moderately coupled type-II Bardeen-Cooper-Schrieffer
+superconductor. Bulk superconductivity is suggested from the magnetic
+susceptibility and specific heat measurements. The results show that Ba5In4Bi5
+provides a new platform for exploring the relationship of superconductivity and
+topological nontrivial band topology.",0.18917856,-0.15828076,0.25954467,C
+12927,We construct a Landau level                                 should attract further study.,[51].,"(LL) fan diagram for β based on the data at 2 K, as β
+
+is the easiest component to isolate with a digital high-                                                     IV.",2022-10-24 13:49:05+00:00,Anomalous Hall effect and two-dimensional Fermi surfaces in kagome superconductor RbV$_{3}$Sb$_{5}$,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Lingfei Wang'), arxiv.Result.Author('Wei Zhang'), arxiv.Result.Author('Zheyu Wang'), arxiv.Result.Author('Tsz Fung Poon'), arxiv.Result.Author('Wenyan Wang'), arxiv.Result.Author('Chun Wai Tsang'), arxiv.Result.Author('Jianyu Xie'), arxiv.Result.Author('Xuefeng Zhou'), arxiv.Result.Author('Yusheng Zhao'), arxiv.Result.Author('Shanmin Wang'), arxiv.Result.Author('Kwing To Lai'), arxiv.Result.Author('Swee K. Goh')]","AV$_3$Sb$_5$ (A=Cs, K, Rb) are recently discovered superconducting systems
+($T_{\rm c}\sim0.9-2.5$ K) in which the vanadium atoms adopt the kagome
+structure. Intriguingly, these systems enter a charge-density-wave (CDW) phase
+($T_{\rm CDW}\sim80-100$ K), and further evidence shows that the time-reversal
+symmetry is broken in the CDW phase. Concurrently, the anomalous Hall effect
+has been observed in KV$_3$Sb$_5$ and CsV$_3$Sb$_5$ inside the novel CDW phase.
+Here, we report a comprehensive study of a high-quality RbV$_3$Sb$_5$ single
+crystal with magnetotransport measurements. Our data demonstrate the emergence
+of anomalous Hall effect in RbV$_3$Sb$_5$ when the charge-density-wave state
+develops. The magnitude of anomalous Hall resistivity at the low temperature
+limit is comparable to the reported values in KV$_3$Sb$_5$ and CsV$_3$Sb$_5$.
+The magnetoresistance channel further reveals a rich spectrum of quantum
+oscillation frequencies, many of which have not been reported before. In
+particular, a large quantum oscillation frequency (2235 T), which occupies
+$\sim$56% of the Brillouin zone area, has been recorded. For the quantum
+oscillation frequencies with sufficient signal-to-noise ratio, we further
+perform field-angle dependent measurements and our data indicate
+two-dimensional Fermi surfaces in RbV$_3$Sb$_5$. Our results provide
+indispensable information for understanding the anomalous Hall effect and band
+structure in kagome metals AV$_3$Sb$_5$.",0.22615443,-0.050659716,-0.18402062,A
+12967,"To further study the evolution of CDW in CuTe, we performed high
+pressure Raman experiments at temperatures between 50 and 300 K, as
+shown in Fig.","And by coincidence,
+the superconducting transition in the pressurized CuTe becomes sharp when
+the peak-like anomaly in dρ/dT associated with the CDW transition is hard to
+be discerned.",2.,2022-10-25 10:30:39+00:00,Two Distinct Charge Density Wave Orders and Emergent Superconductivity in Pressurized CuTe,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Shuyang Wang'), arxiv.Result.Author('Qing Wang'), arxiv.Result.Author('Chao An'), arxiv.Result.Author('Yonghui Zhou'), arxiv.Result.Author('Ying Zhou'), arxiv.Result.Author('Xuliang Chen'), arxiv.Result.Author('Ning Hao'), arxiv.Result.Author('Zhaorong Yang')]","We present a high-pressure study of quasi-one-dimensional charge-density-wave
+(CDW) material CuTe through ultralow-temperature (400 mK) electrical transport
+and temperature-dependent Raman spectroscopy measurements as well as the
+first-principles calculations. We provide compelling evidence that the pristine
+CDW order (CDW1) transforms into a distinctly different CDW order (CDW2) at ca.
+6.5 GPa by a change of dip-like to peak-like anomalies in the d\r{ho}/dT curve
+as well as reemergence of CDW amplitude and zone-folded mode in Raman
+spectroscopy. Different from previously verified mechanism driven by
+electron-phonon coupling for the CDW1 phase, the CDW2 phase rises from
+electronic correlated interaction. This is supported by compatible emergence of
+four tiny hole-like pockets with nearly full weight and quite localization of
+pz orbital of Te atoms from the first-principles calculations. In addition,
+superconductivity is induced along with the suppression of the CDW1, while the
+superconducting transition displays an extraordinary broadening associated with
+unusual competition between superconductivity and the CDW2 state. Our findings
+of two distinct CDW orders and superconductivity in the pressurized CuTe
+provide a promising platform for understanding the complicated relationship
+between CDW and superconductivity.",-0.03430744,0.18719466,0.06258594,B
+12968,"These observations of unusual evolutions of both
+superconductivity and CDW order in the clean and simple binary compound
+CuTe provide an ideal platform to further study the interplay between these two
+electronic orders.","Associated with the unusual
+CDW transformation, the superconducting transition exhibits anomalous
+broadening.","This work was financially supported by the National Key R&D Program of
+China (Grant No.",2022-10-25 10:30:39+00:00,Two Distinct Charge Density Wave Orders and Emergent Superconductivity in Pressurized CuTe,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Shuyang Wang'), arxiv.Result.Author('Qing Wang'), arxiv.Result.Author('Chao An'), arxiv.Result.Author('Yonghui Zhou'), arxiv.Result.Author('Ying Zhou'), arxiv.Result.Author('Xuliang Chen'), arxiv.Result.Author('Ning Hao'), arxiv.Result.Author('Zhaorong Yang')]","We present a high-pressure study of quasi-one-dimensional charge-density-wave
+(CDW) material CuTe through ultralow-temperature (400 mK) electrical transport
+and temperature-dependent Raman spectroscopy measurements as well as the
+first-principles calculations. We provide compelling evidence that the pristine
+CDW order (CDW1) transforms into a distinctly different CDW order (CDW2) at ca.
+6.5 GPa by a change of dip-like to peak-like anomalies in the d\r{ho}/dT curve
+as well as reemergence of CDW amplitude and zone-folded mode in Raman
+spectroscopy. Different from previously verified mechanism driven by
+electron-phonon coupling for the CDW1 phase, the CDW2 phase rises from
+electronic correlated interaction. This is supported by compatible emergence of
+four tiny hole-like pockets with nearly full weight and quite localization of
+pz orbital of Te atoms from the first-principles calculations. In addition,
+superconductivity is induced along with the suppression of the CDW1, while the
+superconducting transition displays an extraordinary broadening associated with
+unusual competition between superconductivity and the CDW2 state. Our findings
+of two distinct CDW orders and superconductivity in the pressurized CuTe
+provide a promising platform for understanding the complicated relationship
+between CDW and superconductivity.",-0.18662539,-0.039198846,0.11436398,B
+13178,"When T is below 30 K, n ~ 1 and remains unchanged, showing that MR vs. B is highly
+linear and nonsaturating up to 14 T.
+
+      To further study this intriguing LMR, we measured the thickness-dependent MR of CVS single crystals.","Below TCDW, n reduces dramatically as T decreases, indicating that the reduction of n is closely related to
+the onset of the CDW phase transition.","Figure 3(a)
+plots the MR curves for CVS with different thickness at 10 K. In contrast to the relatively thin samples, the MR of thicker
+crystals becomes sublinear with B.",2022-10-30 17:16:43+00:00,Linear nonsaturating magnetoresistance in kagome superconductor CsV3Sb5 thin flakes,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall']","[arxiv.Result.Author('Xinjian Wei'), arxiv.Result.Author('Congkuan Tian'), arxiv.Result.Author('Hang Cui'), arxiv.Result.Author('Yongkai Li'), arxiv.Result.Author('Shaobo Liu'), arxiv.Result.Author('Ya Feng'), arxiv.Result.Author('Jian Cui'), arxiv.Result.Author('Yuanjun Song'), arxiv.Result.Author('Zhiwei Wang'), arxiv.Result.Author('Jian-Hao Chen')]","Linear nonsaturating magnetoresistance (LMR) represents a class of anomalous
+resistivity response to external magnetic field that has been observed in a
+variety of materials including but not limited to topological semi-metals,
+high-Tc superconductors and materials with charge/spin density wave (CDW/SDW)
+orders. Here we report the observation of LMR in layered kagome superconductor
+and CDW material CsV3Sb5 thin flakes, as well as the dimensional crossover and
+temperature (T) crossover of such LMR. Specifically, in ultrathin CsV3Sb5
+crystals, the magnetoresistance (MR) exhibits a crossover from LMR at low T to
+quadratic B dependence above the CDW transition temperature; the MR also
+exhibits a crossover from LMR to sublinear MR for sample thickness at around
+~20 nm at low T. We discuss several possible origins of the LMR and attribute
+the effect to two-dimensional (2D) CDW fluctuations. Our results may provide a
+new perspective for understanding the interactions between competing orders in
+kagome superconductors.",0.1993917,-0.097818166,0.08813754,A
+13184,"To
+further study the dimensionality of the superconductivity, we measure the polar angular
+dependence of the critical magnetic field Bc(θ) for Nd0.8Sr0.2NiO2 thin film at T = 6 K.
+Here, θ represents the angle between the magnetic field and the c-axis of the
+Nd0.8Sr0.2NiO2.","The consistency with the 2D G-L formula near
+Tc indicates the 2D nature of the superconductivity in the Nd0.8Sr0.2NiO2 thin films.",As shown in Fig.,2022-10-31 02:35:07+00:00,Rotational symmetry breaking in superconducting nickelate Nd0.8Sr0.2NiO2 films,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","[arxiv.Result.Author('Haoran Ji'), arxiv.Result.Author('Yanan Li'), arxiv.Result.Author('Yi Liu'), arxiv.Result.Author('Xiang Ding'), arxiv.Result.Author('Zheyuan Xie'), arxiv.Result.Author('Shichao Qi'), arxiv.Result.Author('Liang Qiao'), arxiv.Result.Author('Yi-feng Yang'), arxiv.Result.Author('Guang-Ming Zhang'), arxiv.Result.Author('Jian Wang')]","The infinite-layer nickelates, isostructural to the high-Tc superconductor
+cuprates, have risen as a promising platform to host unconventional
+superconductivity and stimulated growing interests in the condensed matter
+community. Despite numerous researches, the superconducting pairing symmetry of
+the nickelate superconductors, the fundamental characteristic of a
+superconducting state, is still under debate. Moreover, the strong electronic
+correlation in the nickelates may give rise to a rich phase diagram, where the
+underlying interplay between the superconductivity and other emerging quantum
+states with broken symmetry is awaiting exploration. Here, we study the angular
+dependence of the transport properties on the infinite-layer nickelate
+Nd0.8Sr0.2NiO2 superconducting films with Corbino-disk configuration. The
+azimuthal angular dependence of the magnetoresistance (R({\phi})) manifests the
+rotational symmetry breaking from isotropy to four-fold (C4) anisotropy with
+increasing magnetic field, revealing a symmetry breaking phase transition.
+Approaching the low temperature and large magnetic field regime, an additional
+two-fold (C2) symmetric component in the R({\phi}) curves and an anomalous
+upturn of the temperature-dependent critical field are observed simultaneously,
+suggesting the emergence of an exotic electronic phase. Our work uncovers the
+evolution of the quantum states with different rotational symmetries and
+provides deep insight into the global phase diagram of the nickelate
+superconductors.",-0.3427819,0.05033095,-0.099501014,B
+13660,"BEC is possible in simple           ventional superconductivity in fullerides, and warrants
+cubic materials, and in some materials with large t′ and          further study.","Fulleride superconduc-
+   In some simple-cubic materials NNN hoppings and in-            tors have both FCC and BCC structures, with the BCC
+teractions may be similar to those in the cuprates since          phase having the highest transition temperature, so the
+the ratio of next-nearest-neighbor to near-neighbor dis-          lattice structure could play a signiﬁcant role in uncon-
+tances, dNNN/dNN, is similar.",V ′ the transition temperatures might be signiﬁcant.,2022-11-11 22:22:16+00:00,Ubiquity of light small pairs in Hubbard models with long range hoppings and interactions,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.str-el']","[arxiv.Result.Author('G. D. Adebanjo'), arxiv.Result.Author('J. P. Hague'), arxiv.Result.Author('P. E. Kornilovitch')]","In this paper, we examine how next-nearest neighbor hopping and interaction
+affect pairing properties, concluding that small and light pairs are ubiquitous
+in extended Hubbard models with long-range interactions and hopping. We are
+motivated by two unconventional superconductors, the cuprates and fullerides,
+which have similar ratios of transition temperature to bandwidth. Cuprates have
+large next-nearest neighbor hopping. The highest temperature fulleride
+superconductor has BCC structure with similar nearest and next-nearest neighbor
+distances (and thus interactions and hoppings on those length scales). We
+determine pair properties for an extended Hubbard model with large Hubbard $U$
+and both near- and next-nearest neighbor hopping and attraction, on a range of
+lattices using both numerical and analytical approaches. We find that the
+presence of next-nearest neighbor hopping, $t'$ and near- and next-nearest
+neighbor attraction ($V$ and $V'$) very significantly lowers the pair mass in a
+wide range of lattices. The pair mass decreases with increased $t'$ and $V'$
+(where it has a minimum when $V'=V$). The presence of both $t'$ and $V'$ leads
+ubiquitously to small strongly bound pairs with an inverse mass that is linear
+in hopping, which could lead to high temperature Bose--Einstein condensation
+(BEC).",-0.15861265,0.17270622,-0.05976586,B
+14564,"[65]
+However, no further study of the IJJs is reported in the multi-band iron-based superconductor,
+presumably due to the difficulty in growing large (V2Sr4O6)Fe2As2 single crystals.","[31,64] The IJJs in multi-band superconductor have only been reported for the iron-
+arsenide (V2Sr4O6)Fe2As2 in a micron-sized device prepared by a focused ion beam method.","Our
+identification of the quasi-2D pancake vortices in (Li,Fe)OHFeSe signifies a new chance to
+study the IJJ phenomena in the iron-based compound, since the large single crystals and
+epitaxial films of (Li,Fe)OHFeSe are experimentally available now.",2022-12-05 04:38:39+00:00,"Quasi two-dimensional nature of high-Tc superconductivity in iron-based (Li,Fe)OHFeSe",cond-mat.supr-con,['cond-mat.supr-con'],"[arxiv.Result.Author('Dong Li'), arxiv.Result.Author('Yue Liu'), arxiv.Result.Author('Zouyouwei Lu'), arxiv.Result.Author('Peiling Li'), arxiv.Result.Author('Yuhang Zhang'), arxiv.Result.Author('Sheng Ma'), arxiv.Result.Author('Jiali Liu'), arxiv.Result.Author('Jihu Lu'), arxiv.Result.Author('Hua Zhang'), arxiv.Result.Author('Guangtong Liu'), arxiv.Result.Author('Fang Zhou'), arxiv.Result.Author('Xiaoli Dong'), arxiv.Result.Author('Zhongxian Zhao')]","The intercalated iron selenide (Li,Fe)OHFeSe has a strongly layered structure
+analogous to the quasi two-dimensional (2D) bismuth cuprate superconductors,
+and exhibits both high-temperature (Tc) and topological superconductivity.
+However, the issue of its superconductivity dimensionality has not yet been
+fully investigated so far. Here we report that the quasi-2D superconductivity
+features, including the high anisotropy {\gamma} = 151 and the associated
+quasi-2D vortices, are also revealed for (Li,Fe)OHFeSe, based on systematic
+experiments of the electrical transport and magnetization and model fittings.
+Thus, we establish a new vortex phase diagram for (Li,Fe)OHFeSe, which
+delineates an emergent quasi-2D vortex-liquid state, and a subsequent
+vortex-solid dimensional crossover from a pancake-like to a three-dimensional
+state with decreasing temperature and magnetic field. Furthermore, we find that
+all the quasi-2D characteristics revealed here for the high-Tc iron selenide
+superconductor are very similar to those reported for the high-Tc bismuth
+cuprate superconductors.",-0.16899714,-0.023849579,0.2377187,B
+14866,"Furthermore, we see the 3DSC not as a ﬁnished dataset, but we provide ideas and directions
+                                                     for further research to improve the 3DSC in multiple ways.","We perform a statistical analysis
+                                                     and machine learning experiments to show that access to this structural information improves the prediction of the critical
+                                                     temperature Tc of materials.","We are conﬁdent that this database will be useful in applying
+                                                     state-of-the-art machine learning methods to eventually ﬁnd new superconductors.",2022-12-12 17:38:23+00:00,3DSC -- A New Dataset of Superconductors Including Crystal Structures,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Timo Sommer'), arxiv.Result.Author('Roland Willa'), arxiv.Result.Author('Jörg Schmalian'), arxiv.Result.Author('Pascal Friederich')]","Data-driven methods, in particular machine learning, can help to speed up the
+discovery of new materials by finding hidden patterns in existing data and
+using them to identify promising candidate materials. In the case of
+superconductors, which are a highly interesting but also a complex class of
+materials with many relevant applications, the use of data science tools is to
+date slowed down by a lack of accessible data. In this work, we present a new
+and publicly available superconductivity dataset ('3DSC'), featuring the
+critical temperature $T_\mathrm{c}$ of superconducting materials additionally
+to tested non-superconductors. In contrast to existing databases such as the
+SuperCon database which contains information on the chemical composition, the
+3DSC is augmented by the approximate three-dimensional crystal structure of
+each material. We perform a statistical analysis and machine learning
+experiments to show that access to this structural information improves the
+prediction of the critical temperature $T_\mathrm{c}$ of materials.
+Furthermore, we see the 3DSC not as a finished dataset, but we provide ideas
+and directions for further research to improve the 3DSC in multiple ways. We
+are confident that this database will be useful in applying state-of-the-art
+machine learning methods to eventually find new superconductors.",-0.046270296,0.59685993,-0.09955469,B
+14867,"However, previous papers have made parts of the
+preprocessed data available for further research7,8.","Unfortunately, the SuperCon database is unavailable as of December 2021.",There have been many attempts to predict the critical temperature Tc of a material using the SuperCon database.,2022-12-12 17:38:23+00:00,3DSC -- A New Dataset of Superconductors Including Crystal Structures,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Timo Sommer'), arxiv.Result.Author('Roland Willa'), arxiv.Result.Author('Jörg Schmalian'), arxiv.Result.Author('Pascal Friederich')]","Data-driven methods, in particular machine learning, can help to speed up the
+discovery of new materials by finding hidden patterns in existing data and
+using them to identify promising candidate materials. In the case of
+superconductors, which are a highly interesting but also a complex class of
+materials with many relevant applications, the use of data science tools is to
+date slowed down by a lack of accessible data. In this work, we present a new
+and publicly available superconductivity dataset ('3DSC'), featuring the
+critical temperature $T_\mathrm{c}$ of superconducting materials additionally
+to tested non-superconductors. In contrast to existing databases such as the
+SuperCon database which contains information on the chemical composition, the
+3DSC is augmented by the approximate three-dimensional crystal structure of
+each material. We perform a statistical analysis and machine learning
+experiments to show that access to this structural information improves the
+prediction of the critical temperature $T_\mathrm{c}$ of materials.
+Furthermore, we see the 3DSC not as a finished dataset, but we provide ideas
+and directions for further research to improve the 3DSC in multiple ways. We
+are confident that this database will be useful in applying state-of-the-art
+machine learning methods to eventually find new superconductors.",-0.057624474,0.68127346,-0.074550994,B
+14868,"Finding out the exact role of Ehull in this optimization would be an interesting aspect of
+further research.","The structure with the minimum Ehull is
+usually experimentally conﬁrmed and the most usual structure for this material, so it might be that the algorithm just focused on
+excluding overly theoretical structures.","In conclusion, we chose the criteria Tecxryplicitas the sorting criteria to use for the 3DSCICSD.",2022-12-12 17:38:23+00:00,3DSC -- A New Dataset of Superconductors Including Crystal Structures,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Timo Sommer'), arxiv.Result.Author('Roland Willa'), arxiv.Result.Author('Jörg Schmalian'), arxiv.Result.Author('Pascal Friederich')]","Data-driven methods, in particular machine learning, can help to speed up the
+discovery of new materials by finding hidden patterns in existing data and
+using them to identify promising candidate materials. In the case of
+superconductors, which are a highly interesting but also a complex class of
+materials with many relevant applications, the use of data science tools is to
+date slowed down by a lack of accessible data. In this work, we present a new
+and publicly available superconductivity dataset ('3DSC'), featuring the
+critical temperature $T_\mathrm{c}$ of superconducting materials additionally
+to tested non-superconductors. In contrast to existing databases such as the
+SuperCon database which contains information on the chemical composition, the
+3DSC is augmented by the approximate three-dimensional crystal structure of
+each material. We perform a statistical analysis and machine learning
+experiments to show that access to this structural information improves the
+prediction of the critical temperature $T_\mathrm{c}$ of materials.
+Furthermore, we see the 3DSC not as a finished dataset, but we provide ideas
+and directions for further research to improve the 3DSC in multiple ways. We
+are confident that this database will be useful in applying state-of-the-art
+machine learning methods to eventually find new superconductors.",0.54426974,0.22025251,-0.28777677,A
+14869,"Furthermore, we see the 3DSC not as a ﬁnished dataset, but we provide
+                                                     ideas and directions for further research to improve the 3DSC in multiple ways.","We perform a statistical analysis and machine learning experiments to show that access to this structural information
+                                                     improves the prediction of the critical temperature Tc of materials.","We are conﬁdent that this database will be useful in
+                                                     applying state-of-the-art machine learning methods to eventually ﬁnd new superconductors.",2022-12-12 17:38:23+00:00,3DSC - A New Dataset of Superconductors Including Crystal Structures,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Timo Sommer'), arxiv.Result.Author('Roland Willa'), arxiv.Result.Author('Jörg Schmalian'), arxiv.Result.Author('Pascal Friederich')]","Data-driven methods, in particular machine learning, can help to speed up the
+discovery of new materials by finding hidden patterns in existing data and
+using them to identify promising candidate materials. In the case of
+superconductors, which are a highly interesting but also a complex class of
+materials with many relevant applications, the use of data science tools is to
+date slowed down by a lack of accessible data. In this work, we present a new
+and publicly available superconductivity dataset ('3DSC'), featuring the
+critical temperature $T_\mathrm{c}$ of superconducting materials additionally
+to tested non-superconductors. In contrast to existing databases such as the
+SuperCon database which contains information on the chemical composition, the
+3DSC is augmented by the approximate three-dimensional crystal structure of
+each material. We perform a statistical analysis and machine learning
+experiments to show that access to this structural information improves the
+prediction of the critical temperature $T_\mathrm{c}$ of materials.
+Furthermore, we see the 3DSC not as a finished dataset, but we provide ideas
+and directions for further research to improve the 3DSC in multiple ways. We
+are confident that this database will be useful in applying state-of-the-art
+machine learning methods to eventually find new superconductors.",-0.046270296,0.59685993,-0.09955469,B
+14870,"However, previous papers have made parts of the
+preprocessed data available for further research7,8.","Unfortunately, the SuperCon database is unavailable as of December 2021.",There have been many attempts to predict the critical temperature Tc of a material using the SuperCon database.,2022-12-12 17:38:23+00:00,3DSC - A New Dataset of Superconductors Including Crystal Structures,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Timo Sommer'), arxiv.Result.Author('Roland Willa'), arxiv.Result.Author('Jörg Schmalian'), arxiv.Result.Author('Pascal Friederich')]","Data-driven methods, in particular machine learning, can help to speed up the
+discovery of new materials by finding hidden patterns in existing data and
+using them to identify promising candidate materials. In the case of
+superconductors, which are a highly interesting but also a complex class of
+materials with many relevant applications, the use of data science tools is to
+date slowed down by a lack of accessible data. In this work, we present a new
+and publicly available superconductivity dataset ('3DSC'), featuring the
+critical temperature $T_\mathrm{c}$ of superconducting materials additionally
+to tested non-superconductors. In contrast to existing databases such as the
+SuperCon database which contains information on the chemical composition, the
+3DSC is augmented by the approximate three-dimensional crystal structure of
+each material. We perform a statistical analysis and machine learning
+experiments to show that access to this structural information improves the
+prediction of the critical temperature $T_\mathrm{c}$ of materials.
+Furthermore, we see the 3DSC not as a finished dataset, but we provide ideas
+and directions for further research to improve the 3DSC in multiple ways. We
+are confident that this database will be useful in applying state-of-the-art
+machine learning methods to eventually find new superconductors.",-0.057624474,0.68127346,-0.074550994,B
+14871,"Finding out the exact role of Ehull in this optimization would be an interesting aspect of
+further research.","The structure with the minimum Ehull is
+usually experimentally conﬁrmed and the most usual structure for this material, so it might be that the algorithm just focused on
+excluding overly theoretical structures.","In conclusion, we chose the criteria Tecxryplicitas the sorting criteria to use for the 3DSCICSD.",2022-12-12 17:38:23+00:00,3DSC - A New Dataset of Superconductors Including Crystal Structures,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Timo Sommer'), arxiv.Result.Author('Roland Willa'), arxiv.Result.Author('Jörg Schmalian'), arxiv.Result.Author('Pascal Friederich')]","Data-driven methods, in particular machine learning, can help to speed up the
+discovery of new materials by finding hidden patterns in existing data and
+using them to identify promising candidate materials. In the case of
+superconductors, which are a highly interesting but also a complex class of
+materials with many relevant applications, the use of data science tools is to
+date slowed down by a lack of accessible data. In this work, we present a new
+and publicly available superconductivity dataset ('3DSC'), featuring the
+critical temperature $T_\mathrm{c}$ of superconducting materials additionally
+to tested non-superconductors. In contrast to existing databases such as the
+SuperCon database which contains information on the chemical composition, the
+3DSC is augmented by the approximate three-dimensional crystal structure of
+each material. We perform a statistical analysis and machine learning
+experiments to show that access to this structural information improves the
+prediction of the critical temperature $T_\mathrm{c}$ of materials.
+Furthermore, we see the 3DSC not as a finished dataset, but we provide ideas
+and directions for further research to improve the 3DSC in multiple ways. We
+are confident that this database will be useful in applying state-of-the-art
+machine learning methods to eventually find new superconductors.",0.54426974,0.22025251,-0.28777677,A
+15026,"Data were measured at T ∼ 8 K.                  tivates further research exploring Sn1−xInxBi2Te4 and related
+                                                                      compounds as a new family of candidate topological super-
+as a rigid shift of the electronic structure due to the doping        conductors.","Clearly there is much
+louin zone center showing the linear dispersion from the topological  interesting work to be done and we hope the present study mo-
+Dirac surface states.",and shows the topological nature of the family is not altered.,2022-12-15 20:29:09+00:00,Superconductivity by alloying the topological insulator SnBi2Te4,cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Michael A. McGuire'), arxiv.Result.Author('Heda Zhang'), arxiv.Result.Author('Andrew F. May'), arxiv.Result.Author('Satoshi Okamoto'), arxiv.Result.Author('Robert G. Moore'), arxiv.Result.Author('Xiaoping Wang'), arxiv.Result.Author('Clément Girod'), arxiv.Result.Author('Sean M. Thomas'), arxiv.Result.Author('Filip Ronning'), arxiv.Result.Author('Jiaqiang Yan')]","Alloying indium into the topological insulator Sn1-xInxBi2Te4 induces bulk
+superconductivity with critical temperatures Tc up to 1.85 K and upper critical
+fields up to about 14 kOe. This is confirmed by electrical resistivity, heat
+capacity, and magnetic susceptibility measurements. The heat capacity shows a
+discontinuity at Tc and temperature dependence below Tc consistent with weak
+coupling BCS theory, and suggests a superconducting gap near 0.25 meV. The
+superconductivity is type-II and the topological surface states have been
+verified by photoemission. A simple picture suggests analogies with the
+isostructural magnetic topological insulator MnBi2Te4, in which a natural
+heterostructure hosts complementary properties on different sublattices, and
+motivates new interest in this large family of compounds. The existence of both
+topological surface states and superconductivity in Sn1-xInxBi2Te4 identifies
+these materials as promising candidates for the study of topological
+superconductivity.",-0.06529494,-0.14653319,0.16988394,B
