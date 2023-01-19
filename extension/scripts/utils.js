@@ -41,8 +41,9 @@ const request = (url, params = {}, method = 'GET') => {
     } else {
         options.body = JSON.stringify(params);
     }
-    console.log(url)
+    console.log(url);
     return fetch(url, options).then(response => response.json());
 };
+
 export const get = (url, params) => request(url, params, 'GET');
 export const post = (url, params) => request(url, params, 'POST');

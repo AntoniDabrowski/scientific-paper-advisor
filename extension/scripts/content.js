@@ -15,6 +15,7 @@ function draw_graph_of_connections(drawing_board, i, x) {
         drawing_board.style.display = "block";
         var article_data = extract_article_data(pdf_results[i].parentNode);
         var graph_schema = get_graph_layout(article_data);
+//        console.log(graph_schema);
         // TODO add waiting animation
         graph_schema.then(function (returned_json) {
             create_graph_on_scholar_result(drawing_board.id, returned_json);
@@ -35,17 +36,18 @@ function draw_scatter_plot(drawing_board, i, x) {
         drawing_board.style.display = "block";
         var article_data = extract_article_data(pdf_results[i].parentNode);
         var graph_schema = get_graph_layout(article_data);
+        console.log(graph_schema);
         // TODO add waiting animation
-        graph_schema.then(function (returned_json) {
-            create_graph_on_scholar_result(drawing_board.id, returned_json);
-        }).catch(function (error) {
-            // TODO add action in case of failure.
-            console.error(error);
-        });
+//        graph_schema.then(function (returned_json) {
+//            create_graph_on_scholar_result(drawing_board.id, returned_json);
+//        }).catch(function (error) {
+//            // TODO add action in case of failure.
+//            console.error(error);
+//        });
     }
 }
 
-function handle_menu(menu, drawing_board, i, x) {
+function handle_menu(menu, graph, scatter, i, x) {
     console.log("In handle_menu");
     x.classList.toggle("active");
 
@@ -56,7 +58,14 @@ function handle_menu(menu, drawing_board, i, x) {
         menu.style.display = "block";
     }
 
-    draw_graph_of_connections(drawing_board, i, x);
+    if (graph.style.display === "none" && scatter.style.display === "none") {
+        draw_graph_of_connections(graph, i, x);
+    } else if (graph.style.display === "block") {
+        draw_graph_of_connections(graph, i, x);
+    } else {
+        draw_scatter_plot(scatter_plot, i, x);
+    }
+
 }
 
 if (pdf_results) {
@@ -65,11 +74,18 @@ if (pdf_results) {
         create_graph.className = "collapsible";
         create_graph.textContent = 'project button';
 
-        var drawing_board = document.createElement("div");
-        drawing_board.className = "content";
-        drawing_board.id = "graph_" + i;
-        drawing_board.style.display = "none";
+        // Drawing boards
+        var graph = document.createElement("div");
+        graph.className = "content";
+        graph.id = "graph_" + i;
+        graph.style.display = "none";
 
+        var scatter = document.createElement("div");
+        scatter.className = "content";
+        scatter.id = "scatter_" + i;
+        scatter.style.display = "none";
+
+        // Menu container and buttons
         var menu = document.createElement("div");
         menu.className = "menu";
         menu.id = "menu_" + i;
@@ -78,7 +94,10 @@ if (pdf_results) {
         var connection_graph = document.createElement("button");
         connection_graph.innerHTML = "Connection graph";
         connection_graph.onclick = function () {
-            draw_graph_of_connections(drawing_board, i, this);
+            if (graph.style.display === "none") {
+                draw_scatter_plot(scatter, i, this);
+                draw_graph_of_connections(graph, i, this);
+            }
         };
         menu.appendChild(connection_graph);
 
@@ -86,13 +105,15 @@ if (pdf_results) {
         var scatter_plot = document.createElement("button");
         scatter_plot.innerHTML = "Scatter plot";
         scatter_plot.onclick = function () {
-            draw_graph_of_connections(drawing_board, i, this);
-            alert("Add scatter plot");
+            if (scatter.style.display === "none") {
+                draw_graph_of_connections(graph, i, this);
+                draw_scatter_plot(scatter, i, this);
+            }
         };
         menu.appendChild(scatter_plot);
 
         create_graph.addEventListener("click", function () {
-            handle_menu(menu, drawing_board, i, this);
+            handle_menu(menu, graph, scatter, i, this);
         });
 
         var links_of_result = void 0;
@@ -102,7 +123,8 @@ if (pdf_results) {
         pdf_results[i].insertAdjacentElement("beforeend", create_graph);
         search_result_box = pdf_results[i].parentNode;
         links_of_result = search_result_box.getElementsByClassName('gs_fl');
-        links_of_result[1].insertAdjacentElement('afterend', drawing_board);
+        links_of_result[1].insertAdjacentElement('afterend', graph);
+        links_of_result[1].insertAdjacentElement('afterend', scatter);
         links_of_result[1].insertAdjacentElement('afterend', menu);
     };
 

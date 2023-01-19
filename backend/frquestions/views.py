@@ -22,5 +22,5 @@ def parsepdf(request: HttpRequest):
         fp.write(response.content)
 
         output_dict = parse_pdf(host, Path(fp.name), port=port)
-
+        # TODO process data to one acceptable by Plotly
     return JsonResponse(output_dict)
