@@ -1,0 +1,460 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+385,We discuss further research directions in Section 6.,"Section 5 is split into several subsections in order to ﬁnally
+prove Theorem 1.7.","2 Preliminaries
+
+Unless otherwise speciﬁed, logarithms are binary.",2022-01-11 10:55:43+00:00,Long induced paths in minor-closed graph classes and beyond,cs.DM,"['cs.DM', 'math.CO', '05C35, 05C83', 'G.2.2']","[arxiv.Result.Author('Claire Hilaire'), arxiv.Result.Author('Jean-Florent Raymond')]","In this paper we show that every graph of pathwidth less than $k$ that has a
+path of order $n$ also has an induced path of order at least $\frac{1}{3}
+n^{1/k}$. This is an exponential improvement and a generalization of the
+polylogarithmic bounds obtained by Esperet, Lemoine and Maffray (2016) for
+interval graphs of bounded clique number. We complement this result with an
+upper-bound.
+  This result is then used to prove the two following generalizations:
+  - every graph of treewidth less than $k$ that has a path of order $n$
+contains an induced path of order at least $\frac{1}{4} (\log n)^{1/k}$;
+  - for every non-trivial graph class that is closed under topological minors
+there is a constant $d \in (0,1)$ such that every graph from this class that
+has a path of order $n$ contains an induced path of order at least $(\log
+n)^d$.
+  We also describe consequences of these results beyond graph classes that are
+closed under topological minors."
+1435,"An interesting direction for further research would be to investigate whether this
+result can be strengthened: does there exist a polynomial kernel with respect to this dual parameterisation,
+and is ETC in FPT parameterised by the number of permitted modiﬁcations alone?","In addition to providing substantial insight into the structure
+of (∆1, ∆2)-cluster temporal graphs, Theorem 6.1 also gives rise to a simple search tree algorithm, which is an
+FPT algorithm parameterised simultaneously by the number k of permitted modiﬁcations and the lifetime of
+the input temporal graph.","Acknowledgements
+
+Meeks and Sylvester gratefully acknowledge funding from the Engineering and Physical Sciences Research
+Council (ESPRC) grant number EP/T004878/1 for this work, while Meeks was also supported by a Royal
+Society of Edinburgh Personal Research Fellowship (funded by the Scottish Government).",2022-02-02 16:00:23+00:00,A New Temporal Interpretation of Cluster Editing,cs.DM,"['cs.DM', 'cs.CC', 'cs.DS', 'math.CO', '05C75, 05C85, 68Q25', 'G.2.2; F.2.2']","[arxiv.Result.Author('Cristiano Bocci'), arxiv.Result.Author('Chiara Capresi'), arxiv.Result.Author('Kitty Meeks'), arxiv.Result.Author('John Sylvester')]","The NP-complete graph problem Cluster Editing seeks to transform a static
+graph into disjoint union of cliques by making the fewest possible edits to the
+edge set. We introduce a natural interpretation of this problem in the setting
+of temporal graphs, whose edge-sets are subject to discrete changes over time,
+which we call Editing to Temporal Cliques. This problem is NP-complete even
+when restricted to temporal graphs whose underlying graph is a path, but we
+obtain two polynomial-time algorithms for special cases with further
+restrictions. In the static setting, it is well-known that a graph is a
+disjoint union of cliques if and only if it contains no induced copy of $P_3$;
+we demonstrate that no general characterisation involving sets of at most four
+vertices can exist in the temporal setting, but obtain a complete
+characterisation involving forbidden configurations on at most five vertices.
+This characterisation gives rise to an FPT algorithm parameterised
+simultaneously by the permitted number of modifications and the lifetime of the
+temporal graph, which uses a simple search-tree strategy."
+1436,"An interesting direction for further research would be to investigate whether this
+result can be strengthened: does there exist a polynomial kernel with respect to this dual parameterisation,
+and is ETC in FPT parameterised by the number of permitted modiﬁcations alone?","In addition to providing substantial insight into the structure
+of (∆1, ∆2)-cluster temporal graphs, Theorem 6.1 also gives rise to a simple search tree algorithm, which is an
+FPT algorithm parameterised simultaneously by the number k of permitted modiﬁcations and the lifetime of
+the input temporal graph.","Acknowledgements
+
+Meeks and Sylvester gratefully acknowledge funding from the Engineering and Physical Sciences Research
+Council (ESPRC) grant number EP/T004878/1 for this work, while Meeks was also supported by a Royal
+Society of Edinburgh Personal Research Fellowship (funded by the Scottish Government).",2022-02-02 16:00:23+00:00,A New Temporal Interpretation of Cluster Editing,cs.DM,"['cs.DM', 'cs.CC', 'cs.DS', 'math.CO', '05C75, 05C85, 68Q25', 'G.2.2; F.2.2']","[arxiv.Result.Author('Cristiano Bocci'), arxiv.Result.Author('Chiara Capresi'), arxiv.Result.Author('Kitty Meeks'), arxiv.Result.Author('John Sylvester')]","The NP-complete graph problem Cluster Editing seeks to transform a static
+graph into a disjoint union of cliques by making the fewest possible edits to
+the edges. We introduce a natural interpretation of this problem in temporal
+graphs, whose edge sets change over time. This problem is NP-complete even when
+restricted to temporal graphs whose underlying graph is a path, but we obtain
+two polynomial-time algorithms for restricted cases. In the static setting, it
+is well-known that a graph is a disjoint union of cliques if and only if it
+contains no induced copy of $P_3$; we demonstrate that no general
+characterisation involving sets of at most four vertices can exist in the
+temporal setting, but obtain a complete characterisation involving forbidden
+configurations on at most five vertices. This characterisation gives rise to an
+FPT algorithm parameterised simultaneously by the permitted number of
+modifications and the lifetime of the temporal graph."
+3221,"As a
+question for further research we may ask: which known results in case d = 1, 2 can
+be extended for all d ≥ 3?","We note that vertex cover and cluster-vd have been considered by a large number
+of papers in the context of approximation, exact and parameterized algorithms.","We believe that the approaches in [3,19] for cluster-vd
+could be extensible to obtain a similar parameterized algorithm for d-claw-vd for all
+
+                                                        20
+d ≥ 3.",2022-03-13 21:36:48+00:00,On the $d$-Claw Vertex Deletion Problem,cs.DM,"['cs.DM', 'cs.DS']","[arxiv.Result.Author('Sun-Yuan Hsieh'), arxiv.Result.Author('Hoang-Oanh Le'), arxiv.Result.Author('Van Bang Le'), arxiv.Result.Author('Sheng-Lung Peng')]","Let $d$-claw (or $d$-star) stand for $K_{1,d}$, the complete bipartite graph
+with 1 and $d\ge 1$ vertices on each part. The $d$-claw vertex deletion
+problem, $d$-CLAW-VD, asks for a given graph $G$ and an integer $k$ if one can
+delete at most $k$ vertices from $G$ such that the resulting graph has no
+$d$-claw as an induced subgraph. Thus, 1-CLAW-VD and 2-CLAW-VD are just the
+famous VERTEX COVER problem and the CLUSTER VERTEX DELETION problem,
+respectively. In this paper, we strengthen a hardness result in [M. Yannakakis,
+Node-Deletion Problems on Bipartite Graphs, SIAM J. Comput. (1981)], by showing
+that CLUSTER VERTEX DELETION remains NP-complete when restricted to bipartite
+graphs of maximum degree 3. Moreover, for every $d\ge 3$, we show that
+$d$-CLAW-VD is NP-complete even when restricted to bipartite graphs of maximum
+degree $d$. These hardness results are optimal with respect to degree
+constraint. By extending the hardness result in [F. Bonomo-Braberman et al.,
+Linear-Time Algorithms for Eliminating Claws in Graphs, COCOON 2020], we show
+that, for every $d\ge 3$, $d$-CLAW-VD is NP-complete even when restricted to
+split graphs without $(d+1)$-claws, and split graphs of diameter 2. On the
+positive side, we prove that $d$-CLAW-VD is polynomially solvable on what we
+call $d$-block graphs, a class properly contains all block graphs. This result
+extends the polynomial-time algorithm in [Y. Cao et al., Vertex deletion
+problems on chordal graphs, Theor. Comput. Sci. (2018)] for 2-CLAW-VD on block
+graphs to $d$-CLAW-VD for all $d\ge 2$ and improves the polynomial-time
+algorithm proposed by F. Bonomo-Brabeman et al. for (unweighted) 3-CLAW-VD on
+block graphs to 3-block graphs."
+3442,"The kernelization
+complexity on other graph classes and whether the problem is FPT parame-
+terized by only treewidth are natural directions for further study.","On
+the former graph class, we described a polynomial kernel.","It is also
+interesting to get an exact function when parameterized by treewidth and
+the number of colors.",2022-03-17 06:24:06+00:00,Parameterized and Exact Algorithms for Class Domination Coloring,cs.DM,['cs.DM'],"[arxiv.Result.Author('R. Krithika'), arxiv.Result.Author('Ashutosh Rai'), arxiv.Result.Author('Saket Saurabh'), arxiv.Result.Author('Prafullkumar Tale')]","A class domination coloring (also called cd-Coloring or dominated coloring)
+of a graph is a proper coloring in which every color class is contained in the
+neighbourhood of some vertex. The minimum number of colors required for any
+cd-coloring of $G$, denoted by $\chi_{cd}(G)$, is called the class domination
+chromatic number (cd-chromatic number) of $G$. In this work, we consider two
+problems associated with the cd-coloring of a graph in the context of exact
+exponential-time algorithms and parameterized complexity. (1) Given a graph $G$
+on $n$ vertices, find its cd-chromatic number. (2) Given a graph $G$ and
+integers $k$ and $q$, can we delete at most $k$ vertices such that the
+cd-chromatic number of the resulting graph is at most $q$? For the first
+problem, we give an exact algorithm with running time $\Oh(2^n n^4 \log n)$.
+Also, we show that the problem is \FPT\ with respect to the number $q$ of
+colors as the parameter on chordal graphs. On graphs of girth at least 5, we
+show that the problem also admits a kernel with $\Oh(q^3)$ vertices. For the
+second (deletion) problem, we show \NP-hardness for each $q \geq 2$. Further,
+on split graphs, we show that the problem is \NP-hard if $q$ is a part of the
+input and \FPT\ with respect to $k$ and $q$ as combined parameters. As
+recognizing graphs with cd-chromatic number at most $q$ is \NP-hard in general
+for $q \geq 4$, the deletion problem is unlikely to be \FPT\ when parameterized
+by the size of the deletion set on general graphs. We show fixed parameter
+tractability for $q \in \{2,3\}$ using the known algorithms for finding a
+vertex cover and an odd cycle transversal as subroutines."
+5540,"In further research we would like to investigate deeper some natural networks and observe
+how well our model reﬂects them.","We have also proved that its degree distribution follows a power-law with an expo-
+nential cutoﬀ, which, according to the broad study of Broido and Clauset [7], is the distribution
+most often observed in nature.","Maybe the need of generalizing the model will occur, e.g., by
+modifying the form of the attachment function or introducing the possibility of adding isolated
+vertices.",2022-04-29 20:35:00+00:00,Preferential attachment hypergraph with vertex deactivation,cs.DM,"['cs.DM', '05C82, 05C65']","[arxiv.Result.Author('Frédéric Giroire'), arxiv.Result.Author('Nicolas Nisse'), arxiv.Result.Author('Kostiantyn Ohulchanskyi'), arxiv.Result.Author('Małgorzata Sulkowska'), arxiv.Result.Author('Thibaud Trolliet')]","In the area of complex networks so far hypergraph models have received
+significantly less attention than the graphs. However, many real-life networks
+feature multiary relations (co-authorship, protein reactions) thus may be
+modeled way better by hypergraphs. Also, recent study by Broido and Clauset
+suggests that a power-law degree distribution is not as ubiquitous in the
+natural systems as it was thought so far. They experimentally confirm that
+majority of networks (56% of around 1000 social, biological, technological,
+transportation, and information networks that undergone the test) favor a
+power-law with an exponential cutoff over other distributions. We address two
+above observations by introducing a preferential attachment hypergraph model
+which allows for a vertex deactivation. The phenomenon of a vertex deactivation
+is rare in existing theoretical models and omnipresent in real-life scenarios
+(think of social network accounts which are not maintained forever,
+collaboration networks in which people eventually retire or technological
+networks in which devices may break down). We prove that the degree
+distribution of a proposed model follows a power-law with an exponential
+cutoff. We also check experimentally that a Scopus collaboration network has
+the same characteristic. We believe that our model will predict well the
+behavior of the systems from variety of domains."
+8212,"To further study this relationship,
+we present a generalization of these two problems by introducing the Partial Search
+Order Problem (PSOP) of a graph search A.","There are many
+combinations of graph classes and graph searches where both problems are N P-complete
+or both problems are solvable in polynomial time.","Given a graph G and a partial order π
+on its vertex set, it asks whether there is a search ordering produced by A which is
+a linear extension of π.",2022-06-29 12:08:29+00:00,Linearizing Partial Search Orders,cs.DM,"['cs.DM', 'cs.DS', 'math.CO']",[arxiv.Result.Author('Robert Scheffler')],"In recent years, questions about the construction of special orderings of a
+given graph search were studied by several authors. On the one hand, the so
+called end-vertex problem introduced by Corneil et al. in 2010 asks for search
+orderings ending in a special vertex. On the other hand, the problem of finding
+orderings that induce a given search tree was introduced already in the 1980s
+by Hagerup and received new attention most recently by Beisegel et al. Here, we
+introduce a generalization of some of these problems by studying the question
+whether there is a search ordering that is a linear extension of a given
+partial order on a graph's vertex set. We show that this problem can be solved
+in polynomial time on chordal bipartite graphs for LBFS, which also implies the
+first polynomial-time algorithms for the end-vertex problem and two search tree
+problems for this combination of graph class and search. Furthermore, we
+present polynomial-time algorithms for LBFS and MCS on split graphs which
+generalize known results for the end-vertex and search tree problems."
+9634,"To motivate further research in this direction, we show that happy graphs, despite
+being the least expressive setting, remain general enough to capture several negative results
+from the literature, in particular, the non-existence of opn2q-sparse temporal spanners and
+the computational hardness of ﬁnding maximum temporal components.","Since many basic questions remain unresolved at this stage, we advocate the
+study of a particular setting, called happy temporal graphs, where all the above subtleties
+vanish.","We conclude with
+a list of open questions related to happy graphs, and to some missing relations in the above
+hierarchy.",2022-08-02 20:07:38+00:00,"Simple, strict, proper, happy: A study of reachability in temporal graphs",cs.DM,"['cs.DM', 'cs.DC', '68R10, 68W15', 'G.2.2']","[arxiv.Result.Author('Arnaud Casteigts'), arxiv.Result.Author('Timothée Corsini'), arxiv.Result.Author('Writika Sarkar')]","Dynamic networks are a complex topic. Not only do they inherit the complexity
+of static networks (as a particular case) while making obsolete many techniques
+for these networks; they also happen to be deeply sensitive to specific
+definitional subtleties, such as strictness (can several consecutive edges be
+used at the same time instant?), properness (can adjacent edges be present at
+the same time?) and simpleness (can an edge be present more than once?). These
+features, it turns out, have a significant impact on the answers to various
+questions, which is a frequent source of confusion and incomparability among
+results. In this paper, we explore the impact of these notions, and of their
+interactions, in a systematic way. Our conclusions show that these aspects
+really matter. In particular, most of the combinations of the above properties
+lead to distinct levels of expressivity of a temporal graph in terms of
+reachability. Then, we advocate the study of an extremely simple model -- happy
+graphs -- where all these distinctions vanish. Happy graphs suffer from a loss
+of expressivity; yet, we show that they remain expressive enough to capture
+(and strengthen) interesting features of general temporal graphs. A number of
+questions are proposed to motivate the study of these objects further."
+9635,"To motivate further research in this direction, we show that happy graphs, despite
+being the least expressive setting, remain general enough to capture several negative results
+from the literature, in particular, the non-existence of opn2q-sparse temporal spanners and
+the computational hardness of ﬁnding maximum temporal components.","Since many basic questions remain unresolved at this stage, we advocate the
+study of a particular setting, called happy temporal graphs, where all the above subtleties
+vanish.","We conclude with
+a list of open questions related to happy graphs, and to some missing relations in the above
+hierarchy.",2022-08-02 20:07:38+00:00,"Simple, strict, proper, happy: A study of reachability in temporal graphs",cs.DM,"['cs.DM', 'cs.DC', '68R10, 68W15', 'G.2.2; C.2.4']","[arxiv.Result.Author('Arnaud Casteigts'), arxiv.Result.Author('Timothée Corsini'), arxiv.Result.Author('Writika Sarkar')]","Dynamic networks are a complex topic. Not only do they inherit the complexity
+of static networks (as a particular case) while making obsolete many techniques
+for these networks; they also happen to be deeply sensitive to specific
+definitional subtleties, such as strictness (can several consecutive edges be
+used at the same time instant?), properness (can adjacent edges be present at
+the same time?) and simpleness (can an edge be present more than once?). These
+features, it turns out, have a significant impact on the answers to various
+questions, which is a frequent source of confusion and incomparability among
+results. In this paper, we explore the impact of these notions, and of their
+interactions, in a systematic way. Our conclusions show that these aspects
+really matter. In particular, most of the combinations of the above properties
+lead to distinct levels of expressivity of a temporal graph in terms of
+reachability. Then, we advocate the study of an extremely simple model -- happy
+graphs -- where all these distinctions vanish. Happy graphs suffer from a loss
+of expressivity; yet, we show that they remain expressive enough to capture
+(and strengthen) interesting features of general temporal graphs. A number of
+questions are proposed to motivate the study of these objects further."
+9667,"Lastly, further research of k-Unbounded cycles is encouraged in special graphs other than
+trees.","The heuristics presented in the paper are deterministic in nature, and accuracy may further
+be improved by incorporating randomisation techniques or considering multiple start vertices at
+the cost of increased runtime.","7 Acknowledgements
+
+I would like to thank Jesse Stern for his guidance and feedback throughout the writing of the
+paper.",2022-08-03 15:41:27+00:00,Finding a Lower Bound for k-Unbounded Hamiltonian Cycles,cs.DM,['cs.DM'],[arxiv.Result.Author('Albert Jiang')],"Methods to determine the existence of Hamiltonian Cycles in graphs have been
+extensively studied. However, little research has been done following cases
+when no Hamiltonian Cycle exists. Let a vertex be ""unbounded"" if it is visited
+more than once in a path. Furthermore, let a k-Unbounded Hamiltonian Cycle be a
+path with finite length that visits every vertex, has adjacent start and end
+vertices, and contains k unbounded vertices. I consider a variant of the
+Hamiltonian Cycle Problem in which the objective is to find an m-Unbounded
+Hamiltonian Cycle where m is the minimum value of k such that a k-Unbounded
+Hamiltonian Cycle exists. I provide an exponential-time brute-force algorithm
+for the determination of such a path. Furthermore, I present a polynomial-time
+heuristic for the determination of an m-Unbounded Hamiltonian Cycle that also
+functions as an effective heuristic for the original Hamiltonian Cycle Problem.
+I also consider the task on trees and discuss efficient approaches for this
+subclass of graphs."
+10481,"See our suggestions for further research in the discussion following our numerical results
+in Section 4.3.","We do not explore this aspect in
+the present work.","Since the Volume Algorithm is precisely deﬁned, and we use it as a black-box solver, the remainder of
+this section is devoted to its initialization by the dual ascent procedure.",2022-08-27 13:37:49+00:00,Polyhedral results and stronger Lagrangean bounds for stable spanning trees,cs.DM,"['cs.DM', 'math.CO', 'math.OC', '90C27, 90C57 (Primary) 90C10, 52B05, 52B12 (Secondary)', 'G.2.2']","[arxiv.Result.Author('Phillippe Samer'), arxiv.Result.Author('Dag Haugland')]","Given a graph $G=(V,E)$ and a set $C$ of unordered pairs of edges regarded as
+being in conflict, a stable spanning tree in $G$ is a set of edges $T$ inducing
+a spanning tree in $G$, such that for each $\left\lbrace e_i, e_j \right\rbrace
+\in C$, at most one of the edges $e_i$ and $e_j$ is in $T$. The existing work
+on Lagrangean algorithms to the NP-hard problem of finding minimum weight
+stable spanning trees is limited to relaxations with the integrality property.
+We exploit a new relaxation of this problem: fixed cardinality stable sets in
+the underlying conflict graph $H =(E,C)$. We find interesting properties of the
+corresponding polytope, and determine stronger dual bounds in a Lagrangean
+decomposition framework, optimizing over the spanning tree polytope of $G$ and
+the fixed cardinality stable set polytope of $H$ in the subproblems. This is
+equivalent to dualizing exponentially many subtour elimination constraints,
+while limiting the number of multipliers in the dual problem to $|E|$. It is
+also a proof of concept for combining Lagrangean relaxation with the power of
+MILP solvers over strongly NP-hard subproblems. We present encouraging
+computational results using a dual method that comprises the Volume Algorithm,
+initialized with multipliers determined by Lagrangean dual-ascent. In
+particular, the bound is within 5.5% of the optimum in 146 out of 200 benchmark
+instances; it actually matches the optimum in 75 cases. All of the
+implementation is made available in a free, open-source repository."
+12060,"19
+Table 6: Summary of the results for the exact procedures
+
+      ATIF                     BDDF
+
+n m avg time solved avg time solved avg time all
+
+40 2  55.51     25      40.45  25     26.29
+                                        5.00
+40 4  30.16     25      7.60   25
+                                      40.85
+50 2  18.65     25      56.27  25     17.43
+                                     520.94
+50 4 272.59     25      25.31  25    642.13
+
+100 2 852.23    24 756.88      16
+
+100 4 7,396.23  22 847.54      19
+
+                    20
+             Figure 5: Performance proﬁles per instance class (s = BDDF, ATIF)
+
+                 a: m = 2 and n = 40                                                   b: m = 4 and n = 40
+
+        1                                                                     1
+
+        0.8                                                                   0.8
+
+ρs(τ )  0.6                                                           ρs(τ )  0.6
+
+        0.4                                                                   0.4
+
+        0.2                               BDDF                                0.2                               BDDF
+
+        0                                 ATIF                                0                                 ATIF
+
+             5  10                    15                      20                   5  10                    15                      20
+
+                τ                                                                     τ
+
+             c: m = 2 and n = 50                                                   d: m = 4 and n = 50
+
+        1                                                                     1
+
+        0.8                                                                   0.8
+
+ρs(τ )  0.6                                                           ρs(τ )  0.6
+
+        0.4                                                                   0.4
+
+        0.2                                                                   0.2
+                                                        BDDF                                                                  BDDF
+
+        0                                 ATIF                                0                                 ATIF
+
+             5  10                    15                      20                   5  10                    15                      20
+
+                τ                                                                     τ
+
+             e: m = 2 and n = 100                                                  f: m = 4 and n = 100
+
+        1                                                                     1
+
+        0.8                                                                   0.8
+
+ρs(τ )  0.6                                                       ρs(τ )      0.6
+
+        0.4                                                                   0.4
+
+        0.2                               BDDF                                0.2                               BDDF
+
+        0                                 ATIF                                0                                 ATIF
+
+             5  10                    15                      20                   5  10                    15                      20
+
+                τ                                                                     τ
+
+                                                                  21
+8 Conclusion and further research
+
+In this work we have introduced a new formulation for P m|| wjTj based on binary decision
+diagrams, which are built using a time discretization from Baptiste and Sadykov (2009).","The only remaining
+unsolved instance in the data set is the one with ID number 91 for n = 100 and m = 2.","We show
+theoretically and experimentally that this formulation is stronger than the classical time-indexed
+informulation, and show experimentally that this formulation is sometimes weaker and sometimes
+stronger than the arc-time-indexed formulation.",2022-10-05 17:54:18+00:00,A flow-based formulation for parallel machine scheduling using decision diagrams,cs.DM,['cs.DM'],"[arxiv.Result.Author('Daniel Kowalczyk'), arxiv.Result.Author('Roel Leus'), arxiv.Result.Author('Christopher Hojny'), arxiv.Result.Author('Stefan Røpke')]","We present a new flow-based formulation for identical parallel machine
+scheduling with a regular objective function and without idle time. The
+formulation is constructed with the help of a decision diagram that represents
+all job sequences that respect specific ordering rules. These rules rely on a
+partition of the planning horizon into, generally non-uniform, periods and do
+not exclude all optimal solutions, but they constrain solutions to adhere to a
+canonical form. The new formulation has numerous variables and constraints, and
+hence we apply a Dantzig-Wolfe decomposition in order to compute the linear
+programming relaxation in reasonable time; the resulting lower bound is
+stronger than the bound from the classical time-indexed formulation. We develop
+a branch-and-price framework that solves several instances from the literature
+for the first time. We compare the new formulation with the time-indexed and
+arc-time-indexed formulation by means of a series of computational experiments."
+12061,"As a prime avenue for further research, one can examine several techniques from the rich vehicle
+routing literature to construct a branch-cut-and-price algorithm for the new ﬂow-based formula-
+tion.","Compared with the state-of-the-art
+procedure of Oliveira and Pessoa (2020), our new procedure seems to perform better especially
+with a larger number of machines.","Further closing the gap without branching but rather by introducing cuts seems to be a
+logical next step for rendering the resulting algorithm more competitive.",2022-10-05 17:54:18+00:00,A flow-based formulation for parallel machine scheduling using decision diagrams,cs.DM,['cs.DM'],"[arxiv.Result.Author('Daniel Kowalczyk'), arxiv.Result.Author('Roel Leus'), arxiv.Result.Author('Christopher Hojny'), arxiv.Result.Author('Stefan Røpke')]","We present a new flow-based formulation for identical parallel machine
+scheduling with a regular objective function and without idle time. The
+formulation is constructed with the help of a decision diagram that represents
+all job sequences that respect specific ordering rules. These rules rely on a
+partition of the planning horizon into, generally non-uniform, periods and do
+not exclude all optimal solutions, but they constrain solutions to adhere to a
+canonical form. The new formulation has numerous variables and constraints, and
+hence we apply a Dantzig-Wolfe decomposition in order to compute the linear
+programming relaxation in reasonable time; the resulting lower bound is
+stronger than the bound from the classical time-indexed formulation. We develop
+a branch-and-price framework that solves several instances from the literature
+for the first time. We compare the new formulation with the time-indexed and
+arc-time-indexed formulation by means of a series of computational experiments."
+13535,"Study-
+ing these graphs via 12-representability is a possible direction for further research.","In this paper, we obtained some results on 12-representable graphs from the
+known facts on interval containment bigraphs and simple-triangle graphs.","Acknowledgments
+
+   The author is grateful to the reviewers for their careful reading and helpful
+comments.",2022-11-09 13:27:29+00:00,Graph classes equivalent to 12-representable graphs,cs.DM,"['cs.DM', '05C62, 05C75']",[arxiv.Result.Author('Asahi Takaoka')],"Jones et al. (2015) introduced the notion of $u$-representable graphs, where
+$u$ is a word over $\{1, 2\}$ different from $22\cdots2$, as a generalization
+of word-representable graphs. Kitaev (2016) showed that if $u$ is of length at
+least 3, then every graph is $u$-representable. This indicates that there are
+only two nontrivial classes in the theory of $u$-representable graphs:
+11-representable graphs, which correspond to word-representable graphs, and
+12-representable graphs. This study deals with 12-representable graphs.
+  Jones et al. (2015) provided a characterization of 12-representable trees in
+terms of forbidden induced subgraphs. Chen and Kitaev (2022) presented a
+forbidden induced subgraph characterization of a subclass of 12-representable
+grid graphs.
+  This paper shows that a bipartite graph is 12-representable if and only if it
+is an interval containment bigraph. The equivalence gives us a forbidden
+induced subgraph characterization of 12-representable bipartite graphs since
+the list of minimal forbidden induced subgraphs is known for interval
+containment bigraphs. We then have a forbidden induced subgraph
+characterization for grid graphs, which solves an open problem of Chen and
+Kitaev (2022). The study also shows that a graph is 12-representable if and
+only if it is the complement of a simple-triangle graph. This equivalence
+indicates that a necessary condition for 12-representability presented by Jones
+et al. (2015) is also sufficient. Finally, we show from these equivalences that
+12-representability can be determined in $O(n^2)$ time for bipartite graphs and
+in $O(n(\bar{m}+n))$ time for arbitrary graphs, where $n$ and $\bar{m}$ are the
+number of vertices and edges of the complement of the given graph."
+13536,"Study-
+ing these graphs via 12-representability is a possible direction for further research.","In this paper, we obtained some results on 12-representable graphs from the
+known facts on interval containment bigraphs and simple-triangle graphs.","Acknowledgments
+
+   The author is grateful to the reviewers for their careful reading and helpful
+comments.",2022-11-09 13:27:29+00:00,Graph classes equivalent to 12-representable graphs,cs.DM,"['cs.DM', '05C62, 05C75']",[arxiv.Result.Author('Asahi Takaoka')],"Jones et al. (2015) introduced the notion of $u$-representable graphs, where
+$u$ is a word over $\{1, 2\}$ different from $22\cdots2$, as a generalization
+of word-representable graphs. Kitaev (2016) showed that if $u$ is of length at
+least 3, then every graph is $u$-representable. This indicates that there are
+only two nontrivial classes in the theory of $u$-representable graphs:
+11-representable graphs, which correspond to word-representable graphs, and
+12-representable graphs. This study deals with 12-representable graphs.
+  Jones et al. (2015) provided a characterization of 12-representable trees in
+terms of forbidden induced subgraphs. Chen and Kitaev (2022) presented a
+forbidden induced subgraph characterization of a subclass of 12-representable
+grid graphs.
+  This paper shows that a bipartite graph is 12-representable if and only if it
+is an interval containment bigraph. The equivalence gives us a forbidden
+induced subgraph characterization of 12-representable bipartite graphs since
+the list of minimal forbidden induced subgraphs is known for interval
+containment bigraphs. We then have a forbidden induced subgraph
+characterization for grid graphs, which solves an open problem of Chen and
+Kitaev (2022). The study also shows that a graph is 12-representable if and
+only if it is the complement of a simple-triangle graph. This equivalence
+indicates that a necessary condition for 12-representability presented by Jones
+et al. (2015) is also sufficient. Finally, we show from these equivalences that
+12-representability can be determined in $O(n^2)$ time for bipartite graphs and
+in $O(n(\bar{m}+n))$ time for arbitrary graphs, where $n$ and $\bar{m}$ are the
+number of vertices and edges of the complement of the given graph."
+13537,"Study-
+ing these graphs via 12-representability is a possible direction for further research.","In this paper, we obtained some results on 12-representable graphs from the
+known facts on interval containment bigraphs and simple-triangle graphs.","Acknowledgments
+
+   The author is grateful to the reviewers for their careful reading and helpful
+comments.",2022-11-09 13:27:29+00:00,Graph classes equivalent to 12-representable graphs,cs.DM,"['cs.DM', '05C62, 05C75']",[arxiv.Result.Author('Asahi Takaoka')],"Jones et al. (2015) introduced the notion of $u$-representable graphs, where
+$u$ is a word over $\{1, 2\}$ different from $22\cdots2$, as a generalization
+of word-representable graphs. Kitaev (2016) showed that if $u$ is of length at
+least 3, then every graph is $u$-representable. This indicates that there are
+only two nontrivial classes in the theory of $u$-representable graphs:
+11-representable graphs, which correspond to word-representable graphs, and
+12-representable graphs. This study deals with 12-representable graphs.
+  Jones et al. (2015) provided a characterization of 12-representable trees in
+terms of forbidden induced subgraphs. Chen and Kitaev (2022) presented a
+forbidden induced subgraph characterization of a subclass of 12-representable
+grid graphs.
+  This paper shows that a bipartite graph is 12-representable if and only if it
+is an interval containment bigraph. The equivalence gives us a forbidden
+induced subgraph characterization of 12-representable bipartite graphs since
+the list of minimal forbidden induced subgraphs is known for interval
+containment bigraphs. We then have a forbidden induced subgraph
+characterization for grid graphs, which solves an open problem of Chen and
+Kitaev (2022). The study also shows that a graph is 12-representable if and
+only if it is the complement of a simple-triangle graph. This equivalence
+indicates that a necessary condition for 12-representability presented by Jones
+et al. (2015) is also sufficient. Finally, we show from these equivalences that
+12-representability can be determined in $O(n^2)$ time for bipartite graphs and
+in $O(n(\bar{m}+n))$ time for arbitrary graphs, where $n$ and $\bar{m}$ are the
+number of vertices and edges of the complement of the given graph."

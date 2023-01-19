@@ -1,0 +1,1082 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+75,We ask several open problems for further research.,"In this paper we derive both discrete and continuous Welch bounds
+for Banach spaces.",2.,2022-01-04 05:00:48+00:00,Discrete and Continuous Welch Bounds for Banach Spaces with Applications,math.FA,"['math.FA', '42C15']",[arxiv.Result.Author('K. Mahesh Krishna')],"Let $\{\tau_j\}_{j=1}^n$ be a collection in a finite dimensional Banach space
+$\mathcal{X}$ of dimension $d$ and $\{f_j\}_{j=1}^n$ be a collection in
+$\mathcal{X}^*$ (dual of $\mathcal{X}$) such that $f_j(\tau_j) =1$, $\forall
+1\leq j\leq n$. Let $n\geq d$ and $\text{Sym}^m(\mathcal{X})$ be the Banach
+space of symmetric m-tensors. If the operator $ \text{Sym}^m(\mathcal{X})\ni x
+\mapsto \sum_{j=1}^nf_j^{\otimes m}(x)\tau_j ^{\otimes
+m}\in\text{Sym}^m(\mathcal{X})$ is diagonalizable and its eigenvalues are all
+non negative, then we prove that \begin{align}\label{WELCHBANACHABSTRACT} \max
+_{1\leq j,k \leq n, j\neq k}|f_j(\tau_k)|^{2m}\geq \max _{1\leq j,k \leq n,
+j\neq k}|f_j(\tau_k)f_k(\tau_j)|^m
+\geq\frac{1}{n-1}\left[\frac{n}{{d+m-1\choose m}}-1\right], \quad \forall m \in
+\mathbb{N}. \end{align} When $ \mathcal{X}=\mathcal{H}$ is a Hilbert space, and
+$f_j$ is defined by $f_j: \mathcal{H}\ni h \mapsto \langle h, \tau_j \rangle
+\in \mathbb{K}$ (where $\mathbb{K}$ is $\mathbb{R}$ or $\mathbb{C}$), $\forall
+1 \leq j \leq n$, then Inequality (1) reduces to Welch bounds. Thus Inequality
+(1) improves 48 years old result obtained by Welch [\textit{IEEE Transactions
+on Information Theory, 1974}]. We also prove the following continuous version
+of Inequality (1) under certain conditions for measure spaces:
+\begin{align}\label{CONTINUOUSWELCHBANACHABSTRACT}
+  \sup _{\alpha, \beta \in \Omega, \alpha\neq \beta}|f_\alpha(\tau_\beta)
+|^{2m}\geq \sup _{\alpha, \beta \in \Omega, \alpha\neq
+\beta}|f_\alpha(\tau_\beta)f_\beta(\tau_\alpha) |^{m}\geq
+\frac{1}{(\mu\times\mu)((\Omega\times\Omega)\setminus\Delta)}\left[\frac{
+\mu(\Omega)^2}{{d+m-1 \choose m}}-(\mu\times\mu)(\Delta)\right]. \end{align}"
+1183,"We highlight that the new approach that we develop opens the door for further study of the endpoint Schatten–
+
+Lorentz class estimates of commutators [A, M f ] in various settings where Fourier analysis is not available (or not as
+eﬀective as that in Rn).","For
+
+example, following from [36, Corollary 1.5], one can apply the trace formula (1.2) to give an alternative proof of [22,
+
+(2) in Theorem 1.1].","Potential developments includes the endpoint Schatten–Lorentz class estimates for commutators
+
+[Rℓ, M f ], where Rℓ is the ℓ−th Riesz transforms on H-type groups or stratiﬁed Lie groups, which will be addressed in
+
+our subsequent papers.",2022-01-28 03:03:38+00:00,Endpoint weak Schatten class estimates and trace formula for commutators of Riesz transforms with multipliers on Heisenberg groups,math.FA,"['math.FA', '47B10, 42B20, 43A85']","[arxiv.Result.Author('Zhijie Fan'), arxiv.Result.Author('Ji Li'), arxiv.Result.Author('Edward McDonald'), arxiv.Result.Author('Fedor Sukochev'), arxiv.Result.Author('Dmitriy Zanin')]","Along the line of singular value estimates for commutators by
+Rochberg-Semmes, Lord-McDonald-Sukochev-Zanin and Fan-Lacey-Li, we establish
+the endpoint weak Schatten class estimate for commutators of Riesz transforms
+with multiplication operator $M_f$ on Heisenberg groups via homogeneous Sobolev
+norm of the symbol $f$. The new tool we exploit is the construction of a
+singular trace formula on Heisenberg groups, which, together with the use of
+double operator integrals, allows us to bypass the use of Fourier analysis and
+provides a solid foundation to investigate the singular values estimates for
+similar commutators in general stratified Lie groups."
+1184,"We highlight that the new approach that we develop opens the door for further study of the endpoint Schatten–
+
+Lorentz class estimates of commutators [A, M f ] in various settings where Fourier analysis is not available (or not as
+eﬀective as that in Rn).","For
+
+example, following from [37, Corollary 1.5], one can apply the trace formula (1.2) to give an alternative proof of [22,
+
+(2) in Theorem 1.1].","Potential developments includes the endpoint Schatten–Lorentz class estimates for commutators
+
+[Rℓ, M f ], where Rℓ is the ℓ−th Riesz transforms on H-type groups or stratiﬁed Lie groups, which will be addressed in
+
+our subsequent papers.",2022-01-28 03:03:38+00:00,Endpoint weak Schatten class estimates and trace formula for commutators of Riesz transforms with multipliers on Heisenberg groups,math.FA,"['math.FA', '47B10, 42B20, 43A85']","[arxiv.Result.Author('Zhijie Fan'), arxiv.Result.Author('Ji Li'), arxiv.Result.Author('Edward McDonald'), arxiv.Result.Author('Fedor Sukochev'), arxiv.Result.Author('Dmitriy Zanin')]","Along the line of singular value estimates for commutators by
+Rochberg-Semmes, Lord-McDonald-Sukochev-Zanin and Fan-Lacey-Li, we establish
+the endpoint weak Schatten class estimate for commutators of Riesz transforms
+with multiplication operator $M_f$ on Heisenberg groups via homogeneous Sobolev
+norm of the symbol $f$. The new tool we exploit is the construction of a
+singular trace formula on Heisenberg groups, which, together with the use of
+double operator integrals, allows us to bypass the use of Fourier analysis and
+provides a solid foundation to investigate the singular values estimates for
+similar commutators in general stratified Lie groups."
+1381,"The
+wide applicability of the path signature suggests further study into how the mapping
+space signature can provide meaningful generalizations in these two domains.","The path signature has recently become a powerful tool in both pure mathematics,
+primarily through the development of rough paths [25], and applied mathematics.","• Can we use the mapping space signature to deﬁne a higher dimensional ana-
+  logue of rough paths?",2022-02-01 15:41:50+00:00,A Topological Approach to Mapping Space Signatures,math.FA,"['math.FA', 'math.AT', 'math.PR', '60L10, 55U15, 28C20']","[arxiv.Result.Author('Chad Giusti'), arxiv.Result.Author('Darrick Lee'), arxiv.Result.Author('Vidit Nanda'), arxiv.Result.Author('Harald Oberhauser')]","A common approach for describing classes of functions and probability
+measures on a topological space $\mathcal{X}$ is to construct a suitable map
+$\Phi$ from $\mathcal{X}$ into a vector space, where linear methods can be
+applied to address both problems. The case where $\mathcal{X}$ is a space of
+paths $[0,1] \to \mathbb{R}^n$ and $\Phi$ is the path signature map has
+received much attention in stochastic analysis and related fields. In this
+article we develop a generalized $\Phi$ for the case where $\mathcal{X}$ is a
+space of maps $[0,1]^d \to \mathbb{R}^n$ for any $d \in \mathbb{N}$, and show
+that the map $\Phi$ generalizes many of the desirable algebraic and analytic
+properties of the path signature to $d \ge 2$. The key ingredient to our
+approach is topological; in particular, our starting point is a generalisation
+of K-T Chen's path space cochain construction to the setting of cubical mapping
+spaces."
+1517,We conclude with questions for further research in Section 7.,"In Sections 5 and 6, respectively, we complete our
+characterization work, handling, in Section 5 the case where ϕ has Denjoy-Wolﬀ point in D and its second
+ﬁxed point outside of D− and then in Section 6 the case where ϕ has Denjoy-Wolﬀ point in D and its second
+ﬁxed point on the unit circle.","The most challenging ﬁxed-point scenario for our characterization work is that of Section 5, in which
+ϕ is assumed to have Denjoy-Wolﬀ point in D and its second ﬁxed point outside of D−.",2022-02-03 21:25:37+00:00,Posinormal Composition Operators on $H^2$,math.FA,"['math.FA', '47B20, 47B33 (Primary) 47B35 (Secondary)']","[arxiv.Result.Author('Paul S. Bourdon'), arxiv.Result.Author('Derek Thompson')]","A bounded linear operator $A$ on a Hilbert space is posinormal if there
+exists a positive operator $P$ such that $AA^{*} = A^{*}PA$. Posinormality of
+$A$ is equivalent to the inclusion of the range of $A$ in the range of its
+adjoint $A^*$. Every hyponormal operator is posinormal, as is every invertible
+operator. We characterize both the posinormal and coposinormal composition
+operators $C_\varphi$ on the Hardy space $H^2$ of the open unit disk
+$\mathbb{D}$ when $\varphi$ is a linear-fractional selfmap of $\mathbb{D}$. Our
+work reveals that there are composition operators that are both posinormal and
+coposinormal yet have powers that fail to be posinormal."
+1666,"t↓0 t
+
+However, it is not clear that Wigner, Yanase or even Dyson conjectured anything about concav-
+
+ity or convexity in these cases, and Wigner and Yanase wrote that these other candidates have
+
+“undesirable” features, and appear to have been dismissive of their further study.","They also remark that Freeman
+                                                 2
+
+Dyson pointed out that these cases fell into a one parameter family of candidates
+
+                                        − 1 Tr[[ρt, H][ρ1−t, H]] ,                                                    (2.19)
+                                           2
+
+0 < t ≤ 1/2 since           Tr[[log ρ, H][ρ, H]] = lim 1 Tr[[log ρ, H][ρ, H]] .","Nonetheless, Res Jost gave a partially alternate proof [41] of the theorem of Wigner and Yanase
+
+that was written during a visit he made to the I.A.S.",2022-02-08 01:32:53+00:00,On some convexity and monotonicity inequalities of Elliott Lieb,math.FA,"['math.FA', '46N50, 47A63, 81P45']",[arxiv.Result.Author('Eric A. Carlen')],"A fundamental paper of Elliott Lieb from 1973 has been the basis for much
+beautiful work on matrix inequalities by many people over the following years.
+We review a well-connected set of these developments. Some new proofs are
+provided."
+1667,"t↓0 t
+
+However, it is not clear that Wigner, Yanase or even Dyson conjectured anything about concav-
+
+ity or convexity in these cases, and Wigner and Yanase wrote that these other candidates have
+
+“undesirable” features, and appear to have been dismissive of their further study.","They also remark that Freeman
+                                                 2
+
+Dyson pointed out that these cases fell into a one parameter family of candidates
+
+                                        − 1 Tr[[ρt, H][ρ1−t, H]] ,                                                    (2.19)
+                                           2
+
+0 < t ≤ 1/2 since           Tr[[log ρ, H][ρ, H]] = lim 1 Tr[[log ρ, H][ρ, H]] .","Nonetheless, Res Jost gave a partially alternate proof [46] of the theorem of Wigner and Yanase
+
+that was written during a visit he made to the I.A.S.",2022-02-08 01:32:53+00:00,On some convexity and monotonicity inequalities of Elliott Lieb,math.FA,"['math.FA', '46N50, 47A63, 81P45']",[arxiv.Result.Author('Eric A. Carlen')],"A fundamental paper of Elliott Lieb from 1973 has been the basis for much
+beautiful work on matrix inequalities by many people over the following years.
+We review a well-connected set of these developments. Some new proofs are
+provided."
+1668,"t↓0 t
+
+However, it is not clear that Wigner, Yanase or even Dyson conjectured anything about concav-
+
+ity or convexity in these cases, and Wigner and Yanase wrote that these other candidates have
+
+“undesirable” features, and appear to have been dismissive of their further study.","They also remark that Freeman
+                                                 2
+
+Dyson pointed out that these cases fell into a one parameter family of candidates
+
+                                        − 1 Tr[[ρt, H][ρ1−t, H]] ,                                                    (2.19)
+                                           2
+
+0 < t ≤ 1/2 since           Tr[[log ρ, H][ρ, H]] = lim 1 Tr[[ρt, H][ρ1−t, H]] .","Nonetheless, Res Jost gave a partially alternate proof [47] of the theorem of Wigner and Yanase
+
+that was written during a visit he made to the I.A.S.",2022-02-08 01:32:53+00:00,On some convexity and monotonicity inequalities of Elliott Lieb,math.FA,"['math.FA', '46N50, 47A63, 81P45']",[arxiv.Result.Author('Eric A. Carlen')],"A fundamental paper of Elliott Lieb from 1973 has been the basis for much
+beautiful work on matrix inequalities by many people over the following years.
+We review a well-connected set of these developments. Some new proofs are
+provided."
+1669,"↓0
+
+However, it is not clear that Wigner, Yanase or even Dyson conjectured anything about
+concavity or convexity in these cases, and Wigner and Yanase wrote that these other
+candidates have “undesirable” features, and appear to have been dismissive of their
+further study.","They also remark that Freeman Dyson pointed out that these cases fell into a one
+
+parameter family of candidates
+
+                                   − 1 Tr[[ , ] [ 1− , ]] ,             (1.2.19)
+                                      2
+
+0 < ≤ 1/2 since
+                   Tr[[log , ] [ , ]] = lim 1 Tr[[ , ] [ 1− , ]] .","Nonetheless, Res Jost gave a partially alternate proof [51] of the theorem of
+Wigner and Yanase that was written during a visit he made to the I.A.S.",2022-02-08 01:32:53+00:00,On some convexity and monotonicity inequalities of Elliott Lieb,math.FA,"['math.FA', '46N50, 47A63, 81P45']",[arxiv.Result.Author('Eric A. Carlen')],"A fundamental paper of Elliott Lieb from 1973 has been the basis for much
+beautiful work on matrix inequalities by many people over the following years.
+We review a well-connected set of these developments. Some new proofs are
+provided."
+1801,"Conclusion
+
+   This new concept should hopefully stimulate further research as re-
+gards many already known results which involve classical powers of
+operators.",3.,"One is also tempted to deﬁne a similar notion for the class of un-
+bounded operators.",2022-02-10 12:57:11+00:00,On Generalized Powers of Operators,math.FA,['math.FA'],"[arxiv.Result.Author('Ahmed Bachir'), arxiv.Result.Author('Mohammed Hichem Mortad'), arxiv.Result.Author('Nawal Ali Sayyaf')]","In this note, we introduce generalized powers of linear operators. More
+precisely, operators are not raised to numbers but to other operators. We
+discuss several properties as regards this notion."
+1994,We hope that this idea creates a prerequisite for further study in the direction.,"Apparently, the hypotheses on the representing
+the solution by the Taylor series is equivalent to existing the ﬁxed point of the mentioned operator
+series.","References
+
+[1] Adams R. A.",2022-02-15 11:50:07+00:00,Evolution Equations in Hilbert Spaces via the Lacunae Method,math.FA,"['math.FA', '47B28, 47A10, 47B12, 47B10, 26A33, 39A05']",[arxiv.Result.Author('Maksim V. Kukushkin')],"In this paper we consider evolution equations in the abstract Hilbert space
+under the special conditions imposed on the operator at the right-hand side of
+the equation. We establish the method that allows us to formulate the existence
+and uniqueness theorem and find a solution in the form of a series on the root
+vectors of the right-hand side. As an application we consider fractional
+differential equations of various kinds. Such operators as the
+Riemann-Liouville fractional differential operator, the Riesz potential, the
+difference operator have been involved."
+2554,"111
+    For the further study of weak OVFs, we impose some conditions so that the frame
+operator splits.","(Ψn(SA−,1Ψ)∗)∗(AnSA−,1Ψ) = SA−,1Ψ               Ψ∗nAn
+
+      n=1                                             n=1
+
+Therefore, its canonical dual is ({(AnSA−,1Ψ)SA,Ψ}n, {(Ψn(SA−,1Ψ)∗)SA∗,Ψ}n) which is the
+original frame.",Deﬁnition 5.1.6.,2022-02-28 11:34:29+00:00,"Metric, Schauder and Operator-Valued Frames",math.FA,"['math.FA', 'math.MG', 'math.OA', '42C15']",[arxiv.Result.Author('K. Mahesh Krishna')],"Notion of frames and Bessel sequences for metric spaces have been introduced.
+This notion is related with the notion of Lipschitz free Banach spaces. \ It is
+proved that every separable metric space admits a metric $\mathcal{M}_d$-frame.
+Through Lipschitz-free Banach spaces it is showed that there is a
+correspondence between frames for metric spaces and frames for subsets of
+Banach spaces. Several characterizations of metric frames are obtained.
+Stability results are also presented. Non linear multipliers are introduced and
+studied. This notion is connected with the notion of Lipschitz compact
+operators. Continuity properties of multipliers are discussed.
+  For a subclass of approximated Schauder frames for Banach spaces,
+characterization result is derived using standard Schauder basis for standard
+sequence spaces. Duals of a subclass of approximate Schauder frames are
+completely described. Similarity of this class is characterized and
+interpolation result is derived using orthogonality. A dilation result is
+obtained. A new identity is derived for Banach spaces which admit a homogeneous
+semi-inner product. Some stability results are obtained for this class.
+  A generalization of operator-valued frames for Hilbert spaces are introduced
+which unifies all the known generalizations of frames for Hilbert spaces. This
+notion has been studied in depth by imposing factorization property of the
+frame operator. Its duality, similarity and orthogonality are addressed.
+Connections between this notion and unitary representations of groups and
+group-like unitary systems are derived. Paley-Wiener theorem for this class are
+derived."
+3393,"In conclusion of our presentation, we shall highlight some direc-
+tions for possible further research that seem natural in light of the results presented.",Open problems.,The ﬁrst natural question is on the necessity of MA for the validity of Theorem 3.8.,2022-03-16 14:52:04+00:00,Dense lineability and spaceability in certain subsets of $\ell_{\infty}$,math.FA,"['math.FA', 'math.CA', 'math.RA']","[arxiv.Result.Author('Paolo Leonetti'), arxiv.Result.Author('Tommaso Russo'), arxiv.Result.Author('Jacopo Somaglia')]","We investigate dense lineability and spaceability of subsets of $\ell_\infty$
+with a prescribed number of accumulation points. We prove that the set of all
+bounded sequences with exactly countably many accumulation points is densely
+lineable in $\ell_\infty$, thus complementing a recent result of Papathanasiou
+who proved the same for the sequences with continuum many accumulation points.
+We also prove that these sets are spaceable. Our main results are dedicated to
+the same problems for the set of bounded non-convergent sequences with a finite
+number of accumulation points. Assuming Martin's Axiom we prove that such set
+is densely lineable in $\ell_\infty$. Nevertheless, we also prove that it is
+not spaceable. The said problems are also studied in the setting of ideal
+convergence and in the space $\mathbb{R}^\omega$."
+3394,"In conclusion of our presentation, we shall highlight some di-
+rections for possible further research that seem natural in light of the results presented.",Further research.,"Concerning spaceability, we should point out that the two closed subspaces that we con-
+structed in Theorem 4.7 (contained in L(ω) and L(c) respectively) are isometric to c0,
+hence separable.",2022-03-16 14:52:04+00:00,Dense lineability and spaceability in certain subsets of $\ell_{\infty}$,math.FA,"['math.FA', 'math.CA', 'math.RA']","[arxiv.Result.Author('Paolo Leonetti'), arxiv.Result.Author('Tommaso Russo'), arxiv.Result.Author('Jacopo Somaglia')]","We investigate dense lineability and spaceability of subsets of $\ell_\infty$
+with a prescribed number of accumulation points. We prove that the set of all
+bounded sequences with exactly countably many accumulation points is densely
+lineable in $\ell_\infty$, thus complementing a recent result of Papathanasiou
+who proved the same for the sequences with continuum many accumulation points.
+We also prove that these sets are spaceable. We then consider the same problems
+for the set of bounded non-convergent sequences with a finite number of
+accumulation points. We prove that such set is densely lineable in
+$\ell_\infty$ and that it is nevertheless not spaceable. The said problems are
+also studied in the setting of ideal convergence and in the space
+$\mathbb{R}^\omega$."
+3966,"Therefore, mathemati-
+cians have not stopped the pace of further research on these and related
+questions.","For exam-
+ple, we do not know that whether every bounded linear operator on a sep-
+arable Hilbert space admits a nontrivial invariant subspace; we do not even
+know if there exists a bounded linear operator on a reﬂexive Banach space
+that does not have a non-trivial invariant subspace.","A problem closely related to the invariant subspace problem is the third
+problem of Halmos [22].",2022-03-28 12:05:20+00:00,On the third problem of Halmos on Banach spaces,math.FA,"['math.FA', 'math.OA']","[arxiv.Result.Author('Lixin Cheng'), arxiv.Result.Author('Junsheng Fang'), arxiv.Result.Author('Chunlan Jiang')]","Assume that $X$ is a complex separable infinite dimensional Banach space and
+$\mathcal{B}(X)$ denotes the Banach algebra of all bounded linear operators
+from $X$ to itself. In 1970, P.R. Halmos raised ten open problems in Hilbert
+spaces. The third one is the following: If an intransitive operator $T$ has an
+inverse, is its inverse also intransitive? This question is closely related to
+the invariant subspace problem. Ever since Enflo's celebrated counterexample on
+$\ell_1$ answered the invariant subspace problem in negative, the Banach space
+setting of the third question of Halmos has become more interesting. In this
+paper, we give an affirmative answer to this problem under certain spectral
+conditions. As an application, we show that for an invertible operator $T$ with
+Dunford's Property ($C$), if $T^{-1}$ is intransitive and there exists a
+connected component $\Omega$ of $int\sigma(T^{-1})^\land$ which is off the
+origin such that $\Omega\cap\rho_F(T^{-1})\neq \emptyset$, then $T$ is also
+intransitive. In the end of the paper, we show that a sufficient and necessary
+condition for that there exists a bounded linear operator without non-trivial
+invariant subspaces on the infinite dimensional space $L_1(\Omega,\sum,\mu)$
+(resp., $C(K)$, the space of bounded continuous functions on a complete metric
+space $K$) is that $(\Omega,\sum,\mu)$ is $\sigma$-finite (resp., $K$ is
+compact)."
+3967,"Therefore, mathematicians
+have not stopped the pace of further research on these and related questions.","For example, we do not know
+that whether every bounded linear operator on a separable Hilbert space admits a nontrivial
+invariant subspace; we do not even know if there exists a bounded linear operator on a reﬂexive
+Banach space that does not have a non-trivial invariant subspace.","A problem closely related to the invariant subspace problem is the third problem of Halmos
+[22].",2022-03-28 12:05:20+00:00,On the third problem of Halmos on Banach spaces,math.FA,"['math.FA', 'math.OA']","[arxiv.Result.Author('Lixin Cheng'), arxiv.Result.Author('Junsheng Fang'), arxiv.Result.Author('Chunlan Jiang')]","Assume that $X$ is a complex separable infinite dimensional Banach space and
+$\mathcal{B}(X)$ denotes the Banach algebra of all bounded linear operators
+from $X$ to itself. In 1970, P.R. Halmos raised ten open problems in Hilbert
+spaces. The third one is the following: If an intransitive operator $T$ has an
+inverse, is its inverse also intransitive? This question is closely related to
+the invariant subspace problem. Ever since Enflo's celebrated counterexample on
+$\ell_1$ answered the invariant subspace problem in negative, the Banach space
+setting of the third question of Halmos has become more interesting. In this
+paper, we give an affirmative answer to this problem under certain spectral
+conditions. As an application, we show that for an invertible operator $T$ with
+Dunford's Property ($C$), if $T^{-1}$ is intransitive and there exists a
+connected component $\Omega$ of $int\sigma(T^{-1})^\land$ which is off the
+origin such that $\Omega\cap\rho_F(T^{-1})\neq \emptyset$, then $T$ is also
+intransitive. In the end of the paper, we show that a sufficient and necessary
+condition for that there exists a bounded linear operator without non-trivial
+invariant subspaces on the infinite dimensional space $L_1(\Omega,\sum,\mu)$
+(resp., $C(K)$, the space of bounded continuous functions on a complete metric
+space $K$) is that $(\Omega,\sum,\mu)$ is $\sigma$-finite (resp., $K$ is
+compact)."
+4130,"This is one of the reasons why we (and many scholars before us) choose
+
+this particular operator for further study.","Accordingly, problems involving Ha rarely obey
+simple perturbation theory.","The ﬁrst aim of this paper is to investigate the class of functions of bounded variation related
+
+to Ha.",2022-03-31 03:09:31+00:00,BV spaces and the perimeters related to Schrodinger operators with inverse-square potentials and applications to the rank-one theorem,math.FA,['math.FA'],"[arxiv.Result.Author('Yang Han'), arxiv.Result.Author('Jizheng Huang'), arxiv.Result.Author('Pengtao Li'), arxiv.Result.Author('Yu Liu')]","For $a \ge - {( \frac{{d}}{2}- 1)^2} $ and $2\sigma= {{d - 2}}-( {{{(d -
+2)}^2} + 4a})^{1/2}$, let $$\begin{cases}\mathcal{H}_{a}= - \Delta + \frac{a}
+{{{{ | x |}^2}}},\\ \mathcal{\widetilde{H}}_{\sigma}= 2\big( { - \Delta +
+\frac{{{\sigma ^2}}} {{{{ | x |}^2}}}}\big)\end{cases}$$ be two Schr\""odinger
+operators with inverse-square potentials. In this paper, on the domain $\Omega
+\subset {\mathbb {R}^d}\backslash \{ 0\}, d\geq 2,$ %apart from the origin, the
+${\mathcal{H} _a}$-BV space $\mathcal{B} {\mathcal{V} _{{\mathcal{H}
+_a}}}(\Omega )$ and the ${\mathcal{\widetilde{H}}_{\sigma}}$-BV space
+$\mathcal{B} {\mathcal{V} _{{\mathcal{\widetilde H} _\sigma}}}(\Omega )$
+related to $\mathcal{H}_{a}$ and $\mathcal{\widetilde{H}}_{\sigma}$ are
+introduced, respectively. We investigate a series of basic properties of
+$\mathcal{B} {\mathcal{V} _{{\mathcal{H} _a}}}(\Omega )$ and $\mathcal{B}
+{\mathcal{V} _{{\mathcal{\widetilde H} _{\sigma}}}}(\Omega )$. Furthermore, we
+prove that ${\mathcal{\widetilde{H}}_{\sigma}}$-restricted BV functions can be
+characterized equivalently via their subgraphs. As applications, we derive the
+rank-one theorem for ${\mathcal{\widetilde{H}}_{\sigma}}$-restricted BV
+functions."
+5259,"Barik and Das continued further research and have constructed
+isometric dilations and consequently establish von Neumann inequality for commuting contraction
+tuples in class Bnp,q.","Recently Barik, Das, Haria, Sarkar
+in [21] have introduced a large class of n-tuples, n ≥ 3, of commuting contractions denoted by
+Tpn,q(H ) bigger than Ppd,q of commuting contractions and have proved that they dilate to n-tuples
+of explicit commuting isometries.","The positivity assumption is related to Brehmer positivity and motivated by
+the study of isometric dilations of operator tuples in [21].",2022-04-25 01:28:24+00:00,Minimal isometric dilations and operator models for the polydisc,math.FA,"['math.FA', 'math.CV']","[arxiv.Result.Author('Sourav Pal'), arxiv.Result.Author('Prajakta Sahasrabuddhe')]","For commuting contractions $T_1,\dots ,T_n$ acting on a Hilbert space
+$\mathcal H$ with $T=\prod_{i=1}^n T_i$, we find a necessary and sufficient
+condition under which $(T_1,\dots ,T_n)$ dilates to commuting isometries
+$(V_1,\dots ,V_n)$ on the minimal isometric dilation space $T$, where
+$V=\prod_{i=1}^nV_i$ is the minimal isometric dilation of $T$. We construct
+both Schaffer and Sz. Nagy-Foias type isometric and unitary dilations for
+$(T_1,\dots ,T_n)$ on the minimal dilation spaces of $T$. Also, a different
+dilation is constructed when the product $T$ is a $C._0$ contraction, that is
+${T^*}^n \rightarrow 0$ as $n \rightarrow \infty$. As a consequence of these
+dilation theorems we obtain different functional models for $(T_1,\dots ,T_n)$
+in terms of multiplication operators on vectorial Hardy spaces. One notable
+fact about our models is that the multipliers are analytic functions in one
+variable. The dilation when $T$ is $C._0$ leads to a conditional factorization
+of a $T$. Several examples have been constructed."
+5732,"In this paper we further study the problem on the complex Mazur-Ulam
+property.","Note that the Mazur-Ulam property, or even
+the complex Mazur-Ulam property for non-unital C∗-algebras seems to be
+still missing.","We introduce a separation condition which is named (∗) for a
+Banach space in section 5.",2022-05-04 04:28:56+00:00,The Mazur-Ulam property for a Banach space which satisfies a separation condition,math.FA,"['math.FA', '46B04, 46B20, 46J10, 46J15']",[arxiv.Result.Author('Osamu Hatori')],"We study $C$-rich spaces, lush spaces, and $C$-extremely regular spaces
+concerning with the Mazur-Ulam property. We show that a uniform algebra and the
+real part of a uniform algebra with the supremum norm are $C$-rich spaces,
+hence lush spaces. We prove that a uniformly closed subalgebra of the algebra
+of complex-valued continuous functions on a locally compact Hausdorff space
+which vanish at infinity is $C$-extremely regular provided that it separates
+the points of the underlying space and has no common zeros. In section 3 we
+exhibit descriptions on the Choquet bounday, the \vSilov bounday, the strong
+boundary points. We also recall the definition that a function space strongly
+separates the points in the underlying space. We need to avoid the confusion
+which appears because of the variety of names of these concepts; they sometimes
+differs from authors to authors. After some preparation, we study the
+Mazur-Ulam property in sections 4 through 6. We exhibit a sufficient condition
+on a Banach space which has the Mazur-Ulam property and the complex Mazur-Ulam
+property. In section 5 we consider a Banach space with a separation condition
+$(*)$ (Definition 5.1). We prove that a real Banach space satisfying $(*)$ has
+the Mazur-Ulam propety (Theorem 6.1), and a complex Banach space satisfying
+$(*)$ has the complex Mazur-Ulam property (Theorem 6.3). Applying the results
+in the previous sections we prove that an extremely $C$-regular complex linear
+subspace has the complex Mazur-Ulam property (Corollary 6.4) in section 6. As a
+consequence we prove that any closed subalgebra of the algebra of all
+complex-valued continuous functions defined on a locally compact Hausdorff
+space has the complex Mazur-Ulam property (Corollary 6.5)."
+6236,"We further study the
+Markov semigroup ((3.79) and Lemma 3.29) corresponding to W (µ).","We then note that Ito’s lemma applies to W (µ), see (3.94).","In our two main results
+
+Lemma 3.24 and Theorem 3.30 below, we identify the selfadjoint extension of KF from section
+2 as the inﬁnitesimal generator for this diﬀusion semigroup, Lemma 3.24.",2022-05-16 13:06:14+00:00,"Dual pairs of operators, harmonic analysis of singular non-atomic measures and Krein-Feller diffusion",math.FA,"['math.FA', 'Primary: 47B32, 47B25, 47E05, 46N20. Secondary: 46E22, 46N30, 46N50,\n  60G15']","[arxiv.Result.Author('Palle E. T. Jorgensen'), arxiv.Result.Author('James Tian')]","We show that a Krein-Feller operator is naturally associated to a fixed
+measure $\mu$, assumed positive, $\sigma$-finite, and non-atomic. Dual pairs of
+operators are introduced, carried by the two Hilbert spaces,
+$L^{2}\left(\mu\right)$ and $L^{2}\left(\lambda\right)$, where $\lambda$
+denotes Lebesgue measure. An associated operator pair consists of two specific
+densely defined (unbounded) operators, each one contained in the adjoint of the
+other. This then yields a rigorous analysis of the corresponding
+$\mu$-Krein-Feller operator as a closable quadratic form. As an application,
+for a given measure $\mu$, including the case of fractal measures, we compute
+the associated diffusion, semigroup, Dirichlet forms, and $\mu$-generalized
+heat equation."
+6709,"Concluding remarks
+
+   We brieﬂy discuss possible generalizations and topics for further research:
+1.",4.,"In [40], non-linear analogues of the properties in Deﬁnition 2.4 are considered.",2022-05-25 14:32:09+00:00,A Quest for Simple and Unified Proofs in Regularity Theory: Perturbation Stability,math.FA,"['math.FA', '49N99']","[arxiv.Result.Author('Radek Cibulka'), arxiv.Result.Author('Tomáš Roubal')]","Ioffe's criterion and various reformulations of it have become a~standard
+tool in proving theorems guaranteeing metric regularity of a (set-valued)
+mapping. First, we demonstrate that one should always use directly the
+so-called general criterion which follows, for example, from Ekeland's
+variational principle, and that there is no need to make a detour through the
+slope-based consequences of this general statement. Second, we argue that when
+proving perturbation stability results, in the spirit of Lyusternik-Graves
+theorem, there is no need to employ the concept of a lower semi-continuous
+envelope even in the case of an incomplete target space. The gist is to use the
+""correct"" function to which Ekeland's variational principle is applied; namely,
+the distance function to the graph of the set-valued mapping under
+consideration. This approach originates in the notion of graphical regularity
+introduced by L. Thibault, which is equivalent to the property of metric
+regularity. Our criteria cover also both metric subregularity and metric
+semiregularity, which are weaker properties obtained by fixing one of the
+points in the definition of metric regularity."
+6939,"Concluding remarks
+
+Some implications for further research regarding the application of Val-
+divia’s closed graph theorem and the lifting theorem proved here are
+outlined.",5.,"Applying Valdivia’s closed graph theorem to spaces that are not bar-
+relled.",2022-05-31 01:28:10+00:00,Valdivia's lifting theorem for non-metrizable spaces. Preprint,math.FA,"['math.FA', '46a30']",[arxiv.Result.Author('Thomas E. Gilsdorf')],"The lifting theorem of Valdivia concerning (pre) compact sets and convergent
+(respectively, Cauchy) sequences from a quasi-(LB) space to a metrizable,
+strictly barrelled space is extended to a strictly larger collection of range
+spaces. Specifically, we assume that the range space has a sequential web
+structure and do not require that it be metrizable, nor strictly barrelled, and
+the range space need not even be barrelled. Distinguishing examples are
+provided that include natural constructions of range spaces connected with
+applications, such as the space of distributions having their wavefront sets in
+a specified closed cone. The same and other examples could also serve as domain
+spaces for the closed graph theorem of Valdivia, revealing a much wider
+collection of domain spaces that can be used in that result."
+7143,"In the Dunkl setting, further researches on boundary behaviour of κ-harmonic functions
+may be considered in a reﬂection-symmetric Lipschitz domain or non-tangentially accessi-
+ble domain.","Therefore Theorem 1.3 is deeper than expected, and Theorem
+1.6 and Corollary 1.7 motivate that the adoption of Sa,hu would be also necessary for a non-
+G-invariant u associated to a general reﬂection group G.
+
+    (e) In [20, 21], Hunt and Wheeden studied the local boundary behaviour of usual har-
+monic functions in a bounded Lipschitz domain, and in [22], Jerison and Kenig extended
+6                                                                                   Jiu and Li
+
+the classical results to a larger class of domains named non-tangentially accessible domains.",The paper is organized as follows.,2022-06-05 09:09:44+00:00,Local boundary behaviour and the area integral of generalized harmonic functions associated with root systems,math.FA,"['math.FA', 'math.AP', '42B99(Primary), 31B25, 51F15(Secondary)']","[arxiv.Result.Author('Jiaxi Jiu'), arxiv.Result.Author('Zhongkai Li')]","The rational Dunkl operators are commuting differential-reflection operators
+on the Euclidean space $\RR^d$ associated with a root system. The aim of the
+paper is to study local boundary behaviour of generalized harmonic functions
+associated with the Dunkl operators. We introduce a Lusin-type area integral
+operator $S$ by means of Dunkl's generalized translation and the Dunkl
+operators. The main results are on characterizations of local existence of
+non-tangential boundary limits of a generalized harmonic function $u$ in the
+upper half-space $\RR^{d+1}_+$ associated with the Dunkl operators, and for a
+subset $E$ of $\RR^d$ invariant under the reflection group generated by the
+root system, the equivalence of the following three assertions are proved: (i)
+$u$ has a finite non-tangential limit at $(x,0)$ for a.e. $x\in E$; (ii) $u$ is
+non-tangentially bounded for a.e. $x\in E$; (iii) $(Su)(x)$ is finite for a.e.
+$x\in E$."
+8350,"Moreover, for the case s = 0, P(Qs)(| f |) = | f |Q is closely connected with the maximal
+
+function MQ( f ), and hence we further study the relation between JN(p,q,s)α(X) and maximal func-
+tions.","4                                           Pingxu Hu, Jin Tao and Dachun Yang
+
+   In Section 3, we ﬁrst give some basic properties of JN(p,q,s)α(X), including the monotonicity on
+the subindices p, q, and s (see Proposition 3.1 below), the limit behavior as p → ∞ (see Propo-
+
+sition 3.2 and Corollary 3.4 below), and the invariance on the second subindex q (see Proposition
+3.5 below).","On one hand, the maximal operator is bounded on Lq(X) with q ∈ (1, ∞) but not bounded on
+L1(X).",2022-07-02 23:18:18+00:00,New John--Nirenberg--Campanato-Type Spaces Related to Both Maximal Functions and Their Commutators,math.FA,"['math.FA', 'math.AP', 'math.CA', 'Primary 42B35, Secondary 47B47, 46E30, 42B25']","[arxiv.Result.Author('Pingxu Hu'), arxiv.Result.Author('Jin Tao'), arxiv.Result.Author('Dachun Yang')]","Let $p,q\in [1,\infty]$, $\alpha\in{\mathbb{R}}$, and $s$ be a non-negative
+integer. In this article, the authors introduce a new function space
+$\widetilde{JN}_{(p,q,s)_{\alpha}}(\mathcal{X})$ of John-Nirenberg-Campanato
+type, where $\mathcal{X}$ denotes $\mathbb{R}^n$ or any cube $Q_{0}$ of
+$\mathbb{R}^n$ with finite edge length. The authors give an equivalent
+characterization of $\widetilde{JN}_{(p,q,s)_{\alpha}}(\mathcal{X})$ via both
+the John-Nirenberg-Campanato space and the Riesz-Morrey space. Moreover, for
+the particular case $s=0$, this new space can be equivalently characterized by
+both maximal functions and their commutators. Additionally, the authors give
+some basic properties, a good-$\lambda$ inequality, and a John-Nirenberg type
+inequality for $\widetilde{JN}_{(p,q,s)_{\alpha}}(\mathcal{X})$."
+8511,"There are many related open
+                                         problems to promote further research in this subject (for more details we refer to [27]).","The study of evolution algebras constitutes a new subject
+                                         both in algebra and the theory of dynamical systems.","We notice that evolution algebras are not deﬁned by identities, and therefore they do
+                                         not form a variety of non-associative algebras, like Lie, Jordan or alternative algebras.",2022-07-06 13:46:35+00:00,On $\exp(Der(E))$ of nilpotent evolution algebras,math.FA,"['math.FA', 'math.RA', '17A60, 17A36, 17D92, 47B39']","[arxiv.Result.Author('Farrukh Mukhamedov'), arxiv.Result.Author('Otabek Khakimov'), arxiv.Result.Author('Izzat Qaralleh')]","In the present paper, every evolution algebra is endowed with Banach algebra
+norm. This together with the description of derivations and automorphisms of
+nilpotent evolution algebras, allows to investigated the set $\exp(Der(E))$.
+Moreover, it is proved that $\exp(Der(E))$ is a normal subgroup of $Aut(E)$,
+and its corresponding index is calculated."
+8602,"With this in mind, we consider
+
+the subset
+
+(3)         Ω1  =  Ω  \  {x  ∈  Rd    :  ∃i  ∈     1,  ·  ·  ·  ,  d  such  that  √xi  <   1}
+
+                                   +
+
+of Ω which is a reasonable substitute of Ω and whose ﬁgure is given as follows:
+   Our motivation comes not only from the fact that these objects are interest-
+
+ing on their own, but also from the possibility of their potential applications
+in further research concerning the Laguerre operator.","We point out that, in the proof of (2), the inequality
+
+|∇f (x)|(Ω1) |∇Lα f (x)|(Ω1) holds true.","Consequently, in Sec-
+tion 3, we want to investigate the Laguerre mean curvature of a set with ﬁnite
+Laguerre perimeter.",2022-07-08 07:39:09+00:00,"Laguerre BV spaces, Laguerre perimeter and their applications",math.FA,"['math.FA', '26A45, 46E35, 33C45']","[arxiv.Result.Author('Yu Liu'), arxiv.Result.Author('He Wang')]","In this paper, we introduce the Laguerre bounded variation space and the
+Laguerre perimeter, thereby investigating their properties. Moreover, we prove
+the isoperimetric inequality and the Sobolev inequality in the Laguerre
+setting. As applications, we derive the mean curvature for the Laguerre
+perimeter."
+8651,"Secondly, we ﬁnd conditions that guarantee
+convergence of the involved integral construction and formulate a main theorem giving us a tool
+for further study.","The interesting fact is that involving a
+non-constant function we are still able to consider a patrial sums of the series on the root vec-
+tors corresponding to some groups of eigenvalues.","We consider an analogue of the spectral family having involved the operators
+similar to Riesz projectors (see [2, p.20] ) and using a notion of the convergence in the Abel-Lidskii
+sense.",2022-07-10 06:22:27+00:00,Abstract evolution equations with an operator function at the right-hand side,math.FA,"['math.FA', '47B28, 47A10, 47B12, 47B10, 34K30, 58D25']",[arxiv.Result.Author('Maksim V. Kukushkin')],"In this paper, we deal with non-selfadjoint operators with the compact
+resolvent. Having inspired by the Lidskii idea involving a notion of
+convergence of a series on the root vectors of the operator in a weaker --
+Abel-Lidskii sense, we proceed constructing theory in the direction. The main
+concept of the paper is a generalization of the spectral theorem for a
+non-selfadjoint operator. In this way, we come to the definition of the
+function of an unbounded non-selfadjoint operator. As an application, we notice
+some approaches allowing us to principally broaden conditions imposed on the
+right-hand side of the evolution equation in the abstract Hilbert space and
+produce some concrete examples significant in applied sciences. In conection
+with this such operator as a Riemann-Liouville fractional differential
+operator, Kipriyanov fractional differential operator, Riesz potential are
+involved."
+8652,"Secondly, we ﬁnd conditions that guarantee convergence of the involved integral
+construction and formulate lemmas giving us a tool for further study.","First of all, we consider statements with the necessary reﬁnement caused by the involved functions,
+here we should note that a particular case corresponding to a power function ϕ was considered
+by Lidskii [16].","We consider an analogue of
+the spectral family having involved the operators similar to Riesz projectors (see [2, p.20] ) and
+using a notion of the convergence in the Abel-Lidskii sense.",2022-07-10 06:22:27+00:00,Abstract evolution equations with an operator function in the second term,math.FA,"['math.FA', '47B28, 47A10, 47B12, 47B10, 34K30, 58D25']",[arxiv.Result.Author('Maksim V. Kukushkin')],"In this paper, having introduced a convergence of a series on the root
+vectors in the Abel-Lidskii sense, we present a valuable application to the
+evolution equations. The main issue of the paper is an approach allowing us to
+principally broaden conditions imposed upon the right-hand side of the
+evolution equation in the abstract Hilbert space.
+  In this way, we come to the definition of the function of an unbounded
+non-selfadjoint operator. Meanwhile, considering the main issue we involve an
+additional concept that is a generalization of the spectral theorem for a
+non-selfadjoint operator."
+9031,"In this paper, we wish to further study these weighted Banach spaces, as well as study the
+                                          composition operators on them.","In [3], the weighted Banach spaces on a tree were deﬁned, and the multiplication operators
+                                          studied.","The results of this work are compatible with the results found in
+                                          [5], [4], [9], and [6], and as corollaries our results apply to composition operators on L∞.",2022-07-19 00:55:52+00:00,Composition operators on weighted Banach spaces of a tree,math.FA,"['math.FA', 'primary: 47B33, secondary: 05C05']","[arxiv.Result.Author('Robert F. Allen'), arxiv.Result.Author('Matthew A. Pons')]","We study composition operators on the weighted Banach spaces of an infinite
+tree. We characterize the bounded and the compact operators, as well as
+determine the operator norm and the essential norm. In addition, we study the
+isometric composition operators."
+9032,"In this paper, we wish to further study these weighted Banach spaces, as well as study the
+                                          composition operators on them.","In [3], the weighted Banach spaces on a tree were deﬁned, and the multiplication operators
+                                          studied.","The results of this work are compatible with the results found in
+                                          [4], [5], [9], and [6], and as corollaries our results apply to composition operators on L∞.",2022-07-19 00:55:52+00:00,Composition operators on weighted Banach spaces of a tree,math.FA,"['math.FA', 'primary: 47B33, secondary: 05C05']","[arxiv.Result.Author('Robert F. Allen'), arxiv.Result.Author('Matthew A. Pons')]","We study composition operators on the weighted Banach spaces of an infinite
+tree. We characterize the bounded and the compact operators, as well as
+determine the operator norm and the essential norm. In addition, we study the
+isometric composition operators."
+9133,"Also, we hope this paper will inspire further study of operators on discrete function spaces.","Since it is prevalent in the
+                                          deﬁnition of many discrete spaces, it is a good idea to understand more properties of this operator.","With
+                                          more knowledge of the derivative, operators comprising products of differentiation, multiplication,
+                                          and composition operators can be further studied.",2022-07-20 22:11:38+00:00,The differentiation operator on discrete function spaces of a tree,math.FA,"['math.FA', 'primary: 47B38, secondary: 05C05']","[arxiv.Result.Author('Robert F. Allen'), arxiv.Result.Author('Colin M. Jackson')]","In this paper, we study the differentiation operator acting on discrete
+function spaces; that is spaces of functions defined on an infinite rooted
+tree. We discuss, through its connection with composition operators, the
+boundedness and compactness of this operator. In addition, we discuss the
+operator norm and spectrum, and consider when such an operator can be an
+isometry. We then apply these results to the operator acting on the discrete
+Lipschitz space and weighted Banach spaces, as well as the Hardy spaces defined
+on homogeneous trees."
+9134,"Our hope
+is that these questions will initiate further research in this area of operator theory.","6 Open Questions
+
+We conclude with open questions which were inspired while developing this manuscript.",1.,2022-07-20 22:11:38+00:00,The differentiation operator on discrete function spaces of a tree,math.FA,"['math.FA', 'primary: 47B38, secondary: 05C05']","[arxiv.Result.Author('Robert F. Allen'), arxiv.Result.Author('Colin M. Jackson')]","In this paper, we study the differentiation operator acting on discrete
+function spaces; that is spaces of functions defined on an infinite rooted
+tree. We discuss, through its connection with composition operators, the
+boundedness and compactness of this operator. In addition, we discuss the
+operator norm and spectrum, and consider when such an operator can be an
+isometry. We then apply these results to the operator acting on the discrete
+Lipschitz space and weighted Banach spaces, as well as the Hardy spaces defined
+on homogeneous trees."
+9135,"Also, we hope this paper will inspire further study of operators on discrete function spaces.","Since it is prevalent in the
+                                          deﬁnition of many discrete spaces, it is a good idea to understand more properties of this operator.","With
+                                          more knowledge of the derivative, operators comprising products of differentiation, multiplication,
+                                          and composition operators can be further studied.",2022-07-20 22:11:38+00:00,The differentiation operator on discrete function spaces of a tree,math.FA,"['math.FA', 'primary: 47B38, secondary: 05C05']","[arxiv.Result.Author('Robert F. Allen'), arxiv.Result.Author('Colin M. Jackson')]","In this paper, we study the differentiation operator acting on discrete
+function spaces; that is spaces of functions defined on an infinite rooted
+tree. We discuss, through its connection with composition operators, the
+boundedness and compactness of this operator. In addition, we discuss the
+operator norm and spectrum, and consider when such an operator can be an
+isometry. We then apply these results to the operator acting on the discrete
+Lipschitz space and weighted Banach spaces, as well as the Hardy spaces defined
+on homogeneous trees."
+9136,"Our
+hope is that these questions will initiate further research in this area of operator theory.","OPEN QUESTIONS
+
+   We conclude with open questions which were inspired while developing this manuscript.",1.,2022-07-20 22:11:38+00:00,The differentiation operator on discrete function spaces of a tree,math.FA,"['math.FA', 'primary: 47B38, secondary: 05C05']","[arxiv.Result.Author('Robert F. Allen'), arxiv.Result.Author('Colin M. Jackson')]","In this paper, we study the differentiation operator acting on discrete
+function spaces; that is spaces of functions defined on an infinite rooted
+tree. We discuss, through its connection with composition operators, the
+boundedness and compactness of this operator. In addition, we discuss the
+operator norm and spectrum, and consider when such an operator can be an
+isometry. We then apply these results to the operator acting on the discrete
+Lipschitz space and weighted Banach spaces, as well as the Hardy spaces defined
+on homogeneous trees."
+9517,First of all we recall the basic deﬁnitions which will be used for further research.,"For composition operator on diﬀerent function
+
+spaces see [15] and [16] and reference therein.",Deﬁnition 1.1.,2022-07-31 02:36:32+00:00,Li-Yorke and Expansive Composition Operators on Lorentz Spaces,math.FA,"['math.FA', 'Primary 47A16, 47B33, Secondary 37D45, 37B05', 'B.m; C.m']","[arxiv.Result.Author('Romesh Kumar'), arxiv.Result.Author('Rajat Singh')]","In this paper, we investigate Li-Yorke composition operators and some of
+their variations on Lorentz spaces. Further, we also study expansive
+composition operators on these spaces. The work of the paper is essentially
+based on the work in [1], [9], [11], and [13]."
+9697,"They open this way a very wide space for
+further research, in order to extend the already existing results and
+theories referring to cyclic operators, if possible, in the case of r-cyclic
+operators.","These new r-cyclic operators are an answer to natural problems and
+they prove to complete the family of cyclic type operators studied in
+the previous literature.",2.,2022-08-03 21:16:10+00:00,Synchronous and asynchronous cyclic contractions,math.FA,"['math.FA', '47H10, 54H25, 03Exx']",[arxiv.Result.Author('Madalina Pacurar')],"Motivated by the existence of cyclic phenomena in which some characteristics
+are mapped into corresponding ones over more than one phase, we introduce the
+$r$-cyclic operators with respect to a covering of a metric space and
+investigate their behavior. We study the convergence of the Picard iteration to
+a fixed point of such an operator under different types of generalized
+contraction conditions. The obtained results may have interesting practical
+applications in various research areas."
+9698,"They open this way a very wide space for
+further research, in order to extend the already existing results and
+theories referring to cyclic operators, if possible, in the case of r-cyclic
+operators.","These new r-cyclic operators are an answer to natural problems and
+they prove to complete the family of cyclic type operators studied in
+the previous literature.","The Introduction is followed by seven sections:
+
+     2.",2022-08-03 21:16:10+00:00,Synchronous and asynchronous cyclic contractions on metric spaces,math.FA,"['math.FA', '47H10, 54H25, 03Exx']",[arxiv.Result.Author('Madalina Pacurar')],"Motivated by the existence of cyclic phenomena in which some characteristics
+are mapped into corresponding ones over more than one phase, we introduce the
+$r$-cyclic operators with respect to a covering of a metric space and
+investigate their behavior. We study the convergence of the Picard iteration to
+a fixed point of such an operator under different types of generalized
+contraction conditions. The obtained results may have interesting practical
+applications in various research areas."
+10205,"• Investigation of the reverse order law for the class GD1 and 1 GD inverses, for Hilbert space operators
+
+    would be an interesting idea for further research.",• GD1 and 1GD inverses of the sum of operators can be studied.,• It is interesting to study the GD1 and 1GD inverses over the algebraic structure of a ring.,2022-08-19 04:52:46+00:00,GD1 inverse and 1GD inverse for Hilbert space operators,math.FA,"['math.FA', 'math.OA']","[arxiv.Result.Author('Jajati Keshari Sahoo'), arxiv.Result.Author('Prdeep Boggarapu'), arxiv.Result.Author('Ratikanta Behera'), arxiv.Result.Author('M. Zuhair Nashed')]","Mosic and Djordjevic introduced the notation of the gDMP inverse for Hilbert
+space operators in [J. Spectr. Theory, 8(2):555-573, 2018] by considering
+generalized Drazin inverse with the Moore-Penrose inverse. This paper
+introduces two new classes of inverses: GD1 (generalized Drazin and inner)
+inverse and 1GD (inner and generalized Drazin) inverse for Hilbert space
+operators. The existence and uniqueness of the GD1 (also 1GD) inverse are
+discussed, along with some properties through core-quasinilpotent decomposition
+and closed range decomposition operator. We further establish a few explicit
+representations of the GD1 inverse and their interconnections with generalized
+Drazin inverse. In addition, we discuss a few properties of GD1 (also 1GD)
+inverse through binary relation."
+10271,"We further study ﬁnite-
+
+                                          dimensional subspaces of ℓ∞ which are of the form ℓn∞ form some n ≥ 2.","We investigate diﬀerent possiblities of subspaces of the space ℓ∞ in
+
+                                          terms of whether the subspaces are polyhedral or not.","As
+
+                                          an application of the results we compute the number of extreme contractions
+
+                                          for a class of the space of bounded linear operators.",2022-08-22 09:51:22+00:00,"On subspaces of $\ell_\infty$ and extreme contraction in $\mathbb{L}(\mathbb{X}, \ell_{\infty}^n)$",math.FA,"['math.FA', '46B20, 47L05']","[arxiv.Result.Author('Shamim Sohel'), arxiv.Result.Author('Debmalya Sain'), arxiv.Result.Author('Kallol Paul')]","We investigate different possiblities of subspaces of the space
+$\ell_{\infty}$ in terms of whether the subspaces are polyhedral or not. We
+further study finite-dimensional subspaces of $\ell_{\infty}$ which are of the
+form $\ell_\infty^n$ form some $ n \geq 2.$ As an application of the results we
+compute the number of extreme contractions for a class of the space of bounded
+linear operators. In particular we find the number of extreme contractions of
+$\mathbb{L}(\mathbb{X}, \ell_{\infty}^n),$ where $\mathbb{X}$ is a
+finite-dimensional polyhedral space."
+10894,"This case
+
+remains unsettled and seems to call for further research.","p  Ñ   A  1
+               ω
+                         ν           D                                                                                                  j“0
+
+We have been unable to judge whether or not above can be replaced by —.","Most of the tools needed to achieve Theorem 4 are already present in the proofs of The-
+orems 1 and 3.",2022-09-07 11:59:57+00:00,Two weight inequality for Hankel form on weighted Bergman spaces induced by doubling weights,math.FA,"['math.FA', 'math.CV']","[arxiv.Result.Author('Yongjiang Duan'), arxiv.Result.Author('Jouni Rättyä'), arxiv.Result.Author('Siyu Wang'), arxiv.Result.Author('Fanglei Wu')]","The boundedness of the small Hankel operator $h_f^\nu(g)=P_\nu(f\bar{g})$,
+induced by an analytic symbol $f$ and the Bergman projection $P_\nu$ associated
+to $\nu$, acting from the weighted Bergman space $A^p_\om$ to $A^q_\nu$ is
+characterized on the full range $0<p,q<\infty$ when $\omega,\nu$ belong to the
+class $\mathcal{D}$ of radial weights admitting certain two-sided doubling
+conditions. Certain results obtained are equivalent to the boundedness of
+bilinear Hankel forms, which are in turn used to establish the weak
+factorization $A_{\eta}^{q}=A_{\omega}^{p_{1}}\odot A_{\nu}^{p_{2}}$, where
+$1<q,p_{1},p_{2}<\infty$ such that $q^{-1}=p_{1}^{-1}+p_{2}^{-1}$ and
+$\widetilde{\eta}^{\frac{1}{q}}\asymp\widetilde{\omega}^{\frac{1}{p_{1}}}\widetilde{\nu}^{\frac{1}{p_{2}}}$.
+Here $\widetilde{\tau}(r)=\int_r^1\tau(t)\,dt/(1-t)$ for all $0\le r<1$."
+10895,"We ﬁnish the introduction by discussing brieﬂy some natural open problems and directions
+
+for further research.","To be
+precise, under the hypotheses of Theorem 7, hνf : A1Vω,p Ñ A1Vν,q is bounded if and only if
+(1.12) holds.","Probably the most natural next question to study would be to consider
+
+the compactness of the small Hankel operator as well as the schatten class membership for
+
+the Hilbert space case, see [17, 18, 46] and reference therein for the standard weight case with
+
+this regard.",2022-09-07 11:59:57+00:00,Two weight inequality for Hankel form on weighted Bergman spaces induced by doubling weights,math.FA,"['math.FA', 'math.CV']","[arxiv.Result.Author('Yongjiang Duan'), arxiv.Result.Author('Jouni Rättyä'), arxiv.Result.Author('Siyu Wang'), arxiv.Result.Author('Fanglei Wu')]","The boundedness of the small Hankel operator $h_f^\nu(g)=P_\nu(f\bar{g})$,
+induced by an analytic symbol $f$ and the Bergman projection $P_\nu$ associated
+to $\nu$, acting from the weighted Bergman space $A^p_\om$ to $A^q_\nu$ is
+characterized on the full range $0<p,q<\infty$ when $\omega,\nu$ belong to the
+class $\mathcal{D}$ of radial weights admitting certain two-sided doubling
+conditions. Certain results obtained are equivalent to the boundedness of
+bilinear Hankel forms, which are in turn used to establish the weak
+factorization $A_{\eta}^{q}=A_{\omega}^{p_{1}}\odot A_{\nu}^{p_{2}}$, where
+$1<q,p_{1},p_{2}<\infty$ such that $q^{-1}=p_{1}^{-1}+p_{2}^{-1}$ and
+$\widetilde{\eta}^{\frac{1}{q}}\asymp\widetilde{\omega}^{\frac{1}{p_{1}}}\widetilde{\nu}^{\frac{1}{p_{2}}}$.
+Here $\widetilde{\tau}(r)=\int_r^1\tau(t)\,dt/(1-t)$ for all $0\le r<1$."
+11184,"Here, the word ’appropriate’ plays a crucial role to
+apply this inequality for a further study of the boundedness of T on some function
+spaces.","It relies on the local sharp maximal
+function operator (α ∈ (0, 1)):
+
+     Mα♯ f (t) := sup inf inf β ≥ 0 : |{s ∈ Q : |f (s) − z| > β}| < α|Q|
+
+                          Q∋t z∈C
+
+for every f ∈ L1loc and t ∈ R.
+   It is shown in [26, Theorem 4.6] (in the scalar case, but the vector one follows
+
+easily) that, in particular, if T is a Caldero´n-Zygmund operator, then there exist
+constants α and µ such that
+
+(9)       Mα♯ (|T f |Y ) ≤ µM |f |X
+
+for all appropriate f ∈ L1loc(X).","By an analysis of the proof, we see that a priori one can consider the set
+10                  SEBASTIAN KRO´ L
+
+of all f ∈ L1loc(X) such that T f ∈ L0(X) with (|T f |Y )∗(+∞) = 0 and for every
+interval I ⊂ R, T f I ∈ L1(I) with f I := f χR\2I, and
+
+      (T f I)(t) =        k(t − s)f (s)ds for a.e.",2022-09-14 13:31:02+00:00,The maximal regularity property of abstract integro-differential equations,math.FA,"['math.FA', '42B37, 42B20, 42A45, 45N05, 46N20']",[arxiv.Result.Author('Sebastian Król')],"We provide a convenient framework for the study of the well-posedness of a
+variety of abstract (integro)differential equations in general Banach function
+spaces. It allows us to extend and complement the known theory on the maximal
+regularity of such equations.
+  More precisely, by methods of harmonic analysis, we identify large classes of
+Banach spaces which are invariant with respect to distributional Fourier
+multipliers. Such classes include general vector-valued Banach function spaces
+$\Phi$ and/or the scales of Besov and Triebel-Lizorkin spaces defined by
+$\Phi$.
+  We apply this result to the study of the well-posedness and maximal
+regularity property of abstract second-order integro-differential equation,
+which models various types of elliptic and parabolic problems arising in
+different areas of applied mathematics."
+11185,"Here, the word ’appropriate’ plays a crucial role to
+apply this inequality for a further study of the boundedness of T on some function
+
+spaces.","It relies on the local sharp maximal
+function operator (α ∈ (0, 1)):
+
+     Mα♯ f (t) := sup inf inf β ≥ 0 : |{s ∈ Q : |f (s) − z| > β}| < α|Q|
+
+                          Q∋t z∈C
+
+for every f ∈ L1loc and t ∈ R.
+   It is shown in [26, Theorem 4.6] (in the scalar case, but the vector one follows
+
+easily) that, in particular, if T is a Caldero´n-Zygmund operator, then there exist
+constants α and µ such that
+
+(9)       Mα♯ (|T f |Y ) ≤ µM (|f |X)
+
+for all appropriate f ∈ L1loc(X).","By an analysis of the proof, we see that a priori one can consider the set
+10                  SEBASTIAN KRO´ L
+
+of all f ∈ L1loc(X) such that T f ∈ L0(X) with (|T f |Y )∗(+∞) = 0 and for every
+interval I ⊂ R, T f I ∈ L1(I) with f I := f χR\2I, and
+
+      (T f I)(t) =        k(t − s)f (s)ds for a.e.",2022-09-14 13:31:02+00:00,The maximal regularity property of abstract integro-differential equations,math.FA,"['math.FA', '42B37, 42B20, 42A45, 45N05, 46N20']",[arxiv.Result.Author('Sebastian Król')],"We provide a convenient framework for the study of the well-posedness of a
+variety of abstract (integro)differential equations in general Banach function
+spaces. It allows us to extend and complement the known theory on the maximal
+regularity of such equations.
+  More precisely, by methods of harmonic analysis, we identify large classes of
+Banach spaces which are invariant with respect to distributional Fourier
+multipliers. Such classes include general vector-valued Banach function spaces
+$\Phi$ and/or the scales of Besov and Triebel-Lizorkin spaces defined by
+$\Phi$.
+  We apply this result to the study of the well-posedness and maximal
+regularity property of abstract second-order integro-differential equation,
+which models various types of elliptic and parabolic problems arising in
+different areas of applied mathematics."
+11396,"Near the end of their
+paper [8], A. Alonso and B. Simon also raise the following issue:
+
+       “It seems to us that the Krein extension of −∆, that is, −∆ with the
+       boundary condition (1.53), is a natural object and therefore worthy
+       of further study.","When Ω is smooth and V = 0, MΩ(·) is
+a boundary pseudodiﬀerential operator of order 1, and (1.52) becomes the appro-
+priate rigorous interpretation in a very general geometric setting of the informal
+philosophy, outlined by A. Alonso and B. Simon in [8], asserting that the Krein
+Laplacian is realization of the Laplacian with the non-local boundary condition
+
+                           ∂ν f = ∂νH(f ) on ∂Ω,                             (1.53)
+
+where ∂ν = ν · ∇, with ν denoting the outward unit normal to Ω, is the normal
+directional derivative and, given a suﬃciently nice function f in Ω, the symbol H(f )
+denotes the harmonic extension to Ω of the trace of f on ∂Ω.","For example: Are the asymptotics of its nonzero
+       eigenvalues given by Weyl’s formula?”
+
+In the case where Ω is bounded and C∞-smooth, and V ∈ C∞(Ω), this has been
+shown to be the case three years later by G. Grubb [70].",2022-09-19 17:53:25+00:00,Sharp Boundary Trace Theory and Schrödinger Operators on Bounded Lipschitz Domains,math.FA,"['math.FA', 'math.AP', 'Primary 35J25, 35J40, 35P15, Secondary 35P05, 46E35, 47A10, 47F05']","[arxiv.Result.Author('Jussi Behrndt'), arxiv.Result.Author('Fritz Gesztesy'), arxiv.Result.Author('Marius Mitrea')]","We develop a sharp boundary trace theory in arbitrary bounded Lipschitz
+domains which, in contrast to classical results, allows ""forbidden"" endpoints
+and permits the consideration of functions exhibiting very limited regularity.
+This is done at the (necessary) expense of stipulating an additional regularity
+condition involving the action of the Laplacian on the functions in question
+which, nonetheless, works perfectly with the Dirichlet and Neumann realizations
+of the Schr\""odinger differential expression $-\Delta+V$. In turn, this
+boundary trace theory serves as a platform for developing a spectral theory for
+Schr\""odinger operators on bounded Lipschitz domains, along with their
+associated Weyl-Titchmarsh operators. Overall, this pushes the present state of
+knowledge a significant step further. For example, we succeed in extending the
+Dirichlet and Neumann trace operators in such a way that all self-adjoint
+extensions of a Schr\""odinger operator on a bounded Lipschitz domain may be
+described with explicit boundary conditions, thus providing a final answer to a
+problem that has been investigated for more than 60 years in the mathematical
+literature. Along the way, a number of other open problems are solved. The most
+general geometric and analytic setting in which the theory developed here
+yields satisfactory results is that of Lipschitz subdomains of Riemannian
+manifolds and for the corresponding Laplace-Beltrami operator (in place of the
+standard flat-space Laplacian). In particular, such an extension yields results
+for variable coefficient Schr\""odinger operators on bounded Lipschitz domains."
+11984,"The further research and development about the Morrey spaces
+and weighted Morrey spaces over diﬀerent settings, the readers can see [1, 5, 6, 7, 12,
+21, 22, 23, 24, 25] and the references therein.","In 2009, Komori and Shirai [14] introduced the
+weighted Morrey spaces and study the several properties of classical operators on the
+classical Euclidean space.","In 2020, Chou et al.",2022-10-03 15:30:30+00:00,Bilinear $θ$-type Calderón-Zygmund operators and its commutator on generalized weighted Morrey spaces over RD-spaces,math.FA,"['math.FA', '43A85, 42B20, 42B35']","[arxiv.Result.Author('Suixin He'), arxiv.Result.Author('Shuangping Tao')]","An RD-space $\mathcal{X}$ is a space of homogeneous type in the sense of
+Coifman and Weiss with the additional property that a reverse doubling property
+holds in $\mathcal{X}$. In this setting, the authors establish the boundedness
+of bilinear $\theta$-type Calder\'on-Zygmund operator $T_{\theta}$ and its
+commutator $[b_1,b_2,T_{\theta}]$ generated by the function $b_1,b_2\in
+BMO(\mu)$ and $T_{\theta}$ on generalized weighted Morrey space
+$\mathcal{M}^{p,\phi}(\omega)$ and generalized weighted weak Morrey space
+$W\mathcal{M}^{p,\phi}(\omega)$ over RD-spaces."
+12271,"Open problems
+
+We now list some open questions and directions for further research.","2                 3
+
+                  7.","The reader can ﬁnd additional questions embedded throughout the
+paper.",2022-10-11 03:09:02+00:00,Stable phase retrieval in function spaces,math.FA,"['math.FA', '46B42, 43A46, 42C15']","[arxiv.Result.Author('D. Freeman'), arxiv.Result.Author('T. Oikhberg'), arxiv.Result.Author('B. Pineau'), arxiv.Result.Author('M. A. Taylor')]","Let $(\Omega,\Sigma,\mu)$ be a measure space, and $1\leq p\leq \infty$. A
+subspace $E\subseteq L_p(\mu)$ is said to do stable phase retrieval (SPR) if
+there exists a constant $C\geq 1$ such that for any $f,g\in E$ we have $$
+  \inf_{|\lambda|=1} \|f-\lambda g\|\leq C\||f|-|g|\|. $$
+  In this case, if $|f|$ is known, then $f$ is uniquely determined up to an
+unavoidable global phase factor $\lambda$; moreover, the phase recovery map is
+$C$-Lipschitz. Phase retrieval appears in several applied circumstances,
+ranging from crystallography to quantum mechanics.
+  In this article, we construct various subspaces doing stable phase retrieval,
+and make connections with $\Lambda(p)$-set theory. Moreover, we set the
+foundations for an analysis of stable phase retrieval in general function
+spaces. This, in particular, allows us to show that H\""older stable phase
+retrieval implies stable phase retrieval, improving the stability bounds in a
+recent article of M. Christ and the third and fourth authors. We also
+characterize those compact Hausdorff spaces $K$ such that $C(K)$ contains an
+infinite dimensional SPR subspace."
+12679,"A precise description of the set Sǫ for a general conﬁguration of the intervals E˜, J˜ would
+require further study.","In the case where E˜ = [a1, a2]∪[a2g+1, a2g+2], J˜ = [a3, a4]∪· · ·∪[a2g−1, a2g], g ≥ 2, studied
+in [3], see also Remark 3.6, the set Sǫ with a suﬃciently small ǫ is the horizontal strip |ℑκ| ≤ π
+without small closed neighborhood surrounding each pole κj , κj ± iπ of the solution Ψ˜ (z; κ) of RHP
+3.5.","This study is not carried out in this paper since in Sections 4-5 below we are
+
+interested only in the one interval case, for which Sǫ = {κ ∈ C : |ℑκ| ≤ π, ℜκ ≥ ln(2)}, see Remark
+3.6.",2022-10-18 17:14:27+00:00,Singular limits of certain Hilbert-Schmidt integral operators,math.FA,['math.FA'],"[arxiv.Result.Author('M. Bertola'), arxiv.Result.Author('E. Blackstone'), arxiv.Result.Author('A. Katsevich'), arxiv.Result.Author('A. Tovbis')]","In this paper we study the small-$\lambda$ spectral asymptotics of an
+integral operator $\mathscr{K}$ defined on two multi-intervals $J$ and $E$,
+when the multi-intervals touch each other (but their interiors are disjoint).
+The operator $\mathscr{K}$ is closely related to the multi-interval Finite
+Hilbert Transform (FHT). This case can be viewed as a singular limit of
+self-adjoint Hilbert-Schmidt integral operators with so-called integrable
+kernels, where the limiting operator is still bounded, but has a continuous
+spectral component. The regular case when $\text{dist}(J,E)>0$, and
+$\mathscr{K}$ is of the Hilbert-Schmidt class, was studied in an earlier paper
+by the authors. The main assumption in this paper is that $U=J\cup E$ is a
+single interval. We show that the eigenvalues of $\mathscr{K}$, if they exist,
+do not accumulate at $\lambda=0$. Combined with the results in an earlier paper
+by the authors, this implies that $H_p$, the subspace of discontinuity (the
+span of all eigenfunctions) of $\mathscr{K}$, is finite dimensional and
+consists of functions that are smooth in the interiors of $J$ and $E$. We also
+obtain an approximation to the kernel of the unitary transformation that
+diagonalizes $\mathscr{K}$, and obtain a precise estimate of the exponential
+instability of inverting $\mathscr{K}$. Our work is based on the method of
+Riemann-Hilbert problem and the nonlinear steepest-descent method of Deift and
+Zhou."
+13081,"To sum up, the generalisation of Yosida duality that we provide lifts the Goodearl-Handelman
+characterisation to a functorial and natural representation theorem for the objects in G.
+
+    Either perspective sketched above promptly suggests much further research—for the sake
+of brevity, we do not elaborate.","The proof of the latter statement rests on the fact
+that a-normal spaces satisfy the arithmetic version of Urysohn’s Lemma given by Theorem 6.7.","We do announce one further result driven by considerations
+
+    1As a terminological aside, we remark that Goodearl and Handelman called “norm-complete” those unital
+Archimedean -groups that are complete in the metric (†) induced by their unit.",2022-10-27 11:33:46+00:00,Stone-Gelfand duality for metrically complete lattice-ordered groups,math.FA,"['math.FA', 'math.LO', '06F20 (Primary), 54A05, 54C30 (Secondary)']","[arxiv.Result.Author('Marco Abbadini'), arxiv.Result.Author('Vincenzo Marra'), arxiv.Result.Author('Luca Spada')]","We extend Yosida's 1941 version of Stone-Gelfand duality to metrically
+complete unital lattice-ordered groups that are no longer required to be real
+vector spaces. This calls for a generalised notion of compact Hausdorff space
+whose points carry an arithmetic character to be preserved by continuous maps.
+The arithmetic character of a point is (the complete isomorphism invariant of)
+a metrically complete additive subgroup of the real numbers containing $1$,
+namely, either $\frac{1}{n}\mathbb{Z}$ for an integer $n = 1, 2, \dots$, or the
+whole of $\mathbb{R}$. The main result needed to establish the extended duality
+theorem is a substantial generalisation of Urysohn's Lemma to such ""arithmetic""
+compact Hausdorff spaces. The original duality is obtained by considering the
+full subcategory of spaces whose each point is assigned the entire group of
+real numbers. In the introduction we indicate motivations from and connections
+with the theory of dimension groups."
+13082,"To sum up, the generalisation of Yosida duality that we obtain here strengthens and extends
+Theorem 1.1—without assuming it—to a duality for the category G.
+
+    Either perspective sketched above promptly suggests much further research—for the sake
+of brevity, we do not elaborate.","This is a consequence of the fact that a-normal spaces satisfy
+the arithmetic version of Urysohn’s Lemma given by Theorem 6.7.","We do announce one further result driven by considerations
+of a rather diﬀerent nature from the ones motivating this paper: To within an equivalence of
+
+    1As a terminological aside, we remark that Goodearl and Handelman called “norm-complete” those unital
+Archimedean ℓ-groups that are complete in the metric (†) induced by their unit.",2022-10-27 11:33:46+00:00,Stone-Gelfand duality for metrically complete lattice-ordered groups,math.FA,"['math.FA', 'math.LO', '06F20 (Primary), 54A05, 54C30 (Secondary)']","[arxiv.Result.Author('Marco Abbadini'), arxiv.Result.Author('Vincenzo Marra'), arxiv.Result.Author('Luca Spada')]","We extend Yosida's 1941 version of Stone-Gelfand duality to metrically
+complete unital lattice-ordered groups that are no longer required to be real
+vector spaces. This calls for a generalised notion of compact Hausdorff space
+whose points carry an arithmetic character to be preserved by continuous maps.
+The arithmetic character of a point is (the complete isomorphism invariant of)
+a metrically complete additive subgroup of the real numbers containing $1$,
+namely, either $\frac{1}{n}\mathbb{Z}$ for an integer $n = 1, 2, \dots$, or the
+whole of $\mathbb{R}$. The main result needed to establish the extended duality
+theorem is a substantial generalisation of Urysohn's Lemma to such ""arithmetic""
+compact Hausdorff spaces. The original duality is obtained by considering the
+full subcategory of spaces whose each point is assigned the entire group of
+real numbers. In the introduction we indicate motivations from and connections
+with the theory of dimension groups."
+13985,"Despite its apparently strange construction, which uses an iteration
+method to deﬁne the norm, Tsirelson’s space has turned out to be a re-
+markable springboard for further research.","As a matter of fact, the dual space T ∗ of T is the original space
+constructed by Tsirelson.","It has been studied in many
+diﬀerent settings because it is an important source of examples and
+counterexamples in classical Banach space theory.",2022-11-20 21:29:21+00:00,The structure of greedy-type bases in Tsirelson's space and its convexifications,math.FA,"['math.FA', '46B15 (Primary) 46B20, 46B42, 46B45, 46A16, 46A35, 46A40, 46A45\n  (Secondary) 46B15 (Primary) 46B20, 46B42, 46B45, 46A16, 46A35, 46A40, 46A45\n  (S']","[arxiv.Result.Author('Fernando Albiac'), arxiv.Result.Author('José L. Ansorena')]","Tsirelson's space $\mathcal{T}$ made its appearance in Banach space theory in
+1974 soon to become one of the most significant counterexamples in the theory.
+Its structure broke the ideal pattern that analysts had conceived for a generic
+Banach space, thus giving rise to the era of pathological examples. Since then,
+many authors have contributed to the study of different aspects of this special
+space with an eye on better understanding its idiosyncrasies. In this paper we
+are concerned with the greedy-type basis structure of $\mathcal{T}$, a subject
+that had not been previously explored in the literature. More specifically, we
+show that Tsirelson's space and its convexifications $\mathcal{T}^{(p)}$ for
+$0<p<\infty$ have uncountably many non-equivalent greedy bases. We also
+investigate the conditional basis structure of spaces $\mathcal{T}^{(p)}$ in
+the range of $0<p<\infty$ and prove that they have uncountably many
+non-equivalent conditional almost greedy bases."
+14304,"We recommend research s-quasi-Cauchy sequences of points and fuzzy
+functions in an n-normed fuzzy space as a further study.","We prove that the
+uniform limit of a sequence of s-ward continuous function is s-ward continuous and
+the set of s-ward continuous functions is a closed subset of the set of continuous
+functions.","However, due to the dif-
+ferent structure, the methods of proof will not be similar to the one in this study.",2022-11-29 08:50:12+00:00,A variation of continuity in $n$-normed spaces,math.FA,['math.FA'],[arxiv.Result.Author('Sibel Ersan')],"The s-th forward difference sequence that tends to zero, inspired by the
+consecutive terms of a sequence approaching zero, is examined in this study.
+Functions that take sequences satisfying this condition to sequences satisfying
+the same condition are called s-ward continuous. Inclusion theorems that are
+related to this kind of uniform continuity and continuity are also considered.
+Additionally, the concept of $s$-ward compactness of a subset of $X$ via
+$s$-quasi-Cauchy sequences are investigated. One finds out that the uniform
+limit of any sequence of $s$-ward continuous function is $s$-ward continuous
+and the set of $s$-ward continuous functions is a closed subset of the set of
+continuous functions."
+14305,"Also we recommend investigate s-quasi-Cauchy sequences of double
+sequences in n-normed spaces as another further study (see [17], [18]).","(see [14], [21]).","8  S. ERSAN
+
+                                           Declarations
+
+   Ethical Approval Not applicable
+   Competing interests Not applicable
+   Authors’ contributions Not applicable
+   Funding Not applicable
+   Availability of data and materials Not applicable
+
+                                             References
+
+ [1] A. Malceski, l∞ as n-normed space, Mat.",2022-11-29 08:50:12+00:00,A variation of continuity in $n$-normed spaces,math.FA,['math.FA'],[arxiv.Result.Author('Sibel Ersan')],"The s-th forward difference sequence that tends to zero, inspired by the
+consecutive terms of a sequence approaching zero, is examined in this study.
+Functions that take sequences satisfying this condition to sequences satisfying
+the same condition are called s-ward continuous. Inclusion theorems that are
+related to this kind of uniform continuity and continuity are also considered.
+Additionally, the concept of $s$-ward compactness of a subset of $X$ via
+$s$-quasi-Cauchy sequences are investigated. One finds out that the uniform
+limit of any sequence of $s$-ward continuous function is $s$-ward continuous
+and the set of $s$-ward continuous functions is a closed subset of the set of
+continuous functions."
+15070,"This larger class
+                                          of spaces provides a natural setting for a further study of T beyond the Lp-spaces, as is
+                                          exempliﬁed by two facts.","In [4],
+
+                                          [5], [6], [7] a study of T was undertaken when it acts on rearrangement invariant (r.i.)
+
+                                          spaces X on (−1, 1) having non-trivial Boyd indices 0 < αX ≤ αX < 1.","First, that T : X → X is injective if and only if L2,∞ ⊆ X and
+                                          second, that T : X → X has a non-dense range if and only if X ⊆ L2,1 (for X separable).",2022-12-17 10:20:45+00:00,The finite Hilbert transform acting in the Zygmund space LlogL,math.FA,"['math.FA', 'Primary 44A15, 46E30, Secondary 47A53, 47B34']","[arxiv.Result.Author('Guillermo P. Curbera'), arxiv.Result.Author('Susumu Okada'), arxiv.Result.Author('Werner J. Ricker')]","The finite Hilbert transform T is a singular integral operator which maps the
+Zygmund space $LlogL:=LlogL(-1,1)$ continuously into $L^1:=L^1(-1,1)$. By
+extending the Parseval and Poincar\'e-Bertrand formulae to this setting, it is
+possible to establish an inversion result needed for solving the airfoil
+equation $T(f)=g$ whenever the data function $g$ lies in the range of $T$
+within $L^1$ (shown to contain $LlogL$). Until now this was only known for $g$
+belonging to the union of all $L^p$ spaces with $p>1$. It is established (due
+to a result of Stein) that $T$ cannot be extended to any domain space beyond
+$LlogL$ whilst still taking its values in $L^1$, i.e., $T:LlogL\to L^1$ is
+optimally defined."
+15162,"Secondly, we ﬁnd conditions that guarantee convergence of the
+involved integral constructions and formulate lemmas giving us a tool for further study.","First of all, we consider statements with the necessary reﬁnement caused by the in-
+volved functions, here we should note that a particular case corresponding to a power function
+ϕ was considered by Lidskii [16].","As a
+main result, we prove an existence and uniqueness theorem for an abstract fractional evolution
+equation with the operator function in the second term.",2022-12-20 13:04:31+00:00,Cauchy Problem for an abstract Evolution Equation of fractional order,math.FA,"['math.FA', '47B28, 47A10, 47B12, 47B10, 34K30, 58D25']",[arxiv.Result.Author('Maksim V. Kukushkin')],"In this paper, we define an operator function as a series of operators
+corresponding to the Taylor series representing the function of the complex
+variable. In previous papers, we considered the case when a function has a
+decomposition in the Laurent series with the infinite principal part and finite
+regular part. Our central challenge is to improve this result having considered
+as a regular part an entire function satisfying the special condition of the
+growth regularity. As an application we consider an opportunity to broaden the
+conditions imposed upon the second term not containing the time variable of the
+evolution equation in the abstract Hilbert space."
+15218,"Although we will not proceed along this
+line — it goes beyond the purpose of the present paper — it seems that a possible
+version of the ﬁrst part of Theorem 4.1 involving a pair of distinct jointly uniform
+crossnorm might lead to a promising further research.","(Extending Proposition 3.1 to such a new
+setup seems to be a simple task, but Proposition 3.2 would perhaps require some
+additional, possibly nontrivial, arguments).",5.,2022-12-21 05:33:14+00:00,Restriction of Uniform Crossnorms,math.FA,"['math.FA', '47A80, 46M05']",[arxiv.Result.Author('Carlos S. Kubrusly')],"Consider the space $B[X\otimes_\alpha Y]$ of operators on the tensors product
+${X\otimes_\alpha Y}$ of normed spaces $X$ and $Y$ equipped with a uniform
+crossnorm ${\|\cdot\|_\alpha}$$.$ Take the induced uniform norm on
+$B[X\otimes_\alpha Y]$ and consider its restriction to the tensor product
+${B[X]\otimes B[Y]}$ of the algebra of operators $B[X]$ and $B[Y].$ It is
+proved that such a restriction is a reasonable crossnorm on ${B[X]\otimes
+B[Y]}$."
+15251,"This note concerns a further study about Riesz-Fischer maps, already
+                                                  introduced by the author in a recent work, that is a notion that extends to the spaces
+                                                  of distributions the sequences that are known as Riesz-Fischer sequences.","arXiv:2212.11351v1 [math.FA] 21 Dec 2022       LOWER BOUNDS FOR RIESZ-FISCHER MAPS IN RIGGED
+                                                                                 HILBERT SPACES
+
+                                                                                         FRANCESCO TSCHINKE
+
+                                                  Abstract.","In partic-
+                                                  ular it is proved a characterizing inequality that have as consequence the existence
+                                                  of the continuous inverse of the synthesis operator.",2022-12-21 20:43:27+00:00,Lower bounds for Riesz-Fischer maps in rigged Hilbert spaces,math.FA,"['math.FA', '42C15, 47A70, 46Fxx']",[arxiv.Result.Author('Francesco Tschinke')],"This note concerns a further study about Riesz-Fischer maps, already
+introduced by the author in a recent work, that is a notion that extends to the
+spaces of distributions the sequences that are known as Riesz-Fischer
+sequences. In particular it is proved a characterizing inequality that have as
+consequence the existence of the continuous inverse of the synthesis operator."
+15252,"that is x → f |Fx is µ-measurable for every f ∈ H;
+       • there exists A, B > 0 such that:
+
+                          A f 2 ≤ | f |Fx |2dµ ≤ B f 2, ∀f ∈ H.
+
+                                                        X
+
+   In [19], C. Trapani, S. Triolo and the author have extended the notion of frames,
+and related topics as Bessel, bases, Riesz basis, etc., to the spaces of distributions; in
+[20] and [9] a further study has be done respectively for Riesz-Fischer sequences and
+multipliers.","This map is called continuous frame with respect to (X, µ) if:
+
+       • F is weakly measurable, i.e.","An appropriate framework for the spaces of distributions is given by the rigged Hilbert
+space i.e.",2022-12-21 20:43:27+00:00,Lower bounds for Riesz-Fischer maps in rigged Hilbert spaces,math.FA,"['math.FA', '42C15, 47A70, 46Fxx']",[arxiv.Result.Author('Francesco Tschinke')],"This note concerns a further study about Riesz-Fischer maps, already
+introduced by the author in a recent work, that is a notion that extends to the
+spaces of distributions the sequences that are known as Riesz-Fischer
+sequences. In particular it is proved a characterizing inequality that have as
+consequence the existence of the continuous inverse of the synthesis operator."
+15253,"So, it would
+be appropriate to carry on a further study, started in [19], about the transformations
+between Gal’fand basis, Bessel, Riesz-Fischer maps, distribution frames, and Riesz
+distribution basis.","Since
+in the spaces of distributions the orthonormality is not deﬁned, a sort of ”orthonormal
+basis” is played by the Gel’fand basis: see [19] and [20, Deﬁnition 5.3].","Acknowledgments
+
+   This work has been realized within of the activities of Gruppo UMI Teoria del-
+l’Approssimazione e Applicazioni and Gruppo Nazionale per l’Analisi Matematica, la
+Probabilit`a e le loro Applicazioni (GNAMPA) of the Istituto Nazionale di Alta Matem-
+atica (INdAM).",2022-12-21 20:43:27+00:00,Lower bounds for Riesz-Fischer maps in rigged Hilbert spaces,math.FA,"['math.FA', '42C15, 47A70, 46Fxx']",[arxiv.Result.Author('Francesco Tschinke')],"This note concerns a further study about Riesz-Fischer maps, already
+introduced by the author in a recent work, that is a notion that extends to the
+spaces of distributions the sequences that are known as Riesz-Fischer
+sequences. In particular it is proved a characterizing inequality that have as
+consequence the existence of the continuous inverse of the synthesis operator."
+15398,"There are many opportunities for further research on how this
+may be quantiﬁed and how diﬀerent Banach space geometry allows for more reﬁned perturbation
+estimates.","In [CDFF][CPT][FOPT], stable phase retrieval is studied for inﬁnite dimensional subspaces
+of Banach lattices, and the problem of how stability of phase retrieval is aﬀected by perturbations
+is considered in Section 4 of [FOPT].","We hope that this paper provides some inspiration to further study the relationship
+between perturbation and the stability of phase retrieval.",2022-12-28 03:33:33+00:00,Stable phase retrieval and perturbations of frames,math.FA,"['math.FA', 'cs.NA', 'math.NA', '42C15, 46T20, 49N45']","[arxiv.Result.Author('Wedad Alharbi'), arxiv.Result.Author('Daniel Freeman'), arxiv.Result.Author('Dorsa Ghoreishi'), arxiv.Result.Author('Claire Lois'), arxiv.Result.Author('Shanea Sebastian')]","A frame $(x_j)_{j\in J}$ for a Hilbert space $H$ is said to do phase
+retrieval if for all distinct vectors $x,y\in H$ the magnitude of the frame
+coefficients $(|\langle x, x_j\rangle|)_{j\in J}$ and $(|\langle y,
+x_j\rangle|)_{j\in J}$ distinguish $x$ from $y$ (up to a unimodular scalar). A
+frame which does phase retrieval is said to do $C$-stable phase retrieval if
+the recovery of any vector $x\in H$ from the magnitude of the frame
+coefficients is $C$-Lipschitz. It is known that if a frame does stable phase
+retrieval then any sufficiently small perturbation of the frame vectors will do
+stable phase retrieval, though with a slightly worse stability constant. We
+provide new quantitative bounds on how the stability constant for phase
+retrieval is affected by a small perturbation of the frame vectors. These
+bounds are significant in that they are independent of the dimension of the
+Hilbert space and the number of vectors in the frame."
+15399,"We hope that this paper provides some inspiration to further study the relationship
+between perturbation and the stability of phase retrieval.","There are many opportunities for further research on how this
+may be quantiﬁed and how diﬀerent Banach space geometry allows for more reﬁned perturbation
+estimates.","4 WEDAD ALHARBI, DANIEL FREEMAN, DORSA GHOREISHI, CLAIRE LOIS, AND SHANEA SEBASTIAN
+
+   Note that in this paper we are considering only the stability of the recovery map |Θx| → [x]∼,
+and not how to implement it.",2022-12-28 03:33:33+00:00,Stable phase retrieval and perturbations of frames,math.FA,"['math.FA', 'cs.NA', 'math.NA', '42C15, 46T20, 49N45']","[arxiv.Result.Author('Wedad Alharbi'), arxiv.Result.Author('Daniel Freeman'), arxiv.Result.Author('Dorsa Ghoreishi'), arxiv.Result.Author('Claire Lois'), arxiv.Result.Author('Shanea Sebastian')]","A frame $(x_j)_{j\in J}$ for a Hilbert space $H$ is said to do phase
+retrieval if for all distinct vectors $x,y\in H$ the magnitude of the frame
+coefficients $(|\langle x, x_j\rangle|)_{j\in J}$ and $(|\langle y,
+x_j\rangle|)_{j\in J}$ distinguish $x$ from $y$ (up to a unimodular scalar). A
+frame which does phase retrieval is said to do $C$-stable phase retrieval if
+the recovery of any vector $x\in H$ from the magnitude of the frame
+coefficients is $C$-Lipschitz. It is known that if a frame does stable phase
+retrieval then any sufficiently small perturbation of the frame vectors will do
+stable phase retrieval, though with a slightly worse stability constant. We
+provide new quantitative bounds on how the stability constant for phase
+retrieval is affected by a small perturbation of the frame vectors. These
+bounds are significant in that they are independent of the dimension of the
+Hilbert space and the number of vectors in the frame."

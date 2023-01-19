@@ -1,0 +1,1824 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+102,"As a basis of further research, this study is to examine the transportation property of
+an active particle with self-aligning property [22, 23] moving in a semi-conﬁne tube and
+thus interact with space varying circumstances.","In other words, the question is what properties are universal and when speciﬁc
+mechanisms dominate their behavior.","The remainder of this paper is organized as
+follows.",2022-01-04 13:00:09+00:00,Anomalous diffusion of self-align active particle in flow background,cond-mat.soft,"['cond-mat.soft', 'physics.bio-ph', 'physics.data-an']","[arxiv.Result.Author('Ze-Hao Chen'), arxiv.Result.Author('Zhi-Xi Wu')]","Active particles (i.e., self-propelled particles or called microswimmers),
+different from passive Brownian particles, possess more complicated
+translational and angular dynamics, which can generate a series of anomalous
+transport phenomena. In this letter, we study the two-dimensional dynamics of a
+self-propelled pointlike particle with self-aligning property moving in
+Poiseuille flow. The results show the effective anomalous diffusion coefficient
+changes sharply with the change of temperature and speed of background
+Poiseuille flow. The relaxation property of moving speed and the position
+probability distribution function of particles is also obtained. The
+observation of several types of anomalous diffusion and normal diffusion regime
+indicates the self-aligning property may be universal and can be used as a
+reference for future experiments analysis and modeling.",-0.06706312,0.10227153,0.23902038,C
+219,"These fundamental progresses readily set the stage
+for the further research of temperature-modulated photomechanical actuation of photoactive LCEs, which
+is the goal of the current work.","We have also recently established a
+continuum framework that incorporates various micro-to-mesoscale processes to investigate
+photomechanical coupling in photoactive LCEs [27].","This paper constructs a theoretical model to investigate temperature-modulated photomechanical
+actuation of a photoactive LCE for the first time.",2022-01-07 04:35:06+00:00,Temperature-Modulated Photomechanical Actuation of Photoactive Liquid Crystal Elastomers,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Zhengxuan Wei'), arxiv.Result.Author('Ruobing Bai')]","Photoactive liquid crystal elastomers are polymer networks of liquid crystal
+mesogens embedded with chromophores like azobenzene. They undergo large
+deformation when illuminated by light of a certain wavelength through
+photochemical reaction, inspiring exciting new applications. However, despite
+the recent progresses in both the experiment and theory of these materials, the
+fundamental understanding of the temperature effect on their photomechanical
+actuation through various molecular-to-mesoscale processes have remained
+largely unexplored. This paper constructs a theoretical model to investigate
+this temperature-modulated photomechanical actuation, by integrating different
+temperature-dependent processes into a continuum framework. The model studies a
+special working condition where the material is subjected to a uniaxial tensile
+load, a prescribed temperature, and a polarized light illumination. We explore
+the free energy landscape of the system and the uniaxial stress-stretch
+responses under various conditions. We exploit the coupling between individual
+controls of temperature and light in a single photomechanical actuation for
+several working scenarios, including the temperature-modulated photomechanical
+snap-through instability, specific work, and blocking stress. We study the
+effect of the temperature-dependent backward isomerization of chromophores on
+the photomechanical actuation. These results are hoped to motivate future
+fundamental studies and new applications of various photomechanical material
+systems.",-0.0036394517,0.032285333,0.21232817,A
+334,"The cluster size         tactic cluster formation, the inﬂuence of chemical ﬁelds
+has a maximum at a ﬁnite torque that is close but below        needs further study.","Thus, while we have
+tion within the clusters decreases with increasing torque      identiﬁed the generic hydrodynamic mechanism of gyro-
+and the clusters become more compact.","the value where the vorticity-induced rotation of touching
+neighbors can be balanced.",2022-01-10 14:20:20+00:00,Gyrotactic cluster formation of bottom-heavy squirmers,cond-mat.soft,"['cond-mat.soft', 'physics.flu-dyn']","[arxiv.Result.Author('Felix Rühle'), arxiv.Result.Author('Arne W. Zantop'), arxiv.Result.Author('Holger Stark')]","Squirmers that are bottom-heavy experience a torque that aligns them along
+the vertical so that they swim upwards. In a suspension of many squirmers, they
+also interact hydrodynamically via flow fields that are initiated by their
+swimming motion and by gravity. Swimming under the combined action of flow
+field vorticity and gravitational torque is called gyrotaxis. Using the method
+of multi-particle collision dynamics, we perform hydrodynamic simulations of a
+many-squirmer system floating above the bottom surface. Due to gyrotaxis they
+exhibit pronounced cluster formation with increasing gravitational torque. The
+clusters are more volatile at low values but compactify to smaller clusters at
+larger torques. The mean distance between clusters is mainly controlled by the
+gravitational torque and not the global density. Furthermore, we observe that
+neutral squirmers form clusters more easily, whereas pullers require larger
+gravitational torques due to their additional force-dipole flow fields. We do
+not observe clustering for pusher squirmers. Adding a rotlet dipole to the
+squirmer flow field induces swirling clusters. At high gravitational strengths,
+the hydrodynamic interactions with the no-slip boundary create an additional
+vertical alignment for neutral squirmers, which also supports cluster
+formation.",0.031053612,0.031063534,0.06902738,C
+526,"83
+
+Bibliography                                           84
+                                                                                                                    1
+
+Chapter 1
+
+Introduction
+
+Since the mainstream adoption of Machine Learning (ML) methods on common tasks
+such as object recognition, computer vision, and human-computer interactions [LBH15],
+scientists have tried to adopt most of these techniques to further research in their
+respective ﬁelds.",.,"From drug development [RKD20] to genetics and biotechnology [LN15],
+multiple applications of ML to current research problems have seen widespread interest
+for their generalization and automatic discovery attributes.",2021-11-17 20:57:32+00:00,Using Computational Intelligence for solving the Ornstein-Zernike equation,cond-mat.soft,"['cond-mat.soft', 'cs.LG']",[arxiv.Result.Author('Edwin Bedolla')],"The main goal of this thesis is to provide an exploration of the use of
+computational intelligence techniques to study the numerical solution of the
+Ornstein-Zernike equation for simple liquids. In particular, a continuous model
+of the hard sphere fluid is studied. There are two main proposals in this
+contribution. First, the use of neural networks as a way to parametrize closure
+relation when solving the Ornstein-Zernike equation. It is explicitly shown
+that in the case of the hard sphere fluid, the neural network approach seems to
+reduce to the so-called Hypernetted Chain closure. For the second proposal, we
+explore the fact that if more physical information is incorporated into the
+theoretical formalism, a better estimate can be obtained with the use of
+evolutionary optimization techniques. When choosing the modified Verlet closure
+relation, and leaving a couple of free parameters to be adjusted, the results
+are as good as those obtained from molecular simulations. The thesis is then
+closed with a brief summary of the main findings and outlooks on different ways
+to improve the proposals presented here.",-0.12690453,0.6986979,-0.47984207,C
+527,"82
+
+Bibliography                                           83
+                                                                                                                    1
+
+Chapter 1
+
+Introduction
+
+Since the mainstream adoption of Machine Learning (ML) methods on common tasks
+such as object recognition, computer vision, and human-computer interactions [LBH15],
+scientists have tried to adopt most of these techniques to further research in their
+respective ﬁelds.",.,"From drug development [RKD20] to genetics and biotechnology [LN15],
+multiple applications of ML to current research problems have seen widespread interest
+for their generalization and automatic discovery attributes.",2021-11-17 20:57:32+00:00,Using Computational Intelligence for solving the Ornstein-Zernike equation,cond-mat.soft,"['cond-mat.soft', 'cs.LG']",[arxiv.Result.Author('Edwin Bedolla')],"The main goal of this thesis is to provide an exploration of the use of
+computational intelligence techniques to study the numerical solution of the
+Ornstein-Zernike equation for simple liquids. In particular, a continuous model
+of the hard sphere fluid is studied. There are two main proposals in this
+contribution. First, the use of neural networks as a way to parametrize closure
+relation when solving the Ornstein-Zernike equation. It is explicitly shown
+that in the case of the hard sphere fluid, the neural network approach seems to
+reduce to the so-called Hypernetted Chain closure. For the second proposal, we
+explore the fact that if more physical information is incorporated into the
+theoretical formalism, a better estimate can be obtained with the use of
+evolutionary optimization techniques. When choosing the modified Verlet closure
+relation, and leaving a couple of free parameters to be adjusted, the results
+are as good as those obtained from molecular simulations. The thesis is then
+closed with a brief summary of the main findings and outlooks on different ways
+to improve the proposals presented here.",-0.1286324,0.6993575,-0.47833508,C
+534,"To further study the response of the Ni flakes to rotating magnetic fields, a
+precessing angle 𝛼 was added to the rotating magnet.","3.2| Response of Ni flakes under magnetic fields rotating with a precessing angle
+(𝜽𝑩𝟎 = 𝟗𝟎° − 𝜶, 𝚽𝑩𝟎 = 𝒄𝒔𝒕).","The in-plane orientations of the
+flakes Φ!",2021-12-27 11:24:43+00:00,Magnetically driven in-plane modulation of the 3D orientation of vertical ferromagnetic flakes,cond-mat.soft,"['cond-mat.soft', 'cond-mat.mtrl-sci', 'physics.app-ph']","[arxiv.Result.Author('Hortense Le Ferrand'), arxiv.Result.Author('Andres F. Arrieta')]","External magnetic fields are known to attract and orient magnetically
+responsive colloidal particles. In the case of 2D microplatelets, rotating
+magnetic fields are typically used to orient them parallel to each other in a
+brick-and-mortar fashion. Thanks to this microstructure, the resulting
+composites achieve enhanced mechanical and functional properties. However,
+parts with complex geometry require their microstructure to be specifically
+tuned and controlled locally in 3D. Although the tunability of the
+microstructure along the vertical direction has already been demonstrated using
+magnetic orientation combined with sequential or continuous casting,
+controlling the particle orientation in the horizontal plane in a fast and
+effective fashion remains challenging. Here, we propose to use rotating
+magnetic arrays to control the in-plane orientation of ferromagnetic Nickel
+flakes distributed in uncured polymeric matrices. We experimentally studied the
+orientation of the flakes in response to magnets rotating at various
+frequencies and precessing angles. Then, we used COMSOL to model the magnetic
+field from rotating magnetic arrays and predicted the resulting in-plane
+orientations. To validate the approach, we created composites with locally
+oriented flakes. This work could initiate reverse-engineering methods to design
+the microstructure in composite materials with intricate geometrical shapes for
+structural or functional applications.",-0.056737825,0.06214153,-0.022527803,A
+705,"Without further study, it is uneasy to determine the cause of
+                                                                                                  9
+
+(a)                  c (m s−1)                                       (b)                α (Np/m)
+    14                                                                   14
+     7                         1,520                                      7                 10
+     00                        1,515                                      00
+                               1,510
+                   30
+       y (mm)                                                                               9
+                                                               y (mm)                       8
+                                                                                            7
+                                                                                            6
+         10 20                                                                10 20     30
+           x (mm)                                                               x (mm)
+
+FIG.",with higher attenuation in a rather homogeneous background.,10.,2022-01-18 10:41:17+00:00,Acoustic monitoring of the gelation of a colloidal suspension,cond-mat.soft,"['cond-mat.soft', 'physics.app-ph', 'physics.chem-ph']","[arxiv.Result.Author('Nicolas Bélicard'), arxiv.Result.Author('Marc Junior Niémet-Mabiala'), arxiv.Result.Author('Jean-Noël Tourvieille'), arxiv.Result.Author('Pierre Lidon')]","Because they are sensitive to mechanical properties of materials and can
+propagate even in opaque systems, acoustic waves provides us with a powerful
+characterization tool in numerous fields. Common techniques mostly rely on
+time-of-flight measurements and do not exploit the spectral content: however,
+sound speed and attenuation spectra contain rich information. Such an acoustic
+spectroscopy already exists and allows to retrieve subtle information on
+systems of well-known physico-chemistry, but modeling becomes out of reach for
+industrial systems. In this article, we use a simple empirical approach to
+monitor the gelation of silica suspensions: we show that the gelation time
+obtained from acoustic measurements is proportional to this determined with
+more conventional rheological characterization. Such a results thus opens the
+way for in-situ monitoring of time-evolving systems in industrial context with
+acoustic methods only.",-0.16087227,-0.21188411,-0.10276218,A
+976,"0.5% Jaguar HP 120 COS             ×                        ×                                  ×
+
+1% Jaguar HP 120 COS
+
+1.5% Jaguar HP 120 COS
+
+topical products has not received signiﬁcant attention to      with consumer perception of, amongst other things, ‘stick-
+date, and deserves further study.","1.5% Sepimax Zen
+                                                                                               ?",iness on lips’ and ‘stickiness in mouth’.,2022-01-24 23:46:44+00:00,Rheological design of thickened alcohol-based hand rubs,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Andreia F Silva'), arxiv.Result.Author('Tiffany A Wood'), arxiv.Result.Author('Daniel J M Hodgson'), arxiv.Result.Author('John R Royer'), arxiv.Result.Author('Job H J Thijssen'), arxiv.Result.Author('Alex Lips'), arxiv.Result.Author('Wilson C K Poon')]","The handleability and sensory perception of hand sanitisers by consumers
+affect the hygiene outcome. Spillage may result in under-dosing and poor
+sensory properties can lead to under-utilisation. We propose principles for
+designing the rheology of thickened alcohol-based hand rubs with acceptable
+handleability and hand feel, and evaluate a commercial hand gel and a variety
+of simplified microgel- or linear polymer-based formulations against these
+design criteria. Both the linear polymer and microgel additives can prevent run
+off and ensure handleability at low shear rates, with the microgels also
+conferring a finite yield stress. The polymer additives enable formulations
+with acceptable handleability without a yield stress, but can also result in
+'sticky' formulations which may have a less optimal hand feel.",-0.1452818,0.195322,-0.40041786,A
+977,"This aspect of the triborheology of this and other
+                                                              0 .3 5 % C a rb o p o l 9 7 4 P         topical products has not received signiﬁcant attention to
+                                                                                                      date, and deserves further study.","Springer Nature 2021 LATEX template
+
+8 Rheological design of thickened alcohol-based hand rubs
+
+                                                              P u r e ll                                  Finally, we have drawn attention to the potential im-
+                                                                                                      portance of ﬁlm stability during the rubbing-down of
+           101          α= 0 .8                               0 .2 5 % C a rb o p o l 9 7 4 P         ABHS.","0 .5 % C a rb o p o l 9 7 4 P
+
+                                                              0 .2 5 % C a r b o p o l U ltr e z 2 0
+
+                                                              0 .3 5 % C a r b o p o l U ltr e z 2 0
+
+                                                              0 .5 % C a r b o p o l U ltr e z 2 0
+
+η(P a s )  100
+
+           1 0 -1       0 .5 % S e p im a x Z e n                                                     Conﬂicts of interest
+                        1 % S e p im a x Z e n
+                                                                                                      There are no conﬂicts to declare.",2022-01-24 23:46:44+00:00,Rheological design of thickened alcohol-based hand rubs,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Andreia F Silva'), arxiv.Result.Author('Tiffany A Wood'), arxiv.Result.Author('Daniel J M Hodgson'), arxiv.Result.Author('John R Royer'), arxiv.Result.Author('Job H J Thijssen'), arxiv.Result.Author('Alex Lips'), arxiv.Result.Author('Wilson C K Poon')]","The handleability and sensory perception of hand sanitisers by consumers
+affect the hygiene outcome. Spillage may result in under-dosing and poor
+sensory properties can lead to under-utilisation. We first propose four
+principles (low run off, spreadability, smoothness and non-stickiness) for
+designing the rheology of thickened alcohol-based hand rubs with acceptable
+handleability and hand feel. We then evaluate a commercial hand gel and a
+variety of simplified formulations thickened with microgels (Carbopol 974P,
+Carbopol Ultrez 20 and Sepimax Zen), or linear polymers (Jaguar HP 120 COS),
+and evaluate them against these design criteria. All four additives provide
+acceptable spreadability by shear thinning to $\eta \approx 10^{-1} Pa \, s$ at
+$\dot\gamma \sim 10^3 s^{-1}$. Either the finite yield stress conferred by the
+microgels ($\sigma_y \gtrsim 10 Pa$) or the increase in low-shear viscosity
+provided by the linear polymer ($\eta \gtrsim 1 Pa \, s$ at $\dot\gamma
+\lesssim 0.1 s^{-1}$) give rise to acceptably low run-off. However, the
+formulation using the linear polymer shows a filament breakage time of
+$\tau_{\rm b} \approx 1 s$ in capillary rheology, which may result in
+stickiness and therefore a less than optimal hand feel.",-0.022375297,-0.12463371,-0.33638585,B
+978,"This property of excess wing would be interesting for
+further study by the molecular dynamics simulations using the swap Monte Carlo algorithm to
+investigate in the future.","In glass-formers where the JG -relaxation is not
+resolved and appears as excess wing, it was found that essentially the combination of the -loss
+peak and the excess wing remain unchanged in shape to variations of T and P while (T,P) is kept
+constant (see Ref.17 and references therein).","7
+                                                    References
+[1] Benjamin Guiselin, Camille Scalliet, and Ludovic Berthier, arXiv:2103.01569 (2021).",2022-01-25 00:43:28+00:00,On the location of the excess wing relative to the a-loss peak in the susceptibility spectra from simulations with the swap Monte Carlo algorithm,cond-mat.soft,['cond-mat.soft'],[arxiv.Result.Author('K. L. Ngai')],"An advance was made by Guiselin et al. [arXiv:2103.01569 (2021)] in molecular
+dynamics simulations of the equilibrium dynamics of supercooled liquids near
+the experimental glass transition by utilizing the giant equilibration speedup
+provided by the swap Monte Carlo algorithm. The found emergence of a power law
+in relaxation spectra at lower temperatures on the high frequency flank of the
+alpha-loss peak in analogy to the excess wings observed experimentally in
+molecular glass-formers. Their remarkable finding leads to the question of
+where the excess wing is located relative to the alpha-loss peak in the
+susceptibility spectrum. I provide an answer by identifying the excess wing as
+the unresolved Johari-Goldstein (JG) b-relaxation and using the reciprocal of
+its relaxation time tau_JG to assess the location of the excess wing. The
+Coupling Model (CM) has a history of being successful in determining
+approximately the values of tau_JG(T) in molecular liquids whether the JG
+beta-relaxation is resolved or not (i.e., excess wing). It is applied to the
+simulation data and the results of tau_JG(T) successfully account for the
+locations of the excess wings in the simulation spectra at different
+temperatures. The time evolution of the dynamics of the distribution of
+processes composing the JG b-relaxation suggested by the CM based on
+experimental data in molecular glass-formers are in agreement with that given
+by Guiselin et al. from simulations of a size-polydisperse mixture of N soft
+spheres interacting with a repulsive power law pair potential. The agreement
+brings their results closer to experimental data of real molecular
+glass-formers.",-0.035467986,-0.15491354,0.096528806,A
+1544,"A more precise study of the relevant shape variations, beyond the scope of the model surfaces
+examined here, warrants further study.","It is clear that in a similar
+experimental system as for cooled emulsion droplets, as in spherical droplets faceting eﬀects will become important
+where there are defects.","13
+
+                                                          d
+                                                                        0
+                                                                                   rsub
+
+FIG.",2022-02-04 14:51:03+00:00,Effects of orientational order on modulated cylindrical interfaces,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Jason Klebes'), arxiv.Result.Author('Paul S. Clegg'), arxiv.Result.Author('R. M. L. Evans')]","Cylindrical interfaces occur in sheared or deformed emulsions and as
+biological or technological lipid monolayer or bilayer tubules. Like the
+corresponding spherical droplets and vesicles, these cylinder-like surfaces may
+host orientaional order with $n$-fold rotational symmetry, for example in the
+positions of lipid molecules or of spherical nanoparticles. We examine how that
+order interacts with and induces shape modulations of cylindrical interfaces.
+While on spherical droplets $2n$ topological defects necessarily exist and can
+induce icosahedral droplet shapes, the cylindrical topology is compatible with
+a defect-free patterning. Nevertheless, once a modulation is introduced by a
+mechanism such as spontaneous curvature, nontrivial patterns of order,
+including ones with excess defects, emerge and have nonlinear effects on the
+shape of the tube. Examining the equilibrium energetics of the system
+analytically and with a lattice-based Markov chain Monte Carlo simulation, we
+predict low-temperature morphologies of modulated cylindrical interfaces
+hosting orientational order. A shape modulation induces a banded pattern of
+alternatingly isotropic and ordered interfacial material. Furthermore
+cylindrical systems can be divided into Type I, without defects, and Type II,
+which go through a spectrum of defect states with up to $4n$ excess defects.
+The character of the curvature-induced shape transition from unmodulated to
+modulated cylinders is continuous or discontinuous accordingly.",0.2978024,-0.09505816,-0.22147846,B
+1545,"A more precise
+study of the relevant shape variations, beyond the scope of the model surfaces examined
+here, warrants further study.","It is clear that in a similar experimental system as for cooled emulsion droplets, as in spherical
+droplets faceting eﬀects will become important where there are defects.","22
+   Representing order of particles and ﬂexible interfaces simultaneously in simulation is an
+ongoing challenge.",2022-02-04 14:51:03+00:00,Effects of orientational order on modulated cylindrical interfaces,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Jason Klebes'), arxiv.Result.Author('Paul S. Clegg'), arxiv.Result.Author('R. M. L. Evans')]","Cylindrical interfaces occur in sheared or deformed emulsions and as
+biological or technological lipid monolayer or bilayer tubules. Like the
+corresponding spherical droplets and vesicles, these cylinder-like surfaces may
+host orientaional order with $n$-fold rotational symmetry, for example in the
+positions of lipid molecules or of spherical nanoparticles. We examine how that
+order interacts with and induces shape modulations of cylindrical interfaces.
+While on spherical droplets $2n$ topological defects necessarily exist and can
+induce icosahedral droplet shapes, the cylindrical topology is compatible with
+a defect-free patterning. Nevertheless, once a modulation is introduced by a
+mechanism such as spontaneous curvature, nontrivial patterns of order,
+including ones with excess defects, emerge and have nonlinear effects on the
+shape of the tube. Examining the equilibrium energetics of the system
+analytically and with a lattice-based Markov chain Monte Carlo simulation, we
+predict low-temperature morphologies of modulated cylindrical interfaces
+hosting orientational order. A shape modulation induces a banded pattern of
+alternatingly isotropic and ordered interfacial material. Furthermore
+cylindrical systems can be divided into Type I, without defects, and Type II,
+which go through a spectrum of defect states with up to $4n$ excess defects.
+The character of the curvature-induced shape transition from unmodulated to
+modulated cylinders is continuous or discontinuous accordingly.",0.3352691,-0.034177132,-0.15522078,B_centroid
+1797,"In the future,
+we will further study the inﬂuence of such factors.","In the present paper, we didn’t consider the dielectric discontinuity eﬀects, the ﬂexibility
+of the polyelectrolyte chains, and the multipole interactions in the system.","To treat such systems, we can use not
+only our approach but also Molecular Dynamics Simulation [65] and Classical Fluid Density
+Functional Theory approaches [66].",2022-02-10 05:42:56+00:00,Ion size effect on electrostatic and electroosmotic properties in soft nanochannels with pH-dependent charge density,cond-mat.soft,"['cond-mat.soft', 'physics.chem-ph']","[arxiv.Result.Author('Jun-Sik Sin'), arxiv.Result.Author('Un-Hyok Kim')]","We report a theoretical study of ion size effect on various properties in a
+soft nanochannel with pH-dependent charge density. We develop a free energy
+based mean-field theory taking into account ion size as well as pH-dependence
+of charged polyelectrolyte layer grafted on a rigid surface in an electrolyte.
+The influence of ion size on properties in a soft nanochannel is evaluated by
+numerically calculating ion number densities and electrostatic potential. We
+demonstrate that unlike in point-like ions, for finite sizes of ions, a uniform
+distribution of chargeable sites within the polyelectrolyte layer causes
+unphysical discontinuities in ion number densities not only for hydrogen ion
+but also for other kinds of ions. It is shown that the same cubic spatial
+distribution of chargeable sites as for point-like ions is necessary to ensure
+continuity of ion number density and zero ion transport at the polyelectrolyte
+layer - rigid solid interface. We find that considering finite ion size causes
+an increase in electrostatic potential and electroosmotic velocity and a
+decrease in ion number densities. More importantly, we demonstrate that in
+polyelectrolyte layer, pH-dependence of polyelectrolyte charge density makes
+accumulation of hydrogen ions stronger than for the other positive ion species
+in the electrolyte and such a tendency is further enhanced by considering
+finite ion size. In addition, we discuss how consideration of finite ion size
+affects the role of various parameters on electrostatic and electroosmotic
+properties.",0.032002617,-0.16259442,0.13254772,A
+1892,"The dimensionless parameters are identiﬁed from Table
+1 by A∗ = 0.67, B∗ = 0.7, and β ≈ 1.
+
+further study on the competition between surface wrinkles and interfacial ones.",Figure 10: Swelling-induced surface instabilities for sample sp5.,"Furthermore, a winkle
+to crease transition and a wrinkle to period-doubling transition were seen.",2022-02-12 14:30:19+00:00,An experimental study of morphological formation in bilayered tubular structures driven by swelling/growth,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Rui-Cheng Liu'), arxiv.Result.Author('Lishuai Jin'), arxiv.Result.Author('Zongxi Cai'), arxiv.Result.Author('Yang Liu')]","This paper presents an experimental investigation on pattern formation and
+evolution in bilayered tubular organs using swelling deformation of
+polydimethylsiloxane (PDMS) and aims at supplying a thorough comparison with
+theoretical and finite element results. To create a twin model in modelling and
+simulation, the shear modulus in the incompressible neo-Hookean material is
+estimated via uni-axial tensile and pure shear tests. Five bilayered tubes with
+different material or geometrical parameters are fabricated. Swelling
+experiments are carried out for these samples in an individual experimental
+setup where a plane-strain deformation is guaranteed, and several surface
+patterns and the associated mode transformations are observed, namely, creases,
+wrinkles, period-doubling profiles, wrinkle-to-crease transition, and
+wrinkle-to-period-doubling transition. In particular, an interfacial wrinkling
+pattern is also observed. To make comparisons, a buckling analysis is conducted
+within the framework of finite elasticity by means of the Stroh formulation. In
+addition, a finite element analysis is performed to trace the evolution of
+surface instabilities. It turns out that the experimental findings agree well
+with the theoretical predictions as well as the finite element results. From
+our experiments, it is found that creasing mode may appear instead of wrinkling
+mode when both layers share a similar mechanical property. It is expected that
+the current work could provide novel experimental insight into pattern
+formation in tubular structures, and the good agreement among experimental,
+theoretical, and simulation consequences supplies strong evidence that a
+phenomenological growth model is satisfactory to reveal mechanisms behind
+intricate surface morphology in tubular tissues.",0.121222466,-0.13908048,-0.17009464,B
+1894,"Together, these form a symplectic foliation of the
+tive matter, even at non-linear order, which appears to      dynamical state-space, thereby reducing the problem to
+be a rich area for further research.","This implies a certain non-trivial    harmonic Hamiltonian with activity dependent frequen-
+ubiquity of Poissonian dynamics within the ﬁeld of ac-       cies.",The recurrence of       one of Hamiltonian dynamics.,2022-02-12 16:58:52+00:00,Overdamped Lattice Dynamics of Sedimenting Active Cosserat Crystals,cond-mat.soft,"['cond-mat.soft', 'physics.class-ph']","[arxiv.Result.Author('Austen Bolitho'), arxiv.Result.Author('Ronojoy Adhikari')]","Micropolar active matter requires for its kinematic description both
+positional and orientational degrees of freedom. Activity generates dynamic
+coupling between these kinematic variables that are absent in micropolar
+passive matter, such as the oriented crystals first studied by the Cosserat
+brothers. Here we study the effect of uniaxial activity on the dynamics of an
+initially crystalline state of spheroidal colloids sedimenting slowly in a
+viscous fluid remote from confining boundaries. Despite frictional overdamping
+by the fluid, the crystalline lattice admits traveling waves of position and
+orientation. At long wavelengths these obey a vector wave equation with Lam\'e
+constants determined by the activity. We find that at least one polarization
+mode of these waves is always unstable, leading to the melting of the crystal.
+These results are elucidated by identifying an odd-dimensional Poisson
+structure consisting of a Hamiltonian and an associated Casimir invariant,
+where linear combinations of position and orientation are identified as
+conjugate variables. Our results suggest that Poisson structures may exist
+generally for active particles in slow viscous flow and thereby allow
+equilibrium arguments to be applied in the presence of these dissipative
+systems.",-0.29258174,-0.13883328,0.21020272,A
+1959,"2                                             100
+   To further study the velocity dependence of the fric-
+                                                                              1                                             50
+tion, we next consider the position-averaged friction Γ (v)
+[Eq.","Thus,                       4      0.1 nm/ps                              150
+if x is changed slowly enough, interactions with the bath
+may take place that would not occur in the unconstrained                      3
+case.",(13)] shown in Fig.,2022-02-14 15:03:07+00:00,Molecular origin of driving-dependent friction in fluids,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Matthias Post'), arxiv.Result.Author('Steffen Wolf'), arxiv.Result.Author('Gerhard Stock')]","The friction coefficient of fluids may become a function of the velocity at
+increased external driving. This non-Newtonian behavior is of general
+theoretical interest as well as of great practical importance, e.g., for the
+design of lubricants. While the effect has been observed in large-scale
+atomistic simulations of bulk liquids, its theoretical formulation and
+microscopic origin is not well understood. Here we use dissipation-corrected
+targeted molecular dynamics, which pulls apart two tagged liquid molecules in
+the presence of surrounding molecules and analyzes this nonequilibrium process
+via a generalized Langevin equation. The approach is based on a second-order
+cumulant expansion of Jarzynski's identity, which is shown to be valid for
+fluids and therefore allows for an exact computation of the friction profile as
+well of the underlying memory kernel. We show that velocity-dependent friction
+in fluids results from an intricate interplay of near-order structural effects
+and the non-Markovian behavior of the friction memory kernel. For complex
+fluids such as the model lubricant \alkane, the memory kernel exhibits a
+stretched-exponential long-time decay, which reflects the multitude of
+timescales of the system.",-0.12110187,-0.18252835,0.17789665,A
+1960,"To further study the velocity dependence of the fric-
+
+                                                                tion, we next consider the position-averaged friction Γ (v)
+                                                                [Eq.","Thus,
+                                                                if x is changed slowly enough, interactions with the bath
+                                                                may take place that would not occur in the unconstrained
+                                                                case.",(22)] shown in Fig.,2022-02-14 15:03:07+00:00,Molecular origin of driving-dependent friction in fluids,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Matthias Post'), arxiv.Result.Author('Steffen Wolf'), arxiv.Result.Author('Gerhard Stock')]","The friction coefficient of fluids may become a function of the velocity at
+increased external driving. This non-Newtonian behavior is of general
+theoretical interest as well as of great practical importance, e.g., for the
+design of lubricants. While the effect has been observed in large-scale
+atomistic simulations of bulk liquids, its theoretical formulation and
+microscopic origin is not well understood. Here we use dissipation-corrected
+targeted molecular dynamics, which pulls apart two tagged liquid molecules in
+the presence of surrounding molecules and analyzes this nonequilibrium process
+via a generalized Langevin equation. The approach is based on a second-order
+cumulant expansion of Jarzynski's identity, which is shown to be valid for
+fluids and therefore allows for an exact computation of the friction profile as
+well of the underlying memory kernel. We show that velocity-dependent friction
+in fluids results from an intricate interplay of near-order structural effects
+and the non-Markovian behavior of the friction memory kernel. For complex
+fluids such as the model lubricant \alkane, the memory kernel exhibits a
+stretched-exponential long-time decay, which reflects the multitude of
+timescales of the system.",-0.1300308,-0.16025668,0.24052696,A
+2154,"The system was equilibrated at T = 453
+further research.","The equations of motion
+III D. Finally, section IV summarizes the conclusions em-     were integrated using the velocity-Verlet method with a
+phasizing how the results from this work can be used in       time step 1 fs.","K for 5 ns in a canonical ensemble using the determin-
+                                                              istic Nose-Hoover thermostat with time constant equal
+II.",2022-02-18 02:55:14+00:00,Molecular dynamics study of the linear viscoelastic shear and bulk relaxation moduli of poly(tetramethylene oxide) (PTMO),cond-mat.soft,"['cond-mat.soft', 'cond-mat.mtrl-sci', 'physics.comp-ph']","[arxiv.Result.Author('Zakiya Shireen'), arxiv.Result.Author('Elnaz Hajizadeh'), arxiv.Result.Author('Peter Daivis'), arxiv.Result.Author('Christian Brandl')]","Here we report the linear viscoelastic properties of amorphous
+poly(tetramethylene oxide) (PTMO), which is one of the key components in
+synthesizing segmented polyurethane (PU) elastomers. The temperature and
+molecular weight dependent viscoelastic behavior is investigated in detail by
+computing the shear relaxation modulus G(t) and the bulk relaxation modulus
+K(t), using the Green-Kubo relationship with correlation function. Our results
+provide new data for PTMO melt from the united atom model and also extend the
+existing knowledge of viscoelastic properties of polymers in general. The
+predicted viscoelastic behavior range is shifted on a master curve using the
+time-temperature superposition principle (TTSP) with horizontal and vertical
+shift factors. The emerging shift factors agree with the Williams-Landel-Ferry
+(WLF) equation. For the validation of the united-atom model of PTMO using the
+TraPPE-UA force field we explored the transport properties and observed a
+position-dependent diffusion dynamics throughout the polymer chain, which
+subsequently influences the scaling laws for chain dynamics. These findings are
+discussed in terms of emerging experimental evidence on position dependent
+displacement for different chain portions along the chain length.",-0.31164682,0.082065776,0.1914099,A
+2174,"ever, the improvement is extremely limited, and comes at the         While answering this question will require further research,
+cost of a signiﬁcantly more computationally costly training          our results here suggest that linear regression is likely a sufﬁ-
+process.",How-          relation between prediction and reality is currently minimal?,"To illustrate this: for one choice of hyperparameters       cient method for evaluating the predictive capabilities of new
+and the full set of time intervals, a typical training process       sets of structural order parameters.",2022-02-18 12:56:42+00:00,Comparing machine learning techniques for predicting glassy dynamics,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Rinske M. Alkemade'), arxiv.Result.Author('Emanuele Boattini'), arxiv.Result.Author('Laura Filion'), arxiv.Result.Author('Frank Smallenburg')]","In the quest to understand how structure and dynamics are connected in
+glasses, a number of machine learning based methods have been developed that
+predict dynamics in supercooled liquids. These methods include both
+increasingly complex machine learning techniques, and increasingly
+sophisticated descriptors used to describe the environment around particles. In
+many cases, both the chosen machine learning technique and choice of structural
+descriptors are varied simultaneously, making it hard to quantitatively compare
+the performance of different machine learning approaches. Here, we use three
+different machine learning algorithms -- linear regression, neural networks,
+and GNNs -- to predict the dynamic propensity of a glassy binary hard-sphere
+mixture using as structural input a recursive set of order parameters recently
+introduced by Boattini et al. [Phys. Rev. Lett. 127, 088007 (2021)]. As we
+show, when these advanced descriptors are used, all three methods predict the
+dynamics with nearly equal accuracy. However, the linear regression is orders
+of magnitude faster to train making it by far the method of choice.",-0.28297576,0.32410428,-0.36881474,A
+2574,"Thus, further study
+is needed to isolate the effect of reversible chemical adhesion on MRF performance.","Further functionalization that led
+to more uniformly functionalized particles resulted in a smaller increase in 𝜏0.","Figure 1 (a) When magnetic particles with radius R are aligned with 𝐵, they interact through the
+attractive magnetic dipole-dipole force 𝐹𝑀.",2022-02-28 16:12:09+00:00,Chemically-adhesive particles form stronger and stiffer magnetorheological fluids,cond-mat.soft,"['cond-mat.soft', 'cond-mat.mtrl-sci']","[arxiv.Result.Author('Abigail Rendos'), arxiv.Result.Author('Daryl W. Yee'), arxiv.Result.Author('Robert J. Macfarlane'), arxiv.Result.Author('Keith A. Brown')]","Magnetorheological fluids (MRF) are suspensions of magnetic particles that
+solidify in the presence of magnetic fields due to the particles forming chains
+along field lines. The magnetic forces between particles dominate the
+solidification process and determine the yield stress of the material. Here, we
+investigate how reversible chemical links between particles influence MRF yield
+stress and stiffness through rheological testing in flow and oscillation mode.
+First, we functionalize particles with phosphonate groups that are expected to
+link through hydrogen bonding and find that this MRF exhibits up to 40% higher
+yield stress and 100% higher stiffness than an MRF composed of unfunctionalized
+particles. To explain this, we model the chemical attraction as an adhesion
+that supplements dipole-dipole interactions between particles. Interestingly,
+we find that the increase in yield stress is largest for dilute suspensions
+that are expected to solidify into isolated chains, while the proportional
+increase in yield stress is less for MRF with higher concentrations. This is
+explained by the higher concentration MRF forming a body-centered tetragonal
+(BCT) lattice in which interparticle adhesion forces are no longer aligned with
+the field. To explore the possibility of dynamically tuning interparticle
+interactions, we functionalize particles with polystyrene polymers with thymine
+terminal groups that will only exhibit interparticle hydrogen bonding in the
+presence of a linking molecule, namely melamine. We find that MRF formed with
+these particles also exhibit up to a 40% increase in yield stress and ~100%
+increase in stiffness, but only in the presence of melamine. In addition to
+confirming the role of hydrogen bonding in increasing MRF performance, these
+results highlight the possibility of dynamically tuning MRF performance using
+magnetic fields and chemical modifications.",0.08474156,0.026607975,-0.10926577,C
+3841,"We intend to pursue this in
+further research.","(7)
+porated into the theory.","Experiments suggest that these eﬀects                                              0
+have a major inﬂuence on the percolation threshold of the
+nanocomposite [84].",2022-03-25 13:23:33+00:00,Geometric percolation of colloids in shear flow,cond-mat.soft,"['cond-mat.soft', 'cond-mat.mtrl-sci', 'cond-mat.stat-mech', 'physics.chem-ph']","[arxiv.Result.Author('Ilian Pihlajamaa'), arxiv.Result.Author('René de Bruijn'), arxiv.Result.Author('Paul van der Schoot')]","We combine a heuristic theory of geometric percolation and the Smoluchowski
+theory of colloid dynamics to predict the impact of shear flow on the
+percolation threshold of hard spherical colloidal particles, and verify our
+findings by means of molecular dynamics simulations. It appears that the impact
+of shear flow is subtle and highly non-trivial, even in the absence of
+hydrodynamic interactions between the particles. The presence of shear flow can
+both increase and decrease the percolation threshold, depending on the
+criterion used for determining whether or not two particles are connected and
+on the P\'{e}clet number. Our approach opens up a route to quantitatively
+predict the percolation threshold in nanocomposite materials that, as a rule,
+are produced under non-equilibrium conditions, making comparison with
+equilibrium percolation theory tenuous. Our theory can be adapted
+straightforwardly for application in other types of flow field, and particles
+of different shape or interacting via other than hard-core potentials.",0.013550232,-0.2632605,0.011527762,A
+3907,"The elongated defect undergoes
+         multiple complex rearrangements including the swim stroke and defect hopping
+         instabilities whose dependence on micro-robot properties and rotational dynamics warrant
+         further study.","For example, the micro-robot has hybrid
+         anchoring and rough sharp edges whose impact on dynamic defect pinning/depinning and
+         defect elongation thresholds remain to be elucidated.","In far-from-equilibrium micro-robot/cargo interactions, transient defect-
+         defect interactions including defect sharing, merger and separation play central roles in
+         cargo fate.",2022-03-26 20:17:16+00:00,Nematic colloidal micro-robots as physically intelligent systems,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Tianyi Yao'), arxiv.Result.Author('Žiga Kos'), arxiv.Result.Author('Yimin Luo'), arxiv.Result.Author('Francesca Serra'), arxiv.Result.Author('Edward B. Steager'), arxiv.Result.Author('Miha Ravnik'), arxiv.Result.Author('Kathleen J. Stebe')]","Physically intelligent micro-robotic systems exploit information embedded in
+micro-robots, their colloidal cargo, and their milieu to interact, assemble and
+form functional structures. Nonlinear anisotropic fluids like nematic liquid
+crystals (NLCs) provide untapped opportunities to embed interactions via their
+topological defects, complex elastic responses, and their ability to
+dramatically restructure in dynamic settings. Here we design and fabricate a
+4-armed ferromagnetic micro-robot to embed and dynamically reconfigure
+information in the nematic director field, generating a suite of physical
+interactions for cargo manipulation. The micro-robot shape and surface
+chemistry are designed to generate a nemato-elastic energy landscape in the
+domain that defines multiple modes of emergent, bottom-up interactions with
+passive colloids. Micro-robot rotation expands the ability to sculpt
+interactions; the energy landscape around a rotating micro-robot is dynamically
+reconfigured by complex far-from-equilibrium dynamics of the micro-robot's
+companion topological defect. These defect dynamics allow transient information
+to be programmed into the domain and exploited for top-down cargo manipulation.
+We demonstrate robust micro-robotic manipulation strategies that exploit these
+diverse modes of nemato-elastic interaction to achieve cargo docking,
+transport, release, and assembly of complex reconfigurable structures at
+multi-stable sites. Such structures are of great interest to future
+developments of LC-based advanced optical device and micro-manufacturing in
+anisotropic environments.",0.25951353,0.18659863,0.10836713,B
+3947,"Their inter-
+We described the interactions of two or three types of         actions under nonequilibrium conditions are important
+curvature-inducing proteins and the reaction-diﬀusion          topics for further study.","proteins in biological processes is understood to be much
+(iii) Cooperation of multiple types of proteins                weaker than the interactions of each protein.",systems of two types of proteins in Sec.,2022-03-28 05:48:21+00:00,Binding of Curvature-Inducing Proteins onto Biomembranes,cond-mat.soft,"['cond-mat.soft', 'physics.bio-ph']",[arxiv.Result.Author('Hiroshi Noguchi')],"We review the theoretical analyses and simulations of the interactions
+between curvature-inducing proteins and biomembranes. Laterally isotropic
+proteins induce spherical budding, whereas anisotropic proteins, such as
+Bin/Amphiphysin/Rvs (BAR) superfamily proteins, induce tubulation. Both types
+of proteins can sense the membrane curvature. We describe the theoretical
+analyses of various transitions of protein binding accompanied by a change in
+various properties, such as the number of buds, the radius of membrane tubes,
+and the nematic order of anisotropic proteins. Moreover, we explain the
+membrane-mediated interactions and protein assembly. Many types of membrane
+shape transformations (spontaneous tubulation, formation of polyhedral
+vesicles, polygonal tubes, periodic bumps, and network structures, etc.) have
+been demonstrated by coarse-grained simulations. Furthermore, traveling waves
+and Turing patterns under the coupling of reaction-diffusion dynamics and
+membrane deformation are described.",-0.068313695,0.19577983,0.21011007,C_centroid
+3948,IV C and in           are important topics for further study.,"Their interactions under nonequilibrium conditions
+systems of two types of proteins in Sec.",Sec.,2022-03-28 05:48:21+00:00,Binding of Curvature-Inducing Proteins onto Biomembranes,cond-mat.soft,"['cond-mat.soft', 'physics.bio-ph']",[arxiv.Result.Author('Hiroshi Noguchi')],"We review the theoretical analyses and simulations of the interactions
+between curvature-inducing proteins and biomembranes. Laterally isotropic
+proteins induce spherical budding, whereas anisotropic proteins, such as
+Bin/Amphiphysin/Rvs (BAR) superfamily proteins, induce tabulation. Both types
+of proteins can sense the membrane curvature. We describe the theoretical
+analyses of various transitions of protein binding accompanied by a change in
+various properties, such as the number of buds, the radius of membrane tubes,
+and the nematic order of anisotropic proteins. Moreover, we explain the
+membrane-mediated interactions and protein assembly. Many types of membrane
+shape transformations (spontaneous tubulation, formation of polyhedral
+vesicles, polygonal tubes, periodic bumps, and network structures, etc.) have
+been demonstrated by coarse-grained simulations. Furthermore, traveling waves
+and Turing patterns under the coupling of reaction-diffusion dynamics and
+membrane deformation are described.",-0.11493017,0.08006552,0.1980043,C
+3971,"It will require further study
+to determine if the sensitivity of the minimum ordered energy to aspect ratio α and site number N is
+a feature of the rectangular domain or choice of periodic boundary conditions.","This suggests that care should be taken in extrapolating between
+special ordered equilibria and disordered states in these packing problems.","Figure 15: (top-left) The averaged tessellation probability densities fP [N−5,N+5] for values of N
+as indicated, as determined from B(N, 1, 2500) for N = 100, .",2022-03-28 14:20:47+00:00,Defects and Frustration in the Packing of Soft Balls,cond-mat.soft,"['cond-mat.soft', 'math.DS', '37L30 (primary) 37L60 82D30']","[arxiv.Result.Author('Kenneth Jao'), arxiv.Result.Author('Keith Promislow'), arxiv.Result.Author('Samuel Sottile')]","This work introduces the Hookean-Voronoi energy, a minimal model for the
+packing of soft, deformable balls. This is motivated by recent studies of
+quasi-periodic equilibria arising from dense packings of diblock and star
+polymers. Restricting to the planar case, we investigate the equilibrium
+packings of identical, deformable objects whose shapes are determined by an
+$N$-site Voronoi tessellation of a periodic rectangle. We derive a reduced
+formulation of the system showing at equilibria each site must reside at the
+``max-center'' of its associated Voronoi region and construct a family of
+ordered ``single-string'' minimizers whose cardinality is $O(N^2)$. We identify
+sharp conditions under which the system admits a regular hexagonal tessellation
+and establish that in all cases the average energy per site is bounded below by
+that of a regular hexagon of unit size. However, numerical investigation of
+gradient flow of random initial data, reveals that for modest values of $N$ the
+system preponderantly equilibrates to quasi-ordered states with low energy and
+large basins of attraction. For larger $N$ the distribution of equilibria
+energies appears to approach a $\delta$-function limit, whose energy is
+significantly higher than the ground state hexagon. This limit is possibly
+shaped by two mechanisms: a proliferation of moderate-energy disordered
+equilibria that block access of the gradient flow to lower energy quasi-ordered
+states and a rigid threshold on the maximum energy of stable states.",-0.0722263,-0.22000284,-0.10898018,A
+4318,"∇2φ(r, z, t) = 0 ,         (14a)       C. Dependence of the charging time on R/Rb
+                        φ(r ∈ S1, t > 0) = −Φ ,         (14b)
+                        φ(r ∈ S2, t > 0) = Φ ,          (14c)      We further study the dependence of the charging time
+     n · ∇φ(r ∈ {S3, S4, S5}, t > 0) = 0 ,              (14d)   of pore charging on the size of the reservoir.",(13) for R/Rb ∼ 1.,Fig.,2022-04-04 11:04:06+00:00,Direct numerical simulations of the modified Poisson-Nernst-Planck equations for the charging dynamics of cylindrical electrolyte-filled pores,cond-mat.soft,"['cond-mat.soft', 'physics.chem-ph']","[arxiv.Result.Author('Jie Yang'), arxiv.Result.Author('Mathijs Janssen'), arxiv.Result.Author('Cheng Lian'), arxiv.Result.Author('René van Roij')]","Understanding how electrolyte-filled porous electrodes respond to an applied
+potential is important to many electrochemical technologies. Here, we consider
+a model supercapacitor of two blocking cylindrical pores on either side of a
+cylindrical electrolyte reservoir. A stepwise potential difference $2\Phi$
+between the pores drives ionic fluxes in the setup, which we study through the
+modified Poisson-Nernst-Planck equations, solved with finite elements. We focus
+our discussion on the dominant timescales with which the pores charge and how
+these timescales depend on three dimensionless numbers. Next to the
+dimensionless applied potential $\Phi$, we consider the ratio $R/R_b$ of the
+pore's resistance $R$ to the bulk reservoir resistance $R_b$ and the ratio
+$r_{p}/\lambda$ of the pore radius $r_p$ to the Debye length $\lambda$. We
+compare our data to theoretical predictions by Aslyamov and Janssen ($\Phi$),
+Posey and Morozumi ($R/R_b$), and Henrique, Zuk, and Gupta ($r_{p}/\lambda$).
+Through our numerical approach, we delineate the validity of these theories and
+the assumptions on which they were based.",-0.18288016,-0.05679199,0.050374843,A
+4651,"(a-b) Temporal pro-       To further study the trapping of microrollers and un-
+jections of a ﬂuorescence microscopy image sequence of mi-     derstand its underlying mechanism, we perform Brown-
+crorollers interacting with cylindrical obstacles (H=20 µm,    ian dynamics simulations.","The interaction of microrollers with cylindrical ob-
+stacles in experiments and simulations.","The dynamics of a microroller
+R=14.4 µm), where the microroller is trapped and eventu-       satisfy the overdamped Langevin equations [26]
+ally released (a), or passes the obstacle (b).",2022-04-11 10:28:34+00:00,A simple catch: thermal fluctuations enable hydrodynamic trapping of microrollers by obstacles,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech', 'physics.flu-dyn']","[arxiv.Result.Author('Ernest B. van der Wee'), arxiv.Result.Author('Brendan C. Blackwell'), arxiv.Result.Author('Florencio Balboa Usabiaga'), arxiv.Result.Author('Andrey V. Sokolov'), arxiv.Result.Author('Isaiah T. Katz'), arxiv.Result.Author('Blaise Delmotte'), arxiv.Result.Author('Michelle M. Driscoll')]","In order to leverage colloidal swimmers in microfluidic and drug-delivery
+applications, it is crucial to understand their interaction with obstacles.
+Previous studies have shown that this interaction can result in the
+hydrodynamic trapping in orbits around cylindrical obstacles, where the
+trapping strength heavily depends on the obstacle geometry and the flow field
+of the swimmer, and that Brownian motion is needed to escape the trap. Here, we
+use both experiments and simulations to investigate the interaction of driven
+microrollers with cylindrical obstacles. Microrollers have a unique flow field
+and a prescribed propulsion direction; the flow field that drives their motion
+is quite different than previously-studied swimmers. We observe
+curvature-dependent hydrodynamic trapping of these microrollers in the wake of
+an obstacle, and show explicitly the mechanism for this trapping. More
+interestingly, we find that these rollers need Brownian motion to both leave
+$\mathit{and}$ enter the trap. By tuning both the obstacle curvature and the
+Debye length of the roller suspension, the trapping strength can be tuned over
+three orders of magnitude. Our findings suggest that the trapping of
+fluid-pumping swimmers is generic and encourages the study of swimmers with
+other flow fields and their interaction with obstacles.",0.28606996,0.458441,0.48269582,B
+4652,"(a-b) Temporal pro-
+jections of a ﬂuorescence microscopy image sequence of mi-         To further study the trapping of microrollers and un-
+crorollers interacting with cylindrical obstacles (H = 20 µm,   derstand its underlying mechanism, we perform Brown-
+R = 14.4 µm), where the microroller is trapped and eventu-      ian dynamics simulations.","The interaction of microrollers with cylindrical ob-              B. Microroller trapping in simulations
+stacles in experiments and simulations.","The dynamics of a microroller
+ally released (a), or passes the obstacle (b).",2022-04-11 10:28:34+00:00,A simple catch: thermal fluctuations enable hydrodynamic trapping of microrollers by obstacles,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech', 'physics.flu-dyn']","[arxiv.Result.Author('Ernest B. van der Wee'), arxiv.Result.Author('Brendan C. Blackwell'), arxiv.Result.Author('Florencio Balboa Usabiaga'), arxiv.Result.Author('Andrey V. Sokolov'), arxiv.Result.Author('Isaiah T. Katz'), arxiv.Result.Author('Blaise Delmotte'), arxiv.Result.Author('Michelle M. Driscoll')]","In order to leverage colloidal swimmers in microfluidic and drug-delivery
+applications, it is crucial to understand their interaction with obstacles.
+Previous studies have shown that this interaction can result in the
+hydrodynamic trapping in orbits around cylindrical obstacles, where the
+trapping strength heavily depends on the obstacle geometry and the flow field
+of the swimmer, and that Brownian motion is needed to escape the trap. Here, we
+use both experiments and simulations to investigate the interaction of driven
+microrollers with cylindrical obstacles. Microrollers have a unique flow field
+and a prescribed propulsion direction; the flow field that drives their motion
+is quite different than previously-studied swimmers. We observe
+curvature-dependent hydrodynamic trapping of these microrollers in the wake of
+an obstacle, and show explicitly the mechanism for this trapping. More
+interestingly, we find that these rollers need Brownian motion to both leave
+and enter the trap. By tuning both the obstacle curvature and the Debye length
+of the roller suspension, the trapping strength can be tuned over three orders
+of magnitude. Our findings suggest that the trapping of fluid-pumping swimmers
+is generic and encourages the study of swimmers with other flow fields and the
+interaction of these swimmers with obstacles.",0.32149518,0.5062977,0.4967475,B
+4653,"(a-b) Temporal pro-
+jections of a ﬂuorescence microscopy image sequence of mi-         To further study the trapping of microrollers and un-
+crorollers interacting with cylindrical obstacles (H = 20 µm,   derstand its underlying mechanism, we perform Brown-
+R = 14.4 µm), where the microroller is trapped and eventu-      ian dynamics simulations.","The interaction of microrollers with cylindrical ob-              B. Microroller trapping in simulations
+stacles in experiments and simulations.","The dynamics of a microroller
+ally released (a), or passes the obstacle (b).",2022-04-11 10:28:34+00:00,A simple catch: thermal fluctuations enable hydrodynamic trapping of microrollers by obstacles,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech', 'physics.flu-dyn']","[arxiv.Result.Author('Ernest B. van der Wee'), arxiv.Result.Author('Brendan C. Blackwell'), arxiv.Result.Author('Florencio Balboa Usabiaga'), arxiv.Result.Author('Andrey V. Sokolov'), arxiv.Result.Author('Isaiah T. Katz'), arxiv.Result.Author('Blaise Delmotte'), arxiv.Result.Author('Michelle M. Driscoll')]","In order to leverage colloidal swimmers in microfluidic and drug-delivery
+applications, it is crucial to understand their interaction with obstacles.
+Previous studies have shown that this interaction can result in the
+hydrodynamic trapping in orbits around cylindrical obstacles, where the
+trapping strength heavily depends on the obstacle geometry and the flow field
+of the swimmer, and that Brownian motion is needed to escape the trap. Here, we
+use both experiments and simulations to investigate the interaction of driven
+microrollers with cylindrical obstacles. Microrollers have a unique flow field
+and a prescribed propulsion direction; the flow field that drives their motion
+is quite different than previously-studied swimmers. We observe
+curvature-dependent hydrodynamic trapping of these microrollers in the wake of
+an obstacle, and show explicitly the mechanism for this trapping. More
+interestingly, we find that these rollers need Brownian motion to both leave
+and enter the trap. By tuning both the obstacle curvature and the Debye length
+of the roller suspension, the trapping strength can be tuned over three orders
+of magnitude. Our findings suggest that the trapping of fluid-pumping swimmers
+is generic and encourages the study of swimmers with other flow fields and the
+interaction of these swimmers with obstacles.",0.32149518,0.5062977,0.4967475,B
+4871,"S6, with the grid search result for the origami canopy dataset, we further study the effects
+of the cost-complexity-pruning alpha (ccp-alpha) value.",In Fig.,"The cost-complexity-pruning is another
+step in training decision tree methods where the machine learning method will automatically
+remove some branch nodes from a tree to avoid over-fitting.",2022-04-12 12:27:05+00:00,Harnessing Interpretable Machine Learning for Holistic Inverse Design of Origami,cond-mat.soft,"['cond-mat.soft', 'cs.LG', 'physics.comp-ph']","[arxiv.Result.Author('Yi Zhu'), arxiv.Result.Author('Evgueni T. Filipov')]","This work harnesses interpretable machine learning methods to address the
+challenging inverse design problem of origami-inspired systems. We show that a
+decision tree-random forest method is particularly suitable for fitting origami
+databases, containing both design features and functional performance, to
+generate human-understandable decision rules for the inverse design of
+functional origami. First, the tree method is unique because it can handle
+complex interactions between categorical features and continuous features,
+allowing it to compare different origami patterns for a design. Second, this
+interpretable method can tackle multi-objective problems for designing
+functional origami with multiple and multi-physical performance targets.
+Finally, the method can extend existing shape-fitting algorithms for origami to
+consider non-geometrical performance. The proposed framework enables holistic
+inverse design of origami, considering both shape and function, to build novel
+reconfigurable structures for various applications such as metamaterials,
+deployable structures, soft robots, biomedical devices, and many more.",-0.31013608,0.32992673,-0.33534244,C
+4886,"How chloroplasts spread on the periclinal cell walls as a result of an accumulation response
+under dim light remains a subject for further research, since a direct observation of this process was not possible.","However, the transitions towards and away from this state are
+yet to be discovered.","Further studies on collective escape from this low-light adapted state towards an avoidance conﬁguration will
+shine a light on the various dynamic phase transitions this system can undergo, which were also found in active
+glasses [55, 69].",2022-04-15 08:50:07+00:00,Chloroplasts in plant cells show active glassy behavior under low light conditions,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech', 'physics.bio-ph']","[arxiv.Result.Author('Nico Schramma'), arxiv.Result.Author('Cintia Perugachi Israëls'), arxiv.Result.Author('Maziyar Jalaal')]","Plants have developed intricate mechanisms to adapt to changing light
+conditions. Besides photo- and he- liotropism -- the differential growth
+towards light and the diurnal motion with respect to sunlight -- chloroplast
+motion acts as a fast mechanism to change the intracellular structure of leaf
+cells. While chloroplasts move towards the sides of the plant cell to avoid
+strong light, they accumulate and spread out into a layer on the bottom of the
+cell at low light to increase the light absorption efficiency. Although the
+motion of chloroplasts has been studied for over a century, the collective
+organelle-motion leading to light adapting self-organized structures remains
+elusive. Here we study the active motion of chloroplasts under dim light
+conditions, leading to an accumulation in a densely packed quasi-2D layer. We
+observe burst-like re-arrangements and show that these dynamics resemble
+colloidal systems close to the glass transition by tracking individual
+chloroplasts. Furthermore, we provide a minimal mathematical model to uncover
+relevant system parameters controlling the stability of the dense configuration
+of chloroplasts. Our study suggests that the meta-stable caging close to the
+glass-transition in the chloroplast mono-layer serves a physiological
+relevance. Chloroplasts remain in a spread-out configuration to increase the
+light uptake, but can easily fluidize when the activity is increased to
+efficiently re-arrange the structure towards an avoidance state. Our research
+opens new questions about the role that dynamical phase transitions could play
+in self-organized intracellular responses of plant cells towards environmental
+cues.",0.07415797,0.23248419,0.2778632,C
+4887,"To further study the diﬀerence in the motion in both regimes, we consider the mean squared
+displacement (MSD) (Fig.",2b).,2c).,2022-04-15 08:50:07+00:00,Chloroplasts in plant cells show active glassy behavior under low light conditions,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech', 'physics.bio-ph']","[arxiv.Result.Author('Nico Schramma'), arxiv.Result.Author('Cintia Perugachi Israëls'), arxiv.Result.Author('Maziyar Jalaal')]","Plants have developed intricate mechanisms to adapt to changing light
+conditions. Besides photo- and helio- tropism -- the differential growth
+towards light and the diurnal motion with respect to sunlight -- chloroplast
+motion acts as a fast mechanism to change the intracellular structure of leaf
+cells. While chloroplasts move towards the sides of the plant cell to avoid
+strong light, they accumulate and spread out into a layer on the bottom of the
+cell at low light to increase the light absorption efficiency. Although the
+motion of chloroplasts has been studied for over a century, the collective
+organelle-motion leading to light adapting self-organized structures remains
+elusive. Here we study the active motion of chloroplasts under dim light
+conditions, leading to an accumulation in a densely packed quasi-2D layer. We
+observe burst-like re-arrangements and show that these dynamics resemble
+colloidal systems close to the glass transition by tracking individual
+chloroplasts. Furthermore, we provide a minimal mathematical model to uncover
+relevant system parameters controlling the stability of the dense configuration
+of chloroplasts. Our study suggests that the meta-stable caging close to the
+glass-transition in the chloroplast mono-layer serves a physiological
+relevance. Chloroplasts remain in a spread-out configuration to increase the
+light uptake, but can easily fluidize when the activity is increased to
+efficiently re-arrange the structure towards an avoidance state. Our research
+opens new questions about the role that dynamical phase transitions could play
+in self-organized intracellular responses of plant cells towards environmental
+cues.",-0.3469891,-0.10755703,0.2696955,A
+4888,"How chloroplasts spread on the periclinal cell walls as a result of an accumulation response under dim light
+remains a subject for further research, since a direct observation of this process was not possible.","For example, chloroplasts can create protein bridges [18] and actin-cages [21], hence, the
+
+                                                            7
+systems behavior may diﬀer from purely repulsive systems [72].","Further studies
+on collective escape from this low-light adapted state towards an avoidance conﬁguration will shine light on
+the various dynamic phase transitions this system can undergo, which were also found in dense active matter
+systems [57, 73].",2022-04-15 08:50:07+00:00,Chloroplasts in plant cells show active glassy behavior under low light conditions,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech', 'physics.bio-ph']","[arxiv.Result.Author('Nico Schramma'), arxiv.Result.Author('Cintia Perugachi Israëls'), arxiv.Result.Author('Maziyar Jalaal')]","Plants have developed intricate mechanisms to adapt to changing light
+conditions. Besides photo- and helio- tropism -- the differential growth
+towards light and the diurnal motion with respect to sunlight -- chloroplast
+motion acts as a fast mechanism to change the intracellular structure of leaf
+cells. While chloroplasts move towards the sides of the plant cell to avoid
+strong light, they accumulate and spread out into a layer on the bottom of the
+cell at low light to increase the light absorption efficiency. Although the
+motion of chloroplasts has been studied for over a century, the collective
+organelle-motion leading to light adapting self-organized structures remains
+elusive. Here we study the active motion of chloroplasts under dim light
+conditions, leading to an accumulation in a densely packed quasi-2D layer. We
+observe burst-like re-arrangements and show that these dynamics resemble
+colloidal systems close to the glass transition by tracking individual
+chloroplasts. Furthermore, we provide a minimal mathematical model to uncover
+relevant system parameters controlling the stability of the dense configuration
+of chloroplasts. Our study suggests that the meta-stable caging close to the
+glass-transition in the chloroplast mono-layer serves a physiological
+relevance. Chloroplasts remain in a spread-out configuration to increase the
+light uptake, but can easily fluidize when the activity is increased to
+efficiently re-arrange the structure towards an avoidance state. Our research
+opens new questions about the role that dynamical phase transitions could play
+in self-organized intracellular responses of plant cells towards environmental
+cues.",0.07415995,0.25467888,0.322814,C
+4906,"σi(t) = σi,0 + x˙ t + σiapplied(1 − e−t/τ ) (A1)
+   One aspect that deserves further study is why the ther-
+mal Herschel-Bulkley exponent takes the value it does.","To what extent this aﬀects critical be-
+haviour beyond the ductile-brittle transition has not been                In our system, because σi evolves in time as
+elucidated.","where σiapplied are the stresses propagating from liqueﬁed
+Can this be linked by appropriate scaling arguments to                 sites to site i, the Poisson rates λ(xi) are not constant.",2022-04-15 17:05:11+00:00,Dynamic phase diagram of plastically deformed amorphous solids at finite temperature,cond-mat.soft,"['cond-mat.soft', 'cond-mat.dis-nn', 'cond-mat.stat-mech']","[arxiv.Result.Author('Daniel Korchinski'), arxiv.Result.Author('Jörg Rottler')]","The yielding transition that occurs in amorphous solids under athermal
+quasistatic deformation has been the subject of many theoretical and
+computational studies. Here, we extend this analysis to include thermal effects
+at finite shear rate, focusing on how temperature alters avalanches. We derive
+a nonequilibrium phase diagram capturing how temperature and strain rate
+effects compete, when avalanches overlap, and whether finite-size effects
+dominate over temperature effects. The predictions are tested through
+simulations of an elastoplastic model in two dimensions and in a mean-field
+approximation. We find a new scaling for temperature-dependent softening in the
+low-strain rate regime when avalanches do not overlap, and a
+temperature-dependent Herschel-Bulkley exponent in the high strain rate regime
+when avalanches do overlap.",-0.25105464,-0.30804566,0.05425451,A
+4907,"During the time increment δt,
+                                                                       all sites have their stresses increased by x˙ · δt and any
+   Another aspect that deserves further study is why the               propagated stresses or relaxations are scaled by a factor
+thermal Herschel-Bulkley exponent takes the value it                   of ∼ exp[−δt/τ ].",laxed at the failing site.,does.,2022-04-15 17:05:11+00:00,Dynamic phase diagram of plastically deformed amorphous solids at finite temperature,cond-mat.soft,"['cond-mat.soft', 'cond-mat.dis-nn', 'cond-mat.stat-mech']","[arxiv.Result.Author('Daniel Korchinski'), arxiv.Result.Author('Jörg Rottler')]","The yielding transition that occurs in amorphous solids under athermal
+quasistatic deformation has been the subject of many theoretical and
+computational studies. Here, we extend this analysis to include thermal effects
+at finite shear rate, focusing on how temperature alters avalanches. We derive
+a nonequilibrium phase diagram capturing how temperature and strain rate
+effects compete, when avalanches overlap, and whether finite-size effects
+dominate over temperature effects. The predictions are tested through
+simulations of an elastoplastic model in two dimensions and in a mean-field
+approximation. We find a new scaling for temperature-dependent softening in the
+low-strain rate regime when avalanches do not overlap, and a
+temperature-dependent Herschel-Bulkley exponent in the high strain rate regime
+when avalanches do overlap.",-0.26803806,-0.35991395,-0.0271442,A
+5272,"The further study of such optimization is outside
+                                                                    the scope of this study.","At the opposite, in the case of
+                                                                    an assembly of very short ﬁbers, such as a packing of
+                                                                    one-segment needles, use of celld as 4(b) should be pre-
+                                                                    ferred.",IV.,2022-04-25 10:23:53+00:00,A Discrete Element Method model for frictional fibers,cond-mat.soft,['cond-mat.soft'],[arxiv.Result.Author('Jérôme Crassous')],"We present a Discrete Element Method algorithm for the simulation of elastic
+fibers in frictional contacts. The fibers are modeled as chains of cylindrical
+segments connected to each other by springs taking into account elongation,
+bending and torsion forces. The frictional contacts between the cylinders are
+modeled using a Cundall and Strack model routinely used in granular material
+simulations. The physical scales for simulations, the determination and the
+tracking of contacts, and the algorithm are discussed. Tests on different
+situations involving few or many contact points are presented and compared to
+experiments or to theoretical predictions.",-0.0126013495,0.18175413,-0.24971274,C
+5473,"The persis-         protected zero modes in the spring-mass model and the
+tence of edge-selectivity at frequencies lower and higher         edge-localized modes at ﬁnite frequencies in the beam
+than the precise spectral regions of the edge modes is            model warrants further study.","where the polarized modes are ﬂattest on the band dia-            Furthermore, The connection between the topologically
+gram (∼ 900Hz), for both types of excitation.","It is a special manifesta-
+explainable by invoking the following considerations.",2022-04-28 16:20:02+00:00,Omnimodal topological polarization of bilayer networks: analysis in the Maxwell limit and experiments on a 3D-printed prototype,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Mohammad Charara'), arxiv.Result.Author('James McInerney'), arxiv.Result.Author('Kai Sun'), arxiv.Result.Author('Xiaoming Mao'), arxiv.Result.Author('Stefano Gonella')]","Periodic networks on the verge of mechanical instability, called Maxwell
+lattices, are known to exhibit zero-frequency modes localized to their
+boundaries. Topologically polarized Maxwell lattices, in particular, focus
+these zero modes to one of their boundaries in a manner that is protected
+against disorder by the reciprocal-space topology of the lattice's band
+structure. Here, we introduce a class of mechanical bilayers as a model system
+for designing topologically protected edge modes that couple in-plane
+dilational and shearing modes to out-of-plane flexural modes, a paradigm that
+we refer to as omnimodal polarization. While these structures exhibit a
+high-dimensional design space that makes it difficult to predict the
+topological polarization of generic geometries, we are able to identify a
+family of mirror-symmetric bilayers that inherit the in-plane modal
+localization of their constitutive monolayers whose topological polarization
+can be determined analytically. Importantly, the coupling between the layers
+results in the emergence of omnimodal polarization, whereby in-plane and
+out-of-plane edge modes localize on the same edge. We demonstrate these
+theoretical results by fabricating a mirror-symmetric, topologically polarized
+kagome bilayer consisting of a network of elastic beams via additive
+manufacturing and confirm this finite-frequency polarization via finite element
+analysis and laser-vibrometry experiments.",-0.23022774,-0.06537813,0.14718097,A
+6520,"We hope that this will be the subject of further research by authors interested in
+this topic.","However, unresolved questions remain regarding the presence of sodium chloride
+in distilled water [14, 15].","Supplementary Materials: The following supporting information can be downloaded at:
+
+Microstructure  of  tap  water                sediments              on  hydrophilic  surfaces.pdf
+
+https://disk.yandex.ru/i/uQz0YUOIq5HIOg; Microstructure of distilled water sediments on hy-drophilic
+
+surfaces.pdf https://disk.yandex.ru/i/RMReWkX888aDlA
+
+Author Contributions: Conceptualization, T.Y.",2022-05-21 09:14:51+00:00,Microstructure of water sediments on hydrophilic surfaces,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Tatyana Yakhno'), arxiv.Result.Author('Anatoly Sanin'), arxiv.Result.Author('Vladimir Yakhno')]","In the modern world, the focus of natural science research thought has
+shifted mainly to the molecular level, including the study of water. Water is
+considered as a mixture of interacting H2O molecules and their clusters based
+on the data of molecular dynamics, neutron and X-ray scattering. In this case,
+a huge layer of information is lost related to the composition of real water,
+its microstructure and behavior. In this work, we studied the structure and
+dynamics of water during its interaction with glass surfaces during drying
+using optical microscopy. We observed a panoramic picture of a cascade of
+interrelated phase transitions of distilled water and its microdispersed phase
+- sodium chloride microcrystals surrounded by a thick layer of hydrate liquid
+crystal water. Incubation of a glass slide in water for 2 days was accompanied
+by adhesion of the microdisperse phase to the glass surface. During the free
+evaporation of distilled water from a Petri dish, erosion of hydration shells,
+dissolution of NaCl microcrystals, and further recrystallization with the
+formation of large monolithic crystals and traces of non-drying water were
+observed. However, there are still questions that do not yet have clear
+answers. The authors hope to continue research in collaboration with interested
+colleagues.",0.122599415,-0.036219686,-0.16594303,B
+6675,"He further commented on Kendall and Tabor’s work that there is a lack
+of observations concerning measuring real contact area based on stiffness and number of asperities proving the point
+of further study.","Baik, 1984 [12] dealt majority on ultrasonic scattering from
+imperfect Interfaces using A Quasi-Static model, His work covers interfaces consisting of strip, circular, elliptical
+cracks and random distribution of contacts.","N.F.Haines(1980) [13] worked on wave transmission and reflection through contacting surfaces and
+also on the wave scattering from the contacting surfaces and cracks.",2022-05-11 08:11:58+00:00,Finite element modelling and investigation of the interaction between an ultrasonic wave and a discontinuous interface,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Vipul Vijigiri'), arxiv.Result.Author('Cedric Courbon'), arxiv.Result.Author('Guillaume Kermouche'), arxiv.Result.Author('Juliette Cayer-Barrioz')]","When two surfaces are brought into contact and slide against each other,
+junctions are formed at the interface. The dynamics of formation, rupture and
+evolution of these junctions governs the tribological response of the
+macro-contact. Getting insight on the real behavior of these junctions is a
+challenging task. Theory states that contacts and asperities are continuously
+altered in two bodies due to applied pressure, which increases the number of
+active contacts. To addresses such altering interface conditions, wave
+propagation through tribological interface by means of the development of a
+numerical model is proposed. The proposed method is used to study and relate
+crucial parameters like stiffness, contact width, number of asperities that
+form a basis for an interface.",0.09226554,-0.0064654234,-0.22364187,B
+7343,"Thus we        the Kasteleyn-Fortuin representation in 2D, where exact
+expect that a critical dimensionless quantity takes the         wrapping probabilities are available [70, 71] and isoradial
+same value on diﬀerent isoradial graphs of given ρ and          graphs have been studied [45], further research should
+                                                                uncover similar physics.","For the Potts model of other q in
+conformally invariant in the scaling limit [45].","Finally, we anticipate that the mechanism is valid for
+                                                                other boundary conditions, in higher dimensions and con-
+                                                                tinuum space [28], as long as correlations are weakly
+                                                                anisotropic [63].",2022-06-09 14:34:28+00:00,Anisotropic behavior in percolation of close-packed Janus disks,cond-mat.soft,"['cond-mat.soft', 'cond-mat.dis-nn', 'cond-mat.stat-mech']","[arxiv.Result.Author('Hao Hu'), arxiv.Result.Author('Robert M. Ziff'), arxiv.Result.Author('Youjin Deng')]","Due to their anisotropic interactions, Janus particles have wide
+applications, such as assembling into novel structures. We combine percolation
+theory and Monte Carlo simulation to study the connectivity of a model of
+interacting close-packed Janus disks in two dimensions. It is found that
+correlated percolation in the orientationally ordered phase of the Janus system
+can be quantitatively related to standard percolation by a spatial rescaling.
+The underlying mechanism can be applied to understand similar phases in other
+systems, and the results are useful for designing materials with anisotropic
+conductivity and other connectivity-related properties.",-0.27786362,-0.18447888,-0.03221491,A
+7593,"This flow
+
+effect on the surface anchoring deserves further study, but to describe the polydomain patterns in
+
+thick cells, we avoid it by filling the cells in at 180°C and then rapidly cooling the sample through
+
+the N phase with a rate 30°C/min, followed by slow cooling through SmZA and NF with the rate
+2°C/min.","Filling a cell by a flow at 120°C along 𝐑 yields
+
+𝐸↓ = −1.4 kV/m and 𝐸↑ = 1.0 kV/m, which implies a weaker polar bias: 𝜔 ≈ 0.08.","Thin 𝑑=1.1 μm monodomain samples show 𝐸↓ = −0.4 kV/m, 𝐸↑ = 0.3 kV/m, which
+yields 𝜔 ≈ 0.07.",2022-06-14 05:35:45+00:00,Soliton walls paired by polar surface interactions in a ferroelectric nematic liquid crystal,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Bijaya Basnet'), arxiv.Result.Author('Mojtaba Rajabi'), arxiv.Result.Author('Hao Wang'), arxiv.Result.Author('Priyanka Kumari'), arxiv.Result.Author('Kamal Thapa'), arxiv.Result.Author('Sanjoy Paul'), arxiv.Result.Author('Maxim O. Lavrentovich'), arxiv.Result.Author('Oleg D. Lavrentovich')]","Surface interactions are responsible for many properties of condensed matter,
+ranging from crystal faceting to the kinetics of phase transitions. Usually,
+these interactions are polar along the normal to the interface and apolar
+within the interface. Here, we demonstrate that polar in-plane surface
+interactions of a ferroelectric nematic NF produce polar monodomains in
+micron-thin planar cells and stripes of an alternating electric polarization,
+separated by 180 degree domain walls, in thicker slabs. The surface polarity
+binds together pairs of these walls, yielding a total polarization rotation by
+360 degrees. The polar contribution to the total surface anchoring strength is
+on the order of 10%. The domain walls involve splay, bend, and twist of the
+polarization. The structure suggests that the splay elastic constant is larger
+than the bend modulus. The 360 degree pairs resemble domain walls in cosmology
+models with biased vacuums and ferromagnets in an external magnetic field.",0.19429669,-0.16520184,0.049863193,B
+7824,"We strongly believe
+that the present study can serve as a starting point for further research into the length scale dependent structural
+and dynamical properties of dense colloidal (soft glassy) suspensions and other kinetically constrained complex
+systems.","These hydrogels are therefore attractive candidates for engineering
+energy storage devices, such as stretchable, soft and ﬂow batteries [33] and ﬂow capacitors [34].","Acknowledgments
+
+The authors thank K. N. Vasudha for her help with DSC measurements and N. V. Madhusudana for useful dis-
+cussions.",2022-06-19 14:12:43+00:00,Dichotomous behaviors of stress and dielectric relaxations in dense suspensions of swollen thermoreversible hydrogel microparticles,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Chandeshwar Misra'), arxiv.Result.Author('Paramesh Gadige'), arxiv.Result.Author('Ranjini Bandyopadhyay')]","Hypothesis: While the mechanical disruption of microscopic structures in
+complex fluids by large shear flows has been studied extensively, the effects
+of applied strains on the dielectric properties of macromolecular aggregates
+has received far less attention. Simultaneous rheology and dielectric
+experiments can be employed to study the dynamics of sheared colloidal
+suspensions over spatiotemporal scales spanning several decades.
+  Experiments: Using a precision impedance analyzer, we study the dielectric
+behavior of strongly sheared aqueous suspensions of thermoreversible hydrogel
+poly(N-isopropylacrylamide) (PNIPAM) particles at different temperatures. We
+also perform stress relaxation experiments to uncover the influence of large
+deformations on the bulk mechanical moduli of these suspensions.
+  Findings: The real parts of the complex dielectric permittivities of all the
+sheared PNIPAM suspensions exhibit distinct relaxation processes in the low and
+high frequency regimes. At a temperature below the lower consolute solution
+temperature (LCST), both real and imaginary parts of the permittivities of
+highly dense PNIPAM suspensions decrease with increase in applied oscillatory
+strain amplitudes. Simultaneously, we note a counter-intuitive slowdown of the
+dielectric relaxation dynamics. Contrary to our rheo-dielectric findings, our
+bulk rheology experiments, performed under identical conditions, reveal
+shear-thinning dynamics with increasing strain amplitudes. We propose the
+shear-induced rupture of fragile clusters of swollen PNIPAM particles to
+explain our observations.",0.42885637,-0.07381907,-0.03445383,B
+7825,"We strongly believe
+that the present study can serve as a starting point for further research into the length scale dependent structural
+and dynamical properties of dense colloidal (soft glassy) suspensions and other kinetically constrained complex
+systems.","These hydrogels are therefore attractive candidates for engineering
+energy storage devices, such as stretchable, soft and ﬂow batteries [33] and ﬂow capacitors [34].","Acknowledgments
+
+The authors thank K. N. Vasudha for help with DSC measurements and N. V. Madhusudana for useful discussions.",2022-06-19 14:12:43+00:00,Dichotomous behaviors of stress and dielectric relaxations in dense suspensions of swollen thermoreversible hydrogel microparticles,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Chandeshwar Misra'), arxiv.Result.Author('Paramesh Gadige'), arxiv.Result.Author('Ranjini Bandyopadhyay')]","Hypothesis: While the mechanical disruption of microscopic structures in
+complex fluids by large shear flows has been studied extensively, the effects
+of applied strains on the dielectric properties of macromolecular aggregates
+has received far less attention. Simultaneous rheology and dielectric
+experiments can be employed to study the dynamics of sheared colloidal
+suspensions over spatiotemporal scales spanning several decades.
+  Experiments: Using a precision impedance analyzer, we study the dielectric
+behavior of strongly sheared aqueous suspensions of thermoreversible hydrogel
+poly(N-isopropylacrylamide) (PNIPAM) particles at different temperatures. We
+also perform stress relaxation experiments to uncover the influence of large
+deformations on the bulk mechanical moduli of these suspensions.
+  Findings: The real parts of the complex dielectric permittivities of all the
+sheared PNIPAM suspensions exhibit distinct relaxation processes in the low and
+high frequency regimes. At a temperature below the lower consolute solution
+temperature (LCST), both real and imaginary parts of the permittivities of
+highly dense PNIPAM suspensions decrease with increase in applied oscillatory
+strain amplitudes. Simultaneously, we note a counter-intuitive slowdown of the
+dielectric relaxation dynamics. Contrary to our rheo-dielectric findings, our
+bulk rheology experiments, performed under identical conditions, reveal
+shear-thinning dynamics with increasing strain amplitudes. We propose the
+shear-induced rupture of fragile clusters of swollen PNIPAM particles to
+explain our observations.
+  Keywords : Rheo-dielectric; Thermoresponsive hydrogels; Segmental motion;
+Counterion polarization; Interfacial polarization; Dense suspensions; Rheology;
+Shear-thinning.",0.429465,-0.07234697,-0.026038738,B
+7964,"between the finger instabilities in granular materials as
+                                                                    observed in this work and the rise of thermal plumes in the
+                                                                    Earth’s lower mantle suggest that the critical yield parameter
+                                                                    value of YC = 15 might be a more general scaling constant
+                                                                    for the occurrence of fingering phenomena in viscoplastic
+                                                                    fluids, further research is necessary to validate this
+                                                                    hypothesis.","Although the apparent similarities
+p  0.1 such that void bands are absent.","Figure 11: (I) local rheology model for a dense granular system
+given by Eq.",2022-06-22 19:34:32+00:00,Fingering instabilities in binary granular systems,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Meng Liu'), arxiv.Result.Author('Nicholas A. Conzelmann'), arxiv.Result.Author('Louis Girardin'), arxiv.Result.Author('Fabian J. Dickhardt'), arxiv.Result.Author('Christopher P. McLaren'), arxiv.Result.Author('Jens. P. Metzger'), arxiv.Result.Author('Christoph R. Müller')]","Fingering instabilities akin to the Rayleigh-Taylor (RT) instability in
+fluids have been observed in a binary granular system consisting of dense and
+small particles layered on top of lighter and larger particles, when the system
+is subjected to vertical vibration and fluidizing gas flow. Using observations
+from experiments and numerical modelling we explore whether the theory
+developed to describe the Rayleigh-Taylor (RT) instability in fluids is also
+applicable to binary granular systems. Our results confirm the applicability of
+the classic RT instability theory for binary granular systems demonstrating
+that several key features are observed in both types of systems, viz: (i) The
+characteristic wavenumber of the instability is constant with time, (ii) the
+amplitude of the characteristic wavenumber initially grows exponentially and
+(iii) the dispersion relation between the wavenumbers k of the interface
+instability and the growth rates n(k) of their amplitudes holds in both
+fluid-fluid and binary granular systems. Our results also demonstrate that
+inter-particle friction is essential for the RT instability to occur in
+granular media. For zero particle friction the interface instability bears a
+greater resembles to the Richtmyer-Meshkov instability. We further define a
+yield criterion Y for the interface by treating the granular medium as a
+viscoplastic material; only for Y > 15 fingering occurs. Interestingly,
+previous work has shown that instabilities in the Earth's lower mantle, another
+viscoplastic material, also occur for similar values of Y.",0.12401071,-0.34081268,-0.12407632,B
+7965,"(A1–A3) yields:
+However, further research is required to confirm this
+hypothesis.",(A4) and (A5) into Eq.,"ΔΘ = 0 ,                        (A7)
+
+Acknowledgment                                                                               Ψ =  Ψ .",2022-06-22 19:34:32+00:00,Fingering instabilities in binary granular systems,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Meng Liu'), arxiv.Result.Author('Nicholas A. Conzelmann'), arxiv.Result.Author('Louis Girardin'), arxiv.Result.Author('Fabian J. Dickhardt'), arxiv.Result.Author('Christopher P. McLaren'), arxiv.Result.Author('Jens. P. Metzger'), arxiv.Result.Author('Christoph R. Müller')]","Fingering instabilities akin to the Rayleigh-Taylor (RT) instability in
+fluids have been observed in a binary granular system consisting of dense and
+small particles layered on top of lighter and larger particles, when the system
+is subjected to vertical vibration and fluidizing gas flow. Using observations
+from experiments and numerical modelling we explore whether the theory
+developed to describe the Rayleigh-Taylor (RT) instability in fluids is also
+applicable to binary granular systems. Our results confirm the applicability of
+the classic RT instability theory for binary granular systems demonstrating
+that several key features are observed in both types of systems, viz: (i) The
+characteristic wavenumber of the instability is constant with time, (ii) the
+amplitude of the characteristic wavenumber initially grows exponentially and
+(iii) the dispersion relation between the wavenumbers k of the interface
+instability and the growth rates n(k) of their amplitudes holds in both
+fluid-fluid and binary granular systems. Our results also demonstrate that
+inter-particle friction is essential for the RT instability to occur in
+granular media. For zero particle friction the interface instability bears a
+greater resembles to the Richtmyer-Meshkov instability. We further define a
+yield criterion Y for the interface by treating the granular medium as a
+viscoplastic material; only for Y > 15 fingering occurs. Interestingly,
+previous work has shown that instabilities in the Earth's lower mantle, another
+viscoplastic material, also occur for similar values of Y.",-0.46057364,-0.05467488,0.07983892,A
+8210,for further study.,"acidification, either with batch or microfluidic emulsification, were both
+Increasing the PGPR concentration or decreasing heating rate did not   essentially homogeneous and spherical, and thus considered suitable
+avoid this aggregation (data not shown).","Microgels from Th conditions prepared by microfluidic emulsification
+(Fig 6, top right) also had a tendency to aggregation.",2022-06-29 07:57:20+00:00,Batch versus microfluidic emulsification processes to produce whey protein microgel beads from thermal or acidic gelation,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Alban Lacroix'), arxiv.Result.Author('Murielle Hayert'), arxiv.Result.Author('Veronique Bosc'), arxiv.Result.Author('Paul Menut')]","Producing food-grade soft particles with controlled structure is of interest
+to elucidate the structure-properties relationship in soft-particles
+suspensions. The aim of this work is to evaluate the ability of two elaboration
+processes to produce homogenous and spherical whey protein microgels with
+adjustable diameters in the range 40-100 $\mu$m. Microgels are formed in two
+steps: (1) emulsification of a whey protein aqueous solution in oil and (2)
+gelation of the protein solution droplets. We compare a continuous
+emulsification in a home-made microfluidic device, designed on purpose, with a
+more simple emulsification by mixing. In addition, two gelation processes are
+studied: a thermal gelation at 80{\textdegree}C and an acid gelation. Results
+sshow that emulsification controls the size polydispersity (pdI<0.1 for
+microfluidics) while gelation controls the microgels structure and assembly.
+Acid gelation in the microfluidic device results in spherical, homogeneous
+microgels which properties are controlled by the process parameters.",0.252105,-0.0075478666,-0.23461814,B
+8868,"Finally, we
+remark that the configurations we found to successful to control molecular orientation may not
+be the only ones, and further research should explore other possibilities.","In analogy to enzymes, that speed up
+reactions by bringing reagents nearby with the correct relative orientation, future DNA origami
+with molecular orientational control could serve as synthetic catalytic platforms.","Author contributions
+F.D.S, M.P.P.",2022-07-13 18:45:53+00:00,DNA self-assembly of single molecules with deterministic position and orientation,cond-mat.soft,"['cond-mat.soft', 'physics.chem-ph']","[arxiv.Result.Author('Aleksandra K. Adamczyk'), arxiv.Result.Author('Teun A. P. M. Huijben'), arxiv.Result.Author('Miguel Sison'), arxiv.Result.Author('Andrea di Luca'), arxiv.Result.Author('Germán Chiarelli'), arxiv.Result.Author('Stefano Vanni'), arxiv.Result.Author('Sophie Brasselet'), arxiv.Result.Author('Kim Mortensen'), arxiv.Result.Author('Fernando D. Stefani'), arxiv.Result.Author('Mauricio Pilo-Pais'), arxiv.Result.Author('Guillermo P. Acuna')]","An ideal nanofabrication method should allow the organization of
+nanoparticles and molecules with nanometric positional precision,
+stoichiometric control and well-defined orientation. The DNA origami technique
+has evolved into a highly versatile bottom-up nanofabrication methodology that
+fulfils almost all of these features. It enables the nanometric positioning of
+molecules and nanoparticles with stoichiometric control, and even the
+orientation of asymmetrical nanoparticles along predefined directions. However,
+orienting individual molecules has been a standing challenge, mainly due to
+unspecific electrostatic interactions. Here, we show how single molecules,
+namely Cy5 and Cy3 fluorophores, can be incorporated in a DNA origami with
+controlled orientation by doubly linking them to oligonucleotide strands that
+are hybridized while leaving enough unpaired bases to induce a stretching
+force. Particularly, we explore the effects of leaving 0, 2, 4, 6, and 8
+unpaired bases and find extreme orientations for 0 and 8 unpaired bases,
+corresponding to the molecules being perpendicular and parallel to the DNA
+double helix, respectively. We foresee that these results will expand the
+application field of DNA origami towards the fabrication of nanodevices
+involving a wide range of orientation-dependent molecular interactions, such as
+energy transfer, intermolecular electron transport, catalysis, exciton
+delocalization, or the electromagnetic coupling of a molecule to specific
+resonant nano-antennas modes.",0.018607723,0.3371632,0.0080819465,C
+9117,"However,
+there are some details omitted from our work that could be important in real systems and
+deserve further study.","Our study of the swelling and shrinking of a spherical thermo-responsive hydrogel has
+highlighted many interesting features that may be observed in such a system.","For example, the model enforced a spherical symmetry on the gel
+that may not be realistic, and precludes dynamics such as spinodal decomposition.",2022-07-20 14:58:37+00:00,The swelling and shrinking of spherical thermo-responsive hydrogels,cond-mat.soft,"['cond-mat.soft', 'physics.flu-dyn']","[arxiv.Result.Author('Matthew D. Butler'), arxiv.Result.Author('Thomas D. Montenegro-Johnson')]","Thermo-responsive hydrogels are a promising material for creating
+controllable actuators for use in micro-scale devices, since they expand and
+contract significantly (absorbing or expelling fluid) in response to relatively
+small temperature changes. Understanding such systems can be difficult because
+of the spatially- and temporally-varying properties of the gel, and the complex
+relationships between the fluid dynamics, elastic deformation of the gel and
+chemical interaction between the polymer and fluid. We address this using a
+poro-elastic model, considering the dynamics of a thermo-responsive spherical
+hydrogel after a sudden change in the temperature that should result in
+substantial swelling or shrinking. We focus on two model examples, with
+equilibrium parameters extracted from data in the literature. We find a range
+of qualitatively different behaviours when swelling and shrinking, including
+cases where swelling and shrinking happen smoothly from the edge, and other
+situations which result in the formation of an inwards-travelling spherical
+front that separates a core and shell with markedly different degrees of
+swelling. We then characterise when each of these scenarios is expected to
+occur. An approximate analytical form for the front dynamics is developed, with
+two levels of constant porosity, that well-approximates the numerical
+solutions. This system can be evolved forward in time, and is simpler to solve
+than the full numerics, allowing for more efficient predictions to be made,
+such as when deciding dosing strategies for drug-laden hydrogels.",0.30720595,-0.048843905,0.0025288854,B
+9118,"Therefore, the front formation observed in our solution could be the origin of
+the lobe-like instability seen by Sato Matsuo & Tanaka (1988); further study is required
+to investigate this.","While this wrinkling cannot be reproduced with a spherically-symmetric system,
+we note that our step-function solution has a discontinuous jump in the hoop stresses at
+the front, which could be relaxed by deforming this interface in a non-radially symmetric
+manner.","For our results, we have also assumed that the background ﬂuid is quiescent and the
+boundary of the hydrogel only experiences stresses from the external ﬂuid pressure.",2022-07-20 14:58:37+00:00,The swelling and shrinking of spherical thermo-responsive hydrogels,cond-mat.soft,"['cond-mat.soft', 'physics.flu-dyn']","[arxiv.Result.Author('Matthew D. Butler'), arxiv.Result.Author('Thomas D. Montenegro-Johnson')]","Thermo-responsive hydrogels are a promising material for creating
+controllable actuators for use in micro-scale devices, since they expand and
+contract significantly (absorbing or expelling fluid) in response to relatively
+small temperature changes. Understanding such systems can be difficult because
+of the spatially- and temporally-varying properties of the gel, and the complex
+relationships between the fluid dynamics, elastic deformation of the gel and
+chemical interaction between the polymer and fluid. We address this using a
+poro-elastic model, considering the dynamics of a thermo-responsive spherical
+hydrogel after a sudden change in the temperature that should result in
+substantial swelling or shrinking. We focus on two model examples, with
+equilibrium parameters extracted from data in the literature. We find a range
+of qualitatively different behaviours when swelling and shrinking, including
+cases where swelling and shrinking happen smoothly from the edge, and other
+situations which result in the formation of an inwards-travelling spherical
+front that separates a core and shell with markedly different degrees of
+swelling. We then characterise when each of these scenarios is expected to
+occur. An approximate analytical form for the front dynamics is developed, with
+two levels of constant porosity, that well-approximates the numerical
+solutions. This system can be evolved forward in time, and is simpler to solve
+than the full numerics, allowing for more efficient predictions to be made,
+such as when deciding dosing strategies for drug-laden hydrogels.",0.3502165,-0.076081544,0.13486025,B
+9352,"However, immediately after the conference,
+only some final results were published without proof to give collaborators and further researchers quick access to the
+mapping rules in the context of the method of dimensionality reduction (MDR) [19] (see also [20]).","At a 2016 conference [18], Heß presented a method for solving tangential contacts of power-law
+graded, elastic solids including full-stick, partial slip, and gross sliding.","Therefore, one of
+the authors' motivations for the present work is to provide the complete derivation of the solutions.",2022-07-26 19:45:22+00:00,Tangential contacts of three-dimensional power-law graded elastic solids: A general theory and application to partial slip,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Markus Heß'), arxiv.Result.Author('Qiang Li')]","A rigorous theory for solving tangential contacts between three-dimensional
+power-law graded elastic solids of arbitrary geometry is presented. For
+multiple contacts such as those occurring between two nominally flat but rough
+half-spaces, the well-known Ciavarella-J\""ager theorem is established
+accompanied by a discussion of tangential coupling. Nevertheless, the focus of
+the work is on axisymmetric single contacts under arbitrary unidirectional
+tangential loading, for which closed-form analytical solutions are derived
+based on the Mossakovskii-J\""ager procedure. In comparison to the results of
+common approximate methods, the solutions include the non-axisymmetric
+components of tangential displacements, which are indispensable for the
+accurate determination of the relative slip components and thus the surface
+density of frictional energy dissipation in the partial slip regime. Although a
+simplified approach is used for the calculation of the dissipated energy
+density, the results in the limiting case of homogeneous material are in
+excellent agreement with those from a full numerical computation. As an
+application example, the complete solutions for the tangential contact of
+parabolically shaped power-law graded elastic solids in the partial slip regime
+are derived and the influence of the material gradient as well as Poisson's
+ratio on the surface density of dissipated energy is investigated.",-0.15336476,0.035429627,-0.27032936,A
+9361,"Modelling this behaviour using more
+advanced constitutive modelling that accounts directly for nonlinear effects [47, 63]
+would an interesting topic of further study.","We speculate that this may be indicative of permanent changes
+to the hydrogel’s structure at large deformations.","Within this nonlinear regime we observe that the hydrogel undergoes stiffening while
+subjected to shear strains, which is manifested both in relaxation data (figure 3 (b))
+and in strain ramp data (figure 4 (d)).",2022-07-27 08:11:43+00:00,Power Law Rheology of Folded Protein Hydrogels,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Anders Aufderhorst-Roberts'), arxiv.Result.Author('Sophie Cussons'), arxiv.Result.Author('David J. Brockwell'), arxiv.Result.Author('Lorna Dougan')]","Folded protein hydrogels are prime candidates as tuneable biomaterials but it
+is unclear to what extent their mechanical properties have mesoscopic, as
+opposed to molecular origins. To address this, we probe hydrogels of the
+muscle-derived protein $I27_5$, using a multimodal rheology approach. Across
+multiple protocols, the hydrogels consistently exhibit power-law
+viscoelasticity in the linear viscoelastic regime with an exponent $\beta =
+0.03$, suggesting a dense fractal meso-structure, with predicted fractal
+dimension $d_f = 2.48$. In the nonlinear viscoelastic regime, the hydrogel
+undergoes stiffening and energy dissipation, indicating simultaneous alignment
+and unfolding of the folded proteins. Remarkably, this behaviour is highly
+reversible, as the value of $\beta$, $d_f$ and the viscoelastic moduli return
+to their equilibrium value, even after multiple cycles of deformation. This
+highlights a previously unrevealed diversity of viscoelastic properties that
+originate on the mesoscopic scale. These considerations are likely to be key to
+controlling the viscoelasticity of folded protein hydrogels.",0.23952696,-0.07359611,-0.012807576,B
+10027,We further study the effect of DP.,"(a) φp and (b) H as a function of σ when np = 1,000 and χ = 0.45,
+and (c-d) in various χ.","We fix σ = 100 , and thus H = 10 is the boundary
+between the overlapped brushes and dilute brushes.",2022-08-14 18:10:46+00:00,A polymer brush theory for quantitative prediction of maximum height change between dry and wet states,cond-mat.soft,"['cond-mat.soft', 'cond-mat.mes-hall', 'cond-mat.mtrl-sci']",[arxiv.Result.Author('Jiawei Yang')],"Polymer brushes can grow on almost any solid surface, and by design, exhibit
+diverse properties and functionalities, thus they have been widely used in many
+emerging applications in engineering, energy, and medicine. In particular, some
+applications such as actuation, molecule release, and friction switch require
+the polymer brushes to change their heights between dry and wet states, and
+maximizing such height change is critical for the optimal performance of these
+applications. While scaling laws have long been proposed to qualitatively
+determine brush heights, a theory that can quantitatively predict brush heights
+and conditions for maximizing brush height change is still lacking yet is
+valuable for the practical design of polymer brushes. Here, we take a
+thermodynamic approach to formulate a polymer brush theory to calculate brush
+heights at various conditions of graft area, degree of polymerization (DP), and
+solvent qualities. Our model consists of two parts-the freely-jointed chain
+model to describe the elasticity of brushes and the Flory-Rehner model to
+describe the mixing of brushes and solvents. The calculated brush heights at
+both dry and wet states fairly agree with the experimental data from the
+literature. The calculated brush heights are further used to determine the
+conditions for the maximum brush height change. Our theory can guide the design
+of polymer brushes for optimal functional performance in various applications
+and also can couple with other models to describe more complex behaviors of
+polymer brushes.",-0.05295506,-0.072839506,-0.15133035,A
+10049,"We expect that this approach
+                                                                          and ﬁndings will provide a guide in the further study of
+ized to the direction vector of the average of natural fre-               the long-term solutions.","(3), as illustrated.","For a background of the present
+                                                                          study, a rigorous examination on the validity of Eq.",2022-08-15 14:18:37+00:00,Generalization of Kuramoto model in vector product form,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Hyun Keun Lee'), arxiv.Result.Author('Hyunsuk Hong')]","We generalize the Kuramoto model of coupled phase oscillators in
+3-dimensional space, via a vector product form. It is demonstrated that the
+standard Kuramoto model can be transformed to a vector product form. This form
+gives the generalized model as the phase and the natural frequency of
+oscillator are, respectively, represented by position on unit sphere and
+3-dimensional frequency vector. The long-term collective states are
+illustrated, which are arguable with the geometric intuition motivated by the
+model structure, the vector product form. Our prediction shows a good
+consistency with numerical observations. We illustrate the conventional
+numerical integration method for the Kuramoto model in 3-dimension is
+accompanied by unavoidable ambiguity, and show this problem is resolved in the
+new method direct from our model equation.",-0.3325019,-0.12883687,-0.047790196,A
+10344,"                                                                 
+   Non-ergodicity parameters and fragility.—To further study                                                                               
+the roles of the dynamics-related N and the statics-related                    
+c(3), we consider the non-ergodicity parameters (NEPs) at the                                  VLPXODWLRQ
+
+critical points.","Note that the higher temperature of silica corre-                                                                                  
+                                                                                                                                           
+sponds to the lower packing fraction of hard spheres, hence
+the two competitive effects that including c(3) stabilizes the                                                                                                          VLPXODWLRQ
+glass state while increasing N stabilizes the liquid state are                                                                             
+                                                                               
+universal.","Again, we ﬁrst focus on BHS.",2022-08-23 15:25:02+00:00,Many-body correlations are non-negligible in both fragile and strong glassformers,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech']","[arxiv.Result.Author('Chengjie Luo'), arxiv.Result.Author('Joshua F. Robinson'), arxiv.Result.Author('Ilian Pihlajamaa'), arxiv.Result.Author('Vincent E. Debets'), arxiv.Result.Author('C. Patrick Royall'), arxiv.Result.Author('Liesbeth M. C. Janssen')]","It is widely believed that the emergence of slow glassy dynamics is encoded
+in a material's microstructure. First-principles theory [mode-coupling theory
+(MCT)] is able to predict the dramatic slowdown of the dynamics from only
+static two-point correlations as input, yet it cannot capture all of the
+observed dynamical behavior. Here we go beyond two-point spatial correlation
+functions by extending MCT systematically to include higher-order static and
+dynamic correlations. We demonstrate that only adding the static triplet direct
+correlations already qualitatively changes the predicted glass-transition
+diagram of binary hard spheres and silica. Moreover, we find a non-trivial
+competition between static triplet correlations that work to stabilize the
+glass state, and dynamic higher-order correlations which destabilize it for
+both materials. We conclude that the conventionally neglected static triplet
+direct correlations as well as higher-order dynamic correlations are in fact
+non-negligible in both fragile and strong glassformers.",-0.036214717,-0.3003955,0.16294894,A_centroid
+10392,"We believe that the presented methodology will stimulate further research on colloidal
+monolayers at liquid/liquid or air/liquid interfaces, in particular when softness and deformability
+of objects are studied.39 Furthermore, the fact that phase transitions can be directly monitored in-
+situ at the respective interface will allow for on-demand tailoring of colloidal microstructures on
+solid substrates – provided that the transfer protocol to the substrate is suitable to maintain the
+microstructure.","5) The processing
+and analysis (e.g., radial averaging, peak position and width) of the diffraction patterns is much
+less prone to errors and less time-consuming when compared to real space analysis of microscopy
+images for which the centers of mass of all imaged particles have to be identified.","The next important steps in this line of research are further investigation on the
+role of the transfer protocol as well as the surface chemistry of the substrate during the drying
+procedure.",2022-08-24 14:48:06+00:00,Compression of colloidal monolayers at liquid interfaces: in-situ vs. ex-situ investigation,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Keumkyung Kuk'), arxiv.Result.Author('Vahan Abgarjan'), arxiv.Result.Author('Virginia Carrasco Fadanelli'), arxiv.Result.Author('Lukas Gregel'), arxiv.Result.Author('Ivo Buttinoni'), arxiv.Result.Author('Matthias Karg')]","The assembly of colloidal particles at liquid/liquid or air/liquid interfaces
+is a versatile procedure to create microstructured monolayers and study their
+behavior under compression. When combined with soft and deformable particles
+like microgels, compression is used to tune not only the interparticle
+distances but also the underlying microstructure of the monolayer. So far, the
+great majority of studies on microgel-laden interfaces are conducted ex-situ
+after transfer to solid substrates, for example, by Langmuir-Blodgett
+deposition. This type of analysis relies on the stringent assumption that the
+microstructure is conserved during transfer and subsequent drying. In this
+work, we couple a Langmuir trough to a custom-built small-angle light
+scattering setup to monitor colloidal monolayers in-situ during compression. By
+comparing the results with ex-situ and in-situ microscopy measurements, we
+conclude that Langmuir-Blodgett deposition can alter the structural properties
+of the colloidal monolayers significantly.",0.58747435,0.065448776,-0.055546135,B
+10393,"We believe that the presented methodology will stimulate further research on colloidal
+monolayers at liquid/liquid or air/liquid interfaces, in particular when softness and deformability
+
+                                                                                                                   24
+of objects are studied.50, 61 Furthermore, the fact that phase transitions can be directly monitored
+in situ at the respective interface will allow systematic studies required to achieve a more
+comprehensive understanding of colloidal assembly at interfaces22 and enable on-demand tailoring
+of colloidal microstructures on solid substrates – provided that the transfer protocol to the substrate
+is suitable to maintain the microstructure.","5) The processing
+and analysis (e.g., radial averaging, peak position and width) of the diffraction patterns is much
+less prone to errors and less time-consuming when compared to real space analysis of microscopy
+images for which the centers of mass of all imaged particles have to be identified.","The next important steps in this line of research are
+further investigation on the role of the transfer protocol as well as the surface chemistry of the
+substrate during the drying procedure.",2022-08-24 14:48:06+00:00,Compression of colloidal monolayers at liquid interfaces: in situ vs. ex situ investigation,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Keumkyung Kuk'), arxiv.Result.Author('Vahan Abgarjan'), arxiv.Result.Author('Lukas Gregel'), arxiv.Result.Author('Yichu Zhou'), arxiv.Result.Author('Virginia Carrasco Fadanelli'), arxiv.Result.Author('Ivo Buttinoni'), arxiv.Result.Author('Matthias Karg')]","The assembly of colloidal particles at liquid/liquid or air/liquid interfaces
+is a versatile procedure to create microstructured monolayers and study their
+behavior under compression. When combined with soft and deformable particles
+such as microgels, compression is used to tune not only the interparticle
+distance but also the underlying microstructure of the monolayer. So far, the
+great majority of studies on microgel-laden interfaces is conducted ex situ
+after transfer to solid substrates, for example, via Langmuir-Blodgett
+deposition. This type of analysis relies on the stringent assumption that the
+microstructure is conserved during transfer and subsequent drying. In this
+work, we couple a Langmuir trough to a custom-built small-angle light
+scattering setup to monitor colloidal monolayers in situ during compression. By
+comparing the results with ex situ and in situ microscopy measurements, we
+conclude that Langmuir-Blodgett deposition can alter the structural properties
+of the colloidal monolayers significantly.",0.5784973,0.050727747,-0.05334907,B
+10559,"DV and SP
+The impact of these diﬀerent points on internal stress          acknowledge countless discussions with S. Roux on meso-
+ﬂuctuations certainly deserves further study.",the Brandeis MRSEC NSF DMR-2011846.,"scopic models of amorphous plasticity and their connec-
+                                                                tion with atomistic simulations.",2022-08-30 16:15:25+00:00,Coarse-graining amorphous plasticity: impact of rejuvenation and disorder,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Botond Tyukodi'), arxiv.Result.Author('Armand Barbot'), arxiv.Result.Author('Reinaldo Garciá-Garciá'), arxiv.Result.Author('Matthias Lerbinger'), arxiv.Result.Author('Sylvain Patinet'), arxiv.Result.Author('Damien Vandembroucq')]","The coarse-graining of amorphous plasticity from the atomistic to the
+mesoscopic scale is studied in the framework of a simple scalar elasto-plastic
+model. Building on recent results obtained on the atomistic scale, we discuss
+the interest in a disordered landscape-informed threshold disorder to reproduce
+the physics of amorphous plasticity. We show that accounting for a rejuvenation
+scenario allows us to reproduce quasi-quantitatively the evolution of the mean
+local yield stress and the localization behavior. We emphasize the crucial role
+of two dimensionless parameters: the relative strength of the yield stress
+disorder with respect to the typical stress drops associated with a plastic
+rearrangement, and the age parameter characterizing the relative stability of
+the initial glass with respect to the rejuvenated glass that emerges upon shear
+deformation.",0.041555002,-0.31403846,0.049152084,A
+11067,"We further study history-dependent property
+                                               al.",In the work of R. Großmann et           ﬂocking.,"[1], they propose a model of active Brownian parti-      in the active system, and explore how the initial states
+                                               cles (ABPs) with velocity alignment.",2022-09-12 16:15:28+00:00,Dynamic path dependence of phase behaviors in dense active system,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Lu Chen'), arxiv.Result.Author('Bokai Zhang'), arxiv.Result.Author('Z. C. Tu')]","There are rich emergent phase behaviors in non-equilibrium active systems.
+Flocking and clustering are two representative dynamic phases. The relationship
+between these two phases is still unclear. In the paper, we numerically
+investigate the evolution of flocking and clustering in a system consisting of
+self-propelled particles with active reorientation. We consider the interplay
+between flocking and clustering phases under different initial states, and
+observe an unstable domain in order parameters phase diagrams due to initial
+states even in the absence of an explicit attraction. This point is different
+from the previous finding that active angular fluctuations lead to an earlier
+breakdown of collective motion and the emergence of a new bi-stable regime in
+the aligned active particles [R.Grossmann et al, New J. Phys.073033,14 (2012)].
+In particular, we find that the existence of bi-stable states is due to the
+diversity of dynamic paths arising from different initial states. By increasing
+(decreasing) the initial degree of ordering, the bi-stable state can be shifted
+to a more ordered flocking (disordered clustering) state. These results
+enlighten us pave the way to manipulate emergent behaviors and collective
+motions of active system.",-0.34312475,0.07458737,0.19427434,A
+11146,"However, the transition was not
+tional to the intensity of the optical signal, I = aαeﬀ,      reversible, highlighting that the microscopic mechanism
+where a is a ﬁt parameter, the hydrodynamic model ex-         requires further study.","5
+   If we assume that the active stress is linearly propor-
+                                                              gineering applications.",plains the size dependence of the bend instability [Fig.,2022-09-13 19:47:10+00:00,Spatiotemporal patterning of extensile active stresses in microtubule-based active fluids,cond-mat.soft,"['cond-mat.soft', 'physics.bio-ph', 'physics.flu-dyn']","[arxiv.Result.Author('Linnea M. Lemma'), arxiv.Result.Author('Minu Varghese'), arxiv.Result.Author('Tyler D. Ross'), arxiv.Result.Author('Matt Thomson'), arxiv.Result.Author('Aparana Baskaran'), arxiv.Result.Author('Zvonimir Dogic')]","Active stresses, which are collectively generated by the motion of
+energy-consuming rod-like constituents, generate chaotic autonomous flows.
+Controlling active stresses in space and time is an essential prerequisite for
+controlling the intrinsically chaotic dynamics of extensile active fluids. We
+design single-headed kinesin molecular motors that exhibit optically enhanced
+clustering, and thus enable precise and repeatable spatial and temporal control
+of extensile active stresses. Such motors enable rapid, reversible switching
+between flowing and quiescent states. In turn, spatio-temporal patterning of
+the active stress controls the evolution of the ubiquitous bend-instability of
+extensile active fluids and determines its critical length dependence.
+Combining optically controlled clusters with conventional kinesin motors
+enables one-time switching from contractile to extensile active stresses. These
+results open a path towards real-time control of the autonomous flows generated
+by active fluids.",-0.021255085,-0.093231864,0.31831452,A
+11300,"gers further research on the supercooled liquid structures
+                                                using various approaches.",This situation trig-   function (PPDF) for the considered pair of particles.,"Earlier computer simulation           We produced the structures of the KAS and WS in the
+                                                studies were usually focused on considerations of local      N V T ensemble at diﬀerent temperatures in a standard
+                                                atomic environments of individual particles, essentially,    way using the LAMMPS program [37, 38] .",2022-09-16 14:47:34+00:00,Concerning the formation of chains of particles in the Kob-Andersen (4:1) and Wahnstr{ö}m (1:1) model liquids on coolind and supercooling,cond-mat.soft,"['cond-mat.soft', 'cond-mat.mtrl-sci']",[arxiv.Result.Author('V. A. Levashov')],"We report about a previously not discussed structural feature of the model
+Kob-Andersen (KA) and Wahnstrom (WH) supercooled liquid systems. In particular,
+we observed that on cooling and supercooling, in the KA system, the large
+particles exhibit an increasing tendency to form chains. In the WH system, the
+chains are formed by the smaller and all particles. The numbers of particles
+(NoPs) in the chains, if calculated on the inherent structures, exhibit a
+crossover at the potential energy landscape crossover temperature. The observed
+chains demonstrate, in a direct way, the presence in the studied liquids of the
+structural angular ordering on length scale up to 9 inter atomic distances. In
+our view, the observed chains may represent a tendency of particles in liquids
+to form small 1D crystals in 3D liquids.",0.0019360585,-0.19595054,-0.07587134,A
+11596,"It is of great theoretical and
+
+                                                                     17
+practical signiﬁcance to study the formation mechanism of the compact structure of the char layer for further studying
+the ablation mechanism and guiding the development of EPDM composites.","We used our H-PINN to predict the spatial evolution of chemical processes
+(pyrolysis and charring) before validating them against mesoscale ﬁnite element results.","To date, the char formation pattern in
+polymeric materials cannot be predicted with reduced order models, such as machine-learned approaches.",2022-09-23 17:49:02+00:00,A Knowledge-driven Physics-Informed Neural Network model; Pyrolysis and Ablation of Polymers,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Aref Ghaderi'), arxiv.Result.Author('Ramin Akbari'), arxiv.Result.Author('Yang Chen'), arxiv.Result.Author('Roozbeh Dargazany')]","In aerospace applications, multiple safety regulations were introduced to
+address associated with pyrolysis. Predictive modeling of pyrolysis is a
+challenging task since multiple thermo-chemo-mechanical laws need to be
+concurrently solved at each time step. So far, classical modeling approaches
+were mostly focused on defining the basic chemical processes (pyrolysis and
+ignite) at micro-scale by decoupling them from thermal solution at the
+micro-scale and then validating them using meso-scale experimental results. The
+advent of Machine Learning (ML) and AI in recent years has provided an
+opportunity to construct quick surrogate ML models to replace high fidelity
+multi-physics models, which have a high computational cost and may not be
+applicable for high nonlinear equations. This serves as the motivation for the
+introduction of innovative Physics informed neural networks (PINNs) to simulate
+multiple stiff, and semi-stiff ODEs that govern Pyrolysis and Ablation. Our
+Engine is particularly developed to calculate the char formation and degree of
+burning in the course of pyrolysis of crosslinked polymeric systems. A
+multi-task learning approach is hired to assure the best fitting to the
+training data. The proposed Hybrid-PINN (HPINN) solver was bench-marked against
+finite element high fidelity solutions on different examples. We developed PINN
+architectures using collocation training to forecast temperature distributions
+and the degree of burning in the course of pyrolysis in multiple one- and
+two-dimensional examples. By decoupling thermal and mechanical equations, we
+can predict the loss of performance in the system by predicting the char
+formation pattern and localized degree of burning at each continuum.",0.052858546,-0.049129706,-0.1565634,B
+11638,enhance or hinder dispersion and merits further study.,"This, in turn, could either                  658, 188 (2010).","Second, in addition to changing the convective forcing,       [14] S. C. Takatori and J. F. Brady, Soft Matter 10, 9433
+one could investigate colloids with diﬀerent packing                (2014).",2022-09-26 03:43:12+00:00,Enhanced dispersion in an oscillating array of harmonic traps,cond-mat.soft,"['cond-mat.soft', 'physics.flu-dyn']","[arxiv.Result.Author('Joseph M. Barakat'), arxiv.Result.Author('Sho C. Takatori')]","Experiment, theory, and simulation are employed to understand the dispersion
+of colloidal particles in a periodic array of oscillating harmonic traps
+generated by optical tweezers. In the presence of trap oscillation, a
+non-monotonic and anisotropic dispersion is observed. Surprisingly, the
+stiffest traps produce the largest dispersion at a critical frequency, and the
+particles diffuse significantly faster in the direction of oscillation than
+those undergoing passive Stokes-Einstein-Sutherland diffusion. Theoretical
+predictions for the effective diffusivity of the particles as a function of
+trap stiffness and oscillation frequency are developed using generalized Taylor
+dispersion theory and Brownian dynamics simulations. Both theory and simulation
+demonstrate excellent agreement with the experiments, and reveal a new
+``slingshot'' mechanism that predicts a significant enhancement of colloidal
+diffusion in dynamic external fields.",0.28172988,-0.2141074,-0.16743101,B
+11773,"[29] it is the combina-
+                                                                 tion of two sets of data that narrows down the possible
+   Future and ongoing work: There are quite a few in-
+teresting directions for the further research.",Just as in Ref.,"As already
+mentioned a ﬁnite size scaling study of shear-driven jam-
+ming, by means of the splitting into σs and σf , is under
+way.",2022-09-28 07:51:18+00:00,Slow and fast particles in shear-driven jamming: critical behavior,cond-mat.soft,['cond-mat.soft'],[arxiv.Result.Author('Peter Olsson')],"We do extensive simulations of a simple model of shear-driven jamming in two
+dimensions to analyze the velocity distribution at different densities $\phi$
+around the jamming density $\phi_J$ and at different low shear strain rates,
+$\dot\gamma$. We then find that the velocity distribution is made up of two
+parts which are related to two different physical processes which we call the
+slow process and the fast process as they are dominated by the slower and the
+faster particles, respectively. Earlier scaling analyses have shown that the
+shear viscosity $\eta$, which diverges as the jamming density is approached
+from below, consists of two different terms and we present strong evidence that
+these terms are related to the two different processes: the leading divergence
+is due to the fast process whereas the correction-to-scaling term is due to the
+slow process. The analysis of the slow process is possible thanks to the
+observation that the velocity distribution for different $\dot\gamma$ and
+$\phi$ at and around the shear-driven jamming transition, has a peak at low
+velocities and that the distribution has a constant shape up to and slightly
+above this peak. We then find that it is possible to express the contribution
+to the shear viscosity due to the slow process in terms of height and position
+of the peak in the velocity distribution and find that this contribution
+matches the correction-to-scaling term, determined through a standard critical
+scaling analysis. A further observation is that the collective particle motion
+is dominated by the slow process. In contrast to the usual picture in critical
+phenomena with a direct link between the diverging correlation length and a
+diverging order parameter, we find that correlations and shear viscosity
+decouple since they are controlled by different sets of particles and that
+shear-driven jamming is thus an unusual kind of critical phenomenon.",-0.10919739,-0.04311367,-0.17059946,A
+11778,"Despite success of these CVs,
+
+no hydrogen bonds were found to be present in the dimeric species formed at ﬁrst in the nu-
+
+cleation mechanism and left this mechanism unclear which leaves room for further research
+
+to understand the complexity of nucleation mechanism.","Once the hydrogen bonds are formed in proper direction and orientation, it stabilizes the
+
+complex leading to drive the nucleation mechanism forward.","31
+Figure 15: Nucleation trajectory obtained from a multiple walkers metadynamics simulation
+
+biasing  the  positional  and  orientational       OPs,  K Lrˆ,rˆOO,rˆON  and  K Lvc1 ,v2 .",2022-09-28 10:00:23+00:00,Collective Variables for Crystallization Simulations -- from Early Developments to Recent Advances,cond-mat.soft,"['cond-mat.soft', 'physics.comp-ph']","[arxiv.Result.Author('Neha'), arxiv.Result.Author('Vikas Tiwari'), arxiv.Result.Author('Soumya Mondal'), arxiv.Result.Author('Nisha Kumari'), arxiv.Result.Author('Tarak Karmakar')]","Crystallization is one of the most important physicochemical processes which
+has relevance in material science, biology, and the environment. Decades of
+experimental and theoretical efforts have been made to understand this
+fundamental symmetry-breaking transition. While experiments provide equilibrium
+structures and shapes of crystals, they are limited to unraveling how molecules
+aggregate to form crystal nuclei that subsequently transform into bulk
+crystals. Computer simulations, mainly molecular dynamics (MD), can provide
+such microscopic details during the early stage of a crystallization event.
+Crystallization is a rare event that takes place in timescales much longer than
+a typical equilibrium MD simulation can sample. This inadequate sampling of the
+MD method can be easily circumvented by the use of enhanced sampling (ES)
+simulations. An ES method enhances the fluctuations of a system's slow degrees
+of freedom, called collective variables (CVs), by applying a bias potential,
+and thereby transforms the system from one state to the other within a short
+timescale. The most crucial part of an ES method is to find suitable CVs which
+often needs intuition and several trial-and-error optimization steps. Over the
+years, a plethora of CVs has been developed and applied in the study of
+crystallization. In this review, we provide a brief overview of CVs that have
+been developed and used in ES simulations to study crystallization from melt or
+solution. These CVs can be categorized mainly into four types: (i) spherical
+particle-based, (ii) molecular template-based, (iii) physical property-based,
+and (iv) CVs obtained from dimensionality reduction techniques. We present the
+context-based evolution of CVs, discuss the current challenges, and propose
+future directions to further develop effective CVs for the study of
+crystallization of complex systems.",0.0019836626,0.11933559,0.14819291,C
+11921,"Certainly,
+double-well potential, switching between stable glaciated   this speculation requires the scrutiny of further study.","As noted         dioxide and temperature may be the dog whose path
+above, the glacial cycle system can be modeled using a      ﬂuctuates due to the inﬂuence of methane.","and deglaciated long-term states by passing through
+an unstable state.",2022-10-01 16:05:18+00:00,Stochastic Paleoclimatology: Modeling the EPICA Ice Core Climate Records,cond-mat.soft,"['cond-mat.soft', 'physics.ao-ph']","[arxiv.Result.Author('N. D. B. Keyes'), arxiv.Result.Author('L. T. Giorgini'), arxiv.Result.Author('J. S. Wettlaufer')]","We analyze and model the stochastic behavior of paleoclimate time series and
+assess the implications for the coupling of climate variables during the
+Pleistocene glacial cycles. We examine 800 kyr of carbon dioxide, methane,
+nitrous oxide, and temperature proxy data from the EPICA Dome-C ice core, which
+are characterized by 100~kyr glacial cycles overlain by fluctuations across a
+wide range of time scales. We quantify this behavior through multifractal
+time-weighted detrended fluctuation analysis, which distinguishes near
+red-noise and white-noise behavior below and above the 100~kyr glacial cycle
+respectively in all records. This allows us to model each time series as a
+one-dimensional periodic non-autonomous stochastic dynamical system, and assess
+the stability of physical processes and the fidelity of model-simulated time
+series. We extend this approach to a four-variable model with linear coupling
+terms, which we interpret in terms of the interrelationships between the time
+series. Methane and nitrous oxide are found to have significant destabilizing
+influences, while carbon dioxide and temperature have smaller stabilizing
+influences. We draw conclusions about causal relationships in glacial
+transitions and the climate processes that may have facilitated these
+couplings, and highlight opportunities to further develop stochastic modeling
+approaches.",-0.14168325,-0.0883849,0.15872926,A
+12496,"∂tθi = − τ |Ti|∆θi + Drη, (8)
+
+   Lastly, it would be interesting to further study any       where θi ∈ [−π, π] is the counterclockwise angle of cell
+possible connections between these results and those for      polarity measured from ex, Fˆipol = (cos θi, sin θi) and η is
+glass transition and jamming in passive, weakly con-          the Gaussian white noise with zero mean, unit variance,
+nected amorphous solids and granular materials.","As such, the polarization
+ﬁelds produced by multicellular layers is currently exper-    dynamics is given by:
+imentally accessible [43, 59] and can be used to probe
+the proposed universality in cellular monolayers in ex-                                       1
+periments.","Par-          Dr is rotational diﬀusivity, ∆θi is the angle between Fˆipol
+ticularly intriguing is the association of jamming in pas-    and Ti, and positive constant τ sets the alignment time
+sive systems with the emergence of rigidity [60, 61] and      scale.",2022-10-14 21:13:47+00:00,Stress percolation criticality of glass to fluid transition in active cell layers,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech']","[arxiv.Result.Author('Siavash Monfared'), arxiv.Result.Author('Guruswami Ravichandran'), arxiv.Result.Author('Jose E. Andrade'), arxiv.Result.Author('Amin Doostmohammadi')]","Using three-dimensional representation of confluent cell layers, we map the
+amorphous solid to fluid phase transition in active cell layers onto the
+two-dimensional (2D) site percolation universality class. Importantly, we unify
+two distinct, predominant, pathways associated with this transition; namely (i)
+cell-cell adhesion and (ii) active traction forces. For each pathway, we
+independently vary the corresponding control parameter and focus on the
+emergent mechanical stress patterns as the monolayer transitions from a glassy-
+to a fluid-like state. Through finite-size scaling analyses, our results lead
+us to establish the glassy- to fluid-like transition as a critical phenomena in
+terms of stress development in the cell layer and show that the associated
+criticality belongs to the 2D site percolation universality class. Our findings
+offer a fresh perspective on solid (glass-like) to fluid phase transition in
+active cell layers and can bridge our understanding of glassy behaviors in
+active matter with potential implications in biological processes such as wound
+healing, development, and cancer progression.",0.00074858963,-0.084534526,0.20127714,A
+12575,"Given the importance of interfaces in fundamental ﬂuid mechanics and in mate-
+rials processing, for example in the displacement of mud and cement slurries, we believe strongly that
+our work will trigger further research on the onset and growth of complex interfacial patterns.","Such interventions are known to alter the time-dependent rheology of soft glassy clay
+suspensions [40, 43].","13
+Declaration of Competing Interest
+
+The authors declare that they have no known competing ﬁnancial interests or personal relationships
+that could have appeared to inﬂuence the work reported in this paper.",2022-10-17 11:25:24+00:00,Growth kinetics of interfacial patterns formed by the radial displacement of an aging viscoelastic suspension,cond-mat.soft,"['cond-mat.soft', 'physics.flu-dyn']","[arxiv.Result.Author('Palak'), arxiv.Result.Author('Vaibhav Raj Singh Parmar'), arxiv.Result.Author('Ranjini Bandyopadhyay')]","When a soft glassy colloidal suspension is displaced by a Newtonian fluid in
+a radial Hele-Shaw geometry, the pattern morphology that develops at the
+interface is determined by the complex rheology of the former. We had reported
+in an earlier work [Palak, V. R. S. Parmar, D. Saha and R. Bandyopadhyay, JCIS
+Open, 6 (2022) 100047] that a range of interfacial patterns can be formed by
+controlling the elasticity of the displaced suspension, the flow rate of the
+displacing fluid and the interfacial tension of the fluid pair. Interestingly,
+all the different morphological features can be distinguished in terms of their
+areal ratios, defined as the ratio of the areas occupied by the fully-developed
+pattern and the smallest circle enclosing it. In a significant advance to this
+earlier work, we show here that a systematic study of spatio-temporal pattern
+growth can reveal important information about pattern selection mechanisms. We
+analyse the time-evolution of the patterns to reveal interesting correlations
+between their growth mechanisms and fully-developed morphologies. We believe
+that such systematic identification of the unique temporal features
+characterising pattern growth at the interface between an aging viscoelastic
+clay suspension and a Newtonian fluid can be useful in predicting and
+suppressing the onset and evolution of interfacial instabilities in the
+displacement of mud and cement slurries.",0.17061633,-0.09410286,-0.12529494,B
+12605,"Static two-point correlation function:- We further study
+                                                               the domain morphology for diﬀerent activities.","The stronger
+
+                                                               coupling of ﬂuid for high activity case breaks the
+
+                                                               rotational symmetry present in continuous vector order
+
+                                                               parameter and leads the system to behave like discrete
+
+                                                               spin of Ising type [31].","We cal-
+                                                               culated the equal-time correlations in orientation order
+                                                               parameter.",2022-10-17 15:53:56+00:00,Ordering kinetics in active polar fluid,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Shambhavi Dikshit'), arxiv.Result.Author('Shradha Mishra')]","We modeled the active polar fluid using the nonconserved orientation field
+coupled to a momentum conserving solvent. The growth kinetics of local
+orientation field is studied. The effect of active fluid is contractile or
+extensile depending upon the sign of the active stress due to local
+orientation. We explored the growth kinetics for different activity and find
+that the activity introduces a correction to the domain growth dynamics. For
+extensile fluid the growth is enhanced whereas for the contractile case we find
+the suppression. The asymptotic growth law becomes pure algebraic in the
+presence of activity. We also found that domain morphology remains unchanged
+due to activity and system shows the good dynamic scaling for all activities.
+Our study provides the understanding of ordering kinetics in active polar
+fluid.",-0.26364368,-0.022735965,0.18680002,A
+12648,"We believe that a clearer understanding of these suspensions
+   The temperature-dependent phase behavior of dense aque-        will trigger further research on their utility as multifunctional
+ous PNIPAM suspensions has been widely studied in the             materials23.",ing and therefore the stiffnesses of the constituent particles.,"literature2,6,7.",2022-10-18 09:09:17+00:00,Hydrogel stiffness determines particle self-assembly and suspension rheology across the lower consolute solution temperature,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Chandeshwar Misra'), arxiv.Result.Author('Sanjay Kumar Behera'), arxiv.Result.Author('Ranjini Bandyopadhyay')]","We produce thermoresponsive poly(N-isopropylacrylamide) (PNIPAM) colloidal
+hydrogel particles of different stiffnesses by controlling the concentration of
+crosslinker in a one-pot synthesis method. We employ oscillatory rheology and
+cryogenic scanning electron microscopy to correlate the temperature and
+stiffness-induced mechanical properties and microscopic structures of dense
+aqueous suspensions of the synthesized PNIPAM colloids. Using Fourier transform
+infrared spectroscopy, we show that particle hydrophobicity increases with
+increasing suspension temperature and decreasing particle stiffness. Our
+frequency and strain amplitude sweep rheology experiments reveal that the
+linear viscoelastic moduli and yield stresses of dense PNIPAM suspensions,
+constituted by particles of varying stiffnesses, increase when temperature is
+raised above the lower consolute solution temperature (LCST). Combining our
+cryogenic scanning electron microscopy and rheology data, we report that dense
+suspensions of the softest PNIPAM hydrogels show a gel-liquid-gel transition
+when temperature is increased across the LCST. Suspensions of stiff particles,
+in contrast, exhibit a glass-glass transition across the LCST without going
+through an intermediate liquid state. Our observations reveal that the
+temperature-induced phase transformations in dense PNIPAM suspensions depend
+sensitively on the stiffness of the constituent particles and can be explained
+by considering hydrophobicity-driven morphological changes in the suspension
+microstructures over the experimental temperature range. We can therefore
+achieve a variety of suspension phases with unique properties by tuning just
+the particle stiffness and suspension temperature.",0.11305319,-0.31596848,-0.09697457,A
+12649,"Since these materials can
+reveal that the soft particles, characterized by higher osmotic     be used in various engineering and biomimetic applications,
+pressures, deswell more rapidly than stiff particles upon in-       further research on their mechanical properties is of utmost
+creasing temperature.",Our dynamic light scattering data          stresses24 and are also very ﬂexible.,We perform Fourier transform infrared         importance.,2022-10-18 09:09:17+00:00,Hydrogel stiffness determines particle self-assembly and suspension rheology across the lower consolute solution temperature,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Chandeshwar Misra'), arxiv.Result.Author('Sanjay Kumar Behera'), arxiv.Result.Author('Ranjini Bandyopadhyay')]","We produce thermoresponsive poly(N-isopropylacrylamide) (PNIPAM) colloidal
+hydrogel particles of different stiffnesses by controlling the concentration of
+crosslinker in a one-pot synthesis method. We employ oscillatory rheology and
+cryogenic scanning electron microscopy to correlate the temperature and
+stiffness-induced mechanical properties and microscopic structures of dense
+aqueous suspensions of the synthesized PNIPAM colloids. Using Fourier transform
+infrared spectroscopy, we show that particle hydrophobicity increases with
+increasing suspension temperature and decreasing particle stiffness. Our
+frequency and strain amplitude sweep rheology experiments reveal that the
+linear viscoelastic moduli and yield stresses of dense PNIPAM suspensions,
+constituted by particles of varying stiffnesses, increase when temperature is
+raised above the lower consolute solution temperature (LCST). Combining our
+cryogenic scanning electron microscopy and rheology data, we report that dense
+suspensions of the softest PNIPAM hydrogels show a gel-liquid-gel transition
+when temperature is increased across the LCST. Suspensions of stiff particles,
+in contrast, exhibit a glass-glass transition across the LCST without going
+through an intermediate liquid state. Our observations reveal that the
+temperature-induced phase transformations in dense PNIPAM suspensions depend
+sensitively on the stiffness of the constituent particles and can be explained
+by considering hydrophobicity-driven morphological changes in the suspension
+microstructures over the experimental temperature range. We can therefore
+achieve a variety of suspension phases with unique properties by tuning just
+the particle stiffness and suspension temperature.",0.2523533,-0.0312939,-0.09162976,B
+12949,"In our study, we present a      important direction for further research.","[32]       various biological structures [77, 78] and hence the eﬀect
+where it is shown that spatial symmetry is broken due        of nonlinear terms arising from angular couplings is an
+to the presence of activity.","Recent devel-
+system where active torque breaks chiral symmetry.",2022-10-24 21:14:08+00:00,Odd Cosserat elasticity in active materials,cond-mat.soft,"['cond-mat.soft', 'cond-mat.stat-mech']","[arxiv.Result.Author('Piotr Surówka'), arxiv.Result.Author('Anton Souslov'), arxiv.Result.Author('Frank Jülicher'), arxiv.Result.Author('Debarghya Banerjee')]","Stress-strain constitutive relations in solids with an internal angular
+degree of freedom can be modelled using Cosserat (also called micropolar)
+elasticity. In this paper, we explore the phenomenology for a natural extension
+of Cosserat materials that includes chiral active components and odd
+elasticity. We calculate static elastic properties of such a solid, where we
+show that static response to rotational stresses leads to strains that depend
+on both Cosserat and odd elasticity. We then compute the dispersion of linear
+solutions in these odd Cosserat materials in the overdamped regime and find the
+presence of \emph{exceptional points} in the dispersion relation. We discover
+that these exceptional points create a sharp boundary between a
+Cosserat-dominated regime of complete wave attenuation and an
+odd-elasticity-dominated regime of propagating waves. We conclude by showing
+the effect of Cosserat and odd elastic terms on the polarization of Rayleigh
+surface waves.",-0.25633028,0.17984313,0.22697955,C
+13128,"Since Krytox 1506 satisfy all these
+important requirements of LIS lubricant, it was selected for further study.",Some of its important properties are listed in table 2.,Figure 5.,2022-10-28 07:14:47+00:00,Design and Fabrication of Omni-phobic LIS for low Hydrate Adhesion,cond-mat.soft,"['cond-mat.soft', 'physics.app-ph']","[arxiv.Result.Author('Abhishek Mund'), arxiv.Result.Author('Amit K Nayse'), arxiv.Result.Author('Kripa K. Varanasi'), arxiv.Result.Author('Arindam Das')]","Clathrate hydrate is a naturally occurring ice-like solid which forms in
+water phase under suitable temperature and pressure conditions, in the presence
+of one or more hydrophobic molecules. It also forms inside the oil and gas
+pipes leading to higher pumping cost, flow blockage and even catastrophic
+accidents. Engineered surfaces with low hydrate adhesion can provide an
+effective solution to this problem. Liquid impregnated surfaces is one such
+example of engineered surfaces which has already shown tremendous potential in
+reducing the nucleation and adhesion of solids. Here we report the design and
+synthesis of liquid impregnated surfaces with extremely low hydrate adhesion
+under the mixed environment of oil and water. The most challenging aspect of
+designing these surfaces was to stabilize a lubricant layer simultaneously
+under the water and oil. A detailed methodology to make such lubricant stable
+surfaces from theoretical perspective was described and experimentally
+validated for lubricant stability. Experimental measurements on such surfaces
+showed extremely low hydrate accumulation and one order of magnitude or more
+reduction in hydrate adhesion force.",-0.047543585,0.04410071,-0.37035924,A
+13129,"Hence, micropost LIS with 5 micron was only considered
+among micropost LISs for further study on hydrate adhesion.","However, LIS for current application need stable lubricant
+layer in both cyclopentane and water.","Stability of LIS based on nano
+spike surfaces and micro post (5 micron spacings) with nano spike post tops were ascertained
+in similar experiments and did not show any sign of instability till 48 hours.",2022-10-28 07:14:47+00:00,Design and Fabrication of Omni-phobic LIS for low Hydrate Adhesion,cond-mat.soft,"['cond-mat.soft', 'physics.app-ph']","[arxiv.Result.Author('Abhishek Mund'), arxiv.Result.Author('Amit K Nayse'), arxiv.Result.Author('Kripa K. Varanasi'), arxiv.Result.Author('Arindam Das')]","Clathrate hydrate is a naturally occurring ice-like solid which forms in
+water phase under suitable temperature and pressure conditions, in the presence
+of one or more hydrophobic molecules. It also forms inside the oil and gas
+pipes leading to higher pumping cost, flow blockage and even catastrophic
+accidents. Engineered surfaces with low hydrate adhesion can provide an
+effective solution to this problem. Liquid impregnated surfaces is one such
+example of engineered surfaces which has already shown tremendous potential in
+reducing the nucleation and adhesion of solids. Here we report the design and
+synthesis of liquid impregnated surfaces with extremely low hydrate adhesion
+under the mixed environment of oil and water. The most challenging aspect of
+designing these surfaces was to stabilize a lubricant layer simultaneously
+under the water and oil. A detailed methodology to make such lubricant stable
+surfaces from theoretical perspective was described and experimentally
+validated for lubricant stability. Experimental measurements on such surfaces
+showed extremely low hydrate accumulation and one order of magnitude or more
+reduction in hydrate adhesion force.",0.3334292,-0.011361631,-0.19426417,B
+13434,"Incorporating anisotropic deforma-
+                                                                 tion and elastic moduli [23, 24, 47] and disorder [48–50]
+                                                                 to examine the impact of elastic heterogeneity should be
+                                                                 a further research direction.","In
+                                                                 this study, we focused on isotropic swelling, preserving
+                                                                 the crystalline nature of the substances under gas adsorp-
+                                                                 tion and desorption.","Finally, from the theoreti-
+                                                                 cal viewpoint, our model exhibits phase transitions with
+                                                                 respect to a non-conserved order parameter (the adsorp-
+                                                                 tion fraction in this study) coupled with crystal elastic-
+                                                                 ity.",2022-11-07 08:56:56+00:00,Elastic heterogeneity governs asymmetric adsorption-desorption in a soft porous crystal,cond-mat.soft,"['cond-mat.soft', 'cond-mat.mtrl-sci', 'cond-mat.stat-mech']","[arxiv.Result.Author('Kota Mitsumoto'), arxiv.Result.Author('Kyohei Takae')]","Molecular adsorption in soft porous materials is crucial to control
+liquid-liquid phase separation in polymer networks and biological cells,
+refrigeration cycles of nanosponges, and energy storage in supercapacitors. The
+deformation process of host porous matrices, coupled with the adsorption of
+guest molecules, plays an essential role in developing stimuli-responsive
+materials. In particular, metal-organic frameworks (MOFs) exhibit promising
+stimuli-responsiveness and molecular adsorption selectivity, that enable
+various applications based on MOFs. The adsorption of guest molecules in MOFs
+changes the crystalline structure and elastic moduli of the host matrices.
+Thus, the substances become elastically heterogeneous when adsorbed/desorbed
+sites coexist. However, the role of elastic heterogeneity in the
+adsorption-desorption transition has been overlooked. Here we show the
+asymmetric role of elastic heterogeneity in the adsorption-desorption
+transition. We construct a minimal model incorporating adsorption-induced
+lattice expansion and an increase in the elastic moduli, and discover that the
+transition is hindered entropically during the adsorption process and
+energetically during the desorption process, leading to the strong hysteretic
+nature of the transition. Furthermore, the adsorbed/desorbed sites exhibit
+spatially heterogeneous domain formation due to elastic heterogeneity, implying
+that the domain morphology and interfacial area between the adsorbed/desorbed
+sites can be controlled by elastic heterogeneity. Our results provide a
+theoretical guideline for designing soft porous crystals with tunable
+adsorption hysteresis and the dispersion and domain morphology of adsorbates
+using elastic heterogeneity.",0.06700248,-0.33190355,-0.028859794,A
+13639,"2D cavities
+
+In order to further study the eﬀects of cavity shape, director ﬁeld conﬁguration and diﬀerent
+topology, we assumed that the Fabry-Perot cavity was ﬁlled entirely with liquid crystal.",4.,"Inside
+a certain cylindrical or rectangular region the optical axis was directed parallel to the top and
+bottom mirrors (i.e.",2022-11-11 12:25:02+00:00,Numerical modeling of optical modes in topological soft matter,cond-mat.soft,"['cond-mat.soft', 'physics.optics']","[arxiv.Result.Author('Urban Mur'), arxiv.Result.Author('Miha Ravnik')]","Vector and vortex laser beams are desired in many applications and are
+usually created by manipulating the laser output or by inserting optical
+components in the laser cavity. Distinctly, inserting liquid crystals into the
+laser cavity allows for extensive control over the emitted light due to their
+high susceptibility to external fields and birefringent nature. In this work we
+demonstrate diverse optical modes for lasing as enabled and stablised by
+topological birefringent soft matter structures using numerical modelling. We
+show diverse structuring of light -- with different 3D intensity and
+polarization profiles -- as realised by topological soft matter structures in
+radial nematic droplet, in 2D nematic cavities of different geometry and
+including topological defects with different charges and winding numbers, in
+arbitrary varying birefringence fields with topological defects and in
+pixelated birefringent profiles. We use custom written FDFD code to calculate
+emergent electromagnetic eigenmodes. Control over lasing is of a particular
+interest aiming towards the creation of general intensity, polarization and
+topologically shaped laser beams.",-0.063955635,0.0055828784,0.08335608,A
+14427,"In a further study, we chose the particle concentration 𝑐 = 0.02 wt% to systematically
+investigate how substrate stretching affects the morphology of the pattern.",5 A.,"The stretching
+ratio applied to the substrate was tuned in the range of 𝜆 = 1.0 − 4.0.",2022-12-01 13:22:07+00:00,How droplets dry on stretched soft substrates,cond-mat.soft,"['cond-mat.soft', 'physics.flu-dyn']","[arxiv.Result.Author('Yixuan Du'), arxiv.Result.Author('Elmar Bonaccurso'), arxiv.Result.Author('Jianwei Guo'), arxiv.Result.Author('Kai Uhlig'), arxiv.Result.Author('Longquan Chen'), arxiv.Result.Author('Binyu Zhao'), arxiv.Result.Author('Günter K. Auernhammer')]","Liquid droplets usually wet smooth and homogeneous substrates isotropically.
+Recent research works have revealed that droplets sit, slide and spread
+anisotropically on uniaxially stretched soft substrates, showing an enhanced
+wettability and contact line mobility along the stretching direction. This
+phenomenon arises from the anisotropic deformation of the substrate below the
+contact line. Here, we investigate how the stretching of soft substrates
+affects droplets drying. We observe that water droplet evaporates with an
+elongated non-circular contact line on the stretched substrates and switches
+the elongation direction during evaporation. The contact line velocity and its
+temporal evolution depend on the orientation of the contact line relative to
+the stretching direction. On the substrate stretched by 250%, the contact line
+recedes about 20% of the droplet lifetime earlier along the stretching
+direction and faster than its perpendicular direction. When nanoparticles are
+added into the liquid, the circular deposition pattern, i.e., the so-called
+coffee-ring, becomes elongated along the direction perpendicular to the
+stretching direction. Particularly, such non-circular deposition pattern
+exhibits periodic height gradients along its rim. The finer structure of the
+pattern can be controlled by applying different stretching ratios to the soft
+substrate and thus are correlated to the anisotropic surface stresses near the
+contact line.",0.22035399,-0.07250421,-0.14595537,B
+14971,"To further study the solution of above
+        0                                                                                   -0.2                                      linearised equations we deﬁne a vector A(r, t) = (v⊥, δρ).","For the given system parameters, they are
+                                                                                                                                      all constants.","0  50  100  150       200                                                                  0  50  100  150       200
+
+                    r                                                                                          r
+
+FIG.",2022-12-14 12:36:18+00:00,Kinetics and steady state of polar flock with birth and death,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Pratikshya Jena'), arxiv.Result.Author('Shradha Mishra')]","We study a collection of polar self-propelled particles or polar flock on a
+two dimensional substrate with birth and death. Most of the previous studies of
+polar flock with birth and death have assumed the compressible flock, such that
+the local density of flock is completely ignored. Effect of birth and death of
+particles on the flock with moderate density is focus of our study. System is
+modeled using coarse-grained hydrodynamic equations of motion for local density
+and velocity of the flock and solved using numerical integration of the
+nonlinear coupled partial differential equations of motion and linearised
+hydrodynamics about the broken symmetry state. We studied the ordering kinetics
+as well as the steady state properties of the immortal flock and flock with
+finite birth and death rate. The ordering kinetics of the velocity field
+remains unaffected whereas the density field shows a crossover from asymptotic
+growth exponent $5/6$ for the immortal flock to diffusive limit $1/3$ for large
+birth and death rates. In the steady state, the presence of birth and death
+rate leads to the suppression of speed of sound wave and density fluctuations
+in the system.",-0.525492,0.16454738,-0.03978757,A
+14972,"To further study the solution of above
+                       0  50  100      150       200                                                              0  50  100  150       200          linearised equations we deﬁne a vector A(r, t) = (v⊥, δρ).","For the given system parameters, they are
+                                                                                                                                                     all constants.",Eq.,2022-12-14 12:36:18+00:00,Kinetics and steady state of polar flock with birth and death,cond-mat.soft,['cond-mat.soft'],"[arxiv.Result.Author('Pratikshya Jena'), arxiv.Result.Author('Shradha Mishra')]","We study a collection of polar self-propelled particles or polar flock on a
+two dimensional substrate with birth and death. Most of the previous studies of
+polar flock with birth and death have assumed the compressible flock, such that
+the local density of flock is completely ignored. Effect of birth and death of
+particles on the flock with moderate density is focus of our study. System is
+modeled using coarse-grained hydrodynamic equations of motion for local density
+and velocity of the flock and solved using numerical integration of the
+nonlinear coupled partial differential equations of motion and linearised
+hydrodynamics about the broken symmetry state. We studied the ordering kinetics
+as well as the steady state properties of the immortal flock and flock with
+finite birth and death rate. The ordering kinetics of the velocity field
+remains unaffected whereas the density field shows a crossover from asymptotic
+growth exponent $5/6$ for the immortal flock to diffusive limit $1/3$ for large
+birth and death rates. In the steady state, the presence of birth and death
+rate leads to the suppression of speed of sound wave and density fluctuations
+in the system.",-0.518468,0.17214713,-0.08895635,A
+15119,"For further study, with more information
+and solid curves are their Gaussian ﬁtting.","Red square and                     kinesin movement and underlying principles of statisti-
+blue round hollow dots represent ηA and ηT respectively,                    cal physics.","Interestingly,                  input such as accurate interacting parameters, we be-
+both ηT and ηA show heavy tail distributions and clearly                    lieve our model could give more accurate results, and
+deviate from Gaussian distributions.",2022-12-19 13:12:57+00:00,Unraveling on Kinesin Acceleration in Intracellular Environments: A Theory for Active Bath,cond-mat.soft,"['cond-mat.soft', 'physics.bio-ph']","[arxiv.Result.Author('Mengkai Feng'), arxiv.Result.Author('Zhonghuai Hou')]","Single molecular motor kinesin harnesses thermal and non-thermal fluctuations
+to transport various cargoes along microtubules, converting chemical energy to
+directed movements. To describe the non-thermal fluctuations generated by the
+complex environment in living cells, we establish a bottom-up model to mimic
+the intracellular environment, by introducing an active bath consisting of
+active Ornstein-Uhlenbeck (OU) particles. Simulations of the model system show
+that kinesin and the probe attached to it are accelerated by such active bath.
+Further, we provide a theoretical insight into the simulation result by
+deriving a generalized Langevin equation (GLE) for the probe with a mean-field
+method, wherein an effective friction kernel and fluctuating noise terms are
+obtained explicitly. Numerical solutions of the GLE show very good agreement
+with simulation results. We sample such noises, calculate their variances and
+non-Gaussian parameters, and reveal that the dominant contribution to probe
+acceleration is attributed to noise variance.",-0.16840476,-0.04572308,0.049942113,A

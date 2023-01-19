@@ -1,0 +1,96 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+3613,"We hypothesize this is not an accident but part of a
+larger pattern, though further research is needed to establish it fully.","Finally, we point out that the number of L–cospectral graphs as a function of
+the number of edges M is in progression: 4, 8, 16, 24, 26, 26, 14, 16, 8, 4; see right-
+most column of Table 4.","Let us now consider the 78 pairs of L–mates with N = 10; Figures 7 and
+8 show the smallest such pairs.",2022-03-21 09:24:37+00:00,Spectral theory of the non-backtracking Laplacian for graphs,math.SP,['math.SP'],"[arxiv.Result.Author('Jürgen Jost'), arxiv.Result.Author('Raffaella Mulas'), arxiv.Result.Author('Leo Torres')]","We introduce a non-backtracking Laplace operator for graphs and we
+investigate its spectral properties. With the use of both theoretical and
+computational techniques, we show that the spectrum of this operator captures
+several structural properties of the graph in a more precise way than the
+classical operators that have been studied so far in the literature, including
+the non-backtracking matrix."
+3614,"We hypothesize this is not an accident but part of a
+larger pattern, though further research is needed to establish it fully.","Finally, we point out that the number of L–cospectral graphs as a function of
+the number of edges M is in progression: 4, 8, 16, 24, 26, 26, 14, 16, 8, 4; see right-
+most column of Table 4.","Let us now consider the 78 pairs of L–mates with N = 10; Figures 7 and
+8 show the smallest such pairs.",2022-03-21 09:24:37+00:00,Spectral theory of the non-backtracking Laplacian for graphs,math.SP,['math.SP'],"[arxiv.Result.Author('Jürgen Jost'), arxiv.Result.Author('Raffaella Mulas'), arxiv.Result.Author('Leo Torres')]","We introduce a non-backtracking Laplace operator for graphs and we
+investigate its spectral properties. With the use of both theoretical and
+computational techniques, we show that the spectrum of this operator captures
+several structural properties of the graph in a more precise way than the
+classical operators that have been studied so far in the literature, including
+the non-backtracking matrix."
+8072,"His insight on the subject
+proved a signiﬁcant guide that yielded the current results and triggered questions for further research.","Acknowledgement
+
+The author is deeply indebted to A. Pushnitski for his valuable advice.","References
+
+ [1] A.B.",2022-06-25 16:57:21+00:00,Eigenvalue asymptotics for a class of multi-variable Hankel matrices,math.SP,"['math.SP', '47B35, 47B06']",[arxiv.Result.Author('Christos Panagiotis Tantalakis')],"A one-variable Hankel matrix $H_a$ is an infinite matrix
+$H_a=[a(i+j)]_{i,j\geq0}$. Similarly, for any $d\geq2$, a $d$-variable Hankel
+matrix is defined as $H_{\mathbf{a}}=[\mathbf{a}(\mathbf{i}+\mathbf{j})]$,
+where $\mathbf{i}=(i_1,\dots,i_d)$ and $\mathbf{j}=(j_1,\dots,j_d)$, with
+$i_1,\dots,i_d,j_1,\dots,j_d\geq0$. For $\gamma>0$, A. Pushnitski and D. Yafaev
+proved that the eigenvalues of the compact one-variable Hankel matrices $H_a$
+with $a(j)=j^{-1}(\log j)^{-\gamma}$, for $j\geq2$, obey the asymptotics
+$\lambda_n(H_a)\sim C_\gamma n^{-\gamma}$, as $n\to+\infty$, where the constant
+$C_\gamma$ is calculated explicitly. This paper presents the following
+$d$-variable analogue. Let $\gamma>0$ and $a(j)=j^{-d}(\log j)^{-\gamma}$, for
+$j\geq2$. If $\mathbf{a}(j_1,\dots,j_d)=a(j_1+\dots+j_d)$, then
+$H_{\mathbf{a}}$ is compact and its eigenvalues follow the asymptotics
+$\lambda_n(H_{\mathbf{a}})\sim C_{d,\gamma}n^{-\gamma}$, as $n\to+\infty$,
+where the constant $C_{d,\gamma}$ is calculated explicitly."
+12444,The results of this work open up a number of interesting avenues for further study.,"The results of the
+present work provide some rigorous evidence, for the dn potential (1.4), in support of the formal results
+of [12] about the genus of the potential as a function of .","In particular,
+an obvious question is whether these potentials are stable under pertubations.",2022-10-13 19:12:39+00:00,Elliptic finite-band potentials of a non-self-adjoint Dirac operator,math.SP,"['math.SP', 'math.AP', 'nlin.SI']","[arxiv.Result.Author('Gino Biondini'), arxiv.Result.Author('Xu-Dan Luo'), arxiv.Result.Author('Jeffrey Oregero'), arxiv.Result.Author('Alexander Tovbis')]","We present a novel, explicit two-parameter family of finite-band Jacobi
+elliptic potentials for the non-self-adjoint Dirac operator, which connects two
+previously known limiting cases in which the elliptic parameter is zero or one.
+A full characterization of the spectrum of the Dirac operator is obtained by
+relating the periodic and antiperiodic eigenvalue problems for the Dirac
+operator to corresponding tridiagonal operators acting on Fourier coefficients
+in a weighted Hilbert space, and to appropriate connection problems for Heun's
+equation. In turn, these problems are related to eigenvalue problems for four
+non-self-adjoint unbounded tridiagonal operators, all of which nonetheless have
+real eigenvalues."
+13198,"We also extend this idea to arbitrary trees, which opens a wide
+                                          area of further research.","In this paper,
+                                          we introduce globally nonlocal operators that are expected to be more natural for modelling
+                                          nonlocal processes on graphs.","Another goal of the paper is to study inverse spectral problems for
+                                          operators with global delay in one illustrative case by addressing a wide range of questions
+                                          including uniqueness, characterization of the spectral data as well as the uniform stability.",2022-10-31 12:47:48+00:00,Functional-differential operators on geometrical graphs with global delay and inverse spectral problems,math.SP,"['math.SP', '34A55 34K29 34B45']",[arxiv.Result.Author('Sergey Buterin')],"We suggest a new concept of functional-differential operators with constant
+delay on geometrical graphs that involves {\it global} delay parameter.
+Differential operators on graphs model various processes in many areas of
+science and technology. Although a vast majority of studies in this direction
+concern purely differential operators on graphs (often referred to as quantum
+graphs), recently there also appeared some considerations of nonlocal operators
+on star-type graphs. In particular, there belong functional-differential
+operators with constant delays but in a {\it locally} nonlocal version. The
+latter means that each edge of the graph has its own delay parameter, which
+does not affect any other edge. In this paper, we introduce {\it globally}
+nonlocal operators that are expected to be more natural for modelling nonlocal
+processes on graphs. We also extend this idea to arbitrary trees, which opens a
+wide area of further research. Another goal of the paper is to study inverse
+spectral problems for operators with global delay in one illustrative case by
+addressing a wide range of questions including uniqueness, characterization of
+the spectral data as well as the uniform stability."
+13954,"For further study of quasi-orthogonal polynomials,
+
+                                             2020 Mathematics Subject Classiﬁcation.","However, the quasi-orthogonality on the unit circle with
+                                          respect to linear functional deﬁned on the space of Laurent polynomials is not so strong
+                                          in comparison to the real line case.","Primary 33C45, 33C05; Secondary 42C05.",2022-11-19 14:00:32+00:00,Recovering the orthogonal polynomials from its specific spectral transformations,math.SP,"['math.SP', 'math.CA', '33C45, 33C05, 42C05']","[arxiv.Result.Author('Vikash Kumar'), arxiv.Result.Author('A. Swaminathan')]","In this work, the concept of quasi-type Kernel polynomials with respect to a
+moment functional is introduced. Difference equation satisfied by these
+polynomials along with the criterion for orthogonality conditions are
+discussed. Recovering the source orthogonal polynomial involving the linear
+spectral transformation is provided. This process involves an expression of
+ratio of kernel polynomials. Special cases of such ratios in terms of certain
+continued fractions are exhibited."
+13955,"For further study of quasi-orthogonal polynomials,
+
+                                             2020 Mathematics Subject Classiﬁcation.","However, the quasi-orthogonality on the unit circle with
+                                          respect to linear functional deﬁned on the space of Laurent polynomials is not so strong
+                                          in comparison to the real line case.","Primary 33C45, 33C05; Secondary 42C05.",2022-11-19 14:00:32+00:00,Recovering the orthogonal polynomials from their specific spectral transformations,math.SP,"['math.SP', 'math.CA', '33C45, 33C05, 42C05']","[arxiv.Result.Author('Vikash Kumar'), arxiv.Result.Author('A. Swaminathan')]","In this work, the concept of quasi-type Kernel polynomials with respect to a
+moment functional is introduced. Difference equation satisfied by these
+polynomials along with the criterion for orthogonality conditions are
+discussed. Recovering the source orthogonal polynomial involving the linear
+spectral transformation is provided. This process involves an expression of
+ratio of kernel polynomials. Special cases of such ratios in terms of certain
+continued fractions are exhibited."

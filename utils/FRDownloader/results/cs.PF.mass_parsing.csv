@@ -1,0 +1,391 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+628,"• Open-source Release: To support further research on these topics, we plan to open-source our
+  implementation of Calipers.","We also evaluate three alternatives for instruction block formats,
+     without needing a new compiler, and identify that for best performance, circuit optimizations
+     may also be needed.","To the best of our knowledge, this would be the first open-source
+  dependence-graph–based tool for critical path analysis.",2022-01-15 16:32:51+00:00,Calipers: A Criticality-aware Framework for Modeling Processor Performance,cs.PF,"['cs.PF', 'cs.AR']","[arxiv.Result.Author('Hossein Golestani'), arxiv.Result.Author('Rathijit Sen'), arxiv.Result.Author('Vinson Young'), arxiv.Result.Author('Gagan Gupta')]","Computer architecture design space is vast and complex. Tools are needed to
+explore new ideas and gain insights quickly, with low efforts and at a desired
+accuracy. We propose Calipers, a criticality-based framework to model key
+abstractions of complex architectures and a program's execution using dynamic
+event-dependence graphs. By applying graph algorithms, Calipers can track
+instruction and event dependencies, compute critical paths, and analyze
+architecture bottlenecks. By manipulating the graph, Calipers enables
+architects to investigate a wide range of Instruction Set Architecture (ISA)
+and microarchitecture design choices/""what-if"" scenarios during both early- and
+late-stage design space exploration without recompiling and rerunning the
+program. Calipers can model in-order and out-of-order microarchitectures,
+structural hazards, and different types of ISAs, and can evaluate multiple
+ideas in a single run. Modeling algorithms are described in detail.
+  We apply Calipers to explore and gain insights in complex microarchitectural
+and ISA ideas for RISC and EDGE processors, at lower effort than cycle-accurate
+simulators and with comparable accuracy. For example, among a variety of
+investigations presented in the paper, experiments show that targeting only a
+fraction of critical loads can help realize most benefits of value prediction."
+2242,"To further study how our proposed approach performs against simpler models, we compared our
+approach with a simple decomposition approach.","The simulation ran for
+approximately 10 minutes for each of the experimental settings.","This simple decomposition approach looks at the
+system as two independent polling station.",2022-02-21 08:28:55+00:00,Analysis of Two-Station Polling Queues with Setups using Continuous Time Markov Chain,cs.PF,"['cs.PF', 'math.PR']","[arxiv.Result.Author('Ravi Suman'), arxiv.Result.Author('Ananth Krishnamurthy')]","The paper analyzes the performance of tandem network of polling queue with
+setups. For a system with two-products and two-stations, we propose a new
+approach based on a partially-collapsible state-space characterization to
+reduce state-space complexity. In this approach, the size of the state-space is
+varied depending on the information needed to determine buffer levels and
+waiting times. We evaluate system performance under different system setting
+and comment on the numerical accuracy of the approach as well as provide
+managerial insights. Numerical results show that approach yields reliable
+estimates of the performance measures. We also show how product and station
+asymmetry significantly affect the systems performance."
+4997,"Finally, as further research line, it                       [17] D. Hawthorne, M. Kapralos, R. W. Blaine, and S. J. Matthews,
+is planned to integrate the benchmarking application with                              “Evaluating cryptographic performance of Raspberry Pi clusters,” in
+federated learning techniques, so the data is processed directly                       2020 IEEE High Performance Extreme Computing Conference (HPEC),
+in the device according to the use case, without requiring to                          2020, pp.","will continue being executed in the current devices, generating                        Available: https://doi.org/10.5281/zenodo.3974220
+more data in order to analyze new use cases such as device
+and component aging.",1–9.,2022-04-18 18:58:38+00:00,LwHBench: A low-level hardware component benchmark and dataset for Single Board Computers,cs.PF,['cs.PF'],"[arxiv.Result.Author('Pedro Miguel Sánchez Sánchez'), arxiv.Result.Author('José María Jorquera Valero'), arxiv.Result.Author('Alberto Huertas Celdrán'), arxiv.Result.Author('Gérôme Bovet'), arxiv.Result.Author('Manuel Gil Pérez'), arxiv.Result.Author('Gregorio Martínez Pérez')]","In today's computing environment, where Artificial Intelligence (AI) and data
+processing are moving toward the Internet of Things (IoT) and the Edge
+computing paradigm, benchmarking resource-constrained devices is a critical
+task to evaluate their suitability and performance. The literature has
+extensively explored the performance of IoT devices when running high-level
+benchmarks specialized in particular application scenarios, such as AI or
+medical applications. However, lower-level benchmarking applications and
+datasets that analyze the hardware components of each device are needed. This
+low-level device understanding enables new AI solutions for network, system and
+service management based on device performance, such as individual device
+identification, so it is an area worth exploring more in detail. In this paper,
+we present LwHBench, a low-level hardware benchmarking application for
+Single-Board Computers that measures the performance of CPU, GPU, Memory and
+Storage taking into account the component constraints in these types of
+devices. LwHBench has been implemented for Raspberry Pi devices and run for 100
+days on a set of 45 devices to generate an extensive dataset that allows the
+usage of AI techniques in different application scenarios. Finally, to
+demonstrate the inter-scenario capability of the created dataset, a series of
+AI-enabled use cases about device identification and context impact on
+performance are presented as examples and exploration of the published data."
+11380,"The
+MOST PERFORMANT COMMUNICATION TYPE PER TEST                        results of this paper, therefore, motivate our further research
+                                                                   into understanding the details of how multicast communication
+ 1P + 1S     Latency  Throughput                                   works with DDS and how changing the various aspects of this
+ 3P + 3S    unicast    unicast                                     communication may affect the performance.","If true, the inferior perfor-
+                                                                   mance of multicast, for some test types, is thus not due to the
+                            TABLE II                               DDS protocol nor the speciﬁc DDS implementation used.","With this in mind,
+10P + 10S   unicast       mixed                                    we intend to run further experiments with different network
+25P + 25S  multicast                                               settings including the multicast protocol as well as varying
+50P + 50S             multicast                                    other DDS-related settings, e.g.",2022-09-19 13:26:03+00:00,Exploring the Effects of Multicast Communication on DDS Performance,cs.PF,['cs.PF'],"[arxiv.Result.Author('Kaleem Peeroo'), arxiv.Result.Author('Peter Popov'), arxiv.Result.Author('Vladimir Stankovic')]","The Data Distribution Service (DDS) is an Object Management Group (OMG)
+standard for high-performance and real-time systems. DDS is a data-centric
+middleware based on the publish-subscribe communication pattern and is used in
+many mission-critical, or even safety-critical, systems such as air traffic
+control and robot operating system (ROS2).
+  This research aims at identifying how the usage of multicast affects the
+performance of DDS communication for varying numbers of participants
+(publishers and subscribers). The results show that DDS configured for
+multicast communication can exhibit worse performance under a high load (a
+greater number of participants) than DDS configured for unicast communication.
+This counter-intuitive result reinforces the need for researchers and
+practitioners to be clear about the details of how multicast communication
+operates on the network."
+11505,"The paper is organised as follows: Section 2 provides an overview of
+the state-of-the-art in real-time networks-on-chip, and provides a more de-
+tailed background on routerless NoCs; Section 3 presents a novel analytical
+framework that can provide latency upper bounds to real-time packet ﬂows
+sent over routerless NoCs, which is the ﬁrst contribution of this paper; the
+second contribution of the paper, in Section 4, addresses the use of the pro-
+posed analytical framework to evaluate the ability of routerless NoCs to pro-
+vide real-time guarantees under diﬀerent conﬁgurations, compared against a
+state-of-the-art router-based NoC; the paper is then closed with a summary
+of the insights uncovered by the experimental work and with numerous lines
+of further research that were opened by the proposed framework.","Furthermore, we aim to shed light on the inherent trade-oﬀs posed by such
+networks and show in which circumstances should designers replace tradi-
+tional router-based networks by routerless NoCs, and in which they should
+not.","2 Background
+
+2.1 Real-time Wormhole Networks-on-Chip
+
+Wormhole switching has been widely used in NoCs because of its balance be-
+tween performance and buﬀering overheads in the router.",2022-09-21 15:25:05+00:00,Real-Time Guarantees in Routerless Networks-on-Chip,cs.PF,"['cs.PF', 'cs.AR', 'cs.NI']","[arxiv.Result.Author('Leandro Soares Indrusiak'), arxiv.Result.Author('Alan Burns')]","This paper considers the use of routerless networks-on-chip as an alternative
+on-chip interconnect for multiprocessor systems requiring hard real-time
+guarantees for inter-processor communication. It presents a novel analytical
+framework that can provide latency upper bounds to real-time packet flows sent
+over routerless networks-on-chip, and it uses that framework to evaluate the
+ability of such networks to provide real-time guarantees. Extensive comparative
+analysis is provided, considering different architectures for routerless
+networks and a state-of-the-art wormhole network based on priority-preemptive
+routers as a baseline."
+12075,"To
+train the ML models and to evaluate our approach, we collect latency measurements on a synthetic
+dataset including 1000 neural architectures from a NAS space (Section 4.3), which we will make
+publicly available to help further research on mobile performance.","4 METHODOLOGY
+Given a model file (e.g., a .tflite file of TFLite) generated on a cloud server (e.g., during NAS),
+we aim at accurately predicting the end-to-end latency over different mobile CPUs and GPUs,
+without deploying the neural architecture on the actual mobile devices; this framework includes
+the following steps: (1) from an input model file, we first extract the information of the operations
+on the computational graph, which are the execution units on mobile CPUs; (2) for mobile GPUs,
+we deduce (without using the mobile device) the actual kernels executed after kernel fusion and
+kernel selection (Section 4.1); (3) for each operation type (e.g., convolution, fully-connected), we
+use ML models to predict its inference latency on the target device from the operation parameters
+(e.g., input shape, number of channels, Section 4.2); (4) end-to-end latency is estimated as the sum
+of predicted operation latencies plus the additional latency due to ML framework overhead.","4.1 Kernel Deduction
+From the model file, we are able to extract the computational graph of the target neural architecture,
+which includes information on all operations as well as the data flow between operations.",2022-10-06 00:46:06+00:00,Inference Latency Prediction at the Edge,cs.PF,"['cs.PF', 'cs.LG']","[arxiv.Result.Author('Zhuojin Li'), arxiv.Result.Author('Marco Paolieri'), arxiv.Result.Author('Leana Golubchik')]","With the growing workload of inference tasks on mobile devices,
+state-of-the-art neural architectures (NAs) are typically designed through
+Neural Architecture Search (NAS) to identify NAs with good tradeoffs between
+accuracy and efficiency (e.g., latency). Since measuring the latency of a huge
+set of candidate architectures during NAS is not scalable, approaches are
+needed for predicting end-to-end inference latency on mobile devices. Such
+predictions are challenging due to hardware heterogeneity, optimizations
+applied by ML frameworks, and the diversity of neural architectures. Motivated
+by these challenges, in this paper, we first quantitatively assess
+characteristics of neural architectures and mobile devices that have
+significant effects on inference latency. Based on this assessment, we propose
+a latency prediction framework which addresses these challenges by developing
+operation-wise latency predictors, under a variety of settings and a number of
+hardware devices, with multi-core CPUs and GPUs, achieving high accuracy in
+end-to-end latency prediction, as shown by our comprehensive evaluations. To
+illustrate that our approach does not require expensive data collection, we
+also show that accurate predictions can be achieved on real-world NAs using
+only small amounts of profiling data."
+12646,"We analysed the results and the factors that contributed
+                                                to them and provided conclusions, recommendations, and suggestions for
+                                                further research based on the gathered data.","Moreover, we used benchmark algorithms to check the instance
+                                                performance.","Keywords: OpenStack, Google Cloud, Infrastructure as a Service, perfor-
+                                        mance comparison
+
+                                        1 Introduction
+
+                                        Cloud computing is a model of universal, convenient, network-based access at
+                                        the user’s request to a shared pool of conﬁgurable computing resources (net-
+                                        works, servers, applications, services) that can be quickly made available with
+                                        minimal interaction by the service provider [15].",2022-10-18 09:03:32+00:00,OpenStack and Google Cloud performance comparison in Infrastructure as a Service model,cs.PF,"['cs.PF', 'C.4']","[arxiv.Result.Author('Michał Łątkowski'), arxiv.Result.Author('Robert Nowak')]","Cloud computing is becoming common, and the choice of proper infrastructure
+is essential. One of main issues is choosing between private and public clound,
+between commercial and non-commercial solutions. This paper aims to compare the
+parameters of OpenStack and Google Cloud systems. Both systems deliver a
+computing cloud service, enabling the user to use the infrastructure as a
+service (IaaS) model. We developed the pipeline using the Python programming
+language and its libraries, which enable communication with the aforementioned
+clouds. We measured various parameters of instances and task execution:
+instance launch and deletion times, and their dependence on the number of
+launched instances. Moreover, we used benchmark algorithms to check the
+instance performance. We analysed the results and the factors that contributed
+to them and provided conclusions, recommendations, and suggestions for further
+research based on the gathered data."
+12647,"The ﬁnal
+winner of the above comparison in 2021 was GCP, which suggests there is a
+need for further research on this technology.","Using a series of benchmarks,
+the authors of this report reach the following conclusions: (1) if we are measur-
+ing the performance of single-core processors, GCP wins over others; (2) AWS
+scales better than GCP in the case of multi-core processors, as well as in the
+case of database transactions; (3) Azure is the best at I/O operations.","3 Materials and Methods
+
+The pipeline we created to carry out the experiments consists of 3 tools: ap-
+plication for GCP measurements, application for OpenStack, and application
+for results analysis.",2022-10-18 09:03:32+00:00,OpenStack and Google Cloud performance comparison in Infrastructure as a Service model,cs.PF,"['cs.PF', 'C.4']","[arxiv.Result.Author('Michał Łątkowski'), arxiv.Result.Author('Robert Nowak')]","Cloud computing is becoming common, and the choice of proper infrastructure
+is essential. One of main issues is choosing between private and public clound,
+between commercial and non-commercial solutions. This paper aims to compare the
+parameters of OpenStack and Google Cloud systems. Both systems deliver a
+computing cloud service, enabling the user to use the infrastructure as a
+service (IaaS) model. We developed the pipeline using the Python programming
+language and its libraries, which enable communication with the aforementioned
+clouds. We measured various parameters of instances and task execution:
+instance launch and deletion times, and their dependence on the number of
+launched instances. Moreover, we used benchmark algorithms to check the
+instance performance. We analysed the results and the factors that contributed
+to them and provided conclusions, recommendations, and suggestions for further
+research based on the gathered data."
+12981,"[33] proposed the Byzantine fault tolerant consensus
+mechanism (BFT), and further research includes Thai et al.",[59] and Lamport et al.,"[71], Li et al.",2022-10-25 13:17:08+00:00,Dynamic Practical Byzantine Fault Tolerance and Its Blockchain System: A Large-Scale Markov Modeling,cs.PF,"['cs.PF', 'cs.CR', 'cs.IT', 'math.IT', 'math.PR', '90B22, 60J28', 'H.2.4; H.3.5; E.2; E.3; D.4.6; D.4.8']","[arxiv.Result.Author('Yan-Xia Chang'), arxiv.Result.Author('Quan-Lin Li'), arxiv.Result.Author('Qing Wang'), arxiv.Result.Author('Xing-Shuo Song')]","In a practical Byzantine fault tolerance (PBFT) blockchain network, the
+voting nodes may always leave the network while some new nodes can also enter
+the network, thus the number of voting nodes is constantly changing. Such a new
+PBFT with dynamic nodes is called a dynamic PBFT. Clearly, the dynamic PBFT can
+more strongly support the decentralization and distributed structure of
+blockchain. However, analyzing dynamic PBFT blockchain systems will become more
+interesting and challenging.
+  In this paper, we propose a large-scale Markov modeling technique to analyze
+the dynamic PBFT voting processes and its dynamic PBFT blockchain system. To
+this end, we set up a large-scale Markov process (and further a
+multi-dimensional Quasi-Birth-and-Death (QBD) process) and provide performance
+analysis for both the dynamic PBFT voting processes and the dynamic PBFT
+blockchain system. In particular, we obtain an effective computational method
+for the throughput of the complicated dynamic PBFT blockchain system. Finally,
+we use numerical examples to check the validity of our theoretical results and
+indicate how some key system parameters influence the performance measures of
+the dynamic PBFT voting processes and of the dynamic PBFT blockchain system.
+Therefore, by using the theory of multi-dimensional QBD processes and the
+RG-factorization technique, we hope that the methodology and results developed
+in this paper shed light on the study of dynamic PBFT blockchain systems such
+that a series of promising research can be developed potentially."
+12982,"A further study of some Markovian Bitcoin models
+    from Go¨bel et al.. Stochastic Models, 36(2), 223-250.",(2020).,"[30] Khamar, J., & Patel, H. (2021).",2022-10-25 13:17:08+00:00,Dynamic Practical Byzantine Fault Tolerance and Its Blockchain System: A Large-Scale Markov Modeling,cs.PF,"['cs.PF', 'cs.CR', 'cs.IT', 'math.IT', 'math.PR', '90B22, 60J28', 'H.2.4; H.3.5; E.2; E.3; D.4.6; D.4.8']","[arxiv.Result.Author('Yan-Xia Chang'), arxiv.Result.Author('Quan-Lin Li'), arxiv.Result.Author('Qing Wang'), arxiv.Result.Author('Xing-Shuo Song')]","In a practical Byzantine fault tolerance (PBFT) blockchain network, the
+voting nodes may always leave the network while some new nodes can also enter
+the network, thus the number of voting nodes is constantly changing. Such a new
+PBFT with dynamic nodes is called a dynamic PBFT. Clearly, the dynamic PBFT can
+more strongly support the decentralization and distributed structure of
+blockchain. However, analyzing dynamic PBFT blockchain systems will become more
+interesting and challenging.
+  In this paper, we propose a large-scale Markov modeling technique to analyze
+the dynamic PBFT voting processes and its dynamic PBFT blockchain system. To
+this end, we set up a large-scale Markov process (and further a
+multi-dimensional Quasi-Birth-and-Death (QBD) process) and provide performance
+analysis for both the dynamic PBFT voting processes and the dynamic PBFT
+blockchain system. In particular, we obtain an effective computational method
+for the throughput of the complicated dynamic PBFT blockchain system. Finally,
+we use numerical examples to check the validity of our theoretical results and
+indicate how some key system parameters influence the performance measures of
+the dynamic PBFT voting processes and of the dynamic PBFT blockchain system.
+Therefore, by using the theory of multi-dimensional QBD processes and the
+RG-factorization technique, we hope that the methodology and results developed
+in this paper shed light on the study of dynamic PBFT blockchain systems such
+that a series of promising research can be developed potentially."
+14292,"[33]   2019                          Identify which transactions will be conﬁrmed; the conﬁr-
+[32]   2020  GI/M/∞                  mation time of conﬁrmed transactions
+[114]  2020  Inﬁnite-server queue    Propagation delay between two individual users
+[49]   2020                          A further study of the inﬁnite-server queue studied in [33];
+[39]   2020  MX /MX /1               related inﬁnite-server queues have similar dynamics
+[29]   2020                          The average number of slots; the average waiting time per
+[90]   2021  M/MX /1 with priority   slot; throughput
+[3]    2021                          Users’ equilibrium behavior; total fee rate; conﬁrmation
+[126]  2021  Monotone separable      latency; system equilibria
+                                     Stability and scalability of the DAG network
+             queuing models
+                                     Mining resources allocation; mining cost; stability
+             Logical queueing-based
+                                     The consistency and security of consortium blockchain
+             analytical model        protocols
+                                     The average waiting time for the victim client transac-
+             M/H2/1;         M/M/1;  tions; security; reliability
+                                     The average number of transactions; the average transac-
+             M/Er/1                  tion conﬁrmation time; the average transaction through-
+                                     put.","For example, the PoW blockchain system
+with multiple mining pools, the PBFT blockchain system of dynamic nodes, the DAG-
+based blockchain systems, the Ethereum, and the large-scale blockchain systems with
+
+                                                         13
+             Table 2: The queueing models of blockchain systems
+
+Paper  Year  Queue type              Research scope
+[125]  2018  Petri Nets model        Throughput; utilization; mean queue length at each peer;
+                                     critical processing stages within a peer
+[67]   2018  A queueing game         The miners’ mining rewards; the users’ time cost
+[35]   2019  GI/GX /1                Queue size; waiting time of transactions
+[144]  2019  M/GX ⊕ G/1              The average number of transactions; the average conﬁr-
+                                     mation time of transactions
+[64]   2019  Fork-join queue         The delay performance of the synchronization process
+                                     among the miners
+[2]    2019  M/D/c                   The time, space, consensus, and search complexity; secu-
+                                     rity
+[91]   2019  Jackson network model;  Probability distributions of block and transaction distribu-
+             M/G/1                   tion time; node response time; forking probabilities; net-
+                                     work partition sizes; duration of ledger’s inconsistency pe-
+[108]  2019  M/G/1                   riod.","M/M/1; M/M/∞            The learning completion delay of blockchain-enabled fed-
+                                     erated learning; performance of synchronous and asyn-
+             Three-phase service     chronous mechanisms
+             queuing process         Throughput of the dynamic PBFT blockchain system; the
+                                     stationary rate (or probability) that a block is pegged on
+[135]  2021  A novel batch-service   the blockchain; the stationary rate (or probability) that
+             queue model             an orphan block is returned to the transaction pool
+[17]   2022
+             M ⊕ Mb/Mb/1
+
+                                     14
+either cross-chain, side-chain, or oﬀ-chain.",2022-11-29 03:51:40+00:00,"Performance Evaluation, Optimization and Dynamic Decision in Blockchain Systems: A Recent Overview",cs.PF,"['cs.PF', 'cs.IT', 'cs.LG', 'math.IT', 'math.OC', '90B22, 60J28', 'H.2.4; H.3.5; E.2; E.3; D.4.6; D.4.8']","[arxiv.Result.Author('Quan-Lin Li'), arxiv.Result.Author('Yan-Xia Chang'), arxiv.Result.Author('Qing Wang')]","With rapid development of blockchain technology as well as integration of
+various application areas, performance evaluation, performance optimization,
+and dynamic decision in blockchain systems are playing an increasingly
+important role in developing new blockchain technology. This paper provides a
+recent systematic overview of this class of research, and especially,
+developing mathematical modeling and basic theory of blockchain systems.
+Important examples include (a) performance evaluation: Markov processes,
+queuing theory, Markov reward processes, random walks, fluid and diffusion
+approximations, and martingale theory; (b) performance optimization: Linear
+programming, nonlinear programming, integer programming, and multi-objective
+programming; (c) optimal control and dynamic decision: Markov decision
+processes, and stochastic optimal control; and (d) artificial intelligence:
+Machine learning, deep reinforcement learning, and federated learning. So far,
+a little research has focused on these research lines. We believe that the
+basic theory with mathematical methods, algorithms and simulations of
+blockchain systems discussed in this paper will strongly support future
+development and continuous innovation of blockchain technology."
+14293,"In contrast with Goﬀard’s model [38], Jang and Lee [54] proposed a new random
+walk model to further study the probability distribution of catch-up time spent for the
+fraudulent chain to catch up with the honest chain, which takes into account the block con-
+ﬁrmation.","Goﬀard [38] reﬁned a random walk model underlying the double-spending problem
+and provided a fraud risk assessment of the blockchain system.","They discussed the proﬁtability of the double-spending attacks that manipulate
+a priori mined transaction in a blockchain system.",2022-11-29 03:51:40+00:00,"Performance Evaluation, Optimization and Dynamic Decision in Blockchain Systems: A Recent Overview",cs.PF,"['cs.PF', 'cs.IT', 'cs.LG', 'math.IT', 'math.OC', '90B22, 60J28', 'H.2.4; H.3.5; E.2; E.3; D.4.6; D.4.8']","[arxiv.Result.Author('Quan-Lin Li'), arxiv.Result.Author('Yan-Xia Chang'), arxiv.Result.Author('Qing Wang')]","With rapid development of blockchain technology as well as integration of
+various application areas, performance evaluation, performance optimization,
+and dynamic decision in blockchain systems are playing an increasingly
+important role in developing new blockchain technology. This paper provides a
+recent systematic overview of this class of research, and especially,
+developing mathematical modeling and basic theory of blockchain systems.
+Important examples include (a) performance evaluation: Markov processes,
+queuing theory, Markov reward processes, random walks, fluid and diffusion
+approximations, and martingale theory; (b) performance optimization: Linear
+programming, nonlinear programming, integer programming, and multi-objective
+programming; (c) optimal control and dynamic decision: Markov decision
+processes, and stochastic optimal control; and (d) artificial intelligence:
+Machine learning, deep reinforcement learning, and federated learning. So far,
+a little research has focused on these research lines. We believe that the
+basic theory with mathematical methods, algorithms and simulations of
+blockchain systems discussed in this paper will strongly support future
+development and continuous innovation of blockchain technology."
+14294,"A further study of some Markovian Bitcoin models from
+      Go˝bel et al.. Stochastic Models, 36(2): 223-250.",(2020).,"[56] Jofr´e A., Pardo A., Salas D., Verdugo V., Verschae J.",2022-11-29 03:51:40+00:00,"Performance Evaluation, Optimization and Dynamic Decision in Blockchain Systems: A Recent Overview",cs.PF,"['cs.PF', 'cs.IT', 'cs.LG', 'math.IT', 'math.OC', '90B22, 60J28', 'H.2.4; H.3.5; E.2; E.3; D.4.6; D.4.8']","[arxiv.Result.Author('Quan-Lin Li'), arxiv.Result.Author('Yan-Xia Chang'), arxiv.Result.Author('Qing Wang')]","With rapid development of blockchain technology as well as integration of
+various application areas, performance evaluation, performance optimization,
+and dynamic decision in blockchain systems are playing an increasingly
+important role in developing new blockchain technology. This paper provides a
+recent systematic overview of this class of research, and especially,
+developing mathematical modeling and basic theory of blockchain systems.
+Important examples include (a) performance evaluation: Markov processes,
+queuing theory, Markov reward processes, random walks, fluid and diffusion
+approximations, and martingale theory; (b) performance optimization: Linear
+programming, nonlinear programming, integer programming, and multi-objective
+programming; (c) optimal control and dynamic decision: Markov decision
+processes, and stochastic optimal control; and (d) artificial intelligence:
+Machine learning, deep reinforcement learning, and federated learning. So far,
+a little research has focused on these research lines. We believe that the
+basic theory with mathematical methods, algorithms and simulations of
+blockchain systems discussed in this paper will strongly support future
+development and continuous innovation of blockchain technology."
+15124,"Thus, this is
+                                                               subject to further research.",jects without adding equally relevant ones.,"Running only practically relevant microbenchmarks sig-
+niﬁcantly reduces the execution duration and also sim-         Changes in the Optimized Suite over Time
+pliﬁes the analysis of the results.",2022-12-19 14:55:39+00:00,Using Microbenchmark Suites to Detect Application Performance Changes,cs.PF,"['cs.PF', 'cs.SE']","[arxiv.Result.Author('Martin Grambow'), arxiv.Result.Author('Denis Kovalev'), arxiv.Result.Author('Christoph Laaber'), arxiv.Result.Author('Philipp Leitner'), arxiv.Result.Author('David Bermbach')]","Software performance changes are costly and often hard to detect pre-release.
+Similar to software testing frameworks, either application benchmarks or
+microbenchmarks can be integrated into quality assurance pipelines to detect
+performance changes before releasing a new application version. Unfortunately,
+extensive benchmarking studies usually take several hours which is problematic
+when examining dozens of daily code changes in detail; hence, trade-offs have
+to be made. Optimized microbenchmark suites, which only include a small subset
+of the full suite, are a potential solution for this problem, given that they
+still reliably detect the majority of the application performance changes such
+as an increased request latency. It is, however, unclear whether
+microbenchmarks and application benchmarks detect the same performance problems
+and one can be a proxy for the other.
+  In this paper, we explore whether microbenchmark suites can detect the same
+application performance changes as an application benchmark. For this, we run
+extensive benchmark experiments with both the complete and the optimized
+microbenchmark suites of the two time-series database systems InuxDB and
+VictoriaMetrics and compare their results to the results of corresponding
+application benchmarks. We do this for 70 and 110 commits, respectively. Our
+results show that it is possible to detect application performance changes
+using an optimized microbenchmark suite if frequent false-positive alarms can
+be tolerated."
+15125,"Overall, our study motivates further research on the com-
+                                                                putation, usage, and advantages of optimized microbench-
+   Optimized microbenchmark suites can be a helpful tool        mark suites.",performance issue.,"for large projects with multiple developers, a large code
+base, and many code changes per day (e.g., our studied              7If it is possible to record call graphs in the production environ-
+time series database systems).",2022-12-19 14:55:39+00:00,Using Microbenchmark Suites to Detect Application Performance Changes,cs.PF,"['cs.PF', 'cs.SE']","[arxiv.Result.Author('Martin Grambow'), arxiv.Result.Author('Denis Kovalev'), arxiv.Result.Author('Christoph Laaber'), arxiv.Result.Author('Philipp Leitner'), arxiv.Result.Author('David Bermbach')]","Software performance changes are costly and often hard to detect pre-release.
+Similar to software testing frameworks, either application benchmarks or
+microbenchmarks can be integrated into quality assurance pipelines to detect
+performance changes before releasing a new application version. Unfortunately,
+extensive benchmarking studies usually take several hours which is problematic
+when examining dozens of daily code changes in detail; hence, trade-offs have
+to be made. Optimized microbenchmark suites, which only include a small subset
+of the full suite, are a potential solution for this problem, given that they
+still reliably detect the majority of the application performance changes such
+as an increased request latency. It is, however, unclear whether
+microbenchmarks and application benchmarks detect the same performance problems
+and one can be a proxy for the other.
+  In this paper, we explore whether microbenchmark suites can detect the same
+application performance changes as an application benchmark. For this, we run
+extensive benchmark experiments with both the complete and the optimized
+microbenchmark suites of the two time-series database systems InuxDB and
+VictoriaMetrics and compare their results to the results of corresponding
+application benchmarks. We do this for 70 and 110 commits, respectively. Our
+results show that it is possible to detect application performance changes
+using an optimized microbenchmark suite if frequent false-positive alarms can
+be tolerated."

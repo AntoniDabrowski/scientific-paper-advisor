@@ -1,0 +1,94 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+5219,"DOI 10.1088/1742-6596/125/1/
+                                                                       012078
+    In summary, ParticLS provides a platform with an
+intuitive implementation that will assist further study            5.","ries 125, 012078 (2008).","Benning, M., Knoll, F., Sch¨onlieb, C.B., Valkonen,
+of the constitutive laws governing materials prone to                  T.: Preconditioned admm with nonlinear operator con-
+fracture and plastic deformation, speciﬁcally rock and                 straint.",2022-04-19 17:42:33+00:00,ParticLS: Object-oriented software for discrete element methods and peridynamics,cs.MS,"['cs.MS', 'cs.CE']","[arxiv.Result.Author('Andrew D. Davis'), arxiv.Result.Author('Brendan A. West'), arxiv.Result.Author('Nathanael J. Frisch'), arxiv.Result.Author(""Devin T. O'Connor""), arxiv.Result.Author('Matthew D. Parno')]","ParticLS (\emph{Partic}le \emph{L}evel \emph{S}ets) is a software library
+that implements the discrete element method (DEM) and meshfree methods.
+ParticLS tracks the interaction between individual particles whose geometries
+are defined by level sets capable of capturing complex shapes. These particles
+either represent rigid bodies or material points within a continuum.
+Particle-particle interactions using various contact laws numerically
+approximate solutions to energy and mass conservation equations, simulating
+rigid body dynamics or deformation/fracture. By leveraging multiple contact
+laws, ParticLS can simulate interacting bodies that deform, fracture, and are
+composed of many particles. In the continuum setting, we numerically solve the
+peridynamic equations -- integro-differential equations capable of modeling
+objects with discontinuous displacement fields and complex fracture dynamics.
+We show that the discretized peridynamic equations can be solved using the same
+software infrastructure that implements the DEM. Therefore, we design a unique
+software library where users can easily add particles with arbitrary geometries
+and new contact laws that model either rigid-body interaction or peridynamic
+constitutive relationships. We demonstrate ParticLS' versatility on test
+problems meant to showcase features applicable to a broad selection of fields
+such as tectonics, granular media, multiscale simulations, glacier calving, and
+sea ice."
+10783,"157–172, 1969.
+the CUDA, OpenMP, and OpenACC based code achieves
+roughly a speedup of 42.9x, 8.1x, and 35.3x based on the                      [13] D. Burgess and M. B. Giles, “Renumbering unstructured grids to
+serial execution, then we ﬁnd the memory access issue by                            improve the performance of codes on hierarchical memory machines,”
+using the rooﬂine model which needs further research, the                           Advances in Engineering Software, vol.","We also capture the performance                           ric matrices,” in Proceedings of the 1969 24th national conference,
+on CPU and GPU platforms with seven grids, concretely                               pp.","28, no.",2022-09-05 10:23:30+00:00,Performance optimization and analysis of the unstructured Discontinuous Galerkin solver on multi-core and many-core architectures,cs.MS,"['cs.MS', 'cs.CE', 'cs.DC']","[arxiv.Result.Author('Zhe Dai'), arxiv.Result.Author('Liang D'), arxiv.Result.Author('Yueqin Wang'), arxiv.Result.Author('Fang Wang'), arxiv.Result.Author('Li Ming'), arxiv.Result.Author('Jian Zhang')]","The discontinuous Galerkin (DG) algorithm is a representative high order
+method in Computational Fluid Dynamics (CFD) area which possesses considerable
+mathematical advantages such as high resolution, low dissipation, and
+dispersion. However, DG is rather computationally intensive to demonstrate
+practical engineering problems. This paper discusses the implementation of our
+in-house practical DG application in three different programming models, as
+well as some optimization techniques, including grid renumbering and mixed
+precision to maximize the performance improvements in a single node system. The
+experiment on CPU and GPU shows that our CUDA, OpenACC, and OpenMP-based code
+obtains a maximum speedup of 42.9x, 35.3x, and 8.1x compared with serial
+execution by the original application, respectively. Besides, we systematically
+compare the programming models in two aspects: performance and productivity.
+Our empirical conclusions facilitate the programmers to select the right
+platform with a suitable programming model according to their target
+applications."
+10785,"We will
+                                              therefore further study the potential of our tool in more complex software
+                                              projects.","While we provide a list of
+                                              scenarios that Derivgrind does not handle correctly, most of them are aca-
+                                              demic examples or originate from highly optimized math libraries.","1 Introduction
+
+                                       In many areas of science and technology, processes of interest can be described by a
+                                       function f : Rn → Rm, x → y implemented in a computer program.",2022-09-05 10:48:24+00:00,Forward-Mode Automatic Differentiation of Compiled Programs,cs.MS,['cs.MS'],"[arxiv.Result.Author('Max Aehle'), arxiv.Result.Author('Johannes Blühdorn'), arxiv.Result.Author('Max Sagebaum'), arxiv.Result.Author('Nicolas R. Gauger')]","Algorithmic differentiation (AD) is a set of techniques to obtain accurate
+derivatives of a computer-implemented function in an automatic fashion.
+State-of-the-art AD tools rely on the source code of the implementation or
+internal representations of compilers building it.
+  We present the new AD tool Derivgrind, which augments the machine code of
+compiled programs with forward AD logic. Derivgrind leverages the Valgrind
+instrumentation framework for a structured access to the machine code, and a
+shadow memory tool to store dot values. Depending on the application scenario,
+no access to the source code is required at all, or the access is restricted to
+the parts defining input and output variables.
+  Derivgrind's versatility comes at the price of scaling the running time by a
+factor between 60 and 140, measured on a benchmark based on a PDE solver.
+Results of our extensive test suite indicate that Derivgrind produces correct
+results on GCC- and Clang-compiled programs, including a Python interpreter,
+with a small number of exceptions. While we provide a list of scenarios that
+Derivgrind does not handle correctly, most of them are academic examples or
+originate from highly optimized math libraries. We will therefore further study
+the potential of our tool in more complex software projects."
+10786,"We will therefore further study and develop machine-code-based
+AD for larger software packages.","The results indicate that unless explicitly instructed
+otherwise by the programmer, actual compilers only very rarely realize some of the more
+“dangerous” constructs.","In order to identify the input and output variables of the diﬀerentiation task, and to set
+or get the respective dot values, generally the parts of the client’s source code containing
+their deﬁnitions must be accessible, in one of the following two ways.",2022-09-05 10:48:24+00:00,Forward-Mode Automatic Differentiation of Compiled Programs,cs.MS,['cs.MS'],"[arxiv.Result.Author('Max Aehle'), arxiv.Result.Author('Johannes Blühdorn'), arxiv.Result.Author('Max Sagebaum'), arxiv.Result.Author('Nicolas R. Gauger')]","Algorithmic differentiation (AD) is a set of techniques to obtain accurate
+derivatives of a computer-implemented function in an automatic fashion.
+State-of-the-art AD tools rely on the source code of the implementation or
+internal representations of compilers building it.
+  We present the new AD tool Derivgrind, which augments the machine code of
+compiled programs with forward AD logic. Derivgrind leverages the Valgrind
+instrumentation framework for a structured access to the machine code, and a
+shadow memory tool to store dot values. Depending on the application scenario,
+no access to the source code is required at all, or the access is restricted to
+the parts defining input and output variables.
+  Derivgrind's versatility comes at the price of scaling the running time by a
+factor between 60 and 140, measured on a benchmark based on a PDE solver.
+Results of our extensive test suite indicate that Derivgrind produces correct
+results on GCC- and Clang-compiled programs, including a Python interpreter,
+with a small number of exceptions. While we provide a list of scenarios that
+Derivgrind does not handle correctly, most of them are academic examples or
+originate from highly optimized math libraries. We will therefore further study
+the potential of our tool in more complex software projects."

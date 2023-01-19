@@ -1,0 +1,717 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+1756,"In either case, further study is needed in this direction.","The
+answer may lie in a diﬀerent method for conﬁguring the parameters ξi or it may be the case that this is a
+property intrinsic to the SALT method.","It will also be necessary to determine in future work whether the eﬀects observed in these stochastic
+parameterisations are dependent on the mesh resolution.",2022-02-09 11:30:10+00:00,Variational Stochastic Parameterisations and their Applications to Primitive Equation Models,physics.ao-ph,"['physics.ao-ph', 'physics.comp-ph']","[arxiv.Result.Author('Ruiao Hu'), arxiv.Result.Author('Stuart Patching')]","We present a numerical investigation into the stochastic parameterisations of
+the Primitive Equations (PE) using the Stochastic Advection by Lie Transport
+(SALT) and Stochastic Forcing by Lie Transport (SFLT) frameworks. These
+frameworks were chosen due to their structure-preserving introduction of
+stochasticity, which decomposes the transport velocity and fluid momentum into
+their drift and stochastic parts, respectively. In this paper, we develop a new
+calibration methodology to implement the momentum decomposition of SFLT and
+compare with the Lagrangian path methodology implemented for SALT. The
+resulting stochastic Primitive Equations are then integrated numerically using
+a modification of the FESOM2 code. For certain choices of the stochastic
+parameters, we show that SALT causes an increase in the eddy kinetic energy
+field and an improvement in the spatial spectrum. SFLT also shows improvements
+in these areas, though to a lesser extent. SALT does, however, have the
+drawback of an excessive downwards diffusion of temperature."
+1757,"In either case, further study is needed in
+this direction.","The answer may lie in a diﬀerent method for conﬁguring the parameters
+ξi or it may be the case that this is a property intrinsic to SALT.","The stochastic parameterisation frameworks considered in this paper distils all uncertainties of the ocean
+models into the stochastic parameters ξi and φI .",2022-02-09 11:30:10+00:00,Variational Stochastic Parameterisations and their Applications to Primitive Equation Models,physics.ao-ph,"['physics.ao-ph', 'physics.comp-ph']","[arxiv.Result.Author('Ruiao Hu'), arxiv.Result.Author('Stuart Patching')]","We present a numerical investigation into the stochastic parameterisations of
+the Primitive Equations (PE) using the Stochastic Advection by Lie Transport
+(SALT) and Stochastic Forcing by Lie Transport (SFLT) frameworks. These
+frameworks were chosen due to their structure-preserving introduction of
+stochasticity, which decomposes the transport velocity and fluid momentum into
+their drift and stochastic parts, respectively. In this paper, we develop a new
+calibration methodology to implement the momentum decomposition of SFLT and
+compare with the Lagrangian path methodology implemented for SALT. The
+resulting stochastic Primitive Equations are then integrated numerically using
+a modification of the FESOM2 code. For certain choices of the stochastic
+parameters, we show that SALT causes an increase in the eddy kinetic energy
+field and an improvement in the spatial spectrum. SFLT also shows improvements
+in these areas, though to a lesser extent. SALT does, however, have the
+drawback of an excessive downwards diffusion of temperature."
+1759,"Nonetheless, the two models introduced here merit further study in several directions.","Secondly,
+requiring that 2{pF r2σ2q “ Op1q ensures that the time scale for the wave envelope dynamics matches
+that for the ﬂuid motion.","For example,
+it remains to: (1) quantify the correlations observed visually; (2) determine their rate of formation; and
+(3) parameterise the model for comparison and analysis of the satellite data on which their derivations
+were based.",2022-02-08 15:11:01+00:00,Ponderomotive coupling of waves to sea surface currents via horizontal density gradients,physics.ao-ph,"['physics.ao-ph', 'math-ph', 'math.MP', 'physics.flu-dyn']","[arxiv.Result.Author('Darryl D. Holm'), arxiv.Result.Author('Ruiao Hu'), arxiv.Result.Author('Oliver D. Street')]","The mathematical models and numerical simulations reported here are motivated
+by satellite observations of horizontal sea surface fluid motions that are
+closely coordinated with the vertical motion of waves or, after an
+approximation, an envelope of rapidly oscillating waves. This coordination of
+fluid movements with wave envelopes tends to occur when strong horizontal
+buoyancy gradients are present. The nonlinear models of this coordinated
+movement presented here may provide future opportunities for the optimal design
+of satellite imagery that could simultaneously capture the dynamics of both
+waves and currents directly.
+  The models derived here appear first in their unapproximated form, then again
+with a slowly varying envelope (SVE) approximation using the WKB approach. The
+WKB wave-current-buoyancy interaction model derived here for a free surface
+with horizontal buoyancy gradients indicates that the mechanism for these
+correlations is the ponderomotive force of the slowly varying envelope of
+rapidly oscillating waves acting on the surface currents via the horizontal
+buoyancy gradient. In this model, the buoyancy gradient appears explicitly in
+the WKB wave momentum, which in turn generates density-weighted potential
+vorticity whenever the buoyancy gradient is not aligned with the wave-envelope
+gradient."
+1760,"Nonetheless, the two models introduced here merit further study in several directions.","Secondly,
+requiring that 2{pF r2σ2q “ Op1q ensures that the time scale for the wave envelope dynamics matches
+that for the ﬂuid motion.","For example,
+it remains to: (1) quantify the correlations observed visually; (2) determine their rate of formation; and
+(3) parameterise the model for comparison and analysis of the satellite data on which their derivations
+were based.",2022-02-08 15:11:01+00:00,Coupling of waves to sea surface currents via horizontal density gradients,physics.ao-ph,"['physics.ao-ph', 'math-ph', 'math.MP', 'physics.flu-dyn']","[arxiv.Result.Author('Darryl D. Holm'), arxiv.Result.Author('Ruiao Hu'), arxiv.Result.Author('Oliver D. Street')]","The mathematical models and numerical simulations reported here are motivated
+by satellite observations of horizontal gradients of sea surface temperature
+and salinity that are closely coordinated with the slowly varying envelope of
+the rapidly oscillating waves. This coordination of gradients of fluid material
+properties with wave envelopes tends to occur when strong horizontal buoyancy
+gradients are present. The nonlinear models of this coordinated movement
+presented here may provide future opportunities for the optimal design of
+satellite imagery that could simultaneously capture the dynamics of both waves
+and currents directly. The model derived here appears in two levels of
+approximation: first for rapidly oscillating waves, and then for their slowly
+varying envelope (SVE) approximation obtained by using the WKB approach. The
+WKB wave-current-buoyancy interaction model derived here for a free surface
+with significant horizontal buoyancy gradients indicates that the mechanism for
+the emergence of these correlations is the ponderomotive force of the slowly
+varying envelope of rapidly oscillating waves acting on the surface currents
+via the horizontal buoyancy gradient. In this model, the buoyancy gradient
+appears explicitly in the WKB wave momentum, which in turn generates
+density-weighted potential vorticity whenever the buoyancy gradient is not
+aligned with the wave-envelope gradient."
+4381,"Though the challenges in constraining the uncertainties in the eddy energy
+dissipation time-scale are formidable, the observed/diagnosed eddy energy signature
+can perhaps act as a target towards eﬀorts to constrain the aforementioned unknowns,
+highlighting the potential for further research relating to ocean energetic pathways and
+its consequences for climate evolution (see for example Ruan et al.","Xu et al., 2016; Rai et
+al., 2021).","(2021) for a recent
+review of research relating to ocean eddy energy pathways).",2022-04-05 09:17:37+00:00,Acute sensitivity of global ocean circulation and heat content to eddy energy dissipation time-scale,physics.ao-ph,"['physics.ao-ph', 'physics.flu-dyn']","[arxiv.Result.Author('Julian Mak'), arxiv.Result.Author('David P. Marshall'), arxiv.Result.Author('Gurvan Madec'), arxiv.Result.Author('James R. Maddison')]","The global ocean overturning circulation, critically dependent on the global
+density stratification, plays a central role in regulating climate evolution.
+While it is well-known that the global stratification profile exhibits a strong
+dependence to Southern Ocean dynamics and in particular to wind and buoyancy
+forcing, we demonstrate here that the stratification is also acutely sensitive
+to the mesoscale eddy energy dissipation time-scale. Within the context of a
+global ocean circulation model with an energy constrained mesoscale eddy
+parameterization, it is shown that modest variations in the eddy energy
+dissipation time-scale lead to significant variations in key metrics relating
+to ocean circulation, namely the Antarctic Circumpolar Current transport,
+Atlantic Meridional Overturning Circulation strength, and global ocean heat
+content, over long time-scales. The results highlight a need to constrain
+uncertainties associated with eddy energy dissipation for climate model
+projections over centennial time-scales, but also for paleoclimate simulations
+over millennial time-scales."
+4574,"The possible
+reason for increasing SM influence over NCI could be linked with wetning or drying of land
+surface states, however, further research needs to be carried out to evaluate such effect.","The model simulation also revealed the increase in the
+impact of SM on ExTI in the future climate under the 4K warming scenario over NCI.","The present study also evaluates the seasonal contribution of SM on ExT using PDFs of seasonal
+maxima over the NCI.",2022-04-08 13:57:39+00:00,Assessing the impact of soil moisture-temperature coupling on temperature extremes over the Indian region,physics.ao-ph,"['physics.ao-ph', 'physics.data-an']","[arxiv.Result.Author('Naresh G Ganeshi'), arxiv.Result.Author('Milind Mujumdar'), arxiv.Result.Author('Takaya Yuhei'), arxiv.Result.Author('Mangesh M Goswami'), arxiv.Result.Author('Bhupendra Bahadur Singh'), arxiv.Result.Author('R Krishnan'), arxiv.Result.Author('Toru Terao')]","While previous model sensitivity studies have mainly focused on discerning
+the soil moisture-precipitation feedback processes over the Indian region, the
+present study investigates the impact of soil moisture-temperature (SM-T)
+coupling on the temperature extremes (ExT) using the high-resolution (~60 km)
+model simulations. These simulations include the control and soil moisture (SM)
+sensitivity experiments (DRY-SM and WET-SM) initialized by perturbing
+(decreasing/increasing) SM from the historical (HIST: 1951-2010) and future 4K
+warming (FUT: 2051-2100) control runs. The analysis identifies the transitional
+regions of north-central India (NCI) as the hotspot of strong SM-T coupling.
+Over NCI, the HIST experiment shows an occurrence of 4-5 extreme events per
+year, with an average duration of 5-6 days per event and intensity exceeding
+46oC. Whereas, FUT estimates indicate relatively severe, long-lasting, and more
+frequent extreme events. The SM sensitivity experiments reveal the significant
+influence of SM-T coupling on the ExT over NCI in both historical and future
+climates. We find that the DRY-SM results in significant enhancement of
+frequency, duration and intensity of ExT, in contrast to WET-SM. We note that
+the difference between DRY-SM and WET-SM 50-year return value of the block
+maxima GEV fit can reach upto 1.25oC and 3oC for historical and future climate,
+respectively. The enhanced (reduced) extreme temperature conditions in DRY-SM
+(WET-SM) simulation are caused by the intensification (abridgement) of sensible
+heat flux by limiting (intensifying) available total energy for evaporative
+cooling due to faster (slower) dissipation of positive soil moisture anomalies
+(also called as soil moisture memory). In addition, the influence of SM on ExT
+over NCI is found to be larger during the post-monsoon season as compared to
+the pre-monsoon and monsoon seasons."
+5145,"The fact, how does the regression model behaves towards various input data, and the correlation analysis
+results as well encourages us for the further study.","Training (or calibration) of a model was required prior to its usage for estimations (and at this stage the
+local data was used).","The signal processing algorithm is going to be reconﬁgured
+for estimating surface state in remote points.",2022-04-21 15:03:59+00:00,Surface waves prediction based on long-range acoustic backscattering in a mid-frequency range,physics.ao-ph,"['physics.ao-ph', 'eess.SP']","[arxiv.Result.Author('Alexey V. Ermoshkin'), arxiv.Result.Author('Dmitry A. Kosteev'), arxiv.Result.Author('Alexander A. Ponomarenko'), arxiv.Result.Author('Dmitry D. Razumov'), arxiv.Result.Author('Mikhail B. Salin')]","New data was obtained for a frequency band that had not been so well-studied
+for sea surface probing applications before. During the described 2-weeks sea
+experiment 1-3 kHz tonal pulses were emitted from a platform, located on the
+northern Black Sea shelf, and Doppler spectrum of reverberation was studied. We
+believe that this band is worth further studying due the sound propagation
+range is large enough to meet practical needs in coastal zone while the
+angle-distance resolution is quite moderate. However it is quite difficult to
+interpret the obtained data since backscattering spectrum shape is influenced
+by a series of effects and has a complicated link to wind waves and currents
+parameters. Backscattering of acoustical signals was received for distances
+around 2 nautical miles. Significant wave height, dominant wave frequency were
+estimated as the result of such signals processing with the use of machine
+learning tools. A decision-tree-based mathematical regression model was trained
+to solve the inverse problem. Wind waves prediction is in a good agreement with
+direct measurements, made on the platform, and machine learning results allow
+physical interpretation."
+5146,"The fact, how does the regression model behaves towards various input data, and the correlation analysis
+results as well encourages us for the further study.","Training (or calibration) of a model was required prior to its usage for estimations (and at this stage the
+local data was used).","The signal processing algorithm is going to be reconﬁgured
+for estimating surface state in remote points.",2022-04-21 15:03:59+00:00,Surface waves prediction based on long-range acoustic backscattering in a mid-frequency range,physics.ao-ph,"['physics.ao-ph', 'eess.SP']","[arxiv.Result.Author('Alexey V. Ermoshkin'), arxiv.Result.Author('Dmitry A. Kosteev'), arxiv.Result.Author('Alexander A. Ponomarenko'), arxiv.Result.Author('Dmitry D. Razumov'), arxiv.Result.Author('Mikhail B. Salin')]","New data was obtained for a frequency band that had not been so well-studied
+for sea surface probing applications before. During the described 2-weeks sea
+experiment 1-3 kHz tonal pulses were emitted from a platform, located on the
+northern Black Sea shelf, and Doppler spectrum of reverberation was studied. We
+believe that this band is worth further studying due the sound propagation
+range is large enough to meet practical needs in coastal zone while the
+angle-distance resolution is quite moderate. However it is quite difficult to
+interpret the obtained data since backscattering spectrum shape is influenced
+by a series of effects and has a complicated link to wind waves and currents
+parameters. Backscattering of acoustical signals was received for distances
+around 2 nautical miles. Significant wave height, dominant wave frequency were
+estimated as the result of such signals processing with the use of machine
+learning tools. A decision-tree-based mathematical regression model was trained
+to solve the inverse problem. Wind waves prediction is in a good agreement with
+direct measurements, made on the platform, and machine learning results allow
+physical interpretation."
+5174,"Since
+chaos cannot arise when δ = 0, it might serve naturally as a bifurcation parameter inviting further study.","Circumscribing the
+possibilities for dynamics when this sum of quadratic coeﬃcients δ is nonzero is an open question.","It is also important to consider the origin of nonzero δ in the conservative core of models having these
+structures (e.g.",2022-04-21 18:23:48+00:00,Invariants and chaos in the Volterra gyrostat without energy conservation,physics.ao-ph,"['physics.ao-ph', 'math.DS']","[arxiv.Result.Author('Ashwin K Seshadri'), arxiv.Result.Author('S Lakshmivarahan')]","The model of the Volterra gyrostat (VG) has not only played an important role
+in rigid body dynamics but also served as the foundation of low-order models of
+many naturally occurring systems. It is well known that VG possesses two
+invariants, or constants of motion, corresponding to kinetic energy and squared
+angular momentum, giving oscillatory solutions to its equations of motion. Nine
+distinct subclasses of the VG have been identified, two of which the Euler
+gyroscope and Lorenz gyrostat are each known to have two constants. This paper
+provides a complete characterization of constants of motion of the VG and its
+subclasses, showing how these enjoy two constants of motion even when rendered
+in terms of a non-invertible transformation of parameters, leading to a
+transformed Volterra gyrostat (tVG). If the quadratic coefficients of the tVG
+sum to zero, as they do for the VG, the system conserves energy. In all of
+these cases, the flows preserve volume; however, physical models where the
+quadratic coefficients do not sum to zero are ubiquitous, and characterization
+of constants of motion and the resulting dynamics for this more general class
+of models with volume conservation but without energy conservation is lacking.
+We provide such a characterization for each of the subclasses. Those with three
+linear feedback terms have no constants of motion, and thereby admit rich
+dynamics including chaos. This gives rise to a broad class of three-dimensional
+volume conserving chaotic flows, arising naturally from model reduction
+techniques."
+6270,"To further study how diurnal SST warming impacts the atmospheric convection,
+our model can be coupled to cloud-resolving models.",Our model produces agreeing results for the given case study.,"Recently, we implemented our
+upper ocean model as an interactive lower boundary condition in the System for At-
+mospheric Modeling (SAM) model.",2022-05-16 18:31:50+00:00,Modeling wind-responsive diurnal sea surface temperature for cloud-resolving simulations,physics.ao-ph,"['physics.ao-ph', 'physics.flu-dyn', 'physics.geo-ph']","[arxiv.Result.Author('Reyk Börner'), arxiv.Result.Author('Jan O. Haerter'), arxiv.Result.Author('Romain Fiévet')]","The diurnal variability of sea surface temperature (SST) may play an
+important role for cloud organization above the tropical ocean, with
+implications for precipitation extremes, storminess and climate sensitivity.
+Recent cloud-resolving simulations demonstrate how imposed diurnal SST
+oscillations can strongly, and delicately, impact mesoscale convective
+organization. In spite of the nuanced effects on organization, many idealized
+modeling studies of tropical convection either assume a constant, homogeneous
+SST or, in case of a responsive sea surface, represent the upper ocean by a
+slab with fixed thickness. In this paper, we show that slab ocean models with
+constant heat capacity fail to capture the wind-dependence of observed diurnal
+sea surface warming. To alleviate this shortcoming, we present a simple
+one-dimensional model of upper-ocean temperature dynamics under atmospheric
+forcing. The model describes turbulent mixing as diffusion with a
+wind-dependent diffusivity, in addition to a bulk mixing term and heat fluxes
+entering as sources and sinks. We apply Bayesian inference using observational
+data to calibrate the model. In contrast with slab models, our model captures
+the exponential reduction of the diurnal warming amplitude with increased wind
+speed. Formulated as a single partial differential equation with three key
+parameters, the model is suitable as an interactive numerical boundary
+condition for cloud-resolving simulations."
+6271,"To further study how diurnal SST warming impacts the atmospheric convection,
+our model can be coupled to cloud-resolving models.","Our model produces agreeing results for the given case study, both when assuming
+qv = 15 g kg−1 and 10 g kg−1.","Recently, we implemented our
+upper ocean model as an interactive lower boundary condition in the System for Atmo-
+spheric Modeling (SAM) model (Khairoutdinov & Randall, 2003).",2022-05-16 18:31:50+00:00,Modeling wind-responsive diurnal sea surface temperature for cloud-resolving simulations,physics.ao-ph,"['physics.ao-ph', 'physics.flu-dyn', 'physics.geo-ph']","[arxiv.Result.Author('Reyk Börner'), arxiv.Result.Author('Jan O. Haerter'), arxiv.Result.Author('Romain Fiévet')]","The diurnal variability of sea surface temperature (SST) may play an
+important role for cloud organization above the tropical ocean, with
+implications for precipitation extremes, storminess, and climate sensitivity.
+Recent cloud-resolving simulations demonstrate how imposed diurnal SST
+oscillations can strongly, and delicately, impact mesoscale convective
+organization. In spite of this nuanced interaction, many idealized modeling
+studies of tropical convection either assume a constant, homogeneous SST or, in
+case of a responsive sea surface, represent the upper ocean by a slab with
+fixed thickness. Here we show that slab ocean models with constant heat
+capacity fail to capture the wind-dependence of observed diurnal sea surface
+warming. To alleviate this shortcoming, we present a simple one-dimensional
+model of upper-ocean temperature dynamics under atmospheric forcing. The model
+describes turbulent mixing as diffusion with a wind-dependent diffusivity, in
+addition to a bulk mixing term and heat fluxes entering as sources and sinks.
+Using observational data, we apply Bayesian inference to calibrate the model.
+In contrast with a slab model, our model captures the exponential reduction of
+the diurnal warming amplitude with increasing wind speed. Formulated as a
+single partial differential equation with three key tuning parameters, the
+model is suitable as an interactive numerical boundary condition for
+cloud-resolving simulations."
+6876,These patterns require further study.,"This suggests that dE/dP can appear roughly time-scale invariant at least at characteristic precipitation
+rates.","3.2 Ecosystem’s two moisture regimes
+
+Using the dependence P (W ) (Fig.",2022-05-29 12:46:22+00:00,The role of ecosystem transpiration in creating alternate moisture regimes by influencing atmospheric moisture convergence,physics.ao-ph,"['physics.ao-ph', 'q-bio.PE']","[arxiv.Result.Author('Anastassia M. Makarieva'), arxiv.Result.Author('Andrei V. Nefiodov'), arxiv.Result.Author('Antonio Donato Nobre'), arxiv.Result.Author('Ugo Bardi'), arxiv.Result.Author('Douglas Sheil'), arxiv.Result.Author('Mara Baudena'), arxiv.Result.Author('Scott R. Saleska'), arxiv.Result.Author('Ruben D. Molina'), arxiv.Result.Author('Anja Rammig')]","The terrestrial water cycle links the soil and atmosphere moisture reservoirs
+through four fluxes: precipitation, evaporation, runoff, and atmospheric
+moisture convergence (net import of water vapor to balance runoff). Each of
+these processes is essential for human and ecosystem well-being. Predicting how
+the water cycle responds to changes in vegetation cover remains a challenge.
+Recently, changes in plant transpiration across the Amazon basin were shown to
+be associated exponentially with changes in rainfall, suggesting that even
+small declines in transpiration (e.g. from deforestation) would lead to much
+larger declines in rainfall. Here, constraining these findings by the law of
+mass conservation, we show that in a sufficiently wet atmosphere, forest
+transpiration can control atmospheric moisture convergence such that increased
+transpiration enhances atmospheric moisture import and resulting water yield.
+Conversely, in a sufficiently dry atmosphere increased transpiration reduces
+atmospheric moisture convergence and water yield. This previously unrecognized
+dichotomy explains the otherwise mixed observations of how water yield responds
+to re-greening, as we illustrate with examples from China's Loess Plateau. Our
+analysis indicates that any additional moisture recycling due to additional
+vegetation increases precipitation but decreases local water yield and
+steady-state runoff. Therefore, in the drier regions/periods and early stages
+of ecological restoration, the role of vegetation can be confined to moisture
+recycling, while once a wetter stage is achieved, additional vegetation
+enhances atmospheric moisture convergence. Evaluating the transition between
+regimes, and recognizing the potential of vegetation for enhancing moisture
+convergence, are crucial for characterizing the consequences of deforestation
+as well as for motivating and guiding ecological restoration."
+6877,"However, we must
+also acknowledge that these patterns require further study.","This
+suggests that dE/dP can appear roughly time-scale invariant at least at characteristic precipitation rates.",As illustrated by Fig.,2022-05-29 12:46:22+00:00,The role of ecosystem transpiration in creating alternate moisture regimes by influencing atmospheric moisture convergence,physics.ao-ph,"['physics.ao-ph', 'q-bio.PE']","[arxiv.Result.Author('Anastassia M. Makarieva'), arxiv.Result.Author('Andrei V. Nefiodov'), arxiv.Result.Author('Antonio Donato Nobre'), arxiv.Result.Author('Mara Baudena'), arxiv.Result.Author('Ugo Bardi'), arxiv.Result.Author('Douglas Sheil'), arxiv.Result.Author('Scott R. Saleska'), arxiv.Result.Author('Ruben D. Molina'), arxiv.Result.Author('Anja Rammig')]","The terrestrial water cycle links the soil and atmosphere moisture reservoirs
+through four fluxes: precipitation, evaporation, runoff, and atmospheric
+moisture convergence (net import of water vapor to balance runoff). Each of
+these processes is essential for human and ecosystem well-being. Predicting how
+the water cycle responds to changes in vegetation cover remains a challenge.
+Recently, changes in plant transpiration across the Amazon basin were shown to
+be associated disproportionately with changes in rainfall, suggesting that even
+small declines in transpiration (e.g., from deforestation) would lead to much
+larger declines in rainfall. Here, constraining these results by the law of
+mass conservation, we show that in a sufficiently wet atmosphere, forest
+transpiration can control atmospheric moisture convergence such that increased
+transpiration enhances atmospheric moisture import and resulting water yield.
+Conversely, in a sufficiently dry atmosphere increased transpiration reduces
+atmospheric moisture convergence and water yield. This previously unrecognized
+dichotomy can explain the otherwise mixed observations of how water yield
+responds to re-greening, as we illustrate with examples from China's Loess
+Plateau. Our analysis indicates that any additional precipitation recycling by
+additional vegetation increases precipitation but decreases local water yield
+and steady-state runoff. Therefore, in the drier regions and early stages of
+ecological restoration, the role of vegetation can be confined to precipitation
+recycling, while once a wetter stage is achieved, additional vegetation
+enhances atmospheric moisture convergence and water yield. Evaluating the
+transition between regimes, and recognizing the potential of vegetation for
+enhancing moisture convergence, are crucial for characterizing the consequences
+of deforestation and for motivating and guiding ecological restoration."
+6878,"We agree with our reviewers that there are many unsolved questions highlighted by the new
+approach that require further study.","25
+With two new tables and three new ﬁgures, we have thoroughly re-structured the presentation of our results aiming at maximum
+clarity and disambiguation.","At the same time, we are convinced that there is abundant and mature evidence to re-
+consider the prevailing view that any change in the water cycle except the moisture recycling by plants, is abiotic.",2022-05-29 12:46:22+00:00,The role of ecosystem transpiration in creating alternate moisture regimes by influencing atmospheric moisture convergence,physics.ao-ph,"['physics.ao-ph', 'q-bio.PE']","[arxiv.Result.Author('Anastassia M. Makarieva'), arxiv.Result.Author('Andrei V. Nefiodov'), arxiv.Result.Author('Antonio Donato Nobre'), arxiv.Result.Author('Mara Baudena'), arxiv.Result.Author('Ugo Bardi'), arxiv.Result.Author('Douglas Sheil'), arxiv.Result.Author('Scott R. Saleska'), arxiv.Result.Author('Ruben D. Molina'), arxiv.Result.Author('Anja Rammig')]","The terrestrial water cycle links the soil and atmosphere moisture reservoirs
+through four fluxes: precipitation, evaporation, runoff, and atmospheric
+moisture convergence (net import of water vapor to balance runoff). Each of
+these processes is essential for human and ecosystem well-being. Predicting how
+the water cycle responds to changes in vegetation cover remains a challenge.
+Recently, changes in plant transpiration across the Amazon basin were shown to
+be associated disproportionately with changes in rainfall, suggesting that even
+small declines in transpiration (e.g., from deforestation) would lead to much
+larger declines in rainfall. Here, constraining these results by the law of
+mass conservation, we show that in a sufficiently wet atmosphere, forest
+transpiration can control atmospheric moisture convergence such that increased
+transpiration enhances atmospheric moisture import and resulting water yield.
+Conversely, in a sufficiently dry atmosphere increased transpiration reduces
+atmospheric moisture convergence and water yield. This previously unrecognized
+dichotomy can explain the otherwise mixed observations of how water yield
+responds to re-greening, as we illustrate with examples from China's Loess
+Plateau. Our analysis indicates that any additional precipitation recycling by
+additional vegetation increases precipitation but decreases local water yield
+and steady-state runoff. Therefore, in the drier regions and early stages of
+ecological restoration, the role of vegetation can be confined to precipitation
+recycling, while once a wetter stage is achieved, additional vegetation
+enhances atmospheric moisture convergence and water yield. Evaluating the
+transition between regimes, and recognizing the potential of vegetation for
+enhancing moisture convergence, are crucial for characterizing the consequences
+of deforestation and for motivating and guiding ecological restoration."
+8218,"The upshot is that energy
+                                                        released by clouds at kilometre scales may play a more profound and direct role in shaping the
+                                                        mesoscale trade-wind environment than is generally appreciated, motivating further research
+                                                        into the mechanism’s relevance.","In our minimal-physics setting, we show both ingredients are provided by the shallow cumulus
+                                                        convection itself: It is intrinsically unstable to length scale growth.","1 Introduction
+
+                                                Shallow clouds organised into mesoscale patterns by convective instabilities have been recognised as
+                                                a ubiquitous feature of the subtropical marine boundary layer since satellite imagery in the 1960s
+                                                ﬁrst revealed them (Agee et al., 1973).",2022-06-29 16:09:21+00:00,Non-precipitating shallow cumulus convection is intrinsically unstable to length-scale growth,physics.ao-ph,['physics.ao-ph'],"[arxiv.Result.Author('Martin Janssens'), arxiv.Result.Author('Jordi Vilà-Guerau de Arellano'), arxiv.Result.Author('Chiel C. van Heerwaarden'), arxiv.Result.Author('Stephan R. de Roode'), arxiv.Result.Author('A. Pier Siebesma'), arxiv.Result.Author('Franziska Glassmeier')]","Condensation in cumulus clouds plays a key role in structuring the mean,
+non-precipitating trade-wind boundary layer. Here, we summarise how this role
+also explains the spontaneous growth of mesoscale ($>O(10)$ km) fluctuations in
+clouds and moisture around the mean state in a minimal-physics, large-eddy
+simulation of the undisturbed period during BOMEX on a large ($O(100)$ km)
+domain. Small, spatial anomalies in latent heating in cumulus clouds, which
+form on top of small moisture fluctuations, give rise to circulations that
+transport moisture, but not heat, from dry to moist regions, and thus reinforce
+the latent heating anomaly. We frame this positive feedback as a linear
+instability in mesoscale moisture fluctuations, whose time-scale depends only
+on i) a vertical velocity scale and ii) the mean environment's vertical
+structure. In our minimal-physics setting, we show both ingredients are
+provided by the shallow cumulus convection itself: It is intrinsically unstable
+to length scale growth. The upshot is that energy released by clouds at
+kilometre scales may play a more profound and direct role in shaping the
+mesoscale trade-wind environment than is generally appreciated, motivating
+further research into the mechanism's relevance."
+8219,"However, two notes on this statement motivate further research.","Even if the mechanism would strengthen
+above warmer sea surfaces or in more weakly subsiding environments, it would thus likely support
+the emerging picture that trade-wind cloudiness is rather insensitive to changes in the overall climate
+(Myers et al., 2021; Cesana and Del Genio, 2021).","First, the cloud fraction will be
+sensitive to the developing inversion-layer outﬂows’ ability to sustain extensive sheets of inversion
+cloud, which it does not do in our simulations, but which is observed in other studies (Bretherton
+and Blossey, 2017; Vogel et al., 2020b; Narenpitak et al., 2021; Bony et al., 2020).",2022-06-29 16:09:21+00:00,Non-precipitating shallow cumulus convection is intrinsically unstable to length-scale growth,physics.ao-ph,['physics.ao-ph'],"[arxiv.Result.Author('Martin Janssens'), arxiv.Result.Author('Jordi Vilà-Guerau de Arellano'), arxiv.Result.Author('Chiel C. van Heerwaarden'), arxiv.Result.Author('Stephan R. de Roode'), arxiv.Result.Author('A. Pier Siebesma'), arxiv.Result.Author('Franziska Glassmeier')]","Condensation in cumulus clouds plays a key role in structuring the mean,
+non-precipitating trade-wind boundary layer. Here, we summarise how this role
+also explains the spontaneous growth of mesoscale ($>O(10)$ km) fluctuations in
+clouds and moisture around the mean state in a minimal-physics, large-eddy
+simulation of the undisturbed period during BOMEX on a large ($O(100)$ km)
+domain. Small, spatial anomalies in latent heating in cumulus clouds, which
+form on top of small moisture fluctuations, give rise to circulations that
+transport moisture, but not heat, from dry to moist regions, and thus reinforce
+the latent heating anomaly. We frame this positive feedback as a linear
+instability in mesoscale moisture fluctuations, whose time-scale depends only
+on i) a vertical velocity scale and ii) the mean environment's vertical
+structure. In our minimal-physics setting, we show both ingredients are
+provided by the shallow cumulus convection itself: It is intrinsically unstable
+to length scale growth. The upshot is that energy released by clouds at
+kilometre scales may play a more profound and direct role in shaping the
+mesoscale trade-wind environment than is generally appreciated, motivating
+further research into the mechanism's relevance."
+9466,"model accuracy could be maintained with acceptably
+                                                Whilst further research is necessary to extended these        minor errors emerging at 10 signiﬁcand bits.","Areas of the model which            rounding error using 12 signiﬁcand bits was negligible
+                                                notably improve due to the inclusion of stochastic over       and did not disrupt the long term climatology, whilst
+                                                deterministic rounding are also explored and discussed.","They also
+                                                results to more complex and higher resolution mod-            brieﬂy consider alternative rounding modes, beyond
+                                                els, they indicate that reduced precision techniques and      the standard deterministic “round-to-nearest”.",2022-07-29 10:29:21+00:00,Climate Change Modelling at Reduced Float Precision with Stochastic Rounding,physics.ao-ph,['physics.ao-ph'],"[arxiv.Result.Author('Tom Kimpson'), arxiv.Result.Author('E. Adam Paxton'), arxiv.Result.Author('Matthew Chantry'), arxiv.Result.Author('Tim Palmer')]","Reduced precision floating point arithmetic is now routinely deployed in
+numerical weather forecasting over short timescales. However the applicability
+of these reduced precision techniques to longer timescale climate simulations -
+especially those which seek to describe a dynamical, changing climate - remains
+unclear. We investigate this question by deploying a global atmospheric, coarse
+resolution model known as SPEEDY to simulate a changing climate system subject
+to increased $\text{CO}_2$ concentrations, over a 100 year timescale. Whilst
+double precision is typically the operational standard for climate modelling,
+we find that reduced precision solutions (Float32, Float16) are sufficiently
+accurate. Rounding the finite precision floats stochastically, rather than
+using the more common ``round-to-nearest"" technique, notably improves the
+performance of the reduced precision solutions. Over 100 years the mean bias
+error (MBE) in the global mean surface temperature (precipitation) relative to
+the double precision solution is $+2 \times 10^{-4}$K ($-8 \times 10^{-5}$
+mm/6hr) at single precision and $-3.5\times 10^{-2}$ K($-1 \times 10^{-2}$
+mm/6hr) at half precision, whilst the inclusion of stochastic rounding reduced
+the half precision error to +1.8 $\times 10^{-2}$ K ($-8 \times10^{-4}$
+mm/6hr). By examining the resultant climatic distributions that arise after 100
+years, the difference in the expected value of the global surface temperature,
+relative to the double precision solution is $\leq 5 \times 10^{-3}$ K and for
+precipitation $8 \times 10^{-4}$ mm/6h when numerically integrating at half
+precision with stochastic rounding. Areas of the model which notably improve
+due to the inclusion of stochastic over deterministic rounding are also
+explored and discussed. [abridged]"
+9471,"Since one of our main message is that increasing the number of spatial locations we account for as
+input in the prediction is likely to increase the model forecasting performances, in a further study,
+we also plan to utilize the whole 2D velocity ﬁeld as provided by the output of the high-resolution
+
+                                                         19
+numerical weather prediction model.","Because of the small geographical extent of the area
+associated with the KNMI data, we were unable to address this question within the current work.","Acknowledgment
+    This work was partially supported by ANR grant SAPHIR project ANR-21-CE04-0014-03.",2022-07-29 13:52:51+00:00,Leveraging data from nearby stations to improve short-term wind speed forecasts,physics.ao-ph,"['physics.ao-ph', 'physics.data-an']","[arxiv.Result.Author('Rachel Baïle'), arxiv.Result.Author('Jean-François Muzy')]","In this paper, we address the issue of short term wind speed prediction at a
+given site. We show that, when one uses spatio-temporal information as provided
+by wind data of neighboring stations, one significantly improves the prediction
+at all horizons ranging from 1 to 6 hours ahead. By considering various
+prediction methods, from a very basic linear regression to different machine
+learning architectures, we show that (i) taking into account for wind speed
+data from neighboring locations is much more beneficial than considering other
+kind of information like local weather variables or seeking for an optimal deep
+learning model and (ii) non-linear methods, as provided by neural networks or
+gradient boosting methods, significantly outperform linear regression. These
+conclusions are simply interpreted as resulting from the ability of a method to
+capture the transport of the information in upwind direction by the main flow.
+Our study relies on KNMI historical database that provides hourly wind speed of
+42 stations over Netherlands during the period 2001-2021."
+10411,A further study by Donohue et al.,"They again emphasise the relative stability of the year-on-year time-
+mean transport.","(2016), based on the same cDrake
+experiment, quotes an additional depth-independent or barotropic transport component of
+45.6Sv, calculated using bottom current recorders.",2022-08-24 20:38:26+00:00,Boundary constraints on the large-scale ocean circulation,physics.ao-ph,"['physics.ao-ph', 'physics.data-an']",[arxiv.Result.Author('Tomas Jonathan')],"The Meridional Overturning Circulation (MOC) is a system of surface and deep
+currents encompassing all ocean basins, crucial to the Earth's climate.
+Detecting potential climatic changes in the MOC first requires a careful
+characterisation of its inherent variability. Key components of the MOC are the
+Atlantic MOC (AMOC) and the Antarctic Circumpolar Current (ACC). The role of
+boundary properties in determining the AMOC and ACC is investigated, as a
+function of cross-sectional coordinate and depth, using a hierarchy of general
+circulation models. The AMOC is decomposed as the sum of near-surface Ekman,
+depth-independent bottom velocity and eastern and western boundary density
+components. The decomposition proves a useful low-dimensional characterisation
+of the full 3-D overturning circulation. The estimated total basin-wide AMOC
+overturning streamfunction, reconstructed using only boundary information, is
+in good agreement with direct calculations of the overturning using meridional
+velocities. The time-mean maximum overturning streamfunction is relatively
+constant with latitude, despite its underlying boundary contributions varying
+considerably, especially in the northern hemisphere. Applying a similar
+decomposition diagnostic to the ACC provides insight into the differences
+between model simulations, revealing spatial resolution dependence of ACC
+transport through the Drake Passage. All models exhibit a weak ACC compared to
+observations. Density maps along sloping ocean boundaries are produced,
+incorporating the western and eastern Atlantic boundaries and the Antarctic
+coastline. Isopycnals are flat over long portions of eastern ocean boundaries,
+and slope linearly on western boundaries. Results of this thesis serve to
+indicate the importance of boundary information in characterising the AMOC and
+the ACC, and the relative simplicity of along-sloping-boundary density
+structure."
+10412,"This chapter summarises the ﬁndings of the thesis in a broader oceanographic context,
+and outlines opportunities for further study.","(d) Characterisation of density, potential
+temperature and salinity along the sloping continental boundaries around the Atlantic and
+Antarctic continent, using a boundary mapping algorithm.","Due to the increasing prevalence of models with
+1/4◦ spatial resolution within the latest GCMs, we draw conclusions for the HadGEM-GC3.1
+1/4◦ model in particular from across the thesis.",2022-08-24 20:38:26+00:00,Boundary constraints on the large-scale ocean circulation,physics.ao-ph,"['physics.ao-ph', 'physics.data-an']",[arxiv.Result.Author('Tomas Jonathan')],"The Meridional Overturning Circulation (MOC) is a system of surface and deep
+currents encompassing all ocean basins, crucial to the Earth's climate.
+Detecting potential climatic changes in the MOC first requires a careful
+characterisation of its inherent variability. Key components of the MOC are the
+Atlantic MOC (AMOC) and the Antarctic Circumpolar Current (ACC). The role of
+boundary properties in determining the AMOC and ACC is investigated, as a
+function of cross-sectional coordinate and depth, using a hierarchy of general
+circulation models. The AMOC is decomposed as the sum of near-surface Ekman,
+depth-independent bottom velocity and eastern and western boundary density
+components. The decomposition proves a useful low-dimensional characterisation
+of the full 3-D overturning circulation. The estimated total basin-wide AMOC
+overturning streamfunction, reconstructed using only boundary information, is
+in good agreement with direct calculations of the overturning using meridional
+velocities. The time-mean maximum overturning streamfunction is relatively
+constant with latitude, despite its underlying boundary contributions varying
+considerably, especially in the northern hemisphere. Applying a similar
+decomposition diagnostic to the ACC provides insight into the differences
+between model simulations, revealing spatial resolution dependence of ACC
+transport through the Drake Passage. All models exhibit a weak ACC compared to
+observations. Density maps along sloping ocean boundaries are produced,
+incorporating the western and eastern Atlantic boundaries and the Antarctic
+coastline. Isopycnals are flat over long portions of eastern ocean boundaries,
+and slope linearly on western boundaries. Results of this thesis serve to
+indicate the importance of boundary information in characterising the AMOC and
+the ACC, and the relative simplicity of along-sloping-boundary density
+structure."
+10742,"The extent and direction of this inﬂuence
+                                                                    are a matter of further research.",located to the West.,"B. HailNet
+                                                                       In the plain area, the pattern is more complicated.",2022-08-31 18:24:39+00:00,Long-term hail risk assessment with deep neural networks,physics.ao-ph,"['physics.ao-ph', 'cs.LG']","[arxiv.Result.Author('Ivan Lukyanenko'), arxiv.Result.Author('Mikhail Mozikov'), arxiv.Result.Author('Yury Maximov'), arxiv.Result.Author('Ilya Makarov')]","Hail risk assessment is necessary to estimate and reduce damage to crops,
+orchards, and infrastructure. Also, it helps to estimate and reduce consequent
+losses for businesses and, particularly, insurance companies. But hail
+forecasting is challenging. Data used for designing models for this purpose are
+tree-dimensional geospatial time series. Hail is a very local event with
+respect to the resolution of available datasets. Also, hail events are rare -
+only 1% of targets in observations are marked as ""hail"". Models for nowcasting
+and short-term hail forecasts are improving. Introducing machine learning
+models to the meteorology field is not new. There are also various climate
+models reflecting possible scenarios of climate change in the future. But there
+are no machine learning models for data-driven forecasting of changes in hail
+frequency for a given area.
+  The first possible approach for the latter task is to ignore spatial and
+temporal structure and develop a model capable of classifying a given vertical
+profile of meteorological variables as favorable to hail formation or not.
+Although such an approach certainly neglects important information, it is very
+light weighted and easily scalable because it treats observations as
+independent from each other. The more advanced approach is to design a neural
+network capable to process geospatial data. Our idea here is to combine
+convolutional layers responsible for the processing of spatial data with
+recurrent neural network blocks capable to work with temporal structure.
+  This study compares two approaches and introduces a model suitable for the
+task of forecasting changes in hail frequency for ongoing decades."
+10743,The June gap is a matter of further research.,"We see that the HailNet approximates all months except
+June quite well.","The baseline model scored 0.19 for RM SEom which is
+already close to the values stated in [14].",2022-08-31 18:24:39+00:00,Long-term hail risk assessment with deep neural networks,physics.ao-ph,"['physics.ao-ph', 'cs.LG']","[arxiv.Result.Author('Ivan Lukyanenko'), arxiv.Result.Author('Mikhail Mozikov'), arxiv.Result.Author('Yury Maximov'), arxiv.Result.Author('Ilya Makarov')]","Hail risk assessment is necessary to estimate and reduce damage to crops,
+orchards, and infrastructure. Also, it helps to estimate and reduce consequent
+losses for businesses and, particularly, insurance companies. But hail
+forecasting is challenging. Data used for designing models for this purpose are
+tree-dimensional geospatial time series. Hail is a very local event with
+respect to the resolution of available datasets. Also, hail events are rare -
+only 1% of targets in observations are marked as ""hail"". Models for nowcasting
+and short-term hail forecasts are improving. Introducing machine learning
+models to the meteorology field is not new. There are also various climate
+models reflecting possible scenarios of climate change in the future. But there
+are no machine learning models for data-driven forecasting of changes in hail
+frequency for a given area.
+  The first possible approach for the latter task is to ignore spatial and
+temporal structure and develop a model capable of classifying a given vertical
+profile of meteorological variables as favorable to hail formation or not.
+Although such an approach certainly neglects important information, it is very
+light weighted and easily scalable because it treats observations as
+independent from each other. The more advanced approach is to design a neural
+network capable to process geospatial data. Our idea here is to combine
+convolutional layers responsible for the processing of spatial data with
+recurrent neural network blocks capable to work with temporal structure.
+  This study compares two approaches and introduces a model suitable for the
+task of forecasting changes in hail frequency for ongoing decades."
+12035,in s should be among the subjects of further research.,"In addition, simulations and visualization 6 show
+that the beam narrows in the presence of hydrometeors.","6
+   An increase in the number of electrons aﬀects primarily
+                                                                g/m3 can be used as the upper limit of the cloud density,
+the number of particles in RREA.",2022-10-04 21:31:08+00:00,Influence of hydrometeors on relativistic runaway electron avalanches,physics.ao-ph,['physics.ao-ph'],"[arxiv.Result.Author('Daria Zemlianskaya'), arxiv.Result.Author('Egor Stadnichuk'), arxiv.Result.Author('Ekaterina Svechnikova')]","Previously, all studies in this area of atmospheric physics, namely,
+avalanches of relativistic runaway electrons (RREA), were carried out without
+taking into account the presence of hydrometeors in thunderclouds, which could
+seriously affect the results and their correspondence to actually observed
+natural phenomena. This article takes into account hydrometeors in clouds. In
+this work, the distribution of RREA was simulated in GEANT4 was simulated
+taking into account various concentrations of ice particles. Modeling showed
+that accounting for the presence of hydrometeors cannot be simplified and
+reduced to a change in the main substance. Two methods are considered -
+modeling of volumetric hydrometeors as separate modeling objects and as a
+simple change in the components of a whole substance (adding water to air with
+a corresponding density). These methods show completely different results.
+Modeling by volumes of hydrometeors shows a decrease in the length of the
+avalanche by 20 %, on the other hand, when modeling with a modified material,
+the length changed only by 1 %. This suddenly proves that hydrometeors should
+be taken into account in research, as they can significantly change the growth
+length of an avalanche in real thunderstorm condition."
+13520,"An example would be to make use of higher resolution regional models to further study
+dynamical processes in those locations.","Results of this study could guide new analyses focused on regions experiencing changes in higher
+order moments.","These studies could focus on changes in high (i.e., 0.95) and small
+(i.e., 0.05) quantiles only in such locations across diﬀerent models and scenarios.",2022-11-08 23:23:14+00:00,Exploring the non-stationarity of coastal sea level probability distributions,physics.ao-ph,['physics.ao-ph'],"[arxiv.Result.Author('Fabrizio Falasca'), arxiv.Result.Author('Andrew Brettin'), arxiv.Result.Author('Laure Zanna'), arxiv.Result.Author('Stephen M. Griffies'), arxiv.Result.Author('Jianjun Yin'), arxiv.Result.Author('Ming Zhao')]","Studies agree on a significant global mean sea level rise in the 20th century
+and its recent 21st century acceleration in the satellite record. At regional
+scale, the evolution of sea level probability distributions is often assumed to
+be dominated by changes in the mean. However, a quantification of changes in
+distributional shapes in a changing climate is currently missing. To this end,
+we propose a novel framework quantifying significant changes in probability
+distributions from time series data. The framework first quantifies linear
+trends in quantiles through quantile regression. Quantile slopes are then
+projected onto a set of four $orthogonal$ polynomials quantifying how such
+changes can be explained by $independent$ shifts in the first four statistical
+moments. The framework proposed is theoretically founded, general and can be
+applied to any climate observable with close-to-linear changes in
+distributions. We focus on observations and a coupled climate model (GFDL-CM4).
+In the historical period, trends in coastal daily sea level have been driven
+mainly by changes in the mean and can therefore be explained by a shift of the
+distribution with no change in shape. In the modeled world, robust changes in
+higher order moments emerge with increasing $\text{CO}_{2}$ concentration. Such
+changes are driven in part by ocean circulation alone and get amplified by sea
+level pressure fluctuations, with possible consequences for sea level extremes
+attribution studies."
+13574,"The fidelity with which atmospheric models reproduce observational features reflect our
+understanding of the processes, while also serving to highlight gaps in our knowledge that
+motivate further study.","Introduction
+
+Numerical modeling has been a valuable tool that has complemented observations of the Earth’s
+upper atmosphere to improve our understanding of the region and processes occurring therein.","For first principles-based models, we begin with the laws of fluid mechanics and thermodynamics
+expressed as partial differential equations, which are solved to obtain densities and
+temperatures for the domain under consideration.",2022-11-10 02:33:34+00:00,A Model of the Globally-averaged Thermospheric Energy Balance,physics.ao-ph,"['physics.ao-ph', 'physics.space-ph']","[arxiv.Result.Author('Karthik Venkataramani'), arxiv.Result.Author('Scott M. Bailey'), arxiv.Result.Author('Srimoyee Samaddar'), arxiv.Result.Author('Justin Yonker')]","The Atmospheric Chemistry and Energetics (ACE) 1D model is a first principles
+based model that generates a globally averaged thermosphere and ionosphere in
+terms of constituent major, minor, and charged species, as well as associated
+temperatures. The model solves the 1D continuity and energy equations
+representing relevant physical processes, and is supported by a chemistry
+scheme that reflects our current understanding of chemical processes in the
+region. The model is a first in its detailed treatment of Nitric oxide (NO)
+chemistry, including the N$_2$(A) + O reaction as a source, and accounting for
+chemiluminescence effects resulting from the vibrationally excited NO produced
+by N($^2$D, $^4$S) + O$_2$. The model utilizes globally averaged solar fluxes
+between 0.05-175 nm as the primary form of energy input, parameterized using
+the F10.7 index to reflect variations over the course of a solar cycle. The
+model also includes joule heating effects, magnetospheric fluxes, and a
+parameterized treatment of photoelectron effects as secondary heating sources.
+The energy inputs are balanced by radiative losses from the neutral
+thermosphere in the form of infrared emissions from CO$_2$, NO and O($^3$P).
+Atmospheric profiles are generated for a solar cycle, and are compared with
+empirical model results as well as observational data. On average, calculated
+exospheric temperatures are within 10% of MSIS values, while peak electron
+densities are within a factor of 2 of IRI values. The model is shown to
+reproduce the NO peak at 106 km, and densities within 25% of globally averaged
+satellite measurements."
+14725,"The need for further study of
+ultrafast feedbacks and the wide range of climate sensitivities among current GCMs does not
+alter the high ECS that we infer from paleoclimate data, as that inference has little dependence
+on GCMs.","The ultrafast response of EEI in the GISS (2020) model also exists, although much smaller, in
+the GISS (2014) model, as shown in our Supporting Material.","The main role of GCMs in the paleoclimate analyses is to define seasonal and
+geographical climate patterns, which allows more accurate assessment of global temperature
+change from limited paleo data samples.23,24,26
+
+Understanding clouds requires understanding aerosols, which are involved in cloud feedbacks.",2022-12-08 18:48:43+00:00,Global warming in the pipeline,physics.ao-ph,['physics.ao-ph'],"[arxiv.Result.Author('James E. Hansen'), arxiv.Result.Author('Makiko Sato'), arxiv.Result.Author('Leon Simons'), arxiv.Result.Author('Larissa S. Nazarenko'), arxiv.Result.Author('Karina von Schuckmann'), arxiv.Result.Author('Norman G. Loeb'), arxiv.Result.Author('Matthew B. Osman'), arxiv.Result.Author('Pushker Kharecha'), arxiv.Result.Author('Qinjian Jin'), arxiv.Result.Author('George Tselioudis'), arxiv.Result.Author('Andrew Lacis'), arxiv.Result.Author('Reto Ruedy'), arxiv.Result.Author('Gary Russell'), arxiv.Result.Author('Junji Cao'), arxiv.Result.Author('Jing Li')]","Improved knowledge of glacial-to-interglacial global temperature change
+implies that fast-feedback equilibrium climate sensitivity is at least
+~4{\deg}C for doubled CO2 (2xCO2), with likely range 3.5-5.5{\deg}C. Greenhouse
+gas (GHG) climate forcing is 4.1 W/m2 larger in 2021 than in 1750, equivalent
+to 2xCO2 forcing. Global warming in the pipeline is greater than prior
+estimates. Eventual global warming due to today's GHG forcing alone -- after
+slow feedbacks operate -- is about 10{\deg}C. Human-made aerosols are a major
+climate forcing, mainly via their effect on clouds. We infer from paleoclimate
+data that aerosol cooling offset GHG warming for several millennia as
+civilization developed. A hinge-point in global warming occurred in 1970 as
+increased GHG warming outpaced aerosol cooling, leading to global warming of
+0.18{\deg}C per decade. Aerosol cooling is larger than estimated in the current
+IPCC report, but it has declined since 2010 because of aerosol reductions in
+China and shipping. Without unprecedented global actions to reduce GHG growth,
+2010 could be another hinge point, with global warming in following decades
+50-100% greater than in the prior 40 years. The enormity of consequences of
+warming in the pipeline demands a new approach addressing legacy and future
+emissions. The essential requirement to ""save"" young people and future
+generations is return to Holocene-level global temperature. Three urgently
+required actions are: 1) a global increasing price on GHG emissions, 2)
+purposeful intervention to rapidly phase down present massive geoengineering of
+Earth's climate, and 3) renewed East-West cooperation in a way that
+accommodates developing world needs."
+14726,"The need for further study of
+ultrafast feedbacks and the wide range of climate sensitivities among current GCMs does not
+alter the high ECS that we infer from paleoclimate data, as that inference has little dependence
+on GCMs.","The ultrafast response of EEI in the GISS (2020) model also exists, although much smaller, in
+the GISS (2014) model, as shown in our Supporting Material.","The main role of GCMs in the paleoclimate analyses is to define seasonal and
+geographical climate patterns, which allows more accurate assessment of global temperature
+change from limited paleo data samples.23,24,26
+
+Understanding clouds requires understanding aerosols, which are involved in cloud feedbacks.",2022-12-08 18:48:43+00:00,Global warming in the pipeline,physics.ao-ph,['physics.ao-ph'],"[arxiv.Result.Author('James E. Hansen'), arxiv.Result.Author('Makiko Sato'), arxiv.Result.Author('Leon Simons'), arxiv.Result.Author('Larissa S. Nazarenko'), arxiv.Result.Author('Karina von Schuckmann'), arxiv.Result.Author('Norman G. Loeb'), arxiv.Result.Author('Matthew B. Osman'), arxiv.Result.Author('Pushker Kharecha'), arxiv.Result.Author('Qinjian Jin'), arxiv.Result.Author('George Tselioudis'), arxiv.Result.Author('Andrew Lacis'), arxiv.Result.Author('Reto Ruedy'), arxiv.Result.Author('Gary Russell'), arxiv.Result.Author('Junji Cao'), arxiv.Result.Author('Jing Li')]","Improved knowledge of glacial-to-interglacial global temperature change
+implies that fast-feedback equilibrium climate sensitivity is at least
+~4{\deg}C for doubled CO2 (2xCO2), with likely range 3.5-5.5{\deg}C. Greenhouse
+gas (GHG) climate forcing is 4.1 W/m2 larger in 2021 than in 1750, equivalent
+to 2xCO2 forcing. Global warming in the pipeline is greater than prior
+estimates. Eventual global warming due to today's GHG forcing alone -- after
+slow feedbacks operate -- is about 10{\deg}C. Human-made aerosols are a major
+climate forcing, mainly via their effect on clouds. We infer from paleoclimate
+data that aerosol cooling offset GHG warming for several millennia as
+civilization developed. A hinge-point in global warming occurred in 1970 as
+increased GHG warming outpaced aerosol cooling, leading to global warming of
+0.18{\deg}C per decade. Aerosol cooling is larger than estimated in the current
+IPCC report, but it has declined since 2010 because of aerosol reductions in
+China and shipping. Without unprecedented global actions to reduce GHG growth,
+2010 could be another hinge point, with global warming in following decades
+50-100% greater than in the prior 40 years. The enormity of consequences of
+warming in the pipeline demands a new approach addressing legacy and future
+emissions. The essential requirement to ""save"" young people and future
+generations is return to Holocene-level global temperature. Three urgently
+required actions are: 1) a global increasing price on GHG emissions, 2)
+purposeful intervention to rapidly phase down present massive geoengineering of
+Earth's climate, and 3) renewed East-West cooperation in a way that
+accommodates developing world needs."
+15279,"As these time scales are relevant for
+applications such as short-term forecasting of solar resources and PV power generation, further research
+should investigate how the existing biases can be reduced and how more accurate SSR estimates can help
+improve the quality of the short-term applications of satellite-derived SSR.","However, at intra-hour and intra-day observation periods, the satellite-
+derived SSR estimates are subject to major uncertainties and biases.","This includes, in particular,
+approaches to deal with the spatial and temporal heterogeneity of SSR bias and accuracy patterns, notably
+correcting SSR underestimation biases at higher altitudes, as illustrated and quantified in this study.",2022-10-05 14:06:20+00:00,Satellite-derived solar radiation for intra-hour and intra-day applications: Biases and uncertainties by season and altitude,physics.ao-ph,"['physics.ao-ph', 'cs.LG']","[arxiv.Result.Author('Alberto Carpentieri'), arxiv.Result.Author('Doris Folini'), arxiv.Result.Author('Martin Wild'), arxiv.Result.Author('Laurent Vuilleumier'), arxiv.Result.Author('Angela Meyer')]","Accurate estimates of the surface solar radiation (SSR) are a prerequisite
+for intra-day forecasts of solar resources and photovoltaic power generation.
+Intra-day SSR forecasts are of interest to power traders and to operators of
+solar plants and power grids who seek to optimize their revenues and maintain
+the grid stability by matching power supply and demand. Our study analyzes
+systematic biases and the uncertainty of SSR estimates derived from Meteosat
+with the SARAH-2 and HelioMont algorithms at intra-hour and intra-day time
+scales. The satellite SSR estimates are analyzed based on 136 ground stations
+across altitudes from 200 m to 3570 m Switzerland in 2018. We find major biases
+and uncertainties in the instantaneous, hourly and daily-mean SSR. In peak
+daytime periods, the instantaneous satellite SSR deviates from the
+ground-measured SSR by a mean absolute deviation (MAD) of 110.4 and 99.6 W/m2
+for SARAH-2 and HelioMont, respectively. For the daytime SSR, the
+instantaneous, hourly and daily-mean MADs amount to 91.7, 81.1, 50.8 and 82.5,
+66.7, 42.9 W/m2 for SARAH-2 and HelioMont, respectively. Further, the SARAH-2
+instantaneous SSR drastically underestimates the solar resources at altitudes
+above 1000 m in the winter half year. A possible explanation in line with the
+seasonality of the bias is that snow cover may be misinterpreted as clouds at
+higher altitudes."
+15280,"Our study highlights the need for further research into bias correction methods for
+the satellite-derived SSR.","This
+might be achieved by including accurate additional information on cloud cover or snow cover in the bias
+correction approach.","We expect that our results can trigger and facilitate the development of methods
+for more accurate and unbiased intra-hour and intra-day solar resource estimates.",2022-10-05 14:06:20+00:00,Satellite-derived solar radiation for intra-hour and intra-day applications: Biases and uncertainties by season and altitude,physics.ao-ph,"['physics.ao-ph', 'cs.LG']","[arxiv.Result.Author('Alberto Carpentieri'), arxiv.Result.Author('Doris Folini'), arxiv.Result.Author('Martin Wild'), arxiv.Result.Author('Laurent Vuilleumier'), arxiv.Result.Author('Angela Meyer')]","Accurate estimates of the surface solar radiation (SSR) are a prerequisite
+for intra-day forecasts of solar resources and photovoltaic power generation.
+Intra-day SSR forecasts are of interest to power traders and to operators of
+solar plants and power grids who seek to optimize their revenues and maintain
+the grid stability by matching power supply and demand. Our study analyzes
+systematic biases and the uncertainty of SSR estimates derived from Meteosat
+with the SARAH-2 and HelioMont algorithms at intra-hour and intra-day time
+scales. The satellite SSR estimates are analyzed based on 136 ground stations
+across altitudes from 200 m to 3570 m Switzerland in 2018. We find major biases
+and uncertainties in the instantaneous, hourly and daily-mean SSR. In peak
+daytime periods, the instantaneous satellite SSR deviates from the
+ground-measured SSR by a mean absolute deviation (MAD) of 110.4 and 99.6 W/m2
+for SARAH-2 and HelioMont, respectively. For the daytime SSR, the
+instantaneous, hourly and daily-mean MADs amount to 91.7, 81.1, 50.8 and 82.5,
+66.7, 42.9 W/m2 for SARAH-2 and HelioMont, respectively. Further, the SARAH-2
+instantaneous SSR drastically underestimates the solar resources at altitudes
+above 1000 m in the winter half year. A possible explanation in line with the
+seasonality of the bias is that snow cover may be misinterpreted as clouds at
+higher altitudes."

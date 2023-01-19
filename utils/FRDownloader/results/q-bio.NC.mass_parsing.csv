@@ -1,0 +1,1241 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+574,"The authors
+demonstrated that a hierarchical LSTM can discover an underlying spatiotemporal struc-
+ture in sequential data, facilitating further research into this area.","(2017) introduced Hierarchical
+Multiscale Recurrent Neural Networks (HM-RNNs) that employed a discrete-space long
+short term memory (LSTM) model with a parametrised boundary detector.","Notably, HM-RNNs were
+not probabilistic models and therefore did not operate over Bayesian belief states.",2022-01-14 14:05:30+00:00,Bayesian sense of time in biological and artificial brains,q-bio.NC,"['q-bio.NC', 'cs.AI', 'stat.ML']","[arxiv.Result.Author('Zafeirios Fountas'), arxiv.Result.Author('Alexey Zakharov')]","Enquiries concerning the underlying mechanisms and the emergent properties of
+a biological brain have a long history of theoretical postulates and
+experimental findings. Today, the scientific community tends to converge to a
+single interpretation of the brain's cognitive underpinnings -- that it is a
+Bayesian inference machine. This contemporary view has naturally been a strong
+driving force in recent developments around computational and cognitive
+neurosciences. Of particular interest is the brain's ability to process the
+passage of time -- one of the fundamental dimensions of our experience. How can
+we explain empirical data on human time perception using the Bayesian brain
+hypothesis? Can we replicate human estimation biases using Bayesian models?
+What insights can the agent-based machine learning models provide for the study
+of this subject? In this chapter, we review some of the recent advancements in
+the field of time perception and discuss the role of Bayesian processing in the
+construction of temporal models."
+2178,"In a further study of the primate entorhi-       be accounted for by ﬁlters that operate over multiple time
+nal cortex, Bright et al.","(2019) ﬁnd that the
+speciﬁcally using a multi-scale temporal representation as a      behaviour of the adaptive responses that they observe can
+temporal memory.",(2020) conclude that the that this      scales.,2022-02-18 14:15:11+00:00,A time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time,q-bio.NC,['q-bio.NC'],[arxiv.Result.Author('Tony Lindeberg')],"This article presents an overview of a theory for performing temporal
+smoothing on temporal signals in such a way that: (i) temporally smoothed
+signals at coarser temporal scales are guaranteed to constitute simplifications
+of corresponding temporally smoothed signals at any finer temporal scale
+(including the original signal) and (ii) the temporal smoothing process is both
+time-causal and time-recursive, in the sense that it does not require access to
+future information and can be performed with no other temporal memory buffer of
+the past than the resulting smoothed temporal scale-space representations
+themselves.
+  For specific subsets of parameter settings for the classes of linear and
+shift-invariant temporal smoothing operators that obey this property, it is
+shown how temporal scale covariance can be additionally obtained, guaranteeing
+that if the temporal input signal is rescaled by a uniform scaling factor, then
+also the resulting temporal scale-space representations of the rescaled
+temporal signal will constitute mere rescalings of the temporal scale-space
+representations of the original input signal, complemented by a shift along the
+temporal scale dimension. The resulting time-causal limit kernel that obeys
+this property constitutes a canonical temporal kernel for processing temporal
+signal in real-time scenarios when the regular Gaussian kernel cannot be used
+because of its non-causal access to information from the future and we cannot
+additionally require the temporal smoothing process to comprise a complementary
+memory of the past beyond the information contained in the temporal smoothing
+process itself, which in this way also serves as a multi-scale temporal memory
+of the past.
+  This theory is generally applicable for both: (i) modelling continuous
+temporal phenomena over multiple temporal scales and (ii) digital processing of
+measured temporal signals in real time."
+2179,"In a further study of the primate entorhi-       be accounted for by ﬁlters that operate over multiple time
+nal cortex, Bright et al.","(2019) ﬁnd that the
+speciﬁcally using a multi-scale temporal representation as a      behaviour of the adaptive responses that they observe can
+temporal memory.",(2020) conclude that the that this      scales.,2022-02-18 14:15:11+00:00,A time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time,q-bio.NC,['q-bio.NC'],[arxiv.Result.Author('Tony Lindeberg')],"This article presents an overview of a theory for performing temporal
+smoothing on temporal signals in such a way that: (i) temporally smoothed
+signals at coarser temporal scales are guaranteed to constitute simplifications
+of corresponding temporally smoothed signals at any finer temporal scale
+(including the original signal) and (ii) the temporal smoothing process is both
+time-causal and time-recursive, in the sense that it does not require access to
+future information and can be performed with no other temporal memory buffer of
+the past than the resulting smoothed temporal scale-space representations
+themselves.
+  For specific subsets of parameter settings for the classes of linear and
+shift-invariant temporal smoothing operators that obey this property, it is
+shown how temporal scale covariance can be additionally obtained, guaranteeing
+that if the temporal input signal is rescaled by a uniform scaling factor, then
+also the resulting temporal scale-space representations of the rescaled
+temporal signal will constitute mere rescalings of the temporal scale-space
+representations of the original input signal, complemented by a shift along the
+temporal scale dimension. The resulting time-causal limit kernel that obeys
+this property constitutes a canonical temporal kernel for processing temporal
+signal in real-time scenarios when the regular Gaussian kernel cannot be used
+because of its non-causal access to information from the future and we cannot
+additionally require the temporal smoothing process to comprise a complementary
+memory of the past beyond the information contained in the temporal smoothing
+process itself, which in this way also serves as a multi-scale temporal memory
+of the past.
+  This theory is generally applicable for both: (i) modelling continuous
+temporal phenomena over multiple temporal scales and (ii) digital processing of
+measured temporal signals in real time."
+2180,"In a further study of the primate entorhi-
+                                                                    nal cortex, Bright et al.","(2018) show how temporal information in
+                                                                    the lateral entorhinal cortex is robustly encoded over a wide
+    In the second-stage model of spectro-temporal receptive         range of temporal scales, from time scales of seconds to
+ﬁelds in this theory, the idealized form of auditory receptive      hours, where speciﬁcally the brain handles multiple scales
+ﬁelds are from theoretical arguments constrained to be of the       in parallel, consistent with the underlying construction of
+form                                                                a multi-scale representation over the temporal domain, and
+                                                                    speciﬁcally using a multi-scale temporal representation as a
+A(t, ν; Σ) = ∂tα ∂νβ (g(ν − vt; s) T (t; τa))  (82)                 temporal memory.","(2020) experimentally model time
+where                                                               cells in this brain area as single truncated exponentials, in
+                                                                    line with theoretical model in Equation (16), although also
+ – ∂tα represents a temporal derivative operator of order           complemented with a Gaussian smoothing step that leads
+    α with respect to time t which could alternatively be re-       to the ex-Gaussian model, and conclude that the time cells
+    placed by a glissando-adapted temporal derivative of the        in the entorhinal cortex use a spectrum of time constants to
+    form ∂t = ∂t + v ∂ν ,                                           construct a temporal record of the past in support of episodic
+                                                                    memory.",2022-02-18 14:15:11+00:00,A time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time,q-bio.NC,['q-bio.NC'],[arxiv.Result.Author('Tony Lindeberg')],"This article presents an overview of a theory for performing temporal
+smoothing on temporal signals in such a way that: (i) temporally smoothed
+signals at coarser temporal scales are guaranteed to constitute simplifications
+of corresponding temporally smoothed signals at any finer temporal scale
+(including the original signal) and (ii) the temporal smoothing process is both
+time-causal and time-recursive, in the sense that it does not require access to
+future information and can be performed with no other temporal memory buffer of
+the past than the resulting smoothed temporal scale-space representations
+themselves.
+  For specific subsets of parameter settings for the classes of linear and
+shift-invariant temporal smoothing operators that obey this property, it is
+shown how temporal scale covariance can be additionally obtained, guaranteeing
+that if the temporal input signal is rescaled by a uniform scaling factor, then
+also the resulting temporal scale-space representations of the rescaled
+temporal signal will constitute mere rescalings of the temporal scale-space
+representations of the original input signal, complemented by a shift along the
+temporal scale dimension. The resulting time-causal limit kernel that obeys
+this property constitutes a canonical temporal kernel for processing temporal
+signal in real-time scenarios when the regular Gaussian kernel cannot be used
+because of its non-causal access to information from the future and we cannot
+additionally require the temporal smoothing process to comprise a complementary
+memory of the past beyond the information contained in the temporal smoothing
+process itself, which in this way also serves as a multi-scale temporal memory
+of the past.
+  This theory is generally applicable for both: (i) modelling continuous
+temporal phenomena over multiple temporal scales and (ii) digital processing of
+measured temporal signals in real time."
+2492,"Like the disintegrated sys-
+tem, the integrated system is non-ergodic, so not every          Dissociated and organotypic cultures have been a
+state each reachable from every other state - the extent to   highly productive model system for research into infor-
+which properties such as ergodicity, system size, etc, in-    mation dynamics and “computation” in biological sys-
+ﬂuence the distribution of integrated information atoms       tems: for example, see studies of the relationship between
+remains an area of further study.",of lower-level dependencies.,"criticality and information-theoretic complexity [12, 36],
+                                                              network structure and synergy [37–39], changes to com-
+                       3.",2022-02-25 21:46:51+00:00,Decomposing past and future: Integrated information decomposition based on shared probability mass exclusions,q-bio.NC,"['q-bio.NC', 'math.PR']",[arxiv.Result.Author('Thomas F. Varley')],"A core feature of complex systems is that the interactions between elements
+in the present causally constrain each-other as the system evolves through
+time. To fully model all of these interactions (between elements, as well as
+ensembles of elements), we can decompose the total information flowing from
+past to future into a set of non-overlapping temporal interactions that
+describe all the different modes by which information can flow. To achieve
+this, we propose a novel information-theoretic measure of temporal dependency
+($I_{\tau sx}$) based on informative and misinformative local probability mass
+exclusions. To demonstrate the utility of this framework, we apply the
+decomposition to spontaneous spiking activity recorded from dissociated neural
+cultures of rat cerebral cortex to show how different modes of information
+processing are distributed over the system. Furthermore, being a localizable
+analysis, we show that $I_{\tau sx}$ can provide insight into the computational
+structure of single moments. We explore the time-resolved computational
+structure of neuronal avalanches and find that different types of information
+atoms have distinct profiles over the course of an avalanche, with the majority
+of non-trivial information dynamics happening before the first half of the
+cascade is completed. These analyses allow us to move beyond the historical
+focus on single measures of dependency such as information transfer or
+information integration, and explore a panoply of different relationships
+between elements (and groups of elements) in complex systems."
+2493,"Like the disintegrated sys-
+tem, the integrated system is non-ergodic, so not every          Dissociated and organotypic cultures have been a
+state each reachable from every other state - the extent to   highly productive model system for research into infor-
+which properties such as ergodicity, system size, etc, in-    mation dynamics and “computation” in biological sys-
+ﬂuence the distribution of integrated information atoms       tems: for example, see studies of the relationship between
+remains an area of further study.",of lower-level dependencies.,"criticality and information-theoretic complexity [12, 36],
+                                                              network structure and synergy [37–39], changes to com-
+                       3.",2022-02-25 21:46:51+00:00,Decomposing past and future: Integrated information decomposition based on shared probability mass exclusions,q-bio.NC,"['q-bio.NC', 'math.PR']",[arxiv.Result.Author('Thomas F. Varley')],"A core feature of complex systems is that the interactions between elements
+in the present causally constrain each-other as the system evolves through
+time. To fully model all of these interactions (between elements, as well as
+ensembles of elements), we can decompose the total information flowing from
+past to future into a set of non-overlapping temporal interactions that
+describe all the different modes by which information can flow. To achieve
+this, we propose a novel information-theoretic measure of temporal dependency
+($I_{\tau sx}$) based on informative and misinformative local probability mass
+exclusions. To demonstrate the utility of this framework, we apply the
+decomposition to spontaneous spiking activity recorded from dissociated neural
+cultures of rat cerebral cortex to show how different modes of information
+processing are distributed over the system. Furthermore, being a localizable
+analysis, we show that $I_{\tau sx}$ can provide insight into the computational
+structure of single moments. We explore the time-resolved computational
+structure of neuronal avalanches and find that different types of information
+atoms have distinct profiles over the course of an avalanche, with the majority
+of non-trivial information dynamics happening before the first half of the
+cascade is completed. These analyses allow us to move beyond the historical
+focus on single measures of dependency such as information transfer or
+information integration, and explore a panoply of different relationships
+between elements (and groups of elements) in complex systems."
+4299,"The design of intrinsic (or curiosity-based)
+reward signals for reinforcement learning is an increasingly important area for further research [67],
+and may beneﬁt from computational insights into human behavior, such as those derived from our
+analyses here.","In such
+sparse reward environments, curiosity-like intrinsic motivations can lead to improved exploration
+and, by extension, improved task performance [65, 66].",Methodological considerations.,2022-04-03 23:39:59+00:00,"Curiosity as filling, compressing, and reconfiguring knowledge networks",q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Shubhankar P. Patankar'), arxiv.Result.Author('Dale Zhou'), arxiv.Result.Author('Christopher W. Lynn'), arxiv.Result.Author('Jason Z. Kim'), arxiv.Result.Author('Mathieu Ouellet'), arxiv.Result.Author('Harang Ju'), arxiv.Result.Author('Perry Zurn'), arxiv.Result.Author('David M. Lydon-Staley'), arxiv.Result.Author('Dani S. Bassett')]","Due to the significant role that curiosity plays in our lives, several
+theoretical constructs, such as the information gap theory and compression
+progress theory, have sought to explain how we engage in its practice.
+According to the former, curiosity is the drive to acquire information that is
+missing from our understanding of the world. According to the latter, curiosity
+is the drive to construct an increasingly parsimonious mental model of the
+world. To complement the densification processes inherent to these theories, we
+propose the conformational change theory, wherein we posit that curiosity
+results in mental models with marked conceptual flexibility. We formalize
+curiosity as the process of building a growing knowledge network to
+quantitatively investigate information gap theory, compression progress theory,
+and the conformational change theory of curiosity. In knowledge networks, gaps
+can be identified as topological cavities, compression progress can be
+quantified using network compressibility, and flexibility can be measured as
+the number of conformational degrees of freedom. We leverage data acquired from
+the online encyclopedia Wikipedia to determine the degree to which each theory
+explains the growth of knowledge networks built by individuals and by
+collectives. Our findings lend support to a pluralistic view of curiosity,
+wherein intrinsically motivated information acquisition fills knowledge gaps
+and simultaneously leads to increasingly compressible and flexible knowledge
+networks. Across individuals and collectives, we determine the contexts in
+which each theoretical account may be explanatory, thereby clarifying their
+complementary and distinct explanations of curiosity. Our findings offer a
+novel network theoretical perspective on intrinsically motivated information
+acquisition that may harmonize with or compel an expansion of the traditional
+taxonomy of curiosity."
+5892,"For
+example, VGG GEN appears to use feature sizes between 32 × 32 and 64 × 64 pixels, as its
+accuracy drop when we pass this threshold (see Figure 10), but further study is needed to
+quantify this size.","So the
+size of the features needed to perform such a task varies with the depth of the network.","In a future application, we could extract features from these low-level layers
+to better understand the features needed to perform this task.",2022-05-07 11:19:40+00:00,Ultrafast image categorization in vivo and in silico,q-bio.NC,"['q-bio.NC', 'cs.CV']","[arxiv.Result.Author('Jean-Nicolas Jérémie'), arxiv.Result.Author('Laurent U Perrinet')]","Humans are able to categorize images very efficiently, in particular to
+detect very rapidly the presence of an animal. Recently, deep learning
+algorithms have achieved higher accuracy than humans for a large set of visual
+recognition tasks. However, the tasks on which these artificial networks are
+usually trained and evaluated are usually very specialized which do not
+generalize well, for example with an accuracy drop following a rotation of the
+image. In this regard, biological visual systems are more flexible and
+efficient than artificial systems for more generic tasks, such as detecting an
+animal. To further the comparison between biological and artificial neural
+networks, we retrained the standard VGG16 convolutional neural network (CNN) on
+two independent tasks that are ecologically relevant to humans: detecting the
+presence of an animal or an artifact. We show that retraining the network
+achieves a human-like level of performance, comparable to what is reported in
+psychophysical tasks. Moreover, we show that categorization is better when
+combining the models' outputs. Indeed, animals (e.g. lions) tend to be less
+present in photographs containing artifacts (e.g. buildings). Furthermore,
+these re-trained models were able to reproduce some unexpected behavioral
+observations of human psychophysics, such as robustness to rotations (e.g., an
+upside-down or tilted image) or to a grayscale transformation. Finally, we
+quantified the number of CNN layers needed to achieve such performance, showing
+that good accuracy for ultrafast image categorization could be achieved with
+only a few layers, challenging the belief that image recognition would require
+a deep sequential analysis of visual objects."
+7022,"This manuscript additionally
+functions as an open invitation to members of the community with an interest in applying differentiable
+programming to brain mapping to contribute to further research and development of hypercoil.","All experiments were implemented using the PyTorch-based
+hypercoil software library that we introduce and freely release.","We must remark that a substantial prior body of work has established limited utility for deep neural
+networks in the setting of brain mapping (e.g., [8], [43]–[45], but see also [46]).",2022-05-31 10:53:31+00:00,Differentiable programming for functional connectomics,q-bio.NC,"['q-bio.NC', 'cs.LG']","[arxiv.Result.Author('Rastko Ciric'), arxiv.Result.Author('Armin W. Thomas'), arxiv.Result.Author('Oscar Esteban'), arxiv.Result.Author('Russell A. Poldrack')]","Mapping the functional connectome has the potential to uncover key insights
+into brain organisation. However, existing workflows for functional
+connectomics are limited in their adaptability to new data, and principled
+workflow design is a challenging combinatorial problem. We introduce a new
+analytic paradigm and software toolbox that implements common operations used
+in functional connectomics as fully differentiable processing blocks. Under
+this paradigm, workflow configurations exist as reparameterisations of a
+differentiable functional that interpolates them. The differentiable program
+that we envision occupies a niche midway between traditional pipelines and
+end-to-end neural networks, combining the glass-box tractability and domain
+knowledge of the former with the amenability to optimisation of the latter. In
+this preliminary work, we provide a proof of concept for differentiable
+connectomics, demonstrating the capacity of our processing blocks both to
+recapitulate canonical knowledge in neuroscience and to make new discoveries in
+an unsupervised setting. Our differentiable modules are competitive with
+state-of-the-art methods in problem domains including functional parcellation,
+denoising, and covariance modelling. Taken together, our results and software
+demonstrate the promise of differentiable programming for functional
+connectomics."
+7184,"We leave it for further research to
+
+                                                                      2Also taken from the CMU database from subject 12, trial 4 (thai chi) and
+                                                                   subject 5, trial 2 (modern dance).","Overall, the results imply that the model ﬁnds a stable
+
+                                                                   internal attractor state even if the dynamics of the observed
+
+                                                                   data differs from the learned motion (in the case of the
+
+                                                                   unknown walker data).",TABLE I: Model hyperparameters for performed experiments.,2022-06-01 22:01:29+00:00,Binding Dancers Into Attractors,q-bio.NC,"['q-bio.NC', 'cs.AI', 'cs.CV', 'cs.LG']","[arxiv.Result.Author('Franziska Kaltenberger'), arxiv.Result.Author('Sebastian Otte'), arxiv.Result.Author('Martin V. Butz')]","To effectively perceive and process observations in our environment, feature
+binding and perspective taking are crucial cognitive abilities. Feature binding
+combines observed features into one entity, called a Gestalt. Perspective
+taking transfers the percept into a canonical, observer-centered frame of
+reference. Here we propose a recurrent neural network model that solves both
+challenges. We first train an LSTM to predict 3D motion dynamics from a
+canonical perspective. We then present similar motion dynamics with novel
+viewpoints and feature arrangements. Retrospective inference enables the
+deduction of the canonical perspective. Combined with a robust mutual-exclusive
+softmax selection scheme, random feature arrangements are reordered and
+precisely bound into known Gestalt percepts. To corroborate evidence for the
+architecture's cognitive validity, we examine its behavior on the silhouette
+illusion, which elicits two competitive Gestalt interpretations of a rotating
+dancer. Our system flexibly binds the information of the rotating figure into
+the alternative attractors resolving the illusion's ambiguity and imagining the
+respective depth interpretation and the corresponding direction of rotation. We
+finally discuss the potential universality of the proposed mechanisms."
+7378,"e.g., while introductory textbooks often describe certain parts of the brain as
+“sensory”, or “cognitive”, or “attention” regions, in almost all cases further research
+shows these descriptions to be superficial (Anderson, 2014; Cisek and Kalaska,
+2010; Lindquist and Barrett, 2012).","Furthermore, the distribution of neural activity across brain circuits does not
+respect the classical theoretical categories of computational functions (Figure 5).","e.g., neural responses to visual stimuli can be
+found in putatively “motor” regions such as premotor and motor cortex in as little
+as 50 milliseconds, much earlier than in parts of the brain implicated in visual
+recognition (Ledberg et al., 2007; Schmolesky et al., 1998).",2022-06-09 16:44:30+00:00,In search for an alternative to the computer metaphor of the mind and brain,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Damian G. Kelty-Stephen'), arxiv.Result.Author('Paul E. Cisek'), arxiv.Result.Author('Benjamin De Bari'), arxiv.Result.Author('James Dixon'), arxiv.Result.Author('Luis H. Favela'), arxiv.Result.Author('Fred Hasselman'), arxiv.Result.Author('Fred Keijzer'), arxiv.Result.Author('Vicente Raja'), arxiv.Result.Author('Jeffrey B. Wagman'), arxiv.Result.Author('Brandon J. Thomas'), arxiv.Result.Author('Madhur Mangalam')]","The brain-as-computer metaphor has anchored the professed computational
+nature of the mind, wresting it down from the intangible logic of Platonic
+philosophy to a material basis for empirical science. However, as with many
+long-lasting metaphors in science, the computer metaphor has been explored and
+stretched long enough to reveal its boundaries. These boundaries highlight
+widening gaps in our understanding of the brain's role in an organism's
+goal-directed, intelligent behaviors and thoughts. In search of a more
+appropriate metaphor that reflects the potentially noncomputable functions of
+mind and brain, eight author groups answer the following questions: (1) What do
+we understand by the computer metaphor of the brain and cognition? (2) What are
+some of the limitations of this computer metaphor? (3) What metaphor should
+replace the computational metaphor? (4) What findings support alternative
+metaphors? Despite agreeing about feeling the strain of the strictures of
+computer metaphors, the authors suggest an exciting diversity of possible
+metaphoric options for future research into the mind and brain."
+7379,"But then, that description
+is too general and not sufficiently constraining to guide further research.","To summarize, I began this article by starting with the explicit computer
+metaphor for the brain and stepped back from some of its assumptions toward the
+more general idea of the brain as an input-output system.","Consequently, we need to add a bit more precision—what kind of input-output
+system?",2022-06-09 16:44:30+00:00,In search for an alternative to the computer metaphor of the mind and brain,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Damian G. Kelty-Stephen'), arxiv.Result.Author('Paul E. Cisek'), arxiv.Result.Author('Benjamin De Bari'), arxiv.Result.Author('James Dixon'), arxiv.Result.Author('Luis H. Favela'), arxiv.Result.Author('Fred Hasselman'), arxiv.Result.Author('Fred Keijzer'), arxiv.Result.Author('Vicente Raja'), arxiv.Result.Author('Jeffrey B. Wagman'), arxiv.Result.Author('Brandon J. Thomas'), arxiv.Result.Author('Madhur Mangalam')]","The brain-as-computer metaphor has anchored the professed computational
+nature of the mind, wresting it down from the intangible logic of Platonic
+philosophy to a material basis for empirical science. However, as with many
+long-lasting metaphors in science, the computer metaphor has been explored and
+stretched long enough to reveal its boundaries. These boundaries highlight
+widening gaps in our understanding of the brain's role in an organism's
+goal-directed, intelligent behaviors and thoughts. In search of a more
+appropriate metaphor that reflects the potentially noncomputable functions of
+mind and brain, eight author groups answer the following questions: (1) What do
+we understand by the computer metaphor of the brain and cognition? (2) What are
+some of the limitations of this computer metaphor? (3) What metaphor should
+replace the computational metaphor? (4) What findings support alternative
+metaphors? Despite agreeing about feeling the strain of the strictures of
+computer metaphors, the authors suggest an exciting diversity of possible
+metaphoric options for future research into the mind and brain."
+7380,"In this case, the question of what nervous
+systems are and how they operate become open issues in need of further research
+and conceptual work.","In this context, the words “biology” and “biological” do not so much refer to
+the various details of the neural systems that underly cognitive processes or even
+the human body, but to the wider biological domain in which cognitive phenomena
+have evolved exist in a wide variety.","A good example of what such a program could look like at a wide conceptual
+level is provided by Godfrey-Smith’s recent work on the constitution and evolution
+of animal minds and experience (2020, 2016a, 2016b).",2022-06-09 16:44:30+00:00,In search for an alternative to the computer metaphor of the mind and brain,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Damian G. Kelty-Stephen'), arxiv.Result.Author('Paul E. Cisek'), arxiv.Result.Author('Benjamin De Bari'), arxiv.Result.Author('James Dixon'), arxiv.Result.Author('Luis H. Favela'), arxiv.Result.Author('Fred Hasselman'), arxiv.Result.Author('Fred Keijzer'), arxiv.Result.Author('Vicente Raja'), arxiv.Result.Author('Jeffrey B. Wagman'), arxiv.Result.Author('Brandon J. Thomas'), arxiv.Result.Author('Madhur Mangalam')]","The brain-as-computer metaphor has anchored the professed computational
+nature of the mind, wresting it down from the intangible logic of Platonic
+philosophy to a material basis for empirical science. However, as with many
+long-lasting metaphors in science, the computer metaphor has been explored and
+stretched long enough to reveal its boundaries. These boundaries highlight
+widening gaps in our understanding of the brain's role in an organism's
+goal-directed, intelligent behaviors and thoughts. In search of a more
+appropriate metaphor that reflects the potentially noncomputable functions of
+mind and brain, eight author groups answer the following questions: (1) What do
+we understand by the computer metaphor of the brain and cognition? (2) What are
+some of the limitations of this computer metaphor? (3) What metaphor should
+replace the computational metaphor? (4) What findings support alternative
+metaphors? Despite agreeing about feeling the strain of the strictures of
+computer metaphors, the authors suggest an exciting diversity of possible
+metaphoric options for future research into the mind and brain."
+7530,This is an open question for further research.,"Does the notion of suﬃcient labelings capture the same ideas in a more general
+way?","A generalization of suﬃciency is n-suﬃciency, in which the data of n previous steps is needed
+to determine the next label.",2022-06-10 13:03:47+00:00,An Enactivist-Inspired Mathematical Model of Cognition,q-bio.NC,"['q-bio.NC', 'cs.AI']","[arxiv.Result.Author('Vadim Weinstein'), arxiv.Result.Author('Basak Sakcak'), arxiv.Result.Author('Steven M. LaValle')]","We formulate five basic tenets of enactivist cognitive science that we have
+carefully identified in the relevant literature as the main underlying
+principles of that philosophy. We then develop a mathematical framework to talk
+about cognitive systems (both artificial and natural) which complies with these
+enactivist tenets. In particular we pay attention that our mathematical
+modeling does not attribute contentful symbolic representations to the agents,
+and that the agent's brain, body and environment are modeled in a way that
+makes them an inseparable part of a greater totality. The purpose is to create
+a mathematical foundation for cognition which is in line with enactivism. We
+see two main benefits of doing so: (1) It enables enactivist ideas to be more
+accessible for computer scientists, AI researchers, roboticists, cognitive
+scientists, and psychologists, and (2) it gives the philosophers a mathematical
+tool which can be used to clarify their notions and help with their debates.
+Our main notion is that of a sensorimotor system which is a special case of a
+well studied notion of a transition system. We also consider related notions
+such as labeled transition systems and deterministic automata. We analyze a
+notion called sufficiency and show that it is a very good candidate for a
+foundational notion in the ""mathematics of cognition from an enactivist
+perspective"". We demonstrate its importance by proving a uniqueness theorem
+about the minimal sufficient refinements (which correspond in some sense to an
+optimal attunement of an organism to its environment) and by showing that
+sufficiency corresponds to known notions such as sufficient history information
+spaces. We then develop other related notions such as degree of insufficiency,
+universal covers, hierarchies, strategic sufficiency. In the end, we tie it all
+back to the enactivist tenets."
+7918,"The tools and analyses presented in this manuscript are a promising step towards addressing
+these clinical needss and the implicated connections provide new avenues for further research and
+potential therapeutic targets.","Furthermore, we use a dataset with
+minimal medication confounds to not only make more accurate predictions, but also analyse both
+predictive functional connectivity features and effective connectivity features associated with
+progression.","2.1 PD diagnosis
+
+         Parkinson’s disease is the second most common neurodegenerative disease with poorly
+understood functional changes as the disease progresses (Jankovic and Tan, 2020; Pringsheim et al., 2014).",2022-06-21 19:44:49+00:00,Longitudinal Prognosis of Parkinsons Outcomes using Causal Connectivity,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Cooper J. Mellema'), arxiv.Result.Author('Kevin P. Nguyen'), arxiv.Result.Author('Alex Treacher'), arxiv.Result.Author('Aixa Andrade Hernandez'), arxiv.Result.Author('Albert A. Montillo')]","Parkinsons disease (PD) is a movement disorder and the second most common
+neurodengerative disease but despite its relative abundance, there are no
+clinically accepted neuroimaging biomarkers to make prognostic predictions or
+differentiate between the similar atypical neurodegenerative diseases Multiple
+System Atrophy and Progressive Supranuclear Palsy. Abnormal connectivity in
+circuits including the motor circuit and basal ganglia have been previously
+shown as early markers of neurodegeneration. Therefore, we postulate the
+combination patterns of interregional dysconnectivity across the brain can be
+used to form a patient-specific predictive model of disease state and
+progression in PD. These models, which employ connectivity calculated from
+noninvasively measured functional MRI, differentially predict between PD and
+the atypical lookalikes, predict progression on a disease-specific scale, and
+predict cognitive decline. Further, we identify the connections most
+informative for progression and diagnosis. When predicting the one-year
+progression in the Movement Disorder Society-sponsored revision of the Unified
+Parkinson's Disease Rating Scale (MDS-UPDRS) and Montreal Cognitive assessment
+(MoCA), mean absolute errors of 1.8 and 0.6 basis points in the prediction are
+achieved respectively. A balanced accuracy of 0.68 is attained when
+distinguishing idiopathic PD versus the lookalikes and healthy controls. We
+additionally find network components strongly associated with the prognostic
+and diagnostic tasks, particularly incorporating connections within deep
+nuclei, motor regions, and the Thalamus. These predictions, using an MRI
+modality readily available in most clinical settings, demonstrate the strong
+potential of fMRI connectivity as a prognostic biomarker in Parkinsons disease."
+7967,"Yet, further research is needed to better understand
+the limits of these types of attribution methods in mental state decoding.","First empirical evidence indicates that attribution methods from
+explainable artiﬁcial intelligence [XAI; 33] research are well-suited to provide insights in the mental
+state decoding decisions of DL models [34, 35].","References
+
+ [1] J.-D. Haynes and G. Rees, “Decoding mental states from brain activity in humans,” Nature
+      Reviews Neuroscience, vol.",2022-06-22 23:22:17+00:00,Self-Supervised Learning Of Brain Dynamics From Broad Neuroimaging Data,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Armin W. Thomas'), arxiv.Result.Author('Christopher Ré'), arxiv.Result.Author('Russell A. Poldrack')]","Self-supervised learning techniques are celebrating immense success in
+natural language processing (NLP) by enabling models to learn from broad
+language data at unprecedented scales. Here, we aim to leverage the success of
+these techniques for mental state decoding, where researchers aim to identify
+specific mental states (such as an individual's experience of anger or
+happiness) from brain activity. To this end, we devise a set of novel
+self-supervised learning frameworks for neuroimaging data based on prominent
+learning frameworks in NLP. At their core, these frameworks learn the dynamics
+of brain activity by modeling sequences of activity akin to how NLP models
+sequences of text. We evaluate the performance of the proposed frameworks by
+pre-training models on a broad neuroimaging dataset spanning functional
+Magnetic Resonance Imaging (fMRI) data from 11,980 experimental runs of 1,726
+individuals across 34 datasets and subsequently adapting the pre-trained models
+to two benchmark mental state decoding datasets. We show that the pre-trained
+models transfer well, outperforming baseline models when adapted to the data of
+only a few individuals, while models pre-trained in a learning framework based
+on causal language modeling clearly outperform the others."
+8085,"Due to the potential for abuse, esketamine
+can be difficult to obtain and the discontinuation / maintenance process requires further study.","Common side effects include nausea, anxiety, increased blood
+pressure, vertigo, dissociation, and hallucinations [27].","In
+summary, although early esketamine studies demonstrate promising results, the risk of abuse
+and unclear discontinuation /maintenance process has slowed clinical adoption [28].",2022-06-27 00:04:07+00:00,Personalized rTMS for Depression: A Review,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Juha Gogulski'), arxiv.Result.Author('Jessica M. Ross'), arxiv.Result.Author('Austin Talbot'), arxiv.Result.Author('Christopher Cline'), arxiv.Result.Author('Francesco L Donati'), arxiv.Result.Author('Saachi Munot'), arxiv.Result.Author('Naryeong Kim'), arxiv.Result.Author('Ciara Gibbs'), arxiv.Result.Author('Nikita Bastin'), arxiv.Result.Author('Jessica Yang'), arxiv.Result.Author('Christopher B. Minasi'), arxiv.Result.Author('Manjima Sarkar'), arxiv.Result.Author('Jade Truong'), arxiv.Result.Author('Corey J Keller')]","Personalized treatments are gaining momentum across all fields of medicine.
+Precision medicine can be applied to neuromodulatory techniques, where focused
+brain stimulation treatments such as repetitive transcranial magnetic
+stimulation (rTMS) are used to modulate brain circuits and alleviate clinical
+symptoms. rTMS is well-tolerated and clinically effective for
+treatment-resistant depression (TRD) and other neuropsychiatric disorders.
+However, despite its wide stimulation parameter space (location, angle,
+pattern, frequency, and intensity can be adjusted), rTMS is currently applied
+in a one-size-fits-all manner, potentially contributing to its suboptimal
+clinical response (~50%). In this review, we examine components of rTMS that
+can be optimized to account for inter-individual variability in neural function
+and anatomy. We discuss current treatment options for TRD, the neural
+mechanisms thought to underlie treatment, differences in FDA-cleared devices,
+targeting strategies, stimulation parameter selection, and adaptive closed-loop
+rTMS to improve treatment outcomes. We suggest that better understanding of the
+wide and modifiable parameter space of rTMS will greatly improve clinical
+outcome."
+8086,"12
+To help guide further research investigation of the many modifiable stimulation parameters (Fig
+1), we provide some general recommendations after reviewing the literature for clinicians
+interested in more personalized TMS treatment for depression.","In the end, treatment options that are effective, fast,
+user-friendly, and inexpensive will be most desirable for clinics and patients.","Consider these points in designing
+your protocols:
+
+● Figure-of-eight shaped coils provide a good depth / focality tradeoff out of coils currently
+    available.",2022-06-27 00:04:07+00:00,Personalized rTMS for Depression: A Review,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Juha Gogulski'), arxiv.Result.Author('Jessica M. Ross'), arxiv.Result.Author('Austin Talbot'), arxiv.Result.Author('Christopher Cline'), arxiv.Result.Author('Francesco L Donati'), arxiv.Result.Author('Saachi Munot'), arxiv.Result.Author('Naryeong Kim'), arxiv.Result.Author('Ciara Gibbs'), arxiv.Result.Author('Nikita Bastin'), arxiv.Result.Author('Jessica Yang'), arxiv.Result.Author('Christopher B. Minasi'), arxiv.Result.Author('Manjima Sarkar'), arxiv.Result.Author('Jade Truong'), arxiv.Result.Author('Corey J Keller')]","Personalized treatments are gaining momentum across all fields of medicine.
+Precision medicine can be applied to neuromodulatory techniques, where focused
+brain stimulation treatments such as repetitive transcranial magnetic
+stimulation (rTMS) are used to modulate brain circuits and alleviate clinical
+symptoms. rTMS is well-tolerated and clinically effective for
+treatment-resistant depression (TRD) and other neuropsychiatric disorders.
+However, despite its wide stimulation parameter space (location, angle,
+pattern, frequency, and intensity can be adjusted), rTMS is currently applied
+in a one-size-fits-all manner, potentially contributing to its suboptimal
+clinical response (~50%). In this review, we examine components of rTMS that
+can be optimized to account for inter-individual variability in neural function
+and anatomy. We discuss current treatment options for TRD, the neural
+mechanisms thought to underlie treatment, differences in FDA-cleared devices,
+targeting strategies, stimulation parameter selection, and adaptive closed-loop
+rTMS to improve treatment outcomes. We suggest that better understanding of the
+wide and modifiable parameter space of rTMS will greatly improve clinical
+outcome."
+8497,"However, where and how DAA is performed
+                                          scientiﬁc ﬁndings to bridge this gap, and the ﬁndings are relevant      in the human brain has not been established, although some
+                                          for future applications and further research.","This study compared, mapped,             the regional partitioning of the auditory cortex in non-human
+                                          and integrated these existing computational models with neuro-          primates [5].",This study proposes       insights into this process have been obtained [6].,2022-07-06 06:03:10+00:00,Brain-inspired probabilistic generative model for double articulation analysis of spoken language,q-bio.NC,"['q-bio.NC', 'cs.AI', 'cs.CL']","[arxiv.Result.Author('Akira Taniguchi'), arxiv.Result.Author('Maoko Muro'), arxiv.Result.Author('Hiroshi Yamakawa'), arxiv.Result.Author('Tadahiro Taniguchi')]","The human brain, among its several functions, analyzes the double
+articulation structure in spoken language, i.e., double articulation analysis
+(DAA). A hierarchical structure in which words are connected to form a sentence
+and words are composed of phonemes or syllables is called a double articulation
+structure. Where and how DAA is performed in the human brain has not been
+established, although some insights have been obtained. In addition, existing
+computational models based on a probabilistic generative model (PGM) do not
+incorporate neuroscientific findings, and their consistency with the brain has
+not been previously discussed. This study compared, mapped, and integrated
+these existing computational models with neuroscientific findings to bridge
+this gap, and the findings are relevant for future applications and further
+research. This study proposes a PGM for a DAA hypothesis that can be realized
+in the brain based on the outcomes of several neuroscientific surveys. The
+study involved (i) investigation and organization of anatomical structures
+related to spoken language processing, and (ii) design of a PGM that matches
+the anatomy and functions of the region of interest. Therefore, this study
+provides novel insights that will be foundational to further exploring DAA in
+the brain."
+8520,"Jensen and Colgin [2007] hypothesize that “given that this
+coupling re lects a speci ic interplay between large ensembles of neurons1, (cross‑frequency
+coupling) it is likely to have profound implications for neuronal processing”, a suggestion sup‑
+ported by further research, which indicates it may play a role in the formation of short‑term
+memories [Colgin et al., 2009, Lisman and Jensen, 2013, Pernı́a‑Andrade and Jonas, 2014,
+Lega et al., 2014, Bergmann and Born, 2018].","The
+published literature on the topic is vast, and it is hard to do justice to all relevant contributions
+in the space of this introduction.","Theta‑gamma coupling is often understood as a consequence of mechanisms for gamma gen‑
+eration.",2022-07-06 17:43:49+00:00,Mesoscopic Collective Activity in Excitatory Neural Fields: Cross-frequency Coupling,q-bio.NC,"['q-bio.NC', 'q-bio.QM', '35Q92, 92B20, 92C20']","[arxiv.Result.Author('Yu Qin'), arxiv.Result.Author('Alex Sheremet')]","In the brain, cross-frequency coupling has been hypothesized to result from
+the activity of specialized microcircuits. For example, theta-gamma coupling is
+assumed to be generated by specialized cell pairs (PING and ING mechanisms), or
+special cells (e.g., fast bursting neurons). However, this implies that the
+generating mechanisms is uniquely specific to the brain. In fact, cross-scale
+coupling is a phenomenon encountered in the physics of all large, multi-scale
+systems: phase and amplitude correlations between components of different
+scales arise as a result of nonlinear interaction. Because the brain is a
+multi-scale system too, a similar mechanism must be active in the brain. Here,
+we represent brain activity as a superposition of nonlinearly interacting
+patterns of spatio-temporal activity (collective activity), supported by
+populations of neurons. Cross-frequency coupling is a direct consequence of the
+nonlinear interactions, and does not require specialized cells or cell pairs.
+It is therefore universal, and must be active in neural fields of any
+composition. To emphasize this, we demonstrate the phenomenon in excitatory
+fields. While there is no doubt that specialized cells play a role in
+theta-gamma coupling, our results suggest that the coupling mechanism is at the
+same time simpler and richer: simpler because it involves the universal
+principle of nonlinearity; richer, because nonlinearity of collective activity
+is likely modulated by specialized-cell populations in ways to be yet
+understood."
+8691,"Some lines of evidence suggest that higher-order interaction
+patterns might have a signiﬁcant presence and role in shaping collective neural dynamics and conveying information
+[16, 17, 18] but further research needs to be conducted to gain a deeper understanding of the processes involved.","At the same time, decoding
+models that take into account the aforementioned features elucidated by copula methods, could potentially be valuable
+for the development of reliable Brain-Computer Interfaces.","A limitation of our study is that the type of normalizing ﬂows we used was designed to model variables with continuous
+data.",2022-07-11 12:59:13+00:00,Mixed vine copula flows for flexible modelling of neural dependencies,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Lazaros Mitskopoulos'), arxiv.Result.Author('Theoklitos Amvrosiadis'), arxiv.Result.Author('Arno Onken')]","Recordings of complex neural population responses provide a unique
+opportunity for advancing our understanding of neural information processing at
+multiple scales and improving performance of brain computer interfaces.
+However, most existing analytical techniques fall short of capturing the
+complexity of interactions within the concerted population activity. Vine
+copula-based approaches have shown to be successful at addressing complex
+high-order dependencies within the population, disentangled from the
+single-neuron statistics. However, most applications have focused on parametric
+copulas which bear the risk of misspecifying dependence structures. In order to
+avoid this risk, we adopted a fully non-parametric approach for the
+single-neuron margins and copulas by using Neural Spline Flows (NSF). We
+validated the NSF framework on simulated data of continuous and discrete type
+with various forms of dependency structures and with different dimensionality.
+Overall, NSFs performed similarly to existing non-parametric estimators, while
+allowing for considerably faster and more flexible sampling which also enables
+faster Monte Carlo estimation of copula entropy. Moreover, our framework was
+able to capture low and higher order heavy tail dependencies in neuronal
+responses recorded in the mouse primary visual cortex during a visual learning
+task while the animal was navigating a virtual reality environment. These
+findings highlight an often ignored aspect of complexity in coordinated
+neuronal activity which can be important for understanding and deciphering
+collective neural dynamics for neurotechnological applications."
+8798,"These studies analyze the information pro-      and it may inspire further study on the spontaneous for-
+cessing properties of speciﬁc neurons or brain regions.","To our knowl-
+neuronal or cortical foundations of cognitive functions       edge, there is no experimental evidence for such a ﬁnding,
+[15, 71, 72].","mation of the division of labor among neurons during the
+The analysis usually relies on speciﬁc signal recording       data-driven (bottom-up) processing.",2022-07-13 07:20:22+00:00,Bridging the information and dynamics attributes of neural activities,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'nlin.CD', 'physics.bio-ph']","[arxiv.Result.Author('Yang Tian'), arxiv.Result.Author('Guoqi Li'), arxiv.Result.Author('Pei Sun')]","The brain works as a dynamic system to process information. Various
+challenges remain in understanding the connection between information and
+dynamics attributes in the brain. The present research pursues exploring how
+the characteristics of neural information functions are linked to neural
+dynamics. We attempt to bridge dynamics (e.g., Kolmogorov-Sinai entropy) and
+information (e.g., mutual information and Fisher information) metrics on the
+stimulus-triggered stochastic dynamics in neural populations. On the one hand,
+our unified analysis identifies various essential features of the
+information-processing-related neural dynamics. We discover spatiotemporal
+differences in the dynamic randomness and chaotic degrees of neural dynamics
+during neural information processing. On the other hand, our framework reveals
+the fundamental role of neural dynamics in shaping neural information
+processing. The neural dynamics creates an oppositely directed variation of
+encoding and decoding properties under specific conditions, and it determines
+the neural representation of stimulus distribution. Overall, our findings
+demonstrate a potential direction to explain the emergence of neural
+information processing from neural dynamics and help understand the intrinsic
+connections between the informational and the physical brain."
+8799,"Otherwise the density of {Pn♥ r | s, 0, τS (t) }r      other valuable direction in the theoretical analysis is to
+will concentrate on a narrow sub-interval of [0, r] where     further study the potential connections between the pro-
+r is small.","An-
+large.","One can verify that shallow-layer neurons         posed neural tuning Kolmogorov-Sinai entropy and the
+(e.g., input neurons) usually feature broader tuning curve    Lyapunov spectra (one can turn to [49, 50] for the appli-
+peaks and higher maximum response coeﬃcients than             cations of the Lyapunov spectra in neural network stud-
+deep-layer neurons (e.g., see Fig.",2022-07-13 07:20:22+00:00,Bridging the information and dynamics attributes of neural activities,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'nlin.CD', 'physics.bio-ph']","[arxiv.Result.Author('Yang Tian'), arxiv.Result.Author('Guoqi Li'), arxiv.Result.Author('Pei Sun')]","The brain works as a dynamic system to process information. Various
+challenges remain in understanding the connection between information and
+dynamics attributes in the brain. The present research pursues exploring how
+the characteristics of neural information functions are linked to neural
+dynamics. We attempt to bridge dynamics (e.g., Kolmogorov-Sinai entropy) and
+information (e.g., mutual information and Fisher information) metrics on the
+stimulus-triggered stochastic dynamics in neural populations. On the one hand,
+our unified analysis identifies various essential features of the
+information-processing-related neural dynamics. We discover spatiotemporal
+differences in the dynamic randomness and chaotic degrees of neural dynamics
+during neural information processing. On the other hand, our framework reveals
+the fundamental role of neural dynamics in shaping neural information
+processing. The neural dynamics creates an oppositely directed variation of
+encoding and decoding properties under specific conditions, and it determines
+the neural representation of stimulus distribution. Overall, our findings
+demonstrate a potential direction to explain the emergence of neural
+information processing from neural dynamics and help understand the intrinsic
+connections between the informational and the physical brain."
+8800,"For con-
+further studying how cognitive functions are shaped by       venience, our research randomize p ∈ [0.02, 0.025] in ev-
+global cortex dynamics.","Based on these implementations, it         to feature a synaptic connection is set as p, implying that
+might be possible for our framework to be applied in         the average degree of neurons equals p (|V| − 1).",ery experiment.,2022-07-13 07:20:22+00:00,Bridging the information and dynamics attributes of neural activities,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'nlin.CD', 'physics.bio-ph']","[arxiv.Result.Author('Yang Tian'), arxiv.Result.Author('Guoqi Li'), arxiv.Result.Author('Pei Sun')]","The brain works as a dynamic system to process information. Various
+challenges remain in understanding the connection between information and
+dynamics attributes in the brain. The present research pursues exploring how
+the characteristics of neural information functions are linked to neural
+dynamics. We attempt to bridge dynamics (e.g., Kolmogorov-Sinai entropy) and
+information (e.g., mutual information and Fisher information) metrics on the
+stimulus-triggered stochastic dynamics in neural populations. On the one hand,
+our unified analysis identifies various essential features of the
+information-processing-related neural dynamics. We discover spatiotemporal
+differences in the dynamic randomness and chaotic degrees of neural dynamics
+during neural information processing. On the other hand, our framework reveals
+the fundamental role of neural dynamics in shaping neural information
+processing. The neural dynamics creates an oppositely directed variation of
+encoding and decoding properties under specific conditions, and it determines
+the neural representation of stimulus distribution. Overall, our findings
+demonstrate a potential direction to explain the emergence of neural
+information processing from neural dynamics and help understand the intrinsic
+connections between the informational and the physical brain."
+8998,"To help guide further research into the reliability and validity of novel and established
+neuroimaging techniques, we provide some general recommendations:
+
+● Although reliability and validity are related, a biomarker can have high reliability but low
+   validity or high validity but low reliability (Figure 1).","We hope that by adopting the recommended approach outlined below, this
+trajectory can be modified to produce tools with high reliability and validity.","We suggest that careful consideration of
+   both are necessary before implementing a biomarker to make diagnostic or treatment
+   decisions.",2022-07-18 09:23:19+00:00,Reliability and validity of TMS-EEG biomarkers,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Sara Parmigiani'), arxiv.Result.Author('Jessica M. Ross'), arxiv.Result.Author('Christopher Cline'), arxiv.Result.Author('Christopher B. Minasi'), arxiv.Result.Author('Juha Gogulski'), arxiv.Result.Author('Corey J Keller')]","Noninvasive brain stimulation and neuroimaging have revolutionized human
+neuroscience, with a multitude of applications including diagnostic subtyping,
+treatment optimization, and relapse prediction. It is therefore particularly
+relevant to identify robust and clinically valuable brain biomarkers linking
+symptoms to their underlying neural mechanisms. Brain biomarkers must be
+reproducible (i.e., have internal reliability) across similar experiments
+within a laboratory and be generalizable (i.e., have external reliability)
+across experimental setups, laboratories, brain regions, and disease states.
+However, reliability (internal and external) is not alone sufficient;
+biomarkers also must have validity. Validity describes closeness to a true
+measure of the underlying neural signal or disease state. We propose that these
+two metrics, reliability and validity, should be evaluated and optimized before
+any biomarker is used to inform treatment decisions. Here, we discuss these
+metrics with respect to causal brain connectivity biomarkers from coupling
+transcranial magnetic stimulation (TMS) with electroencephalography (EEG). We
+discuss controversies around TMS-EEG stemming from the multiple large
+off-target components (noise) and relatively weak genuine brain responses
+(signal), as is unfortunately often the case with human neuroscience. We review
+the current state of TMS-EEG recordings, which consist of a mix of reliable
+noise and unreliable signal. We describe methods for evaluating TMS-EEG
+biomarkers, including how to assess internal and external reliability across
+facilities, cognitive states, brain networks, and disorders, and how to
+validate these biomarkers using invasive neural recordings or treatment
+response. We provide recommendations to increase reliability and validity,
+discuss lessons learned, and suggest future directions for the field."
+9798,"We do so, therefore, in all
+modesty, with the main intention of inviting and stimulating further research along these lines.","Although we would
+like to add at the outset that this is, as far as we know, a ﬁrst attempt to frame the cause of the presence of
+quantum structures in human cognition within the nature of human perception itself, so we are well aware of
+the ‘still to further investigate’ character of the connections we will be pointing out.","We already mentioned how the research in Aerts Argu¨elles (2018) was inspired by earlier research about the
+guppy eﬀect in concept theory in which one of the authors was directly involved (Gabora & Aerts, 2002; Aerts
+& Gabora, 2005a,b; Aerts et al., 2012).",2022-08-07 13:59:23+00:00,Quantum Structure in Human Perception,q-bio.NC,"['q-bio.NC', 'cs.CL', 'quant-ph']","[arxiv.Result.Author('Diederik Aerts'), arxiv.Result.Author('Jonito Aerts Arguëlles')]","We wish to investigate the ways in which the quantum structures of
+superposition, contextuality, and entanglement have their origins in human
+perception itself, given how they are sucessfully used to model aspects of
+human cognition. Our analysis takes us from a simple quantum measurement model,
+along how human perception incorporates the warping mechanism of categorical
+perception, to a quantum version of the prototype theory for concepts, which
+allows for dynamic contextuality when concepts are combined. Our study is
+rooted in an operational quantum axiomatics that leads to a state context
+property system for concepts. We illustrate our quantum prototype model and its
+interference when combining concepts with two examples worked out in detail"
+9885,"These
+issues argue for further study in diverse clinical settings to determine the best tests for specific purposes [14].","There are also
+potential disadvantages of computerized tests in that they can be difficult for more severely impaired
+individuals or those unfamiliar with computers and are prone to technical glitches and privacy breaches.","The NeuroCognitive Performance Test (NCPT) is an online, digital platform intended for repeated assessments
+of multiple domains such as different types of attention, memory, executive functioning, and psychomotor
+speed [12].",2022-07-11 17:01:33+00:00,"Validity of Web-based, Self-directed, NeuroCognitive Performance Test in MCI",q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('P. Murali Doraiswamy'), arxiv.Result.Author('Terry E. Goldberg'), arxiv.Result.Author('Min Qian'), arxiv.Result.Author('Alexandra R. Linares'), arxiv.Result.Author('Adaora Nwosu'), arxiv.Result.Author('Izael Nino'), arxiv.Result.Author(""Jessica D'Antonio""), arxiv.Result.Author('Julia Phillips'), arxiv.Result.Author('Charlie Ndouli'), arxiv.Result.Author('Caroline Hellegers'), arxiv.Result.Author('Andrew M. Michael'), arxiv.Result.Author('Jeffrey R. Petrella'), arxiv.Result.Author('Howards Andrews'), arxiv.Result.Author('Joel Sneed'), arxiv.Result.Author('Davangere P. Devanand')]","Digital cognitive tests offer several potential advantages over established
+paper-pencil tests but have not yet been fully evaluated for the clinical
+evaluation of mild cognitive impairment. The NeuroCognitive Performance Test
+(NCPT) is a web-based, self-directed, modular battery intended for repeated
+assessments of multiple cognitive domains. Our objective was to examine its
+relationship with the ADAS-Cog and MMSE as well as with established
+paper-pencil tests of cognition and daily functioning in MCI. We used Spearman
+correlations, regressions and principal components analysis followed by a
+factor analysis (varimax rotated) to examine our objectives. In MCI subjects,
+the NCPT composite is significantly correlated with both a composite measure of
+established tests (r=0.78, p<0.0001) as well as with the ADAS-Cog (r=0.55,
+p<0.0001). Both NCPT and paper-pencil test batteries had a similar factor
+structure that included a large g component with a high eigenvalue. The
+correlation for the analogous tests (e.g. Trails A and B, learning memory
+tests) were significant (p<0.0001). Further, both the NCPT and established
+tests significantly (p< 0.01) predicted the University of California San Diego
+Performance-Based Skills Assessment and Functional Activities Questionnaire,
+measures of daily functioning. The NCPT, a web-based, self-directed,
+computerized test, shows high concurrent validity with established tests and
+hence offers promise for use as a research or clinical tool in MCI. Despite
+limitations such as a relatively small sample, absence of control group and
+cross-sectional nature, these findings are consistent with the growing
+literature on the promise of self-directed, web-based cognitive assessments for
+MCI."
+9886,These findings support further study of the utility of the NCPT in clinical populations.,"In a subsequent study of
+                                                                                                                                      4
+4715 subjects, a 7-item version of the self-directed NCPT was sensitive to detecting the effects of cognitive
+training [15].","In this study, we report our cross-sectional experience using the NCPT using baseline data from an ongoing
+two-site, prospective clinical trial of cognitive brain training MCI - further details of the COG-IT study design
+have been reported elsewhere [16].",2022-07-11 17:01:33+00:00,"Validity of Web-based, Self-directed, NeuroCognitive Performance Test in MCI",q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('P. Murali Doraiswamy'), arxiv.Result.Author('Terry E. Goldberg'), arxiv.Result.Author('Min Qian'), arxiv.Result.Author('Alexandra R. Linares'), arxiv.Result.Author('Adaora Nwosu'), arxiv.Result.Author('Izael Nino'), arxiv.Result.Author(""Jessica D'Antonio""), arxiv.Result.Author('Julia Phillips'), arxiv.Result.Author('Charlie Ndouli'), arxiv.Result.Author('Caroline Hellegers'), arxiv.Result.Author('Andrew M. Michael'), arxiv.Result.Author('Jeffrey R. Petrella'), arxiv.Result.Author('Howards Andrews'), arxiv.Result.Author('Joel Sneed'), arxiv.Result.Author('Davangere P. Devanand')]","Digital cognitive tests offer several potential advantages over established
+paper-pencil tests but have not yet been fully evaluated for the clinical
+evaluation of mild cognitive impairment. The NeuroCognitive Performance Test
+(NCPT) is a web-based, self-directed, modular battery intended for repeated
+assessments of multiple cognitive domains. Our objective was to examine its
+relationship with the ADAS-Cog and MMSE as well as with established
+paper-pencil tests of cognition and daily functioning in MCI. We used Spearman
+correlations, regressions and principal components analysis followed by a
+factor analysis (varimax rotated) to examine our objectives. In MCI subjects,
+the NCPT composite is significantly correlated with both a composite measure of
+established tests (r=0.78, p<0.0001) as well as with the ADAS-Cog (r=0.55,
+p<0.0001). Both NCPT and paper-pencil test batteries had a similar factor
+structure that included a large g component with a high eigenvalue. The
+correlation for the analogous tests (e.g. Trails A and B, learning memory
+tests) were significant (p<0.0001). Further, both the NCPT and established
+tests significantly (p< 0.01) predicted the University of California San Diego
+Performance-Based Skills Assessment and Functional Activities Questionnaire,
+measures of daily functioning. The NCPT, a web-based, self-directed,
+computerized test, shows high concurrent validity with established tests and
+hence offers promise for use as a research or clinical tool in MCI. Despite
+limitations such as a relatively small sample, absence of control group and
+cross-sectional nature, these findings are consistent with the growing
+literature on the promise of self-directed, web-based cognitive assessments for
+MCI."
+9887,"While the feasibility was high among MCI subjects,
+our study included a trouble-shooting monitor – hence, further study is needed to confirm if the feasibility in
+unsupervised home settings is equally high.","We did not measure
+biomarkers and hence cannot determine the cause of MCI.","In summary, our analysis finds that the NCPT, a web-based, self-directed, computerized test, shows high
+concurrent validity with established tests and hence offers promise for use as a research or clinical tool in MCI.",2022-07-11 17:01:33+00:00,"Validity of Web-based, Self-directed, NeuroCognitive Performance Test in MCI",q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('P. Murali Doraiswamy'), arxiv.Result.Author('Terry E. Goldberg'), arxiv.Result.Author('Min Qian'), arxiv.Result.Author('Alexandra R. Linares'), arxiv.Result.Author('Adaora Nwosu'), arxiv.Result.Author('Izael Nino'), arxiv.Result.Author(""Jessica D'Antonio""), arxiv.Result.Author('Julia Phillips'), arxiv.Result.Author('Charlie Ndouli'), arxiv.Result.Author('Caroline Hellegers'), arxiv.Result.Author('Andrew M. Michael'), arxiv.Result.Author('Jeffrey R. Petrella'), arxiv.Result.Author('Howards Andrews'), arxiv.Result.Author('Joel Sneed'), arxiv.Result.Author('Davangere P. Devanand')]","Digital cognitive tests offer several potential advantages over established
+paper-pencil tests but have not yet been fully evaluated for the clinical
+evaluation of mild cognitive impairment. The NeuroCognitive Performance Test
+(NCPT) is a web-based, self-directed, modular battery intended for repeated
+assessments of multiple cognitive domains. Our objective was to examine its
+relationship with the ADAS-Cog and MMSE as well as with established
+paper-pencil tests of cognition and daily functioning in MCI. We used Spearman
+correlations, regressions and principal components analysis followed by a
+factor analysis (varimax rotated) to examine our objectives. In MCI subjects,
+the NCPT composite is significantly correlated with both a composite measure of
+established tests (r=0.78, p<0.0001) as well as with the ADAS-Cog (r=0.55,
+p<0.0001). Both NCPT and paper-pencil test batteries had a similar factor
+structure that included a large g component with a high eigenvalue. The
+correlation for the analogous tests (e.g. Trails A and B, learning memory
+tests) were significant (p<0.0001). Further, both the NCPT and established
+tests significantly (p< 0.01) predicted the University of California San Diego
+Performance-Based Skills Assessment and Functional Activities Questionnaire,
+measures of daily functioning. The NCPT, a web-based, self-directed,
+computerized test, shows high concurrent validity with established tests and
+hence offers promise for use as a research or clinical tool in MCI. Despite
+limitations such as a relatively small sample, absence of control group and
+cross-sectional nature, these findings are consistent with the growing
+literature on the promise of self-directed, web-based cognitive assessments for
+MCI."
+10233,"3.2 Category Theory and Natural Transformations
+
+      In order to study the structural characteristics of brain thinking, it is necessary to further study
+the structural characteristics of scientific theories, that is, to categorize and axiomize scientific
+theories.","Reviewing the historical development of rational thinking, it’s obviously that the transcendence
+of brain thinking, beyond the world of experience, and even beyond human intuition, which guided
+scientists to establish various scientific theories.","In this way, from the perspective of categorization, the isomorphic characteristics of
+theoretical models of different disciplines and the categorization characteristics of brain thinking
+can be shown.",2022-08-20 09:28:42+00:00,Research on Creative Thinking Mode Based on Category Theory,q-bio.NC,['q-bio.NC'],[arxiv.Result.Author('Tong Wang')],"The research on the brain mechanism of creativity mainly has two aspects, one
+is the creative thinking process, and the other is the brain structure and
+functional connection characteristics of highly creative people. The billions
+of nerve cells in the brain connect and interact with each other. The hundreds
+of millions of nerve cells in the brain connect and interact with each other.
+The human brain has a high degree of complexity at the biological level,
+especially the rational thinking ability of the human brain. Starting from the
+connection of molecules, cells, neural networks and the neural function
+structure of the brain, it may be fundamentally impossible to study the
+rational thinking mode of human beings. Human's rational thinking mode has a
+high degree of freedom and transcendence, and such problems cannot be expected
+to be studied by elaborating the realization of the nervous system. The
+rational thinking of the brain is mainly based on the structured thinking mode,
+and the structured thinking mode shows the great scientific power. This paper
+studies the theoretical model of innovative thinking based on of category
+theory, and analyzes the creation process of two scientific theories which are
+landmarks in the history of science, and provides an intuitive, clear
+interpretation model and rigorous mathematical argument for the creative
+thinking. The structured thinking way have great revelation and help to create
+new scientific theories."
+10381,"To further study the network dynamics in the long-time limit, we calculate the full spec-
+
+trum of the Lyapunov exponents (LEs) [28, 29].","As the margin becomes dense, the persistence of the retrieval behavior
+
+fades away, instead replaced by a short-lived retrieval [Fig.4(c), where the network structure
+
+is posited above the linear stability line, and the network dynamics after this short-lived
+
+retrieval would enter a chaotic state.","LEs are a set of exponents organized in
+
+descending order, describing the growth rates of the perturbations along diﬀerent direc-
+
+tions.",2022-08-24 10:09:47+00:00,Spectrum of non-Hermitian deep-Hebbian neural networks,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'cond-mat.stat-mech', 'math-ph', 'math.MP', 'stat.ML']","[arxiv.Result.Author('Zijian Jiang'), arxiv.Result.Author('Ziming Chen'), arxiv.Result.Author('Tianqi Hou'), arxiv.Result.Author('Haiping Huang')]","Neural networks with recurrent asymmetric couplings are important to
+understand how episodic memories are encoded in the brain. Here, we integrate
+the experimental observation of wide synaptic integration window into our model
+of sequence retrieval in the continuous time dynamics. The model with
+non-normal neuron-interactions is theoretically studied by deriving a random
+matrix theory of the Jacobian matrix in neural dynamics. The spectra bears
+several distinct features, such as breaking rotational symmetry about the
+origin, and the emergence of nested voids within the spectrum boundary. The
+spectral density is thus highly non-uniformly distributed in the complex plane.
+The random matrix theory also predicts a transition to chaos. In particular,
+the edge of chaos provides computational benefits for the sequential retrieval
+of memories. Our work provides a systematic study of time-lagged correlations
+with arbitrary time delays, and thus can inspire future studies of a broad
+class of memory models, and even big data analysis of biological time series."
+11047,"With our
+developed landscape and transition path framework (see Methods for details) [28, 40, 41], we can quantify the
+potential landscape of the attractor dynamics of working memory function and further study the probabilistic
+switching process across barriers on the potential landscape to describe the transition dynamics.","Since neural network systems are open systems constantly
+interacting with the external environment, we resort to the non-equilibrium statistics physics approach.","Starting from the DWM model, the Langevin equation describing the stochastic dynamics of working mem-
+ory system takes the forms as dxd(tt) = F (x(t)) + ζ (t) with ζ assumed to be Gaussian white noise.",2022-09-12 03:24:09+00:00,Quantifying the attractor landscape and transition path of distributed working memory from large-scale brain network,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Leijun Ye'), arxiv.Result.Author('Chunhe Li')]","Many cognitive processes, including working memory, recruit multiple
+distributed interacting brain regions to encode information. How to understand
+the underlying cognition function mechanism of working memory is a challenging
+problem, which involves neural circuit configuration from multiple brain
+regions as well as stochastic transition dynamics between brain states. The
+energy landscape idea provides a tool to study the global stability and
+stochastic transition dynamics in the distributed cognitive function system.
+However, how to quantify the energy landscape in a realistic large-scale brain
+network remains unclear. Here, based on an anatomically constrained
+computational model of large-scale macaque cortex, we quantified the underlying
+multistable attractor landscape of distributed working memory. In the absence
+of external stimulation, the landscape exhibits three stable attractors, a
+spontaneous state, and two memory states. In the attractor landscape framework,
+the working memory function is governed by the change of landscape topography
+and the switch of system state according to the task requirement. The barrier
+height inferred from landscape topography quantifies the global stability of
+memory state and robustness to non-selective random fluctuations and distractor
+stimuli. The kinetic transition path identified by the minimum action path
+approach reveals that the spontaneous state serves as an intermediate state
+during the switch between the two memory states, the memory stored in the
+cortical area with higher hierarchy is more stable, and information flow
+follows the direction of hierarchical structure. These results provide new
+insights into the underlying mechanism of distributed working memory function,
+and the landscape and kinetic path approach can be applied to other cognitive
+function-related problems in brain networks."
+11205,"The internally regulated,
+targeted placement of neuromodulator receptors allows to switch between several modalities on short time scales
+(seconds to minutes) by activation of neuromodulatory signals [81].The precise mechanisms by which the neuron
+self-programs its many features are still a matter of further research.",co-localization of D1/NMDA receptors[4]).,"5.3 Knowledge structures
+
+In the brain, memory items are linked together to form knowledge structures.",2022-09-14 18:28:39+00:00,Sketch of a novel approach to a neural model,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'cs.AI', 'cs.NE', 'q-bio.MN']",[arxiv.Result.Author('Gabriele Scheler')],"In this paper, we lay out a novel model of neuroplasticity in the form of a
+horizontal-vertical integration model of neural processing. We believe a new
+approach to neural modeling will benefit the 3rd wave of AI. The horizontal
+plane consists of an adaptive network of neurons connected by transmission
+links which generates spatio-temporal spike patterns. This fits with standard
+computational neuroscience approaches. Additionally for each individual neuron
+there is a vertical part consisting of internal adaptive parameters steering
+the external membrane-expressed parameters which are involved in neural
+transmission. Each neuron has a vertical modular system of parameters
+corresponding to (a) external parameters at the membrane layer, divided into
+compartments (spines, boutons) (b) internal parameters in the submembrane zone
+and the cytoplasm with its protein signaling network and (c) core parameters in
+the nucleus for genetic and epigenetic information. In such models, each node
+(=neuron) in the horizontal network has its own internal memory. Neural
+transmission and information storage are systematically separated, an important
+conceptual advance over synaptic weight models. We discuss the membrane-based
+(external) filtering and selection of outside signals for processing vs. signal
+loss by fast fluctuations and the neuron-internal computing strategies from
+intracellular protein signaling to the nucleus as the core system. We want to
+show that the individual neuron has an important role in the computation of
+signals and that many assumptions derived from the synaptic weight adjustment
+hypothesis of memory may not hold in a real brain. Not every transmission event
+leaves a trace and the neuron is a self-programming device, rather than
+passively determined by current input. Ultimately we strive to build a flexible
+memory system that processes facts and events automatically."
+11206,"The internally regulated,
+targeted placement of neuromodulator receptors allows to switch between several modalities on short time scales
+(seconds to minutes) by activation of neuromodulatory signals [86].The precise mechanisms by which the neuron
+self-programs its many features are still a matter of further research.",co-localization of D1/NMDA receptors[4]).,"5.3 Knowledge structures
+
+In the brain, memory items are linked together to form knowledge structures.",2022-09-14 18:28:39+00:00,Sketch of a novel approach to a neural model,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'cs.AI', 'cs.NE', 'q-bio.MN']",[arxiv.Result.Author('Gabriele Scheler')],"In this paper, we lay out a novel model of neuroplasticity in the form of a
+horizontal-vertical integration model of neural processing. We believe a new
+approach to neural modeling will benefit the 3rd wave of AI. The horizontal
+plane consists of an adaptive network of neurons connected by transmission
+links which generates spatio-temporal spike patterns. This fits with standard
+computational neuroscience approaches. Additionally for each individual neuron
+there is a vertical part consisting of internal adaptive parameters steering
+the external membrane-expressed parameters which are involved in neural
+transmission. Each neuron has a vertical modular system of parameters
+corresponding to (a) external parameters at the membrane layer, divided into
+compartments (spines, boutons) (b) internal parameters in the submembrane zone
+and the cytoplasm with its protein signaling network and (c) core parameters in
+the nucleus for genetic and epigenetic information. In such models, each node
+(=neuron) in the horizontal network has its own internal memory. Neural
+transmission and information storage are systematically separated, an important
+conceptual advance over synaptic weight models. We discuss the membrane-based
+(external) filtering and selection of outside signals for processing vs. signal
+loss by fast fluctuations and the neuron-internal computing strategies from
+intracellular protein signaling to the nucleus as the core system. We want to
+show that the individual neuron has an important role in the computation of
+signals and that many assumptions derived from the synaptic weight adjustment
+hypothesis of memory may not hold in a real brain. Not every transmission event
+leaves a trace and the neuron is a self-programming device, rather than
+passively determined by current input. Ultimately we strive to build a flexible
+memory system that processes facts and events automatically."
+11207,"The precise mechanisms by which the
+neuron self-programs its many features are still a matter of further research.","For instance, the core contains programs that grow or mature
+a spine, produce and insert neuromodulatory receptors, move new AMPA receptors to the postsynaptic density [74],
+convert silent NMDA receptors, or balance and co-regulate ion channels [26].","5.3 Knowledge structures
+
+In the brain, memory items are linked together to form structures.",2022-09-14 18:28:39+00:00,Sketch of a novel approach to a neural model,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'cs.AI', 'cs.NE', 'q-bio.MN']",[arxiv.Result.Author('Gabriele Scheler')],"In this paper, we lay out a novel model of neuroplasticity in the form of a
+horizontal-vertical integration model of neural processing. We believe a new
+approach to neural modeling will benefit the 3rd wave of AI. The horizontal
+plane consists of an adaptive network of neurons connected by transmission
+links which generates spatio-temporal spike patterns. This fits with standard
+computational neuroscience approaches. Additionally for each individual neuron
+there is a vertical part consisting of internal adaptive parameters steering
+the external membrane-expressed parameters which are involved in neural
+transmission. Each neuron has a vertical modular system of parameters
+corresponding to (a) external parameters at the membrane layer, divided into
+compartments (spines, boutons) (b) internal parameters in the submembrane zone
+and the cytoplasm with its protein signaling network and (c) core parameters in
+the nucleus for genetic and epigenetic information. In such models, each node
+(=neuron) in the horizontal network has its own internal memory. Neural
+transmission and information storage are systematically separated, an important
+conceptual advance over synaptic weight models. We discuss the membrane-based
+(external) filtering and selection of outside signals for processing vs. signal
+loss by fast fluctuations and the neuron-internal computing strategies from
+intracellular protein signaling to the nucleus as the core system. We want to
+show that the individual neuron has an important role in the computation of
+signals and that many assumptions derived from the synaptic weight adjustment
+hypothesis of memory may not hold in a real brain. Not every transmission event
+leaves a trace and the neuron is a self-programming device, rather than
+passively determined by current input. Ultimately we strive to build a flexible
+memory system that processes facts and events automatically."
+11208,"The precise mechanisms by which the
+neuron self-programs its many features are still a matter of further research.","For instance, the core contains programs that grow or mature
+a spine, produce and insert neuromodulatory receptors, move new AMPA receptors to the postsynaptic density [72],
+
+                                                                     11
+convert silent NMDA receptors, or balance and co-regulate ion channels [25].","5.3 Knowledge structures
+
+In the brain, memory items are linked together to form structures.",2022-09-14 18:28:39+00:00,Sketch of a novel approach to a neural model,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'cs.AI', 'cs.NE', 'q-bio.MN']",[arxiv.Result.Author('Gabriele Scheler')],"In this paper, we lay out a novel model of neuroplasticity in the form of a
+horizontal-vertical integration model of neural processing. We believe a new
+approach to neural modeling will benefit the 3rd wave of AI. The horizontal
+plane consists of an adaptive network of neurons connected by transmission
+links which generates spatio-temporal spike patterns. This fits with standard
+computational neuroscience approaches. Additionally for each individual neuron
+there is a vertical part consisting of internal adaptive parameters steering
+the external membrane-expressed parameters which are involved in neural
+transmission. Each neuron has a vertical modular system of parameters
+corresponding to (a) external parameters at the membrane layer, divided into
+compartments (spines, boutons) (b) internal parameters in the submembrane zone
+and the cytoplasm with its protein signaling network and (c) core parameters in
+the nucleus for genetic and epigenetic information. In such models, each node
+(=neuron) in the horizontal network has its own internal memory. Neural
+transmission and information storage are systematically separated, an important
+conceptual advance over synaptic weight models. We discuss the membrane-based
+(external) filtering and selection of outside signals for processing vs. signal
+loss by fast fluctuations and the neuron-internal computing strategies from
+intracellular protein signaling to the nucleus as the core system. We want to
+show that the individual neuron has an important role in the computation of
+signals and that many assumptions derived from the synaptic weight adjustment
+hypothesis of memory may not hold in a real brain. Not every transmission event
+leaves a trace and the neuron is a self-programming device, rather than
+passively determined by current input. Ultimately we strive to build a flexible
+memory system that processes facts and events automatically."
+11209,"The precise mechanisms by which the
+neuron self-programs its many features are still a matter of further research.","For instance, the core contains programs that grow or mature
+a spine, produce and insert neuromodulatory receptors, move new AMPA receptors to the postsynaptic density [72],
+
+                                                                     11
+convert silent NMDA receptors, or balance and co-regulate ion channels [25].","5.3 Knowledge structures
+
+In the brain, memory items are linked together to form structures.",2022-09-14 18:28:39+00:00,Sketch of a novel approach to a neural model,q-bio.NC,"['q-bio.NC', 'cond-mat.dis-nn', 'cs.AI', 'cs.NE', 'q-bio.MN']",[arxiv.Result.Author('Gabriele Scheler')],"In this paper, we lay out a novel model of neuroplasticity in the form of a
+horizontal-vertical integration model of neural processing. We believe a new
+approach to neural modeling will benefit the 'third wave' of AI. The
+'horizontal' plane consists of an adaptive network of neurons connected by
+transmission links which generates spatio-temporal spike patterns. This fits
+with standard computational neuroscience approaches. Additionally for each
+individual neuron, there is a 'vertical' part consisting of internal adaptive
+parameters steering the external membrane-expressed parameters which are
+involved in neural transmission. Each neuron has a vertical modular system of
+parameters, corresponding to (a) external parameters at the membrane layer,
+divided into compartments (spines, boutons), (b) internal parameters in the
+submembrane zone and the cytoplasm with its intracellular protein signaling
+network and (c) 'core' parameters in the nucleus for genetic and epigenetic
+information. In such models, each node (=neuron) in the horizontal network has
+its own internal memory. Neural transmission and information storage are
+systematically separated, an important conceptual advance over synaptic weight
+models. We discuss the membrane-based ('external') selection of outside signals
+for processing vs signal loss by fast fluctuations and the neuron-internal
+computing strategies from intracellular protein signaling to the nucleus as the
+'core' system. We want to show that the individual neuron has an important role
+in the processing of signals and that many assumptions derived from the
+synaptic weight adjustment hypothesis of memory may not hold in a real brain.
+Not every transmission event leaves a trace and the neuron is a
+self-programming device rather than passively determined by ongoing input.
+Ultimately we strive to build a flexible memory system that processes facts and
+events automatically."
+13245," Researchers are encouraged to conduct further research based on the research themes
+         identified in this study."," Health librarians may engage various review methods to promote more research and
+         publications related to health information services.","Introduction
+
+The most common type of neurodegenerative dementia is Alzheimer's disease (AD), with ten
+million new dementia cases identified each year (World Health Organization [WHO], 2020).",2022-11-01 06:52:19+00:00,Electroencephalography and mild cognitive impairment research: A scoping review and bibliometric analysis (ScoRBA),q-bio.NC,"['q-bio.NC', 'stat.ML']","[arxiv.Result.Author('Adi Wijaya'), arxiv.Result.Author('Noor Akhmad Setiawan'), arxiv.Result.Author('Asma Hayati Ahmad'), arxiv.Result.Author('Rahimah Zakaria'), arxiv.Result.Author('Zahiruddin Othman')]","Background: Mild cognitive impairment (MCI) is often considered a precursor
+to Alzheimer's disease (AD) due to the high rate of progression from MCI to AD.
+Sensitive neural biomarkers may provide a tool for an accurate MCI diagnosis,
+enabling earlier and perhaps more effective treatment. Despite the availability
+of numerous neuroscience techniques, electroencephalography (EEG) is the most
+popular and frequently used tool among researchers due to its low cost and
+superior temporal resolution. Objective: We conducted a scoping review of EEG
+and MCI between 2012 and 2022 to track the progression of research in this
+field. Methods: In contrast to previous scoping reviews, the data charting was
+aided by co-occurrence analysis using VOSviewer, while data reporting adopted a
+Patterns, Advances, Gaps, Evidence of Practice, and Research Recommendations
+(PAGER) framework to increase the quality of the results. Results:
+Event-related potentials (ERPs) and EEG, epilepsy, quantitative EEG (QEEG), and
+EEG-based machine learning were the research themes addressed by 2310
+peer-reviewed articles on EEG and MCI. Conclusion: Our review identified the
+main research themes in EEG and MCI with high-accuracy detection of seizure and
+MCI performed using ERP/EEG, QEEG and EEG-based machine learning frameworks."
+13348,"their use imply increasing a number hyperparameters, which
+   One of the further research directions is implementing       is not always favorable.","The data segment for visualization was taken from the
+validation set
+
+formance on decoding ﬁne movements.","Temporal convolutions are by far the
+                                                                most relevant way to implement automatic feature extraction
+transfer learning across participants (Wan et al.",2022-10-23 16:26:01+00:00,FingerFlex: Inferring Finger Trajectories from ECoG signals,q-bio.NC,"['q-bio.NC', 'cs.HC', 'cs.LG']","[arxiv.Result.Author('Vladislav Lomtev'), arxiv.Result.Author('Alexander Kovalev'), arxiv.Result.Author('Alexey Timchenko')]","Motor brain-computer interface (BCI) development relies critically on neural
+time series decoding algorithms. Recent advances in deep learning architectures
+allow for automatic feature selection to approximate higher-order dependencies
+in data. This article presents the FingerFlex model - a convolutional
+encoder-decoder architecture adapted for finger movement regression on
+electrocorticographic (ECoG) brain data. State-of-the-art performance was
+achieved on a publicly available BCI competition IV dataset 4 with a
+correlation coefficient between true and predicted trajectories up to 0.74. The
+presented method provides the opportunity for developing fully-functional
+high-precision cortical motor brain-computer interfaces."
+13698,"As a stimulus to further research, it is worth describing an informal,
+exploratory simulation in which we investigated the role that generalization might be
+understood to play in one other task we addressed in our simulations, namely the
+Stroop task.","This point is illustrated by juxtaposing the results presented
+in Figure 2 in the main text from those presented in Figure 1B (left), since both relate
+to navigation.","The Stroop task can be understood as reﬂecting a simple form of ﬂexible
+generalization: People performing the task are able, based on a verbal instruction,
+to ignore word identity and name colors, despite never (or at least rarely) having
+encountered colored color words in a color-naming task context before.",2022-11-13 22:43:58+00:00,A Unified Theory of Dual-Process Control,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Ted Moskovitz'), arxiv.Result.Author('Kevin Miller'), arxiv.Result.Author('Maneesh Sahani'), arxiv.Result.Author('Matthew M. Botvinick')]","Dual-process theories play a central role in both psychology and
+neuroscience, figuring prominently in fields ranging from executive control to
+reward-based learning to judgment and decision making. In each of these
+domains, two mechanisms appear to operate concurrently, one relatively high in
+computational complexity, the other relatively simple. Why is neural
+information processing organized in this way? We propose an answer to this
+question based on the notion of compression. The key insight is that
+dual-process structure can enhance adaptive behavior by allowing an agent to
+minimize the description length of its own behavior. We apply a single model
+based on this observation to findings from research on executive control,
+reward-based learning, and judgment and decision making, showing that seemingly
+diverse dual-process phenomena can be understood as domain-specific
+consequences of a single underlying set of computational principles."
+13699,"As a stimulus to further research, it is worth describing an informal,
+exploratory simulation in which we investigated the role that generalization might be
+understood to play in one other task we addressed in our simulations, namely the
+Stroop task.","This point is illustrated by juxtaposing the results presented
+in Figure 2 in the main text from those presented in Figure 1B (left), since both relate
+to navigation.","The Stroop task can be understood as reﬂecting a simple form of ﬂexible
+generalization: People performing the task are able, based on a verbal instruction,
+to ignore word identity and name colors, despite never (or at least rarely) having
+encountered colored color words in a color-naming task context before.",2022-11-13 22:43:58+00:00,A Unified Theory of Dual-Process Control,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Ted Moskovitz'), arxiv.Result.Author('Kevin Miller'), arxiv.Result.Author('Maneesh Sahani'), arxiv.Result.Author('Matthew M. Botvinick')]","Dual-process theories play a central role in both psychology and
+neuroscience, figuring prominently in fields ranging from executive control to
+reward-based learning to judgment and decision making. In each of these
+domains, two mechanisms appear to operate concurrently, one relatively high in
+computational complexity, the other relatively simple. Why is neural
+information processing organized in this way? We propose an answer to this
+question based on the notion of compression. The key insight is that
+dual-process structure can enhance adaptive behavior by allowing an agent to
+minimize the description length of its own behavior. We apply a single model
+based on this observation to findings from research on executive control,
+reward-based learning, and judgment and decision making, showing that seemingly
+diverse dual-process phenomena can be understood as domain-specific
+consequences of a single underlying set of computational principles."
+13860,"In any case, the potential role of the arcuate fasciculus in the attentional
+capture process tied to AVH remains a very intriguing possibility in need of further study.","Moreover, significant correlation between local FA value in the left arcuate fasciculus and
+distress associated to the AVH experience is difficult result to interpret and could be related to
+attentional salience, under the assumption that the higher the attentional salience, the higher the
+distress caused by AVH.","Limitations
+        Several limitations may impact the present work.",2022-11-17 15:57:29+00:00,Local alterations of left arcuate fasciculus and transcallosal white matter microstructure in schizophrenia patients with medication-resistant auditory verbal hallucinations: A pilot study,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Fanny Thomas'), arxiv.Result.Author('Cécile Gallea'), arxiv.Result.Author('Virginie Moulier'), arxiv.Result.Author('Noomane Bouaziz'), arxiv.Result.Author('Antoni Valero-Cabré'), arxiv.Result.Author('Dominique Januel')]","Auditory verbal hallucinations (AVH) in schizophrenia (SZ) have been
+associated with abnormalities of the left arcuate fasciculus and transcallosal
+white matter projections linking homologous language areas of both hemispheres.
+While most studies have used a whole-tract approach, here we focused on
+analyzing local alterations of the above-mentioned pathways in SZ patients
+suffering medication-resistant AVH.Fractional anisotropy (FA) was estimated
+along the left arcuate fasciculus and interhemispheric projections of the
+rostral and caudal corpus callosum. Then, potential associations between white
+matter tracts and SZ symptoms were explored by correlating local site-by-site
+FA values and AVH severity estimated via the Auditory Hallucinations Rating
+Scale (AHRS). Compared to a sample of healthy controls, SZ patients displayed
+lower FA values in the rostral portion of the left arcuate fasciculus, near the
+frontal operculum, and in the left and right lateral regions of the rostral
+portion of the transcallosal pathways. In contrast, SZ patients showed higher
+FA values than healthy controls in the medial portion of the latter
+transcallosal pathway and in the midsagittal section of the interhemispheric
+auditory pathway. Finally, significant correlations were found between local FA
+values in the left arcuate fasciculus and the severity of the AVH's attentional
+salience. Contributing to the study of associations between local white matter
+alterations of language networks and SZ symptoms, our findings highlight local
+alterations of white matter integrity in these pathways linking language areas
+in SZ patients with AVH. We also hypothesize a link between the left arcuate
+fasciculus and the attentional capture of AVH."
+14077,"strength, and triangulation with specific frequency bands are     Thus, further research is required to investigate the possibility
+expected to provide greater insights into the inner workings of   of employing transfer learning to classify the brain signals
+the human brain in recognizing different hazard categories.","The brain areas, time-variant activation      cognitive tasks, few have considered construction hazards.",induced by different hazard categories.,2022-11-17 19:41:04+00:00,Brain informed transfer learning for categorizing construction hazards,q-bio.NC,"['q-bio.NC', 'cs.LG', 'cs.NE']","[arxiv.Result.Author('Xiaoshan Zhou'), arxiv.Result.Author('Pin-Chao Liao')]","A transfer learning paradigm is proposed for ""knowledge"" transfer between the
+human brain and convolutional neural network (CNN) for a construction hazard
+categorization task. Participants' brain activities are recorded using
+electroencephalogram (EEG) measurements when viewing the same images (target
+dataset) as the CNN. The CNN is pretrained on the EEG data and then fine-tuned
+on the construction scene images. The results reveal that the EEG-pretrained
+CNN achieves a 9 % higher accuracy compared with a network with same
+architecture but randomly initialized parameters on a three-class
+classification task. Brain activity from the left frontal cortex exhibits the
+highest performance gains, thus indicating high-level cognitive processing
+during hazard recognition. This work is a step toward improving machine
+learning algorithms by learning from human-brain signals recorded via a
+commercially available brain-computer interface. More generalized visual
+recognition systems can be effectively developed based on this approach of
+""keep human in the loop""."
+14078,"Combined
+with computational advancements in machine learning and graph analytics, this joint progress is
+driving further research efforts in the area of network neuroscience [11].","Recently, there is a rapid expansion in the size, scope and complexity of neural data acquired
+from large portions of nervous systems and spanning multiple levels of organization.","Network neuroscience is
+a branch of neuroscience that understands the structure and function of the human brain through
+the paradigm of graph theory.",2022-11-11 02:14:28+00:00,Data-Driven Network Neuroscience: On Data Collection and Benchmark,q-bio.NC,"['q-bio.NC', 'cs.LG', 'eess.IV']","[arxiv.Result.Author('David Tse Jung Huang'), arxiv.Result.Author('Sophi Shilpa Gururajapathy'), arxiv.Result.Author('Yiping Ke'), arxiv.Result.Author('Miao Qiao'), arxiv.Result.Author('Alan Wang'), arxiv.Result.Author('Haribalan Kumar'), arxiv.Result.Author('Yunhan Yang')]","This paper presents a comprehensive and quality collection of functional
+human brain network data for potential research in the intersection of
+neuroscience, machine learning, and graph analytics. Anatomical and functional
+MRI images of the brain have been used to understand the functional
+connectivity of the human brain and are particularly important in identifying
+underlying neurodegenerative conditions such as Alzheimer's, Parkinson's, and
+Autism. Recently, the study of the brain in the form of brain networks using
+machine learning and graph analytics has become increasingly popular,
+especially to predict the early onset of these conditions. A brain network,
+represented as a graph, retains richer structural and positional information
+that traditional examination methods are unable to capture. However, the lack
+of brain network data transformed from functional MRI images prevents
+researchers from data-driven explorations. One of the main difficulties lies in
+the complicated domain-specific preprocessing steps and the exhaustive
+computation required to convert data from MRI images into brain networks. We
+bridge this gap by collecting a large amount of available MRI images from
+existing studies, working with domain experts to make sensible design choices,
+and preprocessing the MRI images to produce a collection of brain network
+datasets. The datasets originate from 5 different sources, cover 3
+neurodegenerative conditions, and consist of a total of 2,642 subjects. We test
+our graph datasets on 5 machine learning models commonly used in neuroscience
+and on a recent graph-based analysis model to validate the data quality and to
+provide domain baselines. To lower the barrier to entry and promote the
+research in this interdisciplinary field, we release our complete preprocessing
+details, codes, and brain network data."
+14079,"Combined
+with computational advancements in machine learning and graph analytics, this joint progress is
+driving further research efforts in the area of network neuroscience [11].","Recently, there is a rapid expansion in the size, scope and complexity of neural data acquired
+from large portions of nervous systems and spanning multiple levels of organization.","Network neuroscience is
+a branch of neuroscience that understands the structure and function of the human brain through
+the paradigm of graph theory.",2022-11-11 02:14:28+00:00,Data-Driven Network Neuroscience: On Data Collection and Benchmark,q-bio.NC,"['q-bio.NC', 'cs.LG', 'eess.IV']","[arxiv.Result.Author('David Tse Jung Huang'), arxiv.Result.Author('Sophi Shilpa Gururajapathy'), arxiv.Result.Author('Yiping Ke'), arxiv.Result.Author('Miao Qiao'), arxiv.Result.Author('Alan Wang'), arxiv.Result.Author('Haribalan Kumar'), arxiv.Result.Author('Yunhan Yang')]","This paper presents a comprehensive and quality collection of functional
+human brain network data for potential research in the intersection of
+neuroscience, machine learning, and graph analytics. Anatomical and functional
+MRI images of the brain have been used to understand the functional
+connectivity of the human brain and are particularly important in identifying
+underlying neurodegenerative conditions such as Alzheimer's, Parkinson's, and
+Autism. Recently, the study of the brain in the form of brain networks using
+machine learning and graph analytics has become increasingly popular,
+especially to predict the early onset of these conditions. A brain network,
+represented as a graph, retains richer structural and positional information
+that traditional examination methods are unable to capture. However, the lack
+of brain network data transformed from functional MRI images prevents
+researchers from data-driven explorations. One of the main difficulties lies in
+the complicated domain-specific preprocessing steps and the exhaustive
+computation required to convert data from MRI images into brain networks. We
+bridge this gap by collecting a large amount of available MRI images from
+existing studies, working with domain experts to make sensible design choices,
+and preprocessing the MRI images to produce a collection of brain network
+datasets. The datasets originate from 5 different sources, cover 3
+neurodegenerative conditions, and consist of a total of 2,642 subjects. We test
+our graph datasets on 5 machine learning models commonly used in neuroscience
+and on a recent graph-based analysis model to validate the data quality and to
+provide domain baselines. To lower the barrier to entry and promote the
+research in this interdisciplinary field, we release our brain network data
+https://doi.org/10.17608/k6.auckland.21397377 and complete preprocessing
+details including codes."
+14108,"We hope this preliminary work give rise to further research in complicated,
+hierarchical models of biological neural circuits, as well as applying the approaches developed to in
+vivo experimental data rather than just theoretical models of neural circuits.","A DNN substituted neuronal circuit is useful as it allows fast and non-invasive experimental neu-
+roscience research.","1.1 Related Works
+
+Existing works focuses on modelling single the behaviour of single neurons—Beniaguev et al.",2022-11-23 13:12:13+00:00,Functional Connectome: Approximating Brain Networks with Artificial Neural Networks,q-bio.NC,"['q-bio.NC', 'cs.LG', 'cs.NE']","[arxiv.Result.Author('Sihao Liu'), arxiv.Result.Author('Augustine N Mavor-Parker'), arxiv.Result.Author('Caswell Barry')]","We aimed to explore the capability of deep learning to approximate the
+function instantiated by biological neural circuits-the functional connectome.
+Using deep neural networks, we performed supervised learning with firing rate
+observations drawn from synthetically constructed neural circuits, as well as
+from an empirically supported Boundary Vector Cell-Place Cell network. The
+performance of trained networks was quantified using a range of criteria and
+tasks. Our results show that deep neural networks were able to capture the
+computations performed by synthetic biological networks with high accuracy, and
+were highly data efficient and robust to biological plasticity. We show that
+trained deep neural networks are able to perform zero-shot generalisation in
+novel environments, and allows for a wealth of tasks such as decoding the
+animal's location in space with high accuracy. Our study reveals a novel and
+promising direction in systems neuroscience, and can be expanded upon with a
+multitude of downstream applications, for example, goal-directed reinforcement
+learning."
+14906,"Clocks&Sleep 2022, 4, FOR PEER REVIEW  13
+
+      The research was done on Russian people, and further research is needed to see how
+our results can be applied to other nationalities.","Currently SSDD
+contains a lot of information that can be used for scientific research.","Nevertheless, even at Lobachevsky Uni-
+versity there are a lot of foreign students from different countries, and we can do research
+at least on them, to diversify the SSDD.",2022-12-13 11:28:55+00:00,Subjective Sleepiness Dynamics Dataset (SSDD) Presentation: the Study of Two Scales Consistency,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Valeriia Demareva'), arxiv.Result.Author('Valeriia Viakhireva'), arxiv.Result.Author('Irina Zayceva'), arxiv.Result.Author('Inna Isakova'), arxiv.Result.Author('Yana Okhrimchuk'), arxiv.Result.Author('Karina Zueva'), arxiv.Result.Author('Andrey Demarev'), arxiv.Result.Author('Marina Zhukova'), arxiv.Result.Author('Nikolay Nazarov')]","While the first references to the system of sleepiness assessment are
+associated with medical re-search and the study of the effects of drugs on
+sleep, currently subjective sleepiness assessment is widely used across
+fundamental and practically oriented studies. The Stanford Sleepiness Scale
+(SSS) and the Karolinska Sleepiness Scale (KSS) are often used as ground truth
+in sleepiness re-search. Only a few studies applied both scales and practically
+none aimed at studying their con-sistency and specific features. The present
+study is devoted to analyzing the dynamics and con-sistency of subjective
+sleepiness as measured by the KSS and the SSS in the adult population. A
+particular task of the paper is to present the Subjective Sleepiness Dynamics
+Dataset (SSDD) with the evening and morning dynamics of situational subjective
+sleepiness. A total of 208 adults took part in the experiment. The results of
+the study revealed that sleepiness generally increased from evening till night
+and was maximal at early morning. The SSS score appeared to be more sensitive
+to some factors (e.g., the presence of sleep problems). The SSS and KSS scores
+were strongly consistent with each other. The KSS showed a generally more even
+distribution than the SSS. SSDD continues to be collected, we are going to
+equalize the sample by sex, we are actively adding older people. We plan to
+collect a sample of 1,000 people. Currently SSDD contains a lot of in-formation
+that can be used for scientific research."
+14975,"3 b, though further study is required to support this ﬁnding.",3 d to Fig.,"7
+In summary, looking at the time durations of LTM, τLT, (Eq.",2022-12-14 13:57:05+00:00,Analytical description of memory loss based on neuronal synaptic strength,q-bio.NC,['q-bio.NC'],"[arxiv.Result.Author('Hillel Sanhedrai'), arxiv.Result.Author('Shlomo Havlin'), arxiv.Result.Author('Hila Dvir')]","Long-term-memory (LTM) and short-term-memory (STM) are both described as a
+decaying function with time. However, this decaying memory function is
+currently obtained empirically, by direct tests of subjects, and its
+physiological meaning have not yet been fully understood. Here we provide an
+analytical description of memory loss based on the averaged synaptic strength,
+$\omega$, which is a physiological parameter that is believed to be associated
+with memory. This analysis sheds light on unknown aspects of the memory
+mechanism, and particularly for the less known intermediate-term-memory (ITM),
+of time scale between LTM and STM. Our analytical description suggests answers
+to important questions related to memory: why do LTM and STM have correlated
+performances? why do electrophysiological experimental protocols, imitating
+LTM, last only up to weeks while regular LTM lasts decades? and what is the
+mechanism for ITM? Our results may have clinical implications for medical
+treatments of patients with memory impairments."

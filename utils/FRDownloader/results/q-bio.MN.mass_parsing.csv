@@ -1,0 +1,331 @@
+,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract
+142,"(ii) The case val(a) = 1 is
+The formal characterization of chemistry-like RNs      only possible if there is no compound composed
+developed here suggests several interesting ques-      exclusively of three or more copies of a or com-
+tions for further research.","5.2 Outlook to open problems                           There seem to be only a few constraints: (i) If a
+                                                       moiety a appears in isolation, i.e., as a molecule
+Construction of random chemistry-like networks         x = 1a, then val(a) must be even, since it con-
+                                                       tains val(a)/2 loops.","In particular, our re-     posed of more than two moieties with valency 1.
+sults deﬁne rather clearly how random chemistry-       (iii) It is well known that the sum of degrees must
+like RNs should be deﬁned and thus poses the ques-     be even for every multigraph, and connectedness
+tion whether there are eﬃcient algorithms for their    implies u val(u) ≥ 2(|V | − 1) [85].",2022-01-05 15:05:06+00:00,"What makes a reaction network ""chemical""?",q-bio.MN,"['q-bio.MN', 'math.CO', 'math.MG', 'physics.chem-ph']","[arxiv.Result.Author('Stefan Müller'), arxiv.Result.Author('Christoph Flamm'), arxiv.Result.Author('Peter F. Stadler')]","Reaction networks (RNs) comprise a set $X$ of species and a set $\mathscr{R}$
+of reactions $Y\to Y'$, each converting a multiset of educts $Y\subseteq X$
+into a multiset $Y'\subseteq X$ of products. RNs are equivalent to directed
+hypergraphs. However, not all RNs necessarily admit a chemical interpretation.
+Instead, they might contradict fundamental principles of physics such as the
+conservation of energy and mass or the reversibility of chemical reactions. The
+consequences of these necessary conditions for the stoichiometric matrix
+$\mathbf{S} \in \mathbb{R}^{X\times\mathscr{R}}$ have been discussed
+extensively in the literature. Here, we provide sufficient conditions for
+$\mathbf{S}$ that guarantee the interpretation of RNs in terms of balanced sum
+formulas and structural formulas, respectively.
+  Chemically plausible RNs allow neither a perpetuum mobile, i.e., a ""futile
+cycle"" of reactions with non-vanishing energy production, nor the creation or
+annihilation of mass. Such RNs are said to be thermodynamically sound and
+conservative. For finite RNs, both conditions can be expressed equivalently as
+properties of $\mathbf{S}$. The first condition is vacuous for reversible
+networks, but it excludes irreversible futile cycles and - in a stricter sense
+- futile cycles that even contain an irreversible reaction. The second
+condition is equivalent to the existence of a strictly positive reaction
+invariant. Furthermore, it is sufficient for the existence of a realization in
+terms of sum formulas, obeying conservation of ""atoms"". In particular, these
+realizations can be chosen such that any two species have distinct sum
+formulas, unless $\mathbf{S}$ implies that they are ""obligatory isomers"". In
+terms of structural formulas, every compound is a labeled multigraph, in
+essence a Lewis formula, and reactions comprise only a rearrangement of bonds
+such that the total bond order is preserved."
+1177,"Previous
+approaches to identifying drugs have been focussed on correlating transcription signatures between
+disease and known drugs (66) however this approach generates drugs and therapeutic targets that
+rarely are further researched, and have not had much success in brining any new treatments to the
+clinic.","17
+An advantage of large causal molecular networks is drug discovery and repurposing.",Causal pathways allow for more in-depth identification of drug targets.,2022-01-28 16:36:19+00:00,Discovery methods for systematic analysis of causal molecular networks in modern omics datasets,q-bio.MN,"['q-bio.MN', 'q-bio.GN']","[arxiv.Result.Author('Jack Kelly'), arxiv.Result.Author('Carlo Berzuini'), arxiv.Result.Author('Bernard Keavney'), arxiv.Result.Author('Maciej Tomaszewski'), arxiv.Result.Author('Hui Guo')]","With the increasing availability and size of multi-omics datasets,
+investigating the casual relationships between molecular phenotypes has become
+an important aspect of exploring underlying biology and genetics. This paper
+aims to introduce and review the available methods for building large-scale
+causal molecular networks that have been developed in the past decade. Existing
+methods have their own strengths and limitations so there is no one best
+approach, and it is instead down to the discretion of the researcher. This
+review also aims to discuss some of the current limitations to biological
+interpretation of these networks, and important factors to consider for future
+studies on molecular networks."
+1999,"We will leave
+                                        n+1                  further study on this method as future work.","However, if
+                                                             the method in the last paragraph is used, then this clear
+           D(L0.5) ∝ (6 − n)(1 − X∗(L0.5) + n2 )2 (S12.4)    separation of roles will no longer apply.","We can calculate the right-hand side of the above equa-           Supplemental Material 14: Additional ﬁgures
+tion using our chosen parameters of g+ and g− (which
+gives X∗(L0.5) = 0.55), and for various values of n which
+equals to 6 − m. Our calculations show that we will need
+
+a larger diﬀusivity D(L0.5) for m = 3, 4 in comparison
+to m = 1, 2.",2022-02-15 12:49:06+00:00,Using transcription-based detectors to emulate the behaviour of sequential probability ratio-based concentration detectors,q-bio.MN,['q-bio.MN'],[arxiv.Result.Author('Chun Tung Chou')],"The sequential probability ratio test (SPRT) from statistics is known to have
+the least mean decision time compared to other sequential or fixed-time tests
+for given error rates. In some circumstances, cells need to make decisions
+accurately and quickly, therefore it has been suggested the SPRT may be used to
+understand the speed-accuracy tradeoff in cellular decision making. It is
+generally thought that in order for cells to make use of the SPRT, it is
+necessary to find biochemical circuits that can compute the log-likelihood
+ratio needed for the SPRT. However, this paper takes a different approach. We
+recognise that the high-level behaviour of the SPRT is defined by its positive
+detection or hit rate, and the computation of the log-likelihood ratio is just
+one way to realise this behaviour. In this paper, we will present a method
+which uses a transcription-based detector to emulate the hit rate of the SPRT
+without computing the exact log-likelihood ratio. We consider the problem of
+using a promoter with multiple binding sites to accurately and quickly detect
+whether the concentration of a transcription factor is above a target level. We
+show that it is possible to find binding and unbinding rates of the
+transcription factor to the promoter's binding sites so that the probability
+that the amount of mRNA produced will be higher than a threshold is
+approximately equal to the hit rate of the SPRT detector. Moreover, we show
+that the average time that this transcription-based detector needs to make a
+positive detection is less than or equal to that of the SPRT for a wide range
+of concentrations. We remark that the last statement does not contradict Wald's
+optimality result because our transcription-based detector uses an open-ended
+test."
+2000,"We will leave
+We can calculate the right-hand side of the above equa-     further study on this method as future work.","However, if
+                                        n+1                 the method in the last paragraph is used, then this clear
+                                                            separation of roles will no longer apply.","tion using our chosen parameters of g+ and g− (which
+gives X∗(L0.5) = 0.55), and for various values of n which        Supplemental Material 14: Additional ﬁgures
+equals to 6 − m. Our calculations show that we will need
+
+a larger diﬀusivity D(L0.5) for m = 3, 4 in comparison
+to m = 1, 2.",2022-02-15 12:49:06+00:00,Using transcription-based detectors to emulate the behaviour of sequential probability ratio-based concentration detectors,q-bio.MN,['q-bio.MN'],[arxiv.Result.Author('Chun Tung Chou')],"The sequential probability ratio test (SPRT) from statistics is known to have
+the least mean decision time compared to other sequential or fixed-time tests
+for given error rates. In some circumstances, cells need to make decisions
+accurately and quickly, therefore it has been suggested the SPRT may be used to
+understand the speed-accuracy tradeoff in cellular decision making. It is
+generally thought that in order for cells to make use of the SPRT, it is
+necessary to find biochemical circuits that can compute the log-likelihood
+ratio needed for the SPRT. However, this paper takes a different approach. We
+recognise that the high-level behaviour of the SPRT is defined by its positive
+detection or hit rate, and the computation of the log-likelihood ratio is just
+one way to realise this behaviour. In this paper, we will present a method
+which uses a transcription-based detector to emulate the hit rate of the SPRT
+without computing the exact log-likelihood ratio. We consider the problem of
+using a promoter with multiple binding sites to accurately and quickly detect
+whether the concentration of a transcription factor is above a target level. We
+show that it is possible to find binding and unbinding rates of the
+transcription factor to the promoter's binding sites so that the probability
+that the amount of mRNA produced will be higher than a threshold is
+approximately equal to the hit rate of the SPRT detector. Moreover, we show
+that the average time that this transcription-based detector needs to make a
+positive detection is less than or equal to that of the SPRT for a wide range
+of concentrations. We remark that the last statement does not contradict Wald's
+optimality result because our transcription-based detector uses an open-ended
+test."
+2660,"It displays clear interactions of each class, providing
+a platform for further research in the future.","Conclusion and Perspectives
+
+    The model created here is the ﬁrst attempt at mathematical modelling of the
+ﬁve diﬀerent classes of direct Wnt target genes recently proposed in early em-
+bryonic development [10].",6.,2022-03-01 22:44:13+00:00,A mathematical modelling portrait of Wnt signalling in early vertebrate embryogenesis,q-bio.MN,['q-bio.MN'],"[arxiv.Result.Author('Claudiu V. Giuraniuc'), arxiv.Result.Author('Shabana Zain'), arxiv.Result.Author('Shahmama Ghafoor'), arxiv.Result.Author('Stefan Hoppler')]","There are two phases of Wnt signalling in early vertebrate embryogenesis:
+very early, maternal Wnt signalling promotes dorsal development, and slightly
+later, zygotic Wnt signalling promotes ventral and lateral mesoderm induction.
+However, recent molecular biology analysis has revealed more complexity among
+the direct Wnt target genes, with at least five classes. Here we tested the
+logic and the dynamics of a new Gene Regulatory Network model suggested by
+these discoveries using mathematical modelling based on ordinary differential
+equations (ODEs). Our mathematical modelling of this Gene Regulatory Network
+reveals that a simplified model, with one ""super-gene"" for each class is
+sufficient to a large extent to describe the regulatory behaviour observed
+experimentally."
+2661,"It displays clear interactions of each class, providing
+a platform for further research in the future.","Conclusion and Perspectives
+
+    The model created here is the ﬁrst attempt at mathematical modelling of the
+ﬁve diﬀerent classes of direct Wnt target genes recently proposed in early em-
+bryonic development [11].",6.,2022-03-01 22:44:13+00:00,A mathematical modelling portrait of Wnt signalling in early vertebrate embryogenesis,q-bio.MN,['q-bio.MN'],"[arxiv.Result.Author('Claudiu V. Giuraniuc'), arxiv.Result.Author('Shabana Zain'), arxiv.Result.Author('Shahmama Ghafoor'), arxiv.Result.Author('Stefan Hoppler')]","There are two phases of Wnt signalling in early vertebrate embryogenesis:
+very early, maternal Wnt signalling promotes dorsal development, and slightly
+later, zygotic Wnt signalling promotes ventral and lateral mesoderm induction.
+However, recent molecular biology analysis has revealed more complexity among
+the direct Wnt target genes, with at least five classes. Here in order to test
+the logic and the dynamics of a new Gene Regulatory Network model suggested by
+these discoveries we use mathematical modelling based on ordinary differential
+equations (ODEs). Our mathematical modelling of this Gene Regulatory Network
+reveals that a simplified model, with one ""super-gene"" for each class is
+sufficient to a large extent to describe the regulatory behaviour previously
+observed experimentally."
+2681,"Since, a large
+number of phyla were having very few networks so to ensure that the classiﬁcation task re-
+tain suﬃcient statistical power a threshold of 30 networks per phyla was set and only phylum
+having 30 or more networks were considered for further study (38).","Results and Discussion
+
+From a total of 5, 090 PPI networks in STRING we could classify 5, 007 networks into 71
+phyla by leveraging taxonomic information from NCBI taxonomy database (31).","This results in 16 phyla
+including 4, 738 networks among which 162 are Archaeal, 4, 213 are Bacterial and 363 are Eu-
+karyotic networks Table S1.",2022-03-02 10:10:20+00:00,Characterizing the organizational diversity of protein interaction networks across three domains of life,q-bio.MN,"['q-bio.MN', 'cs.AI', 'q-bio.BM']","[arxiv.Result.Author('Vikram Singh'), arxiv.Result.Author('Vikram Singh')]","Networks exist everywhere in nature from the physical, chemical, biological
+or social worlds to the designed spheres. To explore, if there exists some
+higher-order organization that can be exploited to distinguish different types
+of networks, we study 4,738 protein interaction networks (PINs) belonging to 16
+phyla encompassing all the three domains of life. Our method utilizes
+positional information of a network's nodes by appropriately normalizing the
+frequency of automorphic orbits appearing in the induced graphlets of sizes
+2-5. There are some evolutionary constraints imposed on the network's topology
+which shape its local architecture as well as its behavior. According to these
+rules (features), each type of network occupies its respective position within
+a common network space. A deep neural network was trained on differentially
+expressed orbits resulting in a prediction accuracy of 85%. Our results
+indicate that nature has, probably, allocated a specific band of design space
+to various superfamilies of PINs."
+2928,"For instance,     ing reliably, is an important topic for further study.","information transmission rate, and in particular whether
+Other measures neither make it possible to address that      there is a trade-oﬀ between responding fast and respond-
+question quantitatively nor qualitatively.","the widely used Instantaneous Mutual Information (IMI)
+between the steady state input and output at a given            The second point is that the chemotaxis system has
+time point [6, 14, 82–85] predicts an optimal input cor-     a lower information transmission rate than the push-pull
+relation time of τL ≈ 2 s, about an order of magnitude       network, for all input timescales.",2022-03-07 15:20:21+00:00,Path Weight Sampling: Exact Monte Carlo Computation of the Mutual Information between Stochastic Trajectories,q-bio.MN,"['q-bio.MN', 'cond-mat.soft', 'cs.IT', 'math.IT', 'physics.bio-ph']","[arxiv.Result.Author('Manuel Reinhardt'), arxiv.Result.Author('Gašper Tkačik'), arxiv.Result.Author('Pieter Rein ten Wolde')]","Most natural and engineered information-processing systems transmit
+information via signals that vary in time. Computing the information
+transmission rate or the information encoded in the temporal characteristics of
+these signals, requires the mutual information between the input and output
+signals as a function of time, i.e. between the input and output trajectories.
+Yet, this is notoriously difficult because of the high-dimensional nature of
+the trajectory space, and all existing techniques require approximations. We
+present an exact Monte Carlo technique called Path Weight Sampling (PWS) that,
+for the first time, makes it possible to compute the mutual information between
+input and output trajectories for any stochastic system that is described by a
+master equation. The principal idea is to use the master equation to evaluate
+the exact conditional probability of an individual output trajectory for a
+given input trajectory, and average this via Monte Carlo sampling in trajectory
+space to obtain the mutual information. We present three variants of PWS, which
+all generate the trajectories using the standard stochastic simulation
+algorithm. While Direct PWS is a brute-force method, Rosenbluth-Rosenbluth PWS
+exploits the analogy between signal trajectory sampling and polymer sampling,
+and Thermodynamic Integration PWS is based on a reversible work calculation in
+trajectory space. PWS also makes it possible to compute the mutual information
+between input and output trajectories for systems with hidden internal states
+as well as systems with feedback from output to input. Applying PWS to the
+bacterial chemotaxis system, consisting of 173 coupled chemical reactions,
+demonstrates not only that the scheme is highly efficient, but also that the
+appropriate measure for quantifying information transmission via time-varying
+signals is indeed the information transmission rate."
+4286,"We hope that these initial results will
+stimulate further research in this direction.","Or they can provide a measure of redundancy,
+in terms of the amount of overlap between diﬀerent irrRAFs.","References
+
+Ars`ene, S., Ameta, S., Lehman, N., Griﬃths, A. D., and Nghe, P. (2018).",2022-04-03 12:04:35+00:00,Emergence of Autocatalytic Sets in a Simple Model of Technological Evolution,q-bio.MN,['q-bio.MN'],"[arxiv.Result.Author('Wim Hordijk'), arxiv.Result.Author('Stuart Kauffman')]","Two alternative views of an economy are combined and studied. The first view
+is that of technological evolution as a process of combinatorial innovation.
+Recently a simple mathematical model (TAP) was introduced to study such a
+combinatorial process. The second view is that of a network of production
+functions forming an autocatalytic set. Autocatalytic (RAF) sets have been
+studied extensively in the context of chemical reaction networks.
+  Here, we combine the two models (TAP and RAF) and show that they are
+compatible. In particular, it is shown that production function networks
+resulting from the combinatorial TAP model have a high probability of
+containing autocatalytic (RAF) sets. We also study the size distribution and
+robustness of such ""economic autocatalytic sets"", and compare our results with
+those from the chemical context. These initial results strongly support earlier
+claims that the economy can indeed be seen as an autocatalytic set."
+4287,"We hope that these initial results will stimulate further research in
+this direction.","Or they can provide a
+measure of redundancy, in terms of the amount of overlap between diﬀerent
+irrRAFs.","TAP-RAF 11
+
+Acknowledgments.",2022-04-03 12:04:35+00:00,Emergence of Autocatalytic Sets in a Simple Model of Technological Evolution,q-bio.MN,['q-bio.MN'],"[arxiv.Result.Author('Wim Hordijk'), arxiv.Result.Author('Stuart Kauffman')]","Two alternative views of an economy are combined and studied. The first view
+is that of technological evolution as a process of combinatorial innovation.
+Recently a simple mathematical model (TAP) was introduced to study such a
+combinatorial process. The second view is that of a network of production
+functions forming an autocatalytic set. Autocatalytic (RAF) sets have been
+studied extensively in the context of chemical reaction networks.
+  Here, we combine the two models (TAP and RAF) and show that they are
+compatible. In particular, it is shown that production function networks
+resulting from the combinatorial TAP model have a high probability of
+containing autocatalytic (RAF) sets. We also study the size distribution and
+robustness of such ""economic autocatalytic sets"", and compare our results with
+those from the chemical context. These initial results strongly support earlier
+claims that the economy can indeed be seen as an autocatalytic set."
+5324,"We envision that the
+analysis of damage spreading transitions can be an interesting direction for further research within our disease model.","If one introduces damage
+and compares the difference to the unmodiﬁed network there are two possible results: The damage can spread, which ultimately
+leads to a system that evolves very differently from the original network, or the damage might disappear.","Discussion and Conclusion
+
+We presented a minimal model to study the interplay between network topology and disease nodes.",2022-04-26 09:23:47+00:00,Network location and clustering of genetic mutations determine chronicity in a stylized model of genetic diseases,q-bio.MN,"['q-bio.MN', 'cond-mat.stat-mech']","[arxiv.Result.Author('Piotr Nyczka'), arxiv.Result.Author('Johannes Falk'), arxiv.Result.Author('Marc-Thorsten Hütt')]","In a highly simplified view, a disease can be seen as the phenotype emerging
+from the interplay of genetic predisposition and fluctuating environmental
+stimuli. We formalize this situation in a minimal model, where a network
+(representing cellular regulation) serves as an interface between an input
+layer (representing environment) and an output layer (representing functional
+phenotype). Genetic predisposition for a disease is represented as a loss of
+function of some network nodes. Reduced, but non-zero, output indicates
+disease. The simplicity of this genetic disease model and its deep relationship
+to percolation theory allows us to understand the interplay between disease,
+network topology and the location and clusters of affected network nodes. We
+find that our model generates two different characteristics of diseases, which
+can be interpreted as chronic and acute diseases. In its stylized form, our
+model provides a new view on the relationship between genetic mutations and the
+type and severity of a disease."
+8646,There is clearly a trade-off here that is worth further study.,"Virtually every paper
+150.","we’ve read on local network alignment—and we have read dozens—
+                                                                                                            simply assume that sequence information can and should be used.",2022-07-10 00:20:24+00:00,"BLANT: Basic Local Alignment of Network Topology, Part 2: Topology-only Extension Beyond Graphlet Seeds",q-bio.MN,['q-bio.MN'],"[arxiv.Result.Author('Tingyin Ding'), arxiv.Result.Author('Utsav Jain'), arxiv.Result.Author('Wayne B. Hayes')]","BLAST is a standard tool in bioinformatics for creating local sequence
+alignments using a ""seed-and-extend"" approach. Here we introduce an analogous
+seed-and-extend algorithm that produces local network alignments: BLANT (Basic
+Local Alignment of Network Topology). In Part 1, we introduced BLANT-seed,
+which generates graphlet-based seeds using only topological information. Here,
+in Part 2, we describe BLANT-extend, which ""grows"" seeds to larger local
+alignments using only topological information. We allow the user to specify
+bounds on several measures an alignment must satisfy, including the edge
+density, edge commonality (i.e., aligned edges), and node-pair similarity if
+such a measure is used; the latter allows the inclusion of sequence-based
+similarity, if desired, as well as local topological constraints. BLANT-extend
+is able to enumerate all possible alignments satisfying the bounds that can be
+grown from each seed, within a specified CPU time or number of generated
+alignments. While topology-driven local network alignment has a wide variety of
+potential applications outside bioinformatics, here we focus on the alignment
+of Protein-Protein Interaction (PPI) networks. We show that BLANT is capable of
+finding large, high-quality local alignments when the networks are known to
+have high topological similarity -- for example recovering hundreds of
+orthologs between networks of the recent Integrated Interaction Database (IID).
+Predictably, however, it performs less well when true topological similarity is
+absent, as is the case in most current experimental PPI networks that are noisy
+and have wide disparity in edge density which results in low common coverage."
+8647,"We are pleased that we achieve high           parameters to conclude that AlignMCL was the best available
+performance on over half of network pairs, and improving the           topology-only local aligner, we adopt this list as well (though
+latter two clusters will require further study.","Since [8] used these
+volume and low accuracy.",we offer a caveat in our Discussion below).,2022-07-10 00:44:33+00:00,"BLANT: Basic Local Alignment of Network Topology, Part 1: Seeding local alignments with unambiguous 8-node graphlets",q-bio.MN,['q-bio.MN'],"[arxiv.Result.Author('Patrick Wang'), arxiv.Result.Author('Henry Ye'), arxiv.Result.Author('Wayne B Hayes')]","BLAST is a standard tool in bioinformatics for creating local sequence
+alignments using a ""seed-and-extend"" approach. Here we introduce an analogous
+seed-and-extend algorithm that produces local network alignments: BLANT, for
+Basic Local Alignment of Network Topology. This paper introduces BLANT-seed:
+given an input graph, BLANT-seed uses network topology alone to create a
+limited, high-specificity index of k-node induced subgraphs called k-graphlets
+(analogous to BLASTS's k-mers). The index is constructed so that, if
+significant common network topology exists between two graphs, their indexes
+are likely to overlap. BLANT-seed then queries the indexes of two networks to
+generate a list of common k-graphlets which, when paired, form a seed pair. Our
+companion paper (submitted elsewhere) describes BLANT-extend, which ""grows""
+these seeds to larger local alignments, again using only topological
+information."
+8648,"As with IID, further study is warranted.","First,
+low node correctness on many networks, demonstrating the               we weigh node pairs with higher degree more with the α
+difﬁculty of aligning these networks with the current state-of-        parameter described in [16]’s Supplementary Info, using their
+the-art.",recommended value of α = 0.8.,2022-07-10 00:44:33+00:00,"BLANT: Basic Local Alignment of Network Topology, Part 1: Seeding local alignments with unambiguous 8-node graphlets",q-bio.MN,['q-bio.MN'],"[arxiv.Result.Author('Patrick Wang'), arxiv.Result.Author('Henry Ye'), arxiv.Result.Author('Wayne B Hayes')]","BLAST is a standard tool in bioinformatics for creating local sequence
+alignments using a ""seed-and-extend"" approach. Here we introduce an analogous
+seed-and-extend algorithm that produces local network alignments: BLANT, for
+Basic Local Alignment of Network Topology. This paper introduces BLANT-seed:
+given an input graph, BLANT-seed uses network topology alone to create a
+limited, high-specificity index of k-node induced subgraphs called k-graphlets
+(analogous to BLASTS's k-mers). The index is constructed so that, if
+significant common network topology exists between two graphs, their indexes
+are likely to overlap. BLANT-seed then queries the indexes of two networks to
+generate a list of common k-graphlets which, when paired, form a seed pair. Our
+companion paper (submitted elsewhere) describes BLANT-extend, which ""grows""
+these seeds to larger local alignments, again using only topological
+information."
+10265,"This tool can be used for further studying the different
+   We are interested to verify the claim of Ruan et al.","ferent graph metrics or attributes for the assignment of color and
+                                                                             node size.","[11] that            relationships of genes and investigating the smaller communities
+network-based methods can outperform conventional cluster anal-              present in the graph.",2022-08-22 07:49:19+00:00,Predicting the Biological Classification of Cell-Cycle Regulated Genes of Saccharomyces cerevisiae using Community Detection Algorithms on Gene Co-expression Networks,q-bio.MN,"['q-bio.MN', '05C85', 'F.2.0']","[arxiv.Result.Author('Jhoirene B. Clemente'), arxiv.Result.Author('Gabriel Besas'), arxiv.Result.Author('Jerick Callado'), arxiv.Result.Author('John Erol Evangelista')]","The conventional approach for analyzing gene expression data involves
+clustering algorithms. Cluster analyses provide partitioning of the set of
+genes that can predict biological classification based on its similarity in
+n-dimensional space. In this study, we investigate whether network analysis
+will provide an advantage over the traditional approach. We identify the
+advantages and disadvantages of using the value-based and the rank-based
+construction in creating a graph representation of the original gene-expression
+data in a time-series format. We tested four community detection algorithms,
+namely, the Clauset-Newman-Moore (greedy), Louvain, Leiden, and Girvan-Newman
+algorithms in predicting the 5 functional groups of genes. We used the Adjusted
+Rand Index to assess the quality of the predicted communities with respect to
+the biological classifications. We showed that Girvan-Newman outperforms the 3
+modularity-based algorithms in both value-based and ranked-based constructed
+graphs. Moreover, we also show that when compared to the conventional
+clustering algorithms such as K-means, Spectral, Birch, and Agglomerative
+algorithms, we obtained a higher ARI with Girvan-Newman. This study also
+provides a tool for graph construction, visualization, and community detection
+for further analysis of gene expression data."
