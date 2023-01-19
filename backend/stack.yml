@@ -3,17 +3,6 @@ version: '3.1'
 
 services:
 
-  db:
-    image: postgres
-    container_name: postgres_db
-    restart: always
-    environment:
-      POSTGRES_USER: ${DATABASE_USER}
-      POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
-      POSTGRES_DB: ${DATABASE_NAME}
-    ports:
-      - 5432:5432
-
   server:
     build: .
     container_name: spa_server
@@ -24,9 +13,32 @@ services:
       - .env
     depends_on:
       - db
+    networks:
+      - hidden
+      - outside
+
+  db:
+    image: postgres
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_USER: ${DATABASE_USER}
+      POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
+      POSTGRES_DB: ${DATABASE_NAME}
+    ports:
+      - 5432:5432
+    networks:
+      - hidden
 
   pdfparser:
     image: ucrel/ucrel-science-parse:3.0.1
     init: true
     ports:
       - ${PDFPARSER_PORT}:${PDFPARSER_PORT}
+    networks:
+      - hidden
+
+networks:
+  hidden:
+    internal: true
+  outside:
