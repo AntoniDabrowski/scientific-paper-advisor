@@ -6,7 +6,7 @@ services:
   server:
     build: .
     container_name: spa_server
-    restart: always
+    restart: "no"
     ports:
       - 8000:8000
     env_file:
