@@ -1,3 +1,4 @@
+import copy
 import os
 import tempfile
 import unicodedata
@@ -70,9 +71,24 @@ class ArticleGraph(nx.Graph):
         super().__init__(**attr)
         self.core_article = core_article
         self.max_articles_per_column = max_articles_per_column
-        self.add_article_node(0, self.core_article.publication)
-        self.create_right_side_of_graph()
-        self.create_left_side_of_graph()
+        self.add_article_node(self.core_article.idx, self.core_article.publication, subset=0)
+        self.create_right_side_of_graph(origin_article=self.core_article)
+        self.create_left_side_of_graph(origin_article=self.core_article)
+
+        copy_nodes = copy.deepcopy(self.nodes(data='subset'))
+        for idx, s in copy_nodes:
+            if s == 1:
+                publication = self.get_publication_from_idx(idx)
+                self.create_right_side_of_graph(publication)
+
+        nodes_in_second_layer = [n for n in self.nodes(data='num_publications') if self.nodes[n[0]]['subset'] == 2]
+        nodes_in_second_layer = sorted(nodes_in_second_layer, key=lambda x: x[1])[:self.max_articles_per_column]
+        nodes_in_second_layer_idx = [x[0] for x in nodes_in_second_layer]
+
+        copy_nodes = copy.deepcopy(self.nodes)
+        for n in copy_nodes:
+            if copy_nodes[n]['subset'] == 2 and n not in nodes_in_second_layer_idx:
+                self.remove_node(n)
 
     def get_citedby(self, article: PublicationWithID) -> List[PublicationWithID]:
         already_used = set()
@@ -102,13 +118,15 @@ class ArticleGraph(nx.Graph):
 
         return results
 
-    def create_right_side_of_graph(self):
-        core_article_cited_in = self.get_citedby(self.core_article)
+    def create_right_side_of_graph(self, origin_article: PublicationWithID):
+        core_article_cited_in = self.get_citedby(origin_article)
         core_article_cited_in = sorted(core_article_cited_in,
                                        key=lambda x: x.publication.get('num_citations', 0), reverse=True)
-        start_idx = self.number_of_nodes()
-        for i, article in enumerate(core_article_cited_in):
-            self.add_article_node(start_idx + i, article.publication, 0, subset=1)
+        for article in core_article_cited_in:
+            self.add_article_node(article.idx,
+                                  article.publication,
+                                  article_from=origin_article.idx,
+                                  subset=self.nodes[origin_article.idx]['subset'] + 1)
 
     def articles_from_references(self, references: List[Dict]) -> List[PublicationWithID]:
         results = []
@@ -125,16 +143,18 @@ class ArticleGraph(nx.Graph):
 
         return results
 
-    def create_left_side_of_graph(self):
-        parsed_pdf = parse_article_pdf(self.core_article.publication['eprint_url'])
+    def create_left_side_of_graph(self, origin_article: PublicationWithID):
+        parsed_pdf = parse_article_pdf(origin_article.publication['eprint_url'])
         references = parsed_pdf['references']
 
         articles = self.articles_from_references(references)
-        start_idx = self.number_of_nodes()
-        for i, article in enumerate(articles):
-            self.add_article_node(start_idx + i, article.publication, 0, subset=-1)
+        for article in articles:
+            self.add_article_node(article.idx,
+                                  article.publication,
+                                  article_from=origin_article.idx,
+                                  subset=self.nodes[origin_article.idx]['subset'] - 1)
 
-    def add_article_node(self, idx, article: Publication, article_from=None, subset=0):
+    def add_article_node(self, idx, article: Publication, subset: int, article_from=None):
         self.add_node(idx,
                       title=article['bib']['title'],
                       authors=article['bib']['author'],
@@ -143,6 +163,10 @@ class ArticleGraph(nx.Graph):
                       subset=subset)
         if article_from is not None:
             self.add_edge(idx, article_from)
+
+    def get_publication_from_idx(self, idx) -> PublicationWithID:
+        publ = ScholarlyPublication.objects.get(pk=idx)
+        return PublicationWithID(publ.pk, publ.publication)
 
 
 def articles_match(publication_dict, authors, title):
