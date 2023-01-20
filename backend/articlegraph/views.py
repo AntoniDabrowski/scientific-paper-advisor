@@ -2,18 +2,20 @@ import os
 import tempfile
 import unicodedata
 from pathlib import Path
-from typing import List
+from typing import List, Dict
 
+import networkx as nx
 import requests
+from django.db.models import QuerySet
+from django.http import HttpRequest, JsonResponse
+from dotenv import load_dotenv
+from scholarly import scholarly, Publication, ProxyGenerator
 from science_parse_api.api import parse_pdf
 from unidecode import unidecode
 
-import networkx as nx
-from django.db.models import QuerySet
-from django.http import HttpRequest, JsonResponse
-from scholarly import scholarly, Publication, ProxyGenerator
-
 from .models import ScholarlyPublication, CitationReferences
+
+load_dotenv()
 
 pg = ProxyGenerator()
 success = pg.ScraperAPI(os.getenv('SCRAPERAPI_KEY'))
@@ -29,17 +31,17 @@ class PublicationWithID:
 
 def add_publication_to_database(publication: Publication, cites: ScholarlyPublication = None):
     authors = sorted(publication['bib'].get('author'))
-    authors_mash = "".join([unidecode(a) for a in authors])
+    authors_mash = "".join([unidecode(a).lower() for a in authors])
 
     try:
-        record = ScholarlyPublication.objects.get(title=publication['bib'].get('title'),
+        record = ScholarlyPublication.objects.get(title=publication['bib'].get('title').lower(),
                                                   authors=authors_mash)
     except ScholarlyPublication.DoesNotExist:
-        record = ScholarlyPublication.objects.create(title=publication['bib'].get('title'),
+        record = ScholarlyPublication.objects.create(title=publication['bib'].get('title').lower(),
                                                      authors=authors_mash,
                                                      publication=publication)
     else:
-        record.title = publication['bib'].get('title')
+        record.title = publication['bib'].get('title').lower()
         record.authors = authors_mash
         record.publication = publication
         record.save()
@@ -50,7 +52,7 @@ def add_publication_to_database(publication: Publication, cites: ScholarlyPublic
     return PublicationWithID(idx=record.pk, publication=publication)
 
 
-def parse_pdf(pdf_url):
+def parse_article_pdf(pdf_url):
     host = 'http://{}'.format(os.getenv('PDFPARSER_HOST'))
     port = os.getenv('PDFPARSER_PORT')
 
@@ -108,19 +110,36 @@ class ArticleGraph(nx.Graph):
         for i, article in enumerate(core_article_cited_in):
             self.add_article_node(start_idx + i, article.publication, 0, subset=1)
 
-    def create_left_side_of_graph(self):
-        parsed_pdf = parse_pdf(self.core_article.publication['pub_url'])
-        print(parsed_pdf)
+    def articles_from_references(self, references: List[Dict]) -> List[PublicationWithID]:
+        results = []
+        for ref in references:
+            if len(results) == self.max_articles_per_column:
+                return results
 
-        for reference in parsed_pdf['references']:
-            pass
+            try:
+                article = find_article(title=ref['title'], authors=ref['authors'])
+            except RuntimeError:
+                continue
+
+            results.append(article)
+
+        return results
+
+    def create_left_side_of_graph(self):
+        parsed_pdf = parse_article_pdf(self.core_article.publication['eprint_url'])
+        references = parsed_pdf['references']
+
+        articles = self.articles_from_references(references)
+        start_idx = self.number_of_nodes()
+        for i, article in enumerate(articles):
+            self.add_article_node(start_idx + i, article.publication, 0, subset=-1)
 
     def add_article_node(self, idx, article: Publication, article_from=None, subset=0):
         self.add_node(idx,
                       title=article['bib']['title'],
                       authors=article['bib']['author'],
                       num_publications=article['num_citations'],
-                      url=article['pub_url'],
+                      url=article.get('pub_url'),
                       subset=subset)
         if article_from is not None:
             self.add_edge(idx, article_from)
@@ -142,8 +161,10 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
         have been found in Google Scholar.
     """
     # Check the database for stored data
-    authors = sorted(authors)
-    authors_mash = "".join([unidecode(a) for a in authors])
+    authors = sorted([author.replace('.', '') for author in authors])
+    authors_mash = "".join([unidecode(a).lower() for a in authors])
+    title = title.lower()
+
     if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
         # Publication found. Get from the database
         print("Record for publication {} retrieved from the database.".format(title))
@@ -160,7 +181,7 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
 
         for publication in publication_generator:
             # Use api to find an article with matching title and authors list.
-            if articles_match(publication.get('bib'), authors, title):
+            if publication['bib'].get('title', 'NOT FOUND').lower() == title.lower():
                 # Save article to db for reuse.
                 return add_publication_to_database(publication=publication)
 
