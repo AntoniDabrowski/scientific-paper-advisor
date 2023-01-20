@@ -61,7 +61,7 @@ def parse_hovers(docs):
         new_doc = ""
         current_line = ""
         for word in doc.split():
-            if len(current_line) + len(word) > 100:
+            if len(current_line) + len(word) > 60:
                 new_doc += current_line + '<br>'
                 current_line = ""
             current_line += ' ' + word
@@ -109,8 +109,8 @@ def get_csv(category):
             return pd.read_csv(join(mypath_input, f))
 
 
-def pipeline(partially_parsed_PDF):
-    if 'sections' not in partially_parsed_PDF:
+def pipeline(partially_parsed_PDF, url):
+    if not partially_parsed_PDF and 'sections' not in partially_parsed_PDF:
         return {}
     article_text, further_research_section = handle_PDF_response(partially_parsed_PDF)
     category = predict_category(article_text)
@@ -120,6 +120,12 @@ def pipeline(partially_parsed_PDF):
     df = get_csv(category)
     x, y, z = df['x'].tolist(), df['y'].tolist(), df['z'].tolist()
     cluster = df['cluster'].tolist()
+
+    if 'url' in df.columns:
+        urls = df['url'].tolist()
+    else:
+        urls = ["https://arxiv.org/pdf/1712.05855.pdf"] * len(x)
+
     hovers = []
 
     for _, record in df.iterrows():
@@ -138,14 +144,25 @@ def pipeline(partially_parsed_PDF):
         z.append(_z)
         cluster.append("CURRENT")
         hovers.append(further_research_section)
+        urls.append(url)
 
     hovers = parse_hovers(hovers)
 
-    export = {'x': [str(coordinate) for coordinate in x],
-              'y': [str(coordinate) for coordinate in y],
-              'z': [str(coordinate) for coordinate in z],
-              'cluster': cluster,
-              'hovers': hovers,
-              'title': category}
+    empty_cluster = lambda color: {"x":[],"y":[],"z":[],"text":[],"url":urls,"title":category,"color":color}
+    traces = {"A": empty_cluster('rgb(255, 150, 150)'),
+              "B": empty_cluster('rgb(150, 255, 150)'),
+              "C": empty_cluster('rgb(150, 150, 255)'),
+              "A_centroid": empty_cluster('red'),
+              "B_centroid": empty_cluster('green'),
+              "C_centroid": empty_cluster('blue')}
+    if further_research_section:
+        traces["CURRENT"] = empty_cluster('black')
 
-    return export
+    for _x,_y,_z, _cluster, _hover, _url in zip(x,y,z,cluster,hovers,urls):
+        traces[_cluster]['x'].append(str(_x))
+        traces[_cluster]['y'].append(str(_y))
+        traces[_cluster]['z'].append(str(_z))
+        traces[_cluster]['text'].append(_hover)
+        traces[_cluster]['url'].append(_url)
+
+    return traces

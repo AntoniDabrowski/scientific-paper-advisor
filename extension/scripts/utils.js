@@ -5,6 +5,12 @@ class ArticleData {
     }
 }
 
+class PdfUrl {
+    constructor(url) {
+        this.url = url;
+    }
+}
+
 function get_title(scholar_result) {
     const title_box = scholar_result.getElementsByClassName("gs_rt")
     var title = title_box[0].innerText
@@ -29,6 +35,11 @@ export function extract_article_data(scholar_result) {
     const author = get_author(scholar_result)
 
     return new ArticleData(title, author);
+}
+
+export function extract_pdf_url(scholar_result) {
+    const pdf_url = scholar_result.getElementsByClassName("gs_or_ggsm")[0].firstChild.getAttribute("href");
+    return new PdfUrl(pdf_url);
 }
 
 // https://medium.com/meta-box/how-to-send-get-and-post-requests-with-javascript-fetch-api-d0685b7ee6ed

@@ -1,6 +1,6 @@
-const {create_graph_on_scholar_result, purge_graph} = require("./graphs");
-const {extract_article_data} = require("./utils");
-const {get_graph_layout} = require("./backend_communication");
+const {create_graph_on_scholar_result, create_scatter_on_scholar_result, purge_graph} = require("./graphs");
+const {extract_article_data, extract_pdf_url} = require("./utils");
+const {get_graph_layout, get_scatter_layout} = require("./backend_communication");
 const {menu} = require("./menu");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
@@ -15,7 +15,6 @@ function draw_graph_of_connections(drawing_board, i, x) {
         drawing_board.style.display = "block";
         var article_data = extract_article_data(pdf_results[i].parentNode);
         var graph_schema = get_graph_layout(article_data);
-//        console.log(graph_schema);
         // TODO add waiting animation
         graph_schema.then(function (returned_json) {
             create_graph_on_scholar_result(drawing_board.id, returned_json);
@@ -26,24 +25,25 @@ function draw_graph_of_connections(drawing_board, i, x) {
     }
 }
 
-function draw_scatter_plot(drawing_board, i, x) {
+function draw_scatter_plot(scatter, i, x) {
     console.log("In draw_scatter_plot");
     x.classList.toggle("active");
-    if (drawing_board.style.display === "block") {
-        drawing_board.style.display = "none";
-        purge_graph(drawing_board.id);
+    if (scatter.style.display === "block") {
+        scatter.style.display = "none";
+        purge_graph(scatter.id);
     } else {
-        drawing_board.style.display = "block";
-        var article_data = extract_article_data(pdf_results[i].parentNode);
-        var graph_schema = get_graph_layout(article_data);
-        console.log(graph_schema);
+        scatter.style.display = "block";
+        var article_data = extract_pdf_url(pdf_results[i]);
+        console.log("article_data: ",article_data);
+        var graph_schema = get_scatter_layout(article_data)
+        console.log("graph_schema: ",graph_schema);
         // TODO add waiting animation
-//        graph_schema.then(function (returned_json) {
-//            create_graph_on_scholar_result(drawing_board.id, returned_json);
-//        }).catch(function (error) {
-//            // TODO add action in case of failure.
-//            console.error(error);
-//        });
+        graph_schema.then(function (returned_json) {
+            create_scatter_on_scholar_result(scatter, returned_json);
+        }).catch(function (error) {
+            // TODO add action in case of failure.
+            console.error(error);
+        });
     }
 }
 
@@ -63,7 +63,7 @@ function handle_menu(menu, graph, scatter, i, x) {
     } else if (graph.style.display === "block") {
         draw_graph_of_connections(graph, i, x);
     } else {
-        draw_scatter_plot(scatter_plot, i, x);
+        draw_scatter_plot(scatter, i, x);
     }
 
 }

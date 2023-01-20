@@ -23,6 +23,6 @@ def parsepdf(request: HttpRequest):
         fp.write(response.content)
 
         output_dict = parse_pdf(host, Path(fp.name), port=port)
-        to_export = pipeline(output_dict)
+        to_export = pipeline(output_dict, url)
 
     return JsonResponse(to_export)
