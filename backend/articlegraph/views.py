@@ -1,5 +1,11 @@
+import os
+import tempfile
 import unicodedata
+from pathlib import Path
 from typing import List
+
+import requests
+from science_parse_api.api import parse_pdf
 from unidecode import unidecode
 
 import networkx as nx
@@ -10,7 +16,7 @@ from scholarly import scholarly, Publication, ProxyGenerator
 from .models import ScholarlyPublication, CitationReferences
 
 pg = ProxyGenerator()
-success = pg.ScraperAPI("6312b33d8af2fa7e8e30579203d3ab63")
+success = pg.ScraperAPI(os.getenv('SCRAPERAPI_KEY'))
 print("Proxy setup success:{}".format(success))
 scholarly.use_proxy(pg)
 
@@ -44,6 +50,19 @@ def add_publication_to_database(publication: Publication, cites: ScholarlyPublic
     return PublicationWithID(idx=record.pk, publication=publication)
 
 
+def parse_pdf(pdf_url):
+    host = 'http://{}'.format(os.getenv('PDFPARSER_HOST'))
+    port = os.getenv('PDFPARSER_PORT')
+
+    with tempfile.NamedTemporaryFile() as fp:
+        response = requests.get(pdf_url)
+        fp.write(response.content)
+
+        output_dict = parse_pdf(host, Path(fp.name), port=port)
+
+    return output_dict
+
+
 class ArticleGraph(nx.Graph):
     def __init__(self, core_article: PublicationWithID, max_articles_per_column: int = 5, **attr):
         super().__init__(**attr)
@@ -51,6 +70,7 @@ class ArticleGraph(nx.Graph):
         self.max_articles_per_column = max_articles_per_column
         self.add_article_node(0, self.core_article.publication)
         self.create_right_side_of_graph()
+        self.create_left_side_of_graph()
 
     def get_citedby(self, article: PublicationWithID) -> List[PublicationWithID]:
         already_used = set()
@@ -87,6 +107,13 @@ class ArticleGraph(nx.Graph):
         start_idx = self.number_of_nodes()
         for i, article in enumerate(core_article_cited_in):
             self.add_article_node(start_idx + i, article.publication, 0, subset=1)
+
+    def create_left_side_of_graph(self):
+        parsed_pdf = parse_pdf(self.core_article.publication['pub_url'])
+        print(parsed_pdf)
+
+        for reference in parsed_pdf['references']:
+            pass
 
     def add_article_node(self, idx, article: Publication, article_from=None, subset=0):
         self.add_node(idx,
