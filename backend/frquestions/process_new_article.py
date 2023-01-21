@@ -1,12 +1,11 @@
 import pickle
-# from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer
 from os import listdir
 from os.path import join
 import pandas as pd
 import re
 
 from frquestions.category_analysis.model import predict_category
-from frquestions.models import ProcessedPDF
 
 
 def split_into_sentences(text):
@@ -110,15 +109,11 @@ def get_csv(category):
             return pd.read_csv(join(mypath_input, f))
 
 
-def pipeline(from_pdf, from_db, url):
-    if not from_pdf and not from_db:
+def pipeline(partially_parsed_PDF, url):
+    if not partially_parsed_PDF and 'sections' not in partially_parsed_PDF:
         return {}
-    if from_pdf:
-        article_text, further_research_section = handle_PDF_response(from_pdf)
-        category = predict_category(article_text)
-    else:
-        category = from_db['title']
-        further_research_section = None
+    article_text, further_research_section = handle_PDF_response(partially_parsed_PDF)
+    category = predict_category(article_text)
 
     # Loading PCA model and data from category
     model = get_model(category)
@@ -126,7 +121,6 @@ def pipeline(from_pdf, from_db, url):
     x, y, z = df['x'].tolist(), df['y'].tolist(), df['z'].tolist()
     cluster = df['cluster'].tolist()
 
-    # TODO: Add url to PDFs in *.csv files
     if 'url' in df.columns:
         urls = df['url'].tolist()
     else:
@@ -140,11 +134,11 @@ def pipeline(from_pdf, from_db, url):
         hover += record['further research suffix'] + ' ' if type(record['further research suffix']) == str else ""
         hovers.append(hover)
 
-    if from_pdf and further_research_section:
-        # SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
-        # embedding = SentenceTransformerModel.encode([further_research_section])
-        # _x, _y, _z = model.transform(embedding)[0]
-        _x, _y, _z = (0.3,0.3,0.3)
+    if further_research_section:
+        SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
+        embedding = SentenceTransformerModel.encode([further_research_section])
+        _x, _y, _z = model.transform(embedding)[0]
+
         x.append(_x)
         y.append(_y)
         z.append(_z)
@@ -154,8 +148,7 @@ def pipeline(from_pdf, from_db, url):
 
     hovers = parse_hovers(hovers)
 
-    empty_cluster = lambda color: {"x": [], "y": [], "z": [], "text": [], "url": urls, "title": category,
-                                   "color": color}
+    empty_cluster = lambda color: {"x":[],"y":[],"z":[],"text":[],"url":urls,"title":category,"color":color}
     traces = {"A": empty_cluster('rgb(255, 150, 150)'),
               "B": empty_cluster('rgb(150, 255, 150)'),
               "C": empty_cluster('rgb(150, 150, 255)'),
@@ -165,31 +158,11 @@ def pipeline(from_pdf, from_db, url):
     if further_research_section:
         traces["CURRENT"] = empty_cluster('black')
 
-    for _x, _y, _z, _cluster, _hover, _url in zip(x, y, z, cluster, hovers, urls):
+    for _x,_y,_z, _cluster, _hover, _url in zip(x,y,z,cluster,hovers,urls):
         traces[_cluster]['x'].append(str(_x))
         traces[_cluster]['y'].append(str(_y))
         traces[_cluster]['z'].append(str(_z))
         traces[_cluster]['text'].append(_hover)
         traces[_cluster]['url'].append(_url)
 
-        if from_pdf and _cluster == "CURRENT":
-            ProcessedPDF.objects.create(url=_url,
-                                        x=_x,
-                                        y=_y,
-                                        z=_z,
-                                        category=category,
-                                        hover=_hover)
-
-    if from_db:
-        traces["CURRENT"] = from_db
-
     return traces
-
-
-if __name__ == '__main__':
-    import json
-
-    partially_parsed_PDF = json.load(open('partially_parsed_pdf.json', 'r'))
-    url = "http://www.csjournals.com/IJITKM/PDF%203-1/55.pdf"
-    parsed_PDF = pipeline(partially_parsed_PDF, url)
-    json.dump(parsed_PDF, open('parsed_pdf.json', 'w'))
