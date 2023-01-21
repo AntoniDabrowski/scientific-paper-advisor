@@ -7,11 +7,10 @@ class ArticleData {
 
 function get_title(scholar_result) {
     const title_box = scholar_result.getElementsByClassName("gs_rt")
-    var title = title_box[0].innerText
+    let title = title_box[0].innerText;
     if (title.startsWith('[')) {
         title = title.split('] ')
         title.shift()
-        console.log(title)
         title = title.join('')
     }
     return title;
@@ -19,7 +18,11 @@ function get_title(scholar_result) {
 
 function get_author(scholar_result) {
     const author_box = scholar_result.getElementsByClassName("gs_a")
-    const authors_line = author_box[0].innerText.split('-')[0]
+    let authors_line = author_box[0].innerText.split('-')[0]
+    authors_line = authors_line.replace('…','')
+    // Handling accents
+    authors_line = authors_line.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    console.log(authors_line)
     return authors_line.split(',');
 }
 
@@ -46,3 +49,12 @@ const request = (url, params = {}, method = 'GET') => {
 };
 export const get = (url, params) => request(url, params, 'GET');
 export const post = (url, params) => request(url, params, 'POST');
+
+
+export function show_loader(divid) {
+    document.getElementById(divid).classList.add('loader')
+}
+
+export function hide_loader(divid, prev_class) {
+    document.getElementById(divid).classList.remove('loader')
+}
