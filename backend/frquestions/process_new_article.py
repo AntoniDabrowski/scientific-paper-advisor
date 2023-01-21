@@ -1,11 +1,13 @@
 import pickle
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
+# SentenceTransformer('all-MiniLM-L6-v2')
 from os import listdir
 from os.path import join
 import pandas as pd
 import re
 
 from frquestions.category_analysis.model import predict_category
+from frquestions.models import ProcessedPDF
 
 
 def split_into_sentences(text):
@@ -109,14 +111,7 @@ def get_csv(category):
             return pd.read_csv(join(mypath_input, f))
 
 
-def pipeline(partially_parsed_PDF, url):
-    if not partially_parsed_PDF and 'sections' not in partially_parsed_PDF:
-        return {}
-    article_text, further_research_section = handle_PDF_response(partially_parsed_PDF)
-    category = predict_category(article_text)
-
-    # Loading PCA model and data from category
-    model = get_model(category)
+def prepare_data_from_csv(category):
     df = get_csv(category)
     x, y, z = df['x'].tolist(), df['y'].tolist(), df['z'].tolist()
     cluster = df['cluster'].tolist()
@@ -128,41 +123,89 @@ def pipeline(partially_parsed_PDF, url):
 
     hovers = []
 
-    for _, record in df.iterrows():
-        hover = record['further research prefix'] + ' ' if type(record['further research prefix']) == str else ""
-        hover += record['further research line'] + ' ' if type(record['further research line']) == str else ""
-        hover += record['further research suffix'] + ' ' if type(record['further research suffix']) == str else ""
+    for _, line in df.iterrows():
+        hover = line['further research prefix'] + ' ' if type(line['further research prefix']) == str else ""
+        hover += line['further research line'] + ' ' if type(line['further research line']) == str else ""
+        hover += line['further research suffix'] + ' ' if type(line['further research suffix']) == str else ""
         hovers.append(hover)
-
-    if further_research_section:
-        SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
-        embedding = SentenceTransformerModel.encode([further_research_section])
-        _x, _y, _z = model.transform(embedding)[0]
-
-        x.append(_x)
-        y.append(_y)
-        z.append(_z)
-        cluster.append("CURRENT")
-        hovers.append(further_research_section)
-        urls.append(url)
 
     hovers = parse_hovers(hovers)
 
-    empty_cluster = lambda color: {"x":[],"y":[],"z":[],"text":[],"url":urls,"title":category,"color":color}
+    empty_cluster = lambda color: {"x": [], "y": [], "z": [], "text": [], "url": [], "title": category,
+                                   "color": color}
+
     traces = {"A": empty_cluster('rgb(255, 150, 150)'),
               "B": empty_cluster('rgb(150, 255, 150)'),
               "C": empty_cluster('rgb(150, 150, 255)'),
               "A_centroid": empty_cluster('red'),
               "B_centroid": empty_cluster('green'),
               "C_centroid": empty_cluster('blue')}
-    if further_research_section:
-        traces["CURRENT"] = empty_cluster('black')
 
-    for _x,_y,_z, _cluster, _hover, _url in zip(x,y,z,cluster,hovers,urls):
+    for _x, _y, _z, _cluster, _hover, _url in zip(x, y, z, cluster, hovers, urls):
         traces[_cluster]['x'].append(str(_x))
         traces[_cluster]['y'].append(str(_y))
         traces[_cluster]['z'].append(str(_z))
         traces[_cluster]['text'].append(_hover)
         traces[_cluster]['url'].append(_url)
+
+    return traces
+
+
+def handle_from_pdf(record, url):
+    if not record:
+        return {}
+
+    article_text, further_research_section = handle_PDF_response(record)
+    category = predict_category(article_text)
+
+    traces = prepare_data_from_csv(category)
+
+    if further_research_section:
+        # model = get_model(category)
+        # SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
+        # embedding = SentenceTransformerModel.encode([further_research_section])
+        # _x, _y, _z = model.transform(embedding)[0]
+        _x, _y, _z = (0.3, 0.3, 0.3)
+
+        hover = parse_hovers([further_research_section])
+
+        traces['CURRENT'] = {'x': [str(_x)],
+                             'y': [str(_y)],
+                             'z': [str(_z)],
+                             'text': hover,
+                             'url': [url],
+                             'title': 'CURRENT',
+                             'color': 'black'}
+
+        ProcessedPDF.objects.create(url=url,
+                                    x=_x,
+                                    y=_y,
+                                    z=_z,
+                                    category=category,
+                                    hover=hover)
+    else:
+        ProcessedPDF.objects.create(url=url,
+                                    x=None,
+                                    y=None,
+                                    z=None,
+                                    category=category,
+                                    hover="")
+    return traces
+
+
+def handle_from_db(url):
+    record = ProcessedPDF.objects.get(url=url)
+    category = record.category
+
+    traces = prepare_data_from_csv(category)
+
+    if record.x is not None and record.y is not None and record.z is not None:
+        traces['CURRENT'] = {'x': [str(record.x)],
+                             'y': [str(record.y)],
+                             'z': [str(record.z)],
+                             'text': [record.hover],
+                             'url': [url],
+                             'title': 'CURRENT',
+                             'color': 'black'}
 
     return traces
