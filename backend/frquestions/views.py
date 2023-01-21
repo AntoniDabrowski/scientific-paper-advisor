@@ -18,7 +18,7 @@ def index(request: HttpRequest):
 
 
 def parsepdf(request: HttpRequest):
-    host = 'http://pdfparser'
+    host = 'http://{}'.format(os.getenv('PDFPARSER_HOST'))
     port = os.getenv('PDFPARSER_PORT')
 
     with tempfile.NamedTemporaryFile() as fp:

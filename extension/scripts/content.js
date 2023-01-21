@@ -1,5 +1,5 @@
 const {create_graph_on_scholar_result, purge_graph} = require("./graphs");
-const {extract_article_data} = require("./utils");
+const {extract_article_data, show_loader, hide_loader} = require("./utils");
 const {get_graph_layout} = require("./backend_communication");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
@@ -27,10 +27,13 @@ if (pdf_results) {
                 let article_data = extract_article_data(pdf_results[i].parentNode)
                 let graph_schema = get_graph_layout(article_data)
                 // TODO add waiting animation
+                show_loader(divid)
                 graph_schema.then(returned_json => {
+                    hide_loader(divid)
                     create_graph_on_scholar_result(divid, returned_json);
                 }).catch(error => {
                     // TODO add action in case of failure.
+                    hide_loader(divid)
                     console.error(error)
                 })
             }
