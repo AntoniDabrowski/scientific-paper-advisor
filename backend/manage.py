@@ -2,10 +2,6 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-from sentence_transformers import SentenceTransformer
-
-# Downloads model, it take too long if it's run during handling request
-SentenceTransformer('all-MiniLM-L6-v2')
 
 def main():
     """Run administrative tasks."""
