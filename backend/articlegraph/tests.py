@@ -6,7 +6,7 @@ class ArticlegraphRequestTests(TestCase):
         # Every test needs a client.
         self.client = Client()
 
-    def test_details(self):
+    def test_basic_request(self):
         # Issue a GET request.
         response = self.client.get('/articlegraph/', {'title': 'Genetic algorithm: Review and application',
                                                       'authors': ','.join(
@@ -19,6 +19,17 @@ class ArticlegraphRequestTests(TestCase):
         response = self.client.get('/articlegraph/', {'title': 'Genetic algorithm: Review and application',
                                                       'authors': ','.join(
                                                           ['M Kumar', 'D Husain', 'N Upreti', 'D Gupta'])})
+
+        # Check that the response is 200 OK.
+        self.assertEqual(response.status_code, 200)
+
+    def test_special_characters_in_author_name(self):
+        # Issue a GET request.
+        response = self.client.get('/articlegraph/', {'title': 'Reducing the time complexity of the derandomized '
+                                                               'evolution strategy with covariance '
+                                                               'matrix adaptation (CMA-ES)',
+                                                      'authors': ','.join(
+                                                          ['N Hansen', 'SD Muller'])})
 
         # Check that the response is 200 OK.
         self.assertEqual(response.status_code, 200)

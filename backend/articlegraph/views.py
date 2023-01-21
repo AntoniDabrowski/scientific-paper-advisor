@@ -1,5 +1,6 @@
 import unicodedata
 from typing import List
+from unidecode import unidecode
 
 import networkx as nx
 from django.db.models import QuerySet
@@ -22,7 +23,7 @@ class PublicationWithID:
 
 def add_publication_to_database(publication: Publication, cites: ScholarlyPublication = None):
     authors = sorted(publication['bib'].get('author'))
-    authors_mash = "".join(authors)
+    authors_mash = "".join([unidecode(a) for a in authors])
 
     try:
         record = ScholarlyPublication.objects.get(title=publication['bib'].get('title'),
@@ -67,7 +68,7 @@ class ArticleGraph(nx.Graph):
         if len(results) < self.max_articles_per_column:
             core_article_cites = scholarly.citedby(scholarly.fill(article.publication))
             counter = 0
-            while counter < core_article_cites.total_results and len(results) < self.max_articles_per_column:
+            while counter < article.publication['num_citations'] and len(results) < self.max_articles_per_column:
                 next_publication = next(core_article_cites)
                 if next_publication['bib'].get('title') not in already_used:
                     article_with_id = add_publication_to_database(publication=next_publication,
@@ -99,7 +100,7 @@ class ArticleGraph(nx.Graph):
 
 
 def articles_match(publication_dict, authors, title):
-    publication_authors = publication_dict['author']
+    publication_authors = [unidecode(a) for a in publication_dict['author']]
     publication_authors.sort()
 
     return title == publication_dict['title'] and authors == publication_authors
@@ -115,7 +116,7 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
     """
     # Check the database for stored data
     authors = sorted(authors)
-    authors_mash = "".join(authors)
+    authors_mash = "".join([unidecode(a) for a in authors])
     if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
         # Publication found. Get from the database
         print("Record for publication {} retrieved from the database.".format(title))
@@ -130,7 +131,6 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
         query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
         publication_generator = scholarly.search_pubs(query=query)
 
-        authors.sort()  # We sort here not to repeat on each articles_match
         for publication in publication_generator:
             # Use api to find an article with matching title and authors list.
             if articles_match(publication.get('bib'), authors, title):
