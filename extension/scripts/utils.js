@@ -49,3 +49,12 @@ const request = (url, params = {}, method = 'GET') => {
 };
 export const get = (url, params) => request(url, params, 'GET');
 export const post = (url, params) => request(url, params, 'POST');
+
+
+export function show_loader(divid) {
+    document.getElementById(divid).classList.add('loader')
+}
+
+export function hide_loader(divid, prev_class) {
+    document.getElementById(divid).classList.remove('loader')
+}
