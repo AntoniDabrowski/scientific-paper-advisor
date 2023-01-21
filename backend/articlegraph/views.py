@@ -102,6 +102,34 @@ class ArticleGraph(nx.Graph):
 
         return results
 
+    def get_citedby(self, article: PublicationWithID) -> List[PublicationWithID]:
+        already_used = set()
+
+        db_record_of_publication = ScholarlyPublication.objects.get(pk=article.idx)
+
+        query_set_publications = CitationReferences.objects.filter(cites_id=article.idx).values()
+        results = []
+        for result in query_set_publications:
+            citing_pub = ScholarlyPublication.objects.get(pk=result['article_id_id'])
+            results.append(PublicationWithID(citing_pub.id, citing_pub.publication))
+
+        already_used.update([r.publication['bib'].get('title') for r in results])
+
+        if len(results) < self.max_articles_per_column:
+            core_article_cites = scholarly.citedby(scholarly.fill(article.publication))
+            counter = 0
+            while counter < article.publication['num_citations'] and len(results) < self.max_articles_per_column:
+                next_publication = next(core_article_cites)
+                if next_publication['bib'].get('title') not in already_used:
+                    article_with_id = add_publication_to_database(publication=next_publication,
+                                                                  cites=db_record_of_publication)
+                    results.append(article_with_id)
+
+                    counter += 1
+                    already_used.add(next_publication['bib'].get('title'))
+
+        return results
+
     def create_right_side_of_graph(self):
         core_article_cited_in = self.get_citedby(self.core_article)
         core_article_cited_in = sorted(core_article_cited_in,
