@@ -1,15 +1,13 @@
-import pandas as pd
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from load_data import data_loader, split_data
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 from tqdm.auto import tqdm
-import matplotlib.pyplot as plt
 from collections import defaultdict as dd
-import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
+from load_data import data_loader, split_data
+import pickle
 
 SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -102,6 +100,11 @@ def test_over_categories(train, validate, k):
     plt.legend(handles=[mean_patch])
     plt.show()
 
+def train_and_save(df):
+    embeddings = get_embeddings(df)
+    model = KNN_train(embeddings, df["primary category"], k=1)
+    pickle.dump(model,open("../../backend/frquestions/category_analysis/model.pickle","wb"))
+
 
 if __name__ == "__main__":
     df = data_loader('../../utils/FRDownloader/results/mass_parsing.csv')
@@ -109,3 +112,5 @@ if __name__ == "__main__":
 
     test_over_k(train, validate)
     test_over_categories(train, validate, k=1)
+
+    # train_and_save(df)

@@ -1,16 +1,14 @@
 import os
 import tempfile
 from pathlib import Path
-# from sentence_transformers import SentenceTransformer
-
-# SentenceTransformer('all-MiniLM-L6-v2')
-
 import requests
 from django.http import HttpResponse, HttpRequest, JsonResponse
 from science_parse_api.api import parse_pdf
 from frquestions.process_new_article import handle_from_db, handle_from_pdf
 from frquestions.models import ProcessedPDF
+from sentence_transformers import SentenceTransformer
 
+SentenceTransformer_loaded = SentenceTransformer('all-MiniLM-L6-v2')
 
 def index(request: HttpRequest):
     print(request.method)
@@ -30,6 +28,6 @@ def parsepdf(request: HttpRequest):
             response = requests.get(url)
             fp.write(response.content)
             record = parse_pdf(host, Path(fp.name), port=port)
-            to_export = handle_from_pdf(record, url)
+            to_export = handle_from_pdf(record, url, SentenceTransformer_loaded)
 
     return JsonResponse(to_export)
