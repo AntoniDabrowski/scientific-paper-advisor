@@ -1,0 +1,1463 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+68,"It is possible that further research on the forward model
+could reduce the demand for computing resources and make these parameters identiﬁable.","Because the signals deduced from
+these estimates are very close to the initial observations, they have almost the same likeli-
+hood from a statistical point of view.","With such a forward model, the efﬁciency and accuracy of the proposed approach could be
+further improved.",2022-01-04 03:24:34+00:00,A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography,stat.AP,['stat.AP'],"[arxiv.Result.Author('Jiaji Su'), arxiv.Result.Author('Zhigang Yao'), arxiv.Result.Author('Cheng Li'), arxiv.Result.Author('Ye Zhang')]","Determining the adsorption isotherms is an issue of significant importance in
+preparative chromatography. A modern technique for estimating adsorption
+isotherms is to solve an inverse problem so that the simulated batch separation
+coincides with actual experimental results. However, due to the ill-posedness,
+the high non-linearity, and the uncertainty quantification of the corresponding
+physical model, the existing deterministic inversion methods are usually
+inefficient in real-world applications. To overcome these difficulties and
+study the uncertainties of the adsorption-isotherm parameters, in this work,
+based on the Bayesian sampling framework, we propose a statistical approach for
+estimating the adsorption isotherms in various chromatography systems. Two
+modified Markov chain Monte Carlo algorithms are developed for a numerical
+realization of our statistical approach. Numerical experiments with both
+synthetic and real data are conducted and described to show the efficiency of
+the proposed new method.",0.4703561,0.0384593,0.19102657,B_centroid
+69,"It is possible that further research on the forward model
+could reduce the demand for computing resources and make these parameters identiﬁable.","Because the signals deduced from
+these estimates are very close to the initial observations, they have almost the same likeli-
+hood from a statistical point of view.","With such a forward model, the efﬁciency and accuracy of the proposed approach could be
+further improved.",2022-01-04 03:24:34+00:00,A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography,stat.AP,['stat.AP'],"[arxiv.Result.Author('Jiaji Su'), arxiv.Result.Author('Zhigang Yao'), arxiv.Result.Author('Cheng Li'), arxiv.Result.Author('Ye Zhang')]","Determining the adsorption isotherms is an issue of significant importance in
+preparative chromatography. A modern technique for estimating adsorption
+isotherms is to solve an inverse problem so that the simulated batch separation
+coincides with actual experimental results. However, due to the ill-posedness,
+the high non-linearity, and the uncertainty quantification of the corresponding
+physical model, the existing deterministic inversion methods are usually
+inefficient in real-world applications. To overcome these difficulties and
+study the uncertainties of the adsorption-isotherm parameters, in this work,
+based on the Bayesian sampling framework, we propose a statistical approach for
+estimating the adsorption isotherms in various chromatography systems. Two
+modified Markov chain Monte Carlo algorithms are developed for a numerical
+realization of our statistical approach. Numerical experiments with both
+synthetic and real data are conducted and described to show the efficiency of
+the proposed new method.",0.4703561,0.0384593,0.19102657,B
+343,"Thus, the spatial interaction
+of knots and their relationship with strength properties requires further study and model
+development.","Accordingly, the overall spatial arrangement of knots has not been fully
+considered in previous models, to the best of our knowledge.","2
+    While knots appear on the surfaces of sawn lumber as elliptical shapes, these knot faces
+are only cross-sections of their underlying three-dimensional (3-D) structure.",2022-01-10 17:10:11+00:00,Knots and their effect on the tensile strength of lumber,stat.AP,['stat.AP'],"[arxiv.Result.Author('Shuxian Fan'), arxiv.Result.Author('Samuel WK Wong'), arxiv.Result.Author('James V Zidek')]","When assessing the strength of sawn lumber for use in engineering
+applications, the sizes and locations of knots are an important consideration.
+Knots are the most common visual characteristics of lumber, that result from
+the growth of tree branches. Large individual knots, as well as clusters of
+distinct knots, are known to have strength-reducing effects. However, industry
+grading rules that govern the allowable arrangements of knots are informed by
+subjective judgment to some extent. Thus, the spatial interaction of knots and
+their relationship with strength properties has not been fully understood. This
+paper reports the results of a study that investigated and modelled the
+strength-reducing effects of knots on a sample of Douglas Fir lumber.
+Experimental data were obtained by taking scans of lumber surfaces and applying
+tensile strength testing. The modelling approach presented extends current
+methodology by incorporating all relevant knot information in a Bayesian
+framework.",0.00465752,-0.057600223,-0.21740836,C
+344,"Therefore, the spatial interaction of knots and their relationship
+with strength properties requires further study and model development.","Due to these grading limitations, the complete spatial arrangement
+of knots has not been used in previous strength prediction models for lumber specimens, to
+the best of our knowledge.","While knots appear on the surfaces of sawn lumber as elliptical shapes, these knot faces
+are only cross-sections of their underlying three-dimensional (3-D) structure.",2022-01-10 17:10:11+00:00,Knots and their effect on the tensile strength of lumber,stat.AP,['stat.AP'],"[arxiv.Result.Author('Shuxian Fan'), arxiv.Result.Author('Samuel WK Wong'), arxiv.Result.Author('James V Zidek')]","When assessing the strength of sawn lumber for use in engineering
+applications, the sizes and locations of knots are an important consideration.
+Knots are the most common visual characteristics of lumber, that result from
+the growth of tree branches. Large individual knots, as well as clusters of
+distinct knots, are known to have strength-reducing effects. However, industry
+grading rules that govern knots are informed by subjective judgment to some
+extent. Thus, the spatial interaction of knots and their relationship with
+lumber strength has not been fully understood. This paper reports the results
+of a study that investigated and modelled the strength-reducing effects of
+knots on a sample of Douglas Fir lumber. Experimental data were obtained by
+taking scans of lumber surfaces and applying tensile strength testing. The
+modelling approach presented incorporates all relevant knot information in a
+Bayesian framework, thereby contributing a more refined way of managing the
+quality of manufactured lumber.",0.06977729,-0.06996331,-0.20403615,C
+1691,"This is a difﬁcult
+problem, and is an important area of further research which we discuss more thoroughly in Section 5.","As a result,
+we have an identiﬁability-bias trade off as lowering the threshold frequency introduces more of the noise pro-
+cesses, which tends to result in biasing of β, but raising the threshold makes σr unidentiﬁable.","In summary, the parameter estimates converge to sensible values in the majority of sea states where a single
+wind-sea is present.",2022-02-08 10:38:24+00:00,A multivariate pseudo-likelihood approach to estimating directional ocean wave models,stat.AP,['stat.AP'],"[arxiv.Result.Author('Jake P. Grainger'), arxiv.Result.Author('Adam M. Sykulski'), arxiv.Result.Author('Kevin Ewans'), arxiv.Result.Author('Hans F. Hansen'), arxiv.Result.Author('Philip Jonathan')]","Ocean buoy data in the form of high frequency multivariate time series are
+routinely recorded at many locations in the world's oceans. Such data can be
+used to characterise the ocean wavefield, which is important for numerous
+socio-economic and scientific reasons. This characterisation is typically
+achieved by modelling the frequency-direction spectrum, which decomposes
+spatiotemporal variability by both frequency and direction. State-of-the-art
+methods for estimating the parameters of such models do not make use of the
+full spatiotemporal content of the buoy observations due to unnecessary
+assumptions and smoothing steps. We explain how the multivariate debiased
+Whittle likelihood can be used to jointly estimate all parameters of such
+frequency-direction spectra directly from the recorded time series. When
+applied to North Sea buoy data, debiased Whittle likelihood inference reveals
+smooth evolution of spectral parameters over time. We discuss challenging
+practical issues including model misspecification, and provide guidelines for
+future application of the method.",0.34025252,0.099309236,0.043903776,C
+1762,"However, as we experienced that manual model
+selection is time consuming, finding exportable models that automatically include or select important
+interactions would be a nice avenue to explore in further research.","A more adequate method could
+be non-parametric models like random forest, but exporting such models comes with disclosure risk
+and, therefore, are unfeasible in this context.","Due to the large amount of information, challenges were faced in each model as the fit could always
+be improved.",2022-02-09 13:26:41+00:00,Constructing synthetic populations in the age of big data,stat.AP,['stat.AP'],"[arxiv.Result.Author('M. A. Nicolaie'), arxiv.Result.Author('Koen Fussenich'), arxiv.Result.Author('Caroline Ameling'), arxiv.Result.Author('Hendriek C. Boshuizen')]","To develop public health intervention models using microsimulations,
+extensive personal information about inhabitants is needed, such as
+socio-demographic, economic and health figures. Data confidentiality is an
+essential characteristic of such data, while the data should support realistic
+scenarios. Collection of such data is possible only in secured environments and
+not directly available for external micro-simulation models. The aim of this
+paper is to illustrate a method for construction of synthetic data by
+predicting individual features through models based on confidential data on
+health and socio-economic determinants of the entire Dutch population.",-0.035010796,-0.17767493,-0.0018583108,B
+1813,"Although further research is needed to conﬁrm these observations, they illustrate how this statistical
+methodology opens up perspectives in a complex disease such as MSA to improve the understanding
+of pathophysiological processes.","This is probably due to the fact that
+α-synuclein is a marker of the pathophysiological process rather than a marker of progression.","The statistical model relies on the assumption of conditional independence between processes, i.e.",2022-02-10 16:19:13+00:00,Describing complex disease progression using joint latent class models for multivariate longitudinal markers and clinical endpoints,stat.AP,"['stat.AP', 'stat.ME']","[arxiv.Result.Author('Cécile Proust-Lima'), arxiv.Result.Author('Tiphaine Saulnier'), arxiv.Result.Author('Viviane Philipps'), arxiv.Result.Author('Anne Pavy-Le Traon'), arxiv.Result.Author('Patrice Péran'), arxiv.Result.Author('Olivier Rascol'), arxiv.Result.Author('Wassilios G Meissner'), arxiv.Result.Author('Alexandra Foubert-Samier')]","Neurodegenerative diseases are characterized by numerous markers of
+progression and clinical endpoints. For instance, Multiple System Atrophy
+(MSA), a rare neurodegenerative synucleinopathy, is characterized by various
+combinations of progressive autonomic failure and motor dysfunction, and a very
+poor prognosis. Describing the progression of such complex and
+multi-dimensional diseases is particularly difficult. One has to simultaneously
+account for the assessment of multivariate markers over time, the occurrence of
+clinical endpoints, and a highly suspected heterogeneity between patients. Yet,
+such description is crucial for understanding the natural history of the
+disease, staging patients diagnosed with the disease, unraveling subphenotypes,
+and predicting the prognosis. Through the example of MSA progression, we show
+how a latent class approach can help describe complex disease progression
+measured by multiple repeated markers and clinical endpoints, and identify
+subphenotypes for exploring new pathological hypotheses. The joint latent class
+model includes class-specific multivariate mixed models to handle multivariate
+repeated biomarkers possibly summarized into latent dimensions and
+class-and-cause-specific proportional hazard models to handle time-to-event
+data. Maximum likelihood estimation is made available in the lcmm R package. In
+the French MSA cohort comprising data of 598 patients during up to 13 years,
+five subphenotypes of MSA were identified that differ by the sequence and shape
+of biomarkers degradation, and the associated risk of death. In posterior
+analyses, the five subphenotypes were used to explore the association between
+clinical progression and external imaging and fluid biomarkers, while properly
+accounting for the uncertainty in the subphenotypes membership.",-0.023239532,-0.04897592,-0.1569427,B
+2199,"Our further research is to develop new models to characterize time-varying link
+travel time correlation.","Although simple, this approach
+ignores the temporal dynamic of the covariance structure—the covariance structure may vary smoothly and
+continuously over time.","Acknowledgements
+
+    This research is supported in part by the Natural Sciences and Engineering Research Council (NSERC)
+of Canada.",2022-02-19 01:00:25+00:00,Bayesian inference for link travel time correlation of a bus route,stat.AP,['stat.AP'],"[arxiv.Result.Author('Xiaoxu Chen'), arxiv.Result.Author('Zhanhong Cheng'), arxiv.Result.Author('Lijun Sun')]","Estimation of link travel time correlation of a bus route is essential to
+many bus operation applications, such as timetable scheduling, travel time
+forecasting and transit service assessment/improvement. Most previous studies
+rely on either independent assumptions or simplified local spatial correlation
+structures. In the real world, however, link travel time on a bus route could
+exhibit complex correlation structures, such as long-range correlations,
+negative correlations, and time-varying correlations. Therefore, before
+introducing strong assumptions, it is essential to empirically quantify and
+examine the correlation structure of link travel time from real-world bus
+operation data. To this end, this paper develops a Bayesian Gaussian model to
+estimate the link travel time correlation matrix of a bus route using
+smart-card-like data. Our method overcomes the small-sample-size problem in
+correlation matrix estimation by borrowing/integrating those incomplete
+observations (i.e., with missing/ragged values and overlapped link segments)
+from other bus routes. Next, we propose an efficient Gibbs sampling framework
+to marginalize over the missing and ragged values and obtain the posterior
+distribution of the correlation matrix. Three numerical experiments are
+conducted to evaluate model performance. We first conduct a synthetic
+experiment and our results show that the proposed method produces an accurate
+estimation for travel time correlations with credible intervals. Next, we
+perform experiments on a real-world bus route with smart card data; our results
+show that both local and long-range correlations exist on this bus route.
+Finally, we demonstrate an application of using the estimated covariance matrix
+to make probabilistic forecasting of link and trip travel time.",0.18987754,0.0017603394,-0.10511174,B
+2244,"We thus anticipate
+an uptake of this type of modern statistical modelling tools for further research, in particular
+into the dynamics of live betting markets, but also in other sports settings.","Koopmeiners, 2012;
+Green and Zwiebel, 2018; O¨ tting et al., 2020; Mews and O¨ tting, 2022).","Acknowledgements
+
+Marius O¨ tting received support from the Deutsche Forschungsgemeinschaft (Grant 431536450),
+which is gratefully acknowledged.",2022-02-21 09:48:31+00:00,Bettors' reaction to match dynamics -- Evidence from in-game betting,stat.AP,['stat.AP'],"[arxiv.Result.Author('Rouven Michels'), arxiv.Result.Author('Marius Ötting'), arxiv.Result.Author('Roland Langrock')]","It is still largely unclear to what extent bettors update their prior
+assumptions about the strength or form of competing teams considering the
+dynamics during the match. This is of interest not only from the psychological
+perspective, but also as the pricing of live odds ideally should be driven both
+by the (objective) outcome probabilities and also the bettors' behaviour.
+Analysing large and high-resolution data from live betting in German football,
+we find that stakes in the live-betting market are driven both by perceived
+pre-game strength and by in-game strength as implied by measurable events such
+as shots and passes. Both effects vary over the course of the match.",0.1522823,-0.04446791,-0.1116354,B
+2691,"In any case, further study is required, perhaps with
+additional runs with more gradual CO2 changes.","However, the abruptness is likely not as severe as it seems as the CO2 forcing triggers a
+series of events, including sea ice melt and freshwater injection into the model’s subpolar
+gyre, which occur over 2-3 decades28.","36
+The Υ indicator for Early Warning
+
+The primary drawback of the Υ indicator is that it is computationally quite expensive,
+at least compared to the autocorrelation and variance, and that, due to its complexity,
+the results can be harder to interpret.",2022-03-02 13:38:26+00:00,Early-warning indicator based on autoregressive moving-average models: Critical Transitions and the Atlantic Meridional Overturning Circulation,stat.AP,"['stat.AP', 'physics.ao-ph']","[arxiv.Result.Author('Marie Rodal'), arxiv.Result.Author('Sebastian Krumscheid'), arxiv.Result.Author('Gaurav Madan'), arxiv.Result.Author('Joseph Henry LaCasce'), arxiv.Result.Author('Nikki Vercauteren')]","A statistical indicator for dynamic stability based on autoregressive
+moving-average, ARMA(p,q), models is used to gauge the stability and hence
+predict approaching tipping points of simulation data from a reduced 5-box
+model of the North-Atlantic Meridional Overturning Circulation (AMOC) exposed
+to a time dependent hosing function. The hosing function simulates the influx
+of fresh water due to the melting of the Greenland ice sheet and increased
+precipitation in the North Atlantic. We study the indicator's ability to assess
+the stability of a time series subject to different types of tipping, including
+bifurcation-induced and rate-induced tipping, and show that the indicator is
+indeed able to identify the different types of induced instability. In the
+process we extend the underlying models from an ARMA(p,q) process to an
+ARIMA(p,q) (autoregressive integrated moving-average) process, which through
+the proper application of differencing converts a formerly non-stationary
+process into a stationary one, further extending the regime of validity of the
+statistical method. In addition, we apply the indicator to simulation data from
+the Earth systems model CESM2, to assess how the indicator responds to more
+realistic time series data.",0.0609373,0.044111747,0.09914849,B
+3595,"To further study if cadence can be reliably estimated from a single sensor placed in
+different locations, we apply the Bland-Altman plot analysis.","This suggests that when a subject is climbing stairs, the cadence estimation agreement
+among different locations might be lower.","See Figures 8 and 9 for a
+comparison.",2022-03-20 14:32:47+00:00,Application of de-shape synchrosqueezing to estimate gait cadence from a single-sensor accelerometer placed in different body locations,stat.AP,['stat.AP'],"[arxiv.Result.Author('Hau-Tieng Wu'), arxiv.Result.Author('Jaroslaw Harezlak'), arxiv.Result.Author('Jacek Urbanek')]","Objective: Commercial and research-grade wearable devices have become
+increasingly popular over the past decade. Information extracted from devices
+using accelerometers is frequently summarized as ""number of steps"" or ""activity
+counts"". Raw accelerometry data that can be easily extracted from
+accelerometers used in research, for instance ActiGraph GT3X+, are frequently
+discarded. Approach: In our work, we use the raw data recorded from a single
+sensor installed in different body locations to extract gait cadence and other
+gait characteristics via an innovative use of the de-shape synchrosqueezing
+algorithm. The proposed methodology is tested on data collected in a
+semi-controlled experiment with 32 participants walking on a one-kilometer
+predefined course. Walking was executed on a flat surface as well as on the
+stairs (up and down). Results: With the leave-one-subject-out cross validation,
+the accuracy and F1 of determining if a subject is walking from the single
+sensor installed on a wrist (hip, left ankle, right ankle respectively) was
+found to be 86% and 79% (92% and 87%, 94% and 90%, and 94% and 90%,
+respectively). The cadences of walking on a flat surface, ascending stairs, and
+descending stairs, determined from the wrist (hip, left ankle, and right ankle,
+respectively) sensor, were 1.98+-0.15 Hz, 1.99+-0.26 Hz, and 2.03+-0.26 Hz
+respectively (1.98+-0.14 Hz, 1.97+-0.25 Hz, and 2.02+-0.23 Hz, respectively;
+1.98+-0.14 Hz, 1.93+-0.22 Hz and 2.06+-0.24 Hz, respectively, and 1.98+-0.14
+Hz, 1.97+-0.22 Hz, and 2.04+-0.24 Hz, respectively), which indicates that the
+cadence is fastest while descending stairs and slowest when ascending stairs.
+The larger standard deviation observed on the wrist sensor is in line with our
+expectations. Conclusion: We show that our method can detect walking bouts and
+extract the cadence with high accuracy, even when the sensor is placed on the
+wrist.",0.1582832,0.051073804,0.14251924,B
+3826,"There are
+numerous avenues for further research, some of which are outlined in this section.","This work is an an
+initial exploration of one potential route, through quantiﬁcation of uncertainties in simulations, their prop-
+agation through certiﬁcation tests, and a statistical, rather than deterministic, analysis of results.","6.3.1 Uncertainty Quantiﬁcation
+
+For this work, subject matter experts (SME) provide the uncertainties for the AVL simulations and the wind
+tunnel data.",2022-03-24 23:53:14+00:00,Probabilistic Analysis of Aircraft Using Multi-Fidelity Aerodynamics Databases,stat.AP,"['stat.AP', 'physics.flu-dyn']",[arxiv.Result.Author('Jayant Mukhopadhaya')],"The rise in computational capability has increased reliance on simulations to
+inform aircraft design. However aircraft airworthiness testing for flight
+certification remains rooted in real-world experiments performed after
+manufacturing an aircraft prototype. Leveraging multi-fidelity modeling and
+uncertainty quantification, we present a framework creating a stochastic
+representation of the aircraft, uses it to simulate flight certification
+maneuvers, and determines the likelihood of successfully meeting the
+certification requirement. We focus on uncertainties associated with
+Computational Fluid Dynamics simulations solving the Reynolds-Averaged
+Navier-Stokes equations. The simulation predictions and associated
+uncertainties are combined with data from other analysis tools to create
+stochastic aerodynamics and controls databases. The databases describe the
+aircraft's behavior across its flight envelope and provide probability
+distributions for its predictions. Databases are generated for two aircraft
+configurations, the National Aeronautics and Space Administration (NASA) Common
+Research Model and the Generic T-tail Transport aircraft. Samples from the
+databases, representing different aircraft behavior, are created. Each sample
+is run through a flight simulation representing a real-world airworthiness test
+performed by the Federal Aviation Administration (FAA). These tests are
+agglomerated to create distributions of the performance metrics, quantifying
+the probability that the aircraft succeeds in performing the certification
+maneuver. Simulating flight certification testing before building a full-size
+aircraft prototype mitigates the enormous costs of expensive redesigns late in
+the aircraft design process. The calculation of the failure rates provides
+design suggestions to ensure the aircraft can meet the certification
+requirement with a prescribed success rate.",0.21158779,-0.2585761,0.44872245,B
+3915,"A further study on the
+classiﬁcation methods is important but is skippped here for space saving because
+the classiﬁcation is not the focus of this paper, although we will explore further in
+next study.",", SG,k]
+to classify the samples and examine the kernels efﬁciency.","3 Details of Methods
+
+3.1 Approximation into a ﬁnite basis of functions
+
+Assume that each curve yg,d,k(d ∈ {1, .",2022-03-27 09:04:13+00:00,Group pattern detection of longitudinal data using functional statistics,stat.AP,"['stat.AP', 'stat.CO']","[arxiv.Result.Author('Rongjiao Ji'), arxiv.Result.Author('Alessandra Micheletti'), arxiv.Result.Author('Nataša Krklec Jerinkić'), arxiv.Result.Author('Zoranka Desnica')]","Estimations and evaluations of the main patterns of time series data in
+groups benefit large amounts of applications in various fields. Different from
+the classical auto-correlation time series analysis and the modern neural
+networks techniques, in this paper we propose a combination of functional
+analysis of variance (FANOVA) and permutation tests in a more intuitive manner
+for a limited sample size. First, FANOVA is applied in order to separate the
+common information and to dig out the additional categorical influence through
+paired group comparison, the results of which are secondly analyzed through
+permutation tests to identify the time zones where the means of the different
+groups differ significantly. Normalized kernel functions of different groups
+are able to reflect remarkable mean characteristics in grouped unities, also
+meaningful for deeper interpretation and group-wise classification. In order to
+learn whether and when the proposed method of FANOVA and permutation F-test
+works precisely and efficiently, we compare the estimated kernel results with
+the ground truth on simulated data. After the confirmation of the model's
+efficiency from simulation, we apply it also to the RAVDESS facial dataset to
+extract the emotional behaviors of humans based on facial muscles contractions
+(so-called action units (AU) technically in computer graphics), by comparing
+the neutral performances with emotional ones.",0.25550765,0.11857858,-0.17813414,B
+4027,"The rest of this paper is organized as follows: In Section 2, the modeling
+of CoDa and the suggested isometric log-ratio transformation are introduced;
+
+                                                 2
+the VSI MEWMA-CoDa control chart together with the Markov chain ap-
+proach and optimization procedure to ﬁnd the optimal parameters are given
+in Section 3; in Section 4, the performance of the VSI MEWMA-CoDa chart
+with diﬀerent scenarios are provided; conclusions and some recommenda-
+tions for further researches are given in Section 5.","The modiﬁcation of the Markov
+chain approach proposed by12 will be used to compute average time to signal
+(ATS), criteria to access the performance of VSI control charts.","2 Modeling of Compositional Data
+
+By deﬁnition, a row vector, x = (x1, x2, .",2022-03-29 11:11:33+00:00,Anomaly Detection for Compositional Data using VSI MEWMA control chart,stat.AP,['stat.AP'],"[arxiv.Result.Author('Thi Thuy Van Nguyen'), arxiv.Result.Author('Cédric Heuchenne'), arxiv.Result.Author('Kim Phuc Tran')]","In recent years, the monitoring of compositional data using control charts
+has been investigated in the Statistical Process Control field. In this study,
+we will design a Phase II Multivariate Exponentially Weighted Moving Average
+(MEWMA) control chart with variable sampling intervals to monitor compositional
+data based on isometric log-ratio transformation. The Average Time to Signal
+will be computed based on the Markov chain approach to investigate the
+performance of proposed chart. We also propose an optimal procedure to obtain
+the optimal control limit, smoothing constant, and out-of-control Average Time
+to Signal for different shift sizes and short sampling intervals. The
+performance of proposed chart in comparison with the standard MEWMA chart for
+monitoring compositional data is also provided. Finally, we end the paper with
+a conclusion and some recommendations for future research.",0.3971213,0.08811644,-0.04589764,B
+4109,"Driven by the results of this case study we ﬁnd the properties of the validation schemes
+an interesting topic of further research.","Exploring asymptotic properties of the models and validation schemes or how uncertainty,
+biases and predictive performance change with the size of the datasets and missingness
+have been outside the scope of this work.","One approach would be to study the models and
+results of this work in the framework of missingness graphs introduced by Mohan and Pearl
+[2021] and the missing at random counterpart models of Molenberghs et al.",2022-03-30 18:33:13+00:00,A Shared Parameter Model for Systolic Blood Pressure Accounting for Data Missing Not at Random in the HUNT Study,stat.AP,['stat.AP'],"[arxiv.Result.Author('Aurora Christine Hofman'), arxiv.Result.Author('Lars Espeland'), arxiv.Result.Author('Ingelin Steinsland'), arxiv.Result.Author('Emma M. L. Ingeström')]","In this work, blood pressure eleven years ahead is modeled using data from a
+longitudinal population-based health survey, the Trondelag Health (HUNT) Study,
+while accounting for missing data due to dropout between consecutive surveys
+(20-50 %). We propose and validate a shared parameter model (SPM) in the
+Bayesian framework with age, sex, body mass index, and initial blood pressure
+as explanatory variables. Further, we propose a novel evaluation scheme to
+assess data missing not at random (MNAR) by comparing the predictive
+performance of the fitted SPM with and without conditioning on the missing
+process. The results demonstrate that the SPM is suitable for inference for a
+dataset of this size (cohort of 64385 participants) and structure. The SPM
+indicates data MNAR and gives different parameter estimates than a naive model
+assuming data missing at random. The SPM and naive models are compared based on
+predictive performance in a validation dataset. The naive model performs
+slightly better than the SPM for the present participants. This is in
+accordance with results from a simulation study based on the SPM where we find
+that the naive model performs better for the present participants, while the
+SPM performs better for the dropouts.",-0.039417237,-0.14216933,0.21986486,B
+4535,"Finally, the proposed methods can further study the
+evolution and development of musical genres.","In addition, the complex inﬂuence relationship between genres can be
+identiﬁed from the network we constructed.","Some indicators that can indicate the occurrence of
+revolution may be found, which is valuable for studying the underlying historical information.",2022-04-07 17:06:05+00:00,Music Influence Modeling Based on Directed Network Model,stat.AP,['stat.AP'],"[arxiv.Result.Author('Xuan Zhang'), arxiv.Result.Author('Tingdi Ren'), arxiv.Result.Author('Lihong Wang'), arxiv.Result.Author('Haiyong Xu')]","Studying the history of music may provide a glimpse into the development of
+human creativity as we examine the evolutionary and revolutionary trends in
+music and genres. First, a musical influence metric was created to construct a
+directed network of musical influence. Second, we examined the revolutions and
+development of musical genres, modeled the similarity, and explored
+similarities and influences within and between genres. Hierarchical cluster
+analysis and time series analysis of genres were used to explore the
+correlation between genres. Finally, Network Analysis, Semantic Analysis, and
+Random Forest Model are employed to find the revolutionaries.
+  The above work was applied to Country music to sort out and analyze its
+evolution. In studying the connection between music and the social environment,
+time series analysis is used to determine the impact of social, political, or
+technological changes on music.",-0.034499418,0.0035037128,-0.22604334,A
+4714,"3.3.1 Analysis on mark-up factor β
+It is easy to understand that for the OS maintenance model, price and profit should be
+positively related to the price mark-up factor β, since the repair price in cost-plus
+approach determined by But after FS contract together with OS to the repair market are
+
+                                                    25
+introduced, whether β still has the same effect on price, cost and profit becomes
+obscure so that requires further study.","By varying expected internal failure E éëfint ùû and training frequency lf defined in
+
+previous sections, the changes regarding the mark-up factor, the training frequency and
+unit training cost as well as their effect on FS revenue, FS cost and FS profit, become
+clear in Figures 1, 2, and 3 illustrated below.","To address this, the author set learning rate = 0.",2022-04-12 06:38:21+00:00,The Effects of Dynamic Learning and the Forgetting Process on an Optimizing Modelling for Full-Service Repair Pricing Contracts for Medical Devices,stat.AP,['stat.AP'],"[arxiv.Result.Author('Aiping Jiang'), arxiv.Result.Author('Lin Li'), arxiv.Result.Author('Xuemin Xu'), arxiv.Result.Author('David Y. C. Huang')]","In order to improve the profitability and customer service management of
+original equipment manufacturers (OEMs) in a market where full-service (FS) and
+on-call service (OS) co-exist, this article extends the optimizing modelling
+for pricing FS repair contracts with the effects of dynamic learning and
+forgetting. Along with considering autonomous learning in maintenance practice,
+this study also analyses how induced learning and forgetting process in a
+workplace put impact on the pricing optimizing model of FS contracts in the
+portfolio of FS and OS. A numerical analysis based on real data from a medical
+industry proves that the enhanced FS pricing model discussed here has two main
+advantages: (1) It could prominently improve repair efficiency, and (2) It help
+OEMs gain better profits compared to the original FS model and the sole OS
+maintenance. Sensitivity analysis shows that if internal failure rate
+increases, the optimized FS price rises gradually until reaching the maximum
+value, and profitability to the OEM increases overall; if frequency of induced
+learning goes up, the optimal FS price rises after a short-term downward trend,
+with a stable profitability to the OEM.",0.09084995,0.068223625,-0.10088554,B
+4829,"Given our relatively limited sample size in the ARMA trial, we did not explore this additional extension,
+but the extent to which such an extension is feasible and practically useful can form the future scope of
+further research.","While theoretically appealing, this extended approach may be over-
+parameterized and lead to semiparametric mixture models that are only weakly identiﬁed in the sense
+that the posterior distributions of SACE and CSACE remain ﬂat around the region of highest density.","20
+References
+
+Albert, J. H. and Chib, S. (1993).",2022-04-13 22:31:40+00:00,A Bayesian Machine Learning Approach for Estimating Heterogeneous Survivor Causal Effects: Applications to a Critical Care Trial,stat.AP,"['stat.AP', '62P10']","[arxiv.Result.Author('Xinyuan Chen'), arxiv.Result.Author('Michael O. Harhay'), arxiv.Result.Author('Guangyu Tong'), arxiv.Result.Author('Fan Li')]","Motivated by the Acute Respiratory Distress Syndrome Network (ARDSNetwork)
+ARDS respiratory management (ARMA) trial, we developed a flexible Bayesian
+machine learning approach to estimate the average causal effect and
+heterogeneous causal effects among the always-survivors stratum when clinical
+outcomes are subject to truncation. We adopted Bayesian additive regression
+trees (BART) to flexibly specify separate models for the potential outcomes and
+latent strata membership. In the analysis of the ARMA trial, we found that the
+low tidal volume treatment had an overall benefit for participants sustaining
+acute lung injuries on the outcome of time to returning home, but substantial
+heterogeneity in treatment effects among the always-survivors, driven most
+strongly by sex and the alveolar-arterial oxygen gradient at baseline (a
+physiologic measure of lung function and source of hypoxemia). These findings
+illustrate how the proposed methodology could guide the prognostic enrichment
+of future trials in the field. We also demonstrated through a simulation study
+that our proposed Bayesian machine learning approach outperforms other
+parametric methods in reducing the estimation bias in both the average causal
+effect and heterogeneous causal effects for always-survivors.",0.11734198,-0.009747049,-0.17465137,B
+4980,"In further research, we will
+study a standard procedure to select features automatically for the proposed frame-
+work, aiming to achieve both interpretability and computational eﬃciency.","Based on
+the results of our work, the nine features in FIDE are eﬃcient and can be used as
+the benchmark pool of features for intermittent demand.","Data Availability Statement
+
+The RAF dataset has been used in previous literature (Teunter and Duncan 2009;
+Petropoulos and Kourentzes 2015; Kourentzes and Athanasopoulos 2021) and is avail-
+able upon request.",2022-04-18 12:24:34+00:00,"Feature-based intermittent demand forecast combinations: bias, accuracy and inventory implications",stat.AP,"['stat.AP', 'econ.EM', 'stat.CO']","[arxiv.Result.Author('Li Li'), arxiv.Result.Author('Yanfei Kang'), arxiv.Result.Author('Fotios Petropoulos'), arxiv.Result.Author('Feng Li')]","Intermittent demand forecasting is a ubiquitous and challenging problem in
+production systems and supply chain management. In recent years, there has been
+a growing focus on developing forecasting approaches for intermittent demand
+from academic and practical perspectives. However, limited attention has been
+given to forecast combination methods, which have achieved competitive
+performance in forecasting fast-moving time series. The current study aims to
+examine the empirical outcomes of some existing forecast combination methods
+and propose a generalized feature-based framework for intermittent demand
+forecasting. The proposed framework has been shown to improve the accuracy of
+point and quantile forecasts based on two real data sets. Further, some
+analysis of features, forecasting pools and computational efficiency is also
+provided. The findings indicate the intelligibility and flexibility of the
+proposed approach in intermittent demand forecasting and offer insights
+regarding inventory decisions.",0.04380267,0.05034489,0.095682874,B
+5229,"Finally, we describe our main conclusions and suggests
+avenues for further research.","Next, we show the estimation results obtained in a
+large scale network and using real world system level data.","The mathematical notation used for the remainder of the paper is included in Appendix
+A.1.",2022-04-23 00:38:32+00:00,Statistical inference of travelers' route choice preferences with system-level data,stat.AP,"['stat.AP', 'cs.LG', 'math.OC', 'physics.soc-ph']","[arxiv.Result.Author('Pablo Guarda'), arxiv.Result.Author('Sean Qian')]","Traditional network models encapsulate travel behavior among all
+origin-destination pairs based on a simplified and generic utility function.
+Typically, the utility function consists of travel time solely and its
+coefficients are equated to estimates obtained from stated preference data.
+While this modeling strategy is reasonable, the inherent sampling bias in
+individual-level data may be further amplified over network flow aggregation,
+leading to inaccurate flow estimates. This data must be collected from surveys
+or travel diaries, which may be labor intensive, costly and limited to a small
+time period. To address these limitations, this study extends classical
+bi-level formulations to estimate travelers' utility functions with multiple
+attributes using system-level data. We formulate a methodology grounded on
+non-linear least squares to statistically infer travelers' utility function in
+the network context using traffic counts, traffic speeds, traffic incidents and
+sociodemographic information, among other attributes. The analysis of the
+mathematical properties of the optimization problem and of its pseudo-convexity
+motivate the use of normalized gradient descent. We also develop a hypothesis
+test framework to examine statistical properties of the utility function
+coefficients and to perform attributes selection. Experiments on synthetic data
+show that the coefficients are consistently recovered and that hypothesis tests
+are a reliable statistic to identify which attributes are determinants of
+travelers' route choices. Besides, a series of Monte-Carlo experiments suggest
+that statistical inference is robust to noise in the Origin-Destination matrix
+and in the traffic counts, and to various levels of sensor coverage. The
+methodology is also deployed at a large scale using real-world multi-source
+data in Fresno, CA collected before and during the COVID-19 outbreak.",0.27441758,0.1325861,-0.035984285,B
+5230,"Here the integration of our methodology with the nested recursive logit
+model (Mai et al., 2015) seems a promising avenue for further research.","We would
+also like to leverage the use of GPS data to have a better prior of the path sets among O-D pairs and to improve the
+estimation of the utility function coefﬁcients.",This study chooses trafﬁc ﬂows for the response function of the non-linear least objective functions.,2022-04-23 00:38:32+00:00,Statistical inference of travelers' route choice preferences with system-level data,stat.AP,"['stat.AP', 'cs.LG', 'math.OC', 'physics.soc-ph']","[arxiv.Result.Author('Pablo Guarda'), arxiv.Result.Author('Sean Qian')]","Traditional network models encapsulate travel behavior among all
+origin-destination pairs based on a simplified and generic utility function.
+Typically, the utility function consists of travel time solely and its
+coefficients are equated to estimates obtained from stated preference data.
+While this modeling strategy is reasonable, the inherent sampling bias in
+individual-level data may be further amplified over network flow aggregation,
+leading to inaccurate flow estimates. This data must be collected from surveys
+or travel diaries, which may be labor intensive, costly and limited to a small
+time period. To address these limitations, this study extends classical
+bi-level formulations to estimate travelers' utility functions with multiple
+attributes using system-level data. We formulate a methodology grounded on
+non-linear least squares to statistically infer travelers' utility function in
+the network context using traffic counts, traffic speeds, traffic incidents and
+sociodemographic information, among other attributes. The analysis of the
+mathematical properties of the optimization problem and of its pseudo-convexity
+motivate the use of normalized gradient descent. We also develop a hypothesis
+test framework to examine statistical properties of the utility function
+coefficients and to perform attributes selection. Experiments on synthetic data
+show that the coefficients are consistently recovered and that hypothesis tests
+are a reliable statistic to identify which attributes are determinants of
+travelers' route choices. Besides, a series of Monte-Carlo experiments suggest
+that statistical inference is robust to noise in the Origin-Destination matrix
+and in the traffic counts, and to various levels of sensor coverage. The
+methodology is also deployed at a large scale using real-world multi-source
+data in Fresno, CA collected before and during the COVID-19 outbreak.",0.18532607,0.14189112,-0.094220474,B
+6136,"At this stage we do not know exactly why this might be the case, or which variable may be
+responsible, and further research into the topic should be done to understand the phenomenon.","Should this be the case, a finding
+such as this one could likely be explained by a systematic reason wherein Indigenous people are
+less likely to have their car searched due to a control variable included in our multivariate analysis.","While this study has many advantages, it is also important to mention its limitations.",2022-05-12 21:20:27+00:00,Characterizing patterns in police stops by race in Minneapolis from 2016-2021,stat.AP,['stat.AP'],"[arxiv.Result.Author('Tuviere Onookome-Okome'), arxiv.Result.Author('Jonah Gorondensky'), arxiv.Result.Author('Eric Rose'), arxiv.Result.Author('Jeffery Sauer'), arxiv.Result.Author('Kristian Lum'), arxiv.Result.Author('Erica EM Moodie')]","The murder of George Floyd centered Minneapolis, Minnesota, in conversations
+on racial injustice in the US. We leverage open data from the Minneapolis
+Police Department to analyze individual, geographic, and temporal patterns in
+more than 170,000 police stops since 2016. We evaluate person and vehicle
+searches at the individual level by race using generalized estimating equations
+with neighborhood clustering, directly addressing neighborhood differences in
+police activity. Minneapolis exhibits clear patterns of disproportionate
+policing by race, wherein Black people are searched at higher rates compared to
+White people. Temporal visualizations indicate that police stops declined
+following the murder of George Floyd. This analysis provides contemporary
+evidence on the state of policing for a major metropolitan area in the United
+States.",-0.28158632,0.1635601,-0.13789655,A
+6445,"We will
+also perform simulation studies to further study the model estimability to predict w. Last but
+not least, it will be interesting to study how the errors are propagated from I-spline smoothing
+to LMGP modeling in our prediction framework.","Currently, we use SVD and will introduce negative entries in W. Several methods
+
+                                                          25
+for positive matrix factorizations in Hopke (2000) can be studied for decorrelating B.","Acknowledgments
+
+The authors acknowledge Advanced Research Computing at Virginia Tech for providing com-
+putational resources.",2022-05-19 22:01:26+00:00,Prediction for Distributional Outcomes in High-Performance Computing I/O Variability,stat.AP,"['stat.AP', 'stat.CO']","[arxiv.Result.Author('Li Xu'), arxiv.Result.Author('Yili Hong'), arxiv.Result.Author('Max D. Morris'), arxiv.Result.Author('Kirk W. Cameron')]","Although high-performance computing (HPC) systems have been scaled to meet
+the exponentially-growing demand for scientific computing, HPC performance
+variability remains a major challenge and has become a critical research topic
+in computer science. Statistically, performance variability can be
+characterized by a distribution. Predicting performance variability is a
+critical step in HPC performance variability management and is nontrivial
+because one needs to predict a distribution function based on system factors.
+In this paper, we propose a new framework to predict performance distributions.
+The proposed model is a modified Gaussian process that can predict the
+distribution function of the input/output (I/O) throughput under a specific HPC
+system configuration. We also impose a monotonic constraint so that the
+predicted function is nondecreasing, which is a property of the cumulative
+distribution function. Additionally, the proposed model can incorporate both
+quantitative and qualitative input variables. We evaluate the performance of
+the proposed method by using the IOzone variability data based on various
+prediction tasks. Results show that the proposed method can generate accurate
+predictions, and outperform existing methods. We also show how the predicted
+functional output can be used to generate predictions for a scalar summary of
+the performance distribution, such as the mean, standard deviation, and
+quantiles. Our methods can be further used as a surrogate model for HPC system
+variability monitoring and optimization.",0.22797996,0.03895345,0.14517915,B
+6778,Several lines of further research can be distinguished.,"Another limitation relates to the merit variables, as several others could be included
+representing other merit dimensions, such as awards and prizes, and the applicant’s
+independence [74].","First, women seem
+to apply less often than men, which leads to gender differences in winning research grants.",2022-05-26 21:30:39+00:00,Gender differences in research grant allocation -- a mixed picture,stat.AP,"['stat.AP', 'cs.DL']","[arxiv.Result.Author('Peter van den Besselaar'), arxiv.Result.Author('Charlie Mom')]","Gender bias in grant allocation is a deviation from the principle that
+scientific merit should guide grant decisions. However, most studies on gender
+bias in grant allocation focus on gender differences in success rates, without
+including variables that measure merit. This study has two main contributions.
+Firstly, it includes several merit variables in the analysis. Secondly, it
+includes an analysis at the panel level where the selection process takes
+place, and this enables to study bias more in-depth at the process level. The
+findings are: (i) After controlling for merit, a consistent pattern of gender
+bias was found in the scores: women receive significant lower grades than men
+do. (ii) The scores are an input into the two-step decision-making process, and
+this study shows bias against women in the first selection decision where 75%
+of the applications are rejected, and bias in favor of women in the second
+(final) selection decision. (iii) At the level of individual panels, the
+analysis shows a mixed pattern of bias: in some panels the odds for women to
+receive a grant are lower than for men, whereas in other panels we find the
+opposite, next to panels with gender-neutral decision making. (iv) In the case
+under study, at an aggregated level the allocation of grants seems balanced.
+(v) The mixed pattern at panel level seems to relate characteristics such as
+the panel composition, and the level of gender stereotyping.",-0.38048145,-0.21551083,-0.20174073,A
+6779,"This asks for
+
+further research.","On the other hand,
+
+panel diversity in terms of nationalities reduces gender bias against women.","References
+
+[1] Ceci SJ, Ginther DK, Kahn S, Williams WM (2014) Women in academic science: a changing landscape.",2022-05-26 21:30:39+00:00,Gender differences in research grant allocation -- a mixed picture,stat.AP,"['stat.AP', 'cs.DL']","[arxiv.Result.Author('Peter van den Besselaar'), arxiv.Result.Author('Charlie Mom')]","Gender bias in grant allocation is a deviation from the principle that
+scientific merit should guide grant decisions. However, most studies on gender
+bias in grant allocation focus on gender differences in success rates, without
+including variables that measure merit. This study has two main contributions.
+Firstly, it includes several merit variables in the analysis. Secondly, it
+includes an analysis at the panel level where the selection process takes
+place, and this enables to study bias more in-depth at the process level. The
+findings are: (i) After controlling for merit, a consistent pattern of gender
+bias was found in the scores: women receive significant lower grades than men
+do. (ii) The scores are an input into the two-step decision-making process, and
+this study shows bias against women in the first selection decision where 75%
+of the applications are rejected, and bias in favor of women in the second
+(final) selection decision. (iii) At the level of individual panels, the
+analysis shows a mixed pattern of bias: in some panels the odds for women to
+receive a grant are lower than for men, whereas in other panels we find the
+opposite, next to panels with gender-neutral decision making. (iv) In the case
+under study, at an aggregated level the allocation of grants seems balanced.
+(v) The mixed pattern at panel level seems to relate characteristics such as
+the panel composition, and the level of gender stereotyping.",-0.40456462,-0.19809762,-0.29822958,A
+6883,"However, there are still some topics need further research.","Meanwhile , under some regular conditions, the
+ordinary least squares estimator is consistent and asymptotically normal when
+T is ﬁxed, n → ∞ or min{T, n} → ∞.","On the one hand,
+how to characterize the inter dependencies among response variables in a sta-
+tistical model for dyadic response yijt.",2022-05-29 15:39:56+00:00,Network Vector Autoregressive Model for Dyadic Response Variables,stat.AP,['stat.AP'],[arxiv.Result.Author('Jiajia Wang')],"For general panel data, by introducing network structure, network vector
+autoregressive (NVAR) model captured the linear inter dependencies among
+multiple time series. In this paper, we propose network vector autoregressive
+model for dyadic response variables (NVARD), which describes the dynamic
+process of dyadic data in the case of the dependencies among different pairs
+are taken into consideration. Besides, due to the existence of heterogeneity
+between time and individual, we propose time-varying coefficient network vector
+autoregressive model for dyadic response variables (VCNVARD). Finally, we apply
+these models to predict world bilateral trade flows.",0.1827876,-0.17534778,-0.14768842,B
+6884,"In reality, how to describe
+the correlations of dyadic data more accurately worth further study when the
+data may be more complex.","In addition, for the description of the depen-
+dencies, we simply use the exogenous weight matrix, that is, the dependencies
+between responses are linear and given in advance.","Founding Scientiﬁc Research Project of Yunnan Provincial Department of Edu-
+cation (2021J0435).",2022-05-29 15:39:56+00:00,Network Vector Autoregressive Model for Dyadic Response Variables,stat.AP,['stat.AP'],[arxiv.Result.Author('Jiajia Wang')],"For general panel data, by introducing network structure, network vector
+autoregressive (NVAR) model captured the linear inter dependencies among
+multiple time series. In this paper, we propose network vector autoregressive
+model for dyadic response variables (NVARD), which describes the dynamic
+process of dyadic data in the case of the dependencies among different pairs
+are taken into consideration. Besides, due to the existence of heterogeneity
+between time and individual, we propose time-varying coefficient network vector
+autoregressive model for dyadic response variables (VCNVARD). Finally, we apply
+these models to predict world bilateral trade flows.",0.052135177,0.016825236,-0.21962371,B
+7099,"Another patient could decide to discontinue the study medication due to lack of
+efficacy and decline further study participation due to scheduling conflicts.","For example, a patient
+discontinues the study and thus discontinues treatment due to site closure or study early
+termination.","Therefore, collecting
+the reasons for treatment discontinuation and study discontinuation separately is a good clinical
+practice.",2022-06-03 16:09:38+00:00,Accurate collection of reasons for treatment discontinuation to better define estimands in clinical trials,stat.AP,['stat.AP'],"[arxiv.Result.Author('Yongming Qu'), arxiv.Result.Author('Robin D. White'), arxiv.Result.Author('Stephen J. Ruberg')]","Background: Reasons for treatment discontinuation are important not only to
+understand the benefit and risk profile of experimental treatments, but also to
+help choose appropriate strategies to handle intercurrent events in defining
+estimands. The current case report form (CRF) commonly in use mixes the
+underlying reasons for treatment discontinuation and who makes the decision for
+treatment discontinuation, often resulting in an inaccurate collection of
+reasons for treatment discontinuation. Methods and results: We systematically
+reviewed and analyzed treatment discontinuation data from nine phase 2 and
+phase 3 studies for insulin peglispro. A total of 857 participants with
+treatment discontinuation were included in the analysis. Our review suggested
+that, due to the vague multiple-choice options for treatment discontinuation
+present in the CRF, different reasons were sometimes recorded for the same
+underlying reason for treatment discontinuation. Based on our review and
+analysis, we suggest an intermediate solution and a more systematic way to
+improve the current CRF for treatment discontinuations. Conclusion: This
+research provides insight and directions on how to optimize the CRF for
+recording treatment discontinuation. Further work needs to be done to build the
+learning into Clinical Data Interchange Standards Consortium standards.",-0.43932796,-0.17280677,-0.017733287,A
+7107,"We hope that this work
+can lead to further research in the aforementioned directions and potentially aid counseling centers
+in developing data-driven policies.","Establishing a quantitative framework to address
+these questions, in conjunction with the considered simulation model, can result in a counseling
+system with both a desirable system performance and patient outcome.","References
+
+ [1] Walter Cullen, Gautam Gulati, and Brendan D Kelly.",2022-06-03 19:34:21+00:00,A Quantitative Simulation-based Modeling Approach for College Counseling Centers,stat.AP,['stat.AP'],"[arxiv.Result.Author('Sohom Chatterjee'), arxiv.Result.Author('Youssef Hebaish'), arxiv.Result.Author('Lewis Ntaimo'), arxiv.Result.Author('James Deegear'), arxiv.Result.Author('Miles Rucker'), arxiv.Result.Author('Hrayer Aprahamian')]","College counseling centers in various universities have been tasked with the
+important responsibility of attending to the mental health needs of their
+students. Owing to the unprecedented recent surge of demand for such services,
+college counseling centers are facing several crippling resource-level
+challenges. This is leading to longer wait times which limits access to
+critical mental health services. To address these challenges, we construct a
+discrete-event simulation model that captures several intricate details of
+their operations and provides a data-driven framework to quantify the effect of
+different policy changes. In contrast to existing work on this matter, which
+are primarily based on qualitative assessments, the considered quantitative
+approach has the potential to lead to key observations that can assist
+counseling directors in constructing a system with desirable performance. To
+demonstrate the benefit of the considered simulation model, we use data
+specific to Texas A&M's Counseling & Psychological Services to run a series of
+numerical experiments. Our results demonstrate the predictive power of the
+simulation model, highlight a number of key observations, and identify policy
+changes that result in desirable system performance.",-0.208933,-0.16993538,0.07275343,B
+7108,"“Student mental health in the
+       midst of the COVID-19 pandemic: A call for further research and immediate solutions”.","[3] Nicholas Grubic, Shaylea Badovinac, and Amer M Johri.","In:
+       International Journal of Social Psychiatry 66.5 (2020), pp.",2022-06-03 19:34:21+00:00,A Quantitative Simulation-based Modeling Approach for College Counseling Centers,stat.AP,['stat.AP'],"[arxiv.Result.Author('Sohom Chatterjee'), arxiv.Result.Author('Youssef Hebaish'), arxiv.Result.Author('Lewis Ntaimo'), arxiv.Result.Author('James Deegear'), arxiv.Result.Author('Miles Rucker'), arxiv.Result.Author('Hrayer Aprahamian')]","College counseling centers in various universities have been tasked with the
+important responsibility of attending to the mental health needs of their
+students. Owing to the unprecedented recent surge of demand for such services,
+college counseling centers are facing several crippling resource-level
+challenges. This is leading to longer wait times which limits access to
+critical mental health services. To address these challenges, we construct a
+discrete-event simulation model that captures several intricate details of
+their operations and provides a data-driven framework to quantify the effect of
+different policy changes. In contrast to existing work on this matter, which
+are primarily based on qualitative assessments, the considered quantitative
+approach has the potential to lead to key observations that can assist
+counseling directors in constructing a system with desirable performance. To
+demonstrate the benefit of the considered simulation model, we use data
+specific to Texas A&M's Counseling & Psychological Services to run a series of
+numerical experiments. Our results demonstrate the predictive power of the
+simulation model, highlight a number of key observations, and identify policy
+changes that result in desirable system performance.",-0.46139085,-0.043678276,-0.18492204,A
+7573,"It is difﬁcult to explain such differences in
+more detail without further study, but comparisons with university holidays appear to conﬁrm the fact that
+student usage plays a fundamental role in this Toulouse BSS factor proﬁle.","Figure 8
+shows that these two factors have pretty different time proﬁles.","In this respect, the performed
+EFA analysis does not bring out a speciﬁc factor for student proﬁle of BSS usage in Toulouse, but it detects
+one such factor for Lyon (Figure 9).",2022-06-13 16:16:15+00:00,Impact of the COVID-19 pandemic on bike-sharing uses in two french towns,stat.AP,['stat.AP'],"[arxiv.Result.Author('Angelo Furno'), arxiv.Result.Author('Bertrand Jouve'), arxiv.Result.Author('Bruno Revelli'), arxiv.Result.Author('Paul Rochet'), arxiv.Result.Author('Alix Rigal'), arxiv.Result.Author('Najla Touati')]","Urban areas have been dramatically impacted by the sudden and fast spread of
+the COVID-19 pandemic. As one of the most noticeable consequences of the
+pandemic, people have quickly reconsidered their travel options to minimize
+infection risk. Many studies on the Bike Sharing System (BSS) of several towns
+have shown that, in this context, cycling appears as a resilient, safe and very
+reliable mobility option. Differences and similarities exist about how people
+reacted depending on the place being considered, and it is paramount to
+identify and understand such reactions in the aftermath of an event in order to
+successfully foster permanent changes. In this paper, we carry out a
+comparative analysis of the effects of the pandemic on BSS usage in two French
+towns, Toulouse and Lyon. We used Origin/Destination data for the two years
+2019 (pre-pandemic) and 2020 (pandemic), and considered two complementary
+quantitative approaches. Our results confirm that cycling increased during the
+pandemic, more significantly in Lyon than in Toulouse, with rush times
+remaining exactly the same as during the pre-pandemic year. Among several
+results, we note for example that BSS usage is more evenly spread throughout
+the day in 2020, peripheral/city center flow is more noticeable in Toulouse
+than in Lyon and that student BSS usage is more specific in Lyon. We also found
+that trip duration during the pandemic situation was longer on working days and
+shorter on weekends.",-0.22589466,0.10478672,-0.08245422,A
+7632,"Our further research will utilize the mixture of probabilistic PCA to model the following bus with more
+leading buses to make probabilistic forecasting for bus travel time.","In this case, we
+will consider using a mixture of probabilistic principal component analysis (PCA) to reduce dimensionality.","Acknowledgements
+
+     This research is supported in part by the Fonds de Recherche du Québec-Société et Culture (FRQSC)
+under the NSFC-FRQSC Research Program on Smart Cities and Big Data, the Canada Foundation for
+Innovation (CFI) John R. Evans Leaders Fund, and the Natural Sciences and Engineering Research Council
+(NSERC) of Canada.",2022-06-14 15:18:47+00:00,Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model,stat.AP,['stat.AP'],"[arxiv.Result.Author('Xiaoxu Chen'), arxiv.Result.Author('Zhanhong Cheng'), arxiv.Result.Author('Jian Gang Jin'), arxiv.Result.Author('Martin Trepanier'), arxiv.Result.Author('Lijun Sun')]","Accurate forecasting of bus travel time and its uncertainty is critical to
+service quality and operation of transit systems; for example, it can help
+passengers make better decisions on departure time, route choice, and even
+transport mode choice and also support transit operators to make informed
+decisions on tasks such as crew/vehicle scheduling and timetabling. However,
+most existing approaches in bus travel time forecasting are based on
+deterministic models that provide only point estimation. To this end, we
+develop in this paper a Bayesian probabilistic forecasting model for bus travel
+time. To characterize the strong dependencies/interactions between consecutive
+buses, we concatenate the link travel time vectors and the headway vector from
+a pair of two adjacent buses as a new augmented variable and model it with a
+constrained Multivariate Gaussian mixture distributions. This approach can
+naturally capture the interactions between adjacent buses (e.g., correlated
+speed and smooth variation of headway), handle missing values in data, and
+depict the multimodality in bus travel time distributions. Next, we assume
+different periods in a day share the same set of Gaussian components but
+different mixing coefficients to characterize the systematic temporal
+variations in bus operation. For model inference, we develop an efficient
+Markov chain Monte Carlo (MCMC) sampling algorithm to obtain the posterior
+distributions of model parameters and make probabilistic forecasting. We test
+the proposed model using the data from a twenty-link bus route in Guangzhou,
+China. Results show our approach significantly outperforms baseline models that
+overlook bus-to-bus interactions in terms of both predictive means and
+distributions. Besides forecasting, the parameters of the proposed model
+contain rich information for understanding/improving the bus service.",0.14453244,0.18793806,0.061765995,B
+7663,"Clearly,
+further study and experimental work is necessary.",The assumptions used to carry out our experiments may not be fully justiﬁed.,Let us now describe the ensemble space transformation of the above equations.,2022-06-15 10:11:07+00:00,Particle Filtering and Gaussian Mixtures -- On a Localized Mixture Coefficients Particle Filter (LMCPF) for global NWP,stat.AP,['stat.AP'],"[arxiv.Result.Author('Anne Rojahn'), arxiv.Result.Author('Nora Schenk'), arxiv.Result.Author('Peter Jan van Leeuwen'), arxiv.Result.Author('Roland Potthast')]","In a global numerical weather prediction (NWP) modeling framework we study
+the implementation of Gaussian uncertainty of individual particles into the
+assimilation step of a localized adaptive particle filter (LAPF). We obtain a
+local representation of the prior distribution as a mixture of basis functions.
+In the assimilation step, the filter calculates the individual weight
+coefficients and new particle locations. It can be viewed as a combination of
+the LAPF and a localized version of a Gaussian mixture filter, i.e., a
+Localized Mixture Coefficients Particle Filter (LMCPF).
+  Here, we investigate the feasibility of the LMCPF within a global operational
+framework and evaluate the relationship between prior and posterior
+distributions and observations. Our simulations are carried out in a standard
+pre-operational experimental set-up with the full global observing system, 52
+km global resolution and $10^6$ model variables. Statistics of particle
+movement in the assimilation step are calculated. The mixture approach is able
+to deal with the discrepancy between prior distributions and observation
+location in a real-world framework and to pull the particles towards the
+observations in a much better way than the pure LAPF. This shows that using
+Gaussian uncertainty can be an important tool to improve the analysis and
+forecast quality in a particle filter framework.",0.25079116,0.19689968,-0.12883233,B
+7664,"We expect this to lead to much further research and discussions, which are beyond the scope of this work.","Of course, it would be desirable to
+develop tools to estimate the real uncertainty adequate for each particle, and to keep all parts of the system consistent.","4.5 Forecast Quality of the LETKF and LMCPF Experiments
+
+As the last part of the numerical results, we study the quality of longer forecasts based on the analysis cycle of the
+LMCPF with κ = 2.5 and compare it to the LETKF based forecasts in Figure 9 and to forecasts based on the LAPF
+analysis cycle in Figure 10.",2022-06-15 10:11:07+00:00,Particle Filtering and Gaussian Mixtures -- On a Localized Mixture Coefficients Particle Filter (LMCPF) for global NWP,stat.AP,['stat.AP'],"[arxiv.Result.Author('Anne Rojahn'), arxiv.Result.Author('Nora Schenk'), arxiv.Result.Author('Peter Jan van Leeuwen'), arxiv.Result.Author('Roland Potthast')]","In a global numerical weather prediction (NWP) modeling framework we study
+the implementation of Gaussian uncertainty of individual particles into the
+assimilation step of a localized adaptive particle filter (LAPF). We obtain a
+local representation of the prior distribution as a mixture of basis functions.
+In the assimilation step, the filter calculates the individual weight
+coefficients and new particle locations. It can be viewed as a combination of
+the LAPF and a localized version of a Gaussian mixture filter, i.e., a
+Localized Mixture Coefficients Particle Filter (LMCPF).
+  Here, we investigate the feasibility of the LMCPF within a global operational
+framework and evaluate the relationship between prior and posterior
+distributions and observations. Our simulations are carried out in a standard
+pre-operational experimental set-up with the full global observing system, 52
+km global resolution and $10^6$ model variables. Statistics of particle
+movement in the assimilation step are calculated. The mixture approach is able
+to deal with the discrepancy between prior distributions and observation
+location in a real-world framework and to pull the particles towards the
+observations in a much better way than the pure LAPF. This shows that using
+Gaussian uncertainty can be an important tool to improve the analysis and
+forecast quality in a particle filter framework.",0.2635083,-0.14864346,0.31031293,B
+8029,"The second is to call for further research to improve methods
+for quantifying uncertainty in complex models and model fitting algorithms, ensuring uncertainty
+quantification keeps pace with model development.","A dedicated section would also give space to discuss the potential
+consequences of any unquantified uncertainty, including reductions in accuracy or giving indications of
+which elements could be expected to change.",Propagation/within paper consistency.,2022-06-24 09:36:55+00:00,How is model-related uncertainty quantified and reported in different disciplines?,stat.AP,"['stat.AP', 'physics.ao-ph', 'q-bio.QM']","[arxiv.Result.Author('Emily G. Simmonds'), arxiv.Result.Author('Kwaku Peprah Adjei'), arxiv.Result.Author('Christoffer Wold Andersen'), arxiv.Result.Author('Janne Cathrin Hetle Aspheim'), arxiv.Result.Author('Claudia Battistin'), arxiv.Result.Author('Nicola Bulso'), arxiv.Result.Author('Hannah Christensen'), arxiv.Result.Author('Benjamin Cretois'), arxiv.Result.Author('Ryan Cubero'), arxiv.Result.Author('Ivan A. Davidovich'), arxiv.Result.Author('Lisa Dickel'), arxiv.Result.Author('Benjamin Dunn'), arxiv.Result.Author('Etienne Dunn-Sigouin'), arxiv.Result.Author('Karin Dyrstad'), arxiv.Result.Author('Sigurd Einum'), arxiv.Result.Author('Donata Giglio'), arxiv.Result.Author('Haakon Gjerlow'), arxiv.Result.Author('Amelie Godefroidt'), arxiv.Result.Author('Ricardo Gonzalez-Gil'), arxiv.Result.Author('Soledad Gonzalo Cogno'), arxiv.Result.Author('Fabian Grosse'), arxiv.Result.Author('Paul Halloran'), arxiv.Result.Author('Mari F. Jensen'), arxiv.Result.Author('John James Kennedy'), arxiv.Result.Author('Peter Egge Langsaether'), arxiv.Result.Author('Jack H. Laverick'), arxiv.Result.Author('Debora Lederberger'), arxiv.Result.Author('Camille Li'), arxiv.Result.Author('Elizabeth Mandeville'), arxiv.Result.Author('Caitlin Mandeville'), arxiv.Result.Author('Espen Moe'), arxiv.Result.Author('Tobias Navarro Schroder'), arxiv.Result.Author('David Nunan'), arxiv.Result.Author('Jorge Sicacha Parada'), arxiv.Result.Author('Melanie Rae Simpson'), arxiv.Result.Author('Emma Sofie Skarstein'), arxiv.Result.Author('Clemens Spensberger'), arxiv.Result.Author('Richard Stevens'), arxiv.Result.Author('Aneesh Subramanian'), arxiv.Result.Author('Lea Svendsen'), arxiv.Result.Author('Ole Magnus Theisen'), arxiv.Result.Author('Connor Watret'), arxiv.Result.Author('Robert B. OHara')]","How do we know how much we know? Quantifying uncertainty associated with our
+modelling work is the only way we can answer how much we know about any
+phenomenon. With quantitative science now highly influential in the public
+sphere and the results from models translating into action, we must support our
+conclusions with sufficient rigour to produce useful, reproducible results.
+Incomplete consideration of model-based uncertainties can lead to false
+conclusions with real world impacts. Despite these potentially damaging
+consequences, uncertainty consideration is incomplete both within and across
+scientific fields. We take a unique interdisciplinary approach and conduct a
+systematic audit of model-related uncertainty quantification from seven
+scientific fields, spanning the biological, physical, and social sciences. Our
+results show no single field is achieving complete consideration of model
+uncertainties, but together we can fill the gaps. We propose opportunities to
+improve the quantification of uncertainty through use of a source framework for
+uncertainty consideration, model type specific guidelines, improved
+presentation, and shared best practice. We also identify shared outstanding
+challenges (uncertainty in input data, balancing trade-offs, error propagation,
+and defining how much uncertainty is required). Finally, we make nine concrete
+recommendations for current practice (following good practice guidelines and an
+uncertainty checklist, presenting uncertainty numerically, and propagating
+model-related uncertainty into conclusions), future research priorities
+(uncertainty in input data, quantifying uncertainty in complex models, and the
+importance of missing uncertainty in different contexts), and general research
+standards across the sciences (transparency about study limitations and
+dedicated uncertainty sections of manuscripts).",0.041789547,-0.46712482,0.46633595,B
+8030,"Conduct further research into the influence and importance of the different sources of
+                        uncertainty for final results and conclusions across multiple modelling types and contexts.","18
+                   7.","General recommendations:
+
+                   8.",2022-06-24 09:36:55+00:00,How is model-related uncertainty quantified and reported in different disciplines?,stat.AP,"['stat.AP', 'physics.ao-ph', 'q-bio.QM']","[arxiv.Result.Author('Emily G. Simmonds'), arxiv.Result.Author('Kwaku Peprah Adjei'), arxiv.Result.Author('Christoffer Wold Andersen'), arxiv.Result.Author('Janne Cathrin Hetle Aspheim'), arxiv.Result.Author('Claudia Battistin'), arxiv.Result.Author('Nicola Bulso'), arxiv.Result.Author('Hannah Christensen'), arxiv.Result.Author('Benjamin Cretois'), arxiv.Result.Author('Ryan Cubero'), arxiv.Result.Author('Ivan A. Davidovich'), arxiv.Result.Author('Lisa Dickel'), arxiv.Result.Author('Benjamin Dunn'), arxiv.Result.Author('Etienne Dunn-Sigouin'), arxiv.Result.Author('Karin Dyrstad'), arxiv.Result.Author('Sigurd Einum'), arxiv.Result.Author('Donata Giglio'), arxiv.Result.Author('Haakon Gjerlow'), arxiv.Result.Author('Amelie Godefroidt'), arxiv.Result.Author('Ricardo Gonzalez-Gil'), arxiv.Result.Author('Soledad Gonzalo Cogno'), arxiv.Result.Author('Fabian Grosse'), arxiv.Result.Author('Paul Halloran'), arxiv.Result.Author('Mari F. Jensen'), arxiv.Result.Author('John James Kennedy'), arxiv.Result.Author('Peter Egge Langsaether'), arxiv.Result.Author('Jack H. Laverick'), arxiv.Result.Author('Debora Lederberger'), arxiv.Result.Author('Camille Li'), arxiv.Result.Author('Elizabeth Mandeville'), arxiv.Result.Author('Caitlin Mandeville'), arxiv.Result.Author('Espen Moe'), arxiv.Result.Author('Tobias Navarro Schroder'), arxiv.Result.Author('David Nunan'), arxiv.Result.Author('Jorge Sicacha Parada'), arxiv.Result.Author('Melanie Rae Simpson'), arxiv.Result.Author('Emma Sofie Skarstein'), arxiv.Result.Author('Clemens Spensberger'), arxiv.Result.Author('Richard Stevens'), arxiv.Result.Author('Aneesh Subramanian'), arxiv.Result.Author('Lea Svendsen'), arxiv.Result.Author('Ole Magnus Theisen'), arxiv.Result.Author('Connor Watret'), arxiv.Result.Author('Robert B. OHara')]","How do we know how much we know? Quantifying uncertainty associated with our
+modelling work is the only way we can answer how much we know about any
+phenomenon. With quantitative science now highly influential in the public
+sphere and the results from models translating into action, we must support our
+conclusions with sufficient rigour to produce useful, reproducible results.
+Incomplete consideration of model-based uncertainties can lead to false
+conclusions with real world impacts. Despite these potentially damaging
+consequences, uncertainty consideration is incomplete both within and across
+scientific fields. We take a unique interdisciplinary approach and conduct a
+systematic audit of model-related uncertainty quantification from seven
+scientific fields, spanning the biological, physical, and social sciences. Our
+results show no single field is achieving complete consideration of model
+uncertainties, but together we can fill the gaps. We propose opportunities to
+improve the quantification of uncertainty through use of a source framework for
+uncertainty consideration, model type specific guidelines, improved
+presentation, and shared best practice. We also identify shared outstanding
+challenges (uncertainty in input data, balancing trade-offs, error propagation,
+and defining how much uncertainty is required). Finally, we make nine concrete
+recommendations for current practice (following good practice guidelines and an
+uncertainty checklist, presenting uncertainty numerically, and propagating
+model-related uncertainty into conclusions), future research priorities
+(uncertainty in input data, quantifying uncertainty in complex models, and the
+importance of missing uncertainty in different contexts), and general research
+standards across the sciences (transparency about study limitations and
+dedicated uncertainty sections of manuscripts).",-0.10270544,-0.59302807,0.35514277,B
+8031,"The second is to call for further research to improve methods
+for quantifying uncertainty in complex models and model fitting algorithms, ensuring uncertainty
+quantification keeps pace with model development.","A dedicated section would also give space to discuss the potential
+consequences of any unquantified uncertainty, including reductions in accuracy or giving indications of
+which elements could be expected to change.",Propagation/within paper consistency.,2022-06-24 09:36:55+00:00,How is model-related uncertainty quantified and reported in different disciplines?,stat.AP,"['stat.AP', 'physics.ao-ph', 'q-bio.QM']","[arxiv.Result.Author('Emily G. Simmonds'), arxiv.Result.Author('Kwaku Peprah Adjei'), arxiv.Result.Author('Christoffer Wold Andersen'), arxiv.Result.Author('Janne Cathrin Hetle Aspheim'), arxiv.Result.Author('Claudia Battistin'), arxiv.Result.Author('Nicola Bulso'), arxiv.Result.Author('Hannah Christensen'), arxiv.Result.Author('Benjamin Cretois'), arxiv.Result.Author('Ryan Cubero'), arxiv.Result.Author('Ivan A. Davidovich'), arxiv.Result.Author('Lisa Dickel'), arxiv.Result.Author('Benjamin Dunn'), arxiv.Result.Author('Etienne Dunn-Sigouin'), arxiv.Result.Author('Karin Dyrstad'), arxiv.Result.Author('Sigurd Einum'), arxiv.Result.Author('Donata Giglio'), arxiv.Result.Author('Haakon Gjerlow'), arxiv.Result.Author('Amelie Godefroidt'), arxiv.Result.Author('Ricardo Gonzalez-Gil'), arxiv.Result.Author('Soledad Gonzalo Cogno'), arxiv.Result.Author('Fabian Grosse'), arxiv.Result.Author('Paul Halloran'), arxiv.Result.Author('Mari F. Jensen'), arxiv.Result.Author('John James Kennedy'), arxiv.Result.Author('Peter Egge Langsaether'), arxiv.Result.Author('Jack H. Laverick'), arxiv.Result.Author('Debora Lederberger'), arxiv.Result.Author('Camille Li'), arxiv.Result.Author('Elizabeth Mandeville'), arxiv.Result.Author('Caitlin Mandeville'), arxiv.Result.Author('Espen Moe'), arxiv.Result.Author('Tobias Navarro Schroder'), arxiv.Result.Author('David Nunan'), arxiv.Result.Author('Jorge Sicacha Parada'), arxiv.Result.Author('Melanie Rae Simpson'), arxiv.Result.Author('Emma Sofie Skarstein'), arxiv.Result.Author('Clemens Spensberger'), arxiv.Result.Author('Richard Stevens'), arxiv.Result.Author('Aneesh Subramanian'), arxiv.Result.Author('Lea Svendsen'), arxiv.Result.Author('Ole Magnus Theisen'), arxiv.Result.Author('Connor Watret'), arxiv.Result.Author('Robert B. OHara')]","How do we know how much we know? Quantifying uncertainty associated with our
+modelling work is the only way we can answer how much we know about any
+phenomenon. With quantitative science now highly influential in the public
+sphere and the results from models translating into action, we must support our
+conclusions with sufficient rigour to produce useful, reproducible results.
+Incomplete consideration of model-based uncertainties can lead to false
+conclusions with real world impacts. Despite these potentially damaging
+consequences, uncertainty consideration is incomplete both within and across
+scientific fields. We take a unique interdisciplinary approach and conduct a
+systematic audit of model-related uncertainty quantification from seven
+scientific fields, spanning the biological, physical, and social sciences. Our
+results show no single field is achieving complete consideration of model
+uncertainties, but together we can fill the gaps. We propose opportunities to
+improve the quantification of uncertainty through use of a source framework for
+uncertainty consideration, model type specific guidelines, improved
+presentation, and shared best practice. We also identify shared outstanding
+challenges (uncertainty in input data, balancing trade-offs, error propagation,
+and defining how much uncertainty is required). Finally, we make nine concrete
+recommendations for current practice (following good practice guidelines and an
+uncertainty checklist, presenting uncertainty numerically, and propagating
+model-related uncertainty into conclusions), future research priorities
+(uncertainty in input data, quantifying uncertainty in complex models, and the
+importance of missing uncertainty in different contexts), and general research
+standards across the sciences (transparency about study limitations and
+dedicated uncertainty sections of manuscripts).",0.041789547,-0.46712482,0.46633595,B
+8032,"Conduct further research into the influence and importance of the different sources of
+                        uncertainty for final results and conclusions across multiple modelling types and contexts.","18
+                   7.","General recommendations:
+
+                   8.",2022-06-24 09:36:55+00:00,How is model-related uncertainty quantified and reported in different disciplines?,stat.AP,"['stat.AP', 'physics.ao-ph', 'q-bio.QM']","[arxiv.Result.Author('Emily G. Simmonds'), arxiv.Result.Author('Kwaku Peprah Adjei'), arxiv.Result.Author('Christoffer Wold Andersen'), arxiv.Result.Author('Janne Cathrin Hetle Aspheim'), arxiv.Result.Author('Claudia Battistin'), arxiv.Result.Author('Nicola Bulso'), arxiv.Result.Author('Hannah Christensen'), arxiv.Result.Author('Benjamin Cretois'), arxiv.Result.Author('Ryan Cubero'), arxiv.Result.Author('Ivan A. Davidovich'), arxiv.Result.Author('Lisa Dickel'), arxiv.Result.Author('Benjamin Dunn'), arxiv.Result.Author('Etienne Dunn-Sigouin'), arxiv.Result.Author('Karin Dyrstad'), arxiv.Result.Author('Sigurd Einum'), arxiv.Result.Author('Donata Giglio'), arxiv.Result.Author('Haakon Gjerlow'), arxiv.Result.Author('Amelie Godefroidt'), arxiv.Result.Author('Ricardo Gonzalez-Gil'), arxiv.Result.Author('Soledad Gonzalo Cogno'), arxiv.Result.Author('Fabian Grosse'), arxiv.Result.Author('Paul Halloran'), arxiv.Result.Author('Mari F. Jensen'), arxiv.Result.Author('John James Kennedy'), arxiv.Result.Author('Peter Egge Langsaether'), arxiv.Result.Author('Jack H. Laverick'), arxiv.Result.Author('Debora Lederberger'), arxiv.Result.Author('Camille Li'), arxiv.Result.Author('Elizabeth Mandeville'), arxiv.Result.Author('Caitlin Mandeville'), arxiv.Result.Author('Espen Moe'), arxiv.Result.Author('Tobias Navarro Schroder'), arxiv.Result.Author('David Nunan'), arxiv.Result.Author('Jorge Sicacha Parada'), arxiv.Result.Author('Melanie Rae Simpson'), arxiv.Result.Author('Emma Sofie Skarstein'), arxiv.Result.Author('Clemens Spensberger'), arxiv.Result.Author('Richard Stevens'), arxiv.Result.Author('Aneesh Subramanian'), arxiv.Result.Author('Lea Svendsen'), arxiv.Result.Author('Ole Magnus Theisen'), arxiv.Result.Author('Connor Watret'), arxiv.Result.Author('Robert B. OHara')]","How do we know how much we know? Quantifying uncertainty associated with our
+modelling work is the only way we can answer how much we know about any
+phenomenon. With quantitative science now highly influential in the public
+sphere and the results from models translating into action, we must support our
+conclusions with sufficient rigour to produce useful, reproducible results.
+Incomplete consideration of model-based uncertainties can lead to false
+conclusions with real world impacts. Despite these potentially damaging
+consequences, uncertainty consideration is incomplete both within and across
+scientific fields. We take a unique interdisciplinary approach and conduct a
+systematic audit of model-related uncertainty quantification from seven
+scientific fields, spanning the biological, physical, and social sciences. Our
+results show no single field is achieving complete consideration of model
+uncertainties, but together we can fill the gaps. We propose opportunities to
+improve the quantification of uncertainty through use of a source framework for
+uncertainty consideration, model type specific guidelines, improved
+presentation, and shared best practice. We also identify shared outstanding
+challenges (uncertainty in input data, balancing trade-offs, error propagation,
+and defining how much uncertainty is required). Finally, we make nine concrete
+recommendations for current practice (following good practice guidelines and an
+uncertainty checklist, presenting uncertainty numerically, and propagating
+model-related uncertainty into conclusions), future research priorities
+(uncertainty in input data, quantifying uncertainty in complex models, and the
+importance of missing uncertainty in different contexts), and general research
+standards across the sciences (transparency about study limitations and
+dedicated uncertainty sections of manuscripts).",-0.10270544,-0.59302807,0.35514277,B
+8391,"In what follows it is pursued a further study in the 31 buoys for which there
+is yet no evidence to reject the null hypothesis of Gaussianity, displayed in (5).","They correspond to buoys 028, 071 and
+185.",This further study consists in applying the random projection test.,2022-07-04 12:58:29+00:00,On the Non-Gaussianity of Sea Surface Elevations,stat.AP,['stat.AP'],[arxiv.Result.Author('Alicia Nieto-Reyes')],"The sea surface elevations are generally stated as Gaussian processes in the
+literature. To show the inaccuracy of this statement, an empirical study of the
+buoys in the US coast at a random day is performed, which results in rejecting
+the null hypothesis of Gaussianity in over 80$\%$ of the cases. The analysis
+pursued relates to a recent one by the author in which the heights of sea waves
+are proved to be non-Gaussian. It is similar in that the Gaussianity of the
+process is studied as a whole and not just of its one-dimensional marginal, as
+it is common in the literature. It differs, however, in that the analysis of
+the sea surface elevations is harder from a statistical point of view, as the
+one-dimensional marginals are commonly Gaussian, which is observed throughout
+the study.",0.16590518,0.24054605,0.053112384,C
+8392,This further study consists in applying the random projection test.,"In what follows it is pursued a further study in the 31 buoys for which there
+is yet no evidence to reject the null hypothesis of Gaussianity, displayed in (5).","In applying
+it, the information in Table 5 obtained when applying de Epps and Lobato and
+Velasco tests is used.",2022-07-04 12:58:29+00:00,On the Non-Gaussianity of Sea Surface Elevations,stat.AP,['stat.AP'],[arxiv.Result.Author('Alicia Nieto-Reyes')],"The sea surface elevations are generally stated as Gaussian processes in the
+literature. To show the inaccuracy of this statement, an empirical study of the
+buoys in the US coast at a random day is performed, which results in rejecting
+the null hypothesis of Gaussianity in over 80$\%$ of the cases. The analysis
+pursued relates to a recent one by the author in which the heights of sea waves
+are proved to be non-Gaussian. It is similar in that the Gaussianity of the
+process is studied as a whole and not just of its one-dimensional marginal, as
+it is common in the literature. It differs, however, in that the analysis of
+the sea surface elevations is harder from a statistical point of view, as the
+one-dimensional marginals are commonly Gaussian, which is observed throughout
+the study.",0.18430527,0.21055453,-0.003941914,C_centroid
+8433,"An appealing direction for further research includes investigating whether substituting this model with
+other stochastic processes, e.g., Gaussian process models [25,46], can improve the results.","In this study, the random walk model was used to describe the temporal variation of input forces.","In this
+case, the EM algorithm can still be employed, offering consistent cross-comparison.",2022-07-05 06:16:28+00:00,Input-State-Parameter-Noise Identification and Virtual Sensing in Dynamical Systems: A Bayesian Expectation-Maximization (BEM) Perspective,stat.AP,['stat.AP'],"[arxiv.Result.Author('Daniz Teymouri'), arxiv.Result.Author('Omid Sedehi'), arxiv.Result.Author('Lambros S. Katafygiotis'), arxiv.Result.Author('Costas Papadimitriou')]","Structural identification and damage detection can be generalized as the
+simultaneous estimation of input forces, physical parameters, and dynamical
+states. Although Kalman-type filters are efficient tools to address this
+problem, the calibration of noise covariance matrices is cumbersome. For
+instance, calibration of input noise covariance matrix in augmented or dual
+Kalman filters is a critical task since a slight variation in its value can
+adversely affect estimations. The present study develops a Bayesian
+Expectation-Maximization (BEM) methodology for the uncertainty quantification
+and propagation in coupled input-state-parameter-noise identification problems.
+It also proposes the incorporation of input dummy observations for stabilizing
+low-frequency components of the latent states and mitigating potential drifts.
+In this respect, the covariance matrix of the dummy observations is also
+calibrated based on the measured data. Additionally, an explicit formulation is
+provided to study the theoretical observability of the Bayesian estimators,
+which helps characterize the minimum sensor requirements. Ultimately, the BEM
+is tested and verified through numerical and experimental examples, wherein
+sensor configurations, multiple input forces, and abrupt stiffness changes are
+investigated. It is confirmed that the BEM provides accurate estimations of
+states, input, and parameters while characterizing the degree of belief in
+these estimations based on the posterior uncertainties driven by applying a
+Bayesian perspective.",0.25586954,0.051141437,0.04898209,B
+8905,"To the community, we
+welcome earnest feedback, collaboration, and further research in this space.","In the future, we look
+forward to applying similar methodologies to accounts on other liquidity
+
+                                               12
+protocols like Compound, MakerDAO, and more.","6 Future Work
+
+The system presented in this paper predicts 90-day delinquency of “long-
+term” positions.",2022-07-14 15:45:44+00:00,Scoring Aave Accounts for Creditworthiness,stat.AP,"['stat.AP', 'q-fin.RM']","[arxiv.Result.Author('Will Wolf'), arxiv.Result.Author('Aaron Henry'), arxiv.Result.Author('Hamza Al Fadel'), arxiv.Result.Author('Xavier Quintuna'), arxiv.Result.Author('Julian Gay')]","Scoring the creditworthiness of accounts that interact with decentralized
+financial (DeFi) protocols remains an important yet unsolved problem. In this
+paper, we propose a credit scoring system for those accounts that have
+interacted with the Aave v2 liquidity protocol. The key component of this
+system is a tree-based binary classifier that predicts ""position delinquency.""
+To the community, we provide our method, results, and the (abridged) dataset on
+which this system is built.",-0.2934218,0.060583323,0.16618443,A
+9189,many opportunities for further study:                                         [Online].,There are many limitations to the analysis performed and              [4] “College Reopening: The Outlook for In-Person Classes - The New ...”.,"Available: https://www.nytimes.com/2020/08/24/us/college\
+                                                                              -university-reopening-coronavirus.html.",2022-07-12 14:33:42+00:00,College Spread of COVID-19 in Ohio,stat.AP,['stat.AP'],"[arxiv.Result.Author('Akinkunle Akinola'), arxiv.Result.Author('Akoh Atadoga'), arxiv.Result.Author('Kimberlyn Brooks'), arxiv.Result.Author('Vibhuti Chandna'), arxiv.Result.Author('Robert C. Green II')]","Cumulative COVID-19 case counts by county in Ohio were gathered and combined
+with population data from the Census Bureau and student enrollment by county
+from the Integrated Postsecondary Education Data System (IPEDS) for colleges or
+universities that compete in NCAA sports. Monthly median percent increases,
+monthly average percent increases, and average cases per 100k of COVID cases
+between counties with colleges and counties without colleges were calculated.
+The Wilcoxon test was used to determine if the samples were similar, and the
+analysis found the differences were statistically significant. Metro and
+non-metro groupings were added to the average cases per 100k to further
+subdivide the data set. Analysis found no statistically significant
+differences.",-0.46048826,-0.1929289,-0.16492039,A
+9658,"In the last part, we discuss
+some limitations of the statistical proposals and we discuss some directions for further research.","In the third section,
+we apply these methods to γ-H2AX real data and we present the results.","2 Statistical models
+
+In this section, we describe the proposed statistical methodology for analysing biodosimetric foci-data.",2022-08-03 11:07:09+00:00,Improving radiation dose estimation using the gamma-H2AX biomarker,stat.AP,['stat.AP'],"[arxiv.Result.Author('Dorota Młynarczyk'), arxiv.Result.Author('Pedro Puig'), arxiv.Result.Author('Carmen Armero'), arxiv.Result.Author('Virgilio Gómez-Rubio'), arxiv.Result.Author('Joan F. Barquinero'), arxiv.Result.Author('Mònica Pujol-Canadell')]","To predict the health effects of accidental or therapeutic radiation
+exposure, one must estimate the radiation dose that person received. A
+well-known ionising radiation biomarker, phosphorylated gamma-H2AX protein, is
+used to evaluate cell damage and is thus suitable for the dose estimation
+process. In this paper, we present new Bayesian methods that, in contrast to
+approaches where estimation is carried out at predetermined post-irradiation
+times, allow for uncertainty regarding the time since radiation exposure and,
+as a result, produce more precise results. We also use the Laplace
+approximation method, which drastically cuts down on the time needed to get
+results. Real data are used to illustrate the methods, and analyses indicate
+that the models might be a practical choice for the gamma-H2AX biomarker dose
+estimation process.",-0.010735575,0.026388694,-0.24125975,B
+9883,"Combined with the current
+review, this warrants further research into the topic to facilitate future studies of the
+genetic architecture in bacteria.","The latter two methods were found to per-
+form well, whereas linear mixed model showed poor correlation with the ground truth
+and typically overestimated heritability to a large degree.","Availability of data and code
+
+The R code and MA data used in the numerical experiments are available at: https://github.com/tienm
+.",2022-08-09 14:18:33+00:00,Inferring the heritability of bacterial traits in the era of machine learning,stat.AP,"['stat.AP', 'q-bio.GN']","[arxiv.Result.Author('The Tien Mai'), arxiv.Result.Author('John A Lees'), arxiv.Result.Author('Rebecca A Gladstone'), arxiv.Result.Author('Jukka Corander')]","Quantification of heritability is a fundamental aim in genetics, providing
+answer to the question of how much genetic variation influences variation in a
+particular trait of interest. The traditional computational approaches for
+assessing the heritability of a trait have been developed in the field of
+quantitative genetics. However, modern sequencing methods have provided us with
+whole genome sequences from large populations, often together with rich
+phenotypic data, and this increase in data scale has led to the development of
+several new machine learning based approaches to inferring heritability. In
+this review, we systematically summarize recent advances in machine learning
+which can be used to perform heritability inference. We focus on bacterial
+genomes where heritability plays a key role in understanding phenotypes such as
+drug resistance and virulence, which are particularly important due to the
+rising frequency of antimicrobial resistance. Specifically, we present
+applications of these newer machine learning methods to estimate the
+heritability of antibiotic resistance phenotypes in several pathogens. This
+study presents lessons and insights for future research when using machine
+learning methods in heritability inference.",0.026814044,-0.09955845,-0.14096737,B
+10092,"Explanation: After further research, we concluded that the incident was not caused by a flaw in our analytic data
+pipeline, but rather by a malfunction on the experience service side.","Interestingly,
+these ""ghost"" users were uniformly dispatched among the unassigned traffic buckets.","A tracking application recorded incorrect user ids
+(cookies) at a specific point in the service pool.",2022-08-16 14:25:49+00:00,Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection,stat.AP,"['stat.AP', 'stat.ME', '62F03, 62L05, 62P99', 'G.3']","[arxiv.Result.Author('Keyu Nie'), arxiv.Result.Author('Zezhong Zhang'), arxiv.Result.Author('Bingquan Xu'), arxiv.Result.Author('Tao Yuan')]","eBay's experimentation platform runs hundreds of A/B tests on any given day.
+The platform integrates with the tracking infrastructure and customer
+experience servers, provides the sampling service for experiments, and has the
+responsibility to monitor the progress of each A/B test. There are many
+challenges especially when it is required to ensure experiment quality at the
+large scale. We discuss two automated test quality monitoring processes and
+methodologies, namely randomization validation using population stability index
+(PSI) and sample ratio mismatch (a.k.a. sample delta) detection using
+sequential analysis. The automated processes assist the experimentation
+platform to run high quality and trustworthy tests not only effectively on a
+large scale, but also efficiently by minimizing false positive monitoring
+alarms to experimenters.",-0.4667096,0.6688161,0.40953925,A_centroid
+10093,"Explanation: After further research, we concluded that the incident was not caused by a flaw in our analytic data
+pipeline, but rather by a malfunction on the experience service side.","Interestingly,
+these ""ghost"" users were uniformly dispatched among the unassigned traffic buckets.","A tracking application recorded incorrect user ids
+(cookies) at a specific point in the service pool.",2022-08-16 14:25:49+00:00,Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection,stat.AP,"['stat.AP', 'stat.ME', '62F03, 62L05, 62P99', 'G.3']","[arxiv.Result.Author('Keyu Nie'), arxiv.Result.Author('Zezhong Zhang'), arxiv.Result.Author('Bingquan Xu'), arxiv.Result.Author('Tao Yuan')]","eBay's experimentation platform runs hundreds of A/B tests on any given day.
+The platform integrates with the tracking infrastructure and customer
+experience servers, provides the sampling service for experiments, and has the
+responsibility to monitor the progress of each A/B test. There are many
+challenges especially when it is required to ensure experiment quality at the
+large scale. We discuss two automated test quality monitoring processes and
+methodologies, namely randomization validation using population stability index
+(PSI) and sample ratio mismatch (a.k.a. sample delta) detection using
+sequential analysis. The automated processes assist the experimentation
+platform to run high quality and trustworthy tests not only effectively on a
+large scale, but also efficiently by minimizing false positive monitoring
+alarms to experimenters.",-0.4667096,0.6688161,0.40953925,A
+10094,"Explanation: After further research, we concluded that the incident was not caused by a flaw in our analytic data
+pipeline, but rather by a malfunction on the experience service side.","Interestingly,
+these ""ghost"" users were uniformly dispatched among the unassigned traffic buckets.","A tracking application recorded incorrect user ids
+(cookies) at a specific point in the service pool.",2022-08-16 14:25:49+00:00,Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection,stat.AP,"['stat.AP', 'stat.ME', '62F03, 62L05, 62P99', 'G.3']","[arxiv.Result.Author('Keyu Nie'), arxiv.Result.Author('Zezhong Zhang'), arxiv.Result.Author('Bingquan Xu'), arxiv.Result.Author('Tao Yuan')]","eBay's experimentation platform runs hundreds of A/B tests on any given day.
+The platform integrates with the tracking infrastructure and customer
+experience servers, provides the sampling service for experiments, and has the
+responsibility to monitor the progress of each A/B test. There are many
+challenges especially when it is required to ensure experiment quality at the
+large scale. We discuss two automated test quality monitoring processes and
+methodologies, namely randomization validation using population stability index
+(PSI) and sample ratio mismatch (a.k.a. sample delta) detection using
+sequential analysis. The automated processes assist the experimentation
+platform to run high quality and trustworthy tests not only effectively on a
+large scale, but also efficiently by minimizing false positive monitoring
+alarms to experimenters.",-0.4667096,0.6688161,0.40953925,A
+10445,"Section 5 concludes and
+discusses further research challenges.",Case studies are presented in Section 4.,"The e-companion contains in Appendix A details on the
+implemented sampling procedure; additional simulation results, not presented in Section 4, are
+documented in Appendix B.",2022-08-26 09:40:49+00:00,"Microscopic Traffic Models, Accidents, and Insurance Losses",stat.AP,"['stat.AP', 'q-fin.RM']","[arxiv.Result.Author('Sojung Kim'), arxiv.Result.Author('Marcel Kleiber'), arxiv.Result.Author('Stefan Weber')]","The paper develops a methodology to enable microscopic models of
+transportation systems to be accessible for a statistical study of traffic
+accidents. Our approach is intended to permit an understanding not only of
+historical losses, but also of incidents that may occur in altered, potential
+future systems. Through this, it is possible, from both an engineering and
+insurance perspective, to assess changes in the design of vehicles and
+transport systems in terms of their impact on functionality and road safety.
+  Structurally, we characterize the total loss distribution approximatively as
+a mean-variance mixture. This also yields valuation procedures that can be used
+instead of Monte Carlo simulation. Specifically, we construct an implementation
+based on the open-source traffic simulator SUMO and illustrate the potential of
+the approach in counterfactual case studies.",0.027033772,0.031052917,0.10352295,B
+10796,Our ﬁndings provide a basis for further research focused on multiple directions.,"The results are really encouraging as the estimates we obtain outperform in
+diﬀerent ways the most common Beta small area model, generally used for parameters deﬁned
+on the unit interval.","An in-
+equality mapping based on obtained estimates could be used to single out at ﬁrst a territorial
+disparity analysis within country, complementing the usual consideration of disparity between
+countries.",2022-09-05 14:33:57+00:00,Small Area Estimation of Inequality Measures using Mixture of Betas,stat.AP,"['stat.AP', 'stat.ME']","[arxiv.Result.Author('Silvia De Nicolò'), arxiv.Result.Author('Maria Rosaria Ferrante'), arxiv.Result.Author('Silvia Pacei')]","Economic inequalities referring to specific regions are crucial in deepening
+spatial heterogeneity. Income surveys are generally planned to produce reliable
+estimates at countries or macroregion levels, thus we implement a small area
+model for a set of inequality measures (Gini, Relative Theil and Atkinson
+indexes) to obtain microregion estimates. Considering that inequality
+estimators are unit-interval defined with skewed and heavy-tailed
+distributions, we propose a Bayesian hierarchical model at area level involving
+a Beta mixture. An application on EU-SILC data is carried out and a
+design-based simulation is performed. Our model outperforms in terms of bias,
+coverage and error the standard Beta regression model. Moreover, we extend the
+analysis of inequality estimators by deriving their approximate variance
+functions.",0.107504,-0.023115998,-0.33804506,B
+10797,Our ﬁndings provide a basis for further research focused on multiple directions.,"The results are really encouraging as the estimates we obtain outperform in
+diﬀerent ways the most common Beta small area model, generally used for parameters deﬁned
+on the unit interval.","An in-
+equality mapping based on obtained estimates could be used to single out at ﬁrst a territorial
+disparity analysis within country, complementing the usual consideration of disparity between
+countries.",2022-09-05 14:33:57+00:00,Small Area Estimation of Inequality Measures using Mixtures of Betas,stat.AP,"['stat.AP', 'stat.ME']","[arxiv.Result.Author('Silvia De Nicolò'), arxiv.Result.Author('Maria Rosaria Ferrante'), arxiv.Result.Author('Silvia Pacei')]","Economic inequalities referring to specific regions are crucial in deepening
+spatial heterogeneity. Income surveys are generally planned to produce reliable
+estimates at countries or macroregion levels, thus we implement a small area
+model for a set of inequality measures (Gini, Relative Theil and Atkinson
+indexes) to obtain microregion estimates. Considering that inequality
+estimators are unit-interval defined with skewed and heavy-tailed
+distributions, we propose a Bayesian hierarchical model at area level involving
+a Beta mixture. An application on EU-SILC data is carried out and a
+design-based simulation is performed. Our model outperforms in terms of bias,
+coverage and error the standard Beta regression model. Moreover, we extend the
+analysis of inequality estimators by deriving their approximate variance
+functions.",0.107504,-0.023115998,-0.33804506,B
+11375,"This
+                    means: it generates suggestions for further research.",(2015) is rightly described by its authors as exploratory.,"On the other hand, the later paper
+                    by Liu et al.",2022-09-19 11:34:06+00:00,Relationship between incidence of breathing obstruction and degree of muzzle shortness in pedigree dogs,stat.AP,['stat.AP'],[arxiv.Result.Author('Richard D. Gill')],"There has been much concern about health issues associated with the breeding
+of short-muzzled pedigree dogs. The Dutch government commissioned a scientific
+report \emph{Fokken met Kortsnuitige Honden} (Breeding of short muzzled dogs),
+van Hagen (2019), and based on it rather stringent legislation, restricting
+breeding primarily on the basis of a single simple measurement of
+brachycephaly, the CFR: cranial-facial ratio. Van Hagen's work is a literature
+study and it draws heavily on statistical results obtained in three
+publications: Njikam (2009), Packer et al.~(2015), and Liu et al.~(2017). In
+this paper I discuss some serious shortcomings of those three studies and in
+particular show that Packer et al.\ have drawn unwarranted conclusions from
+their study. In fact, new analyses using their data leads to an entirely
+different conclusion.",-0.21349278,-0.15195337,0.011721227,A
+11793,"In the short term, this means that further research about the population of
+people examining forensic evidence is required.","The
+lack of accessible data collected by courts at all levels adds to the challenge.","As courts continue to transition
+to electronic court ﬁlings, there will be more opportunities to explore court
+records.",2022-09-28 16:42:56+00:00,Shining a Light on Forensic Black-Box Studies,stat.AP,['stat.AP'],"[arxiv.Result.Author('Kori Khan'), arxiv.Result.Author('Alicia L. Carriquiry')]","Forensic science plays a critical role in the American criminal justice
+system. For decades, many feature-based fields of forensic science, such as
+firearm and toolmark identification, developed outside of the purview of the
+scientific community. Currently, black-box studies are used to assess the
+scientific validity of feature-based methods. The results of these studies are
+widely relied on by judges across the country. However, this reliance is
+misplaced. Black-box studies to date suffer from inappropriate sampling methods
+and high rates of missingness. Current black-box studies ignore both problems
+in arriving at the error rate estimates presented to courts. We explore the
+impact of each type of limitation using available data from black-box studies
+and court materials. We show that black-box studies rely on non-representative
+samples of examiners. Using a case study of a popular ballistics study, we find
+evidence that these non-representative samples may commit fewer errors than the
+wider population from which they came. We also find evidence that the
+missingness in black-box studies is non-ignorable. Using data from a recent
+latent print study, we show that ignoring this missingness likely results in
+systematic underestimates of error rates. Finally, we offer concrete steps to
+overcome these limitations.",-0.43646514,0.004491102,0.031789042,A
+12268,"A potentially fruitful line of further research
+is to consider the inﬂuence of individual and coverage speciﬁc covariates on the mean,
+dispersion and dependence parameters of the porposed class of models by introducing
+regression components into the composite marginal models and the correlation parameter
+of the Gumbel copula.","The model parameters as well as the dependence parameter were estimated based on the
+inference function for margins (IFM) method.","Funding
+
+The present work is a part of project granted by Department of Science & Technology,
+Government of India under the Core Research Grant scheme (CRG/2019/002993).",2022-10-11 02:08:48+00:00,A Copula-Based family of Bivariate Composite Models for Claim Severity Modelling,stat.AP,['stat.AP'],"[arxiv.Result.Author('Girish Aradhye'), arxiv.Result.Author('George Tzougas'), arxiv.Result.Author('Deepesh Bhati')]","In this paper, we consider bivariate composite models for modeling jointly
+different types of claims and their associated costs in a flexible manner. For
+expository purposes, the Gumbel copula is paired with the composite
+Weibull-Inverse Weibull, Paralogistic-Inverse Weibull, and Inverse Burr-Inverse
+Weibull marginal models. The resulting bivariate copula-based composite models
+are fitted on motor insurance bodily injury and property damage data from a
+European motor insurance company and their parameters are estimated via the
+inference functions for margins method.",0.062330328,-0.12670657,-0.32632378,B
+12639,"However, further research directly comparing
+
+the RR estimates between BRM and glm methods need to be conducted.","Use of BRM for estimating RR may produce wider
+
+(conservative) confidence intervals for the RR.","References
+
+1 Rothman KJ, Greenland S, Lash TL.",2022-10-18 01:43:34+00:00,Risk Ratio regression -- simple concept yet complex computation,stat.AP,"['stat.AP', 'stat.CO']","[arxiv.Result.Author('Murthy N Mittinty'), arxiv.Result.Author('John Lynch')]","The Risk Ratio (RR) is the ratio of the outcome among the exposed to risk of
+the outcome among the unexposed. This is a simple concept, which makes one
+wonder why it has not gained the same popularity as the odds ratio. Using
+logistic regression to estimate the odds ratio is quite common in epidemiology
+and interpreting the odds ratio as a risk ratio, under the assumption that the
+outcome is rare, is also common. On one hand, estimating the odds ratio is
+simple but interpreting it is hard. On the other, estimating the risk ratio is
+challenging but its interpretation is straightforward. Issues with estimating
+risk ratio still remains after four decades. These issues include convergence
+of the algorithm, the choice of regression specification (e.g. log-binomial,
+Poisson) and many more. Various new computational methods are available that
+help overcome the issue of convergence and provide doubly robust estimates of
+RR.",-0.006186653,-0.14526786,-0.12060741,B
+12828,"We observe that
+
+    • the mean diﬀerences again increase in absolute value, nearly linearly, as p increases,
+
+    • for ΣA the top REML eigenvalues are larger than MANOVA, while for ΣB and ΣE
+       they are smaller,
+
+    • the magnitude of the (negative) diﬀerence is much larger for ΣB,
+
+    • the SDs of the diﬀerences over the 50 replications (not shown) are approximately 10%
+       of the mean diﬀerences, and in particular are generally increasing with p.
+
+These variations in sign and magnitude of the diﬀerences between the top REML and
+MANOVA eigenvalues call for further study.",", 100.","At the least they indicate a dependence on
+the level of nesting of the respective variance components.",2022-10-21 03:39:51+00:00,Comparison of REML methods for the study of phenome-wide genetic variation,stat.AP,"['stat.AP', '92-10']","[arxiv.Result.Author('Damian Pavlyshyn'), arxiv.Result.Author('Iain M. Johnstone'), arxiv.Result.Author('Jacqueline L. Sztepanacz')]","It is now well documented that genetic covariance between functionally
+related traits leads to an uneven distribution of genetic variation across
+multivariate trait combinations, and possibly a large part of phenotype-space
+that is inaccessible to evolution. How the size of this nearly-null genetic
+space translates to the broader phenome level is unknown. High dimensional
+phenotype data to address these questions are now within reach, however,
+incorporating these data into genetic analyses remains a challenge. Multi-trait
+genetic analyses, of more than a handful of traits, are slow and often fail to
+converge when fit with REML. This makes it challenging to estimate the genetic
+covariance ($\mathbf{G}$) underlying thousands of traits, let alone study its
+properties. We present a previously proposed REML algorithm that is feasible
+for high dimensional genetic studies in the specific setting of a balanced
+nested half-sib design, common of quantitative genetics. We show that it
+substantially outperforms other common approaches when the number of traits is
+large, and we use it to investigate the bias in estimated eigenvalues of
+$\mathbf{G}$ and the size of the nearly-null genetic subspace. We show that the
+high-dimensional biases observed are qualitatively similar to those
+substantiated by asymptotic approximation in a simpler setting of a sample
+covariance matrix based on i.i.d. vector observation, and that interpreting the
+estimated size of the nearly-null genetic subspace requires considerable
+caution in high-dimensional studies of genetic variation. Our results provide
+the foundation for future research characterizing the asymptotic approximation
+of estimated genetic eigenvalues, and a statistical null distribution for
+phenome-wide studies of genetic variation.",-0.02446205,0.01273595,-0.12733912,C
+12923,A conclusion and outlook for further research and development is given in Section 4.,"Section 3 illustrates
+                                          how to extract data from observations and how to apply the theory on a concrete numerical example and application.",II.,2022-10-24 11:07:10+00:00,Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving,stat.AP,['stat.AP'],"[arxiv.Result.Author('Katrin Lotto'), arxiv.Result.Author('Thomas Nagler'), arxiv.Result.Author('Mladjan Radic')]","Verification and validation of fully automated vehicles is linked to an
+almost intractable challenge of reflecting the real world with all its
+interactions in a virtual environment. Influential stochastic parameters need
+to be extracted from real-world measurements and real-time data, capturing all
+interdependencies, for an accurate simulation of reality. A copula is a
+probability model that represents a multivariate distribution, examining the
+dependence between the underlying variables. This model is used on drone
+measurement data from a roundabout containing dependent stochastic parameters.
+With the help of the copula model, samples are generated that reflect the
+real-time data. Resulting applications and possible extensions are discussed
+and explored.",0.33452192,0.14421725,0.06258573,B
+12924,A conclusion and outlook for further research and development is given in Section 4.,"Section 3 illustrates
+                                          how to extract data from observations and how to apply the theory on a concrete numerical example and application.",II.,2022-10-24 11:07:10+00:00,Modeling Stochastic Data Using Copulas For Application in Validation of Autonomous Driving,stat.AP,['stat.AP'],"[arxiv.Result.Author('Katrin Lotto'), arxiv.Result.Author('Thomas Nagler'), arxiv.Result.Author('Mladjan Radic')]","Verification and validation of fully automated vehicles is linked to an
+almost intractable challenge of reflecting the real world with all its
+interactions in a virtual environment. Influential stochastic parameters need
+to be extracted from real-world measurements and real-time data, capturing all
+interdependencies, for an accurate simulation of reality. A copula is a
+probability model that represents a multivariate distribution, examining the
+dependence between the underlying variables. This model is used on drone
+measurement data from a roundabout containing dependent stochastic parameters.
+With the help of the copula model, samples are generated that reflect the
+real-time data. Resulting applications and possible extensions are discussed
+and explored.",0.33452192,0.14421725,0.06258573,B
+12933,"A further study may reveal additional factors potentially affecting
+absorption of the active ingredient, which may help direct the research of precision medicine
+into fruitful alternative directions (e.g., Do IM subjects also warrant caution or a reduced
+dosage in some cases?","In addition, while the
+percentage of PM subjects in Cluster 2 is markedly higher than the percentage of PM subjects
+in Clusters 1, 3, or 4, there are phenotypes of each other type of metabolizer category (IM,
+EM, RM, UM) that are also clustered into Cluster 2 – albeit in much smaller percentages
+versus Cluster 1.","If so, when?).",2022-10-24 14:57:22+00:00,Applications of Machine Learning in Pharmacogenomics: Clustering Plasma Concentration-Time Curves,stat.AP,"['stat.AP', 'stat.ML']","[arxiv.Result.Author('Jackson P. Lautier'), arxiv.Result.Author('Stella Grosser'), arxiv.Result.Author('Jessica Kim'), arxiv.Result.Author('Hyewon Kim'), arxiv.Result.Author('Junghi Kim')]","Pharmaceutical researchers are continually searching for techniques to
+improve both drug development processes and patient outcomes. An area of recent
+interest is the potential for machine learning applications within
+pharmacology. One such application not yet given close study is the
+unsupervised clustering of plasma concentration-time curves, hereafter,
+pharmacokinetic (PK) curves. This can be done by treating a PK curve as a time
+series object and subsequently utilizing the extensive body of research related
+to the clustering of time series data objects. In this paper, we introduce
+hierarchical clustering within the context of clustering PK curves and find it
+to be effective at identifying similar-shaped PK curves and informative for
+understanding patterns of PK curves via its dendrogram data visualization. We
+also examine many dissimilarity measures between time series objects to
+identify Euclidean distance as generally most appropriate for clustering PK
+curves. We further show that dynamic time warping, Fr\'echet, and
+structure-based measures of dissimilarity like correlation may produce
+unexpected results. Finally, we apply these methods to a dataset of 250 PK
+curves as an illustrative case study to demonstrate how the clustering of PK
+curves can be used as a descriptive tool for summarizing and visualizing
+complex PK data, which may enhance the study of pharmacogenomics in the context
+of precision medicine.",-0.356305,-0.12184085,-0.04563977,A
+12934,"This implies that the unsupervised clustering techniques
+identified potential areas of further study that were not identified from the reference studies
+using the PK parameter based analysis.","Additionally we provided an informative and efficient visualization
+of the complete sample population by way of the dendrogram, which is found to be
+informative and useful to draw additional insights from PK data that may not be easily found
+from PK analysis using PK metrics.","While unsupervised machine learning will not replace
+standard pharmacokinetic and pharmacogenomic research practices, we have found evidence
+that it has utility as an additional tool to support and possibly enhance such research.",2022-10-24 14:57:22+00:00,Applications of Machine Learning in Pharmacogenomics: Clustering Plasma Concentration-Time Curves,stat.AP,"['stat.AP', 'stat.ML']","[arxiv.Result.Author('Jackson P. Lautier'), arxiv.Result.Author('Stella Grosser'), arxiv.Result.Author('Jessica Kim'), arxiv.Result.Author('Hyewon Kim'), arxiv.Result.Author('Junghi Kim')]","Pharmaceutical researchers are continually searching for techniques to
+improve both drug development processes and patient outcomes. An area of recent
+interest is the potential for machine learning applications within
+pharmacology. One such application not yet given close study is the
+unsupervised clustering of plasma concentration-time curves, hereafter,
+pharmacokinetic (PK) curves. This can be done by treating a PK curve as a time
+series object and subsequently utilizing the extensive body of research related
+to the clustering of time series data objects. In this paper, we introduce
+hierarchical clustering within the context of clustering PK curves and find it
+to be effective at identifying similar-shaped PK curves and informative for
+understanding patterns of PK curves via its dendrogram data visualization. We
+also examine many dissimilarity measures between time series objects to
+identify Euclidean distance as generally most appropriate for clustering PK
+curves. We further show that dynamic time warping, Fr\'echet, and
+structure-based measures of dissimilarity like correlation may produce
+unexpected results. Finally, we apply these methods to a dataset of 250 PK
+curves as an illustrative case study to demonstrate how the clustering of PK
+curves can be used as a descriptive tool for summarizing and visualizing
+complex PK data, which may enhance the study of pharmacogenomics in the context
+of precision medicine.",-0.1982903,-0.00020106602,-0.16460094,A
+13204,"An important direction of further research would involve the case of deterministic
+signal duration N and the choice of π in (9).","They are not
+bad for the LPD, but for LCPFA they are too rough.","One possible motivation could be as
+follows.",2022-10-31 14:09:34+00:00,Detecting an Intermittent Change of Unknown Duration,stat.AP,"['stat.AP', '62L10, 60G40, 62C20', 'G.3']","[arxiv.Result.Author('Grigory Sokolov'), arxiv.Result.Author('Valentin S. Spivak'), arxiv.Result.Author('Alexander G. Tartakovsky')]","We address the problem of detecting a change that is not persistent but
+rather starts and terminates at unknown points in time. We revisit the
+motivation behind several popular maximal likelihood ratio-based rules and
+investigate their operating characteristics.",0.1329534,0.10000062,0.0369975,B
+13792,"Because the study
+reveals the potential existence of spatial heterogeneity in one case (i.e., Gwangjin-gu), deeper investigations including
+behavioral factors and governmental issues are recommended for further study.",This study investigated the overall possibility of spatial heterogeneity within the same district.,"The results and discussions bring a
+
+      The Association Between SOC and Land Prices Considering Spatial Heterogeneity Based on Finite Mixture Modeling 73
+serious consideration of SOCs in managerial techniques of land price in South Korea.",2022-11-15 23:18:06+00:00,The Association Between SOC and Land Prices Considering Spatial Heterogeneity Based on Finite Mixture Modeling,stat.AP,"['stat.AP', 'cs.AI', 'cs.LG', '68T09 (Primary), 68T37, 68U35 (Secondary)', 'H.3.3; I.5.3; I.2.1']","[arxiv.Result.Author('Woo Seok Kang'), arxiv.Result.Author('Eunchan Kim'), arxiv.Result.Author('Wookjae Heo')]","An understanding of how Social Overhead Capital (SOC) is associated with the
+land value of the local community is important for effective urban planning.
+However, even within a district, there are multiple sections used for different
+purposes; the term for this is spatial heterogeneity. The spatial heterogeneity
+issue has to be considered when attempting to comprehend land prices. If there
+is spatial heterogeneity within a district, land prices can be managed by
+adopting the spatial clustering method. In this study, spatial attributes
+including SOC, socio-demographic features, and spatial information in a
+specific district are analyzed with Finite Mixture Modeling (FMM) in order to
+find (a) the optimal number of clusters and (b) the association among SOCs,
+socio-demographic features, and land prices. FMM is a tool used to find
+clusters and the attributes' coefficients simultaneously. Using the FMM method,
+the results show that four clusters exist in one district and the four clusters
+have different associations among SOCs, demographic features, and land prices.
+Policymakers and managerial administration need to look for information to make
+policy about land prices. The current study finds the consideration of
+closeness to SOC to be a significant factor on land prices and suggests the
+potential policy direction related to SOC.",0.020262752,0.088879436,-0.28220662,C
+13893,"The potential poor performance
+
+of SNL under misspeciﬁcation, and possible remedies to this problem, require further research.","In contrast, SMC-ABC produces results that are more robust to
+
+this misspeciﬁcation, albeit at a higher computational cost in terms of model simulations.","In terms of computational
+
+cost, SMC-ABC takes ∼3 hours for each dataset.",2022-11-18 04:58:46+00:00,Being Bayesian in the 2020s: opportunities and challenges in the practice of modern applied Bayesian statistics,stat.AP,['stat.AP'],"[arxiv.Result.Author('Joshua J. Bon'), arxiv.Result.Author('Adam Bretherton'), arxiv.Result.Author('Katie Buchhorn'), arxiv.Result.Author('Susanna Cramb'), arxiv.Result.Author('Christopher Drovandi'), arxiv.Result.Author('Conor Hassan'), arxiv.Result.Author('Adrianne L. Jenner'), arxiv.Result.Author('Helen J. Mayfield'), arxiv.Result.Author('James M. McGree'), arxiv.Result.Author('Kerrie Mengersen'), arxiv.Result.Author('Aiden Price'), arxiv.Result.Author('Robert Salomone'), arxiv.Result.Author('Edgar Santos-Fernandez'), arxiv.Result.Author('Julie Vercelloni'), arxiv.Result.Author('Xiaoyu Wang')]","Building on a strong foundation of philosophy, theory, methods and
+computation over the past three decades, Bayesian approaches are now an
+integral part of the toolkit for most statisticians and data scientists.
+Whether they are dedicated Bayesians or opportunistic users, applied
+professionals can now reap many of the benefits afforded by the Bayesian
+paradigm. In this paper, we touch on six modern opportunities and challenges in
+applied Bayesian statistics: intelligent data collection, new data sources,
+federated analysis, inference for implicit models, model transfer and
+purposeful software products.",0.03545874,0.0650037,0.12157688,B
+14237,"Finally, Section 4 provides a discussion, conclusion, and consideration of
+further research directions.","Pattern discovery and characterization, and their correlations with geographical factors are
+presented in Section 3.",2.,2022-11-27 23:19:47+00:00,Dynamics of Fecal Coliform Bacteria along Canada's Coast,stat.AP,['stat.AP'],"[arxiv.Result.Author('Shuai You'), arxiv.Result.Author('Xiaolin Huang'), arxiv.Result.Author('Li Xing'), arxiv.Result.Author('Mary Lesperance'), arxiv.Result.Author('Charles LeBlanc'), arxiv.Result.Author('Paul Moccia'), arxiv.Result.Author('Vincent Mercier'), arxiv.Result.Author('Xiaojian Shao'), arxiv.Result.Author('Youlian Pan'), arxiv.Result.Author('Xuekui Zhang')]","The vast coastline provides Canada with a flourishing seafood industry
+including bivalve shellfish production. To sustain a healthy bivalve molluscan
+shellfish production, the Canadian Shellfish Sanitation Program was established
+to monitor the health of shellfish harvesting habitats, and fecal coliform
+bacteria data have been collected at nearly 15,000 marine sample sites across
+six coastal provinces in Canada since 1979. We applied Functional Principal
+Component Analysis and subsequent correlation analyses to find annual variation
+patterns of bacteria levels at sites in each province. The overall magnitude
+and the seasonality of fecal contamination were modelled by functional
+principal component one and two, respectively. The amplitude was related to
+human and warm-blooded animal activities; the seasonality was strongly
+correlated with river discharge driven by precipitation and snow melt in
+British Columbia, but such correlation in provinces along the Atlantic coast
+could not be properly evaluated due to lack of data during winter.",0.10705908,0.17903599,-0.25518733,C
+14290,"It is of great interest to further study any perception bias during the interaction between
+articles and their reviewers; however, a key complication facing such an analysis is that articles
+may not be comparable without having a relatively objective judgment or rating (e.g., reviewers’
+ratings in our analysis of area chairs’ decision).","Although the peer-review process of ICLR is in principle double-blind, it is conceivable that articles’
+author metadata could be leaked (e.g., when articles were posted in the pre-print platform) during
+the peer review process, and reviewers’ ratings could be biased in favor of more (or less) established
+authors.","With all these important caveats and limitations in mind, we found our analysis a solid contri-
+bution to the social science literature on status bias.",2022-11-29 00:49:48+00:00,"Association between author metadata and acceptance: A feature-rich, matched observational study of a corpus of ICLR submissions between 2017-2022",stat.AP,['stat.AP'],"[arxiv.Result.Author('Chang Chen'), arxiv.Result.Author('Jiayao Zhang'), arxiv.Result.Author('Dan Roth'), arxiv.Result.Author('Ting Ye'), arxiv.Result.Author('Bo Zhang')]","Many recent studies have probed status bias in the peer-review process of
+academic journals and conferences. In this article, we investigated the
+association between author metadata and area chairs' final decisions
+(Accept/Reject) using our compiled database of 5,313 borderline submissions to
+the International Conference on Learning Representations (ICLR) from 2017 to
+2022. We carefully defined elements in a cause-and-effect analysis, including
+the treatment and its timing, pre-treatment variables, potential outcomes and
+causal null hypothesis of interest, all in the context of study units being
+textual data and under Neyman and Rubin's potential outcomes (PO) framework. We
+found some weak evidence that author metadata was associated with articles'
+final decisions. We also found that, under an additional stability assumption,
+borderline articles from high-ranking institutions (top-30% or top-20%) were
+less favored by area chairs compared to their matched counterparts. The results
+were consistent in two different matched designs (odds ratio = 0.82 [95% CI:
+0.67 to 1.00] in a first design and 0.83 [95% CI: 0.64 to 1.07] in a
+strengthened design). We discussed how to interpret these results in the
+context of multiple interactions between a study unit and different agents
+(reviewers and area chairs) in the peer-review system.",-0.3519484,-0.123551965,-0.072913215,A
+14402,"Finally, the main
+ﬁndings and suggestions for further research are summarized in Section 7.","In Section 5, the hyper-parameter tuning for the models is presented and a
+numerical example on real data is investigated in Section 6.","2 The claims reserving problem
+
+The development of a non-life insurance claim is presented in Figure 1.",2022-11-30 20:17:48+00:00,mCube: Multinomial Micro-level reserving Model,stat.AP,"['stat.AP', 'econ.EM', 'G.3']","[arxiv.Result.Author('Emmanuel Jordy Menvouta'), arxiv.Result.Author('Jolien Ponnet'), arxiv.Result.Author('Robin Van Oirbeek'), arxiv.Result.Author('Tim Verdonck')]","This paper presents a multinomial multi-state micro-level reserving model,
+denoted mCube. We propose a unified framework for modelling the time and the
+payment process for IBNR and RBNS claims and for modeling IBNR claim counts. We
+use multinomial distributions for the time process and spliced mixture models
+for the payment process. We illustrate the excellent performance of the
+proposed model on a real data set of a major insurance company consisting of
+bodily injury claims. It is shown that the proposed model produces a best
+estimate distribution that is centered around the true reserve.",0.097406656,0.03392247,0.02426194,B
+14431,"This, again, highlights the importance of further research on this topic
+
+                                                             8
+seeking to disentangle these alternatives.","As an alternative explanation, disregarding the non-central time
+series means that with an overall less number of data points to work with, the relative inﬂuence
+of the outliers (seen clearly in ﬁgure 2) increases and thus, the height of the second plateau
+in ﬁgure 2 is pulled slightly downwards to decrease the gap between the regression curve and
+the Kachi Plain data.","The outliers to the otherwise neat ﬁt of this data,
+discussed above, are certainly intriguing, though having only two such cases explained by their
+peculiar internal developments further underscores how well the logistic curve ﬁts the general
+pattern.",2022-12-01 15:08:45+00:00,The Characteristic Time Scale of Cultural Evolution,stat.AP,['stat.AP'],"[arxiv.Result.Author('Tobias Wand'), arxiv.Result.Author('Dan Hoyer')]","Time series data from the Seshat: Global History Databank is shifted so that
+the overlapping time series can be fitted to a single logistic regression model
+for all 18 geographic areas under consideration. To analyse the endogenous
+growth of social complexity, each time series is restricted to a central time
+interval without discontinuous polity changes. The resulting regression shows
+convincing out-of-sample predictions and via bootstrapping, its period of
+rapidly growing social complexity can be identified as a time interval of
+roughly 800 years.",0.016171666,0.24363574,0.024596281,B
+14470,"Observed differences in MT and MI levels between FBOs and NFBOs suggest possible areas for further research into
+how Christian values may inﬂuence FBO decision-making.","In our case, our analysis
+revealed two such areas: (i) the most ideal disaster response type attribute and (ii) the MT/MI local partner level of the
+Community Access attribute for both FBOs and NFBOs.","For example, a much larger proportion of FBOs (96%) than
+NFBOs (50%) is estimated to respond to “non-headline news” type disasters, meaning those which are not declared
+“Level 3” by the United Nations’ Inter-agency Standing Committee (i.e.",2022-12-01 21:47:01+00:00,Identifying most typical and most ideal attribute levels in small populations of expert decision makers: Studying the Go/No Go decision of disaster relief organizations,stat.AP,['stat.AP'],"[arxiv.Result.Author('Paul Isihara'), arxiv.Result.Author('Chaojun Shi'), arxiv.Result.Author('Jonathan Ward'), arxiv.Result.Author(""Leo O'Malley""), arxiv.Result.Author('Skyler Laney'), arxiv.Result.Author('Danilo Diedrichs'), arxiv.Result.Author('Gabriel Flores')]","This paper proposes the use of Most Typical (MT) and Most Ideal (MI) levels
+when an adaptive choice-based conjoint (ACBC) survey can only obtain a small
+sample size n from a small population size N.",-0.21197587,-0.06436062,-0.13307253,A
+15254,"Consequently, there are still many areas open for further research.","Compared to other challenges in OCEs, the literature for triggering is, at present, rather
+
+sparse.","The discussed
+
+methodologies for estimating the diluted treatment eﬀect each depend on assumptions that
+
+                                                    15
+may be too restrictive in certain applications.",2022-12-21 21:08:06+00:00,Statistical Challenges in Online Controlled Experiments: A Review of A/B Testing Methodology,stat.AP,['stat.AP'],"[arxiv.Result.Author('Nicholas Larsen'), arxiv.Result.Author('Jonathan Stallrich'), arxiv.Result.Author('Srijan Sengupta'), arxiv.Result.Author('Alex Deng'), arxiv.Result.Author('Ron Kohavi'), arxiv.Result.Author('Nathaniel Stevens')]","The rise of internet-based services and products in the late 1990's brought
+about an unprecedented opportunity for online businesses to engage in large
+scale data-driven decision making. Over the past two decades, organizations
+such as Airbnb, Alibaba, Amazon, Baidu, Booking.com, Alphabet's Google,
+LinkedIn, Lyft, Meta's Facebook, Microsoft, Netflix, Twitter, Uber, and Yandex
+have invested tremendous resources in online controlled experiments (OCEs) to
+assess the impact of innovation on their customers and businesses. Running OCEs
+at scale has presented a host of challenges requiring solutions from many
+domains. In this paper we review challenges that require new statistical
+methodologies to address them. In particular, we discuss the practice and
+culture of online experimentation, as well as its statistics literature,
+placing the current methodologies within their relevant statistical lineages
+and providing illustrative examples of OCE applications. Our goal is to raise
+academic statisticians' awareness of these new research opportunities to
+increase collaboration between academia and the online industry.",-0.26077306,-0.11308925,0.087419495,A
+15324,"The introduction of the new cycle at the ECMWF from 2023, where the current opera-
+tional setup of a single TCo1279 and 51 TCo639 forecasts will be replaced by 51 forecasts
+at TCo1279 resolution and 101 forecasts at TCo319 resolution immediately provides new
+avenues of further research on calibration of dual-resolution predictions.","These results
+indicate that the semi-local CSG EMOS method trained merely using data from a 30-day
+rolling training period is fully able to catch up with the essentially more complex quantile
+mapping based on historical data of a 20-year period.","Another possible
+direction is the investigation of the skill of machine learning-based parametric post-processing
+approaches in the dual-resolution context, focusing on methods that, similar to EMOS, re-
+quire short training data, see e.g.",2022-12-23 18:01:44+00:00,Parametric post-processing of dual-resolution precipitation forecasts,stat.AP,['stat.AP'],"[arxiv.Result.Author('Marianna Szabó'), arxiv.Result.Author('Estíbaliz Gascón'), arxiv.Result.Author('Sándor Baran')]","Recently, all major weather centres issue ensemble forecasts which even
+covering the same domain differ both in the ensemble size and spatial
+resolution. These two parameters highly determine both the forecast skill of
+the prediction and the computation cost. In the last few years, the plans of
+upgrading the configuration of the Integrated Forecast System of the European
+Centre for Medium-Range Weather Forecasts (ECMWF) from a single forecast with 9
+km resolution and a 51-member ensemble with 18 km resolution induced an
+extensive study of the forecast skill of both raw and post-processed
+dual-resolution predictions comprising ensemble members of different horizontal
+resolutions.
+  We investigate the predictive performance of the censored shifted gamma (CSG)
+ensemble model output statistic (EMOS) approach for statistical post-processing
+with the help of dual-resolution 24h precipitation accumulation ensemble
+forecasts over Europe with various forecast horizons. As high-resolution, the
+operational 50-member ECMWF ensemble is considered, which is extended with a
+200-member low-resolution (29-km grid) experimental forecast. The investigated
+dual-resolution combinations consist of (possibly empty) subsets of these two
+forecast ensembles with equal computational cost, being equivalent to the cost
+of the operational 50-member ECMWF ensemble.
+  Our case study verifies that, compared with the raw ensemble combinations,
+EMOS post-processing results in a significant improvement in forecast skill and
+the differences between the various dual-resolution combinations are reduced to
+a non-significant level. Moreover, the semi-locally trained CSG EMOS is fully
+able to catch up with the state-of-the-art quantile mapping and provides an
+efficient alternative without requiring additional historical data essential in
+determining the quantile maps.",0.2507601,0.010955717,0.09818293,B

@@ -1,0 +1,953 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+732,"Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality.","And similarly, Φ should lead to Ψ and Φ should lead to Ψ .","Another promising direction is to study the synthesis problem for rCTL and
+rCTL*.",2022-01-18 16:45:08+00:00,Robust Computation Tree Logic,cs.LO,"['cs.LO', 'F.4.1; I.2.4']","[arxiv.Result.Author('Satya Prakash Nayak'), arxiv.Result.Author('Daniel Neider'), arxiv.Result.Author('Rajarshi Roy'), arxiv.Result.Author('Martin Zimmermann')]","It is widely accepted that every system should be robust in that ""small""
+violations of environment assumptions should lead to ""small"" violations of
+system guarantees, but it is less clear how to make this intuition
+mathematically precise. While significant efforts have been devoted to
+providing notions of robustness for Linear Temporal Logic (LTL), branching-time
+logic, such as Computation Tree Logic (CTL) and CTL*, have received less
+attention in this regard. To address this shortcoming, we develop ""robust""
+extensions of CTL and CTL*, which we name robust CTL (rCTL) and robust CTL*
+(rCTL*). Both extensions are syntactically similar to their parent logics but
+employ multi-valued semantics to distinguish between ""large"" and ""small""
+violations of the specification. We show that the multi-valued semantics of
+rCTL make it more expressive than CTL, while rCTL* is as expressive as CTL*.
+Moreover, we devise efficient model checking algorithms for rCTL and rCTL*,
+which have the same asymptotic time complexity as the model checking algorithms
+for CTL and CTL*, respectively.",0.485583,0.5184,0.22685334,C_centroid
+733,"Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality.","And similarly, Φ should lead to Ψ and Φ should lead to Ψ .","Another promising direction is to study the synthesis problem for rCTL and
+rCTL*.",2022-01-18 16:45:08+00:00,Robust Computation Tree Logic,cs.LO,"['cs.LO', 'F.4.1; I.2.4']","[arxiv.Result.Author('Satya Prakash Nayak'), arxiv.Result.Author('Daniel Neider'), arxiv.Result.Author('Rajarshi Roy'), arxiv.Result.Author('Martin Zimmermann')]","It is widely accepted that every system should be robust in that ""small""
+violations of environment assumptions should lead to ""small"" violations of
+system guarantees, but it is less clear how to make this intuition
+mathematically precise. While significant efforts have been devoted to
+providing notions of robustness for Linear Temporal Logic (LTL), branching-time
+logic, such as Computation Tree Logic (CTL) and CTL*, have received less
+attention in this regard. To address this shortcoming, we develop ""robust""
+extensions of CTL and CTL*, which we name robust CTL (rCTL) and robust CTL*
+(rCTL*). Both extensions are syntactically similar to their parent logics but
+employ multi-valued semantics to distinguish between ""large"" and ""small""
+violations of the specification. We show that the multi-valued semantics of
+rCTL make it more expressive than CTL, while rCTL* is as expressive as CTL*.
+Moreover, we devise efficient model checking algorithms for rCTL and rCTL*,
+which have the same asymptotic time complexity as the model checking algorithms
+for CTL and CTL*, respectively.",0.485583,0.5184,0.22685334,C
+734,"Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality.","And similarly, Φ should lead to Ψ and Φ should lead to Ψ .","Another promising direction is to study the synthesis problem for rCTL and
+rCTL*.",2022-01-18 16:45:08+00:00,Robust Computation Tree Logic,cs.LO,"['cs.LO', 'F.4.1; I.2.4']","[arxiv.Result.Author('Satya Prakash Nayak'), arxiv.Result.Author('Daniel Neider'), arxiv.Result.Author('Rajarshi Roy'), arxiv.Result.Author('Martin Zimmermann')]","It is widely accepted that every system should be robust in that ""small""
+violations of environment assumptions should lead to ""small"" violations of
+system guarantees, but it is less clear how to make this intuition
+mathematically precise. While significant efforts have been devoted to
+providing notions of robustness for Linear Temporal Logic (LTL), branching-time
+logic, such as Computation Tree Logic (CTL) and CTL*, have received less
+attention in this regard. To address this shortcoming, we develop ""robust""
+extensions of CTL and CTL*, which we name robust CTL (rCTL) and robust CTL*
+(rCTL*). Both extensions are syntactically similar to their parent logics but
+employ multi-valued semantics to distinguish between ""large"" and ""small""
+violations of the specification. We show that the multi-valued semantics of
+rCTL make it more expressive than CTL, while rCTL* is as expressive as CTL*.
+Moreover, we devise efficient model checking algorithms for rCTL and rCTL*,
+which have the same asymptotic time complexity as the model checking algorithms
+for CTL and CTL*, respectively.",0.485583,0.5184,0.22685334,C
+735,"Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality.","And similarly, Φ should lead to Ψ and Φ should lead to Ψ .","Another promising direction is to study the synthesis problem for rCTL and
+rCTL*.",2022-01-18 16:45:08+00:00,Robust Computation Tree Logic,cs.LO,"['cs.LO', 'F.4.1; I.2.4']","[arxiv.Result.Author('Satya Prakash Nayak'), arxiv.Result.Author('Daniel Neider'), arxiv.Result.Author('Rajarshi Roy'), arxiv.Result.Author('Martin Zimmermann')]","It is widely accepted that every system should be robust in that ""small""
+violations of environment assumptions should lead to ""small"" violations of
+system guarantees, but it is less clear how to make this intuition
+mathematically precise. While significant efforts have been devoted to
+providing notions of robustness for Linear Temporal Logic (LTL), branching-time
+logics, such as Computation Tree Logic (CTL) and CTL*, have received less
+attention in this regard. To address this shortcoming, we develop ""robust""
+extensions of CTL and CTL*, which we name robust CTL (rCTL) and robust CTL*
+(rCTL*). Both extensions are syntactically similar to their parent logics but
+employ multi-valued semantics to distinguish between ""large"" and ""small""
+violations of the specification. We show that the multi-valued semantics of
+rCTL make it more expressive than CTL, while rCTL* is as expressive as CTL*.
+Moreover, we devise efficient model checking algorithms for rCTL and rCTL*,
+which have the same asymptotic time complexity as the model checking algorithms
+for CTL and CTL*, respectively.",0.485583,0.5184,0.22685334,C
+1331,"troduced a call-by-value (CBV) let operator, which would
+
+                                           Programming languages researchers have seen this rise                                          make  the  example  program  be  interpreted  as  1  (0,1)  +  1  (1,0) ,
+                                        in interest as an opportunity to further study the interaction                                                                                      2            2
+                                        of probability and programming languages, establishing it                                         where is the point mass distribution at .","To get around this limitation the authors have in-
+                                        and machine learning, randomness is also used to program
+                                        statistical models and do inference on them.","Unfortunately,
+                                        as an active subﬁeld within the PL community.",2022-01-31 23:10:38+00:00,A Sampling-Aware Interpretation of Linear Logic: Syntax and Categorical Semantics,cs.LO,"['cs.LO', 'cs.PL']",[arxiv.Result.Author('Pedro H. Azevedo de Amorim')],"The usual resource interpretation of linear logic says that variables have to
+be used exactly once. However, there are models of linear logic where this
+interpretation is too restrictive. In this work we show how in probabilistic
+models of linear logic the correct resource interpretation should be sampling,
+i.e. the linear arrow should be read as ""the output may only sample once from
+its input"". We accommodate this new interpretation by defining a multilanguage
+syntax and its categorical semantics that bridges the Markov kernel and linear
+logic interpretations of probabilistic programs.",-0.07791786,0.18712899,-0.19732729,B
+1481,"We have presented tableau-based decision procedures that are easily implementable, but
+inference systems for reasoning in these logics require further study.","We need sharper technical tools for investigating lower bounds for
+bundled fragments.","References
+
+  1 Hajnal Andréka, István Németi, and Johan van Benthem.",2022-02-03 13:35:44+00:00,Are Bundles Good Deals for FOML?,cs.LO,['cs.LO'],"[arxiv.Result.Author('Mo Liu'), arxiv.Result.Author('Anantha Padmanabha'), arxiv.Result.Author('R Ramanujam'), arxiv.Result.Author('Yanjing Wang')]","Bundled products are often offered as good deals to customers. When we bundle
+quantifiers and modalities together (as in $\exists x \Box$, $\Diamond \forall
+x$ etc.) in first-order modal logic (FOML), we get new logical operators whose
+combinations produce interesting fragments of FOML without any restriction on
+the arity of predicates, the number of variables, or the modal scope. It is
+well-known that finding decidable fragments of FOML is hard, so we may ask: do
+bundled fragments that exploit the distinct expressivity of FOML constitute
+good deals in balancing the expressivity and complexity? There are a few
+positive earlier results on some particular fragments. In this paper, we try to
+fully map the terrain of bundled fragments of FOML in (un)decidability, and in
+the cases without a definite answer yet, we show that they lack the finite
+model property. Moreover, whether the logics are interpreted over constant
+domains (across states/worlds) or increasing domains presents another layer of
+complexity. We also present the \textit{loosely bundled fragment}, which
+generalizes the bundles and yet retain decidability (over increasing domain
+models).",-0.059557803,-0.08185467,0.21048334,B
+1482,"We have presented tableau-based decision procedures that are easily implementable, but
+inference systems for reasoning in these logics require further study.","We need sharper technical tools for investigating lower bounds for
+bundled fragments.","References
+
+  1 Hajnal Andréka, István Németi, and Johan van Benthem.",2022-02-03 13:35:44+00:00,Are Bundles Good Deals for FOML?,cs.LO,['cs.LO'],"[arxiv.Result.Author('Mo Liu'), arxiv.Result.Author('Anantha Padmanabha'), arxiv.Result.Author('R Ramanujam'), arxiv.Result.Author('Yanjing Wang')]","Bundled products are often offered as good deals to customers. When we bundle
+quantifiers and modalities together (as in $\exists x \Box$, $\Diamond \forall
+x$ etc.) in first-order modal logic (FOML), we get new logical operators whose
+combinations produce interesting fragments of FOML without any restriction on
+the arity of predicates, the number of variables, or the modal scope. It is
+well-known that finding decidable fragments of FOML is hard, so we may ask: do
+bundled fragments that exploit the distinct expressivity of FOML constitute
+good deals in balancing the expressivity and complexity? There are a few
+positive earlier results on some particular fragments. In this paper, we try to
+fully map the terrain of bundled fragments of FOML in (un)decidability, and in
+the cases without a definite answer yet, we show that they lack the finite
+model property. Moreover, whether the logics are interpreted over constant
+domains (across states/worlds) or increasing domains presents another layer of
+complexity. We also present the \textit{loosely bundled fragment}, which
+generalizes the bundles and yet retain decidability (over increasing domain
+models).",-0.059557803,-0.08185467,0.21048334,B
+1733,"6 addresses ∀∃ properties:         (special kind of) KAT and, in addition to embedded unary action-
+After sketching a notion of TriKAT that deserves further study, we        s/tests, can be equipped with its own relational primitive actions
+develop characterizations in BiKAT and use these to derive proof          and tests.",Sect.,"The agreement [r = r] above is a primitive “bi-test.” Em-
+rules for forward and backward simulation.",2022-02-09 04:53:04+00:00,An algebra of alignment for relational verification,cs.LO,"['cs.LO', 'F.3.1']","[arxiv.Result.Author('Timos Antonopoulos'), arxiv.Result.Author('Eric Koskinen'), arxiv.Result.Author('Ton Chanh Le'), arxiv.Result.Author('Ramana Nagasamudram'), arxiv.Result.Author('David A. Naumann'), arxiv.Result.Author('Minh Ngo')]","Relational verification encompasses information flow security, regression
+verification, translation validation for compilers, and more. Effective
+alignment of the programs and computations to be related facilitates use of
+simpler relational invariants which in turn enables automation and modular
+reasoning. Alignment has been explored in terms of trace pairs, deductive rules
+of relational Hoare logics (RHL), and several forms of product automata. This
+article shows how a simple extension of Kleene Algebra with Tests (KAT), called
+BiKAT, subsumes prior formulations, including alignment witnesses for
+forall-exists properties, which brings to light new RHL rules for such
+properties. Alignments can be discovered algorithmically or devised manually
+but, in either case, their adequacy with respect to the original programs must
+be proved; an explicit algebra enables constructive proof by equational
+reasoning. Furthermore our approach inherits algorithmic benefits from existing
+KAT-based techniques and tools, which are applicable to a range of semantic
+models.",0.037423793,0.024638323,-0.16694358,B
+1734,"7 addresses ∀∃ properties: After sketching a notion of TriKAT that
+deserves further study, we develop characterizations in BiKAT and use these to derive proof rules
+for forward and backward simulation.",Sect.,We also report on explorations for ∃∀ and ∃∃ properties.,2022-02-09 04:53:04+00:00,An algebra of alignment for relational verification,cs.LO,"['cs.LO', 'F.3.1']","[arxiv.Result.Author('Timos Antonopoulos'), arxiv.Result.Author('Eric Koskinen'), arxiv.Result.Author('Ton Chanh Le'), arxiv.Result.Author('Ramana Nagasamudram'), arxiv.Result.Author('David A. Naumann'), arxiv.Result.Author('Minh Ngo')]","Relational verification encompasses information flow security, regression
+verification, translation validation for compilers, and more. Effective
+alignment of the programs and computations to be related facilitates use of
+simpler relational invariants which in turn enables automation and modular
+reasoning. Alignment has been explored in terms of trace pairs, deductive rules
+of relational Hoare logics (RHL), and several forms of product automata. This
+article shows how a simple extension of Kleene Algebra with Tests (KAT), called
+BiKAT, subsumes prior formulations, including alignment witnesses for
+forall-exists properties, which brings to light new RHL rules for such
+properties. Alignments can be discovered algorithmically or devised manually
+but, in either case, their adequacy with respect to the original programs must
+be proved; an explicit algebra enables constructive proof by equational
+reasoning. Furthermore our approach inherits algorithmic benefits from existing
+KAT-based techniques and tools, which are applicable to a range of semantic
+models.",0.044779174,-0.016091423,-0.14662242,B
+3451,"4 Conclusion and further research
+
+We have proposed a fragment of classical stit logic, Losstit , with a non-normal strategic
+modality [i]φ .",Follows directly from Deﬁnition 3.7 and Proposition 3.6.,"The neighbourhood semantics for the fragment was presented, as well
+as soundness and strong completeness of Losstit w.r.t.",2022-03-17 10:30:44+00:00,Neighbourhood semantics and axioms for strategic fragment of classical stit logic,cs.LO,['cs.LO'],[arxiv.Result.Author('Daniil Khaitovich')],"STIT (sees to it that) semantics is one of the most prominent tools in modal
+logic of agency, widely used among both philosophers and responsible AI
+scholars. STIT logic surveys the properties of agents seeing to it that some
+state of affairs holds without specifying concrete actions by which that state
+of affairs is guaranteed. In comparison with other multi-agent modal logics,
+the main advantage of STIT theories is expressive power. STIT logic allows to
+study not only statements about agents abilities to perform certain actions (as
+it is in variations of Coalition Logic or Propositional Dynamic Logic), but
+about what choices they make and what they de-facto achieve as well.
+  Nevertheless, in some occasions such expressivity may be redundant. This
+paper surveys a specific fragment of classical STIT logic, which has only
+strategic modal operator, standing for the fact that agent has an ability to
+see to it that some state of affairs holds. The neighbourhood semantics for the
+fragment is presented, accompanied with the soundness, canoniciy hence strong
+completeness results. Furthermore, the paper presents basic considerations on
+epistemic extension of the presented fragment.",0.14702974,-0.13484368,-0.10840401,A
+4174,Another topic for further research is the study of bisimulation.,"Even though 4DL was created independently, it would be interesting to check,
+in the future, its connection to a logic obtained by applying the technique in [11].",Remark.,2022-03-31 16:51:40+00:00,4DL: a four-valued Dynamic logic and its proof-theory,cs.LO,['cs.LO'],[arxiv.Result.Author('Diana Costa')],"Transition systems are often used to describe the behaviour of software
+systems. If viewed as a graph then, at their most basic level, vertices
+correspond to the states of a program and each edge represents a transition
+between states via the (atomic) action labelled. In this setting, systems are
+thought to be consistent so that at each state formulas are evaluated as either
+True or False.
+  On the other hand, when a structure of this sort - for example a map where
+states represent locations, some local properties are known and labelled
+transitions represent information available about different routes - is built
+resorting to multiple sources of information, it is common to find inconsistent
+or incomplete information regarding what holds at each state, both at the level
+of propositional variables and transitions.
+  This paper aims at bringing together Belnap's four values, Dynamic Logic and
+hybrid machinery such as nominals and the satisfaction operator, so that
+reasoning is still possible in face of contradicting evidence. Proof-theory for
+this new logic is explored by means of a terminating, sound and complete
+tableaux system.",-0.0021941345,0.09853798,-0.014376456,B
+4831,"Hence, a reasonable topic for further research is
+an investigation of normalisation for other Kleene-style logics, e.g.","For example, Sfde and dSfde may
+be considered as four-valued versions of Kw3 and PWK.","those which were formalised via ND
+systems in [28].",2022-04-14 03:23:47+00:00,Normalisation for Some Infectious Logics and Their Relatives,cs.LO,['cs.LO'],[arxiv.Result.Author('Yaroslav Petrukhin')],"We consider certain infectious logics (Sfde, dSfde, K3w, and PWK) and several
+their non-infectious modifications, including two new logics, reformulate
+previously constructed natural deduction systems for them (or present such
+systems from scratch for the case of new logics) in way such that the proof of
+normalisation theorem becomes possible for these logics. We present such a
+proof and establish the negation subformula property for the logics in
+question.",0.18990444,-0.008216257,0.068560384,A
+4832,"We
+conclude, in Section 5, with a discussion of the importance of the results obtained and several topics for
+further research.","Finally, Section 4 establishes our main results, namely the undecidability of
+monadicity for Nmatrices, and as a corollary the uncomputability of expressible multi-functions.","2 Preliminaries
+
+In this section we recall the notion of logical matrix, non-deterministic matrix, and their associated logics.",2022-04-14 03:24:43+00:00,Monadicity of Non-deterministic Logical Matrices is Undecidable,cs.LO,['cs.LO'],"[arxiv.Result.Author('Pedro Filipe'), arxiv.Result.Author('Carlos Caleiro'), arxiv.Result.Author('Sérgio Marcelino')]","The notion of non-deterministic logical matrix (where connectives are
+interpreted as multi-functions) preserves many good properties of traditional
+semantics based on logical matrices (where connectives are interpreted as
+functions) whilst finitely characterizing a much wider class of logics, and has
+proven to be decisive in a myriad of recent compositional results in logic.
+Crucially, when a finite non-deterministic matrix satisfies monadicity
+(distinct truth-values can be separated by unary formulas) one can
+automatically produce an axiomatization of the induced logic. Furthermore, the
+resulting calculi are analytical and enable algorithmic proof-search and
+symbolic counter-model generation.
+  For finite (deterministic) matrices it is well known that checking monadicity
+is decidable. We show that, in the presence of non-determinism, the property
+becomes undecidable. As a consequence, we conclude that there is no algorithm
+for computing the set of all multi-functions expressible in a given finite
+Nmatrix. The undecidability result is obtained by reduction from the halting
+problem for deterministic counter machines.",0.16680694,-0.16050893,-0.02467188,A
+4833,"We postpone this issue,
+however, for further research.","An alternative form of employing backtracking seems to be by switching
+to a hypersequent format, where b-applications of L⊃ would result in extending a hypersequent with all
+possible sequents that correspond to the possible choices of implication formula.","4.2 Countermodel
+
+Suppose that the proof-procedure fails for ⇒ φ .",2022-04-14 03:25:43+00:00,Decidability of Intuitionistic Sentential Logic with Identity via Sequent Calculus,cs.LO,['cs.LO'],"[arxiv.Result.Author('Agata Tomczyk'), arxiv.Result.Author('Dorota Leszczyńska-Jasion')]","The aim of our paper is twofold: firstly we present a sequent calculus for an
+intuitionistic non-Fregean logic ISCI, which is based on the calculus presented
+in the paper by Chlebowski and Leszczynska-Jasion, 'An Investigation into
+Intuitionistic Logic with Identity' (Bulletin of the Section of Logic 48(4), p.
+259-283, 2019) and, secondly, we discuss the problem of decidability of ISCI
+via the obtained system. The original calculus from the mentioned paper did not
+provide the decidability result for ISCI. There are two problems to be solved
+in order to obtain this result: the so called loops characteristic for
+intuitionistic logic and the lack of the subformula property due to the form of
+the identity-dedicated rules. We discuss possible routes to overcome these
+problems: we consider a weaker version of the subformula property, guarded by
+the complexity of formulas which can be included within it; we also present a
+proof-search procedure such that when it fails, then there exists a
+countermodel (in Kripke semantics for ISCI).",0.029317025,-0.1545181,0.14828905,A
+4925,"In further research we want to analyse, whether or in how far branching
+can be extended to the case of message loss.","We present a ﬁrst attempt to solve this
+problem using a weakly reliable branching.",Indeed our implementation of the rotating coordinator algorithm is not ideal.,2022-04-16 05:49:09+00:00,Fault-Tolerant Multiparty Session Types (Technical Report),cs.LO,['cs.LO'],"[arxiv.Result.Author('Kirstin Peters'), arxiv.Result.Author('Uwe Nestmann'), arxiv.Result.Author('Christoph Wagner')]","Multiparty session types are designed to abstractly capture the structure of
+communication protocols and verify behavioural properties. One important such
+property is progress, i.e., the absence of deadlock. Distributed algorithms
+often resemble multiparty communication protocols. But proving their
+properties, in particular termination that is closely related to progress, can
+be elaborate. Since distributed algorithms are often designed to cope with
+faults, a first step towards using session types to verify distributed
+algorithms is to integrate fault-tolerance.
+  We extend multiparty session types to cope with system failures such as
+unreliable communication and process crashes. Moreover, we augment the
+semantics of processes by failure patterns that can be used to represent system
+requirements (as, e.g., failure detectors). To illustrate our approach we
+analyse a variant of the well-known rotating coordinator algorithm by Chandra
+and Toueg. This technical report presents the proofs and some additional
+material to extend [30].",-0.37432933,0.2979367,-0.14160463,B
+4926,"In further research we want to analyse, whether or in how far branching can be
+extended to the case of message loss.","We present a ﬁrst attempt to solve this problem using a weakly reliable
+branching.",Indeed our implementation of the rotating coordinator algorithm is not ideal.,2022-04-16 05:49:09+00:00,FTMPST: Fault-Tolerant Multiparty Session Types,cs.LO,['cs.LO'],"[arxiv.Result.Author('Kirstin Peters'), arxiv.Result.Author('Uwe Nestmann'), arxiv.Result.Author('Christoph Wagner')]","Multiparty session types are designed to abstractly capture the structure of
+communication protocols and verify behavioural properties. One important such
+property is progress, i.e., the absence of deadlock. Distributed algorithms
+often resemble multiparty communication protocols. But proving their
+properties, in particular termination that is closely related to progress, can
+be elaborate. Since distributed algorithms are often designed to cope with
+faults, a first step towards using session types to verify distributed
+algorithms is to integrate fault-tolerance. We extend multiparty session types
+to cope with system failures such as unreliable communication and process
+crashes. Moreover, we augment the semantics of processes by failure patterns
+that can be used to represent system requirements (as, e.g., failure
+detectors). To illustrate our approach we analyse a variant of the well-known
+rotating coordinator algorithm by Chandra and Toueg.",-0.37432933,0.2979367,-0.14160463,B
+4933,"concludes, places our systems in a broader setting, and
+points at directions for further research.",Section §7.,§2.,2022-04-16 16:27:01+00:00,A Logical Analysis of Dynamic Dependence,cs.LO,"['cs.LO', 'math.LO']","[arxiv.Result.Author('Alexandru Baltag'), arxiv.Result.Author('Johan van Benthem'), arxiv.Result.Author('Dazhu Li')]","Many forms of dependence manifest themselves over time, with behavior of
+variables in dynamical systems as a paradigmatic example. This paper studies
+temporal dependence in dynamical systems from a logical perspective, by
+extending a minimal modal base logic of static functional dependencies. We
+define a logic for dynamical systems with single time steps, provide a complete
+axiomatic proof calculus, and show the decidability of the satisfiability
+problem for a substantial fragment. The system comes in two guises: modal and
+first-order, that naturally complement each other. Next, we consider a timed
+semantics for our logic, as an intermediate between state spaces and temporal
+universes for the unfoldings of a dynamical system. We prove completeness and
+decidability by combining techniques from dynamic-epistemic logic and modal
+logic of functional dependencies with complex terms for objects. Also, we
+extend these results to the timed logic with functional symbols and term
+identity. Finally, we conclude with a brief outlook on how the system proposed
+here connects with richer temporal logics of system behavior, and with dynamic
+topological logic.",-0.3142221,0.11478236,-0.35872656,B
+5030,"Thus, the further study
+                                        of strategic abilities under collusion is of timely interest.","Meanwhile, expressive
+                                        logics for strategic reasoning have been shown effective in capturing intricate security
+                                        requirements, such as coercion-resistance in e-voting [45,4,36].","2  F. Belardinelli, I. Boureanu, C. Dima, and V. Malvone
+
+    Looking into this, we observe that the typical formalisms for encoding multi-agent
+systems (MAS), such as interpreted systems [24], support the analysis of strategy-
+oriented properties.",2022-04-19 13:47:56+00:00,Model Checking Strategic Abilities in Information-sharing Systems,cs.LO,"['cs.LO', 'cs.AI']","[arxiv.Result.Author('Francesco Belardinelli'), arxiv.Result.Author('Ioana Boureanu'), arxiv.Result.Author('Catalin Dima'), arxiv.Result.Author('Vadim Malvone')]","We introduce a subclass of concurrent game structures (CGS) with imperfect
+information in which agents are endowed with private data-sharing capabilities.
+Importantly, our CGSs are such that it is still decidable to model-check these
+CGSs against a relevant fragment of ATL. These systems can be thought as a
+generalisation of architectures allowing information forks, in the sense that,
+in the initial states of the system, we allow information forks from agents
+outside a given set A to agents inside this A. For this reason, together with
+the fact that the communication in our models underpins a specialised form of
+broadcast, we call our formalism A-cast systems. To underline, the fragment of
+ATL for which we show the model-checking problem to be decidable over A-cast is
+a large and significant one; it expresses coalitions over agents in any subset
+of the set A. Indeed, as we show, our systems and this ATL fragments can encode
+security problems that are notoriously hard to express faithfully:
+terrorist-fraud attacks in identity schemes.",0.052822977,-0.07318833,-0.30729467,B
+5772,"In this paper, we let the treatment of the connective ⊙ for
+further research and focus only on the linearity aspects of this logic.","Furthermore, in [7] it is also
+deﬁned the L⊙S-logic, which combines both.","By relaxing the conditions on S by
+
+require only for semimodules over semirings (in contraposition to the usual vector Hilbert spaces required
+
+by the quantum theory), we can also place this research in the wider program aiming at axiomatizing the
+
+quantum theory in more basic structures.",2022-05-04 15:50:23+00:00,Semimodules and the (syntactically-)linear lambda calculus,cs.LO,"['cs.LO', 'math.CT', 'math.LO', '16Y60 18C50 18C15 18M45 03B70 03B30']","[arxiv.Result.Author('Alejandro Díaz-Caro'), arxiv.Result.Author('Octavio Malherbe')]","In a recent paper, the $\mathcal L^{\mathcal S}$-calculus has been defined.
+It is a proof-language for a significant fragment of intuitionistic linear
+logic. Its main feature is that the linearity properties can be expressed in
+its syntax, since it has interstitial logical rules whose proof-terms are a sum
+and a multiplication by scalar.
+  The calculus is parametrized on the structure $\mathcal S$. This structure
+was originally identified with the field of complex numbers, since the calculus
+is designed as a quantum lambda calculus. However, in this paper we show that a
+semiring is enough, and we provide a categorical semantics for this calculus in
+the category of cancellative semimodules over the given semiring. We prove the
+semantics to be sound and adequate.",0.2295756,-0.25960612,0.03766691,A
+5939,"We get to the conclusion
+                                       that unitless Frobenius and Girard quantales are structures of interest and worth
+                                       further research.","It is the goal of
+                                       this paper to explore in depth such an axiomatization.","In support of this conclusion we present several examples of these structures
+                                       and characterize when they have units.",2022-05-09 08:26:19+00:00,Unitless Frobenius quantales,cs.LO,"['cs.LO', 'math.LO']","[arxiv.Result.Author('Cédric de Lacroix'), arxiv.Result.Author('Luigi Santocanale')]","It is often stated that Frobenius quantales are necessarily unital. By taking
+negation as a primitive operation, we can define Frobenius quantales that may
+not have a unit. We develop the elementary theory of these structures and show,
+in particular, how to define nuclei whose quotients are Frobenius quantales.
+This yields a phase semantics and a representation theorem via phase quantales.
+Important examples of these structures arise from Raney's notion of tight
+Galois connection: tight endomaps of a complete lattice always form a Girard
+quantale which is unital if and only if the lattice is completely distributive.
+We give a characterisation and an enumeration of tight endomaps of the diamond
+lattices Mn and exemplify the Frobenius structure on these maps. By means of
+phase semantics, we exhibit analogous examples built up from trace class
+operators on an infinite dimensional Hilbert space. Finally, we argue that
+units cannot be properly added to Frobenius quantales: every possible extention
+to a unital quantale fails to preserve negations.",0.3223204,-0.4351551,-0.012439536,A
+5940,"We get to the conclusion
+                                       that unitless Frobenius and Girard quantales are structures of interest and worth
+                                       further research.","It is the goal of
+                                       this paper to explore in depth such an axiomatization.","In support of this conclusion we present several examples of these structures
+                                       and characterize when they have units.",2022-05-09 08:26:19+00:00,Unitless Frobenius quantales,cs.LO,"['cs.LO', 'math.LO']","[arxiv.Result.Author('Cédric de Lacroix'), arxiv.Result.Author('Luigi Santocanale')]","It is often stated that Frobenius quantales are necessarily unital. By taking
+negation as a primitive operation, we can define Frobenius quantales that may
+not have a unit. We develop the elementary theory of these structures and show,
+in particular, how to define nuclei whose quotients are Frobenius quantales.
+This yields a phase semantics and a representation theorem via phase quantales.
+Important examples of these structures arise from Raney's notion of tight
+Galois connection: tight endomaps of a complete lattice always form a Girard
+quantale which is unital if and only if the lattice is completely distributive.
+We give a characterisation and an enumeration of tight endomaps of the diamond
+lattices Mn and exemplify the Frobenius structure on these maps. By means of
+phase semantics, we exhibit analogous examples built up from trace class
+operators on an infinite dimensional Hilbert space. Finally, we argue that
+units cannot be properly added to Frobenius quantales: every possible extention
+to a unital quantale fails to preserve negations.",0.3223204,-0.4351551,-0.012439536,A
+6004,"(2021), a fact which we believe
+                                        indicates that this new semantics may prove to be a useful tool in the further study of LPODs.","Our results are based on the recent
+                                        logical semantics of LPODs introduced by Charalambidis et al.",This work is under consideration for acceptance in TPLP.,2022-05-10 13:33:32+00:00,Strong Equivalence of Logic Programs with Ordered Disjunction: a Logical Perspective,cs.LO,"['cs.LO', 'cs.AI']","[arxiv.Result.Author('Angelos Charalambidis'), arxiv.Result.Author('Christos Nomikos'), arxiv.Result.Author('Panos Rondogiannis')]","Logic Programs with Ordered Disjunction (LPODs) extend classical logic
+programs with the capability of expressing preferential disjunctions in the
+heads of program rules. The initial semantics of LPODs, although simple and
+quite intuitive, is not purely model-theoretic. A consequence of this is that
+certain properties of programs appear non-trivial to formalize in purely
+logical terms. An example of this state of affairs is the characterization of
+the notion of strong equivalence for LPODs. Although the results of Faber et
+al. (2008) are accurately developed, they fall short of characterizing strong
+equivalence of LPODs as logical equivalence in some specific logic. This comes
+in sharp contrast with the well-known characterization of strong equivalence
+for classical logic programs, which, as proved by Lifschitz et al. (2001),
+coincides with logical equivalence in the logic of here-and-there. In this
+paper we obtain a purely logical characterization of strong equivalence of
+LPODs as logical equivalence in a four-valued logic. Moreover, we provide a new
+proof of the coNP-completeness of strong equivalence for LPODs, which has an
+interest in its own right since it relies on the special structure of such
+programs. Our results are based on the recent logical semantics of LPODs
+introduced by Charalambidis et al. (2021), a fact which we believe indicates
+that this new semantics may prove to be a useful tool in the further study of
+LPODs.",0.13350517,0.03082359,-0.12075578,B
+6301,We conclude in Section 7 with directions for further research.,"Section 6
+presents an evaluation comparing several variations of the sequence solver in cvc5 and
+Z3.","Related work: Our work crucially builds on the proposal introduced in [6], but extends
+it in several key ways.",2022-05-17 05:12:40+00:00,Reasoning About Vectors using an SMT Theory of Sequences,cs.LO,['cs.LO'],"[arxiv.Result.Author('Ying Sheng'), arxiv.Result.Author('Andres Nötzli'), arxiv.Result.Author('Andrew Reynolds'), arxiv.Result.Author('Yoni Zohar'), arxiv.Result.Author('David Dill'), arxiv.Result.Author('Wolfgang Grieskamp'), arxiv.Result.Author('Junkil Park'), arxiv.Result.Author('Shaz Qadeer'), arxiv.Result.Author('Clark Barrett'), arxiv.Result.Author('Cesare Tinelli')]","Dynamic arrays, also referred to as vectors, are fundamental data structures
+used in many programs. Modeling their semantics efficiently is crucial when
+reasoning about such programs. The theory of arrays is widely supported but is
+not ideal, because the number of elements is fixed (determined by its index
+sort) and cannot be adjusted, which is a problem, given that the length of
+vectors often plays an important role when reasoning about vector programs. In
+this paper, we propose reasoning about vectors using a theory of sequences. We
+introduce the theory, propose a basic calculus adapted from one for the theory
+of strings, and extend it to efficiently handle common vector operations. We
+prove that our calculus is sound and show how to construct a model when it
+terminates with a saturated configuration. Finally, we describe an
+implementation of the calculus in cvc5 and demonstrate its efficacy by
+evaluating it on verification conditions for smart contracts and benchmarks
+derived from existing array benchmarks.",-0.30388337,0.46979427,0.25688058,C
+6302,We conclude in Section 7 with directions for further research.,"Section 6
+presents an evaluation comparing several variations of the sequence solver in cvc5 and
+Z3.",Related work: Our work crucially builds on a proposal by Bjørner et al.,2022-05-17 05:12:40+00:00,Reasoning About Vectors using an SMT Theory of Sequences,cs.LO,['cs.LO'],"[arxiv.Result.Author('Ying Sheng'), arxiv.Result.Author('Andres Nötzli'), arxiv.Result.Author('Andrew Reynolds'), arxiv.Result.Author('Yoni Zohar'), arxiv.Result.Author('David Dill'), arxiv.Result.Author('Wolfgang Grieskamp'), arxiv.Result.Author('Junkil Park'), arxiv.Result.Author('Shaz Qadeer'), arxiv.Result.Author('Clark Barrett'), arxiv.Result.Author('Cesare Tinelli')]","Dynamic arrays, also referred to as vectors, are fundamental data structures
+used in many programs. Modeling their semantics efficiently is crucial when
+reasoning about such programs. The theory of arrays is widely supported but is
+not ideal, because the number of elements is fixed (determined by its index
+sort) and cannot be adjusted, which is a problem, given that the length of
+vectors often plays an important role when reasoning about vector programs. In
+this paper, we propose reasoning about vectors using a theory of sequences. We
+introduce the theory, propose a basic calculus adapted from one for the theory
+of strings, and extend it to efficiently handle common vector operations. We
+prove that our calculus is sound and show how to construct a model when it
+terminates with a saturated configuration. Finally, we describe an
+implementation of the calculus in cvc5 and demonstrate its efficacy by
+evaluating it on verification conditions for smart contracts and benchmarks
+derived from existing array benchmarks.",-0.30022073,0.48513335,0.24836364,C
+6371,"In the ﬁnal remarks, we highlight some byproducts of our present approach and some
+features of the resulting proof systems, in addition to pointing to some directions for further research.1
+
+2 Preliminaries
+
+A propositional signature is a family Σ := {Σk}k∈ω, where each Σk is a collection of k-ary connectives.","Section 6 presents a two-dimensional ﬁnite
+analytic H-system for mCi.","We say
+that Σ is ﬁnite when its base set k∈ω Σk is ﬁnite.",2022-05-18 13:36:45+00:00,Finite two-dimensional proof systems for non-finitely axiomatizable logics,cs.LO,"['cs.LO', 'math.LO', '03B50, 03B22, 03A05, 03B35, 03B25', 'F.4.1; I.1.2']","[arxiv.Result.Author('Vitor Greati'), arxiv.Result.Author('João Marcos')]","The characterizing properties of a proof-theoretical presentation of a given
+logic may hang on the choice of proof formalism, on the shape of the logical
+rules and of the sequents manipulated by a given proof system, on the
+underlying notion of consequence, and even on the expressiveness of its
+linguistic resources and on the logical framework into which it is embedded.
+Standard (one-dimensional) logics determined by (non-deterministic) logical
+matrices are known to be axiomatizable by analytic and possibly finite proof
+systems as soon as they turn out to satisfy a certain constraint of sufficient
+expressiveness. In this paper we introduce a recipe for cooking up a
+two-dimensional logical matrix (or B-matrix) by the combination of two
+(possibly partial) non-deterministic logical matrices. We will show that such a
+combination may result in B-matrices satisfying the property of sufficient
+expressiveness, even when the input matrices are not sufficiently expressive in
+isolation, and we will use this result to show that one-dimensional logics that
+are not finitely axiomatizable may inhabit finitely axiomatizable
+two-dimensional logics, becoming, thus, finitely axiomatizable by the addition
+of an extra dimension. We will illustrate the said construction using a
+well-known logic of formal inconsistency called mCi. We will first prove that
+this logic is not finitely axiomatizable by a one-dimensional (generalized)
+Hilbert-style system. Then, taking advantage of a known 5-valued
+non-deterministic logical matrix for this logic, we will combine it with
+another one, conveniently chosen so as to give rise to a B-matrix that is
+axiomatized by a two-dimensional Hilbert-style system that is both finite and
+analytic.",-0.046105094,-0.20678867,0.0630118,A
+7040,"25
+5 Conclusions and further research
+
+We have shown that BAPAL has a decidable satisﬁability problem, although it does not
+have the ﬁnite model property.","Conversely, if ϕ is
+satisﬁable, it follows from Lemma 28 that there is a consistent ϕ-pseudo-model containing
+some state σ where ϕ ∈ σ.","This is the ﬁrst time a quantiﬁed announcement logic has
+been shown to be decidable.",2022-06-02 07:51:16+00:00,Satisfiability of Quantified Boolean Announcements,cs.LO,['cs.LO'],"[arxiv.Result.Author('Hans van Ditmarsch'), arxiv.Result.Author('Tim French'), arxiv.Result.Author('Rustam Galimullin')]","Dynamic epistemic logics consider formal representations of agents'
+knowledge, and how the knowledge of agents changes in response to informative
+events, such as public announcements. Quantifying over informative events
+allows us to ask whether it is possible to achieve some state of knowledge, and
+has important applications in synthesising secure communication protocols.
+However, quantifying over quite simple informative events, public
+announcements, is not computable: such an arbitrary public announcement logic,
+APAL, has an undecidable satisfiability problem. Here we consider even simpler
+informative events called Boolean announcements, where announcements are
+restricted to be a Boolean combination of atomic propositions. The logic is
+called Boolean arbitrary public announcement logic, BAPAL. A companion paper
+provides a complete finitary axiomatization, and related expressivity results,
+for BAPAL. In this work the satisfiability problem for BAPAL is shown to
+decidable, and also that BAPAL does not have the finite model property.",0.21002632,-0.34514463,-0.032079212,A
+7041,"For further research we wish to report the decidability of the satisﬁability problem of
+yet another logic with quantiﬁcation over announcements, called positive arbitrary public
+announcement logic, APAL+.","This is the ﬁrst time a quantiﬁed announcement logic has
+been shown to be decidable.","It has a primitive modality “after every public announce-
+ment of a positive formula, ϕ is true.” The positive formulas correspond to the universal
+fragment in ﬁrst-order logic.",2022-06-02 07:51:16+00:00,Satisfiability of Quantified Boolean Announcements,cs.LO,['cs.LO'],"[arxiv.Result.Author('Hans van Ditmarsch'), arxiv.Result.Author('Tim French'), arxiv.Result.Author('Rustam Galimullin')]","Dynamic epistemic logics consider formal representations of agents'
+knowledge, and how the knowledge of agents changes in response to informative
+events, such as public announcements. Quantifying over informative events
+allows us to ask whether it is possible to achieve some state of knowledge, and
+has important applications in synthesising secure communication protocols.
+However, quantifying over quite simple informative events, public
+announcements, is not computable: such an arbitrary public announcement logic,
+APAL, has an undecidable satisfiability problem. Here we consider even simpler
+informative events called Boolean announcements, where announcements are
+restricted to be a Boolean combination of atomic propositions. The logic is
+called Boolean arbitrary public announcement logic, BAPAL. A companion paper
+provides a complete finitary axiomatization, and related expressivity results,
+for BAPAL. In this work the satisfiability problem for BAPAL is shown to
+decidable, and also that BAPAL does not have the finite model property.",0.19865628,-0.33710086,0.04705316,A
+7109,"This observation is         asks for further research to devise prophecy-based (complete)
+                                                                   veriﬁcation methods that scale to larger systems.","This new foundation
+the overall number of prophecies (#P).","encouraging, as it indicates that the information needed by
+                                                                                           ACKNOWLEDGMENTS
+the ∃-player is concise, i.e., expressible with few automata.",2022-06-03 19:52:22+00:00,Prophecy Variables for Hyperproperty Verification,cs.LO,"['cs.LO', 'cs.CR', 'F.4.1; F.4.3; F.3.1']","[arxiv.Result.Author('Raven Beutner'), arxiv.Result.Author('Bernd Finkbeiner')]","Temporal logics for hyperproperties like HyperLTL use trace quantifiers to
+express properties that relate multiple system runs. In practice, the
+verification of such specifications is mostly limited to formulas without
+quantifier alternation, where verification can be reduced to checking a trace
+property over the self-composition of the system. Quantifier alternations like
+$\forall \pi. \exists \pi'. \phi$, can either be solved by complementation or
+with an interpretation as a two-person game between a $\forall$-player, who
+incrementally constructs the trace $\pi$, and an $\exists$-player, who
+constructs $\pi'$ in such a way that $\pi$ and $\pi'$ together satisfy $\phi$.
+The game-based approach is significantly cheaper but incomplete because the
+$\exists$-player does not know the future moves of the $\forall$-player. In
+this paper, we establish that the game-based approach can be made complete by
+adding ($\omega$-regular) temporal prophecies. Our proof is constructive,
+yielding an effective algorithm for the generation of a complete set of
+prophecies.",-0.1200898,-0.026036154,-0.16126174,B
+7160,"Barros Jr.  xxix
+
+Figure 26: Comparison between Huffman and HC compression time for big tautologies of the class
+Fibonacci(n)
+
+8 Conclusion and further research
+
+We think we succeeded to a high degree in almost all of the contributions listed in the second paragraph
+of the introduction.",E.H.Haeusler and J.F.C.,"One of the primary purposes of this report is to provide a comprehensive technical
+presentation of the Horizontal Compression method to compact propositional proofs in M⊃.",2022-06-06 00:57:41+00:00,On the horizontal compression of dag-derivations in minimal purely implicational logic,cs.LO,['cs.LO'],"[arxiv.Result.Author('Edward Hermann Haeusler'), arxiv.Result.Author('José Flávio Cavalcante Barros Junior')]","In this report, we define (plain) Dag-like derivations in the purely
+implicational fragment of minimal logic $M_{\imply}$. Introduce the horizontal
+collapsing set of rules and the algorithm {\bf HC}. Explain why {\bf HC} can
+transform any polynomial height-bounded tree-like proof of a $M_{\imply}$
+tautology into a smaller dag-like proof. Sketch a proof that {\bf HC} preserves
+the soundness of any tree-like ND in $M_{\imply}$ in its dag-like version after
+the horizontal collapsing application. We show some experimental results about
+applying the compression method to a class of (huge) propositional proofs and
+an example, with non-hamiltonian graphs, for qualitative analysis. The
+contributions include the comprehensive presentation of the set of horizontal
+compression (HC), the (sketch) of a proof that HC rules preserve soundness and
+the demonstration that the compressed dag-like proofs are polynomially
+upper-bounded when the submitted tree-like proof is height and foundation
+poly-bounded. Finally, in the appendix, we show an algorithm that verifies in
+polynomial time on the size of the dag-like proofs whether they are valid
+proofs of their conclusions.",-0.42763072,-0.21323249,0.57180345,B
+7161,"Barros Jr.  xxxvii
+
+Figure 29: Comparison between Huffman and HC compression time for big tautologies of the class
+Fibonacci(n)
+
+8 Conclusion and further research
+
+We think we succeeded to a high degree in almost all of the contributions listed in the second paragraph
+of the introduction.",E.H.Haeusler and J.F.C.,"One of the primary purposes of this report is to provide a comprehensive technical
+presentation of the Horizontal Compression method to compact propositional proofs in M⊃.",2022-06-06 00:57:41+00:00,On the horizontal compression of dag-derivations in minimal purely implicational logic,cs.LO,['cs.LO'],"[arxiv.Result.Author('Edward Hermann Haeusler'), arxiv.Result.Author('José Flávio Cavalcante Barros Junior')]","In this report, we define (plain) Dag-like derivations in the purely
+implicational fragment of minimal logic $M_{\imply}$. Introduce the horizontal
+collapsing set of rules and the algorithm {\bf HC}. Explain why {\bf HC} can
+transform any polynomial height-bounded tree-like proof of a $M_{\imply}$
+tautology into a smaller dag-like proof. Sketch a proof that {\bf HC} preserves
+the soundness of any tree-like ND in $M_{\imply}$ in its dag-like version after
+the horizontal collapsing application. We show some experimental results about
+applying the compression method to a class of (huge) propositional proofs and
+an example, with non-hamiltonian graphs, for qualitative analysis. The
+contributions include the comprehensive presentation of the set of horizontal
+compression (HC), the (sketch) of a proof that HC rules preserve soundness and
+the demonstration that the compressed dag-like proofs are polynomially
+upper-bounded when the submitted tree-like proof is height and foundation
+poly-bounded. Finally, in the appendix, we show an algorithm that verifies in
+polynomial time on the size of the dag-like proofs whether they are valid
+proofs of their conclusions.",-0.43107623,-0.21303312,0.5683031,B
+7162,"Barros Jr.  xxxix
+
+Figure 29: Comparison between Huffman and HC compression time for big tautologies of the class
+Fibonacci(n)
+
+8 Conclusion and further research
+
+We think we succeeded to a high degree in almost all of the contributions listed in the second paragraph
+of the introduction.",E.H.Haeusler and J.F.C.,"One of the primary purposes of this report is to provide a comprehensive technical
+presentation of the Horizontal Compression method to compact propositional proofs in M⊃.",2022-06-06 00:57:41+00:00,On the horizontal compression of dag-derivations in minimal purely implicational logic,cs.LO,['cs.LO'],"[arxiv.Result.Author('Edward Hermann Haeusler'), arxiv.Result.Author('José Flávio Cavalcante Barros Junior')]","In this report, we define (plain) Dag-like derivations in the purely
+implicational fragment of minimal logic $M_{\imply}$. Introduce the horizontal
+collapsing set of rules and the algorithm {\bf HC}. Explain why {\bf HC} can
+transform any polynomial height-bounded tree-like proof of a $M_{\imply}$
+tautology into a smaller dag-like proof. Sketch a proof that {\bf HC} preserves
+the soundness of any tree-like ND in $M_{\imply}$ in its dag-like version after
+the horizontal collapsing application. We show some experimental results about
+applying the compression method to a class of (huge) propositional proofs and
+an example, with non-hamiltonian graphs, for qualitative analysis. The
+contributions include the comprehensive presentation of the set of horizontal
+compression (HC), the (sketch) of a proof that HC rules preserve soundness and
+the demonstration that the compressed dag-like proofs are polynomially
+upper-bounded when the submitted tree-like proof is height and foundation
+poly-bounded. Finally, in the appendix, we show an algorithm that verifies in
+polynomial time on the size of the dag-like proofs whether they are valid
+proofs of their conclusions.",-0.43022758,-0.21215834,0.57065487,B
+8296,"It is expected that further research, covering more complex cases and
+extended representation conventions, will confirm the complementarity thesis and give
+evidence of its relevance to a fully satisfactory extent.","For instance, Petri net loops caused by iterative actions have not
+been considered.","References
+
+[Aalst] W. V. der Aalst, “Process Mining,” In: Communications of the ACM, vol.",2022-07-01 10:09:23+00:00,A Note on Process Modelling: Combining Situation Calculus and Petri Nets,cs.LO,"['cs.LO', 'I.2; I.2.4']","[arxiv.Result.Author('Edirlei Soares de Lima'), arxiv.Result.Author('Antonio L. Furtado'), arxiv.Result.Author('Bruno Feijó'), arxiv.Result.Author('Marco A. Casanova')]","The situation calculus logic model is convenient for modelling the actions
+that can occur in an information system application. The interplay of
+pre-conditions and post-conditions determines a semantically justified partial
+order of the defined actions and serves to enforce integrity constraints. This
+form of specification allows the use of plan-generation algorithms to
+investigate, before the system is adopted, whether the proposed specification
+allows all desirable use cases, and effectively disallows undesirable ones.
+Especially for legacy applications, implemented without a prior specification,
+Process Mining techniques were employed to derive an implicit Petri net model
+from the analysis of a large number of traces registered in an execution log.
+However, if the system just begins to be used, and has a still empty execution
+log, this sort of process mining discovery would not be feasible. This paper
+explains how the Petri net model can be directly derived from the situation
+calculus specification rules. The main gist is to provide evidence that the two
+models are complementary, not only because the Petri net model is derivable
+from the situation calculus model, but also in view of the distinct advantages
+of the two models. While the situation calculus model leads to planning and
+simulated execution prior to implementation, the Petri net model can be
+designed to run in a restrictive mode, allowing an intuitive visualization of
+the workable sequences. As proof of concept, the paper describes a prototype to
+demonstrate the methods and applies it to two examples: a published request
+processing application used to introduce process mining notions; and an
+analogously structured trial by combat application taken from a popular movie.
+The prototype includes an interactive dramatization component, which enacts the
+second application.",-0.11450775,0.19051206,-0.23093897,B
+8518,"Its usage is demonstrated
+in Section 5, and in Section 6 we conclude and explain further research directions.","Next, in Section 4 we develop a calculus for
+reasoning about lower bounds of weakest liberal preexpectations.","The main
+part of the paper is accompanied by an extensive appendix providing elaborated proofs and
+additional details about the examples.",2022-07-06 17:27:28+00:00,Towards Concurrent Quantitative Separation Logic,cs.LO,"['cs.LO', 'cs.PL']","[arxiv.Result.Author('Ira Fesefeldt'), arxiv.Result.Author('Joost-Pieter Katoen'), arxiv.Result.Author('Thomas Noll')]","In this paper, we develop a novel verification technique to reason about
+programs featuring concurrency, pointers and randomization. While the
+integration of concurrency and pointers is well studied, little is known about
+the combination of all three paradigms. To close this gap, we combine two kinds
+of separation logic -- Quantitative Separation Logic and Concurrent Separation
+Logic -- into a new separation logic that enables reasoning about lower bounds
+of the probability to realize a postcondition by executing such a program.",-0.27552107,-0.08737704,-0.024892312,B
+8519,"Its usage is demon-
+strated in Section 5, and in Section 6 we conclude and explain further research directions.","Next, in Section 4 we develop a calculus
+for reasoning about lower bounds of weakest liberal preexpectations.","The main part of the paper is accompanied by an extensive appendix providing elaborated
+proofs and additional details about the examples.",2022-07-06 17:27:28+00:00,Towards Concurrent Quantitative Separation Logic,cs.LO,"['cs.LO', 'cs.PL']","[arxiv.Result.Author('Ira Fesefeldt'), arxiv.Result.Author('Joost-Pieter Katoen'), arxiv.Result.Author('Thomas Noll')]","In this paper, we develop a novel verification technique to reason about
+programs featuring concurrency, pointers and randomization. While the
+integration of concurrency and pointers is well studied, little is known about
+the combination of all three paradigms. To close this gap, we combine two kinds
+of separation logic -- Quantitative Separation Logic and Concurrent Separation
+Logic -- into a new separation logic that enables reasoning about lower bounds
+of the probability to realise a postcondition by executing such a program.",-0.30391666,-0.06549655,-0.0009008786,B
+8704,"We leave these three questions, as well as the issue of the syntactic decidability of <
+-inv C2, for further research.","Our hope is that a construction inspired by this one - albeit signiﬁcantly reﬁned - and in
+J. Grange                                                                                         19
+
+particular by the alternation of universal and neighbors segments, could possibly lead to
+establish such a result.","References
+
+  1 Albert Atserias, Anuj Dawar, and Martin Grohe.",2022-07-11 16:20:23+00:00,Order-Invariance in the Two-Variable Fragment of First-Order Logic,cs.LO,['cs.LO'],[arxiv.Result.Author('Julien Grange')],"We study the expressive power of the two-variable fragment of order-invariant
+first-order logic. This logic departs from first-order logic in two ways:
+first, formulas are only allowed to quantify over two variables. Second,
+formulas can use an additional binary relation, which is interpreted in the
+structures under scrutiny as a linear order, provided that the truth value of a
+sentence over a finite structure never depends on which linear order is chosen
+on its domain. We prove that on classes of structures of bounded degree, any
+property expressible in this logic is definable in first-order logic. We then
+show that the situation remains the same when we add counting quantifiers to
+this logic.",-0.026764318,0.016888129,-0.017519897,A
+9536,[10]) is less immediate than it could seem at ﬁrst glance and requires further research.,"Also, the relation between our logic and regular cost functions (see
+e.g.","2 Preliminaries
+
+Fixpoints.",2022-07-31 22:47:44+00:00,Countdown $μ$-calculus,cs.LO,"['cs.LO', 'F.4.1; F.1.1']","[arxiv.Result.Author('Jędrzej Kołodziejski'), arxiv.Result.Author('Bartek Klin')]","We introduce the countdown $\mu$-calculus, an extension of the modal
+$\mu$-calculus with ordinal approximations of fixpoint operators. In addition
+to properties definable in the classical calculus, it can express
+(un)boundedness properties such as the existence of arbitrarily long sequences
+of specific actions. The standard correspondence with parity games and automata
+extends to suitably defined countdown games and automata. However, unlike in
+the classical setting, the scalar fragment is provably weaker than the full
+vectorial calculus and corresponds to automata satisfying a simple syntactic
+condition. We establish some facts, in particular decidability of the model
+checking problem and strictness of the hierarchy induced by the maximal allowed
+nesting of our new operators.",-0.10296173,0.009558244,0.050095648,B
+9616,"Finally, how to certify liveness properties is another important   [3] A. Niemetz, M. Preiner, A. Reynolds, Y. Zohar, C. W. Barrett, and
+avenue of further research.","Additionally, we plan to obtain for-          Available: https://doi.org/10.1007/s10703-017-0295-6
+mally veriﬁed certiﬁcate checkers by using theorem proving.","C. Tinelli, “Towards satisﬁability modulo parametric bit-vectors,” J.
+                                                                        Autom.",2022-08-02 13:20:09+00:00,Stratified Certification for k-Induction,cs.LO,['cs.LO'],"[arxiv.Result.Author('Emily Yu'), arxiv.Result.Author('Nils Froleyks'), arxiv.Result.Author('Armin Biere'), arxiv.Result.Author('Keijo Heljanko')]","Our recently proposed certification framework for bit-level k-induction-based
+model checking has been shown to be quite effective in increasing the trust of
+verification results even though it partially involved quantifier reasoning. In
+this paper we show how to simplify the approach by assuming reset functions to
+be stratified. This way it can be lifted to word-level and in principle to
+other theories where quantifier reasoning is difficult. Our new method requires
+six simple SAT checks and one polynomial-time check, allowing certification to
+remain in co-NP while the previous approach required five SAT checks and one
+QBF check. Experimental results show a substantial performance gain for our new
+approach. Finally, we present and evaluate our new tool Certifaiger-wl which is
+able to certify k-induction-based word-level model checking.",0.02714041,0.049196027,0.13414377,C
+10690,A discussion of related literature and further research directions can be found in Section 9.,"• Finally, we tie the notion of similarity from coalgebra to the behaviour order in Section 8
+       and study two-way similarity using the inequational theories of Section 3.","2 Ordered Processes
+
+We start with the introduction of a family of monotone labelled transition system types and a
+formal description of their behaviours.",2022-09-01 17:41:38+00:00,A (Co)Algebraic Framework for Ordered Processes,cs.LO,['cs.LO'],[arxiv.Result.Author('Todd Schmid')],"A recently published paper (Schmid, Rozowski, Silva, and Rot, 2022) offers a
+(co)algebraic framework for studying processes with algebraic branching
+structures and recursion operators. The framework captures Milner's algebra of
+regular behaviours (Milner, 1984) but fails to give an honest account of a
+closely related calculus of probabilistic processes (Stark and Smolka, 1999).
+We capture Stark and Smolka's calculus by giving an alternative framework,
+aimed at studying a family of ordered process calculi with inequationally
+specified branching structures and recursion operators. We observe that a
+recent probabilistic extension of guarded Kleene algebra with tests (Rozowski,
+Kozen, Kappe, Schmid, Silva, 2022) is a fragment of one of our calculi, along
+with other examples. We also compare the intrinsic order in our process calculi
+with the notion of similarity in coalgebra.",-0.14603558,-0.020284608,-0.074997894,B
+11169,There are many directions for further research.,"In this paper we have focused on inputs, outputs, and sequential composition, as these three
+concepts are fundamental to modeling dynamic systems.","Inputs and outputs are not just relevant from a theoretic perspective, but can also have ramiﬁcations on computation.",2022-09-14 06:44:38+00:00,"Inputs, Outputs, and Composition in the Logic of Information Flows",cs.LO,['cs.LO'],"[arxiv.Result.Author('Heba Aamer'), arxiv.Result.Author('Bart Bogaerts'), arxiv.Result.Author('Dimitri Surinx'), arxiv.Result.Author('Eugenia Ternovska'), arxiv.Result.Author('Jan Van den Bussche')]","The logic of information flows (LIF) is a general framework in which tasks of
+a procedural nature can be modeled in a declarative, logic-based fashion. The
+first contribution of this paper is to propose semantic and syntactic
+definitions of inputs and outputs of LIF expressions. We study how the two
+relate and show that our syntactic definition is optimal in a sense that is
+made precise. The second contribution is a systematic study of the expressive
+power of sequential composition in LIF. Our results on composition tie in the
+results on inputs and outputs, and relate LIF to first-order logic (FO) and
+bounded-variable LIF to bounded-variable FO.",-0.012928335,0.15914541,-0.2687519,B
+11170,"Investigating the exact number of variables needed for non-primitivity is an interesting
+question for further research.",redundancy of composition.,"Another direction for further research is to examine fragments of LIF for which the semantic input or output problem
+may be decidable, or even for which the syntactic deﬁnitions coincide with the semantic deﬁnitions.",2022-09-14 06:44:38+00:00,"Inputs, Outputs, and Composition in the Logic of Information Flows",cs.LO,['cs.LO'],"[arxiv.Result.Author('Heba Aamer'), arxiv.Result.Author('Bart Bogaerts'), arxiv.Result.Author('Dimitri Surinx'), arxiv.Result.Author('Eugenia Ternovska'), arxiv.Result.Author('Jan Van den Bussche')]","The logic of information flows (LIF) is a general framework in which tasks of
+a procedural nature can be modeled in a declarative, logic-based fashion. The
+first contribution of this paper is to propose semantic and syntactic
+definitions of inputs and outputs of LIF expressions. We study how the two
+relate and show that our syntactic definition is optimal in a sense that is
+made precise. The second contribution is a systematic study of the expressive
+power of sequential composition in LIF. Our results on composition tie in the
+results on inputs and outputs, and relate LIF to first-order logic (FO) and
+bounded-variable LIF to bounded-variable FO.",0.15271527,-0.051463228,-0.19140309,A
+11171,"Another direction for further research is to examine fragments of LIF for which the semantic input or output problem
+may be decidable, or even for which the syntactic deﬁnitions coincide with the semantic deﬁnitions.","Investigating the exact number of variables needed for non-primitivity is an interesting
+question for further research.","Finally, an operation that often occurs in dynamic systems is the ﬁxed point construct used by [26].",2022-09-14 06:44:38+00:00,"Inputs, Outputs, and Composition in the Logic of Information Flows",cs.LO,['cs.LO'],"[arxiv.Result.Author('Heba Aamer'), arxiv.Result.Author('Bart Bogaerts'), arxiv.Result.Author('Dimitri Surinx'), arxiv.Result.Author('Eugenia Ternovska'), arxiv.Result.Author('Jan Van den Bussche')]","The logic of information flows (LIF) is a general framework in which tasks of
+a procedural nature can be modeled in a declarative, logic-based fashion. The
+first contribution of this paper is to propose semantic and syntactic
+definitions of inputs and outputs of LIF expressions. We study how the two
+relate and show that our syntactic definition is optimal in a sense that is
+made precise. The second contribution is a systematic study of the expressive
+power of sequential composition in LIF. Our results on composition tie in the
+results on inputs and outputs, and relate LIF to first-order logic (FO) and
+bounded-variable LIF to bounded-variable FO.",0.15448773,-0.027001334,-0.2682532,A
+11172,"It remains to
+be seen how our work, and the further research directions mentioned above, can be extended to include the ﬁxpoint
+operation.","Finally, an operation that often occurs in dynamic systems is the ﬁxed point construct used by [26].","ACKNOWLEDGMENTS
+
+This research received funding from the Flemish Government under the “Onderzoeksprogramma Artiﬁciële Intelligen-
+tie (AI) Vlaanderen” programme, from FWO Flanders project G0D9616N, and from Natural Sciences and Engineering
+Research Council of Canada (NSERC).",2022-09-14 06:44:38+00:00,"Inputs, Outputs, and Composition in the Logic of Information Flows",cs.LO,['cs.LO'],"[arxiv.Result.Author('Heba Aamer'), arxiv.Result.Author('Bart Bogaerts'), arxiv.Result.Author('Dimitri Surinx'), arxiv.Result.Author('Eugenia Ternovska'), arxiv.Result.Author('Jan Van den Bussche')]","The logic of information flows (LIF) is a general framework in which tasks of
+a procedural nature can be modeled in a declarative, logic-based fashion. The
+first contribution of this paper is to propose semantic and syntactic
+definitions of inputs and outputs of LIF expressions. We study how the two
+relate and show that our syntactic definition is optimal in a sense that is
+made precise. The second contribution is a systematic study of the expressive
+power of sequential composition in LIF. Our results on composition tie in the
+results on inputs and outputs, and relate LIF to first-order logic (FO) and
+bounded-variable LIF to bounded-variable FO.",-0.12747872,0.2538025,-0.25155848,B
+11761,Our work leaves several directions for further research.,"This eﬀectively solves
+the search problem in the pebble game characterization.",Question 5.1.,2022-09-27 22:31:02+00:00,On the Descriptive Complexity of Groups without Abelian Normal Subgroups,cs.LO,"['cs.LO', 'cs.CC', 'math.GR', 'math.LO', '03C13, 03C80, 68Q19, 20A15, 20D99', 'F.4.1; F.1.3; F.2.2; G.2.2']","[arxiv.Result.Author('Joshua A. Grochow'), arxiv.Result.Author('Michael Levet')]","In this paper, we explore the descriptive complexity theory of finite groups
+by examining the power of the second Ehrenfeucht-Fra\""iss\'e bijective pebble
+game in Hella's (Ann. Pure Appl. Log., 1989) heirarchy. This is a
+Spoiler-Duplicator game in which Spoiler can place up to two pebbles each
+round. While it trivially solves graph isomorphism, it may be nontrivial for
+finite groups, and other ternary relational structures. We first provide a
+novel generalization of Weisfeiler-Leman (WL) coloring, which we call 2-ary WL.
+We then show that the 2-ary WL is equivalent to the second
+Ehrenfeucht-Fra\""iss\'e bijective pebble game in Hella's heirarchy.
+  Our main result is that, in the pebble game characterization, only $O(1)$
+pebbles and $O(1)$ rounds are sufficient to identify all groups without Abelian
+normal subgroups (a class of groups for which isomorphism testing is known to
+be in $\mathsf{P}$; Babai, Codenotti, & Qiao, ICALP 2012). In particular, we
+show that within the first few rounds, Spoiler can force Duplicator to select
+an isomorphism between two such groups at each subsequent round. By Hella's
+results (\emph{ibid.}), this is equivalent to saying that these groups are
+identified by formulas in first-order logic with generalized 2-ary quantifiers,
+using only $O(1)$ variables and $O(1)$ quantifier depth.",-0.1807133,-0.09372581,-0.21233971,B
+11826,"Hence, to instantiate the framework to some many-valued
+modal logics is another pressing issue for further research.","Furthermore, in
+this paper, we do not have a concrete example for many-valued modal
+logics which satisfy the assumptions for one-step soundness and com-
+pleteness.","References
+
+ [1] S. Awodey.",2022-09-29 11:12:31+00:00,An Inductive Construction for Many-Valued Coalgebraic Modal Logic,cs.LO,"['cs.LO', 'F.4.1; I.2.4']","[arxiv.Result.Author('Chun-Yu Lin'), arxiv.Result.Author('Churn-Jung Liau')]","In this paper, we present an abstract framework of many-valued modal logic
+with the interpretation of atomic propositions and modal operators as predicate
+lifting over coalgebras for an endofunctor on the category of sets. It
+generalizes Pattinson's stratification method for colagebraic modal logic to
+the many-valued setting. In contrast to standard techniques of canonical model
+construction and filtration, this method employs an induction principle to
+prove the soundness, completeness, and finite model property of the logics. As
+a consequence, we can lift a restriction on the previous approach~
+\cite{Lin2022} that requires the underlying language must have the expressive
+power to internalize the meta-level truth valuation operations.",0.37172377,-0.24407826,0.07118642,A_centroid
+11827,"Hence, to instantiate the framework to some many-valued
+modal logics is another pressing issue for further research.","Furthermore, in
+this paper, we do not have a concrete example for many-valued modal
+logics which satisfy the assumptions for one-step soundness and com-
+pleteness.","14
+                                    References
+
+ [1] S. Awodey.",2022-09-29 11:12:31+00:00,An Inductive Construction for Many-Valued Coalgebraic Modal Logic,cs.LO,"['cs.LO', 'F.4.1; I.2.4']","[arxiv.Result.Author('Chun-Yu Lin'), arxiv.Result.Author('Churn-Jung Liau')]","In this paper, we present an abstract framework of many-valued modal logic
+with the interpretation of atomic propositions and modal operators as predicate
+lifting over coalgebras for an endofunctor on the category of sets. It
+generalizes Pattinson's stratification method for colagebraic modal logic to
+the many-valued setting. In contrast to standard techniques of canonical model
+construction and filtration, this method employs an induction principle to
+prove the soundness, completeness, and finite model property of the logics. As
+a consequence, we can lift a restriction on the previous approach~
+\cite{Lin2022} that requires the underlying language must have the expressive
+power to internalize the meta-level truth valuation operations.",0.3683359,-0.24287632,0.072841704,A
+11917,"There are many interesting topics for further research on FLIF, and on LIF (Logic
+of Information Flows [Ter17, Ter19, ABS+20a, ABS+20b]) in general.","So, while we are not aware about known results in logic or
+the foundations of programming languages that are technically related to our result or our
+proof techniques, we would love to ﬁnd out about them if they exist.","Some are already
+discussed in the cited papers; in closing this paper we list some more.",2022-10-01 10:24:34+00:00,Executable First-Order Queries in the Logic of Information Flows,cs.LO,['cs.LO'],"[arxiv.Result.Author('Heba Aamer'), arxiv.Result.Author('Bart Bogaerts'), arxiv.Result.Author('Dimitri Surinx'), arxiv.Result.Author('Eugenia Ternovska'), arxiv.Result.Author('Jan Van den Bussche')]","The logic of information flows (LIF) has recently been proposed as a general
+framework in the field of knowledge representation. In this framework, tasks of
+a procedural nature can still be modeled in a declarative, logic-based fashion.
+In this paper, we focus on the task of query processing under limited access
+patterns, a well-studied problem in the database literature. We show that LIF
+is well-suited for modeling this task. Toward this goal, we introduce a variant
+of LIF called ""forward"" LIF, in a first-order setting. We define FLIFio, a
+syntactical fragment of forward LIF, and show that it corresponds exactly to
+the ""executable"" fragment of first-order logic defined by Nash and Lud\""ascher.
+Moreover, we show that general FLIF expressions can also be put into
+io-disjoint form. The definition of FLIFio involves a classification of the
+free variables of an expression into ""input"" and ""output"" variables. Our result
+hinges on inertia and determinacy laws for forward LIF expressions, which are
+interesting in their own right. These laws are formulated in terms of the input
+and output variables.",0.10619115,-0.15200508,0.022776116,B_centroid
+11918,"There are many interesting topics for further research on FLIF, and on LIF (Logic
+of Information Flows [Ter17, Ter19, ABS+20a, ABS+20b]) in general.","So, while we are not aware about known results in logic or
+the foundations of programming languages that are technically related to our result or our
+proof techniques, we would love to ﬁnd out about them if they exist.","Some are already
+discussed in the cited papers; in closing this paper we list some more.",2022-10-01 10:24:34+00:00,Executable First-Order Queries in the Logic of Information Flows,cs.LO,"['cs.LO', 'H.2.3; I.2.4']","[arxiv.Result.Author('Heba Aamer'), arxiv.Result.Author('Bart Bogaerts'), arxiv.Result.Author('Dimitri Surinx'), arxiv.Result.Author('Eugenia Ternovska'), arxiv.Result.Author('Jan Van den Bussche')]","The logic of information flows (LIF) has recently been proposed as a general
+framework in the field of knowledge representation. In this framework, tasks of
+a procedural nature can still be modeled in a declarative, logic-based fashion.
+In this paper, we focus on the task of query processing under limited access
+patterns, a well-studied problem in the database literature. We show that LIF
+is well-suited for modeling this task. Toward this goal, we introduce a variant
+of LIF called ""forward"" LIF, in a first-order setting. We define FLIFio, a
+syntactical fragment of forward LIF, and show that it corresponds exactly to
+the ""executable"" fragment of first-order logic defined by Nash and Lud\""ascher.
+Moreover, we show that general FLIF expressions can also be put into
+io-disjoint form. The definition of FLIFio involves a classification of the
+free variables of an expression into ""input"" and ""output"" variables. Our result
+hinges on inertia and determinacy laws for forward LIF expressions, which are
+interesting in their own right. These laws are formulated in terms of the input
+and output variables.",0.10619115,-0.15200508,0.022776116,B
+11952,"By
+now, we leave these questions aside as an interesting area of further research.",[KS22].,"[Abr90]                                        References
+
+         V. Michele Abrusci.",2022-10-02 23:58:41+00:00,Relational Models for the Lambek Calculus with Intersection and Constants,cs.LO,"['cs.LO', 'math.LO']",[arxiv.Result.Author('Stepan L. Kuznetsov')],"We consider relational semantics (R-models) for the Lambek calculus extended
+with intersection and explicit constants for zero and unit. For its variant
+without constants and a restriction which disallows empty antecedents, Andreka
+and Mikulas (1994) prove strong completeness. We show that it fails without
+this restriction, but, on the other hand, prove weak completeness for
+non-standard interpretation of constants. For the standard interpretation, even
+weak completeness fails. The weak completeness result extends to an infinitary
+setting, for so-called iterative divisions (Kleene star under division). We
+also prove strong completeness results for product-free fragments.",-0.25540802,0.114592634,-0.16221425,B
+12223,"Finally,
+Section 6 summarises the work, discussing also further research lines.","Section 5 is a brief discussion of
+the issues arising when only some agents receive the shared information.","While
+the proofs of propositions are found within the text, the proofs of theorems can
+be found in the appendix.",2022-10-10 12:57:32+00:00,Communication between agents in dynamic epistemic logic,cs.LO,"['cs.LO', 'cs.MA', '03B42 (Primary), 03B45, 03B70, 68T27']",[arxiv.Result.Author('Fernando R. Velázquez-Quesada')],"This manuscript studies actions of communication between epistemic logic
+agents. It starts by looking into actions through which all/some agents share
+all their information, defining the model operation that transforms the model,
+discussing its properties, introducing a modality for describing it and
+providing an axiom system for the latter. The main part of the manuscript
+focuses on an action through which some agents share part of their information:
+they share all that they know about a topic defined by a given formula. Once
+again, the manuscript defines the model operation that transforms the model,
+discusses its properties, introduces a modality for describing it and provides
+an axiom system for the latter.",-0.30994195,-0.07864893,-0.26639166,B
+12224,"6 Summary and further research lines
+
+This paper has discussed three communication actions.","Combining this with some previous knowledge about what the communicat-
+ing agents know, the non-receivers might get to know part of what is being
+shared, and thus they might get to know (part of) the new epistemic state of
+the communicating agents.","Diﬀerent from most
+epistemic acts present in the literature, they truly describe processes of inter-
+agent communication: those in which the information that is being shared is
+information some of the agents already have.",2022-10-10 12:57:32+00:00,Communication between agents in dynamic epistemic logic,cs.LO,"['cs.LO', 'cs.MA', '03B42 (Primary), 03B45, 03B70, 68T27']",[arxiv.Result.Author('Fernando R. Velázquez-Quesada')],"This manuscript studies actions of communication between epistemic logic
+agents. It starts by looking into actions through which all/some agents share
+all their information, defining the model operation that transforms the model,
+discussing its properties, introducing a modality for describing it and
+providing an axiom system for the latter. The main part of the manuscript
+focuses on an action through which some agents share part of their information:
+they share all that they know about a topic defined by a given formula. Once
+again, the manuscript defines the model operation that transforms the model,
+discusses its properties, introduces a modality for describing it and provides
+an axiom system for the latter.",-0.10882735,-0.04058397,-0.52000314,B
+12450,We expect this to be an interesting question for further research.,"However, even with these optimisations in place it is not clear whether given a
+
+distinguishing formula ϕ, one can ﬁnd a distinguishing P-formula Φ that will have
+
+any practically useful size bound (for example, one that would be polynomial in
+
+the size of ϕ).","B Reﬂexivity
+
+Our deﬁnitions of directed branching bisimulation, apartness, and the semantics
+of Hennessy-Milner Logic with Until have all assumed that the LTS we are
+working in has reﬂexive silent steps.",2022-10-13 21:50:05+00:00,Directed branching bisimulation via apartness and positive logic,cs.LO,"['cs.LO', 'cs.FL']","[arxiv.Result.Author('Herman Geuvers'), arxiv.Result.Author('Anton Golov')]","Branching bisimulation is a relation on states of a labelled transition
+system, closely connected to Hennessy-Milner Logic with Until (HMLU): two
+states are branching bisimilar if they validate the same HMLU formulas. In this
+paper, we introduce a directed notion of branching bisimulation, and show that
+for a particular class of good, positive HMLU formulas, a state $p$ is directed
+branching bisimilar to a state $q$ if and only if every good, positive HMLU
+formula true in $p$ is also true in $q$. We also introduce a novel logic,
+Positive Hennessy-Milner Logic with Until (PHMLU), and show that PHMLU formulas
+can play the role of good, positive HMLU formulas in the above construction.
+  As part of these constructions, we make extensive use of notions of branching
+apartness, the complement of branching bisimilarity. We introduce a notion of
+directed branching apartness, and present a novel proof that if two states are
+distinguished by a HMLU formula then they are branching apart. This proof
+proceeds by induction on the distinguishing formula.",-0.08227441,-0.082978114,0.13069831,B
+12712,"We
+conclude by discussing related works and further research directions (Sec.","Thanks
+to this richer structure we obtain invertibility of all the rules in the calculus,
+which we would not have using the sequent structure from [8], and a more direct
+construction of countermodels from branches of failed proof search trees.",6).,2022-10-19 11:43:01+00:00,Comparative plausibility in neighbourhood models: axiom systems and sequent calculi,cs.LO,['cs.LO'],"[arxiv.Result.Author('Tiziano Dalmonte'), arxiv.Result.Author('Marianna Girlando')]","We introduce a family of comparative plausibility logics over neighbourhood
+models, generalising Lewis' comparative plausibility operator over sphere
+models. We provide axiom systems for the logics, and prove their soundness and
+completeness with respect to the semantics. Then, we introduce two kinds of
+analytic proof systems for several logics in the family: a multi-premisses
+sequent calculus in the style of Lellmann and Pattinson, for which we prove cut
+admissibility, and a hypersequent calculus based on structured calculi for
+conditional logics by Girlando et al., tailored for countermodel construction
+over failed proof search. Our results constitute the first steps in the
+definition of a unified proof theoretical framework for logics equipped with a
+comparative plausibility operator.",-0.012257976,-0.13349879,0.12758544,B
+14585,"Their preliminary study (Table 1) showed that could
+be automated, but no further study or complete formalization of their memory
+model has been automated so far.","The authors translated
+their memory model to Why (a former version of Why3), the authors claim that
+at the time some recursive deﬁnitions were hard to deﬁne in the Why syntax
+and therefore, they only translated the axiomatizations and derived properties
+of the memory model.",Fig.,2022-12-05 17:08:18+00:00,Leroy and Blazy were right: their memory model soundness proof is automatable (Extended Version),cs.LO,"['cs.LO', 'cs.PL']","[arxiv.Result.Author('Pedro Barroso'), arxiv.Result.Author('Mário Pereira'), arxiv.Result.Author('António Ravara')]","Xavier Leroy and Sandrine Blazy in 2007 conducted a formal verification,
+using the Coq proof assistant, of a memory model for low-level imperative
+languages such as C. Considering their formalization was performed essentially
+in first-order logic, one question left open by the authors was whether their
+proofs could be automated using a verification framework for first-order logic.
+We took the challenge and automated their formalization using Why3,
+significantly reducing the proof effort. We systematically followed the Coq
+proofs and realized that in many cases at around one third of the way Why3 was
+able to discharge all VCs. Furthermore, the proofs still requiring interactions
+(e.g. induction, witnesses for existential proofs, assertions) were factorized
+isolating auxiliary results that we stated explicitly. In this way, we achieved
+an almost-automatic soundness and safety proof of the memory model.
+Nonetheless, our development allows an extraction of a correct-by-construction
+concrete memory model, going thus further than the preliminary Why version of
+Leroy and Blazy.",0.06727331,-0.007498254,-0.10435319,B
