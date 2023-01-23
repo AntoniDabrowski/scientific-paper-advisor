@@ -1,0 +1,415 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+1393,"More importantly, The
+development of accurate, fast, and easy-to-use ventricular volume segmentation methods is of great
+significance for further research and evaluation of the standardized use of ventricular volume in NPH
+patients [27].","So, the automated brain
+image segmentation method is a research hotspot in recent years [16].","The automatic ventricle segmentation method can overcome the limitations of the manual
+segmentation method [10].",2022-01-31 14:55:20+00:00,AI-based Medical e-Diagnosis for Fast and Automatic Ventricular Volume Measurement in the Patients with Normal Pressure Hydrocephalus,physics.med-ph,"['physics.med-ph', 'cs.CV']","[arxiv.Result.Author('Xi Zhou'), arxiv.Result.Author('Qinghao Ye'), arxiv.Result.Author('Xiaolin Yang'), arxiv.Result.Author('Jiakuan Chen'), arxiv.Result.Author('Haiqin Ma'), arxiv.Result.Author('Jun Xia'), arxiv.Result.Author('Javier Del Ser'), arxiv.Result.Author('Guang Yang')]","Based on CT and MRI images acquired from normal pressure hydrocephalus (NPH)
+patients, using machine learning methods, we aim to establish a multi-modal and
+high-performance automatic ventricle segmentation method to achieve efficient
+and accurate automatic measurement of the ventricular volume. First, we extract
+the brain CT and MRI images of 143 definite NPH patients. Second, we manually
+label the ventricular volume (VV) and intracranial volume (ICV). Then, we use
+machine learning method to extract features and establish automatic ventricle
+segmentation model. Finally, we verify the reliability of the model and
+achieved automatic measurement of VV and ICV. In CT images, the Dice similarity
+coefficient (DSC), Intraclass Correlation Coefficient (ICC), Pearson
+correlation, and Bland-Altman analysis of the automatic and manual segmentation
+result of the VV were 0.95, 0.99, 0.99, and 4.2$\pm$2.6 respectively. The
+results of ICV were 0.96, 0.99, 0.99, and 6.0$\pm$3.8 respectively. The whole
+process takes 3.4$\pm$0.3 seconds. In MRI images, the DSC, ICC, Pearson
+correlation, and Bland-Altman analysis of the automatic and manual segmentation
+result of the VV were 0.94, 0.99, 0.99, and 2.0$\pm$0.6 respectively. The
+results of ICV were 0.93, 0.99, 0.99, and 7.9$\pm$3.8 respectively. The whole
+process took 1.9$\pm$0.1 seconds. We have established a multi-modal and
+high-performance automatic ventricle segmentation method to achieve efficient
+and accurate automatic measurement of the ventricular volume of NPH patients.
+This can help clinicians quickly and accurately understand the situation of NPH
+patient's ventricles.",0.10843341,0.034479637,-0.48402315,A
+1800,"13
+Our results should stimulate further research in this area (especially for NSCLC due to the observed
+behaviour with α/β and conflicting reports on the value of this parameter), and may assist with the
+design of optimal radiotherapy treatments for NSCLC and BM, aiming at avoiding over- or under-
+treatment.","Such heterogeneities
+might affect the significance of the superiority of the LQL model.","Dose prescription to such tumours might be reconsidered in the light of the reported
+evidence.",2022-02-10 11:13:03+00:00,Evaluation of indirect damage and damage saturation effects in dose-response curves of hypofractionated radiotherapy of early-stage NSCLC and brain metastases,physics.med-ph,['physics.med-ph'],"[arxiv.Result.Author('Araceli Gago-Arias'), arxiv.Result.Author('Sara Neira'), arxiv.Result.Author('Miguel Pombar'), arxiv.Result.Author('Antonio Gómez-Caamaño'), arxiv.Result.Author('Juan Pardo-Montero')]","Background and purpose: To investigate the possible contribution of indirect
+damage and damage saturation to tumour control obtained with SBRT/SRS
+treatments for early-stage NSCLC and brain metastases. Methods and Materials:
+We have constructed a dataset of early-stage NSCLC and brain metastases
+dose-response. These data were fitted to models based on the linear-quadratic
+(LQ), the linear-quadratic-linear (LQL), and phenomenological modifications of
+the LQ-model to account for indirect cell damage. We use the
+Akaike-Information-Criterion formalism to compare performance, and studied the
+stability of the results with changes in fitting parameters and perturbations
+on dose/TCP values.
+  Results: In NSCLC, a modified LQ-model with a beta-term increasing with dose
+yields the best-fits for $\alpha$/$\beta$=10 Gy. Only the inclusion of very
+fast accelerated proliferation or low $\alpha$/$\beta$ values can eliminate
+such superiority. In brain, the LQL model yields the best-fits, and the ranking
+is not affected by variations of fitting parameters or dose/TCP perturbations.
+  Conclusions: For $\alpha$/$\beta$=10 Gy, a modified LQ-model with a beta-term
+increasing with dose provides better fits to NSCLC dose-response curves. For
+brain metastases, the LQL provides the best fit. This might be interpreted as a
+hint of indirect damage in NSCLC, and damage saturation in brain metastases.
+The results for NSCLC are strongly dependent on the value of $\alpha$/$\beta$
+and may require further investigation, while those for brain seem to be clearly
+significant. Our results can assist in the design of improved radiotherapy for
+NSCLC and brain metastases, aiming at avoiding over/under-treatment.",-0.26395738,-0.30941916,0.22344534,A
+2991,"These limits
+are not well characterized and require further study.","16
+         In any organ there is, of course, an upper and lower limit on the size of structures that might
+contribute to scattering, so that implies an upper and lower limit on the range of applicability of
+equation (1), and similarly for all of the power law parameters that are considered.","For example, Herthum et al.",2022-03-08 17:57:51+00:00,Power laws prevail in medical ultrasound,physics.med-ph,"['physics.med-ph', 'physics.bio-ph', 'q-bio.TO']",[arxiv.Result.Author('Kevin J. Parker')],"Major topics in medical ultrasound rest on the physics of wave propagation
+through tissue. These include fundamental treatments of backscatter, speed of
+sound, attenuation, and speckle formation. Each topic has developed its own
+rich history, lexicography, and particular treatments. However, there is ample
+evidence to suggest that power law relations are operating at a fundamental
+level in all the basic phenomena related to medical ultrasound. This review
+paper develops, from literature over the past 60 years, the accumulating
+theoretical basis and experimental evidence that point to power law behaviors
+underlying the most important tissue-wave interactions in ultrasound and in
+shear waves which are now employed in elastography. The common framework of
+power laws can be useful as a coherent overview of topics, and as a means for
+improved tissue characterization.",0.023711637,-0.048117608,0.24152851,B
+4944,"The source code for the proposed model and all the experiments
+that are done are made public to motivate further research in this ﬁeld 1.","This novel approach is compared with an existing high-performance large-scale
+model [28] and a commonly used low-scale model [18] baselines on heterogeneous
+dataset [21].","Main contributions of this paper are:
+
+ 1.",2022-04-11 06:24:20+00:00,LRH-Net: A Multi-Level Knowledge Distillation Approach for Low-Resource Heart Network,physics.med-ph,"['physics.med-ph', 'cs.AI', 'cs.LG', 'eess.SP']","[arxiv.Result.Author('Ekansh Chauhan'), arxiv.Result.Author('Swathi Guptha'), arxiv.Result.Author('Likith Reddy'), arxiv.Result.Author('Bapi Raju')]","An electrocardiogram (ECG) monitors the electrical activity generated by the
+heart and is used to detect fatal cardiovascular diseases (CVDs).
+Conventionally, to capture the precise electrical activity, clinical experts
+use multiple-lead ECGs (typically 12 leads). But in recent times, large-size
+deep learning models have been used to detect these diseases. However, such
+models require heavy compute resources like huge memory and long inference
+time. To alleviate these shortcomings, we propose a low-parameter model, named
+Low Resource Heart-Network (LRH-Net), which uses fewer leads to detect ECG
+anomalies in a resource-constrained environment. A multi-level knowledge
+distillation process is used on top of that to get better generalization
+performance on our proposed model. The multi-level knowledge distillation
+process distills the knowledge to LRH-Net trained on a reduced number of leads
+from higher parameter (teacher) models trained on multiple leads to reduce the
+performance gap. The proposed model is evaluated on the PhysioNet-2020
+challenge dataset with constrained input. The parameters of the LRH-Net are
+106x less than our teacher model for detecting CVDs. The performance of the
+LRH-Net was scaled up to 3.2% and the inference time scaled down by 75%
+compared to the teacher model. In contrast to the compute- and
+parameter-intensive deep learning techniques, the proposed methodology uses a
+subset of ECG leads using the low resource LRH-Net, making it eminently
+suitable for deployment on edge devices.",0.22874123,0.15590714,-0.005746727,B
+5151,"industry can alter natural radioactivity in different process                                       Therefore, further research is needed on radionuclide’s types
+states.","Likewise, oil and gas exploration, thermal                                             contribute to increasing environmental radioactivity and
+power generation, and the natural materials processing                                              potentially disrupting human health around the mine.",Waste generated by this industry must be handled with                                       and their concentrations in mining minerals.,2022-04-21 15:43:59+00:00,"Assessment of Natural Radioactivity Concentration and Radiological Risk in Tanjung Enim's Coal Mine, South Sumatra Indonesia",physics.med-ph,['physics.med-ph'],"[arxiv.Result.Author('Muhammad Farhan Ramadhany'), arxiv.Result.Author('Gede Sutresna Wijaya'), arxiv.Result.Author('Anung Muharini')]","Environmental radioactivity analysis has been carried out to determine the
+level of environmental radioactivity and the potential radiological hazards at
+Tanjung Enims coal mine. Gamma spectroscopy method has been carried out to
+identify radionuclides and their types of activity. The results of radionuclide
+concentration are used to determine the radiological hazard index and become
+input data for the Residual Radioactivity Onsite 7.2 application to determine
+the dose rate and long-term cancer potential received by workers in coal mines.
+The results obtained for the average concentration of radionuclide activity in
+coal samples are 226Ra, 232Th, and 40K are 72.468 Bq/kg, 86.905 Bq/kg, and
+1802.049 Bq/kg, respectively. While the soil samples 226Ra, 232Th, and 40K
+respectively 79.205 Bq/kg, 100.209 Bq/kg, and 1443.275 Bq/kg. The radionuclide
+concentrations of both samples exceeded the UNSCEAR and worldwide reported
+averages for coal and soil. The average radiological hazard index for coal
+samples, namely Raeq, Hin, and Hex, was 335.500 Bq/kg, 1.102, 0.906,
+respectively. While the soil samples were 333.636 Bq/kg, 1.115, and 0.901,
+respectively. The index parameter is already lower than the UNSCEAR
+recommendation except for Hin, so there is a potential radiological hazard in
+internal pathways such as respiratory and digestive organs for mining workers.
+The total annual effective dose rate based on 5 RESRAD Onsite 7.2 pathways,
+namely external gamma, inhalation, radon, soil ingestion, and drinking water,
+is 1.675 mSv/year, exceeding the dose limits determined by ICRP, 1 mSv/year.
+The ELCR is 6.625*10^-3 which exceeds the UNSCEAR recommendation, 2.4*10^-4.
+Based on the results, it is necessary to intervene in the mining environment of
+the Tanjung Enims coal mine.",-0.28840435,-0.11445612,0.5024777,A
+5936,The second contains a preliminary qual-        will be investigated in a further study.,"The ﬁrst is a summary of published results from the           biological phenomena, such as calciﬁcation and edema, which
+Prostatectomy Study.","Furthermore, as the
+itative comparison of S-WAVE images with registered whole-          patients recruited in this study had early stage cancer, the
+gland biopsy results from the Focal Therapy Study.",2022-05-09 04:53:42+00:00,Quasi-Real Time Multi-Frequency 3D Shear Wave Absolute Vibro-Elastography (S-WAVE) System for Prostate,physics.med-ph,"['physics.med-ph', 'eess.SP']","[arxiv.Result.Author('Tajwar Abrar Aleef'), arxiv.Result.Author('Julio Lobo'), arxiv.Result.Author('Ali Baghani'), arxiv.Result.Author('Hani Eskandari'), arxiv.Result.Author('Hamid Moradi'), arxiv.Result.Author('Robert Rohling'), arxiv.Result.Author('S. Larry Goldenberg'), arxiv.Result.Author('William James Morris'), arxiv.Result.Author('S. Sara Mahdavi'), arxiv.Result.Author('Septimiu E. Salcudean')]","This article describes a novel quasi-real time system for quantitative and
+volumetric measurement of tissue elasticity in the prostate. Tissue elasticity
+is computed by using a local frequency estimator to measure the three
+dimensional local wavelengths of a steady-state shear wave within the prostate
+gland. The shear wave is created using a mechanical voice coil shaker which
+transmits multi-frequency vibrations transperineally. Radio frequency data is
+streamed directly from a BK Medical 8848 trans-rectal ultrasound transducer to
+an external computer where tissue displacement due to the excitation is
+measured using a speckle tracking algorithm. Bandpass sampling is used that
+eliminates the need for an ultra fast frame rate to track the tissue motion and
+allows for accurate reconstruction at a sampling frequency that is below the
+Nyquist rate. A roll motor with computer control is used to rotate the sagittal
+array of the transducer and obtain the 3D data. Two CIRS phantoms were used to
+validate both the accuracy of the elasticity measurement as well as the
+functional feasibility of using the system for in vivo prostate imaging. The
+system has been used in two separate clinical studies as a method for cancer
+identification. The results, presented here, show numerical and visual
+correlations between our stiffness measurements and cancer likelihood as
+determined from pathology results. Initial published results using this system
+include an area under the receiver operating characteristic curve of
+0.82+/-0.01 with regards to prostate cancer identification in the peripheral
+zone.",-0.117082246,-0.29287958,-0.28765255,A
+6325,The ability to scale performance to the clinic remains unexplored and requires further study.,"The work
+was limited by simple testing scenarios and without yet integrating complexities or optimizations.","KEYWORDS: Compton scatter; deep learning; tomography; x-ray imaging; pencil beam; dose
+reduction; scatter tomography
+Contents
+
+1.",2022-05-17 14:17:39+00:00,Depth resolved pencil beam radiography using AI -- a proof of principle study,physics.med-ph,"['physics.med-ph', 'physics.app-ph', 'physics.ins-det']","[arxiv.Result.Author('Ida Häggström'), arxiv.Result.Author('Lukas M. Carter'), arxiv.Result.Author('Thomas J. Fuchs'), arxiv.Result.Author('Adam L. Kesner')]","AIMS: Clinical radiographic imaging is seated upon the principle of
+differential keV photon transmission through an object. At clinical x-ray
+energies the scattering of photons causes signal noise and is utilized solely
+for transmission measurements. However, scatter - particularly Compton scatter,
+is characterizable. In this work we hypothesized that modern radiation sources
+and detectors paired with deep learning techniques can use scattered photon
+information constructively to resolve superimposed attenuators in planar x-ray
+imaging. METHODS: We simulated a monoenergetic x-ray imaging system consisting
+of a pencil beam x-ray source directed at an imaging target positioned in front
+of a high spatial- and energy-resolution detector array. The signal was
+analyzed by a convolutional neural network, and a description of scattering
+material along the axis of the beam was derived. The system was virtually
+designed/tested using Monte Carlo processing of simple phantoms consisting of
+10 pseudo-randomly stacked air/bone/water materials, and the network was
+trained by solving a classification problem. RESULTS: The average accuracy of
+the material identification along the beam was 0.91 +- 0.01, with slightly
+higher accuracy towards the entrance/exit peripheral surfaces of the object.
+The average sensitivity and specificity was 0.91 and 0.95, respectively.
+CONCLUSIONS: Our work provides proof of principle that deep learning techniques
+can be used to analyze scattered photon patterns which can constructively
+contribute to the information content in radiography, here used to infer depth
+information in a traditional 2D planar setup. This principle, and our results,
+demonstrate that the information in Compton scattered photons may provide a
+basis for further development. The ability to scale performance to the clinic
+remains unexplored and requires further study.",-0.19611207,-0.31282753,-0.30249983,A_centroid
+6569,There are still some aspects worth further study to boost the clinical practice of the proposed method.,"Larger width,
+e.g., 10-, 15-, and 20-mm grids, causes less data loss but at the expense of degraded sampling performance of anatomical
+structures.","Firstly, due to the data
+consistency requirement of deep learning methods, individual patient data acquisition is required for model training of different
+DM-DECT systems in clinical practice (Zhou et al., 2021).",2022-05-23 10:45:03+00:00,Single Scan Dual-energy Cone-beam CT Using Static Detector Modulation: A Phantom Study,physics.med-ph,['physics.med-ph'],[arxiv.Result.Author('Junbo Peng')],"Cone-beam CT (CBCT) is installed in the treatment room to facilitate online
+clinical applications, including image guidance in radiation and surgery.
+Half-fan and short-can are the commonly used modes in clinical applications to
+expand the imaging volume and reduce radiation exposure. Anatomical structures
+are faithfully reconstructed using CBCT while deep information including
+material composition is not feasible in its current form. Dual-energy computed
+tomography (DECT) is an advanced medical imaging technology with superior
+capability of material differentiation by scanning the patient using two
+different energy spectra. Conventional DECT systems require expensive and
+sophisticated hardware components, significantly limiting DECT applications to
+cone-beam CT (CBCT) machines. In this work, we propose a dual-energy cone-beam
+CT (DECBCT) system by placing a dedicatedly designed beam modulator in front of
+the detector surface to acquire dual-energy projection data in a single scan. A
+deep learning-based data restoration model is introduced to generate complete
+dual-energy data from the detector-modulated data for DECT image reconstruction
+and material decomposition. The performance of the proposed method is evaluated
+using an electron density phantom and clinical CT. The mean error for electron
+density calculation is lower than 1.16% in the electron density phantom study.
+The mean errors for reconstructed linear attenuation coefficient (LAC) are
+lower than 1.41% and 0.89% in the head and pelvis studies, respectively. The
+results indicate that the proposed method is a promising solution for
+single-scan DECBCT in clinical practice.",0.11941269,-0.12508847,-0.45338488,A
+7697," Further follow up research:
+    To increase the chances for MIT to become a medical imaging modality, further researches
+are required.","Experimental evaluatio n
+         of the superiority of this technique for various conductivity distribution values would
+         be interesting.","Some suggestions are provided below based on the author’s view:
+
+    1- It seems that the MIT systems in the current form are more sensitive to near the border
+         regions than to the center of the imaging region.",2022-06-16 04:20:50+00:00,Improved Forward Problem Modeling in Magnetic Induction Tomography for Biomedical Applications,physics.med-ph,['physics.med-ph'],[arxiv.Result.Author('Hassan Yazdanian')],"The main contribution of this thesis is to investigate the incorporating skin
+and proximity effects in magnetic induction tomography (MIT) coils and present
+an improved model for the two-dimensional (2D) forward problem. To evaluate the
+performance of the improved method in possible biomedical applications, a 16
+coils 2D MIT system is modeled, and the finite element method (FEM) is employed
+to solve the forward problem. Results show the difference between the induced
+voltages obtained from the early and improved method falls into the meaningful
+range in terms of achievable conductivity contrast from the improved one. This
+finding revealed the importance and necessity of using the improved forward
+method for modeling 2D MIT coils for biomedical applications...",-0.19338936,-0.14568163,-0.025108565,A
+11161,"Thus, a
+method with the joint use of the TBs and the BPs of multi-energy proton beams was developed in the
+further study by placing BPs inside the target for target dose conformality and normal tissue sparing
+while using TBs to cover the target boundary and maintain FLASH dose rate coverage for the adjacent
+organs-at-risk (OARs)19.","One major drawback of using TBs alone (TB-only) for FLASH planning
+is the over irradiation exposure of normal tissues located beyond the distal edge of target.","2
+   Another superiority of the conventional proton RT to the photon and electron RT is the enhanced
+relative biological effect (RBE) owning to the utilization of the BPs with high linear energy transfer
+(LET) effect for the target dose coverage20.",2022-09-14 02:02:58+00:00,Feasibility Study of Hybrid Inverse Planning with Transmission Beams and Single-energy Spread-out Bragg Peaks for Proton Flash Radiotherapy,physics.med-ph,['physics.med-ph'],"[arxiv.Result.Author('Chaoqiong Ma'), arxiv.Result.Author('Xiaofeng Yang'), arxiv.Result.Author('Chih-Wei Chang'), arxiv.Result.Author('Ruirui Liu'), arxiv.Result.Author('Duncan Bohannon'), arxiv.Result.Author('Liyong Lin'), arxiv.Result.Author('Tian Liu'), arxiv.Result.Author('Sibo Tian'), arxiv.Result.Author('Jun Zhou')]","Ultra-high dose rate (FLASH) proton planning with only transmission beams
+(TBs) has limitations in normal tissue sparing. The single-energy spread-out
+Bragg peaks (SESOBPs) of FLASH dose rate have been demonstrated feasible for
+proton FLASH planning. A hybrid inverse optimization method was developed to
+combine the TBs and SESOBPs (TB-SESOBP) for FLASH planning. The SESOBPs were
+generated from spreading out the BPs by pre-designed general bar ridge filters
+and placed at the central target by range shifters to obtain a uniform dose
+within the target. The SESOBPs and TBs were fully sampled field-by-field
+allowing automatic spot selection and weighting in the optimization process.
+The TB-SESOBP plans were validated in comparison with the TB only (TB-only)
+plans and the plans with the combination of TBs and BPs (TB-BP) regarding 3D
+dose and dose rate distributions for five lung cases. Comparing to the TB-only
+plans, the mean spinal cord D1.2cc drastically reduced 41%, the mean lung V7Gy
+and V7.4Gy moderately reduced by up to 17% and the target dose homogeneity
+slightly increased in the TB-SESOBP plans. Comparable dose homogeneity was
+achieved in both TB-SESOBP and TB-BP plans. Besides, prominent improvements
+were achieved in lung sparing for the cases of relatively large targets by the
+TB-SESOBP plans comparing to the TB-BP plans. The targets were fully covered
+with the FLASH dose rate in all the three plans. For the OARs, V40Gy/s = 100%
+was achieved by the TB-only plans while V40Gy/s > 85% was obtained by the other
+two plans. We have demonstrated that the hybrid TB-SESOBP planning was feasible
+to achieve FLASH dose rate for proton therapy. The hybrid TB-SESOBP planning
+has great potential in improving OAR sparing while maintaining high target dose
+homogeneity, and can be potentially implemented for adaptive radiotherapy.",-0.3944256,-0.10978833,0.15137684,A
+11933,"[106] As a further study, the group synthesized and examined a new silicon-substituted rhodol
+derivative for the same purpose in 2017.","Urano group synthesized rhodol derivative (SPiDER-βGal) to detect lacZ-positive cells in
+2016.","[105] Among these derivatives, 2'Me-4CH2F-Sirhodol-
+βGal exhibited absorption maxima at 612, and 528 nm and emission at 630 nm with a Φf of 0.28;
+(Table 8:E13, Scheme 14) and 2'COOH-4CH2F-Sirhodol-βGal (SPiDER-Red-βGal, (Table 8:E12,
+Scheme 14)) showed absorption maxima around 610 nm and emission around 638 nm.",2022-10-02 08:36:56+00:00,Xanthene Dyes for Cancer Imaging and Treatment: A Material Odyssey,physics.med-ph,"['physics.med-ph', 'q-bio.CB']","[arxiv.Result.Author('Osman Karaman'), arxiv.Result.Author('Gizem Atakan Alkan'), arxiv.Result.Author('Caglayan Kizilenis'), arxiv.Result.Author('Cevahir Ceren Akgul'), arxiv.Result.Author('Gorkem Gunbas')]","Cancer is still among the leading health issues today, considering the cost,
+effectiveness, complexity of detection/treatment modalities and survival rates.
+One of the most important criteria for higher survival rates is the early and
+sensitive diagnosis of the disease that can direct the treatment modalities
+effectively. Fluorescence imaging agents emerged as an important alternative to
+the current state of the art due to their spatial and temporal resolution, high
+sensitivity and selectivity, ease of modification towards generating
+activatable agents, ease of operation, and low cost. In addition to imaging,
+light-based treatment modality, photodynamic therapy (PDT), attained remarkable
+attention, as it is minimally invasive and has fewer side effects compared to
+the current standard of care treatments. Even though fluorescence imaging and
+PDT have these significant advantages, light that needs to excite the agent has
+limited penetration in tissues, hindering widespread utilization. Hybrid
+xanthene dyes, particularly ones bearing silicon or phosphine oxide as the
+bridging unit of xanthene moiety, gained significant interest not only due to
+their excellent photochemical properties in aqueous media, high fluorescence
+quantum yield, photostability but also their proper absorption and emission
+maxima that allow for deep tissue imaging and therapy. Here, the design and
+synthesis strategies, key photophysical properties, their application in
+fluorescence imaging applications, and surprisingly limited utilization as PDT
+agents of hybrid xanthene dyes that emerged in the last decade have been
+reviewed in detail.",-0.10960272,-0.20429507,0.5527179,B
+12239,"The
+                                                                       author maintains a public version of the Matlab3 source code
+r1 = ∆xex and r2 = ∆zez with the optimal lengths                       [12] to support the reproduction of the presented results and
+                                                                       facilitate further research.","This interpolation simpliﬁed
+                                                                       comparisons by the mean structural similarity (SSIM) indices
+sampling grid (4), and the spatial grid vectors (6) become             [11] and the relative root mean-squared errors (RMSEs).","2π                       2π
+∆x = kˆx,ub − kˆx,lb and ∆z = kˆz,ub − kˆz,lb .",2022-10-10 16:30:28+00:00,Rhombic Grids Reduce the Number of Voxels in Fast Pulse-Echo Ultrasound Imaging,physics.med-ph,"['physics.med-ph', 'eess.IV', 'eess.SP']",[arxiv.Result.Author('Martin F. Schiffner')],"Ultrafast imaging modes, such as coherent plane-wave compounding (CPWC),
+capture a large field of view in a single pulse-echo measurement using parallel
+receive focusing. The number of foci or, equivalently, the number of volume
+elements (voxels) in the image determines the computational costs and the
+memory consumption of the image formation. Herein, 120{\deg} rhombic grids are
+proposed to specify the voxel positions and reduce the number of voxels in
+comparison to orthogonal grids. The proposed grids derive from the bivariate
+sampling theorem and the spectral properties of the images formed by the
+delay-and-sum algorithm in CPWC. A phantom experiment validated the proposed
+grids and showed reductions in the number of voxels by 81.4 % and 14.7 % in
+comparison to the usual and optimal orthogonal grids, respectively. Mean
+structural similarity indices above 96.6 % and relative root mean-squared
+errors below 6.8 % confirmed the visual equivalence of all images after
+interpolations to the usual orthogonal grid.",0.8340294,0.05238195,0.17264196,B_centroid
+12240,"The
+                                                                       author maintains a public version of the Matlab3 source code
+r1 = ∆xex and r2 = ∆zez with the optimal lengths                       [12] to support the reproduction of the presented results and
+                                                                       facilitate further research.","This interpolation simpliﬁed
+                                                                       comparisons by the mean structural similarity (SSIM) indices
+sampling grid (4), and the spatial grid vectors (6) become             [11] and the relative root mean-squared errors (RMSEs).","2π                       2π
+∆x = kˆx,ub − kˆx,lb and ∆z = kˆz,ub − kˆz,lb .",2022-10-10 16:30:28+00:00,Rhombic Grids Reduce the Number of Voxels in Fast Pulse-Echo Ultrasound Imaging,physics.med-ph,"['physics.med-ph', 'eess.IV', 'eess.SP']",[arxiv.Result.Author('Martin F. Schiffner')],"Ultrafast imaging modes, such as coherent plane-wave compounding (CPWC),
+capture a large field of view in a single pulse-echo measurement using parallel
+receive focusing. The number of foci or, equivalently, the number of volume
+elements (voxels) in the image determines the computational costs and the
+memory consumption of the image formation. Herein, 120{\deg} rhombic grids are
+proposed to specify the voxel positions and reduce the number of voxels in
+comparison to orthogonal grids. The proposed grids derive from the bivariate
+sampling theorem and the spectral properties of the images formed by the
+delay-and-sum algorithm in CPWC. A phantom experiment validated the proposed
+grids and showed reductions in the number of voxels by 81.4 % and 14.7 % in
+comparison to the usual and optimal orthogonal grids, respectively. Mean
+structural similarity indices above 96.6 % and relative root mean-squared
+errors below 6.8 % confirmed the visual equivalence of all images after
+interpolations to the usual orthogonal grid.",0.8340294,0.05238195,0.17264196,B
+13676,"Finally, we will share our perspectives on the future directions in this rapidly
+evolving virtual staining field, also shedding light on areas that need further research effort.","We group these approaches into (i) label-free virtual staining (Table 1) and (ii)
+stain-to-stain transformations (Table 2), where the former computationally generates the virtual
+histological images from label-free images captured using unstained samples, and the latter digitally
+transforms the images of already stained tissue samples (e.g., H&E-stained) into other types of stains
+(e.g., MT and IHC).","We believe
+this Review will serve as an atlas of the technical developments in this research area, which can introduce
+the top-level concepts and the up-to-date research progress to scholars who are relatively new to this field.",2022-11-13 05:31:47+00:00,Deep Learning-enabled Virtual Histological Staining of Biological Samples,physics.med-ph,"['physics.med-ph', 'cs.CV', 'cs.LG']","[arxiv.Result.Author('Bijie Bai'), arxiv.Result.Author('Xilin Yang'), arxiv.Result.Author('Yuzhu Li'), arxiv.Result.Author('Yijie Zhang'), arxiv.Result.Author('Nir Pillar'), arxiv.Result.Author('Aydogan Ozcan')]","Histological staining is the gold standard for tissue examination in clinical
+pathology and life-science research, which visualizes the tissue and cellular
+structures using chromatic dyes or fluorescence labels to aid the microscopic
+assessment of tissue. However, the current histological staining workflow
+requires tedious sample preparation steps, specialized laboratory
+infrastructure, and trained histotechnologists, making it expensive,
+time-consuming, and not accessible in resource-limited settings. Deep learning
+techniques created new opportunities to revolutionize staining methods by
+digitally generating histological stains using trained neural networks,
+providing rapid, cost-effective, and accurate alternatives to standard chemical
+staining methods. These techniques, broadly referred to as virtual staining,
+were extensively explored by multiple research groups and demonstrated to be
+successful in generating various types of histological stains from label-free
+microscopic images of unstained samples; similar approaches were also used for
+transforming images of an already stained tissue sample into another type of
+stain, performing virtual stain-to-stain transformations. In this Review, we
+provide a comprehensive overview of the recent research advances in deep
+learning-enabled virtual histological staining techniques. The basic concepts
+and the typical workflow of virtual staining are introduced, followed by a
+discussion of representative works and their technical innovations. We also
+share our perspectives on the future of this emerging field, aiming to inspire
+readers from diverse scientific fields to further expand the scope of deep
+learning-enabled virtual histological staining techniques and their
+applications.",-0.05302248,-0.238738,-0.38014114,A
+14232,"Nonetheless, further research is suggested to characterize the performance of helmets
+at varying temperatures to ensure optimal design of head protective technologies across different
+seasons and geographical locations.","We considered this change in peak force to be relatively
+small compared to other, previously tested foams intended for use in American football helmets.37
+We did not perform full helmet testing across a range of temperatures, as the results would have
+likely been influenced by the sensitivity of the helmet’s performance to changes in temperature;
+therefore, it remains unclear how these changes in peak force would translate to changes in brain
+injury risk.","Overall, results of our laboratory impact testing suggested significant reduction of angular
+head accelerations, DAMAGE, and HARM, along with consistent impact response after repeated
+impact exposure.",2022-11-27 19:38:39+00:00,Padded Helmet Shell Covers in American Football: A Comprehensive Laboratory Evaluation with Preliminary On-Field Findings,physics.med-ph,['physics.med-ph'],"[arxiv.Result.Author('Nicholas J. Cecchi'), arxiv.Result.Author('Ashlyn A. Callan'), arxiv.Result.Author('Landon P. Watson'), arxiv.Result.Author('Yuzhe Liu'), arxiv.Result.Author('Xianghao Zhan'), arxiv.Result.Author('Ramanand V. Vegesna'), arxiv.Result.Author('Collin Pang'), arxiv.Result.Author('Enora Le Flao'), arxiv.Result.Author('Gerald A. Grant'), arxiv.Result.Author('Michael M. Zeineh'), arxiv.Result.Author('David B. Camarillo')]","Protective headgear effects measured in the laboratory may not always
+translate to the field. In this study, we evaluated the impact attenuation
+capabilities of a commercially available padded helmet shell cover in the
+laboratory and field. In the laboratory, we evaluated the efficacy of the
+padded helmet shell cover in attenuating impact magnitude across six impact
+locations and three impact velocities when equipped to three different helmet
+models. In a preliminary on-field investigation, we used instrumented
+mouthguards to monitor head impact magnitude in collegiate linebackers during
+practice sessions while not wearing the padded helmet shell covers (i.e., bare
+helmets) for one season and whilst wearing the padded helmet shell covers for
+another season. The addition of the padded helmet shell cover was effective in
+attenuating the magnitude of angular head accelerations and two brain injury
+risk metrics (DAMAGE, HARM) across most laboratory impact conditions, but did
+not significantly attenuate linear head accelerations for all helmets. Overall,
+HARM values were reduced in laboratory impact tests by an average of 25% at 3.5
+m/s (range: 9.7 - 39.6%), 18% at 5.5 m/s (range: -5.5 - 40.5%), and 10% at 7.4
+m/s (range: -6.0 - 31.0%). However, on the field, no significant differences in
+any measure of head impact magnitude were observed between the bare helmet
+impacts and padded helmet impacts. Further laboratory tests were conducted to
+evaluate the ability of the padded helmet shell cover to maintain its
+performance after exposure to repeated, successive impacts and across a range
+of temperatures. This research provides a detailed assessment of padded helmet
+shell covers and supports the continuation of in vivo helmet research to
+validate laboratory testing results.",-0.27194822,0.8052448,-0.0017463677,C_centroid
+14233,"However,
+further research is needed to prove their efficacy in attenuating impact severity and injury
+incidence in a live, human setting.","Overall, the laboratory results from this study suggest that padded helmet shell covers
+have the potential to reduce angular head accelerations and other brain injury risk metrics derived
+from angular head kinematics resulting from helmet impacts in American football.","Future studies should investigate the effect of this relatively
+new technology in specific impact conditions (e.g.",2022-11-27 19:38:39+00:00,Padded Helmet Shell Covers in American Football: A Comprehensive Laboratory Evaluation with Preliminary On-Field Findings,physics.med-ph,['physics.med-ph'],"[arxiv.Result.Author('Nicholas J. Cecchi'), arxiv.Result.Author('Ashlyn A. Callan'), arxiv.Result.Author('Landon P. Watson'), arxiv.Result.Author('Yuzhe Liu'), arxiv.Result.Author('Xianghao Zhan'), arxiv.Result.Author('Ramanand V. Vegesna'), arxiv.Result.Author('Collin Pang'), arxiv.Result.Author('Enora Le Flao'), arxiv.Result.Author('Gerald A. Grant'), arxiv.Result.Author('Michael M. Zeineh'), arxiv.Result.Author('David B. Camarillo')]","Protective headgear effects measured in the laboratory may not always
+translate to the field. In this study, we evaluated the impact attenuation
+capabilities of a commercially available padded helmet shell cover in the
+laboratory and field. In the laboratory, we evaluated the efficacy of the
+padded helmet shell cover in attenuating impact magnitude across six impact
+locations and three impact velocities when equipped to three different helmet
+models. In a preliminary on-field investigation, we used instrumented
+mouthguards to monitor head impact magnitude in collegiate linebackers during
+practice sessions while not wearing the padded helmet shell covers (i.e., bare
+helmets) for one season and whilst wearing the padded helmet shell covers for
+another season. The addition of the padded helmet shell cover was effective in
+attenuating the magnitude of angular head accelerations and two brain injury
+risk metrics (DAMAGE, HARM) across most laboratory impact conditions, but did
+not significantly attenuate linear head accelerations for all helmets. Overall,
+HARM values were reduced in laboratory impact tests by an average of 25% at 3.5
+m/s (range: 9.7 - 39.6%), 18% at 5.5 m/s (range: -5.5 - 40.5%), and 10% at 7.4
+m/s (range: -6.0 - 31.0%). However, on the field, no significant differences in
+any measure of head impact magnitude were observed between the bare helmet
+impacts and padded helmet impacts. Further laboratory tests were conducted to
+evaluate the ability of the padded helmet shell cover to maintain its
+performance after exposure to repeated, successive impacts and across a range
+of temperatures. This research provides a detailed assessment of padded helmet
+shell covers and supports the continuation of in vivo helmet research to
+validate laboratory testing results.",-0.26041335,0.80089605,-0.07652721,C

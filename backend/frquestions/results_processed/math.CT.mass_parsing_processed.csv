@@ -1,0 +1,411 @@
+Unnamed: 0,further research line,further research prefix,further research suffix,publication date,title,primary category,categories,authors,abstract,x,y,z,cluster
+2507,"Based on this
+result, in Section 3, we further study when DT is semi-complete.","Mao [22] constructed a complete duality
+pair DT of T -modules using duality pairs in A-Mod and B-Mod respectively.","Then we characterize when a
+left T -module is Gorenstein DT -projective, Gorenstein DT -injective or Gorenstein DT -ﬂat (see
+Theorems 3.4, 3.8 and 3.11).",2022-02-26 14:25:06+00:00,Gorenstein and duality pair over triangular matrix rings,math.CT,['math.CT'],"[arxiv.Result.Author('Haiyu Liu'), arxiv.Result.Author('Rongmin Zhu')]","Let $A$, $B$ be two rings and $T=\left(\begin{smallmatrix} A & M \\ 0 & B
+\\\end{smallmatrix}\right)$ with $M$ an $A$-$B$-bimodule. We first construct a
+semi-complete duality pair $\mathcal{D}_{T}$ of $T$-modules using duality pairs
+in $A$-Mod and $B$-Mod respectively. Then we characterize when a left
+$T$-module is Gorenstein $D_{T}$-projective, Gorenstein $D_{T}$-injective or
+Gorenstein $D_{T}$-flat. These three class of $T$-modules will induce model
+structures on $T$-Mod. Finally we show that the homotopy category of each of
+model structures above admits a recollement relative to corresponding stable
+categories. Our results give new characterizations to earlier results in this
+direction.",0.21777391,-0.019095099,-0.22304818,A
+5632,"In addition to telling us something about the nature of optics and
+comb diagrams, our results suggest that the free cornering is worthy of further study in its own right.","The graphical calculus of the free cornering allows one to
+work with these structures more easily.","1 Double Categories and the Free Cornering
+
+In this section we set up the rest of our development by presenting the theory of single object double
+categories and the free cornering of a monoidal category.",2022-05-02 12:12:52+00:00,Cornering Optics,math.CT,"['math.CT', 'cs.LO']","[arxiv.Result.Author('Guillaume Boisseau'), arxiv.Result.Author('Chad Nester'), arxiv.Result.Author('Mario Roman')]","We show that the category of optics in a monoidal category arises naturally
+from the free cornering of that category. Further, we show that the free
+cornering of a monoidal category is a natural setting in which to work with
+comb diagrams over that category. The free cornering admits an intuitive
+graphical calculus, which in light of our work may be used to reason about
+optics and comb diagrams.",0.17540407,0.0864015,0.23792224,C
+7055,"Hence this article is not so much ﬁnished work as an invitation to
+                                         further research.","Much has been
+                                         accomplished in this style, but we still do not know the full scope of such geometric
+                                         mathematics.",Section 11 discusses aspects of this.,2022-06-02 15:55:12+00:00,"Generalized point-free spaces, pointwise",math.CT,"['math.CT', '03G30 (Primary) 18F10, 18F70 (Secondary)']",[arxiv.Result.Author('Steven Vickers')],"We survey foundational principles of Grothendieck's generalized spaces,
+including a critical glossary of the various, and often conflicting,
+terminological usages. Known results using generalized points support a fully
+pointwise notation for these essentially point-free structures. This includes
+some from dependent type theory to deal with bundles as continuous space-valued
+maps, mapping base point to fibre.",0.5430128,0.37905586,0.13715352,C
+7056,"Conclusions
+
+   This article is not so much ﬁnished work as an invitation to further research.",11.,"We have explained how, if one’s mathematics is geometric, then it can be expressed
+in terms of point-free spaces (even generalized ones) and conducted in a pointwise
+manner.",2022-06-02 15:55:12+00:00,"Generalized point-free spaces, pointwise",math.CT,"['math.CT', '03G30 (Primary) 18F10, 18F70 (Secondary)']",[arxiv.Result.Author('Steven Vickers')],"We survey foundational principles of Grothendieck's generalized spaces,
+including a critical glossary of the various, and often conflicting,
+terminological usages. Known results using generalized points support a fully
+pointwise notation for these essentially point-free structures. This includes
+some from dependent type theory to deal with bundles as continuous space-valued
+maps, mapping base point to fibre.",0.30803096,0.3883064,0.22263877,C_centroid
+8810,"Although it is beyond the scope of this paper, investigating the connections
+
+between these two notions is an interesting direction for further study.","These provide an operadic view on a con-
+
+struction which is very similar to what we would call                           -valued structured decom-
+
+positions.","Finally we note that there have been two other categoriﬁcations of tree-width to
+
+date.",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",-0.37094522,0.041700356,-0.18744299,B_centroid
+8811,"(We note that, although this is an impor-
+tant step towards developing eﬃcient algorithms for this computation, a full algorithm
+for this task is beyond the scope of this paper and it is instead left as an exciting and
+challenging [9, 8] direction for further study.)","However, since we would like to actually compute this Kan extension in a reasonable
+
+amount of time, we devote Section 4.2 to ﬁnding a way to compute this Kan extension
+via a colimit of a simpler and smaller diagram.","To achieve this result (Theorem 4.6) we will have to make a small sacriﬁce in gen-
+erality: rather than obtaining the Kan extension Lan Ω, we will show how to deﬁne
+Lan m Ω where m( ) is the following full subcategory of ( ).",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",0.05264574,-0.39996108,-0.23339221,A_centroid
+8812,This is an interesting direction for further study.,"Note that our deﬁnition of (, Ω)-width immediately extends Carmesin’s Deﬁni-
+
+tion 5.11 to directed graphs as well since the categoy  of reﬂexive, directed multi-
+
+graphs has all colimits.","Complemented tree-width Another combinatorial instance of (, Ω)-width comes
+from the notion of complemented tree-width.",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",-0.43173844,0.072291486,-0.2466976,B
+8813,"Comparing the resulting
+
+width measure to Hliněný and Whittle’s matroid tree-width [37] is a promising avenue
+
+for further study.","This means that we can deﬁne the (, )-width
+
+of matroids for various choices of decomposition shapes .","Finally, although we will not treat this in the present paper, we note that further
+
+interesting application ares for structured decompositions include Petri nets, chemical
+
+reaction networks and other kinds of ‘typed graphs’.",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",-0.41503763,0.26742816,-0.1279927,B
+8814,"7.2 Further questions
+
+Structured decompositions open many fascinating directions for further research which
+
+can be roughly partitioned in accordance to the branches of mathematics each is inspired
+
+by.","47
+triangulation functors, revealed formidable technical diﬃculties: resolving these ulti-
+mately required (and led us to) the more intricate theory of structured decompositions
+presented above.","On the category-theoretic side, there are at least two main lines of inquiry which
+
+deserve explicit study.",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",-0.100635886,0.031018566,-0.057777714,B
+8815,"Although it is beyond the scope of this paper, investigating the connections
+
+between these two notions is an interesting direction for further study.","These provide an operadic view on a con-
+
+struction which is very similar to what we would call  -valued structured decom-
+
+positions.","Finally we note that there have been two other categoriﬁcations of tree-width to
+
+date.",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",-0.37094522,0.041700356,-0.18744299,B
+8816,"(We note that, although this is an impor-
+tant step towards developing eﬃcient algorithms for this computation, a full algorithm
+for this task is beyond the scope of this paper and it is instead left as an exciting and
+challenging [9, 8] direction for further study.)","However, since we would like to actually compute this Kan extension in a reasonable
+
+amount of time, we devote Section 4.2 to ﬁnding a way to compute this Kan extension
+via a colimit of a simpler and smaller diagram.","To achieve this result (Theorem 4.3) we will have to make a small sacriﬁce in gen-
+erality: rather than obtaining the Kan extension Lan Ω, we will show how to deﬁne
+Lan m Ω where m( ) is the following full subcategory of ( ).",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",0.052430533,-0.39849013,-0.23331308,A
+8817,This is an interesting direction for further study.,"Note that our deﬁnition of (, Ω)-width immediately extends Carmesin’s Deﬁni-
+
+tion 5.11 to directed graphs as well since the categoy     of reﬂexive, directed multi-
+
+graphs has all colimits.","2recall that, seen as an arrow in m( ), Λ is itself a natural transformation
+
+         27
+Complemented tree-width Another combinatorial instance of (, Ω)-width comes
+from the notion of complemented tree-width.",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",-0.41256773,0.07867072,-0.2650416,B
+8818,"Comparing the resulting
+
+width measure to Hliněný and Whittle’s matroid tree-width [37] is a promising avenue
+
+for further study.","This means that we can deﬁne the (, )-width
+
+of matroids for various choices of decomposition shapes .","Finally, although we will not treat this in the present paper, we note that further
+
+interesting application ares for structured decompositions include Petri nets, chemical
+
+reaction networks and other kinds of ‘typed graphs’.",2022-07-13 10:00:52+00:00,Structured Decompositions: Structural and Algorithmic Compositionality,math.CT,"['math.CT', 'cs.DS', 'math.CO', '18B10, 05C75 (Primary) 68W40 (Secondary)', 'F.2.m; G.0']","[arxiv.Result.Author('Benjamin Merlin Bumpus'), arxiv.Result.Author('Zoltan A. Kocsis'), arxiv.Result.Author('Jade Edenstar Master')]","We introduce structured decompositions: category-theoretic generalizations of
+many combinatorial invariants -- including tree-width, layered tree-width,
+co-tree-width and graph decomposition width -- which have played a central role
+in the study of structural and algorithmic compositionality in both graph
+theory and parameterized complexity. Structured decompositions allow us to
+generalize combinatorial invariants to new settings (for example decompositions
+of matroids) in which they describe algorithmically useful structural
+compositionality. As an application of our theory we prove an algorithmic meta
+theorem for the Sub_P-composition problem which, when instantiated in the
+category of graphs, yields compositional algorithms for NP-hard problems such
+as: Maximum Bipartite Subgraph, Maximum Planar Subgraph and Longest Path.",-0.41503763,0.26742816,-0.1279927,B
+9703,"The last section is devoted
+to further research directions.",Examples are provided to illustrate this result.,"2 Tensor products of matrix factorizations and their func-
+    toriality
+
+In this section, we ﬁrst recall the deﬁnitions of Yoshino’s tensor product of matrix factor-
+izations denoted ⊗ and its three variants denoted by ⊗′, ⊗′′ and ⊗′′′.",2022-08-04 06:01:37+00:00,Reduced multiplicative tensor product of matrix factorizations,math.CT,"['math.CT', '15A23, 15A69, 18A05']",[arxiv.Result.Author('Yves Fomatati')],"An algorithm for matrix factorization of polynomials was proposed in
+\cite{fomatati2022tensor} and it was shown that this algorithm produces better
+results than the standard method for factoring polynomials on the class of
+summand-reducible polynomials. In this paper, we improve this algorithm by
+refining the construction of one of its two main ingredients, namely the
+multiplicative tensor product $\widetilde{\otimes}$ of matrix factorizations to
+obtain another different bifunctorial operation that we call the reduced
+multiplicative tensor product of matrix factorizations denoted by
+$\overline{\otimes}$. In fact, we observe that in the algorithm for matrix
+factorization of polynomials developed in \cite{fomatati2022tensor}, if we
+replace $\widetilde{\otimes}$ by $\overline{\otimes}$, we obtain better results
+on the class of summand-reducible polynomials in the sense that the refined
+algorithm produces matrix factors which are of smaller sizes.",0.35350192,0.37522614,-0.13258302,A
+9704,"30
+5 Further research directions
+
+We think the following questions that are interesting for further research:
+
+   1.","a matrix factorization of f of
+size 32.","We learned about factorization of polynomials using two n × n matrices (n ≥ 2), it
+       could be interesting to study how polynomials could be factorized using m matrices
+       of size n where (n ≥ 2) and m ≥ 3.",2022-08-04 06:01:37+00:00,Reduced multiplicative tensor product of matrix factorizations,math.CT,"['math.CT', '15A23, 15A69, 18A05']",[arxiv.Result.Author('Yves Fomatati')],"An algorithm for matrix factorization of polynomials was proposed in
+\cite{fomatati2022tensor} and it was shown that this algorithm produces better
+results than the standard method for factoring polynomials on the class of
+summand-reducible polynomials. In this paper, we improve this algorithm by
+refining the construction of one of its two main ingredients, namely the
+multiplicative tensor product $\widetilde{\otimes}$ of matrix factorizations to
+obtain another different bifunctorial operation that we call the reduced
+multiplicative tensor product of matrix factorizations denoted by
+$\overline{\otimes}$. In fact, we observe that in the algorithm for matrix
+factorization of polynomials developed in \cite{fomatati2022tensor}, if we
+replace $\widetilde{\otimes}$ by $\overline{\otimes}$, we obtain better results
+on the class of summand-reducible polynomials in the sense that the refined
+algorithm produces matrix factors which are of smaller sizes.",0.2805996,0.5412801,0.18316515,C
+11313,"More pragmatically, we are encouraged to further study the categories of multialgebras, now from the viewpoint
+of categories of partially ordered sets, far better understood than the former ones; moreover, we can now recast
+several non-deterministic characterizations of logics found in the literature in the terms here presented.","This is made, not because we distrust the use of
+multialgebras as semantics for non-classical logics, but as an alternative to those logicians that have philosophical
+objections against that very use.","Speciﬁcally,
+there are several paraconsistent logics uncharacterizable by ﬁnite matrices, but characterized by ﬁnite Nmatrices,
+which can now have semantics presented only in classical terms of algebras and orders.",2022-09-11 11:56:42+00:00,A Category of Ordered Algebras Equivalent to the Category of Multialgebras,math.CT,"['math.CT', 'math.LO']","[arxiv.Result.Author('Marcelo E. Coniglio'), arxiv.Result.Author('Guilherme V. Toledo')]","It is well known that there is a correspondence between sets and complete,
+atomic Boolean algebras (CABA's) taking a set to its power-set and,
+reciprocally, a complete, atomic Boolean algebra to its set of atomic elements.
+Of course, such a correspondence induces an equivalence between the opposite
+category of $\textbf{Set}$ and the category of CABA's. We extend this result by
+taking multialgebras over a signature $\Sigma$, specifically those whose
+non-deterministic operations cannot return the empty-set, to CABA's with their
+zero element removed and a structure of $\Sigma$-algebra compatible with its
+order; reciprocally, one of these ""almost Boolean"" $\Sigma$-algebras is taken
+to its set of atomic elements equipped with a structure of multialgebra over
+$\Sigma$. This leads to an equivalence between the category of
+$\Sigma$-multialgebras and a category of ordered $\Sigma$-algebras. The
+intuition, here, is that if one wishes to do so, non-determinism may be
+replaced by a sufficiently rich ordering of the underlying structures.",-0.11827324,0.17655289,0.15280394,B
+11430,"The issue of recognising subdiagrams deserves further study, so we leave it to future work.","These invoke a procedure for recognising subdiagrams, which currently uses a quite naive algorithm.","Conclusions and outlook
+
+We have provided a formal implementation of “plain” diagrammatic sets.",2022-09-20 06:54:24+00:00,Data structures for topologically sound higher-dimensional diagram rewriting,math.CT,"['math.CT', 'cs.DS', 'cs.LO', '18N20, 18N30, 57-08']","[arxiv.Result.Author('Amar Hadzihasanovic'), arxiv.Result.Author('Diana Kessler')]","We present a computational implementation of diagrammatic sets, a model of
+higher-dimensional diagram rewriting that is ""topologically sound"": diagrams
+admit a functorial interpretation as homotopies in cell complexes. This has
+potential applications both in the formalisation of higher algebra and category
+theory and in computational algebraic topology. We describe data structures for
+well-formed shapes of diagrams of arbitrary dimensions and provide a solution
+to their isomorphism problem in time $O(n^3 \log n)$. On top of this, we define
+a type theory for rewriting in diagrammatic sets and provide a semantic
+characterisation of its syntactic category. All data structures and algorithms
+are implemented in the Python library rewalt, which also supports various
+visualisations of diagrams.",-0.2042194,-0.30760854,0.67393124,B
+11431,"The issue of recognising subdiagrams deserves further study, so we leave it to future work.","These invoke a procedure for recognising subdiagrams, which currently uses a quite naive algorithm.","Conclusions and outlook
+
+We have provided a formal implementation of “plain” diagrammatic sets.",2022-09-20 06:54:24+00:00,Data structures for topologically sound higher-dimensional diagram rewriting,math.CT,"['math.CT', 'cs.DS', 'cs.LO', '18N20, 18N30, 57-08', 'F.2.2; F.4.2']","[arxiv.Result.Author('Amar Hadzihasanovic'), arxiv.Result.Author('Diana Kessler')]","We present a computational implementation of diagrammatic sets, a model of
+higher-dimensional diagram rewriting that is ""topologically sound"": diagrams
+admit a functorial interpretation as homotopies in cell complexes. This has
+potential applications both in the formalisation of higher algebra and category
+theory and in computational algebraic topology. We describe data structures for
+well-formed shapes of diagrams of arbitrary dimensions and provide a solution
+to their isomorphism problem in time $O(n^3 \log n)$. On top of this, we define
+a type theory for rewriting in diagrammatic sets and provide a semantic
+characterisation of its syntactic category. All data structures and algorithms
+are implemented in the Python library rewalt, which also supports various
+visualisations of diagrams.",-0.2042194,-0.30760854,0.67393124,B
+13566,"Cohomology aspects and further research                                  22
+
+                                         3.1.","Geometric morphisms and toposes of sheaves on (J,K) F                    20
+
+                                         3.","Global sections on Sh ( (J,K) F) and some spectral sequences 22
+
+                                         3.2.",2022-11-09 19:14:31+00:00,Sheaves on Grothendieck constructions,math.CT,"['math.CT', 'math.KT']",[arxiv.Result.Author('Nikita Golub')],"In this paper we introduce a generalisation of a covariant Grothendieck
+construction to the setting of sites. We study the basic properties of defined
+site structures on Grothendieck constructions as well as we treat the
+cohomological aspects of corresponding toposes of sheaves. Despite the fact
+that the toposes of $G$-equivariant sheaves $Sh_G(X)$ have been introduced in
+literature, their cohomological aspects have not been treated properly in a
+desired fashion. So in the end of the paper we study some of the acyclic
+families, introduce new type of acyclic resolutions which we call the
+$G$-equivariant Godement resolutions, the degree of actions, and some other
+basic cohomological concepts arising in $Sh_G(X)$.",0.55403507,-0.29614952,-0.17330658,A
+13567,"We propose the following
+
+solution to this: given a functor F : γ → Site (now we assume morphisms in
+Site to be cover-reﬂecting), we deﬁne a site γ F whose underlying category
+
+is a covariant Grothendieck construction and further study the cohomology
+
+of a topos Sh( γ F) interpreting it as a cohomology of γ-diagramms in C.
+
+   Construction of sheaf theoretic cohomology on categories of the type Cγ
+
+is an important problem, since there is even a greater variety of cohomology
+
+theories deﬁned on functor categories (diagrams of topological spaces, G-
+
+equivariant cohomology in particular) [H88], [S94], [GZ18] which need to
+
+be related to each other.","Now, consid-
+
+ering the cohomology theories deﬁned this way on C we need to extend them
+over the functor category Cγ, where γ is some site.","This relations should be provided via the idea
+
+sketched above.",2022-11-09 19:14:31+00:00,Sheaves on Grothendieck constructions,math.CT,"['math.CT', 'math.KT']",[arxiv.Result.Author('Nikita Golub')],"In this paper we introduce a generalisation of a covariant Grothendieck
+construction to the setting of sites. We study the basic properties of defined
+site structures on Grothendieck constructions as well as we treat the
+cohomological aspects of corresponding toposes of sheaves. Despite the fact
+that the toposes of $G$-equivariant sheaves $Sh_G(X)$ have been introduced in
+literature, their cohomological aspects have not been treated properly in a
+desired fashion. So in the end of the paper we study some of the acyclic
+families, introduce new type of acyclic resolutions which we call the
+$G$-equivariant Godement resolutions, the degree of actions, and some other
+basic cohomological concepts arising in $Sh_G(X)$.",0.32814878,-0.3660806,-0.16382691,A
+13568,"Cohomology aspects and further research
+
+3.1.","22                                                   N. GOLUB
+
+                          3.","Global sections on Sh ( (J,K) F) and some spectral sequences.",2022-11-09 19:14:31+00:00,Sheaves on Grothendieck constructions,math.CT,"['math.CT', 'math.KT']",[arxiv.Result.Author('Nikita Golub')],"In this paper we introduce a generalisation of a covariant Grothendieck
+construction to the setting of sites. We study the basic properties of defined
+site structures on Grothendieck constructions as well as we treat the
+cohomological aspects of corresponding toposes of sheaves. Despite the fact
+that the toposes of $G$-equivariant sheaves $Sh_G(X)$ have been introduced in
+literature, their cohomological aspects have not been treated properly in a
+desired fashion. So in the end of the paper we study some of the acyclic
+families, introduce new type of acyclic resolutions which we call the
+$G$-equivariant Godement resolutions, the degree of actions, and some other
+basic cohomological concepts arising in $Sh_G(X)$.",0.6052824,-0.27160114,-0.15420729,A
+14313,"We further study here why this is the case, by providing several results which show that
+                                              precategories and their associated polygraphs bear properties which ensure that we have a
+                                              good syntax for those.","Those
+                                              can be presented by generators and relations, using an appropriate variation on the notion of
+                                              polygraph (aka computad), and earlier works have shown that the theory of rewriting can
+                                              be generalized to this setting, enjoying most of the fundamental constructions and properties
+                                              which can be found in the traditional theory, contrarily to polygraphs for strict categories.","In particular, we show that the category of polygraphs for precategories
+                                              form a presheaf category.",2022-11-29 11:18:32+00:00,Free precategories as presheaf categories,math.CT,"['math.CT', '18N99']","[arxiv.Result.Author('Simon Forest'), arxiv.Result.Author('Samuel Mimram')]","Precategories generalize both the notions of strict $n$-category and
+sesquicategory: their definition is essentially the same as the one of strict
+$n$-categories, excepting that we do not require the various interchange laws
+to hold. Those have been proposed as a framework in which one can express
+semi-strict definitions of weak higher categories: in dimension 3, Gray
+categories are an instance of them and have been shown to be equivalent to
+tricategories, and definitions of semi-strict tetracategories have been
+proposed, and used as the basis of proof assistants such as Globular. In this
+article, we are mostly interested in free precategories. Those can be presented
+by generators and relations, using an appropriate variation on the notion of
+polygraph (aka computad), and earlier works have shown that the theory of
+rewriting can be generalized to this setting, enjoying most of the fundamental
+constructions and properties which can be found in the traditional theory,
+contrarily to polygraphs for strict categories. We further study here why this
+is the case, by providing several results which show that precategories and
+their associated polygraphs bear properties which ensure that we have a good
+syntax for those. In particular, we show that the category of polygraphs for
+precategories form a presheaf category.",-0.24699417,-0.23915255,0.07248451,B
+14314,"In this article, we further study of the category of n-polygraphs for
+n-precategories.",Properties of polygraphs.,"Most importantly, we show that they form a presheaf category.",2022-11-29 11:18:32+00:00,Free precategories as presheaf categories,math.CT,"['math.CT', '18N99']","[arxiv.Result.Author('Simon Forest'), arxiv.Result.Author('Samuel Mimram')]","Precategories generalize both the notions of strict $n$-category and
+sesquicategory: their definition is essentially the same as the one of strict
+$n$-categories, excepting that we do not require the various interchange laws
+to hold. Those have been proposed as a framework in which one can express
+semi-strict definitions of weak higher categories: in dimension 3, Gray
+categories are an instance of them and have been shown to be equivalent to
+tricategories, and definitions of semi-strict tetracategories have been
+proposed, and used as the basis of proof assistants such as Globular. In this
+article, we are mostly interested in free precategories. Those can be presented
+by generators and relations, using an appropriate variation on the notion of
+polygraph (aka computad), and earlier works have shown that the theory of
+rewriting can be generalized to this setting, enjoying most of the fundamental
+constructions and properties which can be found in the traditional theory,
+contrarily to polygraphs for strict categories. We further study here why this
+is the case, by providing several results which show that precategories and
+their associated polygraphs bear properties which ensure that we have a good
+syntax for those. In particular, we show that the category of polygraphs for
+precategories form a presheaf category.",-0.18025169,-0.1413134,0.1600348,B
