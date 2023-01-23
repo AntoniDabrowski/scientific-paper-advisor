@@ -1,5 +1,6 @@
 import pickle
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
+# SentenceTransformer('all-MiniLM-L6-v2')
 from os import listdir
 from os.path import join
 import pandas as pd
@@ -84,16 +85,13 @@ def extract_FR(section):
 
 
 def handle_PDF_response(response):
-    all_sections = []
-    further_research = ""
+    title = response.get("title", "")
+    abstract = response.get("abstractText", "")
     for section in response['sections']:
         for text in section.values():
-            all_sections.append(text)
             if contain_phrase(text):
-                further_research = extract_FR(text)
-
-    all_sections = '\n'.join(all_sections)
-    return all_sections, further_research
+                return title, abstract, extract_FR(text)
+    return title, abstract, ""
 
 
 def get_model(category):
@@ -150,19 +148,18 @@ def prepare_data_from_csv(category):
     return traces
 
 
-def handle_from_pdf(record, url):
+def handle_from_pdf(record, url, SentenceTransformer_loaded):
     if not record:
         return {}
 
-    article_text, further_research_section = handle_PDF_response(record)
-    category = predict_category(article_text)
+    title, abstract, further_research_section = handle_PDF_response(record)
+    category = predict_category(f'{title}.\n{abstract}')
 
     traces = prepare_data_from_csv(category)
 
     if further_research_section:
         model = get_model(category)
-        SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
-        embedding = SentenceTransformerModel.encode([further_research_section])
+        embedding = SentenceTransformer_loaded.encode([further_research_section])
         _x, _y, _z = model.transform(embedding)[0]
 
         hover = parse_hovers([further_research_section])
