@@ -104,7 +104,10 @@ class ArticleGraph(nx.Graph):
         already_used.update([r.publication['bib'].get('title') for r in results])
 
         if len(results) < self.max_articles_per_column:
-            core_article_cites = scholarly.citedby(scholarly.fill(article.publication))
+            core_article = scholarly.fill(article.publication)
+            if core_article.get('citedby_url') is None:
+                return results
+            core_article_cites = scholarly.citedby(core_article)
             counter = 0
             while counter < article.publication['num_citations'] and len(results) < self.max_articles_per_column:
                 next_publication = next(core_article_cites)
