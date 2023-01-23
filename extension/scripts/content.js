@@ -65,11 +65,11 @@ function handle_menu(menu, graph, scatter, i, x) {
     }
 
     if (graph.style.display === "none" && scatter.style.display === "none") {
-        draw_graph_of_connections(graph, i, x);
-    } else if (graph.style.display === "block") {
-        draw_graph_of_connections(graph, i, x);
-    } else {
         draw_scatter_plot(scatter, i, x);
+    } else if (scatter.style.display === "block") {
+        draw_scatter_plot(scatter, i, x);
+    } else {
+        draw_graph_of_connections(graph, i, x);
     }
 
 }
