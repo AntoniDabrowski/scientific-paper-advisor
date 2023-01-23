@@ -8,7 +8,7 @@ from pathlib import Path
 import requests
 from django.http import HttpResponse, HttpRequest, JsonResponse
 from science_parse_api.api import parse_pdf
-from frquestions.process_new_article import pipeline
+from frquestions.process_new_article import handle_from_db, handle_from_pdf
 from frquestions.models import ProcessedPDF
 
 
@@ -18,27 +18,18 @@ def index(request: HttpRequest):
 
 
 def parsepdf(request: HttpRequest):
-    host = 'http://pdfparser'
+    host = 'http://{}'.format(os.getenv('PDFPARSER_HOST'))
     port = os.getenv('PDFPARSER_PORT')
 
-    from_db = None
-    from_pdf = None
     with tempfile.NamedTemporaryFile() as fp:
         url = request.GET.get('pdfurl')
 
         if ProcessedPDF.objects.filter(url=url).exists():
-            record = ProcessedPDF.objects.get(url=url)
-            from_db = {"x": record.x,
-                       "y": record.y,
-                       "z": record.z,
-                       "text": record.hover,
-                       "url": record.url,
-                       "title": record.category,
-                       "color": "black"}
+            to_export = handle_from_db(url)
         else:
             response = requests.get(url)
             fp.write(response.content)
-            from_pdf = parse_pdf(host, Path(fp.name), port=port)
-        to_export = pipeline(from_pdf, from_db, url)
+            record = parse_pdf(host, Path(fp.name), port=port)
+            to_export = handle_from_pdf(record, url)
 
     return JsonResponse(to_export)

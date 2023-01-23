@@ -14,6 +14,9 @@
   },
   "content_scripts": [
     {
+      "css": [
+        "css/loader.css"
+      ],
       "js": [
         "dist/content.js"
       ],
