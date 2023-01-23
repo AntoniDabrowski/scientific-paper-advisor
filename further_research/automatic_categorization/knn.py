@@ -100,17 +100,8 @@ def test_over_categories(train, validate, k):
     plt.legend(handles=[mean_patch])
     plt.show()
 
+
 def train_and_save(df):
     embeddings = get_embeddings(df)
     model = KNN_train(embeddings, df["primary category"], k=1)
-    pickle.dump(model,open("../../backend/frquestions/category_analysis/model.pickle","wb"))
-
-
-if __name__ == "__main__":
-    df = data_loader('../../utils/FRDownloader/results/mass_parsing.csv')
-    train, validate, _ = split_data(df)
-
-    test_over_k(train, validate)
-    test_over_categories(train, validate, k=1)
-
-    # train_and_save(df)
+    pickle.dump(model, open("../../backend/frquestions/category_analysis/model.pickle", "wb"))
