@@ -160,11 +160,10 @@ def handle_from_pdf(record, url):
     traces = prepare_data_from_csv(category)
 
     if further_research_section:
-        # model = get_model(category)
-        # SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
-        # embedding = SentenceTransformerModel.encode([further_research_section])
-        # _x, _y, _z = model.transform(embedding)[0]
-        _x, _y, _z = (0.3, 0.3, 0.3)
+        model = get_model(category)
+        SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
+        embedding = SentenceTransformerModel.encode([further_research_section])
+        _x, _y, _z = model.transform(embedding)[0]
 
         hover = parse_hovers([further_research_section])
 
@@ -181,7 +180,7 @@ def handle_from_pdf(record, url):
                                     y=_y,
                                     z=_z,
                                     category=category,
-                                    hover=hover)
+                                    hover=hover[0])
     else:
         ProcessedPDF.objects.create(url=url,
                                     x=None,

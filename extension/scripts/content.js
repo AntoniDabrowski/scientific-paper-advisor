@@ -1,25 +1,28 @@
 const {create_graph_on_scholar_result, create_scatter_on_scholar_result, purge_graph} = require("./graphs");
-const {extract_article_data, extract_pdf_url} = require("./utils");
+const {extract_article_data, extract_pdf_url, show_loader, hide_loader} = require("./utils");
 const {get_graph_layout, get_scatter_layout} = require("./backend_communication");
 const {menu} = require("./menu");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
 
-function draw_graph_of_connections(drawing_board, i, x) {
+function draw_graph_of_connections(graph, i, x) {
     console.log("In draw_graph_of_connections");
     x.classList.toggle("active");
-    if (drawing_board.style.display === "block") {
-        drawing_board.style.display = "none";
-        purge_graph(drawing_board.id);
+    if (graph.style.display === "block") {
+        graph.style.display = "none";
+        purge_graph(graph.id);
     } else {
-        drawing_board.style.display = "block";
+        graph.style.display = "block";
         var article_data = extract_article_data(pdf_results[i].parentNode);
         var graph_schema = get_graph_layout(article_data);
         // TODO add waiting animation
+        show_loader(graph.id);
         graph_schema.then(function (returned_json) {
-            create_graph_on_scholar_result(drawing_board.id, returned_json);
+            hide_loader(graph.id);
+            create_graph_on_scholar_result(graph.id, returned_json);
         }).catch(function (error) {
             // TODO add action in case of failure.
+            hide_loader(graph.id);
             console.error(error);
         });
     }
@@ -38,10 +41,13 @@ function draw_scatter_plot(scatter, i, x) {
         var graph_schema = get_scatter_layout(article_data)
         console.log("graph_schema: ",graph_schema);
         // TODO add waiting animation
+        show_loader(scatter.id);
         graph_schema.then(function (returned_json) {
+            hide_loader(scatter.id);
             create_scatter_on_scholar_result(scatter, returned_json);
         }).catch(function (error) {
             // TODO add action in case of failure.
+            hide_loader(scatter.id);
             console.error(error);
         });
     }

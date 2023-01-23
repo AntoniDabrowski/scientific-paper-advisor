@@ -38,7 +38,7 @@ function prepare_article_markers(layout, nodes) {
         point_size.push(nodes[i]['num_publications'])
     }
 
-    const text = create_text_for_graph(nodes)
+    const text = create_text_for_graph(nodes);
 
     return {
         x: x,
