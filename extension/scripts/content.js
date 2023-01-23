@@ -122,8 +122,8 @@ if (pdf_results) {
             handle_menu(menu, graph, scatter, i, this);
         });
 
-        var links_of_result = void 0;
-        var search_result_box = void 0;
+        let links_of_result;
+        let search_result_box;
 
 
         pdf_results[i].insertAdjacentElement("beforeend", create_graph);

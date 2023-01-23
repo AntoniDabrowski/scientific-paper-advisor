@@ -8,8 +8,8 @@ function create_text_for_graph(nodes) {
         let node_dict = nodes[i]
         result.push(`<a href="${node_dict['url']}">${node_dict['title']}</a>` +
             `<br>Authors: ${node_dict['authors']}<br>#citations: ${node_dict['num_publications']}`)
-        // TODO: (Cezary) Move reference to url to the node, rather than its hover
-        // TODO: (Cezary) Hovers by default has part '<extra>something</extra>', where 'something' will be display next to hover, we don't want that
+        // TODO: Move reference to url to the node, rather than its hover
+        // TODO: Hovers by default has part '<extra>something</extra>', where 'something' will be display next to hover, we don't want that
     }
 
     return result;
@@ -72,7 +72,7 @@ export function create_graph_on_scholar_result(divid, json) {
 
     const graph_data = [articles_markers].concat(citation_edges)
     Plotly.newPlot(divid, graph_data, layout)
-    // TODO: (Cezary) After user clicks on node, the related PDF should pop-up
+    // TODO: After user clicks on node, the related PDF should pop-up
 }
 
 export function create_scatter_on_scholar_result(scatter, json) {
