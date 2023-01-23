@@ -87,7 +87,7 @@ def extract_FR(section):
 def handle_PDF_response(response):
     title = response.get("title", "")
     abstract = response.get("abstractText", "")
-    for section in response['sections']:
+    for section in response.get('sections',[]):
         for text in section.values():
             if contain_phrase(text):
                 return title, abstract, extract_FR(text)
@@ -153,7 +153,7 @@ def handle_from_pdf(record, url, SentenceTransformer_loaded):
         return {}
 
     title, abstract, further_research_section = handle_PDF_response(record)
-    category = predict_category(f'{title}.\n{abstract}')
+    category = predict_category(f'{title}.\n{abstract}', SentenceTransformer_loaded)
 
     traces = prepare_data_from_csv(category)
 
