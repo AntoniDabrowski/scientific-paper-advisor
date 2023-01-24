@@ -23,3 +23,7 @@
     overflow: hidden;
     background-color: #f1f1f1;
 }
+
+.menu {
+    display: none;
+}
