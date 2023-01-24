@@ -3,7 +3,8 @@ from typing import List
 import nltk
 import pandas as pd
 
-FURTHER_RESEARCH_PHRASES = ['further research', 'further study']
+FURTHER_RESEARCH_PHRASES = ['further research', 'further study', 'future work', 'additional research',
+                            'further analysis', 'further examination', 'additional investigation', 'additional studies']
 
 category_map = {'astro-ph': 'Astrophysics',
                 'astro-ph.CO': 'Cosmology and Nongalactic Astrophysics',
@@ -194,7 +195,8 @@ def default_fr_dataframe():
         'primary category': pd.Series('str'),
         'categories': pd.Series('str'),
         'authors': pd.Series('str'),
-        'abstract': pd.Series('str')
+        'abstract': pd.Series('str'),
+        'url': pd.Series('str')
     })
 
 
