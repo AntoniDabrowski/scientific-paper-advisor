@@ -86,12 +86,25 @@ def _parse_pdf(pdf: XPdf, article_info: arxiv.Result) -> Union[pd.DataFrame, Non
                                    article_info.primary_category,
                                    article_info.categories,
                                    article_info.authors,
-                                   article_info.summary]
+                                   article_info.summary,
+                                   article_info.pdf_url]
     except Exception as e:
         log.debug("\nArticle {}, title {} can't be decoded".format(pdf.pdf_file, article_info.title))
         log.debug(str(e))
 
-    return df if len(df) > 0 else None
+    if len(df) == 0:
+        df.loc[0] = [None,
+                     None,
+                     None,
+                     article_info.published,
+                     article_info.title,
+                     article_info.primary_category,
+                     article_info.categories,
+                     article_info.authors,
+                     article_info.summary,
+                     article_info.pdf_url]
+
+    return df
 
 
 def _parse_files(files: List[Union[str, Path]],
