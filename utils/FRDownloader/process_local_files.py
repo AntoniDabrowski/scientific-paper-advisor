@@ -69,40 +69,34 @@ def get_article_info(id_list: Union[str, List[str]],
 
 def _parse_pdf(pdf: XPdf, article_info: arxiv.Result) -> Union[pd.DataFrame, None]:
     df = default_fr_dataframe()
+    fr_sentence = None
+    fr_sentence_prefix = None
+    fr_sentence_suffix = None
+
     try:
         extracted_text = pdf.to_text()
         extracted_text = sent_tokenize(extracted_text)
 
         for i, sentence in enumerate(extracted_text):
             if contain_phrase(sentence):
-                sentence_prefix = safe_list_get(extracted_text, i - 1, None)
-                sentence_suffix = safe_list_get(extracted_text, i + 1, None)
+                fr_sentence = sentence
+                fr_sentence_prefix = safe_list_get(extracted_text, i - 1, None)
+                fr_sentence_suffix = safe_list_get(extracted_text, i + 1, None)
 
-                df.loc[len(df)] = [sentence,
-                                   sentence_prefix,
-                                   sentence_suffix,
-                                   article_info.published,
-                                   article_info.title,
-                                   article_info.primary_category,
-                                   article_info.categories,
-                                   article_info.authors,
-                                   article_info.summary,
-                                   article_info.pdf_url]
     except Exception as e:
         log.debug("\nArticle {}, title {} can't be decoded".format(pdf.pdf_file, article_info.title))
         log.debug(str(e))
 
-    if len(df) == 0:
-        df.loc[0] = [None,
-                     None,
-                     None,
-                     article_info.published,
-                     article_info.title,
-                     article_info.primary_category,
-                     article_info.categories,
-                     article_info.authors,
-                     article_info.summary,
-                     article_info.pdf_url]
+    df.loc[0] = [fr_sentence,
+                 fr_sentence_prefix,
+                 fr_sentence_suffix,
+                 article_info.published,
+                 article_info.title,
+                 article_info.primary_category,
+                 article_info.categories,
+                 article_info.authors,
+                 article_info.summary,
+                 article_info.pdf_url]
 
     return df
 
