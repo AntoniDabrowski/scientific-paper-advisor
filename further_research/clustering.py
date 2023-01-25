@@ -16,10 +16,6 @@ def process_labels(current_labels):
 
 
 def k_centroids(vectors, k=3):
-    for row in vectors:
-        for element in row:
-            if type(element) == str:
-                print(row)
     k_means = KMeans(n_clusters=k).fit(vectors)
     dists = k_means.transform(vectors)
     get_centroids(k_means.labels_, dists)
