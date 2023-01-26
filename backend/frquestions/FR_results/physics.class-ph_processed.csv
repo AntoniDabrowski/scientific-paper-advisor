@@ -1,0 +1,224 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.08952v1,Scattering of mechanical waves from the perspective of open systems and Feshbach projection operators,"The viewpoint and machinery of open systems can also be used to better design
+scatterers, as it neatly separates out what is inherent to the scatterer (H0) from what emerges due to the interplay
+between the scatterer and its environment (Σ). These ideas will be considered in future works. 14
+
+(a)                                            (b)
+
+FIG. ",physics.class-ph,C,0.27077687,-0.30937472,-0.4129116
+http://arxiv.org/pdf/2201.08952v2,Scattering of mechanical waves from the perspective of open systems,"The viewpoint and machinery of open systems can also be used to better design
+scatterers, as it neatly separates out what is inherent to the scatterer (H0) from what emerges due to the interplay
+between the scatterer and its environment (Σ). These ideas will be considered in future works. ACKNOWLEDGMENTS
+AS acknowledges NSF support for this work through grant #1825969 to the Illinois Institute of Technology, Chicago. ",physics.class-ph,C,0.31263807,-0.29858342,-0.39414
+http://arxiv.org/pdf/2203.02541v1,Proof the non-existence of causal classical electrodynamics of point charged particles,"Ein(tf ) = −q                                                                                 (63)
+
+                                                     −∞
+
+                                     Formulas for initial and ﬁnal momentum of the system
+
+As a result from Eqs. (45) and (63) we obtain
+
+                                     Ei = Eex + mc2
+
+                                                                                                                                   (64)
+
+                                     Ef = Eex + Erad + γf mc2 − q  ∞         dt′ v(t′) · Eex(r(t′), t′)
+
+                                                                   −∞
+
+                                 CALCULATION OF THE MOMENTUM OF THE SYSTEM
+
+                                          Initial and ﬁnal momentum - further analysis
+
+Repeating the same steps as we did in the case of energy we obtain
+
+                                             Pi = Pex + Pin(ti)                                                                    (65)
+
+                                             Pf = Pex + Pin(tf ) + Prad + γf mvf                                                   (66)
+
+where Pex is the momentum of the external pulse, Prad the momentum of the ﬁelds radiated by the point charge and
+
+                                 Pin(t) = ǫ0 dr (Eex(r, t) × Bch(r, t) + Ech(r, t) × Bex(r, t))                                    (67)
+
+where t = ti or t = tf . 16
+
+                                         Preliminary calculation of Pin
+
+We have                  dr (Eex × Bch + Ech × Bex) = ǫ0     dr (Eex × (∇ × A) + (−∂tA − ∇Φ) × Bex)
+           Pin(t) = ǫ0
+
+         = −ǫ0 dr (A × (∇ × Eex) − Eex(∇ · A) + (∂tA + ∇Φ) × Bex)                                              (68)
+
+where we used Eq. ",physics.class-ph,A,-0.40350768,0.27207848,-0.07580727
+http://arxiv.org/pdf/2203.05214v1,Ultra-high frequency vortex-based tweezers for microparticles manipulation with high spatial selectivity and nanoNewton forces,"before coming back to the center of the trap. This is          In future work, it would be interesting to investigate (i)
+only observed when the particle is moved in one speciﬁc        ways to reduce the anisotropy of the vortex and obtain a
+direction. This is consistent with the anisotropy of the       more homogeneous trap and (ii) further optimization of
+amplitude of the ﬁrst ring observed both in the simu-          the piezoelectric material (e.g. ",physics.class-ph,B,-0.17887628,0.2803465,0.105687715
+http://arxiv.org/pdf/2204.07231v1,Periodic strings: a mechanical analogy to photonic and phononic crystals,"leading to several strategies for manufacturing photonic
+                                                   crystals [11, 12]. For further study concerning other prop-      Therefore, the investigation of optical and acoustic re-
+                                                   erties and numerical modeling of these materials, as well     sponses of periodic structures plays a key role in current
+                                                   as experimental details on their fabrication and charac-      research topics. This study involves techniques and con-
+                                                   terization, see Refs. ",physics.class-ph,B,0.072007656,0.49955535,0.03085808
+http://arxiv.org/pdf/2204.07997v1,How Fast are Domino Waves?,"4. Discussion, conclusions and future work
+
+    Our analysis suggests a rather simple generalization of EJ theory [6] to account for ﬁnite time of collisions
+between dominoes. This adjustment allows to get rid of non-physical properties of EJ model - inﬁnite
+stiﬀness of the collision, inﬁnitely small time of collision and inﬁnite propagation velocity for the case of
+small separations. ",physics.class-ph,A_centroid,-0.26296595,-0.35604137,-0.1029333
+http://arxiv.org/pdf/2204.07997v2,How Fast are Domino Waves?,"4. Discussion, conclusions and future work
+
+    Our analysis suggests a rather simple generalization of EJ theory [6] to account for ﬁnite time of collisions
+between dominoes. This adjustment allows to get rid of non-physical properties of EJ model - inﬁnite
+stiﬀness of the collision, inﬁnitely small time of collision and inﬁnite propagation velocity for the case of
+small separations. ",physics.class-ph,A,-0.26296595,-0.35604137,-0.1029333
+http://arxiv.org/pdf/2204.08093v1,3-D Acoustic Trapping With Standing Waves,"In 1), the piezoelectric transducers
+that were used in the ultrasound band from f = 36kHz to f = 42kHz, following their maximum
+operation threshold; in 2), the rectangular ﬂask ﬁlled with sunﬂower oil; in 3), the scaled syringe
+used for introducing air bubbles in the ﬂuid. The scaling was also used as a reference to measure
+bubble displacement in the further analysis part. 4
+source. ",physics.class-ph,B,0.101205386,0.40605032,0.07180844
+http://arxiv.org/pdf/2204.08991v1,Mathematics of Floating 3D Printed Objects,"In addition to our results, we provide code for testing the
+                                                          ﬂoating conﬁgurations for new shapes, as well as giving details of the methods
+                                                          for 3D printing the objects. The paper includes conjectures and open problems
+                                                          for further study. Contents
+
+                                                   1. ",physics.class-ph,C_centroid,0.7194884,0.009196024,0.10379302
+http://arxiv.org/pdf/2204.08991v2,Mathematics of Floating 3D Printed Objects,"In addition to our results, we provide code for testing the
+                                                          ﬂoating conﬁgurations for new shapes, as well as giving details of the methods
+                                                          for 3D printing the objects. The paper includes conjectures and open problems
+                                                          for further study. Contents
+
+                                                   1. ",physics.class-ph,C,0.7194884,0.009196024,0.10379302
+http://arxiv.org/pdf/2204.13592v1,Relaxation and dynamics of high-stress pre-displaced string resonators,"Therefore, cuts at constant z are       a good understanding of the experimental observations
+                                                               in Ref. [21] and future work will explore the nonlinear
+suﬃcient for fully representing the stress distribution in     properties of the pre-displaced beams more detail. these structures. ",physics.class-ph,B,0.054178998,0.27200592,0.089891516
+http://arxiv.org/pdf/2205.10318v1,When action is not least for systems with action-dependent Lagrangians,"It would therefore be interesting to use the formalism developed here
+to investigate how dissipation affects the phase of the semiclassical propagator for a system whose
+dynamics can be derived from the Herglotz action. I leave this for future work. ACKNOWLEDGMENTS
+
+   I would like to thank Joel Meyers (SMU) for his detailed and insightful feedback at various
+stages of this project. ",physics.class-ph,A,-0.3306824,-0.08315958,-0.22600147
+http://arxiv.org/pdf/2205.15079v1,On the reduction of nonlinear electromechanical systems,"It would be fascinating to carry out
+more signiﬁcant than the case where full-order model         such an experiment, so this is the primary recommen-
+predictions are confronted with measurements. There-         dation for future works on this topic. fore, from an engineering point of view, if knowing the
+dynamics in the ﬁrst instants of time is not essential,          One of the anonymous reviewers pointed out the
+there is no discredit in using the reduced-order model       possibility of obtaining an original analogy between the
+since it produces a valuable description of reality. ",physics.class-ph,A,-0.26740944,-0.3495665,0.19419894
+http://arxiv.org/pdf/2206.09579v1,Swinging a playground swing: torque controls for inducing sustained oscillations,"In Section “Unbalanced swing” we represent the unbalanced swing as a perturbation of the balanced
+swing, and show, in simulations, that balanced controls continue to perform well for small imbalances. Finally, in Conclusions we summarize our results, and discuss their limitations and directions of
+future work they point to. The upshot is that the “well-known” playground swing still holds a lot of
+unanswered questions. ",physics.class-ph,A,0.080327965,-0.40787548,0.16434878
+http://arxiv.org/pdf/2206.12996v1,A Worked Example of the Bayesian Mechanics of Classical Objects,"Moreover, the least surprising path to the least surprising state ought to traverse
+the distance from some initial q(0) to qˆ the quickest, which (for a ﬁxed velocity) is the path
+given by a direct gradient descent on the distance. It would be of interest in future work
+to give a uniﬁed view of these approaches, i.e., to prove that under certain asymptotic
+conditions, least surprising paths are paths towards least surprising states. Since λ1 scales ﬂuctuations, it is proportional to the inverse diﬀusion coeﬃcient, or
+the covariance, more generally. ",physics.class-ph,A,-0.30976838,-0.2128703,-0.21728323
+http://arxiv.org/pdf/2206.12996v2,A Worked Example of the Bayesian Mechanics of Classical Objects,"As such,
+the above equation reduces to
+
+δq(t) = −∇ˆ ln{p(q, t)}                                 F (η, s) 2 dτ ,
+                                                           m
+                                                     t
+
+                    = ∇ˆ λ1(t) q(τ ) − λ2(τ )
+
+                                                   0
+                                                                                                                              28
+
+which yields
+                                        δq(t) = 0 ⇐⇒ ∂ttq(t) − F (η, t) = 0.
+                                                                             m
+
+Since our path space gradient on surprisal reproduces the Euler-Lagrange equation as the functional
+gradient of S[q(t)], this is precisely classical mechanics. (As before, future work—here, regarding
+the Euler-Lagrange operator in Bayesian mechanics—should be done to make this perfectly rigor-
+ous.) In the inﬁnite mode-tracking case, we have something similar. ",physics.class-ph,A,-0.42904055,0.12366499,-0.1532725
+http://arxiv.org/pdf/2207.03992v1,Indentation of an elastic disk on a circular supporting ring,"Another interesting perspective
+is the eﬀect of gravity: when G parameter is no longer small, we observed in preliminary experiments that a greater
+variety of behaviors can be observed, such as g-cones reported in [21]. Gravity also aﬀects the formation of wrinkles,
+even without central indentation [4] : the diagram 10 can be extended with a third axis, a task that we leave for
+future works. [1] B. Audoly. ",physics.class-ph,C,0.20807232,-0.34374097,-0.027472068
+http://arxiv.org/pdf/2207.08863v1,Complete general solutions for equilibrium equations of isotropic strain gradient elasticity,"3 Boussinesq-Galerkin solution
+
+According to Helmholtz theorem every suitably regular vector ﬁeld u(r) admits
+
+the representation:
+
+                        u = ∇φ + ∇ × S                  (15)
+
+where φ is the scalar potential and S is the vector potential for which we can
+assume that ∇ · S = 0 without loss of generality. For the further analysis it will be enough to assume that in the inﬁnite
+domains representation (15) can be introduced under assumptions of weak decay
+conditions for the displacement ﬁeld u that are used in classical elasticity [6],
+though the validity of Helmholtz theorem for the ﬁelds with sub-linear growth
+have been also established [52, 53]. Substituting (15) into (1) and using standard vector calculus identities we
+obtain equilibrium equations in terms of potentials:
+
+∇2 α(1 − l2∇2)∇φ + (1 − l2∇2)∇ × S = − b12              (16)
+                                                 µ
+
+    Equation (16) can be reduced to the high-order equation with respect to the
+single vector function W (r) by using the following deﬁnitions of potentials φ
+
+                        6
+and S :                         φ = 1 (1 − l2∇2)∇ · W
+
+                                       α          2                        (17)
+
+                                S = −(1 − l12∇2)∇ × W
+
+Combining (16), (17) we obtain:
+
+                        (1 − l2∇2)(1 − l2∇2)∇2∇2W = − b12                  (18)
+                                                                        µ
+
+Using (15), (17) we found:
+
+              u = 1 (1 − l2∇2)∇∇ · W − (1 − l2∇2)∇ × ∇ × W2     1          (19)
+                     α
+
+or alternatively:
+
+                     u = (1 − l12∇2)∇2W − κ(1 − l32∇2)∇∇ · W               (20)
+
+where    κ=  α−1  =      1   and  l32  =       α     1  l22  −  l12  (it can be shown that l3 ∈ R
+               α     2(1−ν)                  1−α     α
+
+that is the consequence of deﬁnitions of l1, l2 and requirements for the positive
+
+deﬁnition of strain energy density in isotropic SGET, see [18]). ",physics.class-ph,B,-0.15483823,0.2925976,-0.29549533
+http://arxiv.org/pdf/2208.00350v1,The Effect of Charge Discretization on the Electrical Field inside a Conductor,"(9)
+space, in which (locally zooming in) the discrete charges are
+located at vertices of a equilateral triangular lattice. For further analysis, we need to evaluate the inﬁnite-             Surrounding the point of interests on the surface of the
+series summation:                                                  spherical conductor, we can divide the charge-particles
+                                                                   into layers k = 0, 1, 2, ... as shown in Fig. 4. ",physics.class-ph,C,0.15482278,0.30410743,-0.4043082
+http://arxiv.org/pdf/2208.06429v1,Limit analysis of strut nets,"Having upper and lower bounds of λc
+available, it is possible to predict such a quantity with suﬃcient accuracy, which is of paramount
+importance in technical applications [16]. 10
+    We leave the issue of the 3D generalization of the obstacle problem presented in section 3.2 to
+future work. We anticipate that such an extension, perhaps achieved through the use of Beltrami
+stress functions or nonlinear mathematical programming procedures [38], will not be straightforward
+and will pose complex analytic and numerical challenges. ",physics.class-ph,C,0.17861271,0.0947972,0.038646333
+http://arxiv.org/pdf/2208.11089v1,Impact of a rigid sphere onto an elastic membrane,"Regardless, this inertial eﬀect is qualitatively observed
+in both experiment and simulation throughout wide parameter ranges. Even
+further experimental and modelling reﬁnements would be necessary to achieve
+quantitative agreement, and will be the subject of future work. 23
+6 Discussion
+
+The application of the kinematic match method to the model problem here
+considered reveals the richness of what at ﬁrst glance might appear as an
+exceedingly simple mechanical system. ",physics.class-ph,A,-0.10063738,-0.1199568,0.68899584
+http://arxiv.org/pdf/2208.11089v2,Impact of a rigid sphere onto an elastic membrane,"Regardless, this inertial eﬀect is qualitatively observed
+in both experiment and simulation throughout wide parameter ranges. Even
+further experimental and modelling reﬁnements would be necessary to achieve
+quantitative agreement, and will be the subject of future work. 23
+6 Discussion
+
+The application of the kinematic match method to the model problem here
+considered reveals the richness of what at ﬁrst glance might appear as an
+exceedingly simple mechanical system. ",physics.class-ph,A,-0.10063738,-0.1199568,0.68899584
+http://arxiv.org/pdf/2208.12733v1,Optimal Profile Design for Acoustic Black Holes using Timoshenko beam Theory,"Thus the numerical investigations
+in this paper are only with regard to the ﬁrst wave. A numerical investigation of the second wave,
+along with trying to ﬁnd some material (or meta-material) where the second wave appears in the
+acoustic frequency range, is very interesting but it will be postponed for a future work. 1.1. ",physics.class-ph,B_centroid,-0.070290074,0.39357135,0.13154076

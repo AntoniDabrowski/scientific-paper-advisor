@@ -1,0 +1,37 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.10391v1,VIX pricing in the rBergomi model under a regime switching change of measure,"Thus, the fractional
+Ornstein-Uhlenbeck model we propose has the ability to describe market dynamics
+both under the physical measure P and the pricing measure Q. We conclude with a few topics for further research. First, to see if it is possible to
+improve the quality of the ﬁts to observed smiles by increasing the number of possible
+states (perhaps three). ",q-fin.PR,C,-0.2000522,-0.25274724,0.7013447
+http://arxiv.org/pdf/2204.06943v2,Option Pricing with Time-Varying Volatility Risk Aversion,"In this paper, we have introduced time-variation to the pricing kernel, while maintaining
+the model with constant parameters under P. So, the time-variation that is introduced in
+the pricing kernel get parsed to the model under Q. While this induces time variation in ξ
+that governs the variance risk premium, the equity risk parameter, λ, is constant, because it
+deﬁned by the model under P. The score-driven approach could be used to introduce time-
+variation in λ (and other parameters) but would require a more ﬂexible (and time-varying)
+
+                                                          35
+model under P. We leave this for future work. References
+
+Aït-Sahalia, Y. and Lo, A. W. (2000). ",q-fin.PR,C_centroid,-0.24336885,-0.12958866,-0.22992882
+http://arxiv.org/pdf/2205.04520v1,A Unified Bayesian Framework for Pricing Catastrophe Bond Derivatives,"The architecture of the modiﬁed Hierarchical Collective
+risk model, with a Dirichlet prior, is shown to accommodate several characteristics of risk in the
+calculation of aggregate claims, hence yielding robust estimates. In future work, construction of
+the non-homogeneous Poisson process could explore, for example, location-speciﬁc factors that can
+inﬂuence aggregate claims. There may be speciﬁc geographies that may be more susceptible to
+hurricanes, for example. ",q-fin.PR,B_centroid,-0.46047384,0.6947092,-0.05666825
+http://arxiv.org/pdf/2205.10665v1,European Power Option Pricing with Extended Vasicěk Interest Rate and Exponential Ornstein-Uhlenbeck Asset Process under Different Market Assumptions,"In fact, we develop
+European power option pricing under both money market account and forward numeraire. The future work will focus on the realization of European power option pricing in practice
+of real-world and extend our theory to other types of option pricing. References
+
+ [1] Black, F., Scholes, M.. ",q-fin.PR,C,-0.21701843,-0.5047975,-0.37158647
+http://arxiv.org/pdf/2207.02989v1,Unbiasing and robustifying implied volatility calibration in a cryptocurrency market with large bid-ask spreads and missing quotes,"The experimental results from Section 4 show that the combination of both features results in a
+calibration procedure that provides more accurate results than standard ones. A natural direction for future work will consist in investigating how our procedure can be ex-
+tended to handle the calibration of implied volatility surfaces. Acknowledgments. ",q-fin.PR,A_centroid,0.6338671,0.2351536,-0.009304503
+http://arxiv.org/pdf/2208.01289v1,Pricing commodity index options,"Indeed, if we consider that the calibration
+can be run as an overnight process. 5 Conclusions and further research
+
+In the present article we have presented a new stochastic local volatility model for the pric-
+ing of derivative contracts on commodity futures. Moreover, a calibration methodology is
+proposed, which requires the use of hybrid global-local optimization algorithms. ",q-fin.PR,A,0.48704648,-0.042729694,-0.03385658

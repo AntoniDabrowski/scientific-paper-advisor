@@ -1,0 +1,1482 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00225v1,Neural networks based on ultrafast time-delayed effects in exciton-polaritons,"Corresponding input conﬁgurations x1x2 are marked at top right. Black dashed circles indicate integration regions
+of 3 µm diameter used for further analysis. Color scale is the same in all panels. ",physics.optics,A,0.12457361,0.31104702,-0.12959455
+http://arxiv.org/pdf/2201.01579v1,Metasurfaces for complete linear control of coherent light transmission,"We design ideal universal metasurfaces, i.e., spatially varying arbitrary passive Jones matrices,
+and an overall optical system including lenses considering target maximum numerical aperture. The maximum numerical aperture is set to be a low enough value, 0.08, in order to allow a larger
+universal meta-atom size that is easier to optimize and experimentally realize in future works. Accordingly, we assume target beam waist, a single port size (Fig. ",physics.optics,A,-0.15924038,0.22866175,0.08229929
+http://arxiv.org/pdf/2201.02139v1,Transverse mode instability and thermal effects in thulium-doped fiber amplifiers under high thermal loads,"This remains the dominant effect up to an average-output power
+of approximately 400 W where the onset of significant static distortions of the output-beam profile
+can be observed. A further analysis reveals that the onset of the beam distortion is accompanied
+by a spectral modulation, as shown in Fig. 3(b)). ",physics.optics,C,-0.029412556,-0.13378015,-0.24888924
+http://arxiv.org/pdf/2201.03599v1,Phase retrieval methods applied to coherent imaging,"Future directions
+
+4.1 Volumetric 3D deconvolution
+
+The beauty of holography is that it offers the possibility of restoring 3D objects from their 2D
+holograms, as often demonstrated in optical art holography. In digital holography, however, when a
+2D hologram is numerically reconstructed instead of a 3D object, the object wavefront is
+reconstructed and further analysis is required to extract the 3D object itself. The reconstruction of
+digital holograms is achieved via the calculation of integral transformations, as described above (Eqs. ",physics.optics,A,-0.011278157,0.4053986,-0.14564222
+http://arxiv.org/pdf/2201.06263v1,Learning-based multiplexed transmission of scattered twisted light through a kilometer-scale standard multimode fiber,"Figure 5b shows the results of the transmitted picture with an error bit rate of 0.13%, which is
+defined as the ratio between the incorrect number of pixels and the total number of the image. 9
+For further examination, the error rates corresponding to different primary color channels are
+shown in Figure 5c. The error rate of green color channels is lower than that of red or blue color
+channels which are encoded with higher-order OAM bases. ",physics.optics,A,0.040988095,0.15002751,-0.30735046
+http://arxiv.org/pdf/2201.06671v1,Scintillation of Partially Coherent Light in Time Varying Complex Media,"We also remark that we have considered the case when the source has
+inﬁnite lateral spatial extent and is a stationary stochastic process in lateral
+space coordinates and time. The case when the source is modulated by a ﬁnite
+source aperture and the associated challenge of identifying the spreading of the
+wave ﬁeld and the evolution of speckle statistics can be analyzed via similar
+theoretical frameworks as those presented here, but is also left for future work. 18
+A Analysis of Fourth-order Moment Equations
+
+The main equation underlying the above results is a simpliﬁed equation deriv-
+ing from (19) and from which the expressions of the special fourth moments
+µ4(L, 0, 0, 0, 0; τ ) follow. ",physics.optics,A,0.20147213,0.20727797,-0.21863505
+http://arxiv.org/pdf/2201.07897v1,Direct measurement of optical properties of glacier ice using a photon-counting diffuse LiDAR,"mer snow on Mount Olympus, Washington State (Kaspari
+and others, 2015). Although future work is needed to vali-              The coe icients measured here are near the upper end
+date this estimate from laboratory analysis of ice from Col-        of the range of previously reported values in the literature
+lier Glacier, the range of values obtained demonstrates the         (Cooper and others, 2021), which implies that our setup can
+utility of the measurements and the principle of the method. resolve ToF histograms on glaciers with similar composition. ",physics.optics,A,0.13002425,0.1789335,-0.26648074
+http://arxiv.org/pdf/2201.07897v2,Direct measurement of optical properties of glacier ice using a photon-counting diffuse LiDAR,"While measurements
+cleaner ice. Although future work is needed to validate this     taken at 640 nm are at the temporal resolution limit, im-
+estimate from laboratory analysis of ice from Collier Glacier,   pairing retrieval of the sca ering coe icient, improved reso-
+the range of values obtained demonstrates the utility of the     lution could be enabled with a time-to-digital converter or
+measurements and the principle of the method. That said,         FPGA-based electronics. ",physics.optics,A,-0.07912279,0.027578387,-0.31395286
+http://arxiv.org/pdf/2201.08297v1,Space-time wave packets,"Accounting for the unique aspects of the refraction of ST wave
+packets will be essential for all applications where ST wave packets are synthesized in free
+space and then coupled into a particular medium. The results in this Section are therefore of
+foundational importance for future work on ST wave packets. 12. ",physics.optics,C,-0.05414404,0.027840273,0.13628069
+http://arxiv.org/pdf/2201.08674v1,Semiconductor waveguide quantum well lasers,"We showcase here the potential of the platform and we
+believe that newly designed lasers can exhibit lower thresholds, higher power outputs, higher slope efﬁciency and narrow
+linewidths by: (a) re-positioning the QWs to overlap more strongly with the higher mode intensity near the center of the
+waveguide, (b) shaping the pump to better overlap with the laser cavity, and (c) opt for double heterostructure designs
+which would lead to signiﬁcantly reduced losses on account of improved mode conﬁnement within the active region. In
+future work, the position of the pump laser will be controlled using a spatial light modulator that will enable control
+over the number of laser cavities and their relative coherence. Future work will also investigate creation of membrane
+samples of deﬁned shapes and dimensions by way of microstructuring in order to investigate lasing geometries such as
+whispering galleries. ",physics.optics,C,-0.32631227,-0.0988754,-0.012277767
+http://arxiv.org/pdf/2201.10312v1,Dual-dispersion-regime dual-comb mode-locked laser,"Consequently, the latter is better
+suited for free-running asynchronous optical sampling or dual-comb spectroscopy experiments. The exact origin of the noise performance improvement needs further research but we postulate
+that it may relate to (i) reduced spectral overlap between the combs; (ii) lower peak power of
+the multi-ps pulse that forms in the normal dispersion regime. When the two pulses temporally
+overlap inside the gain crystal, they compete for the gain. ",physics.optics,C,-0.11949924,-0.33506048,-0.16973552
+http://arxiv.org/pdf/2201.10405v1,Mode-locking induced by coherent driving in fiber lasers,"(7)                   are commonly used in hydrodynamics [39] and plasma
+                                                            physics [26], and we expect our ﬁndings to extend to
+By changing the detuning, one can tune both the dura-       these ﬁelds. In future work, we plan to investigate
+tion and the peak power of the solitons. For ﬁxed cavity    ACS formation in the presence of faster gain dynamics,
+parameters and driving power, ACSs can be shorter and       such as semiconductor optical ampliﬁers, to bridge the
+with higher peak power as compared to the correspond-       gap with solitons predicted in driven quantum cascade
+ing laser soliton. ",physics.optics,C,-0.01760974,-0.321222,0.06736188
+http://arxiv.org/pdf/2201.11199v1,Nonlinearity and wavelength control in ultrashort-pulse subsurface material processing,"changes, i.e. for larger numerical apertures the
+       distribution of the electric ﬁeld changes less when      Finally, the wavelength dependence and the impact
+       changing the target depth compared to smaller nu-     of tunnel ionization versus multi-photon ionization and
+       merical apertures                                     avalanche ionization can be studied and compared in a
+                                                             future work. • It could be shown that there is an optimum pulse
+       duration, located between 600 to 900 fs, explained                        ACKNOWLEDGEMENTS
+       by the necessity to optimize the spectral overlap
+       between the pulse and the nonlinear ﬁgure of merit. ",physics.optics,C,-0.15300523,-0.05960427,-0.271346
+http://arxiv.org/pdf/2201.11399v1,Experimental observation of Berreman modes in uniaxial anisotropic nanoporous alumina film on aluminium substrate,"As the size of the nanopores could
+be very easily increased by widening the pores, and that could increase the ﬁll fraction and
+hence the optical anisotropy. At higher ﬁll fractions, the anisotropy would be higher and system
+might show diﬀerent properties but that would be the subject of further study. However, here
+we concentrate only to verify the existence of the Berreman modes in our simple experimentally
+observed system at ﬁll fraction of 0.04. ",physics.optics,A,0.10352799,0.09426595,0.10250452
+http://arxiv.org/pdf/2202.00833v1,Deep sub-wavelength localization of light and sound in dielectric resonators,"However, we note that the signiﬁcantly
+larger optomechanical coupling rates in our design still translate to an overall improvement in
+the single-photon optomechanical readout rate 4𝑔𝑜2/𝜅, and consequently larger phonon-photon
+conversion eﬃciencies compared to the state-of-the-art. The feasibility of device fabrication for
+the assumed small gap parameter (∼ 20nm), and the resulting limit on the maximum attainable
+optomechanical coupling rates remain to be studied in future work. Looking ahead, we envision further progress in improving optomechanical coupling in devices
+with small mode volumes. ",physics.optics,C,-0.2900007,-0.10012432,0.040178023
+http://arxiv.org/pdf/2202.01510v1,Faraday isolator based on crystalline silicon (c-Si) for 2 micron laser radiation,"On cryogenic cooling of c-Si, the width of the fundamental bandgap changes, resulting in reduced absorption in the
+short-wavelength region and the respective shift of the absorption edge of the material to the short-wavelength region.34 Thus,
+the thick sample at a wavelength of 1064 nm that was initially opaque at room temperature, became “transparent” for
+radiation at a temperature of 90 K, which allowed us to measure the Verdet constant V1064(T=90 K)=45.7 rad/(T∙m). The high
+value of thermal conductivity, the zero value of linear expansion coefficient (no expansion => no temperature stresses and no
+thermally induced birefringence), and transparency of the material open up opportunities for developing a cryogenic FI not
+only for lasers based on Tm and Ho (1900-2100 nm) ions, but possibly for lasers based on Nd and Yb (1053-1075 nm) ions
+as well, which is the subject matter of our further research. The next step was a creation of a FI based on two cylindrical samples. ",physics.optics,C,-0.22190863,-0.1097662,0.083738506
+http://arxiv.org/pdf/2202.01565v1,Broadband quantum spectroscopy at the fingerprint mid-infrared region,"Moreover, the
+interferometer does not need to be actively stabilized. For further analysis of the interference pattern, we take cross-sections along the SPDC
+
+spectra, shown by solid lines in Fig. 2. ",physics.optics,C,-0.03842333,-0.14309989,-0.052989013
+http://arxiv.org/pdf/2202.02636v1,"Optimizing achromaticity in metalenses, and development of a layered thin-film metalens","The green dotted line
+      highlights the surface of layers of TiO2 which appear qualitatively similar in form to a hyperbolic graph (albeit modulo
+      1 μm) such as the path difference profile under consideration, whilst the purple dashed lines trace a slightly weaker pattern –
+      that of layers where TiO2 appears more often than MgF2. Both of these features can be exploited for manufacturing ease and
+      as a starting point for future work. B- Example of manufacturing using multi-pass exposures similar to multi-level
+      diffractive optical element (DOE) production and capable of producing sharper features. ",physics.optics,A,-0.04952886,0.39138323,-0.049039587
+http://arxiv.org/pdf/2202.02636v2,"Optimizing achromaticity in metalenses, and development of a layered thin-film metalens","The green dotted line
+      highlights the surface of layers of TiO2 which appear qualitatively similar in form to a hyperbolic graph (albeit modulo
+      1 μm) such as the path difference profile under consideration, whilst the purple dashed lines trace a slightly weaker pattern –
+      that of layers where TiO2 appears more often than MgF2. Both of these features can be exploited for manufacturing ease and
+      as a starting point for future work. B- Example of manufacturing using multi-pass exposures similar to multi-level
+      diffractive optical element (DOE) production and capable of producing sharper features. ",physics.optics,A,-0.04952886,0.39138323,-0.049039587
+http://arxiv.org/pdf/2202.04615v1,Triggered single-photon generation and resonance fluorescence in ultra-low loss integrated photonic circuits,"Second, the linear taper proﬁle of the mode transformer leading to the Si3N4 waveguide displayed
+sub-optimal efﬁciency, though, as discussed in Section 1 and the SI, superior designs with sig-
+niﬁcantly higher efﬁciencies can be implemented. While a waveguide geometry may be desir-
+able for broadband operation, evanescently coupled microcavities are a viable alternative towards
+achieving higher overall coupling efﬁciencies33 and are the subject of future work. An additional
+advantage of this approach is that a high Purcell radiative rate enhancement, achieved through
+coupling to the resonant mode, can bring the quantum emitter’s lifetime T1 closer to the radia-
+tive limit T2 = 2T1, given a coherence time T2 that is sufﬁciently unaffected by nanofabrication,
+thereby improving indistinguishability52,56. ",physics.optics,C,-0.16092038,-0.090740606,0.1997405
+http://arxiv.org/pdf/2202.05025v1,"Two-colour spectrally multimode integrated SU(1,1) interferometer","The eﬃciency of this interferometer can be further tested
+                                                                by making use of diﬀerent seeding strategies. Further-
+                                                                more, we leave the realisation of the high-performance
+                                                                two-colour SU(1,1) interferometer, whose emitted pho-
+                                                                tons preserve both frequency and polarization entangle-
+                                                                ment, for future work. Finally, this model will soon be
+                                                                upgrated by accounting for internal losses, which typi-
+                                                                cally further erodes the eﬃciency of interferometers. ",physics.optics,C,-0.08710615,-0.117357515,0.008767296
+http://arxiv.org/pdf/2202.05627v1,Random Design Variations of Hollow-core Anti-resonant Fibers: A Monte-Carlo Study,"an alternative to the classical ﬁnite-element approach. These
+investigations are left for further research. [6] H. Sakr, Y. Hong, T. Bradley, G. Jasion, J. Hayes, H. Kim, I. Davidson,
+                                                                                  E. N. Fokoua, Y. Chen, K. Bottrill, et al., “Interband short reach data
+                           IV. ",physics.optics,B,0.24938166,0.052906368,-0.010711002
+http://arxiv.org/pdf/2202.06026v1,"""Phase Transitions"" in small systems: why standard threshold definitions fail for nanolasers","The complexity of these details does not
+   ations away from the equilibrium point (eqs. (12,                 warrant further analysis in this paper. 13)), thus permitting larger deviations. ",physics.optics,B,0.46962252,-0.06513257,-0.26504248
+http://arxiv.org/pdf/2202.06699v1,Inverse-designed metaphotonics for hypersensitive detection,"TE localizations, conversely, possess an electric
+ﬁeld that completely localizes in the vacuum. As the latter conﬁguration is more advanta-
+geous for the applications discussed in this work, we focus on TE modes while deferring the
+analysis of TM-polarized BIC to future work. We illustrate these results by solving the eigenvalue Eq. ",physics.optics,B,0.3831976,-0.038037688,0.23256278
+http://arxiv.org/pdf/2202.08086v1,Enhanced Reflectivity Change and Phase Shift of Polarized Light: Double Parameter Multilayer Sensor,"Several multilayer sensor configurations show great sensitivity to thickness and
+refractive index variation of the detectable material by measuring the reflectivity ratio  and
+phase shift . Focus is on such multilayers, which have sensitivity to both parameters (, ) in
+the visible spectral range, thus, opening the possibility for further research on a new biomedical
+sensor development with enhanced double parameter sensing. Keywords: point of darkness, reflectivity, phase shift, absorption of light, biomedical sensors,
+semiconductors, dielectrics, ellipsometry
+
+1. ",physics.optics,A,-0.23736708,0.22653893,-0.031966794
+http://arxiv.org/pdf/2202.08611v1,Multimodal interference and bound in the continuum modes in indirectly-patterned hyperbolic cavities,"However, an extensive comparison of cavity
+fabrication techniques lies well beyond the scope of this work. We observed that e-beam lithography
+produces lower quality cavities than the Ne FIB method described below, but with further study and
+optimization this could have been improved, which is interesting to consider for any application which
+requires a large area to be covered with cavities. With FIB milling, we considered three ion species: He, Ne and Ga. Milling with Ga FIB (Zeiss Auriga)
+produced well defined cavities, potentially on sizable areas, but with the minimum feature size being
+~20nm at best. ",physics.optics,A,-0.23867913,0.1800758,-0.03823244
+http://arxiv.org/pdf/2202.09614v1,Nonlinear optical heating of all-dielectric super-cavity: efficient light-to-heat conversion through giant thermorefractive bistability,"2 (a)). The further analysis shows that the bistability region strongly depends on 𝑏, which is the ratio of the
+imaginary and real parts of thermorefractive constant. Critical point 𝑂 which denotes the appearance of
+bistability region moves upwards on the (Δ𝜔˜, 𝑦0) map with the increase of 𝑏 as illustrated in Fig. ",physics.optics,B,0.44453073,-0.045671575,-0.009543074
+http://arxiv.org/pdf/2202.10932v1,Broadband single-mode planar waveguides in monolithic 4H-SiC,"scattering and losses due to imperfections in the setup,
+such incomplete collection of the light due to beam di-                                                           V. SUPPLEMENTARY MATERIAL
+vergence inside the planar waveguide. To what extent
+each of these mechanisms contribute will be tested bet-                                                              See the supplementary material for video data that
+ter in future work where these materials are processed                                                            supports Fig. 1c for diﬀerent z-positions of the focusing-
+into elongated one-dimensional waveguides. ",physics.optics,A,-0.2288515,0.24389118,0.20218551
+http://arxiv.org/pdf/2202.11378v1,Recommended high performance telescope system design for the TianQin project,"Cleanliness levels of CL200 and surface
+roughness of 0.5 nm can meet the design requirements. The design and optimization of the field
+stop and stray light shield will be explored in future work. 7. ",physics.optics,A,-0.22951925,0.2065858,-0.05780516
+http://arxiv.org/pdf/2202.12606v1,Quantitative exploration of the absorber behavior of metal-insulator-metal metamaterials within terahertz via an asymmetric peak model,"This is an important
+phenomenon in semiconductor devices. For further research, we designed and fabricated a
+square patch metamaterial absorber (SQMA) focal plane array (FPA) based on an Au/SiNx/Al
+structure. Fig. ",physics.optics,A,-0.23349133,0.24474779,0.24762389
+http://arxiv.org/pdf/2202.13515v1,Semiconductor nanowire metamaterial for broadband near-unity absorption,"Alternatively,
+deviation of the wave vector angle from 90° results in the excitation of HE and EH leaky guided modes. Narrowband Near-Unity Absorber — Cylindrical Nanowire Metamaterials
+We further study the cylindrical nanowire case by analyzing the simulated absorptance of a single InGaAs
+metaatom as a function of its radius (Figure 2a). For nanowire radii smaller than 175 nm, the absorption
+profile is narrowband as the nanowire supports a single resonant leaky guided mode only. ",physics.optics,C,-0.13681754,0.016147468,0.2612633
+http://arxiv.org/pdf/2202.13583v1,A nanodiamonds-engineered optical-fiber plasmonic interface for sensitivity-enhanced biosensing,"Through characterization
+and simulation, the mechanism behind the sensitivity enhancement is mainly ascribed to the evanescent
+field engineered by the NDs modification layer. This work provides a clue for exploiting NDs towards
+high-performance SPR biosensing, and through further research such as on the specificity, accuracy, and
+sensing speed, it is expected to be applied in practical fields. 11/18
+Supporting Information
+
+Figure S1 presents the measured RI sensing performance depending on DC when using the 0.05 mg/mL
+NDs dispersions. ",physics.optics,A,-0.21858756,0.087908015,-0.20433691
+http://arxiv.org/pdf/2202.13877v1,Negative reflection of polaritons at the nanoscale in a low-loss natural medium,"We note that
+polariton interferometry of back-reflected polaritons is the technique that allows us to probe these
+
+                                                          5
+exotic aspects of negative reflection, yet the conclusions are broader and apply beyond the case of
+back-reflection and even of negative reflection, providing a novel strategy to squeeze and steer
+nano-light. Given the strong dispersive nature of the back-reflected polaritons, we further study their
+
+dependence upon 𝜔0. The upper and lower panels in Fig. ",physics.optics,C,-0.1574634,0.06910342,0.3190878
+http://arxiv.org/pdf/2203.00391v1,Directing Monolayer Tungsten Disulfide Photoluminescence using a Bent Plasmonic Nanowire on a Mirror Cavity,"(d) Intensity profile
+of azimuthal angles (ϕ) for θ corresponding to maximum intensity in the Fourier plane images (a-
+b). To further study the WS2 PL emission spectrum from the kink portion of B-NWoM cavity, we
+performed Fourier plane imaging on the WS2 PL emission collected only from the kink portion. Figure 4(a) shows the Fourier plane image of the PL emission collected from the kink portion of
+the B-NWoM cavity using spatial filtering technique. ",physics.optics,A,-0.109482475,0.13849491,-0.02711294
+http://arxiv.org/pdf/2203.00580v1,Ultrafast chirality: the road to efficient chiral measurements,"(35) is               pulse carried at 201 nm (with 80 meV 1/e2 bandwidth)
+
+                                                                   and probing it using a time-delayed, linearly polarized
+
+                                                                   probe pulse carried at 405 nm (with 85 meV at 1/e2
+
+                                                                   bandwidth). Although the results demonstrate excita-
+
+                                                                   tion of a chiral vibronic wave-packet in these molecules,
+
+                                                                   detailed information about the speciﬁc nature of these
+
+                                                                   dynamics requires further analysis. Such analysis could
+
+                                                                   provide much desired insight into chiral molecular dy-
+
+                                                                   namics at femtosecond time-scales and presents one of
+
+                                                                   the exciting future opportunities for this ﬁeld. ",physics.optics,C,0.083376475,-0.20348026,0.086888164
+http://arxiv.org/pdf/2203.00691v1,Tunable Nonlinearity and Efficient Harmonic Generation from a Strongly Coupled Light-Matter System,"The ab initio method is applicable to a
+wide range of nonlinear optical processes, paving the way     ∂2  2           jα(t)
+towards novel quantum optical phenomena in nonlinear          ∂t2 + ωα qα(t) = − ωα + ωαλα · R(t) ,        (A2)
+optics. where the total electronic dipole moment can be ex-
+   Finally, we envision future work focused on investi-       pressed as R(t) = d3r e r n(r, t). The initial condi-
+
+                                                              tions of the mode-resolved Maxwell equations (A2)
+
+                                                              are qα(t0) = qα(0) and q˙α(t0) = pα(0). ",physics.optics,C,0.11304039,-0.17841688,0.15328914
+http://arxiv.org/pdf/2203.00754v1,"Ultimate limit for optical losses in gold, revealed by quantitative near-field microscopy","(d) Average
+Fourier spectra for (a,b), calculated in SPP propagation direction. Grey vertical lines indicate limits of the apodization function,
+applied to select only the contributions 0.8 < kx/k0 < 1.2 to be used for further analysis (0.8 < kx/k0 < 1.3 for λ0 = 532 nm). the bulk scattering by the cantilever (so-called background), because they are suppressed by increasing the harmonic
+number (which means a weak dependance on a tip-sample distance). ",physics.optics,A,0.14580663,0.12402755,-0.05530694
+http://arxiv.org/pdf/2203.01431v1,Electro-optic modulator based on Vanadium dioxide epsilon-near-zero vertical nanowire triple-cavity in Silicon Waveguide,"5 Variation of attenuation of the modulator with different wavelengths of incident light
+(from 1300nm to 1700nm) in both the ON state and OFF state as well as the modulation depth
+of the device. We further study the effect of adding each nanorod layer on the performance of our device. Using the finite element method, we quantitatively measure the modulation depth of device
+having one nanorod layer and subsequently add nanorod layers forming cavities of length
+250nm. ",physics.optics,C,-0.28524628,-0.037863344,-1.509022e-05
+http://arxiv.org/pdf/2203.01567v1,Ultralow loss hollow-core negative curvature fibers with nested elliptical antiresonance tubes,"Although the loss of HC-NCFs is
+gradually decreasing, a large gap from its commercialization still exists. Hence, further research
+is highly expected to solve this problem. This article presents a nested elliptical antiresonant fiber 1 (NEARF1) with two elliptical
+tubes nested within the circular tubes (small elliptical tube away from fiber core) arranged in
+such a way that form nodeless hollow-core fiber structure. ",physics.optics,C,0.012527821,0.08729638,0.17503622
+http://arxiv.org/pdf/2203.01638v1,Fabry-Perot microcavity spectra have a fine structure,"of the mirror. In future work, the analysis could be extended by in-
+   The results presented in Table I describe the non-           cluding the other, C2 or k⊥4 , Bragg eﬀect. This eﬀect
+paraxial eﬀects in a plano-concave cavity with mirror           was neglected in most of the analysis, but the example
+spacing L and mirror radius Rm. ",physics.optics,A,0.065026924,0.09194053,0.14824298
+http://arxiv.org/pdf/2203.03290v1,Realization of topological superlattices and the associated interface states in one-dimensional plasmonic crystals,"More importantly, such
+band inversion also signifies the Zak phase of the -1 SPP band changes from 0 to  or vice
+versa [12]. We perform FDTD simulations to further study the band topology. The p-polarized
+reflectivity mappings based on the same structures are provided in the Supplementary
+Information, and they agree with the experiment [33]. ",physics.optics,C,0.095729575,0.06104039,0.25664222
+http://arxiv.org/pdf/2203.04198v1,Observation of strong and tunable light-induced dipole-dipole interactions between optically levitated nanoparticles,"3b. In future work feedback cooling can be used to
+                                                                 constrain the particle motion within linear dynamics. Frequency/2π [kHz]                d0≈2.2 μm, Δφ0=0.8 π   a.u. ",physics.optics,B,0.176196,-0.14332137,-0.33899093
+http://arxiv.org/pdf/2203.04198v2,Observation of strong and tunable light-induced dipole-dipole interactions between optically levitated nanoparticles,"3b. In future work feedback cooling can be used to
+                                                                 constrain the particle motion within linear dynamics. Frequency/2π [kHz]                d0≈2.2 μm, Δφ0=0.8 π   a.u. ",physics.optics,B,0.176196,-0.14332137,-0.33899093
+http://arxiv.org/pdf/2203.05240v1,"Momentum, angular momentum, and spin of waves in plasma","mn0 Re(a¯∗ × v¯) = mn0 Im(v¯∗ × v¯) ,  (43)
+   Construction of a dual-symmetric Lagrangian formal-             2                   2ω
+ism which would yield canonical momentum and spin
+densities (25) and (26) (if it exists) is an important task   which yields the spin density S¯L, Eq. (13), for Lang-
+for future work. Such formalism requires representa-          muir waves and mechanical part of the spin density S¯mE ,
+tion of the electric and magnetic ﬁelds via two vector-       Eq. ",physics.optics,B,0.42544788,0.050879695,0.2116954
+http://arxiv.org/pdf/2203.05240v2,"Momentum, angular momentum, and spin of waves in an isotropic collisionless plasma","We are now in the position to show how the above                                                                                   6
+properties of electromagnetic waves are derived within
+the Lagrangian ﬁeld-theory formalism. It is known that          Construction of a dual-symmetric Lagrangian formal-
+the choice of the canonical quantities depending on either   ism which would yield canonical momentum and spin
+electric, or magnetic, or both ﬁelds is directly related     densities (25) and (26) (if it exists) is an important task
+to the choice of the electromagnetic ﬁeld Lagrangian         for future work. Such formalism requires representa-
+[26, 27]. ",physics.optics,B,0.41142774,0.059420526,0.1920448
+http://arxiv.org/pdf/2203.05257v1,Optical super-resonances in dielectric microsphere particles,"Two almost symmetrical hotspots appear at the top and bottom apex of the microsphere
+along the light propagation direction, indicating such modes are strongly coupled to a circulation mode within the spherical
+cavity. A further analysis reveals the excited partial wave are 𝑙 = 63 mode for Fig.2a and 2c, and 𝑙 = 65 mode for
+Fig.2b,2d. It is also interesting to note the maxim values appear to repeat periodically with a period around 𝑑𝑞 ≈ 15 −
+17 towards larger q range, but its values are either close to or slightly smaller than the first peak value. ",physics.optics,C,0.056298286,-0.006661306,0.051467504
+http://arxiv.org/pdf/2203.05257v2,Optical super-resonances in dielectric microsphere particles,"Two almost symmetrical hotspots appear at the top and bottom apex of the microsphere
+along the light propagation direction, indicating such modes are strongly coupled to a circulation mode within the spherical
+cavity. A further analysis reveals the excited partial wave are 𝑙 = 63 mode for Fig.2a and 2c, and 𝑙 = 65 mode for
+Fig.2b,2d. It is also interesting to note the maxim values appear to repeat periodically with a period around 𝑑𝑞 ≈ 15 −
+17 towards larger q range, but its values are either close to or slightly smaller than the first peak value. ",physics.optics,C,0.056298286,-0.006661306,0.051467504
+http://arxiv.org/pdf/2203.06716v1,Composite picosecond control of atomic state through a nanofiber interface,"For two-level sub-
+ularly when the radiation damping is enhanced collective     space with smaller |m˜ F |, a Hadamard transformation is
+in a lattice trap [34, 68], a stochastic wavefunction ap-    followed between the two representations. In particular,
+proach should be followed [50, 51, 69] in future work. for linearly polarized ﬁeld with ε(r) = 0, eﬃcient |g −|a
+                                                             2-level dynamics is understood in the |mJ , mI basis with
+                                                             degenerate, independent 2-level controls. ",physics.optics,B,0.40839964,-0.1333472,-0.021109276
+http://arxiv.org/pdf/2203.06716v2,Composite picosecond control of atomic state through a nanofiber interface,"Therefore, n = m + l is re-            Γa ≈ 1/27 ns−1 is ignored. For longer pulses and partic-
+                                                                ularly when the radiation damping is enhanced collective
+quired by conservation of the magnetic quantum num-             in a lattice trap [34, 71], a stochastic wavefunction ap-
+                                                                proach should be followed [48, 49, 72] in future work. ber. ",physics.optics,B,0.26148802,-0.25667274,-0.060599186
+http://arxiv.org/pdf/2203.08281v1,Topological Modes in a Laser Cavity through Exceptional State Transfer,"The level
+of gain contrast can be selected by changing the position of the pump beam. The in-plane emission
+from the edge facet of the laser is collected and imaged on a NIR camera and a spectrometer for
+further analysis. By changing the location of the waveguide facets with respect to the objective
+lens, one can maneuver between observing the near- and far-field intensity patterns in the camera. ",physics.optics,A,-0.20465307,0.1266417,-0.27971077
+http://arxiv.org/pdf/2203.08316v1,Flexible terahertz photonic light-cage modules for in-core sensing and high temperature applications,"2(g) shows the same calculations assuming
+an imaginary part of the ceramic refractive index of 0.1, which shows better agreement with the simulations. This additional loss does not signiﬁcantly hinder THzLC performance over the length scales considered
+here, adding only 1 dB/cm of loss; reducing additional losses introduced by the printing process for ceramic
+materials will be the subject of future work. Waveguide losses are low compared to material losses, but material losses arguably present some ben-
+eﬁts for light cages: the resonances of the strands have low quality factor, with relatively sharp reso-
+nant/antiresonant transmission features present with lower loss materials (Fig.2(e,f)) washed out with higher
+loss materials, resulting in smoother transmission characteristics (Fig. ",physics.optics,C,-0.21802801,0.085581824,0.18112886
+http://arxiv.org/pdf/2203.08536v1,Spatially multiplexed single-cavity dual-comb laser for equivalent time sampling applications,"At such low frequencies, the
+mechanical noise such as from the mentioned resonances will influence mutual phase coherence. Much more suited
+configurations for free-running dual-comb spectroscopy involve higher repetition rates and repetition rate differences, such as
+[13,22], and exploring the technique presented here in that regime will be the subject of future work. In this publication we focus
+on applying this novel source for pump-probe spectroscopy applications, where high-peak power of the laser can be used to
+directly excite nonlinear processes. ",physics.optics,C,-0.10227166,-0.36385596,-0.12857924
+http://arxiv.org/pdf/2203.08536v2,Spatially multiplexed single-cavity dual-comb laser,"3 as   rates and repetition rate differences, such as [12,19], and thus
+a black line (see Supplement 1 for measurement details). We find           exploring this multiplexing technique presented here in that regime
+the relative timing jitter spectrum to be more than 25 dB lower than       will be a subject of the future work. In this publication we focus on
+the absolute timing jitter spectrum across almost all frequencies,         deploying this laser for rapid pump-probe sampling applications. ",physics.optics,C,-0.25104985,-0.25327376,-0.36594117
+http://arxiv.org/pdf/2203.09546v1,Parity-time symmetric optical neural networks,"waveguide. Novel designs for PT-couplers that allow more fabrication-
+friendly arrangements can be explored in the future works. It should be noted that compared to MZI-based ONNs (like that of
+[3]), our PT-ONN cannot easily map an existing weight matrix onto the
+hardware by algorithmically computing the corresponding on-chip
+parameters. ",physics.optics,C,-0.1601518,0.076721676,0.11579071
+http://arxiv.org/pdf/2203.10556v1,Enhanced phase noise reduction in localized two-way optical frequency comparison,"proved from 1.30×10−15 to 5.25×10−16 at the 1 s integration
+                                                                                       time. In the future work, we are planning to integrate the
+               IV. DISCUSSION AND CONCLUSION                                           proposed TD-LTW optical frequency comparison scheme into
+                                                                                       the bus or ring topology structures to provide the potential
+   In section II, two conﬁgurations of the frequency compari-                          of optical clock comparison over large area with a higher
+son module are proposed to conduct the TD-LTW technique,
+JOURNAL OF LIGHTWAVE TECHNOLOGY, VOL. ",physics.optics,C,-0.1788413,-0.13869949,0.0010325322
+http://arxiv.org/pdf/2203.11390v1,Librational Feedback Cooling,"We observe negligible coupling between the
+                                                 tionally conﬁned with active feedback, electrically neu-            translation and rotation of the MS, that are quite sep-
+                                                 tralized, and then induced to rotate at a ﬁxed, but freely          arated in frequency, O(10 Hzto1000 Hz) for translation
+                                                                                                                     and O(10 kHz) for rotation. The investigation of such a
+                                                 ∗ cblakemo@stanford.edu                                             coupling may prove interesting for future work. † Now at: Los Alamos National Laboratory, Los Alamos, NM
+                                                 ‡ Now at: National Metrology Institute of Japan (NMIJ), National       Six identical electrodes form a cubical cavity around
+                                                                                                                     the focus of the trapping beam, whilst also allowing me-
+                                                    Institute of Advanced Industrial Science and Technology (AIST),
+                                                    1-1-1 Umezono, Tsukuba, Ibaraki 305-8563, Japan
+FIG. ",physics.optics,C,0.04357419,-0.13420892,-0.033955436
+http://arxiv.org/pdf/2203.11646v1,Silicon-carbide for integrated photonics,"Therefore, a special particular tangential SiC film can be used to prepare photonic
+structures to reduce the material's intrinsic absorption loss. However, this may generate
+new scattering losses, such as CMP and anisotropic etching issues, and further research
+is needed. Data availability statement
+The data that support the findings of this study are available from the corresponding
+author upon reasonable request. ",physics.optics,A,-0.23522985,0.20823634,0.18894613
+http://arxiv.org/pdf/2203.13482v1,Polarization Multiplexed Diffractive Computing: All-Optical Implementation of a Group of Linear Transformations Through a Polarization-Encoded Diffractive Network,"Unlike the diffractive layers, where the transmission coefficients are trained and optimized to all-
+optically perform the target transformations, the design and arrangement of the seed polarizer
+arrays between the diffractive layers are treated as hyperparameters that are pre-determined and
+non-trainable. Optimization of the topology of such polarizer seeds within the diffractive volume
+
+                                                                      9
+could further enhance the approximation power of polarization multiplexed diffractive networks,
+which is left as future work. We would like to also emphasize that the reported polarization-multiplexed diffractive networks
+can be directly applied to 2D arrays of phase and amplitude input data. ",physics.optics,A,-0.1979474,0.1671804,0.029511034
+http://arxiv.org/pdf/2203.13631v1,Anapole states and scattering deflection effects in anisotropic van der Waals nanoparticles,"In contrast to the well-
+                                                 known Kerker and anti-Kerker eﬀects, which appear in nanoparticles at diﬀerent frequencies, the
+                                                 super-deﬂection can be achieved by rotating the particle at a constant frequency of incident light. Our results facilitate the development of functional optical devices incorporating nanostructured
+                                                 anisotropic TMDCs and may encourage further research in meta-optics based on highly anisotropic
+                                                 materials. 1
+INTRODUCTION
+
+   Light manipulation by resonant optical nanoparticles made from high-index dielectrics
+[1] is an entire branch of nanophotonics [2] with a wide spectrum of applications ranging
+from ﬂat optics [3, 4] to bio-spectroscopy [5]. ",physics.optics,C,-0.30630878,0.053292736,0.27828872
+http://arxiv.org/pdf/2203.13660v1,Terahertz measurements on subwavelength-size samples down to the tunneling limit,"In general, an in-                                                 In order to test the interpretation that the behavior
+terference maximum corresponds to constructive interfer-                                              of L(ω) for small D can be attributed to the interface
+ence of rays after multiple reﬂections within the sample. between the sample and the waveguide-like aperture, we
+For large D, it occurs for mλ = 2nd with integer m. How-                                              compare the data for D = 0.2 mm with multilayer sim-
+ever, for a sample glued onto an aperture with a small
+bore, the coupling of electromagnetic waves from within
+                        1 .0                                                                                                                    9
+
+                        0 .8                                           interface between the sample and the aperture are essen-
+                                                                       tial for a quantitative description of the data for small
+T r a n s m itta n c e  0 .6                                           D. For future work, this suggests that the multilayer ap-
+                                                                       proach is suitable to determine or at least estimate ε(ω)
+                        0 .4                                           of a given small sample with unknown properties, e.g., by
+                                                                       ﬁtting the data of L(ω) while using an oscillator model
+                        0 .2                                           for the sample layer. 0 .0                                              For the transmittance, the simulation treating the
+                                                                       aperture as a circular waveguide reproduces the suppres-
+                              0  5 10 15 20 25 30 35 40 45 50          sion of T (ω) around 25 cm−1 only in the minima of the
+                                                                       fringes, it fails to properly describe the reduced average
+                                 F r e q u e n c y ( c m -1 )          value of T (ω) in this range. ",physics.optics,A,-0.0088019185,0.0798261,-0.033993505
+http://arxiv.org/pdf/2203.14944v1,Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope,"[4] Julie Chang, Vincent Sitzmann, Xiong Dun, Wolfgang Hei-
+                                                                                        drich, and Gordon Wetzstein. Hybrid optical-electronic con-
+as part of our future work. volutional neural networks with optimized diffractive optics
+                                                                                        for image classiﬁcation. ",physics.optics,A,-0.07813606,0.2054123,-0.094676584
+http://arxiv.org/pdf/2203.14944v2,Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope,"However, this does not necessarily
+mean that the results are not quantitative. We hope to analyze the optical behavior and improve the reconstruction of complex
+features as part of our future work. Second, both our all optical methods are linear. ",physics.optics,A,0.011980265,0.35094684,-0.22974333
+http://arxiv.org/pdf/2203.14944v3,Differentiable Microscopy Designs an All Optical Quantitative Phase Microscope,"We hope to analyze the optical behavior and improve the reconstruction of complex
+features as part of our future work. Furthermore, we validated our LFF designs qualitatively via experiments, and we hope
+to validate our designs via quantitative experimental setups in our future work. Second, we will be optimizing for power in
+our models to improve the optical throughput of our methods. ",physics.optics,A_centroid,-0.13354711,0.3054737,-0.18909517
+http://arxiv.org/pdf/2203.15893v1,Unraveling the temperature dynamics and hot electron generation in tunable gap-plasmon metasurface absorbers,"At this point, it is noteworthy to mention that the nonlinear optical properties of
+14
+
+some oxide materials, such as indium tin oxide (ITO), are determined by their free electron cloud ultrafast response
+generated when operate as epsilon-near-zero materials and excited by high input power lasers. [75,76] This effect can
+also be characterized by a temperature varying permittivity model and the current TTM-based simulations and will be
+subject of future work. Finally, it is highly desirable during optical measurements of plasmonic nanostructures to know the ultimate limit in the
+laser power intensity that can be applied before leading to permanent sample damage, mainly due to heating. ",physics.optics,C,-0.21117194,-0.17574266,0.038497422
+http://arxiv.org/pdf/2203.16509v1,High dynamic range electro-optic dual-comb interrogation of optomechanical sensors,"Rapid passage signals arise from
+interference between the induced transient field of a resonant oscillator,  molecular systems [10, 11]. We also note that the described model
+occurring at frequency, 𝑓𝑟, and a dynamically varying sample field          provides only a semi-quantitative description, and that further analysis
+exhibiting a distribution of frequencies 𝑓𝑐ℎ(𝑡) in the vicinity of 𝑓𝑟. of these effects will be the subject of a future publication. ",physics.optics,C,0.086616084,-0.30103198,-0.20621504
+http://arxiv.org/pdf/2203.16570v1,Self-Induced Decay of Intense Laser Pulse into a Pair of Surface Plasmons,"(10)
+
+3
+Eq. (10) can be solved analytically for some model profiles 𝛿𝜀̃(𝑥); from further analysis it follows
+
+that the specific form of this function influences the effect we focus on insignificantly. Assuming
+that 𝛿𝜀̃ should decrease with depth we set it as 𝛿𝜀̃(𝑥) = 𝛿𝜀̃ 𝑒𝑔𝑥 and obtain the following solution
+
+for the magnetic field:
+
+𝑥 < 0: 𝐻1± = 𝐴𝑒𝛼2𝑥 + Ψ(𝑥),                               (11)
+
+where A is an arbitrary constant, 𝛼2 = √𝑘𝜀2 − 𝜀0𝑘02 and
+
+Ψ(𝑥) = − 𝑖𝑘0𝑔−𝑘02√𝜀0 𝐸𝑖𝛿𝜀̃ 𝑒(𝑔+𝛼)𝑥. ",physics.optics,B,0.4443099,0.064772554,0.0076212436
+http://arxiv.org/pdf/2204.01230v1,On-Chip High Extinction Ratio Single-Stage Mach-Zehnder Interferometer based on Multimode Interferometer,"There are multiple directions to further improve the performance of the high extinction
+ratio MMI-MZI. Firstly, the tuning power can be greatly reduced in future work by optimizing the heater design and
+using a more efficient heater material [24]. Heat dissipation may be avoided altogether by using PZT materials for
+tuning the interferometer [25]. ",physics.optics,C,-0.19840422,-0.09745168,-0.11853734
+http://arxiv.org/pdf/2204.01462v1,Demonstration of room-temperature continuous-wave operation of InGaAs/AlGaAs quantum well lasers directly grown on on-axis silicon (001),"The threshold current is 186.4 mA with the corresponding threshold current
+density of 867 A/cm2, the single-facet output power of 22.5 mW can be achieved at an
+injection current of 400 mA, and the slope efficiency is 0.097 W/A. This progress indicates
+the possibility of silicon-based QW lasers being applied into commercial products, which
+will promote further research on the monolithic integration of Ⅲ-Ⅴ semiconductor lasers
+on silicon via heteroepitaxial growth. Acknowledgments
+
+The authors would like to thank the support from National Key Research and Development
+Program of China (No. ",physics.optics,C,-0.26680034,-0.19513541,-0.10832385
+http://arxiv.org/pdf/2204.01462v2,Demonstration of room-temperature continuous-wave operation of InGaAs/AlGaAs quantum well lasers directly grown on on-axis silicon (001),"A single-facet
+output power of 22.5 mW can be achieved at an injection current of 400 mA, and the slope
+efficiency is 0.097 W/A. This progress indicates the possibility of Si-based QW lasers being
+applied in commercial products, which promotes further research on the monolithic
+integration of Ⅲ-Ⅴ semiconductor lasers on silicon via heteroepitaxial growth. Acknowledgments
+
+The authors would like to thank the support from National Key Research and Development
+Program of China (No. ",physics.optics,C,-0.2568082,-0.19767423,-0.10494841
+http://arxiv.org/pdf/2204.02347v1,Optical ultracompact directional antenna based on a dimer nanorod structure,"This could be
+achieved for example via soft template assembly techniques, such as DNA
+origami49, 50. Overall, the ultracompact NRDA design provides a new possibility
+to further study antenna-assisted directional single-photon-sources for
+integrated photonic chips. Methods
+A frequency domain solver based on finite element method (FEM) in CST Studio
+Suite was used for the 3D full-wave simulation. ",physics.optics,C,-0.18727039,0.04186346,0.1424185
+http://arxiv.org/pdf/2204.02564v2,Low phase noise THz generation from a fiber-referenced Kerr microresonator soliton comb,"With the generation
+and measurement of the low noise THz wave, we showed the SSB phase noise PSD of -49, -77,
+-99, -95, and -108 dBc/Hz at the frequency offsets of 100 Hz, 1 kHz, 10 kHz, 100 kHz, and 1
+MHz, respectively. However, note that the measured phase noise is blind to the correlated ex-
+cess noise between the two THZ waves arising in the opto-electronic conversion process at the
+UTC-PD, and further study of the excess noise of the UTC-PD with the THz bandwidth such
+as the amplitude-to-phase conversion and ﬂicker noise is required. According to an out-of-loop
+measurement of the SSB phase noise PSD of the frep-stabilized comb 1, the SSB phase noise
+PSD of the THz wave (LTHz(f )) at the 10-kHz frequency offset could be -105 dBc/Hz (see Fig. ",physics.optics,C,-0.09608954,-0.34972996,-0.044497073
+http://arxiv.org/pdf/2204.02622v1,The Interplay Between Disorder and Collective Coherent Response: Superradiance and Spectral Motional Narrowing in the Time Domain,"Can we use dynamic disorder as a tuning knob for controlling
+chemical reactions within an optical cavity? These directions of investigation will be taken
+up in a future work. Acknowledgements
+
+This work has been supported by the U.S. Department of Energy, Oﬃce of Science, Oﬃce
+of Basic Energy Sciences, under Award No. ",physics.optics,C,-0.1535312,-0.25239754,-0.18260407
+http://arxiv.org/pdf/2204.02622v2,Interplay Between Disorder and Collective Coherent Response: Superradiance and Spectral Motional Narrowing in the Time Domain,"Can we use dynamic disorder as a tuning knob for
+controlling chemical reactions within an optical cavity? These directions of investigation
+will be taken up in a future work. 25
+    ACKNOWLEDGEMENTS
+
+   This work has been supported by the U.S. Department of Energy, Oﬃce of Science, Oﬃce
+of Basic Energy Sciences, under Award No. ",physics.optics,C,-0.15491581,-0.248737,-0.18240234
+http://arxiv.org/pdf/2204.03604v1,Unidirectional ultracompact DNA-templated optical antennas,"For each DUA, a series of BFP images was acquired, from which an intensity
+transient was generated (Figure 2A). Only transients with a single bleaching step, a signature of
+emission arising from a single fluorophore, were employed for further analysis. This approach, in
+addition to confirming that only one molecule was driving the antenna, enabled the discrimination
+of the single-molecule fluorescence (FL) emission from photoluminescence (PL) of AuNRs22. ",physics.optics,C,-0.111037366,0.12623201,0.03690609
+http://arxiv.org/pdf/2204.04298v1,SnP$_2$S$_6$: A Promising Infrared Nonlinear Optical Crystal with Strong Non-Resonant Second Harmonic Generation and Phase-matchability,"Comparing with the computed band structure in
+
+Figure S4, we find that one-photon vertical transitions at 2.4 eV are only possible between the
+
+valence band and the isolated conduction band. The above observation suggests that the large NLO
+
+response is due to this intermediate conduction band enabling a double resonance process
+
+involving the valence, intermediate, and upper conduction bands, similar to double resonance
+
+enhancement mechanisms known in asymmetric quantum wells.34 A quantitative verification of
+
+this potential double resonance mechanism will be examined in future work. Note that our
+
+experimental measurements involve fundamental and SHG energies that are below the bandgap
+
+energy of ~2.3eV, and hence non-resonant. ",physics.optics,C,0.058026414,-0.254871,0.21679743
+http://arxiv.org/pdf/2204.04316v1,Manipulating the transverse spin angular momentum and Belinfante momentum of spin-polarized light by a tilted stratified medium in optical tweezers,"sE = sH. This dual symmetry, or electromag-          of research in our future work. netic democracy, can also be seen for the longitudinal
+SAM density near the focal region of a tightly focused                         V. ACKNOWLEDGMENTS
+linearly polarized Gaussian beam (simulation not shown
+here). ",physics.optics,B,0.3866385,0.14784029,0.001560207
+http://arxiv.org/pdf/2204.04316v2,Manipulating the transverse spin angular momentum and Belinfante momentum of spin-polarized light by a tilted stratified medium in optical tweezers,"We intend to pursue these directions
+gle. Thus, sx - one of the orthogonal components of the      of research in our future work. TSAM - in the YZ plane, and BSMDy in the XZ plane
+manifest this breaking of symmetry. ",physics.optics,B_centroid,0.4772997,0.063164175,0.21925607
+http://arxiv.org/pdf/2204.04495v1,Directly determining orbital angular momentum of ultrashort Laguerre-Gauss pulses via autocorrelation measurement,"Importantly, this commonly used technique requires
+studies focus only on Hypergeometric-Gaussian vortex modes             precise a priori knowledge of some of the parameters of the
+embedded with OAM, which are not eigenmodes of the                     unknown beam, such as, its initial beam width radius w0 and
+paraxial-wave equations (PWE) with propagation-invariant               its radius of curvature Rz , for an accurate characterisation of
+transverse structure in free space [20]. For a further study it is     the mode in question [27-29]. For ultrashort pulses, transverse
+required to consider OAM modes with well-defined radial                dispersion induced by the grating of complex-amplitude
+structure, such as Laguerre-Gaussian (LG) modes, which are             modulation would bring additional issues. ",physics.optics,C,0.005108685,-0.045320347,0.040008496
+http://arxiv.org/pdf/2204.04870v1,Second-harmonic generation in germanium-on-insulator from visible to telecom wavelengths,"Whilst our current experimen-                        M. Aspelmeyer, A. Zeilinger, “Experimental one-way quantum comput-
+tal setup has enabled the proof-of-principle SHG in Ge, there                    ing,” Nature 434, 169-176 (2005). are a number of improvements that are left for future work. 11X. ",physics.optics,B,0.37254992,-0.090277776,0.030856298
+http://arxiv.org/pdf/2204.04870v2,Second-harmonic generation in germanium-on-insulator from visible to telecom wavelengths,"Whilst our current experimen-                        M. Aspelmeyer, A. Zeilinger, “Experimental one-way quantum comput-
+tal setup has enabled the proof-of-principle SHG in Ge, there                    ing,” Nature 434, 169-176 (2005). are a number of improvements that are left for future work. 11X. ",physics.optics,B,0.37254992,-0.090277776,0.030856298
+http://arxiv.org/pdf/2204.05124v1,Hybrid Au-Si microspheres produced by laser ablation in liquid (LAL) for temperature-feedback optical nano-sensing and anti-counterfeit labeling,"The resultant Au-Si materials (Samples #1 to
+lowed by further irradiation of the as-produced Si disper-   #3) were then taken from each dispersion and drop-cast
+sion in presence of HAuCl 4 . Formation of Au nanopar-       on Si wafer for further analysis. Close-up SEM images
+ticles on the surface of Si particles through the thermal    of Au-Si MSs produced at three diﬀerent concentrations
+reduction of [AuCl 4 ] − species, as well as further mix-    of HAuCl 4 are shown in Figure 1e, revealing complex
+ing of the metal and semiconductor phases upon remelt-       morphology and composition of the obtained product. ",physics.optics,A,-0.13164112,0.064715326,0.11801642
+http://arxiv.org/pdf/2204.05528v2,Organic near-infrared epsilon-near-zero materials with large optical nonlinearity,"Our findings offer a strongly promising candidate
+of organic optical nonlinear materials for on-chip optical devices, flexible and reconfigurable
+metasurfaces, such as modulators, high harmonic generator, and ultrafast all-optical switches. In the future, many other methods, such as acid treatment18, blade coating17, and oxidative chemical
+vapor deposition (oCVD)19, to prepare highly-conductive PEDOT films can be further researched in
+order to tune the ENZ wavelength more widely, lessen optical losses, get a higher enhanced nonlinearity
+and different hot carriers behavior . Our previous reports24 and this work show that PEDOT films with
+boosted electrical conductivity can have an ENZ wavelength from 600nm to 1550nm, which covers all
+bands (B, O, E, S, C, L, U band) in optical communications and a part of the visible region hard to reach
+for ITO. ",physics.optics,C,-0.24867396,-0.08431657,0.1487035
+http://arxiv.org/pdf/2204.06238v1,Photonic quadrupole topological insulator using orbital-induced synthetic flux,"Since the inversion symmetry I is related
+to the mirror symmetries as I = MyMx, the Hamiltonian is also inversion symmetrical. We further study the quadrupole topology from the Bloch Hamiltonian by considering the
+Wannier bands and their polarization through the nested Wilson loop formulation [18]. The
+Wannier centers νxj(ky) are proportional to the phases of the eigenvalues of the Wilson loop
+operator, Wx [Fig. ",physics.optics,B,0.27852866,-0.063163035,0.33418804
+http://arxiv.org/pdf/2204.07754v1,Nanogap-Enhanced Infrared Spectroscopy with Template-Stripped Wafer-Scale Arrays of Buried Plasmonic Cavities,"With micron-scale cavity lengths fabricated using photolithography, the cavity
+resonance can be tuned from the mid- to near-infrared. Sub-micron-scale cavities fabricated via
+electron-beam lithography can possess resonances in the visible regime, which will be the focus
+of future work. Many high-order FP modes are observed from longer cavities. ",physics.optics,C,-0.34359357,0.019836415,0.05669077
+http://arxiv.org/pdf/2204.08372v1,Suppression of Nonlinear Optical Rogue Wave Formation Using Polarization-Structured Beams,"The extent to which polarization structure is maintained     Reports on Progress in Physics 75, 086401 (2012). during nonlinear self-focusing warrants further study. Such investigations would extend the ﬁeld of singular        [9] A. Chabchoub and M. Fink, Time-reversal generation of
+optics into the nonlinear domain [28, 51], potentially
+revealing topologically protected quantities that could be   rogue waves, Phys. ",physics.optics,C,0.13793439,-0.071228534,0.20483553
+http://arxiv.org/pdf/2204.08866v1,Geometry-dependent skin effects in reciprocal photonic crystals,"Different from the topological edge modes in a Hermitian system where a few
+edge states are found within the gap between bulk states, in a non-Hermitian system exhibiting
+the skin effect, all bulk states calculated under the periodic boundary condition (PBC) can
+collapse to structure edges of the system with the open boundary condition (OBC) imposed
+[29]. The NHSE was firstly predicted by W. Zhong in studying a one-dimensional (1D) model
+system with asymmetric inter-unit couplings [11] and was soon experimentally realized in a
+1D photonic system [44-47], inspiring further research in the higher dimensional systems [53-
+67]. Very recently, C. Fang et al. ",physics.optics,B,0.28692287,-0.050463386,0.21093693
+http://arxiv.org/pdf/2204.08866v2,Geometry-dependent skin effects in reciprocal photonic crystals,"Different from the topological edge modes in a Hermitian system where a few
+edge states are found within the gap between bulk states, in a non-Hermitian system exhibiting
+the skin effect, all bulk states calculated under the periodic boundary condition (PBC) can
+collapse to structure edges of the system with the open boundary condition (OBC) imposed
+[30]. The NHSE was firstly predicted by S. Yao and Z. Wang in studying a one-dimensional
+(1D) model system with asymmetric inter-unit couplings [11] and was soon experimentally
+
+                                                             2
+realized in a 1D photonic system [45-48], inspiring further research in the higher dimensional
+systems [54-68]. Very recently, C. Fang et al. ",physics.optics,B,0.2847277,-0.042360075,0.21520913
+http://arxiv.org/pdf/2204.09154v1,Bandwidth bounds for wide-field-of-view dispersion-engineered achromatic metalenses,"advantage of the lateral dimension between metasurfaces           [3] S. Banerji, M. Meem, A. Majumder, F. G. Vasquez,
+to achieve larger group delays and potentially overcome
+the bandwidth bounds derived in this paper (however,                   B. Sensale-Rodriguez, and R. Menon, Imaging with ﬂat
+a generalized version of these bounds should apply also                optics: metalenses or diﬀractive lenses?, Optica, OP-
+to this type of systems, and its derivation will be the                TICA 6, 805 (2019). subject of future work). The same argument also ap-               [4] J. Engelberg and U. ",physics.optics,A,-0.024862146,0.23402837,0.0007904954
+http://arxiv.org/pdf/2204.10843v1,Dynamics of Optically-Trapped High-Aspect-Ratio $β$-NaYF Hexagonal Prisms -- Towards kHz-MHz Gravitational Wave Searches,"Quasi-
+thickness t, respectively. Correspondingly, we can de-            spherical nanocrystals with irregular morphologies pre-
+ﬁne ﬁgure of merit ηrecoil = ω03/2 M/γsc for sensitivity          pared through top-down milling have also been cooled
+to gravitational waves in the photon-recoil-heating dom-          while being optically levitated [32], and future work will
+inated limit. involve examining the internal temperature of the levi-
+                                                                  tated prisms under illumination with 1020 nm light to
+   To illustrate the usefulness of our approach for the ap-       evaluate the feasibility of simultaneous laser refrigera-
+plication of GW searches in the Levitated Sensor Detec-           tion and optical levitation of disc-like objects. ",physics.optics,A,-0.24892488,0.07803128,0.070295885
+http://arxiv.org/pdf/2204.10843v2,Optical trapping of high-aspect-ratio NaYF hexagonal prisms for kHz-MHz gravitational wave detectors,"The material we
+            10-2     280 kHz                                         study in this work has also been shown in other exper-
+                               83 kHz                                iments to exhibit anti-stokes ﬂuorescence cooling, when
+                                                                     illuminated with light of a suitable wavelength. Quasi-
+            10-4     10-17             10-15      10-13  10-11       spherical nanocrystals with irregular morphologies pre-
+              10-19                                                  pared through top-down milling have also been cooled
+                                                                     while being optically levitated [32], and future work will
+                                       mass (kg)                     examine the feasibility of simultaneous laser refrigeration
+                                                                     and optical levitation of disc-like objects. This could
+FIG. ",physics.optics,A,-0.320046,0.04746855,0.049306594
+http://arxiv.org/pdf/2204.11397v1,Tensorial tomographic differential phase-contrast microscopy,"Further, since high-quality scientiﬁc grade objectives (Olympus
+PLN) are used in this experiment, we disregard pupil aberration in this ﬁrst demonstration, and model the pupil it as a
+low-pass ﬁlter P (u) with cut-off frequency equivalent to the NA of the objective lens [26]. Joint reconstruction of pupil
+Jones matrix for anisotropic aberration correction is left to future work [20]. The T2DPC forward model we use can
+then be expressed as
+
+                                   I˜l,m(u, η) = I˜0l,m(u, η) + HRme(u, η) · V˜Rl e(u, η)
+                                                                                                                                         (12)
+
+                                                                          + HImm(u, η) · V˜Ilm(u, η),
+
+where I˜l,n(u, η) is 3D Fourier transform of the measured focal stack, and 3D Fourier transform of the DC term
+
+represents the background intensity illuminated with nth pattern and analyzed with lth analyzer; l ∈ {0°, 45°, 90°, 135°}. ",physics.optics,A,-0.052016597,0.42057574,-0.15635929
+http://arxiv.org/pdf/2204.11397v2,Tensorial tomographic differential phase-contrast microscopy,"We further introduce
+aberration in this ﬁrst demonstration, and model the pupil
+it as a low-pass ﬁlter P (u) with cut-off frequency equivalent         the operator AU(·) as the forward model operator for all the
+to the NA of the objective lens [26]. Joint reconstruction of
+pupil Jones matrix for anisotropic aberration correction is            polarization conﬁgurations, where U denotes the illumina-
+left to future work [20]. The T2DPC forward model we use
+can then be expressed as                                               tion angular support: U = [umin, umax] ∩ [ηmin, ηmax]. ",physics.optics,A,0.018476412,0.36131755,-0.035882622
+http://arxiv.org/pdf/2204.11592v1,Deflectometry for specular surfaces: an overview,"Hopefully this will ignite discussions and stimulate     [10] L. Arnal et al. “Detecting dings and dents on specular
+further research. car body surfaces based on optical ﬂow”. ",physics.optics,A,-0.0644643,0.39127648,-0.16742852
+http://arxiv.org/pdf/2204.12078v1,Integrated Pockels Laser,"A higher loaded      frequency modulation (see below). Since the signal waveform
+Q results in a narrower laser linewidth, which can be further   is purely periodic, the waveform of Deviation 1 can be fully
+improved in future work. represented within one modulation period. ",physics.optics,C,0.0050445925,-0.21262681,-0.23702747
+http://arxiv.org/pdf/2204.13030v1,CMOS compatible multi-band plasmonic TE-pass polarizer,"Table 3. Performance of the TE-pass polarizer in the different optical bands
+
+Band                 O        E       S         C       L                        U
+Polarization      20.5 dB  21 dB   20.9 dB  19.3 dB  19.5 dB                  27.2 dB
+extinction ratio
+Insertion loss     1.5 dB  1.5 dB  1.6 dB    2.2 dB  2.5 dB                   2.8 dB
+                  1.31 μm  1.4 μm  1.5 μm   1.55 μm  1.6 μm                   1.65 μm
+Wavelength
+
+As a final step, we did a further analysis of the period in Fig. 12. ",physics.optics,C,-0.18745396,-0.082636975,0.16349997
+http://arxiv.org/pdf/2204.13030v2,CMOS compatible multi-band plasmonic TE-pass polarizer,"Performance of the TE-pass polarizer in the different optical bands. Band                 O        E       S               C        L                  U
+                  20.5 dB  21 dB   20.9 dB        19.3 dB   19.5 dB            27.2 dB
+Polarization
+extinction ratio  1.5 dB   1.5 dB  1.6 dB          2.2 dB   2.5 dB              2.8 dB
+Insertion loss    1.31 μm  1.4 μm  1.5 μm         1.55 μm   1.6 μm             1.65 μm
+
+Wavelength
+
+    As a final step, we did a further analysis of the period in Fig. 12. ",physics.optics,C,-0.23149323,-0.066131726,0.18416868
+http://arxiv.org/pdf/2204.13427v1,Electrically reduced optical switching threshold of VO2-based THz metasurface,"5 110901
+the individual VO2 “pixels” in the THz metasurface and will         [7] He J, Dong T, Chi B, Zhang Y 2020 J. Infrared, Millimeter, and
+be useful for local programming of the front of
+transited/reflected THz wave. Projecting of a “light pattern”           Terahertz Waves 41 607
+generated by computer on the studied VO2-Au metasurface is          [8] Driscoll T, Kim H T, Chae B G, Kim B J, Lee Y W, Jokerst N
+a subject of our further research. M, Palit S, Smith D R, Di Ventra M, Basov D N 2009 Science
+4. ",physics.optics,A,-0.118707836,0.16223046,0.21526626
+http://arxiv.org/pdf/2204.13773v1,Soliton trapping and orthogonal Raman scattering in a birefringent microstructured fiber,"Line colors
+denote: green – slow axis, red – fast axis, black – total spectrum. In further study we focused on the spectral pulse dynamic with propagation distance, which was investigated via cutback
+of the original 20-m-long ﬁber. The special care was taken in order to keep the ﬁber launch condition unchanged. ",physics.optics,C,-0.099421114,-0.12725726,-0.21372175
+http://arxiv.org/pdf/2205.00087v1,Coherent Control of Evanescent Waves via Beam Shaping,"Evanescent waves of vector beams
+Research Article  Optica  2
+
+and non-paraxial beams have also been subjects of interest due to their potential applications
+in photonics and sensing [14–17]. More notably, FTIR is considered to be a close analogy to
+quantum tunneling [18–20], the further study of which may give us insight into both classical
+optics and quantum mechanics. In this paper, we shape the incident beam with the interference pattern from a Mach-Zehnder
+interferometer (MZI). ",physics.optics,C,-0.18557377,-0.013125535,0.1391117
+http://arxiv.org/pdf/2205.00123v2,Deep learning-augmented Computational Miniature Mesoscope,"An outstanding challenge to expand the utility of the CM2 is tissue scattering [18]. There are
+several promising solutions we envision that are applicable to CM2, such as miniature structured
+illumination technique [31] and scattering-incorporated 3D reconstruction frameworks [32, 33],
+which will be investigated in our future work. Funding. ",physics.optics,A,-0.06166654,0.6326437,0.007688134
+http://arxiv.org/pdf/2205.00123v3,Deep learning-augmented Computational Miniature Mesoscope,"An outstanding challenge to expand the utility of the CM2 is tissue scattering [18]. There are
+several promising solutions we envision that are applicable to CM2, such as miniature structured
+illumination technique [37] and scattering-incorporated 3D reconstruction frameworks [38, 39],
+which will be investigated in our future work. Funding. ",physics.optics,A,-0.060196728,0.6304766,0.00860623
+http://arxiv.org/pdf/2205.00123v4,Deep learning-augmented Computational Miniature Mesoscope,"An outstanding challenge to expand the utility of the CM2 is tissue scattering [18]. There are
+several promising solutions we envision that are applicable to CM2, such as miniature structured
+illumination technique [37] and scattering-incorporated 3D reconstruction frameworks [38, 39],
+which will be investigated in our future work. Funding. ",physics.optics,A,-0.060196728,0.6304766,0.00860623
+http://arxiv.org/pdf/2205.00123v5,Deep-learning-augmented Computational Miniature Mesoscope,"An outstanding challenge to expand the utility of the CM2 is tissue scattering [18]. There are
+several promising solutions we envision that are applicable to CM2, such as miniature structured
+illumination technique [37] and scattering-incorporated 3D reconstruction frameworks [38, 39],
+which will be investigated in our future work. Funding. ",physics.optics,A,-0.060196728,0.6304766,0.00860623
+http://arxiv.org/pdf/2205.01344v1,Non-equilibrium phase transitions in coupled nonlinear optical resonators,"Analysis of noise   second-order nonlinear coeﬃcient ( ) is related to the
+mechanisms that could possibly constrain the achievable     SHG eﬃciency [40]. Additionally, the OPO ﬁelds
+precision will be the subject of future work. Our work      experience the eﬀect of the coupling and the cavity
+lays the foundation for the exploration of emergent         feedback every roundtrip. ",physics.optics,C,0.16682684,-0.2891716,-0.18592921
+http://arxiv.org/pdf/2205.01837v1,"Acoustic, phononic, Brillouin light scattering and Faraday wave based frequency combs: physical foundations and applications","Application of plasmon-enhanced BLS in frequency comb generation
+
+      As follows from the discussion in the previous section the nanodisc geometry is not
+optimal for enhancing the BLS signal. Therefore, further analysis was performed in [107],
+where it was shown that a stronger plasmonic enhancement of the BLS effect could be achieved
+using elongated metal nanostructures such as plasmonic nanorods made of gold or silver. Similar to the well-known Fabry-Pérot resonators, long nanorods can support higher-order
+plasmonic modes (those modes do not exist in short nanorods that support only a dipole-like
+fundamental mode similar to the fundamental mode of nanodiscs). ",physics.optics,C,-0.19837722,-0.17141297,0.17612839
+http://arxiv.org/pdf/2205.02802v1,Spatial distribution of two symmetric four-wave mixing signals induced by Gaussian beams,"With
+of OAM [12, 14, 15]. This is the subject of future work                the present study, we seek to understand the inﬂuence of
+                                                                       the atomic medium on the FWM process. More speciﬁ-
+currently underway. ",physics.optics,B,0.11532639,-0.08475006,-0.017225964
+http://arxiv.org/pdf/2205.03054v1,Fiber spectrum analyzer based on planar waveguide array aligned to a camera without lens,"As a result, the                       ~4mm. As future work, we plan to investigate the WSL device
+intensities of the side lobes are decreased since the envelope                       in detail, e.g., finding the limits on spectral resolution and FSR,
+of the intensity distribution is determined by the far field of a                    as well as to come up with concrete mounting / integration
+single waveguide facet [23]. For example, when the                                   plan to a commercial camera. ",physics.optics,A,-0.1648303,0.16460674,0.032299582
+http://arxiv.org/pdf/2205.03388v1,Numerical Framework for New Langevin Noise Model: Applications to Plasmonic Hong-Ou-Mandel Effects,"Likewise, the present numerical
+framework will enable quantitative evaluations of open and dissipative quantum optics
+problems involving arbitrary medium inhomogeneity and geometric complexity. The future works will focus on validating and extending the present numerical frame-
+work for the new LN formalism. First, we will connect the new LN formalism to the
+explicit model [22, 23, 1] with the use of numerical diagonalization methods [24, 25]. ",physics.optics,B,0.2033863,0.022274733,0.053741254
+http://arxiv.org/pdf/2205.03482v2,Nature of the Poynting Vector Field Singularities in Resonant Light Scattering by Nanoparticles,"That is to say, the geometric and Poincaré criteria for singular points give rise to identical
+results. In further analysis, it is convenient to introduce dimensionless variables. Conventionally,
+the natural spatial scale for the problem is the wavelength of the incident radiation. ",physics.optics,B,0.26451254,0.2664795,-0.17209983
+http://arxiv.org/pdf/2205.05484v1,Partially coherent conical refraction,"Recent publications report on the CR with a top-hat [49], Dark /Antidark [50],
+Bessel [51] and Bessel-Gauss [52] beams, elegant Laguerre–Gaussian modes [53], multimode
+radiation [54], and vector beams with spatially varying state of polarization [55]. In this regard,
+the study of CR with partially coherent light becomes an important and promising direction for
+further research. From a practical point of view, this is very beneficial due to the properties of low-
+coherent light sources such as laser diodes and LEDs, which are simple, compact and very cost-
+effective. ",physics.optics,C,-0.110075496,0.043268114,0.09685014
+http://arxiv.org/pdf/2205.05987v1,Controlling chaotic itinerancy in laser dynamics for reinforcement learning,"Further, the optical
+injection components could also be implemented in a photonic integrated circuit for
+miniaturizing the optical injection control system. The experimental implementation of this
+scheme would be our future work. Our decision-making method could be applied to other nonlinear dynamical systems
+that produce chaotic itinerancy. ",physics.optics,C,-0.13932565,-0.18970421,-0.19943407
+http://arxiv.org/pdf/2205.06410v1,Mid- and Far-Infrared Supercontinuum Generation in Bulk Tellurium Spanning from 5.3 $μ$m to 32 $μ$m,"Considering 𝑛2,eﬀ of GaAs to be 4±2 × 10−14 cm2/W at 10.6 𝜇m [30], the
+nonresonant nonlinearity of 1.6×10−12 in Te is extraordinarily large, rivaling the largest known
+in any natural material. It should be noted that the contribution of bound electron and free carrier nonlinearities to the
+eﬀective nonlinearity remains a point of interest and requires additional studies. Intrinsic Te is
+p-type [31], so free carrier nonlinearities likely play a signiﬁcant role in the overall nonlinear
+response. ",physics.optics,C,0.10851243,-0.2846487,0.11310057
+http://arxiv.org/pdf/2205.06449v1,Cascaded Forward Stimulated Brillouin Scattering in a Chalcogenide Microsphere,"The
+resonator was excited using a tunable laser at 1550 nm and beat notes between the pump and
+Stokes beams were observed at multiples of 34.5 MHz, corresponding to 25 orders of Stokes
+beams. This work could lay the foundation for future work into the SBS phenomena in near and
+mid-infrared using chalcogenide optics. Funding. ",physics.optics,C,-0.32047695,-0.17946126,0.06840554
+http://arxiv.org/pdf/2205.06449v2,Cascaded forward Brillouin lasing in a chalcogenide whispering gallery mode microresonator,"We note the applications of cascaded forward Brillouin scattering in gas sensors
+and photonic radio frequency sources. This work could lay the foundation for future work into the
+SBS phenomena in near and mid-infrared using chalcogenide optics. FUNDING
+
+   Air Force Ofﬁce of Scientiﬁc Research (FA9550-15-1-0506),
+Ofﬁce of Naval Research (N00014-19-1-2251, N00014-19-1-2382)
+
+ACKNOWLEDGMENTS
+
+   The authors gratefully acknowledge Lange Simmons (University of Colorado, Boulder), Dr.
+Omkar Supekar (University of Colorado, Boulder), Dr. Kyuyoung Bae (Radanta Corporation,
+Boulder, CO USA) and Dr. Jiangang Zhu (Deepsight Technology, San Fransisco, CA USA). ",physics.optics,C,-0.09088406,-0.010051347,0.18909109
+http://arxiv.org/pdf/2205.07051v1,High-speed graphene-silicon-graphene waveguide PDs with high photo-to-dark-current ratio and large linear dynamic range,"In particular, the PDs exhibit a high
+bandwidth of ~33 GHz, an ultra-low dark current of tens of pico-amperes, a high normalized photo-
+to-dark-current ratio (NPDR) of 1.63×106 W-1, as well as a high linear dynamic range of 3 μW-1.86
+mW (and beyond) at 1.55 μm. According to the measurement results for the wavelength-bands of
+1.55/2.0 μm and the theoretical modeling for the silicon-graphene heterostructure, it is revealed that
+internal photo-emission and photo-assisted thermionic field emission dominantly contribute to the
+photoresponse in the graphene-silicon Schottky junctions, which helps the future work to further
+improve the performance. INTRODUCTION
+Two-dimensional materials (2DMs)1 feature the wide-range bandgaps, high mobility, and flexible
+integration, meeting the demands on wide-spectrum, high-performance, and integration-friendly
+photodetection on silicon photonic chips.2, 3 Currently there have been several typical silicon-2DM
+PDs (PDs) developed,4 including metal-2DM-metal PDs, metal-2DM+X-metal PDs, and 2DM-
+heterostructure PDs. ",physics.optics,C,-0.16321728,-0.064233236,0.18172878
+http://arxiv.org/pdf/2205.07078v1,Electromagnetic Composites: from Effective Medium Theories to Metamaterials,"Hence, the KK analysis is
+mostly applied to validate causality, improve data continuity, smoothing, or
+supplementing network analyzer measurements.4,12 Fig. 3 shows an example of the KK
+relations used for evaluating the quality of the experimental complex permeability data
+of MnZn ferrite.12 There are no significant differences between the measured results
+(solid lines) and KK analysis of 𝜇𝜇′(𝑓𝑓) and 𝜇𝜇′′(𝑓𝑓), and thus it is assumed that the data can
+be used for further analysis. 11
+FIG. ",physics.optics,B,0.18884441,0.11372484,-0.14160486
+http://arxiv.org/pdf/2205.07330v1,High-sensitivity Frequency Comb Carrier-Envelope-Phase Metrology in Solid State High Harmonic Generation,"While the peak power of the pulse is enough to consider self-focusing, the lack of observed
+self collapse and spectral broadening for the driving pulse would suggest this is not a dominant
+process for producing high intensities. The dynamics between the possible self-focusing and
+nonperturbative harmonic generation would require further study. The UV and visible (UV/Vis, 200 - 650 nm) light generated with the ZnO crystal is collected by
+an OAP with high reﬂectance in the UV (Acton #1200, 120 - 600 nm), and sent to a purpose-built
+monochromator. ",physics.optics,C,-0.08837412,-0.1784294,-0.14244817
+http://arxiv.org/pdf/2205.07761v1,Single-shot characterization of vector beams by generalized measurements,"It would be interesting to test this in a full investigation of
+retrieving the vector quality factor [66] and optical skyrmion number [67, 68], to aﬃrm the
+invariance of vectorial structured light due to dephasing and aberrations. In future work we aim to reduce transverse variations in phase by replacing the Mach-Zehnder
+with a Sagnac conﬁguration. Further developments include replacing the current spatially resolved
+detection with projections onto pre-deﬁned spatial modes, allowing detection via single-photon
+detectors rather than camera, and thus boosting eﬃciency for applications in the quantum regime. ",physics.optics,A,0.02340176,0.10670701,0.014063861
+http://arxiv.org/pdf/2205.07761v2,Single-shot characterization of vector beams by generalized measurements,"It would be interesting to test this in a full
+investigation of retrieving the vector quality factor [66] and optical skyrmion number [9, 67], to
+aﬃrm the invariance of vectorial structured light due to dephasing and aberrations. In future work we aim to reduce transverse variations in phase by replacing the Mach-Zehnder
+with a Sagnac conﬁguration. Further developments include replacing the current spatially resolved
+detection with projections onto pre-deﬁned spatial modes, allowing detection via single-photon
+detectors rather than camera, and thus boosting eﬃciency for applications in the quantum regime. ",physics.optics,A,0.024032442,0.10658768,0.013714325
+http://arxiv.org/pdf/2205.08481v1,Silicon nitride waveguides with intrinsic single-photon emitters for integrated quantum photonics,"Fluorescence from individual single-photon emitters is
+clearly visible. The red circle indicates the quantum emitter selected for further analysis. The PL spectrum can be fitted with four Gaussian curves       spectrum matches that measured using the direct excitation
+with peak wavelengths of 576 nm, 600 nm, 624 nm, and 674        scheme confirming that we addressed the same quantum
+nm, which are within the spectral range typically observed      emitter in both measurements (Fig. ",physics.optics,C,-0.08234863,-0.05582813,-0.033617362
+http://arxiv.org/pdf/2205.08608v1,All-Photonic Artificial Neural Network Processor Via Non-linear Optics,"To explicitly illustrate        rates. this loss regime we also plot histograms of the energy
+carried by each neuron mode at the output of the neu-               Fruitful directions for future work include extensions
+ral network. Unsurprisingly, the energy of the neurons           of the features of the architecture we propose to a variety
+decays exponentially as we increase the number of sub-           of problems, including recursive neural networks for Ising
+layers. ",physics.optics,B,0.33894128,0.09169784,-0.24384713
+http://arxiv.org/pdf/2205.09423v1,Random matrix theory of polarized light scattering in disordered media,"For simplicity, however, we neglect these so
+
+                           9
+that each of the blocks of the scattering matrix, now assumed to be uncorrelated,
+can be generated independently. The eﬀects of these additional correlations will be
+investigated in future works. 2.3. ",physics.optics,B,0.40666535,0.109924436,0.02535827
+http://arxiv.org/pdf/2205.10109v1,"Efficient, Spectrally Tunable Single-Photon Sources Based on Chlorine-Doped ZnSe Nanopillars","ZnSe:F).3 Moreover,
+successful generation of substantial polarization entanglement between photons generated by
+independent F-impurity-based emitters was also recently reported9 and comprises an essential step
+towards the realization of long-distance quantum communication and networking. Furthermore,
+the recent publications also showed that ZnSe:F provides isolated impurity-bound electrons which
+can be effectively used as optically addressable spin qubits.10 Such features of ZnSe:F make it
+particularly attractive for modern quantum applications and therefore motivate further research of
+other impurities in epitaxially grown ZnSe. More recently, Chlorine (Cl) impurities in ZnSe (i.e. ",physics.optics,C,-0.003576532,-0.0141832605,0.24285184
+http://arxiv.org/pdf/2205.10414v1,On-chip Optical Phase Monitoring in Multi-Transverse-Mode Integrated Silicon-based Optical Processors,"Thus, we must keep ζ ≤      detection in the calibration of the optical processor. 1.5 to estimate ϕ from TE1 optical power without requiring
+further analysis. Fig. ",physics.optics,C,0.017884567,-0.07722317,-0.2152883
+http://arxiv.org/pdf/2205.11161v1,Quantum interference visibility spectroscopy in two-color photoemission from tungsten needle tips,"Eq. (6) in future work. [5] C. K. Chan, P. Brumer, and M. Shapiro, Coherent ra-
+                                                                    diative control of IBr photodissociation via simultaneous
+   In conclusion, we have demonstrated visibility spec-             (ω1, ω3) excitation, The Journal of Chemical Physics 94,
+troscopy of quantum pathway interference in multi-                  2688 (1991). ",physics.optics,C,0.062450234,-0.12975255,-0.0626952
+http://arxiv.org/pdf/2205.11481v1,Fabrication-Robust Silicon Photonic Devices in Standard Sub-Micron Silicon-on-Insulator Processes,"to quantify fabrication variations rather than make assumptions
+about the fringe order to extract neff [4]. Planned future work          2. N. M. Fahrenkopf, C. McDonough, G. L. Leake, Z. Su, E. Timurdogan,
+will include a dedicated 300 mm wafer with comprehensive test                   and D. D. Coolbaugh, “The aim photonics mpw: A highly accessible
+structures for location-aware wafer-scale testing to further quan-              cutting edge technology for rapid prototyping of photonic integrated
+tify statistical distributions as a function of waveguide width. ",physics.optics,A,-0.26499408,0.122915044,-0.04892675
+http://arxiv.org/pdf/2205.14891v1,Towards efficient structure prediction and pre-compensation in multi-photon lithography,"In the end, one can expect a very high match between target and printed
+structure within only two (or optionally three) printing steps. As future work, we will speed up the identification of optimal simulation parameters. Conceivable
+here would be a neural network trained by our prediction algorithm that can set the optimal simulation
+parameters for each generation. ",physics.optics,B,0.070987776,0.20793968,-0.34063238
+http://arxiv.org/pdf/2205.14891v2,Towards efficient structure prediction and pre-compensation in multi-photon lithography,"An extensive investigation in terms of topographical, material as well as process capabilities will
+provide further insight into the limitations of our approach but exceeds the claim of ’first steps’ aimed at
+with this publication. As further future work, we will speed up the identification of optimal simulation
+parameters. Conceivable here would be a neural network trained by our prediction algorithm that can
+set the optimal simulation parameters for each generation. ",physics.optics,B,0.13999785,0.24658373,-0.43023252
+http://arxiv.org/pdf/2206.00360v1,Ladder of Eckhaus instabilities and parametric conversion in chi(2) microresonators,"4a         and νmin. Therefore, further research into this problem
+is shown up to ν = 30, but extends upto ν = νmax =             is necessary. Conclusions
+                                                               We have demonstrated that the degenerate OPO transit-
+                                                               ing to the ladder of the nondegenerate OPO states via a
+                                                               sequence of Eckhaus instabilities is a universal scenario
+                                                               if the repetition rate diﬀerence between the signal and
+                                                               pump ﬁelds, |D1b − D1a|, dominates over all other fre-
+                                                               quency scales. ",physics.optics,B,0.3607112,-0.27791867,-0.19044986
+http://arxiv.org/pdf/2206.00360v2,Ladder of Eckhaus instabilities and parametric conversion in chi(2) microresonators,"4a         and νmin. Therefore, further research into this problem
+is shown up to ν = 30, but extends upto ν = νmax =             is necessary. Conclusions
+                                                               We have demonstrated that the degenerate OPO transit-
+                                                               ing to the ladder of the nondegenerate OPO states via a
+                                                               sequence of Eckhaus instabilities is a universal scenario
+                                                               if the repetition rate diﬀerence between the signal and
+                                                               pump ﬁelds, |D1b − D1a|, dominates over all other fre-
+                                                               quency scales. ",physics.optics,B,0.3607112,-0.27791867,-0.19044986
+http://arxiv.org/pdf/2206.00965v1,Symmetry-protected higher-order exceptional points in staggered flatband rhombic lattices,"Our results provide in-          as
+sightful information about the underlying properties of
+the EPs in ﬂatband systems. In future works, it will be        iγ + ǫ tL + tReik            0
+also interesting to investigate a wide range of phenomena
+such as the topological transitions and nonlinear optical     Hk = tL + tRe−ik  0           tL + tRe−ik . (A1)
+processes associate with the higher-order EPs [57–60]. ",physics.optics,C,0.17947185,-0.25060362,0.08449525
+http://arxiv.org/pdf/2206.01043v1,Multi-objective Inverse Design of Solid-state Quantum Emitter Single-photon Sources,"Alternatively, more sophisticated density-based projection ﬁlters to con-
+trol the feature sizes [53, 54] may be applied alongside our methodology. While such possibilities go beyond the scope of the
+present work, they will be explored in future work. Our results highlight the fact that inverse design is capable of generating sources with η and Fp values that are competitive
+with those of sources designed based on pre-established waveguide or cavity geometries [18]. ",physics.optics,C,-0.017181592,0.017631236,0.03394976
+http://arxiv.org/pdf/2206.01300v2,Optimizing the chiral Purcell factor for unidirectional single photon emitters in topological photonic crystal waveguides using inverse design,"In the structures we use below, we          To deﬁne an appropriate basis set Hµ(r), the GME
+only consider the practical area of below the light line      method uses the guided modes of the eﬀective homoge-
+modes which formally have no intrinsic losses, in the ab-     neous slab waveguide, with a dielectric constant taken
+sence of disorder. The role of disorder will be investi-      as the spatial average of the dielectric constant in the
+gated in future work. It is also worth mentioning that        slab layer of the PCW being studied [45]. ",physics.optics,C,0.013810102,0.080238044,0.21111408
+http://arxiv.org/pdf/2206.01375v1,Exploiting dynamic nonlinearity in upconversion nanoparticles for super-resolution imaging,"Moreover, by taking advantage of heterochromatic
+nonlinear responses,46 we can circumvent multiple image acquisition procedures under differential excitation
+powers. It will be fascinating to verify this approach in future work to simultaneously produce a series of
+multi-color images at differential saturating degrees via parallel detection channels. We anticipate that this
+
+                                                                 8
+work will provide new insights into dynamic nonlinear fluorescent probes, expanding applications in super-
+
+resolution imaging. ",physics.optics,C,-0.07436975,0.035485715,-0.2017377
+http://arxiv.org/pdf/2206.02870v1,Transient absorption microscopy setup with multi-ten-kilohertz shot-to-shot subtraction and discrete Fourier analysis,"The corresponding Bode plot in Figures 3b and 3c shows
+the frequency response of the individual ampliﬁer stages. For further analysis of the
+detected laser pulses in Chapter 3, we will use the impulse response function V (t) of the
+output (purple line in Fig. 3a) in the time domain, and the frequency response function
+V˜ (f ) (purple line in Fig. ",physics.optics,C,0.0028665299,-0.20259808,-0.3109187
+http://arxiv.org/pdf/2206.02933v1,Apodizer Design to Efficiently Couple Light into a Fiber Bragg Grating,"We believe our numerical results, in particular those of Figure 8, serve as an impetus for
+investigating the coupled-mode dynamics more thoroughly using soliton-speciﬁc methods. We leave this investigation as subject for future work. Acknowledgments
+
+We would like to thank Professors David Shirokoﬀ, Alejandro Aceves, and Richard Moore
+for helpful discussions. ",physics.optics,B,0.23565319,-0.19357672,0.11164494
+http://arxiv.org/pdf/2206.02933v2,Apodizer Design to Efficiently Couple Light into a Fiber Bragg Grating,"We believe our numerical results, in particular those of Figure 8, serve as an impetus for
+investigating the coupled-mode dynamics more thoroughly using soliton-speciﬁc methods. 14
+We leave this investigation as subject for future work. (a)                                                      (b)
+
+Figure 11: (a): Solutions of Equation (4) at t = 4.8ns corresponding to the optimal grating
+structures in Figure 8. ",physics.optics,B,0.11000544,-0.07134813,0.10642807
+http://arxiv.org/pdf/2206.04147v1,Vectorial Bulk-Boundary Correspondence for 3D Photonic Chern Insulators,"Case (5) will not have protected chiral modes
+by the scalar bulk-boundary correspondence, and so will not be of further interest here. However such interfaces may
+be interesting from the point of view of “higher order” topology [33], and will be explored in a future work [34]. For each interface (1)–(3), we characterize the number and propagation direction of the emerging surface states
+and investigate the vectorial aspects of BBC using a combined real-reciprocal space analysis. ",physics.optics,B,0.4161159,0.13763161,0.37392718
+http://arxiv.org/pdf/2206.05383v1,Laser cooling assisted thermal management of lightsails,"So, in order to esti-        a few rare earth ion to span a wide operating bandwidth. Ad-
+mate the beneﬁts of a variable laser intensity, we compute the      ditionally, future work can focus on further design schemes
+corresponding enhancement in the acceleration distance D,           to improve the potential of using laser cooling in a lightsail
+as plotted in Fig. 4(a,b) [solid lines]. ",physics.optics,A,-0.15040135,-0.0615135,-0.24556458
+http://arxiv.org/pdf/2206.05656v1,On the initiation of fiber fuse damage in high-power ytterbium-doped fiber lasers,"The analysis not
+
+only uniquely determines 𝑢𝐹 for each YDF, but also prove that a defect-induced absorption is
+
+a major mechanism for IFF. The determined 𝑢𝐹 is critical information for further studying the
+
+physical mechanisms of IFF at material and chemical level in future. 3. ",physics.optics,B,0.26876646,0.12508616,-0.030127948
+http://arxiv.org/pdf/2206.06913v1,Optomechanical generation of coherent GHz vibrations in a phononic waveguide,"This shift has gradually increased over the  12  72 ± 4 1484.14 6.845   4.8
+time scale of months over which the sample has under-
+gone measurement, and likely results from slight modi-       19  104 ± 6 1483.47 6.849  10
+ﬁcation of the structure due to long illumination times
+under high powers in BLS spectroscopy. 35 169 ± 10 1484.05 6.846  2.5
+
+ Appendix F: Determination of g0 with a phase electro-optic  60  124 ± 8 1485.85 6.846  13.4
+                                  modulator
+                                                             Table I – Phase electro-optic modulator measured g0/2π
+   To further study the localized nature of the modes in        at the four diﬀerent positions along the waveguide
+this system, the g0/2π was measured at diﬀerent posi-
+tions along the waveguide by calibration with a phase
+electro-optic modulator (EOM) (Table I). The calibra-
+tion of the optomechanical coupling using a phase EOM
+[60] is made in the absence of dynamical back-action. ",physics.optics,C,-0.1284057,-0.121054426,0.07767753
+http://arxiv.org/pdf/2206.07584v1,Scattering of light waves from a collection with particles of $\mathcal{L}$ types,"Both these two matrices play
+                                                 ﬁelds produced on scattering from collections of parti-       an indispensable role in the description of the weak scat-
+                                                 cles. However, the further study has shown that even          tering process of light waves from a hybrid particulate
+                                                 if the pair-structure factor is known, it is still not ad-    system, and neither of them is better than the other. equate to describe light scattering from a collection of
+                                                 particles with L types [6]. ",physics.optics,B,0.24993923,0.14618433,0.16625874
+http://arxiv.org/pdf/2206.07628v1,Tunable wavefront control in the visible spectrum using low-loss chalcogenide phase change metasurfaces,"As can be seen, all the four
+transmission spectra are unique, with the same polarization states showing some resemblance,
+which might be an indication of close, albeit dissimilar, crystal axis orientations. These
+measurements corroborate the birefringent nature of crystalline Sb2S3 and highlight the need for
+further research to either mitigate this effect or controllably make use of it. The measured optical phase of the Sb2S3 Huygens’ metasurfaces shifts by nearly 2π
+radians during crystallization. ",physics.optics,C,-0.050413046,-0.01684408,0.28792602
+http://arxiv.org/pdf/2206.07935v1,High-Q Resonances Governed by the Quasi-Bound States in the Continuum in All-Dielectric Metasurfaces,"It is also different from the insensitivity of the Q factor to l in the
+symmetry-protected mode. The further study of this mode is beyond the scope of this work. Owing to the fact that there exist two different BIC modes (i.e. ",physics.optics,B,0.45577198,-0.07539041,0.23774558
+http://arxiv.org/pdf/2206.08740v2,Design of an achromatic zoom metalens doublet in the visible,"Y. Wang, Z. Wang, X. Feng, M. Zhao, C. Zeng, G. He, Z. Yang, Y. Zheng, and
+                                                                                J. Xia, Photonics Research 8 (2020). We further study the focusing properties at other off-design                 3. Z. Yang, Z. Wang, Y. Wang, X. Feng, M. Zhao, Z. Wan, L. Zhu, J. Liu, Y. Huang,
+wavelengths. ",physics.optics,C_centroid,-0.20123336,0.084231526,0.12359713
+http://arxiv.org/pdf/2206.08814v1,"A note on helicity, chirality and spin of optical fields","These
+     equations also highlight the special role played by monochromatic ﬁelds. It would be desirable if the results presented here could stimulate further research
+into the physical interpretation of the (virtually inﬁnite) conserved quantities of the
+electromagnetic ﬁeld. Acknowledgments
+
+I acknowledge support from the Deutsche Forschungsgemeinschaft Project No. ",physics.optics,B,0.2814586,0.060933672,0.20355634
+http://arxiv.org/pdf/2206.08814v2,"Helicity, chirality and spin of optical fields without vector potentials","Note that according to this deﬁnition, ǫˆ+(kˆ) represents
+                                                                  right-hand circular polarization, and ǫˆ−(kˆ) represents
+It would be desirable if the results presented here could         left-hand circular polarization. These two orthogonal
+stimulate further research into the physical interpreta-          unit complex vectors have the following properties:
+tion of the (virtually inﬁnite) conserved quantities of the
+electromagnetic ﬁeld. kˆ · ǫˆσ(kˆ) = 0,                      (A6a)
+
+                     ACKNOWLEDGMENTS                                            kˆ × ǫˆσ(kˆ) = i σ ǫˆσ(kˆ),            (A6b)
+
+   I acknowledge support from Deutsche Forschungsge-                             ǫˆ∗σ(kˆ) · ǫˆσ′ (kˆ) = δσσ′ ,         (A6c)
+meinschaft Project No. ",physics.optics,B,0.35946774,0.09030141,0.19119501
+http://arxiv.org/pdf/2206.08897v1,Loss-driven topological transitions in lasing,"Table I is consistent
+with the results given in [S2] for the allowed topological charges at -point for singly degenerate modes, but it is
+extended to include also the doubly degenerate modes. Notably, these doublets can also be BICs with non-trivial
+charges |q| 1, and a further research direction is to study the splitting of these doubly-degenerate BICs and the fate
+of their topological charge. 2
+
+Symmetry  irrep  arg(✏irrep) q
+     C2
+     C3     A    0     +1
+     C4
+     C5    B     ⇡     0
+
+     C6     A    0     +1
+           E⇤
+     C8          2⇡/3  0
+            A
+                 0     +1
+           B
+           E⇤    ⇡     1
+
+            A    ⇡/2   0
+           E1⇤
+           E2⇤   0     +1
+            A
+                 2⇡/5  0
+           B
+           E1⇤   4⇡/5  1
+           E2⇤
+            A    0     +1
+
+           B     ⇡     2
+           E1⇤
+           E2⇤   ⇡/3   0
+           E3⇤
+                 2⇡/3  1
+
+                 0     +1
+
+                 ⇡     3
+
+                 ⇡/4   0
+
+                 ⇡/2   1
+
+                 3⇡/4  2
+
+TABLE I. Topological charges of the irreducible representation (irreps) for point group Cn predicted by using Eq. ",physics.optics,B,0.47038504,-0.018804567,0.3049034
+http://arxiv.org/pdf/2206.08897v2,Loss-driven topological transitions in lasing,"Table I is consistent
+with the results given in [S2] for the allowed topological charges at Γ-point for singly degenerate modes, but it is
+extended to include also the doubly degenerate modes. Notably, these doublets can also be BICs with nontrivial
+charges |q| ≥ 1, and a further research direction is to study the splitting of these doubly-degenerate BICs and the fate
+of their topological charge. 2
+
+Symmetry IR  arg(ϵIR) q
+
+C2    A         0        +1
+
+      B         π        0
+
+C3    A         0        +1
+
+      E∗     2π/3        0
+
+      A         0        +1
+
+C4    B         π        −1
+
+      E∗     π/2         0
+
+      A         0        +1
+
+C5    E1∗    2π/5        0
+
+      E2∗    4π/5 −1
+
+      A         0        +1
+
+C6    B         π        −2
+
+      E1∗    π/3         0
+
+      E2∗    2π/3 −1
+
+      A         0        +1
+
+      B         π        −3
+
+C8    E1∗    π/4         0
+
+      E2∗    π/2 −1
+
+      E3∗    3π/4 −2
+
+TABLE I. Topological charges of the irreducible representation (IRs) for point group Cn predicted by using Eq. ",physics.optics,B,0.46148378,-0.021971162,0.26058903
+http://arxiv.org/pdf/2206.10410v1,Soliton Pulses in Photonic Crystal Fabry-Perot Microresonators,"Besides DKS and comb generation, the demon-             Funding
+strated resonator platform could also prove useful for inte-
+grated optical parametric oscillators [42] and optical har-      This project has received funding from the European Research
+monic generation [43]. Immediate further research op-            Council (ERC) under the EU’s Horizon 2020 research and inno-
+portunities leveraging the speciﬁc characteristics of the        vation program (grant agreement No 853564), from the EU’s
+new resonators include dispersion managed solitons [44–          Horizon 2020 research and innovation program (grant agree-
+46], sinc-, Nyquist- and zero-dispersion solitons [47–49],       ment No 965124)and through the Helmholtz Young Investiga-
+nonlinear ‘gain-through-loss’ [50], slow-light [51], spec-       tors Group VH-NG-1404; the work was supported through the
+tral engineering [26] and ﬁlter-driven pulse formation [52,      Maxwell computational resources operated at DESY. 53], which bodes well for a new generations of integrated
+broadband and ultrafast light sources. ",physics.optics,C,-0.27061948,-0.30228156,0.12820579
+http://arxiv.org/pdf/2206.10410v2,Soliton Pulses in Photonic Crystal Fabry-Perot Microresonators,"Besides DKS and comb generation, the demon-               Funding
+strated resonator platform could also prove useful for inte-
+grated optical parametric oscillators [42] and optical har-        This project has received funding from the European Research
+monic generation [43]. Immediate further research op-              Council (ERC) under the EU’s Horizon 2020 research and inno-
+portunities leveraging the speciﬁc characteristics of the          vation program (grant agreement No 853564), from the EU’s
+new resonators include dispersion managed solitons [44–            Horizon 2020 research and innovation program (grant agree-
+46], sinc-, Nyquist- and zero-dispersion solitons [47–49],         ment No 965124)and through the Helmholtz Young Investiga-
+nonlinear ‘gain-through-loss’ [50], slow-light [51], spec-         tors Group VH-NG-1404; the work was supported through the
+tral engineering [26] and ﬁlter-driven pulse formation [52,        Maxwell computational resources operated at DESY. 53], which bodes well for a new generations of integrated
+broadband and ultrafast light sources. ",physics.optics,C,-0.27061948,-0.30228156,0.12820579
+http://arxiv.org/pdf/2206.10410v3,Soliton Pulses in Photonic Crystal Fabry-Perot Microresonators,"Besides DKS and comb
+generation, the demonstrated resonator platform could                  φ = 2Lβ + 2 arctan δ · tanh γl (4)
+also prove useful for integrated optical parametric oscilla-                                        γ
+tors [45] and optical harmonic generation [46]. Immediate
+further research opportunities leveraging the speciﬁc char-            where L is the one-way length of the intracavity waveguide. acteristics of the new resonators include dispersion man-                 The resonator roundtrip GDD = ∂2φ/∂ω2 therefor also con-
+aged solitons [47–49], sinc-, Nyquist- and zero-dispersion
+solitons [50–52], nonlinear ‘gain-through-loss’ [53], slow-            tains the sum of the contributions from the PCRs (two reﬂec-
+light [54], spectral engineering [32, 34] and ﬁlter-driven
+pulse formation [55, 56], which bodes well for a new gener-            tions) and that of the waveguide between the PCRs (back and
+ations of integrated broadband and ultrafast light sources. ",physics.optics,C,-0.23243847,-0.33357167,0.18146196
+http://arxiv.org/pdf/2206.10725v1,Lifetime Limited and Tunable Quantum Light Emission in h-BN via Electric Field Modulation,"The blue trace shows a
+fit with 10 Voigt functions with the same line shape as part (c), the black trace shows a single Voigt fit to assign a
+FWHM value equalto 8.5 GHz. 4
+To further study the effect of electrostatic fields, without the limitations imposed by the resolution of
+grating-based spectroscopy and non-resonant excitation, we performed photoluminescence excitation
+spectroscopy (PLE) experiments using a continuous wave, tunable, narrow linewidth laser source. In PLE
+experiments, a tunable source of CW laser excitation is slowly scanned across the zero-phonon line and
+the intensity of the phonon sideband is measured as a function of laser detuning. ",physics.optics,C,-0.21439564,-0.11290021,0.02484723
+http://arxiv.org/pdf/2206.10956v1,Theory of hydrodynamic phenomena in optical mesh lattices,"While this observation is in qualitative     cent demonstration of lattices with non-trivial geometri-
+agreement with a generalized Landau criterion based on       cal [35] or topological properties [28, 29], and of lattices
+the instantaneous speed and the local density, a quantita-   with two [21] or even more spatial dimensions [12, 45],
+tive analysis of the experiment will require more sophis-    suggest the promise of optical mesh lattices as an ideal
+ticated theoretical tools, in particular to account for the  candidate to investigate unprecedented regimes of super-
+non-uniform motion of the defect and the consequent ef-      ﬂuid hydrodynamics and of its interplay with the most
+fect of acceleration on the emission. A study along these    subtle geometrical and topological features of complex
+lines will be the topic of future work. lattices. ",physics.optics,B,0.2342447,0.033439547,0.11350372
+http://arxiv.org/pdf/2206.11741v1,Observation of strong backscattering in valley-Hall topological interface modes,"Optical spectral measurements. The transmission of each device
+                                                                        is measured using a confocal free-space optical setup with cross-
+   We hope that our work will motivate further research into            polarized and spatially oﬀset excitation and collection achieved via
+robustness against real-world disorder as well as theoretical           orthogonal free-space grating couplers. The broadband optical char-
+studies on the mechanisms behind Anderson localization [46]             acterization is performed using a ﬁber-coupled supercontinuum co-
+in systems with valley-momentum locking. ",physics.optics,C,-0.07185895,-0.19009614,0.13385928
+http://arxiv.org/pdf/2206.11741v2,Observation of strong backscattering in valley-Hall photonic topological interface modes,"Optical spectral measurements. The transmission of each device
+                                                                        is measured using a confocal free-space optical setup with cross-
+   We hope that our work will motivate further research into            polarized and spatially oﬀset excitation and collection achieved via
+robustness against real-world disorder as well as theoretical           orthogonal free-space grating couplers. The broadband optical char-
+studies on the mechanisms behind Anderson localization [48]             acterization is performed using a ﬁber-coupled supercontinuum co-
+in systems with valley-momentum locking. ",physics.optics,C,-0.071239576,-0.1898092,0.13258408
+http://arxiv.org/pdf/2206.12969v1,Nonlinear exceptional-point lasing,"It can also be relevant beyond optics, such as in
+inverse quartic variation of the transmitted intensity with de-  nonlinear PT-symmetric circuits recently considered for
+tuning from the laser line. wireless power transfer.23 One remaining theoretical chal-
+                                                                 lenge for future work is the computation of the EP laser
+a source-free (δJs → 0) solution of Eq. (8), which means         linewidth by introducing noise in the model. ",physics.optics,C,-0.022473378,-0.22997661,-0.14667922
+http://arxiv.org/pdf/2206.12969v2,Nonlinear exceptional-point lasing with ab-initio Maxwell-Bloch theory,"It can also be relevant beyond optics, such as in
+inverse quartic variation of the transmitted intensity with de-  nonlinear PT-symmetric circuits recently considered for
+tuning from the laser line. wireless power transfer.29 One remaining theoretical chal-
+                                                                 lenge for future work is the computation of the EP laser
+   We ﬁrst note that in the limit ωs → ω , we have ωi →          linewidth by introducing noise in the model. While stan-
+ω and α → β. ",physics.optics,C,0.0044431016,-0.26066175,-0.14857803
+http://arxiv.org/pdf/2206.13315v1,Design and analysis of electrothermal metasurfaces,"For our device, with a saturation
+size of N = 7, we can achieve a response time of about 600 ns, which outperforms the majority of the current
+tunable metasurface designs (see Appendix). Under the similar array size around N = 7, containing 49 unit cells, we further study the influence of the
+aspect ratio. Even under an extremely large aspect ratio change (Nx/Ny = 4/12 ~ 12/4), we can keep the
+device response time down to nanoseconds, with a fluctuation of only around 100 ns (red-dashed box). ",physics.optics,A,-0.19491294,0.17359294,0.0027639493
+http://arxiv.org/pdf/2206.13789v1,Roadmap for Optical Tweezers,"With today's advancements in machine learning,
+JPhys Photonics (2021) ####
+
+automatised software to initiate cell manipulation or measurement could be applied. Further, such
+algorithms can also track and trap individual cells in an automatised way for further analysis, e.g.,
+upon cell replication, isolating the daughter cell from the mother cell [13]. Another possible
+application is automatic detection and manipulation of, e.g., lipid vesicles, augmenting them close a
+given cell surface. ",physics.optics,A,-0.037429433,0.27458972,-0.23254742
+http://arxiv.org/pdf/2206.14336v1,Kinetic equations for two-photon light in random media,"Our main results are kinetic equations that govern the behavior of the ﬁeld and atomic
+probability densities. Several topics for further research are apparent. An alternative derivation
+of these equations may be possible using diagrammatic perturbation theory rather than multiscale
+asymptotic analysis. ",physics.optics,B,0.43157282,-0.07703282,-0.17116085
+http://arxiv.org/pdf/2207.00362v1,Control of dual-wavelength laser emission via optical feedback phase tuning,"use the shortest external cavity possible. Though a detailed investigation of the inﬂuence of the different
+parameters such as the feedback rate, the time-delay or the              For the experimental demonstration of our approach,
+cross-saturation coefﬁcient on the switching performances is          we have designed two dual-wavelength lasers, shown
+out of the scope of this paper and is left for future work, these     schematically in Fig. 3 (I) & (II), with two sequentially
+simulation results provide key information in the context of          arranged Distributed Bragg Reﬂectors (DBRs) to select the
+controlling dual-wavelength lasers. ",physics.optics,C,-0.26488164,-0.28774962,-0.04310111
+http://arxiv.org/pdf/2207.00714v1,Laser Direct Writing of Visible Spin Defects in Hexagonal Boron Nitride,"[21] ﬁrst discovered single photon emission in mono-     with ZPL ∼ 545 nm seems more uncontrollable [38]. For
+                                                layer hBN at room temperature, research into quantum         further research, a key step is to ﬁnd a convenient deter-
+                                                emitters in hBN began to ﬂourish [22–26]. So far, there      ministic fabrication method, which is also the basis for
+                                                have been found several spin defects with optically de-      practical applications. ",physics.optics,C,-0.073155925,-0.13824955,0.2002143
+http://arxiv.org/pdf/2207.02608v1,Ultra-high extinction dual-output thin-film lithium niobate intensity modulator,"The RF group                extension between the lensed ﬁbers in the lensed ﬁber array,
+index (nRF) with and without index matching ﬂuid is plotted              preventing proper free-space ﬁber alignment. In future work,
+alongside the optical group index (nOg) in Fig. II-C (c). ",physics.optics,A,-0.0035745823,0.25482008,0.08719349
+http://arxiv.org/pdf/2207.02931v1,Electrically-driven Photonic Crystal Lasers with Ultra-low Threshold,"However, there is signiﬁcant room for im-         scheme. provement in terms of power consumption and energy
+                                                eﬃciency and thus further research is essential. To attain a lasing wavelength in the C-band while
+                                                                                                             maintaining a high Q-factor, the PhC lattice constant,
+                                                   In this work, we investigate the properties of            the radius, and the InP slab thickness were chosen as
+                                                electrically-injected PhC nanolasers with a wavelength-      440 nm, 120 nm, and 250 nm respectively (see also Figure
+                                                scale active region that are operated in continuous-wave     S1, Supporting Information). ",physics.optics,C,-0.19667494,-0.13751048,0.03281965
+http://arxiv.org/pdf/2207.03071v1,Self-injection-locked second-harmonic integrated source,"replaced by a DFB laser (Freedom Photonics), with direct                                             SIL laser. A further study of the jumps is presented in the
+facet-to-facet coupling to the LN chip as shown in Fig. 3a and                                       Supplementary Information, including a method to isolate the
+Fig. ",physics.optics,C,-0.28073263,-0.14798808,-0.1239089
+http://arxiv.org/pdf/2207.03382v1,A new standard in high-field terahertz generation: the organic nonlinear optical crystal PNPA,"Large Crystal Growth: Previous studies have reported that large PNPA crystals can be grown from
+chloroform and methanol mixtures via slow evaporation [20]. Our additional studies demonstrate
+that crystal growth via slow evaporation from CH2Cl2 provides the best quality crystals with the
+largest sizes. In a typical slow evaporation experiment, 3.3 g of powdered (pure) PNPA was
+dissolved in 100 mL of CH2Cl2 with heating and stirring until all solids dissolved. ",physics.optics,A,-0.058165714,0.0870192,0.02164551
+http://arxiv.org/pdf/2207.03382v2,A new standard in high-field terahertz generation: the organic nonlinear optical crystal PNPA,"Large Crystal Growth: Previous studies have reported that large PNPA crystals can be grown from
+chloroform and methanol mixtures via slow evaporation [20]. Our additional studies demonstrate
+that crystal growth via slow evaporation from CH2Cl2 provides the best quality crystals with the
+largest sizes. In a typical slow evaporation experiment, 3.3 g of powdered (pure) PNPA was
+dissolved in 100 mL of CH2Cl2 with heating and stirring until all solids dissolved. ",physics.optics,A,-0.058165714,0.0870192,0.02164551
+http://arxiv.org/pdf/2207.06532v2,High-fidelity intensity diffraction tomography with a non-paraxial multiple-scattering model,"It has been shown that 3D Fourier Ptychography models based on the ﬁrst-Born approxima-
+tion [22] and BPM [6] can further handle dark-ﬁeld measurements, which allows considering
+high spatial frequency information beyond the objective NA in the 3D reconstruction. Since our
+SSNP model can be treated as an enhancement of the ﬁrst-Born and BPM models, it is possible
+to extend our work to incorporate additional dark-ﬁeld information for high-resolution IDT
+reconstructions, which will be considered in our future work. Alternatively, several advanced
+reconstruction frameworks for IDT have been recently developed and shown promising results
+to greatly suppress the missing-cone artifacts, including end-to-end supervised learning [23],
+untrained neural network [9], model-based reconstruction with a deep denoiser [24], neural
+ﬁelds based reconstruction [25], and physics-informed neural network [26]. ",physics.optics,A,0.030032495,0.4185801,-0.20455298
+http://arxiv.org/pdf/2207.06826v1,Twisted polaritonic crystals in thin van der Waals slabs,"We speculate that apart from the Bragg scattering
+processes, the high efficiency of the resonant PhP excitations in (±1,±2) diffraction
+orders can be related with the dipolar resonance of the holes, as well as with the flat
+bands arising in polaritonic crystals (11). However, the detailed analysis of such
+anomaly goes beyond the scope of this manuscript and will be addressed in future works. 10
+To summarize, we have illustrated rotation-tunable anisotropic PhP Bragg resonances
+in twisted lattices formed in biaxial vdW crystal slabs. ",physics.optics,C,-0.0030164528,-0.11958744,0.441288
+http://arxiv.org/pdf/2207.08357v1,Greatly Enhanced Emission from Spin Defects in Hexagonal Boron Nitride Enabled by a Low-Loss Plasmonic Nano-Cavity,"The achieved enhancement significantly
+improves the overall quantum efficiency of 𝑉𝐵− by boosting its radiative decay rate, hence providing a
+promising way to obtain single 𝑉𝐵− emitters with observable brightness. To explore this, future works can
+combine the silver-based NPAs with hBN flakes implanted with smaller ion doses, such that 𝑉𝐵− defects are
+appropriately isolated from each other. We observe slightly higher ODMR contrasts from NPA-coupled emitters (6%) and silver film-coupled
+emitters (11%, Figure S8d, Supplementary Information) as compared to 𝑉𝐵− emitters on SiO2/Si (~3%). ",physics.optics,C,-0.14387527,0.019701634,0.07181482
+http://arxiv.org/pdf/2207.08604v1,Manipulating propagation and evolution of polarization singularities in composite Bessel-like fields,"The embedded PSs in the fields can be manipulated to propagate robustly
+along arbitrary trajectories, or to annihilate, revive, and transform each other at on-demand positions in
+3D space, allowing complex PSs topological morphology and intensity pattern to be flexibly customized. Our findings could spur further research into singular optics and help with applications such as
+micromanipulation, microstructure fabrication, and optical encryption. 1. ",physics.optics,A,-0.044301968,0.22749647,-0.012789831
+http://arxiv.org/pdf/2207.08936v1,Leaky-wave metasurfaces for integrated photonics,"Next, while here we used a
+weakly corrugated system without deliberate command of the group velocity, band structure
+engineering (see, e.g., [50],[51]) may be used to tune the angular dispersion of the output. Last, while here we implemented a single device layer, due to the broadband transparency
+of these nonlocal metasurfaces to free-space light, future works may cascade several LWMs
+at optically thick distances for multi-wavelength operation [49]. 19
+         Finally, we highlight a few improvements that may be explored to further extend the
+impact of this work. ",physics.optics,C,-0.24364287,0.042370543,0.23866946
+http://arxiv.org/pdf/2207.09493v1,"Terahertz PHASR Scanner with 2 kHz, 100 picosecond Time-Domain Trace Acquisition Rate and an Extended Field-of-View Based on a Heliostat Design","These
+                                                                   improvements make the PHASR Scanner 2.0 much more
+                                                                   practical to use in scenarios such as biomedical imaging where
+                                                                   scanning field of view and scanning speed significantly affect
+                                                                   the patient experience. Our future work with the PHASR 2.0
+                                                                   scanner is intended to demonstrate its ability “in the field” for
+                                                                   clinical and industrial applications. Results of these studies
+                                                                   have already been implemented to extend the FOV and speed
+                                                                   of our PHASR 1.0 Scanner for imaging large burns with 1""
+                                                                   diameter in several preclinical in vivo studies [52]–[54]. ",physics.optics,A,-0.1709587,0.29377353,-0.33169195
+http://arxiv.org/pdf/2207.09801v1,Design of a High-Resolution Multifocal LIDAR: Enabling higher resolution beyond the laser pulse rise time,"12. The Normalized Encircled Energy change on
+
+Pinholes of Sensor-1 (s1), Sensor-2 (s2) and Sensor-3 (s3)
+
+via target point heights on the target plane
+                                                                                                                                                            6
+> REPLACE THIS LINE WITH YOUR MANUSCRIPT ID NUMBER (DOUBLE-CLICK HERE TO EDIT) <
+
+    For the further analysis, a test sample has been created with                 [7] Mike Wens, Jean-Michel Redoute, Tim Blanchaert, Nicolas Bleyaert and
+2 mm depth differences between the surfaces as given in Fig.13. Michiel Steyaert, “An integrated 10A, 2.2ns rise-time laser-diode driver for
+(a). ",physics.optics,A,-0.110103354,0.09151513,-0.25819582
+http://arxiv.org/pdf/2207.12070v1,A Sunlight-pumped Two-dimensional Thermalized Photon Gas,"For the future, it would be interesting to experimentally observe phase-space buildup of light
+by cooling. While the present experiment uses a one-dimensional bandgap, future work could
+exploit systems with a three-dimensional band gap, e.g. material-filled photonic crystal
+cavities [20, 21], to minimize losses and overcome limitations of the Liouville theorem. ",physics.optics,C,-0.12265661,-0.055841893,0.23128024
+http://arxiv.org/pdf/2207.12286v1,Higher-order topological states in photonic Thue-Morse quasicrystals: quadrupole insulator and a new origin of corner states,"In Fig. 1(c), for the convenience
+of our further study, TBM of the limiting case with t1 = 0 is shown, in which the entire
+structure splits into third types of isolated clusters: two tetramers, four dimers, and two
+singles. The dimers in diagonal directions and in horizontal/vertical directions are marked
+with dimers-I and dimers-II, respectively. ",physics.optics,B,0.40912724,0.056653276,0.18156227
+http://arxiv.org/pdf/2207.12675v1,Aberration control in quantitative widefield quantum microscopy,"We      ough measurement of the PSF and a detailed analysis of
+also made sure the NV PL was not saturated. its origin for future work. For a perfect optical system free of aberrations, and        Summarising, we found that in our set-up the PSF is
+assuming the rear aperture of the objective is uniformly     wider than the diﬀraction limit by a factor of „ 2 and has
+                                                             a mainly Lorentzian character, with signiﬁcantly wider
+                                                             tails compared to an ideal Airy pattern (or its Gaussian
+                                                             approximation). ",physics.optics,A,0.09448853,0.16000178,-0.15051037
+http://arxiv.org/pdf/2207.12728v1,Linear response theory of open systems with exceptional points,"In this regard, we expect our formalism to provide more
+insight into the noise behavior in non-Hermitian systems and play a positive role in the
+active debate on signal to noise ratio of EP-based sensors [121–127]. We plan to explore
+
+                                                        23
+some of these interesting directions in future works. DATA AVAILABILITY
+
+   The data that support the ﬁndings of this study are available from the corresponding
+authors upon reasonable request. ",physics.optics,B,0.20911756,-0.11002048,-0.33375448
+http://arxiv.org/pdf/2207.12728v2,Linear response theory of open systems with exceptional points,"In this regard, we expect our formalism to provide more
+insight into the noise behavior in non-Hermitian systems and play a positive role in the
+active debate on signal to noise ratio of EP-based sensors [121–127]. We plan to explore
+
+                                                        23
+some of these interesting directions in future works. DATA AVAILABILITY
+
+   The data that support the ﬁndings of this study are available from the corresponding
+authors upon reasonable request. ",physics.optics,B,0.20911756,-0.11002048,-0.33375448
+http://arxiv.org/pdf/2207.13578v1,NLOS Transmission Analysis for Mobile SLIPT Using Resonant Beam,"841–844, May 2018.
+performance. The analytical models for MTC with the above
+structures is worth further study. Moreover, some methods                         [11] J. Fakidis, S. Kucera, H. Claussen, and H. Haas, “On the design of a
+to speed up the computation should be further studied, i.e.,                            free space optical link for small cell backhaul communication and power
+methods for speeding up the Fox-Li process, methods for                                 supply,” in 2015 IEEE International Conference on Communication
+exploring other self-reproducing mode solving schemes, and                              Workshop (ICCW), London, UK, Jun. ",physics.optics,B,0.0757281,-0.003698769,-0.14747451
+http://arxiv.org/pdf/2207.13972v1,Photonic sampled and quantized analog-to-digital converters on thin-film lithium niobate platform,"Additionally, an optimized 5×5 MMI design, such as
+using sub-wavelength structures in Ref. [25], can further decrease the phase errors, which is the
+research direction in our future works. 3.3. ",physics.optics,C,-0.24184188,-0.012814784,-0.0029768553
+http://arxiv.org/pdf/2207.14049v1,Variable electro-optic shearing interferometry for ultrafast single-photon-level pulse characterization,"Furthermore, the method provides an
+experimental outlook into fundamentally important time-frequency phase-space of ultrafast pulses. Finally, with numerous prominent extensions, such as an on-chip integration or a phase-sensitive
+variant, we envisage prominent applications and a vast horizon of further research. Appendix A
+
+Derivation of the 𝑔(2) function
+
+In this section, we derive the 𝑔(2) function measured with the electro-optic shearing interferometer
+from the theoretical results presented in [24, 25]. ",physics.optics,C,-0.08699709,-0.1519655,-0.117636785
+http://arxiv.org/pdf/2208.00891v2,When does nonlinear circular dichroism appear in achiral dielectric nanoparticles?,"Therefore the circular dichroism in such           dence on a rotated particle, which can be equivalent
+a crystalline lattice is not possible for any symmetry         to a particle of lower symmetry. A detailed study of
+of the nanoparticle, while nothing depends on the in-          these hypotheses may be the subject of further research. cident polarization. ",physics.optics,B,0.1579568,0.04801753,0.32163846
+http://arxiv.org/pdf/2208.00899v1,Parametric Waveform Synthesis: a scalable approach to generate sub-cycle optical transients,"This statement
+will be proven in later sections when we will look at active stabilization results (see 4.7 and 7). Now that we have deﬁned the synthesis variables, that are 𝐶𝐸 𝑃1 and 𝑅𝑃12 (𝑅𝑃13 will be added
+in future works with the VIS-channel), let us discuss how to control them. In section 4.3 we
+already showed that the CEP of the idler pulses of the OPA-seeder can be eﬃciently controlled
+via a Pzt-DL in the beam-path of the pump (or of the seed). ",physics.optics,B,0.16042322,-0.16146812,-0.27589545
+http://arxiv.org/pdf/2208.00899v2,Parametric Waveform Synthesis: a scalable approach to generate sub-cycle optical transients,"This statement
+will be proven in later sections when we will look at active stabilization results (see 4.7
+and 7). Now that we have deﬁned the synthesis variables, that are CEP1 and RP12 (RP13 will
+be added in future works with the VIS-channel), let us discuss how to control them. In
+section 4.3 we already showed that the CEP of the idler pulses of the OPA-seeder can
+be eﬃciently controlled via a Pzt-DL in the beam-path of the pump (or of the seed). ",physics.optics,B,0.13246305,-0.1521865,-0.2842933
+http://arxiv.org/pdf/2208.00960v1,Designing Structures that Maximize Spatially Averaged Surface-Enhanced Raman Spectra,"Also,
+we ﬁnd similar optimized structures when Raman-active molecules are distributed only on
+the metal surface, as opposed to throughout a volumetric (ﬂuid) coating. We believe that
+this framework sets the stage for future work in 3D (where ﬁeld singularities are stronger),
+TopOpt for dielectric Raman21 (instead of metal, trading sharper resonances for weaker
+localization), and related problems in scintillation detectors (where previous work optimized
+emission but not absorption22). Model formulation
+
+In this section, we provide a general mathematical framework for optimizing spatially av-
+eraged SERS enhancement. ",physics.optics,A,-0.1432853,0.1503009,-0.032015707
+http://arxiv.org/pdf/2208.01523v1,Transient Structure in the Non-linear Superradiance Regime of Widely Doppler Broadened Media,"The stochastic distribution is found to sustain temporal SR structure
+and amplitude of velocity distribution variations induced by the tur-        in the WDB limit even in response to a swept inversion. bulent property of intermittency requires further research. Second,
+although the extremely long time scales of the examples provided                                           2.5
+in this paper imply a demand for very small bandwidth velocity
+variations, they also provide very wide velocity extents over which                                             critical level
+such variations could somewhere occur. ",physics.optics,B,0.23148853,-0.18472935,-0.28653914
+http://arxiv.org/pdf/2208.02015v1,Opto-mechanical expulsion of individual micro-particles by laser-induced shockwave in air,"In particular vortices due to viscosity appear, signature of turbulence. The
+precise shock wave dynamics induced by the filament warrant further study, as they offer a unique
+
+                                                          9
+opportunity to study these non-linear acoustic phenomena on a table top setup, and without
+perturbations due to electrodes. In conclusion, our experiment shows that the shockwave created by the plasma recombination after
+filamentation exerts a force in the nanonewton range on microspheres surrounding the filament,
+and this at distances widely exceeding its energy reservoir. ",physics.optics,C,-0.056604147,-0.021082705,-0.11793239
+http://arxiv.org/pdf/2208.02032v1,Nanomechanical testing of silica nanospheres for levitated optomechanics experiments,"Once at pressures of         (corresponding to bulk silica glass) to 2 = 1.0 × 106 [2]. < 10−5mbar the residual gas is insuﬃcient to cool the             Although these results warrant further study and more
+surface of the sphere and it reaches a high equilibrium           data, the current data is suggestive in that annealing
+temperature determined by a balance between emitted               may help increase the duration a sphere remains trapped
+                                                                  at high intensity, and also suggests the possibility that
+                                                                  nanospheres can undergo annealing while trapped at high
+                                                                  intensity for a prolonged time. 1.7x1010  annealed                                                                                                                                             7
+1.6x1010  as-grown
+                                                                                                                                                                                                                              Ellipsoid (trapped)
+1.5x1010
+I (W/m2)                                                                                                                                                                                                    Ellipsoid (untrapped)
+                                                     I (W/m2)1.4x10101.7x1010
+1.3x1010                                                                              FIG. ",physics.optics,A,-0.106156886,0.06409536,-0.020372044
+http://arxiv.org/pdf/2208.02678v1,Ultrafast all-optical switching using doped chromoprotein films,"The zero-delay was determined
+by generating a non-resonant Kerr-type diffraction signal from the uncoated glass substrate
+of the sample (i.e., no protein present), at an increased pump intensity. Since the spectral
+bandwidth of the pump and probe pulses was relatively narrow in this study, only a limited
+range of pixels were used and summed up at each delay to generate the time-dependent
+diffraction signal for further analysis. Results and discussion
+Bacteriorhodopsin
+
+Glycerol-doped thin films of BR were used as our benchmark sample, since its photocycle is
+well known. ",physics.optics,A,-0.2340518,0.030942367,-0.11326129
+http://arxiv.org/pdf/2208.03831v1,Limits on Wave Optics Simulations of Plane Wave Propagation in Non-Kolmogorov Turbulence,"In section 3 we describe the campaign in detail and describe our scoring quantities. Results are
+provided in Section 4 followed by conclusions and directions for future work in Section 5. 2 BACKGROUND
+
+A goal of this work is to understand the practical limits of WOS via phase screens generated by
+ﬁltering white Gaussian noise by the Power Spectral Density (PSD) spectrum of the turbulence
+ﬂuctuations and using the split-step propagation method. ",physics.optics,B,0.13297501,-0.021150388,-0.2616045
+http://arxiv.org/pdf/2208.04108v1,History-dependent nano-photoisomerization by optical near-field in photochromic single crystals,"These
+results suggest the usefulness of diarylethene crystals as a dynamic memory structure in non-von-
+Neumann-type devices and systems. In future work, we will further study dynamic and highly
+multiplexed, brain-like memory architectures for intelligent functionalities by exploiting the interplay
+between photochromism and near-field optics. Acknowledgements
+
+                                                           8
+This work was supported in part by the CREST project (JPMJCR17N2) funded by the Japan Science
+and Technology Agency and Grants-in-Aid for Scientific Research (JP20H00233, JP21K04925)
+funded by the Japan Society for the Promotion of Science. ",physics.optics,C,0.0032960875,0.029956438,0.061936773
+http://arxiv.org/pdf/2208.04792v1,"And again, about lasing threshold, light localization, and density of states","practically coincide at the gain ratios g1 = n1g and g2 = n2 g , that is g1 / g2 = n1 / n2 . It is
+
+this ratio of gain coefficients that we have chosen for further study, in order to minimize the effect
+
+of field localization within a certain layer on the lasing threshold at normal incidence. 3.2. ",physics.optics,A,0.01909531,0.035746355,-0.202405
+http://arxiv.org/pdf/2208.05533v1,How Thin and Efficient Can a Metasurface Reflector Be? Universal Bounds on Reflection for Any Direction and Polarization,"The latter two assumptions may be relaxed, but             resources by identifying parameter regions where there is
+the resulting bounds would no longer be expressible as             room for further enhancement. For future work, it would
+simple closed-form formulas. We have validated our the-            be interesting to explore the possibility to derive similar
+oretical results by comparing the derived bounds against           bounds for planar structures on substrates (e.g., meta-
+the standard Fresnel reﬂectance R of homogeneous and               surfaces on glass) or layered media, or more broadly in
+homogenized, dielectric and plasmonic ﬁlms, for both po-           the presence of diﬀerent scatterers, by using the Green’s
+larizations. ",physics.optics,A,0.023493152,0.24642456,0.1809699
+http://arxiv.org/pdf/2208.05625v1,"Extended States in the Bandgap, Local Field Enhancement, Bidirectional Reflection Zeros, and Ideal Broadband Superluminal Tunneling in PT-symmetric EM Structures","The resulting novel
+phenomena reported in this Letter included (i) the emergence of what we named ‘extended states
+
+                                                               9
+in the bandgap’ as the dual of ‘bound states in the continuum’, (ii) the enhancement of the EM
+fields at specific frequencies within specific regions, (iii) ‘bidirectional’ reflection zeros, and (iv)
+‘ideal’ superluminal tunneling with zero reflection and a transmission coefficient of uniform
+phase and unit magnitude over a broad bandwidth. A quantum-optical treatment of these
+phenomena as well as the inclusion of nonlinear effects remains a subject for future work. Also,
+finding the electronic counterparts of the non-tight-binding EM structures examined here is
+another interesting problem. ",physics.optics,C,0.035020538,-0.19690594,0.2598999
+http://arxiv.org/pdf/2208.05841v1,Optical Non-Reciprocity in Coupled Resonators Inspired by Photosynthetic Energy Transfer,"non-reciprocal transmission can be eﬀectively tuned by
+the frequency gradient. We further study the case with more cavities. We keep
+                                                              the frequency gradient of adjacent cavities ωj+1 − ωj and
+   In the above discussions, we assume that the environ-      the eigenfrequency of the leftmost cavity ω1 constant and
+ment is in the thermal equilibrium with a ﬁxed temper-        only vary the number of coupled cavities N . ",physics.optics,C,0.030452805,-0.25498694,0.0016347095
+http://arxiv.org/pdf/2208.06148v1,Gas bubble photonics: Manipulating sonoluminescence light with fluorescent and plasmonic nanoparticles,"However, in biologically-relevant situa-
+tions the composition of ﬂuids may be unfavourable for the production of sonoluminescence
+from the point of view of both ﬂuid dynamics and optics. Therefore, additional studies of
+sonoluminescence have to be conducted in different types of bioﬂuids or ﬂuids that have
+similar properties, and the research questions such as the impact of the bioﬂuid viscosity
+and of light absorption and scattering have to be rigorously addressed. Indeed, while in
+single-bubble sonoluminescence experiments microbubbles can be trapped in water using
+standing acoustic pressure waves, achieving a stable bubble position in liquids with higher
+viscosity has proven to be challenging since in such liquids bubbles undergo a quasiperiodic
+circular translational motion on the time scale of seconds [106]. ",physics.optics,A,-0.08260016,0.05303906,-0.118533775
+http://arxiv.org/pdf/2208.06156v1,Multi-mode Dynamics of Terahertz Quantum Cascade Lasers: spontaneous and actively induced generation of dense and harmonic coherent regimes,"The proper boundary conditions characterizing the FP resonator are taken into
+
+account:
+
+                             √
+                         𝐸− (𝐿, 𝑡) = √𝑅𝐸+ (𝐿, 𝑡), (12)
+                         𝐸+ (0, 𝑡) = 𝑅𝐸− (0, 𝑡),
+                                                                                    (13)
+
+where 𝑅 is the reﬂectivity of each mirror and 𝐿 is the length of the cavity. For the further analysis
+of the multimode dynamics of the laser, we introduce the quantity 𝛿hom = 1 , which represents
+
+                                                                                                                          𝜋 𝜏d
+
+the full width at half-maximum (FWHM) of the gain spectrum in the limit of two level system
+(i.e. where we consider 𝛼 1). ",physics.optics,C,0.015711796,-0.2831104,0.014553353
+http://arxiv.org/pdf/2208.06156v2,Multi-mode Dynamics of Terahertz Quantum Cascade Lasers: spontaneous and actively induced generation of dense and harmonic coherent regimes,"The proper boundary conditions characterizing the FP resonator are taken into
+
+account:
+
+                             √
+                         𝐸− (𝐿, 𝑡) = √𝑅𝐸+ (𝐿, 𝑡), (12)
+                         𝐸+ (0, 𝑡) = 𝑅𝐸− (0, 𝑡),
+                                                                                    (13)
+
+where 𝑅 is the reﬂectivity of each mirror and 𝐿 is the length of the cavity. For the further analysis
+of the multimode dynamics of the laser, we introduce the quantity 𝛿hom = 1 , which represents
+
+                                                                                                                          𝜋 𝜏d
+
+the full width at half-maximum (FWHM) of the gain spectrum in the limit of two level system
+(i.e. where we consider 𝛼 1). ",physics.optics,C,0.015711796,-0.2831104,0.014553353
+http://arxiv.org/pdf/2208.07107v1,Multipolar expansions for scattering and optical force calculations beyond the long wavelength approximation,"We
+also performed a full multipolar decomposition of the optical force up to very large size
+parameters, providing valuable physical insights into the mechanism of force generation. Finally, we also provided a guide to determine, depending on the working wavelength, how
+many multipoles orders need to be considered when performing optical force calculations,
+providing a helpful reference for future works on the topic. ∗ Electronic address: olivier.martin@epﬂ.ch
+1 L. Mandel and E. Wolf, Optical Coherence and Quantum Optics (Cambridge University Press,
+
+  1995). ",physics.optics,C,-0.09394358,-0.012575531,0.101309314
+http://arxiv.org/pdf/2208.07454v1,Remote transduction of high frequency torque sensors,"the torque sensitivity [15]. Optically detecting displacement of the nanobeam            To further study the hybridization between the nan-
+from torque applied to the nanodisk is dependent on         odisk and nanobeam resonances, the optomechanical
+the optomechanical coupling strength between the hy-        spectrum was measured for devices with varying ls. Fig-
+bridized mode and the photonic crystal cavity. ",physics.optics,C,-0.29406437,-0.07562861,0.02361069
+http://arxiv.org/pdf/2208.07454v2,High frequency torsional motion transduction using optomechanical coupled oscillators,"around the center of the optical cavity. To further study the hybridization between the nan-              The device demonstrated here shows how the high sen-
+odisk and nanobeam resonances, the optomechanical                sitivity of nanoscale optomechanical cavities can be har-
+spectrum was measured for devices with varying ls. Fig-          nessed to detect motion of nanomechanical resonators not
+ure 5 shows this measurement for ls swept from 1 µm              integrated directly within the optical cavity. ",physics.optics,C,-0.3058765,-0.08012568,0.061702833
+http://arxiv.org/pdf/2208.07517v1,Cancellation of photothermally induced instability in an optical resonator,"errors populate at the values where 𝜎pt is near zero. In future work, a better reﬁned photothermal
+model, which consider factors like separate photothermal eﬀects with individual time constants,
+and even higher-order corrections to the empirical model of Eq. 3, will provide more accurate ﬁts. ",physics.optics,B,0.25384033,-0.017641863,-0.2511698
+http://arxiv.org/pdf/2208.07758v1,Efficient chip-based optical parametric oscillators from 590 nm to 1150 nm,"Hence, an important
+below the red line, despite the increase in Pin. When         focus for future work is to extend the spectral band-
+Pin is further increased to 70 mW (bottom panel), Ps(i)       width over which devices are nearly critically coupled,
+remains approximately the same, but the power in the          thus broadening the range of frequencies that can be eﬃ-
+competing modes increases. The behavior demonstrated          ciently extracted into a single waveguide. ",physics.optics,C,-0.17969818,-0.13436413,0.096726
+http://arxiv.org/pdf/2208.09247v1,Ultimate limits and prospects of long-baseline optical fiber interferometry,"where P0 ∝ |E0|2 is the power sent into the interferom-
+these same factors in structured optical ﬁbers, and high-        eter. The splitting ratios of the two ﬁber couplers and
+light opportunities for further research into their prop-        the losses along each arm are captured by RA,B, describ-
+erties. Given the obvious practical advantage of optical         ing the transmissivity of each arm of the interferometer,
+ﬁbers over free-space optical links — immunity to elec-          and VA,B, which is the ideal (perfect polarization over-
+tromagnetic interference, single-mode performance, and           lap) interference visibility as measured by detector A/B. ",physics.optics,C,-0.16460082,-0.044988357,0.085139036
+http://arxiv.org/pdf/2208.10032v1,Transition from multiphoton to tunneling ionization in the process of high harmonic generation in solids,"Not like the case in the the driving laser has played an important role for
+
+perturbative limit, the nth harmonic yield to the scale as the understanding the generation process in perturbative
+
+In, almost a fixed scale number can be obtained for the regime. Whether it can also be used to understand the no
+
+power-law of the harmonic yields as a function of driving perturbation process, it is necessary to further study the
+
+field intensity1, 13, which shows the non-perturbative power scale dependent of the HHG in solid. character of the HHG process. ",physics.optics,C,0.06736071,-0.24095853,-0.23251447
+http://arxiv.org/pdf/2208.10089v1,Quantum antireflection temporal coatings: quantum state frequency shifting and inhibited thermal noise amplification,"In addition, our formalism suggested two new potential
+applications of antireflection temporal coatings: quantum frequency shifting for photonic
+quantum networks, and fast material switches that do not amplify the thermal fields in the
+system. We expect that our results will motivate further research in the field, combining
+quantum optics and time-varying media. For example, our results could be extended to more
+sophisticated antireflection temporal coatings based on multilayered media, providing control
+over the spectral response. ",physics.optics,C,-0.18200287,-0.14274055,0.13260436
+http://arxiv.org/pdf/2208.10089v2,Quantum antireflection temporal coatings: quantum state frequency shifting and inhibited thermal noise amplification,"In addition, our formalism suggested two new potential
+applications of antireflection temporal coatings: quantum frequency shifting for photonic
+quantum networks, and fast material switches that do not amplify the thermal fields in the
+system. We expect that our results will motivate further research in the field, combining
+quantum optics and time-varying media. For example, our results could be extended to more
+sophisticated antireflection temporal coatings based on multilayered media, providing control
+over the spectral response. ",physics.optics,C,-0.18200287,-0.14274055,0.13260436
+http://arxiv.org/pdf/2208.10864v1,The effect of the spin and orbital parts of the Poynting vector on light localization in solid core microstructured optical fibers,"The orbital part
+contributes to all components of the Poynting vector, in particular, it manly determines the
+core mode energy flux in the transverse direction and, correspondingly, the waveguide loss of
+ASBGFs and HFs. A further study of the ‘singular skeleton’ properties of orbital part of the
+transverse component of the Poynting vector can serve as an efficient tool for establishing the
+relationship between the cross – section structures of SC MOFs and the position of singular
+points at which minimal losses are obtained for leaky mode in a given spectral range. Acknowledgements
+
+    The work was financially supported by RSF grant N 22 – 22 – 00575. ",physics.optics,B,0.16008683,-0.010699799,0.22118956
+http://arxiv.org/pdf/2208.11884v1,Unidirectional scattering with spatial homogeneity using photonic time disorder,"By examining the order-to-disorder transition in the temporal
+domain, we also develop bandwidth engineering while preserving unidirectional scattering, which
+enables the realization of resonance-free colour filters. In terms of engineered disorder, exploring
+nontrivial material states defined in the temporal domains, such as hyperuniformity34 and stealthy30,
+will be a further research topic. Methods
+
+Data availability
+
+The data that support the plots and other findings of this study are available from the corresponding
+author upon request. ",physics.optics,C,0.046809047,0.024027515,0.018422717
+http://arxiv.org/pdf/2208.11901v1,Photonic Galton board in the synthetic dimension for tera-sample-per-second arbitrary waveform generation,"The concept of ultra-high speed arbitrary waveform generation by the PGB in the temporal
+synthetic dimension opens a fresh prospect for ultra-high-speed signal generating and
+processing. Synthesizing additional dimensions in physical systems with lower dimensions
+may provide more opportunities and facets for solving complex problems in future works. 7. ",physics.optics,B,0.06495204,-0.04942001,-0.19529417
+http://arxiv.org/pdf/2208.11901v2,Photonic Galton board in the synthetic dimension for tera-sample-per-second arbitrary waveform generation,"The concept of ultra-high speed arbitrary waveform generation by the PGB in the temporal
+synthetic dimension opens a fresh prospect for ultra-high-speed signal generating and
+processing. Synthesizing additional dimensions in physical systems with lower dimensions
+may provide more opportunities and facets for solving complex problems in future works. 7. ",physics.optics,B,0.06495204,-0.04942001,-0.19529417
+http://arxiv.org/pdf/2208.12521v1,Quantum non-Gaussianity certification of photon-number-resolving detectors,"One can construct witnesses of
+stellar rank 𝑟∗ similarly to the ordinary quantum non-Gaussianity witnesses [25, 47]. However, a
+detailed study of this is beyond the scope of the present paper, and we leave it to future work. 1
+                                                                          2
+                                                       3
+                                    4
+
+            Fig. ",physics.optics,B,0.290353,0.021384187,0.10617216
+http://arxiv.org/pdf/2208.12905v1,The missing link between standing- and traveling-wave resonators,"fer matrix takes the form:
+Finally, we would like to note that this strategy can also
+allow us to investigate the formation of exceptional sur-     sin θ 2n˜ cot θ + i(n˜2 + 1)                   i(n˜2 − 1)
+faces [14, 54] in these hybrid-wave resonators which we       T=                             2n˜ cot θ − i(n˜2 + 1) . plan to do in future works. 2n˜  −i(n˜2 − 1)
+
+     Appendix F: Scattering matrix for a scatterer                                                                       (F2)
+
+   Here we derive the scattering matrix Sp of Eq. ",physics.optics,B,0.17329948,0.05796262,0.2803145
+http://arxiv.org/pdf/2208.13075v1,Highly-twisted states of light from a high quality factor photonic crystal ring,"is quite surprising considering the fracturing of the 2 nm
+36 Zhao, Z. et al. Dynamic spatiotemporal beams that              shot pitch of the electron beam and its proximity eﬀects,
+  combine two independent and controllable orbital-angular-       and it requires further study to clarify the underlying
+  momenta using multiple optical-frequency-comb lines. Nat. ",physics.optics,C,-0.02500701,-0.07639207,0.09286788
+http://arxiv.org/pdf/2208.13419v1,Integrated Sideband-Resolved SERS with a Dimer on a Nanobeam Hybrid,"We obtain a clear BPT Raman           ment for integrated operation is as good as into free space
+signal. When we sweep the laser frequency, all three Ra-    (see [30] for further analysis of signal levels). Indeed, the
+man lines again follow a very similar behavior. ",physics.optics,C,-0.12108548,-0.1253547,-0.020079628

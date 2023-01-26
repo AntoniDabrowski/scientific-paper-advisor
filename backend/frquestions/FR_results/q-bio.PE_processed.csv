@@ -1,0 +1,532 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.04663v1,Accurate Phylogenetic Inference with a Symmetry-preserving Neural Network Model,"Future work
+will involve extending our neural network model to datasets with more taxa. In addition to extending the model to more taxa, future work will also involve allowing for nucleotide
+sequences as input in addition to proteins. Currently, our model is only suited to handle protein
+
+                                                                                                                       10
+                                                                                                                              A PREPRINT
+
+sequences and that is why we could only compare our performance to [15]. ",q-bio.PE,A,-0.20877635,0.102167405,0.23603961
+http://arxiv.org/pdf/2201.06285v1,Mutations make pandemics worse or better: modeling SARS-CoV-2 variants and imperfect vaccination,"We have to point out that the results in contour plots revealed an interesting problem, i.e.,
+there may exist an optimal strategy of supplementing the vaccine with diﬀerent eﬃcacies, in
+order to ensure that the fewer cumulative cases and cumulative deaths, and that the expenditure
+
+                                                           35
+is economical, a topic for our future work. For preserving public health, it must be focused
+on how the facility of medical resources availability aﬀects the pandemic of COVID-19, which
+could be included in our model as future work. Formulating and analyzing the model with
+other non-pharmaceutical interventions [73] with vaccination will be more helpful to control
+the spread of multi-strain disease. ",q-bio.PE,B,0.5056156,-0.1268242,-0.00710644
+http://arxiv.org/pdf/2201.06792v3,"Tit for Tattling: Cooperation, communication, and how each could stabilize the other","A
+
+In this section, we will test to see if model is cooperative, e ectively communicative, and stable (it
+will be). We assume a population of mostly stern discriminators (future work could address arbitrary
+mixes of strategies). C
+
+The state is clearly e ectively communicative since all agents abide by a separating mapping from mean-
+ings to symbols, never withholding information. ",q-bio.PE,A,-0.05156598,0.04744072,-0.2416789
+http://arxiv.org/pdf/2201.07353v1,Modeling interaction of Glioma cells and CAR T-cells considering multiple CAR T-cells bindings,"multiple CAR T-cells binding model are taken by hypothesis
+2 with = 1, = 2 (top) and = 2, = 2 (bottom). One of our future works is to calibrate the reaction rate
+Unlike what we had in hypothesis 1, there is no increasing        parameters from experimental data, and verify whether our
+from two-bindings to three-bindings for all densities, and all    assumptions in hypothesis 2 on the reaction rates of multiple
+results show saturation of ﬁnal tumor size after three-bindings. binding model is valid. ",q-bio.PE,B,0.098943375,0.11007179,-0.1870174
+http://arxiv.org/pdf/2201.08207v1,Invasion Dynamics in the Biased Voter Process,"6 Experiments
+
+Here we present some selective case studies on the perfor-
+mance of various heuristics solving the ﬁxation maximiza-
+tion problem for the biased voter process. Our studies do not
+aim to be exhaustive, but rather offer some insights that may
+drive future work. We consider six heuristics for the choice
+of the seed set, namely (i) high degree, (ii) high temperature,
+
+                                                                  6
+in-depth search for good heuristics. ",q-bio.PE,C,-0.23523179,0.0899273,-0.0243654
+http://arxiv.org/pdf/2201.08207v2,Invasion Dynamics in the Biased Voter Process,"Random seed sets arise in genetic/biological set-
+since such an algorithm would decide whether S is a vertex           tings [Kaveh et al., 2015; Allen et al., 2020; Tkadlec et al.,
+cover on G. That is so even though Lemma 5 implies, by sym-          2020], due to the random nature of novel mutations. Interest-
+metrically exchanging mutant and resident roles, that the ex-        ing future work includes investigating better approximation
+tinction probability 1 − fpGr (S) for r < 1 is submodular. Fix-      factors for r > 1, and an in-depth search for good heuristics. ",q-bio.PE,C,-0.27638817,-0.031440463,0.031888403
+http://arxiv.org/pdf/2201.09761v1,Modelling preventive measures and their effect on generation times in emerging epidemics,"A theoretical
+analysis, which has been tackled in some speciﬁc cases, e.g. [13], would be relevant for the
+planning of control measures in connection with the emergence of new variants of interest
+and is left for future work. Acknowledgements
+
+T.B. ",q-bio.PE,A,-0.07861729,-0.19477555,-0.16464691
+http://arxiv.org/pdf/2201.09761v2,Modelling preventive measures and their effect on generation times in emerging epidemics,"A theoretical analysis, which
+has been tackled in some speciﬁc cases, e.g. [15], would be relevant for the planning of control
+measures in connection with the emergence of new variants of interest and is left for future work. Acknowledgements
+
+The authors thank the anonymous referees for their constructive comments. ",q-bio.PE,A,-0.064035356,-0.19637138,-0.15709749
+http://arxiv.org/pdf/2202.01968v1,Rearrangement Events on Circular Genomes,"We
+deﬁne the ‘set of cuts’ applied by a given rearrangement in Section 5, and use this idea to
+characterise and count the distinct rearrangement actions which are precisely the biologically
+reasonable ones, linking this idea to the important and well-studied concept of a ‘breakpoint’. The paper concludes with a summary including a brief discussion of possible future work. 2 Genomes and Rearrangements as Permutations
+
+Approaches to genome rearrangement modelling can diﬀer greatly depending on the particular
+types of genomes in question. ",q-bio.PE,C,-0.20451821,0.1115879,0.0815099
+http://arxiv.org/pdf/2202.03985v1,A model of virus infection with immune responses supports boosting CTL response to balance antibody response,"While research on stochastic
+dynamical systems shows that the deterministic structure of a model is often still strongly apparent with the addition of
+stochasticity [Abbott and Nolting, 2017], future studies that use hybrid models that include stochastic and deterministic
+dynamics, and modeling that considers heterogeneity, will advance the ﬁeld by leading to more precise depictions of
+the biological scenarios being modeled. Our model and analysis presented here may form the foundation of such
+future work. 5 Acknowledgements
+
+We would like to thank Mark Schumaker for substantial input on an earlier draft of the paper. ",q-bio.PE,A,-0.019914916,-0.35561433,-0.09467463
+http://arxiv.org/pdf/2202.03985v2,A model of virus infection with immune responses supports boosting CTL response to balance antibody response,"While research on stochastic
+dynamical systems shows that the deterministic structure of a model is often still strongly apparent with the addition of
+stochasticity [Abbott and Nolting, 2017], future studies that use hybrid models that include stochastic and deterministic
+dynamics, and modeling that considers heterogeneity, will advance the ﬁeld by leading to more precise depictions of
+the biological scenarios being modeled. Our model and analysis presented here may form the foundation of such
+future work. 5 Acknowledgements
+
+We would like to thank Mark Schumaker for substantial input on an earlier draft of the paper. ",q-bio.PE,A,-0.019914916,-0.35561433,-0.09467463
+http://arxiv.org/pdf/2202.04991v1,A note on a prey-predator model with constant-effort harvesting,"We trust that the analysis
+of the stability of the equilibrium points may be helpful to new researchers in the
+ﬁeld. As future work, we plan to modify the proposed model in order to make
+possible the co-existence equilibrium point. A note on a prey-predator model with constant-eﬀort harvesting  9
+
+Acknowledgments
+
+The authors are grateful to the ﬁnancial support of The Center for Research
+and Development in Mathematics and Applications (CIDMA) through the Por-
+tuguese Foundation for Science and Technology (FCT – Funda¸ca˜o para a Ciˆencia
+e a Tecnologia), projects UIDP/04106/2020 (Lemos-Silva) and UIDB/04106/2020
+(Torres). ",q-bio.PE,C,0.017263753,-0.0015528072,-0.27167934
+http://arxiv.org/pdf/2202.05889v1,Embeddability of centrosymmetric matrices,"In Section 3, we will ﬁrst study the embeddability of 4 ˆ 4 centrosymmetric
+Markov matrices, which include the K3P, K2P and JC Markov matrices. In Section 5 and
+Section 6, we will further study the embeddability of higher order centrosymmetric Markov
+matrices. Deﬁnition 2.4. ",q-bio.PE,C,0.051339503,0.46616995,-0.13831986
+http://arxiv.org/pdf/2202.05889v2,Embeddability of centrosymmetric matrices capturing the double-helix structure in natural and synthetic DNA,"In
+Section 3, we will ﬁrst study the embeddability of 4 ˆ 4 centrosymmetric Markov matrices, which
+include the K3P, K2P and JC Markov matrices. In Section 5 and Section 6, we will further study
+the embeddability of higher order centrosymmetric Markov matrices. 5
+3 Embeddability of 4 ˆ 4 centrosymmetric matrices
+
+In this section, we begin our study by analyzing the embeddability of 4ˆ4 centrosymmetric matrices
+also known as strand symmetric matrices. ",q-bio.PE,C,0.04643128,0.48316246,-0.08938027
+http://arxiv.org/pdf/2202.06206v1,Fluctuation scaling in Lévy-stable recruitment of marine fishes in randomly varying environments,"Figure 2 shows that, after rescaled with
+their means and standard deviations of log-transformed data, the recruitment time-
+series collapse onto a standard log-normal distribution. I further study the diﬀerences between two consecutive values in (raw) recruit-
+ment time-series, where the original time-series is detrended by subtracting the
+mean trend. Based on the Kolmogorov-Smirnov test with data aggregated across
+72 stocks, while the null hypothesis that the (rescaled) log-transformed data are
+normally distributed cannot be rejected with a p-value of 9.54 × 10−2, the null
+hypothesis that the successive diﬀerences of the (rescaled) recruitment series are
+normally distributed should be rejected with a p-value of 1.14 × 10−12. ",q-bio.PE,B,0.026850391,0.12769972,-0.014114243
+http://arxiv.org/pdf/2202.08834v1,Plasticity and evolvability under environmental variability: the joint role of fitness-based selection and niche-limited competition,"In particular: (i) the ob-
+      10 10                                                               servation that low-quality environments favor plastic individuals,
+                                                                          while high-quality environments favor non-plastic individuals (see
+          5V                                                              Section 4.1.2) hints to the turnover pulse hypothesis [38]; (ii) the
+          0                                                               observation that adaptability is favored by abrupt transitions (see
+D                                                                         Section 4.2.1) and high variability (see Section 4.3.1) hint to the
+         25                                                               variability selection hypothesis [32] We should note that these
+      0 0 F-selection   100 200 300 400 500                               hypotheses share a common model of environmental variability
+                              G, Generation                               characterized by a large diversity of niches [27]. N-selection
+      NF-selection                                                           It is important to also note the assumptions made by our study
+                                                                          and how future work in AI and AL can help overcome its limitations. Figure 11: Evolution under different selection mechanisms                 First, tolerance curves assume that plasticity comes at a cost, an
+                                                                          assumption that is often questioned in natural systems; we believe
+with  genome  𝑅evolve,  𝑁  =  40  niches, 𝜎  =  0.2  and  𝑒  0  =  2.     that studies with artificial systems can reveal whether such costs
+                                                             0            indeed arise. ",q-bio.PE,A,-0.46099094,-0.31615984,0.004914481
+http://arxiv.org/pdf/2202.08834v2,Plasticity and evolvability under environmental variability: the joint role of fitness-based selection and niche-limited competition,"It is important to also note the assumptions made by our study        [3] Gillian R. Brown, Thomas E. Dickins, Rebecca Sear, and Kevin N. Laland. 2011.
+and how future work in AI and AL can help overcome its limitations. Evolutionary accounts of human behavioural diversity. ",q-bio.PE,A,-0.29251176,-0.22709832,0.022963598
+http://arxiv.org/pdf/2202.08834v3,Plasticity and evolvability under environmental variability: the joint role of fitness-based selection and niche-limited competition,"100                                                               From the perspective of human ecology our observation show
+       10−1                                                             that such simple can offer insights into existing hypotheses: (i) the
+       10−2                                                             observation that low-quality environments favor plastic individuals,
+                                                                        while highquality environments favor non-plastic individuals (see
+      10−17                                                             Section 4.1.2) hints to the turnover pulse hypothesis [39]; (ii) the
+                                                                        observation that adaptability is favored by abrupt transitions (see
+    V    10                                        F-selection          Section 4.2.1) and high variability (see Section 4.3.1) hint to the
+                                                   N-selection          variability selection hypothesis [33] We should note that these
+           0                                       NF-selection         hypotheses share a common model of environmental variability
+        100                                                             characterized by a large diversity of niches [28]. D                                                                      It is important to also note the assumptions made by our study
+                                                                        and how future work in AI and AL can help overcome its limitations. 0                100        200        300                  First, tolerance curves assume that plasticity comes at a cost, an
+                  0                                                     assumption that is often questioned in natural systems; we believe
+                                                                        that studies with artificial systems can reveal whether such costs
+                                    G, Generation                       indeed arise. ",q-bio.PE,A_centroid,-0.4459412,-0.33342153,0.05669183
+http://arxiv.org/pdf/2202.12893v1,A stochastic household model for vector-borne diseases,"While undoubtedly a limitation, the
+impact of this is likely to be less critical in the early stages of an outbreak,
+which is the stage at which the purpose of the model (as a branching process)
+is focused. An avenue for further research is to consider three-level mixing
+models, which might be able to capture some of the regular between-household
+contacts. Some of the other limitations of the model we speciﬁcally studied herein –
+that we did not allow for multiple exposed vectors when an infected host visits
+a susceptible household, nor for a distribution of household host and vector
+sizes – can be accommodated at the expense of introducing more types (rather
+than only two) and computation. ",q-bio.PE,B,0.31526452,-0.20623046,0.102377266
+http://arxiv.org/pdf/2202.13325v1,Efficient Stochastic Simulation of Network Topology Effects on the Peak Number of Infections in Epidemic Outbreaks,"Guidelines for the implementation of non-
+enhancements that can be implemented for this simulation              pharmaceutical interventions against COVID-19. Stock-
+model in future work:                                                 holm. EDCD, 2020. ",q-bio.PE,B,0.40264332,-0.068757296,-0.13650715
+http://arxiv.org/pdf/2203.00321v1,The evolutionary stability of partial migration with Allee effects,"In Section 3 we derive an explicit formula for the ESS using evolutionary game
+approach. In Section 4 we discuss the results that connect IFDs and ESSs, and we conclude in Section 5
+with possible future work and a brief non-mathematical discussion of the results obtained in this research. 2. ",q-bio.PE,C,-0.16816396,0.103134096,-0.29882145
+http://arxiv.org/pdf/2203.01121v1,VaiPhy: a Variational Inference Based Algorithm for Phylogeny,"VBPI-NF runs for
+the K2P substitution model. As such, we leave these com-        400,000 iterations and uses 100,000 trees to estimate the
+parisons for future work and constrain ourselves to VI-based    lower bound after training. Each experiment is repeated 10
+CSMCs. ",q-bio.PE,C,-0.094724506,0.23142198,0.0866136
+http://arxiv.org/pdf/2203.01121v2,VaiPhy: a Variational Inference Based Algorithm for Phylogeny,"We expect that tree topology-dependent
+branch sampling will enhance VaiPhy’s performance. This will be investigated in our future work. VI can facilitate Bayesian analysis of models that integrate phylogeny with other tasks that usually
+are performed as pre-processing or post-processing steps. ",q-bio.PE,A,-0.24985,0.08789411,0.25194448
+http://arxiv.org/pdf/2203.04252v1,The Concept of Force in Population Dynamics,"The work presented in this paper demonstrates the applicability of Newtonian concepts to population
+dynamics, in particular that of force. There is much scope for further research. Using an analysis of
+force impact in a wider range of models would determine the extent to which the mechanical analogy aids
+the understanding of model behaviour. ",q-bio.PE,B,0.060264595,-0.32704535,0.084634215
+http://arxiv.org/pdf/2203.06128v1,Functional universality in slow-growing microbial communities arises from thermodynamic constraints,"Our results apply in this
+An exploration of the evolutionary consequences of the      scenario as well (see SI). selective pressures on energy assimilation is reserved for
+future work. Resource dynamics are determined by their consump-
+                                                            tion and production via the reactions catalyzed by the
+   Optimization principles grounded in thermodynamics       species, external supply, and dilution. ",q-bio.PE,A,-0.30641437,-0.11577452,-0.24637705
+http://arxiv.org/pdf/2203.06128v2,Functional universality in slow-growing microbial communities arises from thermodynamic constraints,"8, where m is the energy ﬂux
+selective pressures on energy assimilation is reserved for  required for cell maintenance. Our results apply in this
+future work. scenario as well (see SI). ",q-bio.PE,C,-0.089769885,0.052382726,-0.25882646
+http://arxiv.org/pdf/2203.07753v1,"Estimating the potential to prevent locally acquired HIV infections in a UNAIDS Fast-Track City, Amsterdam","387 of
+the 516 (75%) individuals had a partial polymerase HIV sequence available, of whom 344
+were of the major subtypes or circulating recombinant forms that are circulating in
+Amsterdam (B, 01AE, 02AG, C, D, G, A1 or 06cpx). 43 individuals were excluded from
+further analysis as they were associated with other subtypes or recombinant forms, or their
+subtype identification was inconclusive. Supplementary Table S1 summarises the
+characteristics of the study population, and those with a sequence available. ",q-bio.PE,B,0.18180099,0.14432141,0.19359744
+http://arxiv.org/pdf/2203.09798v1,Understanding the Trajectories of Population Decline Across Rural and Urban Europe: A Sequence Analysis,"We anticipate multiple avenues for further research in relation to our typology of European
+population decline. Particularly, future work should focus on expanding this analysis into the
+future as new data become available, to assess the potential increase in severity of
+depopulation across Europe and geographical spread throughout the rural-urban continuum. Additionally, Future research should also investigate the underlying the causes driving the
+observed spatio-temporal dynamics of depopulation. ",q-bio.PE,B,0.17860024,-0.21584943,0.452998
+http://arxiv.org/pdf/2203.09798v2,Understanding the Trajectories of Population Decline Across Rural and Urban Europe: A Sequence Analysis,"We anticipate multiple avenues for further research in relation to our typology of European
+population decline. Particularly, future work should focus on expanding this analysis into the
+future as new data become available, to assess the potential increase in severity of
+depopulation across Europe and geographical spread throughout the rural-urban continuum. Additionally, Future research should also investigate the underlying the causes driving the
+observed spatio-temporal dynamics of depopulation. ",q-bio.PE,B,0.17860024,-0.21584943,0.452998
+http://arxiv.org/pdf/2203.15916v1,Current Implicit Policies May Not Eradicate COVID-19,"However, since we do ﬁnd that the model is suﬃcient to explain variation in the data and provides
+a rigorous data-driven approach to estimation by making such simplifying assumptions, we believe there is
+value in modeling epidemic dynamics using this approach. In future work, we aim to better understand the
+determinants of this endogeneity, to understand why community responses to the pandemic can be easily
+explained by this low dimensional model. Such work would also be aimed at adapting this model for longer
+term predictions, as feedback is important in understanding long term trends of infectious disease [14]. ",q-bio.PE,B_centroid,0.45507264,-0.28060403,0.1442723
+http://arxiv.org/pdf/2203.16118v1,"Seasonality, density dependence and spatial population synchrony","1, Model (I) corresponds to assuming no DD structure,
+
+in which all of the given coefﬁcients are equal to 0. This corresponds to simply using the
+estimated raw log-abundance series, {Xs,t} and {Ys,t}, in further analysis. Following (Stenseth et al., 2003), we included delayed effects up to order p = 2 for the
+
+case study. ",q-bio.PE,B,0.07400895,0.0372214,-0.041721486
+http://arxiv.org/pdf/2203.16330v1,Cointegration of SARS-CoV-2 Transmission with Weather Conditions and Mobility during the First Year of the COVID-19 Pandemic in the United States,"these counties, many do not have good-quality cases numbers
+during the 290-day window of our analysis and were later           C. Computing. dropped from further analysis (detailed in results and Table 1). It is computationally intensive to extract weather conditions
+    We download weather data from Copernicus Climate               from thousands of locations to cover the period of the pandemic
+Change Service Climate Data Store in GRIB format [12] in           from the downloaded GRIB file. ",q-bio.PE,B,0.26716685,0.11583598,0.31628317
+http://arxiv.org/pdf/2203.16330v2,Cointegration of SARS-CoV-2 Transmission with Weather Conditions and Mobility during the First Year of the COVID-19 Pandemic in the United States,"these counties, many did not have good-quality cases numbers
+during the 290-day window of our analysis and were later           C. Computing. dropped from further analysis (detailed in results and Table 1). It is computationally intensive to extract weather conditions
+    We downloaded weather data from Copernicus Climate             from thousands of locations to cover the period of the pandemic
+Change Service Climate Data Store in GRIB format [14] in           from the downloaded GRIB file. ",q-bio.PE,B,0.26555422,0.10747496,0.31373873
+http://arxiv.org/pdf/2204.04609v1,Coalescent dynamics of planktonic communities,"In both pan-
+regime. els, two dots at D˜ = 0.1 and D˜ = 10 (with N0 = 16384) mark
+                                                            the set of parameters chosen for our further analysis. A. ",q-bio.PE,C,0.10166949,0.35339382,-0.18079713
+http://arxiv.org/pdf/2204.06032v1,Evolutionary shift detection with ensemble variable selection,"The simulations under a BM model in this article do not cause
+much diﬃculty. However, further research into diﬀerent model misspeciﬁcations is still necessary. In the Anolis Lizard real data case study, all ﬁve methods estimate similar shift conﬁgurations. ",q-bio.PE,A,-0.10221082,-0.06637105,-0.087935224
+http://arxiv.org/pdf/2204.07678v1,"Host movement, transmission hot spots, and vector-borne disease dynamics on spatial networks","In this ‘weak coupling’ regime, a diﬀerent series expansion for the
+fundamental matrix may be used. Further study of how disease dynamics vary with coupling strength is
+an area for future work. Acknowledgements
+
+The authors acknowledge the support of the Mathematical Biosciences Institute-DMS 1440386 and NSF
+grant-DMS 1814737. ",q-bio.PE,B,0.17758295,0.10436219,-0.28203022
+http://arxiv.org/pdf/2204.07678v2,"Host movement, transmission hot spots, and vector-borne disease dynamics on spatial networks","In this ‘weak coupling’ regime, a diﬀerent series expansion for the
+fundamental matrix may be used. Further study of how disease dynamics vary with coupling strength is
+an area for future work. Acknowledgements
+
+The authors acknowledge the support of the Mathematical Biosciences Institute-DMS 1440386 and NSF
+grant-DMS 1814737. ",q-bio.PE,B,0.17758295,0.10436219,-0.28203022
+http://arxiv.org/pdf/2204.09004v2,Regulation of stem cell dynamics through volume exclusion,"There is increasing evidence showing that the cell-
+
+cycle times are not exponentially distributed [65–69]. The inclusion of realistic cell-cycle time
+
+distributions in the vBD model will require further research. Spatially, our model considers cells
+
+distributed on a grid, assuming that the cell shapes remain unaltered. ",q-bio.PE,B,0.076477386,-0.026734546,-0.08378717
+http://arxiv.org/pdf/2204.12861v1,Spectral dynamics of guided edge removals and identifying transient amplifiers for death-Birth updating,"Fans, separated hubs or
+stars of islands are structurally further away from being close to disconnection than barbell and dumbbell
+graphs. It could be an topic of future work if a ﬁlter using diﬀerent spectral or other graph measures apart
+from (or in addition to) the algebraic connectivity would be suitable to identify also these structures. 4.2 Spectral dynamics of guided edge removals
+
+In this study we are equally interested in the performance and the behavior of the iterative process for
+identifying transient ampliﬁer for dB updating. ",q-bio.PE,C,-0.07847294,0.3423803,0.09025924
+http://arxiv.org/pdf/2205.02365v1,Evaluation of the relative performance of the subflattenings method for phylogenetic inference,"It is our hope that this work will contribute to an
+improved understanding of rank-based methods for constructing phylogenetic trees. There are
+a number of other avenues available for further research in this area. While we have looked
+at reconstructing quartet trees in this paper, algorithms that utilise ﬂattenings to reconstruct
+larger trees have been developed [10] and can instead utilise subﬂattenings without needing to
+be adapted in any way. ",q-bio.PE,C,-0.26412544,0.38500687,0.35545385
+http://arxiv.org/pdf/2205.03466v1,The Tree of Blobs of a Species Network: Identifiability under the Coalescent,"Thus the distance between
+blobs cannot be identiﬁed in this 4-taxon case. This identiﬁability question for larger networks will also be
+studied in a future work. 6 Acknowledgements
+
+This work was supported by the National Science Foundation, grant 2051760, awarded to JR and EA. ",q-bio.PE,C,-0.12386988,0.3212484,0.24914214
+http://arxiv.org/pdf/2205.04868v1,Modeling nonlocal behavior in epidemics via a reaction-diffusion system incorporating population movement along a network,"Similarly, we
+deﬁned the edges in a rudimentary way. In future work, these edges must be deﬁned more realistically, incorporating
+measured data. Such extensions represent an important step toward the development of a realistic model which may
+ultimately inform public health decision-making. ",q-bio.PE,B,0.17926553,-0.05948109,0.29211286
+http://arxiv.org/pdf/2205.05189v1,Inferring Density-Dependent Population Dynamics Mechanisms through Rate Disambiguation for Logistic Birth-Death Processes,"This shows that the
+                                                                                    K 12
+
+expected error depends on 1 η2 , which is the variance of the random variable ηi, and how big
+                                     12
+
+the per capita change in cell number r∆t after ∆t is relative to the system size K. This observa-
+
+tion suggests that it may be harder to estimate the cell number increments with high accuracy for
+
+fast-reproducing cell types. Further analysis on the relation between r and K would be interesting
+
+for future work, since existing work such as (Reding-Roman et al. 2017) shows that the product rK
+
+can inﬂuence the evolution of antibiotic-resistant bacterial genomes. ",q-bio.PE,B,-0.018741375,0.029121488,-0.036177285
+http://arxiv.org/pdf/2205.05634v1,Evolution of viral pathogens follows a linear order,"The amino acid usage within the viral genomes is not random or does not follow
+stochastic behavior but correlates well to quanta and exponential distribution. The quanta
+distribution was selected for further analysis as it presents an interesting characteristic; that is, the
+highest rank holds the value of the parameter ‘a’, and each subsequent rank is lesser by a factor
+‘b’. The most frequently used amino acid has the usage percentage of ‘a’, and the second most
+frequently used amino acid has the usage percentage of ‘a×b’, and the next usage frequency is
+‘a×b×b’. ",q-bio.PE,B,0.12125621,0.10861412,0.050046828
+http://arxiv.org/pdf/2205.07553v1,The interactions of SARS-CoV-2 with co-circulating pathogens: Epidemiological implications and current knowledge gaps,"Altogether, our review highlights the significant gaps that remain in our knowledge of
+SARS-CoV-2 interactions. The general framework proposed to dissect interaction may
+therefore be useful to guide further research in this field. We argue that mathematical models
+of transmission offer an intrinsically efficient way to incorporate this framework. ",q-bio.PE,B,0.3422125,-0.044488635,-0.35351264
+http://arxiv.org/pdf/2205.07553v2,The interactions of SARS-CoV-2 with co-circulating pathogens: Epidemiological implications and current knowledge gaps,"Altogether, our review highlights the significant gaps that remain in our knowledge of
+SARS-CoV-2 interactions. The general framework proposed to dissect interaction may
+
+                                                                                                                        25
+therefore be useful to guide further research in this field. We argue that mathematical models
+of transmission offer an intrinsically efficient way to incorporate this framework. ",q-bio.PE,B,0.3425239,-0.046245433,-0.34833103
+http://arxiv.org/pdf/2205.08015v1,Similarity Suppresses Cyclicity: Why Similar Competitors Form Hierarchies,"In those cases, low but ﬁnite levels of noise lead to highly concentrated distributions.5 Similarly, low levels of mutation
+or immigration may sustain steady states near to a monomorphism [17, 37]. We save mechanism speciﬁc analysis and conditions for concentration for future work. The former question is model
+speciﬁc. ",q-bio.PE,A,-0.19848648,-0.21044187,-0.14603311
+http://arxiv.org/pdf/2205.08720v1,Pattern formation of parasite-host model induced by fear effect,"Through the description of17,27, we can ﬁnd that the evolution
+of pattern induced by fear effect often follows the rule that with the increase of fear, the growth or-
+der of pattern is: cold spots → cold spots-stripes → cold stripes → hot stripes → hot spots-stripes
+→ hot spots. As for whether such a conclusion is general, we need to continue to explore in our
+future work. ACKNOWLEDGMENTS
+
+   This work was supported by the Innovative Research Project of Shenzhen under Project No. ",q-bio.PE,B,-0.06279603,-0.033368852,0.035109855
+http://arxiv.org/pdf/2205.11994v1,First Report of Susceptibility Status of the Invasive Vector: Aedes albopictus to insecticides used in vector control in Morocco,"It may be due to many
+mechanisms, in particular metabolic, cuticular or by target site modification. The synergist
+PBO4% results cannot be interpreted because the mortality percentage of mosquitoes exposed
+to bendiocarb 0.1% only was greater than 90%.Other additional studies must be carried out to
+demonstrate the resistance mechanisms in adult populations. It is quite clear that the Agdal strain does not show cross-resistance between PYR and DDT,
+which means that resistance to DDT is most likely not linked to the kdr gene or to a common
+enzyme. ",q-bio.PE,B,-0.05947374,0.030617535,0.1669073
+http://arxiv.org/pdf/2205.12629v1,Pneumococcus and the stress-gradient hypothesis: a trade-off links $R_0$ and susceptibility to co-colonization across countries,Finally we analyzed these studies under a common framework. The data were entered in an Excel spreadsheet for further analysis (See Supplementary ﬁles). In Table 1 we provide a summary of the multi-country data used in our analysis. ,q-bio.PE,B,0.2037324,0.12019217,0.26264936
+http://arxiv.org/pdf/2205.15560v1,A novel analysis approach of uniform persistence for a COVID-19 model with quarantine and standard incidence rate,"In addition, numerical simulations show that the COVID-19-free equilibrium V0 and
+the COVID-19 equilibrium V∗ may be globally attractive for Rc < 1 in R6+ and Rc > 1 in Ω, respectively. Therefore, the global stability problems of V0 and V∗ are very practical and challenging, which means that the
+COVID-19 pandemic will die out or be persistent under certain conditions, we will settle these problems in
+future work. Acknowledgements
+
+    This work is partially supported by the National NSF of China (Nos.11901027, 11871093, 11671382, 11971273
+and 12126426), the Major Program of the National NSF of China (No.12090014), the State Key Program of the
+National NSF of China (No.12031020), the NSF of Shandong Province (No.ZR2018MA004), and the China Post-
+doctoral Science Foundation (No.2021M703426). ",q-bio.PE,B,0.28738663,0.068916395,-0.34893984
+http://arxiv.org/pdf/2205.15560v2,A novel analysis approach of uniform persistence for a COVID-19 model with quarantine and standard incidence rate,"In addition, numerical simulations show that the COVID-19-free equilibrium V0 and the
+COVID-19 equilibrium V∗ may be globally attractive for Rc < 1 in D and Rc > 1 in Ω, respectively. Therefore,
+the global stability problems of V0 and V∗ are very practical and challenging, which means that the COVID-19
+
+pandemic will die out or be persistent under certain conditions, we will settle these problems in future work. 10
+Acknowledgements
+
+    This work is partially supported by the National NSF of China (Nos. ",q-bio.PE,B,0.33002138,0.02202693,-0.36621413
+http://arxiv.org/pdf/2206.04206v1,Tropical Density Estimation of Phylogenetic Trees,"(2008). In Section 4, we discuss the results from computational ex-
+periments and we end with future work and an open problem in Section
+5. 2 Methods
+
+2.1 Basics of Tropical Geometry
+
+Throughout this paper, like Speyer and Sturmfels (2009), we consider the
+tropical projective torus Re/R1, this is isometric to Re−1. ",q-bio.PE,C,-0.12623058,0.4597208,0.039707273
+http://arxiv.org/pdf/2206.04206v2,Tropical Density Estimation of Phylogenetic Trees,"(2008). In Section 4, we discuss the results from computational ex-
+periments and we end with future work and an open problem in Section
+5. 2 Methods
+
+2.1 Basics of Tropical Geometry
+
+Throughout this paper, like Speyer and Sturmfels (2009), we consider
+the tropical projective torus Re/R1, this is isomorphic to Re−1. ",q-bio.PE,C,-0.15461025,0.4674797,0.04416371
+http://arxiv.org/pdf/2206.06691v1,Effect of Non-local Grazing on Dry-land Vegetation Dynamics,"The
+
+shape of the kernel function is characterized by its width (σ ) and the cut-off length
+
+(w). For further analysis, the spatial domain is considered to be ﬁnite: [−L, L]. The
+
+cut-off distance w is always within the bound of domain length (i.e. ",q-bio.PE,C,-0.044692263,0.33809,-0.0036804667
+http://arxiv.org/pdf/2206.11129v1,"Social Insects and Beyond: The Physics of Soft, Dense Invertebrate Aggregations","We then categorize a variety
+of species that are known to aggregate by the physical properties of individuals in Section 3 and categorize
+the resulting aggregations by their material properties in Section 4. We then present the current literature
+on the analogies between aggregations as materials and techniques to study their motility in Section 5 and
+discuss potential areas for further research in Section 6. Throughout the text, the reader can refer to the
+glossary in Section 7 for deﬁnitions of physics terminology. ",q-bio.PE,A,-0.14135805,0.05778054,-0.03761392
+http://arxiv.org/pdf/2206.11416v1,Optimal allocation in annual plants with density dependent fitness,"In summary, our results suggest that when the length of lifetime ﬂuctuates bang-bang
+behavior predicted by deterministic models cannot be taken as the baseline against which
+other mechanisms that induce mixed growth are assessed. The interaction of risk-averse
+bet-hedging with such mechanisms, as well as with seed bank eﬀects, is of great interest
+for further study. The rest of the paper is mostly mathematical and is organized as follows. ",q-bio.PE,A,-0.12269816,-0.1133769,-0.10222411
+http://arxiv.org/pdf/2206.12473v1,A Phylogenetic Model of the Evolution of Discrete Matrices for the Joint Inference of Lexical and Phonological Language Histories,"An attainable extension of our model would be to allow for some or all cognacy
+judgments to be known, constraining the latent variables B, but still inferring the
+phonological transformation to better inform the phylogeny. Further down the
+road, future work will need to address modelling context-dependent phonological
+changes, as well as insertions and deletions of phonemes, and then inferring under
+such a model in an eﬃcient manner. Nonetheless, we believe this work to be
+an important step towards this ultimate goal, and to already allow inference of
+language histories for lesser-studied families for which no cognate data is available. ",q-bio.PE,A,-0.17192686,0.063927695,0.23234846
+http://arxiv.org/pdf/2206.12692v1,Modelling the Spread of SARS-CoV2 and its variants. Comparison with Real Data and Relations that should be Satisfied to Achieve the Disappearance of the SARS-CoV2 Infection,"4) Ultimately, we have to prove that the obtained series constitutes a complete
+base of functions7. This will be subject of a future work. Finally, the general expression for the lockdown-contribution, c(t), may be cast
+into the form [10]
+
+         ∞
+
+c(tˆ) =         βij tˆi+1 − tˆ−j  with tˆ ≥ 1  (18)
+
+         i,j=0
+
+with tˆ denoting the normalised time tˆ ≡ t/tL and βij are real numbers, subject
+to the condition c(tˆ) > 0 for tˆ > 1, respectively. ",q-bio.PE,C,-0.034752775,0.4321381,-0.35272938
+http://arxiv.org/pdf/2206.12692v2,Modelling the Spread of SARS-CoV2 and its variants. Comparison with Real Data. Relations that have to be Satisfied to Achieve the Total Regression of the SARS-CoV2 Infection,"4) Ultimately, we have to prove that the obtained series constitutes a complete
+base of functions7. This will be subject of a future work. Finally, the general expression for the lockdown-contribution, c(t), may be cast
+into the form 10
+
+         ∞
+
+c(tˆ) =         βij tˆi+1 − tˆ−j  with tˆ ≥ 1  (18)
+
+         i,j=0
+
+with tˆ denoting the normalised time tˆ ≡ t/tL and βij are real numbers, subject
+to the condition c(tˆ) > 0 for tˆ > 1, respectively. ",q-bio.PE,C,-0.037256703,0.4322533,-0.35051095
+http://arxiv.org/pdf/2207.00574v1,Embedding phylogenetic trees in networks of low treewidth,"If this constant can be reduced, possibly including heuristic improvements, it would be interesting to
+implement the algorithm and test it on practical data. From a theoretical point of view, there are many opportunities for future work. First, there are
+multiple variants and generalizations of Tree Containment that deserve attention: non-binary
+inputs, unrooted inputs and inputs consisting of two networks. ",q-bio.PE,C_centroid,-0.2367593,0.40463448,0.24434893
+http://arxiv.org/pdf/2207.00574v2,Embedding phylogenetic trees in networks of low treewidth,"If this constant can be reduced, possibly including heuristic improvements, it would be interesting to
+implement the algorithm and test it on practical data. From a theoretical point of view, there are many opportunities for future work. First, there are
+multiple variants and generalizations of Tree Containment that deserve attention: non-binary
+inputs, unrooted inputs and inputs consisting of two networks. ",q-bio.PE,C,-0.2367593,0.40463448,0.24434893
+http://arxiv.org/pdf/2207.00574v3,Embedding phylogenetic trees in networks of low treewidth,"It would also be important to ﬁnd ways of generating valid signatures for one bag directly from the
+valid signatures if its child bag(s), rather than generating all possible signatures and then removing
+the invalid ones. From a theoretical point of view, there are many opportunities for future work. First, there are
+multiple variants and generalizations of Tree Containment that deserve attention: non-binary
+inputs, unrooted inputs and inputs consisting of two networks. ",q-bio.PE,C,-0.2290005,0.29821625,0.20431769
+http://arxiv.org/pdf/2207.02586v1,Spatiotemporal patterns of Covid-19 pandemic in India: Inferences of pandemic dynamics from data analysis,"national or statewide scales. One future work is mapping the edge of these waves [71] where the number of infected
+individuals is small and the character of the wave is dominated by a pulled front wave [66]. Modeling these aspects
+together with the population heterogeneity and inﬂux can help understand the dynamics of the epidemic development. ",q-bio.PE,B,0.40247792,-0.22460708,0.12533507
+http://arxiv.org/pdf/2207.02919v1,The Variations of SIkJalpha Model for COVID-19 Forecasting and Scenario Projections,"The model is able
+to predict the existence of a surge, however, it often over-predicts the intensity. In future work, we will perform retrospective analysis to identify which mod-
+eling choices lead to better performance. Particularly, how to predict the ex-
+istence of a surge without over-predicting its intensity. ",q-bio.PE,B,0.018924223,-0.024905859,0.17545845
+http://arxiv.org/pdf/2207.03805v1,Demographic noise in complex ecological communities,"Finally, we
+restrict our analysis to relatively simple interaction matrices, with no particular sub-
+structure. There are therefore multiple avenues for future work. This can include
+expansions of the Kramers–Moyal or van-Kampen type (in the limit of large, but ﬁnite
+V ), which would lead to sets of stochastic diﬀerential equations which capture the
+two types of randomness – that of the interaction matrix, and intrinsic noise in ﬁnite
+populations. ",q-bio.PE,A,-0.02342695,0.025695585,-0.23772617
+http://arxiv.org/pdf/2207.05011v3,A Hybrid SEIHCRDV-UKF Model for COVID-19 Prediction. Application on real-time data,"As vaccination rates increase, we end up with increasingly reduced levels of mortality and hospital admissions,
+while reduced re-susceptibility rates lead to shorter durations between waves of infection. As future work we think it would be interesting to consider a hybrid epidemiological particle filter, as particle
+filtering constitutes another approach that deals with the uncertainty that accompanies the equations of states and
+observations of a phenomenon such as a pandemic. In addition, investigating the evolution of a disease using other
+stochastic approaches such as discrete or continuous time Markov chains is also of great interest. ",q-bio.PE,B,0.425166,-0.19054179,0.044044748
+http://arxiv.org/pdf/2207.05011v4,An improved Epidemiological-Unscented Kalman Filter (Hybrid SEIHCRDV-UKF) model for the prediction of COVID-19. Application on real-time data,"As vaccination rates increase, we end up with increasingly reduced levels of mortality and hospital admissions,
+while reduced re-susceptibility rates lead to shorter durations between waves of infection. As future work we think it would be interesting to consider a hybrid epidemiological particle filter, as particle
+filtering constitutes another approach that deals with the uncertainty that accompanies the equations of states and
+observations of a phenomenon such as a pandemic. Other interesting approaches would be the implementation of a
+Tobit-Kalman filter (Loumponias and Tsaklidis 2022) or a Kalman Filter with non-negativity constraints
+(Theodosiadou and Tsaklidis 2021), due to the specificities of the modelling of epidemic outbreaks. ",q-bio.PE,B,0.47053805,-0.21303988,0.054684166
+http://arxiv.org/pdf/2207.09551v1,A mechanistic model to assess the effectiveness of test-trace-isolate-and-quarantine under limited capacities,"This demonstrates that a careful evaluation of the contemporary load
+on TTIQ capacities is needed to predict the eﬀect of diﬀerent intervention strategies. There are several limitations to our model that oﬀer routes for further research. We concentrated on ﬁrst-order
+manual forward tracing. ",q-bio.PE,B,0.09365248,-0.030506913,-0.06013313
+http://arxiv.org/pdf/2207.09551v2,A mechanistic model to assess the effectiveness of test-trace-isolate-and-quarantine under limited capacities,"In such situations,
+greater reduction of transmission rates by means of stricter social or hygiene measures might be the only feasible
+non-pharmaceutical intervention to eﬀectively stop case numbers from rising. There are several limitations to our model that oﬀer routes for further research and should be considered
+when interpreting our results. We focused on ﬁrst-order manual forward tracing. ",q-bio.PE,B,0.27739194,-0.0026119074,0.08075609
+http://arxiv.org/pdf/2207.09671v1,Spatio-temporal models of infectious disease with high rates of asymptomatic transmission,"In Sec. 5 we conclude with a discussion
+on the modeling framework and promising avenues for future work. 2 County-wise epidemic temporal dynamics
+
+Let us ﬁrst derive an SIR-type model of viral transmission of a highly asymptomatic
+disease. ",q-bio.PE,B,0.4448145,-0.18643525,-0.08670488
+http://arxiv.org/pdf/2207.13265v1,A model for COVID-19 and bacterial pneumonia coinfection with community- and hospital-acquired infections,"On the other hand, the coinfection model could be expanded to include vaccination or
+multiple COVID-19 variants. We expect to carry out a more thorough analysis in future works. Code availability
+
+The code used in this paper was written in Python and can be downloaded from https://github. ",q-bio.PE,B,0.4668303,-0.09935202,-0.028363748
+http://arxiv.org/pdf/2207.14118v1,Emergence of nonlinear dynamics from spatial structure in tropical forest-grassland landscapes,"ﬁre spreading and/or plant dispersal ranges. How
+this is aﬀected by environmental heterogeneity is subject                                         ρf    ρf = 1.11 · 105
+of future work. FB → BB,
+   c. Implications for empirical tests By taking the
+simplest possible model that was able to include ﬁre per-      rate γ, (iii ) it optionally includes rainfall feedback (for
+colation and forest spread, we were able to obtain struc-      Fig. ",q-bio.PE,B,-0.030373745,-0.11850224,0.21123534
+http://arxiv.org/pdf/2208.00649v1,Computational Modelling of Plasticity-Led Evolution,"This breakdown
+uncovers cryptic genetic mutations, which in turn increases phenotypic
+variation and hence evolvability. We note that a kind of phase transi-
+tion of robustness should exist in response to environmental changes,
+which may be an interesting topic for further research. We also highlight an analogy between retraining of RNNs and ge-
+netic accommodation of novel phenotypes. ",q-bio.PE,A,-0.44670588,-0.36734435,-0.12099247
+http://arxiv.org/pdf/2208.00649v2,Computational Modelling of Plasticity-Led Evolution,"This breakdown uncovers
+cryptic genetic mutations, which in turn increases phenotypic varia-
+tion and hence evolvability. We note that a kind of phase transition of
+robustness should exist in response to environmental changes, which
+may be an interesting topic for further research. We would also like to highlight an analogy between retraining
+of RNNs and genetic accommodation of novel phenotypes. ",q-bio.PE,A,-0.47044134,-0.41331035,-0.11528486
+http://arxiv.org/pdf/2208.00649v3,Computational Modelling of Plasticity-Led Evolution,"This breakdown uncovers
+cryptic genetic mutations, which in turn increases phenotypic varia-
+tion and hence evolvability. We note that a kind of phase transition of
+robustness should exist in response to environmental changes, which
+may be an interesting topic for further research. We would also like to highlight an analogy between retraining
+of RNNs and genetic accommodation of novel phenotypes. ",q-bio.PE,A,-0.47044134,-0.41331035,-0.11528486
+http://arxiv.org/pdf/2208.00649v4,Computational Modelling of Plasticity-Led Evolution,"This breakdown uncovers
+cryptic genetic mutations, which in turn increases phenotypic varia-
+tion and hence evolvability. We note that a kind of phase transition of
+robustness should exist in response to environmental changes, which
+may be an interesting topic for further research. We would also like to highlight an analogy between retraining
+of RNNs and genetic accommodation of novel phenotypes. ",q-bio.PE,A,-0.47044134,-0.41331035,-0.11528486
+http://arxiv.org/pdf/2208.01039v1,The Effects of Land-use Change on Brucellosis Transmission in the Greater Yellowstone Ecosystem: A Three Species Mathematical-Epidemiological Model,"Consequently, these models should not be applied
+to a global scale, but applied to speciﬁc ecosystems. In terms of the application, future work could incorporate vertical transmission, compare these
+results to data, and include more rigorous parameter estimation techniques. Vaccination, season-
+ality, and indirect infection variables could also be considered in order to improve the accuracy of
+the results. ",q-bio.PE,B,0.24901882,-0.2010928,0.17901665
+http://arxiv.org/pdf/2208.01169v1,A Modified PINN Approach for Identifiable Compartmental Models in Epidemiology with Applications to COVID-19,"Future
+work could naturally focus on expanding both the model’s complexity as well as incorporating more
+nuanced network structures. The work of [15] on graph neural networks gives a very promising
+direction for future work in both directions, with a natural extension of the model to incorporate
+human mobility, while also having a neural network that is well suited to the study of such a system. Indeed, the study of such metapopulation models of wide appeal within the modeling of COVID-
+19 [43, 6], in conjunction with some of the technical approaches and methodologies presented herein
+constitutes a promising direction for future study. ",q-bio.PE,B,0.1848157,-0.21994866,0.23871928
+http://arxiv.org/pdf/2208.01169v2,A Modified PINN Approach for Identifiable Compartmental Models in Epidemiology with Applications to COVID-19,"Future
+work could naturally focus on expanding both the model’s complexity as well as incorporating more
+nuanced network structures. The work of [15] on graph neural networks gives a very promising
+direction for future work in both directions, with a natural extension of the model to incorporate
+human mobility, while also having a neural network that is well suited to the study of such a system. Indeed, the study of such metapopulation models of wide appeal within the modeling of COVID-
+19 [43, 6], in conjunction with some of the technical approaches and methodologies presented herein
+constitutes a promising direction for future study. ",q-bio.PE,B,0.1848157,-0.21994866,0.23871928
+http://arxiv.org/pdf/2208.01569v1,Generalised Lotka-Volterra model with hierarchical interactions,"(13) also provides the fraction    where                                       1
+of surviving species in each sub-community. u(1 − u) = γσ2 dα n(α)w0[∆(α)], (21)
+    For further analysis, it is useful to introduce the fol-
+lowing average over communities                                                                         0
+
+                                                                      is the logarithmic mean [44] of ρ2 and 1/ρ2
+
+                                                                                      ρ2 − 1/ρ2
+                                                                          ≡ ln ρ2 − ln 1/ρ2 ,                  (22)
+
+                B     (17)                                    which satisﬁes ≥ 1, with equality only if ρ = 1. We
+                                                              now show that the integrals in Eqs. ",q-bio.PE,C,-0.04580412,0.17852595,-0.042625587
+http://arxiv.org/pdf/2208.02564v1,Mathematical Modeling Analysis and Optimization of Fungal Diversity Growth,"Through analogy one and two
+models, we can get relevant conclusions about the decomposition of n species and n+1
+species of fungal communities. We have known the decomposition rate of fungal
+communities in various environments, and conducted corresponding studies on various fungal
+combinations to further study the effects of ecological diversity. The system decomposes the
+impact of ground garbage, and concludes that ecological diversity is of great significance for
+stabilizing the ecological cycle. ",q-bio.PE,A,-0.2246555,-0.05178372,0.1844279
+http://arxiv.org/pdf/2208.03786v1,"Flocks, Games, and Cognition: A Geometric Approach","One point to keep in mind is that the higher dimensional simplex offers a wealth of generative
+models with multiple control modulation, but the time-averaged PMP Hamiltonian may still be the
+right notion of cognitive cost. We aim to pursue these matters in future work. Data Accessibility. ",q-bio.PE,A,-0.022140885,0.028561326,-0.16022715
+http://arxiv.org/pdf/2208.06013v1,Impact of population size on early adaptation in rugged fitness landscapes,"Our focus on weak mutation without strong selection (see also [20, 21, 27–
+29]) complements the study of strong selection with frequent mutation [33], going beyond
+the strong selection weak mutation regime. Studying the eﬀect of spatial structure on early
+adaptation in rugged ﬁtness landscapes is an interesting topic for future work. Indeed, complex
+spatial structures with asymmetric updates or migrations impact the probabilities of ﬁxation
+of mutations [61–65], which should aﬀect early adaptation. ",q-bio.PE,A,-0.41606838,-0.23484969,-0.031124637
+http://arxiv.org/pdf/2208.06013v2,Impact of population size on early adaptation in rugged fitness landscapes,"Besides, spatial structure and population bottlenecks yield smaller eﬀective population sizes,
+for which our ﬁndings are relevant. Studying the eﬀect of spatial structure on early adaptation
+in rugged ﬁtness landscapes is an interesting topic for future work. Indeed, complex spatial
+structures with asymmetric updates or migrations impact the probabilities of ﬁxation of muta-
+tions [64–68], which should aﬀect early adaptation. ",q-bio.PE,A,-0.35152748,-0.20492117,0.066529006

@@ -1,0 +1,175 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.03009v1,Harmonic Schwarzian derivative and methods of approximation of zeros,"For such analysis, we
+refer the reader to the paper [18] for the harmonic Newton method. The analysis of the
+convergence conditions (if any) in relation to the iteration given by the generating function
+(15) may perhaps be an object of study in a future work. Of particular interest might also be to analyze the possible analogues of the geometric
+properties of the classical Halley method, already studied by diﬀerent authors (see, for
+instance, [16] and the references therein. ",math.CV,C,0.06029311,-0.06922026,0.1680362
+http://arxiv.org/pdf/2201.07228v1,n-Best Kernel Approximation in Reproducing Kernel Hilbert Spaces,"We
+achieve a clever and concise proof for the existence of the n-best kernel approximation for
+a large class of reproducing kernel Hilbert spaces, that is in particular strictly larger than
+that of the Bergman ones, enclosing all the weighted Hardy spaces. Based on further analysis of the orthogonalization projection operator Qa1a2...ak and fac-
+torization of higher order generalized backwardd shift operators Q /φ a1a2...ak a1···am−1 (see
+§3), the present paper is able to avoid use of the pointwise estimations of the reproducing
+kernels of the involved zero spaces and the Blaschke weighted spaces. For RKHSs more
+general than the Bergman ones such kernel estimations may be impossible. ",math.CV,C,-0.07539391,-0.11971251,-0.3321175
+http://arxiv.org/pdf/2201.08921v1,Normal families and quasiregular mappings,"This states that, with
+
+                                                                              2
+appropriate conditions on X and Y , a family F of locally uniformly ω-continuous mappings
+is relatively compact in C(X, Y ) if and only if there is some point x0 ∈ X with a relatively
+compact orbit F (x0) in Y . We further study the situation where Y is a subset of another metric space (Z, dZ). Indeed,
+this will always be the case, since Y ⊂ Sn. ",math.CV,A,-0.30321825,0.05975069,-0.3692618
+http://arxiv.org/pdf/2202.01574v1,Value distribution of exponential polynomials and their role in the theories of complex differential equations and oscillation theory,"For the
+convenience of the reader, four appendices are included at the back of the paper covering
+
+                                                         3
+the fundamentals on the following topics: Nevanlinna theory, convex sets, Riemann zeta-
+function, and complex diﬀerential equations. Further, this survey includes thirteen open
+problems to motivate the reader for further research in these topics. The basic building block for any transcendental exponential polynomial is of course the
+exponential function. ",math.CV,B,-0.052685015,-0.45477656,0.52752596
+http://arxiv.org/pdf/2202.01574v2,Value distribution of exponential polynomials and their role in the theories of complex differential equations and oscillation theory,"For the
+convenience of the reader, four appendices are included at the back of the paper covering
+the fundamentals on the following topics: Nevanlinna theory, convex sets, Riemann zeta-
+function, and complex diﬀerential equations. Further, this survey includes thirteen open
+problems to motivate the reader for further research in these topics. The basic building block for any transcendental exponential polynomial is of course the
+exponential function. ",math.CV,B_centroid,-0.056540303,-0.45730612,0.5253928
+http://arxiv.org/pdf/2202.13247v1,"On applications of Herglotz-Nevanlinna functions in material sciences, I: classical theory and applications of sum rules","Therefore, in Section 3 of Part II we provide an overview of the mathematics that is
+available for diﬀerent classes of functions that extend the classical Herglotz-Nevanlinna
+class and we expect to them be relevant for applications in material sciences. We hope that this two-part review paper can be both helpful for people working
+in applications (by providing mathematical references for diﬀerent aspects of Herglotz-
+Nevanlinna functions as well as their generalizations for future work) and interest-
+ing for pure mathematicians (by pointing out some relevant applications of Herglotz-
+Nevanlinna functions). 2 Mathematical background
+
+2.1 Deﬁnition and ﬁrst examples
+
+In this article, the complex upper half plane is denoted by C+ := { ∈ C : Im > 0}
+
+                                                   3
+and the right half plane by C+ := { ∈ C : Re > 0}. ",math.CV,B,-0.198326,-0.21291032,0.2948299
+http://arxiv.org/pdf/2203.03490v1,On the connection between the Fueter-Sce-Qian theorem and the generalized CK-extension,"In this manuscript, however, we provide
+a more general and systematic approach for this procedure (see Theorems 4.2 and 4.7). Moreover, we use our
+approach to further study the Fueter-Sce-Qian mapping (see Sections 5 and 6). Indeed, as a direct application
+of our results, we are able to provide explicit expressions for the actions of the Fueter-Sce-Qian mapping on
+monomials of the form (x0 + x)k, k ∈ N. This is done by showing that the polynomials τm (x0 + x)k coincide
+(up to constant coeﬃcients) with a well-known family of monogenic Appell polynomials introduced in [4] (see
+Section 4.3). ",math.CV,C,0.14386313,-0.30207875,0.15081868
+http://arxiv.org/pdf/2204.00726v1,Numerical computation of preimage domain and condenser capacity for a strip with rectilinear slits,"In that case we have to use the hyperbolic metric. The case of multiply
+connected domains seems to oﬀer problems for further research. 2. ",math.CV,A,-0.38115203,0.5715049,0.09769595
+http://arxiv.org/pdf/2204.00726v2,Numerical computation of a preimage domain for an infinite strip with rectilinear slits,"In that case we have to use the hyperbolic metric. The case of multiply
+connected domains seems to oﬀer problems for further research. In the second application, we consider computing the complex potential for a uniform inviscid
+and incompressible ﬂow past multiple disjoint segment obstacles in the strip S in the case
+when the circulations around the segments are zeros. ",math.CV,A_centroid,-0.37890658,0.5388695,0.2637711
+http://arxiv.org/pdf/2204.00726v3,Numerical computation of a preimage domain for an infinite strip with rectilinear slits,"In that case
+we have to use the hyperbolic metric. The case of multiply connected domains
+seems to oﬀer problems for further research. In the second application, we consider computing the complex potential
+for a uniform inviscid and incompressible ﬂow past multiple disjoint segment
+obstacles in the strip S in the case when the circulations around the segments
+are zeros. ",math.CV,A,-0.37890658,0.5388695,0.2637711
+http://arxiv.org/pdf/2204.05111v1,Irregularity of the Bergman projection on smooth unbounded worm domains,"In the next section we prove Theorem 1.1, whereas in Section 3 we introduce the tools that we need
+
+to deal with Sobolev spaces on smoothly bounded domains. In Section 4 we prove Theorem 1.2 and in
+
+the ﬁnal Section 5 we discuss some open problems and future work. 2. ",math.CV,A,-0.33568132,0.012759128,-0.24372733
+http://arxiv.org/pdf/2204.06612v1,Geometry of uniqueness varieties for a three-point Pick problem in $\mathbb{D}^3$,"Moreover the tools
+                                          developed and used (e.g. see [12]) had a signiﬁcant impact on further research. For
+                                          more about motivations and some history we refer to [1] and [10]. ",math.CV,B,-0.21483324,-0.09715775,0.06117877
+http://arxiv.org/pdf/2204.08517v1,Norm Preserving Extensions of Holomorphic Functions Defined on Varieties in ${\mathbb C}^n$,"It was shown using operator theory that if V ⊂ D2 is
+                                          algebraic, then it must be a retract to have the isometric extension property. The function
+                                          theory argument of P. Thomas [44] inspired further research: it turns out that a similar result
+                                          holds for the n-dimensional Euclidean ball and more generally for strictly convex domains
+                                          and strongly linearly convex domains in C2 [31]. In all these cases V was shown to be a
+                                          retract. ",math.CV,A,-0.30427897,0.06983646,-0.11408387
+http://arxiv.org/pdf/2205.01778v1,Remarks on cyclic inner functions in growth classes and applications to approximation problems,"This is shown to be equivalent to a theorem of Khrushchev from [10]. In the last Section 5 we list a few questions we have not found an answer for, and some
+ideas for further research. 2 Proof of Theorem 1.4
+
+In the proof of the theorem we will need to use the following crude construction of an
+integrable weight with large moments. ",math.CV,C,0.05567628,-0.40568095,-0.39146292
+http://arxiv.org/pdf/2205.01778v2,Cyclic inner functions in growth classes and applications to approximation problems,"This is shown to be equivalent to a theorem of Khrushchev from [10]. In the last Section 5 we list a few questions we have not found an answer for, and some
+ideas for further research. 2 Proof of Theorem 1.4
+
+In the proof of the theorem we will need to use the following crude construction of an
+integrable weight with large moments. ",math.CV,C,0.05567628,-0.40568095,-0.39146292
+http://arxiv.org/pdf/2206.03744v1,Intrinsic metrics in polygonal domains,"Most likely, the maximum is attained
+at one of the intersection points of the bisectors described above. This case also requires
+additional investigation. INTRINSIC METRICS IN POLYGONAL DOMAINS                                              17
+
+   c) The transitional case is when the considered trapezoid has an inscribed circle. ",math.CV,A,-0.20539817,0.3419662,0.062991574
+http://arxiv.org/pdf/2206.04112v1,On Benford's Law and the Coefficients of the Riemann Mapping Function for the Exterior of the Mandelbrot Set,"It would be interesting to see if the numerators and decimal expansions of
+
+                                                                         17
+the coeﬃcients for the Multibrot set of degree d follow a Benford distribution in base d
+as it is trivial to see that the denominators will not. The results of Section 5 also present interesting extensions for future work. In particular,
+Remark 5.2.4 suggests that dividing the coeﬃcients in subsequences to be bounded
+separately may be the best approach to study the convergence of the Laurent series of
+the coeﬃcients. ",math.CV,C,0.7048478,0.14348929,0.013729477
+http://arxiv.org/pdf/2206.04112v2,On Benford's Law and the Coefficients of the Riemann Mapping Function for the Exterior of the Mandelbrot Set,"It would be interesting to see if the numerators and decimal expansions of the
+coeﬃcients for the Multibrot set of degree d follow a Benford distribution in base d as
+it is trivial to see that the denominators will not. The results of Section 5 also present interesting extensions for future work. In particular,
+Remark 5.2.4 suggests that dividing the coeﬃcients in subsequences to be bounded
+separately may be the best approach to study the convergence of the Laurent series of
+the coeﬃcients. ",math.CV,C,0.6894782,0.14142695,-0.02017023
+http://arxiv.org/pdf/2206.04112v3,On Benford's Law and the Coefficients of the Riemann Mapping Function for the Exterior of the Mandelbrot Set,"It
+                           would be interesting to se the numerators and decimal expansions of the coefﬁcients for the
+                           Multibrot set of degree d follow a Benford distribution in base d while it is trivial to observe
+                           that the denominators will not. The results of Section 5 also present interesting extensions for future work. In particular,
+                           Remark 6 suggests that dividing the coefﬁcients into subsequences to be bounded separately
+                           may be the best approach to study the convergence of the Laurent series of the coefﬁcients. ",math.CV,C_centroid,0.7100232,0.17497523,0.0016142754
+http://arxiv.org/pdf/2206.04112v4,On Benford's Law and the Coefficients of the Riemann Mapping Function for the Exterior of the Mandelbrot Set,"It
+                           would be interesting to se the numerators and decimal expansions of the coefﬁcients for the
+                           Multibrot set of degree d follow a Benford distribution in base d while it is trivial to observe
+                           that the denominators will not. The results of Section 5 also present interesting extensions for future work. In particular,
+                           Remark 6 suggests that dividing the coefﬁcients into subsequences to be bounded separately
+                           may be the best approach to study the convergence of the Laurent series of the coefﬁcients. ",math.CV,C,0.7100232,0.17497523,0.0016142754
+http://arxiv.org/pdf/2206.04112v5,On Benford's Law and the Coefficients of the Riemann Mapping Function for the Exterior of the Mandelbrot Set,"It
+                           would be interesting to se the numerators and decimal expansions of the coefﬁcients for the
+                           Multibrot set of degree d follow a Benford distribution in base d while it is trivial to observe
+                           that the denominators will not. The results of Section 5 also present interesting extensions for future work. In particular,
+                           Remark 6 suggests that dividing the coefﬁcients into subsequences to be bounded separately
+                           may be the best approach to study the convergence of the Laurent series of the coefﬁcients. ",math.CV,C,0.7100232,0.17497523,0.0016142754
+http://arxiv.org/pdf/2206.15112v1,"Berezin-Toeplitz operators, Kodaira maps, and random sections","Indeed  the
+                                                            k
+                   1
+diﬀerence          k  Φ  ∗   ωF  S   x−ωx exhibits two very diﬀerent behaviors on and outside f −1(0). Tk
+
+In order to further study these two regimes, a natural idea is to work on a smaller scale
+
+which allows us to localize around any given point. We show that the scale k− 12 (that
+
+we call Planck scale in the rest of the paper) is well-adapted to this problem. ",math.CV,C,-0.038745254,-0.07132123,-0.19138785
+http://arxiv.org/pdf/2207.01658v1,Introducing isodynamic points for binary forms and their ratios,"Remark 8. Due to the considerable number of known triangle centers in Table
+1, and the fact that m(α) traverses a real line in C as α runs over the real line for
+any polynomial P of degree d ≥ 2 with simple zeros, the authors think that this
+line is worth further study. 12  CH. ",math.CV,B,-0.072008744,-0.12074218,0.17310208
+http://arxiv.org/pdf/2207.04705v1,Plurisigned hermitian metrics,"v−(ω) > 0) is independent of the choice of hermitian metric –it only de-
+pends on the complex structure– and is a bimeromorphic invariant. We further study these conditions in this article, testing them on various
+classes of examples. Our ﬁrst observation is the following hereditary result. ",math.CV,B,-0.24856023,-0.039237894,-0.08415702
+http://arxiv.org/pdf/2207.08985v1,Representing systems of reproducing kernels in spaces of analytic functions,"Our goal was to give a qualitative answer to the question about existence
+                                                                                                                                                      11
+
+of representing systems. It is an interesting problem for further research to ﬁnd optimal
+density conditions. 5. ",math.CV,A,-0.18032748,0.020792553,-0.26168555
+http://arxiv.org/pdf/2207.11027v1,New findings on the periodicity of entire functions and their differential polynomials,"In fact, we mainly
+focus on the case when f (z) is a transcendental entire function. The case of meromorphic
+functions is still open for further research. Here, we give some conditions on f (z) so that the implication in Problem 1 holds. ",math.CV,B,-0.19332391,-0.28351545,0.21153231
+http://arxiv.org/pdf/2208.02551v1,"Hölder and Lipschitz continuity in Orlicz-Sobolev classes, distortion and harmonic mappings","We can extend our results to class of moduli functions which include ω(δ) = δα (0 < α
+1), so our result generalizes earlier results on H¨older continuity (see [NO]) and Lipschitz
+continuity (see [AKM1]). In addition, concerning further research we suggest some possibility. Suppose that do-
+mains D and Ω are bounded domains in Rn and its boundaries belong to class Ck,α, 0
+α 1, k 2 (more generally C2). ",math.CV,A,-0.13959965,0.17490742,-0.28774968
+http://arxiv.org/pdf/2208.03690v1,On the singularities of the Szegő kernels on CR orbifolds,"This is a consequence of the properties of SU(q) just mentioned and a theorem of functional
+analysis. The property (1) is important for further study about the algebra of Toeplitz operators
+
+on CR orbifolds. Now, assume that X admits a transversal and CR locally free S1 action eiθ. ",math.CV,B,-0.26064065,-0.31297565,-0.17577076
+http://arxiv.org/pdf/2208.05652v1,Burgers' equation in the complex plane,"Section 6 brieﬂy explores how well a
+rational approximation works for this problem, using the AAA algorithm as an example. Finally, we close the paper
+in section 7 with a summary of the key points and a discussion about future work. All code to reproduce the numerical
+results in this work is available on Github. ",math.CV,C,0.16594687,0.048656907,0.19243881
+http://arxiv.org/pdf/2208.11245v1,Quasiperiodic sets at infinity and meromorphic extensions of their fractal zeta functions,"Another idea to construct an algebraically quasiperiodic relative fractal drum
+(A, Ω) is to use the geometric inversion in one coordinate; that is, Φ1(x, y) :=
+(1/x, y) and apply it to the quasiperiodic relative fractal drum (∞, Ω) constructed
+here. We leave this, as well as other properties of the ‘partial geometric inversion’
+for future work. One more approach would be to consider a “radial version” of
+RFDs considered here since then the geometric inversion of such an RFD would be
+much more easier to handle. ",math.CV,C,0.01267542,0.1645617,-0.14862043

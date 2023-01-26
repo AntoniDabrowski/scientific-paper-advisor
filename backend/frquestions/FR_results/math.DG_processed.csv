@@ -1,0 +1,676 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00379v1,Some Modifications of Getzler's Grading technique,"It is the expectation of the author that the reader will appreciate the
+
+power of the grading technique as a useful and adaptable method to solve
+several problems concerning heat kernels. For future work, it would be inter-
+esting to use the grading technique to compute the leading terms of asymp-
+totic expansions of terms like Tr(Dse−tDs2) as s goes to inﬁnity. 2 Preliminaries
+
+In this section we ﬁx notation and state the main properties and theorems
+to be used in the following sections. ",math.DG,B,0.089525655,0.17923254,-0.08045734
+http://arxiv.org/pdf/2201.05695v1,Volume growth and on-diagonal heat kernel bounds on Riemannian manifolds with an end,"Even though we managed to give both positive and negative results for manifolds with par-
+
+abolic end concerning the estimate (1.1), a gap still remains. Closing this gap seems to be
+
+interesting for future work, for example, it might be desirable to construct a manifold with
+
+parabolic end of inﬁnite volume for which (1.1) does not hold. NOTATION. ",math.DG,A,0.01741265,0.0316196,-0.13545658
+http://arxiv.org/pdf/2201.06385v1,Discrete curvature on graphs from the effective resistance,"See [56] for more information on ERGs and their properties and Figure 4 for an illustration of
+their construction and some examples. To simplify the setup for further analysis, we consider ERGs on the disc D = {x ∈ R2 : x ≤ R}
+of radius R, such that nodes at the same radial distance Di from the boundary are statistically
+equivalent, and the eﬀective parameters reduce to (R/r, N ). As a ﬁrst numerical analysis, Figure 4 shows the resistance curvatures in a Euclidean random
+graph on the disc with R/r = 4 and N = 2.103 nodes. ",math.DG,A,0.25407535,0.17362374,-0.35903394
+http://arxiv.org/pdf/2201.06385v2,Discrete curvature on graphs from the effective resistance,"See [56] for more information on ERGs and their properties and Figure 4 for an illustration of
+their construction and some examples. To simplify the setup for further analysis, we consider ERGs on the disc D = {x ∈ R2 : x ≤ R}
+of radius R, such that nodes at the same radial distance Di from the boundary are statistically
+equivalent, and the eﬀective parameters reduce to (R/r, N ). As a ﬁrst numerical analysis, Figure 4 shows the resistance curvatures in a Euclidean random
+graph on the disc with R/r = 4 and N = 2.103 nodes. ",math.DG,A,0.25407535,0.17362374,-0.35903394
+http://arxiv.org/pdf/2201.06385v3,Discrete curvature on graphs from the effective resistance,"Visually, both the node and link resistance curvatures
+are close to zero near the center of the disc but become negative and then positive going closer
+to the boundary. More detailed experimental results are shown in Figure 5 and the origin of the
+boundary eﬀect is explained in the main text and Appendix E.
+
+To simplify the setup for further analysis, we consider ERGs on the disc D = {x ∈ R2 : x ≤ R}
+of radius R, such that nodes at the same radial distance Di from the boundary are statistically
+equivalent, and the eﬀective parameters reduce to (R/r, N ). As a ﬁrst numerical analysis, Figure 4 shows the resistance curvatures in a Euclidean random
+graph on the disc with R/r = 4 and N = 2.103 nodes. ",math.DG,A,0.31789637,0.10402919,-0.36358625
+http://arxiv.org/pdf/2201.07852v1,"Nonnegative Ricci curvature, metric cones, and virtual abelianness","In Section 2, assuming that M has the conditions in Theorem A(1) and
+
+π1(M ) is nilpotent, we study the equivariant asymptotic geometry of (M , π1(M, p)). Then in Section 3, we further study the asymptotic orbits coming from γ -action,
+where γ ∈ π1(M, p) has inﬁnite order. The properties of these asymptotic orbits
+lead to the almost linear growth estimate and virtual abelianness in Section 4. ",math.DG,B,-0.18667157,0.18923834,0.1297854
+http://arxiv.org/pdf/2201.09929v1,Euclidean and Affine Curve Reconstruction,"α∈[0,L]
+
+    We observe that the Hausdorﬀ distance is not SA(2)-invariant and so it does not
+provide a natural measure of distance between two curves in the equi-aﬃne case. In
+a future work, we will explore SA(2)-invariant alternatives for measuring the distance
+between two curves, based, for instance, on the area of the region between two curves. 5 Appendix
+
+    If a given equi-aﬃne curvature is analytic, it is possible to reconstruct the corre-
+sponding curve by looking for power series solutions to the second order ODE system
+Tαα = −µ(α)T . ",math.DG,A,0.18936463,0.03516175,-0.21253635
+http://arxiv.org/pdf/2201.10616v1,Interior Kasparov product for $\varrho$-classes on Riemannian foliated bundles,"Observe now that Deﬁnition 4.6 involve a perturbation which did not appear in
+       the applications of the present work. Indeed, an open problem which will be
+       treated in a future work is to provide a proof of the product formula (7.16) for
+         -classes associated with perturbed generalized Dirac operators, such as those
+       given by the signature operator on homotopy equivalent foliations, see [35, Sec-
+       tion 3.4]. 3. ",math.DG,B,-0.18725644,0.14404476,0.19739276
+http://arxiv.org/pdf/2201.12562v1,Optimal Symplectic Connections and Deformations of Holomorphic Submersions,"This should also lead to new examples, produced by starting
+with a relatively cscK ﬁbration admitting an optimal symplectic connection and applying the
+implicit function theorem to obtain an optimal symplectic connection on a deformed relatively
+K-semistable ﬁbrations. We plan to return to this in future work. While our work settles the problem in the case all input is smooth, open questions remain
+in the presence of singularities. ",math.DG,B,-0.17562893,-0.11946361,0.17028093
+http://arxiv.org/pdf/2201.12668v1,Geometry of positive scalar curvature on complete manifold,"But, our assumption on the
+manifolds with pole is very artiﬁcial. For Yau’s Problem 1.5, we will do more studies in our
+future works. Moreover, we consider the baby version of Yau’s Problem 1.5, then we obtain
+
+Theorem 1.8. ",math.DG,B,-0.2925583,-0.092971265,0.065501615
+http://arxiv.org/pdf/2201.12883v1,Boundedness of oscillating singular integrals on Lie groups of polynomial growth,"For 0 < p <
+∞, the Lp-Sobolev space of order s ∈ R, on G is deﬁned by the family of distributions
+f ∈ D (G) such that
+
+                                                                                                                      s
+
+                                 f Lps(G) := (1 + R) ν f Lp(G) < ∞. In our further analysis we will make use of the following Sobolev inequality on graded
+groups (see [22, Page 1674])
+
+                                                           a    a=Q         11         , 1 < q < p < ∞,       (3.3)
+                                                                              −
+    f Lp(G) ≤ C (1 + R) ν Lq(G),
+                                                                            qp
+
+where Q is the homogeneous of the group. Remark 3.5. ",math.DG,B,-0.19064178,0.63734806,-0.27143174
+http://arxiv.org/pdf/2201.12883v2,Boundedness of oscillating singular integrals on Lie groups of polynomial growth,"For 0 < p <
+∞, the Lp-Sobolev space of order s ∈ R, on G is deﬁned by the family of distributions
+f ∈ D (G) such that
+
+                                                                                                                      s
+
+                                 f Lps(G) := (1 + R) ν f Lp(G) < ∞. In our further analysis we will make use of the following Sobolev inequality on graded
+groups (see [22, Page 1674])
+
+                                                           a    a=Q         11         , 1 < q < p < ∞,       (3.3)
+                                                                              −
+    f Lp(G) ≤ C (1 + R) ν Lq(G),
+                                                                            qp
+
+where Q is the homogeneous of the group. Remark 3.5. ",math.DG,B,-0.19064178,0.63734806,-0.27143174
+http://arxiv.org/pdf/2201.12883v3,Boundedness of oscillating singular integrals on Lie groups of polynomial growth,"For 0 < p <
+∞, the Lp-Sobolev space of order s ∈ R, on G is deﬁned by the family of distributions
+f ∈ D (G) such that
+
+                                                                                                                      s
+
+                                 f Lps(G) := (1 + R) ν f Lp(G) < ∞. In our further analysis we will make use of the following Sobolev inequality on graded
+groups (see [22, Page 1674])
+
+                                                           a  a=Q     11   , 1 < q < p < ∞,  (3.3)
+                                                                        −
+    f Lp(G) ≤ C (1 + R) ν f Lq(G),
+                                                                      qp
+
+where Q is the homogeneous of the group. OSCILLATING SINGULAR INTEGRALS ON LIE GROUPS OF POL. ",math.DG,B,-0.21208271,0.50819325,-0.20342949
+http://arxiv.org/pdf/2201.12883v4,Boundedness of oscillating singular integrals on Lie groups of polynomial growth,"For 0 < p <
+∞, the Lp-Sobolev space of order s ∈ R, on G is deﬁned by the family of distributions
+f ∈ D (G) such that
+
+                                                                                                                      s
+
+                                 f Lps(G) := (1 + R) ν f Lp(G) < ∞. In our further analysis we will make use of the following Sobolev inequality on graded
+groups (see [22, Page 1674])
+
+                                                       a  a=Q     11   , 1 < q < p < ∞,  (3.3)
+                                                                    −
+f Lp(G) ≤ C (1 + R) ν f Lq(G),
+                                                                  qp
+
+where Q is the homogeneous of the group. 14                                 D. CARDONA AND M. RUZHANSKY
+
+Remark 3.5. ",math.DG,B,-0.20573759,0.634092,-0.2682901
+http://arxiv.org/pdf/2201.12883v5,Boundedness of oscillating singular integrals on Lie groups of polynomial growth,"For 0 < p <
+∞, the Lp-Sobolev space of order s ∈ R, on G is deﬁned by the family of distributions
+f ∈ D (G) such that
+
+                                                                                                                      s
+
+                                 f Lps(G) := (1 + R) ν f Lp(G) < ∞. In our further analysis we will make use of the following Sobolev inequality on graded
+groups (see [23, Page 1674])
+
+                                                       a  a=Q     11   , 1 < q < p < ∞,  (3.3)
+                                                                    −
+f Lp(G) ≤ C (1 + R) ν f Lq(G),
+                                                                  qp
+
+where Q is the homogeneous of the group. 14                                    D. CARDONA AND M. RUZHANSKY
+
+Remark 3.5. ",math.DG,B,-0.20567502,0.6333065,-0.2681817
+http://arxiv.org/pdf/2202.01992v1,The maximal curves and heat flow in fully affine geometry,"However,
+
+the second variational formula is still a remaining problem. In the present paper, by employing
+
+the evolution equations of curve ﬂow, we obtain the second variational formula and further study
+
+the local stability of the extremal curves with respect to fully aﬃne arc length (see Section
+
+5 for details). It is noteworthy that the fully aﬃne maximal curves in R2 produce a more
+abundant category, which contains not only the explicit curves y = xα (α is a constant and α ∈/
+{0, 1, 1 , 2}) and y = x log x, but also these implicit curves with the fully aﬃne curvature ϕ =
+   √2 √
+                             √   √                    √
+32       2                   32     2                    29
+   2 tanh 3 ξ , ϕ = 2 coth 3 ξ , or ϕ = ± 2 + ξ2 , where ξ is the fully aﬃne arc
+
+length parameter. ",math.DG,A,0.080306485,-0.0005848808,-0.22348772
+http://arxiv.org/pdf/2202.07407v1,The $\infty$-elastica problem on a Riemannian manifold,"its second derivative must be discontinuous. Theorem 2 opens up the possibility of further analysis of ∞-elastica through the ODE system (4)–
+(5) in a manner similar to that of [12]; however, such an analysis would most likely require us to
+restrict our attention to a single manifold M at a time, and would potentially only work for more
+‘well-behaved’ and well-understood manifolds (e.g. the sphere Sn or hyperbolic space Hn). ",math.DG,A,0.113977656,-0.18523496,-0.19359165
+http://arxiv.org/pdf/2202.11023v1,Diffeological Principal Bundles and Principal Infinity Bundles,"This result provides a bridge between two frameworks for higher diﬀerential geom-
+etry. In future work we will explore how to move results from higher topos theory,
+which have had a long time to be developed, to diﬀeological spaces, which is a much
+newer subject. In particular we plan to investigate how to deﬁne diﬀeological non-
+abelian bundle gerbes and diﬀeological bundles with connection 1 using this approach. ",math.DG,B,-0.055901285,0.0014072582,0.42242754
+http://arxiv.org/pdf/2203.00118v1,A Gelfand Transform for Spinor Fields on Embedded Riemannian Manifolds,"The set of grade preserving linear multiplicative currents are the most useful for us. It is worth remarking
+that currents as deﬁned here provide an ample setting for further study. There are plenty of tweaks that
+could be interesting. ",math.DG,B,0.14816697,0.090054005,0.065781064
+http://arxiv.org/pdf/2203.02864v1,Null hypersurfaces as wave fronts in Lorentz-Minkowski space,"17H02839, respectively, from Japan Society for the
+                                         Promotion of Science. 1
+2                AKAMINE, HONDA, UMEHARA AND YAMADA
+
+theorem might play an important role for further study of diﬀerential geometry of
+
+null hypersurfaces. On the other hand, an L-complete null wave front in Rn1+1 is called complete if its
+
+singular set is a non-empty compact subset in the domain of deﬁnition. ",math.DG,B,-0.058843397,-0.082403004,0.05424951
+http://arxiv.org/pdf/2203.04717v1,Index theory of hypoelliptic operators on Carnot manifolds,"Here we present some relevant features deducible from abstract
+principles. Explicit results, both in the abstract and in examples, will be left to
+future work. 172
+
+     25.1. ",math.DG,B,0.0060350485,0.2171957,0.26823747
+http://arxiv.org/pdf/2203.06891v1,Variational problem on a metric-affine almost product manifold,"for twisted products [13, 15], can be combined with (2) as
+J¯D,ǫ : (g, T) → M (S + ǫ S D1,...,Dk) d volg (ǫ ∈ R), and can be used for the theory of gravity. We delegate for further study the actions (2) and (3) with general variations of metrics. 1.3. ",math.DG,B,-0.04273615,0.036953904,0.2051176
+http://arxiv.org/pdf/2203.09796v1,Transnormal Functions and Focal Varieties on Finsler Manifolds,"Then he used the same technique to study
+isoparametric hypersurfaces induced by homothetic navigation in Lorentz Finsler geome-
+try [18]. In order to give a further study on isoparametric functions and isoparametric hypersur-
+faces in Finsler geometry, in this papar, we study transnormal functions and focal varieties
+in Finsler manifolds. For a connected Finsler manifold (N, F ), denote the focal varieties of f
+V = {p ∈ N ∇f (p) = 0} and M± the set where f attains its global maximum value or global
+minimum value (if either of them exists). ",math.DG,C,-0.099612504,-0.55287075,-0.16538076
+http://arxiv.org/pdf/2203.09796v2,Transnormal Functions and Focal Varieties on Finsler Manifolds,"Then he used the same technique to study
+isoparametric hypersurfaces induced by homothetic navigation in Lorentz Finsler geome-
+try [17]. In order to give a further study on isoparametric functions and isoparametric hypersur-
+faces in Finsler geometry, in this papar, we study transnormal functions and focal varieties
+in Finsler manifolds. Unlike the Riemannian case, besides the regularity of isoparametric
+functions is worse, the Finsler metrics are not necessarily reversible, that is, the geodesics
+are not necessarily reversible, which cause more diﬃculties for the research. ",math.DG,C_centroid,-0.07679258,-0.5969894,-0.17909458
+http://arxiv.org/pdf/2203.09796v3,Transnormal Functions and Focal Varieties on Finsler Manifolds,"Then he used the same technique to study
+isoparametric hypersurfaces induced by homothetic navigation in Lorentz Finsler geome-
+try [17]. In order to give a further study on isoparametric functions and isoparametric hypersur-
+faces in Finsler geometry, in this papar, we study transnormal functions and focal varieties
+in Finsler manifolds. Unlike the Riemannian case, besides the regularity of isoparametric
+functions is worse, the Finsler metrics are not necessarily reversible, that is, the geodesics
+are not necessarily reversible, which cause more diﬃculties for the research. ",math.DG,C,-0.07679258,-0.5969894,-0.17909458
+http://arxiv.org/pdf/2203.09796v4,Transnormal Functions and Focal Varieties on Finsler Manifolds,"Then he used the same technique to study
+isoparametric hypersurfaces induced by homothetic navigation in Lorentz Finsler geome-
+try [17]. In order to give a further study on isoparametric functions and isoparametric hypersur-
+faces in Finsler geometry, in this papar, we study transnormal functions and focal varieties
+in Finsler manifolds. Unlike the Riemannian case, besides the regularity of isoparametric
+functions is worse, the Finsler metrics are not necessarily reversible, that is, the geodesics
+are not necessarily reversible, which cause more diﬃculties for the research. ",math.DG,C,-0.07679258,-0.5969894,-0.17909458
+http://arxiv.org/pdf/2203.09796v5,Transnormal Functions and Focal Varieties on Finsler Manifolds,"Then he used the same technique to study
+isoparametric hypersurfaces induced by homothetic navigation in Lorentz Finsler geome-
+try [17]. In order to give a further study on isoparametric functions and isoparametric hypersur-
+faces in Finsler geometry, in this papar, we study transnormal functions and focal varieties
+in Finsler manifolds. Unlike the Riemannian case, besides the regularity of isoparametric
+functions is worse, the Finsler metrics are not necessarily reversible, that is, the geodesics
+are not necessarily reversible, which cause more diﬃculties for the research. ",math.DG,C,-0.07679258,-0.5969894,-0.17909458
+http://arxiv.org/pdf/2203.12360v2,Li-Yau inequalities for the Helfrich functional and applications,"We have now provided a more detailed explanation and a picture to illustrate the
+                                                 construction. 2. p. 6, middle: I understand that obtaining proper estimates for η(c0, A0, V0) is part
+                                                 of your future work and it is out of the scope of this article. This is ﬁne. ",math.DG,B,0.071376055,0.15026188,-0.10964322
+http://arxiv.org/pdf/2203.13162v1,Conjugate Plateau constructions in product spaces,"However, Surface Evolver is ﬂexible enough to allow the user to deﬁne his
+own quantities. In this sense and as a future work, it will be interesting to extend
+Surface Evolver’s functionality to overcome the mentioned issues. For instance,
+an implementation of the enclosed volume with respect the new metric will be
+extremely useful to get approximations of the H-surfaces constructed in §5.2 de-
+creasing the area functional with a constrain on the volume. ",math.DG,A,0.049128965,-0.11779364,-0.16976067
+http://arxiv.org/pdf/2203.13730v1,Orbifold resolution via hyperkahler quotients: the $D_2$ ALF manifold,"It should be possible to do so by following the
+approach of [FMSW] for studying the asymptotic geometry of ALG parabolic Higgs bun-
+dle moduli spaces. We leave this for future work. We ﬁnally mention one possible puzzle. ",math.DG,B,-0.15642175,0.09870151,0.18821019
+http://arxiv.org/pdf/2203.13730v2,Orbifold resolution via hyperkahler quotients: the $D_2$ ALF manifold,"It should be possible to do so by following the
+approach of [FMSW] for studying the asymptotic geometry of ALG parabolic Higgs bun-
+dle moduli spaces. We leave this for future work. We ﬁnally mention one possible puzzle. ",math.DG,B,-0.15642175,0.09870151,0.18821019
+http://arxiv.org/pdf/2204.00798v1,The Clifford algebra bundle on loop space,"In the present context, it turns out that the bundle
+ALX is the transgression of a certain bundle of free fermion conformal nets [11], which
+(on a spin manifold) is classiﬁed by 21p1(X). This will be discussed in future work. Acknowledgements. ",math.DG,B,-0.03178916,-0.058844827,0.27669835
+http://arxiv.org/pdf/2204.01663v1,The fundamental Lepage form in two independent variables: a generalization using order-reducibility,"We call Zλ (4.5), satisfying one
+of the equivalent conditions of Theorem 11, the fundamental Lepage equivalent,
+associated to a second-order Lagrangian λ. Our conjecture is that this kind of generalization of the fundamental form using
+order reducibility can be provided for a general dimension of a base manifold, which
+will be studied in a future work. THE FUNDAMENTAL LEPAGE FORM IN TWO INDEPENDENT VARIABLES  14
+
+                                            References
+
+ [1] Betounes, D.E. ",math.DG,B_centroid,-0.266814,0.009665547,0.101377144
+http://arxiv.org/pdf/2204.01663v2,The fundamental Lepage form in two independent variables: a generalization using order-reducibility,"We call Zλ (4.5), satisfying one
+of the equivalent conditions of Theorem 11, the fundamental Lepage equivalent,
+associated to a second-order Lagrangian λ. Our conjecture is that this kind of generalization of the fundamental form using
+order reducibility can be provided for a general dimension of a base manifold, which
+will be studied in a future work. THE FUNDAMENTAL LEPAGE FORM IN TWO INDEPENDENT VARIABLES  14
+
+                                            References
+
+ [1] Betounes, D.E. ",math.DG,B,-0.266814,0.009665547,0.101377144
+http://arxiv.org/pdf/2204.02298v1,A rigidity result of spectral gap on Finsler manifolds and its application,"On weighted Rieman-
+nian manifolds, the quantitative Bakry–Ledoux isoperimetric inequality was studied on
+[MO1, MO2] and one might prove analogous results on reversible Finsler manifolds. For
+future work, the author considers to study the quantitative estimate of the main theorem
+via the needle decomposition. References
+
+[BGL]  D. Bakry, I. Gentil and M. Ledoux, Analysis and geometry of Markov diﬀusion op-
+       erators. ",math.DG,C,-0.065289095,-0.15963075,-0.2290396
+http://arxiv.org/pdf/2204.02465v1,Extremals on three-dimensional Lie groups with asymmetric polyhedral Finsler structures,"Moreover, if Ka(t) = 0 for every t ∈ [0, ǫ) then
+there exist inﬁnite controls u(t) such that (u(t), a(t)) is a Pontryagin extremal of
+(G, F ). Finally Section 6 is devoted to ﬁnal remarks and suggestions for future works. In Finsler (and Riemannian) Geometry, geodesics and curvature are related by
+Jacobi ﬁelds. ",math.DG,C,-0.09888897,-0.34898132,-0.14512578
+http://arxiv.org/pdf/2204.02465v2,Extremals on three-dimensional Lie groups with asymmetric polyhedral Finsler structures,"Then a(t) admits inﬁnitely many u(t) such that (u(t), a(t)) is
+a Pontryagin extremal iﬀ I := {t ∈ I; Ka(t) = 0} has positive measure. Finally Section 6 is devoted to ﬁnal remarks and suggestions for future works. In Finsler (and Riemannian) Geometry, geodesics and curvature are related by
+Jacobi ﬁelds. ",math.DG,C,-0.10225955,-0.2971048,-0.18792298
+http://arxiv.org/pdf/2204.04570v2,Extremal metrics for the Paneitz Operator on closed four-Manifolds,"In the case of closed surfaces for laplacian eigenvalues, the condition
+    p                                                                      p
+    i=1  dφi  ⊗  dφi  =  g  (see  section    1.2)  alone  implies  that    i=1   φ2i   is  constant,  and  so
+
+we have a map into a sphere; see proof of Lemma 3.1 in [13]. By further studying
+                      p
+the condition         i=1   τg (φi )  =  0,  we  expect  to  be  able  to  drop  this  assumption     in  the
+
+hypothesis of Proposition 4.8. 5. ",math.DG,B,-0.21250951,-0.04094363,-0.15157126
+http://arxiv.org/pdf/2204.06443v1,On Helical Surfaces with a Constant Ratio of Principal Curvatures,"The present approach
+based on profiles for projection orthogonal to the spiral axis should be promising, since these profiles also appear in
+Wunderlich’s spiral minimal surfaces [19]. However, the characterizing ODE is much more complicated and thus we
+leave its solution for future work. 18 Yang Liu1, Olimjoni Pirahmad2, Hui Wang2, Dominik L. Michels1, Helmut Pottmann2
+
+Fig. ",math.DG,A,0.07143897,-0.12508157,-0.14899221
+http://arxiv.org/pdf/2204.08507v1,Multiplicative Ehresmann connections,"For example, it is natural to consider
+Ehresmann connections for morphisms of groupoids over diﬀerent bases or more
+general types of bundles of ideals [20]; or one can study applications of multiplica-
+tive Ehresmann connections and their curvature forms in relation to gerbes and
+stacks. We plan to return to these questions in future work. This paper is organized as follows. ",math.DG,B,-0.025398672,-0.06350116,0.4008164
+http://arxiv.org/pdf/2204.08507v2,Multiplicative Ehresmann connections,"Another intriguing question is to deﬁne
+appropriate moduli spaces of ﬂat multiplicative connections. We plan to return to
+some these questions in future work. This paper is organized as follows. ",math.DG,B,-0.11000557,0.046376426,0.37393248
+http://arxiv.org/pdf/2204.11455v1,Lord Rayleigh's Conjecture for Vibrating Clamped Plates in Positively Curved Spaces,"We extend u± : Ω± → (0, ∞) and (∆gu)± : (Ω∆±) → (0, ∞) by zero to the
+
+whole Ω outside of Ω± and Ω∆± , respectively. Our further analysis is based on ﬁne properties of
+the functions
+
+                                     J (s) := (∆gu)∗−(s) − (∆gu)∗+(Vκ(Ω ) − s)
+
+and
+
+           H(s) := −J (Vκ(Ω ) − s), s ∈ [0, Vκ(Ω )],
+
+where we will use the notation
+
+           (∆gu)∗±(s) := (∆gu)±(x), whenever s = Vκ(Cκn(dκ(N, x))), x ∈ Ω . (4.7)
+
+Some useful properties of the functions J and H are summarized in the sequel. ",math.DG,B,-0.06250155,0.29483265,-0.22317699
+http://arxiv.org/pdf/2204.12218v1,Graph and Hodge Laplacians: Similarity and Difference,"For simplicity and
+numerical reasons, the k-Hodge star is usually implemented as a diagonal matrix
+Sk with entries as the ratio between the (n − k)-volume of the Voronoi (or other
+dual structure) (n − k)-cell and the k-volumes of the primal k-simplex and is highly
+dependent on the tessellation. More accurate Hodge stars can be discussed but are
+left for future work on numerical accuracy. Yet, given our regular grid representation,
+Hodge stars are simple and uniform to calculate for grid elements located completely
+in the interior of the model. ",math.DG,A,0.19510512,0.012851186,0.047959406
+http://arxiv.org/pdf/2204.13523v1,"Jacobi-Maupertuis principle, mechanical Hamiltonian systems with respect to linear Poisson structures and Jacobi-Reeb dynamics","2(e − V ( 2ψ)) 2 ∂ψ ∂ψ ∂pψ
+
+                                     5. Conclusions and future work
+
+An extension of the Jacobi-Maupertuis principle for mechanical Hamiltonian systems with re-
+spect to linear Poisson structures on vector bundles is obtained. In fact, the relation between
+the mechanical Hamiltonian dynamics and the Jacobi-Reeb dynamics on the corresponding
+spherical bundle is also discussed. ",math.DG,A,0.020495879,-0.1601302,0.048012886
+http://arxiv.org/pdf/2204.13523v2,Mechanical Hamiltonian systems with respect to linear Poisson structures and Jacobi-Reeb dynamics,"5. Conclusions and future work
+
+We have described the relation between the dynamics of mechanical Hamiltonian systems with
+respect to a linear Poisson structure on a vector bundle and the Jacobi-Reeb dynamics on the
+corresponding spherical bundle. In the particular case when the vector bundle is the cotangent
+bundle T ∗Q of a manifold Q and the linear Poisson structure on T ∗Q is just the canonical
+symplectic structure, we recover the classical case. ",math.DG,A,0.068503976,-0.17261818,0.104880065
+http://arxiv.org/pdf/2204.13609v1,Non-lorentzian spacetimes,"There are classiﬁcations of certain four-dimensional kinematical Lie superalgebras and
+their associated Klein supergeometries [45, 46, 47], extending earlier work on contractions of the Poincaré
+and anti de Sitter superalgebras and referred to in those papers. As for future work, an obvious next step is the study of natural conditions which can be imposed on the
+curvature of the Cartan connection of a kinematical Cartan geometry. Some of these conditions could
+have a variational origin, just like Ricci-ﬂatness in lorentzian geometry arises as the Euler–Lagrange
+equation of the Einstein–Hilbert action. ",math.DG,C,0.0046934076,-0.24865294,0.06652103
+http://arxiv.org/pdf/2205.01162v1,Finsler pp-waves and the Penrose Limit,"These have proven useful
+for studying kinematical groups, in particular the Carroll group of plane
+waves (notably in [DGHZ17]), thus raising the question of the kinematical
+group structure associated with Finsler pp-waves. The optical properties of
+Finsler pp-waves may oﬀer another worthwhile avenue for future work, as
+Lorentzian plane waves are well-known to exhibit some remarkable lensing
+eﬀects (e.g., [Har13]). Indeed, it may be interesting to see whether Finsler
+pp-waves can also be regarded as members of a Kundt class generalized to
+Finsler spacetimes. ",math.DG,C,0.02423316,-0.24132335,0.10747032
+http://arxiv.org/pdf/2205.01971v1,Discrete Isothermic Nets Based on Checkerboard Patterns,"If the domain of the net f is not simply connected, the orthogonal sphere
+congruences sf do not exist in general. It is an interesting question for further research
+which properties might guarantee the existence of a Möbius representation for more
+complex topology or for combinatorial singularities. Lemma and Deﬁnition 18. ",math.DG,B,-0.04395759,0.06850254,0.17328595
+http://arxiv.org/pdf/2205.02109v2,The van Est Map on Geometric Stacks,"they have the same cohomologies up to degree n and we expect them to
+have equivalent n-term representations up to homotopy). In fact, invariance of LA-groupoid
+cohomology under n-equivalence (which we expect to be true up to degree n and which we leave
+to future work) implies the van Est isomorphism theorem and the homotopy invariance of de
+Rham cohomology and singular cohomology, and of course the Morita invariance of Lie groupoid
+cohomology. 134
+We emphasize that, under the assumptions that the source ﬁbers are n-connected, we expect
+that G is equivalent to Πnpgq – via the smooth homotopy hypothesis, this is the higher groupoid
+interpretation of this theorem. ",math.DG,B,-0.013122302,0.1459885,0.34842613
+http://arxiv.org/pdf/2205.04117v1,Equivariant analytic torsion for proper actions,"Since then, this conjecture has been proved in several cases, see for
+example [20, 21, 53, 63, 72], or the survey [64]. In future work, we plan to develop an equivariant
+version of the Ruelle zeta function and investigate its relations with equivariant analytic torsion. Acknowledgements. ",math.DG,B,-0.1920532,0.089207694,-0.0057946406
+http://arxiv.org/pdf/2205.04381v1,"Algebraic aspects of connections: from torsion, curvature, and post-Lie algebras to Gavrilov's double exponential and special polynomials","We propose a partial answer to a conjecture by
+                                           Gavrilov, by showing that a particular class of geometrically special polynomials is gener-
+                                           ated by torsion and curvature. This approach unlocks many possibilities for further research
+                                           such as numerical integrators and rough paths on Riemannian manifolds. Contents
+
+                                         1. ",math.DG,C,-0.08552852,-0.21457127,-0.09994751
+http://arxiv.org/pdf/2205.08914v1,Existence and Nonexistence of Warped Product Submanifolds of Almost Contact Manifolds,"Moreover, a discrete example
+                                                 of contact CR-warped product submanifold in Kenmotsu manifold is
+                                                 constructed. For further research direction, we addressed a couple of
+                                                 open problems arose from the results of this paper. AMS Subject Classiﬁcation (2010): 53C15; 53C40; 53C42; 53B25
+                                                 Keywords: Contact CR-warped products; Sasakian manifolds; Ken-
+                                                 motsu manifolds; cosymplectic manifolds; nearlt trans-Sasakian man-
+                                                 ifolds; general warped product; doubly warped product, second funda-
+                                                 mental form; totally geodesic
+
+                                          1. ",math.DG,B,-0.069260694,-0.2590943,0.24369067
+http://arxiv.org/pdf/2205.12305v2,Admissible Hermitian-Yang-Mills connections over normal varieties,"In the normal surface case,
+
+    near the essential singularities, as pointed out by Donaldson to me,
+
+    this should be related to instantons over manifolds with cylindrical
+
+    ends ([16, Chapter 3]). We leave this for future work. 1.7. ",math.DG,B,-0.14206108,-0.12294951,0.13981241
+http://arxiv.org/pdf/2205.13329v1,On Locally Conformally Cosymplectic Hamiltonian Dynamics and Hamilton-Jacobi Theory,"Referring to this bracket, the
+quintuple is (T ∗M × R, pM , M, ♯Λ + E, {•, •}J), see [46]. Here the anchor map is given by
+
+            ♯Λ + E : Γ1(M) × F (M) −→ X(M), (µ, F ) → ♯Λ(µ) + F E.                 (1.16)
+
+We cite [22, 21, 18] for some further analysis on this Lie algebroid. If E is identically zero, then
+one can consider the cotangent bundle T ∗Q as the total space and the bracket (1.15) reduces to
+
+                         46
+the algebra of one-forms on the Poisson manifold hence the Poisson Lie algebroid structure. ",math.DG,B,-0.061925013,-0.009484394,0.31612295
+http://arxiv.org/pdf/2206.01070v1,"A relation between critical points of Willmore-type energies, weighted areas and vertical potential energies","Thus, the stability condition in Theorem 3.5 reduces to discern if ηνn+1 is positive on
+each of the pieces of γ. A description of the generating curves of cylindrical stationary hypersurfaces appears in [23]
+for the case m = 1 and in [29] for arbitrary m.
+
+    In a future work, it would be interesting to study a similar problem for other weighted energies. A family of
+densities with geometric interest are those related with the ﬂow by the mean curvature. ",math.DG,B,-0.10188166,0.056170627,-0.22190899
+http://arxiv.org/pdf/2206.01070v2,"A relation between cylindrical critical points of Willmore-type energies, weighted areas and vertical potential energies","Thus, the stability condition in Theorem 3.5 reduces to discerning if
+ηνn+1 is positive on each of the pieces of γ. A description of the generating curves
+of cylindrical stationary hypersurfaces appears in [24] for the case m = 1 and in [29]
+for arbitrary m.
+
+In a future work, it would be interesting to study a similar problem for other weighted
+energies. A family of densities with geometric interest are those related with the
+ﬂow by the mean curvature. ",math.DG,B,-0.092676535,0.061426163,-0.2253768
+http://arxiv.org/pdf/2206.02621v1,Ricci flow on surfaces along the standard lightcone in the $3+1$-Minkowski spacetime,"We suspect that the techniques developed in this
+paper could be applied to gain a new proof of this result, possibly under similar restrictions
+as Chow [10]. This is subject of future work. 24
+References
+
+ [1] Ben Andrews and Paul Bryan. ",math.DG,B,-0.18034998,0.23461781,0.023929408
+http://arxiv.org/pdf/2206.02907v1,Pin(2)-equivariance of the Rarita-Schwinger-Seiberg-Witten Equations,"Note that such exotic X cannot be
+symplectic by Taubes’ vanishing/non-vanishing theorem [9]. We hope to address the above questions in our future work. References
+
+ [1] Anar Akhmedov and B. Doug Park. ",math.DG,B,-0.2357186,-0.16524261,0.15060368
+http://arxiv.org/pdf/2206.02907v2,Pin(2)-equivariance of the Rarita-Schwinger-Seiberg-Witten Equations,"Note that such exotic X cannot be
+symplectic by Taubes’ vanishing/non-vanishing theorem [9]. We hope to address the above questions in our future work. References
+
+ [1] Anar Akhmedov and B. Doug Park. ",math.DG,B,-0.2357186,-0.16524261,0.15060368
+http://arxiv.org/pdf/2206.05586v1,Conjugate points in sub-Riemannian geometry,"This result
+is a contribution to sub-Riemannian geometry of independent interest. Finally, we prove
+Theorem 1 in Section 3.4 and discuss Theorem 2, as well as possible future work and
+related open questions, in Section 4. Declarations of interest: none. ",math.DG,C,-0.2660677,-0.120827116,-0.16798207
+http://arxiv.org/pdf/2206.05586v2,Conjugate points in sub-Riemannian geometry,"This result
+is a contribution to sub-Riemannian geometry of independent interest. Finally, we prove
+Theorem 1 in Section 3.4 and discuss Theorem 2, as well as possible future work and
+related open questions, in Section 4. Declarations of interest: none. ",math.DG,C,-0.2660677,-0.120827116,-0.16798207
+http://arxiv.org/pdf/2206.05586v3,Local non-injectivity of the exponential map at critical points in sub-Riemannian geometry,"This result
+is a contribution to sub-Riemannian geometry of independent interest. Finally, we prove
+
+                                                        3
+Theorem 1 in Section 3.4 and discuss Theorem 3, as well as possible future work and
+related open questions, in Section 4. Data availability statement
+
+    Data sharing not applicable to this article as no datasets were generated or analysed
+during the current study. ",math.DG,C,-0.088649526,-0.1389128,-0.083893806
+http://arxiv.org/pdf/2206.08210v1,Nonuniqueness of Calabi-Yau metrics with maximal volume growth,"Alternatively, one could also try to establish a priori estimates for the complex
+Monge-Amp`ere equation in the maximal volume growth setting. We leave these to
+future work. References
+
+[1] Biquard, O., Gauduchon, P. Hyper-K¨ahler metrics on cotangent bundles of Hermitian sym-
+    metric spaces in Geometry and physics (Aarhus, 1995), Lect. ",math.DG,B,-0.13464439,0.0639641,-0.107801035
+http://arxiv.org/pdf/2206.09209v1,The Frenet Frame as a Generalization of the Park Transform,"New York: Wiley
+of converter-interfaced generation. This topic will be the focus                      IEEE Press, 2017.
+of future work by the author. [24] F. G. Montoya, R. Ban˜os, A. Alcayde, F. M. Arrabal-Campos, and
+                             REFERENCES                                               J. Rolda´n-Pe´rez, “Vector geometric algebra in power systems: An
+                                                                                      updated formulation of apparent power under non-sinusoidal conditions,”
+ [1] R. H. Park, “Two-reaction theory of synchronous machines generalized             Mathematics, vol. ",math.DG,A,0.24959138,-0.0035395846,0.0825959
+http://arxiv.org/pdf/2206.09209v2,The Frenet Frame as a Generalization of the Park Transform,"Another relevant
+                                                                         aspect is the practicality of the implementation of the proposed
+transform does not always provide an easy way to interpret the           technique for on-line applications, such as control and dynamic
+                                                                         state-estimation. These topics will be the focus of future work. results. ",math.DG,A,0.43373466,-0.007006881,-0.06357306
+http://arxiv.org/pdf/2206.09209v3,The Frenet Frame as a Generalization of the Park Transform,"Another relevant
+                                                                         aspect is the practicality of the implementation of the proposed
+transform does not always provide an easy way to interpret the           technique for on-line applications, such as control and dynamic
+                                                                         state-estimation. These topics will be the focus of future work. results. ",math.DG,A,0.43373466,-0.007006881,-0.06357306
+http://arxiv.org/pdf/2206.09537v1,Conjugate point criteria on the area-preserving diffeomorphism group,"The tricky bit here is that what seem like very well-behaved stream functions on the torus look rather bad
+in our polar coordinates, since the polar coordinates themselves degenerate on the cell boundaries. This
+diﬃculty seems quite surmountable, but would take us too far aﬁeld here, so we leave it for future work. We thus ﬁnd that for Kolmogorov ﬂows on the ﬂat torus, the method proposed in this paper does not
+improve upon the original M-criterion for detecting conjugate points. ",math.DG,B,-0.023400305,0.095621005,-0.020974286
+http://arxiv.org/pdf/2206.11883v2,Asymptotic Geometry of the Moduli Space of Rank Two Irregular Higgs Bundles over the Projective Line,"Note that the
+construction of M with twisted singularities as a complete hyperka¨hler manifold has not
+been rigorously established in the literature, and our discussion of the hyperka¨hler metric
+on such M should be regarded as formal. We plan to generalize the results of [BB04] to
+include twisted cases in a future work. Once completed, these moduli spaces will be genuine
+ALG/ALG˚ gravitational instantons. ",math.DG,B,-0.06612326,-0.12460211,0.3253199
+http://arxiv.org/pdf/2206.12730v1,Bicategories of Diffeological Groupoids,"Throughout the paper, we present examples to help
+illustrate the theory. In future work, categeorical properties of these localised bicategories of diﬀeological
+groupoids will be explored. This said, many more directions exist for exploration. ",math.DG,B,0.07514381,0.26375884,0.44897693
+http://arxiv.org/pdf/2206.12730v2,Bicategories of Diffeological Groupoids,"Throughout the paper, we present examples to help
+illustrate the theory. In future work, categeorical properties of these localised bicategories of diﬀeological
+groupoids will be explored. This said, many more directions exist for exploration. ",math.DG,B,0.07514381,0.26375884,0.44897693
+http://arxiv.org/pdf/2206.13401v1,Symmetry breaking in geometry,"A geometric mechanism that may, in analogy to similar notions in
+                                          physics, be considered as “symmetry breaking” in geometry is described, and
+                                          several instances of this mechanism in diﬀerential geometry are discussed: it is
+                                          shown how spontaneous symmetry breaking may occur, and it is discussed how
+                                          explicit symmetry breaking may be used to tackle certain geometric problems. A systematic study of symmetry breaking in geometry is proposed, and some
+                                          preliminary thoughts on further research are formulated. MSC 2020. ",math.DG,A,0.2655763,-0.10545915,0.07372085
+http://arxiv.org/pdf/2206.13579v1,Hermitian-Yang-Mills connections on some complete non-compact Kähler manifolds,"6.4. Some problems for further study. Let (X, ω) satisfy the Assumption 1. ",math.DG,B,-0.078885615,0.2436212,-0.15937719
+http://arxiv.org/pdf/2206.15249v1,On p-biharmonic curves,"The Frenet-equations. For the further analysis it turns out to be useful to rewrite the
+equations for both p-biharmonic (2.2) as well as p-elastic curves (2.3) in terms of its Frenet-
+frames. To this end, we recall the following
+
+Deﬁnition 2.3 (Frenet-frame). ",math.DG,A,0.119608946,-0.096591696,-0.29375055
+http://arxiv.org/pdf/2207.02405v1,Multiplicity and stability of closed geodesics on positively curved Finsler $4$-spheres,"Therefore, by the assumption (TCG), Claims 3 and 4 complete the proof of Theorem 1.1. 4 Some further information about the third closed geodesic
+
+In this section, under the assumption (TCG), we further study the third closed geodesic c3 and
+obtain some much precise information about it (cf. Theorem 4.2 below). ",math.DG,C,-0.22299376,-0.1814948,-0.10580371
+http://arxiv.org/pdf/2207.02405v2,Multiplicity and stability of closed geodesics on positively curved Finsler $4$-spheres,"Therefore, by the assumption (TCG), Claims 3 and 4 complete the proof of Theorem 1.1. 4 Some further information about the third closed geodesic
+
+In this section, under the assumption (TCG), we further study the third closed geodesic c3 and
+obtain some much precise information about it (cf. Theorem 4.2 below). ",math.DG,C,-0.22299376,-0.1814948,-0.10580371
+http://arxiv.org/pdf/2207.03114v1,Anisotropic flows without global terms and dual Orlicz Christoffel-Minkowski type problem,"We hope that these estimates can be used more widely. We only need
+to derive the C0 estimates to get the long-time existence in future work. We give
+an assumption about curvature function. ",math.DG,A,-0.011499763,0.06309497,-0.32961345
+http://arxiv.org/pdf/2207.03415v1,Asymptotics for minimizers of a Donaldson functional and mean curvature 1-immersions of surfaces into hyperbolic 3-manifolds,"g = 2) in Theorem 6, where
+
+the orthogonality condition (1.16) is nicely interpreted in terms of the Kodaira
+map of X into the projective space P(V ∗), with V = C2(X). Extension of such
+a fact for m ≥ 2 will be discussed in future work. Next, we wish to acquire some useful information about the blow-up behavior
+
+of (utk , ηtk ) in the ”collapsing” case and when blow-up occurs with ”least” blow-
+up mass 8π. ",math.DG,B,-0.21868059,0.06550503,0.20172425
+http://arxiv.org/pdf/2207.03467v3,"Mass, capacitary functions, and the mass-to-capacity ratio","Hence, m > cΣ, violating (8.1). Considering this and Proposition 8.1, we think manifolds satisfying condition (8.1)
+are worthy of further study. The mass-to-capacity ratio condition mc−1 ≤ 1 may
+
+                                                                                                                                                                                          Σ
+
+serve as an alternative to the no-minimal-surface or outer-minimizing conditions in
+the formulation of the Bartnik mass. ",math.DG,B,-0.15417373,0.03304517,-0.12540013
+http://arxiv.org/pdf/2207.03467v4,"Mass, capacitary functions, and the mass-to-capacity ratio","Hence, m > cΣ, violating (8.1). Considering this and Proposition 8.1, we think manifolds satisfying condition (8.1)
+are worthy of further study. The mass-to-capacity ratio condition mc−1 ≤ 1 may
+
+                                                                                                                                                                                          Σ
+
+serve as an alternative to the no-minimal-surface or outer-minimizing conditions in
+
+the formulation of the Bartnik mass. ",math.DG,B,-0.15417373,0.03304517,-0.12540013
+http://arxiv.org/pdf/2207.03715v1,Synthetic versus distributional lower Ricci curvature bounds,"In particular, this situation
+occurs whenever two C2-Riemannian metrics are glued along a closed embedded submanifold
+of codimension greater or equal than 1 in such a way that the resulting metric is C1,1. To conclude this paper, let us mention some directions of further research that naturally
+suggest themselves based on the results derived above. A main question is whether the
+optimal transport approach and the distributional method cease to produce equivalent lower
+Ricci curvature bounds when further lowering the regularity of the metric, i.e., if the theories
+“branch” in the direction of lower diﬀerentiability. ",math.DG,C,-0.07858741,-0.12914222,-0.22429839
+http://arxiv.org/pdf/2207.05511v1,Unimodularity and invariant volume forms for Hamiltonian dynamics on Poisson-Lie groups,"5. Conclusions and future work
+
+    We have discussed the existence of invariant volume forms for Hamiltonian systems on Poisson-Lie groups. In
+particular, if the identity element of the Lie group is a non-degenerate singularity of the Hamiltonian function,
+the Hamiltonian system admits an invariant volume form if and only if the Poisson-Lie structure is unimodular. ",math.DG,B,0.013254166,0.032235593,0.071528
+http://arxiv.org/pdf/2207.11035v1,Differential Geometry of Music Perception,"Despite
+numerous statistical evaluations of models for dissonance and tension, none of these models can be used
+directly to compose music or develop music further. The main contribution is therefore to present a new
+approach to music perception by combining the above approaches to music cognition and geometric
+modelling in a simple diﬀerential-geometric model which can be used together with suitable concepts
+of consonance and tension to deduce the laws of music theory, lends itself to further research and
+musical developments, as well as provide a ﬂexible framework to relate the perception of music and
+music theory. This allows for systematically and quantitatively studying the perception of music and
+music theory with or without just intonation or various equally or not equally tempered systems and
+describing new approaches to composition and improvisation in the universal language of mathematics
+and with the tools provided by geometric analysis. ",math.DG,A_centroid,0.83685195,0.06710026,0.12912673
+http://arxiv.org/pdf/2207.11035v2,Differential Geometry of Music Perception,"Despite
+numerous statistical evaluations of models for dissonance and tension, none of these models can be used
+directly to compose music or develop music further. The main contribution is therefore to present a new
+approach to music perception by combining the above approaches to music cognition and geometric
+modelling in a simple diﬀerential-geometric model which can be used together with suitable concepts
+of consonance and tension to deduce the laws of music theory, lends itself to further research and
+musical developments, as well as provide a ﬂexible framework to relate the perception of music and
+music theory. This allows for systematically and quantitatively studying the perception of music and
+music theory with or without just intonation or various equally or not equally tempered systems and
+describing new approaches to composition and improvisation in the universal language of mathematics
+and with the tools provided by geometric analysis. ",math.DG,A,0.83685195,0.06710026,0.12912673
+http://arxiv.org/pdf/2207.11035v3,Differential Geometry of Music Perception,"Despite
+numerous statistical evaluations of models for dissonance and tension, none of these models can be used
+directly to compose music or develop music further. The main contribution is therefore to present a new
+approach to music perception by combining the above approaches to music cognition and geometric
+modelling in a simple diﬀerential-geometric model which can be used together with suitable concepts
+of consonance and tension to deduce the laws of music theory, lends itself to further research and
+musical developments, as well as provide a ﬂexible framework to relate the perception of music and
+music theory. This allows for systematically and quantitatively studying the perception of music and
+music theory with or without just intonation or various equally or not equally tempered systems and
+describing new approaches to composition and improvisation in the universal language of mathematics
+and with the tools provided by geometric analysis. ",math.DG,A,0.83685195,0.06710026,0.12912673
+http://arxiv.org/pdf/2207.11035v4,Differential Geometry of Music Perception,"Despite
+numerous statistical evaluations of models for dissonance and tension, none of these models can be used
+directly to compose music or develop music further. The main contribution is therefore to present a new
+approach to music perception by combining the above approaches to music cognition and geometric
+modelling in a simple diﬀerential-geometric model which can be used together with suitable concepts
+of consonance and tension to deduce the laws of music theory, lends itself to further research and
+musical developments, as well as provide a ﬂexible framework to relate the perception of music and
+music theory. This allows for systematically and quantitatively studying the perception of music and
+music theory with or without just intonation or various equally or not equally tempered systems and
+describing new approaches to composition and improvisation in the universal language of mathematics
+and with the tools provided by geometric analysis. ",math.DG,A,0.83685195,0.06710026,0.12912673
+http://arxiv.org/pdf/2207.11035v5,Geometry of Music Perception,"Despite
+numerous statistical evaluations of models for dissonance and tension, none of these models can be used
+directly to compose music or develop music further. The main contribution is therefore to present a new
+approach to music perception by combining the above approaches to music cognition and geometric
+modelling in a simple diﬀerential-geometric model which can be used together with suitable concepts
+of consonance and tension to deduce the laws of music theory, lends itself to further research and
+musical developments, as well as provide a ﬂexible framework to relate the perception of music and
+music theory. This allows for systematically and quantitatively studying the perception of music and
+music theory with or without just intonation or various equally or not equally tempered systems and
+describing new approaches to composition and improvisation in the universal language of mathematics
+and with the tools provided by geometric analysis. ",math.DG,A,0.83685195,0.06710026,0.12912673
+http://arxiv.org/pdf/2208.00705v1,On p-harmonic self-maps of spheres,"Note that in the case of p = 2 the function (2.3) reduces, up to scaling and shifting, to the one
+considered by Bizon´ and Chmaj in [3], see equation (3.8) therein. For the further analysis it turns out to be useful to rewrite the Euler-Lagrange equation (2.2)
+in the following form
+
+                   ′′                                            h′2(x) + (m − 1) cos2 h(x) ′
+               h (x)+(p − m) tanh x (p − 1)h′2(x) + (m − 1) cos2 h(x) h (x)                                               (2.4)
+
+                                   m − 1 (3 − p)h′2(x) + (m − 1) cos2 h(x)
+                                + 2 (p − 1)h′2(x) + (m − 1) cos2 h(x) sin 2h(x) = 0. Remark 2.2. ",math.DG,A,0.07567266,0.07183366,-0.22352554
+http://arxiv.org/pdf/2208.01074v2,A ddc-type condition beyond the Kähler realm,"In Section 5.2 we record some results on the vanishing of higher operations and Massey
+products on Vaisman manifolds, in analogy with the case of Sasakian manifolds, established
+in [BFMnT16]. Together with the formality of ddc-manifolds, this suggests a further study
+of the interplay between the ddc-type conditions and the real homotopy type, which is
+carried out in the last section of the paper. Homotopical restrictions imposed by ddc-type conditions. ",math.DG,B,-0.13310033,-0.09137119,0.390029
+http://arxiv.org/pdf/2208.09022v1,"Non-connected Lie groups, twisted equivariant bundles and coverings","Composing
+
+with the inclusion EΓ ×ΓZ0 ֒→ EΓ ×ΓZ and pulling back by Y → BΓ provides a map
+    2                    H2(Y, X(Z)). H   θ  (  Γ  ,  Z  )  →                             The  matter    of  whether         this     map          is       equal        to      the      one         above        will
+
+possibly be addressed in future work. Following            [26]  we       deﬁne       the  c-twisted     ﬁrst   cohomology                           set         H  1  (  Y  ,  X  (  G  )  )  :  1  given        an
+                                                                                                                                  c
+
+open cover V = (Vi)i∈J of Y trivializing X → Y (with trivializations si) and an element
+cijk ∈ Z2(Y, X(Z)), we may deﬁne the subset Zc1(V , X(G)) of elements fij ∈ C1(V , X(G))
+
+satisfying
+
+(6.34)                                                   fij fjkcijk = fik
+
+on Uijk for every i, j and k ∈ J. ",math.DG,B,-0.22451377,0.07585211,0.4307407
+http://arxiv.org/pdf/2208.09022v2,"Non-connected Lie groups, twisted equivariant bundles and coverings","Composing
+
+with the inclusion EΓ ×ΓZ0 ֒→ EΓ ×ΓZ and pulling back by Y → BΓ provides a map
+    2                    H2(Y, X(Z)). H   θ  (  Γ  ,  Z  )  →                             The  matter    of  whether         this     map          is       equal        to      the      one         above        will
+
+possibly be addressed in future work. Following            [26]  we       deﬁne       the  c-twisted     ﬁrst   cohomology                           set         H  1  (  Y  ,  X  (  G  )  )  :  1  given        an
+                                                                                                                                  c
+open cover V = (Vi)i∈J of Y trivializing X → Y (with trivializations si) and an element
+cijk ∈ Z2(Y, X(Z)), we may deﬁne the subset Zc1(V , X(G)) of elements fij ∈ C1(V , X(G))
+
+satisfying
+
+(6.34)                                                   fij fjkcijk = fik
+
+on Uijk for every i, j and k ∈ J. ",math.DG,B,-0.22451377,0.07585211,0.4307407
+http://arxiv.org/pdf/2208.09541v2,Abelian Factor in 2-step Nilpotent Lie Algebras Constructed from Graphs,"These results are primarily on
+the existence and description of an abelian factor and singularity of nilpotent Lie algebras. While the results stand on their own, there are several open questions that the authors sug-
+gest for further research. Open Question 1. ",math.DG,B,-0.13703042,0.08417354,0.26454237
+http://arxiv.org/pdf/2208.11004v1,Geodesic Tracking via New Data-driven Connections of Cartan Type for Vascular Tree Tracking,"All experiments conﬁrm that the     tips belonging to the same vascular tree, the tracking results
+new model is better able to adapt for curvature. In addition    follow the vessels perfectly, recall Figure 15.
+to that, for the tracking of a single vessel, a low number
+of orientations is suﬃcient to ﬁnd the correct minimizing           For future work, it would be interesting to look into the
+                                                                possibilities to train the cost function 𝐶 using PDE-G-CNNs
+                                                                [61], which is now geometrically computed as explained in
+22                                                                                                                                       Nicky van den Berg et al. Appendix D. In the past, this method had promising results           Similarly, we have for (25)
+for vessel segmentation. ",math.DG,A,0.33166987,-0.15858573,-0.19497728
+http://arxiv.org/pdf/2208.11004v2,Geodesic Tracking via New Data-driven Connections of Cartan Type for Vascular Tree Tracking,"After prior classiﬁcation of seeds and
+                                                                   tips belonging to the same vascular tree, the tracking results
+7 Conclusion and Future Work                                       follow the vessels perfectly, recall Figure 16. In this article, we introduced the concept of a data-driven left-      For future work, it would be interesting to look into the
+invariant metric tensor ﬁeld G𝑈 and its asymmetric variant         possibilities to train the cost function 𝐶 using PDE-G-CNNs
+F 𝑈 . The metric tensor ﬁeld is deﬁned by the underlying           [69], which is now geometrically computed as explained in
+image, where movement along line structures is encouraged          Appendix D. In the past, this method had promising results
+by its design in (17). ",math.DG,A,0.39335108,-0.110215366,-0.045854505
+http://arxiv.org/pdf/2208.12535v1,"Pluri-potential theory, submersions and calibrations","Theorem 9.1 is thus in-
+teresting also because it marks the point, in this paper, in which the K¨ahler-G2
+parallism breaks down. Hopefully, our results might also serve to encourage
+further research in this direction. It would be very interesting to ﬁnd analogues
+of Theorem 9.1 in the G2 context. ",math.DG,B,-0.18879412,0.10597193,0.20200613
+http://arxiv.org/pdf/2208.13461v1,Integral formulas for a foliated sub-Riemannian manifold,"7 Conclusion
+
+We suggest that integral formulas (26), (27), (29), (30), and, in particular, (33), are a very
+good tool for understanding the geometry of (sub-)Riemannian manifolds equipped with
+foliations or distributions. We delegate the following for further study. 1. ",math.DG,C,0.0031831414,-0.15632783,-0.118544646
+http://arxiv.org/pdf/2208.13697v1,Tropical and non-Archimedean Monge--Ampère equations for a class of Calabi--Yau hypersurfaces,"It is of interest to the SYZ conjecture to investigate the regularity of the
+solution ψ when ν is Lebesgue measure on B, using classical and more recent results,
+see [Fig99, Moo15, Moo21, MR22]. We hope to address this in future work. 6. ",math.DG,B,-0.15715861,0.2079034,-0.20457634
+http://arxiv.org/pdf/2208.13697v2,Tropical and non-Archimedean Monge-Ampère equations for a class of Calabi-Yau hypersurfaces,"It is of interest to the SYZ conjecture to investigate the regularity of the
+solution ψ when ν is Lebesgue measure on B, using classical and more recent results,
+see [Fig99, Moo15, Moo21, MR22]. We hope to address this in future work. 6. ",math.DG,B,-0.15715861,0.2079034,-0.20457634

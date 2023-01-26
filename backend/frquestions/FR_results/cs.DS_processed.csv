@@ -1,0 +1,1213 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00234v1,Asymptotic Experiments with Data Structures: Bipartite Graph Matchings and Covers,"By sig-
+                                                                                niﬁcantly outperforming a state-of-the-art algo-
+The roots for this article have been provided by the rather                     rithm designed to search for optimum solutions
+unexpected empirical result in December 2020, as a follow-                      – not only in runtime but more importantly, in
+up on the just completed CSC316 Java project in a junior-                       delivering signiﬁcantly better solutions – these
+level course in data structures and algorithms [5]. This                        greedy solutions provide a strong basis and mo-
+result is summarized with two asymptotic plots, Figure 2a                       tivation for future work. and Figure 2b. ",cs.DS,C_centroid,0.1243209,-0.03331585,0.008868827
+http://arxiv.org/pdf/2201.00724v1,Submodular Maximization with Limited Function Access,"For each n, the algorithms execution times were recorded on
+each of the 12 subsets of data and then averaged over 5 trials. The coloured     In future work, we plan on extending these results to
+ﬁlled sections are the maximum and minimum execution for each of the          scenarios in distributed systems where a team of agents can
+algorithms for each n.                                                        only observe a subset of the other agents’ decisions as well as
+                                                                              partially observe the objective values. We also are exploring
+   Figure 7 summarizes the results from the execution time                    how k-wise information can be leveraged in similar style as
+experiment. ",cs.DS,A,0.35572436,-0.0007697963,-0.22986749
+http://arxiv.org/pdf/2201.00724v2,Submodular Maximization with Limited Function Access,"For each n, the algorithms execution times were recorded on
+each of the 12 subsets of data and then averaged over 5 trials. The coloured     In future work, we plan on extending these results to
+ﬁlled sections are the maximum and minimum execution for each of the          scenarios in distributed systems where a team of agents can
+algorithms for each n.                                                        only observe a subset of the other agents’ decisions as well as
+                                                                              partially observe the objective values. We also are exploring
+   Figure 7 summarizes the results from the execution time                    how k-wise information can be leveraged in similar style as
+experiment. ",cs.DS,A,0.35572436,-0.0007697963,-0.22986749
+http://arxiv.org/pdf/2201.00874v1,Technical Report: Bundling Linked Data Structures for Linearizable Range Queries,"must wait for them to finish. Exploring whether bundling
+      Bundling localizes overhead by waiting for pending entries,                 can exploit a similar behavior is an interesting future work. limiting the impact of concurrent updates on range query
+      performance. ",cs.DS,A,0.2649452,0.31927818,-0.21432504
+http://arxiv.org/pdf/2201.00874v2,Technical Report: Bundling Linked Data Structures for Linearizable Range Queries,"must wait for them to finish. Exploring whether bundling
+      Bundling localizes overhead by waiting for pending entries,             can exploit a similar behavior is an interesting future work. limiting the impact of concurrent updates on range query
+      performance. ",cs.DS,A,0.2649452,0.31927818,-0.21432504
+http://arxiv.org/pdf/2201.01285v1,Dynamic Suffix Array with Polylogarithmic Queries and Updates,"In the technical
+
+paste operation cannot be within O(n1−ε) for any ε > 0. Thus, the trade-oﬀ similar to the one achieved by Amir
+and Boneh [AB20] (O( nk )-time query and O(k)-time update) may still be possible for a dynamic suﬃx array with
+copy-pastes; we leave proving such upper bound as a possible direction for future work. 4
+overview, we sketch the main ideas of this reduction, but we remark that the details of this approach
+are nontrivial and require multiple technical results (see, e.g., Section 6.3.2–6.3.8). ",cs.DS,C,-0.011861179,-0.021406021,0.15771186
+http://arxiv.org/pdf/2201.02914v1,A Knapsack Intersection Hierarchy Applied to All-or-Nothing Flow in Trees,"In the remainder of the paper we introduce the well-known “bad gap instances” for ANF: in particular,
+the so-called staircase and Friggstad-Gao instances (in Section 3). We then prove our results (in Sections 2,
+4 and 5), and discuss future work (in Section 6). 2 Preliminary Proofs
+
+We begin by showing Theorem 1, establishing tractability of our hierarchy for constant t.
+
+Proof (Theorem 1). ",cs.DS,B,-0.29859805,-0.13604,0.072239816
+http://arxiv.org/pdf/2201.02914v2,A Knapsack Intersection Hierarchy Applied to All-or-Nothing Flow in Trees,"In the remainder of the paper we introduce the well-known “bad gap instances” for ANF: in particular,
+the so-called staircase and Friggstad-Gao instances (in Section 3). We then prove our results (in Sections 2,
+4 and 5), and discuss future work (in Section 6). 2 Preliminary Proofs
+
+We begin by showing Theorem 1, establishing tractability of our hierarchy for constant t.
+
+Proof (Theorem 1). ",cs.DS,B,-0.29859805,-0.13604,0.072239816
+http://arxiv.org/pdf/2201.03318v1,Detours in Directed Graphs,"Section 4 is devoted to Longest Path above
+
+                                                              4
+Diameter. The concluding Section 5 provides open questions for further research. 2 Preliminaries
+
+Parameterized Complexity. ",cs.DS,B,-0.18688662,0.06390096,-0.04544484
+http://arxiv.org/pdf/2201.03813v1,Asymptotic Optimality of the Greedy Patching Heuristic for Max TSP in Doubling Metrics,"4 Conclusion
+
+We prove that the simple greedy patching heuristic gives asymptotically optimal so-
+
+lutions of Max TSP in doubling metrics. An interesting direction for future work is
+
+comparing this heuristic with the asymptotically exact algorithm from [16] in practice,
+
+e.g., on random data. Another possible subject of further investigation is improving
+
+the estimate for the relative error of GPH in the case of d-dimensional Euclidean space
+
+(Rd, ℓ2). ",cs.DS,C,0.020077424,-0.17232223,-0.019759227
+http://arxiv.org/pdf/2201.04678v1,Polynomial Turing Compressions for Some Graph Problems Parameterized by Modular-Width,"Meanwhile, we give the ﬁrst FPT algorithms for some problems parameterized by modular-
+width. As a direction for further research, it would be interested to investigate if more problems
+have polynomial Turing compressions parameterized by modular-width such as k-path(mw). In addition, Fomin et al. ",cs.DS,B,-0.17606479,-0.09414028,0.097715974
+http://arxiv.org/pdf/2201.04678v2,Polynomial Turing Compressions for Some Graph Problems Parameterized by Modular-Width,"Additionally,
+we ﬁnd conditional tight kernels for a few graph problems parameterized by modular-width, and
+new parameterized algorithms for these problems are obtained. As a direction for further research, it would be interested to investigate if more problems
+have polynomial Turing compressions parameterized by modular-width such as k-path(mw). In addition, Fomin et al. ",cs.DS,B,-0.2849396,-0.017766211,0.07480988
+http://arxiv.org/pdf/2201.05011v1,Temporal Connectivity: Coping with Foreseen and Unforeseen Delays,"It can be shown that our results on Delay-Robust
+    Connection transfer also to this modiﬁed version. For Delayed-Routing Game the
+    situation is more complicated, we leave this open for future work. Even more diﬀerent notions of delays could also be explored. ",cs.DS,C,0.13115807,-0.021583438,-0.2693249
+http://arxiv.org/pdf/2201.05654v1,The Parameterized Complexity of s-Club with Triangle and Seed Constraints,"To show hardness, it would thus be suﬃcient to
+provide a reduction if the seed contains at least one P3. For future work, it seems
+interesting to study the complexity of the considered variants of s-Club with
+respect to further parameters, for example with respect to structural parameters
+of the input graph G such as the treewidth of G. Additionally, the parameter-
+ized complexity of further robust variants of s-Club such as t-Hereditary
+s-Club [16,14] with respect to k remains open. From a practical perspective, we
+plan to implement combinatorial algorithms for all three problem variants for
+the most important special case s = 2. ",cs.DS,B,-0.38195544,-0.008453134,-0.089967184
+http://arxiv.org/pdf/2201.05654v2,The Parameterized Complexity of s-Club with Triangle and Seed Constraints,"It is particularly interesting to study seeds of
+constant size since this seems to be the most interesting case for applications. For future work, it seems interesting to study the complexity of the consid-
+ered variants of s-Club with respect to further parameters, for example with
+respect to structural parameters of the input graph G such as the treewidth
+of G. Additionally, the parameterized complexity of further robust variants of
+s-Club such as t-Hereditary s-Club [16,14] with respect to k remains open. It is also interesting to study other problems for detecting communities with seed
+constraints. ",cs.DS,B,-0.33129245,0.10121009,-0.052167863
+http://arxiv.org/pdf/2201.06084v2,Hypergraph Cuts with Edge-Dependent Vertex Weights,"Through a real-world text mining application,
+                 we showcased the value of the introduction of EDVWs. There are numerous direc-
+                 tions for future work: (i) As mentioned in the introduction, hypergraph minimum
+                 cuts can be used to solve various real-world applications (Catalyurek and Aykanat,
+                 1999; Ding and Yilmaz, 2008; Karypis et al, 1999; Kim et al, 2011) or as subroutines
+                 in many machine learning algorithms (Liu et al, 2021; Veldt et al, 2020b). Hence,
+                 it would be desirable to apply the proposed framework to these applications and
+                 algorithms and evaluate the performance. ",cs.DS,C,-0.0054501523,0.1780988,0.063547604
+http://arxiv.org/pdf/2201.06621v1,Fast and Heavy Disjoint Weighted Matchings for Demand-Aware Datacenter Topologies,"The situation is similar for k-EC. There remain several interesting avenues for future work. In
+   Regarding quality (Figs. ",cs.DS,A,0.21049932,0.011919163,-0.06261821
+http://arxiv.org/pdf/2201.06678v1,Improved Approximation and Scalability for Fair Max-Min Diversification,"15
+6 Conclusion
+
+In this paper, we presented new approximation algorithms that substantially improve upon cur-
+rently known results for the Fair Max-Min problem both in general and Euclidean metric spaces. There are several interesting directions for future work, including obtaining a 2-approximation for
+the problem in general metrics or improving the hardness result. Another direction is to generalize the fairness constraints to arbitrary matroid constraints (the
+fairness constraints considered in this paper can be expressed via the special case of a partition
+matroid). ",cs.DS,C,0.054856535,-0.35331702,-0.2898541
+http://arxiv.org/pdf/2201.07736v1,The Query Complexity of Certification,"for the possibility that the true critical probability
+drifts away from what we assume it to be as we recurse). 3 Discussion and future work
+
+Concrete directions for future work include closing the remaining gap between our upper and lower
+bounds of O(k8 log n) and Ω(k log n), as well as identifying other natural classes of functions that
+admit eﬃcient certiﬁcation algorithms. More broadly, a novel aspect of our techniques is the use of concepts and results from the
+study of threshold phenomena: p-biased analysis, the critical probability of monotone functions,
+the Russo–Margulis lemma, etc. ",cs.DS,C,0.10997674,-0.30950826,-0.037966277
+http://arxiv.org/pdf/2201.07736v2,The Query Complexity of Certification,"for the possibility that the true critical probability
+drifts away from what we assume it to be as we recurse). 3 Discussion and future work
+
+Concrete directions for future work include closing the remaining gap between our upper and lower
+bounds of O(k8 log n) and Ω(k log n), as well as identifying other natural classes of functions that
+admit eﬃcient certiﬁcation algorithms. More broadly, a novel aspect of our techniques is the use of concepts and results from the
+study of threshold phenomena: p-biased analysis, the critical probability of monotone functions,
+the Russo–Margulis lemma, etc. ",cs.DS,C,0.10997674,-0.30950826,-0.037966277
+http://arxiv.org/pdf/2201.08118v1,Interval-Memoized Backtracking on ZDDs for Fast Enumeration of All Lower Cost Solutions,"Our algorithm can be used not only for the Hamiltonian path problem but also for any kind of combi-
+natorial problems having a Boolean constraint speciﬁed by a ZDD. It would be interesting future work to
+apply our algorithm to various kinds of real-life problems. Our algorithm works well even if positive and
+negative cost values are mixed. ",cs.DS,C,-0.12347487,-0.26262248,-0.11224395
+http://arxiv.org/pdf/2201.08118v2,Interval-Memoized Backtracking on ZDDs for Fast Enumeration of All Lower Cost Solutions,"Thus, our
+    algorithm can be used for any kind of combinatorial problems having a Boolean constraint
+    speciﬁed by a ZDD. It would be interesting future work to apply our algorithm to various
+    kinds of real-life problems. Our algorithm works well even if positive and negative cost
+    values are mixed. ",cs.DS,C,-0.10198807,-0.29331827,-0.19408831
+http://arxiv.org/pdf/2201.08788v1,A Note on Hardness of Multiprocessor Scheduling with Scheduling Solution Space Tree,"Section 5 formally deﬁnes
+the MUMPSP problem and proves its complexity class. Section 6 highlights some
+non-trivial open problems for future work. 2 Background and State-of-the-art Literature
+
+Here, we highlight and discuss the fundamental aspects of the complexity classes
+for a basic understanding. ",cs.DS,B,-0.14498866,-0.21244477,-0.013018332
+http://arxiv.org/pdf/2201.10049v1,An Efficient Algorithm for the Partitioning Min-Max Weighted Matching Problem,"Our strategy is useful for other algorithms that do incremental updates dur-
+ing the iterations. In future work, we will try other related problems and their
+algorithms to try to improve the algorithm eﬃciency. 22
+References
+
+Ahuja, R. K., Magnanti, T. L., & Orlin, J. ",cs.DS,C,0.088520534,0.07275563,0.12250686
+http://arxiv.org/pdf/2201.10684v1,Stochastic diagonal estimation: probabilistic bounds and an improved algorithm,"During this paper, we also considered extending elemental diagonal analysis
+to shed new light on the original investigations into trace estimation. Whilst
+initial work suggested itself fruitful, the dependence of each element estimate
+upon one another confounded further analysis. We readily invite suggestions
+or insights into how these ideas may be useful in approaching trace estimation. ",cs.DS,C,0.10844189,-0.014700679,0.4012507
+http://arxiv.org/pdf/2201.11297v1,Generation Matrix: An Embeddable Matrix Representation for Hierarchical Trees,"For the upward propagation, aﬀected z j by vi satisﬁes j = i, or j is the ancestor of i in T ; for the
+downward propagation, aﬀected z j by vi satisﬁes j = i, or j is a descendant of i in T . Combining the propagations, we further study a variety of matrix operations of Generation Matrices. They have
+strong interpretability and provide crucial theoretical support for the research of hierarchical trees. ",cs.DS,B,-0.13841647,0.07877506,0.20643009
+http://arxiv.org/pdf/2201.11297v2,Generation Matrix: An Embeddable Matrix Representation for Hierarchical Trees,"For the upward propagation, aﬀected z j by vi satisﬁes j = i, or j is the ancestor of i in T ; for the
+downward propagation, aﬀected z j by vi satisﬁes j = i, or j is a descendant of i in T . Combining the propagations, we further study a variety of matrix operations of Generation Matrices. They have
+strong interpretability and provide crucial theoretical support for the research of hierarchical trees. ",cs.DS,B,-0.13841647,0.07877506,0.20643009
+http://arxiv.org/pdf/2201.11731v1,An Algorithmic Framework for Locally Constrained Homomorphisms,"Our
+    complementary hardness results provide a fairly comprehensive picture concerning the
+    parameterized complexity of the three locally constrained homomorphism problems (see also
+    Table 1). For future work we aim to extend our ILP-based framework. If successful, this will
+    then also enable us to address the parameterized complexity of other graph homomorphism
+    variants such as quasi-covers [34] and pseudo-covers [11, 13, 14]. ",cs.DS,B,-0.377159,0.008594815,-0.014084727
+http://arxiv.org/pdf/2201.12923v1,Asynchronous Opinion Dynamics in Social Networks,"Lang. Program-
+We thank the anonymous reviewers for suggesting addi-                   ming (ICALP), 2016, pages 136:1–136:14.
+tional real-world applications for our model, for point-
+ing us to additional related work, and for sharing inter-        [11] P. Berenbrink, G. Giakkoupis, A.-M. Kermarrec,
+esting ideas on future work. and F. Mallmann-Trenn: Bounds on the Voter
+                                                                        Model in Dynamic Networks. ",cs.DS,B,-0.03357517,-0.033279415,-0.15129478
+http://arxiv.org/pdf/2201.13128v1,Deletion Robust Submodular Maximization over Matroids,"In
+extensive experiments, we observed that the quality of our algorithms is actually competitive with
+that of “all-knowing” benchmarks that know the deleted elements in advance. A natural direction
+for future work is to extend these results and ideas to possibly non-monotone objectives, other
+constraints (e.g., multiple matroids and knapsack), and to consider fully dynamic versions with
+insertions and deletions. Acknowledgement
+
+Federico Fusco’s work was partially supported by the ERC Advanced Grant 788893 AMDROMA
+“Algorithmic and Mechanism Design Research in Online Markets” and the MIUR PRIN project
+ALGADIMAR “Algorithms, Games, and Digital Markets.”
+
+References
+
+G. Amanatidis, F. Fusco, P. Lazos, S. Leonardi, and R. Reiﬀenha¨user. ",cs.DS,C,0.17974067,-0.11262255,-0.23522992
+http://arxiv.org/pdf/2202.00394v1,Recursive Multi-Section on the Fly: Shared-Memory Streaming Algorithms for Hierarchical Graph Partitioning and Process Mapping,"On the other hand,
+our algorithm is only 3 times slower than Hashing when running on 32 threads while computing signiﬁcantly
+better results. While our algorithm is already useful for a wide-range of applications that need (hierarchical)
+partitions very fast, in future work, we plan to parallelize the algorithm in the distributed memory model and
+want to port it to GPUs. Moreover, given the good results, we plan to publicly our algorithm release soon. ",cs.DS,A,0.2360161,0.2837172,0.06533021
+http://arxiv.org/pdf/2202.02174v1,Lossy Planarization: A Constant-Factor Approximate Kernelization for Planar Vertex Deletion,"Through several reduction steps, we showed that it
+suﬃces to perform this computation on planar subgraphs which can be embedded in the plane
+such that the boundary vertices by which they communicate with the rest of the graph all lie on
+the outer face and are bounded in number. Whether an exact preserver of polynomial size exists
+for such subgraphs, and whether it can be computed eﬃciently, is an important open question for
+future work. To emphasize the importance of this question, we restate it here explicitly:
+
+Open problem 11.1. ",cs.DS,B,-0.4256638,0.17681332,0.038916383
+http://arxiv.org/pdf/2202.03093v1,Effective Variable Depth Local Search for the Budgeted Maximum Coverage Problem,"The neighbour structure we deﬁned could also be applied to other local
+search algorithms for the BMCP. Moreover, since our proposed variable depth
+local search approach is eﬀective in solving the BMCP, in future works we
+consider applying this method for other combinatorial optimization problems,
+such as various variants of the knapsack problems and the set cover problems. Springer Nature 2021 LATEX template
+
+20 Eﬀective Variable Depth Local Search for the BMCP
+
+List of Abbreviations
+
+• BMCP The Budgeted Maximum Coverage Problem. ",cs.DS,C,-0.0669934,-0.09427885,-0.114130095
+http://arxiv.org/pdf/2202.03093v2,Effective Variable Depth Local Search for the Budgeted Maximum Coverage Problem,"The neighbour structure we deﬁned could also be applied to other local
+search algorithms for the BMCP. Moreover, since our proposed variable depth
+local search approach is eﬀective in solving the BMCP, in future works we
+consider applying this method for other combinatorial optimization problems,
+such as various variants of the knapsack problems and the set cover problems. List of Abbreviations
+
+• BMCP The Budgeted Maximum Coverage Problem. ",cs.DS,C,-0.07405139,-0.110590756,-0.1391647
+http://arxiv.org/pdf/2202.04377v1,Constant Approximating Parameterized $k$-SetCover is W[2]-hard,"Our result could also be applied to rule out polynomial algorithm approximating
+
+non-parameterized k-SETCOVER within ratio o                                 log n    , with k as small as O(log2 n · log log n).,
+                                                                          log log n
+
+assuming (randomized) W[1] = FPT. As further research questions, it is interesting to consider W[2]-hardness of approximating
+k-SETCOVER beyond constant ratio. Question 1. ",cs.DS,C,-0.12761267,-0.2718622,-0.012456348
+http://arxiv.org/pdf/2202.04377v2,Constant Approximating Parameterized $k$-SetCover is W[2]-hard,"Our result could also be applied to rule out polynomial algorithm approximating
+non-parameterized k-SETCOVER within ratio o lolgolgong n , with k as small as O lolgolgong n 3, assum-
+ing W[1] = FPT. As further research questions, it is interesting to consider W[2]-hardness of approximating
+k-SETCOVER beyond constant ratio. Question 1. ",cs.DS,C,-0.16289663,-0.2587034,-0.013168639
+http://arxiv.org/pdf/2202.05085v1,MONI can find k-MEMs,"We note, however, that k must be given at construction time. We
+leave as future work developing a similar data structure that takes k at query time. 2 Extending MONI
+
+The simplest version of MONI consists a run-length compressed BWT of the text T [1..n] with
+suﬃx-array (SA) entries stored for each position i at a run boundary — that is, i = 1, i = n,
+BWT[i] = BWT[i − 1] or BWT[i] = BWT[i + 1] — and a balanced, locally consistent SLP for T . ",cs.DS,A,0.10443666,0.20332077,0.15051842
+http://arxiv.org/pdf/2202.05085v2,MONI-$k$: An index for efficient pangenome-to-pangenome comparison,"4 Conclusion
+
+We have deﬁned k-MEMs as a generalization of MEMs, shown how MONI can
+easily be extended to MONI-k to ﬁnd them eﬃciently, and proposed how they
+can be applied in pangenome-to-pangenome comparison. We leave as future work
+developing a similar data structure that takes k at query time, as well as ex-
+tending the implementation of MONI to obtain an actual implementation of
+MONI-k, and applying it in bioinformatics research. References
+
+ 1. ",cs.DS,A,0.17066148,0.16100535,0.14913751
+http://arxiv.org/pdf/2202.06262v1,"Locating Charging Stations: Connected, Capacitated and Prize- Collecting","In Sections 4 and 5, we give the results for ConPFL
+and CPFL respectively. Finally, we conclude with future work in Section 6. 2 Connected and Capacitated variants of the problem
+
+Let V be a set of locations and G be a complete graph on V . ",cs.DS,B,-0.29847115,0.010819546,-0.18504295
+http://arxiv.org/pdf/2202.07793v1,Heuristic computation of exact treewidth,"The maximum of
+            nc(G) over these instances is 49 and the time for verifying each certificate is at most 400
+            milliseconds. Figures 3 and 4 in the appendix show lb(G), nc(G), and the time to verify the
+            certificate using our implementation of the BT algorithm, for each instance G.
+
+           7 Conclusions and future work
+
+            Our experiments using the bonus instance set from PACE 2017 algorithm implementation
+            challenge have revealed that our approach to treewidth computation is extremely effective in
+            tackling instances that are hard for conventional treewidth solvers. Even when it fails to
+            give the exact treewidth, it produces a lower bound very close to the upper bound. ",cs.DS,B,-0.05440522,-0.014183894,0.024359342
+http://arxiv.org/pdf/2202.08066v1,Almost-Optimal Sublinear-Time Edit Distance in the Low Distance Regime,"Using the Landau-Vishkin algorithm (with cap K) for O(K)
+    shifts s, the running time of Line 2 incurs a cubic dependence on K, and therefore the total
+    dependence on K becomes roughly K5. We give a simple improvement to lower the dependence to K4 and leave further opti-
+    mizations of the poly(K) dependence as future work. The idea is to use the following result
+    on approximating the edit distances for many shifts s:
+
+    Theorem 17 (Edit Distance for Many Shifts). ",cs.DS,C,-0.04978988,-0.070047244,0.25939673
+http://arxiv.org/pdf/2202.08326v1,SAT Backdoors: Depth Beats Size,"[19] for the class of variable-free formulas to all Schaefer classes of bounded
+and notably also unbounded clause lengths. Our results provide an important milestone towards
+generalizing and unifying the various tractability results based on variants of C-backdoor size
+(see also future work below) to the only recently introduced and signiﬁcantly more powerful
+C-backdoor depth. There further are natural and potentially signiﬁcant extensions of backdoor depth that can
+beneﬁt from our approach based on separator obstructions. ",cs.DS,B,-0.28278932,-0.07201491,0.059307024
+http://arxiv.org/pdf/2202.08896v1,Computing list homomorphisms in geometric intersection graphs,"Since
+
+W  M C is NP-hard and, assuming the ETH, cannot be solved in subexponential time in
+
+complete graphs [3], which can be realized as intersection graphs of any geometric objects, we obtain an
+
+analogous lower bound for WH (H). 29
+7 Conclusion and open problems
+
+Let us conclude the paper with pointing out some direction for further research. Algorithms for unit disk graphs. ",cs.DS,B,-0.33436602,0.048860498,-0.095786475
+http://arxiv.org/pdf/2202.09989v1,Learning Low Degree Hypergraphs,"Our learning algorithms rely on novel constructions of collections of queries that satisfy a simple
+property that we call unique-edge covering, which is a general approach for constructing learning
+algorithms with a query complexity that does not grow exponentially in the size of the edges. We
+believe that an interesting direction for future work is to identify, in addition to hypermatchings,
+other relevant families of hypergraphs that are learnable with poly(n, m) queries, even when both
+the maximum edge size d and the edge size ratio ρ are non-constant. Technical overview. ",cs.DS,B,-0.24720782,0.19988991,-0.12125681
+http://arxiv.org/pdf/2202.09989v2,Learning Low Degree Hypergraphs,"Our learning algorithms rely on novel constructions of collections of queries that satisfy a simple
+property that we call unique-edge covering, which is a general approach for constructing learning
+algorithms with a query complexity that does not grow exponentially in the size of the edges. We
+believe that an interesting direction for future work is to identify, in addition to hypermatchings,
+other relevant families of hypergraphs that are learnable with poly(n, m) queries, even when both
+the maximum edge size d and the edge size ratio ρ are non-constant. Technical overview. ",cs.DS,B,-0.24720782,0.19988991,-0.12125681
+http://arxiv.org/pdf/2202.10195v1,Efficient computation of oriented vertex and arc colorings of special digraphs,"18
+    The existence of graph classes of arbitrary large vertex degree but bounded oriented
+chromatic index, such as msp-digraph and esp-digraphs, implies that Vizings Theorem
+[Viz64] can not be carried over to the oriented chromatic index. In our future work we want to analyze the existence of polynomial time algorithms for
+computing the oriented chromatic index and oriented chromatic number of orientations of
+series-parallel graphs eﬃciently which would lead to generalizations of Theorem 3.13 and
+Theorem 3.19. Furthermore, it remains to extend the results for OCN and OCI to graphs of bounded
+directed clique-width. ",cs.DS,B,-0.26858246,0.2854566,-0.08781195
+http://arxiv.org/pdf/2202.12055v1,Counting Temporal Paths,"It is easy to check that all table entries
+    can be computed in polynomial time. The correctness follows from a proof by induction, left as future work. 4.2 Generalizations of the Forest Algorithm
+
+    In this subsection, we present two generalizations of Theorem 15. ",cs.DS,B,-0.1832066,0.0639917,0.009724128
+http://arxiv.org/pdf/2202.12599v1,Making Life More Confusing for Firefighters,"Despite ﬁnding that Temporal Firefighter is NP-Complete on all but one underlying
+graph class that we considered, we were able to ﬁnd a promising avenue for tractability in
+restricting the temporal structure of the graph, and found that the problem is FPT when
+parameterised by the temporal graph parameter vertex-interval-membership-width. An interesting direction for future work on the problem would be to further investigate such
+temporal parameters. A natural ﬁrst goal would be to determine the complexity of Temporal
+
+                                                             13
+Firefighter when the maximum number of edges active each timestep is bounded. ",cs.DS,B,-0.28678676,0.100939244,-0.19077715
+http://arxiv.org/pdf/2202.12599v2,Making Life More Confusing for Firefighters,"Despite ﬁnding that Temporal Firefighter is NP-Complete on all but one underlying
+    graph class that we considered, we were able to ﬁnd a promising avenue for tractability in
+    restricting the temporal structure of the graph, and found that the problem is FPT when
+    parameterised by the temporal graph parameter vertex-interval-membership-width. An interesting direction for future work on the problem would be to further investigate
+    such temporal parameters. A natural ﬁrst goal would be to determine the complexity of
+    Temporal Firefighter when the maximum number of edges active each timestep is
+    bounded. ",cs.DS,B,-0.2936067,0.091270655,-0.20343742
+http://arxiv.org/pdf/2202.13661v1,Edge-Cut Width: An Algorithmically Driven Analogue of Treewidth Based on Edge Cuts,"Last but not least, we note that a preprint exploring a different parameter that is
+aimed at providing an edge-based alternative to treewidth appeared shortly after the
+results presented in our paper were obtained [26]. While it is already clear that the two
+parameters are not equivalent, it would be interesting to explore the relationship between
+them in future work. References
+
+ 1. ",cs.DS,B,-0.29999495,0.15413725,0.060232252
+http://arxiv.org/pdf/2203.00233v1,Ordered Submodularity and its Applications to Diversifying Recommendations,"While mathematically elegant, a key limitation of this
+formulation is that it assumes that all users are equally patient and give equal consideration to all search
+results. Acknowledging that this is not an accurate representation of human patience and attention in
+the real world, the authors suggest as a direction for future work the formulation of an objective function
+that accounts for the distribution of users who stop at diﬀerent points in the search results. Our work
+
+                                                                                          4
+does exactly this. ",cs.DS,C,0.25046057,-0.05950635,-0.29640633
+http://arxiv.org/pdf/2203.01241v1,Optimal deletion-robust coreset for submodular maximization,"This is achieved by a “randomized-buﬀer-in-between” technique that inserts a randomized buﬀer between the
+data stream and an existing streaming algorithm, and equips the streaming algorithm with guarantees for
+the robust-aware (deletions allowed) setting. To the best of our knowledge, this is the ﬁrst work to achieve
+an (asymptotically) optimal coreset size, as no constant approximation is possible with a coreset whose size
+is sublinear in d.
+
+    Potential directions for future work include a stronger approximation ratio in the case of a cardinality
+constraint, extensions to non-monotone submodular maximization, and a stronger adaptive adversary. Acknowledgements. ",cs.DS,C,0.16772762,-0.15434533,-0.0781478
+http://arxiv.org/pdf/2203.01241v2,Optimal deletion-robust coreset for submodular maximization,"This is achieved by a “randomized-buﬀer-in-between” technique that inserts a randomized buﬀer between the
+data stream and an existing streaming algorithm, and equips the streaming algorithm with guarantees for
+the robust-aware (deletions allowed) setting. To the best of our knowledge, this is the ﬁrst work to achieve
+an (asymptotically) optimal coreset size, as no constant approximation is possible with a coreset whose size
+is sublinear in d.
+
+                                                                      6
+    Potential directions for future work include a stronger approximation ratio in the case of a cardinality
+constraint, extensions to non-monotone submodular maximization, and a stronger adaptive adversary. Acknowledgements. ",cs.DS,C,0.18404403,-0.14105257,-0.07518388
+http://arxiv.org/pdf/2203.01241v3,Coresets remembered and items forgotten: submodular maximization with deletions,"The latter ensures
+                                                                    a quality guarantee given an arbitrary arrival order of items,
+   Overall, against a static adversary, the proposed RGrd           including the speciﬁc random order introduced by the sampling. algorithm performs the best and converges with the smallest
+coreset, while the proposed RExc algorithm achieves relatively         Potential directions for future work include a potentially
+good performance while requiring the most parsimonious              stronger approximation ratio in the ofﬂine setting, extensions
+coreset. Note that the size difference in the coreset will become   to non-monotone submodular maximization, and a stronger
+more extreme as k increases. ",cs.DS,C,0.28120694,-0.10249604,0.03487557
+http://arxiv.org/pdf/2203.02763v1,Online List Labeling: Breaking the $\log^2n$ Barrier,"Several
+works [44, 46, 59, 70–72] implement parallel packed memory arrays for the purpose of storing dynamic
+
+25
+graphs with fast updates and range queries. Assessing whether out results can be used to obtain practical
+speedups for these applications remains an interesting direction for future work. Related work on history independence. ",cs.DS,A,0.16177523,0.59004354,0.006813106
+http://arxiv.org/pdf/2203.02763v2,Online List Labeling: Breaking the $\log^2n$ Barrier,"Several
+works [44, 46, 59, 70–72] implement parallel packed memory arrays for the purpose of storing dynamic
+
+25
+graphs with fast updates and range queries. Assessing whether out results can be used to obtain practical
+speedups for these applications remains an interesting direction for future work. Related work on history independence. ",cs.DS,A,0.16177523,0.59004354,0.006813106
+http://arxiv.org/pdf/2203.02763v3,Online List Labeling: Breaking the $\log^2n$ Barrier,"Several
+works [45, 47, 60, 71–73] implemented parallel packed-memory arrays for the purpose of storing dynamic
+graphs with fast updates and range queries. Assessing whether our results can be used to obtain practical
+speedups for these applications remains an interesting direction for future work. Related work on history independence. ",cs.DS,A,0.15578522,0.58191705,0.033125464
+http://arxiv.org/pdf/2203.02798v1,"pylspack: Parallel algorithms and data structures for sketching, column subset selection, regression and leverage scores","The
+current version of the code uses this simple solution which also avoids any external dependencies. In future work
+we plan to consider specialized parallel random number generators, like the Random123 library [74] which is used
+by Skylark. 5.2 Unit Testing
+
+pylspack is accompanied with an extensive test suite. ",cs.DS,A,0.33489028,0.0058213044,0.23404875
+http://arxiv.org/pdf/2203.02798v2,"pylspack: Parallel algorithms and data structures for sketching, column subset selection, regression and leverage scores","The
+current version of the code uses this simple solution which also avoids any external dependencies. In future work
+we plan to consider specialized parallel random number generators, like the Random123 library [74] which is used
+by Skylark. 5.2 Unit Testing
+
+pylspack is accompanied with an extensive test suite. ",cs.DS,A,0.33489028,0.0058213044,0.23404875
+http://arxiv.org/pdf/2203.05446v1,Algorithms for the Maximum Eulerian Cycle Decomposition Problem,"Our experiments showed good results for the ILP heuristic, which is an heuristic that
+partially solves the ILP model activating only the variables related to good cycles found by a greedy
+heuristic. For future work, we intend to propose new algorithms based on metaheuristics used in the
+literature for combinatorial problems, such as Genetic Algorithms (GA) and Greedy Randomized
+Adaptive Search Procedure (GRASP). Acknowledgments. ",cs.DS,C,0.082884505,-0.08114955,-0.2717554
+http://arxiv.org/pdf/2203.06039v1,Fully-dynamic $α+ 2$ Arboricity Decomposition and Implicit Colouring,"In particular, this reduces the number
+    of colours for planar graphs from 2120 to 32. An interesting direction for future work is
+    to see, if one can reduce the number of forests even further in the static case, while still
+    achieving near-linear running time. Also, even though our algorithms use few colours and
+    forests, the update times contain quite high polynomials in both log n and α. ",cs.DS,B,-0.11215459,0.32009128,0.005211358
+http://arxiv.org/pdf/2203.07605v1,Online Task Assignment Problems with Reusable Resources,"One direction is to use an approximate solution to the LP in our
+algorithm. Another future work is to consider a model that, when a task is rejected, it is allowed to re-assign
+some other agents. Acknowledgments
+
+HS was supported by JSPS KAKENHI Grant Numbers JP17K12646, JP21K17708, and JP21H03397, Japan. ",cs.DS,C,0.24815506,-0.32345104,-0.15640849
+http://arxiv.org/pdf/2203.09284v1,FUSED-PAGERANK: Loop-Fusion based Approximate PageRank,"Applying Loop-Fusion on Edge-centric PageRank algorithm with
+irregular memory accesses leads to faster convergence in signiﬁcantly less time
+with negligible error in L1-norm on both standard and synthetic benchmarks. Our future work focuses on data scheduling for proper load-balancing and
+applying other compiler optimization techniques like loop-perforation to im-
+prove our proposed FusEd-PageRank algorithm on varied graph structures
+and storage formats. Although FusEd-PageRank is limited to shared memory
+architecture, it can be extended to the distributed environment with minimalist
+algorithmic changes. ",cs.DS,A,0.1638878,0.3016627,-0.05454311
+http://arxiv.org/pdf/2203.09334v1,Stronger 3SUM-Indexing Lower Bounds,"which function of the two bits probed does it compute) and argue that in all cases, such a short
+cycle is impossible. Directly examining the types of query algorithms has not been done before in data structure
+lower bounds and we ﬁnd this a valuable contribution that we hope may prove useful in future work. 3
+2 Reduction from Reachability Oracles in the Butterﬂy Graph
+
+In this section, we give a reduction from the problem of Reachability Oracles in the Butterﬂy Graph to 3SUM-
+Indexing with the modulo group and the XOR group, proving Theorem 2. ",cs.DS,B,-0.15833539,0.07060127,-0.040429827
+http://arxiv.org/pdf/2203.09334v2,Stronger 3SUM-Indexing Lower Bounds,"which function of the two bits probed does it compute) and argue that in all cases, such a short
+cycle is impossible. Directly examining the types of query algorithms has not been done before in data structure
+lower bounds and we ﬁnd this a valuable contribution that we hope may prove useful in future work. 3
+2 Reduction from Reachability Oracles in the Butterﬂy Graph
+
+In this section, we give a reduction from the problem of Reachability Oracles in the Butterﬂy Graph to 3SUM-
+Indexing with the cyclic group and the XOR group, proving Theorem 2. ",cs.DS,B,-0.15544337,0.08275902,-0.07046795
+http://arxiv.org/pdf/2203.09552v1,Extremal Event Graphs: A (Stable) Tool for Analyzing Noisy Time Series Data,"While in this paper we deﬁne the extremal event
+DAG distance using the L1 norm, we suspect that stability also holds if we use any Lp norm. We
+leave this generalization as future work. We focus on a descriptor that is robust to measurement error that arises from taking discrete
+time samples of a continuous process. ",cs.DS,C,0.25268748,-0.24103722,0.17162651
+http://arxiv.org/pdf/2203.09552v2,Extremal Event Graphs: A (Stable) Tool for Analyzing Noisy Time Series Data,"While in this paper we deﬁne the extremal event
+DAG distance using the L1 norm, we suspect that stability also holds if we use any Lp norm. We
+leave this generalization as future work. We focus on a descriptor that is robust to measurement error that arises from taking discrete
+time samples of a continuous process. ",cs.DS,C,0.25268748,-0.24103722,0.17162651
+http://arxiv.org/pdf/2203.09552v3,Extremal Event Graphs: A (Stable) Tool for Analyzing Noisy Time Series Data,"While in this paper we deﬁne the extremal event
+DAG distance using the L1 norm, we suspect that stability also holds if we use any Lp norm. We
+leave this generalization as future work. We focus on a descriptor that is robust to measurement error that arises from taking discrete
+time samples of a continuous process. ",cs.DS,C,0.25268748,-0.24103722,0.17162651
+http://arxiv.org/pdf/2203.09868v1,Exact approaches for the Connected Vertex Cover problem,"This is interesting since, for the general Vertex
+Cover problem, combinatorial algorithms usually outperform linear formulations. The paper is organized as follows: this introduction terminates with Section
+1.1, which gives some basic terminology and notation; in Section 2 we give our
+formulations for CVC and prove their correctness; the branch and bound algo-
+rithm is described in Section 3; numerical experiments are given in Section 4;
+ﬁnally, we conclude with some further research directions in Section 5. 1.1 Preliminaries
+
+Throughout the paper we let G = (V, E) be a connected graph. ",cs.DS,B,-0.31919968,0.049282115,-0.13142642
+http://arxiv.org/pdf/2203.10070v1,Kernelization for Treewidth-2 Vertex Deletion,"In Chapter 8 we combine the
+methods from Chapters 5, 6, and 7 to obtain our kernelization algorithm. Finally, in Chapter 9, we
+conclude by listing and discussing our main ﬁndings and we note some extensions as future work. 10
+Chapter 2
+
+Preliminaries
+
+We start by introducing the notation we will use all throughout this paper alongside references
+to some well-known results. ",cs.DS,C,-0.04945574,-0.041607715,0.4028379
+http://arxiv.org/pdf/2203.11847v1,Spectral Algorithms Optimally Recover (Censored) Planted Dense Subgraphs,"It was conjectured that a spectral algorithm
+         would require a stronger signal than the SDP algorithm. Comparing the performance of
+          SDPs and spectral algorithms for sublinear K is an interesting avenue for future work. (2) Can the optimality of spectral algorithms be generalized to related problems, such as
+          submatrix localization? ",cs.DS,C,0.088506356,-0.11572099,0.16453907
+http://arxiv.org/pdf/2203.11847v2,Spectral Algorithms Optimally Recover Planted Sub-structures,"It was
+          conjectured that a spectral algorithm would require a stronger signal than the SDP algorithm. Comparing the performance of SDPs and spectral algorithms for sublinear K is an interesting
+          avenue for future work. (2) In the CPDS model, can we consider a more general censoring distribution that can model
+          the case where the edges’ statuses are not missing at random? ",cs.DS,C,0.075726345,-0.12275903,0.029049361
+http://arxiv.org/pdf/2203.14058v1,Constant factor approximations for Lower and Upper bounded Clusterings,"[2]. Future Work: One direction for future work would be to obtain true constant
+factor approximations for the problems. For kM and kFL, this would be chal-
+lenging as no true approximations are known for the upper bounded variants
+of the underlying problems. ",cs.DS,C,0.041672505,-0.15480812,0.0020318162
+http://arxiv.org/pdf/2203.14540v1,Improving Matrix-vector Multiplication via Lossless Grammar-Compressed Matrices,"All these achievements improve the results got by the state-of-the-art
+Compressed Linear Algebra (CLA) approach [11, 12]. As a future work, we plan to investigate how much row permutation and co-clustering tech-
+niques [3, 9, 16] can contribute to achieve even better compression ratios. It would be of interest
+also to adapt and test our matrix-compression scheme in the context of columnar DBs, which
+feature multiple data types, such as strings, integers, categorical data, etc.. ",cs.DS,C,0.017577708,0.10346888,0.32678953
+http://arxiv.org/pdf/2203.14540v2,Improving Matrix-vector Multiplication via Lossless Grammar-Compressed Matrices,"All these achievements improve the results got by the state-of-the-art
+Compressed Linear Algebra (CLA) approach [11, 12]. As a future work, we plan to investigate how much row permutation and co-clustering tech-
+niques [3, 9, 16] can contribute to achieve even better compression ratios. It would be of interest
+also to adapt and test our matrix-compression scheme in the context of columnar DBs, which
+feature multiple data types, such as strings, integers, categorical data, etc.. ",cs.DS,C,0.017577708,0.10346888,0.32678953
+http://arxiv.org/pdf/2203.14864v1,Chess is hard even for a single player,"What is the complexity of GENERALIZED SOLO CHESS played by knights only? There are also several broad directions for future work, and we suggest some that we think
+are both natural and interesting problems to consider:
+
+1. For NO-instances of GENERALIZED SOLO CHESS, a natural optimization objective is to play
+    as many moves as possible, or, equivalently, leave as few pieces as possible on the board. ",cs.DS,B,-0.05778252,-0.17602707,-0.104457915
+http://arxiv.org/pdf/2203.14864v2,Chess is hard even for a single player,"What is the complexity of GENERALIZED SOLO CHESS played by knights only? There are also several broad directions for future work, and we suggest some that we think
+    are both natural and interesting problems to consider:
+
+    1. For NO-instances of GENERALIZED SOLO CHESS, a natural optimization objective is to play
+        as many moves as possible, or, equivalently, leave as few pieces as possible on the board. ",cs.DS,B,-0.05778252,-0.17602707,-0.104457915
+http://arxiv.org/pdf/2203.15246v1,A quantum-inspired tensor network method for constrained combinatorial optimization problems,"The paper is structured
+                                                                                                                                                         3
+
+as follows: The general quantum-inspired tensor network algorithm is proposed in Section 2, and the open-pit mining
+problem is provided as an example in Section 3. Section 4 shows our numerical results with the quantum-inspired
+tensor network algorithm and concludes with a discussion of open questions and directions for future work. II. ",cs.DS,B,-0.16984665,0.004263796,0.14092705
+http://arxiv.org/pdf/2203.15246v2,A quantum-inspired tensor network method for constrained combinatorial optimization problems,"The paper is structured
+as follows: The general quantum-inspired tensor network algorithm is proposed in Section 2, and the open-pit mining
+problem is provided as an example in Section 3. Section 4 shows our numerical results with the quantum-inspired
+tensor network algorithm and concludes with a discussion of open questions and directions for future work. II. ",cs.DS,B,-0.16855311,0.008039413,0.14238113
+http://arxiv.org/pdf/2203.16867v1,Snapshot Visualization of Complex Graphs with Force-Directed Algorithms,"standard deviation of edge lengths does not necessarily lead to an
+
+    Dataset                   Snapshot                                     aesthetically pleasing graph visualization. crack                   20 minutes
+             10 minutes                 30 minutes                         As for the future work, we anticipate the need for faster
+
+                                                                           force-directed approaches for visualizing large complex graphs since
+
+                                                                           the forms of online social interaction continue to evolve and diversify. Therefore, any enabling information visualization technologies such as
+
+                                                                           force-directed algorithms are expected to take on an increasingly
+
+                                                                           important role. ",cs.DS,B,-0.026692,0.45760098,-0.030745324
+http://arxiv.org/pdf/2203.16908v1,"Suffix tree-based linear algorithms for multiple prefixes, single suffix counting and listing problems","4 Conclusion
+
+In this paper, we proposed problems where multiple strings for preﬁx conditions and a single string for the suﬃx condition
+is given along with a text, and showed linear-time algorithms to count and list the unique substrings of the text that
+match the conditions for each preﬁx-suﬃx condition pair. In future work, we will consider related string processing
+problems and how data structures such as the suﬃx tree and the DAWG[1] may be used to solve them eﬃciently. One
+possible direction would be consider diﬀerent versions of the current problem, such as when both the preﬁx and suﬃx
+strings are multiple, or when multiple texts are given. ",cs.DS,C,-0.08179375,-0.12543622,0.18327585
+http://arxiv.org/pdf/2203.16908v2,"Suffix tree-based linear algorithms for multiple prefixes, single suffix counting and listing problems","square
+
+4 Conclusion
+
+In this paper, we proposed problems where multiple strings for preﬁx conditions and a single string for the suﬃx condition
+is given along with a text, and showed linear-time algorithms to count and list the unique substrings of the text that
+match the conditions for each preﬁx-suﬃx condition pair. In future work, we will consider related string processing
+problems and how data structures such as the suﬃx tree and the DAWG[1] may be used to solve them eﬃciently. One
+possible direction would be consider diﬀerent versions of the current problem, such as when both the preﬁx and suﬃx
+strings are multiple, or when multiple texts are given. ",cs.DS,C,-0.088867,-0.12667653,0.1879473
+http://arxiv.org/pdf/2204.00722v1,Twin-width VIII: delineation and win-wins,"Somewhat surprisingly this part leverages the
+same argument as we will later use for Ht-free visibility graphs of terrains; a forbidden
+pattern like the Order Claim (see Section 5.1). We write the lemmas in greater generality
+that what we actually need, for them to be possibly used in future work (in different settings). A t-splitting of a graph G replaces each of its vertices v, by a path Pv : v1v2 . ",cs.DS,B,-0.33057982,0.175621,-0.04098188
+http://arxiv.org/pdf/2204.00772v1,Improved Approximation Algorithm for Graph Burning on Trees,"The ideas of extracting equal height
+subtrees of the tree and the merge technique may be explored for the other re-
+lated problems in information diﬀusion. As future work we would like to explore
+the approximation algorithms for the generalized Graph Burning problem namely
+k-burning problem. References
+
+ 1. ",cs.DS,B,-0.18162876,0.18265465,-0.046658266
+http://arxiv.org/pdf/2204.01224v1,An Optimal Algorithm for Certifying Monotone Functions,"Furthermore, [BKLT22] show that
+Ω(C(f ) · log n) queries for the certiﬁcation problem are necessary in the worst-case. The authors
+identify closing this gap as a concrete direction for future work. 1.1 Our Results
+
+Our main result is a simple, deterministic algorithm that makes O(C(f ) · log n) queries to ﬁnd
+a size-C(f ) certiﬁcate for any monotone binary-valued function f and input x⋆. ",cs.DS,C,-0.09021273,-0.31755477,-0.017934594
+http://arxiv.org/pdf/2204.01859v1,Multitasking Scheduling with Shared Processing,"Our research leaves one unsolved case for the total completion time min-
+imization problem: is there an approximation scheme when m > 2 and more
+than one machines have arbitrary sharing ratios? For the future work, it is
+also interesting to study other performance criteria including maximum tar-
+diness, the total number of tardy jobs and other machine environments such
+as uniform machines, ﬂowshop, etc. Moreover, in our work we assume that
+all the routine jobs have been predetermined and have ﬁxed release times and
+duration as well as ﬁxed processing capacity. ",cs.DS,C,0.21689023,-0.11630441,-0.17143175
+http://arxiv.org/pdf/2204.01976v1,Streaming Approximation Scheme for Minimizing Total Completion Time on Parallel Machines Subject to Varying Processing Capacity,"Our research leaves one unsolved case for the studied problems: Is there
+a streaming approximation scheme when one of the machines has arbitrary
+processing capacities? For the future work, it is also interesting to study
+other performance criteria under the data stream model including maximum
+tardiness, the number of tardy jobs and other machine environments such as
+uniform machines, ﬂowshop, etc. References
+
+ [1] Adiri, I., and Yehudai, Z. Scheduling on machines with variable
+      service rates. ",cs.DS,C,0.35353833,-0.024858436,-0.22135723
+http://arxiv.org/pdf/2204.02668v1,Disentangling the Computational Complexity of Network Untangling,"For MinTimeline+, the open question remaining is whether it is
+in FPT when parameterized by the number of vertices. Besides this question, there are
+many others which could be studied in future work:
+
+    • Are there (polynomial) kernelizations for the FPT cases? Developing data reduction
+       rules might be especially interesting from a practical perspective. ",cs.DS,B,-0.15267107,-0.029133918,0.22388181
+http://arxiv.org/pdf/2204.02902v1,Efficient Bayesian Network Structure Learning via Parameterized Local Search on Topological Orderings,"Thus, one
+important topic for future work is to investigate how well the theoretical algorithms proposed in this
+work perform in practice when combined with algorithm engineering tricks like data reduction rules,
+upper and lower bounds for the solution size, and restarts. Besides experimental evaluations of the algorithms proposed in this work, it is also interesting to
+further study theoretical running time improvements. Recall that our subexponential-time algorithms
+for the inversions distance and the inversion-window distance are closely related to an algorithm for
+FAST [1]. ",cs.DS,C,0.09839527,-0.028641509,0.21358268
+http://arxiv.org/pdf/2204.03209v1,Speeding Up Sparsification using Inner Product Search Data Structures,"From this perspective, our data structure formulation gives the right direction to
+achieve the truly optimal running time for this problem, and various sparsiﬁcation problem using the
+potential function of [BSS12]. It also opens up the door to further study of eﬃcient and deterministic
+spectral sparsiﬁer. Extensions to Sparsify PSD Matrices. ",cs.DS,C,0.038079605,-0.03764849,0.31787366
+http://arxiv.org/pdf/2204.03782v1,Testing Positive Semidefiniteness Using Linear Measurements,"We provided tight bounds as well as a separation between one and two-sided testers in the
+latter model. There are a number of additional questions that may yield interesting future work. • Our adaptive vector-matrix-vector algorithm for p = 1 uses Ω(1/ǫ) rounds of adaptivity, but
+       this may not always be desirable in practice, since the queries cannot be run in parallel. ",cs.DS,C,0.10129991,-0.03958655,0.12812307
+http://arxiv.org/pdf/2204.04168v1,Ranking with submodular functions on a budget,"We empirically demonstrate the superior performance of the proposed
+algorithms on real-life datasets, compared with a state-of-the-art baseline and
+other meaningful heuristics. One direction for future work is to narrow the gap between the approximation
+ratio and the lower bound. Another direction is to study the online version of the
+MSR problem, to allow for the arrival of new submodular functions. ",cs.DS,C,0.11648277,0.017733935,0.17204782
+http://arxiv.org/pdf/2204.05821v1,Single-Purpose Algorithms vs. a Generic Graph Summarizer for Computing $k$-Bisimulations on Large Graphs,"[27]. Our work is based on Apache
+                                                                             Spark, so it is directly extensible in future work to be executed in
+In our experiments, synthetic and real-world graphs were consid-             both a distributed computation environment of nodes with rather
+ered, the latter being especially important to analyze the practical         smaller main memory available, and/or using external memory
+application of an algorithm [6, 26]. Two different GSMs were used            such as solid-state disks. ",cs.DS,A_centroid,0.21152595,0.42634797,-0.072332576
+http://arxiv.org/pdf/2204.06077v1,PaC-trees: Supporting Parallel and Compressed Purely-Functional Collections,"expense of increased work when performing updates. Other
+future work includes applying PaC-trees to improve space                     [13] Guy E. Blelloch, Phillip B. Gibbons, and Harsha Vardhan Simhadri. utilization in databases, and to improve the performance of                        2010. ",cs.DS,A,0.20505735,0.2991829,-0.044593584
+http://arxiv.org/pdf/2204.07827v1,Local treewidth of random and noisy graphs with applications to stopping contagion in networks,"In addition, we believe that this is
+the worst possible spread: every subset of size k in a noisy tree will not infect
+
+                                                  26
+with high probability more than O(k log n) vertices. It seems likely that that
+restriction on k in Theorem 19 can be lifted and that the Theorem holds for
+arbitrary k. Whether this is the case is left for future work. Finally, we can leverage Theorem 19 to get algorithms for stopping contagion
+in noisy trees:
+
+Theorem 22. ",cs.DS,B,-0.11141795,0.09234886,-0.19811821
+http://arxiv.org/pdf/2204.07827v2,Local treewidth of random and noisy graphs with applications to stopping contagion in networks,"In addition, we believe that this is
+the worst possible spread: every subset of size k in a noisy tree will not infect
+with high probability more than O(k log n) vertices. It seems likely that that
+restriction on k in Theorem 15 can be lifted and that the Theorem holds for
+arbitrary k. Whether this is the case is left for future work. Finally, we can leverage Theorem 15 to get algorithms for stopping contagion
+in noisy trees:
+
+Theorem 18. ",cs.DS,B,-0.1345281,0.06508013,-0.19904107
+http://arxiv.org/pdf/2204.11149v1,Maximizing Non-Monotone Submodular Functions over Small Subsets: Beyond $1/2$-Approximation,"3
+Future directions
+
+Our FPT algorithm achieves signiﬁcantly better-than-1/2 approximation for general non-monotone
+submodular functions in the oﬄine setting, and its subrountine Algorithm 1 breaks the 1/2 hardness
+for symmetric submodular functions in the random-order streaming setting – but what is the best
+possible approximation ratio in those respective settings? We leave this as an open problem for
+future work. We remark that no FPT (small-buﬀer resp.) ",cs.DS,C,0.052016303,-0.2643983,0.096265875
+http://arxiv.org/pdf/2204.12358v1,Polylogarithmic Sketches for Clustering,"It is unclear
+       to us whether this assumption is necessary, although our approach hinges on the fact ℓpp is
+       additive over the d coordinates. We leave this as a problem for future work. A similar, yet importantly diﬀerent notion of (k, z)-clustering considers medoid cost, where the
+centers of the k clusters c1, . ",cs.DS,C,-0.033458497,-0.17562765,0.10018
+http://arxiv.org/pdf/2204.12468v1,A Review of In-Memory Space-Efficient Data Structures for Temporal Graphs,"Therefore, algorithms could eﬃciently process
+large amount of data in primary memory. For future works, we suggest the development of techniques that circum-
+vents the weaknesses of the discussed data structures. For example, EdgeLog
+can perform direct neighbor queries eﬃciently, however eﬃcient reverse neigh-
+bor queries need duplication of storage. ",cs.DS,A,0.0074928473,0.369946,0.031721238
+http://arxiv.org/pdf/2204.12780v1,A Branch-and-Price Approach to a Variant of the Cognitive Radio Resource Allocation Problem,"Fi-
+nally, incorporating learning mechanisms to predict the behavior of the PUs is a promising
+
+© 2022. This manuscript version is made available under the CC-BY-NC-ND 4.0 license
+              https://creativecommons.org/licenses/by-nc-nd/4.0/
+Accepted Manuscript - Ad Hoc Networks - https://doi.org/10.1016/j.adhoc.2022.102871  23
+
+direction for future works. Based on analyzing the behavior of PUs, especially in scenarios
+where they may frequently change their spectrum usage pattern, we can seek for a more sta-
+ble assignment. ",cs.DS,A,0.28292277,0.14550984,0.07417246
+http://arxiv.org/pdf/2204.13459v1,Weighted Packet Selection for Rechargeable Links: Complexity and Approximation,"Then Algorithm 2 surely accepts this packet and the condition that
+    the packet needs to be accepted by all links it passes through is satisﬁed. 7 Discussion and future work
+
+    We initiated the study of weighted packet selection over a rechargable capacitated link, a
+    natural algorithmic problem e.g., describing the routing of ﬁnancial transactions in crypto-
+    currency networks. We showed that this problem is NP-hard and provided a constant factor
+    approximation algorithm. ",cs.DS,C,-0.01675413,-0.18694064,-0.25489005
+http://arxiv.org/pdf/2204.13459v2,Weighted Packet Selection for Rechargeable Links: Complexity and Approximation,"Then Algorithm 2 surely accepts this packet and the condition that
+    the packet needs to be accepted by all links it passes through is satisﬁed. 7 Discussion and future work
+
+    We initiated the study of weighted packet selection over a rechargable capacitated link, a
+    natural algorithmic problem e.g., describing the routing of ﬁnancial transactions in crypto-
+    currency networks. We showed that this problem is NP-hard and provided a constant factor
+    approximation algorithm. ",cs.DS,C,-0.01675413,-0.18694064,-0.25489005
+http://arxiv.org/pdf/2204.14137v1,Improved Sublinear-Time Edit Distance for Preprocessed Strings,"Further Related Work In the previous comparison about sublinear-time algorithms, we
+   left out streaming and sketching algorithms [12, 18, 9] and document exchange protocols [23,
+   12, 22]. Future Directions There are several interesting directions for future work. We speciﬁcally
+   mention two open problems. ",cs.DS,C,0.066396825,0.09328847,0.05161696
+http://arxiv.org/pdf/2205.01247v1,Scheduling with Speed Predictions,"If there are
+many machine speeds with a small error (in which case ∞ is small and 1 is large) then the
+algorithm performs very well. However, we believe that studying the scheduling with speed
+predictions problem that we introduce under other error measurements, such as 1, is an
+interesting direction for future work. B Missing Analysis from Section 3
+
+Proposition 3.1. ",cs.DS,C,0.19201547,-0.08967395,-0.1363681
+http://arxiv.org/pdf/2205.01417v1,The Price of Hierarchical Clustering,"The best known upper bound is 16 for k-median [9] and 32 for k-means [16] but no non-
+trivial lower bounds are known. Closing this gap also for these objectives is a challenging
+problem for further research. Another natural question is which approximation factors can be achieved by algo-
+rithms running in polynomial time. ",cs.DS,C,-0.004645262,-0.14704618,0.04379952
+http://arxiv.org/pdf/2205.01785v2,The theoretical analysis of sequencing bioinformatics algorithms and beyond,"It will be useful to also identify successful TA3 techniques from
+areas of bioinformatics that are not based solely on sequencing data, such as whole-genome analysis and phylogeny
+reconstruction. The toolbox of successful TA3 techniques can then become the starting point of further research;
+moreover, it can be added to the bioinformatics curriculum in computer science. The theoretical analysis of sequencing bioinformatics algorithms and beyond  9
+
+   Viewing TA3 as its own research field would allow researchers to focus on retrospective prediction of algorithm
+performance; i.e. ",cs.DS,A,0.29087517,0.16061673,0.13398942
+http://arxiv.org/pdf/2205.02815v1,Cut-Down de Bruijn Sequences,"The time to pre-compute the values m, h, t for k > 2 depend on the time to enumerate Tk(n , w )
+for all 1 ≤ n ≤ n and 0 ≤ w ≤ (k − 1)n. By applying dynamic programming techniques, these
+values can easily be computed in O(k2n2) time applying the obvious recurrence. 6 Summary and future work
+
+In this paper we improved upon Etzion’s algorithm [9] to construct binary cut-down de Bruijn
+sequences. We then provided details to generalize the algorithm for arbitrary-sized alphabets by
+selecting an appropriate underlying feedback function. ",cs.DS,C,0.08090785,-0.096546225,0.1757474
+http://arxiv.org/pdf/2205.04129v1,Reusing Comparator Networks in Pseudo-Boolean Encodings,"In their paper, Abío et al. [1] note that their future work would be: “to develop
+encoding techniques for cardinality constraints that do not process constraints one-at-a-time
+but simultaneously, in order to exploit their similarities”, and that they: “foresee that the
+ﬂexibility of the approach presented here [...] will open the door to sharing the internal
+networks among the cardinality constraints present in a SAT problem”. Up to our knowledge,
+the only paper that explores the possibility of reusing parts of cardinality constraint encodings
+is [16]. ",cs.DS,C,-0.11151454,-0.18321481,-0.10932653
+http://arxiv.org/pdf/2205.04745v1,PaCHash: Packed and Compressed Hash Tables,Section 7 describes experiments for an external implementation. Section 8 summarizes the results and discusses possible directions for further research. Our Contribution. ,cs.DS,A,0.4703808,0.0956644,0.056540977
+http://arxiv.org/pdf/2205.04745v2,PaCHash: Packed and Compressed Hash Tables,Section 7 describes experiments for an external implementation. Section 8 summarizes the results and discusses possible directions for further research. Our Contribution. ,cs.DS,A,0.4703808,0.0956644,0.056540977
+http://arxiv.org/pdf/2205.04745v3,PaCHash: Packed and Compressed Hash Tables,"Section 7 describes
+   experiments for an external implementation. Section 8 summarizes the results and discusses
+   possible directions for further research. Our Contribution. ",cs.DS,A,0.4703808,0.0956644,0.056540977
+http://arxiv.org/pdf/2205.04956v1,Parallel Batch-Dynamic Minimum Spanning Forest and the Efficiency of Dynamic Agglomerative Graph Clustering,"This
+
+               𝑤𝑡 |𝐶 ∩ 𝑈 | 𝑤𝑡                                              suggests that future work on dynamic HAC algorithms for these
+
+                          |𝐶 |     ≤ =𝜆+1               (2)                linkage functions may wish to avoid targeting worst-case inputs. 𝜆
+
+                                                                              For future work, it would be desirable to reduce the running
+
+where the first inequality again applied the inequality 𝜆|𝐶 ∩ 𝑈 | ≤        time  of  the  MSF  algorithm    further. Can  we  match  the  𝑂  (𝑘      4  𝑛)
+|𝐶 |. ",cs.DS,C,0.021962285,-0.19345036,-0.018615423
+http://arxiv.org/pdf/2205.04956v2,Parallel Batch-Dynamic Minimum Spanning Forest and the Efficiency of Dynamic Agglomerative Graph Clustering,"where the first inequality again uses the inequality 𝜆|𝐶 ∩ 𝑈 | ≤ |𝐶 |. For future work, it would be desirable to reduce the running time
+
+Comparing Equation (1) to Equation (2) shows that 𝐶𝑦 merges with           of  the  MSF  algorithm   further. Can    we  match     the  𝑂  (𝑘      4  𝑛)  work
+all 𝑢 ∈ 𝑈 covered by 𝑆 before 𝑡 merges with anything. ",cs.DS,C,0.016064633,-0.21747716,0.06382054
+http://arxiv.org/pdf/2205.04956v3,Parallel Batch-Dynamic Minimum Spanning Forest and the Efficiency of Dynamic Agglomerative Graph Clustering,"where the first inequality again uses the inequality 𝜆|𝐶 ∩ 𝑈 | ≤ |𝐶 |. For future work, it would be desirable to reduce the running time
+
+Comparing Equation (1) to Equation (2) shows that 𝐶𝑦 merges with           of  the  MSF  algorithm   further. Can    we  match     the  𝑂  (𝑘      4  𝑛)  work
+all 𝑢 ∈ 𝑈 covered by 𝑆 before 𝑡 merges with anything. ",cs.DS,C,0.016064633,-0.21747716,0.06382054
+http://arxiv.org/pdf/2205.05211v1,Ancestral Colorings of Perfect Binary Trees With Applications in Private Retrieval of Merkle Proofs,"However, our initial attempt for h = 5 indicates that it could be quite challenging to obtain
+ancestral colorings by such a method, even if a convex and dyadic combination can be identiﬁed. Further investigation on this direction is left for future work. III. ",cs.DS,B,-0.17438015,-0.0045931414,0.13699862
+http://arxiv.org/pdf/2205.05643v1,A New Class of String Transformations for Compressed Text Indexing,"We believe this larger class of transformation should
+be further investigated: we have shown that some of them do have more eﬃcient inversion
+and search algorithms and this suggests that there could be other subclasses of practical
+interest. Another possible avenue of further research would be the generalizations of our
+variants to the recently introduced extension of the BWT in the areas of graphs, languages
+and automata [1, 17, 30]. References
+
+  1 Jarno Alanko, Giovanna D’Agostino, Alberto Policriti, and Nicola Prezza. ",cs.DS,B,-0.20672953,0.044365678,0.124586985
+http://arxiv.org/pdf/2205.07850v1,Hyperdimensional Hashing: A Robust and Efficient Dynamic Hash Table,"[18]
+                                                                     that shows how HDC accelerators can optimize server lookup
+                                                                     (inference in HDC) to a single clock-cycle. Realizing an imple-
+                                                                     mentation of the HD hashing algorithm in special hardware
+                                                                     is future work. 7 Conclusion                                                                                                                               Heddes and Nunes, et al. ",cs.DS,A,0.3059309,0.19992654,0.07908438
+http://arxiv.org/pdf/2205.10302v1,Individual Fairness in Prophet Inequalities,"With access to two independent samples from each distribution, the decision maker can imple-
+       ment a constant-competitive online stopping rule that satisﬁes both TIF and IIF. The question of
+       whether fairness-constrained stopping rules can be constant-competitive with just one sample from
+       each distribution, rather than two, is an enticing open question that we leave for future work. 2
+1.1 Related Work
+
+Our work ﬁts the line of research on optimal stopping problems initiated by [KS77] and followed by
+others including [SC84] and more recent works highlighting the connection of stopping problems with
+Mechanism Design initiated by [HKS07]. ",cs.DS,C,0.25049558,-0.32263258,-0.26849943
+http://arxiv.org/pdf/2205.11102v1,The k-Server with Preferences Problem,"Hence, their sequence
+can repeat arbitrarily often, such that the same bounds hold in the limit. An important question for future work is if and how our results extend to other metric
+spaces. Presumably, for the case of general metric spaces, the severity of a mismatch
+of the servers after the optimal positions are covered is increased. ",cs.DS,C,0.1994837,0.0032117844,-0.22082713
+http://arxiv.org/pdf/2205.11102v2,The k-Server with Preferences Problem,"Hence, their sequence
+    can repeat arbitrarily often, such that the same bounds hold in the limit. An important question for future work is if and how our results extend to other metric
+    spaces. Presumably, for the case of general metric spaces, the severity of a mismatch
+    of the servers after the optimal positions are covered is increased. ",cs.DS,C,0.1994837,0.0032117844,-0.22082713
+http://arxiv.org/pdf/2205.11102v3,The k-Server with Preferences Problem,"Hence, their sequence
+    can repeat arbitrarily often, such that the same bounds hold in the limit. An important question for future work is if and how our results extend to other metric
+    spaces. Presumably, for the case of general metric spaces, the severity of a mismatch
+    of the servers after the optimal positions are covered is increased. ",cs.DS,C,0.1994837,0.0032117844,-0.22082713
+http://arxiv.org/pdf/2205.11102v4,The k-Server with Preferences Problem,"Hence, their sequence
+    can repeat arbitrarily often, such that the same bounds hold in the limit. An important question for future work is if and how our results extend to other metric
+    spaces. Presumably, for the case of general metric spaces, the severity of a mismatch of
+    the servers after the optimal positions are covered is increased. ",cs.DS,C,0.1994837,0.0032117844,-0.22082713
+http://arxiv.org/pdf/2205.12307v1,Approximate Euclidean lengths and distances beyond Johnson-Lindenstrauss,"We
+also showed how these results can be applied to other important problems, speciﬁcally to estimate
+Euclidean distances between data points, which is related to the fundamental concept of approximate
+isometries that has many applications in data science, as well as for statistical leverage scores
+estimations, which are ubiquitous quantities not only in data science and statistics, but also in
+numerical linear algebra and spectral graph theory. As future work, several directions can be envisioned. Most prominently, it would be interesting to
+determine whether the studied techniques can be used to improve Oblivious Subspace Embeddings
+[30, 34]. ",cs.DS,C,-0.120302364,-0.04719622,0.28998402
+http://arxiv.org/pdf/2205.12307v2,Approximate Euclidean lengths and distances beyond Johnson-Lindenstrauss,"We
+also showed how these results can be applied to other important problems, speciﬁcally to estimate
+Euclidean distances between data points, which is related to the fundamental concept of approximate
+isometries that has many applications in data science, as well as for statistical leverage scores
+estimations, which are ubiquitous quantities not only in data science and statistics, but also in
+numerical linear algebra and spectral graph theory. As future work, several directions can be envisioned. Most prominently, it would be interesting to
+determine whether the studied techniques can be used to improve Oblivious Subspace Embeddings
+[40, 44]. ",cs.DS,C,-0.1199979,-0.04932547,0.29002106
+http://arxiv.org/pdf/2205.14797v1,Near Optimal Bounds for Replacement Paths and Related Problems in the CONGEST Model,"6 Conclusion and Further Research
+
+We have presented several upper and lower bounds on the round complexity of RPaths, 2-SiSP, MWC and
+ANSC in the CONGEST model. Many of our bounds are close to optimal, but we have some avenues for
+further research:
+
+    • Reduce the gap between lower and upper bounds for shortest cycle in an unweighted undirected graph. • Reduce the gap between lower and upper bounds for RPaths in an unweighted directed graph. ",cs.DS,B,-0.22070497,0.020727038,-0.08892389
+http://arxiv.org/pdf/2205.14950v1,QB-II for Evaluating the Reliability of Binary-State Networks,"The proposed QB-II will be integrated with approximated-reliability algorithms, for example,
+Monte Carlo simulation, to improve its efficiency for larger-sized problems without sacrificing too
+
+                                                                      - 32 -
+much solution quality. QB-II will also be reinforced from the binary-state reliability problem to solve
+more real-life applications in future works. ACKNOWLEDGEMENTS
+      This research was supported in part by the Ministry of Science and Technology, R.O.C. ",cs.DS,A,0.28913856,-0.054035522,0.050411984
+http://arxiv.org/pdf/2206.01706v1,Weighted Model Counting with Twin-Width,"On
+    the empirical side, we have computed the exact signed twin-width of several formulas and
+    compared these values to those of treewidth and signed clique-width. In future work, it would be interesting to investigate whether there is a structural
+    parameter that generalizes signed clique-width and can yield fixed-parameter algorithms for
+    SAT alone; in the case of twin-width, we show that this is not possible (Proposition 13). Moreover, while the fixed-parameter tractability established in Theorem 1 should be viewed
+    as a classification result, it would be interesting to see whether the ideas developed there
+    could be used to inspire improvements to existing heuristics for SAT. ",cs.DS,B,-0.22884566,-0.027115628,-0.101514384
+http://arxiv.org/pdf/2206.04387v1,Kernelization for Feedback Vertex Set via Elimination Distance to a Forest,"Then Section 4
+contains the proof of Theorem 2, thereby also proving the ‘only if’ direction of
+Theorem 1. Lastly, Section 5 contains our conclusions and discusses future work. 2 Preliminaries
+
+For a positive integer n, we use the shorthand [n] for the set of all natural
+numbers i with 1 ≤ i ≤ n. All graphs we consider are ﬁnite, undirected and
+simple. ",cs.DS,B,-0.37735373,0.11161555,-0.13233845
+http://arxiv.org/pdf/2206.04451v1,Deep kernelization for the Tree Bisection and Reconnnect (TBR) distance in phylogenetics,"We are done. 8 Conclusion and future work
+
+There are a number of interesting future research directions. The most obvious direction is to
+design new reduction rules capable of further improving the current 9k − 8 bound. ",cs.DS,C,0.020063773,-0.049255557,0.13427463
+http://arxiv.org/pdf/2206.04451v2,Deep kernelization for the Tree Bisection and Reconnnect (TBR) distance in phylogenetics,"Also, the fact that Reduction
+8 actually undoes an application of the chain reduction is interesting: it takes a step ‘back’,
+in order to move forward. As discussed in [11] this phenomenon merits further study. Next, an empirical study in the spirit of [28] could investigate how much extra reductive
+power the new 9k − 8 rules have in practice; the rules for the 11k − 9 kernel do have more
+practical eﬀect than the 15k − 9 rules, does this trend continue? ",cs.DS,B,0.03973051,0.08656118,0.19013056
+http://arxiv.org/pdf/2206.05579v1,Online Paging with Heterogeneous Cache Slots,"So the total cost of requests in Items 5 and 6 above is at most twice the total cost of
+all other requests. 8 Open Problems
+
+The results here suggest many open problems and avenues for further research. Closing or tightening gaps left by our upper
+and lower bounds would be of interest. ",cs.DS,C,0.20399001,-0.102981344,-0.25785175
+http://arxiv.org/pdf/2206.06299v1,On the Design of Decentralised Data Markets,"Access 7 (2019), 128325–128338. For future work, we wish to explore how our voting                   [5] ANDREWS, L. Facebook is using you. New York Times. ",cs.DS,B,0.004551585,0.0738568,0.034150414
+http://arxiv.org/pdf/2206.06299v2,On the Design of Decentralised Data Markets,"Access 7 (2019), 128325–128338. For future work, we wish to explore how our voting                   [5] ANDREWS, L. Facebook is using you. New York Times. ",cs.DS,B,0.004551585,0.0738568,0.034150414
+http://arxiv.org/pdf/2206.07633v1,Sublinear Algorithms for Hierarchical Clustering,"Note that all our algorithms and lower bounds are aimed at ﬁnding an explicit hierarchical clustering
+tree. Therefore a natural direction for future work is to understand whether we can get even more
+eﬃcient sublinear algorithms if we only want to estimate the cost of the optimal hierarchical clustering
+to within some small error. We note that a recent work [33] has already studied this question in the
+streaming model by proving a number of lower bounds for the optimal cost estimation. ",cs.DS,C,-0.023556441,-0.047141295,-0.005605515
+http://arxiv.org/pdf/2206.07672v1,Reconstructing Ultrametric Trees from Noisy Experiments,"We remark that our techniques for recon-
+structing distances are quite general, and should be applicable to other instantiations of the general noise
+model. Determining the general conditions under which the entire ultrametric can be reconstructed is left
+as a topic for future work. 2 Related Work
+
+The problem of reconstructing evolutionary trees has received a lot of attention over the years. ",cs.DS,B,-0.069679976,-0.009685638,0.2682143
+http://arxiv.org/pdf/2206.08495v1,Yankee Swap: a Fast and Simple Fair Allocation Mechanism for Matroid Rank Valuations,"Other examples include the computation of an EFX allocation when
+there are only three agents and the computation of a welfare maximizing EF1 allocation. Another line of future work is the analysis of Yankee Swap in other fair allocation problems. We
+conjecture that, when agents have entitlements (or priorities) [Chakraborty et al., 2021], the Yankee
+Swap algorithm modiﬁed to break ties using entitlements can be used to compute a weighted leximin
+allocation. ",cs.DS,C,0.13718164,-0.2754351,-0.32067278
+http://arxiv.org/pdf/2206.08495v2,Yankee Swap: a Fast and Simple Fair Allocation Mechanism for Matroid Rank Valuations,"Other examples include the computation of an EFX allocation when
+there are only three agents and the computation of a welfare maximizing EF1 allocation. Another line of future work is the analysis of Yankee Swap in other fair allocation problems. We
+conjecture that, when agents have entitlements (or priorities) [Chakraborty et al., 2021], the Yankee
+Swap algorithm modiﬁed to break ties using entitlements can be used to compute a weighted leximin
+allocation. ",cs.DS,C,0.13718164,-0.2754351,-0.32067278
+http://arxiv.org/pdf/2206.08495v3,Yankee Swap: a Fast and Simple Fair Allocation Mechanism for Matroid Rank Valuations,"Other examples include the computation of an EFX allocation when
+there are only three agents and the computation of a welfare maximizing EF1 allocation. Another line of future work is the analysis of Yankee Swap in other fair allocation problems. We
+conjecture that, when agents have entitlements (or priorities) [Chakraborty et al., 2021], the Yankee
+Swap algorithm modiﬁed to break ties using entitlements can be used to compute a weighted leximin
+allocation. ",cs.DS,C,0.13718164,-0.2754351,-0.32067278
+http://arxiv.org/pdf/2206.08495v4,Yankee Swap: a Fast and Simple Fair Allocation Mechanism for Matroid Rank Valuations,"Other examples include the computation of an EFX allocation when
+there are only three agents and the computation of a welfare maximizing EF1 allocation. Another line of future work is the analysis of Yankee Swap in other fair allocation problems. We
+conjecture that, when agents have entitlements (or priorities) [Chakraborty et al., 2021], the Yankee
+Swap algorithm modiﬁed to break ties using entitlements can be used to compute a weighted leximin
+allocation. ",cs.DS,C,0.13718164,-0.2754351,-0.32067278
+http://arxiv.org/pdf/2206.09563v1,DASH: Distributed Adaptive Sequencing Heuristic for Submodular Maximization,"Additionally, our T-DASH and G-DASH algorithm provide improved approx-
+imation with sublinear adaptivity. Nevertheless, since T-DASH and G-DASH require duplication of
+data, there is still room for future work to explore achieving a similar result without data duplication. 10
+References
+
+ [1] Ashwinkumar Badanidiyuru, Baharan Mirzasoleiman, Amin Karbasi, and Andreas Krause. ",cs.DS,C,0.06932369,0.10006015,0.31252098
+http://arxiv.org/pdf/2206.10287v1,High Satisfaction in Thin Dynamic Matching Markets,"It is possible to extend our results under certain assumptions on the relationship
+between the diﬀerent density parameters. Still, a rigorous treatment of this model is beyond the
+scope of this paper, and we leave it as an intriguing direction for further research. Acknowledgements
+
+This work was supported by the Deutsche Forschungsgemeinschaft (German Research Founda-
+tion) under grants BR 2312/11-2, BR 2312/12-1, and 277991500/GRK2201. ",cs.DS,C,0.09419759,-0.19997278,0.17357169
+http://arxiv.org/pdf/2206.11654v1,Hierarchical Agglomerative Graph Clustering in Poly-Logarithmic Depth,"It would be interesting to better
+           understand why this is the case. We conjecture that this is due to overmerging within each
+           round, and plan to investigate this further in future work. • Third, ParHAC using = {0, 0.01, 0.1} yield similar results in terms of quality up until
+          very large k. For = 1, we see a sharp divergence and loss of quality, which suggests that
+           this value of may be impractical to use in practice. ",cs.DS,C,0.14870667,-0.13549134,0.14412382
+http://arxiv.org/pdf/2206.11726v1,Longest Common Subsequence: Tabular vs. Closed-Form Equation Computation of Subsequence Probability,"Our results show
+that our proposed methods outperform the state-of-the-art algorithms in both
+qualities of solutions and run-time. In future work, the closed-form equation
+can be used for better approximation with a lower computation overhead and
+time consumption. Moreover, it is possible to use the closed-form equations in
+palindromic strings for better analysis and consequently introduce improved
+heuristics. ",cs.DS,C,-0.0064466745,-0.06973817,0.17900395
+http://arxiv.org/pdf/2206.12531v8,Maximum independent set (stable set) problem: A mathematical programming model with valid inequalities; Computational testing with binary search and alternate optimal basic solutions (extreme points),"A program is needed to remove
+such duplicate constraints before solving the Linear programs. The questions in Remarks (2) and (3) are topics for further research. 8.1 Software Webpage URL
+
+The software programs are available at the following URL:
+https://sites.google.com/view/all-optimisation-slides/
+We welcome readers to send us their comments and suggestions. ",cs.DS,C,0.035987537,-0.24533772,-0.012155075
+http://arxiv.org/pdf/2206.12600v1,PalFM-index: FM-index for Palindrome Pattern Matching,"Therefore we can report
+each occurrence of P in O(∆) time, and the theorem follows. 6 Conclusions and future work
+
+In this paper, we developed new encoding schemes for pal-matching and pro-
+posed PalFM-index, a space-eﬃcient index for pal-matching based on FM-index. Future work includes to present an eﬃcient construction algorithm of PalFM-
+index, and to reduce the space requirement (e.g. ",cs.DS,C,-0.010237379,-0.119787894,0.27867514
+http://arxiv.org/pdf/2206.13057v1,Beating Greedy Matching in Sublinear Time,"For instance, in the random-order streaming the
+current best known bound is slightly above 2/3 [AB21], and in the stochastic matching setting
+a (1 − ε)-approximation has been achieved [BDH20]. We hope that our work in this paper also
+inspires future work on going tangibly above 1/2-approximation in the sublinear time model. Discovering short augmenting paths has been a central technique in many of the works discussed
+above in beating the greedy algorithm. ",cs.DS,C,0.12745492,-0.1250506,0.05929645
+http://arxiv.org/pdf/2206.13372v1,Recognition and Isomorphism of Proper $\boldsymbol{U}$-graphs in FPT-time,"The recognition problem for U-graphs and proper U-graphs is NP-hard where U is the class
+of all unicyclic graphs, and the isomorphism problem for H-graphs and proper H-graphs
+is GI-complete when H is not unicyclic. The problems whether general U -graphs can be
+recognized in FPT -time and whether they can be tested for isomorphism in FPT -time remain
+open, and we would like to consider these problems as future work. References
+
+1 Vikraman Arvind, Roman Nedela, Ilia Ponomarenko, and Peter Zeman. ",cs.DS,B,-0.323345,0.0015416476,0.05436119
+http://arxiv.org/pdf/2206.13813v1,Sublinear-Time Clustering Oracle for Signed Graphs,"To contrast, in unsigned
+graphs, the spectral embedding of most vertices in the same cluster are close to one single center. To show
+the existence of two opposite centers, we develop a new property relating the eigenvectors and the polarized
+clusters, which may be useful for future work on clustering in signed graphs. Second, for unsigned oracles, it suﬃces to consider the 22-distance between two random walk distributions
+starting from any two vertices u, v to decide if u, v are similar or not (i.e., if they belong to the same cluster
+or not). ",cs.DS,B,-0.1659375,0.1385832,0.114560165
+http://arxiv.org/pdf/2206.14698v1,There and Back Again: On Applying Data Reduction Rules by Undoing Others,"As mentioned before,
+REFERENCES                                                                                       15
+
+our approach is not limited to Vertex Cover. Looking at other problems is future work
+though. A framework for applying our approach on graph problems could be another next
+step. ",cs.DS,B,-0.26393592,0.20966952,-0.16316685
+http://arxiv.org/pdf/2206.15097v1,Prefix-free parsing for building large tunnelled Wheeler graphs,"Since our approach treats the PFP parse as any input text, it does not exploit the
+full information the PFP provides and could beneﬁt from incorporating the lengths of the
+dictionary phrases into the tunnelling process, potentially even to the point of simulating
+the tunnelling algorithm on the original text and producing the same output. We leave this
+for future work. Another logical next step is to enhance our approach with the ability to output a
+suﬃciently small suﬃx array sample to allow our Wheeler graphs to locate the occurrences
+of patterns. ",cs.DS,C,-0.04894804,0.082297556,0.21721862
+http://arxiv.org/pdf/2207.00381v1,Combining Predicted and Live Traffic with Time-Dependent A* Potentials,"To the best of our knowledge, this makes our approach the
+    ﬁrst to achieve interactive query performance while allowing fast updates in this setting. For future work, we would like to apply our time-dependent potentials to other extended
+    scenarios in time-dependent routing, for example to incorporate turn costs. References
+
+      1 Hannah Bast, Daniel Delling, Andrew V. Goldberg, Matthias Müller–Hannemann, Thomas
+            Pajor, Peter Sanders, Dorothea Wagner, and Renato F. Werneck. ",cs.DS,A,0.22752954,0.19987988,-0.2708776
+http://arxiv.org/pdf/2207.00381v2,Combining Predicted and Live Traffic with Time-Dependent A* Potentials,"To the best of our knowledge, this makes our approach the
+    ﬁrst to achieve interactive query performance while allowing fast updates in this setting. For future work, we would like to apply our time-dependent potentials to other extended
+    scenarios in time-dependent routing, for example to incorporate turn costs. References
+
+      1 Hannah Bast, Daniel Delling, Andrew V. Goldberg, Matthias Müller–Hannemann, Thomas
+            Pajor, Peter Sanders, Dorothea Wagner, and Renato F. Werneck. ",cs.DS,A,0.22752954,0.19987988,-0.2708776
+http://arxiv.org/pdf/2207.00386v1,Search-Space Reduction via Essential Vertices,"As the results for problems for
+which no constant-factor approximation exists are more interesting, we focused on those. Our work opens up several questions for future work. Is the integrality gap for v-
+Avoiding Planar Vertex Deletion constant, when G−v is planar? ",cs.DS,B,-0.22173065,0.091112904,0.100569025
+http://arxiv.org/pdf/2207.00849v1,Tableless Calculation of Circular Functions on Dyadic Rationals,"Our ﬁnal result is evaluated and compared to prior art in section 3. We conclude and cast the light on
+future work in section 4. 2 Development of the algorithm
+
+In this section we present observations to show that cos 2xk can indeed be computed iteratively using
+                                                                       π                               π
+nested  radicals,  provided       that  x  is  an  even  multiple  of  4  (i.e.,     a  multiple   of  2  ). ",cs.DS,B,-0.037757106,0.029073952,0.32155466
+http://arxiv.org/pdf/2207.00972v1,Suffix sorting via matching statistics,"In all phases, the actual working set—the amount of data active in
+main memory—is small (for the most part, proportional to the number of i-heads), and other
+authors have shown that the inducing phase is amenable to external memory, too [10]. We
+leave these optimizations as future work. (a) Running time comparison. ",cs.DS,A,0.41647762,0.16526225,0.045506857
+http://arxiv.org/pdf/2207.01109v1,On Polynomial Kernels for Traveling Salesperson Problem and its Generalizations,"◀
+
+ 9 Conclusions
+
+The core focus of this work is kernelization of the Traveling Salesperson Problem. To
+stimulate further research in this area we would like to promote some follow up research
+directions. Design of “local” rules might be impossible (as was mentioned in the case of
+feedback edge set number) and therefore we occasionally have to consider generalizations of
+this problem that give us more power when designing the reductions. ",cs.DS,C,-0.08206351,-0.1342987,-0.23128846
+http://arxiv.org/pdf/2207.01144v1,Efficient Interactive Coding Achieving Optimal Error Resilience Over the Binary Channel,"5.5 Discussion
+
+In this section, we have only deﬁned and proven properties of layered codes that are useful in
+our protocol. However, layered codes also serve as a generalization of tree codes that may be of
+independent interest, and we hope to see future work further generalizing the results of tree codes
+to this context. We propose a few problems to guide the future study of layered codes. ",cs.DS,B,-0.13431251,0.06722344,0.064774156
+http://arxiv.org/pdf/2207.02136v1,Width Helps and Hinders Splitting Flows,"Finally, we have corroborated the complexity gap between the
+positive integer and the full integer case by disproving a conjecture from [13] (also motivating
+the heuristic in [19]), which would have had sped up their FPT algorithm for MFDN. Our results open up new avenues for further research on MFD. For example, can the
+width help ﬁnd larger classes of graphs for which some greedy path removal (or even some
+sort of greedy path cover removal) algorithms have a guaranteed approximation factor? ",cs.DS,B_centroid,-0.2691641,-0.045539696,-0.13012734
+http://arxiv.org/pdf/2207.03062v1,Centralised Connectivity-Preserving Transformations by Rotation: 3 Musketeers for all Orthogonal Convex Shapes,"Note that the consid-
+                                                ered question is about structural feasibility of transformations, which we
+                                                exclusively deal with via centralised constructive proofs. Distributed so-
+                                                lutions are left for future work and form an interesting research direction. Past work made some progress for the special class of nice shapes. ",cs.DS,B,-0.12082155,0.010255897,-0.016577553
+http://arxiv.org/pdf/2207.03275v1,On Geometric Shape Construction via Growth Operations,"Sections 3, 4, and 5 present our results
+for full doubling, RC doubling, and doubling, respectively. Finally, in Section 6,
+we also give further research directions opened by our work. 1.2 Related work
+
+Recent work has focused on studying the algorithmic principles of reconﬁgu-
+ration, with the potential of developing artiﬁcial systems that will be able to
+
+1 Note that there are two distinct notions of time used in this paper. ",cs.DS,C,0.08057025,-0.07633125,0.045009237
+http://arxiv.org/pdf/2207.04194v1,Online algorithms for finding distinct substrings with length and multiple prefix and suffix conditions,"Furthermore, we have shown that it has possible applications
+in traﬃc classiﬁcation, by showing that all of the application signatures in [20]
+can be represented as input sets of our proposed problems. A few problems remain to be considered as future work:
+
+ – As the discussion in Section 4 implies, solving the problem where the preﬁx
+     and suﬃx strings are not allowed to overlap, i.e. substrings are in the form
+     of pΣks, where k ∈ [k1..k2], p ∈ P, s ∈ S, while retaining the distinctness
+     condition as well as that the input sets be given as pairs of lists P and S, can
+     be useful in case we have a signature implemented with P, S such that there
+     does exist a string w such that w has p ∈ P as preﬁx, s ∈ S as suﬃx and
+     |w| < |p| + |s|, and we want to exclude such w from matches. ",cs.DS,C,-0.22187865,-0.26572978,0.19218187
+http://arxiv.org/pdf/2207.04194v2,Online algorithms for finding distinct substrings with length and multiple prefix and suffix conditions,"Furthermore, we have shown that it has possible applications
+in traﬃc classiﬁcation, by showing that all of the application signatures in [20]
+can be represented as input sets of our proposed problems. A few problems remain to be considered as future work:
+
+ – As the discussion in Section 4 implies, solving the problem where the preﬁx
+     and suﬃx strings are not allowed to overlap, i.e. substrings are in the form
+     of pΣks, where k ∈ [k1..k2], p ∈ P, s ∈ S, while retaining the distinctness
+     condition as well as that the input sets be given as pairs of lists P and S, can
+     be useful in case we have a signature implemented with P, S such that there
+     does exist a string w such that w has p ∈ P as preﬁx, s ∈ S as suﬃx and
+     |w| < |p| + |s|, and we want to exclude such w from matches. ",cs.DS,C,-0.22187865,-0.26572978,0.19218187
+http://arxiv.org/pdf/2207.04194v3,Online algorithms for finding distinct substrings with length and multiple prefix and suffix conditions,"Furthermore, we have shown that it has possible applications
+in traﬃc classiﬁcation, by showing that all of the application signatures in [20]
+can be represented as input sets of our proposed problems. A few problems remain to be considered as future work:
+
+ – As the discussion in Section 4 implies, solving the problem where the preﬁx
+     and suﬃx strings are not allowed to overlap, i.e. substrings are in the form
+     of pΣks, where k ∈ [k1..k2], p ∈ P, s ∈ S, while retaining the distinctness
+     condition as well as that the input sets be given as pairs of lists P and S, can
+     be useful in case we have a signature implemented with P, S such that there
+     does exist a string w such that w has p ∈ P as preﬁx, s ∈ S as suﬃx and
+     |w| < |p| + |s|, and we want to exclude such w from matches. ",cs.DS,C,-0.22187865,-0.26572978,0.19218187
+http://arxiv.org/pdf/2207.04381v1,Faster Privacy Accounting via Evolving Discretization,". , Yt⊕−21, Yt⊕−21, Yt ,
+                                                                   For future work, it would be interesting to tighten the log
+using a similar approach as in the proof of Theorem 3.1.           factors in our bounds. A related future direction is to make
+                                                                   the RecursiveSelfComposePRV algorithm more practical,
+Running time analysis. ",cs.DS,B,-0.17656684,-0.0442891,0.24038985
+http://arxiv.org/pdf/2207.05985v1,Realizability Makes a Difference: A Complexity Gap for Sink-Finding in USOs,"The Matoušek-type USOs form the ﬁrst known USO class admitting such a com-
+plexity gap. We hope that this result motivates further research into tailored algorithms using the
+property of realizability for larger, more relevant classes of USOs. Note that an artiﬁcial class of USOs exhibiting such a complexity gap could easily be constructed
+by combining a set R of easy-to-solve realizable USOs with a set N of diﬃcult-to-solve non-realizable
+USOs. ",cs.DS,B,-0.06623263,-0.13870034,0.011035504
+http://arxiv.org/pdf/2207.06887v1,Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs,"Even though D-trees go                                𝐻𝐾 and D-trees have a much better average query performance. through all non-tree edges when searching for a replacement edge
+                                                                                                For future work, we plan to extend our approach for connectiv-
+                                                                                             ity queries on (sparse) graphs with large diameters, such as road
+
+                                                                                         12
+networks, by representing a connected component with multiple                                 [21] Monika Rauch Henzinger and Valerie King. 1999. ",cs.DS,B,-0.27532846,0.36841163,-0.18134445
+http://arxiv.org/pdf/2207.06887v2,Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs (Extended version),"Even though D-trees go                                𝐻𝐾 and D-trees have a much better average query performance. through all non-tree edges when searching for a replacement edge
+                                                                                                For future work, we plan to extend our approach for connectiv-
+                                                                                             ity queries on (sparse) graphs with large diameters, such as road
+
+                                                                                         12
+networks, by representing a connected component with multiple                                 [21] Monika Rauch Henzinger and Valerie King. 1999. ",cs.DS,B,-0.27532846,0.36841163,-0.18134445
+http://arxiv.org/pdf/2207.06887v3,Dynamic Spanning Trees for Connectivity Queries on Fully-dynamic Undirected Graphs (Extended version),"Even though D-trees go                               𝐻𝐾 and D-trees have a much better average query performance. through all non-tree edges when searching for a replacement edge
+                                                                                               For future work, we plan to extend our approach for connectiv-
+                                                                                            ity queries on (sparse) graphs with large diameters, such as road
+
+                                                                                        12
+networks, by representing a connected component with multiple                                 [21] Monika Rauch Henzinger and Valerie King. 1999. ",cs.DS,B,-0.27532846,0.36841163,-0.18134445
+http://arxiv.org/pdf/2207.07072v1,A Query-Optimal Algorithm for Finding Counterfactuals,"Our
+algorithm achieves a logarithmic dependence on the dimension d, which is exponentially smaller
+than the previous best known query complexity of dO(∆f (x⋆)), achievable by brute-force local search. There are several concrete avenues for future work. The key enabling ingredient in our over-
+all algorithm is our implicit decision tree algorithm for monotone models. ",cs.DS,C,-0.093447655,-0.13112637,0.007868312
+http://arxiv.org/pdf/2207.07158v1,Streaming complexity of CSPs with randomly ordered constraints,"Speciﬁcally it i√s known to be as hard
+                                                to approximate with random ordering as with adversarial ordering, for o( n) space algorithms. Our results show a richer variety of possibilities and motivate further study of CSPs with
+                                                randomly ordered constraints. ∗Microsoft Research. ",cs.DS,C,0.06751833,-0.23044759,-0.043567166
+http://arxiv.org/pdf/2207.07363v2,Exact Flow Sparsification Requires Unbounded Size,"5 Future Directions
+
+Our main result shows that there is no function f : N → N such that every k-terminal
+network G admits an exact ﬂow sparsiﬁer of size bounded by f (k); in fact, this is not
+possible even for k = 6. We present here three interesting directions for future work. Direction 1. ",cs.DS,B,-0.29771948,0.039367687,-0.12565053
+http://arxiv.org/pdf/2207.07477v1,Matching Patterns with Variables Under Edit Distance,"Therefore, the hardness result proved for unary patterns carries over and, as the
+structural parameters used to deﬁne those classes do not take into account the
+overall number of occurrences of a variable, but rather the number of blocks
+for the variables (or the way they are interleaved), we obtain NP-hardness for
+MisMatch for that class, even if the structural parameters are trivial. While our results, together with those reported in [23], seem to completely
+characterize the complexity of MisMatch and MinMisMatch under both Hamming
+and edit distances, there are still some directions for future work. Firstly, in [24]
+the ﬁne-grained complexity of computing the median string under edit distance
+for k input strings is discussed. ",cs.DS,C,-0.12694032,-0.17134693,0.17496392
+http://arxiv.org/pdf/2207.07708v1,Approximating Highly Inapproximable Problems on Graphs of Bounded Twin-Width,"There is an infinite family H of connected graphs such that if for every ε > 0,
+   Mutually Induced H-packing admits an nε-approximation algorithm on n-vertex graphs
+   given with an O(1)-sequence, then so does Longest Path on general graphs. Table 1 summarizes our results and hints at future work. Problem name           lower bound    upper bound        lower bound
+                         general graphs  bounded tww        bounded tww
+
+   Max Independent Set   n1−ε                      nε       ?, self-improvement
+   Coloring              n1−ε                      nε               4/3 − ε
+   Max Induced Matching  n1−ε                      nε                   ? ",cs.DS,B,-0.31027186,0.107288405,-0.31095582
+http://arxiv.org/pdf/2207.07708v2,Approximating Highly Inapproximable Problems on Graphs of Bounded Twin-Width,"There is an infinite family H of connected graphs such that if for every ε > 0,
+   Mutually Induced H-packing admits an nε-approximation algorithm on n-vertex graphs
+   given with an O(1)-sequence, then so does Longest Path on general graphs. Table 1 summarizes our results and hints at future work. Problem name           lower bound    upper bound        lower bound
+                         general graphs  bounded tww        bounded tww
+
+   Max Independent Set   n1−ε                      nε       ?, self-improvement
+   Coloring              n1−ε                      nε               4/3 − ε
+   Max Induced Matching  n1−ε                      nε                   ? ",cs.DS,B,-0.31027186,0.107288405,-0.31095582
+http://arxiv.org/pdf/2207.08268v1,Online Lewis Weight Sampling,"chaining arguments such as those considered in, e.g., [RST10, BDR21]. This decoupled approach may be of
+independent interest for future work on matrix approximation and importance sampling, especially in online
+models and other restricted models of computation. 1.1.2 Oﬄine ℓp Lewis Weight Sampling
+
+En route to obtaining the result of Table 1, we answer Question 1.2 in the aﬃrmative, thereby closing a
+long-standing gap in the study of ℓp Lewis weight sampling since [CP15]. ",cs.DS,C,0.14123999,-0.117679656,0.31355584
+http://arxiv.org/pdf/2207.08268v2,Online Lewis Weight Sampling,"chaining arguments such as those considered in, e.g., [RST10, BDR21]. This decoupled approach may be of
+independent interest for future work on matrix approximation and importance sampling, especially in online
+models and other restricted models of computation. 1.1.2 Oﬄine ℓp Lewis Weight Sampling
+
+En route to obtaining the result of Table 1, we answer Question 1.2 in the aﬃrmative, thereby closing a
+long-standing gap in the study of ℓp Lewis weight sampling since [CP15]. ",cs.DS,C,0.14123999,-0.117679656,0.31355584
+http://arxiv.org/pdf/2207.08268v3,Online Lewis Weight Sampling,"In particular, we avoid complex sequential
+chaining arguments such as those considered in, e.g., [RST10, BDR21]. This decoupled approach may be of
+independent interest for future work on matrix approximation and importance sampling, especially in online
+models and other restricted models of computation. 1.1.2 Oﬄine ℓp Lewis Weight Sampling
+
+En route to obtaining the result of Table 1, we answer Question 1.2 in the aﬃrmative, thereby closing a
+long-standing gap in the study of ℓp Lewis weight sampling since [CP15]. ",cs.DS,C,0.15773056,-0.08983092,0.29895464
+http://arxiv.org/pdf/2207.09118v1,Solving the unit-load pre-marshalling problem in block stacking storage systems with multiple access directions,"(2017)). Furthermore, future work is required to increase the applicability of our approach to a variety
+of use cases. Extending the scope to large, multi-bay warehouses would require adjusting the
+objective of minimizing the number of moves to also consider travel time or distance (e.g.,
+Parren˜o-Torres, Alvarez-Valdes, Ruiz, and Tierney (2020)). ",cs.DS,A,0.28322464,0.12638836,-0.23982172
+http://arxiv.org/pdf/2207.09803v1,Computing Densest $k$-Subgraph with Structural Parameters,"This improved a 3-
+approximation 2vc(G)/2nO(1)-time algorithm proposed in [10]. As for future work, it is worth investigating the parameterized complexity for other structural
+parameters. In particular, one of the most notable open questions would be the parameterized
+complexity for modular-width. ",cs.DS,B,-0.1105094,-0.056272373,0.23226596
+http://arxiv.org/pdf/2207.10240v1,Differentially Private Partial Set Cover with Applications to Facility Location,"(2010), and is overall not technically
+diﬃcult. Even so, we believe our work is still important since it introduces a new set of practically interesting
+combinatorial problems for further study by the diﬀerential privacy community. 1.1 Related Work
+
+The Set Cover problem and its various generalizations have been studied by combinatorial optimization
+
+community for several decades (Wolsey, 1982; Alon et al., 2003). ",cs.DS,C,-0.14166251,-0.1362271,-0.18013981
+http://arxiv.org/pdf/2207.11832v1,New Additive Spanner Lower Bounds by an Unlayered Obstacle Product,"So we wish to emphasize that the improved alternation product in [34] remains an
+important technical idea, and the natural next step for the area is to integrate this alternation
+product (or perhaps one with even further-improved parameters) with our unlayered inner graphs. In this sense, although our lower bounds improve numerically on [34], we think it is more conceptu-
+ally correct to consider our respective constructions as concurrent state-of-the-art that achieve two
+diﬀerent desirable features of the ultimate lower bound construction, which will need to be uniﬁed
+in future work. Optimal Outer Graphs Will Probably Be Hard To Achieve. ",cs.DS,B,-0.23443818,0.033155758,0.014684967
+http://arxiv.org/pdf/2207.11832v2,New Additive Spanner Lower Bounds by an Unlayered Obstacle Product,"So we wish to emphasize that the improved alternation product in [34] remains an
+important technical idea, and the natural next step for the area is to integrate this alternation
+product (or perhaps one with even further-improved parameters) with our unlayered inner graphs. In this sense, although our lower bounds improve numerically on [34], we think it is more conceptu-
+ally correct to consider our respective constructions as concurrent state-of-the-art that achieve two
+diﬀerent desirable features of the ultimate lower bound construction, which will need to be uniﬁed
+in future work. Optimal Outer Graphs Will Probably Be Hard To Achieve. ",cs.DS,B,-0.23443818,0.033155758,0.014684967
+http://arxiv.org/pdf/2207.13870v1,Engineering faster double-array Aho-Corasick automata,"As we demonstrated in the integration test with Vaporetto,
+Daachorse has signiﬁcant potential to improve applications that employ multiple pattern matching. Our future work
+will incorporate Daachorse in other applications to enable faster text processing. Acknowledgement
+
+We thank Shinsuke Mori for his cooperation and Keisuke Goto for his insightful review. ",cs.DS,A,0.2521633,0.11073986,0.2788087
+http://arxiv.org/pdf/2207.14334v1,Implementing the Diverting Fast Radix Algorithm,"Current literature highlights that current radix sort optimization focuses on parallel implementations and writing in
+cache efficient manners. We have already demonstrated some cache efficient approaches with this implementation, but
+determining optimal approaches for a given system at compile-time is an interesting avenue of future work. Parallel
+implementations would be advantageous, and applying previous advances in the area of LSD Radix Sorts to the Diverting
+FastRadix algorithm is an obvious future target. ",cs.DS,A,0.26357237,0.26407275,0.11273377
+http://arxiv.org/pdf/2207.14334v2,Implementing the Diverting Fast Radix Algorithm,"Current literature highlights that current radix sort optimization focuses on parallel implementations and writing in
+cache efficient manners. We have already demonstrated some cache efficient approaches with this implementation, but
+determining optimal approaches for a given system at compile-time is an interesting avenue of future work. Parallel
+implementations would be advantageous, and applying previous advances in the area of LSD Radix Sorts to the Diverting
+Fast Radix algorithm is an obvious future target. ",cs.DS,A,0.2684286,0.26306683,0.11476743
+http://arxiv.org/pdf/2207.14458v1,Locally-iterative $(Δ+1)$-Coloring in Sublinear (in $Δ$) Rounds,"We present the self-stabilizing
+coloring algorithm and prove Theorem 1.5 in Section 5. Lastly, we conclude this paper and brieﬂy discuss
+potential future work directions in Section 6. 2 Preliminaries
+
+Graph coloring. ",cs.DS,B,-0.18879677,0.08676992,-0.15403022
+http://arxiv.org/pdf/2208.00194v1,Streaming Algorithms for Diversity Maximization with Fairness Constraints,"Solution quality and running time with varying n (k = 20). FairFlow  FairSwap                                  SFDM1         SFDM2        In future work, we would like to improve the approxima-
+4                                                        101     8 12 16 20       tion ratios of the proposed algorithms and consider diver-
+                                                         100                      sity maximization problems with fairness constraints in more
+3Diversity                                              10−1        m             general settings, e.g., the sliding-window model and fairness
+                                              Time (s)  10−2 4                    constraints deﬁned on multiple sensitive attributes. 2
+                                                                                                          ACKNOWLEDGMENTS
+1
+                                                                                     This research was done when Yanhao Wang worked at
+0 4 8 12 16 20                                                                    the University of Helsinki. ",cs.DS,C,0.15813783,-0.17969438,-0.11367779
+http://arxiv.org/pdf/2208.00312v1,An Improved A* Search Algorithm for Road Networks Using New Heuristic Estimation,"In
+occurs when k = 2 for Downtown Brooklyn, k = 4 for         particular, for all three networks, the minimal number
+Jersey City, and k = 8 for New York City. This suggests    of nodes expanded during A* search occurs when k = 4.
+not only that the k-step look-ahead heuristic is more ef-  Finding a justiﬁcation to explain this phenomenon can
+fective for larger networks, but that the single optimal   be one direction of future work. Another common theme
+value of k increases as the network size grows. ",cs.DS,B,-0.063705325,0.09258137,-0.17818508
+http://arxiv.org/pdf/2208.02504v1,Exploring Computational Complexity Of Ride-Pooling Problems,"We plan to follow up on this and adjust the algorithm to extend its
+capabilities. We stored the output of each of the algorithm runs in the csv ﬁles for further analysis. Ride-pooling problem complexity
+In the following, we present an analysis of how the shared discount affects the size and running
+time of the search space. ",cs.DS,C,0.21249716,-0.07684174,-0.23017722
+http://arxiv.org/pdf/2208.02590v1,Efficiently Computing Directed Minimum Spanning Trees,"force the worst case of an algorithm and complex logic
+                                                              and data structures can produce signiﬁcant overhead. 5 Conclusion                                                  For future work, it would be interesting to examine what
+                                                              makes realistic instances easy and possibly show a better
+In this paper we discussed the Tarjan and GGST versions       running time on a random model like hyperbolic random
+of Edmonds’ algorithm for the minimum spanning                graphs similar to the result for Erdős-Rényi graphs. arboresence problem. ",cs.DS,B,-0.089634575,0.1009711,-0.14458795
+http://arxiv.org/pdf/2208.02732v1,Almost Consistent Systems of Linear Equations,"Section 6 is devoted to W[1]-hardness results. We ﬁnish oﬀ in Section 7,
+summarizing and discussing the results, open questions and possible directions for future work. Preliminaries and notation. ",cs.DS,C,-0.1673761,-0.23452517,0.12509228
+http://arxiv.org/pdf/2208.02748v1,An online joint replenishment problem combined with single machine scheduling,"There are other open questions
+to consider: what can we say when the jobs can have arbitrarily big processing time, or if there are
+multiple types of resources. These problems can be intriguing for further research. 16
+Acknowledgements
+
+This work has been supported by the National Research, Development and Innovation Oﬃce grants
+no. ",cs.DS,A,0.29162943,0.12196994,-0.13462946
+http://arxiv.org/pdf/2208.03294v1,Approximation algorithms for covering vertices by long paths,"We conduct simulation studies
+to examine the practical performance of the two algorithms in Section 5, where we discuss the
+graph instance generation scheme, the implementation speciﬁcation, and the numerical results. We
+conclude the paper in the last section with some possible future work. 4  M. Gong et al. ",cs.DS,B,-0.06810973,0.24393357,-0.07901138
+http://arxiv.org/pdf/2208.04410v1,Multi Purpose Routing: New Perspectives and Approximation Algorithms,"We provided a high precision polynomial time reduction of Lp TSP to segmented-TSP with only a con-
+stant number of deadlines for visiting the required number of destinations. Our reduction enables approxi-
+mation schemes for Lp TSP on Euclidean as well as weighted tree metrics; this is yet another motivation to
+further study the segmented-TSP problem. Next, we investigated the case where we do not know what norm is the best to optimize, but want to
+be approximately optimal with respect to any. ",cs.DS,C,0.028507404,-0.06681417,-0.20160829
+http://arxiv.org/pdf/2208.06847v1,Exact Exponential Algorithms for Clustering Problems,"In fact, our algorithm works for
+non-metric distance functions – it is easy to modify construction of graph G so that it works
+with asymmetric distance functions, which are quite popular in the context of asymmetric
+traveling salesman problem [21, 22]. Finally, we note that it may be possible to improve the
+running time (i.e., the base of the exponent) using the metric properties of distances, and we
+leave this open for a future work. However, in the next section, we show the running time of
+an exact algorithm cannot be substantially improved, i.e., to O∗(2o(n)). ",cs.DS,B,-0.1618232,0.006522692,-0.091104224
+http://arxiv.org/pdf/2208.06902v1,Towards Parallel Learned Sorting,"This fact is remarkable, given that
+ML-enhanced sorting is a novel approach competing against implementa-
+tions that have been extensively tuned. There is room for algorithmic inno-
+vation in ML-enhanced sorting, hence future work might make it even more
+competitive with other approaches. There are limitations to using Learned Sort. ",cs.DS,A,0.17636152,0.12299364,0.039561246
+http://arxiv.org/pdf/2208.07582v1,Deletion Robust Non-Monotone Submodular Maximization over Matroids,"In
+particular, we are also the ﬁrst to design space-eﬃcient deletion robust algorithms for non-monotone
+objective with any type of constraints. A natural direction for future work is to extend these results
+and ideas to other constraints (e.g., multiple matroids and knapsack), and to consider fully dynamic
+versions with insertions and deletions. Acknowledgements
+
+Federico Fusco’s work was partially supported by the ERC Advanced Grant 788893 AMDROMA
+“Algorithmic and Mechanism Design Research in Online Markets” and the MIUR PRIN project AL-
+GADIMAR “Algorithms, Games, and Digital Markets.” Part of this work was done while Federico
+was an intern at Google Research, hosted by Paul Du¨tting. ",cs.DS,C,0.082128726,-0.25654665,-0.21721873
+http://arxiv.org/pdf/2208.07800v1,New Parallel Order Maintenance Data Structure,"Prentice
+                                                                                          Hall Upper Saddle River, NJ. In future work, we will attempt to reduce the synchro-
+nization overhead, especially for parallel Insert. We will                          [16] Alberto Montresor, Francesco De Pellegrini, and Daniele Miorandi. ",cs.DS,A,0.30681568,0.17642689,0.059596043
+http://arxiv.org/pdf/2208.11371v1,Hierarchical Relative Lempel-Ziv Compression,"storage when decompressing. Our HRLZ variants de-
+compress sequences in BFS order according to hierarchy           There are many directions future work could take. imposed on the sequences. ",cs.DS,A,0.09942824,0.12533024,0.12508403
+http://arxiv.org/pdf/2208.12548v1,Testing Upward Planarity of Partial $2$-Trees,"There are several major obstacles to overcome for improving this runtime
+to linear; hence, it would be worth investigating whether the quadratic bound
+is tight. Another interesting direction for future work is to see whether our new
+techniques can be used to obtain quadratic algorithms for related problems, such
+as computing orthogonal drawings with the minimum number of bends [7,9]. References
+
+ 1. ",cs.DS,B,-0.11136757,0.00729423,0.16198313
+http://arxiv.org/pdf/2208.13645v1,Finding Near-Optimal Weight Independent Sets at Scale,"These are removed from                                                                                         118 196
+the graph which further opens the reduction space and                                                                    118 196
+creates the possibility to apply this process repeatedly. For future work, we are interested in an island-based
+approach to obtain a parallelization of our evolutionary            ternational Conference on Advances in Geographic
+approach, as well as parallelization of the reductions. Information Systems, pages 1–10, 2016. ",cs.DS,B,0.0012887977,0.27972934,-0.057017155
+http://arxiv.org/pdf/2208.13699v1,Graph Exploration with Embedding-Guided Layouts,"However, we argue that this combination is not always                                                                                 results conﬁrm the effectiveness of our approach. The pipeline can
+            superior, and we hope future work can ﬁnd more effective and                                                                                    also be extended to integrate other embedding methods and layout
+            efﬁcient choices, applying some advanced attribute-ﬁrst embedding                                                                               algorithms and develop more interesting exploration applications. methods[91], [15], [20], [88]. ",cs.DS,C,0.017990263,0.14898217,0.17464155

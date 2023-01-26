@@ -1,0 +1,64 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.03512v1,SMLE: An R Package for Joint Feature Screening in Ultrahigh-dimensional GLMs,"It would be promising to
+extend the application scope of SMLE to other modeling scenarios such as Cox’s models and
+multivariate response regression, where the SMLE-based methodology has been discussed in
+the literature. For future work, it is also of great interest to embed SMLE in a distributed
+framework, so that it may help to handle the big data situation, where high-dimensional data
+segments are stored in diﬀerent places. Acknowledgments
+
+This research was supported in part by NSERC grants RGPIN-2016-05024, RGPIN-2019-
+06051 and NSFC grant 11690014. ",stat.OT,C,-0.4059491,-0.07325873,-0.3452827
+http://arxiv.org/pdf/2201.12960v1,Teaching modeling in introductory statistics: A comparison of formula and tidyverse syntaxes,"9
+3 Results
+
+3.1 Summative assessments
+
+One obvious question arising when considering the comparison of the two syntaxes is
+whether students performed better in one section or another. The IRB for this study
+did not cover examining student work (an obvious place for improved further research),
+so we cannot look at student outcomes on a per-assignment basis. However, running a
+randomization test for a diﬀerence in overall mean lab grades showed no signiﬁcant diﬀer-
+ence between the two sections. ",stat.OT,B,0.7053752,-0.07712382,-0.14445613
+http://arxiv.org/pdf/2201.12960v2,Teaching modeling in introductory statistics: A comparison of formula and tidyverse syntaxes,"9
+3 Results
+
+3.1 Summative assessments
+
+One obvious question arising when considering the comparison of the two syntaxes is
+whether students performed better in one section or another. The IRB did not cover
+examining student work (an obvious place for improved further research), so we cannot
+look at student outcomes on a per-assignment basis. However, running a randomization
+test for a diﬀerence in overall mean lab grades showed no signiﬁcant diﬀerence between the
+two sections. ",stat.OT,B_centroid,0.7078202,-0.07969825,-0.16595756
+http://arxiv.org/pdf/2202.03072v1,Mathematical models of confirmation bias,"In general, mathematical modelling can
+be the path to more detailed understanding of phenomena, such as has been
+the case with infectious diseases. Models can oﬀer detailed predictions, but
+more importantly they can give insight and help to focus further study. Here, however, little mathematical modelling has been done. ",stat.OT,A_centroid,-0.36801523,0.40706903,0.029808395
+http://arxiv.org/pdf/2204.10525v1,Research on spatial information transmission efficiency and capability of safe evacuation signs,"Follow-up research can also focus on
+this point, do a more in-depth study. In order to further study the relationship between the spatial angle of the safety
+evacuation sign and the information transfer efficiency and capability of the spatial direction, this paper proposes a
+formula for calculating the visible area of the safety evacuation sign. Although Kubota et al. ",stat.OT,A,-0.26476657,0.61364704,-0.35877544
+http://arxiv.org/pdf/2205.05608v1,Examining the role of context in statistical literacy outcomes using an isomorphic assessment instrument,"In reference to the
+discussion in Section 2.1 regarding sensitive contexts, this finding also has implications for
+teaching practices. If additional research finds that the sensitivity of the topic may have
+contributed to the lower scores on M-BLIS, an argument can be made to favor inclusion of
+such topics on curricular materials instead of including them in grade-affecting assessments
+(Fallstrom et al., 2021). From a context point of view, two things are worth noting. ",stat.OT,B,0.3773863,-0.04637416,0.0705168
+http://arxiv.org/pdf/2206.01703v1,Interactive Exploration of Large Dendrograms with Prototypes,"The ability to export the current clusters allows for more natural
+integration of protoshiny into users’ current analysis workﬂows. A related direction for
+future work will be to add more features to the R API for fast loading of clustering objects
+and labels into the browser tool. While protoshiny does expand on the utility of dendrograms for larger data sets, a
+current limitation of the tool is extreme scalability. ",stat.OT,C_centroid,-0.41070986,-0.46587247,-0.05088316
+http://arxiv.org/pdf/2207.08785v1,The Inference Framework,"Depending on the axioms that one includes in I ,♦, one could potentially con-
+strain the functional form of f and f♦ further. For example, if one adopts
+axioms NC and CN so that (a ∧ b) ⇔ ( a) ∧ ( b), then the form of f is
+constrained to obey,
+
+                   P ( (a ∧ b)) = f (P (a ∧ b))                   (2.152)
+                                   = f (P (a))f (P (b| a))
+
+We will not pursue these ideas any further in this thesis and instead suggest
+that it be considered for future work. Degrees of beliefs for predicates? ",stat.OT,A,0.01776528,0.31752312,0.7805733
+http://arxiv.org/pdf/2208.01752v1,InsightiGen: a versatile tool to generate insight for an academic systematic literature review,"The JSON file has all fields such
+as title, DOI, abstract, author names, author affiliations, affiliations’ countries and keywords. The JSON file is easy to import in any tool for further analysis and there is no need for data
+cleaning and parsing anymore. 2.2. ",stat.OT,C,-0.35890645,-0.595912,0.18445659

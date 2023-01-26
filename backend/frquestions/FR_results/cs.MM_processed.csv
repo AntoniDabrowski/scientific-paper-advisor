@@ -1,0 +1,297 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.04488v1,ECAS-ML: Edge Computing Assisted Adaptation Scheme with Machine Learning for HTTP Adaptive Streaming,"Results show that ECAS-ML outperforms other ABR
+algorithms: client-based (BBA, TBA and SARA) and edge-based ones (GBBA
+and EADAS). In future work, the parameter prediction part of ECAS-ML can be
+improved using diﬀerent ML techniques such as reinforcement learning. References
+
+ 1. ",cs.MM,C,-0.10701834,-0.20513515,0.27017066
+http://arxiv.org/pdf/2201.04557v1,Federated AirNet: Hybrid Digital-Analog Neural Network Transmission for Federated Learning,"1–13, 2021.
+channels. We will leave how to satisfy the narrow-band
+limitation in the proposed scheme as the future work. [12] L. Yu, H. Li, and W. Li, “Wireless scalable video coding using a hybrid
+                                                                                     digital-analog scheme,” IEEE Transactions on Circuits and Systems for
+                          IV. ",cs.MM,B,-0.47523153,-0.12923902,-0.08302683
+http://arxiv.org/pdf/2201.07738v1,Nebula: Reliable Low-latency Video Transmission for Mobile Cloud Gaming,"NASA-task load index (NASA-TLX); 20 years later. In
+   We aim to focus on multiplayer streaming in our future work,                                Proceedings of the human factors and ergonomics society annual meeting, Vol. 50.
+where several devices share a given scene. ",cs.MM,B,0.04725249,0.24044546,0.017530944
+http://arxiv.org/pdf/2202.02177v1,Generalised Score Distribution: A Two-Parameter Discrete Distribution Accurately Describing Responses from Quality of Experience Subjective Experiments,"recommendations. There are two directions our future work may take. First, we
+                                                                         would like to build a ML-based perceptual quality predictor. ",cs.MM,B,-0.05838099,0.15289752,-0.13176963
+http://arxiv.org/pdf/2202.04298v1,Image Difference Captioning with Pre-training and Contrastive Learning,"However, these pre-trained models are not       tecture is ﬂexible to accommodate more data of different
+applicable to the IDC task as they lack the ability of com-      forms. In the future work, we will further explore automatic
+paring, and the learned representations are too coarse. We       construction of large-scale feasible data to enhance the pre-
+follow these works to tailor self-supervised tasks for IDC to    training stage and improve model generalization ability. ",cs.MM,C,0.157856,-0.33193177,0.30458635
+http://arxiv.org/pdf/2202.09772v1,Context-aware adaptation of mobile video decoding resolution,"Finally, our
+work indicates that aside from the viewer’s physical activity, the content of the
+video and the viewer’s personality, there are also other dimensions that impact
+the quality requirements and which must be further explored in order to enable
+accurate prediction of the appropriate quality settings for video playback. To
+facilitate further research along this front we make our study data available
+at https://gitlab.fri.uni-lj.si/lrk/approximate_video_study/. References
+
+1. ",cs.MM,B_centroid,-0.22429708,0.38457,-0.19241507
+http://arxiv.org/pdf/2202.11038v1,Banding vs. Quality: Perceptual Impact and Objective Assessment,"[3] Pulkit Tandon, Mariana Afonso, Joel Sole, and Luka´sˇ
+    Even though the presented results suggest good robust-                Krasula, “CAMBI: Contrast-aware multiscale band-
+ness of VMAFBA, we are planning to further investigate the                ing index,” in 2021 Picture Coding Symposium (PCS). speciﬁc cases with low VMAF and high CAMBI and the con-                   IEEE, 2021.
+secutive strong interaction between banding and other arti-
+facts as part of our future work. [4] Ji Won Lee, Bo Ra Lim, Rae-Hong Park, Jae-Seung
+                                                                          Kim, and Wonseok Ahn, “Two-stage false contour de-
+                                                                          tection using directional contrast and its application to
+                                                                          adaptive false contour reduction,” IEEE Transactions
+                                                                          on Consumer Electronics, vol. ",cs.MM,B,-0.31801856,-0.2537762,-0.36048722
+http://arxiv.org/pdf/2203.03091v1,Modeling Field-level Factor Interactions for Fashion Recommendation,"Multimedia, 2021.
+fashion domain on recommendation performance. [12] S. Goswami and S. Khan, “Impact of consumer decision-making styles
+    In future work, we shall focus on the several directions                      on online apparel consumption in india,” Vision, vol. 19, no. ",cs.MM,C,-0.10980693,0.2137089,0.16807483
+http://arxiv.org/pdf/2203.06935v1,"A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances","[14] presented extensive reviews
+on different frameworks and SOTA techniques using textual, audio, and visual modalities combining with
+physiological modalities, and critical analysis of their performances. In the end, nine applications of
+affective analysis are discussed followed by their trends and future works. All these recent works listed in Table 2 have included relatively general aspects related to affective
+computing including emotion models, unimodal affect recognition and multimodal fusion for affective
+analysis as well as ML-based and DL-based models. ",cs.MM,A_centroid,0.5400484,0.122242466,-0.21300216
+http://arxiv.org/pdf/2203.06935v2,"A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances","[14] presented extensive reviews
+on different frameworks and SOTA techniques using textual, audio, and visual modalities combining with
+physiological modalities, and critical analysis of their performances. In the end, nine applications of
+affective analysis are discussed followed by their trends and future works. All these recent works listed in Table 2 have included relatively general aspects related to affective
+computing including emotion models, unimodal affect recognition and multimodal fusion for affective
+analysis as well as ML-based and DL-based models. ",cs.MM,A,0.5400484,0.122242466,-0.21300216
+http://arxiv.org/pdf/2203.06935v3,"A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances","[14] reviewed different frameworks and lasted
+techniques using textual, audio, visual and physiological signals, and extensive analysis of their
+performances. In the end, various applications of affective analysis were discussed followed by their trends
+and future works. All these recent works listed in Table 2 have reviewed general aspects related to affective computing
+including emotion models, unimodal affect recognition and multimodal fusion for affective analysis as well
+as ML-based and DL-based models. ",cs.MM,A,0.5297277,0.11160002,-0.18414381
+http://arxiv.org/pdf/2203.12692v1,Affective Feedback Synthesis Towards Multimodal Text and Image Data,"There is a need to design
+an automatic evaluation metric specifically for evaluating multimodal feedbacks that would aid or
+replace the human evaluation process. We will focus on that as well in our future work. ACKNOWLEDGEMENTS
+Ministry of Education INDIA has supported this research through grant reference no. ",cs.MM,A,0.2636882,0.38445967,-0.1343259
+http://arxiv.org/pdf/2203.12692v2,Affective Feedback Synthesis Towards Multimodal Text and Image Data,"There is a need to design
+an automatic evaluation metric specifically for evaluating multimodal feedbacks that would aid or
+replace the human evaluation process. We will focus on that as well in our future work. ACKNOWLEDGEMENTS
+Ministry of Education INDIA has supported this research through grant reference no. ",cs.MM,A,0.2636882,0.38445967,-0.1343259
+http://arxiv.org/pdf/2204.03063v1,Late multimodal fusion for image and audio music transcription,"corresponding unimodal standard recognition frameworks. [10] V. Pitsikalis, A. Katsamanis, S. Theodorakis, and P. Maragos, “Multi-
+   As future work, we plan to follow different research av-               modal gesture recognition via multiple hypotheses rescoring,” in Gesture
+enues. For instance, while the approaches described in this               recognition. ",cs.MM,A,0.23779339,-0.27302784,-0.46390656
+http://arxiv.org/pdf/2204.03063v2,Late multimodal fusion for image and audio music transcription,"corresponding unimodal standard recognition frameworks. [10] V. Pitsikalis, A. Katsamanis, S. Theodorakis, and P. Maragos, “Multi-
+   As future work, we plan to follow different research av-               modal gesture recognition via multiple hypotheses rescoring,” in Gesture
+enues. For instance, while the approaches described in this               recognition. ",cs.MM,A,0.23779339,-0.27302784,-0.46390656
+http://arxiv.org/pdf/2204.03063v3,Late multimodal fusion for image and audio music transcription,"corresponding unimodal standard recognition frameworks. [10] V. Pitsikalis, A. Katsamanis, S. Theodorakis, and P. Maragos, “Multi-
+   As future work, we plan to follow different research av-               modal gesture recognition via multiple hypotheses rescoring,” in Gesture
+enues. For instance, while the approaches described in this               recognition. ",cs.MM,A,0.23779339,-0.27302784,-0.46390656
+http://arxiv.org/pdf/2204.05580v1,Codec Compression Efficiency Evaluation of MPEG-5 part 2 (LCEVC) using Objective and Subjective Quality Assessment,"As future work, we
+                                                                   plan to extend this work to other codecs such as VP9, AV1, and
+   In this work, a unique subjective test design is followed,      VVC as based codecs. Our additional future work will include
+which allowed us to beneﬁt from both the ACR scale design          more studies considering multiple resolution-bitrate pairs and
+as well as the pairwise comparison test design. However,           quantifying the performance on 4K, HDR games using the
+this requires more cognitive efforts from the users to rate        recently designed GamingHDRVideoSET [12]. ",cs.MM,B,-0.46426123,0.090826996,-0.08459751
+http://arxiv.org/pdf/2204.06829v1,Realistic Video Sequences for Subjective QoE Analysis,"For    similar research settings, typically using a ﬁve-point MOS scale,
+video content, we select three open-source clips from [12]. These       future work will include the calculation of Video Quality Metrics
+clips are Big Buck Bunny (BBB)8, Sintel9, and Tears of Steel (TOS)10.   such as PSNR, SSIM, VMAF and P.1203 [13] for each generated clip. Big Buck Bunny is an animation clip with a duration of 10 minutes       Creating additional KPIs through which video QoE and Network
+and 34 seconds. ",cs.MM,B,-0.36573884,0.06851453,-0.16197656
+http://arxiv.org/pdf/2204.07131v1,Systematic Analysis of Experiment Precision Measures and Methods for Experiments Comparison,"We thus recommend to approach the topic comprehensively. If it comes to our plans regarding future work, we consider
+When comparing a pair of subjective experiments in terms of        repeating the simulation study using a different data generator. their precision, we suggest to take into account, among others,    Speciﬁcally, we would like to run the study using a data
+the following factors: i) inter-rater reliability, ii) the number  generator based on the beta distribution. ",cs.MM,C,-0.18887812,0.39515746,0.3920167
+http://arxiv.org/pdf/2204.07131v2,Systematic Analysis of Experiment Precision Measures and Methods for Experiments Comparison,"35–36. If future work is concerned, we consider repeating the
+simulation study using a different data generator. Speciﬁcally,                 [9] B. Naderi et al., “Speech quality assessment in crowdsourcing: Inﬂuence
+we would like to run the study using a data generator based on                       of environmental noise,” DAGA, pp. ",cs.MM,C,-0.006270986,0.19759208,0.35696155
+http://arxiv.org/pdf/2204.13988v1,Prompt Engineering for Text-Based Generative Art,"We further focus only on text-based generation of images, and leave
+   Magic terms introduce randomness to the image that can lead to     any kind of post-processing steps (e.g., editing with graphics editors
+surprising results. For instance, Twitter user @jd_pressman added     or more complex work flows consisting, for instance, of several
+the magic term “control the soul” to the prompt “orchestra            chained GAN-based models) to future work. conductor leading a chorus of sound wave audio waveforms
+swirling around him on the orchestral stage, control                     While images can be generated from random text or even sin-
+                                                                      gle characters and emojis, the subject term is elemental to the
+2 https://twitter.com/nshepperd1/status/1456584388037148678           controlled generation of digital images. ",cs.MM,B,-0.021196831,0.015807115,0.07149067
+http://arxiv.org/pdf/2204.13988v2,A Taxonomy of Prompt Modifiers for Text-To-Image Generation,"6.1.3 Bias in image generation systems. Another interesting area for future work is bias encoded
+in text-to-image generation systems. It has been shown, for instance, that the CLIP model contains
+bias8 and some text-to-image systems prompted with “princess” will produce images of women
+with light skin color, reflecting the bias in the training data toward Western, educated, industrialized,
+rich and democratic (WEIRD) subjects9. ",cs.MM,C,-0.04859417,-0.021702234,0.18385378
+http://arxiv.org/pdf/2205.01583v1,An Explore of Virtual Reality for Awareness of the Climate Change Crisis: A Simulation of Sea Level Rise,"It
+                                       a direct effect on them but still many are skeptical. It is            also highlights future work including a demonstration of an
+                                       hoped that through visualization in a VR application which
+                                       dynamically simulates the sea level rise, ﬁnally it will become
+                                       apparent how serious the problem is. For the families within
+                                       this target group, this education will aid them in making
+                                       the difﬁcult but necessary decisions for their future and their
+                                       children future. ",cs.MM,C,-0.20482261,0.37541693,0.09015972
+http://arxiv.org/pdf/2205.04906v1,Evaluating the Impact of Tiled User-Adaptive Real-Time Point Cloud Streaming on VR Remote Communication,"nificant research attention for omnidirectional videos [5, 40, 56]
+Friedman’s test reveals that there are groups with statistically signif-                                                                                                                       and point clouds [12, 30, 39, 41]. However, further study is required
+icant differences (𝜒2 = 19, 𝑝 < 0.001). The results of the Wilcoxon                                                                                                                            for live real-time human point cloud reconstructions. ",cs.MM,B,-0.22818199,0.12516312,-0.2395409
+http://arxiv.org/pdf/2205.05880v1,Deep Decomposition and Bilinear Pooling Network for Blind Night-Time Image Quality Evaluation,"quality enhancement algorithms. There are always one or
+several parameters in NTI quality enhancement algorithms                          Although our proposed DDB-Net is promising, future works
+whose optimal values vary with contents. It is challenging and                 towards further impoving the performance may focus on the
+time-consuming to handpick a set of parameters that work well                  following directions: 1) designing more efﬁcient unsuperivsed
+for all image contents. ",cs.MM,B,-0.51223874,-0.2637458,-0.06646246
+http://arxiv.org/pdf/2205.05880v2,Deep Decomposition and Bilinear Pooling Network for Blind Night-Time Image Quality Evaluation,"0.0043        15.31M         43.18G                   Experiments on two benchmark databases have demonstrated
+ WaDIQaM     0.0136         1.44M         13.46G                   the superiority of our proposed DDB-Net. DBCNN      0.0389        16.66M         27.78G
+   TSCNN     0.0205        31.90M         10.76G                      Although our proposed DDB-Net is promising, future works
+             0.0092         0.38M         13.33G                   towards further impoving the performance may focus on the
+    VCR                                                            following directions: 1) designing more efﬁcient unsupervised
+GraphBIQA                                                          solutions for image layer decomposition; 2) designing more ef-
+                                                                   fective loss functions to facilitate learning degradation features
+  DDB-Net                                                          from each component; 3) designing more powerful feature fu-
+                                                                   sion schemes by considering other variants of bilinear pooling
+several parameters in NTI quality enhancement algorithms           to further improve the performance. whose optimal values vary with contents. ",cs.MM,B,-0.41557586,-0.35425228,0.03182413
+http://arxiv.org/pdf/2205.08007v1,Perceptual Evaluation on Audio-visual Dataset of 360 Content,"640–651, 2012.
+employing ML/DL based models. Our future work is to extend
+subjective and objective analysis together with the development of        [11] Werner Robitza, Yohann Pitrey, Matej Nezveda, Shelley
+an AV perceptual quality model for 360 content. Buchinger, and Helmut Hlavacs, “Made for mobile: a
+                                                                                video database designed for mobile television,” in Sixth
+                     5. ",cs.MM,B,-0.106789395,0.2071205,-0.18755415
+http://arxiv.org/pdf/2205.10649v1,Towards the Effects of Alignment Edits on the Quality of Experience of 360 Videos,"FINAL REMARKS                                     the edit. Therefore, we place the study of a dynamic version
+   From the goals established, we could conclude that:                        of such edit strategies as complementary future work. Together
+   1) all edit types had high scores for presence, and it was                 with studies of similar nature, results from our study are only
+                                                                              rigorously valid for our chosen stimuli. ",cs.MM,A,0.11366986,0.427399,0.099385224
+http://arxiv.org/pdf/2205.10815v1,Recent Advances in Rate Control: From Optimization to Implementation and Beyond,"864–868, 2004.
+quality control, RC methods considering human visual perception and
+depth perception, RC methods for 360-degree/HDR video, and RC                    [15] Z. Li, F. Pan, K. P. Lim, G. Feng, X. Lin, and S. Rahardja, “Adaptive basic
+methods for point clouds. A comprehensive summary of directions                        unit layer rate control for jvt (jvt-g012),” in Joint Video Team (JVT) 7th
+of future work on topics such as RC methods and RDO in depth                           Meeting, Pattaya, Thailand, Mar. 2003.
+coding, was also presented. ",cs.MM,B,-0.48935434,0.02504412,-0.21490937
+http://arxiv.org/pdf/2206.01094v1,A DTCWT-SVD Based Video Watermarking resistant to frame rate conversion,"Besides, the scheme is robust against
+cropping       0.81           0.95                          0.98       frame rate conversion, which can satisfy both the requirements
+                                                                       of blindly extraction and imperceptibility. In future work, we
+130%                                                                   will further explore the relationship between DTCWT sub-
+                                                                       bands to improve the capacity and performance of the scheme. Rotation-
+                                                                                               ACKNOWLEDGMENT
+cropping with  0.89           0.97                          0.99
+                                                                           This work is supported by National Natural Science
+5 degrees                                                              Foundation of China under Grant U20B2051, U1936214. ",cs.MM,B,-0.3962059,-0.35156822,-0.09589575
+http://arxiv.org/pdf/2206.04832v1,Transformer-Graph Neural Network with Global-Local Attention for Multimodal Rumour Detection with Knowledge Distillation,"In this study, we found that rumours spreading on
+social media can be written in different languages. In our future work, we will employ
+transfer learning for cross-lingual rumour detection, to identify rumours written in low-
+resource languages and lack of training samples. References
+
+     [1] P. Tolmie, R. Procter, D. W. Randall, et al., ""Supporting the Use of User
+          Generated Content in Journalistic Practice,"" presented in the ACM SIGCHI
+          Conference on Human Factors in Computing Systems, 2017. ",cs.MM,C,0.11985329,-0.046425655,0.47284907
+http://arxiv.org/pdf/2206.05426v1,Multi-party Holomeetings: Toward a New Era of Low-Cost Volumetric Holographic Meetings in Virtual Reality,"Likewise, although
+the experience was found to be highly interactive, with all users having contributed effortlessly and
+naturally to the selected tasks (according to the results from the subjective evaluation), no metrics
+on the time spent looking at others and/or talking to others [5], or on tasks’ completion times and
+success rates, have been considered. These types of metrics can become useful to assess and
+validate the formulated research questions and future ones, and their adoption will be considered in
+future works. 7. ",cs.MM,C,0.118577555,0.47365445,0.126092
+http://arxiv.org/pdf/2206.07148v1,It's Time for Artistic Correspondence in Music and Video,"high proportion of English music tracks in the dataset. Finally, an explicit definition and precise evaluation of
+                                                                  such concepts is lacking in our field and in this paper, and
+                                                                  is an interesting avenue for future work. References                                                          [14] Mathilde Caron, Hugo Touvron, Ishan Misra, Herve´ Je´gou,
+                                                                          Julien Mairal, Piotr Bojanowski, and Armand Joulin. ",cs.MM,C,0.07112223,-0.16059539,0.187493
+http://arxiv.org/pdf/2206.08842v1,Entity-Graph Enhanced Cross-Modal Pretraining for Instance-level Product Retrieval,"We believe that the
+created by UNITER, CAPTURE, and EGE-CMP in Figure 7 using                      proposed EGE-CMP model, Product1M dataset, and established
+t-SNE [76]. It turns out that the EGE-CMP characteristics are more             baselines will stimulate additional research, making it a more
+discriminative, which is advantageous for the retrieval job. trustworthy and ﬂexible retrieval search basement
+
+4.7 Comparisons on Single-Product Retrieval                                    6 ACKNOWLEDGEMENT
+It’s worth noting that EGE-CMP may be used for both single- 6
+and multi-product retrieval. ",cs.MM,A,0.12381293,-0.264961,0.131937
+http://arxiv.org/pdf/2206.11335v1,Video Analytics in Elite Soccer: A Distributed Computing Perspective,"Sports analysis based on video analytics is a demanding
+Regardless of technical difﬁculties in the implemented setting,    area of research. The live data from broadcasting has been
+additional research on the effect of cognitive and central         shown to be useful for match analysis and media coverage. nervous system function, travel, sleeping behavior, feedback       These statistics are used by coaches, sports scientists, and
+from the trainer, and nutritional status on Post Match Fatigue     the media to classify matches based on speciﬁc patterns or
+(PMF) responses would be necessary to expand the literature        visual qualities that allow the categorization of match style. ",cs.MM,B,0.04707915,0.28908694,-0.14339125
+http://arxiv.org/pdf/2206.15218v1,The Body Scaling Effect and Its Impact on Physics Plausibility,"However, we found a signiﬁcant opposite
+effect regarding size estimations; the object sizes were underestimated during the synchronous visuo-tactile
+condition when compared to the asynchronous condition. Even though the results were unexpected, they present new information as well as open up avenues for
+future work regarding the perception of physics, sizes and distances in VR. So far, all our previous studies
+(Pouke et al., 2020, 2021) as well as this one have resulted in movie physics appearing as the plausible
+physics model. ",cs.MM,B,-0.22486036,0.20876741,-0.14237167
+http://arxiv.org/pdf/2207.00755v1,Unsupervised Recurrent Federated Learning for Edge Popularity Prediction in Privacy-Preserving Mobile Edge Computing Networks,"open problem in FL [45], which will be                           can be seen from Fig. 8 that, the best RMSE performance is
+a important research focus in our future works. achieved when the number of UEs I = 6 rather than I = 10 or
+                                                                                        I = 3. ",cs.MM,C,-0.1672771,-0.011741867,0.33233863
+http://arxiv.org/pdf/2207.00755v2,Unsupervised Recurrent Federated Learning for Edge Popularity Prediction in Privacy-Preserving Mobile Edge Computing Networks,"6(a). The              an important research focus in our future works. We further take UserID 7 as an instance and examine the
+                                                                           performance comparison of the proposed algorithm with the
+                                                                           self-training method, which is commonly adopted in deep
+                                                                           learning related works. ",cs.MM,C,0.054700386,-0.27288002,0.3529004
+http://arxiv.org/pdf/2207.03056v1,Privacy-preserving Reflection Rendering for Augmented Reality,"recognition accuracy and confidence fall below a certain threshold. As part of future work, we will investigate runtime policies to                         8 CONCLUSION AND FUTURE WORK
+regulate the use of these two complementary defenses. In this paper, we argued that unintentional privacy leakage can hap-
+6.3.2 Defense Success Rate. ",cs.MM,C,-0.12823996,0.0074644536,0.3753486
+http://arxiv.org/pdf/2207.05680v1,The Contribution of Lyrics and Acoustics to Collaborative Understanding of Mood,"p(s|m) and estimate αm and βm for each mood m through
+                                                                 method of moments as follows:
+   It is worth keeping in mind that the mood expressed in
+a work of art may differ from the mood experienced by                      #{playlists containing s and m}
+its audience—a picture, a text, or a song which expresses        ps,m = #{playlists containing m} (6)
+sadness or melancholia may well elicit enjoyment, exhilara-
+tion, or admiration in its viewer, reader, or listener (Sachs,                1
+Damasio, and Habibi 2015). An area of future work is to          p¯m := #songs ps,m (7)
+understand whether seemingly incorrect predictions by the
+models, or contradictions between listener-generated associ-                                    s
+ations and predictions from models using lyrics, arise from
+these differences of songwriter intent and user perception. 1  (ps,m − p¯m)2                     (8)
+                                                                 v¯m :=
+                      Appendices                                 #songs − 1 s
+
+BNPMI Score Calculation                                          αˆ = p¯d p¯m(1 − p¯m) − 1 (9)
+                                                                                  v¯m
+Pointwise mutual information (PMI) is a common measure
+of association between two possible events. ",cs.MM,C,0.25775898,0.11406472,0.23275192
+http://arxiv.org/pdf/2207.05692v1,Lip-Listening: Mixing Senses to Understand Lips using Cross Modality Knowledge Distillation for Word-Based Models,"We trained the model on a dual-GPU machine,
+with each GPU assigned a batch size of 8 due to limited
+6. Conclusions and future work                                        [9] DouglasO’Shaughnessy, “Invited paper: Automatic speech
+                                                                           recognition: History, methods and challenges,” vol. 41,
+   This work sets a new benchmark on the LRW dataset                       2008, pp. ",cs.MM,C,0.11823259,-0.33415568,0.24096167
+http://arxiv.org/pdf/2207.06909v1,A Comprehensive Review on Digital Image Watermarking,"Among these the most preferred criteria, were the
+visual imperceptibility of the watermarked image and the robustness of the watermarking. In fact, the
+future work holds scope by combining techniques and using them in hybrid form to not only enhances the
+robustness of the watermarked image, but it may also reduce the drawbacks of each method considered
+separately. 6. ",cs.MM,B,-0.2373876,-0.15417287,-0.106180236
+http://arxiv.org/pdf/2207.11880v1,Adaptive Marginalized Semantic Hashing for Unpaired Cross-Modal Retrieval,"Besides, the accurate label information of different modal data                   [18] L. Liu, Z. Lin, L. Shao, F. Shen, G. Ding, and J. Han, “Sequential
+is not always available. Thus, in the future work, we will                              discrete hashing for scalable cross-modality similarity retrieval,” IEEE
+extend the proposed AMSH to handle unsupervised unpaired                                Trans. Image Process., vol. ",cs.MM,A,0.08066802,-0.3944445,-0.07584291
+http://arxiv.org/pdf/2207.11900v1,GA2MIF: Graph and Attention-based Two-stage Multi-source Information Fusion for Conversational Emotion Detection,"I don’t. In future work, we will continue to promote multimodal
+[Excited]”, are difﬁcult to be detected correctly by existing                       learning, focusing on how to increase the expressiveness of
+models. Most of existing text-modal ERC models tend to                              acoustic and visual modalities. ",cs.MM,A,0.38648948,-0.02596675,-0.05660229
+http://arxiv.org/pdf/2207.11900v2,GA2MIF: Graph and Attention-based Two-stage Multi-source Information Fusion for Conversational Emotion Detection,"Prediction of
+  1 I'm through with it. [Sad]                                                         In future work, we will continue to promote multimodal
+                                                           [Baseline] [GA2MIF]      learning, and focus on how to enhance the expressiveness of
+u2 Yes. On this, I would. ",cs.MM,A,0.18570027,0.15232179,0.059510216
+http://arxiv.org/pdf/2207.11900v3,GA2MIF: Graph and Attention based Two-stage Multi-source Information Fusion for Conversational Emotion Detection,"14, NO. 8, AUGUST 2022                                                                                                                                12
+
+    In future work, we will continue to promote multimodal                      [16] T. Ishiwatari, Y. Yasuda, T. Miyazaki, and J. Goto, “Relation-aware
+learning, and focus on how to enhance the expressiveness                              graph attention networks with relational position encodings for
+of acoustic and visual modalities. Furthermore, we hope to                            emotion recognition in conversations,” in Proceedings of the 2020
+apply our model to more multimodal fusion scenarios, as                               Conference on Empirical Methods in Natural Language Processing,
+well as tackle the notorious problems of similar-emotion and                          2020, pp. ",cs.MM,A,0.5132838,-0.19248168,-0.0016598678
+http://arxiv.org/pdf/2207.12903v1,Playback-centric visualisations of video usage using weighted interactions to guide where to watch in an educational context,"A manual indication of the important parts by the lecturer at
+the time of uploading each video may be a simple solution that could also serve as a way to lead a more
+desirable evolution of the contour. However given one of the strengths of our approach is fully-automated
+shaping of the visualisation without extra efforts by a human, other more automated ways to draw the data
+will be an important topic of further study. For example, some studies used supervised machine learning
+
+Frontiers   13
+Lee et al. ",cs.MM,B,-0.07227508,-0.057214968,-0.25018573
+http://arxiv.org/pdf/2207.13530v1,A Hybrid Deep Animation Codec for Low-bitrate Video Conferencing,"In particular, the resulting vi-
+                                                                               sual quality is better than VVC despite the RD curves com-
+                                                                               puted in Figure 3. However, a more rigorous subjective study
+                                                                               needs to be conducted to conﬁrm this observation, and is left
+                                                                               for future work. Fig. ",cs.MM,B,-0.39388382,0.15665357,-0.07411716
+http://arxiv.org/pdf/2208.00339v1,GraphMFT: A Graph Attention based Multimodal Fusion Technique for Emotion Recognition in Conversation,"By comparing                         [15] Y. Kim, “Convolutional neural networks for sentence classiﬁcation,” in
+with the previous baseline model, GraphMFT prevails with a                            Proceedings of the 2014 Conference on Empirical Methods in Natural
+signiﬁcant superiority. In future work, we will continuously                          Language Processing, Doha, Qatar, Oct. 2014, pp. 1746–1751. ",cs.MM,A,0.3004988,-0.28745246,0.18415539
+http://arxiv.org/pdf/2208.00339v2,GraphMFT: A Graph Network based Multimodal Fusion Technique for Emotion Recognition in Conversation,"attention networks with relational position encodings for emotion
+                                                                      recognition in conversations, in: Proceedings of Conference on Em-
+                                                                      pirical Methods in Natural Language Processing, 2020, pp. 7360–
+
+In future work, we will continuously explore the applica-       7370.
+
+tion of multimodal machine learning for conversational emo-     [12] P. Zhong, D. Wang, C. Miao, Knowledge-enriched transformer
+tion recognition. Meanwhile, with the relational modeling             for emotion detection in textual conversations, arXiv preprint
+capability of graph neural networks, we hope to further ex-           arXiv:1909.10681 (2019). ",cs.MM,A,0.44808453,-0.27330905,0.108592264
+http://arxiv.org/pdf/2208.02446v1,Evaluating Plant Disease Detection Mobile Applications: Quality and Limitations,"In this
+paper, we did not evaluate the accuracy of the disease detection performed by those reviewed apps but rather focused on
+the software quality aspects, app features, and to what extent artiﬁcial intelligence is being adopted to provide advanced
+disease detection functionality. 5 Conclusion and future work
+
+This paper features a survey on plant disease detection apps from three popular app stores. Our search results identiﬁed
+a total of 606 apps, from which we selected 17 based on a deﬁned set of inclusion and exclusion criteria. ",cs.MM,C,-0.050287098,-0.03370273,0.12930132
+http://arxiv.org/pdf/2208.03633v1,Debiased Cross-modal Matching for Content-based Micro-video Background Music Recommendation,"Finally, we calculate the user preference
+embedding of batch-level average zu as Eg · u∈UB uP(u) with
+P(u) deﬁned as 1/|UB| and UB denotes the set of uploaders in
+a Batch during training, and then we concatenate it to music
+
+embedding zm to gain deconfounded music embedding zm as:
+
+                zm = zm||zu. (9) of the music and the video is a further research area of our work. 6
+Algorithm 1: TeacherN-SGD: Training TeacherN with               posed DebCM, we investigate how do the two components
+SGD. ",cs.MM,C_centroid,0.0025632377,-0.24021262,0.23860589
+http://arxiv.org/pdf/2208.04079v1,Where Are You Looking?: A Large-Scale Dataset of Head and Gaze Behavior for 360-Degree Videos and a Pilot Study,"Yet
+most existing datasets ignored this and only contained videos with           • We demonstrate a use case of our dataset in 360° video
+simple qualitative classification from video genres, without quanti-            streaming scenario, and propose some other potential appli-
+tative representation and analysis. Their classification methods are            cations as well as future works. generally ambiguous and subjective, which do not characterize the
+intrinsic properties of a video scene. ",cs.MM,B,0.017288629,0.033470657,-0.21938519

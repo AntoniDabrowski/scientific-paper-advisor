@@ -1,0 +1,222 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.03880v1,Long induced paths in minor-closed graph classes and beyond,"For every graph H there is an integer k ∈ N such that every
+graph not containing H as a topological minor has a tree representation (T, {Tv}v∈V (G))
+such that for every t ∈ V (T ) the torso at t is either (k, k, k, k)-almost embeddable or
+
+has (k, k)-almost bounded degree. 6 Open problems
+
+A ﬁrst direction for future work is to investigate how widely the results proved in this
+paper could be generalized. What are the most general graph classes where the bound
+for property (⋆) is (at least) polylogarithmic? ",cs.DM,B,-0.4075955,-0.17678182,0.051655695
+http://arxiv.org/pdf/2201.05332v1,Performance Guaranteed Evolutionary Algorithm for Minimum Connected Dominating Set,"Experiments are done in Section 5, which are
+compared with greedy algorithm. Section 6 concludes the paper with some discussions
+on future work. 2 Preliminaries
+
+In this paper, small bold letters (such as x, y, z) are used to represent vectors. ",cs.DM,C,0.12627316,0.34365657,-0.121639565
+http://arxiv.org/pdf/2201.05764v1,Self-Adaptive Binary-Addition-Tree Algorithm-Based Novel Monte Carlo Simulation for Binary-State Network Reliability Approximation,"Therefore, from computational, pragmatic, and theoretical perspectives, the proposed BAT-MCS is
+superior to the BAT, MCS, and reliability-bound algorithms for calculating the reliability of binary-
+state networks. The future work is to extend the proposed algorithm to the multi-state flow networks
+reliability problems [44-54]. ACKNOWLEDGMENT
+                                                                                                                      30
+     This research was supported in part by the Ministry of Science and Technology, R.O.C. ",cs.DM,A,0.27923602,-0.12889488,-0.27812308
+http://arxiv.org/pdf/2202.00845v1,Random Processes with High Variance Produce Scale Free Networks,"Exponential networks of the Erdos-Renyi model
+are the unnatural exception, encountered only when outcomes are narrowly banded within a
+single outcome probability. Realizing that preferential attachment is not the only mechanism to generate scale free
+networks, future work in applied network science should seek to identify mechanisms in
+specific, real-world networks that follow the general pattern of Bernoulli trials with high
+variance. Also, this research focused on degree distribution, which is only one important
+network characteristic. ",cs.DM,A,0.4956317,-0.27240595,-0.14605267
+http://arxiv.org/pdf/2202.01103v1,A New Temporal Interpretation of Cluster Editing,"In addition to providing substantial insight into the structure
+of (∆1, ∆2)-cluster temporal graphs, Theorem 6.1 also gives rise to a simple search tree algorithm, which is an
+FPT algorithm parameterised simultaneously by the number k of permitted modiﬁcations and the lifetime of
+the input temporal graph. An interesting direction for further research would be to investigate whether this
+result can be strengthened: does there exist a polynomial kernel with respect to this dual parameterisation,
+and is ETC in FPT parameterised by the number of permitted modiﬁcations alone? Acknowledgements
+
+Meeks and Sylvester gratefully acknowledge funding from the Engineering and Physical Sciences Research
+Council (ESPRC) grant number EP/T004878/1 for this work, while Meeks was also supported by a Royal
+Society of Edinburgh Personal Research Fellowship (funded by the Scottish Government). ",cs.DM,C,-0.12753196,-0.17894268,0.22536388
+http://arxiv.org/pdf/2202.01103v2,A New Temporal Interpretation of Cluster Editing,"In addition to providing substantial insight into the structure
+of (∆1, ∆2)-cluster temporal graphs, Theorem 6.1 also gives rise to a simple search tree algorithm, which is an
+FPT algorithm parameterised simultaneously by the number k of permitted modiﬁcations and the lifetime of
+the input temporal graph. An interesting direction for further research would be to investigate whether this
+result can be strengthened: does there exist a polynomial kernel with respect to this dual parameterisation,
+and is ETC in FPT parameterised by the number of permitted modiﬁcations alone? Acknowledgements
+
+Meeks and Sylvester gratefully acknowledge funding from the Engineering and Physical Sciences Research
+Council (ESPRC) grant number EP/T004878/1 for this work, while Meeks was also supported by a Royal
+Society of Edinburgh Personal Research Fellowship (funded by the Scottish Government). ",cs.DM,C,-0.12753196,-0.17894268,0.22536388
+http://arxiv.org/pdf/2202.04746v1,Weighted Connected Matchings,"Our last contributions are in parameterized complexity, where
+we show that the problem admits a 2O(t) time algorithm when parameterized
+by treewidth, but does not admit a polynomial kernel when parameterized by
+vertex cover and the minimum required weight even with binary weights unless
+NP ⊆ coNP/poly. Possible directions for future work include determining the complexity of the
+problem for diﬀerent combinations of graph classes and allowed edge weights. In
+particular, we would like to know the complexity of Weighted Connected
+Matching for diameter 3 bipartite graphs when weights are non-negative, and
+for planar graphs of maximum degree at least 3 under the same constraint. ",cs.DM,B,-0.34993315,-0.07310049,-0.119076
+http://arxiv.org/pdf/2202.08068v1,A Polyhedral Study of Lifted Multicuts,"Finally,
+we establish the ﬁrst non-canonical facet-deﬁning inequalities for the lifted multicut polytope for
+arbitrary graphs that arise from cycles in that graph. Directions for future work arise from two conjectures concerning cutting planes originating from
+speciﬁc structures. The ﬁrst involves the generalized intersection inequalities. ",cs.DM,B,-0.34707576,-0.12952673,-0.0260114
+http://arxiv.org/pdf/2202.12560v1,Kron Reduction and Effective Resistance of Directed Graphs,"We have proved that the resistance distance on ergodic Markov chain
+is the same with the eﬀective resistance in this paper in the doubly stochastic case,
+and the hitting probability metric is the logarithm of the eﬀective resistance in the
+stochastic case. Since the eﬀective resistance and the induced metric are insensitive
+to shortest path distances, we believe that they can provide new information for ap-
+plications such as graph visualization, data exploration, and cluster detection, which
+will be a topic of future work. REFERENCES
+
+  [1] C. Altafini, Investigating stability of Laplacians on signed digraphs via eventual positivity, in
+             2019 IEEE 58th Conference on Decision and Control (CDC), 2019, pp. ",cs.DM,A,0.15523416,-0.22320557,-0.035677012
+http://arxiv.org/pdf/2203.04250v1,Edge Intersection Graphs of Paths on a Triangular Grid,"The
+complexity of recognizing Bk-EPGt graphs is open, for all k ≥ 1. A proposal for future work is to investigate whether there are graph problems that can be solved more efﬁciently if
+the input graph is Bk-EPGt, for some ﬁxed k ≥ 1. In addition, we would like to know if there are examples of graphs
+having rectangular bend-number k that are Bk -EPGt for k ≤ k − 2. ",cs.DM,B,-0.19031525,-0.08673966,-0.026629327
+http://arxiv.org/pdf/2203.06766v1,On the $d$-Claw Vertex Deletion Problem,"We note that vertex cover and cluster-vd have been considered by a large number
+of papers in the context of approximation, exact and parameterized algorithms. As a
+question for further research we may ask: which known results in case d = 1, 2 can
+be extended for all d ≥ 3? We believe that the approaches in [3,19] for cluster-vd
+could be extensible to obtain a similar parameterized algorithm for d-claw-vd for all
+
+                                                        20
+d ≥ 3. ",cs.DM,B,-0.26132804,0.085072845,-0.3311842
+http://arxiv.org/pdf/2203.08885v1,Short and local transformations between ($Δ+1$)-colorings,"[21],
+whose proof is based on an iterative identiﬁcation of vertices (and from which we can
+hardly expect a linear transformation). An interesting direction for future work is to determine whether we can replace the
+exponential function in ∆ by a polynomial function of ∆. We actually have no lower
+bound that ensures that a dependency in ∆ is necessary. ",cs.DM,B,-0.255704,-0.11451623,0.061335303
+http://arxiv.org/pdf/2203.09106v1,Parameterized and Exact Algorithms for Class Domination Coloring,"On
+the former graph class, we described a polynomial kernel. The kernelization
+complexity on other graph classes and whether the problem is FPT parame-
+terized by only treewidth are natural directions for further study. It is also
+interesting to get an exact function when parameterized by treewidth and
+the number of colors. ",cs.DM,B_centroid,-0.3351922,-0.095046535,-0.009015426
+http://arxiv.org/pdf/2204.04472v1,A BAT-based Exact-Solution Algorithm for the Series-Parallel Redundancy Allocation Problem with Mixed Components,"Section 5 illustrates the experiment results,
+including the solutions and the run times for the proposed BRB in solving the Fyffe RAP, the
+most famous RAP benchmarks with 33 variations. Final conclusions and future works are
+summarized in Section 6. 2. ",cs.DM,C,0.37368327,0.25667626,0.032886006
+http://arxiv.org/pdf/2204.10686v1,Boolean automata isolated cycles and tangential double-cycles dynamics,"Finally, the work carried out on cycles and double-cycles in parallel, devel-
+oped in [Nou12b, Sen12] discusses perspectives around computability, modularity/compositionality,
+and intrinsic universality of networks. These are certainly, like the ever-growing understanding of the
+inﬂuences of updating modes, among the most promising tracks for future works in the ﬁeld. Acknowledgement This work was funded mainly by our salaries as French or German State agents
+or pensioner (aﬃliated to Universit´e Grenoble-Alpes (JD), Universit´e d’E´ vry (TM and DR), Freie
+Universit¨at Berlin (MN), and Universit´e d’Aix-Marseille (SS)), and secondarily by the ANR-18-CE40-
+0002 FANs project (SS). ",cs.DM,A,0.2625659,-0.17560773,0.118162036
+http://arxiv.org/pdf/2204.10702v1,Attractor landscapes in Boolean networks with firing memory,"From the biological point of view, this is of pecu-
+       liar interest because in most cases, the synchronicity induced by the use of the parallel
+       updating mode (that the most basic mathematically speaking) tends to produce cyclic
+       attractors with no biological meaning. In this framework, future works will be oriented
+       towards the characterizations of delays for distinct classes of MBNs ensuring to ﬁlter
+       such spurious attractors by freezing the networks. Acknowledgements This work has been supported by ECOS-CONICYT C16E01 (EG, FL,
+GR, SS), FONDECYT 1140090 (EG, FL), Basal Project CMM (GR, EG), FANs program
+ANR-18-CE40-0002-01 (SS) and PACA Fri Project 2015 01134 (SS). ",cs.DM,A,0.47540313,-0.26105213,0.07712885
+http://arxiv.org/pdf/2204.11757v1,Parallel coarsening of graph data with spectral guarantees,"Also notably, we observe that the bunny mesh almost
+reaches theoretical perfect scaling. can be mitigated in future work through more sophisticated thread parallelism and usage of more modern
+GPU architectures, where warp divergence of threads is less of an issue [4]. 3.2. ",cs.DM,B,0.141191,0.03556709,-0.18451665
+http://arxiv.org/pdf/2205.00071v1,Preferential attachment hypergraph with vertex deactivation,"We have also proved that its degree distribution follows a power-law with an expo-
+nential cutoﬀ, which, according to the broad study of Broido and Clauset [7], is the distribution
+most often observed in nature. In further research we would like to investigate deeper some natural networks and observe
+how well our model reﬂects them. Maybe the need of generalizing the model will occur, e.g., by
+modifying the form of the attachment function or introducing the possibility of adding isolated
+vertices. ",cs.DM,A,0.26281273,-0.29646206,-0.05800102
+http://arxiv.org/pdf/2205.02464v1,Experimental Study of Concise Representations of Concepts and Dependencies,"As expected, the randomized datasets are more com-
+plex that the real ones. The future work will be to improve this study in several directions, by study-
+ing more deeply the role of both indices, the linearity index and the distributivity
+index, by analyzing more larger datasets, and more importantly by analyzing
+the complexity from the point of view of the generated implications and asso-
+ciation rules. This is a ﬁrst step in this direction and we believe that FCA can
+bring a substantial support for analyzing data complexity in general. ",cs.DM,C,0.32002926,0.6152432,0.25994375
+http://arxiv.org/pdf/2205.02464v2,Experimental Study of Concise Representations of Concepts and Dependencies,"As expected, the randomized datasets are more com-
+plex that the real ones. The future work will be to improve this study in several directions, by study-
+ing more deeply the role of both indices, the linearity index and the distributivity
+index, by analyzing more larger datasets, and more importantly by analyzing
+the complexity from the point of view of the generated implications and asso-
+ciation rules. This is a ﬁrst step in this direction and we believe that FCA can
+bring a substantial support for analyzing data complexity in general. ",cs.DM,C,0.32002926,0.6152432,0.25994375
+http://arxiv.org/pdf/2205.12943v1,Transitions from P to NP-hardness: the case of the Linear Ordering Problem,"Section III shows
+the decomposition of the LOP into its P and NP-hard com-          B. FT of the LOP
+ponents. The constructive algorithms considered are presented
+in Section IV, and the experimental study is undertaken in           Given a permutation-based combinatorial optimization
+Section V. Finally, the conclusions and future work are drawn     problem, one could analyse the shape of the Fourier coefﬁ-
+in Section VI. cients of the objective functions associated with the problem. ",cs.DM,B,-0.12046545,0.33779234,-0.24899712
+http://arxiv.org/pdf/2205.14434v1,A Theory of L-shaped Floor-plans,"We have derived the existence conditions (including necessary and suﬃcient) of a non-trivial L correspond
+to any PTPG and developed an algorithm for the construction of a non-trivial L, if it exists. For the future work, we
+will extend the present work on diﬀerent types of other NRFPs (which are illustrated in Section 1.2) and investigate
+their graph theoretic properties. Moreover, ﬂipping algorithm has an important role to ensure the non-triviality of the
+obtained ﬂoor-plan. ",cs.DM,B,-0.28782612,-0.029875074,0.016517492
+http://arxiv.org/pdf/2205.15306v1,How to Compose Shortest Paths,"Precompilation. In this step, the all pairs short-      on addressing this in future work. est paths F(M) and F(N) are computed, pushed
+      forward to F(M) and F(N), and broken into              References
+      blocks as shown above. ",cs.DM,A,0.17789695,0.06798184,0.032005843
+http://arxiv.org/pdf/2205.15813v1,A Coxeter type classification of Dynkin type $\mathbb{A}_n$ non-negative posets,"7. Summary and future work
+
+In the present work, we give a complete Coxeter spectral classiﬁcation of connected non-negative
+
+posets I of Dynkin type DynI = A|I|−crkI . A complete description and classiﬁcation of Dynkin
+type Dn posets is unknown (partial results are given in [9, 15, 16]). ",cs.DM,B,-0.030731685,-0.21618167,0.057794947
+http://arxiv.org/pdf/2206.00861v1,Dynamic Structure Estimation from Bandit Feedback,"The key contributions are
+the use of exponential sums and the deﬁnitions of novel terms, namely, aliquot nearly period and
+(θ, λ, k)-distinct eigenvalues. We list a potentially important list of future works below. Extensions to random dynamical systems and other forms of feedback: We conjecture that,
+under the condition that variance of trajectories generated by a random dynamical system (RDS) is
+sufﬁciently small, the similar estimation procedure is adopted for such RDS. ",cs.DM,A,0.43388695,-0.09497617,0.018178977
+http://arxiv.org/pdf/2206.09750v1,List Colouring Trees in Logarithmic Space,"We explain
+two ideas that need to be added to this, present the algorithm and give the space analysis in Section 4. We
+prove our results concerning tree-partition-width in Section 5 and point to some directions for future work
+in Section 6. Some technical details are left to the appendix. ",cs.DM,B,-0.3441887,0.19301832,-0.123449415
+http://arxiv.org/pdf/2206.14556v1,Linearizing Partial Search Orders,"There are many
+combinations of graph classes and graph searches where both problems are N P-complete
+or both problems are solvable in polynomial time. To further study this relationship,
+we present a generalization of these two problems by introducing the Partial Search
+Order Problem (PSOP) of a graph search A. Given a graph G and a partial order π
+on its vertex set, it asks whether there is a search ordering produced by A which is
+a linear extension of π. ",cs.DM,B,-0.31625867,0.03640447,0.0045856535
+http://arxiv.org/pdf/2207.08913v1,Robust Factorizations and Colorings of Tensor Graphs,"Section
+4 contains the proof of our main hardness theorem: Theorem 3. We conclude in Section 5 with
+directions for future work. Finally, in Appendix A, we include some proofs omitted in Section 3. ",cs.DM,C,-0.17234845,0.1620866,0.11053429
+http://arxiv.org/pdf/2207.09063v1,Algorithms for the Euclidean Bipartite Edge Cover Problem,"In Section 3 we propose some 2-approximation algorithms for the
+problem, and in Section 4 we compare experimentally our implementations of the
+algorithms described in this paper. Finally, in Section 5 we present our conclusions
+and ideas for future work. The results of this paper were partially presented at the 38th European Work-
+shop on Computational Geometry (EuroCG 2022) [3]. ",cs.DM,B,-0.33107597,0.30075866,-0.2840218
+http://arxiv.org/pdf/2208.01720v1,"Simple, strict, proper, happy: A study of reachability in temporal graphs","Since many basic questions remain unresolved at this stage, we advocate the
+study of a particular setting, called happy temporal graphs, where all the above subtleties
+vanish. To motivate further research in this direction, we show that happy graphs, despite
+being the least expressive setting, remain general enough to capture several negative results
+from the literature, in particular, the non-existence of opn2q-sparse temporal spanners and
+the computational hardness of ﬁnding maximum temporal components. We conclude with
+a list of open questions related to happy graphs, and to some missing relations in the above
+hierarchy. ",cs.DM,C_centroid,-0.1340309,-0.061393186,0.6227267
+http://arxiv.org/pdf/2208.01720v2,"Simple, strict, proper, happy: A study of reachability in temporal graphs","Since many basic questions remain unresolved at this stage, we advocate the
+study of a particular setting, called happy temporal graphs, where all the above subtleties
+vanish. To motivate further research in this direction, we show that happy graphs, despite
+being the least expressive setting, remain general enough to capture several negative results
+from the literature, in particular, the non-existence of opn2q-sparse temporal spanners and
+the computational hardness of ﬁnding maximum temporal components. We conclude with
+a list of open questions related to happy graphs, and to some missing relations in the above
+hierarchy. ",cs.DM,C,-0.1340309,-0.061393186,0.6227267
+http://arxiv.org/pdf/2208.02153v1,Finding a Lower Bound for k-Unbounded Hamiltonian Cycles,"The heuristics presented in the paper are deterministic in nature, and accuracy may further
+be improved by incorporating randomisation techniques or considering multiple start vertices at
+the cost of increased runtime. Lastly, further research of k-Unbounded cycles is encouraged in special graphs other than
+trees. 7 Acknowledgements
+
+I would like to thank Jesse Stern for his guidance and feedback throughout the writing of the
+paper. ",cs.DM,B,-0.066773005,-0.18224679,-0.13993041
+http://arxiv.org/pdf/2208.11732v1,Attractor Stability in Finite Asynchronous Biological System Models,"For a particular biological system,
+there may be a statistical distribution across the set of permutation update sequences, and one may choose
+to use this when inducing weights of the κ-classes. We have chosen to leave this analysis for future work. Acknowledgments
+
+We thank our external collaborators and members of the Network Dynamics and Simulation Science Lab-
+oratory (NDSSL) for their suggestions and comments. ",cs.DM,A_centroid,0.46063352,-0.23027986,-0.1513505
+http://arxiv.org/pdf/2208.12130v1,An analysis of load-balancing algorithms on edge-Markovian evolving graphs,"Concerning the random matching algorithm, an
+
+                                                    24
+extension of the analysis technique to random edge-subset algorithm is an interesting future work. Concern-
+ing the edge-Markovian graph, an extension to more general model, particularly vertex increasing model, is
+an important future work. Acknowledgements
+
+This work was partially supported by the joint project of Kyoto University and Toyota Motor Corporation,
+titled “Advanced Mathematical Science for Mobility Society”. ",cs.DM,A,0.014077579,-0.016840655,-0.37487972
+http://arxiv.org/pdf/2208.13014v1,Polyhedral results and stronger Lagrangean bounds for stable spanning trees,"when an incumbent solution
+is found, or when the optimality gap is not decreasing eﬀectively. Additional ideas that we leave for future work include improving the kstab subproblem solver, ﬁne-
+tuning the Volume Algorithm to perform faster, experimenting with diﬀerent subgradient methods e.g. the
+sophisticated framework made available by Frangioni et al. ",cs.DM,C,0.041352857,0.23490985,-0.13829842

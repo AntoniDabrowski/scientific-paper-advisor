@@ -1,0 +1,183 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.03213v1,New volatility evolution model after extreme events,"These two types of events have signiﬁcantly different ef-
+January 11, 2016 to July 25, 2016.                                            fects on the stock volatility [8,27]. To further study the inﬂuence
+                                                                              of events on the stock market volatility, we present the empiri-
+4. Empirical results and discussion                                           cal results of volatility evolution after endogenous and exogenous
+                                                                              events respectively. ",q-fin.ST,C,-0.11230835,-0.14722577,0.14329596
+http://arxiv.org/pdf/2201.04965v2,Stock Movement Prediction Based on Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks,"The ablation studies reaffirm that
+the performance gain mainly comes from the use of the associated executives, and additional implicit relation between
+companies in MKG. An interesting future work direction is to explore web media about the executives including: (i) the negative facts from
+news, such as accusation of crime, health issue, etc; (ii) the improper speech on social media, such as Twitter and Weibo. We believe these factual event information of executives can be detected and utilized to feed into graph-based methods for
+better SMP performance. ",q-fin.ST,C,-0.016510392,-0.16245994,0.31087387
+http://arxiv.org/pdf/2201.09516v2,From Rough to Multifractal volatility: the log S-fBM model,"Its value seems to be quite universal
+and spread around λ2 = 0.07 for stocks and λ2 = 0.05 for stock market indices in agreement with
+
+the values formerly reported for the multifractal model [3]. In a future work, we will consider the issue of deﬁning a faithful model for asset and option
+
+prices within the log S-fBm framework. To that end, the problem of introducing a speciﬁc skewness
+
+in our model will be considered along the same line as in Ref. ",q-fin.ST,C,0.07813503,-0.09665726,0.1860399
+http://arxiv.org/pdf/2201.09790v1,Linear Laws of Markov Chains with an Application for Anomaly Detection in Bitcoin Prices,"In addition, the locally high values of this third parameter
+are often related to short-term price peaks, which suggests price manipulation. In our future work, we will examine the linear laws in exchange rates of other cryptocurrencies, as well as stock prices and
+the prices of oil and other commodities. Although due to the theory of efﬁcient market hypothesis62, ﬁnancial data typically ﬁt
+well with the concept of Markov chains, we also plan to investigate electroencephalograms (EEGs) record neural activity to
+detect epilepsy. ",q-fin.ST,C,-0.052073974,-0.032533087,0.02774516
+http://arxiv.org/pdf/2201.12286v1,A Stock Trading System for a Medium Volatile Asset using Multi Layer Perceptron,"[2021b]). As
+another future work, we plan to consider the ethical aspects related to AI buy & sell advisors. Given the enormous potential and thanks also to the extendability and robustness of this trading system, we will further
+test its reliability on other stock markets using other inputs to the dataset such as cryptocurrencies and deﬁ-tokens, also
+varying the timeframes for day trading and scalping activities. ",q-fin.ST,C,-0.06811258,0.080359384,0.039064337
+http://arxiv.org/pdf/2201.12291v1,Simulating Using Deep Learning The World Trade Forecasting of Export-Import Exchange Rate Convergence Factor During COVID-19,"By comparing our results with more relat-
+able works result [16-17], we can say that in both result, future prediction have done
+with LSTM and time series analysis. 5 Conclusion and future work
+
+This research provides an idea of what the future holds for imports and exports in world
+trade during the Corona period with the LSTM model. The dataset, titled ""Effects of
+COVID-19 on trade"", was collected from the state website NZ Tatauranga Aotearoa to
+provide time-series analysis and is the original source of the data. ",q-fin.ST,C,-0.0032291724,-0.14516652,-0.15546612
+http://arxiv.org/pdf/2202.01043v2,2T-POT Hawkes model for left- and right-tail conditional quantile forecasts of financial log-returns: out-of-sample comparison of conditional EVT models,"the preceding generation, then the n-th generation events
+                                                               will arrive with an average intensity γnµ. Thus, by sum-
+   In future work, the comparison between Hawkes- and          mation, the expected average intensity for the whole pro-
+GARCH-based EVT methods could be extended to in-               cess is
+clude time inhomogeneous processes. These could be
+based, for example, on the MSGARCH process developed                                         ∞         µ. ",q-fin.ST,C,-0.071013436,-0.24360731,-0.16568851
+http://arxiv.org/pdf/2202.08967v1,Ensemble and Multimodal Approach for Forecasting Cryptocurrency Price,"term stock price prediction using deep learning. In 2017 2nd IEEE international
+
+   For future work, we aim to generate trading data with extremely                             conference on recent trends in electronics, information & communication technology
+high volatility to be used in the training process. With this, we                              (RTEICT). ",q-fin.ST,C,-0.010391557,-0.23274633,-0.08501079
+http://arxiv.org/pdf/2202.08968v1,Stock Embeddings: Learning Distributed Representations for Financial Assets,"Obviously real-world settings are          [6] T. Mikolov, K. Chen, G. Corrado, and J. Dean, “Efﬁcient estimation of
+based on more complex portfolios with many different stocks
+that need to be collectively hedged, and it is a matter for               word representations in vector space,” arXiv preprint arXiv:1301.3781,
+future work to further evaluate our embeddings approach in                2013.
+these more realistic settings. That being said, the approach         [7] J. Pennington, R. Socher, and C. D. Manning, “Glove: Global vectors
+used here still serves as an important indication of success:             for word representation,” in Proceedings of the 2014 conference on
+had the embeddings approach not be able to demonstrate                    empirical methods in natural language processing (EMNLP), 2014, pp. ",q-fin.ST,C,-0.06827553,-0.006026311,0.0027491078
+http://arxiv.org/pdf/2202.09359v1,Machine Learning Models in Stock Market Prediction,"Nearest Neighbors (kNN), Linear Regression (LR), Artificial
+Neural Network (ANN), Random Forest (RF), Stochastic                           My previous research works in the area of Stock Market
+Gradient Descent (SGD), Support Vector Machine (SVM) and                    (Singh & Nagar, 2012), (Nagar & Singh, 2012) and (Nagar
+Decision Trees (DT). Experiments are based on historical data of            & Issar, 2013) motivated me to do further study as still there
+Nifty 50 Index of Indian Stock Market from 22nd April, 1996 to              are very limited researches have been done in the area of
+16th April, 2021, which is time series data of around 25 years. Stock Market. ",q-fin.ST,C,-0.0055281054,-0.059518635,-0.08461338
+http://arxiv.org/pdf/2202.12067v1,A 2D Levy-flight model for the complex dynamics of real-life financial markets,"network and topology as well as the clustering properties
+                                                              of the involved stocks based on the similar spectra with
+   A similar analysis for 2D-L´evyα=3/2- (t) model leads      the scale-free complex networks. Our study also moti-
+to completely diﬀerent results, so that the distribution      vates further research to evaluate the response of ﬁnan-
+of eigenvalues takes on an exponential tail rather than       cial markets to diﬀerent kinds of external perturbations
+a power-law tail (see the Supplementary Figure S3(a)—         and the controbility of real-life networks. please note the semi-logarithmic scale). ",q-fin.ST,C,0.032698926,-0.15944505,0.047305115
+http://arxiv.org/pdf/2203.12587v1,Predicting the Bubble of Non-Fungible Tokens (NFTs): An Empirical Investigation,"II). Using these methods and comparing their results would
+be another direction of future works. We need to nd the best                      [11] E. Howcro , “N                sales surge as specula-
+mix of preceding methods for the accuracy of NFT-bubble
+prediction. ",q-fin.ST,C,0.29874367,0.02108536,-0.03126562
+http://arxiv.org/pdf/2203.12587v2,Bubble Prediction of Non-Fungible Tokens (NFTs): An Empirical Investigation,"Table I shows the ranking of the most
+                                           and (iii) the Ethereum Name Service and ArtBlocks projects are                  expensive NFTs traded on seven marketplaces (SuperRare,
+                                           in a small negative bubble (a price increase is predicted). A                   Ni y Gateway, Foundation, hic et nunc, MakersPlace, KnownO-
+                                           future work will involve a prediction re nement considering                     rigin, and Async Art), where the prices of the top ve NFTs
+                                           the heterogeneity of NFTs, comparison with other methods,                       were all recorded in 2021. ese trends of strong market
+                                           and the use of more enriched data. growth naturally lead people to question whether the current
+                                                                                                                           NFT market is a bubble [11], [12] or what the future price
+                                              Index Terms—non-fungible token, blockchain, bubble pre-                      movements will be [13], [14]. ",q-fin.ST,C_centroid,0.3172695,0.24562764,-0.029963814
+http://arxiv.org/pdf/2203.15911v1,"Financial dynamics, economic state classification and optimal portfolio construction for unseen market conditions: learning from the past 60 years","These
+experiments demonstrate the importance gold may play in investor portfolios
+during a period of heightened economic uncertainty such as one we are now
+experiencing. There are various opportunities for future work. First, one could study more
+economic variables over a longer period of time. ",q-fin.ST,B,-0.5687256,0.55184805,-0.100160964
+http://arxiv.org/pdf/2203.15911v2,"Financial dynamics, economic state classification and optimal portfolio construction for unseen market conditions: learning from the past 60 years","These
+experiments demonstrate the importance gold may play in investor portfolios
+during a period of heightened economic uncertainty such as one we are now
+experiencing. There are various opportunities for future work. First, one could study more
+economic variables over a longer period of time. ",q-fin.ST,B,-0.5687256,0.55184805,-0.100160964
+http://arxiv.org/pdf/2203.15911v3,Economic state classification and portfolio optimisation with application to stagflationary environments,"These experiments demonstrate the importance gold may play in
+investor portfolios during a period of heightened economic uncertainty such as
+one we are now experiencing. There are various opportunities for future work. First, one could study more
+economic variables over a longer period. ",q-fin.ST,B_centroid,-0.5721061,0.5565831,-0.09374861
+http://arxiv.org/pdf/2203.15911v4,Economic state classification and portfolio optimisation with application to stagflationary environments,"These
+experiments demonstrate the importance gold may play in investor portfolios
+during a period of heightened economic uncertainty such as one we are now
+experiencing. There are various opportunities for future work. First, one could study more
+economic variables over a longer period. ",q-fin.ST,B,-0.5721061,0.5565831,-0.09374861
+http://arxiv.org/pdf/2204.00872v1,Calibration window selection based on change-point detection for forecasting electricity prices,"However, the automation of the forecasting
+process may make the trade-oﬀ worthwhile. If this is the case for more complex
+models than the autoregressive ones considered here or the shallow neural net-
+work in [2], e.g., LASSO-estimated AR (LEAR) and deep neural networks [6], is
+left for future work. References
+
+ 1. ",q-fin.ST,C,-0.052749466,-0.26835316,-0.3365678
+http://arxiv.org/pdf/2204.09544v1,Digging into Primary Financial Market: Challenges and Opportunities of Adopting Blockchain,"Section 7 is the related work. The final section
+gives conclusions and future work. II. ",q-fin.ST,C,0.15464838,-0.022692425,0.067880966
+http://arxiv.org/pdf/2204.10243v1,How rarity shapes the NFT market,"Overall, we anticipate that our results in this context may help
+inform the decisions of users interested in the ﬁnancial aspects of NFTs. Our study has limitations that future work could address. First, our dataset is limited to collections
+available on Opensea, the biggest NFT market, and sold on the Ethereum blockchain. ",q-fin.ST,C,0.6414932,0.401726,-0.12882732
+http://arxiv.org/pdf/2204.10243v2,How rarity shapes the NFT market,"Overall, we anticipate that our results in this context may help
+inform the decisions of users interested in the ﬁnancial aspects of NFTs. Our study has limitations that future work could address. First, our dataset is limited to collections
+available on Opensea, the biggest NFT market, and sold on the Ethereum blockchain. ",q-fin.ST,C,0.6414932,0.401726,-0.12882732
+http://arxiv.org/pdf/2204.10243v3,How rarity shapes the NFT market,"Overall, we anticipate that our results in this context may help
+inform the decisions of users interested in the ﬁnancial aspects of NFTs. Our study has limitations that future work could address. First, our dataset is limited to collections
+available on Opensea, the biggest NFT market, and sold on the Ethereum blockchain. ",q-fin.ST,C,0.6414932,0.401726,-0.12882732
+http://arxiv.org/pdf/2204.10243v4,Heterogeneous rarity patterns drive price dynamics in NFT collections,"Overall, we anticipate that our results in this context may help
+inform the decisions of users interested in the ﬁnancial aspects of NFTs. Our study has limitations that future work could address. First, our dataset is limited to collections
+available on Opensea, the biggest NFT market, and sold on the Ethereum blockchain. ",q-fin.ST,C,0.6414932,0.401726,-0.12882732
+http://arxiv.org/pdf/2205.06338v1,A Multivariate Hawkes Process Model for Stablecoin-Cryptocurrency Depegging Event Dynamics,"The above intuitive behaviors seem to waver at higher percentile ranges of our data. While further analysis is encouraged, this could point to behavior where BTC price jump
+
+                                                          6
+                                                                                                         Oxenhorn
+
+events that may be caused by USDT depegging events may more commonly be of lower
+magnitudes; in the case of our data sample: the 10th-40th-percentile range. 3.3 Optimization
+
+In order to approximate the parameter values for the model, we must maximize its Likeli-
+hood function, or equivalently its log-Likelihood function. ",q-fin.ST,C,-0.18900597,-0.092658706,-0.04740133
+http://arxiv.org/pdf/2205.06673v1,Univariate and Multivariate LSTM Model for Short-Term Stock Market Prediction,"Other timeframes such as 5 days, 10 days and 15 days can
+be studied and compared. Long term forecasts could be chosen for further research or guidance and it may include quarterly stock performance reviews, sales,
+profit returns, organizational stability, and other factors. Technical indicators based on short-term duration, such as SMA or EMA 10 days or 50 days, are available
+in this paper, but can also be researched and validated for longer timeframes if long-term predictions are desired. ",q-fin.ST,C,-0.05635556,-0.115530856,0.0034546691
+http://arxiv.org/pdf/2206.00648v1,A multimodal model with Twitter FinBERT embeddings for extreme price movement prediction of Bitcoin,"For a more comprehensive analysis
+strategy to perform only one action per day, either buy, hold             of more complex trading strategies this should be
+or sell. When there are consecutive days of buying signals,               included in future work. we only buy and hold during the ﬁrst day. ",q-fin.ST,C,-0.08803852,-0.009500217,0.08983634
+http://arxiv.org/pdf/2206.06723v1,"Development of a hybrid method for stock trading based on TOPSIS, EMD and ELM","The proposed model combining TOPSIS with EMD-ELM is able
+to make decision of buying a stock at each end of the day turns out to be quite
+promising in terms of proﬁt and return. So, future work may incorporate other
+kind of neural networks or even fuzzy logic. Another interesting issue is when
+the EMD-ELM is used to conﬁrm the purchase of stocks, fewer trades are made,
+increasing the time between one purchase and another. ",q-fin.ST,C,-0.0028620735,-0.07514726,-0.14105418
+http://arxiv.org/pdf/2206.10173v1,Statistical inference of lead-lag at various timescales between asynchronous time series from p-values of transfer entropy,"6 Conclusions
+
+Having asymptotic tests for the presence of Transfer Entropy and a comparison of TE makes it possible to infer causality
+networks of a large number of nodes with long time series, especially since the minimum number of points required
+is relatively small. Using a time shift is especially relevant in systems in which latency is important, which deserves
+further study. Finally, being able to compare the TE from two sets of predictors of a given time series opens many
+possibilities, such as pair-wise ranking of feature importance. ",q-fin.ST,C,0.0016963389,-0.2499578,-0.20761378
+http://arxiv.org/pdf/2207.06605v1,StockBot: Using LSTMs to Predict Stock Prices,"A possible reason
+for this is the ampliﬁcation of prediction error at each time step. To mitigate this
+issue, future work can be focused on enhancing the model by making the architecture
+more complex so that this fundamentally translation-motivated model becomes better
+optimized for stock prediction. 3. ",q-fin.ST,C,-0.20198184,-0.34080896,-0.25750732
+http://arxiv.org/pdf/2207.06605v2,StockBot: Using LSTMs to Predict Stock Prices,"A possible reason
+for this is the ampliﬁcation of prediction error at each time step. To mitigate this
+issue, future work can be focused on enhancing the model by making the architecture
+more complex so that this fundamentally translation-motivated model becomes better
+optimized for stock prediction. 3. ",q-fin.ST,C,-0.20198184,-0.34080896,-0.25750732
+http://arxiv.org/pdf/2207.10476v1,Efficiency of the Moscow Stock Exchange before 2022,"In this work, we use monthly time intervals for entropy cal-
+culation. Our future work will be related to the optimization of the length of return time series. One
+of the problems is to ﬁnd a signiﬁcant decrease in entropy without using Monte Carlo simulations. ",q-fin.ST,A_centroid,0.0436565,-0.48789358,-0.2730931
+http://arxiv.org/pdf/2207.10476v2,Efficiency of the Moscow Stock Exchange before 2022,"In this work, we use monthly time intervals for entropy cal-
+culation. Our future work will be related to the optimization of the length of return time series. One
+of the problems is to ﬁnd a signiﬁcant decrease in entropy without using Monte Carlo simulations. ",q-fin.ST,A,0.0436565,-0.48789358,-0.2730931
+http://arxiv.org/pdf/2208.03456v1,Recurrence measures and transitions in stock market dynamics,"We ﬁnd the trends in the variations in CC values are not that pronounced but are better
+revealed through CPL values. For further analysis we consider a few typical markets and
+show the variations in their CPL values grouped as per the nature of their variations(Fig. 6). ",q-fin.ST,C,-0.1003607,0.06300101,0.25337952
+http://arxiv.org/pdf/2208.07248v1,New drugs and stock market: how to predict pharma market reaction to clinical trial announcements,"However, after the discussed procedure of sentiment polarity identiﬁcation, we exclude all events related to
+private companies because of the inaccessibility of their stock prices. Thus, for further analysis, we have 1105 positive and 549
+negative announcements at our disposal. Table 1. ",q-fin.ST,C,0.023309663,-0.06828871,0.77835155
+http://arxiv.org/pdf/2208.07248v2,New drugs and stock market: how to predict pharma market reaction to clinical trial announcements,"However, after the discussed procedure of sentiment polarity identiﬁcation, we exclude all events related to
+private companies because of the inaccessibility of their stock prices. Thus, for further analysis, we have 1105 positive and 549
+negative announcements at our disposal. Table 1. ",q-fin.ST,C,0.023309663,-0.06828871,0.77835155
+http://arxiv.org/pdf/2208.07254v1,The Efficient Market Hypothesis for Bitcoin in the context of neural networks,"This will be
+deﬁned as a binary classiﬁcation problem in equation 4, where 0 represents a negative Bitcoin return and 1 represents a
+positive Bitcoin return. For further analysis or in practice applications, 0 can stand for sell and 1 for buy. Or short or
+long. ",q-fin.ST,A,0.025810378,-0.06595518,0.33706772
+http://arxiv.org/pdf/2208.13564v1,Stock Market Prediction using Natural Language Processing -- A Survey,"For reducing the
+rule base size, techniques like similar rule merging can also be used. Some area that will be
+needed to achieved better accuracy in our future work, some scholars are concerning the used of
+sentiment analysis on twitter to predict stock market trend movement, Beside the social media,
+other qualitative indicators like news, internet and domestic policy changes can also be used as
+input to predict the trend of stocks. Another important concept is Elliot waves principles which
+can perform better on stock market trend prediction. ",q-fin.ST,C,-0.02646509,-0.2546749,0.18357828

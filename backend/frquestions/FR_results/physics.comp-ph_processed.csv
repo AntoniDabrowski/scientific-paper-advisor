@@ -1,0 +1,796 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.02389v1,Hyperparameter Search using Genetic Algorithm for Surrogate Modeling of Geophysical Flows,"Section IV discusses
+the experimental results and their analysis. Finally, in Section V, conclusions and future works are outlined. II. ",physics.comp-ph,A,-0.22121054,0.10796308,0.15546744
+http://arxiv.org/pdf/2201.04731v1,Physics-Informed Deep Learning for Solving Phonon Boltzmann Transport Equation with Large Temperature Non-Equilibrium,"It can be a powerful tool in
+studying multiscale thermal transport for applications like thermoelectrics and electronics thermal
+management. While being accurate and efficient in predicting multiscale thermal transport, the current
+scheme still has limitations, which warrants further research. In particular, our framework is
+designed for steady-state problems, and modifications are required in order to capture the transient
+thermal transport. ",physics.comp-ph,B,0.084429786,-0.21895678,-0.13214485
+http://arxiv.org/pdf/2201.09829v1,Training Data Selection for Accuracy and Transferability of Interatomic Potentials,"Figure 3 B) also shows that NN models surprisingly do
+not overﬁt to the training data even when NDoF ≥ NTraining,           In order to assess the relative transferability of the models
+where one could expect the RMSE value of the validation set        trained on the different datasets, we select three models for
+to increase. This is presumably caused by the non-convex           further analysis: the NN-A1, NN-B1 and a quadratic SNAP
+nature loss function which makes it more difﬁcult to access        model, all using an angular momentum limit of Jmax = 3
+very low loss minima that would lead to overﬁtting. In addi-       which corresponds to D = 30. ",physics.comp-ph,C,-0.045996975,0.33704084,-0.070036024
+http://arxiv.org/pdf/2201.09829v2,Training Data Selection for Accuracy and Transferability of Interatomic Potentials,"rations in the training set, a point that we will expand on the
+following paragraphs. In order to assess the relative transferability of the models
+                                                                 trained on the different datasets, we select three models for
+   Figure 3 B) also shows that NN models surprisingly do         further analysis: the NN-A1, NN-B1 and a quadratic SNAP
+
+                                                                 4/13
+A)                                                               B)
+
+Figure 3. RMSE validation errors for as a function of the number of degrees of freedom for different types of models trained
+and tested on distinct random samples from their respective dataset. ",physics.comp-ph,C,-0.029673433,0.43036366,-0.006929775
+http://arxiv.org/pdf/2201.10686v1,A hybrid adaptive multiresolution approach for the efficient simulation of reactive flows,"The current work opens a number of avenues for future research. For example, we expect HAMR to oﬀer increased
+gains with the increased problem complexity, and therefore it would be of interest to further study the dependence of
+the eﬃciency on the application type. Also, as most high ﬁdelity simulations are performed on large, parallel computer
+systems, the load balancing characteristics of AMR solvers equipped with the solver adaptive component are expected
+to change and may require optimization. ",physics.comp-ph,B,-0.033767167,-0.04642231,-0.19204834
+http://arxiv.org/pdf/2202.04552v1,Benchmark problems for transcranial ultrasound simulation: Intercomparison of compressional wave models,"Diﬀerences of this level are on par with experi-         These results build conﬁdence in the use of computa-
+mental repeatability and reproducibility measurements         tional modeling to support transcranial ultrasound ther-
+conducted using similar ultrasound transducers and a          apies. The benchmark deﬁnitions and associated data
+range of hydrophones.81 Compared to KWAVE, seven mod-         ﬁles, simulation results, and codes to compute the inter-
+els have maximum diﬀerences in the focal pressure across      comparison metrics are all freely available.8,9 This allows
+all benchmarks of less than 10%, and ﬁve models have          the results to be replicated or further analysis to be con-
+median diﬀerences across all benchmarks on the order of       ducted. Additional model results can also be easily added
+1% or less (see Fig. ",physics.comp-ph,A,-0.037585303,0.2542304,-0.0064071305
+http://arxiv.org/pdf/2202.04944v1,Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents,"We test the ability of some popular supervised ML algorithms to perform this task in two prototypical low-
+dimensional chaotic dynamical systems. This study is concerned solely with the predictive capability of ML methods:
+the task of optimising the computational cost of making predictions is left for future work. We anticipate that the
+latter task will be largely dependent on the speciﬁc use-case and computing hardware. ",physics.comp-ph,C,0.33486396,0.40386832,-0.19260155
+http://arxiv.org/pdf/2202.04944v2,Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents,"In this feasibility study, we test the accuracy of some popular supervised ML algorithms in this task in two proto-
+typical low-dimensional chaotic dynamical systems. This study is concerned solely with the predictive capability of ML
+methods: the task of optimising the computational cost of making predictions is left for future work. We anticipate
+that the latter task will be largely dependent on the speciﬁc use-case and computing hardware. ",physics.comp-ph,C,0.32235903,0.40421325,-0.19335353
+http://arxiv.org/pdf/2202.05183v2,Discovering Quantum Phase Transitions with Fermionic Neural Networks,"ciently ﬂexible to fully describe the two-electron corre-
+These results show that FermiNet is capable of learning      lations in the Wigner crystal without help from the one-
+wave functions in both the gas and Wigner crystal states     electron stream. Improving the ﬂexibility of the two-
+to very high accuracy without any hand-crafted features      electron stream will be the focus of future work. We do
+indicating whether the wave function should be localized     not believe that these issues impact the central conclu-
+or diﬀuse, any speciﬁc designation of crystal sites, or any  sion of the present work, and stress that in real condensed
+other information that a transition should occur. ",physics.comp-ph,A,-0.27429724,-0.00022496097,-0.0048468458
+http://arxiv.org/pdf/2202.05183v3,Discovering Quantum Phase Transitions with Fermionic Neural Networks,"This suggests that the two-electron stream is insuﬃ-
+These results show that FermiNet is capable of learning      ciently ﬂexible to fully describe the two-electron corre-
+wave functions in both the gas and Wigner crystal states     lations in the Wigner crystal without help from the one-
+to very high accuracy without any hand-crafted features      electron stream. Improving the ﬂexibility of the two-
+indicating whether the wave function should be localized     electron stream will be the focus of future work. We do
+or diﬀuse, any speciﬁc designation of crystal sites, or any  not believe that these issues impact the central conclu-
+other information that a transition should occur. ",physics.comp-ph,A,-0.29230222,0.013254419,0.01677423
+http://arxiv.org/pdf/2202.07366v1,An Ampére-Nernst-Planck Framework for Modeling Charge Dynamics,"With such a gradient ﬂow structure, it is desirable to design numerical methods
+
+that are able to preserve energy dissipation at discrete level. Structure-preserving
+
+numerical methods for the ANP model will be studied in future works. 3.2. ",physics.comp-ph,B_centroid,0.3523805,-0.3889401,-0.2628226
+http://arxiv.org/pdf/2202.07366v2,A Maxwell-Ampère-Nernst-Planck Framework for Modeling Charge Dynamics,"With such a gradient ﬂow structure, it is desirable to design numerical methods
+that are able to preserve energy dissipation at discrete level. Structure-preserving
+numerical methods for the MANP model will be studied in future works. 3.2. ",physics.comp-ph,B,0.33260083,-0.41268444,-0.24946211
+http://arxiv.org/pdf/2202.07366v3,A Maxwell-Ampère Nernst-Planck Framework for Modeling Charge Dynamics,"With such a gradient ﬂow structure, it is desirable to design numerical methods
+that are able to preserve energy dissipation at discrete level. Structure-preserving
+numerical methods for the MANP model will be studied in future works. 3.2. ",physics.comp-ph,B,0.33260083,-0.41268444,-0.24946211
+http://arxiv.org/pdf/2202.07366v4,A Maxwell-Ampère Nernst-Planck Framework for Modeling Charge Dynamics,"With such an energy dissipative law, it is desirable to design numerical methods
+that are able to preserve energy dissipation at discrete level. Structure-preserving
+numerical methods for the MANP model will be studied in future works. 3.2. ",physics.comp-ph,B,0.3145924,-0.45264393,-0.1819521
+http://arxiv.org/pdf/2202.07926v1,Hybrid Finite Difference with the Physics-informed Neural Network for solving PDE in complex geometries,"3) How can we combine traditional PDE solving methods
+to improve the generalization and prediction accuracy of PINN? These interesting discussions will be further
+explored in future work. Acknowledgments
+
+    This work was supported by the National Natural Science Foundation of China (No.11725211, 52005505,
+and 62001502). ",physics.comp-ph,B,0.16820335,0.00948647,-0.10284988
+http://arxiv.org/pdf/2202.08631v2,Analysis of Population Control Techniques for Time-Dependent and Eigenvalue Monte Carlo Neutron Transport Calculations,"Finally, a recent
+analysis of neutron clustering in k-eigenvalue transport calculation demonstrates that
+sampling source sites without replacement (which is a variation of DD) versus with
+replacement (which is SS) can greatly reduce the degree of clustering [32]. Studying
+how the diﬀerent PCTs (particularly those who are not included in [32], i.e., SR, CO,
+and COX) aﬀect the clustering phenomenon can be a potential future work as well. Acknowledgements
+
+This work was supported by the Center for Exascale Monte-Carlo Neutron Transport
+(CEMeNT) a PSAAP-III project funded by the Department of Energy, grant number
+DE-NA003967. ",physics.comp-ph,A,-0.32581627,-0.04856263,-0.17972457
+http://arxiv.org/pdf/2202.09232v1,Feynman's Sum-over-Paths method applied in wave optics and for calculating the quantum probability current,"[2]. The further analysis of the
+                                                             probability current per unit area was not performed in
+                                                             their publication. It is quite remarkable that the results in [2] can be
+                                                             obtained simply by evaluating the stationary case
+                                                             figured out in our paper. ",physics.comp-ph,A,-0.15216379,-0.10662314,0.25926113
+http://arxiv.org/pdf/2202.09232v2,Feynman's Sum-over-Paths method applied in wave optics and for calculating the quantum probability current,"[2]. The further analysis of the
+                                                             probability current per unit area was not performed in
+                                                             their publication. It is quite remarkable that the results in [2] can be
+                                                             obtained simply by evaluating the stationary case
+                                                             figured out in our paper. ",physics.comp-ph,A,-0.15216379,-0.10662314,0.25926113
+http://arxiv.org/pdf/2202.09232v3,Feynman's Sum-over-Paths method applied in wave optics and for calculating the quantum probability current,"[2]. The further analysis of the
+the differential equations at a relatively small distance. probability current per unit area was not performed in
+The probability profile automatically results by             their publication. ",physics.comp-ph,A,-0.036832243,-0.10805443,0.17845923
+http://arxiv.org/pdf/2202.10275v1,A conservative level-set method based on a posterior mass correction preserving distance property for incompressible multiphase flows simulations,"Quantitative
+study indicates that the conservation error is reduced to the order of machine
+accuracy by employing the present method and the extra computational cost is
+negligible. In future work, we plan to add a phase change model in the present
+method to simulate the icing of droplets. 6. ",physics.comp-ph,B,0.15410599,-0.16628364,-0.21553165
+http://arxiv.org/pdf/2202.11571v1,SporTran: a code to estimate transport coefficients from the cepstral analysis of (multivariate) current time series,"The program out-
+puts a PDF ﬁle with several plots, and textual or binary ﬁles containing the raw results of the
+calculation. Those ﬁles can be easily used for further analysis. --input-format {table,dict,lammps}  input format
+-k MAINFLUXKEY                      the header of the J0 ﬂux column
+-j ADD_CURRENTS                     header of additional current (optional)
+-C {electric,heat,stress}           the type of current
+u {real,metal,qepw,GPa...}          units
+-t TIMESTEP                         timestep in fs
+--VOLUME VOLUME                     volume of the system in Å3
+--TEMPERATURE TEMPERATURE           temperature of the system in K
+-r                                  resample the time series with the speciﬁed FSTAR
+--FSTAR FSTAR                       maximum frequency to analyse in THz
+-w PSD_FILTERW                      size of the moving average ﬁlter used in the plots,
+
+--help                                 for visualisation purposes (THz)
+--list-currents                     show the complete help
+INPUTFILE                           list all the currents and units implemented in the code
+                                    input ﬁle
+
+Table 1: List of important command line parameters. ",physics.comp-ph,A,-0.16609071,-0.18846357,0.29331416
+http://arxiv.org/pdf/2202.11571v2,SporTran: a code to estimate transport coefficients from the cepstral analysis of (multivariate) current time series,"The program
+outputs a PDF ﬁle with several plots, and textual or binary ﬁles containing the raw results of the
+calculation. Those ﬁles can be easily used for further analysis. --input-format {table,dict,lammps}  input format
+-k MAINFLUXKEY                      the header of the J0 ﬂux column
+-j ADD_CURRENTS                     header of additional current (optional)
+-C {electric,heat,stress}           the type of current
+-u {real,metal,qepw,GPa...}         units
+-t TIMESTEP                         timestep in fs
+--VOLUME VOLUME                     volume of the system in Å3
+--TEMPERATURE TEMPERATURE           temperature of the system in K
+-r                                  resample the time series with the speciﬁed FSTAR
+--FSTAR FSTAR                       maximum frequency to analyse in THz
+-w PSD_FILTERW                      size of the moving average ﬁlter used in the plots,
+
+--help                                 for visualisation purposes (THz)
+--list-currents                     show the complete help
+INPUTFILE                           list all the currents and units implemented in the code
+                                    input ﬁle
+
+Table 1: List of important command line parameters. ",physics.comp-ph,A_centroid,-0.16203603,-0.18383296,0.2997427
+http://arxiv.org/pdf/2202.11571v3,SporTran: a code to estimate transport coefficients from the cepstral analysis of (multivariate) current time series,"The program
+outputs a PDF ﬁle with several plots, and textual or binary ﬁles containing the raw results of the
+calculation. Those ﬁles can be easily used for further analysis. --input-format {table,dict,lammps}  input format
+-k MAINFLUXKEY                      the header of the J0 ﬂux column
+-j ADD_CURRENTS                     header of additional current (optional)
+-C {electric,heat,stress}           the type of current
+-u {real,metal,qepw,GPa...}         units
+-t TIMESTEP                         timestep in fs
+--VOLUME VOLUME                     volume of the system in Å3
+--TEMPERATURE TEMPERATURE           temperature of the system in K
+-r                                  resample the time series with the speciﬁed FSTAR
+--FSTAR FSTAR                       maximum frequency to analyse in THz
+-w PSD_FILTERW                      size of the moving average ﬁlter used in the plots,
+
+--help                                 for visualisation purposes (THz)
+--list-currents                     show the complete help
+INPUTFILE                           list all the currents and units implemented in the code
+                                    input ﬁle
+
+Table 1: List of important command line parameters. ",physics.comp-ph,A,-0.16203603,-0.18383296,0.2997427
+http://arxiv.org/pdf/2202.13476v1,The heterogeneous helicoseir,"In addition
+to this, we have established some general properties of the nonlinear solutions, which had
+not been noticed before: as a matter of fact we prove that the solutions to the nonlinear
+eigenvalue equation obey a nonlinear orthogonality condition; additionally we show that
+it is possible to obtain new solutions to the nonlinear eigenvalue equation, starting from
+a particular solution with n > 1 internal nodes (something that we jokingly refer to as a
+""matrioska eﬀect""). The paper is organized as follows: in section 2 we derive the nonlinear eigenvalue equation
+for the heterogeneous problem and discuss some of its properties; in section 3 we discuss
+the conditions of equilibrium and estimate the minimal angular velocity at which a non–
+vertical equilibrium can be reached (for a homogeneous string this reduces to the result of
+Wilson [1]); in section 4 we prove that the solutions to the nonlinear eigenvalue equation
+with more than one node are related to solutions of the nonlinear equation with less nodes
+and diﬀerent nonlinear eigenvalues; in section 5 we consider the linearized equation for the
+heterogeneous string and derive its solution; in section 6 we have considered a string with
+density ρ(s) = γ(1 − s)γ and we have obtained the threshold values for the occurrence of the
+nonlinear normal modes using a power series expansion (for the homogeneous case, γ = 1,
+our result reproduces the result of Kolodner [4]); ﬁnally in section 7 we state our conclusions
+and discuss the possible directions of future work. 2 The heterogeneous helicoseir
+
+Consider a string of length ℓ, that is held ﬁxed at the origin at one end and let sℓ be the
+distance from the ﬁxed end along the rope (0 ≤ s ≤ 1); we assume that the rope is not
+homogeneous, with a variable density ρ(s). ",physics.comp-ph,B,0.09388447,-0.19153865,0.18788469
+http://arxiv.org/pdf/2203.00390v2,Mitigating the Hubbard Sign Problem with Complex-Valued Neural Networks,"The red correlators are de-
+data. In future work will continue to investigate more ef-   termined using a tangent plane HMC, the blue ones us-
+ﬁcient ways of generating training data, and the training    ing ML HMC. Finally, the black dashed lines correspond
+process itself, including by sampling one training point     to the correlators obtained by an exact diagonalization
+from the steps along a holomorphic ﬂow to τ = ∞ ac-          procedure. ",physics.comp-ph,A,-0.15837157,0.119747214,0.16561082
+http://arxiv.org/pdf/2203.01120v1,turboMagnon -- A code for the simulation of spin-wave spectra using the Liouville-Lanczos approach to time-dependent density-functional perturbation theory,"Finally,
+Sec. 6 contains conclusions and perspectives for future work. 2. ",physics.comp-ph,C,-0.29914507,0.31918904,0.42737383
+http://arxiv.org/pdf/2203.01120v2,turboMagnon -- A code for the simulation of spin-wave spectra using the Liouville-Lanczos approach to time-dependent density-functional perturbation theory,"Finally, Sec. 6 contains conclusions and perspectives for future work. 2. ",physics.comp-ph,C,-0.29914507,0.31918904,0.42737383
+http://arxiv.org/pdf/2203.02024v1,Imaging Atomic-Scale Chemistry from Fused Multi-Modal Electron Microscopy,"The EELS detector had a semiangle of 30 mrad, and
+stable convergence. The regularization parameters were manually       the STEM probe positions were Nyquist sampled at a step size
+selected, however future work may allow automated optimization        of 0.31 Å. After completion, we convolved the simulated images
+by the L-curve method or cross-validation [44]. ",physics.comp-ph,A,-0.12007501,0.1726127,-0.20692672
+http://arxiv.org/pdf/2203.02830v1,On the surface plasmonic waves excited by a dipole above anisotropic and spatially dispersive two-dimensional surfaces of infinite extent in planarly layered media,"bridized with epsilon-near-zero substrate. As a possible
+ENZ hBN eﬀectively reinforces the light-matter interac-     future work, the dyadic Green function may be utilized
+tion of the graphene ribbon array, and preserve the non-    as kernels in the integral equation method to model more
+reciprocity and hyperbolic response of the system. 11
+
+complex geometries [30]. ",physics.comp-ph,B,-0.121666506,-0.2811073,0.04946474
+http://arxiv.org/pdf/2203.03735v1,Predicting 2D Normal Grain Growth using a Physics-Regularized Interpretable Machine Learning Model,"In addition, we discussed how the variations in
+regularization and training data eﬀect the results. While our results are promising as one of the ﬁrst demonstrations of machine learning applied to learn grain growth
+physics from data, there are many ways that PRIMME can be improved upon in future work. As we discussed,
+extrapolation remains a signiﬁcant challenge. ",physics.comp-ph,C,0.10073735,0.25797227,-0.08260855
+http://arxiv.org/pdf/2203.03735v2,A Novel Physics-Regularized Interpretable Machine Learning Model for Grain Growth,"Finally, various aspects of PRIMME are discussed in detail. In future work,
+this two-dimensional isotropic PRIMME model, which now contains interpretability and
+integrated physics, will be extended to analyze complex three-dimensional experimental
+grain growth with anisotropic grain boundary energy and mobility. 4
+2. ",physics.comp-ph,B,-0.02299552,-0.1036908,-0.03956985
+http://arxiv.org/pdf/2203.04491v1,Towards Large-Scale and Spatio-temporally Resolved Diagnosis of Electronic Density of States,"[14] S. Ono and T. Suemoto, Physical Review B 102,
+                                                                   10.1103/PhysRevB.102.024308 (2020). In conclusion, this DeepDOS model can strongly en-        [15] N. Jourdain, V. Recoules, L. Lecherbourg, P. Renaudin,
+hance the further study of both electronic structure and           and F. Dorchies, Physical Review B 101, 125127 (2020). ion dynamics during non-equilibrium processes created        [16] L. Zhang, J. Han, H. Wang, W. A. Saidi, R. Car, and
+by ultrafast laser heating, shock loading or a quasi-              E. Weinan, in Proceedings of the 32nd International Con-
+isentropic ramped pressure drive. ",physics.comp-ph,A,-0.026549987,-0.1417705,-0.05595988
+http://arxiv.org/pdf/2203.04491v2,Towards Large-Scale and Spatio-temporally Resolved Diagnosis of Electronic Density of States by Deep Learning,"We note that a signiﬁcant amount      ric characteristics like ext-CNA method, the ADOS can
+of representative points locate in the transitional zone     give relatively robust identiﬁcation for local structures
+from 34.0 ps to 36.8 ps, with characteristic parameter Q     that signiﬁcantly deviates from ideal crystal symmetry
+ranging from ∼ 0.6 to ∼ 0.8, indicating that the DNN-        due to thermal ﬂuctuation and phase transition dynam-
+predicted ADOS and ADOS-derived order parameter Q            ics. accurately resolves the complex local environment for
+this nonequilibrium system that contains diamond crys-          In conclusion, this DeepDOS model can strongly en-
+talline, liquid and thermal-distorted intermediate struc-    hance the further study of both electronic structure and
+ture. ion dynamics during non-equilibrium processes created
+                                                             by ultrafast laser heating, shock loading or a quasi-
+   For comparison, the traditional structure-identiﬁcation   isentropic ramped pressure drive. ",physics.comp-ph,A,-0.16937506,-0.20016015,-0.15886715
+http://arxiv.org/pdf/2203.05802v1,Accurate conservative phase-field method for simulation of two-phase flows,"G. Blaisdell, E. Spyropoulos, J. Qin, The eﬀect of the formulation of nonlinear terms on
+  aliasing errors in spectral methods, Applied Numerical Mathematics 21 (1996) 207–219. F. K. Chow, P. Moin, A further study of numerical errors in large-eddy simulations, Journal
+  of Computational Physics 184 (2003) 366–380. C. A. Kennedy, A. Gruber, Reduced aliasing formulations of the convective terms within
+  the navier–stokes equations for a compressible ﬂuid, Journal of Computational Physics
+  227 (2008) 1676–1700. ",physics.comp-ph,B,0.32320982,-0.14607953,0.06870502
+http://arxiv.org/pdf/2203.05802v2,Accurate conservative phase-field method for simulation of two-phase flows,"G. Blaisdell, E. Spyropoulos, J. Qin, The eﬀect of the formulation of nonlinear terms on
+  aliasing errors in spectral methods, Applied Numerical Mathematics 21 (1996) 207–219. F. K. Chow, P. Moin, A further study of numerical errors in large-eddy simulations, Journal
+  of Computational Physics 184 (2003) 366–380. C. A. Kennedy, A. Gruber, Reduced aliasing formulations of the convective terms within
+  the navier–stokes equations for a compressible ﬂuid, Journal of Computational Physics
+  227 (2008) 1676–1700. ",physics.comp-ph,B,0.32320982,-0.14607953,0.06870502
+http://arxiv.org/pdf/2203.08785v1,FEM modeling and simulation of broadband ultrasonic transducers with randomized inhomogeneous backing material,"The used idea here of inhomogeneous material is good enough for
+all these purposes, because the composite backing FEM model was considered as only one
+material. Studies with these improvements, including a 3D model could be done in future works. Acknowledge
+
+We would like to thank to the Ditecrod Network of the CYTED Program (www.cyted.org) for the
+helping in the collaboration among the groups that participated in this work. ",physics.comp-ph,B,0.029130155,-0.23064965,-0.050149664
+http://arxiv.org/pdf/2203.11167v2,Flow-matching -- efficient coarse-graining molecular dynamics without forces,"This choice of lag time enables recognizing all mean transition path
+times, which range from 40 to 700 ns for the considered trajectories. The data was projected on the two slowest modes (corresponding to
+the highest eigenvalues) for plotting and further analysis. ",physics.comp-ph,C,-0.11492998,0.18765096,0.0031127576
+http://arxiv.org/pdf/2203.11167v3,Flow-matching -- efficient coarse-graining of molecular dynamics without forces,"This choice of lag time enables recognizing all mean transition path
+times, which range from 40 to 700 ns for the considered trajectories. The data was projected on the two slowest modes (corresponding to
+the highest eigenvalues) for plotting and further analysis. F. Scaling of the ﬂow and Flow-CGnet modeling accuracy versus the amount of samples used for training. ",physics.comp-ph,C,-0.04849946,0.22729656,-0.069575876
+http://arxiv.org/pdf/2203.11438v1,An Efficient Data-Driven Multiscale Stochastic Reduced Order Modeling Framework for Complex Systems,"Physics constraints are incorporated into
+the CG-ROM to prevent the occurrence of pathological behavior of the model. There are a few issues that remain as future work. First, both the trajectories of
+v and w are assumedknown in the training period for model calibration. ",physics.comp-ph,C,0.06225268,0.16190901,0.054688185
+http://arxiv.org/pdf/2203.12634v1,Applications of physics informed neural operators,"We have also realized that we need to further develop these methods for PDEs that involve shocks. We are keenly
+interested in this particular case, and will explore in future work. G. Linear Shallow Water Equations 2D
+Another original result in this study is the use of PINOs to learn the physics of 3 coupled PDE equations. ",physics.comp-ph,B,0.27617243,-0.20716095,0.03428893
+http://arxiv.org/pdf/2203.12634v2,Applications of physics informed neural operators,"For example, Fourier transforms, which are em-        further develop these methods for PDEs that involve shocks. ployed in the neural network and to represent derivatives in    We are keenly interested in this particular case, and will ex-
+the loss function, are known to be highly sensitive to discon-  plore in future work. tinuities. ",physics.comp-ph,B,0.33907288,0.047222767,-0.03851083
+http://arxiv.org/pdf/2203.13372v1,Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference,"While applied to use cases where solar wind velocities are most relevant, our methodology is
+applicable to forecasting additional solar wind quantities such as the density, pressure, etc. These
+models are our focus of future work. Moreover, while at most quadratic forms of the ROM were
+suﬃcient to represent the physics with good accuracy, we expect more nonlinearly behaving systems
+to beneﬁt from additional variable transformations (and lifting approaches similar to [26, 45]). ",physics.comp-ph,C,0.4550561,0.04811625,0.5456279
+http://arxiv.org/pdf/2203.13372v2,Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference,"While applied to use cases where solar wind velocities
+are most relevant, our methodology is applicable to forecasting additional solar wind quantities such
+as the density, pressure, etc. These models are our focus of future work. Moreover, while at most
+quadratic forms of the ROM were suﬃcient to represent the physics with good accuracy, we expect
+more nonlinearly behaving systems to beneﬁt from additional variable transformations (and lifting
+approaches similar to [28, 49]). ",physics.comp-ph,C,0.45704222,0.049447864,0.5431349
+http://arxiv.org/pdf/2203.13372v3,Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference,"While applied to use cases where solar
+wind velocities are most relevant, our methodology is applicable to forecasting additional solar wind
+quantities such as the density, pressure, etc. These models are our focus of future work. Moreover,
+while most quadratic forms of the ROM were suﬃcient to represent the physics with good accuracy,
+we expect more nonlinearly behaving systems to beneﬁt from additional variable transformations (and
+lifting approaches similar to [28, 49]). ",physics.comp-ph,C,0.4576549,0.04783967,0.54269516
+http://arxiv.org/pdf/2203.13372v4,Predicting Solar Wind Streams from the Inner-Heliosphere to Earth via Shifted Operator Inference,"While applied to use cases where solar
+wind velocities are most relevant, our methodology is applicable to forecasting additional solar wind
+quantities such as the density, pressure, etc. These models are our focus of future work. Moreover,
+while most quadratic forms of the ROM were suﬃcient to represent the physics with good accuracy,
+we expect more nonlinearly behaving systems to beneﬁt from additional variable transformations (and
+lifting approaches similar to [28, 49]). ",physics.comp-ph,C,0.4576549,0.04783967,0.54269516
+http://arxiv.org/pdf/2203.13375v1,Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology,"The results for the 2D and 3D cases
+
+                                                        35
+clearly demonstrate the eﬃcacy of the control policy procedure for problems of the type
+addressed by traditional CLRM workﬂows. There are a number of directions for future work in this area. The computations
+required for training could be accelerated through use of deep learning [12] or ﬂow net-
+work [56] surrogate models, and the use of such treatments should be investigated. ",physics.comp-ph,C,0.2571136,0.28292882,-0.09913854
+http://arxiv.org/pdf/2203.14012v1,Molecular conformer search with low-energy latent space,"We intro-
+help sample more informative data and thus in-         duce the latent-space scale L to measure the
+crease the eﬃciency of the approach. We will           size of the latent space
+return to this question in future work. 1N d           µ2ij . ",physics.comp-ph,A,-0.12670529,0.24874523,0.096896484
+http://arxiv.org/pdf/2203.16692v1,Machine learning based data-driven discovery of nonlinear phase-field dynamics,"Conversely, the R2 values show less sensitivity to the structural changes in our proposed
+neural networks, particularly in the CNN-LSTM network (see Figure 6c)). To further study the dynamics of the optimization process (training models), the MSE and
+mean absolute error (MAE) as a function of epochs are given in Figure 7. The MAE is the
+diﬀerence between the original and predicted values. ",physics.comp-ph,C,0.13786572,0.45503917,-0.16734889
+http://arxiv.org/pdf/2204.05249v1,Learning Local Equivariant Representations for Large-Scale Atomistic Dynamics,"It stands in stark   downloaded from https://pubs.acs.org/doi/full/
+contrast to ACE, where the importance of any higher         10.1021/acs.jctc.1c00647
+body-order interaction is learned separately from lower
+body-order descriptions of the local structure. We believe     QM9 : The QM9 data consists of 133,885 structures
+further eﬀorts to understand this correspondence are a      with up to 9 heavy elements and consisting of species
+promising direction for future work. H, C, N, O, F in relaxed geometries. ",physics.comp-ph,A,-0.25289357,0.092299245,0.009898972
+http://arxiv.org/pdf/2204.05662v2,Plane-Wave-Based Stochastic-Deterministic Density Functional Theory for Extended Systems,"[92, 93] In  is a speciﬁc kinetic energy cut-oﬀ for plane waves. future works, we expect these methods can be combined
+with molecular dynamics to obtain the equation of state              Appendix B: Forces and Stress
+(EOS) or electron transport properties of systems at high
+temperatures. Forces and stress are two key quantities that can
+                                                              be obtained from the diagonalization (DG) method in
+                                                              traditional KSDFT. ",physics.comp-ph,B,-0.019703168,-0.40733287,0.077836394
+http://arxiv.org/pdf/2204.06696v2,Dendrite formation in rechargeable lithium-metal batteries: Phase-field modeling using open-source finite element library,"Consequently, the short separation between electrodes in the 3D model (lx = 80 [µm])
+induce faster deposition rates. Thus, future work may explore diﬀerent meshing strategies to simulate larger
+3D domains to achieve realistic simulation time scales. In conclusion, we demonstrate the proposed phase-ﬁeld modeling framework’s eﬀectiveness in performing
+2D and 3D simulations of dendrite formation in lithium metal batteries with a reasonable computational
+cost. ",physics.comp-ph,B,0.004720427,-0.23600075,-0.23665304
+http://arxiv.org/pdf/2204.12479v1,Studying First Passage Problems using Neural Networks: A Case Study in the Slit-Well Microfluidic Device,"could provide further improvements to each of the meth-
+                                                              ods. Thus, the runtimes included here are provided for
+                                                              reference only, and a more careful comparison is left to
+                                                              future work. Parameters (λ, σ)  Runtime (minutes)
+
+                                                                  (5.0, 0.125)   NNM BD FEM
+                                                                 (50.0, 0.125)
+                                                                  (5.0, 0.625)   136.95 5.02 2.25
+                                                                 (50.0, 0.625)   138.37 1.03 2.15
+                                                                                 126.57 12.80 2.18
+                                                                                 133.63 1.12 2.13
+
+                                                              TABLE I. ",physics.comp-ph,A,-0.23999658,0.0075165275,-0.13548212
+http://arxiv.org/pdf/2204.12741v1,Multi-scale membrane process optimization with high-fidelity ion transport models through machine learning,"Therefore, it is all the more important that
+   surrogate-based modeling bridges the gap between the scales for application of high ﬁdelity ion transport models
+   in superstructure optimization of membrane processes. This work stimulates to exploit this open-source optimization framework by further research and in industrial
+applications, such as in drinking water treatment and water disposal. Additional surrogate models may include other
+membrane-based platforms. ",physics.comp-ph,B,0.03530193,-0.06251699,-0.32350034
+http://arxiv.org/pdf/2204.13254v1,Domain Decomposition Framework for Maxwell Finite Element Solvers and Application to PIC,"Section III will
+deﬁne the two domain decomposition formulations. Results                                                t
+using both of these methods will be presented in Section IV
+followed by conclusions and future work in Section V.                                    G(t, r) = dτ Jρ(τ, r)                               (2)
+
+                         II. PRELIMINARIES                                                          0
+   Let a region Ω ∈ R3 be bounded by surface ∂Ω and contain
+at least one charged species. ",physics.comp-ph,B,-0.03395036,-0.33602715,0.12185769
+http://arxiv.org/pdf/2204.14167v1,Modeling Electrokinetic Flows with the Discrete Ion Stochastic Continuum Overdamped Solvent Algorithm,"As the inclusion of MD comes with a large computational cost, examining the use DISCOS particles
+to capture as much of the wall dynamics as possible would appear to be beneﬁcial. Conversely, in future work we would like to be able to model electrokinetic ﬂows at larger scales. Although the
+DISCOS methodology is considerably more eﬃcient than MD, it would be computationally expensive for micron scale
+ﬂows. ",physics.comp-ph,B,0.042805076,-0.17103268,-0.25334916
+http://arxiv.org/pdf/2204.14167v2,Modeling Electrokinetic Flows with the Discrete Ion Stochastic Continuum Overdamped Solvent Algorithm,"As the inclusion of MD comes with a large computational cost, examining the use DISCOS particles
+to capture as much of the wall dynamics as possible would appear to be beneﬁcial. Conversely, in future work we would like to be able to model electrokinetic ﬂows at larger scales. Although the
+DISCOS methodology is considerably more eﬃcient than MD, it would be computationally expensive for micron scale
+ﬂows. ",physics.comp-ph,B,0.042805076,-0.17103268,-0.25334916
+http://arxiv.org/pdf/2204.14260v1,Effective electronic forces and potentials ab initio path integral Monte Carlo simulations,"Given
+                                                              the availability of a closed-form expression for the bridge
+In order to further simplify the above, the Fourier space     function of the classical one component plasma at ar-
+connection between the static structure factor and total      bitrary coupling [107, 143], βφeﬀ (r) = βφKeﬀO(r) − b(r)
+correlation function S(q) = 1 + nH(q) is employed and         should constitute an improvement over the original KO
+the Fourier transformed exact Ornstein-Zernike equation       expression. This approximation will be explored in a
+H(q) = C(q) + nH(q)C(q) is utilized, where C(q) is the        future work that will present PIMC results beyond the
+Fourier transformed direct correlation function c(r). The     WDM regime. ",physics.comp-ph,A,-0.3213395,-0.2525323,0.23355787
+http://arxiv.org/pdf/2204.14260v2,Effective electronic forces and potentials from ab initio path integral Monte Carlo simulations,"Given
+                                                              the availability of a closed-form expression for the bridge
+In order to further simplify the above, the Fourier space     function of the classical one component plasma at ar-
+connection between the static structure factor and total      bitrary coupling [107, 143], βφeﬀ (r) = βφKeﬀO(r) − b(r)
+correlation function S(q) = 1 + nH(q) is employed and         should constitute an improvement over the original KO
+the Fourier transformed exact Ornstein-Zernike equation       expression. This approximation will be explored in a
+H(q) = C(q) + nH(q)C(q) is utilized, where C(q) is the        future work that will present PIMC results beyond the
+Fourier transformed direct correlation function c(r). The     WDM regime. ",physics.comp-ph,A,-0.3213395,-0.2525323,0.23355787
+http://arxiv.org/pdf/2205.01563v1,Simulation of reversible molecular mechanical logic gates and circuits,"22: The basic half-adder at three critical values of                                          00→ 10            0            0        0                0
+t∗. 00→ 11            0     4.17 × 10−4     0                0
+                                                                                                   01→ 00            0            0        0                0
+                                                                                                   01→ 10            0            0        0         2.08 × 10−4
+                                                                                                   01→ 11            0     6.25 × 10−4     0                0
+                                                                                                   10→ 00            0            0        0                0
+                                                                                                   10→ 01            0            0        0                0
+                                                                                                   10→ 11            0     6.25 × 10−4     0                0
+                                                                                                   11→ 00     4.17 × 10−4         0        0                0
+                                                                                                   11→ 01     6.25 × 10−4         0        0                0
+                                                                                                   11→ 10     4.17 × 10−4         0        0                0
+
+Using the aforementioned framework, we have demon-                                                In addition to the work we have already performed,
+strated the importance of staggering the phases of                                                our framework also presents many possibilities for
+chained gates when comparing directly-chained and                                                 future work and expansion. One such possibility is the
+phase-chained protocols, and the use of signal boosting                                           investigation of systems which rotate continuously and
+to reduce the error rate in more complex systems such                                             can thus be driven by a single external dipole. ",physics.comp-ph,B,-0.09195635,-0.08650641,-0.0180819
+http://arxiv.org/pdf/2205.01991v1,MateriApps LIVE! and MateriApps Installer: Environment for starting and scaling up materials science simulations,"Conducting installations via this script collec-
+tion enables users to maximize the performance of high-end workstations,
+laboratory-level computer clusters, and supercomputers in materials science
+simulations. Since our ultimate goal is promoting further research and devel-
+opment in computational materials science, we believe that it is crucial for us
+to continue the development of MateriApps LIVE! and MateriApps Installer,
+as well as the MateriApps portal site, by adding new software packages and
+updating the currently included software products. ",physics.comp-ph,A,-0.23189798,-0.051145274,-0.13942105
+http://arxiv.org/pdf/2205.02191v1,Wavelet neural operator: a neural operator for parametric partial differential equations,"It is worthwhile to note that the proposed WNO is highly eﬃcient and hence, is ideally suited for scenarios where
+real-time predictions are necessary. In this context, two interesting directions of future work includes application of
+WNO for development of digital twins and WNO based active vibration control. The weather prediction used-case
+presented in this paper can be regarded as a weak digital twin for Earth’s climate. ",physics.comp-ph,C,0.2511779,0.16839485,0.08652521
+http://arxiv.org/pdf/2205.03508v1,Inferring electrochemical performance and parameters of Li-ion batteries based on deep operator networks,"Based on the surrogate, which is differentiable
+anywhere, its natural capability for combining data was validated through an inverse test, i.e.,
+using measurements of terminal voltage to estimate input parameters accurately and efficiently. Even though the electrochemical performance, i.e., Li-ion concentration and terminal
+voltage, and input parameters, i.e., diffusion coefficient in anode and 𝛽 that determines current,
+can be inferred with satisfactory accuracy and efficiency through operator networks, certain
+shortcomings should be addressed in future work. Firstly, based on the trial work in which only
+the discharge scenario was considered, we will conduct experiments in scenarios with both charge
+and discharge, which is closer to reality. ",physics.comp-ph,A,-0.05672325,0.045325316,-0.095800206
+http://arxiv.org/pdf/2205.05165v1,Data Reduction in Deterministic Neutron Transport Calculations Using Machine Learning,"Preliminary tests have been done but the ML models show a degradation
+in performance. Potential ground for future work includes using the idea of machine learning to reduce the memory
+requirements for continuous energy Monte Carlo simulations of neutron transport. The description of con-
+tinuous energy physics parameters could be ripe for similar data reduction. ",physics.comp-ph,C,0.010177216,0.19231322,-0.2017157
+http://arxiv.org/pdf/2205.05681v1,Accelerating reactive-flow simulations using vectorized chemistry integration,"(21) and (22))
+for the solvers over the various tolerances tested, while the horizontal axis
+shows the mean CPU runtime (averaged over ﬁve individual runs) on a sin-
+gle core of an Intel® Xeon® X5650 CPU (with SSE4.2 vector instructions),
+using v16.1.1 of the Intel OpenCL runtime [63]. We omitted RKF45 from
+this test, as the stiﬀness of the chemical kinetic ODEs caused prohibitive
+computational costs; this solver will be examined in future work for less-stiﬀ
+problems. For loose tolerances (10−4–10−6), the tested solvers all exhibit similar
+performance and error. ",physics.comp-ph,A,-0.1967662,0.03738761,-0.24332626
+http://arxiv.org/pdf/2205.05774v1,Processing of massive Rutherford Back-scattering Spectrometry data by artificial neural networks,"A proportion of 1, 1/2, and 1/4 times the input array was fixed
+once it presented the fast learning curve (see Fig. 3) and used for further research. The two
+
+                                                            6 - 15
+                                   Paper subimited to Nucl. ",physics.comp-ph,C,-0.08737461,0.4002843,-0.02013497
+http://arxiv.org/pdf/2205.08284v1,Determining QNMs using PINNs,"This was
+not the case for our attempts when applying eigenvalue solvers to the Reissner-Nordstr¨om
+case. To overcome this instability in future work, one plausible approach would be to
+consider the recent work in Ref. [42] that shows that a “self-scalable” activation function
+leads to PINNs which are invulnerable to spurious stationary points, an obstacle in highly
+non-convex loss functions. ",physics.comp-ph,B,0.1615223,0.05701659,-0.18002409
+http://arxiv.org/pdf/2205.08284v2,Using physics-informed neural networks to compute quasinormal modes,"This was not the
+case for our attempts when applying eigenvalue solvers to the Reissner-Nordstr¨om case. To
+overcome this instability in future work, one plausible approach would be to consider the
+recent work in Ref. [42] that shows that a “self-scalable” activation function leads to PINNs
+which are less susceptible to spurious stationary points, an obstacle in highly non-convex
+loss functions. ",physics.comp-ph,B,0.14660636,0.050501194,-0.18674736
+http://arxiv.org/pdf/2205.08367v2,Deep learning density functionals for gradient descent optimization,"ness, in the Appendix A the performance of the CNN
+                                                               in Gaussian-well models borrowed from the literature is
+          100   CNN (a)                                        demonstrated. On the one hand, this further analysis
+                ReLU                                           indicates the rather general range of applicability of our
+                Softplus                                       tailored neural network. On the other hand, it points out
+| e|/|e|  10 1                                                 the need of training sets including signiﬁcantly variegate
+                                                               density proﬁles. ",physics.comp-ph,C,0.09184966,0.47329715,-0.04819971
+http://arxiv.org/pdf/2205.08663v1,Physics-Informed Machine Learning for Modeling Turbulence in Supernovae,"That being said, the
+                                                                              performance of the ML models deteriorates further in
+                                                                              time predictions are made, which is to be expected with
+                                                                              a CNN-based approach. While at its worst, it continued
+                                                                              to take the lead over the gradient model, temporal per-
+                                                                              formance can be further improved in our future work
+                                                                              with the inclusion of recurrent neural network (RNN)
+                                                                              layers in our models. Figure 8: Performance metrics of the PIML vs. gradient subgrid                   This paper has been our ﬁrst attempt at studying the
+model. ",physics.comp-ph,C,0.19574606,0.43486363,-0.11303242
+http://arxiv.org/pdf/2205.08663v2,Physics-Informed Machine Learning for Modeling Turbulence in Supernovae,"That being said, the performance of the ML models de-
+teriorates further in time predictions are made, which is                                                                         13
+to be expected with a CNN-based approach. While at
+its worst, it continued to take the lead over the gradient  a wide range of CCSN progenitor masses (from 8 M
+model, temporal and overall performance can be further      to 25 M ) that exhibit great variation in their physical
+improved in our future work with the inclusion of recur-    engines. In the next paper, we will present our current
+rent neural network (RNN) layers in the models or by        implementation of the evolving turbulent pressure term
+utilizing physics-informed neural operators (PINO) (Li      trained on 3D simulation data into 1D CCSN models to
+et al. ",physics.comp-ph,C_centroid,0.307656,0.30059695,-0.15152112
+http://arxiv.org/pdf/2205.09007v1,Accelerated chemical space search using a quantum-inspired cluster expansion approach,"Nevertheless, this can be handled by using extended cluster expansion mapping as proposed
+by Koretaka Yuge58. We plan to incorporate this as part of our future work. Methods:
+
+Digital Annealer (DA):
+         Fujitsu’s Digital Annealer (DA) is designed to efficiently solve combinatorial optimization
+
+problems25 formulated as fully connected Ising problems expressed in Quadratic Unconstrained Binary
+Optimization (QUBO) form. ",physics.comp-ph,B,-0.14109902,0.027809631,-0.28170717
+http://arxiv.org/pdf/2205.09007v2,Accelerated chemical space search using a quantum-inspired cluster expansion approach,"Nevertheless, this can be handled by using extended cluster expansion mapping as proposed
+by Koretaka Yuge66. We plan to incorporate this as part of our future work. Methods:
+
+DA:
+Fujitsu’s Digital Annealer (DA) is designed to efficiently solve combinatorial optimization problems27
+formulated as fully connected Ising problems expressed in Quadratic Unconstrained Binary Optimization
+(QUBO) form. ",physics.comp-ph,B,-0.15413861,0.040911373,-0.25998884
+http://arxiv.org/pdf/2205.09165v2,Atomistic simulations of nanoindentation in single crystalline tungsten: The role of interatomic potentials,"al. b)                                           our future work, we will investigate the nanomechani-
+                       TabGAP                                                                      cal response of chemically complex BCC metals under
+Energy (eV)  0.6       QM/ML Grigorev et. al. ",physics.comp-ph,A,-0.25481665,-0.15115076,-0.053933635
+http://arxiv.org/pdf/2205.09463v1,A fast dynamic smooth adaptive meshing scheme with applications to compressible flow,"The decrease in the mesh zoom-in factor is a consequence of the fact that the number of cells in
+the mesh are ﬁxed. So-called h-r adaptive mesh methods [24] are a way to overcome this issue; the
+simplicity of our algorithmic framework suggests that a dynamic h-r method based on SAM can be
+readily formulated and implemented, and this will be investigated in future work. A. ",physics.comp-ph,B,0.0022023395,-0.0757558,-0.19998579
+http://arxiv.org/pdf/2205.11052v1,ALPINE: A set of performance portable plasma physics particle-in-cell mini-apps for exascale computing,"In the comparison of CPU architectures, the wall
+time per simulation time step of Piz Daint and Cori KNL nodes are very similar,
+with Piz Daint showing better scaling than Cori. In terms of future work, we will optimize and improve the current load bal-
+ancing strategy and particle communication. We will continue our benchmark-
+ing studies with Perlmutter and other upcoming architectures, to test for higher
+numbers of particles, grid points and GPUs and CPU cores. ",physics.comp-ph,A,-0.32654768,-0.022806505,-0.2019186
+http://arxiv.org/pdf/2205.11052v2,Scaling and performance portability of the particle-in-cell scheme for plasma physics applications through mini-apps targeting exascale architectures,"37
+time per simulation time step of Piz Daint and Cori KNL nodes are very similar,
+with Piz Daint showing better scaling than Cori. In terms of future work, we will optimize and improve the current load
+balancing strategy and particle communication. We will continue our bench-
+marking studies with Perlmutter and other upcoming architectures, to test for
+higher numbers of particles, grid points and GPUs and CPU cores. ",physics.comp-ph,A,-0.312913,-0.012841901,-0.21684116
+http://arxiv.org/pdf/2205.11396v1,Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods,"It is our hope that this SSWM can be used to enhance the reliability of current state
+of-the-art hurricane storm surge prediction systems. For future works, we note there is gap
+in theory regarding the stability of a stochastic hyperbolic system. And, although we have
+provided one approach to stabilize such a system, diﬀerent stabilization techniques are still
+needed for solving multiscale problems under more extreme conditions, such as wetting and
+drying of elements. ",physics.comp-ph,C,0.49721378,0.050778676,0.09921411
+http://arxiv.org/pdf/2205.11396v2,Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods,"It is our hope that this SSWM can be used to enhance the reliability of current state
+of-the-art hurricane storm surge prediction systems. For future works, we note there is gap
+in theory regarding the stability of a stochastic system. And, although we have provided
+one approach to stabilize such a system, diﬀerent stabilization techniques are still needed
+for solving multiscale problems under more extreme conditions, such as wetting and drying
+of elements. ",physics.comp-ph,C,0.4629668,0.1167202,0.050716005
+http://arxiv.org/pdf/2205.11396v3,Cross-mode Stabilized Stochastic Shallow Water Systems Using Stochastic Finite Element Methods,"It is our hope that this SSWM can be used to enhance the reliability of current state
+of-the-art hurricane storm surge prediction systems. For future works, we note there is gap
+in theory regarding the stability of a stochastic system. And, although we have provided
+one approach to stabilize such a system, diﬀerent stabilization techniques are still needed
+for solving multiscale problems under more extreme conditions, such as wetting and drying
+of elements. ",physics.comp-ph,C,0.4629668,0.1167202,0.050716005
+http://arxiv.org/pdf/2205.11985v1,Using Maple and GRTensorIII in relativistic spherical models,"Of course,
+
+it is necessary to point out that it is still pending to use the complete equation (31) shown in the article ([67]). This
+
+comparative    study  between  the  results  obtained  so  far  and  solving  the  complete  equation  with  the  terms  ∂ε  and  ∂ω
+                                                                                                                         ∂r       ∂r
+
+will be carried out in a future work to publish. 4 Conclusions
+
+In this article we describe a series of computer procedures used in GR relying on the facilities of an integrated
+platform such as the Maple package and GRTensorIII. ",physics.comp-ph,B,0.0963352,-0.2714023,0.21618493
+http://arxiv.org/pdf/2205.11985v2,Using Maple and GRTensorIII in relativistic spherical models,"Of course,
+
+it is necessary to point out that it is still pending to use the complete equation (31) shown in the article ([68]). This
+
+comparative    study  between  the  results  obtained  so  far  and  solving  the  complete  equation  with  the  terms  ∂ε  and  ∂ω
+                                                                                                                         ∂r       ∂r
+
+will be carried out in a future work to publish. 4 Conclusions
+
+In this article we describe a series of computer procedures used in GR relying on the facilities of an integrated
+platform such as the Maple package and GRTensorIII. ",physics.comp-ph,B,0.097983524,-0.27022296,0.21548086
+http://arxiv.org/pdf/2205.11990v1,A quantum-inspired method for solving the Vlasov-Poisson equations,"about a factor of 8. When the solutions are compressed
+                                                             even further, while some details are lost, we are still able
+   In addition to considering higher dimensional systems,    to capture general features of the plasma, including the
+there are many other potential directions for future work. approximate morphology of the electron and ion distri-
+For example, our current implementation uses a basic ﬁ-      bution functions; as well as the oscillation frequencies,
+nite diﬀerence scheme to solve the Vlasov equation, and      linear damping or growth rates, and saturation energies
+we use explicit RK4 as our time stepping scheme. ",physics.comp-ph,B,-0.04434758,-0.23223636,0.061979957
+http://arxiv.org/pdf/2206.00572v1,Discrete-velocity-direction models of BGK-type with minimum entropy: I. Basic idea,"To show the performance of the above models, we simulate two benchmark ﬂows,
+the Couette ﬂow and 1-D Riemann problems, with reasonable results at moderate computational costs. Potential focuses of future work can be directed to: (i) studying the DVDM mathematically, including
+the realizable condition and the structural stability condition [18, 33]; (ii) simulating real-world ﬂows
+with 3-D velocity space and more complex boundary conditions with higher-order numerical schemes. 3.0 r                      u 0.5                        1.3 E
+2.5
+                           0.4                                1.2
+                                                              1.1
+                           0.3                                1.0
+                                                              0.9
+2.0                        0.2
+                                                     1.0 -1.0 -0.5 x0.0 0.5 1.0
+1.5                        0.1
+                                                                                DVD-DVM-II
+1.0                        0.0                                                  DVD-EQMOM
+     -1.0 -0.5                                                                  Theoretical
+                x0.0  0.5  1.0 -1.0 -0.5  x0.0  0.5
+1.2                   0.5                       0.5  1.0
+           q                 3.0 p
+
+1.1                                2.5
+
+1.0                        2.0
+
+                           1.5
+
+0.9
+
+-1.0 -0.5 x0.0                     1.0    x0.0
+                           1.0 -1.0 -0.5
+
+Figure 8. ",physics.comp-ph,B,0.1360716,-0.19861022,-0.039469257
+http://arxiv.org/pdf/2206.00578v1,Extending OpenKIM with an Uncertainty Quantification Toolkit for Molecular Modeling,"[Online]. Available: https://asmedigitalcollection.asme.org/risk/article/4/1/011004/
+   In future work, we plan to integrate other UQ methods                                 370001/Quantifying-Parameter-Sensitivity-and-Uncertainty
+within KLIFF, such as the frequentist proﬁle likelihood [70]. To address the problems associated with UQ of sloppy IPs                           [12] A. Mishra, S. Hong, P. Rajak, C. Sheng, K.-i. ",physics.comp-ph,A,-0.17435391,0.16466318,-0.0022382499
+http://arxiv.org/pdf/2206.00578v2,Extending OpenKIM with an Uncertainty Quantification Toolkit for Molecular Modeling,"subtle interplay between the sampling temperature, the prior,
+and the degenerate modes of sloppy models. The resulting                 In future work, we plan to integrate other UQ methods
+posterior distribution can depend very strongly on details of         within KLIFF, such as the frequentist proﬁle likelihood [73]. the problem, such as the choice of prior, the error bars for the      To address the problems associated with UQ of sloppy IPs
+data, and the sampling temperature. ",physics.comp-ph,A,-0.085926786,0.111649044,0.012977973
+http://arxiv.org/pdf/2206.02173v1,Efficient Frozen Gaussian Sampling Algorithms for Nonadiabatic Quantum Dynamics at Metal Surfaces,"In other words, one do not need the open
+quantum system and canonical ensemble assumption to encounter nonadi-
+abatic quantum dynamics at metal surfaces. We leave the open quantum
+system treatment of metal surfaces to future work. The energy E(t) of the above system (2.5) is deﬁned as:
+
+E(t) =      ε2 |∇xψ0(t, x)|2 + U0(x) |ψ0(t, x)|2 dx
+        Rm 2
+
+                Eb  ε2 |∇xψ1 (t, E, x)|2 + (U1(x) + E) |ψ1 (t, E, x)|2  dE dx
+                    2
++
+
+      Rm Ea
+
+            Eb      ψ¯0(t, x)V (E, x) ψ1 (t, E, x) + ψ0(t, x)V (E, x) ψ¯1 (t, E, x) dEdx. ",physics.comp-ph,B,-0.006716769,-0.22420716,0.06980457
+http://arxiv.org/pdf/2206.02833v1,Relativistic Space-Charge Field Calculation by Interpolation-Based Treecode,"Comparing to FMM, which usually relies on a sophisticated data structure, the
+proposed treecode is easy to implement and intrinsically parallelizable; it may be especially
+suitable for building in-house solvers for the study of space-charge eﬀects from relativistic
+
+                                                         22
+beams. For future work, we plan to extend our treecode formulation to FMM and investigate
+its parallelization under many-cores architectures like graphics processing units (GPU). Appendix A. Approximation of the denominator of the relativistic kernel func-
+                    tion
+
+Lemma 1. ",physics.comp-ph,A,-0.14991498,0.012559221,0.026569713
+http://arxiv.org/pdf/2206.03015v1,Parallel Computation of Inverse Compton Scattering Radiation Spectra based on Liénard-Wiechert Potentials,"However, it might be signiﬁcant for some light sources from particle beams with relatively low
+γ (e.g. AXSIS [7]), and will be the subject of future work. Acknowledgement
+
+    The authors acknowledge the support by DASHH (Data Science in Hamburg - HELMHOLTZ Graduate School for
+the Structure of Matter) with the Grant-No. ",physics.comp-ph,A,-0.2971456,-0.11383736,0.19112268
+http://arxiv.org/pdf/2206.07400v1,Nonlinear input feature reduction for data-based physical modeling,"Each of these models may have its own distinct set of relevant fea-
+tures. Therefore, exploring how the present approach may be coupled with
+clustering techniques may be an interesting question for future work. 6. ",physics.comp-ph,B,-0.13573411,0.09526771,-0.09502925
+http://arxiv.org/pdf/2206.08110v1,"Morphological evolution via surface diffusion learned by convolutional, recurrent neural networks: extrapolation and prediction uncertainty","Our results naturally open two
+at subsequent times. While this phenomenon is still de-       further directions for future work: smart completion of
+tected by the aggregate model standard deviation as a         the shape-evolution dataset by focusing solely on the high
+source of uncertainty, initial conditions for full NN evolu-  uncertainties regions, and designing a hybrid ML-PF ap-
+tions should be considered carefully to avoid such patho-     proach where one automatically switches [29] between the
+logical states. A possible approach, though not tested in     (computationally expensive) high-ﬁdelity PF approach to
+depth in the current work, is to exploit the CRNN abil-       the RCNN one based on the uncertainty prediciton. ",physics.comp-ph,C,0.047500826,0.28671694,-0.18384634
+http://arxiv.org/pdf/2206.08623v1,A common lines approach for ab-initio modeling of molecules with tetrahedral and octahedral symmetry,"Then, in Section 6, we report
+some numerical experiments we conducted using experimental data sets, demonstrating the
+eﬀectiveness of our proposed method. Finally, in Section 7, we discuss possible future work. 2 Tetrahedral and octahedral symmetries
+
+In this section, we describe the elements of the T and O symmetry groups, and review
+some of their properties that will be useful in solving the orientation assignment problem
+for molecules having one of these symmetries. ",physics.comp-ph,B,-0.11618847,-0.15090953,0.06273643
+http://arxiv.org/pdf/2206.08623v2,A common lines approach for ab-initio modeling of molecules with tetrahedral and octahedral symmetry,"Then, in Section 5, we report some numerical experiments
+we conducted using simulated and experimental data sets, demonstrating the robustness and
+eﬀectiveness of our proposed method. Finally, in Section 6, we discuss possible future work. 3 Common lines and self common lines
+
+Formally, for each k ∈ [n], the unit vector
+
+k                                            Ri3 × g(k)Rj3
+qRi,Rj = ||Ri3 × g(k)Rj3|| (7)
+
+                                             6
+gives the direction of the common line between the central planes of PˆRi and Pˆg(k)Rj , since
+it is perpendicular to the normal vectors of both of them. ",physics.comp-ph,B,-0.11688611,-0.017207785,0.06493613
+http://arxiv.org/pdf/2206.08957v1,Not-Quite Transcendental Functions and their Applications,"In our numerical
+experiments we ﬁnd perfect invertability of our NQT functions and a speedup over their transcendental counterparts
+as high as 8.2x. In future work, it would be interesting to ﬁnd not-quite-transcendental counterparts to trigonometric functions. However, we expect that trigonomentric functions are more often required exactly and thus fewer applications for
+not-quite-transcendental versions would be available. ",physics.comp-ph,A,-0.12278692,-0.030718952,0.07752794
+http://arxiv.org/pdf/2206.11294v1,A multigrid solver for the coupled pressure-temperature equations in an all-Mach solver with VoF,"In section 5, we
+present numerical examples of the spherical and axisymmetric Rayleigh collapse of a bubble. Finally, we draw our conclusion and provide an outlook for future work. 2. ",physics.comp-ph,B,0.16019481,-0.1410468,0.14413679
+http://arxiv.org/pdf/2206.11343v1,Bayesian model calibration for block copolymer self-assembly: Likelihood-free inference and expected information gain computation via measure transport,"The Gaussian approximation incorrectly predicts near
+independence between the random variables resulting in a poor estimate of I(Σ; Qa,17) ≈ 0. While we considered the EIG from the individual components of the averaged magnitude spectrum for
+inferring each parameter, interesting future work would be to determine the subset of spectrum data that
+jointly inform the parameters most. Techniques for doing so are found within the ﬁeld of active learning or
+optimal experimental design—these ﬁelds can beneﬁt from the framework laid out in the paper, since they
+often rely on EIG estimates in order to evaluate optimization objectives. ",physics.comp-ph,A,-0.068537995,0.2699205,-0.04707208
+http://arxiv.org/pdf/2206.11441v1,Contextual Isotope Ranking Criteria for Peak Identification in Gamma Spectroscopy Using a Large Database,"Chain rank (III-E) identiﬁed all γ-lines in                  [9] G. S. Zahn, F. A. Genezini, and M. Moralles, “Evaluation of
+the top ten places except 40K and 234mPa because there is                            peak-ﬁtting software for gamma spectrum analysis,” arXiv preprint
+not a decay chain associated with them. This result motivates                        arXiv:1511.04362, 2015.
+further research about how to improve this rank. [10] M. M. Guilherme S. Zahn, Frederico A. Genezini, “Evaluation of peak-
+   histoGe’s results of identiﬁcation of two samples were                            ﬁtting software for gamma spectrum analysis,” arXiv:1511.04362v1,
+compared to those obtained with InterSpec of SandiaL-                                2015.
+abs. ",physics.comp-ph,A,-0.36485332,0.094273955,0.13654585
+http://arxiv.org/pdf/2206.14061v1,Computational Model for Granular Flows based on the Lagrangian Particle Method,"5. Conclusion and future work
+    A numerical model and parallel software for 3D simulations of granular
+
+ﬂows have been developed based on the Lagrangian particle (LP) method for
+compressible hydrodynamic ﬂows that resolves free surface and multiphase
+problems. The granular ﬂow model implements continuum equations with a
+µ(I)-rheology closure that is capable of describing two-directional transitions
+of the ﬂow between various regimes characterized by solid-, liquid-, and gas-
+
+                                                28
+like features. ",physics.comp-ph,B,0.2076049,-0.20047626,-0.17039984
+http://arxiv.org/pdf/2207.03070v1,Reservoir Computing with 3D Nanowire Networks,"Revisiting the memory capacity in reservoir
+could be larger diﬀerences in performance for more complex                 computing of directed acyclic network. Chaos: An Interdisciplinary Journal
+computing tasks, and these should be explored in future work. of Nonlinear Science 31, 033106. ",physics.comp-ph,C,0.15579242,0.22078988,-0.17919934
+http://arxiv.org/pdf/2207.08272v2,BIP: Boost Invariant Polynomials for Efficient Jet Tagging,"We observe
+p˜⊥,j remains bounded as p⊥,i → 0 and A, B deﬁne an          that the accuracy does not change signiﬁcantly between
+aﬃne transformation to ensure that p˜⊥,i belongs to the      all of these classiﬁers. A further examination of this phe-
+domain of orthogonality of the Bessel polynomials. The       nomenon and a description of the models is given in the
+logarithmic transformation is suggested by analyzing the     SI § C.
+distribution of the p⊥,i in the top-tagging dataset. ",physics.comp-ph,A,-0.04709666,-0.08246136,0.19827637
+http://arxiv.org/pdf/2207.08500v1,A six-point neuron-based ENO (NENO6) scheme for compressible fluid dynamics,"Although the ANN is capable of essentially mimicking or even improv-
+       ing the state-of-the-art high-order ENO-type schemes, as a common
+       issue in other ANN-based methods [51], the quantity of the invoked
+       neurons and the associated cost of the network training and evaluation
+       are substantial, and further eﬃciency improvement is needed. Considering the ﬂexibility and the robustness of the present data-driven
+framework, future work will further improve the performance of the NENO6
+scheme, and optimize the spectral properties for reliable implicit large-eddy
+simulations. Declaration of Competing Interest
+
+    The authors declare that they have no known competing ﬁnancial inter-
+ests or personal relationships that could have appeared to inﬂuence the work
+
+                                               36
+reported in this paper. ",physics.comp-ph,B,0.13939577,0.092875645,-0.13293816
+http://arxiv.org/pdf/2207.09822v1,Variance Reduction and Noise Source Sampling Techniques for Monte Carlo Simulations of Neutron Noise Induced by Mechanical Vibrations,"Since the eﬀects of
+centration was used. The question of the optimal choice                      vibrations can be combined linearly, treatment of this
+of these concentrations is left for future work. We shall                    situation is straightforward. ",physics.comp-ph,B,0.0422533,-0.0903534,-0.049102306
+http://arxiv.org/pdf/2207.13019v1,A Riemannian Stochastic Representation for Quantifying Model Uncertainties in Molecular Dynamics Simulations,"A comparative study about such representations
+is beyond the scope of this work. Their use in the context of reduced-order modeling for
+dynamical systems, in particular, is an interesting topic that is left for future work. 17
+Figure 9: First two dimensions after dimension reduction using the spectral embedding
+approach [50]. ",physics.comp-ph,B,0.23286942,-0.0010994389,0.0060213637
+http://arxiv.org/pdf/2207.13094v1,MD-Bench: A generic proxy-app toolbox for state-of-the-art molecular dynamics algorithms,"In
+section 5 we present cases with analysis studies and results to illustrate how
+MD-Bench can be used. Finally section 6 presents the conclusion and outlook,
+and a discussion of future work. 2 Related Work
+
+There already exist multiple proxy-apps to investigate performance and portabil-
+ity for MD applications. ",physics.comp-ph,A,-0.18180718,0.082665,-0.061816633
+http://arxiv.org/pdf/2208.01794v1,Analytical formulas for calculating the thermal diffusivity of cylindrical shell and spherical shell samples,"Both formulas are valid under the assumptions of a homogeneous sample and zero heat loss to
+the external environment. Potential directions for future work could therefore include accommodating
+composite layered samples and/or heat loss in the formulas. Acknowledgements
+
+Both authors wish to thank the Australian Mathematical Sciences Institute (AMSI) who provided LPF
+with a scholarship to undertake this research over the 2021-2022 Australian summer. ",physics.comp-ph,B,0.11771672,-0.2538877,0.065335885
+http://arxiv.org/pdf/2208.02568v1,"EURADOS Working Group 6, Computational Dosimetry, a history of promoting good practice via intercomparisons and training","However, even though performing intercomparisons has become a major part of
+the EURADOS work programme, as recognized in our Strategic Research Agendas (Rühm et al., 2016,
+Harrison et al., 2021), EURADOS intercomparisons on computational methods have been running
+throughout the history of this WG. In particular, the QUADOS (QUality Assurance of computational
+tools for DOSimetry) set of eight problems formed a concerted set of intercomparisons (Tanner et
+al., 2004, Siebert et al., 2006), that became the basis for much of the future work of WG6. These
+
+                                                             2
+       EURADOS Working Group 6, Computational Dosimetry, a history of promoting good practice via intercomparisons and training
+
+culminated in a 2003 workshop in Bologna that drew together experts and young scientists working
+in radiation protection and dosimetry to discuss the often impressive, and frequently concerning
+accuracy of the submitted solutions. ",physics.comp-ph,A,-0.3035813,0.17518395,0.102096595
+http://arxiv.org/pdf/2208.04371v1,Characterization of Transmission Lines in Microelectronics Circuits using the ARTEMIS Solver,"1a, which is embedded on a pixel of a com-                     impedance and phase delay. A brief summary of the work is
+                                                 plementary metal-oxide-semiconductor (CMOS) chip that will                   provided in §IV along with comments on future work. serve as a novel photodetector [9]. ",physics.comp-ph,A,-0.32510656,-0.019977449,0.06915841
+http://arxiv.org/pdf/2208.04371v2,Characterization of Transmission Lines in Microelectronics Circuits using the ARTEMIS Solver,"A brief summary of the                      pulse, referred to by the subscript ‘tot’. From the total and
+work is provided in §V along with comments on future work. incident portions of the pulse, the reﬂected portion of the
+                                                                               pulse is computed and denoted by the subscript ‘ref’. ",physics.comp-ph,A,-0.19167867,0.05798892,0.31543547
+http://arxiv.org/pdf/2208.04488v2,A positivity-preserving Eulerian two-phase approach with thermal relaxation for compressible flows with a liquid and gases,"the thermo-
+chemical step for applications with phase transition, such as the simulations of space vehicle launches
+with water-based acoustic suppression systems [40, 76]. The capability of the diﬀuse interface method
+with phase transition for the acoustic prediction of launch environment with the water-based sound
+suppression systems has already been demonstrated in our previous work [4] and further analysis on
+the use of the algorithm for the space launch environment simulations and other related engineering
+applications will be addressed in a future work. Acknowledgements This work was partially supported by the NASA Exploration Ground Systems (EGS) program
+and the NASA Engineering and Safety Center (NESC). ",physics.comp-ph,B,0.13761488,-0.15758578,-0.0996222
+http://arxiv.org/pdf/2208.07129v1,An efficient matrix-free implementation for finite-element basis overlap matrix-multivector products on hybrid CPU-GPU architectures,"We also note that our matrix multivector
+                                                                                                                                          multiplication implementation is signiﬁcantly more efﬁcient
+                                0.6                                                               4                                       than the deal.II matrix-free implementation and the cell-
+                                                                                                                                          matrix method even for the single vector case. 0.4                                                               3
+                                                                                                                                             The future work involves comparing our implementation to
+                                0.2                                                               2                                       the matrix-free implementation in MFEM [6]. We also intend to
+                                                                                                                                          extend the implementation to work with the Laplacian operator
+                                                                                                  1                                       to implement the method in the Poisson solver in DFT-FE
+                                                                                                                                          [8]. ",physics.comp-ph,B,0.024360787,-0.24920616,-0.107999355
+http://arxiv.org/pdf/2208.07129v2,An efficient hardware-aware matrix-free implementation for finite-element discretized matrix-multivector products,"than the deal.II matrix-free implementation and the cell-
+                                                                                                                                                                                        matrix method. The ﬁnal analysis was done using the best implementation
+for each FEOrder: Ns = 5 for FEOrder = 7 and Ns = 4 for                                                                                                                                    The future work involves comparing our implementation to
+FEOrder = 8. The map is accessed from the device memory                                                                                                                                 the matrix-free implementation in MFEM [8]. ",physics.comp-ph,A,-0.2013421,0.0021932446,-0.13348262
+http://arxiv.org/pdf/2208.07224v1,Cross Section Doppler Broadening prediction using Physically Informed Deep Neural Networks,"Every hyper-parameter has been hand-selected through trials and errors. The use of hyper-parameters’
+systemic search algorithms is left for future work. To avoid inducing bias in our performance
+measurement by selecting the appropriate hyper-parameters for our given test set, we used 5% of
+the training set, uniformly sampled, as a validation dataset. ",physics.comp-ph,C,-0.048841998,0.45775548,-0.020249344
+http://arxiv.org/pdf/2208.07731v1,Complex-Valued K-means Clustering for Interpolative Separable Density Fitting to Large-Scale Hybrid Functional Ab Initio Molecular Dynamics with Plane-Wave Basis Sets,"K-means clustering algorithm is
+more suitable than QRCP method for the dynamic simulation                        Nµ                                                                (A1)
+process because of its cheap cost. Therefore, we will apply
+the complex-valued K-means clustering algorithm to excited-              ∑ ∑ R = ||Z(rk) − Pro jspan{Z(rµ )}Z(rk)||2
+state RT-TDDFT with hybrid functionals in our future work. µ=1 rk∈Cµ
+
+                                                                     where the projection is the L2 inner product
+
+ACKNOWLEDGMENTS                                                                                          Z(rk) · Z∗(rµ )                           (A2)
+                                                                            Pro jspan{Z(rµ )}Z(rk) = Z(rµ ) · Z∗(rµ ) Z(rµ )
+   This work is partly supported by the National Natu-
+ral Science Foundation of China (21688102, 21803066,                 we     deﬁne       electron       density  ρ(rµ )     =    N    |φi  (r    µ  )|2  =
+22003061, 22173093), by the Hefei National Laboratory
+for Physical Sciences at the Microscale (KF2020003), by                N                               [φi(r)]Ni=1,           ∑i=1
+the Chinese Academy of Sciences Pioneer Hundred Tal-                                                                                 (r)]Nj=1. ",physics.comp-ph,A,-0.3156451,-0.16527611,-0.20680006
+http://arxiv.org/pdf/2208.09412v1,Multigroup Neutron Transport using a Collision-Based Hybrid Method,"The wall clock times are shown as a percentage of
+the multigroup (G = 361, M = 16) wall clock reference solution. IV Conclusion and future work
+
+       We have extended a discrete ordinates hybrid method of the time-dependent neutron trans-
+port equation to the multigroup setting. The hybrid relies on a splitting of the NTE into collided
+and uncollided components and takes advantage of the fact that the collided component can be
+accurately approximating using a relatively coarse discretization in angle and energy. ",physics.comp-ph,A,-0.25348398,-0.19004187,-0.060602337
+http://arxiv.org/pdf/2208.09412v2,Multigroup Neutron Transport using a Collision-Based Hybrid Method,"The wall clock times are shown as a percentage of
+the multigroup (G = 361, M = 16) wall clock reference solution. IV Conclusion and future work
+
+       We have extended a discrete ordinates hybrid method of the time-dependent neutron trans-
+port equation to the multigroup setting. The hybrid relies on a splitting of the NTE into collided
+and uncollided components and takes advantage of the fact that the collided component can be
+accurately approximating using a relatively coarse discretization in angle and energy. ",physics.comp-ph,A,-0.25348398,-0.19004187,-0.060602337
+http://arxiv.org/pdf/2208.10420v1,Learning Mappings between Equilibrium States of Liquid Systems Using Normalizing Flows,"This kind of numerical
+system. experiment will be the subject of future work. This approach, presented in this letter via proof-of-                                    Acknowledgments
+principle calculations, paves the way to the exploita-
+tion of normalizing ﬂows in transforming conﬁgurations              We acknowledge ﬁnancial support of the Austrian Sci-
+obtained using computationally inexpensive models to             ence Fund (FWF) through the SFB TACO, Grant num-
+more precise but computationally expensive descriptions. ",physics.comp-ph,B,0.17633045,-0.06190089,-0.06359176
+http://arxiv.org/pdf/2208.10444v1,Dual PIC: a structure preserving method for discretizing Lie-Poisson brackets,"We conclude in Sec. V where we sum up, discuss
+generalizations, and future work. II. ",physics.comp-ph,C,-0.11358253,0.2771747,0.4078136
+http://arxiv.org/pdf/2208.13772v1,Computing committors via Mahalanobis diffusion maps with enhanced sampling data,"Is the uniformly
+distributed input dataset optimal? We leave this investigation
+for future work. Computing committors via Mahalanobis diffusion maps with enhanced sampling data                                            14
+
+FIG. ",physics.comp-ph,A,-0.09200723,0.3074118,-0.1906969

@@ -1,0 +1,922 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00501v1,Squares of the form $\prod_{k=1}^n (2k^2+l)$ with $l$ odd,"Conjecture 8.1 is quite diﬃcult to prove as it requires more thorough analysis on the bounds
+of the p-adic valuation of P2,l(n). We leave further research concerning Conjecture 8.1 to the
+interested reader. References
+
+ [1] T. Amdeberhan, L. Medina, and V. Moll, Arithmetical properties of a sequence arising from an arctangent
+      sum, J. ",math.NT,A_centroid,-0.07710736,0.066315025,0.0074942503
+http://arxiv.org/pdf/2201.01464v1,On some mod $p$ representations of quaternion algebra over $\mathbb{Q}_p$,"It would be interesting to describe the precise structure of JL(ρ). We plan to
+come back to this question in future work. We now give a brief overview of the contents of each section. ",math.NT,B,0.12682925,-0.23826995,0.107087895
+http://arxiv.org/pdf/2201.01464v2,On some mod $p$ representations of quaternion algebra over $\mathbb{Q}_p$,"It would be interesting to describe the precise structure of JL(ρ). We plan to come back
+to this question in future work. We now give a brief overview of the contents of each section. ",math.NT,B,0.12682925,-0.23826995,0.107087895
+http://arxiv.org/pdf/2201.02078v1,Eisenstein degeneration of Euler systems,"discussed below. We hope to pursue this further in a future work. We have also included an extensive section devoted to recall the main results around the Euler systems
+discussed in this note. ",math.NT,B,-0.15168189,-0.079913214,-0.001231706
+http://arxiv.org/pdf/2201.02663v1,Remainder in Modified Mertens Formula and Ramanujan Inequality,"3; in Section 2 all needed
+auxillaries and the main Lemma are adduced; in Sect. 4 some corollaries and
+directions of further research are given. 2. ",math.NT,C,0.36733267,0.14315385,0.052183915
+http://arxiv.org/pdf/2201.03270v1,The Fourier-Jacobi Periods : The case of $Mp(2n+2r) \times Sp(2n)$,"This theorem is expected to hold in general without such hypotheses (see Conjecture 1.) We will
+meditate on removing these two hypotheses in the future work. This paper is organized as follows. ",math.NT,C,0.2936976,0.41837308,0.036838267
+http://arxiv.org/pdf/2201.06939v1,On Power Values of Sum of Divisors function in Arithmetic Progressions,"Theorem 2. For any given integers a ≥ 1, b ≥ 0 and k ≥ 2, either σ(an+b)
+is not a perfect kth power for any natural number n or σ(an + b) is a perfect
+kth power for inﬁnitely many natural numbers n.
+
+   In the ﬁnal section, we give few open questions for further research. 2. ",math.NT,A,-0.19313355,0.24408326,-0.3020478
+http://arxiv.org/pdf/2201.06939v2,On Power Values of Sum of Divisors function in Arithmetic Progressions,"Theorem 2. For any given integers a ≥ 1, b ≥ 0 and k ≥ 2, either
+σ(an+b) is not a perfect kth power for any natural number n or σ(an+
+b) is a perfect kth power for inﬁnitely many natural numbers n.
+
+   In the ﬁnal section, we give few open questions for further research. 2. ",math.NT,A,-0.19313355,0.24408326,-0.3020478
+http://arxiv.org/pdf/2201.07431v1,Some identities and properties on degenerate Stirling numbers,"degenerate Stirling numbers of the second kind; degenerate r-Stirling numbers of the second
+                                          kind; degenerate Stirling numbers of the ﬁrst kind; unsigned degenerate Stirling numbers of the ﬁrst kind. 1
+2                                    TAEKYUN KIM AND DAE SAN KIM
+
+The aim of this paper is by using generating functions to further study some identities and proper-
+ties on the degenerate Stirling numbers of the second kind, the degenerate r-Stirling numbers of the
+second kind, the degenerate Stirling numbers of the ﬁrst kind and the unsigned degenerate Stirling
+numbers of the ﬁrst kind. The outline of this paper is as follows. ",math.NT,B,-0.3871513,0.07544315,-0.02126524
+http://arxiv.org/pdf/2201.10124v1,"Asymptotic expansions for a class of generalized holomorphic Eisenstein series, Ramanujan's formula for $ζ(2k+1)$, Weierstrass' elliptic and allied functions","Subsequent
+research was made by Berndt [1], who especially treated in this respect a class of gener-
+alized Dedekind eta function and Dedekind sums. Berndt [3] made further research into
+this direction in connection with Euler’s and Ramanujan’s formulae for speciﬁc values of
+ζ(s), while he [2] also studied certain character analogues of FZ2(s; α, β; 0, 0; z) to show
+Ramanujan type formulae for Dirichlet L-functions. Matsumoto [19], on the other hand,
+more recently derived complete asymptotic expansions for F (s; z) when both z → 0 and
+z → ∞ through H+; the former can be viewed as a prototype of our Theorem 2. ",math.NT,B,-0.34222612,-0.04501825,0.31865537
+http://arxiv.org/pdf/2201.10124v2,"Asymptotic expansions for a class of generalized holomorphic Eisenstein series, Ramanujan's formula for $ζ(2k+1)$, Weierstrass' elliptic and allied functions","Subsequent
+research was made by Berndt [1], who especially treated in this respect a class of gener-
+alized Dedekind eta function and Dedekind sums. Berndt [3] made further research into
+this direction in connection with Euler’s and Ramanujan’s formulae for speciﬁc values of
+ζ(s), while he [2] also studied certain character analogues of FZ2(s; α, β; 0, 0; z) to show
+Ramanujan type formulae for Dirichlet L-functions. Matsumoto [19], on the other hand,
+more recently derived complete asymptotic expansions for F (s; z) when both z → 0 and
+z → ∞ through H+; the former can be viewed as a prototype of our Theorem 2. ",math.NT,B,-0.34222612,-0.04501825,0.31865537
+http://arxiv.org/pdf/2201.11077v1,Bounds on the number of rational points of curves in families,"In addition to this local statement, we require uniform control of the number of
+points x for which ρx is not semisimple. This can either come from the proof by Faltings that in fact
+all ρx are semisimple [Fal83, Satz 3] or from further analysis of the period map:
+
+PROPOSITION 5.3 Let F be a number ﬁeld and S be a ﬁnite set of primes. Then there exists a constant
+C′′ = C′′(F, S, g) such that
+
+                                      {x ∈ C(OF,S) | ρx is not semisimple} ≤ C′′
+
+for all smooth projective curves C/OF,S. ",math.NT,C,0.4167722,0.025598751,0.020553384
+http://arxiv.org/pdf/2201.11077v2,Bounds on the number of rational points of curves in families,"In addition to this local statement, we require uniform control of the number of
+points x for which ρx is not semisimple. This can either come from the proof by Faltings that in fact
+all ρx are semisimple [Fal83, Satz 3] or from further analysis of the period map:
+
+PROPOSITION 5.4 Let F be a number ﬁeld and S be a ﬁnite set of primes. Then there exists a constant
+N ′′ = N ′′(F, S, g) such that
+
+                                 {x ∈ C(OF,S) | ρx is not semisimple} ≤ N ′′
+
+for all smooth projective curves C/OF,S. ",math.NT,C,0.40768778,0.031769596,0.024492934
+http://arxiv.org/pdf/2201.12783v1,On a problem of Romanoff type,"1
+2                YUCHEN DING
+
+and V (x) = |V ∩ [1, x]|. In 2014, Chen and Yang [8] proved that
+                                             V (x) ≫ x
+                                                        log log x
+
+and they posed the following problem for further research. Problem 1 (Chen–Yang). ",math.NT,C,-0.0077590626,0.54467106,-0.03766325
+http://arxiv.org/pdf/2201.12783v2,On a problem of Romanoff type,"1
+2  YUCHEN DING
+
+and V (x) = |V ∩ [1, x]|. In 2014, Chen and Yang [8] proved that
+                                             V (x) ≫ x
+                                                        log log x
+
+and they posed the following problem for further research. Problem 1 (Chen–Yang). ",math.NT,C,-0.007759124,0.54467094,-0.03766323
+http://arxiv.org/pdf/2201.12783v3,On a problem of Romanoff type,"1
+2                YUCHEN DING
+
+and V (x) = |V ∩ [1, x]|. In 2014, Chen and Yang [7] proved that
+                                             V (x) ≫ x
+                                                        log log x
+
+and posed the following problem for further research. Problem 1 (Chen–Yang). ",math.NT,C,-0.0006639641,0.5457151,-0.027526125
+http://arxiv.org/pdf/2202.00611v1,Series representation of arborified zeta values,"Instead, this series representation of AZVs deﬁned by iterated integrals
+should be seen as a new generalisation of MZVs deﬁned as iterated series. It is not the purpose of
+this paper to explore their algebraic structures and we left that for further research. Instead, we
+will focus on relating this new generalisation to other generalised MZVs. ",math.NT,B,-0.18385904,0.081732035,0.4131103
+http://arxiv.org/pdf/2202.00611v2,Series representation of arborified zeta values,"Instead, this series representation of AZVs deﬁned by iterated integrals
+should be seen as a new generalisation of MZVs deﬁned as iterated series. It is not the purpose of
+this paper to explore their algebraic structures and we left that for further research. Instead, we
+will focus on relating this new generalisation to other generalised MZVs. ",math.NT,B,-0.18385904,0.081732035,0.4131103
+http://arxiv.org/pdf/2202.00611v3,Series representation of arborified zeta values,"Instead, this series representation of AZVs deﬁned by iterated integrals
+should be seen as a new generalisation of MZVs deﬁned as iterated series. It is not the purpose of
+this paper to explore their algebraic structures and we left that for further research. Instead, we
+will focus on relating this new generalisation to other generalised MZVs. ",math.NT,B,-0.18385904,0.081732035,0.4131103
+http://arxiv.org/pdf/2202.01138v1,On Igusa local zeta functions of Hauser hybrid polynomials,"Lots of basic results about local zeta
+                                         functions was archived by Igusa. Meanwhile, Igusa also made several conjectures that
+                                         inspired many further research in the past decades. In this paper, our main goal is to
+                                         study the rationality of Igusa local zeta function. ",math.NT,B,-0.14318669,-0.030279512,0.2899529
+http://arxiv.org/pdf/2202.01800v1,Duals in natural characteristic,"In (12) we had introduced the biduality morphism ηV • : V • → RHom(RHom(V •, k), k). Our further analysis of it will be based upon the following general observation. Lemma 4.4. ",math.NT,C,0.5364466,0.003972959,0.014222104
+http://arxiv.org/pdf/2202.02348v1,Explicit Reciprocity Laws for Formal Drinfeld Modules,"To go further, one may ask if any explicit reciprocity
+laws can be proved for all formal Drinfeld modules having stable reduction of height 1. We plan to
+address this question in a future work. In another request, we are interested in considering local
+ﬁelds of higher dimension in the vein of the work of Jorge Florez [14, 13]. ",math.NT,C,0.30302858,-0.11591476,-0.029388223
+http://arxiv.org/pdf/2202.02780v1,"A conjecture of Sárközy on quadratic residues, II","On the
+other hand, a new quantity A(A, B) has been introduced to characterize the number
+of elements in Fp which have unique representations in A + B. We hope this should
+be of independent interests and will receive more attentions in further researches. By closing this section, we remark that the arguments in this paper admit the
+bounds
+
+                          E(A, B) p3/2 − p,
+
+while the trivial bound would be E(A, B)  |A||B| min{|A|, |B|}. ",math.NT,A,-0.15319249,0.1956326,-0.18971798
+http://arxiv.org/pdf/2202.04896v1,Faulty isogenies: a new kind of leakage,"To the best of our knowledge, there is no previous attack in which the attacker
+can inject such amount of zeros in memory (or registers) as we require our
+attacker to do. We consider ﬁnding alternative methods to perform this injection
+in a controlled way as future work. We would also like to remark that the attack’s
+timing constraints are similar to those in the loop-abort attack presented by
+Gélin and Wesolowski in 2017 [13]. ",math.NT,A,-0.10735577,0.17571715,-0.26242065
+http://arxiv.org/pdf/2202.04896v2,Faulty isogenies: a new kind of leakage,"To the best of our knowledge, there is no previous attack in which the attacker
+can inject such amount of zeros in memory (or registers) as we require our
+attacker to do. We consider ﬁnding alternative methods to perform this injection
+in a controlled way as future work. We would also like to remark that the attack’s
+timing constraints are similar to those in the loop-abort attack presented by
+Gélin and Wesolowski in 2017 [13]. ",math.NT,A,-0.10735577,0.17571715,-0.26242065
+http://arxiv.org/pdf/2202.06676v1,On the Computation of General Vector-valued Modular Forms,"We also include suggestions on how to relax their assumptions
+while maintaining the performance advantage. In future work, we hope to come back to this topic. 1 Preliminaries
+
+  We refer to Miyake’s book [30] and to the book of Diamond–Shurman [16] for the basics of classical
+modular forms. ",math.NT,C,0.03414118,-0.35497642,-0.042539835
+http://arxiv.org/pdf/2202.07142v3,Brauer-Manin obstruction for integral points on Markoff-type cubic surfaces,"The proof is now
+complete. Again, the assumption in Proposition 5.3 can be modiﬁed or generalized to give the
+same results, which we hope to achieve in possible future work. For now, let us give some
+concrete examples from Proposition 5.3 using the help of SageMath [SJ05] and Alpertron
+[Dar] which have been mentioned in Example 5.1. ",math.NT,C,0.44555005,0.2256384,-0.0074607963
+http://arxiv.org/pdf/2202.08767v1,On the random Chowla conjecture,"Furthermore, similar argument works for the equation
+
+(3.19)  P1(x)P1(y) = P2(X)P2(Y ) , x, y, X, Y ∈ [N ]a,q ,
+
+where P1, P2 ∈ Z[x], deg(P1) = deg(P2) = d > 1, P1(x), P2(x) = ω(x + c)d for any ω ∈ Z, c ∈ Q
+and P1, P2 have the same leading coeﬃcients. These observations will play an important role in
+our future work on the analogs of Theorems 1.1 and 1.3 for Rademacher random multiplicative
+functions. 4. ",math.NT,A,-0.024342582,0.33575055,0.14557435
+http://arxiv.org/pdf/2202.08767v2,On the random Chowla conjecture,"Furthermore, similar argument works for the equation
+
+(3.19)           P1(x)P1(y) = P2(X)P2(Y ) , x, y, X, Y ∈ [N ]a,q ,
+
+where P1, P2 ∈ Z[x], deg(P1) = deg(P2) = d > 1, P1(x), P2(x) = ω(x + c)d for any ω ∈ Z, c ∈ Q
+and P1, P2 have the same leading coeﬃcients. These observations will play an important role in
+our future work on the analogs of Theorems 1.1 and 1.3 for Rademacher random multiplicative
+functions. 4. ",math.NT,A,-0.024342582,0.33575055,0.14557435
+http://arxiv.org/pdf/2202.09974v1,A shifted Mahler measure identity for Boyd's family,"We expect the above methods applicable to prove more
+Mahler measure identities in [11]. We will try to develop a universal algorithm to
+deal with this kind of problem in the future work. Another possible direction is to deal with the the Mahler measure of polynomials
+deﬁning curve with non-abelian automorphism groups using this method. ",math.NT,C,0.18909639,-0.0719855,0.0034689903
+http://arxiv.org/pdf/2202.12001v2,Approximations of the balanced triple product $p$-adic $L$-function,"Moreover, the algorithms devised in this note can be easily generalized to deal with more
+general quaternionic orders, as they only rely on a suﬃciently explicit formulation of the balanced triple
+product p-adic L-function. In fact, [Dal22] is just the starting point to solve a more general interpolation
+problem, which we wish to address carefully in future works. Such an interpolation problem would ﬁt
+perfectly in the framework announced by Andreatta–Bertolini–Seveso–Venerucci (see Section 4.4.3), and
+it could be applied to provide computational support in developing precise arithmetic conjectures. ",math.NT,A,-0.1272487,-0.20472157,-0.1727436
+http://arxiv.org/pdf/2202.12724v1,Counting flags of primitive lattices,"The number
+of primitive lattice d-ﬂags F(Z) with Hac(F(Z)) ≤ X, F ∈ Φ and shape (F(Z)) ∈ E is
+
+          cd,n · vol1Xd (E )vol1Gr0(d,n)(Φ) · X −2 (−1)j!−2−j (log X)j + O (X(1− 161n2 + ))
+                                                                          j=0
+
+for all > 0, where cd,n is as in (1.7). 4
+    The reﬁnement of Franke, Manin and Tschinkel’s result suggested in Theorem 1.2
+could prove useful in further study of rational points on ﬂag varieties: Browning, the
+ﬁrst author and Wilsch [BHW21] built on [HK20a] to establish the freeness variant of
+Manin’s conjecture, proposed by Peyre [Pey17, Pey18], for Grassmannians. We expect
+that Theorem 1.2 could be used to extend the results in [BHW21] from Grassmannians
+to more general ﬂag varieties. ",math.NT,C,0.07785186,-0.04879611,0.074483156
+http://arxiv.org/pdf/2202.13478v1,Coset topologies on $\mathbb{Z}$ and arithmetic applications,"By the same straightforward reasoning of [9,
+Lemma 4.10] one can show
+
+                                                    π+(X) µZˆ∗(Xˆ ∩ Zˆ∗)
+
+and use it to explain [12, Theorems 12 and 13]. We plan to provide full details in a future work. Does the Golomb topology play a role in all of this? ",math.NT,C,0.27467164,0.17177251,0.16436143
+http://arxiv.org/pdf/2202.13478v2,Coset topologies on $\mathbb{Z}$ and arithmetic applications,"By the same straightforward reasoning of [10,
+Lemma 4.10] one can show
+
+                                                    π+(X) µZˆ∗(Xˆ ∩ Zˆ∗)
+and use it to explain [13, Theorems 12 and 13]. We plan to provide full details in a future work. Does the Golomb topology play a role in all of this? ",math.NT,C,0.27742252,0.17297673,0.16510746
+http://arxiv.org/pdf/2202.13478v3,Coset topologies on $\mathbb{Z}$ and arithmetic applications,"By the same straightforward reasoning of [10,
+Lemma 4.10] one can show
+
+                                                    π+(X) µZˆ∗(Xˆ ∩ Zˆ∗)
+
+and use it to explain [13, Theorems 12 and 13]. We plan to provide full details in a future work. Does the Golomb topology play a role in all of this? ",math.NT,C,0.27742252,0.17297673,0.16510746
+http://arxiv.org/pdf/2203.00217v1,Some results on degenerate Fubini and degenerate Bell polynomials,"Recently, the degenerate Fubini polynomials and the degenerate Bell polynomials are introduced
+                                         (see [12,16]). The aim of this paper is to further study some properties and identities on the de-
+                                         generate Fubini and the degenerate Bell polynomials which are degenerate versions of the Fubini
+                                         and the Bell polynomials, respectively. Especially, we ﬁnd several expressions for the generating
+                                         functions of the sum Sn,λ (p) = (1)p,λ + (2)p,λ + · · · + (n)p,λ of the values of the generalized falling
+                                         factorials at positive consecutive integers. ",math.NT,B,-0.47718322,-0.014497364,0.049004454
+http://arxiv.org/pdf/2203.01908v1,On the non-integrality of certain generalized binomial sums,"Interestingly, the sum (1.3) can be regarded as the devil twin of
+
+                                       n  n (−1)n−k r ∈/ Z.
+                                          k     r+k
+                S(r,n)(0) =
+
+                                     k=0
+
+The latter sum can be evaluated instantly, since it can be interpreted as a ﬁnite diﬀerence
+
+as well as a partial fraction decomposition (see Corollary 2.2 and Section 5). However, a generalized conjecture of (1.3) cannot be established without further study,
+
+since there are several exceptions where indeed S(r,n)( ) ∈ Z for ∈ Z as listed in the
+following tables. See Section 7 for more results. ",math.NT,B,-0.3346725,-0.025947597,0.007392916
+http://arxiv.org/pdf/2203.02097v1,The Endomorphism Rings of Supersingular Elliptic Curves over $\mathbb{F}_p$ and the Binary Quadratic Forms,"The advantage of this correspondence is that the composition of
+quadratic forms is commutative, while the multiplication in maximal orders is not. Com-
+puting this correspondence explicitly and applying these results to the isogeny-based
+cryptography are our future work. References
+
+ [1] Johannes Buchmann and Ulrich Vollmer, Binary quadratic forms. ",math.NT,C,0.08822316,-0.3820362,-0.2274324
+http://arxiv.org/pdf/2203.02276v1,Large gaps between primes in arithmetic progressions -- an empirical approach,"q = 4 q = 6 q = 8 q = 10 q = 12 q = 14 q = 16 q = 18 q = 20
+
+                yes      53 54 34 45  28  49  28  41                                22
+                no
+                         47 46 66 55  72  51  72  59                                78
+
+   For q = 8, 12, 16, and 20, only 25% of residue classes coprime to q are squares, so instead
+of 50:50, we might expect a 25:75 ratio here if evenly distributed. The impact of squares vs.
+non-squares mod q might be subject to further study, but can be considered ancillary for
+the motif of this paper. LARGE GAPS BETWEEN PRIMES IN ARITHMETIC PROGRESSIONS—AN EMPIRICAL APPROACH 7
+
+      Table 3. ",math.NT,A,-0.19213536,-0.17783819,-0.24672168
+http://arxiv.org/pdf/2203.03061v1,Bounding Vanishing at the Central Point of Cuspidal Newforms,"One of the biggest advantages of the Hughes-Miller framework is that we can easily see how new
+terms arise as we increase support. Thus, future work could also focus on increasing the support
+of the test function by improving the number theory calculation, in particular how much results
+improve when we increase support for a ﬁxed level or moment; see [C–] for recent results along
+these lines. In addition, we present results speciﬁcally for the orthogonal groups; our techniques are also
+applicable to the symplectic and unitary symmetry groups, and we can obtain similar results. ",math.NT,B,-0.12972358,-0.26024854,0.050105102
+http://arxiv.org/pdf/2203.03061v2,Bounding Vanishing at the Central Point of Cuspidal Newforms,"One of the biggest advantages of the Hughes-Miller framework is that we can easily see how new
+terms arise as we increase support. Thus, future work could also focus on increasing the support
+of the test function by improving the number theory calculation, in particular how much results
+improve when we increase support for a ﬁxed level or moment; see [C–] for recent results along
+these lines. In addition, we present results speciﬁcally for the orthogonal groups; our techniques are also
+applicable to the symplectic and unitary symmetry groups, and we can obtain similar results. ",math.NT,B,-0.12972358,-0.26024854,0.050105102
+http://arxiv.org/pdf/2203.03517v1,Metric density results for the value distribution of Sudler products,"Then  for
+almost every α, the set                                                                   k=1  ψ(k)
+
+                                 {N ∈ N : log PN (α) ≥ ψ(log N )}
+
+has  upper  density  at  least  1/2,  with  equality  if  lim inf     ψ(k)    ≥  C  for   some  absolute    constant
+                                                           k→∞       k log k
+
+C > 0. Remarks on Theorems 1 and 2 and further research. • Note that the divergence criterion of              ∞      1   is  invariant  under      multiplication  with
+                                                          k=1  ψ(k)
+
+        constant factors. ",math.NT,A,-0.018184409,0.3900128,0.04753273
+http://arxiv.org/pdf/2203.03533v1,On elliptic curves with $p$-isogenies over quadratic fields,"We believe it should
+be possible to deal with the cases 97 and 103, and possibly 157 (although
+perhaps the genera are too large here), using the techniques of [5, 18, 21]. We hope to pursue this in future work. 18
+5.2 Small real quadratic ﬁelds
+
+                                                                  √
+We will consider the real quadratic ﬁelds K = Q( d) for d ∈ {2, 3, 5, 6, 7}. ",math.NT,A,-0.11225583,-0.14144117,-0.38400173
+http://arxiv.org/pdf/2203.03533v2,On elliptic curves with $p$-isogenies over quadratic fields,"We believe it should
+be possible to deal with the cases 97 and 103, and possibly 157 (although
+perhaps the genera are too large here), using the techniques of [5, 18, 21]. We hope to pursue this in future work. 18
+5.2 Small real quadratic ﬁelds
+
+                                                                  √
+We will consider the real quadratic ﬁelds K = Q( d) for d ∈ {2, 3, 5, 6, 7}. ",math.NT,A,-0.11225583,-0.14144117,-0.38400173
+http://arxiv.org/pdf/2203.05359v1,Non-vanishing mod $p$ of theta lifts,"There are some related questions that we do not address in this article, for example, assuming f ∈ Aρλ(H, K)
+p-integral or p-primitive,
+
+    5The appendix treats cases more general than we need in the main body of this article. We need this because the main results in the appendix
+can be used for other reductive dual pairs than the orthogonal-symplectic type that we deal with in this article; moreover the distribution of CM
+points on (compact) Shimura varieties is also a very important problem on its own and the generality that we work in the appendix can thus be
+used readily for future work in this direction. 6The formulation that m depends on weight λ means that we ﬁx an automorphic form f and looks at its theta lifts to symplectic groups of
+various ranks and study for which rank the theta lift may be p-primitive. ",math.NT,C,0.24183199,-0.38672554,0.04285956
+http://arxiv.org/pdf/2203.06405v1,"Definite orthogonal modular forms: Computations, Excursions and Discoveries","One can ﬁnd the forms with other Atkin–Lehner
+
+eigenvalues by considering the space of orthogonal modular forms with weight given by the
+
+spinor norm character. Full details and more general statements will be given in future work
+
+[3]. Square discriminant case. ",math.NT,B,-0.008254784,-0.4406765,0.07251246
+http://arxiv.org/pdf/2203.06405v2,"Definite orthogonal modular forms: Computations, Excursions and Discoveries","One can ﬁnd the forms with other Atkin–Lehner
+
+eigenvalues by considering the space of orthogonal modular forms with weight given by the
+
+spinor norm character. Full details and more general statements will be given in future work
+
+[3]. Square discriminant case. ",math.NT,B,-0.008254784,-0.4406765,0.07251246
+http://arxiv.org/pdf/2203.07016v1,A $p$-adic Descartes solver: the Strassman solver,"In this work, we only give the ﬁrst steps towards a condition-based complex-
+ity framework in the p-adic worlds, so we focus on the average complexity analysis. We
+leave for future work to develop the smoothed probabilistic model, where we consider an
+arbitrary p-adic polynomial perturbed by random noise. 1.2 The Strassman solver
+
+The Descartes’ rule of signs (see Theorem 2.1) allows us to bound the number of real roots
+of a univariate only in terms of the sign variations of its coeﬃcients. ",math.NT,A,-0.076473616,0.04582732,-0.07263629
+http://arxiv.org/pdf/2203.08593v1,Triangular modular curves of low genus,"The prime p is totally ramiﬁed in F , so Fpk ≃ Fp for pk | p.
+Thus X(2, 3, pk; pk) ≃ X(2, 3, p; p1). The upshot of Lemma Lemma 2.15 is that these redundancies do not arise under admis-
+sibility; still, we hope in future work to address the existence of triangular modular curves
+(and their genera) without this hypothesis. Galois case. ",math.NT,C,0.21425463,-0.092667766,-0.1096742
+http://arxiv.org/pdf/2203.08593v2,Triangular modular curves of low genus,"A similar argument works when N is composite; however the right-hand vertical
+
+map SL2(ZE/N)/{±1} → PGL2(ZE/N) may no longer be injective when N is composite. This leads to certain ambiguities about the deﬁnition which we will return to in future work. Admissibility, projectivity, and image. ",math.NT,C,0.13951166,0.09509511,-0.14184648
+http://arxiv.org/pdf/2203.08987v2,Integer partitions with large Dyson rank,"The
+proof of Theorem 1 is given in Section 3. Section 4 mentions a few questions for future work. 4
+
+                                            Acknowledgements
+
+   The authors are grateful to the anonymous referee for a thorough report oﬀering several
+valuable suggestions that have improved the manuscript. ",math.NT,C_centroid,0.37744576,0.26984906,0.14791894
+http://arxiv.org/pdf/2203.09559v1,Picard rank jumps for K3 surfaces with bad reduction,"Both Theorem 1.1 and Theorem 1.3 are motivated by the density of Hodge loci in
+polarized variations of Hodge structure of weight 2 of K3 type, see for example [Voi02,
+Ogu03, Tay20]. Recent density results for general polarized variations of Hodge structures
+of level less than 2 as in [TT21, BKU21] suggest that density of Hodge loci in arithmetic
+and function ﬁeld settings are natural problems to investigate, and we hope to address
+these questions in future work. 1.2. ",math.NT,C,0.2726214,-0.09839783,0.038839657
+http://arxiv.org/pdf/2203.12477v1,Approximating elements of the middle third Cantor set with dyadic rationals,"Math., 122:29–42, 2001. [26] K. Mahler, Some suggestions for further research, Bull. Austral. ",math.NT,A,0.12588026,-0.0006454829,-0.23541528
+http://arxiv.org/pdf/2203.12477v2,Approximating elements of the middle third Cantor set with dyadic rationals,"Math., 122:29–42, 2001. [26] K. Mahler, Some suggestions for further research, Bull. Austral. ",math.NT,A,0.12588026,-0.0006454829,-0.23541528
+http://arxiv.org/pdf/2203.13889v1,The Distribution of Rational Points on Conics,"The lat-
+ter gives an asymptotic formula for an unweighted counting function,
+and has an error term which has a better dependence on B (of order
+B1/2 log B) and an explicit dependence on q, though a much weaker
+one. In future work we plan to apply Theorem 6 to count rational points
+on certain varieties that can be ﬁbred into conics. Indeed such appli-
+cations provide the natural motivation for the present paper. ",math.NT,C,-0.019679727,0.01359931,0.042904735
+http://arxiv.org/pdf/2203.15998v1,On the algebraicity of polyquadratic plectic points,"Using the
+main theorem of [HM22] one can apply the same strategy to prove the plus part of the conjecture. This will be explained in more detail in future work. Remark 1.12. ",math.NT,A,0.08239168,0.055986926,-0.096376896
+http://arxiv.org/pdf/2203.16774v2,On the variation of the Frobenius in a non abelian Iwasawa tower,See remark 15 for more detail. 1.5 Some questions for future work. We pose a few questions suggested by this work. ,math.NT,C,0.24250145,0.21175615,0.07571868
+http://arxiv.org/pdf/2203.16774v3,On the variation of the Frobenius in a non abelian Iwasawa tower,"Then, the limit p∞(x) = limn pn(x) exists and we have the congruence
+
+                                                 pn+1(x) ≡ pn(x) (mod n). 1.2 Some questions for future work
+
+  We pose a few questions suggested by this work. Question 1. ",math.NT,A,-0.1146148,0.25902736,-0.09922483
+http://arxiv.org/pdf/2203.16774v4,On the variation of the Frobenius in a non abelian Iwasawa tower,"Then, the limit p∞(x) = limn pn(x) exists and we have the congruence
+
+                                                 pn+1(x) ≡ pn(x) (mod n). 1.2 Some questions for future work
+
+  We pose a few questions suggested by this work. Question 1. ",math.NT,A,-0.1146148,0.25902736,-0.09922483
+http://arxiv.org/pdf/2204.00412v1,Multiplicative complements I,". , Ah(x)} ≤ 1 + ε.
+                                                                   x→∞                        x                                  h
+                                                                                            log x
+
+Let us, ﬁnally, propose some problems for further research. Note that for h ≥ 2, we have
+
+   √
+1  h h! ",math.NT,A,-0.19012079,0.4186445,0.006369315
+http://arxiv.org/pdf/2204.00899v1,On Prime Numbers and The Riemann Zeros,"In fact the analog formula
+should correspond, again, to the logarithmic derivative of the zeta function as a product of
+L-functions: p log Lp(ρ, ω). Since we are more and more tentative in statements, a further study from the point of view
+of theory of Hecke characters, the role of the Teichmuler p-adic character and ω-eigenvalues
+theory, is required at this stage. 12
+L. M. Ionescu                           Primes and Riemann Zeros
+
+                        7. ",math.NT,B,-0.25567198,-0.1942995,0.27017978
+http://arxiv.org/pdf/2204.03674v1,On Primitivity and Vanishing of Dirichlet Series,"However, we would like to see if there are further ap-
+  plications and address the situation for functions f not satisfying Property U. We
+  relegate this to a future work. 9. ",math.NT,C,0.066165105,0.34937334,-0.08330479
+http://arxiv.org/pdf/2204.04011v1,Solutions of certain meta-Fibonacci recurrences,"More precisely,
+depending on the parity of a, b the subsequences ga,b(2n) and ga,b(2n + 1) are even-
+tually: constant, linear or satisfy linear recurrence equation of order bounded by
+max{a, b}. Finally, in the last section we formulate some questions and problems
+which may stimulate further research. 2. ",math.NT,A,-0.28292233,0.18412642,-0.1694493
+http://arxiv.org/pdf/2204.04101v1,Dynamical Mahler Measure: A survey and some recent results,"This conjecture is also supported by work of Chambert-Loir, and Thuillier [CLT09] showing
+that ordinary multivariate Mahler measure agrees with the dynamical height for hypersurfaces in Pn under
+the map f × · · · × f , where f is a power map. A promising direction for future work would be to prove this relationship between dynamical Mahler
+measure and dynamical height, which would provide an additional connection between (a) and (b) in Figure 3. Zhang’s height is too technical to deﬁne here, but we give a general overview of the main ideas. ",math.NT,C,0.33121204,0.028122466,-0.015173275
+http://arxiv.org/pdf/2204.07273v1,A bound for twists of $\rm GL_3\times GL_2$ $L$-functions with composite modulus,"Under this
+assumption and the assumption in (2.6), the condition n1|qM1r is reduced to n1|qr and by abusing notations
+we still denote the contribution from terms with (n1, M1) = 1 by Sj (C, L, Nj, ±, ±), i.e.,
+
+                      Sj (C, L, Nj, ±, ±) = N                                                  λπ(n1, n2)                    1
+
+                                                                    r1/2QM13/2τ (χ) n2n ∼L n12/2 q q∼C,(q,M)=1 3/2
+                                                                                       12                          n1 |qr
+
+                                                         ×          λg (m) Cj (n1, ±n2, ±m, q) R±,± Yj , n21n2 , q . (2.20)
+                                                                         m1/2                                      q3M13r
+                                                            m∼Nj
+                  A BOUND FOR TWISTS OF GL3 × GL2 L-FUNCTIONS WITH COMPOSITE MODULUS                                       9
+
+Before further analysis, we make a computation of the character sums Cj(n1, n2, m, q), j = 1, 2. Set
+
+                                                        1                         e  x1 + x2                               (2.21)
+                        Kl2(n; M1) = 1/2                                               M1
+                                                        M1 x1x2≡n( mod M1)
+
+and
+
+                                                        1                            αb + βv
+                     Lα,β(v; M1) = M 1/2                                 χ1(b)e M1 . ",math.NT,B,-0.12762783,-0.16793792,0.15193756
+http://arxiv.org/pdf/2204.07357v1,Rational numbers in $\times b$-invariant sets,"4
+
+ [5] K. Mahler. Some suggestions for further research. Bull. ",math.NT,A,0.09089792,-0.057678808,-0.3012281
+http://arxiv.org/pdf/2204.07961v1,Higher order log-concavity of the overpartition function and its consequences,"Consequently, we shall study the asymptotic growth of the quotient
+
+                                                     3
+p(n − 1)p(n + 1)/p(n)2 up to n−4, stated in Theorem 1.3 as a speciﬁc example which
+presents computing process. This in turn helps for a further study of certain quotients
+stated in Theorems 1.6 and 1.9. A host of inequalities for overpartition function, see
+Corollaries 1.4-1.11, appear as a special case of the theorems, similar to the partition
+ones as discussed before. ",math.NT,A,-0.29126966,0.20512608,-0.0766095
+http://arxiv.org/pdf/2204.08868v1,The density conjecture for principal congruence subgroups,"In fact,
+
+the proof of Lemma 8.1 only needs a certain averaged version of Hypothesis 1. Following ideas of
+
+[JK] (which treats a related, but somewhat diﬀerent “spherical” scenario), this may be available
+
+unconditionally for general n and we hope to carry this out in future work. 1.4. ",math.NT,C,0.2682151,0.32449046,0.16322699
+http://arxiv.org/pdf/2204.09452v1,A note on dyadic approximation in Cantor's set,"1, 97-118. [13] K. Mahler, Some suggestions for further research, Bull. Aust. ",math.NT,A,-0.10432914,-0.024116784,-0.2983885
+http://arxiv.org/pdf/2204.10140v1,Murmurations of elliptic curves,"Indeed, we ob-
+serve that as we look at elliptic curve sets of larger conductors, the frequency of
+oscillation becomes lower. We will further study the relationship between conductor
+and frequency in Section 4.5. In Figure 8, we plot fr(n) for r ∈ {0, 1, 2, 3} and NE ∈ [1, 1×105]. ",math.NT,C,0.009411018,0.024032347,0.052107245
+http://arxiv.org/pdf/2204.10924v1,Reflection theorems of Ohno-Nakagawa type for quartic rings and pairs of $n$-ary quadratic forms,"The summing step precedes routinely, noting that ε♣ is equidistributed because
+
+everything is contained in a non-charmed coarse coset. In the case h1 = 0, that is, [δ⊙] ∈ F0, some further analysis must be done to narrow the support. By
+
+Lemma 6.7, we can ﬁnd a ξ1⊙ such that M11 is an equality on the nose and also such that ξ1⊙(K) = 0 (to
+allow recovery of [δ♣] = [δ⊙♦♣ξ′2]). ",math.NT,C,0.15677623,0.15661299,-0.05924072
+http://arxiv.org/pdf/2204.10924v2,Reflection theorems of Ohno-Nakagawa type for quartic rings and pairs of $n$-ary quadratic forms,"The summing step precedes routinely, noting that ε♣ is equidistributed because
+
+everything is contained in a non-charmed coarse coset. In the case h1 = 0, that is, [δ⊙] ∈ F0, some further analysis must be done to narrow the support. By
+
+Lemma 6.7, we can ﬁnd a ξ1⊙ such that M11 is an equality on the nose and also such that ξ1⊙(K) = 0 (to
+allow recovery of [δ♣] = [δ⊙♦♣ξ′2]). ",math.NT,C,0.15677623,0.15661299,-0.05924072
+http://arxiv.org/pdf/2204.10930v1,An Algorithm to Find Sums of Consecutive Powers of Primes,"n             Prime 1  Prime 2
+14720439      131      941
+16535628      1123     569
+34714710      2389     401
+40741208      131      653
+61436388      569      809
+603346308     401      919
+1172360113    3701     4673
+1368156941    1367     16519
+1574100889    3623     613
+1924496102    11657    2803
+1989253499    3359     613
+2021860243    3701     4297
+6774546339    11273    47513
+9770541610    1663     7243
+12230855963   10177    2777
+12311606487   28603    3257
+12540842446   11087    479
+14513723777   1663     6323
+26423329489   1709     32401
+38648724198   2777     6967
+
+n             Prime 1  Prime 2
+47638558043   28097    65731
+50195886916   479      6857
+50811319931   2039     21283
+56449248367   2803     4127
+86659250142   4561     53609
+105146546059  29587    6599
+119789313426  31847    42299
+125958414196  16763    26183
+134051910100  183047   4397
+159625748030  1367     3301
+169046403821  183829   19717
+263787548443  47297    62347
+330881994258  11161    2039
+438882621700  16763    20369
+507397251905  643      75013
+572522061248  18427    44371
+687481319598  16139    338461
+780455791261  3257     7057
+847632329089  184003   7523
+854350226239  14821    6599
+
+                                9
+4.3 Initial Elements of Sk
+
+We wrap up the presentation of our computations with the ﬁrst few elements
+of each of the Sk sets we computed. S2:
+4 9 13 25 34 38 49 74 83 87 121 169 170 195 204 208 289 290 339 361
+
+    S3:
+8 27 35 125 152 160 343 468 495 503 1331 1674 1799 1826 1834 2197 3528
+3871 3996 4023
+
+    S5:
+32 243 275 3125 3368 3400 16807 19932 20175 20207 161051 177858 180983
+181226 181258 371293 532344 549151 552276 552519
+
+    S10:
+1024 59049 60073 9765625 9824674 9825698 282475249 292240874 292299923
+292300947
+
+    S20:
+1048576 3486784401 3487832977 95367431640625 95370918425026 95370919473602
+79792266297612001 79887633729252626 79887637216037027 79887637217085603
+
+5 Future Work
+
+We have several ideas for future work:
+
+    • Our primary goal is to parallelize our algorithm from §2 to extend our
+       computations. For larger powers, this will also mean using multiple-
+       precision integer arithmetic using, for example, GMP. ",math.NT,A,-0.2906903,-0.020526225,-0.35465807
+http://arxiv.org/pdf/2204.11267v6,Curious congruences for cyclotomic polynomials,"5, 200-221. We are hoping to
+discuss these in a future work. References
+
+ [1] B. Bzd¸ega, A. Herrera-Poyatos, P. Moree, Cyclotomic polynomials at roots of unity. ",math.NT,A,-0.23388416,-0.11936568,-0.022324733
+http://arxiv.org/pdf/2204.12311v1,Formalizing a Diophantine Representation of the Set of Prime Numbers,"The second work proves the DPRM theorem following
+   the approach proposed by Matiyasevich in [7] instead of proving the bounded universal
+   quantiﬁcation theorem. There, the discussed future work is to extend it to register machines
+   to prove the undecidability of the Halting problem. Carneiro’s formalization in Lean [2]
+   uses Pell equations to prove the key lemma of Matiyasevich, stating that exponentiation is
+   diophantine. ",math.NT,A,0.061569545,0.010250073,-0.21942568
+http://arxiv.org/pdf/2204.12626v1,GCD of sums of $k$ consecutive squares of generalized Fibonacci numbers,"Moreover, we provide
+                                                                           01
+
+                                          very tantalizing closed forms in the speciﬁc settings of the Fibonacci, Lucas, and generalized
+                                          Fibonacci numbers. We close with a number of open questions for further research. Contents
+
+                                          1 Introduction and motivation                                                                                                                                                                                                               2
+
+                                          2 Preliminary deﬁnitions                                                                                                                                                                                                                    3
+
+                                          3 The generalized Fibonacci setting                                                                                                                                                                                                         4
+
+                                          3.1 A simple formula for GG2 ,G (k) . ",math.NT,B,-0.34792984,-0.08313371,-0.0856297
+http://arxiv.org/pdf/2204.13457v1,Arithmetic modularity of special divisors and arithmetic mixed Siegel-Weil formula (with an appendix by Yujie Xu),"The integral model is not smooth,
+but is explicitly described in [LTX+22]. We hope to include this level structure in a future work. In fact, if we also use admissible 1-cycles, our approach combined with a recent result of Z.
+Zhang [Zha21b, Theorem 14.6] is already applicable to prove the analog of Theorem 4.4.19, after
+replacing normalized admissible extensions of special divisors by the “admissible projections”
+of the Kudla-Rapoport divisors at these new places (provided that they can also be suitably
+deﬁned on our models). ",math.NT,C,0.22500938,-0.15144554,0.13482891
+http://arxiv.org/pdf/2204.13457v2,Modularity of arithmetic special divisors for unitary Shimura varieties (with an appendix by Yujie Xu),"The integral model is not smooth, but is explicitly
+described in [LTX+22]. We hope to include this level structure in a future work. In fact, if we also
+use admissible 1-cycles, our approach combined with a recent result of Z. Zhang [Zha21b, Theorem
+14.6] is already applicable to prove the analog of Theorem 4.4.22, after replacing normalized admis-
+sible extensions of special divisors by the “admissible projections” of the Kudla-Rapoport divisors
+at these new places (provided that they can also be suitably deﬁned on our models). ",math.NT,C,0.22802624,-0.16094704,0.1278323
+http://arxiv.org/pdf/2205.00135v1,Failing to hash into supersingular isogeny graphs,"18
+Nevertheless, there may be some hope in better understanding and computing ΨN,t(a), as well as
+ﬁnding its Fp2-rational roots. We leave further investigation for future work. 5 Genus 2 Walks
+
+Let A be a principally polarised abelian surface (PPAS) over a ﬁnite ﬁeld Fq of characteristic
+p > 2. ",math.NT,C,0.0994333,-0.25865453,-0.072967626
+http://arxiv.org/pdf/2205.00135v2,Failing to hash into supersingular isogeny graphs,"This might
+
+be feasible using algorithms such as Rojas’ algorithm for sparse polynomial systems [60]. However,
+
+further research is needed to draw conclusions about the concrete speedup that can be achieved
+
+using this additional structure and to assess the cost of solving the polynomial systems given in
+
+this section. Unlike the Hasse polynomial of Section 3 and arguably the function fn,m,p of Section 4, the
+
+polynomial system to be solved in this section can certainly be stored in polynomial space. ",math.NT,A,-0.20249823,0.00599805,-0.24620953
+http://arxiv.org/pdf/2205.02145v1,"D-finiteness, rationality, and height II: lower bounds over a set of positive density","Finally, in §4 we
+provide some comments to results in the paper. This includes a demonstration that
+one cannot, in a certain sense, strengthen Theorem 1.1 in the style of Theorem 3.9
+and several open problems for future work. These problems include a complete
+classiﬁcation of the possible growth of h(an) for a D-ﬁnite series anzn ∈ Q¯ [[z]]
+as well as a similar long standing open problem in the theory of Siegel E-functions. ",math.NT,B,-0.2150459,0.10776585,0.35889927
+http://arxiv.org/pdf/2205.02145v2,"D-finiteness, rationality, and height II: lower bounds over a set of positive density","In §4 we provide some comments to results in the paper. This includes a
+demonstration that one cannot, in a certain sense, strengthen Theorem 1.1 in the
+style of Theorem 3.9 and several open problems for future work. These problems
+include a complete classiﬁcation of the possible growth of h(an) for a D-ﬁnite series
+
+   anzn ∈ Q¯ [[z]] as well as a similar long standing open problem in the theory of
+Siegel E-functions. ",math.NT,B,-0.20927355,0.10730844,0.35336077
+http://arxiv.org/pdf/2205.02145v3,"D-finiteness, rationality, and height II: lower bounds over a set of positive density","In §4 we provide some comments to results in the paper. This includes a
+4  JASON P. BELL, KHOA D. NGUYEN, AND UMBERTO ZANNIER
+
+demonstration that one cannot, in a certain sense, strengthen Theorem 1.1 in the
+style of Theorem 3.9 and several open problems for future work. These problems
+include a complete classiﬁcation of the possible growth of h(an) for a D-ﬁnite series
+
+   anzn ∈ Q¯ [[z]] as well as a similar long standing open problem in the theory of
+Siegel E-functions. ",math.NT,B,-0.21945105,0.11427006,0.35707474
+http://arxiv.org/pdf/2205.03103v1,Endoscopy on $\mathrm{SL}_2$-eigenvarieties,"In terms of our picture in §1.1,
+the non-classical forms constructed by Hellmann–Hernandez–Schraen should arise from the local sheaves
+Fv for v | p. In particular, whereas the “obstruction to classicality” in our paper is global, coming from
+endoscopy, the obstruction of Hellmann–Hernandez–Schraen is local at p.
+
+   The phenomenon of endoscopy in the global p-adic Langlands program has, to the best of our knowl-
+edege, hardly been studied before beyond the works [Lud18b, Lud18a] of the second author. We hope that
+our work will provide a good starting point for further study. 1.3.2. ",math.NT,C,0.37602687,-0.24438334,0.1299671
+http://arxiv.org/pdf/2205.03103v2,Endoscopy on $\mathrm{SL}_2$-eigenvarieties,"In terms of our picture in §1.1,
+the non-classical forms constructed by Hellmann–Hernandez–Schraen should arise from the local sheaves
+Fv for v | p. In particular, whereas the “obstruction to classicality” in our paper is global, coming from
+endoscopy, the obstruction of Hellmann–Hernandez–Schraen is local at p.
+
+   The phenomenon of endoscopy in the global p-adic Langlands program has, to the best of our knowl-
+edege, hardly been studied before beyond the works [Lud18b, Lud18a] of the second author. We hope that
+our work will provide a good starting point for further study. 1.3.2. ",math.NT,C,0.37602687,-0.24438334,0.1299671
+http://arxiv.org/pdf/2205.03558v1,From Fontaine-Mazur conjecture to analytic pro-p groups -- A survey,"The goal of this paper is to introduce these purely
+group-theoretic tools, which are not so well-known among (young) arithmetic geometers, and to re-
+view some of the main results they bring about various conjectures related to Conjectures 1.1 and 1.4. We also present some related questions on which is based current and future works of the authors. We think that this survey paper may be of interest to anyone willing to have a diﬀerent viewpoint
+FROM FONTAINE-MAZUR CONJECTURE TO ANALYTIC PRO-p-GROUPS : A SURVEY                                        3
+
+on Fontaine-Mazur Conjecture, which does not require advanced knowledge in p-adic representation
+theory and underlines the number-theoretic nature of the problem. ",math.NT,C,0.09766931,-0.15118083,-0.06199597
+http://arxiv.org/pdf/2205.06298v1,Categorifying quadratic zeta functions,"A likely candidate is I(SX) where SX is the simplicial complex of X, since it is a simplicial object with
+a well-known relation to the Euler characteristic. We plan to revisit this example in future work. References                                                      26
+
+    Higher Degree Extensions. ",math.NT,C,0.14311498,-0.09415284,-0.11591762
+http://arxiv.org/pdf/2205.06553v1,On sets with sum and difference structure,"Theorem 1.1. rA,Bpnq “ 1 for every nonnegative integer n, if and only if
+        A “ tǫ0 ` ǫ2m1m2 ` ¨ ¨ ¨ ` ǫ2k´2m1 ¨ ¨ ¨ m2k´2 ` ¨ ¨ ¨ , ǫ2i “ 0, 1, ¨ ¨ ¨ , m2i`1 ´ 1u,
+
+(1.2) B “ tǫ1m1 ` ǫ3m1m2m3 ` ¨ ¨ ¨ ` ǫ2k´1m1 ¨ ¨ ¨ m2k´1 ` ¨ ¨ ¨ , ǫ2i´1 “ 0, 1, ¨ ¨ ¨ , m2i ´ 1u,
+(or A, B interchanged), where m1, m2, ¨ ¨ ¨ are integers no less than two. Based on Theorem 1.1, we naturally posed the following problem for further research:
+
+Problem 1.2. Is it true that if A and B are inﬁnite additive complements and not of the form (1.2),
+then rA,Bpnq ě 2 for inﬁnitely many positive integer n? ",math.NT,A,-0.0538131,0.3092354,-0.18646334
+http://arxiv.org/pdf/2205.07570v1,Weighted approximation in higher-dimensional missing digit sets,"1, 97–118. 1, 7
+
+[36] K. Mahler, Some suggestions for further research, Bull. Austral. ",math.NT,A,-0.014923502,-0.06216922,-0.2994449
+http://arxiv.org/pdf/2205.12107v1,An Extension of Hejhal's Algorithm to Infinite Volume Fundamental Domains,"In theory, our algorithm applies to an abundance of examples. In Appendix
+B, we present two speciﬁc scenarios which would be interesting starting points
+for further research. 5
+                                   Figure 5: F for r = 7/20
+
+1.5 Acknowledgments
+
+This paper is derived from the author’s thesis, which was written under the di-
+rection of Alex Kontorovich. ",math.NT,A,-0.14609793,0.20775947,-0.29277694
+http://arxiv.org/pdf/2205.15620v1,Pole structure of Shintani zeta functions and Newton polytopes,"The focus in this article is on the pole structure, as obtained in Theorems
+3.6 and 4.8. This calls for a full-ﬂedged multivariable Laurent expansion of the Shintani zeta functions
+around the poles along the lines of [GPZ4], a question we hope to address in future work. Such Laurent
+expansions would provide a consistent way to evaluate the Shintani zeta functions at the poles. ",math.NT,B,-0.15489632,-0.21776798,0.34271553
+http://arxiv.org/pdf/2206.00115v1,On the Brousseau sums $\sum_{i=1}^n i^p F_i$,"Our insight is that we can start with simple formulas that involve only binomial
+coeﬃcients, and then work our way towards the desired Brousseau sums. As an
+encouragement for future work, we have this formula for the Pell numbers, deﬁned
+as P0 = 0, P1 = 1, and Pn = 2Pn−1 + Pn−2. Our formula is
+
+                                           n  i3 −  3 i2 −             3 i0  · Pn−i,
+                                                    2                  0
+               Pn − n3 = 2
+
+                                         i=1
+
+and of course this is almost identical to our nice little identity (3) for the Fibonaccis,
+which is how we began this journey. ",math.NT,A,-0.4364164,-0.13122329,-0.24773948
+http://arxiv.org/pdf/2206.00115v2,On the Brousseau sums $\sum_{i=1}^n i^p F_i$,"Our insight is that we can start with simple formulas that involve only binomial
+coeﬃcients, and then work our way towards the desired Brousseau sums. As an
+encouragement for future work, we have this formula for the Pell numbers, deﬁned
+as P0 = 0, P1 = 1, and Pn = 2Pn−1 + Pn−2. Our formula is
+
+                                           n  i3 −  3 i2 −  3 i0  · Pn−i,
+                                                    2       0
+               Pn − n3 = 2
+
+                                         i=1
+
+and of course this is almost identical to our nice little identity in Equation (2) for
+the Fibonacci numbers, which is how we began this journey. ",math.NT,A,-0.48212296,-0.10028354,-0.23131679
+http://arxiv.org/pdf/2206.02192v1,"Jacobi forms, Saito-Kurokawa lifts, their Pullbacks and sup-norms on average","But perhaps results on fractional moments of central L-values may be relevant
+here, we have not checked this. We end the introduction by mentioning several questions and remarks which can be pursued
+for further research on the topics considered in this paper. (i) It is not clear to us how to improve the index aspect of Theorem 1.4. ",math.NT,B,0.023854362,0.12062309,0.22377774
+http://arxiv.org/pdf/2206.04821v1,Moments of zeta and correlations of divisor-sums: stratification and Vandermonde integrals,"This includes expressing Fourier transforms of test
+functions in terms of the gamma function (Lemma 3.1), as has been done in [15], [16], and
+[19]. In future work, we aim to adapt the method to other families of L-functions and make
+parts of it more rigorous. Acknowledgments. ",math.NT,B,-0.22460553,0.123751655,0.3913681
+http://arxiv.org/pdf/2206.04821v2,Moments of zeta and correlations of divisor-sums: stratification and Vandermonde integrals,"This includes expressing Fourier transforms of test
+functions in terms of the gamma function (Lemma 3.1), as has been done in [15], [16], and
+[19]. In future work, we aim to adapt the method to other families of L-functions and make
+parts of it more rigorous. Acknowledgments. ",math.NT,B,-0.22460553,0.123751655,0.3913681
+http://arxiv.org/pdf/2206.05079v1,Unfolding and injectivity of the Kudla-Millson lift of genus 1,"The new procedure illustrated in this paper has the advantage of paving the ground for
+                                          a strategy to prove the injectivity of the Kudla–Millson lift in the case of general signature,
+                                          generalizing [BF10], as well as the cases of genus higher than 1; see Section 8 for further
+                                          information. Results on those diﬀerent cases are currently part of further research, and will
+                                          be published separately. We now explain the results of this article in more details. ",math.NT,C,0.2496934,-0.20275503,-0.18133983
+http://arxiv.org/pdf/2206.05329v1,Geometric and arithmetic aspects of approximation vectors,"However this necessitates some additional arguments
+          and some additional conditions on the norm. We hope to return to
+          these topics in future work. (2) Let α = (α1, . ",math.NT,C,0.15804544,0.47294757,-0.02218966
+http://arxiv.org/pdf/2206.06442v1,Extremal weights and a tameness criterion for mod $p$ Galois representations,"When K/Qp is unramiﬁed,
+everything can be proved using the techniques of [LLHLMa]. The ramiﬁed case requires extending
+
+[LLHLMa] which will be the subject of future work. First, we brieﬂy recall what we need from [EGa]. ",math.NT,A,0.11518018,0.0035977603,-0.14121208
+http://arxiv.org/pdf/2206.06944v1,Zariski density of crystalline points,"Such arguments were ﬁrst employed by Colmez [10] and Kisin [18]
+to show that every 2-dimensional irreducible p-adic representation of GQp lies in
+the image of the Colmez’s Montreal functor. This is an important result in the
+p-adic Langlands correspondence for GL2(Qp) and has motivated further research
+on the question of density of crystalline points. Let us review some of the past work on this problem. ",math.NT,C,0.24214756,-0.29811913,0.05225241
+http://arxiv.org/pdf/2206.10037v1,Recent progress on bounds for sets with no three terms in arithmetic progression,"N )1−o(1)
+
+2.4. Almost-periodicity of convolutions
+
+Sanders        (2011)  was  the  ﬁrst  to  prove  a  bound   of  the  form  r3(N )      ≪  (log    N        ,  and
+                                                                                                 N )1−o(1)
+
+he did this not by further analysis of the additive structure of large spectra, but by
+
+utilizing methods on the “physical side”. Croot and Sisask (2010) proved a variety
+
+of theorems saying, roughly, that convolutions are approximately translation-invariant
+
+under a large set of shifts, and called this phenomenon almost-periodicity. ",math.NT,A,-0.19184768,0.18908846,0.011996832
+http://arxiv.org/pdf/2206.10276v1,de Rham crystals on the prismatic site of $\mathcal{O}_K$,"1.18 (and related results on Sen-Fontaine theory), by generalizing Sen
+         theory over the Kummer tower developed in [Gao22]; our approach on Thm. 1.18 is similar,
+         although we adopt an axiomatic treatment which will be of use in our future work in the
+         relative case [GMW]. • Liu can prove full faithfulness results in Theorems 1.17 and 1.11, but not essential surjectivity
+         therein. ",math.NT,C,0.35777062,-0.13068202,-0.14560515
+http://arxiv.org/pdf/2206.11125v1,Pullback formulas for arithmetic cycles,"One could also try to prove similar formulas for
+other Green currents, such as those of Funke-Hofmann [FH21]. The author
+hopes to address some of these questions in future work. 1.2. ",math.NT,B,0.019093173,-0.016195815,0.23193924
+http://arxiv.org/pdf/2206.12442v1,Families of $φ$-congruence subgroups of the modular group,"In a slightly different direction, under what
+conditions do these families give rise to expander graphs as in the case of modular
+curves [20]? We hope to return to some of these questions in future work. 1.1. ",math.NT,C,0.012655092,-0.13375294,0.09211363
+http://arxiv.org/pdf/2206.12442v2,Families of $φ$-congruence subgroups of the modular group,"In a slightly different direction, under what
+conditions do these families give rise to expander graphs as in the case of modular
+curves [23]? We hope to return to some of these questions in future work. 1.1. ",math.NT,C,0.018591626,-0.12738246,0.10192075
+http://arxiv.org/pdf/2206.13403v1,Field change for the Cassels-Tate pairing and applications to class groups,"A
+potentially more elegant approach would be to redeﬁne the Cassels–Tate pairing using
+injective resolutions. We hope to return to this alternative in future work. In the proofs of Proposition 4.4 and Theorem 4.5 we will use the following class ﬁeld
+theoretic lemma. ",math.NT,C,0.38500792,-0.0456435,-0.1456007
+http://arxiv.org/pdf/2206.14931v1,Convolutions of Goss and Pellarin $L$-series,"This
+takes up the bulk of §3. What we produce is a bit more general than what we require,
+though we anticipate it will be useful for future work (e.g., see Corollary 3.7.8). For n 0, let Z = {z1, . ",math.NT,C,0.015827253,0.3398559,0.043571476
+http://arxiv.org/pdf/2206.14959v1,Explicit open images for elliptic curves over $\mathbb{Q}$,"14. F
+
+   We now discuss a point of view that may be of use for further study of modular curves and
+Mazur’s Program B; these remarks will not be used elsewhere in the paper. Let be an open subgroup of GL2(Z) satisfying det( ) = Z× and −I ∈ . ",math.NT,C,0.20353232,-0.27046412,0.100853674
+http://arxiv.org/pdf/2206.15372v1,A local analogue of the ghost conjecture of Bergdall-Pollack,"It seems that, with appropriate modiﬁcations, the ghost series framework might still partially
+work. We hope to address some of these cases in future works. We do not know how to generalize the ghost conjecture framework beyond GL2(Qp). ",math.NT,B,-0.09653384,-0.09080273,-0.056751855
+http://arxiv.org/pdf/2206.15372v2,A local analogue of the ghost conjecture of Bergdall-Pollack,"It seems that, with appropriate modiﬁcations, the ghost series framework might still partially
+work. We hope to address some of these cases in future works. We do not know how to generalize the ghost conjecture framework beyond GL2(Qp). ",math.NT,B,-0.09653384,-0.09080273,-0.056751855
+http://arxiv.org/pdf/2207.02747v1,Dimension formulas for Siegel modular forms of level $4$,"In particular,
+
+                                         Sk(Γy) ⊂ Im(Φ˜ ). (30)
+
+                            y∈Y
+
+To further study Im(Φ˜ ), we choose for every x ∈ X a yx ∈ Y and a ρx ∈ Ryx such that the 0-cusp
+represented by x equals Cyx,ρx. In terms of double cosets, this means
+
+                            ΓxP (Q) = Γyxι(ρx)P (Q). ",math.NT,C,0.2683949,-0.024118595,-0.15044129
+http://arxiv.org/pdf/2207.02913v1,Bounds for the distribution of the Frobenius traces associated to a generic abelian variety,"Following
+
+the  strategy  of  [Mu85],  the  result  of  [BuFiKe20]  seems  to  give  πA(x, t)  ≪A,t  x1−        1  (log  x)c  for  some
+                                                                                               2g2 +2g
+
+(possibly non-negative) constant c, a bound which does not improve upon Theorem 1. We plan to explore
+
+this approach in depth in future work. Finally, let us note that similar methods may be used to obtain upper bounds for πA(x, t) for other types
+
+of abelian varieties A. ",math.NT,C,0.17865042,0.014396204,-0.019879727
+http://arxiv.org/pdf/2207.03425v1,Haros graphs: an exotic representation of real numbers,"The above-mentioned open problems and conjectures relate to a proposed research programme on the structural
+properties of Haros graphs. Complementary to this, we envision two additional research avenues. The ﬁrst is about
+deﬁning dynamical rules on the set of Haros graphs by means of a graph renormalization operator [20, 31] and
+accordingly studying how the dynamics attractors relate to the underlying number system. ",math.NT,A,-0.04582396,0.14608228,-0.04982817
+http://arxiv.org/pdf/2207.03822v2,A Conjecture of Coleman on the Eisenstein Family,"Especially, if one wants to do
+explicit, computational work, for instance with Coleman families, of which there are very few,
+explicit examples, the approach using Eisenstein series (see [8] and [9] for examples with small
+primes) might still have merit and in fact might at this point in time be the only option. We hope
+to return to this point in future work. Finally, we would like to mention that the paper [21] is concerned, as are we, with problems
+of extending modular forms further into the supersingular locus. ",math.NT,C,-0.020602524,-0.4196152,-0.027287763
+http://arxiv.org/pdf/2207.04852v1,Further q-reflections on the modulo 9 Kanade-Russell (conjectural) identities,"In contrast, the ﬁve identities studied by Uncu and Zudilin led to ﬁve new and ten
+conjectural identities. Here we are short seven conjectural identities, but that will be the
+subject of future work. 2. ",math.NT,B,-0.16416,0.077497974,-0.063678816
+http://arxiv.org/pdf/2207.04852v2,Further q-reflections on the modulo 9 Kanade-Russell (conjectural) identities,"In contrast, the ﬁve identities studied by Uncu and Zudilin led to ﬁve new and ten
+conjectural identities. Here we are short seven conjectural identities, but that will be the
+subject of future work. 2. ",math.NT,B,-0.16416,0.077497974,-0.063678816
+http://arxiv.org/pdf/2207.05143v1,The distribution of fixed point Selmer groups in twist families,"A module that does not satisfy
+these conditions will have a distinct distribution of ω-Selmer groups in its favored twist
+family compared to any module that satisﬁes these conditions. We hope that future work
+4  FIXED POINT SELMER GROUPS
+
+will give us more information about the wide variety of distributions that can appear if
+these technical conditions do not hold. 1.1. ",math.NT,C,0.11798203,-0.18036044,-0.03106993
+http://arxiv.org/pdf/2207.06486v1,Distributions of Hook Lengths Divisible by Two or Three,"Consider the series
+
+                                        ∞                ∞
+
+                           D(q) := (1 − qm)8 := d(k)qk. m=1              k=0
+
+To further study the coeﬃcients d(k), Han–Ono [7] noted that the renormalized series
+
+                                        ∞        ∞
+
+                           D(q) := d∗(n)qn := d(n)q3n+1
+
+                           n=1                   n=0
+
+arises as the q-expansion of a modular form belonging to S4(Γ0(9)), the space of weight 4 cusp
+forms on Γ0(9). They used the fact that dim S4(Γ0(9)) = 1 to show that D(q) is in fact a
+normalized Hecke eigenform, and thus deduce general multiplicative properties of its Fourier
+
+coeﬃcients d(k). ",math.NT,B_centroid,-0.18126652,-0.3103903,0.26392674
+http://arxiv.org/pdf/2207.06486v2,Distributions of Hook Lengths Divisible by Two or Three,"Consider the series
+
+                                        ∞           ∞
+
+         D(q) := (1 − qm)8 := d(k)qk. m=1      k=0
+
+To further study the coeﬃcients d(k), Han–Ono [7] noted that the renormalized series
+
+                                        ∞        ∞
+
+         D(q) := d∗(n)qn := d(n)q3n+1
+
+         n=1                                     n=0
+
+arises as the q-expansion of a modular form belonging to S4(Γ0(9)), the space of weight 4 cusp
+forms on Γ0(9). They used the fact that dim S4(Γ0(9)) = 1 to show that D(q) is in fact a
+normalized Hecke eigenform, and thus deduce general multiplicative properties of its Fourier
+
+coeﬃcients d(k). ",math.NT,B,-0.18126652,-0.3103903,0.26392674
+http://arxiv.org/pdf/2207.08659v1,Helson zeta functions for characters with finitely many values,"In the sense of Helson’s theorem, the Riemann zeta function is in the
+exceptional set because of its pole at 0. This calls for further study of analytic
+continuation of Helson zeta function for χ’s from the exceptional set. In [1]
+it was shown that the set of zeroes of the meromorophic continuation of ζχ
+in the strip 1/2 < ℜs < 1 can be essentially arbitrary. ",math.NT,B,-0.11013632,-0.013386594,0.33038586
+http://arxiv.org/pdf/2207.08915v1,Generalized class polynomials,"The total running time. Concluding this preliminary analysis, we estimate
+the cost of computing Hτ [C] to be signiﬁcantly lower compared to Hτ [x], though
+further research, in particular into (the implementation of) modular polynomials for
+C is required to determine the exact gain. This is beyond the scope of the current
+paper, which focuses on introducing the generalized class functions and their height
+reduction. ",math.NT,A,-0.20485431,-0.14096457,-0.073801085
+http://arxiv.org/pdf/2207.08915v2,Generalized class polynomials,"The total running time. Concluding this preliminary analysis, we estimate
+the cost of computing Hτ [C] to be signiﬁcantly lower compared to Hτ [x], though
+further research, in particular into (the implementation of) modular polynomials for
+C is required to determine the exact gain. This is beyond the scope of the current
+paper, which focuses on introducing the generalized class functions and their height
+reduction. ",math.NT,A,-0.20485431,-0.14096457,-0.073801085
+http://arxiv.org/pdf/2207.11650v3,Gonality of the modular curve $X_0(N)$,"8.2. Applications and future work. As has been mentioned in the introduction, the
+LMFDB will contain modular curves XΓ for all congruence subgroups Γ ≤ SL2(Z) up to
+some level. ",math.NT,C,0.065010086,-0.23354053,0.014827032
+http://arxiv.org/pdf/2207.13039v2,On some determinants and permanents,"In particular, we investigate the new-type determinants
+                                                       det[(i2 + cij + dj2)p−2]1≤i,j≤p−1 and det[(i2 + cij + dj2)p−2]0≤i,j≤p−1
+                                                      modulo an odd prime p, where c and d are integers. We also pose some
+                                                      conjectures for further research. 1. ",math.NT,A,-0.15004292,-0.19790001,-0.18637277
+http://arxiv.org/pdf/2207.13365v1,On the computation of modular forms on noncongruence subgroups,"We remark that the improved solving
+techniques that were presented in Section 4.3 should also be beneﬁcial in the computation of
+Maass cusp forms, Taylor expansions of modular forms and other examples of modular forms
+at arbitrary precision arithmetic. We also hope that our demonstration of the eﬀectiveness
+of the usage of mixed-precision arithmetic in the context of arbitrary precision arithmetic
+might inspire future work. Acknowledgements
+
+   The authors would like to thank Fredrik Str¨omberg for assistance in the installation of
+Psage and John Voight for useful comments. ",math.NT,A,-0.20049052,-0.3014337,-0.12593463
+http://arxiv.org/pdf/2208.00359v2,A Dynamical Analogue of the Criterion of Néron-Ogg-Shafarevich,"In some sense this is the starting point for
+the next sections, but we track more dynamical data along the way. So, while not strictly
+necessary, we chose to reframe our results in this anabelian setting because (1) the common
+language makes it easier to compare the two kinds of representation, and better illuminates
+the geometric aspects of the results, and (2) this paper serves as a test case in anticipation
+of future work which makes more essential use of these tools. It is also worth noting that Nakamura’s anabelian weight ﬁltration and rigidity results ? ",math.NT,C,0.29094964,-0.16603339,-0.10246518
+http://arxiv.org/pdf/2208.01102v1,"Euler Systems and Selmer Bounds for GU(2,1)","For r ≥ 2, little is known
+about the existence of rank r Euler systems so we will only consider r = 0, 1. This p-adic L-function will
+conjecturally interpolate values of the complex L-function of V , although this is beyond the scope of this
+paper and will follow in future work. Back to our speciﬁc case; ﬁrst let’s assume p splits and ﬁx a choice of prime ℘ | p. Let η be an algebraic
+Hecke character of conductor dividing mp∞ for some ideal m ⊂ OE (which we can often take to be the unit
+ideal) and inﬁnity type (s, r) and let V = VP(Π)∗. ",math.NT,C,0.048833147,-0.08420339,0.21094374
+http://arxiv.org/pdf/2208.06141v1,Explicit bounds on the summatory function of the Möbius function using the Perron formula,"Concluding remarks
+
+   It has been noted in [19] that the bounds we have applied on |ζ(s)|−1 are sub-optimal. Therefore, improvements to the values for R2 for each W will automatically improve our
+results too; this is a subject of future work by the authors. Next, consider the contour in Figure 1. ",math.NT,B,-0.09851067,-0.010225344,0.31305563
+http://arxiv.org/pdf/2208.06141v2,Explicit bounds on the summatory function of the Möbius function using the Perron formula,"Concluding remarks
+
+   It has been noted in [19] that the bounds we have applied on |ζ(s)|−1 are sub-optimal. Therefore, improvements to the values for R2 for each W will automatically improve our
+results too; this is a subject of future work. Next, consider the contour in Figure 1. ",math.NT,B,-0.09675955,-0.009878935,0.31046188
+http://arxiv.org/pdf/2208.06566v1,Theta correspondence and simple factors in global Arthur parameters,"Their
+
+results do not cover the metaplectic case, but the method should generalise
+
+without diﬃculty. We hope to supply the details in a future work. Note that
+
+our ρ± below is diﬀerent from their ρ and ρ−. ",math.NT,C,0.154495,-0.011651421,-0.057436414
+http://arxiv.org/pdf/2208.06602v1,Counting ideals in ray classes,"We ﬁnally mention that the
+present work relies on several highly non-trivial results, like the bound for the regulator given
+by E. Friedman in [3], and the lower bound for the height of an algebraic number provided by
+E. Dobrowolski in [2]. COUNTING IDEALS IN RAY CLASSES                                                3
+
+   We have several applications of our result which we leave for future works. The paper is
+organized as follows. ",math.NT,C,0.101758346,0.026724808,-0.021082586
+http://arxiv.org/pdf/2208.06602v2,Counting ideals in ray classes,"We ﬁnally
+mention that the present work relies on several highly non-trivial results, like the bound for
+the regulator given by E. Friedman in [3], and the lower bound for the height of an algebraic
+number provided by E. Dobrowolski in [2]. COUNTING IDEALS IN RAY CLASSES                                                3
+
+   We have several applications of our result which we leave for future works. The paper is
+organized as follows. ",math.NT,C,0.101758346,0.026724808,-0.021082586
+http://arxiv.org/pdf/2208.06650v1,Some congruences from the Karlsson-Minton summation formula,", mn are nonnegative integers and ℜ(−a) > m1 + · · · + mn. Motivated by (4.2) and based on some numerical calculations, we made the following con-
+
+jecture for further study. Conjecture 4.1. ",math.NT,A,-0.20998195,0.19950587,-0.08763024
+http://arxiv.org/pdf/2208.07065v1,The Localization Method Applied to $k$-Elongated Plane Partitions and Divisibility by 5,"Additional Congruence Results. Theorem 1.1 constitutes our central result, and we believe that our
+methods used to prove it will prove extremely useful in future work. However, in searching for Theorem 1.1 and
+any other congruence families of similar form, we have also discovered many other interesting congruence results
+by various powers of 5. ",math.NT,A,-0.07503789,-0.0689768,-0.22884786
+http://arxiv.org/pdf/2208.07065v2,The Localization Method Applied to $k$-Elongated Plane Partitions and Divisibility by 5,"Additional Congruence Results. Theorem 1.1 constitutes our central result, and we believe that our
+methods used to prove it will prove extremely useful in future work. However, in searching for Theorem 1.1 and
+any other congruence families of similar form, we have also discovered many other interesting congruence results
+by various powers of 5. ",math.NT,A,-0.07503789,-0.0689768,-0.22884786
+http://arxiv.org/pdf/2208.07195v1,The connected components of affine Deligne--Lusztig varieties,"When b is not necessarily basic, although Conjecture 5.2 is intuitively true
+(because the semistable locus is both open and dense inside Gr◦µ × Spd Cp),
+it becomes technically more challenging to justify that density implies the
+
+bound on dimension. We intend to come back to this in a future work. 42  I. GLEASON, D.G. ",math.NT,C,0.47319013,0.1269347,0.0068844575
+http://arxiv.org/pdf/2208.07696v1,BBP-type formulas -- an elementary approach,"Of course, it is entirely possible that we have
+just not found all zero formulas for other numbers. The issue deﬁnitely
+requires further study. Second, the original intention behind BBP-type formulas was to ﬁnd
+deep digits in the expansions of numbers such as π, and indeed the
+original BBP formula allows one to calculate the n’th binary digit of π
+without knowing all the preceding ones. ",math.NT,A,-0.24627823,-0.03920047,-0.24673182
+http://arxiv.org/pdf/2208.08716v1,A motivic interpretation of Whittaker periods for $\mathrm{GL}_n$,"2
+
+          The answer is aﬃrmative due to Sun’s recent result [Sun17]. Conjecture 6.8 is a stronger and more
+          precise version of [KMS00, Section 0, Question], which is necessary for further study of critical values
+          of Rankin–Selberg L-functions; namely it is fundamental for precise study of p-adic Rankin–Selberg
+          L-functions discussed by Januszewski [Jan]. From now on we admit Conjecture 6.8 and take cohomology classes [πv(n+1)]ε(vn+1) and [πv(n)]ε(vn) appearing
+there. ",math.NT,B,0.019066287,-0.18816827,0.2146737
+http://arxiv.org/pdf/2208.12377v1,Rigorous numerical integration of algebraic functions,"Indeed in [MN17] the authors ﬁnd
+that in the case of calculating the Abel-Jacobi map for hyperelliptic curves, the Gauss-
+Chebychev method is generically the best. There is thus scope for future work comparing
+the performance with these quadratures. 6.4. ",math.NT,C,-0.061293393,-0.32594147,-0.10939054

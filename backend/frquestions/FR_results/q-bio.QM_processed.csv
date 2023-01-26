@@ -1,0 +1,842 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01852v1,"Pruning deep neural networks generates a sparse, bio-inspired nonlinear controller for insect flight","Network motifs are statistically significant substructures in a network
+                 and have been shown to be indicative of network functionality in control systems [40]. Other areas of future work include investigating the sparse network’s response to noise
+                 and changes in the biological parameters. Biological control systems are adapted to
+                 function adequately in the presence of noise. ",q-bio.QM,A,-0.22884431,0.03693872,-0.2767668
+http://arxiv.org/pdf/2201.03675v1,Continuous-Time Probabilistic Models for Longitudinal Electronic Health Records,"This method is geared
+towards the incorporation of entire longitudinal EHR data streams that could
+enable probabilistic inference and quantiﬁcation of risk odds for diverse subjects. The analysis of such models is left as future work. 6. ",q-bio.QM,C_centroid,0.033087872,-0.22626399,0.4573313
+http://arxiv.org/pdf/2201.03675v2,Continuous-Time Probabilistic Models for Longitudinal Electronic Health Records,"This method is geared
+towards the incorporation of entire longitudinal EHR data streams that could
+enable probabilistic inference and quantiﬁcation of risk odds for diverse subjects. The analysis of such models is left as future work. 21
+6. ",q-bio.QM,C,0.034323547,-0.22613749,0.456171
+http://arxiv.org/pdf/2201.03675v3,Continuous-Time Probabilistic Models for Longitudinal Electronic Health Records,"This method is geared
+towards the incorporation of entire longitudinal EHR data streams that could
+enable probabilistic inference and quantiﬁcation of risk odds for diverse subjects. The analysis of such models is left as future work. 6. ",q-bio.QM,C,0.033087872,-0.22626399,0.4573313
+http://arxiv.org/pdf/2201.04099v2,Detailed Balance for Particle Models of Reversible Reactions in Bounded Domains,"These include volume exclusion and other ﬁnite size eﬀects that may be important in more
+dense systems5, along with potential interactions between particles7. We hope to report on
+more general multiparticle systems in future work. Finally, we note that it has recently been demonstrated that PBSRD models predict
+reduced macroscopic reaction rates for molecules localized near surface boundaries44. ",q-bio.QM,A,-0.19884312,-0.0071041025,-0.34179795
+http://arxiv.org/pdf/2201.04099v3,Detailed Balance for Particle Models of Reversible Reactions in Bounded Domains,"These include volume exclusion and other ﬁnite size eﬀects that may be important in more
+dense systems5, along with potential interactions between particles7. We hope to report on
+more general multiparticle systems in future work. Finally, we note that it has recently been demonstrated that PBSRD models predict
+reduced macroscopic reaction rates for molecules localized near surface boundaries44. ",q-bio.QM,A,-0.19884312,-0.0071041025,-0.34179795
+http://arxiv.org/pdf/2201.05262v1,Genome-wide networks reveal emergence of epidemic strains of Salmonella Enteritidis,"4.1.3 Bioinformatic analysis of sequenced genomes
+
+Demultiplexed sequencing reads with > 1 × 107 reads per isolate were trimmed (Bolger et al.,2014), based on a
+minimum quality read score of 20, and then de novo assembled using SPAdes (version 3.13.0) (Bankevich et al.,2012). The quality of de novo assemblies was assessed with Quast (version 5.0.2) (Gurevich et al.,2013); only assemblies with
+< 200 contigs and N50 values of > 50, 000 bp were included in further analysis. Multiple-locus variable-number tandem-repeats analysis (MLVA) was carried out from ﬁnal contigs using MLVA In
+Silico Typing Resource for Salmonella Strains (MISTReSS, https://github.com/Papos92/MISTReSS). ",q-bio.QM,B,0.34463942,0.20820227,0.10674907
+http://arxiv.org/pdf/2201.05262v2,Genome-wide networks reveal emergence of epidemic strains of Salmonella Enteritidis,"4.1.3 Bioinformatic analysis of sequenced genomes
+
+Demultiplexed sequencing reads with > 1 × 107 reads per isolate were trimmed (Bolger et al.,2014), based on a
+minimum quality read score of 20, and then de novo assembled using SPAdes (version 3.13.0) (Bankevich et al.,2012). The quality of de novo assemblies was assessed with Quast (version 5.0.2) (Gurevich et al.,2013); only assemblies with
+< 200 contigs and N50 values of > 50, 000 bp were included in further analysis. Multiple-locus variable-number tandem-repeats analysis (MLVA) was carried out from ﬁnal contigs using MLVA In
+Silico Typing Resource for Salmonella Strains (MISTReSS, https://github.com/Papos92/MISTReSS). ",q-bio.QM,B,0.34463942,0.20820227,0.10674907
+http://arxiv.org/pdf/2201.05408v1,Systematic analysis reveals key microRNAs as diagnostic and prognostic factors in progressive stages of lung cancer,"The stem-loop microRNA we studied, which is the precursor of mature microRNA, can be regarded as a reference
+of mature microRNA helping to better understand the potential molecules of prognostic and diagnostic factors in
+the progression of LUAD. This mechanism of action can be used for further research on potential drug targets. The quantitative analysis of microRNA expression data is indeed signiﬁcant for cancer development, validating and
+demonstrating the power of our framework of dynamical biomarkers research. ",q-bio.QM,A,0.052380115,0.039329782,0.08125044
+http://arxiv.org/pdf/2201.05930v1,From policy to prediction: Forecasting COVID-19 dynamics under imperfect vaccination,"It may not
+represent how many people are actually getting vaccinated so it has no relation to either vaccination
+rate or cumulative vaccinated proportion. For future work, it would be interesting to consider diﬀerent infected compartments representing
+individuals infected with diﬀerent strains of the virus. One can also study immunity waning cases
+where recovered and vaccinated individuals return to the susceptible compartment after a period of
+time. ",q-bio.QM,C,-0.06444852,-0.12851052,0.37843114
+http://arxiv.org/pdf/2201.06074v1,Developing a data analysis pipeline for automated protein profiling in immunology,"that evaluated the
+diagnostic potential of pro-inflammatory oxylipins and cytokines in serum samples of 103 women undergoing
+laparoscopy. Results of their study showed limited diagnostic potential of the measured circulating biomarkers for
+the diagnosis of endometriosis, warranting additional studies to evaluate the exact role of systemic inflammation
+in endometriosis49. Although we evaluated a broad spectrum of inflammatory proteins in plasma samples of patients with differ-
+ent types of endometriosis and controls with several different multifactorial benign gynaecological conditions,
+both within a well-defined cohort, included detailed protocols, obtained a large set of clinical data, included
+different nationalities, combined with high throughput methodology and advanced statistical approaches,
+our results were consistent with several previous studies indicating limited diagnostic potential of circulating
+cytokines for the diagnosis of endometriosis. ",q-bio.QM,C,0.14161554,-0.10051971,0.23574738
+http://arxiv.org/pdf/2201.07552v1,Small Cohort of Epilepsy Patients Showed Increased Activity on Facebook before Sudden Unexpected Death,"But we do stress that the lack of appropriate sample
+size and a rigorous case-control in our current study hinders generalization of our ﬁndings
+at this point. Nonetheless, our preliminary results serve to invite additional research into
+this problem, especially to encourage attention to social media and other digital behavior
+data, thus contributing to better prediction of warning signals of SUDEP. One possible avenue to evaluate the potential of sentiment analysis for predicting SUDEP
+is to employ statistical machine learning models using the text and sentiment analysis tools
+we described above. ",q-bio.QM,A,-0.14185223,0.10986453,0.22856912
+http://arxiv.org/pdf/2201.10895v1,"A novel sustainable role of compost as a universal protective substitute for fish, chicken, pig, and cattle, and its estimation by structural equation modeling","Reads
+with an average quality value of <25 and inexact matches to both universal primers
+were filtered out. Filter-passed reads were used for further analysis after trimming off
+both primer sequences. For each sample, quality filter-passed reads were rearranged
+in descending order according to the quality value and then clustered into OTUs with
+a 97% pairwise-identity cutoff using the UCLUST program version 5.2.32
+(https://www.drive5.com). ",q-bio.QM,B,0.82795775,0.005087916,-0.18329854
+http://arxiv.org/pdf/2201.10895v2,"A novel sustainable role of compost as a universal protective substitute for fish, chicken, pig, and cattle, and its estimation by structural equation modeling","Reads
+
+                                                    32
+with an average quality value of <25 and inexact matches to both universal primers
+were filtered out. Filter-passed reads were used for further analysis after trimming off
+both primer sequences. For each sample, quality filter-passed reads were rearranged
+in descending order according to the quality value and then clustered into OTUs with
+a 97% pairwise-identity cutoff using the UCLUST program version 5.2.32
+(https://www.drive5.com). ",q-bio.QM,B,0.8254085,0.008100726,-0.19392215
+http://arxiv.org/pdf/2201.10895v3,"A novel sustainable role of compost as a universal protective substitute for fish, chicken, pig, and cattle, and its estimation by structural equation modeling","Reads with an
+average quality value of <25 and inexact matches to both universal primers were
+filtered out. Filter-passed reads were used for further analysis after trimming off both
+primer sequences. For each sample, quality filter-passed reads were rearranged in
+descending order according to the quality value and then clustered into OTUs with a
+97% pairwise-identity cutoff using the UCLUST program version 5.2.32
+(https://www.drive5.com). ",q-bio.QM,B,0.82795775,0.005087916,-0.18329854
+http://arxiv.org/pdf/2201.10895v4,"A novel sustainable role of compost as a universal protective substitute for fish, chicken, pig, and cattle, and its estimation by structural equation modeling","Reads with an average quality value of <25 and inexact matches to both universal primers
+were filtered out. Filter-passed reads were used for further analysis after trimming off both primer
+sequences. For each sample, quality filter-passed reads were rearranged in descending order according
+to the quality value and then clustered into OTUs with a 97% pairwise-identity cutoff using the UCLUST
+program version 5.2.32 (https://www.drive5.com). ",q-bio.QM,B,0.82795775,0.005087916,-0.18329854
+http://arxiv.org/pdf/2201.12459v1,Gate-based Quantum Computing for Protein Design,"The ibmq toronto and the           Nevertheless, using the maximum number of iterations,
+ibmq montreal have QV values of 32 and 128, respec-            i.e., R = 4 (Equation 3), the probability of ﬁnding the
+tively. To further study the role of diﬀerent noise sources    answer states increases to ∼ 100%, and the probability
+on our toy model circuit, we implement selective noise         of all other states becomes almost zero (Figure 4-B). sources of the real quantum devices in simulators. ",q-bio.QM,A,-0.09758209,-0.21762973,-0.23459303
+http://arxiv.org/pdf/2201.12644v1,Associations between depression symptom severity and daily-life gait characteristics derived from long-term acceleration signals in real-world settings,"Intermittent walking (such as walking in a crowded environment
+or a walking-rest transition status) with a short walking time of a minute may not fully
+reflect a participant’s normal walking patterns. Therefore, we set 50 seconds as the
+threshold for selecting continuous walking segments, that is, the segments with more
+than 50 seconds of walking time were selected for further analysis. In this step,
+depression score records with no continuous walking segments detected in the
+corresponding period were discarded. ",q-bio.QM,C,0.05965971,-0.33880657,0.18820912
+http://arxiv.org/pdf/2201.13373v3,Exact linear reduction for rational dynamical systems,"For each model, the table contains the name in the database and a reference to
+        the related paper. The observables in Table 2 were chosen as the states yielding
+        nontrivial reductions, further analysis of these reductions is a question of future
+        research. • The models we use as examples in this paper (see Section 5) in Table 3. ",q-bio.QM,C,-0.03250844,-0.23756547,-0.042858914
+http://arxiv.org/pdf/2202.00507v1,Backcasting COVID-19: A Physics-Informed Estimate for Early Case Incidence,"Subsequently, we present the relevant data and their structure in Section 2.2, comment on
+uncertainty in diagnosed cases in 2.3, and we present a schematic of our methodology in 2.4. In Section 3 we
+present our numerical ﬁndings, and Section 4 wraps up the manuscript with some conclusions and directions
+
+                                                                      2
+for future work. The Supplementary Material contains further information on our methodology, describes
+model parameters, and addresses issues concerning data uncertainty and hyperparameter tuning. ",q-bio.QM,C,-0.0027024224,-0.23258552,0.1969913
+http://arxiv.org/pdf/2202.00882v1,MPVNN: Mutated Pathway Visible Neural Network Architecture for Interpretable Prediction of Cancer-specific Survival Risk,"This makes the architecture more robust to bias that
+may arise in supervised machine learning when some population groups are not well represented in the training set,
+for instance due to lack of survival data here, but mutation data is available for those groups and can be incorporated
+in the model. As only the PI3K-Akt pathway used in this study is not sufﬁcient in fully demonstrating MPVNN predictive power,
+future work would look at conducting larger scale experiments with larger gene expression proﬁles using knowledge
+and data for multiple pathways in the MPVNN architecture design to further evaluate cancer-speciﬁc survival risk
+prediction performance. In future, we would also like to experimentally investigate the roles of the important signal
+
+                                                                      9
+ﬂow identiﬁed from MPVNN interpretation for different cancer types, and importantly explore their relevance to
+cancer drug target identiﬁcation. ",q-bio.QM,A,-0.11607793,0.31082705,0.06731712
+http://arxiv.org/pdf/2202.02245v1,Personalized visual encoding model construction with small data,"This method is limited
+in that a) names, pronouns, and social media proﬁles used to construct the databases may not, in every case, be indicative of
+gender identity and b) it cannot account for intersex, non-binary, or transgender people. We look forward to future work that
+could help us to better understand how to support equitable practices in science. 14/14 ",q-bio.QM,C,0.019113386,0.02208989,0.21973254
+http://arxiv.org/pdf/2202.02245v2,Personalized visual encoding model construction with small data,"This method is limited
+in that a) names, pronouns, and social media proﬁles used to construct the databases may not, in every case, be indicative of
+gender identity and b) it cannot account for intersex, non-binary, or transgender people. We look forward to future work that
+could help us to better understand how to support equitable practices in science. 13/14
+Figure 6. a The NeuroGen framework concatenates a image generator (BigGAN) with an encoding model to synthesize
+images that achieve a desired predicted response in one or more brain regions. ",q-bio.QM,A,-0.097398296,0.055352755,0.06505651
+http://arxiv.org/pdf/2202.03132v1,Agricultural quality matrix-based multi-omics structural analysis of carrot under soils fertilized with thermophile-fermented compost,"Reads with an
+average quality value of <25 and inexact matches to both universal primers were filtered
+out. Filter-passed reads were used for further analysis after trimming off both primer
+sequences. For each sample, quality filter-passed reads were rearranged in descending
+order according to the quality value and then clustered into OTUs with a 97% pairwise-
+
+                                                    31
+identity cutoff using the UCLUST program version 5.2.32 (https://www.drive5.com). ",q-bio.QM,B,0.8305925,0.004948333,-0.18224058
+http://arxiv.org/pdf/2202.03132v2,Agricultural quality matrix-based multiomics structural analysis of carrots in soils fertilized with thermophile-fermented compost,"Reads with
+showing an average quality value of <25 and inexact matches to both universal primers
+were filtered out. Filter-passed reads were used for further analysis after trimming both
+primer sequences. The quality filter-passed reads of each sample were rearranged in
+descending order according to the corresponding quality values and then clustered into
+OTUs with a 97% pairwise-identity cutoff using the UCLUST program, version 5.2.32
+(https://www.drive5.com). ",q-bio.QM,B_centroid,0.8292705,0.017536197,-0.17680871
+http://arxiv.org/pdf/2202.03132v3,Agricultural quality matrix-based multiomics structural analysis of carrots in soils fertilized with thermophile-fermented compost,"Reads with
+showing an average quality value of <25 and inexact matches to both universal primers
+were filtered out. Filter-passed reads were used for further analysis after trimming both
+primer sequences. The quality filter-passed reads of each sample were rearranged in
+descending order according to the corresponding quality values and then clustered into
+OTUs with a 97% pairwise-identity cutoff using the UCLUST program, version 5.2.32
+(https://www.drive5.com). ",q-bio.QM,B,0.8292705,0.017536197,-0.17680871
+http://arxiv.org/pdf/2202.03132v4,Agricultural quality matrix-based multiomics structural analysis of carrots in soils fertilized with thermophile-fermented compost,"Reads
+showing an average quality value of <25 and inexact matches to both universal primers
+were filtered out. Filter-passed reads were used for further analysis after trimming both
+primer sequences. The quality filter-passed reads of each sample were rearranged in
+descending order according to the corresponding quality values and then clustered into
+OTUs with a 97% pairwise identity cutoff using the UCLUST program, version 5.2.32
+(https://www.drive5.com). ",q-bio.QM,B,0.8312185,0.007623017,-0.1668798
+http://arxiv.org/pdf/2202.03886v1,"Integration of Clinical, Biological, and Computational Perspectives to Support Cerebral Autoregulatory Informed Clinical Decision Making Decomposing Cerebral Autoregulation using Mechanistic Timescales to Support Clinical Decision-Making","The most common sCA metrics include the pressure reactivity index
+(PRx) and mean flow index (Mx). A dCA test can directly determine CA function without
+further analysis by considering CA impaired if CBF passively follows ABP or intact if the
+restoration of CBF occurs before ABP is restored. An additonal dCA metric is the autoregulatory
+index (ARI), which quantifies CA impairment on a scale from 0-9. ",q-bio.QM,C,0.16214673,-0.366188,0.0860554
+http://arxiv.org/pdf/2202.04823v1,Decreasing Annotation Burden of Pairwise Comparisons with Human-in-the-Loop Sorting: Application in Medical Image Artifact Rating,"Additionally, sorting algorithms are well optimized to choose comparisons
+which are useful for producing a ranking [14], which may have resulted in increased agreement. For future work, one avenue to explore further is the use of top-K partial sorting algorithms for further
+efﬁciency improvements. We also plan to reproduce these results with more annotators and more data
+in order to further validate our sorting strategy for comparison ranking. ",q-bio.QM,A,0.1683496,0.02521308,-0.0009866855
+http://arxiv.org/pdf/2202.06325v1,Single-cell Bayesian deconvolution,"Two sources of improve-          tion dynamics,” Science 315, 1716–1719 (2007). ment over the current implementation could be explored
+in future work. The ﬁrst is to reduce the evaluation time     3H. ",q-bio.QM,A,-0.11815983,-0.24932384,-0.34284535
+http://arxiv.org/pdf/2202.06635v1,Novel prediction methods for virtual drug screening,"Lead compounds are just ﬁrst iterations of a             properties. Goal of the drug discovery process can be ﬁnding novel drugs
+molecule that is going to be further researched and possibly        (de-novo) or repurposing existing drugs for treatments other than currently
+approved as a drug. To be chosen for further development            approved by FDA. ",q-bio.QM,A,-0.13055113,0.1631663,-0.03728455
+http://arxiv.org/pdf/2202.07078v1,A Queueing Model of Patient Flow for Stroke Networks to Estimate Acute Stroke Transfer Capacity,"While we could
+potentially address this issue by dividing the day into multiple time blocks (such that the parameters can
+be considered static within each interval), the model cannot capture other factors including ED crowding
+and disruptions of care that may occur, since our simulation estimates long-run averages of the outcomes. Therefore, future work that considers time-varying parameters or fitting of the distributions of arrival
+times and LOS could be informative. Similarly, effects of other types of AS transfer protocol-related
+changes could also be further examined (e.g., decrease in available Neuro-ICU beds, such as during the
+early phase of the COVID-19 pandemic) or major changes in a PSC-CSC stroke network due to
+consolidation of health systems. ",q-bio.QM,C,-0.17577916,-0.4536965,0.22861227
+http://arxiv.org/pdf/2202.09388v2,A Molecular Prior Distribution for Bayesian Inference Based on Wilson Statistics,"(11) at negligible computational expense, but more involved strategies such as the ones discussed
+
+in section 4 could incur a more substantial cost. We leave this question to future work. 4 Discussion
+
+We showed a prior based on Wilson statistics outperforms a diagonal prior at solving two linear inverse problems within
+the MAP estimation framework. ",q-bio.QM,C,0.027834294,-0.18028791,-0.06969633
+http://arxiv.org/pdf/2202.09708v1,Statistical and Topological Summaries Aid Disease Detection for Segmented Retinal Vascular Images,"In         by a medical expert. In addition to delivering remote clin-
+future work, we plan to combine topological and statisti-       ical services to patients, automated diagnoses prior to
+cal methods with machine learning algorithms and math-          medical consultations, would enable doctors to devote
+ematical modeling to infer the mechanisms that lead to          more time to evaluating non-standard cases. diabetic retinopathy and other microvascular diseases
+of the retina [32, 51]. ",q-bio.QM,C,-0.07934374,-0.12269768,0.12011054
+http://arxiv.org/pdf/2202.09708v2,Statistical and Topological Summaries Aid Disease Detection for Segmented Retinal Vascular Images,"In         by a medical expert. In addition to delivering remote clin-
+future work, we plan to combine topological and statisti-       ical services to patients, automated diagnoses prior to
+cal methods with machine learning algorithms and math-          medical consultations, would enable doctors to devote
+ematical modeling to infer the mechanisms that lead to          more time to evaluating non-standard cases. diabetic retinopathy and other microvascular diseases
+of the retina [32, 51]. ",q-bio.QM,C,-0.07934374,-0.12269768,0.12011054
+http://arxiv.org/pdf/2202.09708v3,Statistical and Topological Summaries Aid Disease Detection for Segmented Retinal Vascular Images,"Topological and statistical analyses, on the other hand, generate metrics that are
+interpretable. In future work, we will combine topological and statistical methods with machine
+learning algorithms and mathematical modeling to infer the mechanisms that lead to diabetic
+retinopathy and other microvascular diseases of the retina39,61. A limitation of this study is the small sample size. ",q-bio.QM,A,-0.10991985,-0.04002942,0.0030771717
+http://arxiv.org/pdf/2202.10253v1,AutoClassWeb: a simple web interface for Bayesian clustering,"To continue to oﬀer this powerful clustering method to the community, we propose Au-
+toClassWeb, a new easy-to-use open-source web-based interface for AutoClass C.
+
+2 Implementation
+
+2.1 AutoClassWrapper
+
+AutoClassWeb utilizes AutoClassWrapper ([Camadro and Poulain, 2019]), a Python wrap-
+per for the AutoClass C algorithm. This wrapper facilitates the preparation and quality
+control of data, runs the actual classiﬁcation, and eventually, prepare results in format that
+allow further analysis. 2.2 Web interface
+
+AutoClassWeb is written in Python and uses the Flask module to build the web interface
+users interact with. ",q-bio.QM,A,-0.043537837,0.08327437,-0.034271132
+http://arxiv.org/pdf/2202.10253v2,AutoClassWeb: a simple web interface for Bayesian clustering,"To continue to oﬀer this powerful Bayesian clustering method to the commu-
+nity, we developed AutoClassWeb, a new easy-to-use open-source web interface for
+AutoClass C.
+
+Main text
+
+Implementation
+AutoClassWeb utilizes AutoClassWrapper [6], a Python wrapper for the AutoClass
+C program. This wrapper facilitates the preparation and quality control of data,
+runs the actual classiﬁcation, and eventually, prepare results in ﬁle formats that
+allow further analysis. AutoClassWeb is written in Python [11] and uses the Flask library to build the
+web interface users interact with. ",q-bio.QM,A,-0.014217507,0.108029634,-0.042347092
+http://arxiv.org/pdf/2202.11144v1,Robust Hierarchical Patterns for identifying MDD patients: A Multisite Study,"Unifying structural, functional and disease information would give a more
+comprehensive view of neurobiological abnormalities and altered brain functioning and improve
+MDD diagnosing ability. Our proposed model has a few weaknesses, adding directions for future work. First, we only consider
+logistic regression as our classiﬁcation model, the results of which might be sub-optimal. ",q-bio.QM,C,-0.08002345,-0.13133301,0.32103956
+http://arxiv.org/pdf/2202.11989v1,Analysis of Genotype-Phenotype Association using Fields and Information Theory,"Preliminary numericaly studies show this method highlights more
+genes as having an inﬂuence on phenotype than classic GWAS; this is due to the ability
+to distinguish between negative controls (SNPs which have no inﬂuence on phenotype) and
+SNPS which have a weak inﬂuence. In future work, we propose to use these techniques to study the genome of arabidopsis
+[1], includeing SNPs which are genuinely bi-allelic - that is - where the zero state is present
+in the sample, along with with the +1 and -1 states, and use larger samples, so that the
+informational ﬁelds can be explored. We also propose to study in more detail the relationship
+between these methods and the work of Fisher, to explore the various sources of variance
+in phenotype values, and to analyse cases where a single ﬁeld can be used to analyse the
+phenotype-genotype correlation [13]. ",q-bio.QM,B,0.23163354,0.10072548,0.033183604
+http://arxiv.org/pdf/2202.11989v2,Analysis of Genotype-Phenotype Association using Genomic Informational Field Theory (GIFT),"Preliminary results, both theoretical and numerical, show
+that monotone ﬁelds are due to genotype causing a shft in the mean of the phenotype distri-
+bution between different genotypes, as illustrated in (5.5) and Figure 5, whilst more general
+ﬁelds can indicate the genotype causing a change in standard deviation of the phenotype
+distributions (5.6). In future work, we propose to use these techniques to study the genome of arabidopsis
+[3], includeing SNPs which are genuinely bi-allelic - that is - where the zero state is present
+in the sample, along with with the +1 and -1 states, and use larger samples, so that the
+informational ﬁelds can be explored. We also propose to study in more detail the relationship
+between these methods and the work of Fisher, to explore the various sources of variance
+in phenotype values, and to analyse cases where a single ﬁeld can be used to analyse the
+phenotype-genotype correlation [15]. ",q-bio.QM,B,0.22794789,0.060909912,-0.023187855
+http://arxiv.org/pdf/2202.12268v1,"Hyperacute pathophysiology of traumatic and vascular brain injury captured by ultrasound, photoacoustic, and magnetic resonance imaging","Previous human and animal studies have shown that this expanded area has reduced
+perfusion in the acute phase and its size correlates with the extent of necrotic tissue
+determined at later follow-up observations (52,53). This hyperacute pathological mechanism
+and its relationship with possible neuronal changes and neurovascular dysregulation require
+further research. Injury also alters blood flow velocities in the brain. ",q-bio.QM,C,-0.06951323,-0.44849783,0.18190107
+http://arxiv.org/pdf/2202.12268v2,"Hyperacute pathophysiology of traumatic and vascular brain injury captured by ultrasound, photoacoustic, and magnetic resonance imaging","Previous human and animal studies have shown that this expanded area has reduced
+perfusion in the acute phase and its size correlates with the extent of necrotic tissue
+determined at later follow-up observations (52,53). This hyperacute pathological mechanism
+and its relationship with possible neuronal changes and neurovascular dysregulation require
+further research. Injury also alters blood flow velocities in the brain. ",q-bio.QM,C,-0.06951323,-0.44849783,0.18190107
+http://arxiv.org/pdf/2203.00743v1,Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data,"As one of the most widely used          of human diseases especially cancers (Fu, et al., 2021). synthetic glucocorticoids, Dexamethasone (DEX) has shown anti-cancer
+efficacy and anti-estrogenic activity in human non-small cell lung cancer           However, bioinformatics approaches rely on scRNA-seq data to infer
+(NSCLC) whereby further study can be made to testify its efficacy. gene regulatory networks, which only address ""mechanisms"" by proxy
+                                                                                 (i.e., correlations) without providing the underlying information (i.e., how
+   Single-cell RNA sequencing (scRNA-seq) provides unprecedented                 genes interact with one another via activation, inhibition, or binding
+opportunities for understanding cellular complexity (Athanasiadis, et al.,       pathways). ",q-bio.QM,A,0.055064738,0.22338736,0.031875335
+http://arxiv.org/pdf/2203.01830v1,Understanding microbiome dynamics via interpretable graph representation learning,"ArXiv abs/2101.01229. There are several directions for future work: 1) how        [3] Caporaso, J., Lauber, C., Costello, E., Berg-Lyons, D., Gonzalez, A.,
+to construct a time-evolving graph from metagonomic data             Stombaugh, J., Knights, D., Gajer, P., Ravel, J., Fierer, N., Gordon,
+such that it contains a real dynamics occurring in the mi-           J., Knight, R., 2011. Moving pictures of the human microbiome. ",q-bio.QM,A,-0.13691111,0.06570332,-0.13551053
+http://arxiv.org/pdf/2203.01830v2,Understanding microbiome dynamics via interpretable graph representation learning,"Concerning microbiome data, it means that our method coupled with a proper interpretation strategy can
+help to reveal underlying disease patterns in the data. There are several directions for future work: 1) how to construct a time-evolving graph from metagonomic data such that it
+contains a real dynamics occurring in the microbiome; 2) further biological analysis of results obtained from the interpretability
+of the model; 3) visualization of topological graph features, such as nodes and edges, that have impacted the model the most,
+and 4) mathematical explanation of how the model learns a graph embedding of the time-evolving graph maintaining metastable
+dynamics. Method
+
+We ﬁrst brieﬂy introduce all necessary notations and deﬁnitions, which are used in the paper, and state the problem. ",q-bio.QM,A,-0.1382101,0.122715205,-0.025275242
+http://arxiv.org/pdf/2203.02308v1,Structural features of microvascular networks trigger blood-flow oscillations,"Also, we identiﬁed a feedback mechanism that
+facilitates the onset of oscillations; here, the diameter ratio between the two branches (aﬀecting the
+ﬂux in the redundant vessel) and the presence of haematocrit in the redundant vessel (allowing for
+time-delay in the system) are crucial ingredients for such positive feedback to occur. In future work we
+aim to evaluate the role that such three-node network motifs may have in the susceptibility of larger
+vascular networks to oscillatory dynamics and multiple steady ﬂow solutions. Such an investigation
+should consider the coupled behaviour of multiple sources of oscillations, and how their frequencies
+and amplitudes are modulated. ",q-bio.QM,A,-0.21896127,-0.23402922,-0.2720418
+http://arxiv.org/pdf/2203.02308v2,Structural features of microvascular networks trigger blood-flow oscillations,"Also, we identiﬁed a feedback mechanism that
+facilitates the onset of oscillations; here, the diameter ratio between the two branches (aﬀecting the
+ﬂux in the redundant vessel) and the presence of haematocrit in the redundant vessel (allowing for
+
+                                                                 24
+time-delay in the system) are crucial ingredients for such positive feedback to occur. In future work,
+we aim to evaluate the eﬀect of redundant vessels in larger vascular networks and to explore diﬀerent
+motifs which may generate larger feedback loops and, thereby, larger scale oscillatory dynamics. Such
+an investigation should consider the coupled behaviour of multiple sources of oscillations, and how
+their frequencies and amplitudes are modulated. ",q-bio.QM,A,-0.18861881,-0.24757619,-0.26755887
+http://arxiv.org/pdf/2203.02568v1,"NEMAR: An open access data, tools, and compute resource operating on NeuroElectroMagnetic data","The data
+standardized terms be used to describe the natures of all        are then synced with NEMAR providing additional
+                                                                 functionally (data visualization and on-site computation). experimental events of interest identified in the recording      B. NEMAR BIDS-formatting tool
+
+session, either during its capture or after the fact, for            We have released a bids-matlab-tools plug-in (version 6)
+                                                                 for the popular EEGLAB [11] software environment
+potential search and reuse in further analysis and               (sccn.ucsd.edu/eeglab) running on MATLAB (The
+                                                                 Mathworks, Inc.) to export EEG data to BIDS. The plug-in
+meta-analysis. ",q-bio.QM,C,0.053241394,-0.21337365,0.07178827
+http://arxiv.org/pdf/2203.06263v1,Determining clinically relevant features in cytometry data using persistent homology,"Intuitively, feature score is an indicator of the importance of a
+                particular feature while classifying the data. By ranking the proteins by their feature
+                scores, we can reduce our further analysis to only a subset of the most important
+                proteins. Our analysis (Fig 4) shows that the top three most important proteins to the
+                XGBoost classifier are proteins T-bet, Eomes, and Ki-67. ",q-bio.QM,A,0.023826119,0.24193467,0.11798704
+http://arxiv.org/pdf/2203.10094v1,Selection of entropy based features for the analysis of the Archimedes' spiral applied to essential tremor,"complex environments. In future works new non-linear
+                                                                 features, entropy algorithms and automatic selection
+      SmEn with m=3 appears as the best option for all          methodologies will be used. paradigms. ",q-bio.QM,A,-0.16644919,-0.03482492,-0.06390814
+http://arxiv.org/pdf/2203.11687v1,BEFANA: A Tool for Biodiversity-Ecosystem Functioning Assessment by Network Analysis,"It allows ecologists to take advantage of graph theory and machine
+learning on ecological networks that can help quantifying and testing hypotheses about how a
+network's topology affects its dynamics and how the functioning of the network in turn affects its
+structure. In the future work, we plan to upgrade BEFANA regularly with new features,
+implementations and datasets. A particular focus will be on machine learning methods
+optimised for ecological networks. ",q-bio.QM,A,-0.34796232,0.12716861,-0.22695747
+http://arxiv.org/pdf/2203.11687v2,BEFANA: A Tool for Biodiversity-Ecosystem Functioning Assessment by Network Analysis,"It allows ecologists to take advantage of graph theory and machine
+learning on ecological networks that can help quantifying and testing hypotheses about how a
+network's topology affects its dynamics and how the functioning of the network in turn affects its
+structure. In the future work, we plan to upgrade BEFANA regularly with new features,
+implementations and datasets. A particular focus will be on machine learning methods optimised
+for ecological networks. ",q-bio.QM,A,-0.34796232,0.12716861,-0.22695747
+http://arxiv.org/pdf/2203.12113v3,Influence of the Endothelial Surface Layer on the Wall-induced Migration of Red Blood Cells,"While 3D simulations have become a standard approach in many
+context, performing long-time simulations in 3D at realistic hematocrit remains computationally
+challenging. On the other hand, 2D simulations are computationally feasible for long-time simula-
+tions, and allow us to gain insights that may be used as a foundation for performing 3D simulations
+more eﬀectively in future work. Another limitation of the 2D model is that it neglects the shear viscosity in the cell membrane,
+which is believed to impact dynamic deformations of the RBC [55–58]. ",q-bio.QM,A,-0.23429872,-0.17661215,-0.25344512
+http://arxiv.org/pdf/2203.12290v1,Cell segmentation from telecentric bright-field transmitted light microscopic images using a Residual Attention U-Net: a case study on HeLa line,"3), we applied the watershed segmentation method exemplarily
+to separate the cells from each other, avoid the over-segmentation, label the
+cells individually, and extract vital information about the cells (e.g., the total
+number of the segmented cells, cell equivalent diameter, mean intensity and so-
+lidity). Nevertheless, future works are still essential to expand the knowledge
+on multi-class semantic segmentation with diﬀerent and eﬃcient CNN’s archi-
+tecture and combine the constructed CNN models in the prediction process to
+achieve the most accurate segmentation result. 22
+FUNDING
+
+    This work was supported by the Ministry of Education, Youth and Sports of
+the Czech Republic – projects CENAKVA (LM2018099) and from the European
+Regional Development Fund in frame of the project ImageHeadstart (ATCZ215)
+in the Interreg V-A Austria–Czech Republic programme. ",q-bio.QM,A,-0.12034362,-0.029480737,-0.13486932
+http://arxiv.org/pdf/2203.12290v2,Cell segmentation from telecentric bright-field transmitted light microscopy images using a Residual Attention U-Net: a case study on HeLa line,"3), the watershed segmentation method was applied to
+separate the cells from each other, avoid over-segmentation, label the cells in-
+dividually, and extract vital information about the cells (e.g., the total number
+of the segmented cells, cell equivalent diameter, mean intensity and solidity). Nevertheless, future works are still essential to expand the knowledge on multi-
+
+                                                  24
+class semantic segmentation with diﬀerent and eﬃcient CNN’s architecture and
+combine the constructed CNN models in the prediction process to achieve the
+most accurate segmentation result. FUNDING
+    This work was supported by the Ministry of Education, Youth and Sports of
+
+the Czech Republic – projects CENAKVA (LM2018099) and from the European
+Regional Development Fund in frame of the project ImageHeadstart (ATCZ215)
+in the Interreg V-A Austria–Czech Republic programme. ",q-bio.QM,A,-0.12819262,-0.04956309,-0.14059843
+http://arxiv.org/pdf/2203.12290v3,Cell segmentation from telecentric bright-field transmitted light microscopy images using a Residual Attention U-Net: a case study on HeLa line,"3), the watershed segmentation method was applied to
+separate the cells from each other, avoid over-segmentation, label the cells in-
+dividually, and extract vital information about the cells (e.g., the total number
+of the segmented cells, cell equivalent diameter, mean intensity and solidity). Nevertheless, future works are still essential to expand the knowledge on multi-
+
+                                                  24
+class semantic segmentation with diﬀerent and eﬃcient CNN’s architecture and
+combine the constructed CNN models in the prediction process to achieve the
+most accurate segmentation result. FUNDING
+    This work was supported by the Ministry of Education, Youth and Sports
+
+of the Czech Republic – project CENAKVA (LM2018099), by the European
+Regional Development Fund in frame of the project ImageHeadstart (ATCZ215)
+in the Interreg V-A Austria–Czech Republic programme, and by the project
+GAJU 017/2016/Z. ",q-bio.QM,A,-0.12579575,-0.04909487,-0.14164427
+http://arxiv.org/pdf/2203.13946v1,Using genome-wide expression compendia to study microorganisms,"These three
+platforms provide detailed and standardized meta-data that can be accessed programmatically
+and easily used in high throughput computational analyses.121 An alternative approach is to
+verify the strain annotation using taxonomy assignments provided in the SRA Run Browser
+analysis tab, or to perform assignment using with a tool like sourmash gather, which selects the
+minimum set of reference genomes in a database necessary to cover the reads in a sample.122
+
+Alternatively, a pangenome could be used as a reference so that core genes are collapsed
+across strain types while accessory genes are included in the analysis.109 Using these
+pangenomes as a reference balances computational cost and fidelity to sample genomes, and
+can take advantage of databases designed to address similar problems for metagenomic
+sample processing.123 This approach was pioneered for the analysis of Staphylococcus aureus
+(S. aureus) strains directly from metatranscriptomes, as no reference genome was available
+with which to perform read quantification. This approach may be successful for building species-
+wide compendia but needs further research. Indeed, one substantial draw back would be the
+negation of spanning reads, as pangenomes are typically built from genes and not operons. ",q-bio.QM,B,0.20758787,0.29508442,0.044637747
+http://arxiv.org/pdf/2203.13982v1,Implications of Mortality Displacement for Effect Modification and Selection Bias,"We acknowledge that statistical uncertainty may be obstacles in
+inferring multiple RRls (43). This research area is nascent, and further research is warranted. Acknowledgement: This publication was developed under Assistance Agreement
+No. ",q-bio.QM,C,0.16703576,-0.07385185,-0.024591237
+http://arxiv.org/pdf/2204.01700v1,Modeling COVID-19 vaccine-induced immunological memory development and its links to antibody level and infectiousness,"Finally, we only fit the dataset of inactivated vaccines, while
+the mRNA vaccines produce the spike protein, which may last a few weeks,
+and maintain long-lasting immunogenicity. mRNA vaccine datasets can be
+simulated by adding mRNA variables to our model, and we will expand our
+model to adapt more types of vaccines in future work. Overall, our model provides a framework and predicts antibody levels
+induced by inactivated vaccines at different vaccine doses and various
+regimens, which may be a complement to clinical trials. ",q-bio.QM,A,-0.14927691,0.09871808,0.29929405
+http://arxiv.org/pdf/2204.05415v1,Bayesian Parameter Estimation for Dynamical Models in Systems Biology,"To avoid global versus local identiﬁability complications, we ﬁxed K1 and K2 to their
+nominal values. Additionally, we omitted the total concentration parameters, S1t, S2t, and S3t, from
+further analysis because we assume they would be speciﬁed according to the cell type that corresponds
+to the available data. As a result, we narrowed the free parameters down to a set of 9 parameters,
+from a set of 14 originally. ",q-bio.QM,A,0.051771097,-0.045966454,-0.123874396
+http://arxiv.org/pdf/2204.05415v2,Bayesian Parameter Estimation for Dynamical Models in Systems Biology,"To avoid global versus local identiﬁability complications, we ﬁxed K1 and K2 to their
+nominal values. Additionally, we omitted the total concentration parameters, S1t, S2t, and S3t, from
+further analysis because we assume they would be speciﬁed according to the cell type that corresponds
+to the available data. As a result, we narrowed the free parameters down to a set of 9 parameters,
+from a set of 14 originally. ",q-bio.QM,A,0.051771097,-0.045966454,-0.123874396
+http://arxiv.org/pdf/2204.05919v4,Leveraging Reaction-aware Substructures for Retrosynthesis Analysis,"The substructures are stable and remain unchanged
+during chemical reactions. For future work, we will improve the accuracy of extracted substruc-
+tures. We might also investigate how to apply the substructures to other tasks like molecule
+property prediction or molecular design. ",q-bio.QM,A,-0.0705631,0.18443543,-0.31802332
+http://arxiv.org/pdf/2204.08608v1,G2GT: Retrosynthesis Prediction with Graph to Graph Attention Neural Network and Self-Training,"Hence, this
+work can be viewed as a molecular representation pretraining task. We have obtained preliminary
+results on some molecular property prediction tasks, which will be discussed in future works. References
+
+ [1] W. L. Chen, D. Z. Chen, and K. T. Taylor. ",q-bio.QM,A_centroid,-0.15339753,0.39097506,-0.124050945
+http://arxiv.org/pdf/2204.10073v1,New confidence interval methods for Shannon index,"However,
+the limitations of our work rely on the restricted simulated scenarios leading us to produce
+limited recommendations for community structures. So, in future work, we will explore more
+biological scenarios. 10
+                                       5 Conclusion
+
+The simulation study showed that the bootstrap-t method produced a superior performance for
+88% of the simulated dataset for Shannon’s diversity, H, indicating its superior overall perfor-
+mance as compared to the others and, thus, we recommend it when the community structure
+analysed is similar to the ones that we simulated. ",q-bio.QM,A,-0.15749583,0.027545914,-0.034963995
+http://arxiv.org/pdf/2204.11006v1,In silico evaluation of Paxlovid's pharmacometrics for SARS-CoV-2: a multiscale approach,"Despite the mathematical model’s necessary
+simpliﬁcations and the short scope of this case study we were able to visualize and verify the
+importance of prophylactic interventions, moreover, we identiﬁed the speciﬁc time window
+where delaying treatment initiation proves to be most costly. As for directions of future work, we highlight that such hybrid models and computational
+frameworks hold a great deal of promise with applications such as supporting clinical trials
+by means of in silico experiments. Computation-based evaluation and simulation of therapies
+not only can enhance optimization of treatments, but a further development of this technology
+could also serve to reduce the need for animal testing in the future. ",q-bio.QM,A,-0.18290822,-0.06414554,0.088438645
+http://arxiv.org/pdf/2204.14141v1,Learning Anisotropic Interaction Rules from Individual Trajectories in a Heterogeneous Cellular Population,"Instead, one      compute statistics. We aim to investigate the requirements
+          could further reﬁne the model by performing an ad-      for performing classiﬁcation with chaotic interacting particles
+          ditional regression combining all data from the iden-   in future work. tiﬁed species. ",q-bio.QM,A,-0.20572186,-0.055839397,-0.022193417
+http://arxiv.org/pdf/2205.01753v1,Self-focusing virtual screening with active design space pruning,"p∗ scheduling It is also possible to schedule the value of p∗ used in the pruning decision
+to more conservatively prune in the beginning when the model has less data and more
+aggressively as the optimization proceeds. As there a number of ways in which to schedule
+this value, we leave the investigation of this idea to future work. Initialization Optimization performance is dependent on initialization conditions and
+DSP is doubly sensitive. ",q-bio.QM,A,-0.018834777,-0.08816494,-0.1528512
+http://arxiv.org/pdf/2205.02645v1,PyDaddy: A Python package for discovering stochastic dynamical equations from timeseries data,"we are indeed making rapid headways towards collect-       Modifying and adopting the package described here to
+ing such data in many ecological systems. At the scale     account for realistic features presents interesting direc-
+of individual organisms, both tag-based (radio collar,     tions for future work. GPS, etc) and high-resolution video based tracking of
+animals [37] (or cells [38]) yield high spatio-temporal       In summary, as the era of big data looms over much of
+resolution data of how animals (or cells) move in space. ",q-bio.QM,A,-0.168402,-0.06882973,-0.10551493
+http://arxiv.org/pdf/2205.02645v2,PyDaddy: A Python package for discovering stochastic dynamical equations from timeseries data,"While            • Getting started with vector data
+we are not aware of any studies that have looked at the          • Recovering SDEs from SDE-generated time series
+minimum length required to estimate the drift and diffu-         • Advanced function ﬁtting
+sion reliably, based on our own numerical simulations of         • Exporting data
+models shown in this study, we speculate that the total          • Fitting non-polynomial functions
+length must be at least a few orders of magnitude times      The tutorial notebooks can be accessed here:
+the length of the autocorrelation time. https://pydaddy.readthedocs.io/en/latest/
+   We expect many challenges, and hence opportuni-           tutorials.html
+ties for future work, when applying these methods to            PyDaddy also comes with some sample datasets:
+complex ecological systems. First, despite the fact that         • Real world data of ﬁsh schooling (taken from
+we have automated various steps, there are still a few
+choices the user will make. ",q-bio.QM,A,-0.09359138,-0.1197086,-0.17482427
+http://arxiv.org/pdf/2205.04464v1,Differentiable Electron Microscopy Simulation: Methods and Applications for Visualization,"To mitigate this limitation, we believe it is possible to use neural networks to learn and
+transfer the patterns from various data. With the differentiability of our simulator, future work can be done to embed a
+neural network into the physics model of our simulator, taking advantage of the generalizability of neural networks
+while preserving physical intuitions. Acknowledgment
+
+The authors would like to thank Sai Li and his team at School of Life Sciences, Tsinghua University, China for sharing
+the SARS-CoV-2 cryo-EM data for this work. ",q-bio.QM,A,-0.32505524,-0.027038723,-0.26172423
+http://arxiv.org/pdf/2205.04464v2,Differentiable Electron Microscopy Simulation: Methods and Applications for Visualization,"To mitigate this limitation, we believe it is possible to use neural networks to learn and
+transfer the patterns from various data. With the differentiability of our simulator, future work can be done to embed a
+neural network into the physics model of our simulator, taking advantage of the generalizability of neural networks
+while preserving physical intuitions. Acknowledgment
+
+The authors would like to thank Sai Li and his team at School of Life Sciences, Tsinghua University, China for sharing
+the SARS-CoV-2 cryo-EM data for this work. ",q-bio.QM,A,-0.32505524,-0.027038723,-0.26172423
+http://arxiv.org/pdf/2205.05789v1,RITA: a Study on Scaling Up Generative Protein Sequence Models,"Following ProteInfer (Sanderson et al.,      tein design. We also look forward to future work studying
+2021), we extract enzyme commission metadata from Swis-         RITA-designed proteins in-vitro, further scaling up protein
+sProt (Bairoch & Apweiler, 2000) and focus on the tags          sequence models or augmenting them with target structure
+belonging to the ﬁnest classiﬁcation level (randomly choos-     embeddings for ﬁxed-backbone protein design. RITA: a Study on Scaling Up Generative Protein Sequence Models
+
+References                                                    Frazer, J., Notin, P., Dias, M., Gomez, A. N., Min, J. K.,
+                                                                 Brock, K. P., Gal, Y., and Marks, D. S. Disease variant
+Alley, E. C., Khimulya, G., Biswas, S., AlQuraishi,              prediction with deep generative models of evolutionary
+   M., and Church, G. M. Uniﬁed rational pro-                    data. ",q-bio.QM,A,-0.022703987,0.36924806,0.09147957
+http://arxiv.org/pdf/2205.05789v2,RITA: a Study on Scaling Up Generative Protein Sequence Models,"Following ProteInfer (Sanderson et al.,      tein design. We also look forward to future work studying
+2021), we extract enzyme commission metadata from Swis-         RITA-designed proteins in-vitro, further scaling up protein
+sProt (Bairoch & Apweiler, 2000) and focus on the tags          sequence models or augmenting them with target structure
+                                                                embeddings for ﬁxed-backbone protein design. RITA: a Study on Scaling Up Generative Protein Sequence Models
+
+References                                                    Frazer, J., Notin, P., Dias, M., Gomez, A. N., Min, J. K.,
+                                                                 Brock, K. P., Gal, Y., and Marks, D. S. Disease variant
+Alley, E. C., Khimulya, G., Biswas, S., AlQuraishi,              prediction with deep generative models of evolutionary
+   M., and Church, G. M. Uniﬁed rational pro-                    data. ",q-bio.QM,A,-0.022383729,0.37991077,0.10426448
+http://arxiv.org/pdf/2205.08308v1,The Relationship Between Insulin Resistance Neutrophil to Lymphocyte Ratio,"Also, DM not on
+Insulin group showed a weak, negative correlation. However, the DM on Insulin group
+showed a drastically increased HOMA-IR value, and therefore, the individuals in the group
+were eliminated for further analysis. Bivariate and Multivariate Linear regression analyses
+
+Table 2 shows the difference in the linear regression and significance of all study subjects
+(n=3,375) and the subjects after excluding insulin users (n=3,307). ",q-bio.QM,C,0.08741109,-0.24115619,0.3942537
+http://arxiv.org/pdf/2205.08308v2,The Relationship Between Insulin Resistance Neutrophil to Lymphocyte Ratio,"Also, DM not on
+Insulin group showed a weak, negative correlation. However, the DM on the Insulin group
+showed a drastically increased HOMA-IR value, and therefore, the individuals in the group
+were eliminated for further analysis. Bivariate and Multivariate Linear regression analyses
+Table 2 shows the difference in the linear regression and significance of all study subjects
+(n=3,375) and the subjects after excluding insulin users (n=3,307). ",q-bio.QM,C,0.08851579,-0.24240595,0.38714486
+http://arxiv.org/pdf/2205.15019v1,Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models,"quality will likely improve once we allow the network to cross-condition on structure, sequence, and
+rotamers, rather than generate them sequentially, as in the current set-up. We leave exploration of
+models of this type to future work. 4 Conclusions
+
+We have introduced a generative model of protein structures, sequences, and rotamers that can
+produce large protein domains that are both physically plausible and highly varied across domain
+types in the PDB. ",q-bio.QM,A,-0.05199247,0.31344366,-0.09761328
+http://arxiv.org/pdf/2206.00455v1,A robust and lightweight deep attention multiple instance learning algorithm for predicting genetic alterations,"These image patches with the highest and
+lowest scores are believed to carry the most predictive information. Moreover, with the flexible
+and interpretable attention-based MIL pooling mechanism, AMIML can further zero in on the
+patches and ROIs that are more relevant for predicting mutations for further analysis by
+pathologists. Acknowledgements
+
+The research of Bangwei Guo, Xingyu Li, and Hong Zhang was partially supported by National
+Natural Science Foundation of China (No. ",q-bio.QM,A,0.13589269,0.055397242,-0.070945054
+http://arxiv.org/pdf/2206.02524v1,Comparison of aerosol emissions during specific speech tasks,"Despite this, the quantification of specific speech
+sounds above noise is apparent and will prove important in validating computational
+simulations and models. Additionally, the Micro-Particle Image Velocimetry (micro-PIV)
+technique can be utilized in future work to resolve the aerosols between 10 micron and 1
+micron near the mouth aperture that were not likely resolved with the current PIV setup. Such
+quantification of the number, size, distribution, and speed of droplets being emitted within a
+centimetre of the mouth aperture (loosely defined as the near field) is critical in specifying an
+
+                                                        15
+accurate boundary condition for numerical models of the polydisperse flow in the far field. ",q-bio.QM,A,-0.06387214,-0.16660878,-0.26856372
+http://arxiv.org/pdf/2206.02534v1,"Scan4CFU: Low-cost, open-source bacterial colony tracking over large areas and extended incubation times","Thereafter, a number of parameters can be plotted, such as colony area,
+diameter, and emergence. The data is exported to Microsoft Excel for further analysis. A representative image of the nutrient agar plate is shown on the right
+with Â and y slide bars. ",q-bio.QM,A,-0.06303432,-0.109304,-0.18509358
+http://arxiv.org/pdf/2206.02788v1,Accurate Virus Identification with Interpretable Raman Signatures by Machine Learning,"The major contributions of our work are that:
+
+     (1) We developed a 1D-CNN classifier that achieved high accuracy for multiple virus
+           identification and classification tasks, including differentiating enveloped from non-
+           enveloped viruses, identifying types of human respiratory viruses, differentiating human
+           FLUA from human FLUB viruses, classifying subtypes of Influenza A viruses, and
+           differentiating among types of avian viruses;
+
+     (2) We further investigated the association between classifier-selected important Raman
+           ranges and peak ranges of lipids, proteins and relevant chemical functional groups, and
+           observed correlations that are consistent with existing knowledge;
+
+     (3) We delivered promising virus classification results that indicate Raman spectra of different
+           virus types and subtypes contain recognizable Raman signatures that can be identified by
+           ML models, which unravels the potential of using interpretable ML in a real-time virus
+           surveillance system. In our future work, we will collect more Raman spectra of different virus samples (human and
+animal, including DNA viruses) to build a large virus spectra database for training robust and highly
+accurate ML models. We will study virus evolution using temporal ML models trained on Raman
+spectra of virus strains of different types, from different years and locations. ",q-bio.QM,A,-0.14709637,0.34632295,0.07556315
+http://arxiv.org/pdf/2206.03823v1,Multi-channel neural networks for predicting influenza A virus hosts and antigenic types,"However, as we only utilized protein sequence data, it cannot predict the type of receptor that the virus
+may be compatible with. Therefore, further research is needed to predict potential viruses that are cross-species transmissible. Furthermore, we only apply supervised learning algorithms in this study, which rely on correctly labelled data and favour
+the majority of data, resulting in the poor predictive ability for labels with insufﬁcient data. ",q-bio.QM,A,-0.11315136,0.5034276,0.32277966
+http://arxiv.org/pdf/2206.03823v2,Multi-channel neural networks for predicting influenza A virus hosts and antigenic types,"However, as we only utilized protein sequence data, it cannot predict the type of receptor that the virus
+may be compatible with. Therefore, further research is needed to predict potential viruses that are cross-species transmissible. Furthermore, we only apply supervised learning algorithms in this study, which rely on correctly labelled data and favour
+the majority of data, resulting in the poor predictive ability for labels with insufﬁcient data. ",q-bio.QM,A,-0.11315136,0.5034276,0.32277966
+http://arxiv.org/pdf/2206.03823v3,Multi-channel neural networks for predicting influenza A virus hosts and antigenic types,"However, as we only utilized protein sequence data, it cannot predict the type of receptor that the virus
+may be compatible with. Therefore, further research is needed to predict potential viruses that are cross-species transmissible. Furthermore, we only apply supervised learning algorithms in this study, which rely on correctly labelled data and favour
+the majority of data, resulting in the poor predictive ability for labels with insufﬁcient data. ",q-bio.QM,A,-0.11315136,0.5034276,0.32277966
+http://arxiv.org/pdf/2206.04106v1,Characterization of Blast Waveforms Produced by Different Driver Gasses in an Open-Ended Shock Tube Model,"In the US military, an estimated 385,000 cases of TBI have occurred between the years
+2000 and 2018,1 with studies estimating nearly 20% incidence in ongoing military conflicts.1-3 An
+estimated eightfold increase in blast injuries has occurred during this same timeframe in civilian
+populations,4, 5 extending the health relevance of these types of injuries. Those who suffer from
+TBIs experience increased rates of post-traumatic stress disorder (PTSD), depression, and
+suicide attempts.6, 7 These statistics outline the need for further study and the importance of
+models for bTBI that recapitulate the enduring clinical comorbidities associated with injury. Military and improvised explosions consist of several different factors producing the
+potential for TBI. ",q-bio.QM,C,0.068470806,-0.3177348,0.24828261
+http://arxiv.org/pdf/2206.04915v1,Prediction and experimental evidence of the optimisation of the angular branching process in the thallus growth of Podospora anserina,"Finally, we
+                                            propose here a validated model that, while being computationally low-cost, is powerful enough to test
+                                            quickly multiple conditions and constraints. It will allow in future works to deepen the characterization of
+                                            the growth dynamic of fungal network, in addition to laboratory experiments, that could be sometimes
+                                            expensive, tedious or of limited scope. Introduction
+
+                                           Filamentous fungi are characterized by their ability to form an interconnected hyphal network, the
+                                           mycelium, based upon some key cellular processes, i.e. ",q-bio.QM,A,-0.3009241,-0.044003595,-0.24306202
+http://arxiv.org/pdf/2206.05059v1,"Simulation, Modeling and Prediction of a Pharmacodynamic Animal Tissue Culture Compartment Model by Physical Informed Neural Network","In some perspective, this is an immature attempt. For further study, larger data sets, more
+optimal network structure and training methods, and linkage with other machine learning
+methods are necessary. Specifically, a large number of pharmacodynamic quantitative models
+and their contrasts can to some extent be evaluated within the same training process, which
+needs a large dataset with or without lebels. ",q-bio.QM,A,-0.096694954,0.19319525,0.12275539
+http://arxiv.org/pdf/2206.06225v1,Human lumbar spine injury risk in dynamic combined compression and flexion loading,"In addition, prior field studies and full-body post-
+                                                                                                               Page 16 of 24
+
+mortem human subject sled tests have reported lumbar spine injuries in frontal
+crashes. Therefore, further research with this IRF may enhance safety in both novel
+postures suggested by ADS development trends and traditional driving postures. Although the IRF was developed using failure data, it can be applied in circumstances
+in which exact failure loads may not be known or cannot be determined. ",q-bio.QM,C,0.0018724495,-0.4396517,0.30408287
+http://arxiv.org/pdf/2206.06225v2,Human lumbar spine injury risk in dynamic combined compression and flexion loading,"In addition, prior field studies and full-body post-
+                                                                                                               Page 16 of 24
+
+mortem human subject sled tests have reported lumbar spine injuries in frontal
+crashes. Therefore, further research with this IRF may enhance safety in both novel
+postures suggested by ADS development trends and traditional driving postures. Although the IRF was developed using failure data, it can be applied in circumstances
+in which exact failure loads may not be known or cannot be determined. ",q-bio.QM,C,0.0018724495,-0.4396517,0.30408287
+http://arxiv.org/pdf/2206.06692v1,COVIDHunter: COVID-19 pandemic wave prediction and mitigation via seasonality-aware modeling,"The flexibility of configuring the environmental coeﬃcient and mitigation coeﬃcient allows our
+proposed model to control for location-specific differences in population density, cultural practices, age
+distribution, and time-variant mitigation responses in each location. COVIDHunter has three main limitations that can be addressed in future work. 1) Our
+modeling approach acts across the overall population without assuming any specific age structure for
+transmission dynamics. ",q-bio.QM,C,-0.18761612,-0.1741634,0.16899608
+http://arxiv.org/pdf/2206.06862v1,Evaluating histopathology transfer learning with ChampKit,"We do not seek to make claims of state-of-the-art in any task or provide practice
+recommendations. ChampKit is a powerful benchmarking toolkit that enables a systematic analyses
+of many models across diverse datasets and could be used for this purpose in future work. All models included comparisons of transfer learning from image classiﬁcation on ImageNet-1K
+[29] and training from random weight initialization. ",q-bio.QM,A,-0.07714045,0.11618596,-0.10556602
+http://arxiv.org/pdf/2206.07760v2,Multiscale methods for signal selection in single-cell data,"Future
+directions include the systematic comparison of multiple rankings (e.g., using Hodge the-
+ory) and summary statistics to compare with methods that output one-dimensionally
+ranked genes. The PRQ also gives a rich representation for each gene, and future work
+will explore statistical integration with other pipelines. We provide available code, and a
+future goal is to create a topological genomics signaling package to increase accessibility
+and adoption. ",q-bio.QM,A,0.10404216,0.25487182,-0.079729296
+http://arxiv.org/pdf/2206.08796v1,Robust Estimation of Field Inhomogeneity Map Following Magnitude-Based Water-Fat Separation with Resolved Ambiguity,"Examples of 1.5 T and 3 T were provided
+within this work, though a more extensive 3T exploration needs to be carried out in the future. Noise
+performance analysis was outside the scope of this paper –though we tested the robustness of the field
+map adjustment step in simulated low SNR = 5– and needs to be carried out in future work. Field map regularization in complex-based estimation, notably due to incorrect smoothness
+assumptions, may propagate wrong field map and PDFF values to the entire organ of interest (e.g. ",q-bio.QM,C,0.025199914,-0.2952438,-0.22147807
+http://arxiv.org/pdf/2206.10612v1,Metareview-informed Explainable Cytokine Storm Detection during CAR-T cell Therapy,"These features were identiﬁed as the most signiﬁcant
+          in CRS based on previous works. As a result of the pre-processing stage, 9 patients (102 timepoints together) were selected for further analysis. Model derivation
+Hyperparameters and thresholds considered in model derivation are summarized in Suppl. ",q-bio.QM,C,0.03525242,-0.35159713,0.23127006
+http://arxiv.org/pdf/2206.11255v1,Attention-aware contrastive learning for predicting T cell receptor-antigen binding specificity,"Prediction of
+tive to antigenic peptide. From this perspective, we hope to
+extend the model in our future work to narrow the region                speciﬁc tcr-peptide binding from large dictionaries of tcr-peptide pairs. Frontiers in Immunol-
+where TCR binds to antigenic peptides for triggering immune             ogy, 11:1803, 2020.
+responses, thereby reducing the experimental cost. ",q-bio.QM,A,-0.027500423,0.16026309,0.096292734
+http://arxiv.org/pdf/2206.12747v1,HyGNN: Drug-Drug Interaction Prediction via Hypergraph Neural Network,"Accord-      also it is able to predict DDIs for new drugs. For future work,
+ing to experimental results, HyGNN can successfully predict       we plan to extend our model to address other problems in
+positive and negative interactions. To exemplify that, HyGNN      bioinformatics like protein-protein interaction prediction and
+predicts that Esmolol and Rotigotine will cause side effects,     drug repurposing. ",q-bio.QM,A,-0.12928188,0.2750423,0.14314346
+http://arxiv.org/pdf/2206.12747v2,HyGNN: Drug-Drug Interaction Prediction via Hypergraph Neural Network,"To evaluate our model for new drugs,   several experiments to show that our method outperforms
+at ﬁrst, we randomly select a 5% drug from a dataset and      different types of baseline models and also it is able to predict
+completely remove these drugs’ information from the corre-    DDIs for new drugs. For future work, we plan to extend our
+sponding train set and keep those drugs’ information only in  model to address other problems in bioinformatics like protein-
+the test set. These selected 5% drugs can be considered new   protein interaction prediction and drug repurposing. ",q-bio.QM,A,-0.04371037,0.32595265,0.11599182
+http://arxiv.org/pdf/2206.12747v3,HyGNN: Drug-Drug Interaction Prediction via Hypergraph Neural Network,"To evaluate our model for new drugs,   several experiments to show that our method outperforms
+at ﬁrst, we randomly select a 5% drug from a dataset and      different types of baseline models and also it is able to predict
+completely remove these drugs’ information from the corre-    DDIs for new drugs. For future work, we plan to extend our
+sponding train set and keep those drugs’ information only in  model to address other problems in bioinformatics like protein-
+the test set. These selected 5% drugs can be considered new   protein interaction prediction and drug repurposing. ",q-bio.QM,A,-0.04371037,0.32595265,0.11599182
+http://arxiv.org/pdf/2206.13345v1,A fully differentiable ligand pose optimization framework guided by deep learning and traditional scoring functions,"In the context of the
+energy landscape, poses with high RMSDs are located far from the global minimum;
+the local structure optimization algorithm, such as the gradient descent algorithm used
+here, may not be able to traverse the energy barrier to locate the global minimum. More
+advanced global minimization algorithms should be applied in future work. 3.3 Evaluation of DeepRMSD+Vina and the optimization framework on the
+redocking and cross-docking tasks
+
+     To demonstrate the practicality of DeepRMSD+Vina and the optimization
+framework, we conducted additional tests on the redocking and cross-docking tasks. ",q-bio.QM,A,-0.08614036,-0.05332329,-0.30854395
+http://arxiv.org/pdf/2206.14316v1,Modeling in higher dimensions to improve diagnostic testing accuracy: theory and examples for multiplex saliva-based SARS-CoV-2 antibody assays,"Given the competing
+needs to understand correlates of protection and estimate prevalence, it is unclear
+                                                                                                                                11
+
+how to deﬁne an objective function that yields an optimal choice of antigens. We
+leave this for future work. Finally, our classiﬁcation scheme minimizes average rates of false negatives and
+false positives, which relate to sensitivity and speciﬁcity. ",q-bio.QM,C,0.13236168,-0.039830055,0.43170387
+http://arxiv.org/pdf/2206.14316v2,Modeling in higher dimensions to improve diagnostic testing accuracy: theory and examples for multiplex saliva-based SARS-CoV-2 antibody assays,"Given the competing
+needs to understand correlates of protection and estimate prevalence, it is unclear
+                                                                                                                                11
+
+how to deﬁne an objective function that yields an optimal choice of antigens. We
+leave this for future work. Finally, our classiﬁcation scheme minimizes average rates of false negatives and
+false positives, which relate to sensitivity and speciﬁcity. ",q-bio.QM,C,0.13236168,-0.039830055,0.43170387
+http://arxiv.org/pdf/2206.14566v1,Massively Increasing the number of Antibody-Virus Interactions across Studies,"Finally, we emphasize
+that there is currently no robust method to compute the error of NNM when predicting new virus
+behavior across datasets, and that error quantification is essential to understand which predictions can
+be trusted. Discussion
+As experiments voraciously grow in size and scope, it is easy to overlook that the wealth of available
+data can greatly expedite future work. Here, we developed an algorithm that leverages patterns in
+antibody-virus data to predict how a virus measured in one study would behave in another study,
+without requiring any additional experiments. ",q-bio.QM,A,-0.099494085,0.2629653,0.23566154
+http://arxiv.org/pdf/2206.14566v2,Using Interpretable Machine Learning to Massively Increase the Number of Antibody-Virus Interactions Across Studies,"In this work, we consider the wealth of antibody inhibition data against variants of
+the influenza virus. Due to this virus’s genetic diversity and evolvability, the variants examined in one
+study will often have little-to-no overlap with other studies, making it difficult to discern common
+patterns or unify datasets for further analysis. To that end, we develop a computational framework that
+predicts how an antibody or serum would inhibit any variant from any other study. ",q-bio.QM,A,-0.05130497,0.2726863,0.2994299
+http://arxiv.org/pdf/2207.00584v1,Distribution-based Sketching of Single-Cell Samples,"26, 40], or for rapid identification of phenotype-associated cells
+Distribution-based Sketching of Single-Cell Samples                                                                                   BCB ’22, August 7–10, 2022, Northbrook, IL, USA
+
+[8]. Finally, another area of future work may focus on generating                          [18] Xiaoyuan Han, Mohammad S Ghaemi, Kazuo Ando, Laura S Peterson, Edward A
+                                                                                                 Ganio, Amy S Tsai, Dyani K Gaudilliere, Ina A Stelzer, Jakob Einhaus, Basile
+variable sketch sizes across different subsections of the cellular                               Bertrand, Natalie Stanley, Anthony Culoar, Athena Tanada, Julien Hedou, Eileen S
+                                                                                                 Tsai, Ramin Fallahzadeh, Ronald J Wong, Amy E Judy, Virginia D Winn, Mau-
+landscape, depending on prior knowledge or scientific question. rice L Druzin, Yair J Blumendeld, Mark A Hlatky, Cecele C Quaintance, Ronald S
+                                                                                                 Gibbs, Brendan Carvalho, Gary M Shaw, David K Stevenson, Martin S Angst,
+ACKNOWLEDGMENTS                                                                                  Aghaeepour, and Brice Gaudilliere. ",q-bio.QM,A,0.029626295,0.07231942,-0.045144208
+http://arxiv.org/pdf/2207.00982v1,Advancing protein language models with linguistics: a roadmap for improved interpretability,"Thus, based on the
+published results, for the purposes of finding biological tokens with more abstract function, neither amino
+acid nor k-gram tokenizations are satisfactory. There needs to be further research to determine whether
+these simple tokens cluster along more abstract biological behavior, such as more global properties of the
+protein itself, but it is likely that only more complex tokens can reflect complex biological functions. Instead of using simple amino acid or n-gram tokenization, a more sophisticated method is to extract
+tokens of variable size using data-driven, information-theoretic algorithms; this type of tokenization
+method is the most popular in current NLP applications (Mielke et al. ",q-bio.QM,A,-0.008991948,0.29722548,0.07513587
+http://arxiv.org/pdf/2207.01813v1,Stochastic Variational Methods in Generalized Hidden Semi-Markov Models to Characterize Functionality in Random Heteropolymers,"We implemented the algorithms and compared the results in Section
+5. Section 6 concludes the work and discusses avenues for further research. 2 Method Background Review
+
+2.1 Relevant Work on the GHSMM-RHP Model
+
+The GHSMM-RHP model is inspired by previous attempts by Jiang et al. ",q-bio.QM,C,-0.0379235,-0.24331248,-0.21984914
+http://arxiv.org/pdf/2207.04333v1,Emerging Patterns in the Continuum Representation of Protein-Lipid Fingerprints,"Through this demonstra-            sponse to the proteins (Ingo´lfsson et al., 2022; Stanton et al.,
+                                                tion, our model also provides external validation           2021). Through a set of training MD simulations, lipid-
+                                                of the continuum model, afﬁrms the value of such            protein interactions are represented as sets of 1-dimensional
+                                                multiscale modeling, and can foster new insights            radial density functions (RDFs), which are then used to pa-
+                                                through further analysis of these ﬁngerprints. rameterize the continuum model. ",q-bio.QM,A,-0.10902023,0.0664785,-0.16745777
+http://arxiv.org/pdf/2207.05757v1,Robust and efficient computation of retinal fractal dimension through deep approximation,"We consider these to be
+very encouraging initial results. There are a number of directions for future work. First, the proposed frame-
+work can be easily applied to other retinal traits like vessel tortuosity or width,
+or FD as calculated by other pipelines. ",q-bio.QM,C,-0.04194287,-0.33388603,-0.14470787
+http://arxiv.org/pdf/2207.06678v1,Deep Learning Methods for Protein Family Classification on PDB Sequencing Data,"In summary, we have presented an analysis of several deep learning and classical machine learning models for protein
+classiﬁcation on Protein Data Bank Data and shown that deep learning models, in particular convolutional neural
+networks, are superior over classical machine learning techniques due to their added complexity and ability to understand
+sequential information on PDB data. Despite the power of these models, constraints of interpretability leave much to be
+desired in the way of meaningful classiﬁcations, a possible direction for future work. 11
+            Deep Learning on PDB Sequencing Data                                                  FINAL PAPER
+
+Acknowledgements
+
+This work was done as part of graduate coursework for CSCI 2820: Algorithmic Foundations of Computational Biology,
+under the instruction of distinguished Professor Sorin Istrail. ",q-bio.QM,A,-0.03345245,0.34375894,-0.030131977
+http://arxiv.org/pdf/2207.09250v1,Roughness of molecular property landscapes and its impact on modellability,"For these reasons, the development of a
+                                                              quantitative measure of molecular optimization difficulty
+Finally, ROGI is affected by noise in the molecular           requires substantial modifications to ROGI and is thus
+property for which roughness is being computed. left for future work. One possibility may be to consider
+Because ROGI does not model aleatoric noise, all              higher, odd-order moments of the property distribution
+property values are assumed to be exact. ",q-bio.QM,A,-0.015806168,-0.029076114,-0.28704605
+http://arxiv.org/pdf/2207.09598v1,Deep learning-based identification of sub-nuclear structures in FIB-SEM images,"In
+order to generalize the training and segmenting of such large images onto smaller platforms, our approaches offer batch
+segmentation of images to reduce memory costs. For future work, we envision deep learning models incorporating full 3D volumes of images. Though memory intensive,
+3D deep learning methods may be able to better contextualize local information given the extra neighboring information
+in higher dimensionality. ",q-bio.QM,A,-0.22635052,0.013061164,-0.25974596
+http://arxiv.org/pdf/2207.10080v1,ProteinKG65: A Knowledge Graph for Protein Science,"For example, we do not consider the relations
+between protein pairs, which is very helpful for understanding protein-protein
+interactions. We also leave this for future work. References
+
+ 1. ",q-bio.QM,A,-0.07342387,0.15966475,0.010348876
+http://arxiv.org/pdf/2207.10794v1,Neuroimaging Feature Extraction using a Neural Network Classifier for Imaging Genetics,"One advantage of the procedure we propose is that we can easily improve on each of
+the three pieces of the pipeline separately. One avenue for future work is to review how to
+process the images. In this ﬁrst implementation of our proposed pipeline we use the well
+established FreeSurfer software to obtain volumetric and cortical thickness statistics from
+the MRI scans. ",q-bio.QM,C,0.039417714,-0.34653977,-0.23774341
+http://arxiv.org/pdf/2207.11509v1,"PepSIRF + QIIME 2: software tools for automated, reproducible analysis of highly-multiplexed serology data","It also serves as a dependency
+for the q2-ps-plot and q2-autopepsirf plugins. The output from each action will be one or more
+QIIME 2 artifact (QZA) files that can be used for further analysis within QIIME 2 or can be
+exported into a user readable file type, such as a tab-separated value (TSV) file. Usage
+information and tutorials are available here: https://ladnerlab.github.io/pepsirf-q2-plugin-docs/. ",q-bio.QM,A,0.059074137,-0.08552635,-0.07012591
+http://arxiv.org/pdf/2207.12805v1,Neural Design for Genetic Perturbation Experiments,"This work focused in the case where the responses are noiseless. Extending our methods and experimental evaluation to the case where the responses are noisy is an
+exciting avenue for future work. Another exciting avenue for improvement is to design adaptive
+algorithms that can select the best OAE implementation for the dataset at hand. ",q-bio.QM,A,0.03470891,-0.088154264,-0.19772501
+http://arxiv.org/pdf/2207.13141v1,Simulation of snakes using vertical body bending to traverse terrain with large height variation,"Therefore, this method can also be used as a tool to help investigate the
+snake's other locomotors. Limitations and future work
+Relation between the analytic model and the simulation results
+
+         The analytic model assumes that the reaction force on the slope is close to an evenly distributed
+situation, while the reaction force on the slope distributes unevenly in simulation results. The force linear
+density peaks at the two sides of the slope in the simulation. ",q-bio.QM,A,-0.29852504,-0.25892097,-0.1656315
+http://arxiv.org/pdf/2207.14295v1,Benefits and limitations of a new hydraulic performance model,"We strive to promote
+progress in performance model development and to help users to make informed
+decisions for their analysis. As outlined in future work, there is an abundance of
+directions for creating new models and improving existing ones. To support this
+pursuit, we introduced new labels for our model. ",q-bio.QM,C,-0.13247016,-0.10290711,0.11757174
+http://arxiv.org/pdf/2207.14776v1,Open-radiomics: A Research Protocol to Make Radiomics-based Machine Learning Pipelines Reproducible,"Although no randomness is involved in the feature extraction process, seeding is
+recommended in all the codes. This improves reproducibility of the results if random IDs are assigned to ROIs, or
+further analysis such as dimensionality reduction and data visualization are incorporated into the scripts. We encourage
+extracting the full set of radiomics features, which is not enabled by default4. ",q-bio.QM,A,0.005484988,0.106560156,-0.100635506
+http://arxiv.org/pdf/2208.01918v1,DeepProphet2 -- A Deep Learning Gene Recommendation Engine,"Future Applications We would also like to describe brieﬂy which will be the future optimizations that will lead
+to new applications of the system. In particular we will focus our future work in the direction of producing a Drug
+Discovery engine, based on a simple assumption [42][43]. The behavior of every drug is, in a certain amount, mediated
+by the behavior of the genes in the patient, therefore chemicals and genes can be bound through the same procedure that
+links pathways to different genes. ",q-bio.QM,A,-0.14253813,0.2751613,-0.041222144
+http://arxiv.org/pdf/2208.01918v2,DeepProphet2 -- A Deep Learning Gene Recommendation Engine,"Future Applications We would also like to describe brieﬂy which will be the future optimizations that will lead
+to new applications of the system. In particular we will focus our future work in the direction of producing a Drug
+Discovery engine, based on a simple assumption [42][43]. The behavior of every drug is, in a certain amount, mediated
+by the behavior of the genes in the patient, therefore chemicals and genes can be bound through the same procedure that
+links pathways to different genes. ",q-bio.QM,A,-0.14253813,0.2751613,-0.041222144
+http://arxiv.org/pdf/2208.05228v1,Current and perspective sensing methods for monkeypox virus: a reemerging zoonosis in its infancy,"Further, the E8L binding aptamers and nanobodies (Guo et al., 2021) can be
+valuable contribution. To the best of our knowledge, the MPXV entry receptor is still
+unknown; the discovery of the MPXV entry receptor and the development of MPXV sensors
+based on the entry receptor could be a useful future work. Novel MPXV biosensors can be
+developed based on photonics (Shin et al., 2015), quantum dots (Ming et al., 2015),
+electrochemiluminescence (Nikolaou et al., 2022), electrochemical transduction (Liao et al.,
+2022; Wu et al., 2022), lab on a chip(Zhu et al., 2020) , and CRISPR technology (Wu et al.,
+2022). ",q-bio.QM,A,0.00031829998,0.15919389,-0.03156404
+http://arxiv.org/pdf/2208.05745v1,Interpretable cytometry cell-type annotation with flow-based deep generative models,"c, f, Proportion
+of each cell population. fect and data variability by allowing the processing of                     We added two barcodes corresponding to only nega-
+multiple cell samples together, each cell sample being                      tive and only positive markers, with the objective to
+labelled — or barcoded — with a unique combination                          ﬁlter these cells before further analysis. The UMAP
+of antibodies (Figure 3c). ",q-bio.QM,A,0.14401521,0.0135847125,0.18546776
+http://arxiv.org/pdf/2208.09484v1,In Silico Prediction of Blood-Brain Barrier Permeability of Chemical Compounds through Molecular Feature Modeling,"Paralleled with the current work, this will be a notable
+stride in the neuroinformatics and drug discovery industries. The future work of this project will involve organ-on-a-chip biotechnology. Using the simulated
+blood-brain barrier, the model’s applicability can be evaluated in a wet-lab setting. ",q-bio.QM,A,-0.20488286,0.055596896,-0.052915774
+http://arxiv.org/pdf/2208.11126v1,Retrieval-based Controllable Molecule Generation,"As such, these
+results approximate the real biological and chemical properties and may deviate from the results of
+
+                                                                       9
+experimental trials. The claims and scientiﬁc signiﬁcance derived from this paper thus need further
+validation from lab experiments, which we leave as part of our future work. One key characteristics of our framework is that it leverages exemplar molecules from a task-speciﬁc
+retrieval database to achieve controllable generation. ",q-bio.QM,A,-0.07209362,0.25986272,-0.14698073
+http://arxiv.org/pdf/2208.11126v2,Retrieval-based Controllable Molecule Generation,"It might be challenging to apply RetMol in
+those where exemplar molecules might be unavailable at all. A valuable future work is to improve
+the retrieval mechanisms such that even weaker molecules, i.e., those that do not satisfy but are close
+to satisfying the design criteria, can be leveraged to guide the generation process. ETHICS STATEMENT
+
+Applications that involve molecule generation such as drug discovery are high-stake in nature. ",q-bio.QM,A,-0.021985456,0.20415059,-0.020080151
+http://arxiv.org/pdf/2208.11517v1,EpiGNN: Exploring Spatial Transmission with Graph Neural Network for Regional Epidemic Forecasting,"Experimental results show the eﬀectiveness and eﬃciency of our method on ﬁve
+epidemic-related datasets. As for future work, we will devote to better predict
+by considering the time decay eﬀects of spatial transmission. Acknowledgment. ",q-bio.QM,A,-0.14047182,-0.061802506,0.10562147
+http://arxiv.org/pdf/2208.11853v1,Data-driven Discovery of Chemotactic Migration of Bacteria via Machine Learning,"For instance, the Navier-Stokes equations [4]
+
+can be written in coordinate-free form as [5]
+
+                         dω) − νd             dω + 21 d ω, ω  − dp
+           ∂ω = − (ω ∧
+
+             ∂t
+          d ω = 0,
+
+where ν ≥ 0 is the viscosity and p is the pressure. 9
+    The use of exterior calculus and exterior diﬀerential systems [6] in Physics-
+informed neural networks is currently growing [7, 8, 9, 10] and a more in-depth
+study of this framework is an interesting problem for future work. 10
+References
+
+[1] C. E. Rasmussen, C. K. I. Williams, Gaussian Processes for Machine Learn-
+    ing, MIT Press, 2006. ",q-bio.QM,A,-0.33648401,-0.12712577,-0.15530549
+http://arxiv.org/pdf/2208.12305v1,Simulating how animals learn: a new modelling framework applied to the process of optimal foraging,"This ﬁnding suggests that simulated animals occupy areas with the
+
+     highest possible habitat suitability, a key principle of ideal free distribution (IFD) theory (Cantrell
+
+     et al., 2007; Fretwell and Lucas, 1969). Many patterns predicted by IFD theory can be seen in our
+
+300 results even though our IBM did not incorporate competition between individuals (this could be
+
+     an interesting topic for future work). Speciﬁcally, IFD theory predicts that individuals residing
+
+     in poor habitat will adjust for the lack of resource abundance by adopting larger home ranges
+
+303 (Hache´ et al., 2013). ",q-bio.QM,A,-0.20032007,-0.17687058,-0.09243165

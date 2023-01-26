@@ -1,0 +1,170 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01646v1,"What makes a reaction network ""chemical""?","5.2 Outlook to open problems                           There seem to be only a few constraints: (i) If a
+                                                       moiety a appears in isolation, i.e., as a molecule
+Construction of random chemistry-like networks         x = 1a, then val(a) must be even, since it con-
+                                                       tains val(a)/2 loops. (ii) The case val(a) = 1 is
+The formal characterization of chemistry-like RNs      only possible if there is no compound composed
+developed here suggests several interesting ques-      exclusively of three or more copies of a or com-
+tions for further research. In particular, our re-     posed of more than two moieties with valency 1.
+sults deﬁne rather clearly how random chemistry-       (iii) It is well known that the sum of degrees must
+like RNs should be deﬁned and thus poses the ques-     be even for every multigraph, and connectedness
+tion whether there are eﬃcient algorithms for their    implies u val(u) ≥ 2(|V | − 1) [85]. ",q-bio.MN,A,-0.0362371,0.10649064,0.22249983
+http://arxiv.org/pdf/2201.12229v1,Discovery methods for systematic analysis of causal molecular networks in modern omics datasets,"17
+An advantage of large causal molecular networks is drug discovery and repurposing. Previous
+approaches to identifying drugs have been focussed on correlating transcription signatures between
+disease and known drugs (66) however this approach generates drugs and therapeutic targets that
+rarely are further researched, and have not had much success in brining any new treatments to the
+clinic. Causal pathways allow for more in-depth identification of drug targets. ",q-bio.MN,A,-0.30808568,0.0049695503,-0.2681081
+http://arxiv.org/pdf/2202.07367v1,Using transcription-based detectors to emulate the behaviour of sequential probability ratio-based concentration detectors,"An example is
+                                                                    the number of binding sites in the X part of the promoter
+                                                                    X−Y. We will leave this for future work. [1] A. Wald, Sequential Analysis. ",q-bio.MN,C,0.2407998,0.18868077,-0.2362487
+http://arxiv.org/pdf/2202.07367v2,Using transcription-based detectors to emulate the behaviour of sequential probability ratio-based concentration detectors,"An example is
+                            3  3.5  4    4.5  5    5.5                6    6.5  7    7.5         8  the number of binding sites in the X part of the promoter
+                                                                                                    X−Y. We will leave this for future work. FIG. ",q-bio.MN,C,0.31223723,0.21577325,-0.32294703
+http://arxiv.org/pdf/2202.07367v3,Using transcription-based detectors to emulate the behaviour of sequential probability ratio-based concentration detectors,"However, if
+                                                             the method in the last paragraph is used, then this clear
+           D(L0.5) ∝ (6 − n)(1 − X∗(L0.5) + n2 )2 (S12.4)    separation of roles will no longer apply. We will leave
+                                        n+1                  further study on this method as future work. We can calculate the right-hand side of the above equa-           Supplemental Material 14: Additional ﬁgures
+tion using our chosen parameters of g+ and g− (which
+gives X∗(L0.5) = 0.55), and for various values of n which
+equals to 6 − m. Our calculations show that we will need
+
+a larger diﬀusivity D(L0.5) for m = 3, 4 in comparison
+to m = 1, 2. ",q-bio.MN,C,0.68065906,0.2841136,-0.03645432
+http://arxiv.org/pdf/2202.07367v4,Using transcription-based detectors to emulate the behaviour of sequential probability ratio-based concentration detectors,"However, if
+                                        n+1                 the method in the last paragraph is used, then this clear
+                                                            separation of roles will no longer apply. We will leave
+We can calculate the right-hand side of the above equa-     further study on this method as future work. tion using our chosen parameters of g+ and g− (which
+gives X∗(L0.5) = 0.55), and for various values of n which        Supplemental Material 14: Additional ﬁgures
+equals to 6 − m. Our calculations show that we will need
+
+a larger diﬀusivity D(L0.5) for m = 3, 4 in comparison
+to m = 1, 2. ",q-bio.MN,C_centroid,0.6791477,0.27559435,-0.05374256
+http://arxiv.org/pdf/2203.00779v1,A mathematical modelling portrait of Wnt signalling in early vertebrate embryogenesis,"Conclusion and Perspectives
+
+    The model created here is the ﬁrst attempt at mathematical modelling of the
+ﬁve diﬀerent classes of direct Wnt target genes recently proposed in early em-
+bryonic development [10]. It displays clear interactions of each class, providing
+a platform for further research in the future. 6. ",q-bio.MN,B,0.2840744,-0.3381403,-0.36714086
+http://arxiv.org/pdf/2203.00779v2,A mathematical modelling portrait of Wnt signalling in early vertebrate embryogenesis,"Conclusion and Perspectives
+
+    The model created here is the ﬁrst attempt at mathematical modelling of the
+ﬁve diﬀerent classes of direct Wnt target genes recently proposed in early em-
+bryonic development [11]. It displays clear interactions of each class, providing
+a platform for further research in the future. 6. ",q-bio.MN,B,0.28565282,-0.33679488,-0.3695382
+http://arxiv.org/pdf/2203.00999v1,Characterizing the organizational diversity of protein interaction networks across three domains of life,"Results and Discussion
+
+From a total of 5, 090 PPI networks in STRING we could classify 5, 007 networks into 71
+phyla by leveraging taxonomic information from NCBI taxonomy database (31). Since, a large
+number of phyla were having very few networks so to ensure that the classiﬁcation task re-
+tain suﬃcient statistical power a threshold of 30 networks per phyla was set and only phylum
+having 30 or more networks were considered for further study (38). This results in 16 phyla
+including 4, 738 networks among which 162 are Archaeal, 4, 213 are Bacterial and 363 are Eu-
+karyotic networks Table S1. ",q-bio.MN,A,-0.29264143,0.010535657,-0.11242601
+http://arxiv.org/pdf/2203.03461v1,Path Weight Sampling: Exact Monte Carlo Computation of the Mutual Information between Stochastic Trajectories,"information transmission rate, and in particular whether
+Other measures neither make it possible to address that      there is a trade-oﬀ between responding fast and respond-
+question quantitatively nor qualitatively. For instance,     ing reliably, is an important topic for further study. the widely used Instantaneous Mutual Information (IMI)
+between the steady state input and output at a given            The second point is that the chemotaxis system has
+time point [6, 14, 82–85] predicts an optimal input cor-     a lower information transmission rate than the push-pull
+relation time of τL ≈ 2 s, about an order of magnitude       network, for all input timescales. ",q-bio.MN,B,-0.17364073,-0.32813412,0.47978777
+http://arxiv.org/pdf/2204.01059v1,Emergence of Autocatalytic Sets in a Simple Model of Technological Evolution,"Or they can provide a measure of redundancy,
+in terms of the amount of overlap between diﬀerent irrRAFs. We hope that these initial results will
+stimulate further research in this direction. References
+
+Ars`ene, S., Ameta, S., Lehman, N., Griﬃths, A. D., and Nghe, P. (2018). ",q-bio.MN,A,-0.08714511,0.6280408,0.40043235
+http://arxiv.org/pdf/2204.01059v2,Emergence of Autocatalytic Sets in a Simple Model of Technological Evolution,"Or they can provide a
+measure of redundancy, in terms of the amount of overlap between diﬀerent
+irrRAFs. We hope that these initial results will stimulate further research in
+this direction. TAP-RAF 11
+
+Acknowledgments. ",q-bio.MN,A,-0.10746646,0.6129512,0.34325075
+http://arxiv.org/pdf/2204.12178v1,Network location and clustering of genetic mutations determine chronicity in a stylized model of genetic diseases,"If one introduces damage
+and compares the difference to the unmodiﬁed network there are two possible results: The damage can spread, which ultimately
+leads to a system that evolves very differently from the original network, or the damage might disappear. We envision that the
+analysis of damage spreading transitions can be an interesting direction for further research within our disease model. Discussion and Conclusion
+
+We presented a minimal model to study the interplay between network topology and disease nodes. ",q-bio.MN,A,-0.37752017,-0.0016399235,-0.092135064
+http://arxiv.org/pdf/2204.12623v1,SANA: Cross-Species Prediction of Gene Ontology GO Annotations via Topological Network Alignment,"Importantly, like NAF, this measure of “alignment qualtity” is computable a priori as part
+of the alignment output. Since the low-degree case was by far the most frequent cause of low prediction precision, for the
+purposes of this paper we will arbitrarily apply a lower bound of 3 on the mean degree of the induced CCS to eliminate cases of
+low prediction precision; we call this the degree-3 threshold, and leave to future work how to more rigorously choose such a
+bound. Supplementary Table 7 shows, for each species pair and each measure, the NAF value that achieved the highest mean degree
+Dmax on the resulting induced CCS. ",q-bio.MN,A,0.078004,0.06342103,0.1663426
+http://arxiv.org/pdf/2205.03834v1,FP-GNN: a versatile deep learning architecture for enhanced molecular property prediction,"Collectively, we expect that FP-GNN as a new DL architecture
+will help chemists, biologists and pharmacists predict molecular properties rapidly and
+effectively. There are several optimization routes for our future works. On the one hand,
+pre-trained methods may have great potential due to the insufficient quantity and poor
+quality of biological datasets. ",q-bio.MN,A,-0.1490332,-0.09532778,-0.19904214
+http://arxiv.org/pdf/2205.07360v1,Qualitative dynamics of chemical reaction networks: an investigation using partial tropical equilibrations,"the valuation (6402¯2) denotes (6, 4, 0, 2, −2). 4 Conclusion and future work
+
+The tropicalization method decomposes the phase space into polyhedra within
+which the dynamics of the system is simpler and can be represented by sim-
+pler models, with less dynamical variables and parameters. These domains can
+span several orders of magnitude and therefore the resulting reduced models are
+robust. ",q-bio.MN,B,0.28611398,-0.13623402,0.14104146
+http://arxiv.org/pdf/2205.13088v1,Towards future directions in data-integrative supervised prediction of human aging-related genes,"If indeed postulation 3 holds, i.e., if our current network construction or analysis approaches fail
+to capture all of the current aging-related knowledge, then a solution would be to revise and redesign these approaches
+in hope of capturing the aging-related knowledge better. This is the subject of future work. 2 Results
+
+As already discussed, we consider four weighted dynamic aging-speciﬁc subnetworks: Berchtold-HPRD, Berchtold-
+BioGRID, GTEx-HPRD, and GTEx-BioGRID. ",q-bio.MN,A,-0.33475083,0.029313825,0.079923585
+http://arxiv.org/pdf/2206.01955v1,Noise-induced transitions in gene circuits: a perturbative approach for slow noise,"provoke even richer dynamics, in which the balance be-       Therefore we can evaluate LFP(R)W (2), and we obtain
+tween noise intensities will be crucial in determining the
+structure of the phase space. LFP(R)W (2)(x, y, R) = G2(y, R)δ (x)δ(y)
+                                                             +2f (x)G(y, R)δ (x)δ (y) − 2GM (y, R)δ (x)δ(y) (67)
+   The novel mechanism for noise-induced transitions
+here described and the methodology introduced are            with
+promising and worthy of further analysis and experimen-
+tal validation. They will further our understanding of the    G2(y, R) = LFP g2(y, R)W¯ (R) =
+fundamental and active role played by noise in biological           2(3Dν(R)ν (R) − µ(R))W¯ (R)g(y, R)∂Rg(y, R)
+systems. ",q-bio.MN,B,0.23058945,-0.3740977,0.073661394
+http://arxiv.org/pdf/2206.06145v1,Identification of cancer-keeping genes as therapeutic targets by finding network control hubs,"Although we introduced CKGs for cancer-cell models, the underlying idea of control hub is general and the
+idea and reasoning can be equally applied to the normal cell for identifying control hubs as cancer-causing
+genes. The extension to network controllability as done in our work is thought-provoking and is expected
+to inspire future work to extend the theory of network controllability in multiple dimensions for the urgent
+demands for innovative methods for analyzing large quantities of biological data. Our novel control-hub-
+based analytic approach can be directly applied to various types of cancer and be readily extended to other
+complex diseases, such as neurodegenerative disorders and metabolic diseases. ",q-bio.MN,A,-0.28388602,-0.19095984,-0.3048191
+http://arxiv.org/pdf/2206.09624v1,Algebraic Biochemistry: a Framework for Analog Online Computation in Cells,"Our main theorem describes only CRNs at steady state only, while impor-
+tant aspects of signal processing are linked to the temporal evolution of the
+
+                                                   16
+signals. Since our computation framework relies on ratios between production
+and degradation, a multiplication of both terms by some factor might be the
+matter of future work to control the characteristic time τ of equilibration, with
+high value of τ ﬁltering out the high frequency noise of the inputs, and small τ
+values resulting in a more accurate output, yet at the expense of a higher protein
+turnover. Acknowledgments. ",q-bio.MN,B_centroid,0.12537241,-0.35273543,0.36661568
+http://arxiv.org/pdf/2207.04351v1,"BLANT: Basic Local Alignment of Network Topology, Part 2: Topology-only Extension Beyond Graphlet Seeds","Virtually every paper
+150. There is clearly a trade-off here that is worth further study. we’ve read on local network alignment—and we have read dozens—
+                                                                                                            simply assume that sequence information can and should be used. ",q-bio.MN,A_centroid,-0.20643999,0.19778374,0.039331906
+http://arxiv.org/pdf/2207.04353v1,"BLANT: Basic Local Alignment of Network Topology, Part 1: Seeding local alignments with unambiguous 8-node graphlets","First,
+low node correctness on many networks, demonstrating the               we weigh node pairs with higher degree more with the α
+difﬁculty of aligning these networks with the current state-of-        parameter described in [16]’s Supplementary Info, using their
+the-art. As with IID, further study is warranted. recommended value of α = 0.8. ",q-bio.MN,A,-0.048501126,0.15514013,0.012771335
+http://arxiv.org/pdf/2207.05335v1,An algebraic characterization of self-generating chemical reaction networks using semigroup models,"This is an illustration of how the semigroup mod-
+els can be used to discover new concepts in CRS theory. In future work, such
+concepts will be applied to CRS corresponding to real biological systems. 2 Semigroup models
+
+The construction of semigroup models and their elementary properties are
+provided in Section 2.2. ",q-bio.MN,B,0.10994715,-0.2726984,0.27244717
+http://arxiv.org/pdf/2208.00471v1,Network strategies to study Epstein-Barr virus associated carcinomas and potential etiological mechanisms for oncogenesis,"Using topological network analysis and community detection algorithm followed by
+functional enrichment, we identiﬁed the community of genes that were involved with respective biological
+processes involving carcinomas (GC, NPC, HL and BL). Since there are currently no speciﬁc treatments
+for EBV causing infectious mononucleosis other than the use of corticosteroids, further analysis of common
+biological processes and over-represented genes in the involvement of such carcinomas will provide better
+outcomes. Consequently, for EBV-associated carcinomas mainly GC, NPC, HL and BL, more such clinical
+investigations are needed for better prognostic and therapeutic outcomes. ",q-bio.MN,A,-0.34793693,0.02529362,-0.4454558
+http://arxiv.org/pdf/2208.01647v1,AI-driven Hypernetwork of Organic Chemistry: Network Statistics and Applications in Reaction Classification,"6. Conclusions and future work                                      To demonstrate the AI-applications of the hypergraph rep-
+                                                                    resentation of chemical reactions, we performed reaction
+Network theory offers natural tools and techniques for under-       classiﬁcation using embeddings generated from chemistry-
+standing the growth of chemistry over time by representing          informed random walks on hyperedges. The embeddings re-
+reactions as time-evolving real-world networks. ",q-bio.MN,A,-0.27510327,-0.14466208,0.012753922
+http://arxiv.org/pdf/2208.04162v1,Dynamic Information Transfer in Stochastic Biochemical Networks,"In our second case study,     formation processing capabilities of biochemical systems are
+we have studied information transfer in a non-linear, positive    limited by thermodynamic constraints will be an interesting
+feedback system. Our analysis revealed that positive feed-        subject for future work. back – and the resulting bistability – can enhance information
+transmission between input and output. ",q-bio.MN,B,-0.00094762817,-0.49793488,0.42223915
+http://arxiv.org/pdf/2208.10119v1,Predicting the Biological Classification of Cell-Cycle Regulated Genes of Saccharomyces cerevisiae using Community Detection Algorithms on Gene Co-expression Networks,"ferent graph metrics or attributes for the assignment of color and
+                                                                             node size. This tool can be used for further studying the different
+   We are interested to verify the claim of Ruan et al. [11] that            relationships of genes and investigating the smaller communities
+network-based methods can outperform conventional cluster anal-              present in the graph. ",q-bio.MN,A,-0.28326213,0.2712571,-0.22504097

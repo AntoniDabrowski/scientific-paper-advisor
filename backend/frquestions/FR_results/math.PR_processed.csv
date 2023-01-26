@@ -1,0 +1,1662 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00797v1,On Tempered Discrete and Lévy White Noises,"We ﬁnally used the discrete characterization
+in our analysis of the tempered Lévy white noises in Theorem 2. In future works, we
+plan to extend the proposed considerations to new spaces of generalized functions, including
+tempered ultra-distributions [39] and Fourier hyperfunctions [23]. References
+
+ [1] S. Aziznejad and J. Fageot. ",math.PR,C,0.047948457,0.38497442,-0.1576601
+http://arxiv.org/pdf/2201.01514v1,Local limit theorem for complex valued sequences,"The three hypotheses we presented above will be crucial in the rest of the paper. Some of them could maybe
+
+be less restrictive, but this would be consideration for future works. Finally, by deﬁning the discrete Dirac mass δ = (δj,0)j∈Z, we introduce the so-called temporal Green’s
+function deﬁned by
+
+                                                  ∀n ∈ N∗, ∀j ∈ Z, Gjn := (Lanδ)j . ",math.PR,C,0.08164321,0.13216591,-0.016947782
+http://arxiv.org/pdf/2201.01514v2,Local limit theorem for complex valued sequences,"The three hypotheses we presented above
+
+will be crucial in the rest of the paper. Some hypotheses might be relaxable, but this would be considerations
+
+for future works. Finally, by deﬁning the discrete Dirac mass δ := (δj,0)j∈Z, we introduce the so-called temporal Green’s
+
+function deﬁned by
+
+                                                      ∀n ∈ N, ∀j ∈ Z, Gjn := (Lanδ)j . ",math.PR,C,0.072364494,0.1276944,-0.0014149463
+http://arxiv.org/pdf/2201.02041v3,Accuracy criterion for mean field approximations of Markov processes on hypergraphs,"Section
+4 discusses further reductions of NIMFA to more simple approximations used
+throughout the literature. Section 5 contains a summary of this paper along
+with the limitations of these results and possible directions for further research. Finally, proofs are contained in Section 6. ",math.PR,B,0.10272734,-0.17286174,0.10457645
+http://arxiv.org/pdf/2201.03283v1,An application of the splitting-up method for the computation of a neural network representation for the solution for the filtering equations,"Secondly, more numerical studies have to be performed to accurately evaluate the capabil-
+ities of neural networks in situations of higher practical relevance than the synthetic study
+we have performed in this work. We plan to investigate this topic further in future work. 1.1 Notation
+
+Throughout this paper, N denotes the natural numbers without zero and N0 is the set of
+
+natural numbers including zero. ",math.PR,A,-0.09346108,-0.12964258,0.07722489
+http://arxiv.org/pdf/2201.03315v1,Edge and vertex flippings in regular and bipartite graphs,"Its eigenvalues and stationary distributions for some cases are identiﬁed in the same
+                                                  paper. We further study its spectral properties to show a lower bound for the rate
+                                                  of convergence in the case of regular graphs. In particular, we show a cutoﬀ of order
+                                                  n4 log n for the edge ﬂipping on the complete graph. ",math.PR,A,-0.22856146,-0.07068216,-0.19270536
+http://arxiv.org/pdf/2201.03315v2,Mixing time bounds for edge flipping on regular graphs,"In the same paper, its eigenvalues and
+                                                     stationary distributions for some classes of graphs are identiﬁed. We further study its spectral
+                                                     properties to show a lower bound for the rate of convergence in the case of regular graphs. Moreover, we show that a cutoﬀ occurs at 14 n log n for the edge ﬂipping on the complete
+                                                     graph by a coupling argument. ",math.PR,A,-0.21788898,-0.10071806,-0.2092948
+http://arxiv.org/pdf/2201.03315v3,Mixing time bounds for edge flipping on regular graphs,"In the same paper, its eigenvalues and
+                                                      stationary distributions for some classes of graphs are identiﬁed. We further study its spectral
+                                                      properties to show a lower bound for the rate of convergence in the case of regular graphs. Moreover, we show that a cutoﬀ occurs at 14 n log n for the edge ﬂipping on the complete
+                                                      graph by a coupling argument. ",math.PR,A,-0.21788898,-0.10071806,-0.2092948
+http://arxiv.org/pdf/2201.03406v1,A Unified Stochastic SIR Model,"Figure 5: E-M scheme simulation 3 of system (3.3) illustrating disease persistence. 5 Conclusion and future work
+
+In this paper, we propose and investigate the uniﬁed stochastic SIR model given by the system
+(1.3). We have presented two forms of the model–one for population proportions and the other
+for population numbers. ",math.PR,A,-0.34720007,-0.08237025,0.1363793
+http://arxiv.org/pdf/2201.03882v2,A fully nonlinear Feynman-Kac formula with derivatives of arbitrary orders,". , ∂xλ1n1 · · · ∂xλdnd u(t, x) , also depending on (t, x) ∈ [0, T ] × Rd, is
+possible while making the description of the algorithm signiﬁcantly more cumbersome, and
+
+is the object of future work. In the sequel we will use the following version of the multivariate Fa`a di Bruno formula,
+which follows from Theorem 2.1 in [CS96]. ",math.PR,C,-0.02619144,0.33991712,0.28052354
+http://arxiv.org/pdf/2201.05029v1,A probabilistic analysis of shotgun sequencing for metagenomics,"6. Discussion and future work
+
+   This research paper is designed to explore the basic requirements for shotgun DNA
+reconstruction in the metagenomics case. We obtain these results by considering
+a blind reconstruction of a set of genomes under an IID model. ",math.PR,B,0.035995148,-0.18721944,0.06696011
+http://arxiv.org/pdf/2201.05085v1,The free energy of a box-version of the interacting Bose gas,"It is certainly desirable to overcome this assumption. The method developed
+in the present paper seems to give a suitable ansatz to do so in future work. 4. ",math.PR,B,0.26608792,-0.071007885,0.14992408
+http://arxiv.org/pdf/2201.05377v1,Localization of a one-dimensional simple random walk among power-law renewal obstacles,"Using standard tools from the theory of random walks in random environment,
+       one can thus establish that as x → ∞,
+
+          x2                                (γ < 1)
+                                            (1 < γ < 2)
+                                             (2 < γ). (1.25)  E(Hx|σ > Hx) ∼ (cst)  x2/γ
+                                          x
+
+     Letting x = τℓ0−1, this leads to an estimate for the expected hitting time of the
+     optimal gap that is much smaller than n. We postpone to future work a more precise
+     study of Hτℓ0−1 under P(·|σ > n). (5) (Bernoulli obstacles) The case of Bernoulli obstacles has been extensively studied
+     in the literature. ",math.PR,A,-0.33633137,-0.08304423,-0.11699106
+http://arxiv.org/pdf/2201.05859v1,On Merging of Stochastic Flow of Semi-Markov Dynamics,"It is clear that the results of Section 4 cannot be extended in
+
+a straight forward manner for this general case. We wish to pursue further research in these directions. Appendix A.
+
+Lemma A.1. ",math.PR,B,0.42400002,-0.23870048,0.09500927
+http://arxiv.org/pdf/2201.05859v2,On Merging of Stochastic Flow of Semi-Markov Dynamics,"It is clear that the results of Section 4 cannot be extended
+in a straight forward manner for this general case. We wish to pursue further research in these directions. Acknowledgement
+
+The authors are grateful to Professors Mrinal K. Ghosh, and Gopal K. Basak for some helpful discussions. ",math.PR,B,0.330753,-0.28269297,0.17750093
+http://arxiv.org/pdf/2201.05859v3,On Merging of Stochastic Flow of Semi-Markov Dynamics,"It is clear that the results of Section 4 cannot be extended
+in a straight forward manner for this general case. We wish to pursue further research in these directions. Acknowledgement
+
+The authors are grateful to Professors Mrinal K. Ghosh, and Gopal K. Basak for some helpful discussions. ",math.PR,B,0.330753,-0.28269297,0.17750093
+http://arxiv.org/pdf/2201.05876v1,"Brownian motion, martingales and Itô formula in Clifford analysis","As a practical
+application of tools of stochastic Cliﬀord analysis developed in this paper, we
+have illustrated how classical results in Cliﬀord analysis, such as solvability
+of a Dirichlet problem for monogenic functions and Liuville’s theorem, can be
+proved from the stochastic point of view. Further, the Itoˆ formula introduced
+in this paper, is a basis for addressing stochastic partial diﬀerential equations
+in Cliﬀord analysis, which is the scope of our future work. Acknowledgement
+
+We thank sincerely the reviewers for providing excellent constructive com-
+ments and suggestions, which have helped improving the paper. ",math.PR,C,0.0008335151,0.27136546,-0.042342324
+http://arxiv.org/pdf/2201.05886v1,Large N limit of the Yang-Mills measure on compact surfaces II: Makeenko-Migdal equations and planar master field,"We show here that the ﬁrst hurdle can be
+        overcome, allowing to reduce the problem, completely in the torus case and partially
+        when g ≥ 2, to the class of loops considered in [16]. We leave the completion of this
+        program for all compact surfaces to a future work. The paper is organised as follows. ",math.PR,B,0.11875379,-0.18483187,0.1611077
+http://arxiv.org/pdf/2201.06156v1,Universality for low degree factors of random polynomials over finite fields,"This data seems to support the idea that at least for low degree factors, most of
+the error seems to come from roots of low order. It also seems like the error should
+note really deteriorate for large p, which warrants further study since our methods
+are unsuited for this. 8.2. ",math.PR,B,0.051302988,-0.24771169,0.24874488
+http://arxiv.org/pdf/2201.06156v2,Universality for low degree factors of random polynomials over finite fields,"The black line indicates 1i , which is a
+good approximation for the expected value under the uniform model
+
+for large p.
+
+   This data seems to support the idea that at least for low degree factors, most of
+the error seems to come from roots of low order. It also seems like the error should
+note really deteriorate for large p, which warrants further study since our methods
+are unsuited for this. 32  JIMMY HE, HUY TUAN PHAM, AND MAX WENQIANG XU
+
+    0 0.2 0.4 0.6 0.8 1  0 0.2 0.4 0.6 0.8 1   0 0.2 0.4 0.6 0.8 1
+
+          (a) p = 11     (b) p = 10, 000, 079  (c) Poisson-Dirichlet
+
+    Figure 8.4. ",math.PR,A,-0.15810762,-0.15309605,0.24811676
+http://arxiv.org/pdf/2201.06827v1,A sojourn-based approach to semi-Markov Reinforcement Learning,"However, the results are still promising. In future works we plan to carry on
+the study on deep Q-learning algorithms in this context (in particular for the ﬁnite horizon case,
+which turned out to have some interesting implications). References
+
+ [1] G. Ascione, N. Leonenko, and E. Pirozzi. ",math.PR,C,-0.01148944,-0.029144853,-0.053880673
+http://arxiv.org/pdf/2201.06827v2,A sojourn-based approach to semi-Markov Reinforcement Learning,"Clearly,
+a further investigation is needed to improve such an idea. In future works we plan to carry on
+30  GIACOMO ASCIONE AND SALVATORE CUOMO
+
+the study on deep Q-learning algorithms in this context (in particular for the ﬁnite horizon case,
+which turned out to have some interesting implications). Acknowledgements
+
+   The authors would like to thank the anonymous referees for their precious comments. ",math.PR,C,0.022681372,-0.07091692,-0.06754057
+http://arxiv.org/pdf/2201.07270v1,Random walk on nonnegative integers in beta distributed random environment,"Thus, we may hope that some generalizations of the half-space beta RWRE
+exists, although currently, our proofs restrict our study to homogeneous parameters. Finally, another direction which we hope to address in future work is to design a half-space
+variant of the (colored) q-Hahn vertex model (the model was originally deﬁned in [Pov13] in the
+uncolored case, though we refer the reader to [Kor21] for the vertex model formulation), which
+should converge, in the q → 1 limit, to the half-space beta RWRE. This problem is related to the
+discussion in Remark 1.5, and more generally, one may wonder about the existence of an integrable
+half-space variant of the stochastic higher-spin six vertex model [Bor17, CP16, BP18]. ",math.PR,A,-0.13567176,-0.019505315,-0.0063981223
+http://arxiv.org/pdf/2201.07270v2,Random walk on nonnegative integers in beta distributed random environment,"(4)], and
+this is the guiding principle that led us to the deﬁnition of the half-space beta RWRE (Deﬁnition
+1.1). Initially, we considered the integral formula (1.3), inspired by moment formulas satisﬁed
+by several other models (the half-space log-gamma polymer [BBC20], the half-line KPZ equation
+[BBC16], and also by a Brownian limit of the full-space beta RWRE, studied in [BR20], which
+also admits a half-space version, to be studied in future work). Then, to determine to which
+discrete model the formula (1.3) could correspond to, we ﬁrst postulated that, away from the
+boundary, the model should be similar as in full-space, that is Wt,x ∼ Beta(µ, µ) for x > 1. ",math.PR,C,-0.06440808,0.18219288,0.12346395
+http://arxiv.org/pdf/2201.07270v3,Random walk on nonnegative integers in beta distributed random environment,"(4)], and
+this is the guiding principle that led us to the deﬁnition of the half-space beta RWRE (Deﬁnition
+1.1). Initially, we considered the integral formula (1.3), inspired by moment formulas satisﬁed
+by several other models (the half-space log-gamma polymer [BBC20], the half-line KPZ equation
+[BBC16], and also by a Brownian limit of the full-space beta RWRE, studied in [BR20], which
+also admits a half-space version, to be studied in future work). Then, to determine to which
+discrete model the formula (1.3) could correspond to, we ﬁrst postulated that, away from the
+boundary, the model should be similar as in full-space, that is Wt,x ∼ Beta(µ, µ) for x > 1. ",math.PR,C,-0.06440808,0.18219288,0.12346395
+http://arxiv.org/pdf/2201.07276v2,Large deviation principle for geometric and topological functionals and associated point processes,"The authors are very grateful for useful comments received from
+an anonymous referee and an anonymous Associate Editor. The referee proposed interesting
+topics for further research, while helping the authors to introduce a number of improvements
+to the paper. Funding. ",math.PR,B,0.098442465,-0.12798974,0.06805909
+http://arxiv.org/pdf/2201.10241v2,Hydrodynamical behavior for the generalized symmetric exclusion with open boundary,"There are two other related problems that
+we comment on. The ﬁrst one is the hydrostatic limit, that we can obtain as a consequence
+of the hydrodynamic limit in the case θ = 0 by a simple analysis of the stationary correlation
+function and also for θ > 1, by applying the argument developed in [15], which consists in
+analysing the mass of the system in the time scale N 1+θ , and this will appear in a future work
+[7]. The hydrostatics in the other cases is left open. ",math.PR,C,-0.15733932,0.1513606,0.21627751
+http://arxiv.org/pdf/2201.10256v1,Quantitative coarse-graining of Markov chains,"We expect quantitative estimates with appropriate modiﬁcations (which involve suitable norms) to
+hold for countable state space, since similar results also exist for diﬀusion processes on unbounded state-space
+Rd. This is left to future work. This article is restricted to the setting of jump processes with linear jump rates. ",math.PR,C,-0.130595,0.176322,-0.040074576
+http://arxiv.org/pdf/2201.11612v1,A bifurcation analysis of some McKean-Vlasov equations,"Characterizing
+those metastable states in quantitative terms is a challenging mathematical question. Recent partial
+results have been obtained in this direction [AD20; LM21; DT21] and we hope to make progress
+on this question in future works. Structure of the paper. ",math.PR,A,-0.08450677,-0.06988767,0.09299673
+http://arxiv.org/pdf/2201.11773v2,Random trees have height $O(\sqrt{n})$,"In [4], a diﬀerent
+sampling method is used to show that in the ﬁnite variance regime, the spanning trees
+of large random tree-rooted graphs converge after rescaling to the Brownian continuum
+random tree. In future work, we plan to build on the current work to study distances in
+and convergence of random tree-rooted graphs for other degree regimes. Our results can also be applied to many models of random graphs that contain cycles,
+because the tree models that we study are important building blocks for many such sparse
+random graphs. ",math.PR,A,-0.3476898,-0.2479991,-0.24970207
+http://arxiv.org/pdf/2201.13053v1,A Probabilistic Graph Coupling View of Dimension Reduction,"For simplicity,
+L = EW ∼PPX (·;KX )[L(W )], boiling down to the ob-                   we consider the Gaussian model and leave the extension
+jective of Laplacian eigenmaps (Belkin & Niyogi, 2003). to other kernels for future works. Recall that in the
+Therefore, for Gaussian MRFs, the attractive forces                   Gaussian framework, integrability translates into the
+resume to an unconstrained Laplacian eigenmaps ob-                    precision matrix being full-rank. ",math.PR,C,-0.056820787,0.21715984,0.017292878
+http://arxiv.org/pdf/2201.13053v2,A Probabilistic Graph Coupling View of Dimension Reduction,"4.1 PCA as Graph Coupling
+
+As we argue that the inability of SNE-like methods to reproduce the coarse-grain dependencies
+of the input in the latent space is due to the degeneracy of the conditional (3), a natural
+solution would be to consider graphical models that are well deﬁned and integrable on the
+entire deﬁnition spaces of X and Z. For simplicity, we consider the Gaussian model and
+leave the extension to other kernels for future works. Note that in this case integrability
+translates into the precision matrix being full-rank. ",math.PR,A,-0.07421675,-0.09293749,-0.045579907
+http://arxiv.org/pdf/2202.00189v1,On a formula for moments of the multivariate normal distribution generalizing Stein's lemma and Isserlis theorem,"3], we extended Novikov-
+
+Furutsu theorem for averages that contain the Gaussian argument at various times;
+
+E g[X]    N    X  (ti)  . Its generalization for averages E g[X]  N    X  ni  (ti)  will be
+          i=1                                                      i=1
+
+the topic of a future work. As we have already shown in [2], the introduction and
+
+use of averaged shift operators is very helpful in constructing generalizations of the
+
+Novikov-Furutsu theorem. ",math.PR,C,0.068800054,0.3356899,-0.3627478
+http://arxiv.org/pdf/2202.00189v2,On a formula for moments of the multivariate normal distribution generalizing Stein's lemma and Isserlis theorem,"Furthermore, by setting g(X) = 1, generalizing formula (5) results in Isserlis theorem [10] and Song & Lee formula
+
+[26] for Gaussian product moments E                   N        Xini     . i=1
+
+A direction for future works is the generalization of the inﬁnite-dimensional analog of Stein’s lemma, called the
+
+Novikov-Furutsu theorem (see [24, Sec. 11.5], [2]). ",math.PR,C,0.107364684,0.4082867,-0.39080843
+http://arxiv.org/pdf/2202.00189v3,On a formula for moments of the multivariate normal distribution generalizing Stein's lemma and Isserlis theorem,"Furthermore, by setting g(X) = 1, generalizing formula (5) results in Isserlis theorem [10] and Song & Lee formula
+
+[26] for Gaussian product moments E                   N        Xini     . i=1
+
+A direction for future works is the generalization of the inﬁnite-dimensional analog of Stein’s lemma, called the
+
+Novikov-Furutsu theorem (see [24, Sec. 11.5], [2]). ",math.PR,C,0.107364684,0.4082867,-0.39080843
+http://arxiv.org/pdf/2202.00189v4,New formulas for moments and functions of the multivariate normal distribution extending Stein's lemma and Isserlis theorem,"Furthermore, by setting
+
+g(X) = 1, formula (1.5) results in Isserlis theorem [12] and Song & Lee formula [30]
+
+for Gaussian product moments E                            N    Xini  . i=1
+
+    A direction for future works is the extension of the inﬁnite-dimensional analog of
+
+Stein’s lemma, called the Novikov-Furutsu theorem (see [27, Sec. 11.5], [2]). ",math.PR,C,0.1167507,0.41784155,-0.38262028
+http://arxiv.org/pdf/2202.00189v5,New formulas for moments and functions of the multivariate normal distribution extending Stein's lemma and Isserlis theorem,"Furthermore, by setting g(X) = 1, formula (5) results in Isserlis theorem [13] and Song & Lee formula [31] for
+
+Gaussian product moments E                N     Xini  . i=1
+
+A direction for future works is the extension of the inﬁnite-dimensional analog of Stein’s lemma, called the
+
+Novikov-Furutsu theorem (see [28, Sec. 11.5], [2]). ",math.PR,C,0.12287097,0.40575695,-0.38695216
+http://arxiv.org/pdf/2202.00592v1,The Uniform Infinite Cubic Planar Graph,"Properties of random cubic
+                                         planar graphs were studied in these works and also in [27, 25]. The investigation of
+                                         cubic planar graphs also stimulated further research directions, such as the study of
+                                         4-regular planar graphs [23] or cubic graphs on general orientable surfaces [13]. Throughout this work we let Cn denote the simple connected cubic planar graph
+                                         drawn uniformly at random from the collection of such graphs with a ﬁxed n-element
+                                         vertex set. ",math.PR,A,-0.19442108,-0.3425634,-0.20309407
+http://arxiv.org/pdf/2202.00959v1,Efficient Random Walks on Riemannian Manifolds,"Such heuristics, however, do not quantify the error between the empirical mea-
+
+sure obtained by simulating a random walk and the Riemannian volume measure. We leave these questions for future work. EFFICIENT RANDOM WALKS ON RIEMANNIAN MANIFOLDS  9
+
+                                          3. ",math.PR,A,-0.22084332,0.00833899,-0.16463098
+http://arxiv.org/pdf/2202.00977v3,HMC and underdamped Langevin united in the unadjusted convex smooth case,"As a consequence, regarding the numerical error, we simply state for completeness the following
+result, which is a consequence of Corollary 13 and of the standard numerical analysis of the
+Verlet scheme. Other considerations on the numerical error (in particular the error due to the
+stochastic gradient, as in [33, 34]) are postponed to future works. Proposition 15. ",math.PR,C,0.043439165,0.08157948,0.050033465
+http://arxiv.org/pdf/2202.01621v1,Infinitely Divisible Distributions and Commutative Diagrams,"All examples are presented as LKCDs. This is followed by a
+discussion in Section 10, and concluding remarks and pointers to future work in Section 11. 1.2 Stable distribution
+
+The α-stable distribution for 0 < α < 1, deﬁned on the positive half-line, has density fα(x), x ≥ 0
+with Laplace transform
+
+                            fα(s) = exp(−sα)                           (1)
+
+The α-stable distribution is of interest in probability theory and various applications. ",math.PR,A,-0.25249782,0.14542961,0.006949898
+http://arxiv.org/pdf/2202.01621v2,Infinitely Divisible Distributions and Commutative Diagrams,"All examples are presented as LKCDs. This is followed by a
+discussion in Section 10, and concluding remarks and pointers to future work in Section 11. 1.2 Stable distribution
+
+The α-stable distribution for 0 < α < 1, deﬁned on the positive half-line, has density fα(x), x ≥ 0
+with Laplace transform
+
+                            fα(s) = exp(−sα)                           (1)
+
+The α-stable distribution is of interest in probability theory and various applications. ",math.PR,A,-0.25249782,0.14542961,0.006949898
+http://arxiv.org/pdf/2202.01621v3,Infinitely Divisible Distributions and Commutative Diagrams,"All examples are presented as LKCDs. This is followed by a
+discussion in Section 10, and concluding remarks and pointers to future work in Section 11. 1.2 Stable distribution
+
+The α-stable distribution for 0 < α < 1, deﬁned on the positive half-line, has density fα(x), x ≥ 0
+with Laplace transform
+
+                            fα(s) = exp(−sα)                           (1)
+
+The α-stable distribution is of interest in probability theory and various applications. ",math.PR,A,-0.25249782,0.14542961,0.006949898
+http://arxiv.org/pdf/2202.02742v1,Branching Random Walks with Two Types of Particles on Multidimensional Lattices,"Let us write out the precise forms of the solutions u(t) and v(t) of Eqs. (33)–(34); they will be
+
+needed in the further analysis. Consider the following combinations of the parameters b and c:
+
+                 b = 0, c 0 or b 0, c = 0 or b > 0, c > 0,
+
+which exhaust all possible combinations of these parameters under condition b, c 0. ",math.PR,C,-0.035311468,0.07870717,0.5290001
+http://arxiv.org/pdf/2202.02742v2,Branching Random Walks with Two Types of Particles on Multidimensional Lattices,"(36)
+
+The solution v(t) can be expressed likewise. Let us write out the precise forms of the solutions u(t) and v(t) of Equations (33) and (34);
+
+they will be needed in the further analysis. Consider the following combinations of the parameters
+b and c:
+
+                                b = 0, c 0 or b 0, c = 0 or b > 0, c > 0,
+
+which exhaust all possible combinations of these parameters under condition b, c 0. ",math.PR,C,0.01002777,0.042823914,0.5188293
+http://arxiv.org/pdf/2202.05080v1,On an Asymptotic Criterion for Blockchain Design: The Asynchronous Composition Model,"In Sections 5 and 6, we prove the statements concerning
+the regenerative behavior in the time-delay graph and our main results, respectively. Finally,
+in Section 7, we discuss our results and some directions for future work. 2. ",math.PR,B,0.06636147,-0.13935116,-0.04014534
+http://arxiv.org/pdf/2202.05335v2,Conditional Uniformity and Hawkes Processes,"While this result would leverage the transience in the transformed compensator space, it is
+
+of course more desirable to analyze true transience in time. Bridging these perspectives stands as
+
+a highly interesting direction of future work. Finally, to that end, let us emphasize that this paper’s analysis has not been a purely theoretical
+
+exercise. ",math.PR,B,0.1256146,0.059181392,0.047488537
+http://arxiv.org/pdf/2202.06380v1,Central Limit Theorems for Semidiscrete Wasserstein Distances,"But note that this
+probability measure does not satisfy (Cont). We conjecture that Theorem 4.2 still holds in this
+case, but some additional work should be done which is left as a future work. In the same way,
+the regularity of the transport can be obtained in the continuous case by a careful treatment of
+the Monge-Ampére equation, see [7]. ",math.PR,C,0.11291663,0.32555762,-0.12401826
+http://arxiv.org/pdf/2202.07558v1,Greedy lattice paths with negative values,"It appears for purely technical
+
+reasons. We wish to remove this condition and consider Xv with arbitrary
+
+negative tails in the future work. For the L1 convergence part, certain inte-
+
+grability condition of max(−X0, 0) is required. ",math.PR,C,-0.038452536,0.13044345,0.08385818
+http://arxiv.org/pdf/2202.07753v1,Rate of homogenization for fully-coupled McKean-Vlasov SDEs,"The proof of Theorem 3.1 is in Section 6. Conclusions and a discussion
+on future work is the content of Section 7. The Appendix contains a number of technical results used in the
+paper. ",math.PR,B,0.51460624,-0.13644174,-0.1447035
+http://arxiv.org/pdf/2202.07753v2,Rate of homogenization for fully-coupled McKean-Vlasov SDEs,"The proof of Theorem 3.1 is in Section 6. Conclusions and a discussion
+on future work is the content of Section 7. The Appendix contains a number of technical results used in the
+paper. ",math.PR,B,0.51460624,-0.13644174,-0.1447035
+http://arxiv.org/pdf/2202.07753v3,Rate of homogenization for fully-coupled McKean-Vlasov SDEs,"The proof of Theorem 3.1 is in Section 6. Conclusions and a discussion
+on future work is the content of Section 7. The Appendix contains a number of technical results used in the
+paper. ",math.PR,B,0.51460624,-0.13644174,-0.1447035
+http://arxiv.org/pdf/2202.08242v1,Singularities of Gaussian Random Maps into the Plane,"We can
+then compute the expected number of these cusps as the number of transverse intersections of the
+function j2h with the submanifold S1,1 using a generalized Kac-Rice formula [Ste21]. However,
+these computations are a bit cumbersome and we will pursue these in a future work. References
+
+[AA13]   Antonio Auﬃnger and Gerard Ben Arous. ",math.PR,A,-0.08910482,-0.11126547,0.15198076
+http://arxiv.org/pdf/2202.08403v1,Moderate deviations for fully coupled multiscale weakly interacting particle systems,"Section 11 contains the proof of the Laplace
+principle lower bound. Conclusions and directions for future work are in Section 12. A number of key
+technical estimates are presented in the appendix. ",math.PR,C,0.18834457,0.13311134,0.06741637
+http://arxiv.org/pdf/2202.08829v1,Cycle structure of random parking functions,"There is a vast probabilistic literature
+on the cycle structure of random permutations, which include the works of Shepp and Lloyd
+[27] on ordered cycle lengths and DeLaurentis and Pittel [7] on a functional central limit
+theorem for cycle lengths with connections to Brownian motion. Our paper initiates a
+parallel study of the cycle structure in random parking functions, but further study is fully
+warranted. 1.2. ",math.PR,A,-0.30878216,-0.1624201,-0.37244767
+http://arxiv.org/pdf/2202.08829v2,Cycle structure of random parking functions,"There is a vast probabilistic literature
+on the cycle structure of random permutations, which include the works of Shepp and Lloyd
+[27] on ordered cycle lengths and DeLaurentis and Pittel [7] on a functional central limit
+theorem for cycle lengths with connections to Brownian motion. Our paper initiates a
+parallel study of the cycle structure in random parking functions, but further study is fully
+warranted. 1.2. ",math.PR,A,-0.30878216,-0.1624201,-0.37244767
+http://arxiv.org/pdf/2202.09079v1,Central limit theorem for full discretization of parabolic SPDE,"One common approach is constructing the time-averaging estimator m−1                m−1        h(X(tk  ))  of
+                                                                                    k=0
+a numerical discretization {X(tk)}k≥0 of (1.1) with m > 0 being an integer. Under some
+
+conditions, this time-averaging estimator converges to π(h) in the mean sense with a certain
+
+order with respect to mesh sizes and m. It is interesting to further study such a conver-
+
+gence in probability and characterize the ﬂuctuation in a quantitative way for a numerical
+
+discretization of (1.1), namely, to solve the following questions:
+
+    (i) Does the time-averaging estimator converge to the ergodic limit in probability? Namely,
+         dose the weak LLNs hold? ",math.PR,A,-0.1966427,0.17106214,-0.19473125
+http://arxiv.org/pdf/2202.10410v1,"Dirichlet sub-Laplacians on homogeneous Carnot groups: spectral properties, asymptotics, and heat content","We rely on the theory of Dirichlet forms to show
+that a sub-Laplacian with Dirichlet boundary conditions on sets with
+no restrictions on the boundary are inﬁnitesimal generators of a Hunt
+process, namely, a killed process. To further study boundary behavior
+of eigenfunctions we address the issue of regularity of boundary points
+being deﬁned diﬀerently in analysis, potential theory and probability. Our main results include Theorem 3.4 where we collect spectral prop-
+erties of the Dirichlet sub-Laplacian −LΩ restricted to a bounded open
+connected subset Ω of a Carnot group G. We prove that the spectrum
+of −LΩ is discrete, and then we show that the ﬁrst Dirichlet eigenvalue
+is strictly positive and simple, i.e. ",math.PR,C,0.050938226,0.13493821,-0.08484894
+http://arxiv.org/pdf/2202.10799v1,Large deviations asymptotics for unbounded additive functionals of diffusion processes,"This change would simply introduce a slowly
+varying component in the asymptotic result at the expense of making the development signiﬁcantly more
+
+                                                         6
+involved without adding much more conceptual insight; thus, we have decided to simplify the exposition
+under our current assumptions. We leave the details of such generalizations, each requiring subtle individual
+treatment, for future work. 2.4 Two Key Results and Proof of the Main Result
+
+In this subsection, we state two key results—Lemma 2.1 and Proposition 2.1—used subsequently in the proof
+of Theorem 2.1. ",math.PR,B,0.15463853,-0.115361825,-0.11838919
+http://arxiv.org/pdf/2202.10799v2,Large deviations asymptotics for unbounded additive functionals of diffusion processes,"This change would introduce a slowly varying component in the asymptotic result at the expense of
+making the development signiﬁcantly more involved without adding much more conceptual insight; thus,
+we have decided to simplify the exposition under our current assumptions. We leave the details of such
+generalizations, each requiring subtle and elaborate individual treatment, for future work. 2.4 Two Key Results and Proof of the Main Result
+
+In this subsection, we state two key results—Lemma 2.1 and Proposition 2.1—used subsequently in the proof
+of our main result—Theorem 2.1. ",math.PR,B,0.1247651,-0.07160442,-0.12541145
+http://arxiv.org/pdf/2202.10852v1,A pathwise parameterisation for stochastic transport,"The best case was when
+all 200000 data samples were used to estimate α, the relative error in that case was 0.00135. This suggests
+convergence and stabilisation of the sum for [ωˆ]t.
+
+    For future work, we aim to test the pathwise approach for cases in which we do not know the exact selection
+of basis elements for ξ. Further, we wish to extend and test these ideas on coarse grained PDE data and compare
+with the results that were obtained in [4] using previously developed calibration methods. ",math.PR,C,-0.06539389,0.22401251,0.3008442
+http://arxiv.org/pdf/2202.11369v1,Wong-Zakai approximation and support theorem for 2D and 3D stochastic convective Brinkman-Forchheimer equations,"Moreover, in [13], authors proved
+that the rate of convergence of Wong-Zakai approximation for SPDEs driven by Wiener
+processes is essentially the same as the rate of convergence of the driving processes (say
+Wn(t)) approximating the original Wiener process W(t) under certain conditions. The rate
+of convergence of Wong-Zakai approximation of stochastic CBF equations will be addressed
+in a future work. The major aims of this work are listed below:
+
+(1) For d = 2, 3 with r ≥ 3 (for d = r = 3 with 2βµ ≥ 1), we prove the Wong-Zakai
+     approximation result for stochastic CBF equations (1.1) (Theorem 3.3). ",math.PR,C,-0.16738923,0.24638939,-0.12042457
+http://arxiv.org/pdf/2202.12518v1,Transition graph decomposition for complex balanced reaction networks with non-mass-action kinetics,"In the case of complex
+balanced systems, an exact formula for the stationary distributions is already known [2], however
+the general line of thought can be pursued for other types of restrictions diﬀerent from copies. In fact, in future work we will use this idea to eﬃciently calculate novel stationary distributions. Secondly, the paper focuses on the connection between stationary distributions and graphical
+symmetries. ",math.PR,A,-0.23673555,0.011244133,0.008450852
+http://arxiv.org/pdf/2202.12552v1,A piecewise deterministic Markov process approach modeling a dry friction problem with noise,"This bridges the gap between our approach and existing well-posed
+continuous models when the coeﬃcients for the static and dynamic forces are identi-
+cal. As a future work, it should be possible to consider the extension of the PDMP
+approach to higher dimensions and more realistic systems such as randomly driven
+moveable rigid bodies in frictional contact with rigid obstacles or mechanical systems
+Dry friction problem with noise  19
+
+of rigid bodies as inspired by [11,15]. It would also be of interest to develop numerical
+simulation and stochastic control methods for these systems by combining existing
+techniques such as Lagrange multipliers in the same spirit as [16] and [14]. ",math.PR,C,-0.23101552,0.1531966,0.2441993
+http://arxiv.org/pdf/2202.13111v1,Hitting Times for Continuous-Time Imprecise-Markov Chains,"(8)                       by Krak et al. [2019] to be a more diﬃcult problem;
+                                                                           we leave this as future work. It was previously shown by Krak et al. ",math.PR,B,0.10795961,-0.22653961,0.10953324
+http://arxiv.org/pdf/2202.13111v2,Hitting Times for Continuous-Time Imprecise-Markov Chains,"It was previously shown by Krak et al. [2019] that—up                We aim to strengthen these results in future work
+                                                                  to hold without any assumptions on the system’s class
+to re-scaling with 1/∆—the quantities h∆ and h∆ repre-            structure. sent the lower (resp. ",math.PR,A,-0.06117308,-0.16659018,0.20302175
+http://arxiv.org/pdf/2202.13111v3,Hitting Times for Continuous-Time Imprecise-Markov Chains,"It was previously shown by Krak et al. [2019] that—up                We aim to strengthen these results in future work
+                                                                  to hold with fewer assumptions on the system’s class
+to re-scaling with 1/∆—the quantities h∆ and h∆ repre-            structure. sent the lower (resp. ",math.PR,A,-0.07311802,-0.17179844,0.1925001
+http://arxiv.org/pdf/2202.13286v1,Motion by mean curvature from Glauber-Kawasaki dynamics with speed change,"On the assumptions in Theorem 1.2. We wish to comment on a few assumptions
+in Theorem 1.2 which may be lifted in future works. First, it may be possible to remove
+assumption (6). ",math.PR,B,0.5484711,-0.09729998,-0.1090339
+http://arxiv.org/pdf/2202.13286v2,Motion by mean curvature from Glauber-Kawasaki dynamics with speed change,"On the assumptions in Theorem 1.2. We wish to comment on a few assumptions
+in Theorem 1.2 which may be lifted in future works. First, it may be possible to remove
+assumption (6). ",math.PR,B,0.5484711,-0.09729998,-0.1090339
+http://arxiv.org/pdf/2202.13286v3,Motion by mean curvature from Glauber-Kawasaki dynamics with speed change,"On the assumptions in Theorem 1.2. We wish to comment on a few assumptions
+in Theorem 1.2 which may be lifted in future works. First, it may be possible to remove
+
+                                    12
+assumption (6). ",math.PR,B_centroid,0.5387863,-0.1368045,-0.09915562
+http://arxiv.org/pdf/2202.13399v1,Conservative Random Walk,"Nevertheless, studying growing pn’s and mixed cases also makes sense. We hope to
+
+      address this topic in future work. (ii)  The probability of changing the direction is pn ·  2d−1  ≤      2d2−d 1 . ",math.PR,A,-0.31276852,-0.17871381,0.023358831
+http://arxiv.org/pdf/2202.13399v2,Conservative Random Walk,"Nevertheless, studying growing pn’s and mixed cases also makes sense. We hope to
+
+      address this topic in future work. (ii)  The probability of changing the direction is pn ·  2d−1  ≤  2d2−d 1 . ",math.PR,A,-0.31276852,-0.17871381,0.023358831
+http://arxiv.org/pdf/2203.00209v1,Tail bounds for detection times in mobile hyperbolic graphs,"Speciﬁcally, in Section 5.1, we look
+at quick detection mechanisms and, in Section 5.2, we show that the detection mechanisms
+found are asymptotically optimal in all cases, that is, no other strategy can detect the target
+asymptotically faster. In Section 6 we brieﬂy comment on future work. 1.6 Global conventions
+
+Throughout  all  of  this  paper  α  is  a  ﬁxed  constant          such  that     1  <  α  ≤  1  (the  reason  to
+                                                                                   2
+consider only this range is that only therein do hyperbolic random graphs are deemed to be
+
+reasonable models of real-world networks – see the discussion in Section 1.4). ",math.PR,A,-0.267348,-0.2585448,-0.24071541
+http://arxiv.org/pdf/2203.00209v2,Tail bounds for detection times in mobile hyperbolic graphs,"Speciﬁcally, in Section 5.1, we look
+at quick detection mechanisms and, in Section 5.2, we show that the detection mechanisms
+found are asymptotically optimal in all cases, that is, no other strategy can detect the target
+asymptotically faster. In Section 6 we brieﬂy comment on future work. 1.6 Global conventions
+
+Throughout  all  of  this  paper  α  is  a  ﬁxed  constant  such  that  1  <  α  ≤  1  (the  reason  to  consider
+                                                                        2
+only this range is that only therein hyperbolic random graphs are deemed to be reasonable
+
+models of real-world networks – see the discussion in Section 1.4). ",math.PR,A,-0.25124168,-0.24741684,-0.23909572
+http://arxiv.org/pdf/2203.01185v1,Probabilistic rough paths II Lions-Taylor expansions and Random controlled rough paths,"Finally, Section 5 introduces a notion of metric between two random controlled rough paths
+(controlled by different probabilistic rough paths). These are used to prove two local stability es-
+timates, see Theorem 5.5 and Theorem 5.6 which will turn out to be fundamental in establishing
+existence and uniqueness of a solution to rough differential equations in future works. 1.6 Notations and notions from standard rough path theory
+
+Let N be the set of positive integers and N0 = N ∪ {0}. ",math.PR,C,-0.030215181,0.12412942,-0.075958855
+http://arxiv.org/pdf/2203.01721v1,Asymptotic Optimality of Speed-Aware JSQ for Heterogeneous Systems,"Using coupling, we have also shown that any stationary load balancing scheme in a
+
+system of parallel queues stochastically dominates the JFFS scheme in the resource pooled system. There are many interesting avenues for future work. Characterising the performance of the SA-JSQ
+
+scheme in the Halfin-Whitt regime remains as an open problem. ",math.PR,A,-0.259273,-0.23849496,0.07251726
+http://arxiv.org/pdf/2203.01721v2,Asymptotic Optimality of Speed-Aware JSQ for Heterogeneous Systems,"Using coupling, we have also shown
+that any stationary load balancing scheme in a system of parallel queues stochastically dom-
+inates the JFFS scheme in the resource pooled system. There are many interesting avenues
+for future work. Characterising the performance of the SA-JSQ scheme in the Halﬁn-Whitt
+regime remains as an open problem. ",math.PR,A,-0.2552426,-0.22874773,0.061633117
+http://arxiv.org/pdf/2203.01721v3,Asymptotic Optimality of Speed-Aware JSQ for Heterogeneous Systems,"Using coupling, we have also shown
+
+                                               27
+that any stationary load balancing scheme in a system of parallel queues stochastically dom-
+inates the JFFS scheme in the resource pooled system. There are many interesting avenues
+for future work. Characterising the performance of the SA-JSQ scheme in the Halﬁn-Whitt
+regime remains as an open problem. ",math.PR,A,-0.25737578,-0.22956207,0.062090494
+http://arxiv.org/pdf/2203.02757v1,The M/G/1 retrial queue with event-dependent arrivals,"Similarly, to the case
+in Table 4, the number of phases of the retrieval times heavily aﬀect the optimal values of the
+joining probabilities. 6 Conclusion & future work
+
+In this work, we introduced the concept of event-dependent arrivals in the retrial setting. We
+studied the stability condition, and investigated the stationary behaviour both at service com-
+pletion, and at an arbitrary epoch. ",math.PR,A,-0.28218102,-0.12644246,0.045989186
+http://arxiv.org/pdf/2203.03237v1,Sequential Gaussian approximation for nonstationary time series in high dimensions,"On the other hand, our result does not impose
+
+any restrictions on the covariance matrices. Of course, an ideal result would combine the
+
+optimal rate in n for ﬁxed dimension, with a good dependence on the dimension d, and
+
+future work might explore diﬀerent methods to extend the high-dimensional Wasserstein
+
+CLT to a sequential approximation. 3 Strong approximation for dependent random vectors
+
+The sequential approximation result for independent random vectors may also be ex-
+tended to nonstationary time series. ",math.PR,A,-0.2129292,0.13082705,-0.2423538
+http://arxiv.org/pdf/2203.04395v1,Equivalences of Geometric Ergodicity of Markov Chains,"[14, Theorem 13.0.1].) We leave these questions as open problems for future work. 27
+Acknowledgements. ",math.PR,B,0.53437495,-0.106181465,-0.035654023
+http://arxiv.org/pdf/2203.04395v2,Equivalences of Geometric Ergodicity of Markov Chains,"[17, Theorem 13.0.1].) 27
+We leave these questions as open problems for future work. Acknowledgements. ",math.PR,B,0.5371361,-0.11653519,-0.032669544
+http://arxiv.org/pdf/2203.04395v3,Equivalences of Geometric Ergodicity of Markov Chains,"[18, Theorem 13.0.1].) We leave these questions as open problems for future work. Acknowledgements. ",math.PR,B,0.53701866,-0.10380039,-0.016852746
+http://arxiv.org/pdf/2203.04485v1,A composite generalization of Ville's martingale theorem,"This example, and especially Proposition 2.5,
+reminds us that if uniform integrability conditions are dropped entirely, then µ∗(Adiv) will
+
+not be zero, but could even be equal one. Thus, condition (4.9) is not only suﬃcient for
+concluding µ∗(Adiv) = 0, but also that some condition like (4.9) is necessary to restrict P.
+
+However, we leave the exact characterization of the necessary condition for future work. Proof of Theorem 4.3. ",math.PR,B,0.33038276,0.022487912,-0.03993258
+http://arxiv.org/pdf/2203.04721v1,Spherical Poisson Waves,"The extension of these results to the planar case does
+not seem to pose any conceptual diﬃculties; it would be more interesting to explore
+this setting in the case of Arithmetic Random Waves, which is known to exhibit
+some diﬀerences with respect to Euclidean and Spherical circumstances. We leave
+this extension for further research. 1.2 The model
+
+Equation (1.1) shows that waves with random phases can actually be viewed as a su-
+
+perposition of deterministic eigenfunctions centred on random locations {yj}j=1,...,N.
+To achieve an analogous construction in the spherical case, we need to recall ﬁrst
+that the Laplacian operator in S2 is deﬁned by
+
+                             1∂          ∂  1 ∂2
+                   ∆S2 := sin θ ∂θ sin θ ∂θ + sin2 θ ∂ϕ2 ;
+
+in the spherical case, a deterministic eigenfunction centred on y ∈ S2 can be con-
+
+structed by
+
+             eℓ;y(·) : S2 → R , eℓ;y(·) :=  2ℓ + 1Pℓ( ·, y ) ,
+                                              4π
+
+where we have introduced the family of Legendre polynomials
+
+                    Pℓ(t) := 1 dℓ (t2 − 1)ℓ , ℓ = 0, 1, 2, . ",math.PR,C,-0.072656855,0.103302516,0.0069467053
+http://arxiv.org/pdf/2203.04897v1,CTRW approximations for fractional equations with variable order,"0            s+r                                  0
+
+    Acknowledgements. The author is grateful to the organisers of the 50th Memorial Barrett Lectures in the
+University of Tennessee, May 2021, for inviting him to give a plenary talk, which strongly
+stimulated his further research in fractional calculus. The author is grateful to the Simons foundation for the support of his residence at
+INI in Cambridge during the program Fractional Diﬀerential Equations Jan-Apr 2022. ",math.PR,C,0.081278734,0.17600009,0.25528175
+http://arxiv.org/pdf/2203.05005v1,Computational methods for adapted optimal transport,"First, we show that AOT problems are stable with respect to perturbations
+                                                     in the marginals and thus arbitrary AOT problems can be approximated by sequences
+                                                     of linear programs. We further study entropic methods to solve AOT problems. We
+                                                     show that any entropically regularized AOT problem converges to the corresponding
+                                                     unregularized problem if the regularization parameter goes to zero. ",math.PR,C,0.030019596,0.14318815,0.05289247
+http://arxiv.org/pdf/2203.05234v1,Pathwise least-squares estimator for linear SPDEs with additive fractional noise,"The presented pathwise least-squares estimation procedure appears to be promis-
+ing approach for various equations driven by fractional Brownian motion. The po-
+tentially interesting directions of further research may include (but are not limited
+to) proving asymptotic normality, studying diﬀerent observation/sampling schemes,
+diﬀerent asymptotic regimes, or generalization to semilinear stochastic equations
+driven by fractional Brownian motion. PATHWISE LSE FOR SPDES                                                                          25
+
+Estimate                                                            Estimate                                       1% − 99% quantile
+       0.6 0.8 1.0 1.2 1.4                                                 0.0 0.5 1.0 1.5 2.0                     25% − 75% quantile
+
+                            0  10  20            30  40                                              0  10     20               30     40
+
+                                   Nr. ",math.PR,C,-0.27581906,0.23932192,0.058245435
+http://arxiv.org/pdf/2203.05404v1,About an extension of the Matsumoto-Yor property,"Combining this with (57) we get
+
+f (u, v) ∝ (det(u))λ− r+2 1 exp − tr (αbu)+2tr (au−1) (det(v))λ− r+2 1 exp − tr (βav)+2 tr (bv−1) ,
+
+which ends the proof. 15
+6 Bibliographical comments
+
+Let us mention that the MY property and related characterization triggered a lot of further research developing
+in several directions: (1) more general algebraic structures as, a multivariate tree-generated version in Massam
+and Wesołowski (2004), matrix variate versions in Letac and Wesołowski (2000), Wesołowski (2002), Massam
+and Wesołowski (2006), a combination of the matrix variate and multivariate tree-generated setting in Bobecka
+(2015), symmetric cone variate in Kołodziejek (2017), a version in free probability in Szpojankowski (2017);
+(2) characterizations based on a weaker assumption of constancy of regressions of moments of T given S
+instead of the assumption of independence of S and T - in univariate case in Wesołowski (2002), Chou and
+Wang (2004) and in free probability in Szpojankowski (2017) and S´ wieca (2021); (3) a search of more general
+maps of the form ψf (a, b) = (f (a + b), f (a) − f (a + b)) and product measures µ ⊗ ν, such that ψf (µ ⊗ ν)
+remains a product measure and characterization of respective µ and ν by the independence property in Koudou
+and Vallois (2012) with a genuine special case of µ and ν being the Kummer and gamma distributions, see also
+Koudou and Vallois (2011), Koudou (2011), Wesołowski (2015), Piliszek and Wesołowski (2016), Kołodziejek
+(2018). For a survey on characterizations of the GIG distribution and other refrences (up to 2014) see Koudou
+and Ley (2014). ",math.PR,C,-0.0061507737,0.060487382,-0.10315566
+http://arxiv.org/pdf/2203.07539v1,The TAP free energy for high-dimensional linear regression,"It should be possible to combine the ideas in this paper with overlap concentra-
+tion to establish similar TAP formulae in other Bayesian inference problems. We leave this
+for future work. 1.4. ",math.PR,A,-0.050545473,-0.06951779,0.04504838
+http://arxiv.org/pdf/2203.07803v1,A negative binomial approximation in group testing,"Further, given an overall budget of T tests, we might wish to
+know the optimal number of tests T1 to use for the initial COMP stage, and analysing
+the distribution of G will give insight into this. Finally, the purely non-adaptive DD algorithm introduced in [3] uses COMP as a ﬁrst
+stage of the analysis, and performs a further analysis based on looking for positive tests
+that contain exactly one ‘non-screened’ item. Informally, we know that DD will succeed
+if the number of intruding items G is much less than the number of defectives k, so again
+by understanding the distribution of G we gain insight into the performance of DD. ",math.PR,A,-0.1578878,-0.21200982,0.13779718
+http://arxiv.org/pdf/2203.07803v2,A negative binomial approximation in group testing,"Further, given an overall budget of T tests, we might wish to
+know the optimal number of tests T1 to use for the initial COMP stage, and analysing
+the distribution of G will give insight into this. Finally, the purely non-adaptive DD algorithm introduced in [3] uses COMP as a ﬁrst
+stage of the analysis, and performs a further analysis based on looking for positive tests
+that contain exactly one ‘non-screened’ item. Informally, we know that DD will succeed
+if the number of intruding items G is much less than the number of defectives k, so again
+by understanding the distribution of G we gain insight into the performance of DD. ",math.PR,A,-0.1578878,-0.21200982,0.13779718
+http://arxiv.org/pdf/2203.08706v1,Invariance of Brownian motion associated with exponential functionals,"On the other hand, with the above replacement and by noting the relation
+
+                        eBt , At = e−T (B)(t), e−2T (B)(t)At(T (B))
+
+due to properties (i) and (ii) in Proposition 2.1, the right-hand side of (4.8) becomes
+
+E 1 exp x − xe2T (B)(t) F T (B)(s), s ≤ t ; 1 > x
+1 − 2xAt(T (B))         1 − 2xAt(T (B))                              2At(T (B))
+
+and agrees with that of (4.9) by Theorem 1.1. In our future work, we will investigate in depth the laws of the images of Brownian
+motion by transformations of the form Th(φt,At(φ))(φ), φ ∈ C([0, t]; R), with a function
+h : R × (0, ∞) → R of a certain class embracing those on the left-hand sides of (4.8) and
+(4.9). Such a transformation is also of interest from the viewpoint of Malliavin calculus;
+see [5, Section 6] in this respect. ",math.PR,C,0.0731808,0.1382256,-0.0711067
+http://arxiv.org/pdf/2203.08918v1,Small counts in nested Karlin's occupancy scheme generated by discrete Weibull-like distributions,"19
+Remark 2.11. For a possible future work we point out precise formulae:
+
+Cov (K(i)(l), K(j)(n)) =st           e−pr1 s l−1 (pr1 s)m
+                                                      m! |r1|=i           m=0
+
+   ×                                    m          mk             m−k n−k−1 (pr1 pr2 (t − s))a
+                                                   k pr2(1 − pr2)
+       |r2|=j−i  e−pr1 pr2 (t−s)                                                a=0         a! ",math.PR,A,-0.048113845,-0.04509063,0.18498075
+http://arxiv.org/pdf/2203.10411v2,Birth and Death Processes in Interactive Random Environments,"Such results
+
+would require proving that E[ψ(SJ )] < ∞, which can be harder than proving that SJ has
+
+ﬁnite mean or ﬁnite exponential moments. It would be interesting to further investigate the
+
+polynomial rate of convergence for such models in future work. ✷
+
+                                      6. ",math.PR,A,-0.14938287,0.14423108,-0.28264743
+http://arxiv.org/pdf/2203.11877v1,Co-evolving dynamic networks,"However, preliminary calculations
+
+using the many-to-few formula for branching random walks [28] (which gives more reﬁned
+
+estimates) suggest that this discrepancy might be qualitative in nature due to certain rare
+
+events that aﬀect the tail exponent when E[Z] ≫ 1. We will investigate this in future work. Remark 10 (Aﬃne preferential attachment). ",math.PR,A,-0.30966577,-0.20218958,-0.18004455
+http://arxiv.org/pdf/2203.12796v2,Poisson equation on Wasserstein space and diffusion approximations for McKean-Vlasov equation,"Thus, according to Theorem 1.1, the homog-
+
+enized limit for (1.15) shall be given by
+
+       dX¯t = (1 + c1) F (X¯t, LX¯t)dt + c2 EF (X¯t, LX¯t)dt + 2β−1 + 2c3 dWt,                  (1.17)
+
+where
+
+       c1 := ∂yΦ(y, ζ)ζ(dy), c2 :=                                   ∂νΦ(y, ζ)(y˜)ζ(dy)ζ(dy˜),
+
+                   Rd                                  Rd Rd
+
+               c3 := H(y, ζ) · Φ(y, ζ)ζ(dy),
+
+                                    Rd
+
+and Φ(y, ν) is the unique solution to the Poisson equation
+
+                                      L0(y, ν)Φ(y, ν) = −H(y, ν). Studying the qualitative properties of the original system (1.15) and its homogenized
+limit (1.17) such as the bifurcation diagram and phase transitions would be a interesting
+problem, we shall carry it out in a future work. The rest of this paper is organized as follows. ",math.PR,C,0.048017323,0.12665676,0.30334496
+http://arxiv.org/pdf/2203.13242v1,The stationary horizon and semi-infinite geodesics in the directed landscape,"We do not currently know
+
+whether an analogous characterization is true in the directed landscape. We make the explicit
+
+distinction between the two sets to allow for exploration of the sets in future work. Looking at the global collection of semi-inﬁnite geodesics, Theorem 3.4(ii) states that the set
+of ξ ∈ R such that Wξ−(p; q) = Wξ+(p; q) for some p, q ∈ R2 is countably inﬁnite. ",math.PR,B,0.14499032,-0.07475877,-0.024757542
+http://arxiv.org/pdf/2203.13808v1,The critical length for growing a droplet,"∆
+
+Then there exists a perfect cover C of P by copies of Q such that ∆(GC) ∆. We remark that we have stated (and proved) Lemma 12.16 in greater generality than
+we need for our application, since we expect it to be useful in future work. Given a set A ⊂ Zd and a perfect cover C of P by copies of Q, for some polytopes P
+and Q, let us deﬁne
+
+                          B = B(A, C) :=  Q′  ∈  C  :  I  •  (  Q′  )  does  not  hold  . ",math.PR,B,0.3182674,-0.2864312,0.029857986
+http://arxiv.org/pdf/2203.13808v2,The critical length for growing a droplet,"∆
+
+Then there exists a perfect cover C of P by copies of Q such that ∆(GC) ∆. We remark that we have stated (and proved) Lemma 12.16 in greater generality than
+we need for our application, since we expect it to be useful in future work. Given a set A ⊂ Zd and a perfect cover C of P by copies of Q, for some polytopes P
+and Q, let us deﬁne
+
+B = B(A, C) :=  Q′  ∈  C  :  I  •  (  Q′  )  does  not  hold  . ",math.PR,B,0.3182674,-0.2864312,0.029857986
+http://arxiv.org/pdf/2203.14411v2,Random Graphs by Product Random Measures,"Given
+the generic nature of the representation, there are other transforms to explore and extensions to consider,
+e.g., higher-order (tensor) products of random measures and their superpositions conveying graphs having
+edges of arbitrary sizes. Another area of future work is developing a limit theory for the STC random graph
+models of this article. Funding Sources
+
+H.R. ",math.PR,A,-0.24447791,-0.10924496,-0.3241698
+http://arxiv.org/pdf/2203.15456v1,On Busy Periods of the Critical GI/G/1 Queue and BRAVO,"Such scaling can be done both in the near-
+critical case or exactly at criticality. This is then a much more tractable object for further analysis, in
+comparison to the associated random walks that are used in the non-critical case. See for example [20]
+for a comprehensive treatment of diﬀusion scaling limits. ",math.PR,A,-0.334041,-0.0756755,-0.10282147
+http://arxiv.org/pdf/2203.15456v2,On Busy Periods of the Critical GI/G/1 Queue and BRAVO,"Such scaling can be done both in the near-
+critical case or exactly at criticality. This is then a much more tractable object for further analysis, in
+comparison to the associated random walks that are used in the non-critical case. See for example [20]
+for a comprehensive treatment of diﬀusion scaling limits. ",math.PR,A,-0.334041,-0.0756755,-0.10282147
+http://arxiv.org/pdf/2203.16270v1,Contact process in an evolving random environment,"In
+this case the setting would be fundamentally diﬀerent since already the invariant distribution of the
+background process B would depend, by assumption, on the initial conﬁguration. Apart from these concrete questions there are a number of further research directions regarding
+the CPERE. Here, we mainly considered the behaviour of the CPERE in the supercritical regime,
+i.e. ",math.PR,C,-0.13766079,0.130477,0.07168118
+http://arxiv.org/pdf/2203.17162v2,Viscosity solutions for obstacle problems on Wasserstein space,"However, embedding this in our formulation is more
+
+involved as E e−rτ ψ(Xτ )  =  E  e−r  T  Isdsψ(Xτ  )  ,  which  is  a  function  of  the  joint  law  of  X∞  and
+                                      0
+
+the path of I. We therefore leave it for further research. 4 Examples
+
+In this section we revisit the three examples studied in [26], and add a new example concerning
+probability distortion. ",math.PR,C,-0.10009324,0.189907,-0.14725831
+http://arxiv.org/pdf/2204.00614v1,Integrability in the weak noise theory,"We prove that the formulas (after slight adaptation)
+hold for any fast decaying initial condition and any ﬁnite-point terminal condition. Other types of initial
+conditions (ﬂat for example) may be considered, and we leave them to future work. As an application, we consider what we call the 1-to-1 initial-terminal condition. ",math.PR,C,-0.031779356,0.14805841,0.24018383
+http://arxiv.org/pdf/2204.00614v2,Integrability in the weak noise theory,"The result holds for any super-exponentially-decaying initial condition and any ﬁnite-point
+terminal condition. Other types of initial conditions (ﬂat for example, which was treated in [KLD21b]) may
+be considered, and we leave them to future work. As an application, we consider what we call the 1-to-1 initial-terminal condition. ",math.PR,C,-0.09955371,0.13463143,0.23716474
+http://arxiv.org/pdf/2204.00681v1,High temperature TAP upper bound for the free energy of mean field spin glasses,"In the absence of an external ﬁeld the bounds are no stronger than
+the annealed upper bound and are thus trivial, but in the presence of an external ﬁeld
+obtaining such upper bounds is a diﬃcult problem. In future work the author plans
+to rigorously compute the maximal TAP energy for some of these models (building on
+
+results such as [ABČ13; Fyo15; Sub17a; ZSA21; Bel+22]), which combined with the
+this article will yield concrete upper bounds for the free energy. An important question is whether a similar upper bound that is tight at all tempera-
+tures can be proven, in addition to a matching lower bound. ",math.PR,A,-0.016951539,-0.10633896,0.12985095
+http://arxiv.org/pdf/2204.01058v1,Correlation Functions in Random Fully Connected Neural Networks at Finite Width,"The EVGP will then occur when the size of relative gradients have a large variance across
+
+parameters in a typical random draw of weights and biases, so that for some parameters our
+
+setting of η is too small whereas for others it is too large. We will leave the study of the EVGP in this general form as pertaining to future work
+
+and consider here a special case. Speciﬁcally, we compute in Theorem 4.5 below the average
+of the empirical variance of the squared gradients |Jθµ zj(L;α+1) |2 when θµ = Wi(j1) varies over
+all weights in the ﬁrst layer. ",math.PR,C,-0.122686334,-0.015023415,0.034992687
+http://arxiv.org/pdf/2204.01674v1,Fractal geometry of the space-time difference profile in the directed landscape via construction of geodesic local times,"y      y
+
+    In particular, for the special case f1, f2 : R → R ∪ {−∞}, such that (1) they are bounded from
+above on any compact interval, (2) there exists some x∗ > 0 such that f1(x) = −∞ for any x > −x∗
+and f2(x) = −∞ for any x < x∗, (3) lim sup|x|→∞ f1(x)/x2, f2(x)/x2 ≤ 0, essentially our arguments
+can be carried out without any signiﬁcant changes to prove the counterparts of Theorems 2.1 and
+
+2.2 in this setting. However we do not pursue spelling out all the details which will be done in
+
+future work where more general f1 and f2 will be treated as well. The remainder of the discussion is devoted to providing a brief overview of the ideas going into
+the other novel aspects of the paper. ",math.PR,B,0.3880833,0.05522963,-0.08232006
+http://arxiv.org/pdf/2204.01674v2,Fractal geometry of the space-time difference profile in the directed landscape via construction of geodesic local times,"y      y
+
+    In particular, for the special case f1, f2 : R → R ∪ {−∞}, such that (1) they are bounded from
+above on any compact interval, (2) there exists some x∗ > 0 such that f1(x) = −∞ for any x > −x∗
+and f2(x) = −∞ for any x < x∗, (3) lim sup|x|→∞ f1(x)/x2, f2(x)/x2 ≤ 0, essentially our arguments
+can be carried out without any signiﬁcant changes to prove the counterparts of Theorems 2.1 and
+
+2.2 in this setting. However we do not pursue spelling out all the details which will be done in
+
+future work where more general f1 and f2 will be treated as well. The remainder of the discussion is devoted to providing a brief overview of the ideas going into
+the other novel aspects of the paper. ",math.PR,B,0.3880833,0.05522963,-0.08232006
+http://arxiv.org/pdf/2204.01927v1,Random Double Tensors Integrals,"Finally, we
+derive the continuity property for random DTI in the sense of convergence in the random tensor mean, and
+apply this fact to obtain the tail bound of the unitarily invariant norm for the derivative of the tensor-valued
+function. Possible future works will be to extend DTI to multiple tensor integrals. References
+
+ [1] L. Qi and Z. Luo, Tensor analysis: spectral theory and special tensors. ",math.PR,C,-0.028510273,0.36131912,-0.30171874
+http://arxiv.org/pdf/2204.02343v1,"Existence, uniqueness and approximation of solutions of SDEs with superlinear coefficients in the presence of discontinuities of the drift coefficient","Finally, although only scalar SDEs are considered in this work, it can be argued that its proof
+techniques can be naturally extended to cover an appropriate multidimensional setting as well. Nevertheless, the proof of such a result is to be the subject of future work. A brief description of the content of the paper follows. ",math.PR,C,0.2029764,0.17206334,-0.08962151
+http://arxiv.org/pdf/2204.02679v1,Poisson Equations with locally-Lipschitz coefficients and Uniform in Time Averaging for Stochastic Differential Equations via Strong Exponential Stability,"The ﬁrst two diﬀer in how
+they are coupled, but both have monotonic drifts (corresponding to a convex potential),
+and the third does not. The aim of this is to produce a set of numerical results that ﬁt
+the conditions of Theorem 3.2, as well as a set of numerical results that can motivate or
+support future work, being outside the conditions of Theorem 3.2. The second example
+will illustrate that we believe the semigroup derivative estimates to be an important part
+in obtaining a UiT bound. ",math.PR,C,0.093990915,0.24295703,0.018792044
+http://arxiv.org/pdf/2204.03419v1,Almost-optimal bulk regularity conditions in the CLT for Wigner matrices,"However,
+some results for discrete ensembles and ϕ P Cs for various 1{2 ă s ă 1 can be proven. This
+
+requires further arguments and will be discussed in future work. The main result of the paper is the following variance bound. ",math.PR,A,-0.02920211,-0.057462856,-0.18969688
+http://arxiv.org/pdf/2204.04336v1,A new family of smooth copulas with arbitrarily irregular densities,"As our second main contribution,
+in Section 3.2, we identify a nontrivial copula Cf∗ ∈ C whose copula density cf∗ is unbounded in every
+neighborhood of the unit hypercube — that is, supu∈U cf∗(u) = ∞ for every nonempty open set U ⊂ [0, 1]d.
+Nevertheless, we show that any Cf ∈ C , including Cf∗, must have partial derivatives of higher order that
+are continuous everywhere as well as bounded, which opens up interesting connections to statistical inference
+
+via empirical copulas. We conclude with a brief discussion and suggestions for future work in Section 4. Our results, particularly our construction of the aforementioned copula Cf∗, showcase a fundamental
+decoupling between copulas and their densities. ",math.PR,C,0.021273287,0.1045775,-0.18437661
+http://arxiv.org/pdf/2204.06329v1,On the (Non-)Stationary Density of Fractional-Driven Stochastic Differential Equations,"Unfortunately,  the
+
+bridge representation hinges on the Girsanov theorem, which in turn limits our method to additive
+
+noise. Extensions to multiplicative noise (probably by appealing to Malliavin calculus) are left to
+
+a future work. 4
+On the non-stationary density. ",math.PR,C,-0.17028144,0.18350407,-0.0648797
+http://arxiv.org/pdf/2204.06613v1,Coupling derivation of optimal-order central moment bounds in exponential last-passage percolation,"Consequently, the proofs of our results do not invoke Proposition C.1. Nonetheless, this
+identity is included here due to our belief that it might become useful in future works. We turn to proving Proposition C.1. ",math.PR,B,0.54881215,-0.21618354,-0.14608246
+http://arxiv.org/pdf/2204.06902v1,SIR epidemics in populations with large sub-communities,"The additional randomness
+(compared to that observed in most models with similar structure) in the outcomes of our
+model contributes to the development of epidemic models that exhibit more variability in
+their outcomes than many models in the literature. The temporal properties of our model
+also exhibit such increased variability; this will be explored in future work. We note further that in the case of a ﬁxed infectious period our work gives results
+concerning a version of the planted partition or stochastic block model with a diﬀerent
+scaling of edge probabilities than in most of the random graph literature. ",math.PR,A,-0.48262858,-0.24161732,-0.043131493
+http://arxiv.org/pdf/2204.06982v2,Gibbs partitions: a comprehensive phase diagram,"It appears that the results of the present work may aid in proving new and interesting properties for some of these. We hope to pursue this in future work. Gibbs partitions: a comprehensive phase diagram                                            5
+
+Plan of the paper
+
+Section 2 recalls the deﬁnition of the Gibbs partition model and ﬁxes some notation. ",math.PR,A,-0.11030352,-0.22312467,0.0663938
+http://arxiv.org/pdf/2204.07914v1,Constrained optimal stopping under a regime-switching model,"On the other hand, the assumption of the boundary conditions
+might be redundant, as mentioned in Remark 3.4. Thus, it is signiﬁcant as future work to show that
+the boundary conditions (3.6) and (3.7) are always satisﬁed using, e.g., a PDE approach discussed
+in Bensoussan et al. [1]. ",math.PR,C,0.21020633,0.13532978,0.24565513
+http://arxiv.org/pdf/2204.09499v1,On the (dis)similarities between stationary imprecise and non-stationary precise uncertainty models in algorithmic randomness,"Moreover, our preliminary analysis suggests that the stationary character of interval forecasts will be
+of the utmost importance when moving to the ﬁeld of statistics. In particular, it seems neither possible nor
+opportune to try and learn—or even approximate—the non-computable non-stationary precise forecasting
+systems ϕ̟p,q, which—by deﬁnition—cannot be described by a ﬁnite algorithm, from a ﬁnite initial path
+segment ω1:n.
+
+    In our future work, we plan to further explore these preliminary ideas about a randomness-based approach
+to statistics, and try to develop new statistical methods based on them. Moreover, we want to explore whether the theorems and ideas for martingale-theoretic randomness in this
+paper apply equally well to frequentist notions of randomness, like the ones in Section 8. ",math.PR,A,-0.20132641,0.102864265,-0.34979984
+http://arxiv.org/pdf/2204.09499v2,On the (dis)similarities between stationary imprecise and non-stationary precise uncertainty models in algorithmic randomness,"Moreover, our preliminary analysis suggests that the stationary character of interval forecasts will be
+of the utmost importance when moving to the ﬁeld of statistics. In particular, it seems neither possible nor
+opportune to try and learn—or even approximate—the non-computable non-stationary precise forecasting
+systems ϕ̟p,q, which—by deﬁnition—cannot be described by a ﬁnite algorithm, from a ﬁnite initial path
+segment ω1:n.
+
+    In our future work, we plan to further explore these preliminary ideas about a randomness-based approach
+to statistics, and try to develop new statistical methods based on them. Moreover, we want to explore whether the theorems and ideas for martingale-theoretic randomness in this
+paper apply equally well to frequentist notions of randomness, like the ones in Section 8. ",math.PR,A,-0.20132641,0.102864265,-0.34979984
+http://arxiv.org/pdf/2204.11941v1,Stochastic Models of Stem Cells and Their Descendants under Different Criticality Assumptions,"Our asymptotic analyses not only reveal the large-time
+probability of extinction, but also describe the rate at which this probability approaches the
+limit. Given the closed-form solutions, other interesting asymptotic properties can be studied
+by considering certain scaling limits, and require further research in the future. It is also more
+realistic to model cancer progression using a multi-type branching process. ",math.PR,A,-0.35894692,-0.004891426,0.05594118
+http://arxiv.org/pdf/2204.12926v1,Strong rate of convergence of the Euler scheme for SDEs with irregular drift driven by Levy noise,"An interesting and
+
+challenging question is whether these weak rates can be improved further, and whether
+
+the range of β can be upgraded to β > 1− α (in this range SDE (1.1) is weakly well–posed
+
+[Kul19]). We leave this for the future work. The rest of the paper is organized as follows. ",math.PR,C,-0.06976376,0.18697178,0.19509622
+http://arxiv.org/pdf/2205.00326v1,Rare transitions in noisy heteroclinic networks,"Restricting the cell escape event to scales deﬁned by exponents (α¯i). Our
+next local goal is Lemma 5.7 allowing to restrict further analysis to scales deﬁned
+by exponents (α¯i). Lemma 5.4. ",math.PR,B,0.0740182,-0.02041633,-0.07835963
+http://arxiv.org/pdf/2205.00495v1,Finite Free Point Processes,"Most notably, the dynamics of 4. depend very heavily on the initial
+matrix, a feature not present in the Hermite, Laguerre, and Jacobi processes. As far as we can tell,
+the dynamics displayed by 4. are (in this sense) more complex than any of the processes typically
+studied in random matrix theory, and so may suggest a fruitful direction of further research. In order to get a better understanding of the point process derived from 4., we provide the
+results of a simulation that produces two vastly diﬀerent behaviors from the same starting points
+and then compare this to the information provided by the expected characteristic polynomials. ",math.PR,A,-0.299899,0.025509492,0.045028858
+http://arxiv.org/pdf/2205.00812v1,Derivation of the fractional porous medium equation from a microscopic dynamics,"when m ∈ (0,1). All this is left for
+future work. Here follows an outline of this article. ",math.PR,B,0.23475756,0.06149321,0.0980875
+http://arxiv.org/pdf/2205.01587v1,Hydrodynamic Limits of non-Markovian Interacting Particle Systems on Sparse Graphs,"This construction can
+be combined with the results of this paper to obtain convergence and hydrodynamic limit results
+for a large class of IPS on directed sparse graphs, including neuronal Hawkes processes [36]. A fully
+rigorous justiﬁcation is somewhat technical, and hence postponed to future work. 7
+3 Model Description
+
+3.1 A Standing Assumption on the Jump Rate Functions
+
+We consider IPS in which each particle takes values in a countable state space X , which we identify
+with a subset of Z and equip with the discrete topology. ",math.PR,A,-0.18439445,0.0047609275,0.016059361
+http://arxiv.org/pdf/2205.01587v2,Hydrodynamic Limits of non-Markovian Interacting Particle Systems on Sparse Graphs,"This construction can
+be combined with the results of this paper to obtain convergence and hydrodynamic limit results
+for a large class of IPS on directed sparse graphs, including neuronal Hawkes processes [34]. A fully
+rigorous justiﬁcation is somewhat technical, and hence postponed to future work. 7
+3 Model Description
+
+3.1 A Standing Assumption on the Jump Rate Functions
+
+We consider IPS in which each particle takes values in a countable state space X , which we identify
+with a subset of Z and equip with the discrete topology. ",math.PR,A,-0.18507613,0.007180918,0.0123490505
+http://arxiv.org/pdf/2205.01854v1,Robustly Complete Finite-State Abstractions for Verification of Stochastic Systems,"For example, suppose the point-mass perturba-
+tions represents less precision of deterministic control inputs [23, Deﬁnition 2.3],
+the winning set decided by the ϑ2-precision stationary policies is not enough
+to cover that of the IMC abstraction, which fails to ensure an approximated
+bi-similarity of IMCs compared to [21]. For future work, it would be useful to extend the current approach to robust
+stochastic control systems. It would be interesting to design algorithms to con-
+struct IMC (resp. ",math.PR,A,-0.13817629,0.00033032894,-0.016942278
+http://arxiv.org/pdf/2205.01926v1,Freeness of type $B$ and conditional freeness for random matrices,"In Section 2, we discuss the algebraic framework
+that will later be useful in the paper. Several notions of freeness are reviewed, and we
+clarify and further study the connections among them. In Subsection 2.6, we present the
+analytic tools used to compute convolutions for the diﬀerent notions of freeness, namely
+the free, conditional free, and monotone convolutions. ",math.PR,B,0.1876372,0.06296281,-0.06061192
+http://arxiv.org/pdf/2205.02099v1,Asymptotic Autonomy of Random Attractors in Regular Spaces for Non-autonomous Stochastic Navier-Stokes Equations,"(2.9)
+
+It is known from [15] that there exists a θ-invariant subset Ω ⊂ Ω of full measure such that
+z(θtω) is continuous in t for every ω ∈ Ω, and
+
+               E |z(θsω)|ξ = Γ√π1+2σξξ , for all ξ > 0, s ∈ R,                        (2.10)
+               lim |z(θtω)| = 0,                                                      (2.11)
+              t→±∞ |t|                                                                (2.12)
+                                                                                      (2.13)
+             1t
+      t→li±m∞ t 0 z(θξω)dξ = 0,
+
+         lim e−δt|z(θ−tω)| = 0, for all δ > 0,
+
+         t→+∞
+
+where Γ is the Gamma function. For further analysis of this work, we do not distinguish
+
+between Ω and Ω. Since, ω(·) has sub-exponential growth (cf. ",math.PR,C,0.05455798,0.28459412,-0.052273437
+http://arxiv.org/pdf/2205.02653v1,Analysis of the survival time of the SIS and SIRS process on stars and cliques,"Note that if 𝛼 < 1/2,
+   this last expression is greater than our bound. 4
+In the remainder of the introduction (Sections 1.1 to 1.3), we give a more detailed overview of our
+proofs, and in Section 1.4, we discuss further implications of our results as well as future work. 1.1 The SIRS Model on the Star
+
+Our main result for the star is the following theorem, which shows that the expected survival time
+is bounded from above by an expression independent of the infection rate. ",math.PR,A,-0.085517004,-0.028092792,0.009712714
+http://arxiv.org/pdf/2205.04285v1,A fourth moment phenomenon for asymptotic normality of monochromatic subgraphs,"In
+the setting where c = cn → ∞, [6, 14] gave asymptotic normality results for H = K2. Another
+interesting direction for future work could be to extend the results in this paper to the asymptotic
+case where cn → ∞. The proof of Theorem 1.5 shows that the good join counts N (GH , Gn) are exactly the terms
+which contribute to E[Z(H, Gn)4] − 3. ",math.PR,A,-0.018906813,-0.098539636,-0.18460222
+http://arxiv.org/pdf/2205.04446v1,The structure of the local time of Markov processes indexed by Levy trees,"We shall give two equivalent descriptions for the support of dA, one in
+terms of the pair pH, W q, and a second one only depending on Λ. The latter will be needed in Section 5 and
+we expect the former to be useful to develop an excursion theory in this section, we plan to pursue this goal
+in future works. The preliminary results needed for our constructions are covered in Section 4.1. ",math.PR,B,0.16862792,-0.18888095,0.19028771
+http://arxiv.org/pdf/2205.04446v2,The structure of the local time of Markov processes indexed by Levy trees,"We shall give two equivalent descriptions for the support of dA, one in
+terms of the pair pH, W q, and a second one only depending on Λ. The latter will be needed in Section
+5 and we expect the former to be useful to develop an excursion theory – we plan to pursue this goal in
+future works. The preliminary results needed for our constructions are covered in Section 4.1. ",math.PR,B,0.15580428,-0.18529937,0.19631287
+http://arxiv.org/pdf/2205.04535v1,Repeated Averages on Graphs,"Our results are summarized in Table 3 below (see Section 6.4.5 for proof details). Graph   Complete graph Kn         Binary tree Bn               Star Sn−1          Cycle Cn
+t ,2→1        Θ (n log n)           Θ (n2 log n)               Θ (n log n)       Θ (n3 log n)
+
+        Table 3: The L2→1 mixing time for selected graphs
+
+4 Numerical Explorations
+
+The goal of this section is to numerically corroborate some of the theory and inspire future work. We explore the expected L1 behavior for three distinct scenarios: (1) The complete graph (2)
+Star graph with the initialization on the center (i.e., high degree) node (3) Star graph with the
+initialization on a leaf (i.e., high degree) node. ",math.PR,A,-0.25894028,-0.39627978,0.10976438
+http://arxiv.org/pdf/2205.04967v1,Continuous-time Mallows processes,"Conclusion and open questions
+
+   This work introduces Mallows processes and describes two natural ways to generate regular Mallows
+processes. However, many properties of these processes remain to be proven; we now state some possible
+directions for future work on Mallows processes and their properties. 4.1. ",math.PR,A,-0.054437444,-0.016088217,0.00644279
+http://arxiv.org/pdf/2205.05732v1,Principal minors of Gaussian orthogonal ensemble,"Motivated by high-dimensional statistics and signal processing, the authors in [9] derived the
+                                          growth order of the maxima of all the largest eigenvalues of the principal minors of the classical
+                                          random matrices of GOE and Wishart matrices, where the results have applications for the
+                                          construction of the compressed sensing matrices as in [19]. In this paper, we further study the ﬂuctuation of such maxima for the GOE case. Our main
+                                          result is that the ﬂuctuation is given by the Gumbel distribution with some Poisson structure
+                                          involved in the limit, and we also derive the limiting joint distribution of such maxima and its
+                                          corresponding eigenvector which indicates that these two random variables are asymptotically
+                                          independent. ",math.PR,A,-0.1656219,0.09223845,-0.19136888
+http://arxiv.org/pdf/2205.07275v1,The Contact Process with Switching,"This result, however, is
+entangled with the proof of complete convergence. We conjecture that both also hold
+for the CPS, but defer the proofs to future work. Since the CPS is monotone in the parameters λaa, λad, λda, λdd, δa, δd, we can
+consider a critical parameter λc• or δ•c, for some •, separating a survival from an
+extinction phase in the obvious way, while ﬁxing all other parameters. ",math.PR,C,-0.014791485,0.07244396,0.14284442
+http://arxiv.org/pdf/2205.07371v1,Truncations of random unitary matrices drawn from Hua-Pickrell distribution,"Step IV. By further studying for Fact 3.4, we have the following measure decomposition
+for Lebesgue measure on the general linear group GL(n + m, C). Fact 3.5. ",math.PR,B,0.31734163,0.008862732,-0.13263208
+http://arxiv.org/pdf/2205.08237v1,Jacobi processes with jumps as neuronal models: a first passage time analysis,"On the contrary, if one wants to extend the model to address a pharmacological treatment of
+neurons whose activity is too intense we suggest to choose some jump distribution that depends
+on the inverse of µ or in general a heavy-tailed distribution that favors the large jumps reducing
+consistently the ﬁring activity. As a future work we plan to investigate the eﬀects of other distributions of the jumps, with special
+attention to heavy-tailed distributions that favors large jumps. Moreover it would be interesting
+to add also upward jumps to the model and investigate the case of a signal dependent noise as in
+[22],[32] and [34], to study the possible role of the inhibitory jumps in improving the information
+transmission through a coherence resonance between the input and the output. ",math.PR,A,-0.2564861,0.07245481,-0.092981525
+http://arxiv.org/pdf/2205.08774v1,Bond Percolation in Small-World Graphs with Power-Law Distribution,"As
+remarked in Subsection 2, our analysis for the case α < 1 relies on some technical results from [3], since
+in this case, the distribution of bridges is very close to Gn,q, for a suitable choice of the parameter q. A further analysis of the percolation process in [3] considers the case in which the graph consists of a
+cycle and a random perfect matching. Also for this regular case, the authors prove a sharp threshold for
+the percolation probability p: it turns out that this threshold is smaller than the one for the Erdős-Rényi
+small-world graphs when q is chosen, so as to yield the same expected number of bridges. ",math.PR,A,-0.36602247,-0.41404375,-0.07678189
+http://arxiv.org/pdf/2205.08774v2,Bond Percolation in Small-World Graphs with Power-Law Distribution,"As
+remarked in Subsection 2, our analysis for the case α < 1 relies on some technical results from [3], since
+in this case, the distribution of bridges is very close to Gn,q, for a suitable choice of the parameter q. A further analysis of the percolation process in [3] considers the case in which the graph consists of a
+cycle and a random perfect matching. Also for this regular case, the authors prove a sharp threshold for
+the percolation probability p: it turns out that this threshold is smaller than the one for the Erdős-Rényi
+small-world graphs when q is chosen, so as to yield the same expected number of bridges. ",math.PR,A,-0.36602247,-0.41404375,-0.07678189
+http://arxiv.org/pdf/2205.10654v1,Classification of Stationary distributions for the stochastic vertex models,"The problem is that
+for the SHS6V model, each location allows more than one particle, so we do not know the asymptotic density of
+
+a particle at ±∞ with the help of Lemma 7.2. We leave this problem to future work. 1.4. ",math.PR,C,-0.116852276,0.055187773,0.16775963
+http://arxiv.org/pdf/2205.11307v1,Hydrodynamics for the ABC model with slow/fast boundary,"This last replacement, which consists of replacing occupations vari-
+ables close to the boundary by the respective density reservoirs, is crucial, and we obtain it by
+making a comparison with the action of the adjoint operator at those occupation variables. There are many intriguing questions that we leave for future work. The ﬁrst one has to
+do with the derivation of the hydrostatic limit, i.e. ",math.PR,C,0.11969741,0.13788696,0.11325915
+http://arxiv.org/pdf/2205.11468v1,Multiple points on the boundaries of Brownian loop-soup clusters,"For example,
+it will allow us to obtain sharper estimates than Theorem 1.2, the analyticity in λ of the generalized
+intersection exponent ξc(k, λ), and the existence of Minkowski content of certain special points. We
+plan to pursue these questions in future works. To prove the separation lemma, we continue to
+use the set-up of extremal distances in [13], but have to overcome many additional diﬃculties due
+to the presence of the loop soup. ",math.PR,B,0.40945187,0.0507773,-0.042091116
+http://arxiv.org/pdf/2205.11468v2,Multiple points on the boundaries of Brownian loop-soup clusters,"For example,
+it will allow us to obtain sharper estimates than Theorem 1.3, the analyticity in λ of the generalized
+intersection exponent ξc(k, λ), and the existence of Minkowski content of certain special points. We
+plan to pursue these questions in future works. To prove the separation lemma, we continue to
+use the set-up of extremal distances in [14], but have to overcome many additional diﬃculties due
+to the presence of the loop soup. ",math.PR,B,0.41199288,0.047292292,-0.042660296
+http://arxiv.org/pdf/2205.13029v1,Shift invariance of half space integrable models,"We
+have not attempted to prove the most general or powerful versions of our results,
+and so we list a few directions where our work could be extended. We hope to
+address some of these in future work. Galashin characterized the symmetries of the six vertex model in the full space
+setting, establishing a conjecture of Borodin, Gorin and Wheeler [32]. ",math.PR,B,0.028929777,-0.31133908,0.026451519
+http://arxiv.org/pdf/2205.13378v1,"A class of supercritical/critical singular stochastic PDEs: existence, non-uniqueness, non-Gaussianity, non-unique ergodicity","Moreover, we may
+                                                                                                                                                5
+
+also consider a time dependent noise provided it is function valued with respect to time. A time
+irregular noise requires further ideas and will be considered in a future work. In addition, it turns
+out that our approach can also be applied to other models, see Section 5 for more details. ",math.PR,A,-0.21483847,0.14338653,-0.033080354
+http://arxiv.org/pdf/2205.14416v1,When is the convex hull of a Lévy process smooth?,"the convex hull of t → (t, Xt). However, in our context it is also
+natural to enquire about the modulus of continuity of the convex minorant of X, a topic that will be
+addressed in future work. In [9], Bertoin describes the law of the convex minorant of Cauchy process in terms of a gamma
+process, establishing the continuity of its derivative. ",math.PR,C,0.0151924305,0.34017402,0.003046194
+http://arxiv.org/pdf/2205.14416v2,When is the convex hull of a Lévy path smooth?,"the convex hull of t → (t, Xt). However, in our context it is also
+natural to enquire about the modulus of continuity of the convex minorant of X, a topic that will be
+addressed in future work. In [9], Bertoin describes the law of the convex minorant of Cauchy process in terms of a gamma
+process, establishing the continuity of its derivative. ",math.PR,C,0.0151924305,0.34017402,0.003046194
+http://arxiv.org/pdf/2205.14494v1,Balls and Bins -- Simple Concentration Bounds,"On the other hand, if it is close to tight, then p is in a sense far from uniform, and the
+maximum bin may exhibit some concentration for this reason. Perhaps future work can leverage this tradeoﬀ to give tighter
+bounds. 2
+    As ρm,k → ∞, we observe Pr[Bm < k] → 0 exponentially fast in ρm,k. ",math.PR,A,-0.27593523,-0.09786492,-0.085817344
+http://arxiv.org/pdf/2205.14990v1,Dynamics of finite inhomogeneous particle systems with exclusion interaction,"We believe that
+the work in the present paper indicates a route to obtaining more detailed information
+(such as the full cloud decomposition) in these continuum models. We aim to address
+some of these questions in future work. A direct comparison between our model and the
+
+                                                        3
+continuum model is not obvious, as there is a sense in which the collision mechanism
+in the continuum model is elastic, whereas the exclusion mechanism is inelastic, but we
+describe in Section 3 an elastic modiﬁcation of the particle system that bears a closer
+analogy with the continuum model. ",math.PR,A,-0.09547722,-0.14525682,0.19988841
+http://arxiv.org/pdf/2205.15799v4,On multiclass spatial birth-and-death processes with wireless-type interactions,"We believe that some of the results about the stability region of the dynamics
+can be generalized to a class of dynamics where the arrival rate is constant and the departure rate
+is a state-dependent function inversely proportional to a shot-noise of the system. Both these
+questions will be the subject of future work. The other natural question arising from our work comes from the performance of the Poisson
+heuristic. ",math.PR,A,-0.30358928,0.09443473,0.101349056
+http://arxiv.org/pdf/2205.15901v1,Sharp asymptotics for arm probabilities in critical planar percolation,"4) Another interesting direction is to obtain sharp asymptotics also for the FK-Ising arm events and
+the one-point function of the harmonic explorer (as well as the convergence in natural parametriza-
+tion to SLE4), for Binder and Richards also establish power-law convergence for these two models
+in [4]. We plan to investigate them in future works. Finally, we explain how this article is organized. ",math.PR,C,-0.08033697,0.07111396,-0.040329073
+http://arxiv.org/pdf/2206.00400v1,Multi-colour competition with reinforcement,"Due to the Markov character of the processes, and
+Claim 6, also in the competing growth process on Z2 the number of tribes will decrease
+in ﬁnite time, as required. 7 Open problems
+
+We end this text with a few open problems that we hope will inspire future work. For any ﬁnite connected graph G, in [2] the authors proved that the two-type competing
+urn scheme has a single surviving colour, almost surely. ",math.PR,A,-0.1917226,-0.36090982,-0.0017725267
+http://arxiv.org/pdf/2206.00646v1,Importance sampling for stochastic reaction-diffusion equations in the moderate deviation regime,"f = −Vf , where the potential Vf (x) = sin x has more than two global minima. The design and pre-asymptotic analysis of a scheme under the weaker spectral gap of Hypothesis 3(c’)
+provides an interesting direction for future work. This would allow for the simulation of rare events for
+SRDEs under bifurcation (e.g. ",math.PR,A,-0.24110991,0.015945075,0.20553029
+http://arxiv.org/pdf/2206.04448v1,On the rightmost eigenvalue of non-Hermitian random matrices,"matrix ensemble, in particular we
+show that the three-term asymptotics is universal in the sense that it is independent of the single entry
+distribution χ. The Gumbel ﬂuctuation is also expected to be universal; this is an open problem that we
+leave to future work. However, our result (1.4) already implies the tightness of Gn in (1.3) even for the
+i.i.d. ",math.PR,A_centroid,-0.13101164,-0.013703274,-0.22370768
+http://arxiv.org/pdf/2206.04448v2,On the rightmost eigenvalue of non-Hermitian random matrices,"matrix ensemble, in particular we
+show that the three-term asymptotics is universal in the sense that it is independent of the single entry
+distribution χ. The Gumbel ﬂuctuation is also expected to be universal; this is an open problem that we
+leave to future work. However, our result (1.4) already implies the tightness of Gn in (1.3) even for the
+i.i.d. ",math.PR,A,-0.13101164,-0.013703274,-0.22370768
+http://arxiv.org/pdf/2206.04493v1,Subgraph densities in Markov spaces,"(Recall, however, that this does not imply that
+trees are well-measured: the decreasing property fails.) The extension of the
+considerations in Section 4 is left for further study. An important example of this more general setup would be the follow-
+ing. ",math.PR,B,0.086610004,-0.26659665,0.014463516
+http://arxiv.org/pdf/2206.05031v1,A finite compensation procedure for a certain class of two-dimensional random walks,"Further work is required to understand how to adapt the other conditions (or to introduce other conditions), so
+that to construct random walks with a ﬁnite product form invariant measure with more than one term. This
+attempt is postponed as a future work. Acknowledgement
+
+The authors gratefully acknowledge stimulating discussions with Brian Fralix (School of Mathematical and
+Statistical Sciences, Clemson University, Clemson, SC, USA), who provided insight and expertise in the course
+of this research. ",math.PR,A,-0.25684157,0.042082984,-0.2779536
+http://arxiv.org/pdf/2206.05213v1,Rates of Convergence for Chains of Expansive Markov Operators,"The determination of the
+domain G in condition (c) of Proposition 4.2 is therefore key. There are some unresolved cases,
+however, that are relevant for optical phase retrieval (see [43, Example 5.4]), and this needs
+further study. 4.3 Stochastic Proximal Algorithms in Tree Space
+
+We conclude with proximal splitting in locally compact Hadamard spaces. ",math.PR,C,0.02435912,-0.03685207,-0.06358783
+http://arxiv.org/pdf/2206.05360v1,Non-linear Young equations in the plane and pathwise regularization by noise for the stochastic wave equation,"However, the regularity estimates that has so far
+been obtained is not suﬃcient in order to apply non-linear Young theory, as one still miss proofs
+of joint space time regularity of these occupations measures. Thus formulating our results in terms
+of the local time provides and instructive view on the potential regularizing eﬀect, and hopefully
+inspires further research into both new regularity estimates for local times associated to stochastic
+ﬁelds, as well as an extension of the concept of averaged ﬁelds in [6, 15, 14]. REGULARIZATION OF THE WAVE EQUATION                                                            17
+
+   Suppose now that w : [0, T ]2 → Rd is a stochastic ﬁeld. ",math.PR,C,-0.0017598607,0.32375786,-0.07295883
+http://arxiv.org/pdf/2206.06451v2,The Kolmogorov Infinite Dimensional Equation in a Hilbert space Via Deep Learning Methods,"t                                          t                                          tH
+
+See [1] for details on the theory of non-local SPDEs. It is left for future work to check whether
+the same techniques in [20] still holds for (6.22). • In Section 5 we aim to give an understanding of the success of deep learning via universal
+   approximation theorems. ",math.PR,C,0.08057487,0.079713136,-0.14276177
+http://arxiv.org/pdf/2206.06794v1,Moderate deviation principle for multiscale systems driven by fractional Brownian motion,"See [SM20] for
+related work in the case where H = 1/2. We plan to explore these avenues in future works on this topic. Appendix A. ",math.PR,C,0.0042217877,-0.054967444,0.32814622
+http://arxiv.org/pdf/2206.06865v1,Rough paths and symmetric-Stratonovich integrals driven by singular covariance Gaussian processes,"3
+We postpone this analysis to a future work. In Theorem 6.2, we further study the precise limiting behavior I0(ǫ, Y, dX)(T ) to a
+symmetric-Stratonovich integral in a broader regime − 23 < α < −1. The rate of conver-
+gence to a rough path integral is then obtained by Theorem 5.1 and restricting to the
+
+case − 34 < α < −1. ",math.PR,C,-0.043742992,0.32085854,0.030459668
+http://arxiv.org/pdf/2206.08300v1,Stake-governed tug-of-war and the biased infinity Laplacian,"(We will introduce notation for this value very soon.) The prospect
+that the saddle point is global needs further examination. 2.2.2 Second criticism: the saddle point formula may be badly deﬁned
+
+One or other player may have a choice of move nomination when StateOfPlay = (λ, v). ",math.PR,C,-0.04474068,-0.044102907,0.215225
+http://arxiv.org/pdf/2206.08334v1,On quasilinear parabolic systems and FBSDEs of quadratic growth,"Un-
+fortunately this is not the case, because while (1.5) will (under some additional technical
+conditions) be connected to a PDE of the form (1.2), it will typically not be true that the
+data f , b, and σ are globally Lipschitz, even if H, Σ, and F are. It would be desirable to
+extend the existence result for (1.2) to cover the FBSDE (1.5) in some generality, but we
+leave this interesting question to future work. 1.3. ",math.PR,C,0.117117345,0.22125795,0.1947059
+http://arxiv.org/pdf/2206.09631v1,Limit theory for the first layers of the random convex hull peeling in the unit ball,"Again, an argument on the sandwiching of the ﬁrst layer is needed,
+         see [6]. An extension to the n-th layer inside a polytope will be the subject of a future work. Finally, in [4] asymptotic results on the expected number of vertices of the convex hull of an
+         i.i.d. ",math.PR,A,-0.16221489,-0.14093207,-0.10616845
+http://arxiv.org/pdf/2206.09928v1,How smooth can the convex hull of a Lévy path be?,"Such improvements are possible, for instance, when
+
+X is α-stable. We decided to leave such results for future work in the interest of brevity. For
+
+completeness, however, we mention that the following law of iterated logarithm proved in [8, Cor. ",math.PR,B,0.035869334,0.0055215713,-0.06049755
+http://arxiv.org/pdf/2206.09928v2,How smooth can the convex hull of a Lévy path be?,"Such improvements are possible, for instance, when
+
+X is α-stable. We decided to leave such results for future work in the interest of brevity. For
+
+completeness, however, we mention that the following law of iterated logarithm proved in [8, Cor. ",math.PR,B,0.035869334,0.0055215713,-0.06049755
+http://arxiv.org/pdf/2206.10105v1,Polynomial Voting Rules,"The more technical proofs in the two sections are deferred to
+Section 4. Concluding remarks and suggestions for further research are collected in Section
+5. 2. ",math.PR,B,0.51224,-0.28744072,-0.0045082113
+http://arxiv.org/pdf/2206.10105v2,Polynomial Voting Rules,"The more technical proofs in the two sections are deferred to
+Section 4. Concluding remarks and suggestions for further research are collected in Section
+5. 2. ",math.PR,B,0.51224,-0.28744072,-0.0045082113
+http://arxiv.org/pdf/2206.10105v3,Polynomial Voting Rules,"The more technical proofs in the two sections are deferred to
+Section 4. Concluding remarks and suggestions for further research are collected in Section
+5. 2. ",math.PR,B,0.51224,-0.28744072,-0.0045082113
+http://arxiv.org/pdf/2206.10166v1,The heat modulated infinite dimensional Heston model and its numerical approximation,"BENTH, G. LORD, G. DI NUNNO, AND A. PETERSSON
+
+HqW  →¨H  s  W  ,α  (R  )  for  sW  ≥ 1) but not otherwise. In future work, we plan to extend this
+     ¨
+
+analysis to equations with non-linear terms in multiple dimensions. References
+
+ 1. ",math.PR,C,0.16471204,0.31573227,0.17152914
+http://arxiv.org/pdf/2206.10428v1,On the stochastic and asymptotic improvement of First-Come First-Served and Nudge scheduling,"Numerical examples and insights are discussed in Section 8. Conclusions are drawn and possible
+future work is listed in Section 9. 2 THE SYSTEM
+
+We consider a queueing system with Poisson arrivals with rate 𝜆. ",math.PR,A,-0.30527174,-0.103683785,0.13963266
+http://arxiv.org/pdf/2206.11798v1,Smooth stationary stochastic processes with polynomial conditional moments,"Necessary conditions
+
+   Having said this, we can state that the paper is dedicated to deﬁning conditions
+under which a given SM P R ({αn} , µ) allows continuous path medication. Thus we can calculate quantities E |Xτ − Xτ+t|α that are needed in order to
+apply Kolmogorov’s continuity theorem and examine the dependence of these quan-
+tities on t.
+
+   Of course, in order to simplify calculations, we consider only α = 2k for some
+natural k.
+
+   It turns out that for the further analysis, we will need the following moments
+deﬁned by the formula
+
+(3.1)                          xj hn(x)dµ(x) = EXjhn(X). Notice that we have
+
+                                  EXjhn(X) = cj,n
+
+where cj,n are deﬁned above, by (2.8). ",math.PR,C,-0.11846233,0.2606997,0.043082308
+http://arxiv.org/pdf/2206.11798v2,"Stationary, Markov, stochastic processes with polynomial conditional moments and continuous paths","Necessary conditions
+
+   Having said this, we can state that the paper is dedicated to deﬁning conditions
+under which a given SM P R ({αn} , µ) allows continuous path medication. Thus we can calculate the quantities E |Xτ − Xτ+t|α that are needed in order
+to apply Kolmogorov’s continuity theorem and examine the dependence of these
+quantities on t.
+
+   Of course, in order to simplify calculations, we consider only α = 2k for some
+natural k.
+
+   It turns out that for further analysis, we will need the following moments deﬁned
+by the formula
+
+(3.1)                          xj hn(x)dµ(x) = EXjhn(X). Notice that we have
+
+                                  EXjhn(X) = cj,n
+
+where cj,n are deﬁned above, by (2.8). ",math.PR,C,-0.14401999,0.2649281,0.05234497
+http://arxiv.org/pdf/2206.12161v1,On the Lack of Gaussian Tail for Rough Line Integrals along Fractional Brownian Paths,"as
+special as scalar multiples of the identity matrix. We leave further developments
+
+to future work. 21
+References
+
+[BNOT16] F. Baudoin, E. Nualart, C. Ouyang and S. Tindel. ",math.PR,B,0.09985288,-0.04355303,-0.044173513
+http://arxiv.org/pdf/2206.13622v1,Moment Intermittency in the PAM with Asymptotically Singular Noise,"Most notably, our
+frequent reliance on the spectral expansion (3.3), which is exclusive to the Stratonovich and
+time-independent settings. Thus, we expect that solving Problems 1.13 would require a number
+of new ideas, which we leave open for future works. 1.4.2. ",math.PR,C,0.0261823,0.021630589,0.089850545
+http://arxiv.org/pdf/2206.13647v2,Approximation of the number of descendants in branching processes,"However, this section’s
+explanation is rough enough: many assumptions are not mentioned. This Section is just a
+preparation for further research. While this content is beyond our current needs, it allows
+us to estimate the possibilities of the above approach. ",math.PR,B,0.07848001,-0.17990151,0.030671408
+http://arxiv.org/pdf/2206.14627v1,The fewest-big-jumps principle and an application to random graphs,"In this case excess edges arise from the clumping of the points in the Poisson
+process. In future work, we plan to investigate situations where both the points and
+the radii are random but the latter are light tailed. Acknowledgment: This research was supported by DFG project “Condensation
+in random geometric graphs” awarded within the priority programme SPP 2265. ",math.PR,A,-0.3390156,-0.2994994,-0.010130057
+http://arxiv.org/pdf/2207.01525v1,Asymptotic behaviors for distribution dependent SDEs driven by fractional Brownian motions,"In the rough situation, the skeleton equation (3.11) below might be ill-posedness, thus our
+techniques are currently not enough to give an aﬃrmative answer. We will leave this topic
+for future work. The rest of the paper is organized as follows. ",math.PR,C,-0.0049845725,0.069965094,0.393807
+http://arxiv.org/pdf/2207.02193v1,On the two-point function of the Potts model in the saturation regime,"We believe that β → νβ(s) is (real-)analytic on the interval (βsat(s), βc). We plan
+to come back to this issue in a future work. As the proof is short and does not ﬁt
+naturally in the remaining sections, we present it here (although it refers to other parts
+of the paper). ",math.PR,B,0.3075062,0.11049025,0.044632204
+http://arxiv.org/pdf/2207.02193v2,On the two-point function of the Potts model in the saturation regime,"We believe that β → νβ(s) is (real-)analytic on the interval (βsat(s), βc). We plan
+to come back to this issue in a future work. As the proof is short and does not ﬁt
+naturally in the remaining sections, we present it here (although it refers to other parts
+of the paper). ",math.PR,B,0.3075062,0.11049025,0.044632204
+http://arxiv.org/pdf/2207.02319v1,"Permutons, meanders, and SLE-decorated Liouville quantum gravity","It is in general a subtle
+
+question to determine which points of T belong to supp π. We intend to investigate this further in
+
+future work. The following corollary is a special case of Theorem 1.17. ",math.PR,B,0.22610202,0.04997833,0.14780945
+http://arxiv.org/pdf/2207.02319v2,"Permutons, meanders, and SLE-decorated Liouville quantum gravity","For a ﬁxed permutation σ of size n, the probabilities
+
+    3The a.s. uniqueness of ψ(t) for a ﬁxed t ∈ [0, 1] is proven in Lemma 2.10, which also shows that ψ(t) is the a.s.
+unique time for which η1(t) = η2(ψ(t)). 4We plan to give a formal proof of this claim in future work combining the results in Proposition 5.4 and the
+
+C aforementioned fact that the ﬁeld h and the independent SLE curves η1 and η2, viewed modulo conformal and
+
+anticonformal automorphisms of , are a.s. given by measurable functions of the associated permuton π as in (1.2). 13
+P[Permn(π, X, Y ) = σ] and P[Permn(π, X, Y ) = σ | π] are called the annealed and quenched
+
+pattern densities of σ in π. ",math.PR,A,0.059190158,-0.018612532,-0.1942499
+http://arxiv.org/pdf/2207.03323v1,Binary branching processes with Moran type interactions,"Further, this suggests that it should be possible to extend the Nmin–Nmax algorithm to the
+case of unbounded branching rates, and this is supported by the numerical simulations when
+M = +∞ (for which the FV IPS is of course not deﬁned), although it is not covered by our
+main result. We intend to address these questions in future work. Remark 22. ",math.PR,A,-0.17266175,-0.20742765,0.22503918
+http://arxiv.org/pdf/2207.03455v1,Scaling limit of an adaptive contact process,"Our proof
+does not use any of the usual techniques of adaptive dynamics, while we do
+beneﬁt from prior work on the classical contact process [9, 12] and from recent
+results on the two-type contact process [11]. For future work, various directions of inquiry could be pursued; let us provide
+a few examples. First, it would be interesting to study the model with a choice of
+sequence (δN )N≥1 that tends to zero slower than what our assumption requires,
+so that there is a non-vanishing chance that more than two types appear at
+a given time. ",math.PR,A,-0.07060732,-0.021882206,0.0026172213
+http://arxiv.org/pdf/2207.04162v1,Long and short time laws of iterated logarithms for the KPZ fixed point,"3
+
+The proof of the above fact can be completed using similar ideas as in the proof of Theorem 1.5. We defer showing this result to a future work. Theorem 1.5 studies the local growth of the KPZ ﬁxed point along temporal direction near the
+time 1. ",math.PR,B,0.26823992,0.043911967,-0.012093265
+http://arxiv.org/pdf/2207.04787v1,Quasilinear rough evolution equations,"Since we expect any reasonable controlled rough path solution (u, u′) of (1.1) to satisfy
+u′t = F (ut), ∀t ∈ [0, T ], we see that in this case the spatial regularity of the Gubinelli
+derivative needs to be lowered down from Bα to Bα−σ. A further analysis of (1.1)
+reveals moreover that the deregularizing parameter (or “spatial loss”) σ cannot exceed
+the Hölder regularity of X, hence the choice made in [25] to work in a setting when
+u′ : [0, T ] → Bα−γ by default (even if it means losing valuable information when F is
+bounded). Due to the quasilinear nature of the ansatz (1.1), we have to restrict the range of
+β ∈ [0, 1] and consequently work with the scale (Bβ)β∈[0,1]. ",math.PR,C,0.06983226,0.32976037,0.2796456
+http://arxiv.org/pdf/2207.05450v1,Covariance matrices of length power functionals of random geometric graphs -- an asymptotic analysis,"We have
+
+                     S¯2 = V (W )dκd     x2 + x1 +      14x21x22 + x42 + x41  = λ2
+                                  2      4x1x2          16x21x22(x1 + x2)2
+
+and for ¯S2 one gets
+
+V (W )dκd ·                    (x1−x2)2              = V (W )dκd ·  (x1 −x2 )2
+
+               4x1 x2 (x1 +x2 )2                                    4x1 x√2 (x1 +x2 )2
+
+2            (x1+x2)2 + 14x21x22+x41+x42                2           (x1+x√2)2+ 14x21x22+x41+x42
+
+             4x1 x2 (x1 +x2 )  16x21 x22 (x1 +x2 )2                 16x21 x22 (x1 +x2 )2
+
+= V (W )dκd ·  (x1 + x2)2 + 14x21x22 + x41 + x42 (x1 + x2)2 − 14x21x22 + x41 + x42               = λ1. 2                4x1x2(x1 + x2) (x1 + x2)2 + 14x21x22 + x21 + x22
+
+It would be quite interesting to investigate in a further analysis, if Sn = λ1 and S¯n = λn is¯
+
+true for n ≥ 3 or whether the bounds are not tight in general. Conjecture 6.8. ",math.PR,C,-0.029402714,-0.1664534,0.32959002
+http://arxiv.org/pdf/2207.06756v1,Limit theorems for iterates of the Szász-Mirakyan operator in probabilistic view,"On the other hand, in [KYZ18], the authors apply usual techniques in stochastic
+calculus in order to establish limit theorems for the iterates of the Bernstein operator in-
+cluding Proposition 1.2. Hence, they can reveal remarkable relations between the limiting
+behaviors of iterates of the Bernstein operator and the stochastic phenomena behind the
+operator approximating continuous functions, which motivates a further study of interest. So far, a large amount of generalizations of the Bernstein operator have been investi-
+gated extensively in various settings. ",math.PR,C,-0.09555559,0.27386427,-0.28282148
+http://arxiv.org/pdf/2207.07069v1,Moment conditions for random coefficient AR($\infty$) under non-negativity assumptions,"The problem is caused by the term on the right-hand side of (3.18) involv-
+ing O(k): we were not able to give simple hypotheses under which this term
+is ﬁnite, as it is not clear how to generalize the proof for k = 2 to gen-
+eral k. Indeed, while in the case of k = 2, A˜s and A˜t are independent for
+(s, t) ∈ O(2) (at least under assumption (A2)), this is not the case anymore
+
+for k > 2. We believe that the extension of our methods to higher moments
+
+is an interesting question for further research and hope to be able to address
+
+it in the future. 14                  PASCAL MAILLARD AND OLIVIER WINTENBERGER
+
+    4. ",math.PR,C,0.0213695,-0.0043623885,-0.049859766
+http://arxiv.org/pdf/2207.08422v1,On the Wiener Chaos Expansion of the Signature of a Gaussian Process,"This paper is organised as follows: in Section we brie y introduce the class of Gaussian processes con-
+
+sidered, and the Malliavin calculus framework for them; in Section we state the main result Theorem . and discuss a few consequences and examples that follow; in Section we prove the main result; in
+
+Conclusions and further directions we outline some aspects that could be tackled in further research. Finally,
+
+it should be mentioned that in [BC ], in addition to the expected signature of 1/2 < H-fBm, the authors
+
+also compute the expected signature at levels 2 and 4 for 1/2 < H-fBm; while not necessary in our proofs, it
+
+is sensible to verify that our main result agrees with this calculation: this check is performed in Appendix A. ",math.PR,C,-0.027237456,0.18640831,-0.1339089
+http://arxiv.org/pdf/2207.08422v2,On the Wiener Chaos Expansion of the Signature of a Gaussian Process,"In Section we state the main result Theorem . and discuss a few consequences and exam-
+ples that follow; in Section we prove the main result; in Conclusions and further directions we outline some
+aspects that could be tackled in further research. Finally, it should be mentioned that in [BC ], in addition
+to the expected signature of 1/2 < H-fBm, the authors also compute the expected signature at levels 2 and 4
+for 1/2 < H-fBm in a manner that does not obviously generalise to di erent processes or higher levels; while
+not necessary in our proofs, it is sensible to verify that our main result agrees with this calculation: this check
+is performed in Appendix A. ",math.PR,B,0.13894016,-0.19407189,-0.025164038
+http://arxiv.org/pdf/2207.10206v1,Extremal inhomogeneous Gibbs states for SOS-models and finite-spin models on trees,"It may be possible to extend the construction in the p-SOS
+and ﬁnite-spin cases to include also trees of low degree, even the binary tree,
+by demanding the distance between broken bonds in the ground state to be
+large. This has been outlined for the particular case of foliated states for the
+Ising model on binary trees in [28], whether it can be done for our models
+we leave for future work. 5. ",math.PR,A,-0.11819388,-0.33928955,0.130884
+http://arxiv.org/pdf/2207.11604v1,Multi-component Matching Queues in Heavy Traffic,"Alternatively, one may consider employing the expressions of the virtual
+waiting times in (84), but a proper stochastic upper bound needs to be determined,
+which is a challenging problem due to the intractable matching operation. We will
+study this in future work. We close this section by exhibiting an interesting result regarding the
+virtual waiting time of the matching queue model with no abandonment as pro-
+posed in Section 3. ",math.PR,A,-0.24291033,-0.19824275,-0.07077314
+http://arxiv.org/pdf/2207.12108v1,Strong and weak convergence for averaging principle of DDSDE with singular drift,"In this paper, we only consider the case when σ does not depend on time t and
+
+measure µ. We hope that in future work we can use our framework here to study the time-
+
+inhomogeneous case σ = σ(t, x) or an even more general case σ = σ(t, x, µ) under the following
+
+standard condition of σ
+
+        ′  There  are  functions  ωσ  and  Hσ   such  that
+
+(Hσ )
+
+                       1          T +t                                                  ωσ(T )Hσ(x, µ)
+
+                                        σ(t, x, µ) − σ¯(x, µ) 2 dt
+                       Tt                                             HS
+
+           for all (T, t, x) ∈ (R2+ × Rd), where lim ωσ(t) = 0 and sup |||Hσ(·, µ)||| p0 < ∞. t→∞                                           µ           2
+8  MENGYU CHENG, ZIMO HAO, MICHAEL RO¨ CKNER
+
+   Structure of the paper. ",math.PR,C,0.10627275,0.44525826,0.15327615
+http://arxiv.org/pdf/2207.12108v2,Strong and weak convergence for averaging principle of DDSDE with singular drift,"In this paper, we only consider the case where σ does not depend on time t and
+
+the measure µ. We hope that in future work we can use our framework here to study the time-
+
+inhomogeneous case σ = σ(t, x) or the even more general case σ = σ(t, x, µ) under the following
+
+standard condition on σ
+
+        ′  There  are  functions  ωσ  and  Hσ  such  that
+
+(Hσ )
+
+                       1          T +t                              ωσ(T )Hσ(x, µ)
+
+                                        σ(t, x, µ) − σ¯(x, µ) 2 dt
+                       Tt                                  HS
+
+           for all (T, t, x) ∈ (R2+ × Rd), where lim ωσ(t) = 0 and sup |||Hσ(·, µ)||| p0 < ∞. t→∞                  µ               2
+
+   Structure of the paper. ",math.PR,C_centroid,0.11364693,0.42327508,0.15568072
+http://arxiv.org/pdf/2207.12108v3,Strong and weak convergence for averaging principle of DDSDE with singular drift,"In this paper, we only consider the case where σ does not depend on time t and
+
+the measure µ. We hope that in future work we can use our framework here to study the time-
+
+inhomogeneous case σ = σ(t, x) or the even more general case σ = σ(t, x, µ) under the following
+
+standard condition on σ
+
+        ′  There  are  functions  ωσ  and  Hσ  such  that
+
+(Hσ )
+
+                       1          T +t                              ωσ(T )Hσ(x, µ)
+
+                                        σ(t, x, µ) − σ¯(x, µ) 2 dt
+                       Tt                                  HS
+
+           for all (T, t, x) ∈ (R2+ × Rd), where lim ωσ(t) = 0 and sup |||Hσ(·, µ)||| p0 < ∞. t→∞                  µ               2
+
+   Structure of the paper. ",math.PR,C,0.11364693,0.42327508,0.15568072
+http://arxiv.org/pdf/2207.12734v1,Law of large numbers and central limit theorem for wide two-layer neural networks: the mini-batch and noisy case,"In this work, and compared to the existing literature dealing with the SGD
+minimization problem in two-layer neural networks, we provide a rigorous proof with precise justiﬁcations of
+all steps of the existence of the limit PDE (in particular, uniqueness and relative compactness) in the law
+of large numbers as well as the limit process for the central limit theorem on the trajectory of the empirical
+measure. This will be the basis for future works on deep ensembles or overparameterized bayesian neural
+networks. We furthermore do so in a more general variant of SGD with mini-batching of any size and weak
+noise (see (1.2)). ",math.PR,C,-0.107150525,0.16640268,-0.19418916
+http://arxiv.org/pdf/2207.14239v1,A Strong Duality Principle for Equivalence Couplings and Total Variation,"Since it is known that such processes also have trivial tail σ-algebra [27], it suﬃces
+to understand when two such laws are mutually absolutely continuous. We could
+not ﬁnd this stated in the literature and we believe it would be an interesting avenue
+for future work. 3. ",math.PR,C,-0.09514281,0.20787501,-0.18833563
+http://arxiv.org/pdf/2207.14269v1,Mixing times of a Burnside process Markov chain on set partitions,"Since derangements appear in the derivation of our transition
+
+probability, this connection does not seem unusual. It is likely that there are deeper connections between the Burnside process
+
+on [k]n, r-Stirling numbers, and Laguerre polynomials, and further study is
+
+fully warranted. Acknowledgments
+
+   We thank Jason Fulman for suggesting the problem and providing useful
+references. ",math.PR,A,-0.22017014,-0.23620738,-0.021051066
+http://arxiv.org/pdf/2207.14533v1,Bulk universality and quantum unique ergodicity for random band matrices in high dimensions,"Some key ideas used in the proof will be brieﬂy discussed in Section 1.2 below. We
+expect that the argument in this paper can be extended to random band matrices in lower
+dimensions and with smaller band width, and we will pursue this direction in future works. Finally, we mention several advantages of the current proof of the bulk universality and
+QUE. ",math.PR,B,0.16726613,-0.11155707,-0.3954606
+http://arxiv.org/pdf/2207.14533v2,Bulk universality and quantum unique ergodicity for random band matrices in high dimensions,"Some key ideas used in the proof will be brieﬂy discussed in Section 1.2 below. We expect that the
+
+argument in this paper can be extended to random band matrices in lower dimensions and with smaller
+
+band width, and we will pursue this direction in future works. Finally, we mention several advantages of the current proof of the bulk universality and QUE. ",math.PR,B,0.16726613,-0.11155707,-0.3954606
+http://arxiv.org/pdf/2207.14533v3,Bulk universality and quantum unique ergodicity for random band matrices in high dimensions,"Some key ideas used in the proof will be brieﬂy discussed in Section 1.2 below. We expect that the
+
+argument in this paper can be extended to random band matrices in lower dimensions and with smaller
+
+band width, and we will pursue this direction in future works. Finally, we mention several advantages of the current proof of the bulk universality and QUE. ",math.PR,B,0.16726613,-0.11155707,-0.3954606
+http://arxiv.org/pdf/2207.14601v1,Archaeology of random recursive dags and Cooper-Frieze random networks,"Deriving lower bounds for the size of the conﬁdence set is another interest-
+ing open question. Another path for further research is to extend the network models beyond
+the uniform ones considered in this paper. The most natural extensions are pref-
+
+                                                     17
+erential attachment versions of the models. ",math.PR,A,-0.09924347,-0.2859087,-0.07265423
+http://arxiv.org/pdf/2208.00270v1,On the role of reduced habitat in the phase transition of a stochastic model for seed dispersal,"From an application point of view our arguments can be
+adapted to expand our ﬁndings to a two-dimensional model. In future work one could also
+consider a non-homogeneous Poisson point process to accommodate greater accumulation
+of seeds near the mother plant. Use of diﬀerent density kernels in literature was reviewed
+in [10]. ",math.PR,A,-0.22082016,0.06709561,0.15751028
+http://arxiv.org/pdf/2208.00289v1,BSDEs generated by fractional space-time noise and related SPDEs,"(1.4)
+                                             2
+
+     This equation has enjoyed a great attention in recent decade (when the terminal condition
+
+     is replaced by the initial condition and the noise W (dt, x) is replaced by more singular one
+     ∂x1∂··d·∂xd W (dt, x)), often in the name of parabolic Anderson model. We refer to a survey work
+     [11] and references therein for further study. Let us only point out that many works do not
+
+     require that the noise is white in time in their study: For the SPDE in the above case (b),
+
+     the associated BDSDEs becomes
+
+                                                         T                                            t
+                             Yst,x = φ(BTt,x) + Yrt,xW (dr, Brt,−xt) − Zrt,xdBr ,
+                                                                                                                      (1.5)
+
+                                                      s                                            s
+
+     where Bst,x = x + (Bs − Bt) is a d-dimensional Brownian motion starting at time t from the
+     point x. ",math.PR,C,-0.20065627,0.33210716,0.120193884
+http://arxiv.org/pdf/2208.01728v1,Optimal regularity of SPDEs with additive noise,"There is a large literature
+that considers Hölder regularity of stochastic PDEs; see for example Balan and Chen [1], Balan, Jolis, and
+Quer-Sardanyons [2], Balan, Quer-Sardanyons, and Song [3], Chen and Dalang [11], Dalang and Sanz-Solé
+[19, 20], Hu and Le [25], Li [34], and Liu and Du [37]. There is also a large literature in which Hölder regu-
+larity is a key step in further analysis of the solution. For a small representative sampler of that literature,
+see Bezdek [7], Boulanba, Eddhabi, and Mellouk [8], Chen and Kim [12, 13], Dalang, Khoshnevisan, and
+Nualart [17], Dalang and Sanz-Solé [21], Dalang and Pu [18], Faugeras and Inglis [23], Hu, Nualart, and Song
+[26], Hu, Huang, Nualart, and Sun [27], Huang, Nualart, Viitasaari, and Zhang [28], Lun and Warren [38],
+Misiats, Stanzhytskyi, and Yip [41], Nualart [42], Rippl and Sturm [44], and Sanz-Solé and Süß [47]. ",math.PR,C,-0.18119018,0.19484556,0.019646533
+http://arxiv.org/pdf/2208.03014v1,Analytical description of the diffusion in a cellular automaton with the Margolus neighbourhood in terms of the two-dimensional Markov chain,"Note that the formulae derived in this work are valid
+for the range p ∈ (0; 1) while only p ∈ (0; 21 ] have a physical meaning in MCA. Therefore,
+the more detailed study of this process for the parameter p ∈ ( 12 ; 1) is planned in a separate
+future work. Also, it is of interest to generalize our approach for the three-dimensional
+MCA. ",math.PR,C,0.04659423,0.023677116,0.27031782
+http://arxiv.org/pdf/2208.03308v1,Infinite-server System with Hawkes Arrivals and Hawkes Services,"Instead of obtaining a solution by
+solving ODEs (as in Theorem 4.1), several methods are possible, for instance, methods such as ﬁxed point equation
+in the transform domain and concepts using branching processes. Other future work could focus on the asymptotic
+behaviour of the distributions and the moments for the Hawkes/sdHawkes/∞ system. 6 Appendix
+
+6.1 Proof of Proposition 4.2
+
+Taking into account the observations made in Remark 4, and the results of Lemma 3.4, since in (t,t + ∆t), we can have
+a service completed with probability y∆t, or we can have still customers in service with probability 1 − y∆t,
+
+F (t + ∆t, k, λ − r∆t (λ − λ ∗) , µ − s∆t (µ − kµ∗)) =     λ ∂ F(t, k − 1, x, µ) P[B ≤ λ − x] x∆t dx
+                                                                  ∂λ
+                                                        0
+
+                                                        + µ ∂ F(t, k + 1, λ , y) P[C ≤ µ − y] y∆t dy
+                                                                  ∂µ
+                                                           0
+
+                                                        + µ ∂ F(t, k, λ , y) (1 − y∆t) dy + λ ∂ F(t, k, x, µ) (−x∆t) dx. ",math.PR,C,-0.30454117,0.18249762,0.15897366
+http://arxiv.org/pdf/2208.05629v1,From interacting agents to Boltzmann-Gibbs distribution of money,"As of now, one exciting direction of research for econophysics models involves the
+inclusion of a (central) bank and hence the possibility of agents being in debt (see
+for instance [17]). As the inclusion of bank and debt will also make the econophysics
+models more realistic from a modeling perspective, we plan to extend the framework
+and analysis of the present work to other econophysics models with bank and debt
+in our future work. References
+
+ [1] José Cañizo, Amit Einav, and Bertrand Lods. ",math.PR,A,-0.15050218,-0.0011020582,0.15603226
+http://arxiv.org/pdf/2208.05673v1,Non-uniqueness in law of the two-dimensional surface quasi-geostrophic equations forced by random noise,"If the size of ι > 0 was nontrivial, then we can deduce the existence of the
+
+solution to the generalized QG equations constructed via convex integration by relying
+
+on Proposition 6.3 (2). Regardless, we present in such a general way in hope that these
+
+computations may be of use in future works on the generalized QG equations. Remark 2.1. ",math.PR,C,0.27295977,0.19665226,0.1558558
+http://arxiv.org/pdf/2208.05673v2,Non-uniqueness in law of the two-dimensional surface quasi-geostrophic equations forced by random noise,"If the size of ι > 0 was nontrivial, then we can deduce the existence of the solution to the
+
+generalized QG equations constructed via convex integration by relying on Proposition 5.3
+
+(2). Regardless, we present in such a general way in hope that these computations may be
+
+of use in future works on the generalized QG equations. 10                                                                 KAZUO YAMAZAKI
+
+Remark 2.1. ",math.PR,C,0.27283707,0.18962201,0.16844954
+http://arxiv.org/pdf/2208.06026v1,Backward Stochastic Differential Equations (BSDEs) Using Infinite-dimensional Martingales with Subdifferential Operator,"Addi-
+tionally, we have presented a special example for the simple case. For future work we will focus on this interesting
+problem and pay more attention to the simulation of numerical solutions of BSDEs of multidimensional and even
+inﬁnite-dimensional types, and their applications in ﬁnance and computing, such as [25–27]. Data Availability
+
+The data used to support the ﬁndings of this study are freely available. ",math.PR,C,-0.15893485,0.053631786,0.22687563
+http://arxiv.org/pdf/2208.06808v1,Asymptotically autonomous robustness in probability of random attractors for stochastic Navier-Stokes equations on unbounded Poincaré domains,"(2.7)
+ASYMPTOTICALLY AUTONOMOUS ROBUSTNESS OF RANDOM ATTRACTORS FOR 2D SNSE 7
+
+It is known from [19] that there exists a θ-invariant subset Ω ⊂ Ω of full measure such that
+z(θtω) is continuous in t for every ω ∈ Ω, and
+
+                                  E |z(θsω)|ξ = Γ√π1+2σξξ , for all ξ > 0, s ∈ R,                      (2.8)
+                                                                                                       (2.9)
+           lim e−δt|z(θ−tω)| = 0, for all δ > 0,                                                      (2.10)
+
+          t→+∞
+
+          1t                                           |z(θtω)|
+          t→li±m∞ t 0 z(θξω)dξ = t→li±m∞ |t| = 0,
+
+where Γ is the Gamma function. For further analysis of this work, we do not distinguish
+between Ω and Ω. Since, ω(·) has sub-exponential growth (cf. ",math.PR,C,-0.14274934,0.2202424,-0.040205196
+http://arxiv.org/pdf/2208.07515v1,Methods of classical and free probability,"Proof. This follows from Theorem 15.20 and Proposition 15.21, because the triple
+basic construction does not need in fact any further study. See [57]. ",math.PR,B,0.57350576,-0.28084183,-0.09773276
+http://arxiv.org/pdf/2208.07515v2,Methods of free probability,"Proof. This follows from Theorem 15.20 and Proposition 15.21, because the triple
+basic construction does not need in fact any further study. See [57]. ",math.PR,B,0.57350576,-0.28084183,-0.09773276
+http://arxiv.org/pdf/2208.07515v3,Methods of free probability,"Proof. This follows from Theorem 15.20 and Proposition 15.21, because the triple
+basic construction does not need in fact any further study. See [55]. ",math.PR,B,0.5693939,-0.28643417,-0.09501334
+http://arxiv.org/pdf/2208.07539v1,Power-of-$d$ Choices Load Balancing in the Sub-Halfin Whitt Regime,"The result can be easily extended for ≤ min{ 0.5− , }. Relaxing
+
+the requirements on and are part of future work. Now, the next lemma corresponds to Step 1b in Fig. ",math.PR,B,0.27939314,-0.091104046,-0.019310024
+http://arxiv.org/pdf/2208.07539v2,Power-of-$d$ Choices Load Balancing in the Sub-Halfin Whitt Regime,"The result can be easily extended for ≤ min{ 0.5− , }. Relaxing
+
+the requirements on and are part of future work. Now, the next lemma corresponds to Step 1b in Fig. ",math.PR,B,0.27939314,-0.091104046,-0.019310024
+http://arxiv.org/pdf/2208.07827v1,Invasion Percolation on Power-Law Branching Processes,"In Lemma 6.1, we ﬁrst argue that forests that are of size Hk ≤ δkγ or
+       are within a distance εk from the root, do not contribute signiﬁcantly in the limit. This allows us to restrict
+       the further analysis to the volume of only large values of Hk that are far away from the root. We denote this
+       with M˙ k(δ,ε). ",math.PR,B,0.13318574,-0.16345777,0.0013750922
+http://arxiv.org/pdf/2208.08383v1,Critical cluster cascades,"We call η∞ the inﬁnite Palm tree. Unfortunately, the construction in the proof of Lemma 3 is
+
+not suited for further analysis of the inﬁnite Palm tree. The next proposition will provide a more
+
+suitable representation of (the distribution of) η∞. ",math.PR,A,0.034391645,-0.0671179,-0.24039865
+http://arxiv.org/pdf/2208.10202v1,Asymptotics of the single-source stochastic sandpile model,"We give heuristics for why this is the correct scale for this phase transition to occur,
+based on estimates for the expected number of non-full topplings (where γ < M ) at a
+typical vertex. 4.2 Future Work
+
+We conclude by giving a number of possible future work directions on this topic. Since
+this is, to our knowledge, the ﬁrst study of a single-source SSM, there remains much
+work to be done. ",math.PR,A,-0.25702816,-0.31549478,0.19382559
+http://arxiv.org/pdf/2208.10667v1,Exchangeable Laws in Borel Data Structures,"Note the
+coincidence that for Dl = D∗ = Seq(X ) for all l it is D = D∗ × · · · × D∗ ≃ D∗ ◦ PAIR(k) ≃
+Seq(X k), which is special to sequential data. In future work the abstract notion of seperate exchangeability should be investigated
+further. For that, many of the results derived for functors D : INJop → BOREL and their
+
+exchangeable=symmetric laws should have a straightforward generalization to functors
+G : (INJop)k → BOREL for arbitrary k ≥ 1. ",math.PR,B,0.047314674,-0.19074374,-0.11924953
+http://arxiv.org/pdf/2208.11003v1,Uncovering a two-phase dynamics from a dollar exchange model with bank and debt,"The answer
+to these questions will enable us to have a better understanding of the role played
+by the bank and debt. Lastly, we emphasize that econophysics models involving bank and debt have
+not received enough attention in the past few years, and the model investigated in
+this manuscript can be viewed as the representative of a promising and intriguing
+direction for further research in the area of econophysics. For instance, it would be
+interesting to introduce a bank in other closely related variants of the basic unbiased
+exchange model, such as the so-called poor-biased or rich-biased exchange model
+proposed in [2]. ",math.PR,A,-0.22230518,-0.034891665,0.091557235
+http://arxiv.org/pdf/2208.11255v1,The Green's function of the parabolic Anderson model and the continuum directed polymer,"A boundary continuity result similar to (vii) appears in Theorem 3.1 of [10],
+which includes a H¨older regularity estimate at the boundary for H¨older continuous initial
+data, again for ﬁxed µ, s. Our methods can prove similar boundary regularity, but with
+suboptimal H¨older exponents. We leave this improvement to future work. The only result
+             GREEN’S FUNCTION OF THE PARABOLIC ANDERSON MODEL                                    13
+
+which needs to be improved to obtain optimal regularity at the boundary is Lemma C.8,
+where the bound needs to not depend on δ in order to obtain optimal regularity. ",math.PR,C,0.047193572,0.2738154,0.13096312
+http://arxiv.org/pdf/2208.11255v2,The Green's function of the parabolic Anderson model and the continuum directed polymer,"A boundary continuity result similar to (vi) appears in Theorem 3.1 of [11],
+which includes a H¨older regularity estimate at the boundary for Ho¨lder continuous initial
+data, again for ﬁxed µ, s. Our methods can prove similar boundary regularity, but with
+suboptimal H¨older exponents. We leave this improvement to future work. The only result
+which needs to be improved to obtain optimal regularity at the boundary is Lemma C.8,
+where the bound needs to not depend on δ in order to obtain optimal regularity. ",math.PR,C,0.16364014,0.25268063,0.09385282
+http://arxiv.org/pdf/2208.11638v1,Differential equations for the KPZ and periodic KPZ fixed points,"7 Large height limits and the proof of Proposition 2.12
+
+It is interesting to consider the asymptotic properties of the solutions to the diﬀerential equations in Subsec-
+tion 2.1 as some of the parameters tend to inﬁnity. In this paper, we only consider one simple case and leave
+other cases for a future work. The next result shows the asymptotic behavior of the Fredholm determinant
+and Φ1 for the (periodic) KPZ ﬁxed points as the height parameters xi = hi tend to positive inﬁnity in a
+certain way. ",math.PR,C,0.15317333,0.09819207,0.20947945
+http://arxiv.org/pdf/2208.11795v1,Harmonic balls in Liouville quantum gravity,"Since t = µh(A) = µh(Λt), this completes the proof. We do not use Proposition 9.2 in this paper but decided to include it explicitly as it may
+be used in future work. 9.2. ",math.PR,B,0.3968049,-0.0014011292,0.047343366
+http://arxiv.org/pdf/2208.11795v2,Harmonic balls in Liouville quantum gravity,"Since t = µh(A) = µh(Λt), this completes the proof. We do not use Proposition 9.2 in this paper but decided to include it explicitly as it may
+be used in future work. 9.2. ",math.PR,B,0.39680505,-0.0014012037,0.04734319
+http://arxiv.org/pdf/2208.12102v1,Extremal regime for one-dimensional Mott variable-range hopping,"For such, it was
+         shown in [5] that the Mott random walk has a non-trivial diﬀusive scaling limit for any
+         α > 0. We close this discussion by outlining some possible directions for future work. One question
+
+that might be asked is about the precise manner in which the rescaled running supremum
+X moves from a localization site m−n,1+(t−) to a new maximum m−n,1+(t). ",math.PR,A,-0.13820451,-0.007916285,-0.11191815
+http://arxiv.org/pdf/2208.12245v1,Phase Transitions in Biased Opinion Dynamics with 2-choices Rule,"8.25  1.2 * loḡn)                                    7.0
+                                                                             loḡn)
+          8.00  Simulation
+                                                                6.5 Simulation
+
+          7.75
+
+T̄n̄p)/n  7.50                                        T̄n̄p)/n  6.0
+
+          7.25                                                  5.5
+
+          7.00
+
+          6.75                                                  5.0
+
+          6.50                                                  4.5
+                                                                      200
+                200 300 400 500 600 700 800 900 1000                       300 400 500 600 700 800   900 1000
+
+                                           n                                                    n
+
+                         (a) α = 0.8, p = 0.05                                 (b) α = 0.8, p = 0.8
+
+Figure 8: Mean consensus time per node T¯n(p)/n as a function of the network size for α = 0.8 for
+random Erdo˝s-R´enyi graphs with p = log n/n. 5 Conclusion and future work
+
+In this paper we have studied a model of binary opinion dynamics where the agents show a strong form of
+bias towards one of the opinions, called the superior opinion. We showed that for complete graphs the model
+exhibits rich phase transitions based on the values of the bias parameter and the initial proportion of agents
+with the superior opinion. ",math.PR,A,-0.42488825,-0.3205066,-0.0034018531
+http://arxiv.org/pdf/2208.12245v2,Phase Transitions in Biased Opinion Dynamics with 2-choices Rule,"14
+8.25  1.2 * loḡn)                                                                                   7.0
+                                                                                                                  loḡn)
+8.00  Simulation
+                                                                                                     6.5 Simulation
+
+7.75
+
+T̄n̄p)/n7.50                                                                                         6.0
+                                                                                           T̄n̄p)/n
+7.25                                                                                                 5.5
+
+7.00
+
+6.75                                                                                                 5.0
+
+6.50                                                                                                 4.5
+                                                                                                           200
+      200 300 400 500 600 700 800 900 1000                                                                      300 400 500 600 700 800   900 1000
+
+                                 n                                                                                                   n
+
+               (a) α = 0.8, p = 0.05                                                                                (b) α = 0.8, p = 0.8
+
+Figure 8: Mean consensus time per node T¯n(p)/n as a function of the network size for α = 0.8 for
+Erdo˝s-R´enyi graphs with edge probability log n/n. 5 Conclusion and future work
+
+In this paper we have studied a model of binary opinion dynamics where the agents show a strong form of
+bias towards one of the opinions, called the superior opinion. We showed that for complete graphs the model
+exhibits rich phase transitions based on the values of the bias parameter and the initial proportion of agents
+with the superior opinion. ",math.PR,A,-0.4288739,-0.33366913,-0.00067712367
+http://arxiv.org/pdf/2208.12829v1,Tipsy cop and tipsy robber: collisions of biased random walks on graphs,"Interestingly, these conditions not only depend on the
+values ∆ and δ, but also on the tipsiness parameters. We conclude the article in Section 5 by providing some possible direction for further study. 2. ",math.PR,C,-0.012874421,0.05892759,0.3342483
+http://arxiv.org/pdf/2208.13580v1,Non-intersecting path constructions for TASEP with inhomogeneous rates and the KPZ fixed point,"The
+present work paves the way to construct an analogous process with space inhomogeneities,
+as the 1:2:3 scaling limit of the formulas we obtained for particle-inhomogeneous dTASEP. We leave this task for future work. 1.3. ",math.PR,C,-0.046212893,0.17789412,0.21993133
+http://arxiv.org/pdf/2208.13580v2,Non-intersecting path constructions for TASEP with inhomogeneous rates and the KPZ fixed point,"The
+present work paves the way to construct analogous processes from particle systems with
+variable, fast/slow, rates. We leave this task for future work. 1.3. ",math.PR,A,-0.19051287,0.089207485,0.18236032

@@ -1,0 +1,67 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.13189v1,Resultant Tools for Parametric Polynomial Systems with Application to Population Models,"(2010), https://doi.org/10.1145/1823931.1823933
+as future work. There is also hope to improve the symbolic methods
+as future work: both by the use of additional projection technology                          [17] Gyllenberg, M. and Hemminki, J. and Tammaru, T.: Allee effects can both conserve
+to deal with the case where a branch has a single polynomial; and                                  and create spatial heterogeneity in population densities. In: Theoretical popula-
+by further optimisations to remove the remaining redundancies in                                   tion biology. ",cs.SC,A_centroid,-0.26003388,0.62804556,-0.37549174
+http://arxiv.org/pdf/2201.13189v2,Resultant Tools for Parametric Polynomial Systems with Application to Population Models,"(2010), https://doi.org/10.1145/1823931.1823933
+as future work. There is also hope to improve the symbolic methods
+as future work: both by the use of additional projection technology                          [17] Gyllenberg, M. and Hemminki, J. and Tammaru, T.: Allee effects can both conserve
+to deal with the case where a branch has a single polynomial; and                                  and create spatial heterogeneity in population densities. In: Theoretical popula-
+by further optimisations to remove the remaining redundancies in                                   tion biology. ",cs.SC,A,-0.26003388,0.62804556,-0.37549174
+http://arxiv.org/pdf/2202.06305v1,Stability Problems in Symbolic Integration,"This is just a ﬁrst
+try and more general cases are waiting for further studying in this direction. To conclude this paper, we propose some problems for future work. The ﬁrst problem is char-
+acterizing all possible algebraic functions that are stable in the diﬀerential ﬁeld (C(x), d/dx). ",cs.SC,C,-0.19941257,-0.2989713,0.2545768
+http://arxiv.org/pdf/2202.09493v1,A New Type of Gröbner Basis and Its Complexity,"Acknowledgement. The author would like to express his gratitude to Bruno Buchberger for his encour-
+agement and advice for further research. The author would also like to gratefully acknowledge the generous
+help from Shaoshi Chen during the preparation of the paper and the encouragement from Dongming Wang. ",cs.SC,A,-0.23929587,0.17406754,0.3001204
+http://arxiv.org/pdf/2203.03054v1,Verification of Bitcoin's Smart Contracts in Agda using Weakest Preconditions for Access Control,"The whole approach has been formalised in Agda [32]. In future work, we will treat other opcodes such as conditionals like OP_IF, and integrate
+them into our methodologies. The veriﬁcation of scripts involving control statements is more
+involved and will require a careful reﬁnement of our current methods. ",cs.SC,B,0.68810153,0.09158245,0.038331777
+http://arxiv.org/pdf/2203.03054v2,Verification of Bitcoin Script in Agda using Weakest Preconditions for Access Control,"The whole approach has been formalised in
+Agda [47]. In future work, we will treat non-local instructions such as OP_IF, OP_ELSE, and OP_ENDIF,
+and will formalise key instructions to extend our approach to the whole of Bitcoin script. The
+diﬃculty is nesting of conditionals, and that Bitcoin scripts are not structured, and therefore
+some additional work needs to be done to ﬁnd the matching of if-then-else instructions. ",cs.SC,B_centroid,0.80497795,0.031473413,-0.010555274
+http://arxiv.org/pdf/2203.03054v3,Verification of Bitcoin Script in Agda using Weakest Preconditions for Access Control,"The whole approach has been formalised in
+    Agda [47]. In future work, we will treat non-local instructions such as OP_IF, OP_ELSE, and OP_ENDIF,
+    and will formalise key instructions to extend our approach to the whole of Bitcoin script. The
+    diﬃculty is nesting of conditionals, and that Bitcoin scripts are not structured, and therefore
+    some additional work needs to be done to ﬁnd the matching of if-then-else instructions. ",cs.SC,B,0.80497795,0.031473413,-0.010555274
+http://arxiv.org/pdf/2203.04123v2,On the complexity of invariant polynomials under the action of finite reflection groups,"However, the result in
+[6] is for any ﬁnite groups, ours here is for ﬁnite reﬂection groups. We will consider the problem of computing fnew when G is generally a ﬁnite group as one
+of future works. Note that, when G is a ﬁnite group, any polynomial f ∈ K[x1, . ",cs.SC,C,-0.25894994,-0.3296333,0.11082122
+http://arxiv.org/pdf/2203.06970v1,Hard Homogeneous Spaces from the Class Field Theory of Imaginary Hyperelliptic Function Fields,"Also, fur-
+ther investigation is required to ﬁne-tune the parameters that would be suitable for potential
+cryptographic applications. We leave all of this for future work. 4.2 Hardness of the inverse problem
+
+Given two Drinfeld modules φ, ψ ∈ Dr2(Fq[X], L)ξ, we have seen in Section 3.2 how — having
+access to an Ore polynomial ι : φ → ψ deﬁning an isogeny — we can compute an ideal a ⊂ AH
+such that a ⋆L φ = ψ. Consequently, inverting the group action reduces to the problem of
+computing an isogeny between two isogenous Drinfeld modules. ",cs.SC,C_centroid,-0.15213849,-0.57556856,-0.35927948
+http://arxiv.org/pdf/2203.06970v2,Hard Homogeneous Spaces from the Class Field Theory of Imaginary Hyperelliptic Function Fields,"Also, fur-
+ther investigation is required to ﬁne-tune the parameters that would be suitable for potential
+cryptographic applications. We leave all of this for future work. 4.2 Hardness of the inverse problem
+
+Given two Drinfeld modules φ, ψ ∈ Dr2(Fq[X], L)ξ, we have seen in Section 3.2 how — having
+access to an Ore polynomial ι : φ → ψ deﬁning an isogeny — we can compute an ideal a ⊂ AH
+such that a ⋆L φ = ψ. Consequently, inverting the group action reduces to the problem of
+computing an isogeny between two isogenous Drinfeld modules. ",cs.SC,C,-0.15213849,-0.57556856,-0.35927948
+http://arxiv.org/pdf/2205.15534v1,Gluing Neural Networks Symbolically Through Hyperdimensional Computing,"5880–5898, 2018.
+of classiﬁcation from signals directly, which do not have such
+properties. Finally, we discussed implications and potential                    [13] O. Sagi and L. Rokach, “Ensemble learning: A survey,” Wiley Interdisci-
+uses of HD-Glue in future work, giving rise to interesting                            plinary Reviews: Data Mining and Knowledge Discovery, vol. 8, no. ",cs.SC,A,-0.22743317,0.20904282,0.6701982
+http://arxiv.org/pdf/2206.08622v1,Accelerated Subdivision for Clustering Roots of Polynomials given by Evaluation Oracles,"Both algorithms are
+well-known tools used in subdivision procedures for root ﬁnding. We propose our compression algorithm not as a replacement of QIR Abbott
+iterations, but rather as a complementary tool: in future work, we plan to use
+compression to obtain a disc where Schr¨oder’s/QIR Abbott iterations would
+converge fast. The subroutines presented in this paper laid down the path toward a Cauchy
+Root Finder, that is, an algorithm solving the ε-CRC problem for black box
+polynomials. ",cs.SC,C,-0.17427307,-0.11601703,0.16680261
+http://arxiv.org/pdf/2206.13480v1,New heuristic to choose a cylindrical algebraic decomposition variable ordering motivated by complexity analysis,"This is not
+that surprising given it is well documented that polynomials from applications
+are often diﬀerent to those generated from a simple random generator. 6.2 Future work
+
+An obvious future work is to experiment with the new heuristics on problems
+with more variables, higher degree, or data from other sources. We see a number
+of avenues beyond this for more research. ",cs.SC,A,-0.37434784,0.10202819,-0.050198197
