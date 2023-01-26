@@ -53,24 +53,29 @@ def get_articles_details(df_of_articles: pd.DataFrame, output_file:str):
     for df_chunk in tqdm(np.array_split(df_of_articles, num_od_splits)):
         ids_list = [f'CorpusId:{idx}' for idx in df_chunk['corpusid'].to_list()]
         paper_abstracts = sch.get_papers(ids_list, fields=['abstract'])
+        try:
 
-        df_chunk['abstract'] = [paper['abstract'] for paper in paper_abstracts]
-        interesting_parts = df_chunk[['title', 'abstract', 'authors', 'publicationdate', 'year', 'citationcount']]
-        interesting_parts = interesting_parts.loc[interesting_parts['abstract'].notnull()]
+            df_chunk['abstract'] = [paper['abstract'] for paper in paper_abstracts]
+            interesting_parts = df_chunk[['title', 'abstract', 'authors', 'publicationdate', 'year', 'citationcount']]
+            interesting_parts = interesting_parts.loc[interesting_parts['abstract'].notnull()]
 
-        authors = interesting_parts['authors'].values
-        aux = []
-        for idx in authors:
-            try:
-                aux.append(json.loads(idx.replace("'", '"')))
-            except JSONDecodeError:
-                aux.append([])
+            authors = interesting_parts['authors'].values
+            aux = []
+            for idx in authors:
+                try:
+                    aux.append(json.loads(idx.replace("'", '"')))
+                except JSONDecodeError:
+                    aux.append([])
 
-        authors = aux
-        authors = ['_'.join([x['name'] for x in article]) for article in authors]
-        interesting_parts['authors'] = authors
+            authors = aux
+            authors = ['_'.join([x['name'] for x in article]) for article in authors]
+            interesting_parts['authors'] = authors
 
-        interesting_parts.to_csv(output_file, mode='a', index=False, header=(not os.path.exists(output_file)))
+            interesting_parts.to_csv(output_file, mode='a', index=False, header=(not os.path.exists(output_file)))
+        except ValueError as e:
+            print(str(e))
+            print(ids_list)
+            print(paper_abstracts)
 
         sleep(1)
 
