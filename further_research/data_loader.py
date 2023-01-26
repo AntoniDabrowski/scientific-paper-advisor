@@ -1,5 +1,6 @@
 import pandas as pd
 from collections import defaultdict as dd
+import matplotlib.pyplot as plt
 
 
 def load_data(path):
@@ -33,15 +34,20 @@ def prepare_chunks(df):
         else:
             records.append(None)
     df['further research'] = records
-    df = df[['url', 'title', 'further research', 'abstract', 'primary category']]
+    categories = df['primary category'].unique().tolist()
 
-    return {category:df[df['primary category'] == category] for category in df['primary category'].unique().tolist()}
+    fr = df[['url', 'title', 'further research', 'primary category']]
+    fr = fr.dropna()
+    chunks_fr = {category: fr[fr['primary category'] == category] for
+                 category in categories}
+
+    ab = df[['url', 'title', 'abstract', 'primary category']]
+    ab = ab.dropna()
+    chunks_ab = {category: ab[ab['primary category'] == category] for
+                 category in categories}
+
+    return chunks_fr, chunks_ab
 
 
 if __name__ == "__main__":
     df = pd.read_csv('../utils/FRDownloader/all_results/extended_search_list.csv')
-    chunks = prepare_chunks(df)
-    print(chunks.keys())
-
-    # print(repr(df['primary category'].value_counts().tolist()))
-    # df.head(10).to_csv('./out.csv', index=False)

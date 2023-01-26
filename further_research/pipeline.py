@@ -22,14 +22,14 @@ def pipeline(path, embedding_model='sentence transformer', alg='PCA', cut_outlie
 
 
 def pipeline_all_results(path):
-    chunks = prepare_chunks(pd.read_csv(path))
+    chunks_fr, chunks_ab = prepare_chunks(pd.read_csv(path))
 
     SentenceTransformerModel = SentenceTransformer('all-MiniLM-L6-v2')
     processed_DFs = []
 
-    for category, df in tqdm(list(chunks.items())):
+    for category, df in tqdm(list(chunks_fr.items())):
         # Further research
-
+        df = df.iloc[:350].copy()
         FR_list = df['further research'][df['further research'].notna()].tolist()
         if len(FR_list) < 3:
             print(f'FR: {category}')
@@ -61,13 +61,26 @@ def pipeline_all_results(path):
                 FR_x.append(None)
                 FR_y.append(None)
                 FR_z.append(None)
-        df['FR_label'] = FR_labels_column
+        df['label'] = FR_labels_column
 
-        df['FR_x'] = FR_x
-        df['FR_y'] = FR_y
-        df['FR_z'] = FR_z
+        df['x'] = FR_x
+        df['y'] = FR_y
+        df['z'] = FR_z
 
+        processed_DFs.append(df)
+
+        with open(f'../utils/FRDownloader/all_results/FR_models/{category}.pickle', 'wb') as file:
+            pickle.dump(FR_model, file)
+
+        df.to_csv(f'../utils/FRDownloader/all_results/FR_results/{category}_processed.csv', index=False)
+
+    # result = pd.concat(processed_DFs)
+    # result.to_csv(f'../utils/FRDownloader/all_results/extended_search_list_processed_FR.csv', index=False)
+
+    processed_DFs = []
+    for category, df in tqdm(list(chunks_ab.items())):
         # Abstract
+        df = df.iloc[:350].copy()
         AB_list = df['abstract'][df['abstract'].notna()].tolist()
         if len(AB_list) < 3:
             print(f'AB: {category}')
@@ -99,23 +112,22 @@ def pipeline_all_results(path):
                 AB_x.append(None)
                 AB_y.append(None)
                 AB_z.append(None)
-        df['AB_label'] = AB_labels_column
+        df['label'] = AB_labels_column
 
-        df['AB_x'] = AB_x
-        df['AB_y'] = AB_y
-        df['AB_z'] = AB_z
+        df['x'] = AB_x
+        df['y'] = AB_y
+        df['z'] = AB_z
 
         # Saving data
         processed_DFs.append(df)
 
-        with open(f'../utils/FRDownloader/all_results/FR_models/{category}.pickle', 'wb') as file:
-            pickle.dump(FR_model, file)
-
         with open(f'../utils/FRDownloader/all_results/AB_models/{category}.pickle', 'wb') as file:
             pickle.dump(AB_model, file)
 
-    result = pd.concat(processed_DFs)
-    result.to_csv(f'../utils/FRDownloader/all_results/extended_search_list_processed.csv', index=False)
+        df.to_csv(f'../utils/FRDownloader/all_results/AB_results/{category}_processed.csv', index=False)
+
+    # result = pd.concat(processed_DFs)
+    # result.to_csv(f'../utils/FRDownloader/all_results/extended_search_list_processed_AB.csv', index=False)
 
 
 if __name__ == "__main__":
