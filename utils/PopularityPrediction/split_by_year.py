@@ -9,7 +9,6 @@ parser = argparse.ArgumentParser(description="Tool for collecting the further re
                                              "from the arxiv articles. ")
 
 parser.add_argument("-od", "--output-dir",
-                    default=1000,
                     help="Dictates how many records should the output database contain.",
                     required=True)
 parser.add_argument("-f", "--filename",
