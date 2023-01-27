@@ -1,6 +1,6 @@
 const {create_graph_on_scholar_result, create_scatter_on_scholar_result, purge_graph} = require("./graphs");
 const {extract_article_data, extract_pdf_url, show_loader, hide_loader} = require("./utils");
-const {get_graph_layout, get_scatter_layout} = require("./backend_communication");
+const {get_graph_layout, get_scatter_layout, update_schema_left, update_schema_right} = require("./backend_communication");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
 let json_storage = [];
@@ -85,12 +85,48 @@ function handle_menu(menu, graph_menu, scatter, i, x) {
 
 }
 
-function expand_graph_left(menu, graph, scatter, i, param5) {
-    
+function expand_graph_left(graph_menu, i) {
+    if (json_storage[i] !== "NO RECORD") {
+        let graph = graph_menu.children[0]
+        //let buttons_menu = graph_menu.children[1]
+
+        let schema_promise = update_schema_left(json_storage[i])
+
+        schema_promise.then(function (returned_json) {
+            //hide_loader(graph.id);
+            json_storage[i] = returned_json
+            create_graph_on_scholar_result(graph.id, returned_json);
+            //buttons_menu.style.display = "block";
+        }).catch(function (error) {
+            // TODO add action in case of failure.
+            //buttons_menu.style.display = "none";
+            //hide_loader(graph.id);
+            console.error(error);
+        });
+
+    }
 }
 
-function expand_graph_right(menu, graph, scatter, i, param5) {
-    
+function expand_graph_right(graph_menu, i) {
+    if (json_storage[i] !== "NO RECORD") {
+        let graph = graph_menu.children[0]
+        //let buttons_menu = graph_menu.children[1]
+
+        let schema_promise = update_schema_right(json_storage[i])
+
+        schema_promise.then(function (returned_json) {
+            //hide_loader(graph.id);
+            json_storage[i] = returned_json
+            create_graph_on_scholar_result(graph.id, returned_json);
+            //buttons_menu.style.display = "block";
+        }).catch(function (error) {
+            // TODO add action in case of failure.
+            //buttons_menu.style.display = "none";
+            //hide_loader(graph.id);
+            console.error(error);
+        });
+
+    }
 }
 
 if (pdf_results) {
@@ -139,6 +175,7 @@ if (pdf_results) {
 
         var connection_graph = document.createElement("button");
         connection_graph.innerHTML = "Connection graph";
+        connection_graph.className = 'btn';
         connection_graph.onclick = function () {
             console.debug(graph_menu)
             if (graph_menu.style.display === "none") {
@@ -151,6 +188,7 @@ if (pdf_results) {
 
         var scatter_plot = document.createElement("button");
         scatter_plot.innerHTML = "Scatter plot";
+        scatter_plot.className = 'btn';
         scatter_plot.onclick = function () {
             if (scatter.style.display === "none") {
                 graph_menu.style.display = "none"
@@ -164,11 +202,11 @@ if (pdf_results) {
         });
 
         left_button.addEventListener("click", function () {
-            expand_graph_left(menu, graph, scatter, i, this);
+            expand_graph_left(graph_menu, i);
         });
 
         right_button.addEventListener("click", function () {
-            expand_graph_right(menu, graph, scatter, i, this);
+            expand_graph_right(graph_menu, i);
         });
 
         let links_of_result;

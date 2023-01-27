@@ -1,8 +1,10 @@
 import copy
 import json
+import multiprocessing
 import os
 import tempfile
 import unicodedata
+from multiprocessing import Pool, Manager, Process
 from pathlib import Path
 from typing import List, Dict
 
@@ -149,7 +151,7 @@ class ArticleGraph(nx.Graph):
 
     def find_graph_right_edge(self) -> (List[PublicationWithID], int):
         max_subset = max([data for _, data in self.nodes(data='subset')])
-        right_edge = [PublicationWithID(pk=nid) for nid, data in self.nodes(data='subset') if data == max_subset]
+        right_edge = [nid for nid, data in self.nodes(data='subset') if data == max_subset]
 
         return right_edge, max_subset
 
@@ -160,20 +162,36 @@ class ArticleGraph(nx.Graph):
         return left_edge, min_subset
 
     def create_right_side_of_graph(self):
-        def handle_pub(pub: PublicationWithID):
+        def handle_pub(pub_idx: int, queue: multiprocessing.Queue):
+            pub = PublicationWithID(pk=pub_idx)
             core_article_cited_in = self.get_citedby(pub)
             core_article_cited_in = sorted(core_article_cited_in,
                                            key=lambda x: x.publication.get('num_citations', 0), reverse=True)
-            for article in core_article_cited_in:
-                self.add_article_node(article.idx,
-                                      article.publication,
-                                      article_from=pub.idx,
-                                      subset=edge_subset + 1)
+            queue.put((pub_idx, core_article_cited_in))
 
         pubs_to_expand, edge_subset = self.find_graph_right_edge()
 
+        queue = multiprocessing.Queue()
+        process_list = []
         for publ in pubs_to_expand:
-            handle_pub(publ)
+            p = Process(target=handle_pub, args=(publ, queue))
+            p.start()
+            process_list.append(p)
+
+        for p in process_list:
+            p.join()
+
+        while True:
+            try:
+                pubidx, plist = queue.get(block=False)
+                for article in plist:
+                    self.add_article_node(article.idx,
+                                          article.publication,
+                                          article_from=pubidx,
+                                          subset=edge_subset + 1)
+
+            except:
+                break
 
         self.trim_subset(edge_subset + 1)
 
@@ -216,7 +234,9 @@ class ArticleGraph(nx.Graph):
 
         self.trim_subset(edge_subset + 1)
 
-    def add_article_node(self, idx, article: Publication, subset: int, article_from=None):
+    def add_article_node(self, idx, article: Publication, subset: int, article_from=None, lock=None):
+        if lock is not None:
+            lock.acquire()
         self.add_node(idx,
                       title=article['bib']['title'],
                       authors=article['bib']['author'],
@@ -225,6 +245,8 @@ class ArticleGraph(nx.Graph):
                       subset=subset)
         if article_from is not None:
             self.add_edge(idx, article_from)
+        if lock is not None:
+            lock.release()
 
     def get_publication_from_idx(self, idx) -> PublicationWithID:
         return PublicationWithID(pk=idx)
