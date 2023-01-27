@@ -1,0 +1,139 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.06183v1,Internal multi-portfolio rebalancing processes: Linking resource allocation models and biproportional matrix techniques to portfolio management,"Given
+these results, we recommend that the market-invariant process be used for such internal
+rebalancing processes instead of the linear or banker process. We have left open the
+question of how cash ﬂows between portfolios, between asset classes, and into or out of
+the fund will aﬀect rebalancing processes, which we leave for future work. 7 Acknowledgements
+
+The author would like to acknowledge Adjunct Professor Langford White and Adjunct
+Professor Nicholas Buchdahl from the University of Adelaide for their advice and com-
+ments. ",q-fin.PM,A,-0.2282135,0.14131707,0.0055845776
+http://arxiv.org/pdf/2201.10846v1,Fat Tails and Optimal Liability Driven Portfolios,"The only dependence on k comes in, at the leading two orders in the
+asymptotics, through the rescaling of the return-seeking term by a constant depending on k,
+which can be absorbed into rescaling the risk appetite at the level of a single component. We
+therefore omit further analysis of (2) in this paper. The goal of this paper is to analyze return-seeking allocations (3) for k ≥ 1, and in the limit
+of k → ∞. ",q-fin.PM,A_centroid,-0.4791553,-0.46463585,-0.10295301
+http://arxiv.org/pdf/2201.10846v2,Fat Tails and Optimal Liability Driven Portfolios,"The only dependence on k comes in, at the leading two orders in the
+
+asymptotics, through the rescaling of the return-seeking term by a constant depending on k,
+
+which can be absorbed into rescaling the risk appetite at the level of a single component. We
+
+therefore omit further analysis of (2) in this paper. The goal of this paper is to analyze return-seeking allocations (3) for k ≥ 1, and in the limit
+
+of k → ∞. ",q-fin.PM,A,-0.4791553,-0.46463585,-0.10295301
+http://arxiv.org/pdf/2202.02197v1,Evaluating conditional covariance estimates via a new targeting approach and a networks-based analysis,"To conclude, we cannot state whether the modiﬁed models always prevail over the original ones, and much more
+experiments are needed. This, therefore, leaves plenty of room for further research. On the one hand, one can
+experiment with other loss functions introduced in the log-likelihood objective functions to improve the estimates. ",q-fin.PM,A,0.07206295,-0.18952675,0.08935631
+http://arxiv.org/pdf/2202.08921v1,Hierarchical Sensitivity Parity,"some of them described in M. Lopez
+de Prado [35]. For future work, we can include the suggestions in the model ﬂexibility points from the methodology section. It worth
+mentioning the application of other Neural Networks such as Recurrent, Neural Graphs. ",q-fin.PM,B_centroid,0.6605463,-0.25219667,-0.1328772
+http://arxiv.org/pdf/2202.08921v2,Portfolio Optimization based on Neural Networks Sensitivities from Assets Dynamics respect Common Drivers,"some of them are described in M. Lopez de Prado        MSCI WORLD/HLTH CARE    ISHARES MSCI
+[40]. MSCI WORLD/CON STPL
+                                                                                           USA QUALITY
+   For future work, we can include some of the suggestions in
+the model ﬂexibility points from the methodology section. It                               FAC
+is worth mentioning the application of other Neural Networks
+such as Recurrent, Neural Graphs. ",q-fin.PM,B,0.6695436,-0.18624151,-0.23647642
+http://arxiv.org/pdf/2202.08921v3,Portfolio Optimization based on Neural Networks Sensitivities from Assets Dynamics respect Common Drivers,"We can conclude that systematic
+and maximum idiosyncratic diversiﬁcation can also be reached, with the use of public and listed
+variables as common drivers and not just by common statistical factors allowing for extra sources
+of diversiﬁcation such as directionality of returns from risk and return dynamics. For future work, we can mention the application of other neural network models such as re-
+current neural networks, or the use of neural graphs. We can also apply other distance metrics
+for the sensitivity matrix by exploring other geometries or statistical manifolds. ",q-fin.PM,B,0.189376,-0.22930647,-0.17269501
+http://arxiv.org/pdf/2202.10265v1,Yields: The Galapagos Syndrome Of Cryptofinance,"The majority of these are less than ﬁve years old, and several have only recently gained prominence,
+with their TLVs reaching billions within months. Due to their complexity and the market’s byzantine structure, each
+of them provides ample opportunity for additional research. We presented novel data from DEXs, CEXs, and the
+Ethereum 2.0 staking protocol. ",q-fin.PM,C,-0.06215149,0.44355124,0.51929873
+http://arxiv.org/pdf/2203.11318v1,Deep Reinforcement Learning and Convex Mean-Variance Optimisation for Portfolio Management,"MPO to that of RL methods (FRONTIER) in risk-return space. One of the main reasons for doing so was the capacity of RL            In future work, the methods of this study can be repeated
+models to optimise their expected rewards over more extended        on different markets with similar overall price trends to see if
+periods compared to the relative short-sighted optimisations        our results hold for all markets with these characteristics. Our
+of SPO and MPO. ",q-fin.PM,A,-0.20269085,-0.10402093,-0.2034648
+http://arxiv.org/pdf/2204.13398v1,Portfolio Diversification Revisited,"The interested reader is also referred to [56], who extend these results using a HJM framework,
+and [19], who apply these results to commodity futures markets. Extending these results could be a fruitful
+direction for future work. 6. ",q-fin.PM,C,0.03203519,0.30681458,0.16570798
+http://arxiv.org/pdf/2205.14699v2,Managing Risk in DeFi Portfolios,"We developed a scoring
+MONTHLY AVERAGE RISK OF PORTFOLIOS       methodology to combat this. EW         ERC                              As a future work, it would be interesting to add views to
+                                         the raw scores as well as introducing dependency between
+2021-12-31 0,0216 0,0245                 protocols established on the same blockchain. These views
+
+2022-01-31 0,0281 0,0301
+
+2022-02-28 0,0225 0,0236
+
+2022-03-31 0,0262 0,0264
+
+2022-04-30 0,0262 0,0262
+
+2022-05-22 0,0495 0,0541
+
+TABLE III
+
+MONTHLY PERF/RISK OF PORTFOLIOS
+Fig. ",q-fin.PM,C_centroid,-0.18588383,0.52581334,-0.37656283
+http://arxiv.org/pdf/2205.14699v3,Managing Risk in DeFi Portfolios,"We developed a scoring
+MONTHLY AVERAGE RISK OF PORTFOLIOS       methodology to combat this. EW         ERC                              As a future work, it would be interesting to add views to
+                                         the raw scores as well as introducing dependency between
+2021-12-31 0,0216 0,0245                 protocols established on the same blockchain. These views
+
+2022-01-31 0,0281 0,0301
+
+2022-02-28 0,0225 0,0236
+
+2022-03-31 0,0262 0,0264
+
+2022-04-30 0,0262 0,0262
+
+2022-05-22 0,0495 0,0541
+
+TABLE III
+
+MONTHLY PERF/RISK OF PORTFOLIOS
+Fig. ",q-fin.PM,C,-0.18588383,0.52581334,-0.37656283
+http://arxiv.org/pdf/2206.01064v1,Adaptive Robust Online Portfolio Selection,"Numerical experiments reveal that this adaptive scheme approach is
+promising, and demonstrate the competitive edge that our strategy has over other OLPS strategies. Nevertheless, there remain several areas for exploration in future work. First, a distributionally
+robust OLPS strategy that hedges against the worst-case distribution should be considered, as
+it would be interesting and useful to determine if the application of distributional robustness can
+improve portfolio performance. ",q-fin.PM,A,-0.24881618,0.017729249,0.059820455
+http://arxiv.org/pdf/2206.03246v1,Portfolio Transformer for Attention-Based Asset Allocation,"Due to its full encoder-decoder conﬁguration and its attention mechanism
+the Portfolio Transformer is able to learn long-term dependencies and as a re-
+sult can react more quickly to changing market regimes, as demonstrated by its
+response to the COVID-19 crisis. Turning to future work, one extension of the
+current model could study the Portfolio Transformer’s performance under an
+attention mechanism diﬀerent from the scaled dot-product attention currently
+used. In addition, while it is popular with industry practitioners, the Sharpe
+ratio is only one of many possible objective functions that could be optimized,
+and subsequent work will consider alternative metrics and their eﬀect on the
+overall portfolio performance. ",q-fin.PM,C,-0.09303024,0.14357162,-0.11947313
+http://arxiv.org/pdf/2206.05835v1,Deep Reinforcement Learning for Optimal Investment and Saving Strategy Selection in Heterogeneous Profiles: Intelligent Agents working towards retirement,"Utilising a more comprehensive
+graph encompassing real geographical neighbourhoods, peer network, or employment network,
+as well as synthethic networks with well-known structures such as small world will provide more
+extensive capabilities to model the world. The thirds dimension of future work is introducing
+more actors in the multi-agent model including companies as employers and business-to-business
+relationships, which will provide a model less leaning on statistical calibration via real-world
+data, and capture second-order eﬀects and endogenous properties. Another pivotal agent that
+can increase the impact and self-consistency of the simulated environment is the government
+acting as a tax regulator. ",q-fin.PM,B,0.36193955,-0.0279296,-0.007951863
+http://arxiv.org/pdf/2206.12282v1,A comparative study of the MACD-base trading strategies: evidence from the US stock market,"Or is
+the result of misusing parameters? For further study, identifying the optimized parameter for
+the MACD applied to stocks listed on US stocks market indices becomes critical. Figure 1: The scatter plots for the MACDhist strategy. ",q-fin.PM,C,-0.06205929,0.13004313,0.22751966
+http://arxiv.org/pdf/2206.12511v1,Cost-efficiency in Incomplete Markets,"Besides revisiting the general market set and facts about convex order
+and convex hulls, we discuss preference functionals in detail. In particular, we introduce the notion
+of a diversiﬁcation-loving preference functional that is key for the further analysis and discuss its
+relation to other, well-known properties of functionals. The standing assumptions for the rest of
+the paper are spelled out at the end. ",q-fin.PM,A,-0.23937032,-0.29128444,0.27846205
+http://arxiv.org/pdf/2207.02134v1,"Balancing Profit, Risk, and Sustainability for Portfolio Management","These financial advisors will recommend, in an
+explainable way, an optimum allocation of funds given a                         [16] R. S. Sutton and A. G. Barto, Reinforcement Learning: An
+personal budget and a portfolio of financial products and                             Introduction, Cambridge, MA: MIT Press, 2018.
+services. We therefore intend to address the explainability of
+our system in future work by characterizing, explaining, and                    [17] R. E. Bellman, Dynamic Programming, Princeton: Princeton
+predicting an agent’s policy based on the history of past trades. University Press, 1957. ",q-fin.PM,A,-0.047930487,-0.1343889,-0.18931992
+http://arxiv.org/pdf/2208.07158v1,Asset Allocation: From Markowitz to Deep Reinforcement Learning,"We
+would also expect that solutions, trained on synthetic data as a proxy, could help learning better features
+to lead to more reliable and stable results. Finally, future work that includes ethics and social aspects,
+like sustainability, needs to be developed. While it is true that some assets are already following certain
+ethical codes, to the best of our knowledge, there is no DRL-based approach that incorporates such
+behaviour into its internal running. ",q-fin.PM,B,0.41822588,0.2443133,0.0791267
+http://arxiv.org/pdf/2208.14152v1,Constrained portfolios in incomplete markets: a dynamic programming approach to Heston's model,"Section 3 reports details
+on numerical implementation and results. Conclusions and an outlook for further research are presented in
+Section 4. Appendix A provides a sketch of the proof of the main theorem and its corollary. ",q-fin.PM,B,0.11061081,-0.13479966,0.5964136

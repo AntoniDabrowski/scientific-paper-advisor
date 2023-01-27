@@ -1,0 +1,930 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00483v2,First operation of undoped CsI directly coupled with SiPMs at 77 Kelvin,"C 79(4), 363 (2019)
+tain, also reduce heating inside the cryostat, and will be tried   7. G. Angloher, P. Carniti, L. Cassina, L. Gironi, C. Gotti,
+out in our future work. A. Gu¨tlein, M. Maino, M. Mancuso, L. Pagnanini,
+10 Conclusion                                                          G. Pessina, F. Petricca, S. Pirro, F. Pro¨bst, R. Puig,
+                                                                       F. Reindl, K. Scha¨ffner, J. Schieck, W. Seidel, J. In-
+The light yield of an undoped CsI crystal coupled to two               strum. ",physics.ins-det,A,0.02668319,-0.32678586,-0.2430709
+http://arxiv.org/pdf/2201.00699v4,Radon Emanation from Dust of Varying Composition and Size,"The range of observed radon
+
+                                                  emanation fractions is (3.7 ± 2.0)% to (16.2 ± 0.9)%. Four of the ﬁve samples are standardized
+
+                                                  samples available commercially, so additional investigations of these samples may be readily carried
+
+                                                  out. K     : Radon Emanation, HPGe, Ultra-low Background Experiments
+
+                                                  A X P : 2201.00699
+
+                                                     Corresponding author. ",physics.ins-det,C,-0.16619897,-0.1834486,-0.04538123
+http://arxiv.org/pdf/2201.00699v5,Radon Emanation from Dust of Varying Composition and Size,"The range of observed radon
+
+                                                 emanation fractions is (3.7 ± 2.0)% to (16.2 ± 0.9)%. Four of the ﬁve samples are standardized
+
+                                                 samples available commercially, so additional investigations of these samples may be readily carried
+
+                                                 out. K     : Radon Emanation, HPGe, Ultra-low Background Experiments
+
+                                                 A X P : 2201.00699
+
+                                                    Corresponding author. ",physics.ins-det,C,-0.16619897,-0.1834486,-0.04538123
+http://arxiv.org/pdf/2201.02961v1,Identification of the anomalous fast bulk events in a p-type point contact germanium detector,"Below 1 keVee, it is a challenge to extract FBE on the con-
+   FBEs with extremely fast rise time have been observed in              ditions of SE penetration and low background statistics, and
+several CDEX experiments. An extensive work was carried                  further research on preampliﬁer noise reduction, data analy-
+out to better understand the wave formation, characteristics             sis method, as well as the optimization of the parameters ex-
+and location distribution of FBE by means of a semiconductor             tracting FBEs is under way. In the high energy region, better
+electric ﬁeld and pulse shape simulation compared with the               spatial resolution is expected due to the relatively small inﬂu-
+source calibration experiment. ",physics.ins-det,A,0.11927527,-0.16824514,0.20053524
+http://arxiv.org/pdf/2201.02961v2,Identification of the anomalous fast bulk events in a p-type point contact germanium detector,"main background sources in dark matter experiments. Below
+1 keVee, extraction of FBEs is challenging under the condi-               The simulations and measurements presented here improve
+tions of SE penetration and low background statistics, and             our understanding of the anomalous bulk effect in pPCGe de-
+further research on preampliﬁer noise reduction, data analy-           tectors. They serve as a basis for better identiﬁcation of FBEs
+sis methods, and the optimization of the parameters for ex-            as background in rare-event searches with germanium detec-
+tracting FBEs is underway. ",physics.ins-det,B,-0.014804861,0.119376525,-0.0029165857
+http://arxiv.org/pdf/2201.05638v1,Real-time Inference with 2D Convolutional Neural Networks on Field Programmable Gate Arrays for High-rate Particle Imaging Detectors,"The resulting optimized and quantized CNN (Q-
+CNN02-DS-OP) has been shown to ﬁt within available DUNE FD upstream DAQ readout FPGA
+resources, and to be executable with suﬃciently low latency such that the need for signiﬁcant
+buﬀering resources in the DUNE FD upstream DAQ system can also be relaxed. We note, however,
+that the pre-processing resource requirements and latency have not been explicitly evaluated, and
+this will be the subject of future work, as they need to be considered in tandem with the proposed
+CNN algorithm. The ﬁndings further motivate future LArTPC readout designs that preserve the physical map-
+ping of readout channels to a contiguous interaction volume as much as possible, in order to
+minimize pre-processing needs, and preserve spatial correlations that exist within 2D projected
+views of the interaction volume. ",physics.ins-det,B,0.37644953,0.12889285,0.092218496
+http://arxiv.org/pdf/2201.05644v1,New high-tech flexible networks for the monitoring of deep-sea ecosystems,"Similarly, Gerhard & Gunsch
+
+                                                                                                                 18
+(2019) used a random forest based approach for selecting the relevant
+biomarkers for classification of ocean, harbor and ballast water samples. LeCun,
+(2015) used a deep recurrent neural network (approach for a base calling
+application on portable sequencing machines (Merelli at al., 2018), where
+meaningful results were sent to a cloud service through an Internet of Things
+framework for further analysis (Čolaković & Hadžialić, 2018). Along with molecular based monitoring tools, other chemical sensing
+applications may complement DNA probing (Ishida et al., 2012) and sequencing. ",physics.ins-det,B,0.2599246,0.11369674,0.1668062
+http://arxiv.org/pdf/2201.06288v1,Development of a resource-efficient FPGA-based neural network regression model for the ATLAS muon trigger upgrades,"Verifying these results with a
+more accurate detector simulation model and developing new          [10] Juliette Alimena, Yutaro Iiyama, and Jan Kieseler. FPGA trigger algorithms for new particle searches will be                  “Fast convolutional neural networks for identifying
+the subject of our future work. long-lived particles in a high-granularity calorimeter”. ",physics.ins-det,B,0.21468134,0.35741654,-0.12642407
+http://arxiv.org/pdf/2201.08384v1,"OpenMetBuoy-V2021: an easy-to-build, affordable, customizable, open source instrument for oceanographic measurements of drift and waves in sea ice and the open ocean","Our small buoy, by contrast, has a typical size of
+10 cm, which implies that even a ""bad"" hydrodynamic response, leading to a displacement response in waves of several
+tens of percents of the buoys size, is still only a few centimeters in amplitude, well below typical stochastic noise and
+uncertainty of stochastic wave measurements in the open ocean. 4 Conclusion and future work
+
+This work introduces a new design of waves in ice instrument. This instrument is able to perform measurements of
+sea ice drift using a GNSS module, and to measure waves in ice up to a high degree of accuracy (the noise threshold
+corresponds to a signiﬁcant wave height of around 0.1 cm for waves with period 16 s, as demonstrated in the laboratory
+experiments), using an inexpensive 9-degree-of-freedom sensor and extensive signal processing and noise reduction
+techniques. ",physics.ins-det,A,0.1800483,-0.20293494,0.19792598
+http://arxiv.org/pdf/2201.09275v1,Dialing back time on Timepix3: A study on the timing performance of Timepix3,"The clusters on the DUT are excluded from the ﬁtting of the track to not bias
+the position of the track. After all tracks are processed, the desired data is written
+to a ROOT ﬁle for further analysis by the user. This data includes values such as
+the global position of the tracks, the clusters and their timestamp associated to the
+track, the intersection point of the track with the DUT, and the associated triggers
+5.3. ",physics.ins-det,B,0.16008933,0.15595451,0.37471622
+http://arxiv.org/pdf/2201.09279v1,Improving Time and Position Resolution of RPC detectors using Time Over Threshold Information,"In the plot, an addition of 15 ns is added to have
+all average points in +ve side for the visualisation. The mean shifts from each bin can be used for
+correction in further analysis. The time residual plot obtained without and with the above mentioned correction shows a large
+deviation from gaussian at a leading time as shown in ﬁgure 6 . ",physics.ins-det,B,-0.08054773,-0.08375604,0.37279046
+http://arxiv.org/pdf/2201.09773v1,Investigations on a Fuzzy Process: Effect of Diffusion on Calibration and Particle Identification in Liquid Argon Time Projection Chambers,"We do ﬁnd, however, that diﬀusion may be a signiﬁcant source
+of systematic uncertainty for separating muons from pions and kaons from protons. In this case,
+there is some indication from this study that a drift-time dependent PID could be used to improve
+the separation of these populations, though further study with a full Monte-Carlo simulation and
+data is needed. The third take away is that one must be careful when simulating diﬀusion, especially with
+respect to grouping ionization electrons into packets. ",physics.ins-det,B,-0.28125107,0.27915066,0.057849295
+http://arxiv.org/pdf/2201.09773v2,Investigations on a Fuzzy Process: Effect of Diffusion on Calibration and Particle Identification in Liquid Argon Time Projection Chambers,"We do ﬁnd, however, that diﬀusion may be a signiﬁcant source
+of systematic uncertainty for separating muons from pions and kaons from protons. In this case,
+there is some indication from this study that a drift-time dependent PID could be used to improve
+the separation of these populations, though further study with a full Monte-Carlo simulation and
+data is needed. The third take away is that one must be careful when simulating diﬀusion, especially with
+respect to grouping ionization electrons into packets. ",physics.ins-det,B,-0.28125107,0.27915066,0.057849295
+http://arxiv.org/pdf/2201.09773v3,Investigations on a Fuzzy Process: Effect of Diffusion on Calibration and Particle Identification in Liquid Argon Time Projection Chambers,"We do ﬁnd, however, that diﬀusion may be a signiﬁcant source
+of systematic uncertainty for separating muons from pions and kaons from protons. In this case,
+there is some indication from this study that a drift-time dependent PID could be used to improve
+the separation of these populations, though further study with a full Monte-Carlo simulation and
+data is needed. – 11 –
+     The third take away is that one must be careful when simulating diﬀusion, especially with
+respect to grouping ionization electrons into packets. ",physics.ins-det,B,-0.29401982,0.2811649,0.057822198
+http://arxiv.org/pdf/2201.12621v1,Simultaneous scintillation light and charge readout of a pure argon filled Spherical Proportional Counter,"12. . For further analysis, this photon-induced
+
+                                               12
+Figure 12: Waveform, after signal processing (deconvolution), showing the bump due to
+the secondary electrons. The bump is modelled as a Gaussian function (red curve) over
+an exponential function (green curve) corresponding to the tail of the primary ionization
+peak. ",physics.ins-det,B,-0.29277295,-0.07644583,0.085394986
+http://arxiv.org/pdf/2201.12930v1,A Design Study of a Compact Small-Angle Neutron Scattering Instrument,"Scattering Simulations using McStas
+
+    We generate our results using a McStas simulation of the compact instrument consisting of the four key
+components shown in Figure 7, and discussed in chapter 4 in detail:
+
+    - a moderator 100⁡mm wide and 100⁡mm high representing the neutron source in the simulations. To optimize simulation time the output of this components was focused onto a rectangular area
+         110⁡cm wide and 200⁡mm high 2⁡m downstream, a more divergent output shows no significant
+         effect on the neutron intensity at the area we use in the further analysis. - a 1m long collimator 100⁡mm high and converging from 100⁡mm to 50⁡mm with ten collimation
+         channels for a 1-dimensional horizontal collimation. ",physics.ins-det,B,0.09056025,0.06755021,-0.18782051
+http://arxiv.org/pdf/2201.13286v1,Approximate method for helical particle trajectory reconstruction in high energy physics experiments,"Comparing the plots from the top row to the
+plots at the bottom row it can be seen that the ∆Z resolution has a signiﬁcant
+inﬂuence on the peak size. This encourages further study using more realistic
+Monte Carlo simulations. 6 Summary and outlook
+
+The classiﬁcation algorithm suggested in this paper is designed to detect helical
+particle tracks from charged particles inside a detector submerged in a uniform
+magnetic ﬁeld. ",physics.ins-det,B,0.16264999,0.1815302,-0.05698625
+http://arxiv.org/pdf/2201.13286v2,Approximate method for helical particle trajectory reconstruction in high energy physics experiments,"Comparing the plots from the top row to the
+plots at the bottom row it can be seen that the ∆Z resolution has a signiﬁcant
+inﬂuence on the peak size. This encourages further study using more realistic
+Monte Carlo simulations. 6 Summary and outlook
+
+The classiﬁcation algorithm suggested in this paper is designed to detect helical
+particle tracks from charged particles inside a detector submerged in a uniform
+magnetic ﬁeld. ",physics.ins-det,B,0.16264999,0.1815302,-0.05698625
+http://arxiv.org/pdf/2202.00319v1,Integration of maXs-type microcalorimeter detectors for high-resolution x-ray spectroscopy into the experimental environment at the CRYRING@ESR electron cooler,"This is in particular crucial for         magnetization of the sensors connected to the speciﬁc
+(comparably) large-area absorbers, such as the one of          readout channel. Finally, the output signal of the
+the maXs-100 with 1.56 mm2, as previous tests with             SQUID electronics is digitized for further analysis, see
+maXs-type detectors showed signal shapes which de-             3.2 for details. pended on the exact position of the x-ray absorption
+due to the ﬁnite thermal conductance inside the ab-                  Even though the baseline level is stabilized, the
+sorbers [38]. ",physics.ins-det,A,0.033145383,-0.25021365,-0.08225753
+http://arxiv.org/pdf/2202.01977v1,Isotope Ratio Dual-Comb Spectrometer,"In addition, we will show that the frequency tunability of our
+                                                 setup can be used to target other chemical species for IRMs, and especially nitrous oxide for nitrogen isotopes studies. Finally, we will discuss our results and potential enhancements that could be done in future works to improve the use
+                                                 of the DCS technique for IRMs with a higher accuracy and a lower uncertainty. 1
+2 Mid-infrared electro-optic dual-comb setup
+
+Spectroscopic applications can be performed using several techniques, but DCS has been shown to be highly suitable
+for high resolution spectral measurements and short time acquisitions. ",physics.ins-det,A,0.06445988,-0.25880617,-0.17447886
+http://arxiv.org/pdf/2202.03064v1,Flexible scenario for heavy element research,"These were fusion-evaporation reactions using actinide targets and 48Ca
+heavy ion beams accelerated at the U-400 accelerator.The intensity of these beams was
+about1pµA. For further research, a new accelerator DC-280 with an intensity of heavy ion beams up
+to 10 pµA was put into operation. When leaving the accelerator, heavy ion beams bombard a
+rotating target, as a result of which the reaction itself occurs.The first experimental setup of this
+Superheavy element factory is DGFRS-II, which is necessary for separating superheavy nuclei
+from heavy ion beams and other background particles formed as a result of the reaction [2]. ",physics.ins-det,B,0.065511554,0.24055508,-0.4725032
+http://arxiv.org/pdf/2202.03064v2,Flexible scenario for heavy element research,"These were fusion-evaporation reactions using actinide targets and 48Ca
+heavy ion beams accelerated at the U-400 accelerator.The intensity of these beams was
+about1pµA. For further research, a new accelerator DC-280 with an intensity of heavy ion beams up
+to 10 pµA was put into operation. When leaving the accelerator, heavy ion beams bombard a
+rotating target, as a result of which the reaction itself occurs.The first experimental setup of this
+Superheavy element factory is DGFRS-II, which is necessary for separating superheavy nuclei
+from heavy ion beams and other background particles formed as a result of the reaction [2]. ",physics.ins-det,B,0.065511554,0.24055508,-0.4725032
+http://arxiv.org/pdf/2202.03194v1,Muon Track Reconstruction in a Segmented Bolometric Array Using Multi-Objective Optimization,"By adjusting the 𝑑𝐸/𝑑𝑥 PDF within the 𝑓3 objective searches for such BSM-particles can
+be conducted, with the likelihood ratio 𝑓3BSM/ 𝑓3muon being a suitable test statistic for discriminating
+BSM candidates from background muons. We leave sensitivity predictions for such searches for
+future work. While this algorithm was developed with the CUORE detector and geometry in mind, it is
+important to note that it is easily transferred to other segmented detector arrays. ",physics.ins-det,B,0.07368629,0.232768,-0.025528017
+http://arxiv.org/pdf/2202.03924v1,Constraints on the electron-hole pair creation energy and Fano factor below 150 eV from Compton scattering in a Skipper-CCD,"A detailed study
+lar, the two steps matching the L-shells at energies of          to understand the nature of this discrepancy is planned
+99.3 eV and 150 eV were distinguished. We provided               for future work. A plausible hypothesis of this discrep-
+a phenomenological model that describes the resulting            ancy is the high rate of single-electron events that con-
+spectrum using a convolution of a Heaviside step func-           tributes to the measured cluster energy. ",physics.ins-det,B,-0.38838094,0.20164184,0.0052468926
+http://arxiv.org/pdf/2202.03924v2,Constraints on the electron-hole pair creation energy and Fano factor below 150 eV from Compton scattering in a Skipper-CCD,"ing to the second and third L-shells (99.3 eV) is not con-
+                                                                 sistent with the simple theoretical expectation that only
+             V. SUMMARY AND OUTLOOK                              considers the change in the number of available electronic
+                                                                 targets on which photons may scatter. A detailed study
+   In this work, we presented a measurement of the               to understand the nature of this discrepancy is planned
+Compton spectrum for 59.54 keV γ-rays interacting in             for future work. A plausible hypothesis of this discrep-
+silicon using a science-grade Skipper-CCD operated at            ancy is the high rate of single-electron events that con-
+130 K. The low-energy spectral steps corresponding to            tributes to the measured cluster energy. ",physics.ins-det,B,-0.26781482,0.032447465,-0.1948178
+http://arxiv.org/pdf/2202.03924v3,Constraints on the electron-hole pair creation energy and Fano factor below 150 eV from Compton scattering in a Skipper-CCD,"We provided a phenomenolog-
+                                                                                     ical model that describes the resulting spectrum using a
+                                                                                     convolution of a Heaviside step function with a Gaussian
+distribution, which allowed us to study the impact of the                                                                                 7
+detector’s energy resolution on the shape of the Compton
+steps. Results after ﬁtting this model to the measured           for future work. A plausible hypothesis of this discrep-
+spectrum are presented in Table II, in tandem with ref-          ancy is the high rate of single-electron events that con-
+erence values from theoretical expectations and previous         tributes to the measured cluster energy. ",physics.ins-det,B_centroid,-0.23495755,0.11941171,-0.08691725
+http://arxiv.org/pdf/2202.04160v1,Direct detection of charged particles with SiPMs,"Measured crosstalk fraction versus overvoltage for beam test data (MIP, full lines) and standard
+evaluation via DCR (dotted lines). The above result suggested to investigate also the crosstalk probability between SPADs and a
+further analysis was performed with beam test data measuring the number of MIP events with 1, 2,
+
+                                                        –7–
+... n ﬁred SPADs. Usually, such distribution is used to study the intrinsic crosstalk of the SiPM,
+deﬁned starting from the DCR signals as:
+
+                                                  DCR with ≥ 2 pixels ﬁring
+                                   Crosstalk = DCR with ≥ 1 pixels ﬁring (3.1)
+
+     Notice that usually such crosstalk is related to nearby ﬁred SPADs with almost super-imposed
+signals, while the probability of two random SPADs ﬁring within the same time interval is negligible. ",physics.ins-det,B,0.09843909,-0.04621523,0.21486971
+http://arxiv.org/pdf/2202.04160v2,Direct detection of charged particles with SiPMs,"Measured crosstalk fraction versus overvoltage for beam test data (MIP, full lines) and standard
+evaluation via DCR (dotted lines). The above result suggested to investigate also the crosstalk probability between SPADs and a
+further analysis was performed with beam test data measuring the number of MIP events with 1, 2,
+... n ﬁred SPADs. Usually, such distribution is used to study the intrinsic crosstalk of the SiPM,
+deﬁned starting from the DCR signals as:
+
+                                                  DCR with ≥ 2 pixels ﬁring
+                                   Crosstalk = DCR with ≥ 1 pixels ﬁring (3.1)
+     Notice that usually such crosstalk is related to nearby ﬁred SPADs with almost super-imposed
+signals, while the probability of two random SPADs ﬁring within the same time interval is negligible. ",physics.ins-det,B,0.10091518,-0.04051714,0.21784006
+http://arxiv.org/pdf/2202.06929v1,Accelerating the Inference of the Exa.TrkX Pipeline,"This allows the integration of the pipeline with other
+tracking frameworks such as ACTS. In future work, one goal is to optimize the performance of the ONNX Runtime, by using half-
+precision ONNX models in the C++ inference pipeline. Choosing TensorRT as the provider for
+the ONNX Runtime requires special compilation of the ONNX Runtime but may provide further
+speedups. ",physics.ins-det,B,0.24744982,0.18655775,0.07697721
+http://arxiv.org/pdf/2202.07406v1,Impact of the X ray edge singularity on detection of relic neutrinos in the PTOLEMY project,"We ﬁnally remark              Mathematica code. that although we have considered some important solid state       [10] L. I. Bodine, D. S. Parno, and R. G. H. Robertson, Assessment
+effects that can affect the spectral density function, other            of molecular effects on neutrino mass measurements from tri-
+effects require further study. Those include phonon emission,           tium β decay, Physical Review C 91, 035505 (2015). ",physics.ins-det,B,-0.25889325,0.038207814,-0.12763274
+http://arxiv.org/pdf/2202.07625v1,Pulse-shape discrimination in water-based scintillators,"This approach allows one to formulate and favour
+oil-in-water emulsions over water-in-oil emulsions or vice versa, depending on the
+application requirements. With these principles established for WbLS, future work
+should focus on materials development to further understand scintillation properties and
+particle discrimination. Formulations could also be formed using a predictive approach
+like net average curvature[17]. ",physics.ins-det,C,0.047394697,-0.031336747,0.11279154
+http://arxiv.org/pdf/2202.07758v1,Achieving Reliable and Repeatable Electrochemical Impedance Spectroscopy of Rechargeable Batteries at Extra-Low Frequencies,"bz3p66 outputs two time domain ﬁles, one that includes the
+abandoned ELF measurements because it is not possible to                                                                            triphasic pulse (‘.ptvi’) and one with the pulse removed. The
+make a reliable measurement of battery impedance below                                                                              latter is the .tvi ﬁle that is used for further analysis. 1 mHz without running for periods well in excess of 1000 sec-
+onds. ",physics.ins-det,A,-0.035564993,-0.24588719,0.102864265
+http://arxiv.org/pdf/2202.07899v1,"Nested mirror optics for neutron extraction, transport, and focusing","The second eﬀect concerns those neutrons that
+are initially reﬂected close to the front end of one                    In addition, the complementary properties
+mirror, and then reﬂected again near the back                        of elliptic and parabolic NMO provide a ver-
+end of the adjacent inner mirror. In future work                     satile framework from which a wide variety of
+beyond the current prototype, such eﬀects may be                     application-speciﬁc beam lines may be conceived. avoided using custom single-side coated mirrors. ",physics.ins-det,B,-0.06991988,-0.1317316,-0.13759415
+http://arxiv.org/pdf/2202.10111v1,"Optical, luminescence, and scintillation properties of advanced ZnWO$_4$ crystal scintillators","Surprisingly the double crystallization leads to
+deterioration of the optical, luminescent and scintillation properties of the material, despite lower
+level of phosphorescence and thermally stimulated luminescence that is evidence of a lower defects’
+concentration. It can be explained by the increase of competing centres of nonradiative
+recombination concentration (further study of the material luminescence mechanisms is a subject of
+another report [45]). No clear correlation was observed between the scintillation light output and
+luminescence intensity of the samples that can be explained by phosphorescence and dose
+
+                                                                                                                                   11
+dependence of XRL intensity that are both negligible in scintillation measurements. ",physics.ins-det,A,-0.16478953,-0.41042554,-0.20248081
+http://arxiv.org/pdf/2202.10274v2,Compact Michelson interferometers with subpicometer sensitivity,"over the range of a full fringe and a simple fringe-counting
+algorithm was implemented to extend the range over multiple         A more detailed study on the impact of drifts in the parame-
+fringes. Our ﬁxed mirror measurement showed an improved          ters of the elliptical ﬁt will be left for future work. Our simpli-
+level of sensitivity over existing shadow sensors. ",physics.ins-det,A,0.14241688,-0.26626462,0.12917963
+http://arxiv.org/pdf/2202.10385v1,Calibration of BAS-TR image plate response to GeV gold ions,"be almost zero (∼10−13 PSL0/MeV), although the er-                These two eﬀects could lead to a “steeper” rise compared
+ror in this calculation (one standard deviation) was sig-         to what is predicted, which is what is observed experi-
+niﬁcantly larger, ∼1, and it was observed that using              mentally. The interaction of extremely heavy, high LET
+any value within this range made no discernible diﬀer-            particles (such as gold) with matter is a complex topic
+that requires further study, and is beyond the scope of                                                                                                        5
+this paper. prospectives heavy ion acceleration in future multi-PW
+2.00    logistic function                                                             laser systems will see generation of Au beams of several
+        Au(48 ± 3) +                                                                  GeV8,9. ",physics.ins-det,B,-0.13180774,0.11367715,-0.29053152
+http://arxiv.org/pdf/2202.11004v1,A novel active veto prototype detector with an inner target for improved rare event searches,"This will also improve the S/N ratio pro-        scattering events and rare signals like CEνNS or dark matter in-
+viding scope to explore lower energy regions (in eV scale) in          teractions are basically single scatter (SS) events. Events with
+future work. energy deposition above the threshold in the inner detector and
+                                                                       energy deposition consistent with noise in the other detectors
+                                                                       are considered as single scatter events (SS) in the analysis. ",physics.ins-det,B,-0.0551498,0.14917582,-0.09860737
+http://arxiv.org/pdf/2202.12392v1,Radiopurity studies of a rock sample from the Aut region,"This also
+results in signiﬁcantly enhanced background at lower energies, < 1500 keV, for the BWH0 as compared to the AUT0. Although many gamma rays from 232Th and 238U decay chains are visible, only a few dominant ones which could be
+unambiguously assigned to a particular nuclide, were used for further analysis. To extract the peak area, the photopeaks
+of interest were ﬁtted with a gaussian + background (second order polynomial). ",physics.ins-det,B,-0.27185303,-0.067564085,-0.1478934
+http://arxiv.org/pdf/2202.12392v2,Radiopurity studies of a rock sample from the Aut region,": Preprint submitted to Elsevier                                Page v of xii
+                                                          Radiopurity studies in Aut rock
+
+line at 242.6 keV has contribution from 214Pb in 238U decay chain (242.0 keV) and 224Ra in 232Th decay chain
+(241.9 keV), similarly for 351.9 keV (214Pb, 211Bi), 185.9 keV (226Ra, 235U) etc. Hence, only those gamma rays which
+could be unambiguously assigned to a particular nuclide were considered in further analysis. Further, a subset was
+selected from coincident summing corrections as explained earlier. ",physics.ins-det,B,-0.27004647,0.048287965,-0.17104885
+http://arxiv.org/pdf/2202.12809v3,Design development and implementation of an irradiation station at the neutron time-of-flight facility at CERN,"ported are intended to be general estimations only. Ded-
+icated simulations taking into account the speciﬁc com-                               C. Container opening
+position and irradiation position of each sample will be
+performed and the results will be detailed in future works,       After irradiation, samples were examined under a fume
+along with the post-irradiation analyses. hood. ",physics.ins-det,C,0.2329154,-0.06809798,-0.013690531
+http://arxiv.org/pdf/2202.13108v1,Improving position resolution of neutron detectors with ultra-thin B4C foils,"Our results take into account only the contribution of the range of the secondary particles to
+the spatial resolution. Although it is considered to be the main contributor to position resolution
+[15], it is important to include other contributions in future work, such as those caused by
+charge transfer and collection processes in the gaseous detector, in order to reach a more
+accurate spatial resolution. The geometry of the gaseous detector, namely the depth of the drift
+region, also impacts significantly the position resolution [21]. ",physics.ins-det,B,0.20449539,0.22163552,-0.12718219
+http://arxiv.org/pdf/2202.13989v1,Measurement of high-pressure xenon gas absorption in acrylic,"3 the systematics discussed above, with the instrumental
+accuracy also shown for reference. With the systematics added, the amount of absorbed
+xenon estimated by the pressure drop is 0.98+−00..0145 g
+
+2.5 Absorption Dependance on the Sample Geometry
+
+To further study the absorption dependence on the sample geometry, another stack of
+acrylic sample plates (denoted by stack B) with diﬀerent weight, thickness, and surface
+area were also measured following the same procedure of the main run stack (denoted by
+stack A). This comparison run lasted for 19 days. ",physics.ins-det,C,0.046423923,-0.09541893,-0.05367615
+http://arxiv.org/pdf/2203.00740v1,Low-Energy Physics in Neutrino LArTPCs,"For this reason, deployment of a large-volume LArTPC
+at a fast neutron test beam, similar to miniCAPTAIN at the LANSCE facil-
+ity [114], would be particularly valuable. While further analysis of existing min-
+iCAPTAIN data may o↵er some value, deployment of a new high performance
+LArTPC designed and operated with blip detection in mind o↵ers substantially
+more promise. 28
+4.2.2 Transport of High-Energy Hadrons
+Looking again at the highest pictured energies of Figure 9, one can see inelastic
+processes generating free baryons beginning to contribute substantially the total
+neutron interaction cross-section. ",physics.ins-det,B,0.029078789,0.20646736,-0.25257933
+http://arxiv.org/pdf/2203.01036v1,The Silicon Electron Multiplier Sensor,"For the conﬁgura-
+4. Discussion and future work                                                         tion which have been studied, d=3 µm and w1=3 µm, the gain
+                                                                                      estimation with the two methods agree to within ﬁve percent. Impact ionisation model. ",physics.ins-det,C_centroid,-0.1566217,0.07150336,0.040052265
+http://arxiv.org/pdf/2203.01870v1,KamNet: An Integrated Spatiotemporal Deep Neural Network for Rare Event Search in KamLAND-Zen,"The KamLAND-Zen ex-
+els the black-box nature of KamNet to reveal underly-          periment is supported by JSPS KAKENHI Grant Num-
+ing physics. Our future work moves in two directions. bers 21000001, 26104002, and 19H05803; the Dutch Re-
+We intend to perform a systematic interpretation study         search Council (NWO); and under the U.S. Department
+to rigorously unveil the origin of KamNet’s classiﬁcation      of Energy (DOE) Grant No. ",physics.ins-det,C,-0.45601797,0.25933194,0.098972455
+http://arxiv.org/pdf/2203.01870v2,KamNet: An Integrated Spatiotemporal Deep Neural Network for Rare Event Search in KamLAND-Zen,"The KamLAND-Zen ex-
+els the black-box nature of KamNet to reveal underly-          periment is supported by JSPS KAKENHI Grant Num-
+ing physics. Our future work moves in two directions. bers 21000001, 26104002, and 19H05803; the Dutch Re-
+We intend to perform a systematic interpretation study         search Council (NWO); and under the U.S. Department
+to rigorously unveil the origin of KamNet’s classiﬁcation      of Energy (DOE) Grant No. ",physics.ins-det,C,-0.45601797,0.25933194,0.098972455
+http://arxiv.org/pdf/2203.01870v3,KamNet: An Integrated Spatiotemporal Deep Neural Network for Rare Event Search in KamLAND-Zen,"The KamLAND-Zen ex-
+els the black-box nature of KamNet to reveal underly-          periment is supported by JSPS KAKENHI Grant Num-
+ing physics. Our future work moves in two directions. bers 21000001, 26104002, and 19H05803; the Dutch Re-
+We intend to perform a systematic interpretation study         search Council (NWO); and under the U.S. Department
+to rigorously unveil the origin of KamNet’s classiﬁcation      of Energy (DOE) Grant No. ",physics.ins-det,C,-0.45601797,0.25933194,0.098972455
+http://arxiv.org/pdf/2203.01870v4,KamNet: An Integrated Spatiotemporal Deep Neural Network for Rare Event Search in KamLAND-Zen,"The KamLAND-Zen ex-
+els the black-box nature of KamNet to reveal underly-          periment is supported by JSPS KAKENHI Grant Num-
+ing physics. Our future work moves in two directions. bers 21000001, 26104002, and 19H05803; the Dutch Re-
+We intend to perform a systematic interpretation study         search Council (NWO); and under the U.S. Department
+to rigorously unveil the origin of KamNet’s classiﬁcation      of Energy (DOE) Grant No. ",physics.ins-det,C,-0.45601797,0.25933194,0.098972455
+http://arxiv.org/pdf/2203.01870v5,KamNet: An Integrated Spatiotemporal Deep Neural Network for Rare Event Search in KamLAND-Zen,"DE-AC02-05CH11231, as
+ing physics. Our future work moves in two directions. well as other DOE and NSF grants to individual institu-
+We intend to perform a systematic interpretation study         tions. ",physics.ins-det,C,-0.13466686,0.09864591,0.16156572
+http://arxiv.org/pdf/2203.02332v1,Optimization study of the electrode design of a 5 mm thick orthogonal-strip CdZnTe detector system,"37
+Figure 20: Comparison of the energy spectra for the shared events and the single events
+for SE4 and A12
+
+7. Conclusion and future work
+
+    We studied the performance of a 5 mm thick orthogonal-strip CdZnTe
+detector with diﬀerent electrode sizes with RENA 3b ASIC as the primary
+readout electronics. The anodes were interspersed with SE strips. ",physics.ins-det,B,-0.08754505,-0.09956505,-0.127422
+http://arxiv.org/pdf/2203.02535v2,A Semi-Monolithic Detector providing intrinsic DOI-encoding and sub-200 ps CRT TOF-Capabilities for Clinical PET Applications,"Although challenging for implementation on full system
+level, this temperature can be realistically reached using liquid cooling systems, as demonstrated for a high grade of
+integration in spatial demanding PET/MRI applications.78 For higher measurement temperatures, the dark count rate of the
+detectors is expected to increase, resulting in many non-validated triggers and thus increased dead-time. To preserve the
+detector sensitivity, one would need to relax the DPC trigger scheme requiring more optical photons, which typically
+deteriorates the timing resolution.61 From experience in our lab, the detector could be operated up to room temperature,
+sacrificing most of the timing capabilities, which requires verification in future work. The fan beam collimator enables a time-efficient procedure for positioning calibration along both monolithic- and DOI-
+direction. ",physics.ins-det,A,0.46525696,-0.22473711,-0.27790964
+http://arxiv.org/pdf/2203.02535v3,A Semi-Monolithic Detector providing intrinsic DOI-encoding and sub-200 ps CRT TOF-Capabilities for Clinical PET Applications,"Although challenging for implementation on full system
+level, this temperature can be realistically reached using liquid cooling systems, as demonstrated for a high grade of
+integration in spatial demanding PET/MRI applications.78 For higher measurement temperatures, the dark count rate of the
+detectors is expected to increase, resulting in many non-validated triggers and thus increased dead-time. To preserve the
+detector sensitivity, one would need to relax the DPC trigger scheme requiring more optical photons, which typically
+deteriorates the timing resolution.61 From experience in our lab, the detector could be operated up to room temperature,
+sacrificing most of the timing capabilities, which requires verification in future work. The fan beam collimator enables a time-efficient procedure for positioning calibration along both monolithic- and DOI-
+direction. ",physics.ins-det,A,0.46525696,-0.22473711,-0.27790964
+http://arxiv.org/pdf/2203.02876v1,Displacement calibration of optical tweezers with absolute gravitational acceleration,"Then we turn off the trapping
+beam again and repeat the release and recapture cycle constantly. We record all periods of
+oscillation signal for further analysis. Fig. ",physics.ins-det,A,0.0009634895,-0.0038326802,0.09921329
+http://arxiv.org/pdf/2203.05200v1,Exploring the intrinsic energy resolution of liquid scintillator to approximately 1 MeV electrons,"The luminous efficiency of the liquid scintillator is relatively low, only approximately 3% of the
+deposited energy is converted to photons. This indicates that the energy transfer inside the liquid
+scintillator is relatively inefficient and may contribute to a relatively large statistical fluctuation,
+which requires further study. Acknowledgments
+
+      This research was supported by the National Natural Science Foundation of China (11775252). ",physics.ins-det,A,-0.119372636,-0.29172564,-0.1630239
+http://arxiv.org/pdf/2203.05620v1,"KDSource, a tool for the generation of Monte Carlo particle sources using kernel density estimation","Furthermore, if the tracks list on which the KDE model is
+ﬁtted is independent of the downstream problem, which is common in beams, the KDE source can
+be reused with diﬀerent downstream conﬁgurations, increasing the beneﬁts of the methodology. In future works the capabilities of KDSource are expected to be extended in several ways. This includes the possibility of choosing between diﬀerent kernel functions (Epanechnikov, Gaus-
+sian, triangular, Tophat, Exponential, etc. ",physics.ins-det,C,0.027708609,0.13460615,0.25925276
+http://arxiv.org/pdf/2203.05620v2,"KDSource, a tool for the generation of Monte Carlo particle sources using kernel density estimation","Furthermore, if the tracks list on which the KDE model is
+ﬁtted is independent of the downstream problem, which is common in beams, the KDE source can
+be reused with diﬀerent downstream conﬁgurations, increasing the beneﬁts of the methodology. In future works the capabilities of KDSource are expected to be extended in several ways. This includes the possibility of choosing between diﬀerent kernel functions (Epanechnikov, Gaus-
+sian, triangular, Tophat, Exponential, etc. ",physics.ins-det,C,0.027708609,0.13460615,0.25925276
+http://arxiv.org/pdf/2203.05914v1,"Recoil imaging for dark matter, neutrinos, and physics beyond the Standard Model","They are broadly consistent
+with the conclusion of a previous optimization study [339] which focused on DM-ﬂuorine recoils in
+CF4. 7.2 Performance in practice
+
+The performance requirements listed above are close to being met by current gas TPCs, although
+further study is still needed to determine the optimal conﬁguration of readout segmentation, drift
+length, gas mixtures and pressure. HD charge readout (as already discussed in Secs. ",physics.ins-det,C,0.32968235,0.20728569,-0.08206068
+http://arxiv.org/pdf/2203.05914v2,"Recoil imaging for dark matter, neutrinos, and physics beyond the Standard Model","They are broadly consistent
+with the conclusion of a previous optimization study [344] which focused on DM-ﬂuorine recoils in
+CF4. 7.2 Performance in practice
+
+The performance requirements listed above are close to being met by current gas TPCs, although
+further study is still needed to determine the optimal conﬁguration of readout segmentation, drift
+length, gas mixtures and pressure. HD charge readout (as already discussed in Secs. ",physics.ins-det,C,0.33059692,0.20558697,-0.08607584
+http://arxiv.org/pdf/2203.05914v3,"Recoil imaging for directional detection of dark matter, neutrinos, and physics beyond the Standard Model","They are broadly consistent
+with the conclusion of a previous optimization study [344] which focused on DM-ﬂuorine recoils in
+CF4. 7.2 Performance in practice
+
+The performance requirements listed above are close to being met by current gas TPCs, although
+further study is still needed to determine the optimal conﬁguration of readout segmentation, drift
+length, gas mixtures and pressure. HD charge readout (as already discussed in Secs. ",physics.ins-det,C,0.33059692,0.20558697,-0.08607584
+http://arxiv.org/pdf/2203.06146v1,Cryogenic User Facilities for R&D on Nobel Liquid Detectors and Low Temperature Devices,"In addition, such a facility would serve as a repository of knowledge of low
+temperature materials and other specialized information and oﬀer a medium to connect
+researchers with specialized cryogenic engineering resources. Finally, such a facility is a vital
+tool for training a future workforce by providing hands-on experience in the operation of
+large cryogenic systems and measurement equipment, typically outside the capability of a
+University level teaching laboratory. Such a facility would necessarily consist of more than a single refrigerator test stand,
+since this is something that a well-equipped PI laboratory would be able to provide. ",physics.ins-det,A,0.2603447,-0.076079614,-0.1432843
+http://arxiv.org/pdf/2203.06146v2,Cryogenic User Facilities for R&D on Noble Liquid Detectors and Low Temperature Devices,"In addition, such a facility would serve as a repository of knowledge of low
+temperature materials and other specialized information and oﬀer a medium to connect
+researchers with specialized cryogenic engineering resources. Finally, such a facility is a vital
+tool for training a future workforce by providing hands-on experience in the operation of
+large cryogenic systems and measurement equipment, typically outside the capability of a
+University level teaching laboratory. Such a facility would necessarily consist of more than a single refrigerator test stand,
+since this is something that a well-equipped PI laboratory would be able to provide. ",physics.ins-det,A,0.2603447,-0.076079614,-0.1432843
+http://arxiv.org/pdf/2203.06525v1,MPGDs for tracking and Muon detection at future high energy physics colliders,"Discharge Probability with 241Am (Eα = 5.5M eV )
+
+Detector system 10 × 10 cm2 CMS CMS GE1/1  ALICE IROC
+
+             triple-GEM       triple-GEM   quadruple-GEM
+
+Gas          Ar/C O2          Ar/C O2      N e/CO2/N2
+
+             (70:30)          (70:30)      (90:10:5)
+
+Upper limit  < 8 × 10−11      < 9 × 10−10  < 1.5 × 10−10
+
+Table 2.2: Comparison of the upper limit of the discharge probability with alpha particles
+for 10×10 cm2 triple-GEM [14], CMS GE1/1 triple-GEM [57] and ALICE IROC quadruple-
+
+GEM [58]. More recently, additional studies were conducted in the framework of the CMS GEM
+upgrade project in order to evaluate more precisely the consequences of discharges at a
+microscopic level and to determine the critical value for the protection resistors [60]. The
+measurements, based on a previous work from the LHCb GEM group [61], were taken with
+a single-GEM hole design connected to a custom circuitry in order to control the discharge
+energy and the protection resistance. ",physics.ins-det,B,-0.14387825,0.12751767,-0.23792574
+http://arxiv.org/pdf/2203.07224v1,Promising Technologies and R&D Directions for the Future Muon Collider Detectors,"The policy for signatures is that, for each individual report, you can subscribe as ""Author"" or as
+                                                  ""Signatory"", deﬁned as follows:
+
+                                                      – “Author” indicates that you did contribute to the results documented in the report in any form,
+                                                         including e.g. by participating to the discussions of the community meeting, sending comments
+                                                         on the drafts, etc, or that you plan to contribute to the future work. The “Authors” will appear as
+                                                         such on arXiv. ",physics.ins-det,C,0.0538048,-0.04340347,0.11450027
+http://arxiv.org/pdf/2203.07247v1,Analytical Approach to Intensity Calculation in Scintillation Detectors,"Developed analytical method of intensity calculation in multi-mirror systems discover new possibilities for localization
+of the ﬂash in the scintillation detectors. Careful investigation of this statement we leave on further research. References
+
+ [1] A. J. González, S. Majewski, J. Profﬁtt, A. Aguilar, P. Conde, L. Hernandez, F. Sánchez, A. Stolin, and J. M.
+        Benlloch, “Continuous or pixelated scintillators?, not longer a discussion,” in 2014 IEEE Nuclear Science
+        Symposium and Medical Imaging Conference (NSS/MIC), 2014, pp. ",physics.ins-det,A_centroid,0.013580402,-0.30415115,-0.10331539
+http://arxiv.org/pdf/2203.08821v1,Low Background kTon-Scale Liquid Argon Time Projection Chambers,"In these early
+studies, TPC triggering requires sufﬁciently large, coincident clusters on the collection plane and at least one induction
+plane. We expect future work will in fact lead to a much higher-efﬁciency, light-based trigger being implemented for
+most work discussed in this paper. The dominant background in the 1.4 - 2.0 MeV energy window is radon in this
+early TPC triggering study, not in fact solar neutrinos – despite the rate reduction by a factor of 103 predicted in the
+
+                                                                     21
+            Figure 18: NSI constraints for similar NSI assumptions from [57] (same contours as Figure 17). ",physics.ins-det,B,-0.08317032,0.13597682,-0.12755072
+http://arxiv.org/pdf/2203.11280v1,"The EL-X8 computer and the BOL detector Networking, programming, time-sharing and data-handling in the Amsterdam nuclear research project `BOL' A personal historical review","In our team, a conversational program language, ‘Simplex’,56 inﬂuenced by Algol-60 had been developed for calculations
+within the WSX framework. This was particularly important in the ﬁnal stage of the BOL data reduction and data
+presentation, where we wanted to easily and ﬂexibly apply our instrumental and physics insights to prepare pictures
+for further study or for publication. Spectra could be presented on a graphics storage display with hard-copy read-out
+connected to a PDP8 (see Section 7). ",physics.ins-det,B,0.057691894,-0.08713908,0.014373958
+http://arxiv.org/pdf/2203.11999v1,A low-threshold diamond cryogenic detector for sub-GeV Dark Matter searches,"Rev. D
+that future work on the optimization of the W-TES de-
+sign to better match the properties of thermal signals in                    100, 022004 (2019). diamonds will allow for further reduction of the energy                 5. ",physics.ins-det,A,-0.16666509,-0.24383557,-0.115574494
+http://arxiv.org/pdf/2203.12542v1,Photon counting from the vacuum ultraviolet to the short wavelength infrared using semiconductor and superconducting technologies,"[169] Jean-Fran¸cois Pratte, Fr´ed´eric Nolet, Samuel Parent, Fr´ed´eric Vachon, Nicolas Roy,
+         Tommy Rossignol, Keven Deslandes, Henri Dautet, R´ejean Fontaine, and Serge A
+         Charlebois. 3d photon-to-digital converter for radiation instrumentation: Motiva-
+         tion and future works. Sensors, 21(2), 2021. ",physics.ins-det,A,0.11487886,-0.35603756,-0.2698924
+http://arxiv.org/pdf/2203.14354v1,GPU-based optical simulation of the DARWIN detector,"Optical simulations alone are not enough to fully guide the detector development, which
+requires a complete simulation that includes energy deposition, electron drift and diﬀusion, co-
+incidence with dark noise, electronics and other eﬀects. Incorporating the Chroma engine in the
+
+                                                       – 20 –
+simulation framework is a natural avenue for future work. It may also be noted that any simulation
+is only as good as its input, and more measurements of optical parameters at VUV wavelengths and
+in LXe environment for materials relevant to the next-generation detector (Tables 2, 8) are needed. ",physics.ins-det,B,0.044119507,-0.12504542,-0.20396957
+http://arxiv.org/pdf/2203.14354v2,GPU-based optical simulation of the DARWIN detector,"Optical simulations alone are not enough to fully guide the detector development, which
+requires a complete simulation that includes energy deposition, electron drift and diﬀusion, co-
+incidence with dark noise, electronics and other eﬀects. Incorporating the Chroma engine in the
+simulation framework is a natural avenue for future work. It may also be noted that any simulation
+is only as good as its input, and more measurements of optical parameters at VUV wavelengths and
+in LXe environment for materials relevant to the next-generation detector (Tables 2, 8) are needed. ",physics.ins-det,B,0.052067004,-0.12403718,-0.18847671
+http://arxiv.org/pdf/2203.14658v1,Absolute efficiency of a two-stage microchannel plate for electrons in the 30 - 900 eV energy range,"A weak energy resolution has been found within
+the experimental range, with a 68% variation of the average pulse height between 32
+and 502 eV. With a further analysis of the pulse shape, a method to discriminate single-
+and double- electron events in a time window of 10 ns has been found. The relation
+Absolute eﬃciency of a two-stage microchannel plate for electrons  14
+
+between the MCP output count rate and the input electron beam current presents a
+linear behaviour from 5 fA to approximately 70 fA and a saturation at higher currents. ",physics.ins-det,B,-0.05253552,-0.0041854978,-0.17168592
+http://arxiv.org/pdf/2203.15903v1,"Large-mass, low-threshold sapphire detector for rare event searches","3b). Events with amplitude greater than a set threshold are recorded for further analysis. Trig-
+ger threshold is set in a way that recorded event rate is comparable to the rate of the calibration
+source. ",physics.ins-det,B,-0.036347304,-0.048200246,0.13487262
+http://arxiv.org/pdf/2203.15978v1,Snowmass 2021: Superconducting Sensor Fabrication Capabilities for HEP Science,"The recent explosion of interest in superconducting devices via quantum computers
+provides an unique opportunity to design large scale experiments utilizing superconducting
+sensors. A strategic investment in key areas will enable leveraging of existing eﬀorts to train
+the future work force in this ﬁeld and produce sensors for exciting HEP experiments. VIII. ",physics.ins-det,B,0.12758854,-0.023798008,-0.1793253
+http://arxiv.org/pdf/2204.00010v2,Transition edge sensor based detector: from X-ray to $γ$-ray,"On the energy spectrum,
+                                                                      we can see obvious Lα1 and Lβ1 spectral lines of gold, and
+                                                                      Kα lines of iron element, they come from the reﬂection of
+                                                                      niobium for incoming X-ray. The ratio of Kα and Kβ spectral
+                                                                      lines of iron are seriously deviated from the theoretical values,
+                                                                      the detail reasons need to be further explored in future work. On the energy spectrum of niobium, at the low-energy end
+                                                                      of the Lα1, Lβ1 spectral lines of gold and Kα of iron, bulge
+                                                                      structures can be seen. ",physics.ins-det,B,-0.3224936,-0.04778667,-0.06945063
+http://arxiv.org/pdf/2204.01251v1,Optimisation of Operating High Voltage of the large area Resistive Plate Chamber for ICAL experiment,"After all these criteria, straight lines for the muon are ﬁtted in both X-Z plane and Y-Z plane
+
+independently. Each ﬁt must contain at least six layers and 𝜒2/𝑛𝑑𝑓 is less than two are considered
+for further study. Applying these conditions simultaneously on both X-Z and Y-Z plan select almost
+100% pure muon signal in the event. ",physics.ins-det,C,-0.15101168,-0.07980412,0.24028024
+http://arxiv.org/pdf/2204.01681v1,End-to-end multi-particle reconstruction in high occupancy imaging calorimeters with graph neural networks,"The Phase-2 Upgrade of the CMS
+cation on the cluster object, which will be further studied          Endcap Calorimeter. Technical report, 2017.
+in future work. In addition, measurements from additional
+detector subsystems, such as timing or tracking informa-         5. ",physics.ins-det,B,0.07876936,0.13333935,-0.14621039
+http://arxiv.org/pdf/2204.01681v2,End-to-end multi-particle reconstruction in high occupancy imaging calorimeters with graph neural networks,"used to perform these studies. Currently, our model does not perform particle identiﬁ-     References
+cation on the cluster object, which will be further studied
+in future work. In addition, measurements from additional        1. ",physics.ins-det,B,-0.044001292,0.4338445,0.11683107
+http://arxiv.org/pdf/2204.01681v3,End-to-end multi-particle reconstruction in high occupancy imaging calorimeters with graph neural networks,"0.8
+                                                                                The proposed method also provides computational ad-
+Unmatched rate  0.6                                 nPU=0                   vantages, allowing one to exploit GPU acceleration at infer-
+                                                    nPU=40                  ence hence reducing the average inference time by at least
+                                                    nPU=200                 two orders of magnitude with respect to high-pileup pro-
+                0.4                                                         jections of the currently employed algorithms designed for
+                                                                            CPUs. 0.2
+                                                                                Currently, our model does not perform particle identiﬁ-
+    0.0 0 20 P4r0edicte6d0pT [Ge8V0] 100 120                                cation on the cluster object, which will be further studied
+                                                                            in future work. In addition, measurements from additional
+Fig. ",physics.ins-det,B,0.19117421,0.46729004,-0.061212942
+http://arxiv.org/pdf/2204.01835v1,Multi-messenger observations of thunderstorm-related bursts of cosmic rays,"The STAND1 detector located nearby the MAKET experimental is connected (in parallel to the
+NI MyRIO board) also to alternative electronics which makes it possible to register not only the
+count rates of detector layers but as well, various combinations of their possible coincidences. In
+this way, we select different species of the ambient cosmic ray flux for further analysis. In Table
+2 and Fig 10 we show the results of detector response calculation with fluxes obtained from the
+
+                                                         12
+EXPACS WEB calculator [27]. ",physics.ins-det,B,0.01739038,0.024439618,-0.079351455
+http://arxiv.org/pdf/2204.01903v1,An optical transition-edge sensor with high energy resolution,"The contribution of the unexplained noise to the energy resolution was comparable
+with that of the current noise. For future work, further lowering Tc could pave the road to achieve the energy resolution
+below 50 meV. In parallel, we need to understand and mitigate the unexplained noise. ",physics.ins-det,A,0.10250351,-0.019909665,0.124996156
+http://arxiv.org/pdf/2204.06096v1,Nuclear phase retrieval spectroscopy using resonant x-ray scattering,"√
+                                   2π h=−∞
+
+By using (6) and (7), we have
+
+                ∆step +∞                               +∞                                 2
+
+Id(t, ∆D) =     √  2π h=−∞         R(∆)T (∆ − ∆D)          δ(∆ − h∆step)e−i∆td∆
+            =
+                                                       −∞
+
+                ∆step          +∞                            2
+                √
+                                   Rd(∆)Td(∆ − ∆D)e−i∆td∆ ,
+                  2π
+                         −∞
+
+which is the intensity of the Fourier transform of Rd(∆)Td(∆ − ∆D). To further study the
+
+eﬀect caused by discretization, the relationship between Id(t, ∆D) and I(t, ∆D) holds below
+
+                ∆step          +∞                            2
+                √
+Id(t, ∆D) =                        Rd(∆)Td(∆ − ∆D)e−i∆td∆
+                  2π
+                               −∞
+
+                ∆step +∞ +∞                                                               2
+
+                =√ 2π −∞ h=−∞          R(∆)T (∆ − ∆D)δ(∆ − h∆step)e−i∆td∆
+
+                (1) 1 +∞ +∞                                                            2
+                =√                     R(∆)T (∆ − ∆D)e     −i∆(t− p )
+                                                                   ∆step d∆
+                    2π p=−∞ −∞
+                                                                                             (8)
+
+                                       (a)
+
+                      1        +∞
+                =√
+                                   R(∆)T (∆ − ∆D)e−i∆td∆
+                   2π −∞
+
+                                             (b)                        2
+
+                     1             +∞                           p
+                +√                     R(∆)T (∆ − ∆D)e−i∆(t− ∆step )d∆ ,
+
+                      2π p=0   −∞
+
+where (1) is deduced by the equality
+
+                    +∞                            1    +∞
+                                                                 i∆ p
+                               δ (∆ − h∆step) = ∆step        e ∆step ,
+
+                h=−∞                                   p=−∞
+                                                                        17
+
+p and h are both integers. When ∆D is given, (8) shows that Id(t, ∆D) is a ∆s1tep periodical
+signal which is equal to the intensity of all the summations of (a) shifted by ∆sptep . ",physics.ins-det,C,-0.2001821,-0.0945819,0.31767344
+http://arxiv.org/pdf/2205.01822v1,Study of Hybrid MicroPattern Gas Detector with CsI Photocathode For Super Tau-Charm Factory RICH,"This occurred only for signals cross-
+ing a threshold which was set individually for each channel. The online data
+acquisition software was used to store the synchronized data of each system on
+a PC for further analysis. The AGET chip, originally designed for the GEM based time projection
+chambers (TPCs) used in nuclear physics experiments[18], has wide dynamic
+range and high-precision time and charge measurements. ",physics.ins-det,B,0.22560033,-0.06529181,-0.033119477
+http://arxiv.org/pdf/2205.02154v1,First results from the ENTOTO neutron monitor: Quantifying the waiting time distribution,"4, where the shaded regions indicate times
+where the majority of the construction occurs: 9:00 - 17:00 local time. Unfortunately this additional noise component cannot be
+corrected for and the data from time interval 2 is not used for further analysis in the rest of the work. 3. ",physics.ins-det,A,0.030847495,-0.0757014,0.3397494
+http://arxiv.org/pdf/2205.02816v1,Antenna Designs for Recent Millimeter and THz Applications,"7.2 Suggestions for Future Works
+
+         Although the research studies carried out in this dissertation have effectively solved a number
+of significant problems in introducing effective antennas for the aforementioned applications, some
+proposed works may be recommended to further enhance for these applications:
+
+                                                           151
+Chapter7: Conclusion
+         1. Apply the antennas with the radar system and introducing an antenna for LRR, MRR and
+             SRR is a challenge and can be considered a future work of this part. Furthermore, the VAA
+             can be applied for different applications such as radars, satellites, and communication
+             systems. ",physics.ins-det,C,0.12154254,-0.13560107,0.11583491
+http://arxiv.org/pdf/2205.04147v1,Volume reduction of water samples to increase sensitivity for radioassay of lead contamination,"https://d​ oi.o​ rg/1​ 0.1​ 016/S​ 0168-9​ 002(99)​
+Limited (2021). When further analysis was done on sample               01469-2
+D, 131 I and 177 Lu were also detected, with calculated spe-
+cific activities of 2.4 ± 0.3 Bq kg−1 and 3.3 ± 0.5 Bq kg−1 ,    Cao C, Li N, Yang X, Zhao J, Li Y, Cai Z, Wen L, Luo X, Heng, Y,
+respectively. Ding Y (2020) A practical approach of high precision U and TH
+                                                                       concentration measurement in acrylic
+Acknowledgements  The Authors wish to thank Ian Murray, Royal
+Holloway, University of London for his technical support. ",physics.ins-det,C,0.005793549,-0.11110671,-0.09158657
+http://arxiv.org/pdf/2205.05386v1,Characterization of a supersonic gas jet for charged particle beam profile monitor,"This
+method shows a wide detection range of density and a good spatial resolution. It will allow the further study or optimization of the gas jet by changing the
+geometry of the skimmers to meet diﬀerent diagnostics requirements such as
+charged particle beam intensity, integration time and ambient vacuum envi-
+ronment. Currently, this method is used regularly for characterizing the gas
+jet, which is used for monitoring the proﬁle of a laboratory electron beam. ",physics.ins-det,B,0.23240012,0.15072659,-0.062111605
+http://arxiv.org/pdf/2205.05386v2,Characterization of a supersonic gas jet for charged particle beam profile monitor,"The spatial resolution is limited by the pinhole size but can be reconstructed
+by the de-convolution method if a known distribution (uniform distribution
+here) are assumed. The measurement of gas jet density and its distribution
+will allow the further study or optimization of the gas jet by changing the
+geometry of the skimmers to meet diﬀerent diagnostics requirements such
+as charged particle beam intensity, integration time and ambient vacuum
+environment. Currently, this method is used regularly for characterizing a
+supersonic gas jet in the beam proﬁle monitor [33] designed for the LHC
+proton beam where a higher gas jet density and a larger and thinner gas jet
+curtain with uniform density distribution are required. ",physics.ins-det,B,0.26845244,0.24913713,-0.07503456
+http://arxiv.org/pdf/2205.07042v1,Deploying the high-power pulsed lasers in precision force metrology -- SI traceable and practical force quantization by photon momentum,"(15). Additionally, one should      analysis will be provided in one of our future works. assume all the possibilities of regulating the gain current,
+      repetition rate, pulse width, and even accurately counting        Additional experimental tests have been performed for the
+      the photons ﬂux rate (from the whole or fractional laser       length measurements, for which only the uncalibrated optical
+      power) when considering the power in terms of the              position sensor was used so far. ",physics.ins-det,A,0.035917122,-0.3289833,0.014121806
+http://arxiv.org/pdf/2205.07122v2,Double-GEM based thermal neutron detector prototype,"There is also the possibility
+to raise the eﬃciency by adding new converter layers over the GEMs, as seen in other works
+[19, 20, 43]. For future works and following that same idea, it is possible to use boron coated
+Thick-GEMs, operating with unitary eﬀective gain, raising the thermal neutron detection eﬃciency. Acknowledgments
+
+This work was supported by CNPq grant 156767/2019-8. ",physics.ins-det,B,-0.1890944,-0.0782629,-0.4266181
+http://arxiv.org/pdf/2205.07122v3,Double-GEM based thermal neutron detector prototype,"There is also the possibility
+to raise the eﬃciency by adding new converter layers over the GEMs, as seen in other works
+[19, 20, 43]. For future works and following that same idea, it is possible to use boron coated
+Thick-GEMs, operating with unitary eﬀective gain, raising the thermal neutron detection eﬃciency. Acknowledgments
+
+This work was supported by CNPq grant 156767/2019-8. ",physics.ins-det,B,-0.1890944,-0.0782629,-0.4266181
+http://arxiv.org/pdf/2205.07580v1,Low-Resolution Imaging FMCW Lidar,"The fiber couplers (FC) ratios were selected                     The main idea of the FMCW method is the modulation of
+experimentally to achieve the best sensitivity. We chose the                    laser frequency and further analysis of the frequency-shifted
+Thorlabs SFL1550S single-frequency laser (SFL) for its high                     reflected signal. In our case, a basic triangular laser chirp is
+output power and narrow linewidth of 50 kHz. ",physics.ins-det,A,0.13070007,-0.43586582,0.088496916
+http://arxiv.org/pdf/2205.08739v1,"NaI(Tl) crystal scintillator encapsulated in two organic-scintillator layers, with pulse shape data analysis","The Gaussian-
+ﬁt positions and widths of the gamma peaks were within 3% of a constant line for the test
+period. A more complete understanding of this triple phoswich detector concept will require
+further study. As particular examples, a method could be developed to minimize the loss of
+crystal-produced photons during their travel to the PMTs, and a more sophisticated coupling
+between crystal and PS needs to be implemented. ",physics.ins-det,B,-0.18452197,-0.2108264,-0.1974422
+http://arxiv.org/pdf/2205.08739v2,NaI(Tl) crystal scintillator encapsulated in two organic-scintillator layers with pulse shape data analysis,"The Gaussian-
+ﬁt positions and widths of the gamma peaks were within 3% of a constant line for the test
+period. A more complete understanding of this triple phoswich detector concept will require
+further study. As particular examples, a method could be developed to minimize the loss of
+crystal-produced photons during their travel to the PMTs, and a more sophisticated coupling
+between crystal and PS needs to be implemented. ",physics.ins-det,B,-0.18452197,-0.2108264,-0.1974422
+http://arxiv.org/pdf/2205.11145v1,A Coupling Enhancement Algorithm for ZrO2 Ceramic Bearing Ball Surface Defect Detection Based on Cartoon-texture Decomposition Model and Multi-Scale Filtering Method,"(a1)                (a2)                 (a3)
+
+         (b1)                (b2)                 (b3)
+
+                     Fig. 7 Comparison of defect detection of ZrO2 ceramic bearing ball’s surface defects
+
+   For further analysis and clarify, the median filter, Winner filter, wavelet value domain filter and
+the filtering method in this paper are used to filter and analyze the scratch, pit, snowflake and
+crack defect images of ZrO2 ceramic bearing ball respectively. The obtained results are compared
+with the data of the original image, and the average values of PSNR and SSIM are obtained
+respectively. ",physics.ins-det,A,0.21087565,-0.13272113,0.18610933
+http://arxiv.org/pdf/2205.11321v1,Fluke 8588A and Keysight 3458A DMM Sampling Performance,"10 repetitions were performed at each phase setting. As the
+3458A DMM was used as a master DMM for ﬁnal results, the             No further research was done to ﬁnd the reason for such
+synchronisation was not possible and thus a PSFE algorithm        behaviour and therefore no explanation can be provided at
+[25] was used to retrieve phase results. this point. ",physics.ins-det,A,0.1245375,-0.013043531,0.13431737
+http://arxiv.org/pdf/2205.11480v1,Novel Light Field Imaging Device with Enhanced Light Collection for Cold Atom Clouds,"Results from section 6.3 suggest that in our experimental setup,
+those eﬀects are small enough such that no calibration of the simulator is necessary. A detailed
+calibration will be explored in future work. For better understanding the tolerances of our system
+with an uncalibrated simulator, we generate synthetic images of the test object with introduced
+
+                                – 20 –
+                          600  xmirrors (mm)
+
+FSC @0.5 (resolution, m)  500  xdome (mm)
+                               y, zmirrors (mm)
+                               y, zdome (mm)
+                          400  , (°)
+
+                          300
+
+                          200
+
+                          100
+
+                               0.00 0.25 0D.50ispl0a.7c5em1e.0n0t (°1.o25r m1m.5)0 1.75 2.00
+
+Figure 16. ",physics.ins-det,A,0.22169197,-0.16179688,0.040156476
+http://arxiv.org/pdf/2205.12160v1,Double-hit separation and dE/dx resolution of a time projection chamber with GEM readout,"To do particle identiﬁcation by cluster counting, the granularity has
+to be increased by another factor of two to improve the particle separation power, with the beneﬁt of
+being more independent of the drift distance and the corresponding diﬀusion. These results show
+the direction a further study could take to optimize the particle identiﬁcation. In the ﬁnal pad-size
+optimization, additional factors such as the pattern-recognition performance, the spatial resolution
+and the overall number of channels will have to be taken into account. ",physics.ins-det,B,0.21235985,0.45603207,0.2373974
+http://arxiv.org/pdf/2205.12160v2,Double-hit separation and dE/dx resolution of a time projection chamber with GEM readout,"To do particle identiﬁcation by cluster counting, the granularity has
+to be increased by another factor of two to improve the particle separation power, with the beneﬁt of
+being more independent of the drift distance and the corresponding diﬀusion. These results show
+the direction a further study could take to optimize the particle identiﬁcation. In the ﬁnal pad-size
+optimization, additional factors such as the pattern-recognition performance, the spatial resolution
+and the overall number of channels will have to be taken into account. ",physics.ins-det,B,0.21235985,0.45603207,0.2373974
+http://arxiv.org/pdf/2205.12534v1,Machine-learning-based prediction of parameters of secondaries in hadronic showers using calorimetric observables,"To avoid double counting of the same neutrons, those of
+them are excluded, which have only one parent, which is also neutron. The remaining neutrons are
+counted and this number is kept on an event-by-event basis for the further analysis of secondaries. The spectra of kinetic energies of the counted secondary neutrons and the distributions of their
+number are shown in ﬁgures 4 and 5, respectively. ",physics.ins-det,B,-0.24743222,0.17428413,-0.06536403
+http://arxiv.org/pdf/2205.12534v2,Machine-learning-based prediction of parameters of secondaries in hadronic showers using calorimetric observables,"Simulations Geant4 v10.3           Simulations Geant4 v10.3                                                                     Simulations Geant4 v10.3
+
+entries / 0.50 GeV4000π- 10 GeV           1000                  π- 40 GeV                                                              1000  π- 80 GeV
+                                                         entries / 0.50 GeV3000FTFP_BERT_HPFTFP_BERT_HP                                          FTFP_BERT_HP
+                                                                                                                   entries / 1.00 GeVQGSP_BERT_HPQGSP_BERT_HPQGSP_BERT_HP
+
+2000                                      500                                                                                          500
+
+1000
+
+       00  5  10 15 20                    00 10 20 30 40 50                                                                            00 20 40 60 80 100
+                                              Energy of neutral pions [GeV]                                                                Energy of neutral pions [GeV]
+           Energy of neutral pions [GeV]
+
+Figure 2. Energy of neutral pions produced in a hadronic shower initiated by 𝜋− with energy of 10 GeV
+(left), 40 GeV (middle) and 80 GeV (right) as simulated using FTFP_BERT_HP (red) or QGSP_BERT_HP
+(blue) physics lists of Geant4 version 10.3.
+
+counted and this number is kept on an event-by-event basis for the further analysis of secondaries. The spectra of kinetic energies of the counted secondary neutrons and the distributions of their
+number are shown in ﬁgures 3 and 4, respectively. ",physics.ins-det,B,-0.31340337,0.20735669,-0.014580287
+http://arxiv.org/pdf/2205.14145v1,Liquid-cooled modular gas cell system for high-order harmonic generation using high average power laser systems,"The backing pressure is 200 mbar. the entire IZ is supposed to be an acceptable ﬂuctua-
+                                                                                tion level in HHG processes, but its further analysis goes
+ied in the literature yet, however, a design targeting the                      beyond the scope of the present paper. minimization of pressure ﬂuctuations can be beneﬁcial
+for HHG applications. ",physics.ins-det,C,0.031998374,0.059836786,0.020584166
+http://arxiv.org/pdf/2206.00296v1,Puzzling time properties of proportional electroluminescence in two-phase argon detectors for dark matter searches,"can see high-energy area composed of 58-69 and 88 keV lines
+and that of low-energy composed of 22-25 keV lines, as well        The red lines in Figs. 6 and 7 show amplitude cuts
+a cutoﬀ at low energies (at about 20 photoelectrons) deﬁned    for selecting events for further analysis of the S2 pulse
+by the PMT trigger threshold. shape, namely the events of high-energy peaks of 109Cd
+                                                               and 238Pu sources. ",physics.ins-det,B,-0.27116743,0.03701002,-0.16226813
+http://arxiv.org/pdf/2206.00296v2,Puzzling time properties of proportional electroluminescence in two-phase argon detectors for dark matter searches,"components) and its time components separately (fast and
+slow+long components), expressed in the number of photo-           The red lines in Figs. 7 and 8 show amplitude cuts
+electrons recorded by the SiPM matrix, as a function of the    for selecting events for further analysis of the S2 pulse
+reduced electric ﬁeld, obtained in two-phase Ar detector with  shape, namely the events of high-energy peaks of the
+238Pu alpha particles due to NBrS EL in 18 mm thick EL         109Cd and 238Pu sources. Note that the S2 amplitude
+gap at 1.00 atm. ",physics.ins-det,B,-0.19642371,0.0722358,-0.17828858
+http://arxiv.org/pdf/2206.00296v3,Puzzling time properties of proportional electroluminescence in two-phase argon detectors for dark matter searches,"components) and its time components separately (fast and
+slow+long components), expressed in the number of photo-           The red lines in Figs. 7 and 8 show amplitude cuts
+electrons recorded by the SiPM matrix, as a function of the    for selecting events for further analysis of the S2 pulse
+reduced electric ﬁeld, obtained in two-phase Ar detector with  shape, namely the events of high-energy peaks of the
+238Pu alpha particles due to NBrS EL in 18 mm thick EL         109Cd and 238Pu sources. Note that the S2 amplitude
+gap at 1.00 atm. ",physics.ins-det,B,-0.19642371,0.0722358,-0.17828858
+http://arxiv.org/pdf/2206.00703v2,Concept for a Space-based Near-Solar Neutrino Detector,"To study the protons, alpha particles, and gamma rays, each pulse was
+checked against the signal in the veto array. If there was a veto signal present,
+the pulse was ignored, otherwise we keep the pulse for further analysis. With
+each of these unvetoed pulses, in addition to tagging the time of the pulse, we
+tagged the source particle of the pulse so that we could identify the sources
+of false neutrino signals. ",physics.ins-det,B,-0.09358872,0.16071016,-0.038690023
+http://arxiv.org/pdf/2206.01981v1,Evaluation of Xilinx Deep Learning Processing Unit under Neutron Irradiation,"293                         Lower     Upper       However, due to the inherent error resiliency of the neural
+                    20           6.29E-16                           network, only a small portion of SEUs lead to classiﬁcation
+L2 Data           313            8.59E-17  5.59E-16     7.06E-16    errors, resulting in a signiﬁcantly small AVF. In future work,
+L2 Tag               4           4.48E-16  5.25E-17     1.33E-16    we aim to perform fault injection experiments in the DPU to
+L2 Total                         4.63E-16  4.00E-16     5.01E-16    obtain a better understanding of its failure mechanisms and
+Snoop CU                                   1.26E-16     1.19E-15    propose efﬁcient SEE mitigation approaches to further reduce
+                                                                    its AVF. TABLE IV
+                      DPU CROSS SECTION                                                          REFERENCES
+
+               Classiﬁcation          Cross          Conf. ",physics.ins-det,C,0.11346832,0.10665986,0.067809954
+http://arxiv.org/pdf/2206.07030v1,Synchrotron-based near-field photothermal microspectroscopy: Development of a quantitative nanohistology set-up with expansion of the infrared capability 2,"Here is one of the resulting scores plots,
+in which PTMS spectra from samples of skin and HDPE have been compared:
+
+We see that the HDPE spectra prove to be the most consistent (least disparate) of all. Objective (g): initial work only
+
+Conclusions and future work: With recent advances in Atomic Force Microscopy, the
+
+integration of an IR AFM-based system with a synchrotron beamline is recognised as a very
+promising advance worldwide. Although this beamtime aimed at revisiting an approach that
+had been carried out at the Daresbury synchrotron in early 2000 (Bozec et al 2002), our
+principal new achievement consisted in proving that PTMS can be interfaced with the
+MIRIAM IR spectrometer. ",physics.ins-det,B,0.053605422,-0.05821318,-0.1448771
+http://arxiv.org/pdf/2206.07456v1,Study of 20-inch PMTs dark count generated large pulses,"As known, it will generate a large
+pulse by Cerenkov radiation when a muon is crossing through the PMT glass (Hamamatsu
+PMT R5912) as studied in [36, 37]. PMT large pulse still needs further study to identify
+either ﬂasher or others to have a better rejection to noise, in particular for the 20-inch
+PMTs and the coming rare event detection projects, such as JUNO[1, 2], HyperK[38, 39]. Figure 1: Photograph of JUNO selected 20-inch NNVT MCP PMT (left) and HPK dynode
+PMT (right). ",physics.ins-det,B,-0.0774842,-0.052459374,-0.121169284
+http://arxiv.org/pdf/2206.07854v1,Observation of activity prior to dielectric breakdown in liquid xenon with the XeBrA experiment,"If the likelihood ratio improves signiﬁcantly, then Model 2 or 3 are selected appropriately. If Model 3
+is selected, the larger component is chosen for further analysis, as transient changes are more readily
+seen if they decrease the reliability, rather than increase. An example of a ﬁt with Model 3 is shown
+in Fig. ",physics.ins-det,C,-0.1142321,0.10220043,0.3481756
+http://arxiv.org/pdf/2206.07854v2,Observation of activity prior to dielectric breakdown in liquid xenon with the XeBrA experiment,"If the likelihood ratio improves signiﬁcantly, then Model 2 or 3 are selected appropriately. If Model 3
+is selected, the larger component is chosen for further analysis, as transient changes are more readily
+seen if they decrease the reliability, rather than increase. An example of a ﬁt with Model 3 is shown
+in Fig. ",physics.ins-det,C,-0.1142321,0.10220043,0.3481756
+http://arxiv.org/pdf/2206.07854v3,Observation of activity prior to dielectric breakdown in liquid xenon with the XeBrA experiment,"If the likelihood ratio improves signiﬁcantly, then Model 2 or 3 are selected appropriately. If Model 3
+is selected, the larger component is chosen for further analysis, as transient changes are more readily
+seen if they decrease the reliability, rather than increase. An example of a ﬁt with Model 3 is shown
+in Fig. ",physics.ins-det,C,-0.1142321,0.10220043,0.3481756
+http://arxiv.org/pdf/2206.07854v4,Study of dielectric breakdown in liquid xenon with the XeBrA experiment,"method we test if progressively adding more parameters to the
+                                                                   model improves the ﬁt to data signiﬁcantly. If Model 3 is se-
+Run Electron lifetime [µs] O2-equivalent impurity [ppb]            lected, the best-ﬁt parameters from the larger component are
+                                                                   chosen for further analysis. The reason for this choice is that
+4 19.4480 ± 0.0007 23.3470 ± 0.0008                                we believe the best-ﬁt parameters from the higher component
+                                                                   are more representative of the breakdown mechanism under
+5-7 -                    <100                                      study. ",physics.ins-det,C,-0.2311078,0.08600204,0.10721012
+http://arxiv.org/pdf/2206.08404v1,"Multi-scale time-resolved electron diffraction enabled by high repetition rate, high dynamic range direct electron detection","These results, and static
+SAED data from 1◦ twisted WSe2/MoS2 [32], are consistent with our observation of two
+satellites along the midline of a (1¯210) Bragg pair. A future work will present time-series
+data showing the detailed dynamics of the moir´e superstructure. We benchmark our experimental uncertainty with pump-probe time-series data, summa-
+
+                                                        4
+rized in Fig. ",physics.ins-det,A,-0.083280325,-0.19627286,0.015410248
+http://arxiv.org/pdf/2206.08696v1,A novel design of industrial real-time CT system based on sparse-view reconstruction and deep-learning image enhancement,"Transfer learning can greatly reduce the training time and deployment cycle by applying the pre-trained model from
+the source domain to the target domain. In the further study, we will focus on reducing the needed projection number for reconstruction by optimizing the
+deep-learning reconstruction network and applying the knowledge of transfer learning [42]. In this way, number of
+X-ray source and detector can be further reduced, the system structure complexity and the cost will be reduced as well. ",physics.ins-det,B,0.23670837,0.09570037,-0.0670924
+http://arxiv.org/pdf/2206.08870v1,The Pixel Luminosity Telescope: A detector for luminosity measurement at CMS using silicon pixel sensors,"The fast-or FEDs
+feature two histogram buffers, so that data can be accumulated in one buffer while the other is
+being read out. The fast-or FED can also read out other information, such as the number of hits
+per individual plane in an integration period aggregated over all BXes, which can be used for
+additional studies or diagnostics. One readout channel of the fast-or FED corresponds to one
+PLT telescope, numbered as shown in Fig. ",physics.ins-det,B,0.24464637,-0.03426774,0.28712583
+http://arxiv.org/pdf/2206.08870v2,The Pixel Luminosity Telescope: A detector for luminosity measurement at CMS using silicon pixel sensors,"The fast-or FEDs
+feature two histogram buffers, so that data can be accumulated in one buffer while the other is
+being read out. The fast-or FED can also read out other information, such as the number of hits
+per individual plane in an integration period aggregated over all BXes, which can be used for
+additional studies or diagnostics. One readout channel of the fast-or FED corresponds to one
+PLT telescope, numbered as shown in Fig. ",physics.ins-det,B,0.24464637,-0.03426774,0.28712583
+http://arxiv.org/pdf/2206.10328v1,Ultrasound sensing at thermomechanical limits with optomechanical buckled-dome microcavities,"We hope to explore these topics in
+can be exploited. future work. In water, our devices have sensitivity which compares favorably to            Funding Information. ",physics.ins-det,C,0.1422465,-0.0441351,0.15138939
+http://arxiv.org/pdf/2206.14717v1,On the depletion behaviour of low-temperature covalently bonded silicon sensor diodes,"Integrated pulse amplitude in function of the applied bias voltage for diﬀerent cases of TCT
+illumination. The decrease in collected signal beyond 100 V in the case of IR laser pulses is currently
+unexplained and subject to further research. knife-edge scan making use of the edge of the metal opening [19][20]. ",physics.ins-det,A,-0.10302228,-0.34560525,-0.09342255
+http://arxiv.org/pdf/2206.14717v2,On the depletion behaviour of low-temperature covalently bonded silicon sensor diodes,"Integrated pulse amplitude in function of the applied bias voltage for diﬀerent cases of TCT
+illumination. The decrease in collected signal beyond 100 V in the case of IR laser pulses is currently
+unexplained and subject to further research. 3.1 Results
+
+TCT signals could be recorded in all four cases mentioned above, except in the case of illuminating
+the N side with the red laser. ",physics.ins-det,A,-0.15012369,-0.34087026,-0.003886682
+http://arxiv.org/pdf/2207.08207v1,Line Segment Tracking in the HL-LHC,"The GPU implementation of
+the algorithm has innovative memory management and multi-streaming techniques, and provides competitive
+timing performance on Nvidia Tesla V100 GPUs. Our future work will involve revisiting some of the physics selections and looking at methods to reduce
+the combinatorial background and improve the eﬃciency even further. A substantial amount of eﬀort will
+go into improving the reconstruction eﬃciency of displaced tracks. ",physics.ins-det,B,0.34772825,0.22715923,0.1366008
+http://arxiv.org/pdf/2207.08207v2,Line Segment Tracking in the HL-LHC,"The GPU implementation of
+the algorithm has innovative memory management and multi-streaming techniques, and provides competitive
+timing performance on Nvidia Tesla V100 GPUs. Our future work will involve revisiting some of the physics selections and looking at methods to reduce
+the combinatorial background and improve the eﬃciency even further. A substantial amount of eﬀort will
+go into improving the reconstruction eﬃciency of displaced tracks. ",physics.ins-det,B,0.34772825,0.22715923,0.1366008
+http://arxiv.org/pdf/2207.12965v1,LHCb's Forward Tracking algorithm for the Run 3 CPU-based online track-reconstruction sequence,"The whole LHCb detector is a single-arm forward spectrometer covering
+the pseudorapidity range 2 < η < 5. The software trigger is split into two parts, the ﬁrst stage is the High
+Level Trigger 1 that performs a partial event reconstruction on GPUs [6–9], the second stage, called High
+Level Trigger 2 (HLT2), reconstructs the full event using CPUs and selects decay candidates which are then
+sent to permanent storage for further analysis [10]. The full HLT2 event reconstruction includes charged track
+reconstruction, track parameter estimation using a Kalman ﬁlter, hadron, electron and muon identiﬁcation
+and photon reconstruction. ",physics.ins-det,B,0.1866106,0.11726018,-0.21795827
+http://arxiv.org/pdf/2207.12965v2,LHCb's Forward Tracking algorithm for the Run 3 CPU-based online track-reconstruction sequence,"The whole LHCb detector is a single-arm forward spectrometer covering
+the pseudorapidity range 2 < η < 5. The software trigger is split into two parts, the ﬁrst stage is the High
+Level Trigger 1 which performs a partial event reconstruction on GPUs [6–9], the second stage, called High
+Level Trigger 2 (HLT2), reconstructs the full event using CPUs and selects decay candidates which are then
+sent to permanent storage for further analysis [10]. The full HLT2 event reconstruction includes charged track
+reconstruction, track parameter estimation using a Kalman ﬁlter, hadron, electron and muon identiﬁcation
+and photon reconstruction. ",physics.ins-det,B,0.18651097,0.11541702,-0.21701333
+http://arxiv.org/pdf/2207.12982v1,Scintillator ageing of the T2K near detectors from 2010 to 2021,"It is unclear
+why MINER𝜈A measured such a high rate of degradation as their scintillator composition is again
+identical to that used by MINOS and most T2K subsystems. It might be possible that MINER𝜈A
+has sampled an initial rapid ageing of their scintillator, as perhaps indicated in the earliest ECal data
+points as discussed above, and also anecdotally observed by MINOS [10]; and that further study
+of later data would show a reduced ageing rate in line with those measured by T2K and MINOS. For completeness, if a linear ﬁt is applied only to the currently excluded Downstream ECal data
+recorded during the 2010–2011 period, an annual light loss rate of 1.33 ± 0.29 PEU per year on an
+initial light yield of 17.2 ± 0.3 is obtained. ",physics.ins-det,A,-0.20501283,-0.2212789,-0.08221781
+http://arxiv.org/pdf/2208.02013v1,Monte-Carlo method based simulation framework for microwave SQUID multiplexers,"The inset shows the respective HµMUX conﬁguration where the colors
+                     correspond to each other. For further analysis, an empirical function was ﬁtted to each
+                     curve (dotted line, see main text). Figures 6(a) and (b) show the limit frequency white frlaimmp as well as white noise level
+   SΦba,wsehite as extracted from our simulations and as predicted by basic information
+
+theory. ",physics.ins-det,A,-0.1520662,-0.3228786,0.48093992
+http://arxiv.org/pdf/2208.02013v2,Monte-Carlo method based simulation framework for microwave SQUID multiplexers,"The inset shows the respective HµMUX conﬁguration where the colors correspond to
+                     each other. For further analysis, an empirical function was ﬁtted to each curve (dotted
+                     line, see main text). Figures 6(a) and (b) show the limit frequency white frlaimmp as well as white noise level
+   SΦba,wsehite as extracted from our simulations and as predicted by basic information
+
+theory. ",physics.ins-det,A,-0.1520662,-0.3228786,0.48093992
+http://arxiv.org/pdf/2208.02013v3,Monte-Carlo method based simulation framework for microwave SQUID multiplexers,"For each simulation, the mutual inductance MT be-
+HµMUX conﬁguration where the colors correspond to each other. tween SQUID and resonator was reﬁned to guarantee ∆ frmesax =
+For further analysis, an empirical function was ﬁtted to each curve  ∆ fBW1 MHz. The corresponding results are depicted in ﬁg-
+(dotted line, see main text). ",physics.ins-det,A,-0.009240372,-0.3982929,0.36686283
+http://arxiv.org/pdf/2208.02013v4,Monte-Carlo method based simulation framework for microwave SQUID multiplexers,"For each simulation, the mutual inductance MT be-
+HµMUX conﬁguration where the colors correspond to each other. tween SQUID and resonator was reﬁned to guarantee ∆ frmesax =
+For further analysis, an empirical function was ﬁtted to each curve  ∆ fBW1 MHz. The corresponding results are depicted in ﬁg-
+(dotted line, see main text). ",physics.ins-det,A,-0.009240372,-0.3982929,0.36686283
+http://arxiv.org/pdf/2208.02790v1,A Stress Induced Source of Phonon Bursts and Quasiparticle Poisoning,"magnitude more events than any of the other bins. There
+                                                                 may be similar deviations from our exponential model in
+   The background was divided into three energy bins for         the other time-series data that cannot be detected due to
+further analysis. The highest-energy events (85+ eV)             insuﬃcient statistics. ",physics.ins-det,B,-0.32775348,0.08910184,0.12416546
+http://arxiv.org/pdf/2208.02854v1,Phase Drift Monitoring for Tone Tracking Readout of Superconducting Microwave Resonators,"There is also
+slightly diﬀerent amounts of power in the lowest (poorly sampled) bins of the ASD, likely due to the SVD also
+cleaning some of the low frequency phase drift induced by the temperature drift in the room (and 1.6 mHz chiller
+cycle) discussed in section 5. This demonstrates cleaning at a single phase injection amplitude and frequency
+however, for future work we plan to expand this to a range of frequencies and amplitudes to investigate over
+what parameter space this method is eﬀective. 7. ",physics.ins-det,A,0.04644119,-0.08993442,0.03166579
+http://arxiv.org/pdf/2208.09748v1,A 40Gb/s Linear Redriver with Multi-Band Equalization in 130nm SiGe BiCMOS,"A VGA stage with negative capacitive loads
+                                                                            provides up to 7.1dB tunable gain with bandwidth sufficient
+                                                                            to support 23.5dB max peaking at 20GHz. The linear-mode
+                                                                            redriver operation makes it also applicable for PAM4 links,
+                                                                            which is planned in future work. ACKNOWLEDGEMENT
+                                                                            This work was supported by NXP Semiconductors. ",physics.ins-det,A,0.14648122,-0.28156486,-0.09609826
+http://arxiv.org/pdf/2208.10075v1,Design and Analysis of a 170 GHz Antenna for Millimeter-wave Applications,"The simulation results show
+
+                                                              14
+ that the designed system fulfills required characteristics and is recommended for high-frequency
+ detector applications. The future work is to design a detector system for application in ECE diagnostic components
+ protection, utilizing this designed antenna. VII. ",physics.ins-det,A,0.11986245,-0.14141633,-0.0364805
+http://arxiv.org/pdf/2208.10827v1,Upgrading the Beam Telescopes at the DESY II Test Beam Facility,"Both the time-of-arrival (ToA, 10 bit) and time-         are within 200 µm around the particle intersection point and ±
+over-threshold,(ToT, 10 bit) are registered in the periphery. The       500 ns around the track timestamp are assigned to the tracks and
+ToA is sampled on both clock edges, which doubles the times-            kept for further analysis. A constant time oﬀset of the TelePix
+tamp precision without increasing the required clock frequen-           is subtracted in the search window. ",physics.ins-det,B,0.11890718,-0.0038831194,0.1637109

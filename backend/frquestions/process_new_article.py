@@ -1,13 +1,11 @@
 import pickle
-# from sentence_transformers import SentenceTransformer
-# SentenceTransformer('all-MiniLM-L6-v2')
 from os import listdir
 from os.path import join
 import pandas as pd
 import re
 
 from frquestions.category_analysis.model import predict_category
-from frquestions.models import ProcessedPDF
+from frquestions.models import ProcessedPDF, FromArxivFR
 
 
 def split_into_sentences(text):
@@ -95,39 +93,19 @@ def handle_PDF_response(response):
 
 
 def get_model(category):
-    mypath_input = './frquestions/models'
+    mypath_input = './frquestions/FR_models'
     for f in listdir(mypath_input):
         if category == f[:len(category)]:
             return pickle.load(open(join(mypath_input, f), 'rb'))
 
 
 def get_csv(category):
-    mypath_input = './frquestions/results_processed'
+    mypath_input = './frquestions/FR_results'
     for f in listdir(mypath_input):
         if category == f[:len(category)]:
             return pd.read_csv(join(mypath_input, f))
 
-
-def prepare_data_from_csv(category):
-    df = get_csv(category)
-    x, y, z = df['x'].tolist(), df['y'].tolist(), df['z'].tolist()
-    cluster = df['cluster'].tolist()
-
-    if 'url' in df.columns:
-        urls = df['url'].tolist()
-    else:
-        urls = ["https://arxiv.org/pdf/1712.05855.pdf"] * len(x)
-
-    hovers = []
-
-    for _, line in df.iterrows():
-        hover = line['further research prefix'] + ' ' if type(line['further research prefix']) == str else ""
-        hover += line['further research line'] + ' ' if type(line['further research line']) == str else ""
-        hover += line['further research suffix'] + ' ' if type(line['further research suffix']) == str else ""
-        hovers.append(hover)
-
-    hovers = parse_hovers(hovers)
-
+def get_empty_traces(category):
     empty_cluster = lambda color: {"x": [], "y": [], "z": [], "text": [], "url": [], "title": category,
                                    "color": color}
 
@@ -137,37 +115,68 @@ def prepare_data_from_csv(category):
               "A_centroid": empty_cluster('red'),
               "B_centroid": empty_cluster('green'),
               "C_centroid": empty_cluster('blue')}
+    return traces
 
-    for _x, _y, _z, _cluster, _hover, _url in zip(x, y, z, cluster, hovers, urls):
+def prepare_data_from_csv(category):
+    df = get_csv(category)
+    x, y, z = df['x'].tolist(), df['y'].tolist(), df['z'].tolist()
+    cluster = df['label'].tolist()
+    urls = df['url'].tolist()
+    titles = df['title'].tolist()
+    hovers = df['further research'].tolist()
+    hovers = parse_hovers(hovers)
+
+    traces = get_empty_traces(category)
+
+    for _x, _y, _z, _cluster, _hover, _url, title in zip(x, y, z, cluster, hovers, urls, titles):
         traces[_cluster]['x'].append(str(_x))
         traces[_cluster]['y'].append(str(_y))
         traces[_cluster]['z'].append(str(_z))
-        traces[_cluster]['text'].append(_hover)
+        traces[_cluster]['text'].append(f'<b>{title}</b><br>{_hover}')
         traces[_cluster]['url'].append(_url)
 
     return traces
 
+def prepare_data_from_db(category):
+    records = FromArxivFR.objects.filter(category=category)
 
-def handle_from_pdf(record, url, SentenceTransformer_loaded):
+    traces = get_empty_traces(category)
+
+    for record in records:
+        hover = f'<b>{record["title"]}</b><br>{parse_hovers([record["hover"]])[0]}'
+        traces[record['label']]['x'].append(str(record['x']))
+        traces[record['label']]['y'].append(str(record['y']))
+        traces[record['label']]['z'].append(str(record['z']))
+        traces[record['label']]['text'].append(hover)
+        traces[record['label']]['url'].append(record['url'])
+
+    return traces
+
+
+
+def handle_from_pdf(record, url, SentenceTransformer_loaded, from_db=False):
     if not record:
         return {}
 
     title, abstract, further_research_section = handle_PDF_response(record)
     category = predict_category(f'{title}.\n{abstract}', SentenceTransformer_loaded)
 
-    traces = prepare_data_from_csv(category)
+    if from_db:
+        traces = prepare_data_from_db(category)
+    else:
+        traces = prepare_data_from_csv(category)
 
     if further_research_section:
         model = get_model(category)
         embedding = SentenceTransformer_loaded.encode([further_research_section])
         _x, _y, _z = model.transform(embedding)[0]
 
-        hover = parse_hovers([further_research_section])
+        hover = parse_hovers([further_research_section])[0]
 
         traces['CURRENT'] = {'x': [str(_x)],
                              'y': [str(_y)],
                              'z': [str(_z)],
-                             'text': hover,
+                             'text': [f'<b>{title}</b><br>{hover}'],
                              'url': [url],
                              'title': 'CURRENT',
                              'color': 'black'}
@@ -176,6 +185,7 @@ def handle_from_pdf(record, url, SentenceTransformer_loaded):
                                     x=_x,
                                     y=_y,
                                     z=_z,
+                                    title=title,
                                     category=category,
                                     hover=hover[0])
     else:
@@ -183,9 +193,12 @@ def handle_from_pdf(record, url, SentenceTransformer_loaded):
                                     x=None,
                                     y=None,
                                     z=None,
+                                    title=title,
                                     category=category,
                                     hover="")
     return traces
+
+
 
 
 def handle_from_db(url):
@@ -198,7 +211,7 @@ def handle_from_db(url):
         traces['CURRENT'] = {'x': [str(record.x)],
                              'y': [str(record.y)],
                              'z': [str(record.z)],
-                             'text': [record.hover],
+                             'text': [f'<b>{record.title}</b><br>{record.hover}'],
                              'url': [url],
                              'title': 'CURRENT',
                              'color': 'black'}

@@ -1,0 +1,1098 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00499v1,Quantum electrodynamic effects on counter-streaming instabilities in the whole \textbf{k} space,"When particles oscillate in
+the ﬁrst order growing ﬁelds, they may emit gamma photons which in turn trigger pair
+production [37, 38]. These eﬀects should arguably be worked out in future works. V. ACKNOWLEDGMENTS
+
+   A.B. ",physics.plasm-ph,A,0.13178876,-0.16434318,0.43303043
+http://arxiv.org/pdf/2201.01291v1,AVIP: a low temperature plasma code,"Robust schemes are also needed for the reactive Navier-Stokes equations and Riemann solvers have been implemented
+in both AVIP and AVBP where its ability to solve shocks could be interesting in other areas than just plasma assisted
+combustion. Now that robust schemes have been developed and validated for both plasmas and gas mixtures, plasma assisted
+combustion can be carried out and will be released in future work. Acknowledgments
+
+This work was supported by the ANR projects PASTEC (ANR-16-CE22-0005) and GECCO (ANR-17-CE06-0019). ",physics.plasm-ph,B,-0.13939686,0.0403101,-0.39677423
+http://arxiv.org/pdf/2201.01291v2,AVIP: a low temperature plasma code,"Robust schemes are also needed for the reactive Navier-Stokes equations and Riemann solvers have been implemented
+in both AVIP and AVBP where its ability to solve shocks could be interesting in other areas than just plasma assisted
+combustion. Now that robust schemes have been developed and validated for both plasmas and gas mixtures, plasma assisted
+combustion can be carried out and will be released in future work. Acknowledgments
+
+This work was supported by the ANR projects PASTEC (ANR-16-CE22-0005), GECCO (ANR-17-CE06-0019) and
+was performed using HPC resources from GENCI-TGCC (Grant 2021- A0112B10157). ",physics.plasm-ph,B,-0.10872217,0.03239061,-0.36318034
+http://arxiv.org/pdf/2201.01506v1,A novel approach to radially global gyrokinetic simulation using the flux-tube code $\texttt{stella}$,"This, however, comes at the cost of only allowing global simulations
+of systems with a monotonic q proﬁle. We thus choose q as the radial coordinate for global stella, though alternative
+formulations of the parallel boundary condition will be investigated in future work. For global simulations, the radial coordinate x (equivalently, q) can be related to the physical location r using
+
+                   q − q0 = x˜ρ∗ aBref = q′(r0)(r − r0) + q′′(r0) (r − r0)2 + · · ·                            (23)
+                          ψ′                                               2
+
+where x˜ x/ρref and (17) has been used for the ﬁrst equality. ",physics.plasm-ph,A,0.34881037,0.181446,-0.35056746
+http://arxiv.org/pdf/2201.01506v2,A novel approach to radially global gyrokinetic simulation using the flux-tube code $\texttt{stella}$,"This, however, comes at the cost of only allowing global simulations
+of systems with a monotonic q proﬁle. We thus choose q as the radial coordinate for global stella, though alternative
+formulations of the parallel boundary condition will be investigated in future work. For global simulations, the radial coordinate x (equivalently, q) can be related to the physical location r using
+
+                   q − q0 = x˜ρ∗ aBref = q′(r0)(r − r0) + q′′(r0) (r − r0)2 + · · ·                            (23)
+                          ψ′                                               2
+
+where x˜ x/ρref and (17) has been used for the ﬁrst equality. ",physics.plasm-ph,A,0.34881037,0.181446,-0.35056746
+http://arxiv.org/pdf/2201.01623v1,Density-Functional-Theory Perspective on the Non-Linear Response of Correlated Electrons Across Temperature Regimes,"(1)-(4) are illustrated in Appendix
+5.1. The exchange-correlation (XC) functional in our KS-DFT simulations is the local den-
+sity approximation (LDA) in the Perdew-Zunger parametrization.73 Recently, it was demon-
+strated for θ = 1 that commonly used GGA functionals such as PBE ,74 PBEsol,75 AM0576
+and the meta-GGA functional SCAN77 are not able to provide a superior description com-
+pared to LDA in the case of the free electron gas perturbed by an external ﬁeld with ﬁxed
+wave number q when ∆n/n0 < 1.78,79 We do not aim to further study this problem in this
+work. Therefore, we do not consider other types of XC functionals beyond LDA. ",physics.plasm-ph,A,0.27758107,-0.2536346,-0.07322047
+http://arxiv.org/pdf/2201.01705v1,Insensitivity of a turbulent laser-plasma dynamo to initial conditions,"sembly is embedded inside a pulsed magnetic-ﬁeld generator
+                                                                   (the ‘magneto-inertial fusion electrical discharge system’, or
+   One ﬁnding of previous turbulent-dynamo experiments that        MIFEDS38,39). When utilised, the MIFEDS generates a mag-
+merited further study was the ratio of the magnetic to turbu-      netic ﬁeld with a magnitude of ∼150 kG at the target foil and
+lent kinetic energy-density, which was observed to be ﬁnite,       ∼80 kG at the target’s centre that is oriented approximately
+but still quite small (εB/εK,turb ≈ 3-4%)31,32. This prompted      parallel to the axis which passes through the geometric centres
+the question of whether the characteristic post-ampliﬁcation       of the foils and grids, and also along which both plasma jets
+strength of magnetic ﬁelds in these turbulent laser-plasmas is     propagate (‘the line of centres’); Figure 1 shows a schematic
+determined by the plasma’s turbulent kinetic energy alone, or      of the magnetic ﬁeld lines generated by the MIFEDS between
+was in fact not fully saturated and thus might be expected to be   the two grids. ",physics.plasm-ph,C,-0.43766713,0.172493,0.04023436
+http://arxiv.org/pdf/2201.02416v1,"Laser-Driven, Ion-Scale Magnetospheres in Laboratory Plasmas. II. Particle-in-cell Simulations","A. Crawford, L. Silva, L. Gar-
+   In conclusion, the simulations were consistent with the             gat´e, and R. Bingham, “Minimagnetospheres above the Lunar
+LAPD experimental results, and the multiple parameter                  Surface and the Formation of Lunar Swirls,” Physical Review
+scans performed dictated the formation conditions of the               Letters 109, 081101 (2012), arXiv:1207.2076.
+main features of mini-magnetospheres. For future works,
+we intend to exploit the features present in the sides of            12R. J. Lillis, S. Robbins, M. Manga, J. S. Halekas, and H. V. Frey,
+the dipole, exploit anti-parallel magnetic ﬁeld conﬁgura-              “Time history of the Martian dynamo from crater magnetic ﬁeld
+tions, perform 3D simulations, and consider even more                  analysis,” Journal of Geophysical Research E: Planets 118, 1488–
+realistic properties of the driver. ",physics.plasm-ph,C,-0.06860976,0.42764437,0.12966406
+http://arxiv.org/pdf/2201.03376v1,Collisionless relaxation of a Lynden-Bell plasma,"It seems likely that there exist regimes where
+the ﬂuctuations are larger still, and therefore a full nonlinear solution to the two-point
+correlation function of the phase-space density is required. What these regimes are, and
+whether there is a limit in which they recover the microgranulation ansatz, will be the
+subject of future work. Note. ",physics.plasm-ph,A,0.33822882,0.051406406,-0.04785134
+http://arxiv.org/pdf/2201.03471v1,A Parallel Low-Rank Solver for the Six-Dimensional Vlasov-Maxwell Equations,"However, the low-rank method allows
+much higher velocity space resolutions than the full grid solver and therefore
+also has less issues with numerical heating. The design of an energy-conserving
+low-rank solver will be an important aspect of future work in this direction. 4. ",physics.plasm-ph,A,0.20523003,0.17018276,-0.14233562
+http://arxiv.org/pdf/2201.03836v1,Gyrokinetic modelling of anisotropic energetic particle driven instabilities in tokamak plasmas,"In fact, the
+
+                                                  27
+anisotropic distribution function alone is not able to drive them linearly at such
+small EP fraction. This non-linear studies will be addressed in future work. 7 Acknowledgment
+
+This work has been carried out within the framework of the EUROfusion Con-
+sortium and has received funding from the Euratom research and training pro-
+gram 2014- 2018 and 2019-2020 under grant agreement No 633053. ",physics.plasm-ph,A,0.059492342,-0.061029136,-0.014979573
+http://arxiv.org/pdf/2201.03937v1,Plasma Emission Induced By Electron Beam in Weakly Magnetized Plasmas,"the standard dispersion curve of IA. Note that due to the limited simulation time and spatial domain, the IA
+mode can at most be marginally resolved with Case R. This hinders us from further analysis. 3.2. ",physics.plasm-ph,A,0.27383205,-0.13082342,-0.09691602
+http://arxiv.org/pdf/2201.05157v1,Towards a realistic evaluation of transport coefficients in non-equilibrium space plasmas,"Conclusions and
+locity distribution. Alternatively, plasma transport theory      an outlook for potential future work are formulated in Sec. 3.
+provides a simpler, macroscopic approach to account for the      In the appendix we brieﬂy discuss the RKD (Appendix A),
+moments of the velocity distributions and their variations,      and give useful formulas and solutions of the integrals (Ap-
+namely, by relating ﬂuxes (e.g., heat ﬂux or electric cur-       pendix B) occurring in Sec. ",physics.plasm-ph,B,-0.18099906,-0.23535165,-0.19280207
+http://arxiv.org/pdf/2201.05557v1,DEMO ion cyclotron heating: status of ITER-type antenna design," The power dissipation locations in PMLs correspond
+    to the wave propagation pattern and have their                     Plasma kinetic profiles provided by the DEMO team
+    maxima well before the end of the PML, to ensure               will be used instead of “ITER2010low”. The future work
+    correct PML functioning. on the antenna itself will include a comparison of triplets
+                                                                   and quadruplets (which could be better because the latest
+ Quantitatively, the PML performance is evaluated                 model has quite long straps), possible modifications of the
+    from the integral 𝑃 of power dissipation density Qh            box depth (partially) due to the interface with the BB on
+    and the integral 𝑃′ of its absolute value |Qh| in all          the sides, more detailed RF analysis including local
+    model domains. ",physics.plasm-ph,C,-0.028768355,-0.02997335,0.08094704
+http://arxiv.org/pdf/2201.05670v1,Electromagnetic instabilities and plasma turbulence driven by electron-temperature gradient,"Within the latter context, the stiﬀ heat-ﬂux scalings derived in section 6 can be viewed
+as an argument against electron-temperature gradients much above the critical linear
+threshold being achievable. Whether these considerations are relevant to the ﬁndings of
+this paper, especially in the nonlinear context, will be addressed in future work. Appendix G. Analysis of TAI dispersion relation
+
+   In this appendix, we consider the mathematical details of the TAI dispersion rela-
+tion (4.18)
+
+          ω2 = − 2ωdeω∗e − ωK2 AW                   τ¯ + 1 ,        (G 1)
+                                                         1 + iξ∗
+where ξ∗ is given by                √                 ω∗e ,        collisionless,                91
+                                      π ω∗e ,        vthe)2/νe     collisional. ",physics.plasm-ph,A,0.2287542,-0.22085042,-0.04144778
+http://arxiv.org/pdf/2201.05670v2,Electromagnetic instabilities and plasma turbulence driven by electron-temperature gradient,"Within the latter context, the stiﬀ heat-ﬂux scalings derived
+in section 6 can be viewed as an argument against electron-temperature gradients much
+above the critical linear threshold being achievable. Whether these considerations are
+relevant in the nonlinear context will be addressed in future work. E.1.3. ",physics.plasm-ph,A,0.1890459,-0.17300871,-0.033528116
+http://arxiv.org/pdf/2201.06324v1,Interpreting Radial Correlation Doppler Reflectometry using Gyrokinetic Simulations,"More sophisticated models will contain
+these, and also additional effects. In future work we will consider extending the present DBS model, in line
+with recent work [42, 43, 74, 108, 125], in order to account for some of the cited additional phenomena, and
+their implications to RCDR. These will also be useful for qualifying the predictions from the present model. ",physics.plasm-ph,A,0.15654483,0.010509688,0.11498658
+http://arxiv.org/pdf/2201.06341v1,Impact of transport models on local measurements in W7-X using synthetic diagnostics with EMC3-EIRENE and comparison to experimental observations in the W7-X island scrape-off layer,"They further indicate that
+drifts could contribute substantially to the transport in W7-X, which cannot be
+captured with the present version EMC3-EIRENE. Thus, implementation of the drifts
+are a priority for future work, in order to fully capture the physics seen in experiment. 7. ",physics.plasm-ph,A,0.05959042,-0.031342566,0.21333921
+http://arxiv.org/pdf/2201.07831v1,Reduced models for ETG transport in the pedestal,"There is some evidence in the dataset that this downshift
+exceeds that predicted by the mixing-length estimate, thus requiring the additional
+factor of η2 to compensate. A deeper understanding of the η2 dependence will be
+pursued in future work. ⟨ky⟩−1                               ⟨η
+                 4 × 10−2
+                 3 × 10−2
+
+                 2 × 10−2
+
+                      10−2
+
+                                 2 × 100  3 × 100 4 × 100  6 × 100
+                                                 η
+
+Figure 5. ",physics.plasm-ph,A,0.21884,-0.09328938,0.13907559
+http://arxiv.org/pdf/2201.07941v1,Machine-Learning enabled analysis of ELM filament dynamics in KSTAR,"We discuss the results and
+set them into context with other recent work in IV. A conclusion and directions for future work
+are given in V
+
+II. MACHINE LEARNING DETECTION OF ELM FILAMENTS IN ECEI DATA
+
+       Cyclotron radiation emission from free electrons in magnetically conﬁned plasmas are rou-
+tinely measured for diagnostic purposes [16, 29]. ",physics.plasm-ph,C,-0.2514304,0.008615219,0.2678704
+http://arxiv.org/pdf/2201.07941v2,Machine-Learning enabled analysis of ELM filament dynamics in KSTAR,"We discuss the results and set
+them into context with other recent work in IV. A conclusion and directions for future work are
+given in V
+
+II. MACHINE LEARNING DETECTION OF ELM FILAMENTS IN ECEI DATA
+
+       Cyclotron radiation emission from free electrons in magnetically conﬁned plasmas are rou-
+tinely measured for diagnostic purposes [15, 50]. ",physics.plasm-ph,C,-0.2519598,0.00877424,0.26830313
+http://arxiv.org/pdf/2201.08562v1,Quasilinear theory for inhomogeneous plasma,"This eliminates
+the need for ad hoc calculations, which can be especially cumbersome beyond the
+homogeneous-plasma approximation. Discussions of speciﬁc models of applied interest,
+however exciting, are beyond the scope of this paper and are left to future work. This work was supported by the U.S. DOE through Contract DE-AC02-09CH11466. ",physics.plasm-ph,B,-0.07058789,-0.29795974,-0.40978152
+http://arxiv.org/pdf/2201.08562v2,Quasilinear theory for inhomogeneous plasma,"This eliminates
+the need for ad hoc calculations, which can be especially cumbersome beyond the
+homogeneous-plasma approximation. Discussions of speciﬁc models of applied interest,
+however exciting, are beyond the scope of this paper and are left to future work. This work was supported by the U.S. DOE through Contract DE-AC02-09CH11466. ",physics.plasm-ph,B,-0.07058789,-0.29795974,-0.40978152
+http://arxiv.org/pdf/2201.08562v3,Quasilinear theory for inhomogeneous plasma,"This eliminates the need
+for ad hoc calculations, which can be especially cumbersome beyond the homogeneous-
+plasma approximation. Discussing speciﬁc models of applied interest, however exciting,
+is beyond the scope of this paper and is left to future work. This work was supported by the U.S. DOE through Contract DE-AC02-09CH11466. ",physics.plasm-ph,B,-0.069937296,-0.30192748,-0.40379536
+http://arxiv.org/pdf/2201.08562v4,Quasilinear theory for inhomogeneous plasma,"68                                       I. Y. Dodin
+
+This eliminates the need for ad hoc calculations, which can be especially cumbersome
+beyond the homogeneous-plasma approximation. Discussing speciﬁc models of applied
+interest, however exciting, is beyond the scope of this paper and is left to future work. Funding
+
+   This work was supported by the U.S. DOE through Contract DE-AC02-09CH11466. ",physics.plasm-ph,B,-0.080191314,-0.29233953,-0.4033687
+http://arxiv.org/pdf/2201.08562v5,Quasilinear theory for inhomogeneous plasma,"This eliminates the need for ad hoc calculations, which can be especially cumbersome
+beyond the homogeneous-plasma approximation. Discussing speciﬁc models of applied
+interest, however exciting, is beyond the scope of this paper and is left to future work. Funding
+
+   This work was supported by the U.S. DOE through Contract DE-AC02-09CH11466. ",physics.plasm-ph,B,-0.073061585,-0.30260754,-0.39629096
+http://arxiv.org/pdf/2201.09988v1,Deep modelling of plasma and neutral fluctuations from gas puff turbulence imaging,"Identifying these errors allows for their it-                            along R = 90.3 cm (with ψn in the range 1.035 – 1.053). erative improvement, while identifying even better loss                              The ﬂuctuations follow diﬀerent statistical distributions
+functions for generalized training is left for future work. and cannot necessarily be linearly mapped from the noisy
+                                                                                     HeI line intensity measured by the fast camera. ",physics.plasm-ph,A,0.20006403,0.07974645,0.31073895
+http://arxiv.org/pdf/2201.09988v2,Deep modelling of plasma and neutral fluctuations from gas puff turbulence imaging,"Identifying these errors allows for their it-                            and cannot necessarily be linearly mapped from the noisy
+erative improvement, while identifying even better loss                              HeI line intensity measured by the fast camera. functions for generalized training is left for future work. We note that these learned ne, Te, and Cn0 are con-
+           V. UNCOVERING DYNAMICS IN                                                 sistent solutions with the collisional radiative and opti-
+ EXPERIMENTAL TURBULENCE IMAGING IN                                                  mization constraints being trained upon, but not neces-
+                                                                                     sarily unique solutions. ",physics.plasm-ph,A,0.10928351,0.11642169,0.12705174
+http://arxiv.org/pdf/2201.10052v1,Direct measurement of non-thermal electron acceleration from magnetically driven reconnection in a laboratory plasma,"Interestingly, this scaling of maximum energy has been
+                                                                      also identiﬁed in large-scale simulations at low-β but in rela-
+   The inference that direct electric ﬁeld acceleration is oper-      tivistic regimes61. ating in the experiments motivates estimating the correspond-
+ing attainable particle energies from this mechanism in repre-           Our laser-powered capacitor coils offer a unique experi-
+sentative low-β collisionless reconnecting plasmas through-           mental reconnection platform in magnetically driven low-β
+out the Universe50 and comparing to maximum inferred elec-            plasmas to further study acceleration of electrons (and ions)
+tron energies from observations. The result is shown in Table         in various reconnection regimes2,50 via direct detection of ac-
+1, where we have assumed that our experimental implications           celerated particles. ",physics.plasm-ph,B,-0.21412204,-0.19514069,0.20425062
+http://arxiv.org/pdf/2201.10857v1,One dimensional reduced model for ITER relevant energetic particle transport,"This aspects is here analyzed for a
+local clumps emerges. single resonance and will be globally addressed in
+                                                                     the mapping in future works, similar to the mitiga-
+   The capability of the reduced 1D model in reproducing             tion strategy for item above. the relevant physical features of the particle-wave inter-
+action must be considered together with the important           (d) Our analysis is possible as far as the radial mode
+computational saving (10000 time less expensive) of the              structure is large with respect the non-linear radial
+N -body code. ",physics.plasm-ph,A,0.2667275,-0.042961646,0.10201149
+http://arxiv.org/pdf/2201.11257v1,A computational study of steady and stagnating positive streamers in N2-O2 mixtures,"5.2. Outlook
+
+• In N2-O2 mixtures with less O2 than air, steady       In future work, it would be interesting to include
+   streamers require lower background electric ﬁelds,   streamer branching and to study the propagation
+   due to reduced attachment and recombination          of multiple interacting streamers. For example, it
+   rates that result in a longer eﬀective length. ",physics.plasm-ph,A,0.07136889,-0.037320435,0.17585476
+http://arxiv.org/pdf/2201.11561v1,Generalized fluid models of the Braginskii-type,"It seems that in this extreme case it might be indeed possible (but not with certainty)
+that the underlying distribution function can even become negative, fa < 0, which is of course unphysical. We expect
+that our 21 & 22-moment models might fail in this particular situation, even if evolution equations are retained, but
+as discussed below, we were unfortunately not able to reach clear conclusion and further research is needed to clearly
+establish the areas of validity. The fa < 0 was criticized for example by Scudder (2021); Cranmer & Schiﬀ (2021) (and references therein), on an
+example of 8-moment models in a quasi-static approximation. ",physics.plasm-ph,A,0.30804318,-0.006996615,-0.0001876317
+http://arxiv.org/pdf/2201.11561v2,Generalized Fluid Models of the Braginskii Type,"It seems that in this extreme case it might be indeed possible (but not with certainty)
+that the underlying distribution function can even become negative, fa < 0, which is of course unphysical. We expect
+that our 21 & 22-moment models might fail in this particular situation, even if evolution equations are retained, but
+as discussed below, we were unfortunately not able to reach clear conclusion and further research is needed to clearly
+establish the areas of validity. The fa < 0 was criticized for example by Scudder (2021); Cranmer & Schiﬀ (2021) (and references therein), on an
+example of 8-moment models in a quasi-static approximation. ",physics.plasm-ph,A,0.30804318,-0.006996615,-0.0001876317
+http://arxiv.org/pdf/2201.12033v3,JOREK3D: An extension of the JOREK nonlinear MHD code to stellarators,"Further modi-
+sections V, VI and VII. Stable full MHD equilibria are       ﬁcations to the model may be needed if future work does
+preserved in the reduced model: the ﬂux surfaces do not      not produce satisfactory results for this range of β.
+move throughout the simulation, and closely match the
+ﬂux surfaces calculated in GVEC, just as one would ex-       AUTHOR DECLARATIONS
+pect from the ordering argument in section II. Further,
+both tearing and ballooning modes were simulated, and           The authors have no conﬂicts of interest to disclose. ",physics.plasm-ph,A,0.22167887,0.114263386,-0.2246958
+http://arxiv.org/pdf/2201.12818v1,A study of the requirements of p-11B fusion reactor by tokamak system code,"The constraint of thermal wall loading
+
+     The minimum value of 𝑛""𝜏$ meeting the Lawson criterion of p-11B fusion with
+𝑇""/𝑇W =2.5 is 2.3×10'J𝑚)*𝑠, which is still much higher than the current experiment
+parameters. To make a further study on the parameters of p-11B fusion devices, a
+higher confinement enhancement factor H is assumed, not limited by the IPB98y2
+energy scaling. The p-11B fusion reactor may be not limited by neutron irradiation, but thermal
+loading due to the significantly high bremsstrahlung radiation power at the ion
+temperature of 300-500keV would restrict the regime of ion density. ",physics.plasm-ph,B,-0.078377396,-0.053645965,0.104885876
+http://arxiv.org/pdf/2201.13183v1,Collective Effects and Intense Beam-Plasma Interactions in Ion-Beam-Driven High Energy Density Matter and Inertial Fusion Energy,"Specific research tasks include:
+Demonstrate that the beam charge and current can be controlled or neutralized during neutralized
+drift compression by judicious choice of background plasma parameters; Demonstrate that
+collective instabilities can be controlled or mitigated during neutralized drift compression by
+profiling the plasma density or magnetic field; and Study the neutralization process and effects of
+transients on beam emittance during beam entry into the plasma. A further research objective in this thrust area is to design and test advanced collective focusing
+schemes [21] in the PATS and other available high energy density laboratory physics facilities,
+
+                                                                                                                              4
+which effectively utilize the large self-electric fields of the beam pulse and do not require large
+focusing magnets. Thrust Area #2 – Develop innovative beam driver concepts for energy delivery in heavy ion
+fusion systems using negative ion beams extracted from ion -- ion plasmas
+
+In order to avoid possible electron cloud effects and charge exchange effects many linear
+accelerators use negative ions instead of positive ions. ",physics.plasm-ph,B,-0.3541531,-0.048036996,0.14382386
+http://arxiv.org/pdf/2201.13220v1,The criterion for infinite positron feedback in dynamics of relativistic runaway electron avalanches,"In this paper, approximate expressions for high-energy at-
+mospheric physics process lengths are introduced. However, a further research
+is needed to determine the more precise altitude scaling for high-energy atmo-
+spheric physics. The conditions required for inﬁnite positron feedback at diﬀerent altitudes
+are calculated. ",physics.plasm-ph,A,0.11913863,-0.03423971,-0.018853487
+http://arxiv.org/pdf/2202.00811v1,Kinetic modeling of neutral transport for a continuum gyrokinetic code,"However, the unphysical negative values of density and temperature present in the latter
+
+make them unreliable baselines. A conservative positivity-preserving algorithm for the Vlasov
+
+solver is under development and will be included in future work. B. ",physics.plasm-ph,A_centroid,0.33117366,0.039495192,-0.29770774
+http://arxiv.org/pdf/2202.00811v2,Kinetic modeling of neutral transport for a continuum gyrokinetic code,"However, the unphysical negative values of density and temperature present in the latter
+
+make them unreliable baselines. A conservative positivity-preserving algorithm for the Vlasov
+
+solver is under development and will be included in future work. B. ",physics.plasm-ph,A,0.33117366,0.039495192,-0.29770774
+http://arxiv.org/pdf/2202.00811v3,Kinetic modeling of neutral transport for a continuum gyrokinetic code,"sity and temperature present in the latter make them unreliable                          ne (no neut)       Midplane Density (m 3)                     nn 1e13
+baselines. A conservative positivity-preserving algorithm for                                          1e18 2.0 ne (with neut) 1e18
+the Vlasov solver is under development and will be included                          0.10                                                                                 1.2
+in future work. 0.05                                                     3.2                         0.9
+                                                                                                                                                                          0.6
+   In summary, the nonphysical assumptions in these proof-                                                   1.5                                                          0.3
+of-concept simulations include a collision frequency based on                                                                                 2.4
+constant values of density and temperature, which is scaled                                                                                        1.30 1.35 1.40 0.0
+by 0.01; a temperature of 10 eV for recycled neutrals; and the                       0.00 1.0 1.6                                                      x (m)
+non-conservative positivity correction for the neutral distribu-                     0.05
+tion function. ",physics.plasm-ph,A,0.22947134,-0.04157918,-0.21516185
+http://arxiv.org/pdf/2202.01318v1,Finite orbit width effects in large aspect ratio stellarators,"The three previous diﬀerences mean that, even though the DKES kinetic equation leads
+
+to the same equations as the full kinetic equation to lowest order in ρi∗ ∼ νi∗ 1 and
+
+1, the higher order equations given by DKES will be very diﬀerent from the physical
+
+ones. The higher order equations merit further study because they might be important
+
+even for smal√l values of : for example, gi,1,W is not zero at the trapped-passing boundary,
+but of order gi,1,W , and this boundary value is determined by the perturbation to the
+
+passing particle distribution function, hi − fMi, that we have neglected. DKES cannot
+
+determine hi − fMi in the limit given by ρi∗ ∼ νi∗ 1 and 1. ",physics.plasm-ph,A,0.36397916,-0.08836141,-0.185687
+http://arxiv.org/pdf/2202.01318v2,Finite orbit width effects in large aspect ratio stellarators,"The three previous diﬀerences mean that, even though the DKES kinetic equation leads
+
+to the same equations as the full kinetic equation to lowest order in ρi∗ ∼ νi∗ 1 and
+
+1, the higher order equations given by DKES will be very diﬀerent from the physical
+
+ones. The higher order equations merit further study because they might be important
+
+even for smal√l values of : for example, gi,1,W is not zero at the trapped-passing boundary,
+but of order gi,1,W , and this boundary value is determined by the perturbation to the
+30  V. d’Herbemont, F.I. Parra, I. Calvo and J.L. ",physics.plasm-ph,A,0.36573926,-0.05132848,-0.17996112
+http://arxiv.org/pdf/2202.02822v1,Phase space consideration of low energy electron injection for Direct Laser Acceleration,"7
+   These results are supported by the numerical integra-
+                                                                   model provides knowledge about the electron’s motion in
+tion of equations of motion. Analytical model and nu-              a plasma channel without numerical calculations and can
+merical integration results match both in the range of             form a basis for further study of electron injection in di-
+initial parameters and the maximum energies gained by              rect laser electron acceleration. electrons. ",physics.plasm-ph,B,-0.08364588,-0.33552456,0.01725394
+http://arxiv.org/pdf/2202.04159v3,14-moment maximum-entropy modelling of collisionless ions for Hall thruster discharges,"On the            ing that the time integration error is negligible. other hand, we believe that parametric studies of the ac-
+curacy of the 14-moment method at diﬀerent wavelengths               For the present test case, providing a meaningful compar-
+are interesting, and are suggested as a future work. Re-          ison between the computational cost of the ﬂuid methods
+garding the axial direction, one should consider that ions        and that of the particle methods is not trivial. ",physics.plasm-ph,A,0.11452173,-0.14554816,0.08141621
+http://arxiv.org/pdf/2202.06399v1,Action Principles and Conservation Laws for Chew-Goldberger-Low Anisotropic Plasmas,"8; Yahalom (2017a,b); Yahalom and Qin (2021)) may yield
+further insights. Similarly, further study of the Lie symmetries the CGL plasma equations
+would be useful. Investigation of conservation laws for the CGL equations by using Lie
+dragging remains open for further investigation. ",physics.plasm-ph,B,-0.07770914,0.054179873,-0.25137085
+http://arxiv.org/pdf/2202.06399v2,Action Principles and Conservation Laws for Chew-Goldberger-Low Anisotropic Plasmas,"8; Yahalom (2017a,b); Yahalom and Qin (2021)) may yield
+further insights. Similarly, further study of the Lie symmetries the CGL plasma equations
+would be useful. Investigation of conservation laws for the CGL equations by using Lie
+dragging remains open for further investigation. ",physics.plasm-ph,B,-0.07770914,0.054179873,-0.25137085
+http://arxiv.org/pdf/2202.08251v1,Bi-dipole wave: optimum for attaining extreme regimes at matter-light colliders,"In ad-
+                                             𝐵                             dition, if an electron emits several photons (even if all
+                                                                           of them are emitted at high χ), we do not know the
+ flat                                                                      energies at each emission and thus cannot directly deter-
+mirror                                                                     mine the sought-after rate. Thus, we set as a goal for
+                                                                           further analysis ﬁnding strategies that ensures a notable
+  electron                                      source of shaped           part of primary high-χ particles/photons in certain part
+beam source                                        laser beam              of parameters space. Hereafter primary electron means
+                                                                           that the electron emitted exactly one high-energy pho-
+FIG. ",physics.plasm-ph,B,0.092656516,-0.2413218,0.36368442
+http://arxiv.org/pdf/2202.08547v1,Nonlinear dynamical modelling of high frequency electrostatic drift waves using fluid theoretical approach in magnetized plasma,"CONCLUDING REMARKS
+
+   To conclude, we have studied theoretically the excitations of the recently observed high frequency electrostatic drift
+waves in an inhomogeneous plasma with a constant magnetic ﬁeld in the framework of a plasma ﬂuid model yielding
+a novel nonlinear evolution equation of third order. Subsequently, for simplicity of calculations, it is seen that this
+derived third order nonlinear evolution equation can be reduced to two second order equations for further analysis. 23
+
+The most interesting fact in this context is that one reduced equation is linear admitting exact solutions whereas the
+other reduced equation is nonlinear admitting both exact and approximate solutions which are explored in detail. ",physics.plasm-ph,B,-0.12421183,-0.010290844,-0.21036673
+http://arxiv.org/pdf/2202.10647v1,Efficient numerical algorithm for multi-level ionization of high-atomic-number gases,"5. Conclusions and future work
+
+    In this paper, we developed an eﬃcient multi-level laser tunneling ionization algorithm in high-
+atomic-number gases. The algorithm features several improvements compared to the previously
+published methods based on numerical solutions to the system of ODE’s describing ionization
+dynamics via fractional time stepping. ",physics.plasm-ph,B,0.12261911,-0.2499669,-0.04138821
+http://arxiv.org/pdf/2202.11870v1,New procedure to estimate plasma parameters through the q-Weibull distribution by using a Langmuir probe in a cold plasma,"3 is taken implicitly. In this direction, the
+q-Weibull function deserves further research regarding the ion current contribution that is beyond
+this work. Furthermore, the q-Weibull function may have problems to represent peaks in the EEPF,
+like those coming from electron beams[64] or primary electron spikes [65]. ",physics.plasm-ph,B,-0.013135511,-0.28193486,0.14202972
+http://arxiv.org/pdf/2202.11967v1,Coherence of ion cyclotron resonance for damping ion cyclotron waves in space plasmas,"In this ICW event, since the period of ICWs is ∼4s, only
+the time resolution of burst intervals in magnetic ﬁeld measurements (128 samples/s) and ions measurements (150ms)
+
+   1 https://lasp.colorado.edu/mms/sdc/public/
+                                                                                                                                                         3
+
+can meet the needs of analysis. Since it lacks the burst mode data of magnetic ﬁeld and particles before and after
+the interval between 16:39:03 UT and 16:39:52 UT, we choose the time period from 16:39:03 UT to 16:39:52 UT on
+November 01, 2018 for further analysis. We use the background magnetic ﬁeld (B0, i.e., the magnetic ﬁeld averaged over the full-time interval) to deﬁne
+the magnetic ﬁeld–aligned coordinates. ",physics.plasm-ph,C,-0.16059782,0.061359648,0.2931971
+http://arxiv.org/pdf/2202.12604v1,Comparison between MAST-U conventional and Super-X configurations through SOLPS-ITER modelling,"However, the qualitative variation and
+implications described in the paper still remain the same. The quantitative diﬀerences
+in ηRI,rec in that case are presumably due to diﬀerences in the ionization radial proﬁles
+between conﬁgurations, which should be investigated further in future work. Ultimately, further simulations (e.g. ",physics.plasm-ph,B,0.13919935,-0.27776456,-0.052831817
+http://arxiv.org/pdf/2202.12604v2,Comparison between MAST-U conventional and Super-X configurations through SOLPS-ITER modelling,"However, the qualitative variation and
+
+implications described in the paper still remain the same. The quantitative diﬀerences
+
+in ηRI,rec in that case are presumably due to diﬀerences in the ionization radial proﬁles
+
+between conﬁgurations, which should be investigated further in future work. Ultimately, further simulations (e.g. ",physics.plasm-ph,B,0.13919935,-0.27776456,-0.052831817
+http://arxiv.org/pdf/2202.12659v1,The hidden uncertainties in particle balance calculations and their implications for assessment of plasma performance,"In Section 4 interpretive analysis of the JET HD plasma
+discharge is presented along with sensitivity studies on terms entering to the TRANSP particle balance equation. Results summary and further research directions are discussed in Section 5. 2. ",physics.plasm-ph,B,-0.37229452,-0.24563909,-0.053161874
+http://arxiv.org/pdf/2203.00831v1,Three-Dimensional Inhomogeneity of Electron-Temperature-Gradient Turbulence in the Edge of Tokamak Plasmas,"This could be achieved
+Equation (12)]. by modifying parallel correlation lengths and hence the
+                                                               outer scale of the turbulence [see Equation (12)] using
+   The multiscale mechanism for the suppression of             FLR eﬀects and magnetic-drift proﬁles, and by maneu-
+electron-scale transport in the pedestal remains to be         vering toroidal and slab ETG turbulence into similar
+investigated in future work. In the core, cross-scale in-      poloidal locations, so that their multiscale interactions
+teractions between electron-scale turbulence (driven by        could suppress kyρe ∼ 1 transport. ",physics.plasm-ph,C,-0.19755113,0.15204886,-0.023822568
+http://arxiv.org/pdf/2203.00831v2,Three-Dimensional Inhomogeneity of Electron-Temperature-Gradient Turbulence in the Edge of Tokamak Plasmas,"The results of Sections VII and VIII suggest using
+
+   The multiscale mechanism for the suppression of          magnetic shaping to optimize transport in the pedestal
+electron-scale transport in the pedestal remains to be      and internal transport barriers. This could be achieved
+investigated in future work. In the core, cross-scale in-   by modifying parallel correlation lengths and hence the
+teractions between electron-scale turbulence (driven by     outer scale of the turbulence [see Equation (12)] using
+ETG instability) and ion-scale turbulence (driven by ITG    FLR eﬀects and magnetic-drift proﬁles, and by maneu-
+and other instabilities) can suppress electron-scale and    vering toroidal and slab ETG turbulence into similar
+enhance ion-scale transport [22–24, 114]. ",physics.plasm-ph,C,-0.2847091,0.06221494,0.07880008
+http://arxiv.org/pdf/2203.01162v1,Gyrokinetic modelling of the Alfvén mode activity in ASDEX Upgrade with an isotropic slowing-down fast-particle distribution,"These results are already encouraging and prove that we are
+able to reproduce the relevant physics behind the experiments in an attempt to become predictive
+about future fusion scenarios and pave the path to new studies that have to be carried out to
+catch more of the nonlinear aspects in the NLED-AUG case. In future works we will retain the nonlinearities in all the particle species and we will consider
+the interaction between the AM and the EGAM, to describe the triggering of the EGAM by the
+TAE-EPM burst. An attempt on this has already been done in Ref. ",physics.plasm-ph,B,-0.022808,-0.09617523,0.18042922
+http://arxiv.org/pdf/2203.01618v1,Multi-scale analysis of global electromagnetic instabilities in ITER Pre-Fusion-Power Operation plasmas,"Considering now the microscales, we perform a
+study of large toroidal mode numbers, looking for                        We have shown that, for an isotropic slowing down
+ion gyroradius-scale micro-instabilities (such as those            distribution function of NBI energetic particles with
+associated with turbulence). Ebirth = 1 MeV, the growth rates of these mesoscale
+                                                                   modes appear insensitive to the addition of energetic
+      We consider the radial domain 0.4 ≤ n ≤ 0.7, the             particles, although a more realistic treatment of the
+region with the steepest electron temperature gradient             EP distribution function is left for future work. and consider toroidal mode numbers in the range
+n > 120, increasing the toroidal resolution to keep                      We have identiﬁed a number of eﬀects (that we
+Nϕ > 3n, ideally ≥ 4n, but also choosing convenient                refer to as ‘multi-scale’) which would be of strong
+values for parallelization. ",physics.plasm-ph,C,-0.023909938,0.022716438,-0.006955034
+http://arxiv.org/pdf/2203.01749v1,Different configurations of transferred atmospheric pressure plasma jet and their application to polymer treatment,"Of course, this conﬁguration can also be employed in APPJ
+devices that do not use the jet transfer technique. In a future work, we intend to investigate the longitudinal distribution of the APPJ treatment
+on PP and also on other polymer surfaces. Moreover, we intend to perform a detailed study of how
+a plasma jet propagates in long tubes employing the mesh conﬁguration. ",physics.plasm-ph,B,-0.2299555,-0.091912426,-0.030275073
+http://arxiv.org/pdf/2203.01749v2,Different configurations of transferred atmospheric pressure plasma jet and their application to polymer treatment,"Of course, this conﬁguration can also be employed in APPJ
+devices that do not use the jet transfer technique. In a future work, we intend to investigate the longitudinal distribution of the APPJ treatment
+on PP and also on other polymer surfaces. Moreover, we intend to perform a detailed study of how
+a plasma jet propagates in long tubes employing the mesh conﬁguration. ",physics.plasm-ph,B,-0.2299555,-0.091912426,-0.030275073
+http://arxiv.org/pdf/2203.01873v1,Kinetic modeling of three-dimensional electrostatic-solitary and surface waves in beam neutralization,"z planes along the beam axis at t = 3.12 µs. With further study, we ﬁnd that the non-
+Maxwellian EVDF, found in our beam, requires a smaller electron density perturbation to
+form an ESW of the same length than one where the EVDF is Maxwellian in the far-ﬁeld. We demonstrate this by using the 1D BGK integral approach, described in Bernstein et
+al. ",physics.plasm-ph,B,-0.007847041,-0.07991388,0.07961054
+http://arxiv.org/pdf/2203.02406v1,Research Opportunities in Plasma Astrophysics,"Recent ground-based observations using adaptive optics have just begun to probe the regions of
+protostellar jet acceleration. The larger telescopes planned for the next decade, such as the Thirty
+Meter Telescope (TMT) and Large Magellan Telescope, will further study this phenomenon. Diag-
+nosing conditions within the inner parts of protostellar accretion disks — where radiation plays
+a key role in the dynamics — is a real possibility. ",physics.plasm-ph,B,-0.09235732,0.099781156,0.19901454
+http://arxiv.org/pdf/2203.02769v1,Dimits transition in three-dimensional ion-temperature-gradient turbulence,"Notably, much eﬀort
+today is being devoted to spherical tokamak designs, which can have large values of
+ﬁeld-line-averaged magnetic shear combined with nontrivial variations in the local shear. Therefore, we consider the addition of magnetic shear to our analytical and numerical
+models to be a key direction for future work. Acknowledgements
+
+   The authors would like to thank M. Barnes and S. Tobias for many useful comments. ",physics.plasm-ph,C_centroid,-0.30775988,0.32353106,-0.2672277
+http://arxiv.org/pdf/2203.02769v2,Dimits transition in three-dimensional ion-temperature-gradient turbulence,"Notably, much eﬀort
+today is being devoted to spherical tokamak designs, which can have large values of
+ﬁeld-line-averaged magnetic shear combined with nontrivial variations in the local shear. Therefore, we consider the addition of magnetic shear to our analytical and numerical
+models to be a key direction for future work. Acknowledgements
+
+   The authors would like to thank M. Barnes and S. Tobias for many useful comments. ",physics.plasm-ph,C,-0.30775988,0.32353106,-0.2672277
+http://arxiv.org/pdf/2203.03753v1,Direct computation of magnetic surfaces in Boozer coordinates and coil optimization for quasi-symmetry,"However, as will be shown, this does not happen in the ﬁnal
+coil designs. Generalizing the formulation (4.1) to BoozerLS surfaces, in order to handle
+magnetic ﬁelds with islands in a robust manner, and to optimize the coils to eliminate
+such islands, will be part of future work. We ﬁrst op√timize coils using ﬁve BoozerExact surfaces uniformly spaced in terms of the
+surface label V , which is proportional to the minor radius. ",physics.plasm-ph,C,-0.01714386,0.5584451,0.22101852
+http://arxiv.org/pdf/2203.03753v2,Direct computation of magnetic surfaces in Boozer coordinates and coil optimization for quasi-symmetry,"However, as will be shown, this does not happen in the ﬁnal
+coil designs. Generalizing the formulation (4.1) to BoozerLS surfaces, in order to handle
+magnetic ﬁelds with islands in a robust manner, and to optimize the coils to eliminate
+such islands, will be part of future work. We ﬁrst op√timize coils using ﬁve BoozerExact surfaces uniformly spaced in terms of the
+surface label V , which is proportional to the minor radius. ",physics.plasm-ph,C,-0.01714386,0.5584451,0.22101852
+http://arxiv.org/pdf/2203.04742v1,Enhancing one-dimensional Particle-in-Cell simulations to self-consistently resolve instability-induced electron transport in Hall thrusters,"Therefore, in view of these results, the adoption of an ion-sonic-point tracking algorithm for the self-consistent
+adjustment of the location of the boundary between the two regions is warranted. Section 6: Conclusions and future work
+
+In the present article, we introduced an approach to approximate the 2D axial-azimuthal potential field in a Hall
+thruster that leads to a pseudo-2D description of the problem. The resulting pseudo-2D PIC scheme was shown
+to enhance the capabilities of a high-fidelity 1D PIC simulation to provide an accurate picture of the characteristics
+of the azimuthal instabilities and, thus, to self-consistently capture the instability-induced electron cross-field
+transport for multiple operating conditions. ",physics.plasm-ph,B,-0.15076572,0.066604525,-0.03208863
+http://arxiv.org/pdf/2203.04742v2,Enhancing one-dimensional particle-in-cell simulations to self-consistently resolve instability-induced electron transport in Hall thrusters,"Therefore, in view of these results, the adoption of an ion-sonic-point tracking algorithm for the self-consistent
+                                                                                                                                                                             adjustment of the location of the boundary between the two regions is warranted. Section 6: Conclusions and future work
+
+                                                                                                                                                                             In the present article, we introduced an approach to approximate the 2D axial-azimuthal potential field in a Hall
+                                                                                                                                                                             thruster that leads to a pseudo-2D description of the problem. The resulting pseudo-2D PIC scheme was shown
+                                                                                                                                                                             to enhance the capabilities of a high-fidelity 1D PIC simulation to provide an accurate picture of the characteristics
+                                                                                                                                                                             of the azimuthal instabilities and, thus, to self-consistently capture the instability-induced electron cross-field
+                                                                                                                                                                             transport for multiple operating conditions. ",physics.plasm-ph,B,-0.15076572,0.066604525,-0.03208863
+http://arxiv.org/pdf/2203.04772v1,Modelling of saturated external MHD instabilities in tokamaks: a comparison of 3D free boundary equilibria and nonlinear stability calculations,"The data from JOREK         his contribution to this work through fruitful discussions, and
+is taken at the end of the simulation time. Michael Drevlak for providing access to codes, which were
+                                                                     used in the construction and analysis of free boundary VMEC
+   There are a number of other directions for future work using      calculations. these codes. ",physics.plasm-ph,A,0.2712636,0.07390413,-0.1793523
+http://arxiv.org/pdf/2203.04772v2,Modelling of saturated external MHD instabilities in tokamaks: a comparison of 3D free boundary equilibria and nonlinear stability calculations,"These physi-
+V. CONCLUSION                                                                                                                            17
+
+   Two approaches for modeling saturated external MHD in-         parameters, as well as source terms, is necessary. stabilities have been compared for a (5, 1) external kink mode,      There are a number of other directions for future work using
+and edge harmonic oscillation. Simulations with JOREK are
+compared to VMEC, both using a high Lundquist number              these codes. ",physics.plasm-ph,A,0.21119168,0.07675903,-0.14134626
+http://arxiv.org/pdf/2203.05343v1,Action-angle coordinates for motion in a straight magnetic field with constant gradient,"VI, which is solved perturbatively for
+                                                                the case of a weak electric ﬁeld. In future work, we will
+             ∂S1 = 2νσ3 cn(2θ K/π|m), (74)                      construct the canonical transformation to action-angle
+             ∂θ          ω0                                     coordinates based on the exact solution in terms of ellip-
+                                                                tic functions presented in Ref. [9]. ",physics.plasm-ph,A,0.29351228,0.17909078,-0.06283404
+http://arxiv.org/pdf/2203.08258v1,Role of self-generated magnetic fields in the inertial fusion ignition threshold,"This is because denser plasma is harder to magnetize
+                                                                                                                                         6
+
+                           12               B=0                        eter model and ignition threshold will require a large scale
+                           10               B model
+                                            χ = 0.1                    parameter scan with multi-dimensional XMHD simulations. Conduction  χ=1
+Hots ot tem erature (keV)   8 losses                                   This is left to future work. For now, we assume ﬁxed values
+                                            xRAGE
+                                                                       fB = 2/3 and ∆rB = Ls. ",physics.plasm-ph,C,-0.20156005,0.045929696,0.045830764
+http://arxiv.org/pdf/2203.09024v1,Analytical study on magnetic component of geodesic acoustic mode,"33
+may suffer from the singularity problem [10, 27], but this problem is avoided in our
+work. It is not known if this is the reason why equation (22) in the present work and
+equation (34) in [33] are different, which requires further study. Figure 1. ",physics.plasm-ph,A,0.37798953,0.11329515,-0.05358959
+http://arxiv.org/pdf/2203.09039v1,Simulations of scrape-off layer power width for EAST H-mode plasma and ITER 15MA baseline scenario by 2D electrostatic turbulence code,"Some primary test cases that compare deuterium and helium plasmas
+with the same pressure profiles show that λq has no significant difference. A detailed study on this
+
+                                5
+topic will be carried out in future work. Other than this, the main difference is that the new model
+keeps the ion diamagnetic drift velocity in the advective part of the gyro-viscous and polarization
+term (second term of vorticity equation in Eq. ",physics.plasm-ph,B,-0.2776279,-0.025819957,-0.15654631
+http://arxiv.org/pdf/2203.09039v2,Simulations of scrape-off layer power width for EAST H-mode plasma and ITER 15MA baseline scenario by 2D electrostatic turbulence code,"Some primary test cases that compare deuterium and helium plasmas
+with the same pressure profiles show that λq has no significant difference. A detailed study on this
+topic will be carried out in future work. Other than this, the main difference is that the new model
+keeps the ion diamagnetic drift velocity in the advective part of the gyro-viscous and polarization
+term (second term of vorticity equation in Eq. ",physics.plasm-ph,B,-0.277683,-0.023787882,-0.16008481
+http://arxiv.org/pdf/2203.09039v3,Simulations of scrape-off layer power width for EAST H-mode plasma and ITER 15 MA baseline scenario by 2D electrostatic turbulence code,"Some primary test cases that compare deuterium and helium plasmas
+with the same pressure profiles show that λq has no significant difference. A detailed study on this
+
+                                5
+topic will be carried out in future work. Other than this, the main difference is that the new model
+keeps the ion diamagnetic drift velocity in the advective part of the gyro-viscous and polarization
+term (second term of vorticity equation in Eq. ",physics.plasm-ph,B,-0.2776279,-0.025819957,-0.15654631
+http://arxiv.org/pdf/2203.09344v1,Confinement of passing and trapped runaway electrons in the simulation of an ITER current quench,"Since
+near the axis. This is a sharp contrast to the energetic      the loss time is smaller than the pitch scattering time,
+banana region where almost all REs were conﬁned and           passing particles are lost before they scatter back to
+warrants further study. Losses are not present when           the trapped regime. ",physics.plasm-ph,A,0.26599902,-0.06942657,0.25934178
+http://arxiv.org/pdf/2203.10664v1,Oblique Alfvén waves in a stellar wind environment with dust particles charged by inelastic collisions and by photoionization,"Galvão & Ziebell (2012) proposed the inclusion of a dis-                                                       B
+crete distribution of grain sizes in the formalism for a magnetized
+dusty plasma using kinetic theory. In future works we intend to make     and for protons ( = ), resulting
+use of this derivation to include a continuous distribution function
+of grain sizes in the model. √            1 − d , d ≤ 0
+                                                                         0( d) = 2 2 2 0                            B                    ,         (6)
+      In the presence of dust, the equilibrium number densities of                                                         ,        >0
+electrons and ions are no longer the same since some of these par-                                exp − d                      d
+ticles will be absorbed by dust grains and electrons will be emitted                                       B
+by photoionization. ",physics.plasm-ph,B,-0.18665911,-0.15375596,0.04643076
+http://arxiv.org/pdf/2203.10849v1,Pathways of organic micropollutants degradation in atmospheric pressure plasma processing,"Application of plasma for removal of pollutants dissolved in water
+
+3.1. Pharmaceuticals
+
+Pharmaceuticals are OMPs which are widely investigated and the attention for further research is
+increasing due to the numerous reports of their presence in ground, surface and even drinking
+water. Despite low concentrations, the influence of continuous exposure to mixtures of different
+therapeutic groups has become of growing concern, not just to the aquatic species, but for human
+health as well (Arnold et al., 2014; Bernhardt et al., 2017). ",physics.plasm-ph,B,-0.068632804,-0.08523212,0.056659624
+http://arxiv.org/pdf/2203.11983v1,Gyrokinetic particle-in-cell simulations of electromagnetic turbulence in the presence of fast particles and global modes,"The particle ﬂux
+reverses its sign in the KBM regime in the both tokamak geometries considered here. In
+future work, the question of the particle ﬂuxes driven by the electromagnetic turbulence
+will be addressed in more detail. Electromagnetic turbulence and global modes  7
+
+Figure 7. ",physics.plasm-ph,C,-0.28730634,0.086354844,-0.11635038
+http://arxiv.org/pdf/2203.14107v1,Non-extensive thermodynamics of the radiation in heterogeneous thermal plasmas,"Due to this approximation, the spectral density expression (3.5) appears in the compact and easily
+interpretable form, which is advantageous compared with the known result [27], also derived from the
+Tsallis entropy. However, the genuine area of its validity is not clear and requires additional investigations,
+ﬁrst of all in application to real experimentally observable systems, which can be performed via a
+consistent numerical examination. In this process, the so far undetermined phenomenological parameters of the non-extensive description
+can be reasonably deﬁned. ",physics.plasm-ph,A,0.25100464,-0.14532462,-0.05233124
+http://arxiv.org/pdf/2203.15927v1,The DESC Stellarator Code Suite Part II: Perturbation and continuation methods,"CONTINUATION METHOD
+tending it to add new functionality as easy as possible,
+and work is currently underway on allowing the compu-             Many MHD equilibrium codes57 use a multigrid ap-
+tation of free boundary equilibria, combined coil/plasma       proach, where an initial guess is speciﬁed on a coarse
+optimization, as well as optimization for physics targets      grid, and the error is minimized on that grid before be-
+like quasisymmetry and particle conﬁnement. Details on         ing interpolated to a ﬁner grid and re-solved, continuing
+these improvements will be the subject of future works. until the ﬁnest resolution level has been reached. ",physics.plasm-ph,A,0.11618714,0.16605936,-0.13735361
+http://arxiv.org/pdf/2204.00078v1,The DESC Stellarator Code Suite Part III: Quasi-symmetry optimization,"more tests are needed to conﬁrm this. The purpose has been
+                                                                    to showcase the potential of DESC, and discovering reactor-
+   In contrast, Table II gives the computation times for a sin-     relevant stellarator designs is left for future work. gle Gauss-Newton trust-region optimization step in DESC,
+broken down between the perturbation and equilibrium solve             As an open source software with a modular structure, the
+involved at each iteration. ",physics.plasm-ph,A,0.17708847,0.07783983,-0.112806514
+http://arxiv.org/pdf/2204.00078v2,The DESC Stellarator Code Suite Part III: Quasi-symmetry optimization,"The triple product metric is
+believed to be the best quasi-symmetry objective due to its lack of physics assumptions and its
+numerical advantages, but more test cases are needed to conﬁrm if this result generalizes to other
+problems. The purpose has been to showcase the potential of DESC, and discovering reactor-
+relevant stellarator designs is left for future work. As an open source software with a modular structure, the DESC code suite is continually
+improving upon existing performance and expanding to provide new functionality. ",physics.plasm-ph,A,0.12881929,0.13705659,-0.025533257
+http://arxiv.org/pdf/2204.02118v2,Spectroscopic investigations of detachment on the MAST Upgrade Super-X divertor,"Simpliﬁed
+modelling may suggest that MAR/MAD can be important at high density regimes if the
+molecular density in the divertor can be kept suﬃciently high (section 4.1). However,
+whether MAR and MAD contribute signiﬁcantly below the ionisation region in reactors
+with or without divertor baﬄes warrants further study. Reactor concepts with possibly
+tightly baﬄed alternative divertor concepts (ADC) (e.g. ",physics.plasm-ph,A,0.09672913,-0.13560832,0.025941428
+http://arxiv.org/pdf/2204.02424v2,Physical Regimes of Electrostatic Wave-Wave nonlinear interactions generated by an Electron Beam Propagating in a Background Plasma,"We show that the strong Langmuir turbulence exhibits rich physics which hasn’t yet
+been fully understood, such as the formation mechanism of strong perpendicular
+electric fields (giving rise to the beam scattering), intermittent feature, the mechanism
+
+                                                                                                                                        43
+of the kappa distribution function formation, and the k-spectrum (especially a −5
+spectrum). Detailed analyses of these physical features are left for future work. In this work, we limited ourselves to 2D simulations without a background magnetic
+field. ",physics.plasm-ph,C,-0.12596388,0.05006157,-0.023286745
+http://arxiv.org/pdf/2204.02698v1,"A computational study of accelerating, steady and fading negative streamers in ambient air","that there is no unique steady propagation ﬁeld
+A computational study of accelerating, steady and fading negative streamers in ambient air             19
+
+5.2. Outlook                                                     7  Optical diameter (doptical)
+
+An interesting question for future work would be                 6  Electrodynamic diameter (dEz)
+how the steady propagation ﬁeld depends on e.g., the
+applied voltage waveform and the initial conditions. Electrodynamic diameter (dEr)
+
+                                                                 5
+
+Understanding the relationships that were observed       d (mm)  4
+
+between several streamer properties requires further             3
+
+analysis as well. ",physics.plasm-ph,A,0.007991565,-0.004725706,-0.004734637
+http://arxiv.org/pdf/2204.07700v1,Two-dimensional plasma density evolution local to the inversion layer during sawtooth crash events using Beam Emission Spectroscopy,"Understanding the ﬁne-scale 2-D structures will be      some other MHD phenomena. We are making compar-
+in the scope of future work. isons of the measured density variation with predictions
+                                                              of various models, which will be reported in future pub-
+V. DISCUSSION AND SUMMARY                                     lications. ",physics.plasm-ph,A,0.17449237,0.024591286,0.030733317
+http://arxiv.org/pdf/2204.07769v1,Impact of impurities on drift wave instabilities in reversed-field pinch plasmas,"4 clearly demonstrates that the ITG growth rate decreases as Lez changes
+from negative to positive values. We performed a further study on the impact of the tungsten impurities on the
+ITG. Considering ionized impurities (W +6, W +18, and W +30) as impurity species, Fig. ",physics.plasm-ph,B,0.082299374,-0.14311327,0.28821084
+http://arxiv.org/pdf/2204.10947v1,DC-driven positive streamer coronas in airflow,"Figure 2 shows characteristic time traces of the
+current for wind speeds from 0 to 30 m/s and ﬁxed
+applied voltage of 16 kV. Individual current pulses
+are identiﬁed for further analysis, as described in
+section 2.1. Figure 2: Current time-traces for an applied voltage of     (a)  (b)
+16 kV and over the range of wind speeds tested. ",physics.plasm-ph,C,-0.126655,-0.02253137,0.17536011
+http://arxiv.org/pdf/2204.11569v1,Pre-acceleration in the Electron Foreshock I: Electron Acoustic Waves,"This is     tigate pre-acceleration associated with the Whistlers in
+indicated in Fig. 15, which illustrates that the mean        future work. reﬂection location of an electron with respect to xfoot
+increases as a function of time. ",physics.plasm-ph,A,0.1575419,-0.13795917,0.4263559
+http://arxiv.org/pdf/2204.12702v1,Machine learning in the study of phase transition of two-dimensional complex plasmas,"Microgravity Science and Technol-
+iment control based on the live diagnostics is desirable. We                              ogy, 30(5):581–589, Oct 2018.
+leave this for the future work. 15A. ",physics.plasm-ph,A,0.17460686,0.23008355,0.26189712
+http://arxiv.org/pdf/2204.14140v1,Runaway electron velocity-space observation regions of bremsstrahlung hard X-ray spectroscopy,"It has been noted
+that the position and width of such a peak is determined by the angle between the LOS and the mag-
+netic ﬁeld. These matrices pave the way to a 2D reconstruction of the velocity-space distribution of
+runaway electrons, which will be attempted in future works. ACKNOWLEDGEMENTS
+  This work has been carried out within the framework of the EUROfusion Consortium and has re-
+
+ceived funding from the Euratom research and training programme 2014-2018 and 2019-2020 under
+grant agreement No 633053. ",physics.plasm-ph,B,-0.10511008,-0.06710361,0.15692513
+http://arxiv.org/pdf/2205.00896v1,Thermoacoustic shocks in complex plasmas,"(17), it is clear that the shocks can be compressive (ρ > 0)
+                                                             or rarefactive (ρ < 0) according to when the coeﬃcient of
+   Figure 2 displays the proﬁles of A, B and D with re-      the nonlinear convection A is positive or negative. We,
+spect to the collision frequency ν for diﬀerent values of    however, skip the further analysis of this particular solu-
+the other parameters. Here, we note that while the sign      tion rather we look for a solution of Eq. ",physics.plasm-ph,A,0.1514884,0.0031121182,-0.22646734
+http://arxiv.org/pdf/2205.02914v1,Optimization of quasisymmetric stellarators with self-consistent bootstrap current and energetic particle confinement,"For comparison, a
+perfectly axisymmetric ITER hybrid conﬁguration is included                Although quasisymmetry imperfections in the conﬁgura-
+                                                                        tions here are consistently smaller than in pre-2021 conﬁg-
+                                                                        urations, the imperfections at ﬁnite β are larger than in vac-
+                                                                        uum conﬁgurations at the same aspect ratio. In future work,
+                                                                        it would be valuable to understand this phenomenon. One ex-
+                                                                        planation could be the following. ",physics.plasm-ph,A,0.31175667,0.18045878,0.07994792
+http://arxiv.org/pdf/2205.02914v2,Optimization of quasisymmetric stellarators with self-consistent bootstrap current and energetic particle confinement,"DISCUSSION AND CONCLUSIONS                                      sitivity of the conﬁnement to different density and temperature
+                                                                    proﬁles should be studied. In this work we have demonstrated a new method for com-
+puting the bootstrap current in quasisymmetric stellarators,           Another question for future work is the extent to which,
+leveraging the isomorphism with tokamaks. The method en-            within the constraint of QA or QH symmetry, the bootstrap
+ables the optimization of quasisymmetric stellarators such that     current magnitude can be minimized. ",physics.plasm-ph,C,-0.019344896,0.15331742,-0.13087931
+http://arxiv.org/pdf/2205.04441v1,Training and Upgrading Tokamak Power Plants with Remountable Superconducting Magnets,"These calculations demonstrate that in fusion magnets, unlike
+accelerator magnets, it is is the low resistance rather than the high Jc values that
+is required from superconducting materials. This points to future work (beyond the
+scope of this paper) developing fusion-focused high Bc2 superconductors that may be
+new alloys, or perhaps exploit reduced dimensionality to produce high Bc2 [128] in say
+artiﬁcial multilayer alloys that bring the huge potential advantages of lower cost, more
+straightforward robotic handling, higher radiation tolerance and higher strength than
+brittle materials and hence could displace high temperature superconductors. 5.2. ",physics.plasm-ph,C,-0.17456388,0.26668805,0.16660781
+http://arxiv.org/pdf/2205.05797v1,A single-field-period quasi-isodynamic stellarator,"2013). The optimization procedure outlined here can also
+be applied to other types of omnigenous conﬁgurations such as quasi-axisymmetric and
+quasi-helical symmetric ones, and will be the subject of future work. 6. ",physics.plasm-ph,A,0.3723647,0.36814564,-0.0061521903
+http://arxiv.org/pdf/2205.05797v2,A single-field-period quasi-isodynamic stellarator,"Indeed, this conﬁguration is characterized by having a magnetic hill instead of a magnetic
+well as such measure is not available as an explicit target for the optimization at ﬁrst
+order in the expansion. The particular optimization procedure outlined here can also
+be applied to other types of omnigenous conﬁgurations such as quasi-axisymmetric and
+quasi-helical symmetric ones, and will be the subject of future work. 6. ",physics.plasm-ph,C,0.22329858,0.48874044,0.0623288
+http://arxiv.org/pdf/2205.06088v1,Plasma shutter for improved heavy ion acceleration by ultra-intense laser pulses,"The laser pulse energy can be fully represented by the sin2(t)
+proﬁle in the PIC simulations, avoiding the numerical cut of the inﬁnite exponential
+beginning of the Gaussian shape. Therefore, a further analysis of transmitted energy is
+more reliable. The plasma shutter is made of silicon nitride (Si3N4) solid foil. ",physics.plasm-ph,B,-0.184959,-0.2213152,0.13812289
+http://arxiv.org/pdf/2205.06088v2,Design of plasma shutters for improved heavy ion acceleration by ultra-intense laser pulses,"The laser pulse energy can be fully represented by the sin2(t)
+proﬁle in the PIC simulations, avoiding the numerical cut of the inﬁnite exponential
+beginning of the Gaussian shape. Therefore, a further analysis of transmitted energy is
+more reliable. The plasma shutter is made of silicon nitride (Si3N4) solid foil. ",physics.plasm-ph,B,-0.184959,-0.2213152,0.13812289
+http://arxiv.org/pdf/2205.07135v1,"Transport, flow topology and Lagrangian conditional statistics in edge plasma turbulence","III. Finally, we conclude and give some perspectives for future work in Sect. IV. ",physics.plasm-ph,A,0.08971777,0.06967323,0.29209507
+http://arxiv.org/pdf/2205.07838v1,Physics-informed machine learning techniques for edge plasma turbulence modelling in computational theory and experiment,"As an important first test towards translating the computational
+technique to experiment and directly testing reduced turbulence models, this chapter
+explores these approximations for an edge plasma in the Alcator C-Mod tokamak. All neglected physics can be re-inserted as a part of future work to ascertain their
+individual impacts, and as an initial step, the inclusion of helium gas (which is locally
+puffed in the experiment) is tested to gauge perturbative effects of injected neutral
+atoms, e.g. via the GPI diagnostic. ",physics.plasm-ph,B,-0.39749548,-0.014893155,-0.14963655
+http://arxiv.org/pdf/2205.14511v1,Multiphase nonlinear electron plasma waves,"9 that
+autoresonance should occur if the laser intensity exceeds
+I ≈ 1010 W/cm2 for α = 10−3, I ≈ 109 W/cm2 for
+α = 10−4, and I ≈ 108 W/cm2 for α = 10−5. As in the case of ion acoustic waves, we can estimate
+that the autoresonant method of creating large ampli-                                                                               10
+tude coherent structures in plasmas is promising but re-
+quires additional investigation. Should the autoresonant     inﬂuence of other possible eﬀects (collisional and colli-
+method of exciting plasma structures prove to be eﬀec-       sionless damping, various instabilities, higher dimension-
+tive, it would allow for large amplitude structures to be    ality eﬀects, etc. ",physics.plasm-ph,B,-0.11927049,-0.13918471,0.04857528
+http://arxiv.org/pdf/2205.14511v2,Multiphase nonlinear electron plasma waves,"Using Whitham’s averaged Lagrangian pro-                                                                              10
+cedure we analytically developed a reduced set of ordi-
+nary diﬀerential equations for the amplitudes and phases    tude coherent structures in plasmas is promising but re-
+of the waves. This analytical weakly nonlinear theory is    quires additional investigation. Should the autoresonant
+necessary to understand how to choose the appropriate       method of exciting plasma structures prove to be eﬀec-
+parameters to drive and control such two-phase struc-       tive, it would allow for large amplitude structures to be
+tures. ",physics.plasm-ph,B,-0.019640464,-0.055809245,-0.13166499
+http://arxiv.org/pdf/2205.15832v1,2022 Review of Data-Driven Plasma Science,"Furthermore, such ap-
+plasma treatment plus suitable gas phase composition          proaches are, even if available, typically time-consuming
+(oxygen admix), setting the stage for singlet oxygen as       and often accumulate errors arising from inaccurate input
+the underlying reactive species. For further analysis and     parameters in their analyses. Therefore, although such
+details see Wenske et al. ",physics.plasm-ph,B,-0.025113465,-0.1671539,0.039561637
+http://arxiv.org/pdf/2205.15998v1,Turbulence Generation by Shock Interaction with a Highly Non-Uniform Medium,"DISCUSSION
+
+   Although we have shown here a degree of control over
+turbulence generation through varying the average At-
+wood number A of the pre-shock state, there may be
+signiﬁcant freedom yet to explore in tailoring the pre-
+shock density state to generate a desired turbulent state. Now we brieﬂy outline a few ways in which this could be
+useful, as motivation for future work. tends to be lower (the inferred relative magnetic ﬁeld is                                                                           11
+higher) for lower Mach number shocks where the post-
+shock is cooler. ",physics.plasm-ph,C,-0.13519493,0.24559294,-0.0372144
+http://arxiv.org/pdf/2206.01074v1,AtoMEC: an open-source average-atom Python code,"A. Cangi. First-principles derivation and properties
+Conclusions and future work
+                                                                                  of density-functional average-atom models. Phys. ",physics.plasm-ph,A,0.38697225,-0.33125746,-0.021694293
+http://arxiv.org/pdf/2206.01074v2,atoMEC: An open-source average-atom Python code,"T. J. Callow, S. B. Hansen, E. Kraisler, and A. Cangi. First-principles derivation and properties of density-functional
+Conclusions and future work                                                       average-atom models. Phys. ",physics.plasm-ph,A,0.3554895,-0.3544039,-0.023771403
+http://arxiv.org/pdf/2206.01637v1,Unsupervised Discovery of Non-Linear Plasma Physics using Differentiable Kinetic Simulations,"This allows
+the neural network training process to become unsupervised and data-eﬃcient. In future work, we aim to dive deeper into the discovered phenomenon to better under-
+stand the mechanism and derive some scalings. Reduced models of wavepacket dynamics
+in SRS remain useful for the development of inertial conﬁnement fusion schemes where
+laser-plasma instabilities occur. ",physics.plasm-ph,B,-0.11747357,0.024540022,-0.0033783359
+http://arxiv.org/pdf/2206.03648v1,Thermal ion kinetic effects and Landau damping in fishbone modes,"2016), but the simulation with them requires further testing and improvement of the
+matrix solver. We plan to do simulations with electric ﬁelds in both ﬂuid and kinetic
+equations, to study the two ﬂuid eﬀects self-consistently in future work. Acknowledgments
+   We would like to thank Yasushi Todo, Masahiko Sato, Ruirui Ma, Feng Wang, Xiaolong
+
+Zhu, Zhihong Lin, Guillaume Brochard, Ge Dong and Chalson Kim for fruitful discussion. ",physics.plasm-ph,A,0.22670591,0.08838086,-0.15589418
+http://arxiv.org/pdf/2206.06989v1,Density jump as a function of magnetic field for switch-on collisionless shocks in pair plasmas,"This is conﬁrmed below in Section 5, where Stage 2 is analysed. For now, in order to document the diﬀerences between our 2 branches, we further study
+Stage 1 by computing its entropy and its Alfv´enic downstream velocity. 4.4. ",physics.plasm-ph,A,0.10602527,-0.01881586,-0.122693
+http://arxiv.org/pdf/2206.08310v1,Turbulent Transport in Tokamak-plasmas: A Thermodynamic Approach,"Detailed calculations at microscopic
+
+           40
+
+           35
+
+           30
+
+           25
+
+CgyroBohm  20
+
+           15
+
+           10
+
+           5
+
+           0
+
+           15  20          25  30
+
+                   r (cm)
+
+Figure 17: The gyro-Bohm coeﬃcient vs the radial coordinate r for FTU-plasmas
+close to the edge of the Tokamak. level will be subject of a future work. 7. ",physics.plasm-ph,C,-0.23257431,0.12690799,-0.11561014
+http://arxiv.org/pdf/2206.08310v2,Turbulent Transport in Tokamak-plasmas: A Thermodynamic Approach,"To accomplish this task, we have:
+
+1) to assume the validity of the isotropic hypothesis for transport coeﬃcients;
+2) to solve, most likely numerically, the (much) more complex tensorial transport
+equations reported in [30], with the appropriate boundary conditions, for DTT
+and ITER;
+and, once obtained the expression of the component g11,
+3) to derive the expression for the gyro-Bohm coeﬃcient. This will be the subject of future work. 7. ",physics.plasm-ph,C,0.1612696,0.20989719,-0.22273876
+http://arxiv.org/pdf/2206.08414v1,An primary data management for Fusion AI study,"All functions have been developed and have been tested on the latest
+machine learning work about outermost magnetic ﬁeld reconstruction. We will test our system in several tokamak databases and develop compatible
+visualization tools in future work. The error correction engine will be upgraded
+by analyzing each tokamak diagnosis and will process the values exceeding the
+corresponding diagnostic limitation. ",physics.plasm-ph,C,-0.30530173,0.41112688,0.09514412
+http://arxiv.org/pdf/2206.08414v2,A data management system for machine learning research of tokamak,"All functions have been developed and have been tested on real
+fusion ML work about the last closed magnetic surface reconstruction [36]. In future work, the error correction engine will be upgraded by analyzing
+each tokamak diagnosis and will process the values exceeding the corresponding
+diagnostic limitation. An automatic data cleaning will be developed to automat-
+ically ﬁlter out outlier experiments and error experiments. ",physics.plasm-ph,C,-0.29576147,0.38461894,0.052784435
+http://arxiv.org/pdf/2206.08414v3,A data management system for machine learning research of tokamak,"MDSplus, on the other hand,               real fusion ML work about the last closed magnetic surface
+has the advantage of supporting mainly traditional simulation          reconstruction [26]. studies, and it can be directly interfaced with fusion diagnostic
+systems, which is something our system cannot do at the                   In future work, the error correction engine will be upgraded
+moment. Our data management is good for fusion ML research             by analyzing each tokamak diagnosis and will process the
+but can not substitute the MDSplus database. ",physics.plasm-ph,C,-0.22690281,0.38773906,0.10394351
+http://arxiv.org/pdf/2206.08643v1,Experimental scaling of the scrape-off layer particle flux width by outboard divertor Langmuir probes with favorable Bt configuration on EAST,"To ensure the reliability of the Div-LP calibration in the next
+section, these discharges are included in the calibration procedure. In this paper, we focus on the
+scaling of λjs in deuterium plasmas, and the scaling of λjs in helium plasmas will be performed in
+future work. The discharges are classified into three types: the Ohmic discharges, the L-mode
+discharges, and the H-mode discharges. ",physics.plasm-ph,B,-0.28042284,-0.2512172,-0.03561469
+http://arxiv.org/pdf/2206.09964v2,Data-driven model for divertor plasma detachment prediction,"2020) shows that indirect approach has several
+advantages, including improved predictive performance, and more data eﬃcient. In this
+paper, we focus on forward prediction (i.e., x → z → y), whereas the inverse prediction
+(optimization problem) is subject to future work. 3. ",physics.plasm-ph,A,0.22271848,0.2554963,0.10160092
+http://arxiv.org/pdf/2206.12032v1,Hot-tail electrons' impact on assimilation and injection penetration of D2 Shattered Pellet Injections,"Last, it could be envisioned that hot electrons from core could be released to the edge at
+the time of TQ or partial thermal collapses during the pre-TQ phase, causing additional
+ablation if their mean-free-path is longer than the connection length. The above eﬀects
+are beyond the scope of our current study, and will be pursued in future works. One future expansion of the present work is the inclusion of impurity species. ",physics.plasm-ph,B,0.05587259,-0.1071247,0.30193865
+http://arxiv.org/pdf/2206.12507v1,Electromagnetic Non-Reciprocity in a Magnetized Plasma Circulator,"Limited by the scope of this paper, we will inves-          netic ﬁeld strength is 104 mT. The performance could
+tigate this question more in-depth in future works. be further improved by enlarging the waveguide struc-
+tures to support lower plasma frequencies and increasing                                                                               7
+the magnetic ﬁeld strength to increase the total isolation. ",physics.plasm-ph,C,-0.18289652,0.14647733,0.14620015
+http://arxiv.org/pdf/2206.12507v2,Electromagnetic Nonreciprocity in a Magnetized Plasma Circulator,"The performance could
+sions. Limited by the scope of this paper, we will inves-          be further improved by enlarging the waveguide struc-
+tigate this question more in-depth in future works. tures to support lower plasma frequencies and increasing                                                                               7
+the magnetic ﬁeld strength to increase the total isolation. ",physics.plasm-ph,C,-0.11701794,0.11135103,0.20075488
+http://arxiv.org/pdf/2206.12507v3,Electromagnetic Nonreciprocity in a Magnetized Plasma Circulator,"The key diﬀerences between
+                                                            these models are the presence of waveguides and colli-
+                                                            sions. Limited by the scope of this paper, these phenom-
+                                                            ena will be further detailed in future works. FIG. ",physics.plasm-ph,A,0.20727393,0.0016410016,0.15206677
+http://arxiv.org/pdf/2206.13846v1,Testing the conservative character of particle simulations: II. Spurious heating of guiding centers and full orbits subject to fluctuations expressed in terms of ${\bf E}$ and ${\bf B}$,"While N -point averaging truly smoothes the ﬁeld’s              the full orbit and GC models inside a hybrid code should
+landscape at each step, a gyrating simulation particle in-            be done under conditions where the eﬀect of PIC noise is
+ﬂuences the ﬁeld during its gyration and may interact                 comparable. This is left for future work, noting that the
+with its own noise — especially when strong resonances                instantaneous PIC noise level does not necessarily reﬂect
+are at play, where relatively large portions of phase space           the actual impact that the noise has on the results. It
+form coherent structures that step in sync with waves in              also depends on how well the noise’s inﬂuence is dimin-
+the electric or electromagnetic ﬁeld. ",physics.plasm-ph,A,0.19822714,-0.013760949,0.047998868
+http://arxiv.org/pdf/2206.14894v1,One--Component Plasma of a Million Particles via angular--averaged Ewald potential: A Monte Carlo study,"[1] (e.g., Eq. (7) or
+                                                   tential [1, 3, 8], which is used in further analysis. (B3)). ",physics.plasm-ph,A,0.30018705,0.08933294,0.2553345
+http://arxiv.org/pdf/2207.04119v1,Experimental Evidence of Plasmoids in High-$β$ Magnetic Reconnection,"Because the bubbles are nearly circu-           eraging the hydrogen and carbon (in a 1:1 ratio, and fully ion-
+lar, the region where they collide and interact does not form          ized). Quantitatively addressing the details of spatial structure
+a long, uniform idealized current sheet and instead has a rela-        and dynamics and species separation associated with a two-
+tively small region of uniformity ﬂanked by areas where edge           ion ﬂuid plasma is a signiﬁcant challenge for future work. This work represents a signiﬁcant step forward in the un-
+                                                                       derstanding of high-β magnetic reconnection. ",physics.plasm-ph,B,-0.23161948,0.041535225,0.10012832
+http://arxiv.org/pdf/2207.05427v1,Beyond the Oberbeck-Boussinesq and long wavelength approximation,"Our study is en-
+abled by a full-F gyro-ﬂuid model that exploits a recently        The validity of the long wavelength and Oberbeck-
+developed arbitrary wavelength polarization closure [19]. Boussinesq approximation on turbulence in magnetized
+                                                               plasmas will be assessed in future work. However, the
+   Most importantly, we ﬁnd that the inclusion of po-          herein presented results on the permissibility of these ap-
+                                                               proximation questions current eﬀorts in edge and scrape-
+                                                               oﬀ layer modeling of fusion plasma that are based on at
+                                                               least one of this approximations. ",physics.plasm-ph,C,-0.23965293,0.1682948,-0.2511708
+http://arxiv.org/pdf/2207.05695v1,A machine-learning-based tool for last closed magnetic flux surface reconstruction on tokamak,"In the future, we will realize
+a real connection with tokamak magnetic ﬁeld control instead of testing in a tokamak magnetic
+ﬁeld simulation environment. Further validation of the full proposal is also one of the directions
+for future work. Testing of 1D shifting window models in general areas of machine learning such as
+NLP is also one of the next directions of work. ",physics.plasm-ph,C,-0.23486105,0.24890876,0.030554418
+http://arxiv.org/pdf/2207.06610v1,Dynamics and statistics of a self-organized temperature corrugation in tokamak plasmas,"It is noteworthy that the KSTAR
+avalanche regime with the intermittent Te corrugation is close to the stationary internal transport barrier regime [45]. Investigation on the relation between the stability of shear ﬂow layers and the internal transport barrier will be left for
+future work. Inﬂuence of the avalanche-like event on the Te corrugation statistics and evolution could be manifested
+
+                                                                           6
+Figure 6: (a) Te measurement at R ≈ Rav. ",physics.plasm-ph,B,-0.09096253,-0.0006485246,-0.033440195
+http://arxiv.org/pdf/2207.08726v1,Radiative pulsed L-mode operation in ARC-class reactors,"5,
+island electron densities of 3 × 1020 m−3 also
+based on the TGYRO modeling results, and
+a conservative LH to bootstrap current ratio
+of 0.5 to 1.0 based on the relative currents in
+the ACCOME and CQL3D modeling results. Perpendicular electron thermal diﬀusivity in
+the magnetic island was assumed to be ∼ 0.1
+m2/s (this is an order of magnitude estimate
+and could be reﬁned in future work). For
+these parameters, it was predicted that islands
+would be automatically stabilized for island
+widths ∼ 4 to 5 cm. ",physics.plasm-ph,C,-0.07043216,0.10308523,0.21713656
+http://arxiv.org/pdf/2207.08726v2,Radiative pulsed L-mode operation in ARC-class reactors,"power density to the q = 2 surface was            Perpendicular electron thermal diﬀusivity in
+then chosen. Raytracing simulations used 75       the magnetic island was assumed to be ∼ 0.1
+rays, a spectral width of ∆n = 0.4, and a         m2/s (this is an order of magnitude estimate
+launcher height of 0.75 m. The results of this    and could be reﬁned in future work). For
+scan and the ARC RPL-mode power density           these parameters, it was predicted that islands
+proﬁles produced with the ﬁnal current drive      would be automatically stabilized for island
+Radiative Pulsed L-Mode ARC                        17
+
+widths ∼ 4 to 5 cm. ",physics.plasm-ph,C,-0.13299623,0.12213282,0.28784448
+http://arxiv.org/pdf/2207.08984v1,Permanent magnet optimization for stellarators as sparse regression,"Many other initial conditions
+dipole locations, adding another D constraints to the values in    were tested to verify that, with sufﬁcient regularization, the
+m if each constraint is active. Each constraint is a convex but
+not separable constraint on the mi and could be implemented        algorithm correctly converges to the minimum of this convex
+with barrier functions in future work. problem, as in Fig. ",physics.plasm-ph,A,0.44817427,0.17799285,-0.12566333
+http://arxiv.org/pdf/2207.09011v1,Verifying raytracing/Fokker-Planck lower-hybrid current drive predictions with self-consistent full-wave/Fokker-Planck simulations,"The primary discrepancy between raytracing and full-wave simulations,
+the reduced current drive eﬃciency observed in full-wave simulation, may be explained by
+systemic error introduced from the non-positive deﬁniteness of the full-wave quasilinear
+diﬀusion coeﬃcient. This presents an obvious topic for future work, but as positive
+deﬁnite formulations of the quasilinear diﬀusion coeﬃcient are > O(106) more expensive
+than the standard formulation of Dql used here (Lee et al. 2017a), they were deemed
+too computationally demanding for implementation in the LHCD problem. ",physics.plasm-ph,A,0.1691665,0.03556027,-0.053284783
+http://arxiv.org/pdf/2207.10000v1,Lagrangian particle simulation of hydrogen pellets and SPI into runaway electron beam in ITER,"5. Conclusions and future work
+
+Lagrangian particle simulation of the evolution of ablation clouds of hydrogen pellets
+and SPI fragments heated by a runaway electron beam in ITER have been performed. To accomplish this task, capabilities of the Lagrangian particle pellet / SPI code [19]
+have been extended by including physics models for the injection of hydrogen pellets
+and SPI into a runaway electron beam. ",physics.plasm-ph,B,-0.07530297,-0.17426026,0.07190135
+http://arxiv.org/pdf/2207.12450v1,Runaway electron deconfinement in SPARC and DIII-D by a passive 3D coil,"Fusion, 37:1335,
+of MHD instabilities. Additional diﬀerences between                  1997.
+the particular equilibria chosen could also contribute
+and further study would be needed to establish more         [3] D. G. Whyte, T. C. Jernigan, D. A. Humphreys, A. W.
+clearly the relative importance of these factors. Hyatt, C. J. Lasnier, P. B. ",physics.plasm-ph,A,0.127836,-0.051516123,-0.0024212953
+http://arxiv.org/pdf/2207.13773v1,Energizing charged particles by an orbit instability in a slowly rotating magnetic field,"We note that this system has a Hamiltonian structure and therefore may be amenable to
+analysis by a recently developed generalized Floquet theory for non-periodic Hamiltonian
+systems [14]. This possibility will be explored in future work. Consider the rotating magnetic ﬁeld (RMF)
+
+                          B˜ (τ ) = ez + β cos τ ex + sin τ ey ,                                       (14)
+
+where =˙ α−1 =˙ ΩΩ01 , β = BB10 , and Ω1 = 2Tπ . ",physics.plasm-ph,C,0.18351941,0.2927177,-0.057659224
+http://arxiv.org/pdf/2207.13773v2,Energizing charged particles by an orbit instability in a slowly rotating magnetic field,"We note that this system has a Hamiltonian structure and therefore may be amenable to
+analysis by a recently developed generalized Floquet theory for non-periodic Hamiltonian
+systems [21]. This possibility will be explored in future work. Consider the rotating magnetic ﬁeld (RMF)
+
+                      B˜ (τ ) = ez + β cos τ ex + sin τ ey ,                             (14)
+
+where =˙ α−1 =˙ ΩΩ01 , β = BB10 , and Ω1 = 2Tπ . ",physics.plasm-ph,C,0.18455958,0.29307282,-0.059390172
+http://arxiv.org/pdf/2207.14026v1,Detailed investigation on x-ray emission from laser driven high-Z foils in a wide intensity range : role of conversion layer and reemission zone,"The
+results thus obtained are further used to determine the emission characteristics of both regions
+
+separately. In our simulations, since the conversion efﬁciencies are deﬁned as integrated quantities
+in energy and time, further analysis is performed with radiated energies instead of ﬂuxes. In the
+CL, with laser acting as an input source, equal emission of radiation is obtained in both inward
+and outward direction. ",physics.plasm-ph,B,0.009332838,-0.12816058,0.049553365
+http://arxiv.org/pdf/2207.14716v1,Ab initio path integral Monte Carlo simulations of hydrogen snapshots at warm dense matter conditions,"The reason for this can
+                                                              be traced back to the fact that LDA stems from a UEG
+      0.75                                                    ground state calculations and, by deﬁnition, cannot fully
+                                                              account for ionic inﬂuences. We note that our PIMC re-
+      0.50  KS-DFT rs = 4                                     sults constitute an ideal benchmark for the assessment of
+            PIMC rs = 4 PA                                    diﬀerent XC-functionals [69, 70], which will be pursued
+                                                              in more detail in future works. 0.0 0.2 0.4 0.6 0.8 1.0
+                              z/L                                A key advantage of the snap-PIMC approach is the
+                                                              straightforward access to the exact static electronic re-
+FIG. ",physics.plasm-ph,A,0.2998258,-0.30849355,0.061891884
+http://arxiv.org/pdf/2207.14716v2,Ab initio path integral Monte Carlo simulations of hydrogen snapshots at warm dense matter conditions,"The reason for this
+                                                              can be traced back to the fact that LDA stems from a
+                                              KS-DFT rs = 2   UEG ground state calculations and, by deﬁnition, can-
+                                              PIMC rs = 2 PA  not fully account for ionic inﬂuences. We note that our
+                                                              PIMC results constitute an ideal benchmark for the as-
+        0.0 0.2 0.4 0.6 0.8 1.0                               sessment of diﬀerent XC-functionals [72, 73], which will
+                                z/L                           be pursued in more detail in future works. 1.50                                                       A key advantage of the snap-PIMC approach is the
+                                                              straightforward access to the exact static electronic re-
+      1.25                                                    sponse of hydrogen, as we have demonstrated in Ref. ",physics.plasm-ph,A,0.31537342,-0.34157485,0.09183489
+http://arxiv.org/pdf/2208.00279v1,On the excitation of Ion Acoustic Soliton in quiescent plasma confined by multi-pole line cusp magnetic field,"The probes are based near the local plasma potential ~12V to
+measure the Electron saturation current (𝛿𝐼𝑒𝑠𝑎𝑡). These data are acquired using an 8-bit digital
+oscilloscope with different sampling rates and stored for further analysis. 3. ",physics.plasm-ph,B,-0.23556732,-0.23775262,0.27406248
+http://arxiv.org/pdf/2208.00279v2,On the excitation of Ion Acoustic Soliton in quiescent plasma confined by multi-pole line cusp magnetic field,"The probes are based near the local plasma potential ~12V to
+measure the Electron saturation current (𝛿𝐼𝑒𝑠𝑎𝑡). These data are acquired using an 8-bit digital
+oscilloscope with different sampling rates and stored for further analysis. 3. ",physics.plasm-ph,B,-0.2355673,-0.23775247,0.27406242
+http://arxiv.org/pdf/2208.00559v1,Scaling of electron heating by magnetization during reconnection and applications to dipolarization fronts and super-hot solar flares,"For solar corona applications, electron-ion collisions may need
+to be taken into account, and observations should be used to test the functional depen-
+dence of the temperature on the magnetic ﬁeld strength during solar ﬂares predicted here,
+as well as whether a guide ﬁeld suppresses such high temperatures. The physical size of
+the region where electrons are remagnetized is expected from the simulations to be rel-
+atively small, so questions about how ring distributions thermalize and whether they con-
+trol the temperature over a greater volume, as would be necessary to explain the tem-
+peratures seen in super-hot ﬂares, would be excellent topics for future work. Future work
+to quantify the rate of production of anisotropy-driven wave modes such as whistlers and
+their interaction with the downstream plasma would be important for applications. ",physics.plasm-ph,B,-0.23067687,0.0005511418,0.08697377
+http://arxiv.org/pdf/2208.00698v1,A Novel Approach on Dielectric Barrier Discharge using Printed Circuit Boards,"The RNS of (5) were expected to cause a higher                                                                             ﬁlaments’ shape to the gas-composition will become addressed
+inactivation performance [9]. Contrarily, the inactivation rate                                                                        by further research. does not improve from minute 2 to 3, when the quenching                                                                                The microbiological study unveils inactivation rates of 10−4 to
+effect takes place. ",physics.plasm-ph,A,0.111941606,-0.07099345,0.31924585
+http://arxiv.org/pdf/2208.01346v1,Gyrokinetic simulations of plasma turbulence in a Z-pinch configuration using a moment approach and advanced collision operators,"We show that the analysis of the linear
+results is not suﬃcient to predict the diﬀerence observed in the saturated transport level. However, we observe a direct link between ZF damping and transport level, which could
+be used to make predictions of the transport level in a future work. In conclusion, this work is a step forward in the simulation of the tokamak boundary
+based on the use of the gyromoment approach, which presents the potential of bridging
+the gap between kinetic and ﬂuid models. ",physics.plasm-ph,C,-0.1576826,0.09669013,-0.3094576
+http://arxiv.org/pdf/2208.01346v2,Gyrokinetic simulations of plasma turbulence in a Z-pinch using a moment based approach and advanced collision operators,"the semi-collisional
+
+closure proposed by Zocco & Schekochihin (2011) and Loureiro et al. (2016), are left for
+
+future work. Focusing on the nonlinear term in Eq. ",physics.plasm-ph,A,0.28544098,0.043413635,-0.11436024
+http://arxiv.org/pdf/2208.02179v1,Development and application of a hybrid MHD-kinetic model in JOREK,"Then, it is applied to a high
+                                                           energetic particle pressure discharge in the ASDEX Upgrade tokamak using a realistic
+                                                           non-Maxwellian distribution of EPs, reproducing aspects of the experimentally observed
+                                                           instabilities. Non-linear applications are possible based on the implentation, but will re-
+                                                           quire dedicated veriﬁcation and validation left for future work. 1
+I. ",physics.plasm-ph,B_centroid,-0.39512143,-0.15832716,-0.12616473
+http://arxiv.org/pdf/2208.02179v2,Development and application of a hybrid MHD-kinetic model in JOREK,"Then, it is applied to a high
+                                                           energetic particle pressure discharge in the ASDEX Upgrade tokamak using a realistic
+                                                           non-Maxwellian distribution of EPs, reproducing aspects of the experimentally observed
+                                                           instabilities. Non-linear applications are possible based on the implentation, but will re-
+                                                           quire dedicated veriﬁcation and validation left for future work. 1
+I. ",physics.plasm-ph,B,-0.39512143,-0.15832716,-0.12616473
+http://arxiv.org/pdf/2208.02179v3,Development and application of a hybrid MHD-kinetic model in JOREK,"Then, it is applied to a high
+                                                            energetic particle pressure discharge in the ASDEX Upgrade tokamak using a realistic
+                                                            non-Maxwellian distribution of EPs, reproducing aspects of the experimentally observed
+                                                            instabilities. Non-linear applications are possible based on the implentation, but will re-
+                                                            quire dedicated veriﬁcation and validation left for future work. 1
+I. ",physics.plasm-ph,B,-0.39512143,-0.15832716,-0.12616473
+http://arxiv.org/pdf/2208.02179v4,Development and application of a hybrid MHD-kinetic model in JOREK,"Then, it is applied to a high energetic particle pressure discharge in the ASDEX Upgrade
+                                                            tokamak using a realistic non-Maxwellian distribution of EPs, reproducing aspects of the
+                                                            experimentally observed instabilities. Non-linear applications are possible based on the
+                                                            implentation, but will require dedicated veriﬁcation and validation left for future work. 1
+I. ",physics.plasm-ph,B,-0.3897045,-0.15457408,-0.118369274
+http://arxiv.org/pdf/2208.02202v1,A phase-shift-periodic parallel boundary condition for low-magnetic-shear scenarios,"[21]. Finally, in the context of
+gyrokinetic simulations of turbulent plasmas, future work should continue to evaluate the
+use of phase-shift-periodic boundary conditions for more physically relevant situations; while
+the phase-shift-periodic boundary conditions perform well for the Cyclone Base Case studied
+here, ideally it should also be tested for cases with more complex ﬂux-surface shaping, as
+well as for non-axisymmetric geometries (stellarators). ACKNOWLEDGMENTS
+
+   The authors would like to thank Plamen G. Ivanov for many fruitful discussions. ",physics.plasm-ph,C,-0.22575507,0.2717273,-0.323009
+http://arxiv.org/pdf/2208.02202v2,A phase-shift-periodic parallel boundary condition for low-magnetic-shear scenarios,"[25]. Finally, in the context of
+gyrokinetic simulations of turbulent plasmas, future work should continue to evaluate the
+use of phase-shift-periodic boundary conditions for more physically relevant situations; while
+the phase-shift-periodic boundary conditions perform well for the Cyclone Base Case studied
+here, ideally it should also be tested for cases with more complex ﬂux-surface shaping, as
+well as for non-axisymmetric geometries (stellarators). ACKNOWLEDGMENTS
+
+   The authors would like to thank Plamen G. Ivanov for many fruitful discussions. ",physics.plasm-ph,C,-0.22609778,0.2717646,-0.32296944
+http://arxiv.org/pdf/2208.02350v1,Energy transport during 3D small-scale reconnection driven by anisotropic plasma turbulence,"The equipment was funded by BEIS capital fund-
+  We show that the contribution to the energy-density             ing via STFC Capital Grants ST/K000373/1 and
+transfer from collision is not negligible. To determine           ST/R002363/1 and STFC DiRAC Operations Grant
+the exact source of this contribution, future work must           ST/R001014/1. DiRAC is part of the National e-
+use large number of particles while keeping the 3D geom-          Infrastructure. ",physics.plasm-ph,A,0.06694974,-0.07790002,0.13299742
+http://arxiv.org/pdf/2208.02351v1,Energetic particle loss mechanisms in reactor-scale equilibria close to quasisymmetry,"Diﬀusion across J surfaces may contribute toward convective losses by
+  enabling transport onto lost orbits. Quantifying the impact of non-conservation of
+  J will require a comparison of GC with orbit-averaged calculations, which will be
+  explored in future work. Radially local metrics for fast ions based on the bounce-
+  averaged motion may not always be applicable. ",physics.plasm-ph,B,-0.0043331683,0.02803048,-0.106484786
+http://arxiv.org/pdf/2208.02351v2,Energetic particle loss mechanisms in reactor-scale equilibria close to quasisymmetry,"Diﬀusion across J surfaces may contribute toward convective losses by
+     enabling transport onto lost orbits. Quantifying the impact of non-conservation of
+     J will require a comparison of GC with orbit-averaged calculations, which will be
+     explored in future work. Radially local metrics for fast ions based on the bounce-
+     averaged motion may not always be applicable. ",physics.plasm-ph,B,-0.0043331683,0.02803048,-0.106484786
+http://arxiv.org/pdf/2208.02897v1,Wall cratering upon high velocity normal dust impact,"[16] A. Shalpegin, F. Brochard, S. Ratynskaia, P. Tolias et al.,
+5. Summary and future work                                                             Nucl. Fusion 55 (2015) 112001. ",physics.plasm-ph,A,0.101030566,0.12422203,0.13640918
+http://arxiv.org/pdf/2208.03362v1,Filamentary plasma eruptions and the heating and acceleration of electrons,"18
+
+   Issues not addressed in this study but planned to be tack-                12Luca Comisso and Lorenzo Sironi. The Interplay of Magnetically Dom-
+led in future work include: (i) The moderate acceleration that                 inated Turbulence and Magnetic Reconnection in Producing Nonthermal
+the electrons undergo is a convective process, implying that a                 Particles. Astrophysical Journal, 886(2):122, December 2019. doi:
+classical Fokker-Planck type approach with just a convective                   10.3847/1538-4357/ab4c33. ",physics.plasm-ph,B,-0.22059792,-0.015781697,0.13659897
+http://arxiv.org/pdf/2208.03362v2,Filamentary plasma eruptions and the heating and acceleration of electrons,"the signature of runaway electrons, given that they almost
+all escape to the wall, and they form a non-Maxwellian tail,           Issues not addressed in this study but planned to be tackled
+whose high energy end is not affected by collisions. We note        in future work include: (i) The moderate acceleration that the
+that also increased losses of fast ions have been reported from     electrons undergo is a combined convective and diffusive pro-
+particle tracing in the electromagnetic ﬁelds of ELM simula-        cess, implying that a classical Fokker-Planck type approach
+tions done with JOREK, which moreover were conﬁrmed in              should be appropriate for the modeling of transport in energy
+experimental measurements at several tokamaks65,66. space. ",physics.plasm-ph,B,-0.21479562,-0.19421479,0.067115866
+http://arxiv.org/pdf/2208.04535v1,The structure of 3D collisional magnetized bow shocks in pulsed-power-driven plasma flow,"2010), or Faraday
+rotation polarimetry (Swadling et al. 2014), can be performed in future work. 6. ",physics.plasm-ph,C,-0.10169442,0.30444852,0.16359872
+http://arxiv.org/pdf/2208.05052v1,Simultaneous measurements of unstable and stable Alfvén Eigenmodes in JET,"These disagreements between experiment and simulation still need to be resolved. One
+resolution could be found by manipulating the various inputs within experimental error
+bars, and that exploration is left for future work. The codes also include diﬀerent physics
+(see [8] and others for further details): NOVA-K is a perturbative eigenvalue code with some
+contributions to the linear growth/damping rate calculated analytically, whereas MEGA is
+a ﬁrst-principle, resistive, fully nonlinear initial value code. ",physics.plasm-ph,A,0.19190276,-0.01959735,0.032736972
+http://arxiv.org/pdf/2208.05323v1,Development of high-frequency magnetic probe for plasma diagnostics of XuanLong-50,"The study of energetic particle instability is important
+for understanding the physical image of wave-particle interactions, and energetic particle
+confinement. The flow of the paper is as follow: Section 2 describes the diagnostic setup and Section 3
+discusses measurements, preliminary analysis, and future work. 2. ",physics.plasm-ph,B,-0.07390087,-0.26003954,0.11930084
+http://arxiv.org/pdf/2208.06159v1,"Ultra Long Turbulent Eddies, Magnetic Topology, and the Triggering of Internal Transport Barriers in Tokamaks","This enables a novel strategy to improve conﬁnement — by carefully selecting
+a high-order rational value of the safety factor, the eddy can box itself in and squeeze itself
+to a smaller perpendicular size. Several important considerations like plasma shaping (which
+can cause strong local magnetic shear), collisions (which may shorten the parallel correlation
+length), and electromagnetic eﬀects (which allow the turbulence itself to modify the magnetic
+ﬁeld geometry) are left for future work. Additionally, stellarators (which commonly have
+very weak global magnetic shear) have exhibited improved conﬁnement around rational
+magnetic surfaces [37], but are also left for future study. ",physics.plasm-ph,C,-0.27872723,0.4620163,-0.0183908
+http://arxiv.org/pdf/2208.06605v1,Self-Sustained Non-Equilibrium Co-existence of Fluid and Solid States in a Strongly Coupled Complex Plasma System,"However, the particles which move randomly due to their stochastic thermal motion in the liquid state
+are also considered in the analysis. A sequence of images is stored in a computer for further analysis. IDL and MATLAB-based
+software are employed for tracking the individual particles over time to study their dynamics. ",physics.plasm-ph,A,0.06848459,0.008897545,0.15779501
+http://arxiv.org/pdf/2208.06786v1,Numerical simulations of a continuously injected relativistic electron beam relaxation into a plasma with large-scale density gradients,"the obtained results. Increasing of energy spreads up to         The study of the inﬂuence of these and other factors on
+keV scales in the relativistic case does not change essen-       the electron beam relaxation process in inhomogeneous
+tially the value of the instability increment and should         plasma is of interest for further research. not change essentially the result. ",physics.plasm-ph,B,-0.07405734,-0.3257238,-0.041477617
+http://arxiv.org/pdf/2208.06786v2,Numerical simulations of a continuously injected relativistic electron beam relaxation into a plasma with large-scale density gradients,"the obtained results. Increasing of energy spreads up to         The study of the inﬂuence of these and other factors on
+keV scales in the relativistic case does not change essen-       the electron beam relaxation process in inhomogeneous
+tially the value of the instability increment and should         plasma is of interest for further research. not change essentially the result. ",physics.plasm-ph,B,-0.07405734,-0.3257238,-0.041477617
+http://arxiv.org/pdf/2208.08038v1,Modeling of bound electron effects in particle-in-cell simulation,"These effects cannot be observed
+when the plasma is initially fully ionized and thus the response of bound electrons is
+10
+
+absent. Detailed studies of x-ray driven wakeﬁeld acceleration in crystals, such as wake
+excitation and electron injection, will be our future work. (a)  (b)
+
+  Figure 6: The electric ﬁeld Ex (a) and Ey (b) for the simulation of laser wakeﬁeld acceleation in a crystal. ",physics.plasm-ph,B,-0.1704043,-0.18581963,0.19548815
+http://arxiv.org/pdf/2208.09161v1,Triggering of tearing instability by impurity radiation through resistive interchange reversal in a tokamak,"Although
+the crude MRE we use to ﬁt the simulation data is able to capture the main features
+of the impurity radiation driven tearing mode growth, it would be more helpful to
+have a more complete and exact form of the MRE in order to account for not only the
+main mechanisms revealed in this work quantitatively, but also other secondary features
+neglected here, such as the vortex dynamics and the asymmetry in island structure, for
+examples. Such a development would require substantially more involved eﬀorts beyond
+the scope of this paper, and it is planned for future work. 6. ",physics.plasm-ph,C,0.06227833,0.0932826,0.09355222
+http://arxiv.org/pdf/2208.10566v1,Laboratory modelling of solar wind interaction with Lunar Magnetic Anomalies,"The zero moment of time corresponds
+to the discharge of theta pinch. Vertical lines mark the time intervals
+for averaging signals that are used in further analysis. The theta-pinch plasma has a dynamic character and a shot-to-
+shot variability. ",physics.plasm-ph,B,-0.0783698,-0.16466326,0.14868195
+http://arxiv.org/pdf/2208.10620v1,Greedy permanent magnet optimization,"An additional complica-
+                                                                         tion comes from the binary and grid-aligned nature of GPMO;
+  Appendix A: A brief review of greedy algorithm guarantees              these assumptions may alter some of the performance bound
+                                                                         analysis coming from the sparse regression literature. Fortu-
+   Greedy algorithms are powerful tools for computing fast,              nately, for the binary case there are reasonable performance
+reasonably accurate solutions to high-dimensional optimiza-              bounds from the QKP literature [27] that could prove useful
+                                                                         in future work, although computing these bounds also typi-
+                                                                         cally requires the solution of nontrivial, high-dimensional op-
+                                                                         timization problems. [1] M. Drevlak, C. Beidler, J. Geiger, P. Helander, and Y. Turkin,             095001 (2020). ",physics.plasm-ph,A,0.40374297,0.15439129,0.13101059
+http://arxiv.org/pdf/2208.10862v1,Scaling laws for electron kinetic effects in tokamak scrape-off layer plasmas,"While there are caveats to the use of these scalings outside of SOL-KiT simulations,
+particularly in relation to the aspects of SOL physics not included in the model used
+here, it does suggest it is viable to capture kinetic eﬀects at equilibrium in studies
+of future devices, either in ﬂuid codes or reduced analytical models. Extrapolating
+to the ITER and DEMO tokamaks for example does predict relatively large kinetic
+eﬀects in these devices, suggesting at least that further study into non-local parallel
+transport in reactor-class tokamaks is warranted. The modiﬁcations to γe and q ,e in conjunction with good agreement in power
+balance and target particle ﬂux behaviour (discussed in Section 5 and shown in
+Figure 2), suggest that both eﬀects contribute in a way which approximately can-
+cels. ",physics.plasm-ph,B,0.0061150827,-0.10679804,-0.03795429
+http://arxiv.org/pdf/2208.11291v1,A Particle-in-cell Method for Plasmas with a Generalized Momentum Formulation,"Additionally,
+the methods showed excellent agreement with the benchmark FDTD-PIC method for the expanding particle
+beam tests without resorting to the use of a divergence cleaning method. While current results are generally
+encouraging, aspects concerning the eﬃciency of the proposed methods will be explored in our future work. 6 Conclusions and Future Directions
+
+In this paper, we developed a new PIC method for solving the Vlasov-Maxwell system. ",physics.plasm-ph,A,0.042727128,0.0025305282,-0.04504056
+http://arxiv.org/pdf/2208.13106v1,Generalized reduced-order particle-in-cell scheme for Hall thruster modeling: concept and in-depth verification in the axial-azimuthal configuration,"However, concerning the case with the lowest magnetic field intensity (B = 50 G), although all quasi-2D
+simulations provide an acceptable approximation of the distribution of plasma properties, in none of the
+simulations, all plasma profiles can be considered to be in total agreement with the reference 2D results. This is
+again conjectured to be as a consequence of the specific setup of the reference 2D simulation case, and will be
+assessed more closely in the future work. Figure 14: Axial profiles of the ion Mach number from (a) single-region, (b) double-region and (c) triple-region simulations
+for different magnetic field peak intensities. ",physics.plasm-ph,B,-0.31010735,0.01022764,-0.09615155
+http://arxiv.org/pdf/2208.13131v1,Cloud and Microjet Mix: A Possible Source of Yield limitation of the National Ignition Facility Targets,"It is
+
+possible, of course that the deposition of the
+
+mix material is more complex than either of
+
+the approximations used, but that is beyond
+
+the scope of this work. That issue can be ad-
+
+dressed if experiments show the eﬀect to be
+
+worth further study. It appears that the ﬁrst example of mi-
+
+crojet mix, although not identiﬁed as such,                           FIG. ",physics.plasm-ph,A,0.23036042,0.14465502,0.1210608
+http://arxiv.org/pdf/2208.13197v1,IDP-PGFE: An Interpretable Disruption Predictor based on Physics-Guided Feature Extraction,"a) shows the plasma current and predicted result; b)           not lower the density limit but causes other types of disruption. shows the SHAP value of all the features, the coloured lines         Two directions for further analysis of the experiment can also
+represent the four typical features; c) shows two typical            be found by the understanding above. First, the relationship
+features, line average density of the middle channel ne0 (light      between radiated power and MHD instabilities requires an in-
+blue) and the radiated power P_rad (orange); d) shows two            depth study, which may be similar to the density limit
+                                                                     disruption in physical mechanisms. ",physics.plasm-ph,B,-0.1858291,-0.16858023,0.12798421

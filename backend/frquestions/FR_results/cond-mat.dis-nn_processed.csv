@@ -1,0 +1,729 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00032v1,Supervised versus unsupervised learning: approaching optimal memory retrieval in Hopfield networks,"path right to the optimal region of the space of interac-
+                                                              tions. Another direction for future work would be the
+   By empirically measuring the overlap between memory        veriﬁcation of the results on other types of models, such
+patterns and glassy patterns we have established that the     as more biologically reliable Hopﬁeld-like networks [33],
+HU rule in Eq. (8) represents a valid, yet counterintuitive,  random neural networks [34, 35], or continuous attractor
+transformation that mimics the linear regression opera-       neural networks [36]. ",cond-mat.dis-nn,B_centroid,0.496383,-0.175782,0.042908896
+http://arxiv.org/pdf/2201.00032v2,Supervised perceptron learning vs unsupervised Hebbian unlearning: Approaching optimal memory retrieval in Hopfield-like networks,"Hence a very close        path right to the optimal region of the space of interac-
+analogy between the eﬀects of these two formally diﬀer-      tions. Another direction for future work would be the
+ent rules has emerged. veriﬁcation of the results on other types of models, such
+                                                             as more biologically reliable Hopﬁeld-like networks [38],
+   We conclude by some highly speculative considerations     random neural networks [39, 40], or continuous attractor
+on possible implications of our work. ",cond-mat.dis-nn,B,0.43634543,-0.17795976,0.024917573
+http://arxiv.org/pdf/2201.01208v1,Competition between Barrier- and Entropy-Driven Activation in Glasses,"lines, and results from full-memory dynamics (N < 30) are           sition oneself in the entropic metastable branch. We will
+                                                                    extensively characterize these issues in future work [? ],
+shown as markers. ",cond-mat.dis-nn,B,0.15797779,-0.18276231,0.113724366
+http://arxiv.org/pdf/2201.02085v1,Exponential size scaling of Liouvillian gap in boundary-dissipated systems with Anderson localization,"The quasiperiodic op-     localization. To conﬁrm the validity of the exponential
+                                                 tical lattices have provided an ideal platform for studying  scale relation, we further study a quasiperiodical model
+                                                                                                                                      2
+
+with mobility edge and the 1D Anderson lattice, which                         the underlying phase diagram in Fig.1(a), which indicates
+also display similar scale relation of Liouvillian gap. the Liouvillian gap exhibiting diﬀerent features in diﬀer-
+                                                                              ent phase regions. ",cond-mat.dis-nn,C,-0.2033973,-0.05879952,0.19679561
+http://arxiv.org/pdf/2201.02085v2,Exponential size scaling of the Liouvillian gap in boundary-dissipated systems with Anderson localization,"While ∆g ∝ L−3 in the
+extended phase, the Liouvillian gap scales with L in an          L−1                                   L
+exponential way e−aL in the localized phase, where a is
+identiﬁed to be identical to the Lyapunov exponent κ of      H=       Ji(c†i ci+1 + c†i+1ci) + Vic†i ci,                    (3)
+the localized state. To conﬁrm the validity of the ex-
+ponential scaling relation, we further study a quasiperi-        i=1                                   i=1
+odical model with mobility edge and the 1D Anderson
+lattice, in which the localization length of a localized     where Ji represents the hopping amplitude between the
+eigenstate is energy dependent. Our numerical results        i-th and (i+1)-th sites and Vi denotes the chemical poten-
+show that the Liouvillian gap displays similar exponen-      tial on the i-th site. ",cond-mat.dis-nn,C_centroid,-0.34377903,-0.10850072,0.16053371
+http://arxiv.org/pdf/2201.03012v1,Localization properties of the sparse Barrat-Mézard trap model,"sent entropic eﬀects. In this limit, each mode with associ-
+ated eigenvalue −k/c corresponds to a local conﬁguration          In future work it will be worth investigating the phase
+in which the total probability mass is concentrated in a       diagram of the model studied here down to T = 0: as
+single node with k neighbours that lie at greater depth        in the zero temperature limit all eigenstates are fully
+in the energy landscape. Thus, the origin of localization      localized, one might expect that the isolated localized
+is linked strongly to the energetic disorder here, rather      modes at λ = −k/c that we found broaden into mul-
+than merely to the structure of the network. ",cond-mat.dis-nn,C,-0.16400087,-0.21547002,0.1457302
+http://arxiv.org/pdf/2201.03012v2,Localization properties of the sparse Barrat-Mézard trap model,"for conﬁrmation of this statement at the level of the den-
+sity of states of the Bouchaud trap model. Finally, the           In future work it will be worth investigating the phase
+point sets λ ∈ {−1/3, −2/3} have localized eigenmodes          diagram of the model studied here down to T = 0: as
+for low enough temperatures; we discuss these separately       in the zero temperature limit all eigenstates are fully
+below. Notice that we left out of our analysis the mobil-      localized, one might expect that the isolated localized
+ity edges near λ = 0 and λ = −1, where there is a more         modes at λ = −k/c that we found broaden into mul-
+conventional transition to localized states (see Ref. ",cond-mat.dis-nn,C,-0.35704678,-0.18533902,0.12651625
+http://arxiv.org/pdf/2201.03760v1,Quantum criticality and universality in the $p$-wave paired Aubry-André-Harper model,"QCPs Vc2 = 2|J + ∆| belong to the same universality
+                                                               class as the quasiperiodic Ising chain [19]. In order to extract the dynamical exponent z of CP-
+LP transitions, we further study the ﬁnite-size scaling
+of χ4. One can easily heed that χ4 displays much
+more divergent peaks than χ2 in the vicinity of QCP
+Vc2 = 3, as is disclosed in Fig.6. ",cond-mat.dis-nn,C,-0.2534506,-0.043766238,-0.06728913
+http://arxiv.org/pdf/2201.04669v1,On neural network kernels and the storage capacity problem,"This connection yields
+an intuitive explanation for the varying behavior of the storage capacity in terms of input discriminabil-
+ity (Baldassi et al., 2019; Barkai et al., 1992; Engel et al., 1992; Gardner, 1988; Gardner and Derrida, 1988;
+Zavatone-Veth and Pehlevan, 2021), as well as a more precise description of the relationship of this line of
+research to work on kernel limits of neural networks (Cho and Saul, 2009; Hron et al., 2020; Jacot et al., 2018;
+Lee et al., 2018; Matthews et al., 2018; Neal, 1996; Panigrahi et al., 2020; Poole et al., 2016; Williams, 1997). Yet, further research will be required to fully understand the connections between studies of the
+storage capacity problem in statistical physics and results on the NNGP limit. Though both lines of
+research focus on Bayesian inference of network weights, they consider diﬀerent settings. ",cond-mat.dis-nn,B,0.3254432,-0.07314794,-0.18260628
+http://arxiv.org/pdf/2201.06388v1,Emergence of a random field at the yielding transition of a mean-field Elasto-Plastic model,"Since our purpose
+here is to describe the sample-to-sample ﬂuctuations near yielding, we will consider the simpler model with a uniform
+positive redistribution. Studying these ﬂuctuations in the random-kick model is much more involved and we defer it
+to future work. Consider now the AQS evolution of the mean-ﬁeld EPM under strain. ",cond-mat.dis-nn,C,0.038583685,-0.073147416,-0.1978203
+http://arxiv.org/pdf/2201.06388v2,Emergence of a random field at the yielding transition of a mean-field Elasto-Plastic model,"Since our purpose
+here is to describe the sample-to-sample ﬂuctuations near yielding, we will consider the simpler model with a uniform
+positive redistribution. Studying these ﬂuctuations in the random-kick model is much more involved and we defer it
+to future work. Consider now the AQS evolution of the mean-ﬁeld EPM under strain. ",cond-mat.dis-nn,C,0.038583685,-0.073147416,-0.1978203
+http://arxiv.org/pdf/2201.07857v1,Transient Nature of Fast Relaxation in Metallic Glass,"The spatial visualization confirms our results that the NCL relaxation evolves
+in time by involving different groups of atoms showing a stochastic behavior. 3.3 Subtle nature of Nearly Constant Loss (NCL)
+
+    We performed further analysis to characterize the intrinsic nature of atoms responsible for
+NCL relaxation in terms of various factors which have been used in literature, including non-affine
+displacement, atomic-level shear stress, atomic-level volume, and coordination number, which
+are summarized in Table 1. In a defect view, the NCL relaxation may be caused by local regions
+of low density, high stresses or over/under coordination of neighbors. ",cond-mat.dis-nn,C,-0.015625898,-0.18744537,0.15786341
+http://arxiv.org/pdf/2202.00285v3,Evolution of spectral topology in one-dimensional long-range nonreciprocal lattices,"cal hopping existing in the nearest rd neighboring sites. We further study the spectral properties of 1D lattices
+We show that, in the oﬀ-diagonal models without on-         with power-law decaying nonreciprocal hopping. Finally,
+site potentials, the PBC spectra always form loops that     we propose a practical scheme by using electrical circuits
+are characterized by winding numbers up to rd. ",cond-mat.dis-nn,C,-0.2424834,0.07467414,0.15552577
+http://arxiv.org/pdf/2202.00350v2,Network Hierarchy and Pattern Recovery in Directed Sparse Hopfield Networks,"if the out-degree of a few nodes were so large that they
+                                                                                directly aﬀected much of the network. These network
+                                                                                properties can interplay in a variety of ways and may be
+                                                                                the subject of future work. Figure 5: Performance of Networks of varying degree for                            C. Structural Properties of Networks Aﬀecting
+    ﬁxed generation temperature, TGEN = 1, showing                                                             Performance
+    patterns to the 20% lowest nodes by trophic level. ",cond-mat.dis-nn,B,0.22388263,0.031517666,0.1307792
+http://arxiv.org/pdf/2202.00565v1,Data-driven emergence of convolutional structure in neural networks,"However, as receptive elds are starting to form, indicated by the rise of the IPR (2)
+of the neurons, the GET-based predictions start to deviate from the actual loss. The breakdown of the
+GET to describe the learning dynamics in our model is a result of independent interest, whose further
+investigation we leave to future work. The network learns the moments of the data sequentially. ",cond-mat.dis-nn,B,0.5464525,-0.21306548,-0.003164015
+http://arxiv.org/pdf/2202.00565v2,Data-driven emergence of convolutional structure in neural networks,"We note that as D increases (for constant
+correlation length ξ) the sample uctuations increase at the transition. A better understanding of this
+transition and similar other properties of higher-order cumulants represents an interesting direction for
+further study. We expect that typical-case studies of the decomposition of large random tensors [83–87]
+
+                                                              9
+and approaches based on random matrix theory [88] will prove fruitful in this direction, similar to the
+progress in understanding the spectral properties of random covariance matrices [89–91]. ",cond-mat.dis-nn,C,-0.027243584,-0.033288836,-0.22121061
+http://arxiv.org/pdf/2202.04925v1,Decomposing neural networks as mappings of correlation functions,"APPENDIX A DISORDER AVERAGE FOR
+   Outlook Tracing transformations of data correlations                          WIDE NETWORKS
+through layers of a neural network allows the investiga-
+tion of mechanisms for both information encoding and         The application of a non-linear activation function φ
+processing; in this manner, it presents a handle towards
+interpretability of deep networks. The availability of       in each network layer generates higher-order cumulants
+tractable expressions describing the transformations of
+data correlations within neural networks is therefore an     from Gaussian distributed layer input, as discussed in
+interesting prospect for future work seeking to dissect
+how networks learn and perform tasks. In this context,       Section III B. ",cond-mat.dis-nn,B,0.6099607,-0.19597736,0.0265885
+http://arxiv.org/pdf/2202.04925v2,Decomposing neural networks as mappings of correlation functions,"Outlook Tracing transformations of data correlations     APPENDIX A HIGHER-ORDER CUMULANTS
+through layers of a neural network allows the investiga-    OF POST-ACTIVATIONS CAUSED BY WEAKLY
+tion of mechanisms for both information encoding and
+processing; in this manner, it presents a handle towards              CORRELATED PRE-ACTIVATIONS
+interpretability of deep networks. The availability of
+tractable expressions describing the transformations of     We study how weak correlations between pre-
+data correlations within neural networks is therefore an
+interesting prospect for future work seeking to dissect     activations aﬀect higher-order cumulants of the post-
+how networks learn and perform tasks. In this context,
+the theory we propose assumes data statistics of the input  activations. ",cond-mat.dis-nn,B,0.6297952,-0.17483065,-0.08917656
+http://arxiv.org/pdf/2202.05217v1,Initial State Dependent Dynamics Across Many-body Localization Transition,"state studied. We would like to stress that earlier many works have          We further study the eﬀect of interactions on the en-
+proposed logarithmic growth of entanglement entropy as        tanglement entropy growth. As the interaction V in-
+a signature of MBL phase [15] but all these works pre-        creases, for a ﬁxed value of the aperiodic potential,
+sented exact diagonalization results on very small sys-       the system gets more delocalized and hence the rate of
+tem sizes (L = 12). ",cond-mat.dis-nn,C,-0.16611305,-0.09167661,0.028998975
+http://arxiv.org/pdf/2202.05217v2,Initial State Dependent Dynamics Across Many-body Localization Transition,"get contributions from a larger fraction of many-body
+                                                              eigenstates of the Hamiltonian. This has interesting im-
+   We further study the eﬀect of interactions on the EE       plications on the dynamical exponents, rate of growth
+growth. As the interaction strength, V , increases for a      of various physical quantities and the critical disorder
+ﬁxed value of the aperiodic potential, the system gets        at which the dynamics freezes. ",cond-mat.dis-nn,C,-0.29504067,-0.21461901,0.12969227
+http://arxiv.org/pdf/2202.05217v3,Initial State Dependent Dynamics Across Many-body Localization Transition,"Though in the entire      analogy with the exponent from the density imbalance. parameter regime, it is possible to ﬁt S(t) with a tc form
+with very small power c, the error bars from power-law         We further study the eﬀect of interactions on the EE
+ﬁt are much larger compared to those for the ﬁt a ln(V t). growth. ",cond-mat.dis-nn,C,-0.079589024,-0.14676777,-0.19105491
+http://arxiv.org/pdf/2202.05670v1,Fundamental problems in statistical physics XIV: Lecture on Machine Learning,"An important message here is that, physicists have brought interesting new
+directions to understand the static behavior as a function of its parameters. Yet, despite many works on this machine,
+most of its learning mechanisms remain scarcely understood when dealing with complex (hence real) datasets, and
+therefore leave much space for future work. 9. ",cond-mat.dis-nn,B,0.3831513,-0.13206452,0.05948653
+http://arxiv.org/pdf/2202.05670v2,Fundamental problems in statistical physics XIV: Lecture on Machine Learning,"An important message here is that, physicists have brought interesting new
+directions to understand the static behavior as a function of its parameters. Yet, despite many works on this machine,
+most of its learning mechanisms remain scarcely understood when dealing with complex (hence real) datasets, and
+therefore leave much space for future work. 9. ",cond-mat.dis-nn,B,0.3831513,-0.13206452,0.05948653
+http://arxiv.org/pdf/2202.05670v3,Fundamental problems in statistical physics XIV: Lecture on Machine Learning,"For this model, physicists have brought interesting new directions to
+characterize the static behavior of the RBM as a function of its parameters. Yet, despite many works on this machine,
+most of its learning mechanisms remain poorly understood when dealing with complex (hence real) datasets, and
+therefore leave much space for future works. For instance, a series of open questions remain:
+
+    • How the learning behavior is related to the dataset considered. ",cond-mat.dis-nn,B,0.32367286,-0.11830726,0.03268502
+http://arxiv.org/pdf/2202.07560v1,Equilibrium Fluctuations in Mean-field Disordered Models,"Unfortunately, this correspon-
+as all the RSMM eigenvalues (given in Eqs. (60)) remain                    dence does not hold and further analysis is required to
+positive. We denote • 0 averages around a RS stable                        understand the structure of these ﬂuctuations. ",cond-mat.dis-nn,C,-0.25343248,0.04769445,-0.27769694
+http://arxiv.org/pdf/2202.07669v1,RG-Inspired Neural Networks for Computing Topological Invariants,"Extreme parallelization allows the RG method to run in sub-linear time. Notice that the accuracy of the result
+is not shown; it is likely that the accuracy of our method declines for particularly large lattices, though additional research
+may change this. (c) Extension of the diagram in (a) to arbitrary lattice sizes by iteratively applying the RG network, then
+computing the Chern number via the base network once the lattice has been reduced to size 4 × 4.
+
+computation time compared to the standard methods, as        logical invariant. ",cond-mat.dis-nn,A,0.026939211,0.36816338,-0.04154782
+http://arxiv.org/pdf/2202.07669v2,Renormalization-group-inspired neural networks for computing topological invariants,"Extreme parallelization allows the RG method to run in sub-linear
+time. Notice that the accuracy of the result is not shown; it is likely that the accuracy of our method declines for particularly
+large lattices, though additional research may change this. (c) Extension of the diagram in (a) to arbitrary lattice sizes by
+iteratively applying the RG network, then computing the Chern number via the base network once the lattice has been reduced
+to size 4 × 4. ",cond-mat.dis-nn,A,0.0028622411,0.35111326,-0.047037963
+http://arxiv.org/pdf/2202.10379v1,(Dis)assortative Partitions on Random Regular Graphs,"Of course, it will not be easy to prove such a hardness result for a general algorithm. But
+clearly establishing the conjectured hardness for particular classes of algorithms is an interesting
+topic for future work. easy               hard        no partitions
+
+H                     d  d +1                √         d−1
+    0                             d +0.175 d
+                      2  2        2
+
+Figure 3: Phase diagram of the solution space for the assortative partition problem with the three
+diﬀerent phases. ",cond-mat.dis-nn,A_centroid,0.123350486,0.9068835,0.21904996
+http://arxiv.org/pdf/2202.10379v2,(Dis)assortative Partitions on Random Regular Graphs,"Of course, it will not be easy to prove such a hardness result for a general algorithm. But
+clearly establishing the conjectured hardness for particular classes of algorithms is an interesting
+topic for future work. easy               hard        no partitions
+
+H                     d  d +1                √         d−1
+    0                             d +0.175 d
+                      2  2        2
+
+Figure 3: Phase diagram of the solution space for the assortative partition problem with the three
+diﬀerent phases. ",cond-mat.dis-nn,A,0.123350486,0.9068835,0.21904996
+http://arxiv.org/pdf/2202.10379v3,(Dis)assortative Partitions on Random Regular Graphs,"Of course, it will not be easy to prove such a hardness result for a general algorithm. But
+clearly establishing the conjectured hardness for particular classes of algorithms is an interesting
+topic for future work. easy               hard        no partitions
+
+H                     d  d +1                √         d−1
+    0                             d +0.175 d
+                      2  2        2
+
+Figure 3: Phase diagram of the solution space for the assortative partition problem with the three
+diﬀerent phases. ",cond-mat.dis-nn,A,0.123350486,0.9068835,0.21904996
+http://arxiv.org/pdf/2202.10379v4,(Dis)assortative Partitions on Random Regular Graphs,"Of course, it will not be easy to prove such a hardness result for a general algorithm. But
+clearly establishing the conjectured hardness for particular classes of algorithms is an interesting
+topic for future work. easy               hard        no partitions
+
+H                     d  d +1                √         d−1
+    0                             d +0.175 d
+                      2  2        2
+
+Figure 3: Phase diagram of the solution space for the assortative partition problem with the three
+diﬀerent phases. ",cond-mat.dis-nn,A,0.123350486,0.9068835,0.21904996
+http://arxiv.org/pdf/2202.11905v1,Topological Anderson insulators induced by random binary disorders,"An analytical formula for the local-
+                                                                                                                ization length of the zero-energy state is derived, whose
+divergence indicates the topological phase transition. We                                                                             2
+further study the localization properties of the system by
+computing the inverse participation ratio (IPR) in both      experiments, the SSH model has been realized in diﬀer-
+real and momentum space. We numerically show that            ent systems, such as cold atoms in 1D optical superlat-
+the mean chiral displacement of the bulk dynamics can        tices [88]. ",cond-mat.dis-nn,C,-0.32339662,-0.07853454,0.18442175
+http://arxiv.org/pdf/2202.11905v2,Topological Anderson insulators induced by random binary disorders,"An analytical formula for the local-
+                                                                                                                ization length of the zero-energy state is derived, whose
+divergence indicates the topological phase transition. We                                                                             2
+further study the localization properties of the system by
+computing the inverse participation ratio (IPR) in both      experiments, the SSH model has been realized in diﬀer-
+real and momentum space. We numerically show that            ent systems, such as cold atoms in 1D optical superlat-
+the mean chiral displacement of the bulk dynamics can        tices [88]. ",cond-mat.dis-nn,C,-0.32339662,-0.07853454,0.18442175
+http://arxiv.org/pdf/2202.12468v1,A residual-based message passing algorithm for constraint satisfaction problems,"Furthermore, from the perspective of computational
+cost, we compare the average number of iterations re-                           To explore the potential implication of residuals on
+quired at each time step for the decimated variable if BP                    optimization problems and message passing algorithms,
+equations converge. In ﬁgure 9, the diagram of average                       several lines of research can be carried out as future work. iterations is shown for n = 60 at p = 0.15, where the ﬁve                    The ﬁrst one is to combine our algorithm with a detailed
+algorithms can construct a solution of a random instance                     description of the landscape of hard optimization prob-
+with probability 1. ",cond-mat.dis-nn,B,0.22937544,0.25255626,-0.23124804
+http://arxiv.org/pdf/2202.12675v2,Non-Hermitian Many-Body Localization with Open Boundaries,"independent) disorder potential leads to a Poisson level distri-
+                                                                        bution due to inherent SU(2) spin symmetry. Therefore, to
+   We further study the complex level spacing ratio [61]. The           have GOE statistics, we need uncorrelated disorder potential
+level-spacing ratio is a dimensionless complex variable, zi ≡           which breaks the spin symmetry [see Appendix B for details]. ",cond-mat.dis-nn,C,-0.21443811,-0.040951885,0.034993883
+http://arxiv.org/pdf/2202.13539v1,Use of Transmission and Reflection Complex Time Delays to Reveal Scattering Matrix Poles and Zeros: Example of the Ring Graph,"The size of the smoothing
+window can be dynamically adjusted based on the vari-
+ability of the phase and amplitude with frequency. All
+of these steps are required to generate high-quality time
+delay data for further analysis. Note that the numerical
+derivatives are taken on the raw S-matrix data without
+any normalization step or background subtraction, etc. ",cond-mat.dis-nn,C,0.04346138,0.106098816,-0.15056588
+http://arxiv.org/pdf/2202.13539v2,Use of Transmission and Reflection Complex Time Delays to Reveal Scattering Matrix Poles and Zeros: Example of the Ring Graph,"All of these steps
+sured for the ﬁrst 18 modes of a microwave ring graph. Main     are required to generate high-quality time delay data for
+ﬁgure shows the transmission of non-equal lengths (L1 = L2)     further analysis. Note that the numerical derivatives are
+between the phase shifter and the coaxial cable, while the in-  taken on the raw S-matrix data without any normaliza-
+set shows the case of equal lengths (L1 = L2). ",cond-mat.dis-nn,C,-0.014519226,0.19787996,-0.05035343
+http://arxiv.org/pdf/2203.01383v1,Disordered crystals reveal soft quasilocalized glassy excitations,"Pairs of par-
+excitations [25, 26]. ticles interact via a Lennard-Jones pairwise potential of
+                                                              the form
+   In order to explore in more quantitative terms the
+relations between the model studied in this work and                                                   2
+laboratory disordered crystals, future work should more
+realistically represent the interactions between diﬀerent     ϕLJ(rij , σij ) = 4ε  − σij 12  + σij 6      c2 σriijj 2 ,
+species (e.g. between impurity and host atoms, captured
+here by the parameter δ) and vary the species concentra-                            rij       rij
+tion x (ﬁxed here at x = 1/2), which is the key control
+parameter in laboratory binary disordered crystals. ",cond-mat.dis-nn,C,-0.20884559,-0.08572459,0.14127375
+http://arxiv.org/pdf/2203.01899v1,Field theory for zero temperature soft anharmonic spin glasses in a field,Our proposal is to use the 1/M expansion as a tool to compute non-Gaussian corrections in ﬁnite dimension. This is left for future work. VI. ,cond-mat.dis-nn,C,0.07139574,0.09510818,-0.29653066
+http://arxiv.org/pdf/2203.01899v2,Field theory for zero temperature soft anharmonic spin glasses in a field,Our proposal is to use the 1/M expansion as a tool to compute non-Gaussian corrections in ﬁnite dimension. This is left for future work. VI. ,cond-mat.dis-nn,C,0.07139574,0.09510818,-0.29653066
+http://arxiv.org/pdf/2203.01899v3,Field theory for zero temperature soft anharmonic spin glasses in a field,Our proposal is to use the 1/M expansion as a tool to compute non-Gaussian corrections in ﬁnite dimension. This is left for future work. VI. ,cond-mat.dis-nn,C,0.07139574,0.09510818,-0.29653066
+http://arxiv.org/pdf/2203.03024v1,Enhancing associative memory recall in non-equilibrium materials through activity,"Here, in the limit of small persistence time, τ , we suspect that a similar principle maybe used to understand the
+
+increased associative memory property. Here we provide a brief overview of average rate of work in this context and
+
+reserve further calculations for future work. At equilibrium, the free energy of the system for the condensed patterns
+
+is given by,
+
+                                                                        1
+                                                           F    =  lim  ng                                                           (S4.2)
+
+                                                                   n→0
+
+where g is given as in Eq. ",cond-mat.dis-nn,C,0.019327175,-0.17082964,-0.08643539
+http://arxiv.org/pdf/2203.05032v1,A Neural Programming Language for the Reservoir Computer,"This method is limited in that a) names and Florida Voter Data to make
+the predictions may not be indicative of racial/ethnic identity, and b) it cannot account for
+Indigenous and mixed-race authors, or those who may face diﬀerential biases due to the
+ambiguous racialization or ethnicization of their names. We look forward to future work
+that could help us to better understand how to support equitable practices in science. [1] Mitchell, S. M., Lange, S. & Brus, H. Gendered citation patterns in international relations
+    journals. ",cond-mat.dis-nn,B,0.24455212,0.041555982,-0.080833375
+http://arxiv.org/pdf/2203.06084v1,Replacing neural networks by optimal analytical predictors for the detection of phase transitions,"To ensure that the systems are suﬃciently         was observed. In future works, histogram-binning may
+thermalized, we sweep the complete lattice 105 times,        be replaced by more elaborate techniques for density
+where each lattice site is updated once per sweep. estimation [85–87, 94]. ",cond-mat.dis-nn,A,-0.12027109,0.25005788,0.105370924
+http://arxiv.org/pdf/2203.06084v2,Replacing neural networks by optimal analytical predictors for the detection of phase transitions,"until a convergence of the optimal indicator signals
+                                                              was observed. In future works, histogram-binning may
+                  Appendix C: Data generation                 be replaced by more elaborate techniques for density
+                                                              estimation [118–121]. In this appendix, we provide further details on the
+data-generation process for each of the physical systems         Let us move on to the quantum case. ",cond-mat.dis-nn,C,0.056708142,0.07862526,0.004471559
+http://arxiv.org/pdf/2203.06198v1,Disorder-free localization transition in a two-dimensional lattice gauge theory,"to provide analytical support for our numerics but we          [9] J. Sˇuntajs, J. Bonˇca, T. Prosen, and L. Vidmar, Phys. leave that for future work. Rev. ",cond-mat.dis-nn,C,0.04023003,0.0030123964,-0.14807825
+http://arxiv.org/pdf/2203.06652v1,On the neural network flow of spin configurations,"This
+                                                                 is a possible line to pursue in future studies. We hope
+                                                                 that our work motivates further research on the neural
+                                                                 network ﬂow of spin conﬁgurations. ∗ Electronic address: santiago.acevedo@ﬁsica.unlp.edu.ar         3 I. Corte, S. Acevedo, M. Arlego, and C.A. ",cond-mat.dis-nn,B,0.3369325,-0.17973733,-0.017393798
+http://arxiv.org/pdf/2203.06652v2,On the neural network flow of spin configurations,"Finally, we showed that       is a possible line to pursue in future studies. We hope
+there is a strong dependence of the ﬂow on both Tcut           that our work motivates further research on the neural
+and Nl (Figs. 10 and 11). ",cond-mat.dis-nn,B,0.54470503,-0.18452822,-0.084638335
+http://arxiv.org/pdf/2203.06652v3,On the neural network flow of spin configurations,"Finally, we showed that       is a possible line to pursue in future studies. We hope
+there is a strong dependence of the ﬂow on both Tcut           that our work motivates further research on the neural
+and Nl (Figs. 10 and 11). ",cond-mat.dis-nn,B,0.54470503,-0.18452822,-0.084638335
+http://arxiv.org/pdf/2203.07415v2,Scaling of Fock-space propagator and multifractality across the many-body localization transition,"how rare thermal regions in real
+space [59–61] aﬀect the FS self-energy. In the same vein,          responding to the ( + 1)-th slice disconnected from the
+possible connections between the Fock-space propagators
+and one-particle density matrix and real-space propaga-            rest of the Fock lattice, Tlr contains the hopping elements
+tors [62–67] also remains a question for future work. for hopping from the -th slice to the ( + 1)-th slice and
+                                                                   Trl = Tl†r. ",cond-mat.dis-nn,C,-0.2387808,0.0440808,0.13790551
+http://arxiv.org/pdf/2203.08495v1,Localization properties of the asymptotic density distribution of a one-dimensional disordered system,"Finally, the detailed description                                 Pω −12 20
+of the dynamics, from weak to strong localization, could
+also be studied experimentally, though no analytical                                ξ˜ 0 0 10 20 30 40 50
+predictions have been devised yet. We leave these
+challenging problems for future works. 1
+
+   Acknowledgements- The authors thank Dominique           z 000.5                                      1  1.5
+Delande, Tony Prat, Nicolas Cherorret and Gabriel
+Lemari´e for fruitful discussions. ",cond-mat.dis-nn,C,-0.18870172,-0.13538094,0.057642095
+http://arxiv.org/pdf/2203.11019v1,Quantum boomerang effect in systems without time reversal symmetry,"The for-
+shows a very good agreement of numerical data with the             ward scattering events + → +, − → − do not aﬀect the
+                                                                   dynamics of the CoM. Hence, in the further analysis, we
+theoretical prediction for the GUE [19], proving that all          use only the two scattering events where the direction of
+                                                                   motion is changed. The associated scattering mean free
+anti-unitary symmetries are broken. ",cond-mat.dis-nn,C,-0.0699826,-0.050903082,-0.12231501
+http://arxiv.org/pdf/2203.11019v2,Quantum boomerang effect in systems without time reversal symmetry,"dynamics of the CoM. Hence, in the further analysis, we
+                                                                   use only the two scattering events where the direction of
+As a numerical evidence, the inset in Fig. 1 displays              motion is changed. ",cond-mat.dis-nn,C,-0.13285394,-0.08093789,-0.06547048
+http://arxiv.org/pdf/2203.12617v1,Generalized multifractality at the spin quantum Hall transition: Percolation mapping and pure-scaling observables,"We leave a detailed
+in the left-hand-side of Eq. (177) [the Leibnitz expan-           investigation of other symmetry classes to a future work,
+sion of the determinant, Eq. (166)] are regrouped in the          see also the outlook in Sec. ",cond-mat.dis-nn,C,-0.10482179,0.058701437,-0.21777743
+http://arxiv.org/pdf/2203.12617v2,Generalized multifractality at the spin quantum Hall transition: Percolation mapping and pure-scaling observables,"(155)] are regrouped in the          tion developed here is applicable. We leave a detailed
+right-hand side in accordance with the decomposition              investigation of other symmetry classes to a future work,
+(2q)! = q! ",cond-mat.dis-nn,A,-0.048947163,0.23430732,-0.10894012
+http://arxiv.org/pdf/2203.14977v1,Effects of critical correlations on quantum percolation in two dimensions,"The
+or quasi-periodic couplings, or introducing interactions       spin-conﬁgurations {σx} are drawn from the Boltzmann
+between the tight-binding particles, in addition to those      probability distribution of a classical 2d q = 3 Potts
+between the Ising degrees of freedom, are important ques-      model at temperature T [86]. As in the main text, the
+tions that are left for future work. classical spin conﬁgurations at a certain temperature T are
+                                                               obtained using standard Monte Carlo simulations with the
+                     ACKNOWLEDGMENTS                           Swendsen–Wang algorithm (cluster updates) [83]. ",cond-mat.dis-nn,C,-0.12284457,-0.030010786,0.09125074
+http://arxiv.org/pdf/2203.15220v1,Comparing the effects of Boltzmann machines as associative memory in Generative Adversarial Networks between classical and quantum sampling,"If any merit of the quantum AAN exists, the diﬀerence stems from the non-
+trivial quantum device as in the previous study investigating the nonequilibrium behavior.38)
+We will investigate the performance of the quantum AAN via quantum sampling from the
+D-Wave quantum annealer in comparison with the result obtained via QMC. There are two directions for further research. The ﬁrst is to examine applications to other
+machine learning algorithms, such as reinforcement learning43) and Bayesian statistics. ",cond-mat.dis-nn,B,0.234357,0.025840389,-0.06213353
+http://arxiv.org/pdf/2203.16307v1,Information spreading and scrambling in disorder-free multiple-spin interacting models,"The study of the
+the ﬁnal value of the BEE exhibits thermal value in the       TMI for larger system sizes by alternative numerical
+thermodynamic limit. schemes will be future work, in particular, to verify our
+                                                              ﬁndings in the study of late-time dynamics. An MPO
+   Another comment concerns the ﬁnite system size. ",cond-mat.dis-nn,C,-0.11605058,-0.0470094,0.06313652
+http://arxiv.org/pdf/2203.16307v2,Information spreading and scrambling in disorder-free multiple-spin interacting models,"The study of the
+of these terms, the models are expected to approach the        TMI for larger system sizes by alternative numerical
+regime with integrable again and localized nature. In or-      schemes will be future work, in particular, to verify our
+der to elucidate the properties of integrability and ETH       ﬁndings in the study of late-time dynamics. An MPO
+for the target models, we ﬁrst performed the LSA and           approach [15] may be eﬃcient for this end. ",cond-mat.dis-nn,C,-0.068650834,-0.079974525,-0.07058792
+http://arxiv.org/pdf/2204.02717v1,Uniform Anderson Localization in One-Dimensional Floquet Maps,"First, all the spinors are mapped by u,        ing them indistinguishable. We will further study this
+then the wave function in the linear form is rotated left,    case. after which all the spinors are mapped by v, and ﬁnally
+the wave function is rotated back. ",cond-mat.dis-nn,B,0.0747338,-0.0056386087,0.015440721
+http://arxiv.org/pdf/2204.02795v2,Scaling theory for the statistics of slip at frictional interfaces,"Note that we have             expected to lead to an N -shaped eﬀective ﬂow curve,
+numerically checked this prediction only in a speciﬁc           which can be readily obtained by simulating the dy-
+model, leaving a check to broader classes of models             namics in our model at ﬁnite temperature. Likewise,
+for future work. the materials surrounding the interface can be vis-
+                                                                coelastic instead of elastic, which is a suﬃcient con-
+    Next, we used a minimal model of frictional in-             dition (but not always necessary [72]) to obtain after-
+terface as a Rosetta Stone, in which (i) rate-and-              shocks [73]. ",cond-mat.dis-nn,C,-0.033908222,-0.042633574,-0.024110202
+http://arxiv.org/pdf/2204.03577v1,Satisfiability transition in asymmetric neural networks,"Understanding the
+exact physical meaning of this assumption within the cavity should answer this question. This is left for future work. Another very promising research line for future investigation is to determine the
+behaviour of the fully connected MPN, for which C ∼ N : in this case, the replica
+analysis performed by GGY should not be applied in a straightforward way (see [23,
+38] and point (i) in the Introduction of the present paper). ",cond-mat.dis-nn,C,-0.061557844,-0.012846213,-0.18511906
+http://arxiv.org/pdf/2204.03577v2,Satisfiability transition in asymmetric neural networks,"Understanding the
+exact physical meaning of this assumption within the cavity should answer this question. This is left for future work. 23
+    Another very promising research line for future investigation is to determine the
+behaviour of the fully connected MPN, for which C ∼ N : in this case, the replica
+analysis performed by GGY should not be applied in a straightforward way (see [23,
+45] and point (i) in the Introduction of the present paper). ",cond-mat.dis-nn,C,-0.055478327,-0.010640092,-0.19110742
+http://arxiv.org/pdf/2204.03665v2,A note on the quasiperiodic many-body localization transition in dimension $d>1$,"However,
+is not the only possible scenario: a possible alternative      one can generalize it [55] by considering quasi-1d strips
+is that as one comes from the thermal phase, increas-          wide enough so that the spectral function of each strip is
+ing g, the nucleus of the avalanche becomes increasingly       a continuum [54]: we hope to come back to this potential
+sparse in real space. The spacing of sites on this sparse      instability in future works [56]. resonant cluster might go as ∼ |g − gc|−γ. ",cond-mat.dis-nn,C,-0.18695219,0.093959585,0.12647247
+http://arxiv.org/pdf/2204.05130v1,Collective dynamics in a glass-former with Mari-Kurchan interactions,"ing the emergence of collective dynamics at low temper-
+atures. In future work, it would also be interesting to test
+                                                             whether the correlation that we have revealed between
+   Our results show that the MK model displays dynam-        structure and dynamics is only obeyed at the average
+ical properties that are extremely similar to the ones of    level, or whether it applies particle by particle at the
+ﬁnite-dimensional systems despite the mean-ﬁeld nature       microscopic level. Due to the simpliﬁed nature of the
+of its local structure. ",cond-mat.dis-nn,C,-0.11602488,-0.21753435,0.31600592
+http://arxiv.org/pdf/2204.05130v2,Collective dynamics in a glass-former with Mari-Kurchan interactions,"determining whether such diﬀerences exist. ACKNOWLEDGMENTS
+   In future work, it would also be interesting to test
+whether the correlation that we have revealed between                We thank P. Charbonneau and F. Zamponi for dis-
+structure and dynamics is only obeyed at the average              cussions. L.B. ",cond-mat.dis-nn,C,-0.0426962,-0.031036014,0.057096697
+http://arxiv.org/pdf/2204.05581v1,Synchronization on star graph with noise,"We believe that there is a more profound connection between Mo¨bius transformation (which is
+directly related to the low-dimensional dynamics of the Kuramoto model) and considered system
+on star graph with noise. We address this question for further research and we have a hope that
+it will be fruitful. As we have already mention, the noise is common for many biological systems. ",cond-mat.dis-nn,B,0.0818545,-0.110231146,0.513546
+http://arxiv.org/pdf/2204.05581v2,Synchronization on star graph with noise,"We believe that there is a more profound connection between M¨obius transformation (which is directly related to
+the low-dimensional dynamics of the Kuramoto model) and considered system on star graph with noise. We address
+this question for further research and we have a hope that it will be fruitful. As we have already mention, the noise is common for many biological systems. ",cond-mat.dis-nn,B,0.11744284,-0.118462145,0.5180392
+http://arxiv.org/pdf/2204.05581v3,Synchronization on star graph with noise,"We believe that there is a more profound connection between M¨obius transformation (which is directly related to
+the low-dimensional dynamics of the Kuramoto model) and considered system on star graph with noise. We address
+this question for further research and we have a hope that it will be fruitful. As we have already mention, the noise is common for many biological systems. ",cond-mat.dis-nn,B,0.11744284,-0.118462145,0.5180392
+http://arxiv.org/pdf/2204.05581v4,Synchronization on star graph with noise,"We believe that there is a more profound connection between M¨obius transformation (which is directly related to
+the low-dimensional dynamics of the Kuramoto model) and considered system on star graph with noise. We address
+this question for further research and we have a hope that it will be fruitful. As we have already mention, the noise is common for many biological systems. ",cond-mat.dis-nn,B,0.11744284,-0.118462145,0.5180392
+http://arxiv.org/pdf/2204.06017v1,Many body localization transition with correlated disorder,"The ﬁrst ap-                    the MHI universality class is stable. The eﬀect of more
+                                                                        general perturbations to the RG rules remains an open
+proach is perturbative and only covers stability around                 question that we hope will be addressed in future works. weak uncorrelated random ﬁxed points. ",cond-mat.dis-nn,C,-0.0979701,-0.04781729,-0.18722248
+http://arxiv.org/pdf/2204.06017v2,Many body localization transition with correlated disorder,"The eﬀect of more
+                                                                        general perturbations to the RG rules remains an open
+have been taken to cure this deﬁciency. The ﬁrst ap-                    question that we hope will be addressed in future works. proach is perturbative and only covers stability around                    The rest of this paper will ﬂesh out the above argu-
+                                                                        ments in more detail. ",cond-mat.dis-nn,C,-0.116796464,-0.005225973,-0.36054483
+http://arxiv.org/pdf/2204.07954v1,Recurrent neural networks that generalize from examples and optimize by dreaming,"Moreover as ρ increases, the critical region in the left part of
+the graph (i.e. for β 1) where the equilibrium solution seems to be the ergodic one gets more evident: this phenomenon
+is due to the replica symmetry breaking of the model and we reserve to deepen this point in future works. 10
+            1.0
+
+                                                                                                               t = 0.0
+
+            0.8                                                                                                t = 0.5
+
+                                                                                                               t = 1.5
+
+            0.6                                                                                                t = 5.0
+
+                                                                                                               t=∞
+
+¯m          0.4
+
+                                          ρ0.2
+
+                                                     ¯m0.0
+                                                                                                           ¯m
+                 0.0                0.2    0.4         0.6              0.8                                             1.0
+
+                                                    α
+
+Figure 2: Phase diagram for the zero fast-noise limit β → ∞, depicted in the (ρ, α) plane for diﬀerent values of the
+dreaming time t, shown in diﬀerent colors as explained in the legend. ",cond-mat.dis-nn,C,-0.23455074,-0.17658871,0.105909
+http://arxiv.org/pdf/2204.09003v1,Depinning and flow of a vortex line in an uniaxial random medium,"15 the reduced distributions of Eq. (12) for a
+                                                                    Since our data do not allow to evaluate F (x) precisely enough,
+                                                                    we leave its determination for future work. On the other hand, the inset of Fig. ",cond-mat.dis-nn,C,0.088081814,-0.0066424576,-0.27678776
+http://arxiv.org/pdf/2204.09281v1,Disorder Induced Anomalous Hall Effect in Type-I Weyl Metals: Connection between the Kubo-Streda Formula in the Spin and Chiral basis,"For the Gaussian disorder, the                   AHE even for Gaussian disorder when the distance
+only approach to get a rigorous Hall current in disordered              between two impurities is of the same order as the Fermi
+systems is then to work in the spin basis with the                      wavelength, i.e., kF l ∼ 1. We will study this situation in
+Kubo-Streda formalism, since the correlation function of                a future work. the impurity potential in the momentum space in the
+spin basis is constant, and one can solve the recursion                                             IV. ",cond-mat.dis-nn,C,-0.18641469,0.05652806,0.12492636
+http://arxiv.org/pdf/2204.09688v1,Mean field theory of failed thermalizing avalanches,"[90] (though the mean
+eigenstates at maximum entropy in a central grain model. ﬁeld theory does not produce the non-ergodic delocal-
+We leave to future work the extension of this theory to      ized phase reported between gc ∝ (N log N )−1 and gc ∝
+diﬀerent geometries; ﬁnite temperature eﬀects; systems       N −1 [42, 90]). Thus, for arbitrarily weak couplings cou-
+in which the l-bits have more than two levels; and to        pling g0, one can always increase N to violate (22) and
+include multi-l-bit couplings. ",cond-mat.dis-nn,C,-0.21317947,-0.03886858,0.030695513
+http://arxiv.org/pdf/2204.12939v1,On the Dynamics of Inference and Learning,"This makes manifest that there
+is statistical variation in any individual inference scheme, but that on aggregate, the paths
+converge to the maximum likelihood estimate. This observation inspires a path integral
+interpretation of dynamical Bayesian updating that we leave for future work. 24
+5 Neural Networks and Learning
+
+The Bayesian approach to neural networks was pioneered by Neal in [23]. ",cond-mat.dis-nn,B,0.55190533,-0.071717486,-0.023903556
+http://arxiv.org/pdf/2205.00623v1,Nonergodic delocalized paramagnetic states in quantum neural networks,"In general, ergodicity
+with system size, which indicates the diﬀerent clusters                            breaking indicates that the system will not equilibrate to
+are strongly correlated. a thermal state, but whether it will approach a nonther-
+mal steady state or exhibit persistent oscillations like the                                                                             5
+quantum scar [8] or the inﬁnite-range interacting systems
+[34–36] is an interesting question worthy of further study. [12] L. Rademaker and D. A. Abanin, Phys. ",cond-mat.dis-nn,C,-0.24362364,-0.19384778,0.16912296
+http://arxiv.org/pdf/2205.01272v1,Statistical-mechanical study of deep Boltzmann machine given weight parameters after training by singular value decomposition,", Kl,                     where we deﬁne σ(l) := (σa(l))na=1 and vα(00) = u(αlL++11) = 0
+                                                                for index binary conditions. For further analysis, assum-
+     q(l) = 1 (σ(l))⊤σ(l), ∀l = 0, . . ",cond-mat.dis-nn,C,-0.15730746,0.2450329,-0.14758798
+http://arxiv.org/pdf/2205.02859v3,Flat-band-based multifractality in the all-band-flat diamond chain,"The latter is related to the
+                                                            conserved chiral symmetry in the system, where the low
+            |ψE (r)| ∼ e−|r−rE|/ξE       (B9)               energy states may keep their delocalized nature even in
+                                                            the 1d chiral Anderson model. In any case this regime
+with respect to the random energy-dependent maximum         deserves further detailed investigations in future works. rE, is of the order of the system size ξ(E) N . ",cond-mat.dis-nn,C,-0.25889722,-0.12411921,-0.077101044
+http://arxiv.org/pdf/2205.02859v4,Flat-band-based multifractality in the all-band-flat diamond chain,"The latter is related to the
+                                                            conserved chiral symmetry in the system, where the low
+            |ψE (r)| ∼ e−|r−rE|/ξE       (B9)               energy states may keep their delocalized nature even in
+                                                            the 1d chiral Anderson model. In any case this regime
+with respect to the random energy-dependent maximum         deserves further detailed investigations in future works. rE, is of the order of the system size ξ(E) N . ",cond-mat.dis-nn,C,-0.25889722,-0.12411921,-0.077101044
+http://arxiv.org/pdf/2205.04869v1,Effective local elastic moduli of a strongly disordered medium,"Thus, E(r) can describe the increase                                        mˆ Z − Φˆ                      , (A3)
+of the conductivity of the eﬀective medium near the
+interface with a well-conducting material. However,       Wkl(Z) = Tr Cˆ(k) 1 Cˆ(l) 1                                      (A4)
+the applicability of the considered model to such kind                            mˆ Z − Φˆ mˆ Z − Φˆ
+of systems requires further research. Wklm(Z) = Tr Cˆ(k) 1 Cˆ(l) 1
+                      VI. ",cond-mat.dis-nn,C,-0.039933152,-0.028290685,-0.10743458
+http://arxiv.org/pdf/2205.14002v1,Infinite-randomness criticality in monitored quantum dynamics with static disorder,"namic exponent z ∼ ξψ ∼ |p − pc|−νψ, therefore we use         The demonstration of a successful application of the Har-
+the activated dynamic scaling ansatz [64] that yields         ris/Luck criteria to measurement induced criticality pro-
+                                                              vides a powerful heuristic to interpret relevant and irrel-
+log t                                                         evant perturbations on this information-theoretic transi-
+SQ(t, L) ∼ g Lψ ,  (5)                                        tion. Under this paradigm, future work could begin to
+                                                              understand how topologically-ordered phases and transi-
+where g(x) is an arbitrary scaling function and ψ is the      tions change with static randomness [10]. so-called activation or barrier exponent. ",cond-mat.dis-nn,C,-0.08543545,-0.04733701,-0.029943883
+http://arxiv.org/pdf/2205.14614v2,Universality in Anderson localization on random graphs with varying connectivity,"If we use this as a proxy for ω, we ﬁnd that ω = 3/2, ν = 1
+
+implies α = 7/4. The latter values of the exponents cannot be ruled out using our numerical
+
+data, and exploring this possibility is left for future work. For the moment, however, we take
+
+here an assumption that the right-hand side of (16) is equal to 2. ",cond-mat.dis-nn,C,-0.14734636,0.0681393,-0.18162954
+http://arxiv.org/pdf/2205.14715v2,Superdiffusion in random two dimensional system with ubiquitous long-range hopping,"The case W > V0 corresponds to strong disordering while the
+opposite regime W < V0 corresponds to weak disordering. In a further analysis we set V0 = 1 expressing all energies
+in the units of the interaction constant V0. 4
+                                             3ky=kx
+
+                                 2
+                                                              2ky=kx
+
+                              V   0 k =k
+
+                                                                                               yx
+
+                                 -2 ky=2kx
+
+                                        k y=3k x
+
+                                 -4  0  0.1 0.2 0.3 0.4 0.5
+
+                                        kxa/
+
+FIG. ",cond-mat.dis-nn,C,-0.2390666,-0.0768303,0.0027048327
+http://arxiv.org/pdf/2206.01246v1,Stochastic gradient descent introduces an effective landscape-dependent regularization favoring flat solutions,"In such incompletely
+
+degenerate landscape, all solutions along y = 0 are almost equally low with only one global
+
+minimum (x∗ = 0, y∗ = 0). To further study the ﬂatness of solutions, we ﬁrst compute the
+
+corresponding Hessian matrix of loss function in Eq. 9 of the main text:
+
+                                                                       
+                       ∂2L(x,y)  ∂2L(x,y)                          λ (x)y . ",cond-mat.dis-nn,C,0.079291984,0.042896833,-0.206628
+http://arxiv.org/pdf/2206.04760v1,A theory explaining the limits and performances of algorithms based on simulated annealing in solving sparse hard inference problems,"Willing
+to improve the analytical computation (or the solution via the
+population dynamics algorithm) one should consider a super-
+variable at every node of the original graph, taking qy val-
+ues. In this case, the graph connecting the super-variables is
+indeed locally tree-like and a population dynamical computa-
+tion would give the correct estimates for the thermodynamical
+thresholds (we leave this computation for future work). [1] P. W. Holland, K. B. Laskey, and S. Leinhardt, Social networks      [6] T. Lesieur, F. Krzakala, and L. Zdeborova´, in 2015 53rd Annual
+    5, 109 (1983). ",cond-mat.dis-nn,C,0.018519115,0.09260869,0.14293633
+http://arxiv.org/pdf/2206.05228v1,Dynamics of sparse Boolean networks with multi-node and self-interactions,"a
+gene coding for a TF that regulates the gene itself) are commonly observed in GRNs and
+our work suggests that it is these features in combination which allow GRNs to support
+Sparse Boolean networks with multi-node and self-interactions            26
+
+a diverse set of stable gene expression proﬁles, corresponding to diﬀerent cell types, with
+self-regulation playing an important role in determining the nature of attractors. Our work poses interesting questions for future work. One point of focus would be
+to study how a GRN may move from one attractor to another, either by the application
+of time-dependent external ﬁelds, or dynamic variations in the interaction network itself. ",cond-mat.dis-nn,B,0.33952975,-0.1513416,0.1477563
+http://arxiv.org/pdf/2206.05831v1,Learning without neurons in physical systems,"For example, the molecular versions
+might involve polymerization, ligation or strand displacement (65, 51, 54) while mechanical
+systems involve dissipative re-arrangements in foams and other complex materials (5). The
+theoretical and practical constraints on learning by dissipation deserve further study. (b) The underlying physical system can be characterized as being at equilibrium or
+not without accounting for the learning process itself; many open questions remain on the
+distinction between the two cases. ",cond-mat.dis-nn,B,0.2639779,-0.14381857,0.11141384
+http://arxiv.org/pdf/2206.08387v1,Effects of auto-correlated disorder on the dynamics around the many-body localization transition,"(5) the so-
+                                                               called spectral form factor, which is a dynamical quantity
+             α=1                                               to explore energy level repulsion in the time domain. Level repulsion is absent in the MBL phase, correspond-           In addition, to further study dynamics we consider the
+ing to spacings with Poisson-like statistics and r ≈           spin auto-correlation function,
+0.386 [46, 55]. Meanwhile, in the ergodic phase the spac-
+ings have GOE-like statistics, that is, energy eigenvalues     4L                         z     z
+present linear repulsion, for which r ≈ 0.536 [55]. ",cond-mat.dis-nn,C,-0.2051692,-0.2216773,-0.055720665
+http://arxiv.org/pdf/2206.08387v2,Effects of auto-correlated disorder on the dynamics around the many-body localization transition,"tion models like Dicke [76] and Bose-Hubbard [77]. We start by denoting the eigenvalues and eigenstates        In addition, to further study dynamics we consider the
+of Hamiltonian (1) by Eα and |ψα respectively. Next, to     spin auto-correlation function,
+analyze level repulsion we use the mean value of the ratio
+between consecutive level spacings r [48], deﬁned through
+
+r = 1 D min       1  , with rα = Eα+1 − Eα . ",cond-mat.dis-nn,C,-0.14949271,-0.072429776,0.05326143
+http://arxiv.org/pdf/2206.13436v1,Eigenvalue spectra and stability of directed complex networks,"s2 (the heterogeneity). The approximate results in Sec-
+tion V also allow us to draw general conclusions about          Two immediate possibilities for further research using
+the inﬂuence of heterogeneity. Although the expressions      the methods developed here present themselves. ",cond-mat.dis-nn,B,0.058596883,0.076476626,-0.20656644
+http://arxiv.org/pdf/2206.13436v2,Eigenvalue spectra and stability of directed complex networks,"s2 (the heterogeneity). The approximate results in Sec-
+tion V also allow us to draw general conclusions about          Two immediate possibilities for further research using
+the inﬂuence of heterogeneity. Although the expressions      the methods developed here present themselves. ",cond-mat.dis-nn,B,0.058596883,0.076476626,-0.20656644
+http://arxiv.org/pdf/2207.00504v1,The closest vector problem and the zero-temperature p-spin landscape for lossy compression,"2.). We leave
+for future work the investigation of this discrepancy, as     assume a fast decay of the correlations between distant
+already argued in section III A it is possible that the
+zero-temperature cavity method is not correct in this         variables in the measure µ(σ) deﬁned in (6) in such a
+regime. Another possibility is the apparition of a 1RSB
+or full RSB phase transition as q, R increases for cycle      way that the BP equations converge to a unique ﬁxed-
+codes. ",cond-mat.dis-nn,C,-0.3250047,-0.040154938,-0.16445947
+http://arxiv.org/pdf/2207.00504v2,The closest vector problem and the zero-temperature p-spin landscape for lossy compression,"2.). We leave                              n→∞ n
+for future work the investigation of this discrepancy, as
+already argued in section III A it is possible that the               and the average energy:
+zero-temperature cavity method is not correct in this
+regime. Another possibility is the apparition of a 1RSB                                       1
+or full RSB phase transition as q, R increases for cycle              E(Λ, P, β) = lim EG,s[ E(σ) ]
+codes. ",cond-mat.dis-nn,C,-0.33919752,0.009356141,-0.17718323
+http://arxiv.org/pdf/2207.01826v1,Level statistics of real eigenvalues in non-Hermitian systems,"For example, for non-Hermitian random matrices in           Appendix A: Analyses of small random matrices
+symmetry class BDI (i.e., with TRS whose sign is +1 and
+PHS whose sign is +1), PHS aﬀects the spectral statistics           Small non-Hermitian random matrices in the seven
+only around zero, and hence the real-eigenvalue spacing          symmetry classes can be written in the following uniﬁed
+distribution away from zero should be the same as that           form,
+in class AI. We leave testing this for all the 38 symmetry
+classes for future work. m                    m+n
+
+                                                                 H(s) = a0I + aiLi +         iaiLi . ",cond-mat.dis-nn,C,-0.108485855,0.070204765,-0.17870691
+http://arxiv.org/pdf/2207.01826v2,Level statistics of real eigenvalues in non-Hermitian systems,"For example, for non-Hermitian random matrices in           Small non-Hermitian random matrices in the seven
+symmetry class BDI (i.e., with TRS whose sign is +1 and       symmetry classes are written in the following uniﬁed
+PHS whose sign is +1), PHS aﬀects the spectral statistics     form,
+only around zero, and hence the real-eigenvalue spacing
+distribution away from zero should be the same as that                              m                       m+n
+in class AI. We leave testing this for all the 38 symmetry
+classes for future work. H(s) = a0I + aiLi +                                iaiLi . ",cond-mat.dis-nn,C,-0.15423702,0.064695835,-0.17637417
+http://arxiv.org/pdf/2207.05552v1,Strictly Localized States on the Socolar Dodecagonal Lattice,"Similarly, we cannot predict the existence or frequency of forbidden
+
+sites beyond ﬁnding speciﬁc instances of local environments. We hope these questions will stimulate further research
+
+into elementary excitations in quasicrystals. Appendix: LS types with low frequency
+
+   We give the real space conﬁgurations of ten LS types in addition to the eight in the main text. ",cond-mat.dis-nn,C,-0.13915288,0.008224936,0.21076259
+http://arxiv.org/pdf/2207.05552v2,Strictly Localized States on the Socolar Dodecagonal Lattice,"Similarly, we cannot predict the existence or frequency of forbidden
+
+sites beyond ﬁnding speciﬁc instances of local environments. We hope these questions will stimulate further research
+
+into elementary excitations in quasicrystals. Appendix: LS types with low frequency
+
+   We give the real space conﬁgurations of ten LS types in addition to the eight in the main text. ",cond-mat.dis-nn,C,-0.13915288,0.008224936,0.21076259
+http://arxiv.org/pdf/2207.08189v1,Supplementing Recurrent Neural Networks with Annealing to Solve Optimization Problems,"We also highlight that we reach large system sizes up to
+256 cities for the TSP, by virtue of the cheaper cost of RNNs compared to ordinary Transformers [43]. 9
+In future work, it would be interesting to benchmark VCA against other optimization algorithms such
+as parallel tempering [44]. Thanks to the versatility of VCA, there is a lot of space to experiment with other optimization
+problems [2, 45] and other architectures such as linear attention-based transformers [46]. ",cond-mat.dis-nn,B,0.3177784,0.2068215,-0.07338364
+http://arxiv.org/pdf/2207.08454v1,Long-ranged spectral correlations in eigenstate phases,"If we         ness of these spectral signatures and brieﬂy commented
+increase the size of the histogram bins to be larger than    on related work. In future work, it would be interest-
+δL, as it was done in section III, the ﬁnite-size vanishing  ing to further explore the utility of long-range spectral
+of χ(0, N ) in the MBL is not observed, as seen in ﬁg. 5     probes to shed light on the nature of the transition be-
+and we ﬁnd N χ(0, N ) → 1 as expected from eq. ",cond-mat.dis-nn,C,-0.23211767,0.03305775,-0.062597126
+http://arxiv.org/pdf/2207.10675v1,Unveiling ground state sign structures of frustrated quantum systems via non-glassy Ising models,"On the other hand, if one is lucky enough to have a
+                                                  It is intimately connected to the entanglement properties   good approximation for the nodal surface or the phase
+                                                  of quantum states [7]. For example, it has been demon-      structure of a quantum state, further analysis of the
+                                                  strated that real-valued non-negative wave functions can-   correlation eﬀects becomes algorithmically straightfor-
+                                                  not support extensive entanglement entropy scaling [8]. ward [20]. ",cond-mat.dis-nn,B,0.17233665,0.008046668,0.14461087
+http://arxiv.org/pdf/2207.12882v1,Probing electron beam induced transformations on a single defect level via automated scanning transmission electron microscopy,"After the re-training, one typically
+uses a new ensemble or the best model from the ensemble for the remainder of the experiment,
+assuming there are no significant changes to the state of the microscope. The deep learning output
+is then used for further analysis of the system including topological graph analysis, intensity
+analysis (using the predicted atomic positions), and local neighborhood analysis with mixture
+models. In the following, we refer to this setup as ELIT. ",cond-mat.dis-nn,B,0.4774992,-0.081542745,0.12151706
+http://arxiv.org/pdf/2207.13655v1,Effective and asymptotic criticality of structurally disordered magnets,"(26), one gets an obvious relation:
+
+                                      r(c, s) = r(1 − c, 1/s) . (30)
+
+Therefore, without a loss of generality we restrict ourselves in further analysis to the region 0 < s < 1. Behavior of r(c, s) for several values of concentration c of ‘longer’ spins with L = 1 is shown in Fig. ",cond-mat.dis-nn,C,-0.28139296,0.02367311,-0.09700337
+http://arxiv.org/pdf/2208.00349v1,What Do Deep Neural Networks Find in Disordered Structures of Glasses?,"of neighbors). The TT-OP Θ =  N     Θiδ(r−ri)  is  deﬁned
+                              i
+as a particle-based indicator, and it has been proven that,
+
+for various systems, the spatially coarse-grained TT-OP
+Although this sample could possess important informa-                                                                                 5
+tion, we leave its investigation for future work. cally deﬁned structural indicators reported to date, TT-
+          B. Interpretable structural indicators             OP captures the dynamical behavior of many classes of
+                                                             glasses most successfully. ",cond-mat.dis-nn,C,0.0061520804,-0.094940156,0.11782077
+http://arxiv.org/pdf/2208.00349v2,What Do Deep Neural Networks Find in Disordered Structures of Glasses?,"III D, of the various locally deﬁned struc-
+tural diﬀerences. This investigation should be performed       tural indicators reported to date, TT-OP captures the
+in future work. dynamical behavior of many classes of glasses very well
+                                                               especially universally. ",cond-mat.dis-nn,C,-0.048066355,0.0021249028,0.0747292
+http://arxiv.org/pdf/2208.00349v3,What Do Deep Neural Networks Find in Disordered Structures of Glasses?,"We        hensive measurement of Γ for equilibrated well-annealed
+employed this choice because, unlike the case of ∆ for      low-temperature samples. We leave this problem as a
+which we introduced the coarse-graining to smooth out       future work. the intra-domain noises, we are interested in the average
+size of the domains as discussed below. ",cond-mat.dis-nn,C,-0.054398604,0.027726023,-0.0996807
+http://arxiv.org/pdf/2208.00440v1,Fractal fluctuations at mixed-order transitions in interdependent networks,"ﬁrst-order phase transitions [37]. The latter, in partic-
+                                                             ular, hints at an intriguing cross-disciplinary connection
+   Discussion– In this Letter, we have unveiled the pres-    which deserves further research. ence of self-similarity and of a diverging length scale,
+   Acknowledgements– We thank the Israel Science Foun-                                                                                      5
+dation, the NSF-BSF Grant No. ",cond-mat.dis-nn,C,-0.144446,-0.12558946,0.08939919
+http://arxiv.org/pdf/2208.01848v2,Bose-Einstein-Like condensation of deformed random matrix: A replica approach,"Investigating how the 1RSB transition competes
+  with the condensation transition may provide useful insight into the competition
+  between glass transition and real-space condensation [43], such as gelation [44, 45]. • Important future work is to perform a similar calculation for the Wishart matrix,
+  which has been used to describe the vibrational density of states of amorphous solids
+  near the jamming transition point [19]. A recent numerical simulation revealed
+  that the participation ratio of the lowest localized mode diverges on approaching
+  the jamming transition point, which characterizes the correlated volume near the
+  transition point [46]. ",cond-mat.dis-nn,C,-0.25751784,-0.07987706,0.09299868
+http://arxiv.org/pdf/2208.02929v1,"Nonlinear Dynamics, Avalanches and Noise for Driven Wigner Crystals","The ﬁrst drive
+cally ﬂowing crystal into a dynamically ordered moving        that is strong enough to produce continuous motion is
+crystal or smectic state for increasing drive35, similar to
+the dynamic ordering found in driven superconducting
+vortex lattices10–12. In additional studies, the change
+
+in the noise ﬂuctuations across a pinned Wigner glass
+to ﬂuid state transition was examined67. More recently,
+
+molecular dynamics simulations were used to explore the
+impact of the magnetic ﬁeld on the sliding dynamics of
+
+Wigner crystals, and it was shown that the system has a
+velocity-dependent Hall angle due to a side jump eﬀect
+of the charges moving over the pinning sites76, similar to
+the velocity-dependent Hall angle observed in magnetic
+skyrmion systems with pinning6,7,77. ",cond-mat.dis-nn,C,-0.14922537,-0.1235869,0.27593762
+http://arxiv.org/pdf/2208.05509v1,Disordered Lieb-Robinson bounds in one dimension,"(95) can be bounded by two                 terms supported on more than two sites), and so the re-
+
+contributions:                                                        sults of this paper do not immediately apply. While we
+
+                                                                      expect that our results could be generalized to higher-
+
+                                                                      body interactions, we have not attempted to do so and
+
+                                                                      leave this for future work. r/v           t2                     ∞           t2
+                            δt                                 δt
+σij(ω) ≤ C          dte  −      2  e−a(r−vt)  +  C       dte−      2
+
+            0                                       r/v               D. Ground state correlations
+
+≤  C e−ar      +    C    e−     v  r2     . ",cond-mat.dis-nn,C,-0.16437398,-0.13368815,-0.12825611
+http://arxiv.org/pdf/2208.06488v1,The planted XY model: thermodynamics and inference,"where ASP
+does not converge or equivalently where cASP < 0) where likely the Full-RSB ansatz would be needed to provide the
+exact solution. In the region where ASP converges and cASP > 0 one would need to evaluate the 2RSB solution to
+conclusively decide about the exactness of the 1RSB, this is left for future work. ACKNOWLEDGMENTS
+
+   This work started as a part of the doctoral course Statistical Physics For Optimization and Learning taught at
+EPFL in spring 2021. ",cond-mat.dis-nn,C,-0.13845207,0.119057536,-0.30590644
+http://arxiv.org/pdf/2208.08162v2,Universality of classical and quantum SAT-UNSAT transitions of convex continuous satisfaction problems,"More detailed                                                   Using u21 = 1/(λ− − µ) and Eq. (23), we get in the
+investigations of the dynamics of our model and that of                                                     spin-glass phase
+perceptron are left for future work. For α > 1, µ is to be determined by
+
+                                 1 = F (µ),                                                       (18)                 µ = λ− − 1 Tc → λ−. ",cond-mat.dis-nn,C,-0.17794795,-0.09982282,-0.061621614
+http://arxiv.org/pdf/2208.08162v3,Universality of classical and quantum SAT-UNSAT transitions of convex continuous satisfaction problems,"V, we
+                                                 transition point [3, 11]. However, due to the complex-        summarize the work and discuss possible future works. ity of the model, there are several unsolved problems,
+                                                 even for the convex case, where the cost function has a                           II. ",cond-mat.dis-nn,C,0.023532929,0.13923441,-0.21017301
+http://arxiv.org/pdf/2208.08259v1,Strong Connectivity in Real Directed Networks,"Even for very large
+degree a network is still unlikely to be strongly connected if F is low enough which demonstrates
+that more than just degree is needed for determining the connectivity of a directed network. Why
+some real networks lie directly on the transition line and properties of networks at this point may
+be a possible outlet for future work. (a) Real Networks from (19). ",cond-mat.dis-nn,B,0.32651088,0.02640204,0.13998139
+http://arxiv.org/pdf/2208.08862v1,Frequency propagation: Multi-mechanism learning in nonlinear physical networks,"by identifying the times where the signal’s derivative is
+We leave the study of the regime where Ceﬀ is non neg-     zero or is discontinuous. Speciﬁcally, denoting ∂+vj (t)
+ligible for future work. and ∂−vj(t) the left and right derivatives of the signal at
+                                                           time t, we have
+   Remark 2. ",cond-mat.dis-nn,C,0.08397602,-0.11830463,-0.2800414
+http://arxiv.org/pdf/2208.11730v1,A continuous constraint satisfaction problem for the rigidity transition in confluent tissues,"In the UNSAT phase a detailed analysis of the landscape of local minima is also possible due to the intrinsic Gaussianity
+of the model. This will be presented along with the dynamical treatment in a future work. IV. ",cond-mat.dis-nn,C,0.0014536055,-0.019860191,-0.016466344
+http://arxiv.org/pdf/2208.11730v2,A continuous constraint satisfaction problem for the rigidity transition in confluent tissues,"In the UNSAT phase a detailed analysis of the landscape of local minima is also possible due to the intrinsic Gaussianity
+of the model. This will be presented along with the dynamical treatment in a future work. IV. ",cond-mat.dis-nn,C,0.0014536055,-0.019860191,-0.016466344
+http://arxiv.org/pdf/2208.11731v1,Disorder-induced spin-charge separation in the 1-D Hubbard model,"Further
+and charge disorder (Ns = 128). They decay exponen-                                        investigating the form of this relaxation, and particularly
+tially with distance r = |i − j| and can be ﬁtted with an                                  whether it exhibits glassy eﬀects such as aging, may be
+exponential decay of the form ∼ e−r/ξ2 to extract a local-                                 an interesting topic for future work. isation length ξ2. ",cond-mat.dis-nn,C,-0.20244811,-0.058358897,-0.021305451
+http://arxiv.org/pdf/2208.13316v1,The Hierarchical Parity Model,"Unfortunately, but unsurprisingly, the presence of disorder greatly complicates the
+analytic treatment of the recursion relations. Therefore, in this Appendix we will simply show
+how the recursions may be numerically solved to compute certain thermodynamic quantities, and
+we leave a more thorough analysis of the disordered model for future work. The partition may be
+computed exactly for a given disorder realization and for ﬁnite system size. ",cond-mat.dis-nn,C,-0.11921781,0.17001256,0.1788789

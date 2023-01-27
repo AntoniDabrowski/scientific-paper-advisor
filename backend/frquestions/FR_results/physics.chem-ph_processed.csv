@@ -1,0 +1,1323 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00868v1,Mean first-passage times for solvated LiCN isomerization at intermediate to high temperatures,"1 −0.2151       −10.31                 −101.45
+   Furthermore, comparisons of the computed rate con-
+stants to experiment would clarify which theoretical ap-     2 −3.414 −3.17          −35.71 −35.56            −353.7
+proach is most suitable to describe the LiCN isomer-
+ization reaction. The experimental measurement of            3 −3.819        1.866                    −37.62
+these rates especially in the high-temperature regime,
+also poses a challenge for future work. Speciﬁcally, for     4 −15.84                5.23 5.95                −112.6
+LiCN, it may be diﬃcult to construct an initial dis-
+tribution of states localized at the reactant well that      5 −14.29                                 −14.23
+is weakly solvated by a thermalized argon bath. ",physics.chem-ph,C,-0.20092359,0.22814901,-0.058134455
+http://arxiv.org/pdf/2201.01719v1,Roughness spectroscopy of particle monolayer: Implications for spectral analysis of the monolayer image,"Instead, we focus primarily on aspects that are diﬀerent. The most basic task we have to complete before proceeding to further analysis is generating the
+partially ordered monolayers of hard spheres. We have produced the particle assemblies with the event-
+driven molecular dynamics [38, 39]. ",physics.chem-ph,C,-0.06926982,-0.0055843703,0.295736
+http://arxiv.org/pdf/2201.02335v1,Towards an accelerated decarbonization of chemical industry by electrolysis,"3. Proposed phases for electrolysis systems scale-up: in parallel, we need to scale and commission
+the most mature systems based on water electrolysis and perform further research on energy-efficient
+alternatives described in this perspective. This will allow in future to quickly adopt already deployed
+electrolyzers once better alternatives are developed and save time as opposed to a classical, consecutive
+scale-up approach. ",physics.chem-ph,C,0.19544268,0.46165454,-0.10857807
+http://arxiv.org/pdf/2201.02335v2,Towards an accelerated decarbonization of chemical industry by electrolysis,"3. Proposed phases for electrolysis systems scale-up: in parallel, we need to scale and
+commission the most mature systems based on water electrolysis and perform further research on
+energy-efficient alternatives described in this perspective. This will allow in future to quickly adopt
+already deployed electrolyzers once better alternatives are developed and save time as opposed to a
+classical, consecutive scale-up approach. ",physics.chem-ph,C,0.19544268,0.46165454,-0.10857807
+http://arxiv.org/pdf/2201.03549v2,A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics,"The further speedup can be
+achieved by involving dynamic load balancing and potentially GPU architectures
+[36, 37], as accelerating matrix operation is straightforward compared to logical
+iterations in conventional approaches. This will be explored in our future works. The simulation was ﬁrst run on a coarse grid for the initial ﬂame kernel devel-
+opment and the solution was then mapped to the reﬁned grid for the ﬂame stabi-
+lization period. ",physics.chem-ph,A,0.35816824,-0.12980528,-0.030527458
+http://arxiv.org/pdf/2201.03736v1,Density Functional Theory Transformed into a One-electron Reduced Density Matrix Functional Theory for the Capture of Static Correlation,"we also add a quadratic 1-RDM-based term to DFT’s
+density-based exchange-correlation functional. This ad-         In summary, the present work provides a foundation
+ditional term is especially important because it allows      for further research into the capture of multi-reference
+us to treat static correlation in molecular systems with-    correlation through the inclusion of fractional 1-RDMs
+                                                                                                                    6
+
+in a DFT framework. The functional developed in this         https://aip.scitation.org/doi/pdf/10.1063/1.1390175 . ",physics.chem-ph,C,-0.15283579,-0.17106569,0.21255901
+http://arxiv.org/pdf/2201.04078v1,Automatic learning of hydrogen-bond fixes in an AMBER RNA force field,"However, trajectories where
+the native structure is folded and unfolded at equilibrium would be required to estimate the
+
+                                                         25
+eﬀect of a correction on the stability of the native structure using a reweighting procedure. Whereas this might be possible at least for the kink turn studied here, it would be extremely
+expensive and will be left as a subject for a future work. We here decided to manually
+remove a single parameter, and to validate it on the kink-turn motif using standard MD
+simulations. ",physics.chem-ph,B,0.17404878,-0.09378566,0.032103393
+http://arxiv.org/pdf/2201.04720v1,QUBO-based density matrix electronic structure method,"be inverted are real. If this is not the case, as for the  An in depth study of these other methods will be the
+Green Function method here proposed, the formulation       subject of future work. becomes more complicated and, as far as we know, no
+previous work has addressed this issue. ",physics.chem-ph,B,0.23066281,-0.07173621,-0.25794458
+http://arxiv.org/pdf/2201.06514v1,Nuclear Gradients of Near-Exact Complete Active Space Self-Consistent Field Wave Functions,"This approach is consistent with         Before comparing the eﬀect of initial geometry, we
+several previous works where gradients of approximate     mention that the RMSD between initial and ﬁnal geome-
+CASSCF methods were calculated.60–62,65,94,95 We be-      tries for all vHCISCF optimization are between 0.1-0.4
+lieve that it is important to quantify the eﬀect of this  ˚A and the detailed values are shown in Table II. When
+choice and intend to study it in a future work. comparing optimized geometries starting from diﬀerent
+                                                                                                         9
+
+                                  Singlet                                 Triplet
+
+                        −2497.67                        A
+                        −2497.68                        B
+                        −2497.69                        C
+                        −2497.70
+            ESHCI (Ha)  −2497.71
+                        −2497.72
+                        −2497.73
+
+                           −0.03 −0.02 −0.01                  0.00 −0.03 −0.02 −0.01  0.00
+
+                                  E2 (Ha)                                 E2 (Ha)
+
+FIG. ",physics.chem-ph,B,0.22323373,-0.13586451,-0.20981249
+http://arxiv.org/pdf/2201.06690v1,Time dependent second order Green's function theory for neutral excitations,"The error cancellation between the larger HF fun-       quasi-particle energies. A full stochastic implementation
+damental gap and the stronger Coulomb interactions give       of the GF2-BSE theory will be presented and tested in
+rise to overall reasonable excitation energies using CIS      future work. and TDHF. ",physics.chem-ph,C,-0.21865928,-0.1391313,-0.09862892
+http://arxiv.org/pdf/2201.07605v1,Calculations on the Oxidative Degradation of Platinum Nanoparticle Electrocatalysts,"The most stable reaction product structures are identiﬁed for increasing reactant cov-
+       erage densities and are shown as a function of the galvanic potential. The most stable
+       structure at a given galvanic potential of interest can then be used for further analysis
+       of, for example, catalytic activity, or as input for the GREG routine with a second
+       reactant in order to probe competitive reactions. 3 Computational Details
+
+The freeware Python3 program nanocut23 is used to cut NPs from a ReaxFF-optimized
+FCC-Pt crystal structure (a = 3.94737 Å). ",physics.chem-ph,C,-0.022949273,0.22630234,0.14140765
+http://arxiv.org/pdf/2201.07605v2,Simulations of the Electrochemical Oxidation of Pt Nanoparticles of Various Shapes,"The most stable reaction product structures are identiﬁed for increasing reactant cov-
+       erage densities and are shown as a function of the electrode potential. The most stable
+       structure at a given electrode potential of interest can then be used for further analysis
+       of, for example, catalytic activity, or as input for the GREG routine with a second
+       reactant in order to probe competitive reactions. 7
+3 Computational Details
+
+The freeware Python3 program nanocut27 is used to cut NPs from a ReaxFF-optimized
+FCC-Pt crystal structure (a = 3.94737 Å). ",physics.chem-ph,C,-0.0375278,0.22387958,0.12157928
+http://arxiv.org/pdf/2201.07963v1,Quantum Orbital Minimization Method for Excited States Calculation on Quantum Computer,"ues of the electronic structure Hamiltonian for
+                                                             near-equilibrium conﬁgurations of two diﬀerent
+qOMM has its unique features comparing to                    molecules. While interesting future works could
+                                                             include studying the performance in settings
+existing excited state vector methods. The tar-              that include noise, i.e., on an actual quantum
+                                                             device or on a classical simulation with a noise
+gets of folded spectrum method18 and witness-                model. ",physics.chem-ph,B,-0.19886915,-0.24738348,0.080225535
+http://arxiv.org/pdf/2201.07963v2,Quantum Orbital Minimization Method for Excited States Calculation on Quantum Computer,"In this scenerio,
+nation with a non-local cost function40 and in         qOMM converges with fewer objective function
+the presence of noise when one uses an ansatz          evaluations and with a less expressive ansatz in
+with circuit depth that scales linearly or faster      all but one of the simulations considered here. with the number of qubits.41 Because both of           Each of these methods incurs additional circuit
+these types of barren plateaus worsen with in-         depth beyond the ground state problem that
+creasing circuit depth, the extent to which the        should be addressed by future works in order
+two methods studied in this paper are suscepti-        to increase their applicability in the NISQ era. ble to this eﬀect will likely depend on how the        This corresponds to ﬁnding more eﬃcient meth-
+circuit depth required for each algorithm to con-      ods for computing the inner product terms in
+verge scales with increasing problem size. ",physics.chem-ph,B,0.17436829,-0.23571654,-0.11468837
+http://arxiv.org/pdf/2201.09339v1,Effects of electronic correlation on the high harmonic generation in helium: a time-dependent configuration interaction singles vs time-dependent full configuration interaction study,"After a careful analy-    perform calculations for larger atoms or molecules us-
+sis of the obtained HHG spectra we are able to reach the    ing the eﬀective core potential method, which allows for
+conclusion that the addition of double excitations can in-  limiting the number of explicitly treated electrons to va-
+deed noticeably improve the TD-CI picture of HHG, but       lence shell only. Both approaches signiﬁcantly reduce the
+only when the basis set in which the calculations are per-  order of time propagation matrix equations and will be
+formed already provides qualitatively acceptable results    explored in future works. at the TD-CIS level of theory. ",physics.chem-ph,C,-0.24928772,-0.16606137,-0.025709704
+http://arxiv.org/pdf/2201.11038v1,Skeletal Reaction Model Generation for Atmospheric and High Pressure Combustion of Methane,"The per-
+formance of the presented models are analyzed by their predictive ability for ignition delays, laminar ﬂame
+speeds, and ﬂame extinction curves. The conclusions and suggestions for future works are provided in §5. All the generated models are furnished as supplementary materials. ",physics.chem-ph,A,0.23855668,0.074919954,-0.1712284
+http://arxiv.org/pdf/2201.12117v1,Generalized resonance energy transfer theory: Applications to vibrational energy flow in optical cavities,"The application of gRET to cavity-assisted VET provides a quantitative explanation
+of intriguing phenomena including cooperativity, resonance, and anharmonicity, as shown
+in a recent simulation.¸[teli21 Though demonstrated in cavity-assisted intermolecular VER,
+the gRET formalism can apply equally well to intramolecular vibrational relaxation (IVR)
+in cavities, as exempliﬁed by the solvated ABA model illustrated in Fig. 1(d).43,44 The
+correlated vibrational mode coupling in polyatomic molecules may shed light on the VSC-
+induced phenomena in energy transfer and reaction kinetics and is an interesting subject for
+further study. ∗ Electronic address: jianshu@mit.edu
+ 1 T. F¨orster, in Modern Quantum Chemistry. ",physics.chem-ph,C,-0.26842922,0.14648432,0.10397528
+http://arxiv.org/pdf/2201.12475v1,Retroformer: Pushing the Limits of Interpretable End-to-end Retrosynthesis Transformer,"Being aware of the reaction center also encourages the model to generate reactants with improved molecule validity,
+reaction validity, and interpretability. We plan to further research the multi-step template-free retrosynthesis planning
+problem using Retroformer as the single-step retrosynthesis prediction backbone. References
+
+ [1] Rdkit: Open-source cheminformatics. ",physics.chem-ph,A,0.25231934,0.15434653,0.22498205
+http://arxiv.org/pdf/2201.13104v1,A method for the variational calculation of hyperfine-resolved rovibronic spectra of diatomic molecules,"It is also possible to evaluate them
+manually after obtaining electronic wavefucntions37. We will discuss the ab initio calculation
+of hyperﬁne coupling constants in future work. The current implementation only allows for nuclear spin eﬀects on one atom and neglects
+coupling between electronic states. ",physics.chem-ph,C,-0.23099934,-0.22669417,-0.024898808
+http://arxiv.org/pdf/2201.13205v1,Vibronic mass computation for the $EF$-$GK$-$H\bar{H}$ $^1Σ_\text{g}^+$ manifold of molecular hydrogen,"For a
+direct comparison with experiment, it is necessary to account for the relativistic and leading-order
+QED corrections, for which the computation of the Bethe logarithm is in progress [41]. In future work, it will be necessary to (a) compute more precise coupling matrix elements, (b)
+compute the mass correction values at more points, and (c) possibly couple more electronic states. At the same time, the high density of electronic states beyond the HH¯ state (Fig. ",physics.chem-ph,B,-0.22719848,-0.3133081,-0.10280126
+http://arxiv.org/pdf/2201.13205v2,Vibronic mass computation for the $EF$-$GK$-$H\bar{H}$ $^1Σ_\text{g}^+$ manifold of molecular hydrogen,"For a
+direct comparison with experiment, it is necessary to account for the relativistic and leading-order
+QED corrections, for which the computation of the Bethe logarithm is in progress [41]. In future work, it will be necessary to (a) compute more precise coupling matrix elements, (b)
+compute the mass correction values at more points, and (c) possibly couple more electronic states. At the same time, the high density of electronic states beyond the HH¯ state (Fig. ",physics.chem-ph,B,-0.22719848,-0.3133081,-0.10280126
+http://arxiv.org/pdf/2201.13214v1,Variational vibrational states of HCOOH,"Direct comparison with those results have not been
+reported in this work, because our current focus was the development of a computational procedure
+that can be used to provide benchmark quality vibrational energies up to and possibly beyond the
+isomerization barrier of the formic acid molecule. We think that we have almost achieved this
+goal, further necessary work with larger basis sets and an improved basis pruning condition is in
+progress and results will be reported in future work. Already in the present paper, cis-trans entangled states, corresponding ‘tunneling splittings’,
+and the (cis or trans) localized to delocalized transition taking place near the top barrier were
+shortly discussed. ",physics.chem-ph,C,-0.18797822,-0.075013675,0.22615182
+http://arxiv.org/pdf/2201.13214v2,Variational vibrational states of HCOOH,"Direct comparison with those results have not been
+reported in this work, because our current focus was on the development of a computational proce-
+dure that can be used to provide benchmark quality vibrational energies up to and possibly beyond
+the isomerization barrier of the formic acid molecule. We think that we have almost achieved this
+goal, further necessary work with larger basis sets and an improved basis pruning condition is in
+progress and results will be reported in future work. Already in the present paper, cis-trans entangled states, corresponding ‘tunneling splittings’,
+and the (cis or trans) localized to delocalized transition taking place near the top barrier were
+shortly discussed. ",physics.chem-ph,C,-0.16296948,-0.05733686,0.1987114
+http://arxiv.org/pdf/2202.00328v1,Relativistic reduced density matrix functional theory,"Subsequently, some
+properties of the functionals based on the inclusion of                                                                                                                    18
+N -representability conditions were also discussed. The
+performance of np-ReRDMFT approximations is an open                                                                     ACKNOWLEDGEMENTS
+question that will be addressed in future works. M.R.-M. acknowledges the European Commission for
+                                                                                                    an Horizon 2020 Marie Sklodowska-Curie Individual Fel-
+                                                                                                    lowship (891647-ReReDMFT). ",physics.chem-ph,B,0.169641,-0.25392112,0.16236264
+http://arxiv.org/pdf/2202.00328v2,Relativistic reduced density matrix functional theory,"Subsequently, some
+properties of the functionals based on the inclusion of                                                                                                                    18
+N -representability conditions were also discussed. The
+performance of np-ReRDMFT approximations is an open                                                                     ACKNOWLEDGEMENTS
+question that will be addressed in future works. M.R.-M. acknowledges the European Commission for
+                                                                                                    an Horizon 2020 Marie Sklodowska-Curie Individual Fel-
+                                                                                                    lowship (891647-ReReDMFT). ",physics.chem-ph,B,0.169641,-0.25392112,0.16236264
+http://arxiv.org/pdf/2202.00328v3,Relativistic reduced density matrix functional theory,"We at least know that the trace
+
+of these 1-RDMs should be equal to the charge Q. Other necessary conditions will be investigated in future work. [70] Whether we have a true minimum, is an open question, but we suspect it to be the case like in the nonrelativistic limit [67]. ",physics.chem-ph,B,-0.07410306,-0.19859655,-0.20975302
+http://arxiv.org/pdf/2202.00328v4,Relativistic reduced density matrix functional theory,"We at least know that the trace
+
+of these 1-RDMs should be equal to the charge Q. Other necessary conditions will be investigated in future work. [70] Whether we have a true minimum, is an open question, but we suspect it to be the case like in the nonrelativistic limit [67]. ",physics.chem-ph,B,-0.07410306,-0.19859655,-0.20975302
+http://arxiv.org/pdf/2202.00995v1,MD-GAN with multi-particle input: the machine learning of long-time molecular behavior from short-time MD data,"Therefore, the reduction in computational cost for the genera-
+tion of training MD data achieved in this study is useful for accelerating MD-GAN. In future work, we will apply MD-GAN with multiparticle input to various molecular sys-
+tems and ﬁnd an appropriate way to select multiple particles to predict the physical properties
+of each system. Supplementary Materials
+
+Section S1. ",physics.chem-ph,A,0.27961814,0.18705621,0.16375923
+http://arxiv.org/pdf/2202.01146v1,Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculations,"For this purpose,             matrices, thus allowing for the generation of both Kramers-
+second order Möller–Plesset perturbation theory (MP2) is a          restricted and Kramers-unrestricted MP2FNOs. Finally, it al-
+particularly appealing approach to obtain the 1RDM and the          lows for re-expressing NOs in atomic orbital (AO) basis for
+approximate NOs because of its low scaling, non-iterative           further analysis. O(N5), and the ability to recover most of correlation ef-
+fects. ",physics.chem-ph,B,-0.15565342,-0.2752552,0.0102155665
+http://arxiv.org/pdf/2202.01146v2,Assessing MP2 frozen natural orbitals in relativistic correlated electronic structure calculations,"Second, as it will be outlined below our implementation is   nion algebra Dv(Qv ),
+capable of manipulating both complex and quaternion density
+matrices, thus allowing for the generation of both Kramers-              Dv(Qv ) = U †Dv(2v)U                     (3)
+restricted and Kramers-unrestricted MP2FNOs. Finally, it al-
+lows for re-expressing NOs in atomic orbital (AO) basis for       where the tranformation matrix U is given by66
+further analysis. U=  I jˇI                                (4)
+                                                                             jˇI I
+
+II. ",physics.chem-ph,B,-0.04955144,-0.25434113,0.059139404
+http://arxiv.org/pdf/2202.02079v1,Ab initio Circular Dichroism with the Yambo code: applications to dipeptides,"CONCLUSION
+
+In this work we have reported on our implementation of circular dichroism calculations at Independent Particle level
+in the Yambo code and on its application to three cyclo-dipeptides, cyclo(Glycine-Phenylalanine), cyclo(Tryptophan-
+Tyrosine) and cyclo(Tryptophan-Tryptophan), with some considerations on the more pronounced conformational sen-
+sitivity of CD with respect to absorption, and on the interpretation of Independent Particle spectral features in terms of
+both the energy position of occupied and empty frontier orbitals, and of their spatial localization. The implementation
+of CD calculations beyond IP level will be the subject of future works. In particular, an analysis of Independent Particle absorption spectra of the three investigated cyclo-dipeptides,
+together with the spatial localization of the electronic states involved in the optical transitions (see Results section)
+illustrates how similar densities of electronic energy levels can potentially yield rather different absorption spectra,
+due to the generally higher (lower, respectively) intensities of contributions from transitions between pairs of orbitals
+with a large (resp. ",physics.chem-ph,C,-0.35249412,0.016336625,0.029610042
+http://arxiv.org/pdf/2202.03562v1,Optically induced anisotropy in time-resolved scattering: Imaging molecular scale structure and dynamics in disordered media with experiment and theory,"The optical laser polarization was oﬀset by a 30°angle
+with respect to the X-ray polarization in order to more easily distinguish the anisotropic
+INXS signal from the x-ray polarization in the raw scattering signal. Following each pulse
+a scattering image was recorded on the downstream CSPAD detector for further analysis. FIG. ",physics.chem-ph,C,-0.07164927,0.12849769,-0.35005617
+http://arxiv.org/pdf/2202.04622v1,Wave function Ansatz (but Periodic) Networks and the Homogeneous Electron Gas,"In order to describe the electronic
+structure of real materials, the periodic lattice potential
+due to the ionic crystal must be further included in the
+Hamiltonian. We expect WAP-net to still provide an ac-
+curate description to describe the electronic structure in
+materials, a detailed study to benchmark its performance
+for solids will be addressed in a future work. VII. ",physics.chem-ph,C,-0.1602435,0.09122428,0.16608533
+http://arxiv.org/pdf/2202.04622v2,Wave function Ansatz (but Periodic) Networks and the Homogeneous Electron Gas,"In order to describe the electronic
+structure of real materials, the periodic lattice potential
+due to the ionic crystal must be further included in the
+Hamiltonian. We expect WAP-net to still provide an ac-
+curate description to describe the electronic structure in
+materials, a detailed study to benchmark its performance
+for solids will be addressed in a future work. VII. ",physics.chem-ph,C,-0.1602435,0.09122428,0.16608533
+http://arxiv.org/pdf/2202.05350v1,Tensor Network Path Integral Study of Dynamics in B850 LH2 Ring with Atomistically Derived Vibrations,"We have also an-              While here we have explored the dynamics and the
+alyzed and massaged the expressions for the absorption            absorption spectra, the other experimentally realizable
+                                                                  observables can be also be simulated equally simply. Fur-
+                                                                  ther investigation of other observables and longer ranged
+                                                                  interactions will be the focus of future work. 11
+
+                                                                          M = R U . ",physics.chem-ph,C,-0.14077969,-0.014768226,-0.022059083
+http://arxiv.org/pdf/2202.05350v2,Tensor Network Path Integral Study of Dynamics in B850 LH2 Ring with Atomistically Derived Vibrations,"Additionally,             While here we have explored the dynamics and the ab-
+subtle eﬀects stemming from the unequal electronic cou-       sorption spectra, other experimentally realizable observ-
+                                                              ables can be also be simulated with similar conceptual
+                                                              simplicity. Further investigation of other observables,
+                                                              especially multi-time correlation functions and longer
+                                                                                                                                  12
+
+ranged interactions will be the focus of future work. In-               Next, we list the expressions for the ﬁnal point, last col-
+corporation of long ranged interactions would be impor-                 umn:
+tant in capturing dipole-dipole interactions between dis-
+tant monomers in the Hamiltonian. ",physics.chem-ph,C,-0.2497732,-0.11353931,0.10086156
+http://arxiv.org/pdf/2202.05350v3,Tensor Network Path Integral Study of Dynamics in B850 LH2 Ring with Atomistically Derived Vibrations,"Further investigation of other observables,
+with the most appropriate parameters. The B850 ring is       especially multi-time correlation functions and longer
+characterized by non-parallel transition dipole moments      ranged interactions will be the focus of future work. In-
+and unequal monomer excitation energies. ",physics.chem-ph,C,-0.2572059,-0.14089394,-0.13105567
+http://arxiv.org/pdf/2202.07461v1,Statistical method for analysis of interactions between chosen protein and chondroitin sulfate in an aqueous environment,"If someone look carefully on recur-
+rence plots, he or she may observe that the plot for mucin CS-6 with MgCl2 looks a
+bit diﬀerently than others. Here despite the fact that recurrence plots looks visually
+similar (due to high noise) and the Shannon entropy approach may be problematic,
+it is worth the eﬀort to explore the automatic methods of further analysis. These
+methods should be dedicated to proceed black and white images of recurrence plots
+and expected to reveal tiny diﬀerences and similarities in these images. ",physics.chem-ph,C,0.15184234,0.20718573,-0.13846833
+http://arxiv.org/pdf/2202.07461v2,Statistical method for analysis of interactions between chosen protein and chondroitin sulfate in an aqueous environment,"For example, if someone looks
+carefully at recurrence plots, one may observe that the plot for mucin CS-6 with
+MgCl2 looks a bit diﬀerently than others. Although recurrence plots look visually
+similar (due to high noise) and the Shannon entropy approach may be problematic, it
+is worth the eﬀort to explore the automatic methods of further analysis. These meth-
+ods should be dedicated to proceeding with black and white images of recurrence
+plots and are expected to reveal tiny diﬀerences and similarities in these images. ",physics.chem-ph,C,0.14317687,0.1630795,-0.049935237
+http://arxiv.org/pdf/2202.08021v1,Toward Development of Machine Learned Techniques for Production of Compact Kinetic Models,"Figure 10 shows the predictive capability of
+the regression model for compact model candidates produced in the 1st Genetic Seed scan in Phase 2. The application of multiple linear regression to the MLOCK algorithm will be further investigated and
+improved in future work. 32
+Figure 10. ",physics.chem-ph,A,0.5237497,0.09042727,-0.17452145
+http://arxiv.org/pdf/2202.08709v1,Explicitly correlated electronic structure calculations with transcorrelated matrix product operators,"Their eﬀect could be added a posteriori through,
+for instance, perturbation theory. We will investigate this possibility in future work. 4 Conclusions
+
+In this work, we introduced the transcorrelated DMRG algorithm for the full electronic
+Hamiltonian in second quantized form to deal with dynamical correlations induced by the
+electron-electron cusp. ",physics.chem-ph,B,-0.098548375,-0.42841324,0.069835894
+http://arxiv.org/pdf/2202.08709v2,Explicitly correlated electronic structure calculations with transcorrelated matrix product operators,"Their eﬀect could be added a posteriori through, for instance,
+perturbation theory. We will investigate this possibility in future work. 4 Conclusions
+
+In this work, we introduced the transcorrelated DMRG algorithm for the full electronic
+Hamiltonian in second quantized form to deal with dynamical correlations induced by the
+electron-electron cusp. ",physics.chem-ph,B,-0.098548375,-0.42841324,0.069835894
+http://arxiv.org/pdf/2202.08804v1,Hybridizing Physical and Data-driven Prediction Methods for Physicochemical Properties,"Preliminary studies have shown that there are no direct correlations between features and
+
+physical descriptors. However, to unveil these (complex) relationships will be an exciting task for future work, possibly
+
+generating previously unknown physical insights. All predictions were obtained by leave-one-out cross-validation, i.e., by training the model to all available data except
+
+for the one data point that is to be predicted, and repeating this procedure for each available data point. ",physics.chem-ph,A,0.40427315,0.15891905,0.116494134
+http://arxiv.org/pdf/2202.08874v1,Nonadiabatic instanton rate theory beyond the golden-rule limit,"This suggests that expressions like Eqs. (E.6)               of electron-transfer rates in the nonadiabatic limit,”
+and (E.8) can inform future work on rigorous uniform                     J. Chem. Phys. ",physics.chem-ph,C,-0.22838503,-0.14273553,-0.07535128
+http://arxiv.org/pdf/2202.08874v2,Nonadiabatic instanton rate theory beyond the golden-rule limit,"This suggests that expressions like Eqs. (F.6)
+                                                               and (F.8), when combined with our analysis, can inform
+is the Landau–Zener transmission coeﬃcient.51,52 The           future work on rigorous uniform nonadiabatic rate theo-
+latter approximates the probability of transmission be-        ries, valid across the entire spectrum of diabatic coupling
+tween two linear diabatic states during a single passage       strengths. through the hopping point, and is valid at all coupling
+strengths ∆, but only for suﬃciently large v. PH(v) has          1W. ",physics.chem-ph,C,-0.17287236,-0.20362943,-0.1406086
+http://arxiv.org/pdf/2202.11580v1,The consistent behavior of negative Poissons ratio with interlayer interactions,"(a, d, g, j), (b, e, h, k), and (c, f, i, l) illustrate the situation of AA bilayer, AB bilayer and single-
+                                                   lawyer graphene, respectively. To get insight into the fundamental mechanism, we further study the evolution of orbital
+projected density of states (pDOS). It is well known that the C-C σ bonds come from the
+hybridized C- px /py orbitals, and the solo C- pz orbital forms the π bonds and electronic Dirac
+cone.1 Thus, we study px, py and pz for bilayer and single-layer graphene when strain is applied. ",physics.chem-ph,C,-0.20409894,0.08755407,0.10727246
+http://arxiv.org/pdf/2202.12925v1,NQCDynamics.jl: A Julia Package for Nonadiabatic Quantum Classical Molecular Dynamics in the Condensed Phase,"tions. To achieve this, a ﬂexible interface was created that
+Through BinaryBuilder.jl it is even possible to include bi-        does not unnecessarily restrict the possibilities of future work. nary dependencies from other languages without requiring the       We utilise Julia’s multiple dispatch to simplify the addition of
+user to manually compile extra libraries. ",physics.chem-ph,A,0.22020298,0.11719923,0.18691686
+http://arxiv.org/pdf/2202.12925v2,NQCDynamics.jl: A Julia Package for Nonadiabatic Quantum Classical Molecular Dynamics in the Condensed Phase,"tions. To achieve this, a ﬂexible interface was created that
+Through BinaryBuilder.jl it is even possible to include bi-        does not unnecessarily restrict the possibilities of future work. nary dependencies from other languages without requiring the       We utilise Julia’s multiple dispatch to simplify the addition of
+user to manually compile extra libraries. ",physics.chem-ph,A,0.22020298,0.11719923,0.18691686
+http://arxiv.org/pdf/2202.13011v1,Chemoton 2.0: Autonomous Exploration of Chemical Reaction Networks,"For this
+particular issue, possible solutions have already been reported in the literature (see
+Refs. 112 , 121 ) that will be tested and adapted in future work. In a few special cases, it is required to artiﬁcially break the point-group or local
+symmetry of reactants in order to facilitate the correct reaction. ",physics.chem-ph,C,-0.08454111,0.1136927,-0.09501208
+http://arxiv.org/pdf/2202.13459v1,Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials,"Here,
+we only employ a single level of father wavelets to expand the bias potential. An interesting
+future work would be to go beyond this and implement a multiresolution bias potential
+where we can increase the resolution on the ﬂy during the simulation. Coupling this with a
+method to evaluate the quality of the current bias potential on the ﬂy (for example, by using
+the eﬀective sample size38,85,91,92) could allow us to automatically construct the VES bias
+potential with a predeﬁned accuracy, without the need to adapt the parameters manually. ",physics.chem-ph,B,0.28860092,-0.054194994,-0.2516812
+http://arxiv.org/pdf/2202.13459v2,Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials,"Here,
+we only employ a single level of father wavelets to expand the bias potential. An interesting
+future work would be to go beyond this and implement a multiresolution bias potential
+where we can increase the resolution on the ﬂy during the simulation. Coupling this with a
+method to evaluate the quality of the current bias potential on the ﬂy (for example, by using
+the eﬀective sample size38,85,91,92) could allow us to automatically construct the VES bias
+potential with a predeﬁned accuracy, without the need to adapt the parameters manually. ",physics.chem-ph,B,0.28860092,-0.054194994,-0.2516812
+http://arxiv.org/pdf/2202.13704v1,Time-resolved chiral X-Ray photoelectron spectroscopy with transiently enhanced atomic site-selectivity: a Free Electron Laser investigation of electronically excited fenchone enantiomers,"[9], and/or the eﬀects of alignment from the pump pulse that have here been neglected. Furthermore, the slight increase of the PECD at 0 fs and 100 fs compared to our model
+could be related to a fast vibrational dynamics that would require additional investigation. Overall this TR-PECD measurement performed in the excited state allowed accessing the
+local chirality of the electronic environment around those sites that in the ground state are
+mixed with the contributions from all other sites. ",physics.chem-ph,C,-0.22843465,0.03120431,-0.21116693
+http://arxiv.org/pdf/2202.13973v1,A Phase-Space Semiclassical Approach for Modeling Nonadiabatic Nuclear Dynamics with Electronic Spin,"In other words,      ∗ wuyanze@sas.upenn.edu
+                                                                      † xzbian@sas.upenn.edu
+our present need for a good diabatic basis would correspond           ‡ jonathan.rawlinson@manchester.ac.uk
+                                                                      § robert@wigner.berkeley.edu
+to the need for a good gauge within Shenvi’s adiabatic PSSH           ¶ subotnik@sas.upenn.edu
+                                                                    [1] S. Mai and L. González, Angewandte Chemie International Edi-
+algorithm. There is no free lunch, but future work will need
+                                                                         tion 59, 16832 (2020), publisher: Wiley Online Library. to run many simulations to make sure we ﬁnd the most stable         [2] T. R. Nelson, A. J. ",physics.chem-ph,B,0.14495926,-0.21175212,-0.062112764
+http://arxiv.org/pdf/2203.01985v1,Enhanced physics-constrained deep neural networks for modeling vanadium redox flow battery,"Section 5 contains numerical results. We provide conclusions and a
+discussion of future work in Section 6. Figure 1: The comparison of SOC–voltage predictions for an exemplary experiment (Case 12
+in Table 3) using the proposed approach (ePCDNN) and PCDNN. ",physics.chem-ph,B,0.105028965,-0.022577912,-0.31938052
+http://arxiv.org/pdf/2203.02049v1,A trust-region augmented Hessian implementation for state-specific and state-averaged CASSCF wave functions,"74, 2384–2396 (1981). In future work, we will focus on reducing the total
+number of TRAH iterations by accounting for higher-           11B. H. Lengsﬁeld, III, J. Chem. ",physics.chem-ph,C,-0.10317442,-0.0738228,-0.025107421
+http://arxiv.org/pdf/2203.02449v1,Cumulant Methods for Electron-Phonon Problems I: Perturbative Expansions,"An important approximation that dis-                case where the most extensive numerically exact results
+tinguishes the second-order and fourth-order CEs is the                 are available for comparison. Some of the conclusions we
+second-order assumption48                                               draw may be generic and connect to other polaron mod-
+                                                                        els, but future work is necessary before such a conclusion
+   ε (k + q1 + q2) ≈ ε (k + q1) + ε (k + q2) − ε (k) . (30)             can be drawn. ",physics.chem-ph,B,-0.018351303,-0.17582875,-0.32840964
+http://arxiv.org/pdf/2203.02449v2,Cumulant methods for electron-phonon problems. I. Perturbative expansions,"An important approximation that dis-                case where the most extensive numerically exact results
+tinguishes the second-order and fourth-order CEs is the                 are available for comparison. Some of the conclusions we
+second-order assumption48                                               draw may be generic and connect to other polaron mod-
+                                                                        els, but future work is necessary before such a conclusion
+   ε (k + q1 + q2) ≈ ε (k + q1) + ε (k + q2) − ε (k) . (30)             can be drawn. ",physics.chem-ph,B,-0.018351303,-0.17582875,-0.32840964
+http://arxiv.org/pdf/2203.02621v1,Low-cost prediction of molecular and transition state partition functions via machine learning,"See section 2.2. Graph based
+featurization techniques were not considered and this is in plan for future work. For each featurization
+we tested feature and target standardization; we considered min-max scaling and gaussian
+normalization. ",physics.chem-ph,A,0.48657513,0.08828368,-0.023152893
+http://arxiv.org/pdf/2203.03001v1,Quantum Simulations of Vibrational Strong Coupling via Path Integrals,"Compared with the classical results, a quantum simulation predicts no change in
+the Rabi splitting but predicts broadening of the polariton linewidths by roughly a factor of
+two. This polaritonic broadening is more signiﬁcant than the broadening of the O H stretch
+band outside the cavity, and further study is needed to investigate its origin. Moreover, by
+
+                                                         10
+combining path-integral techniques and CavMD, we have demonstrated a numerical ap-
+proach for distinguishing between quantum and classical VSC eﬀects. ",physics.chem-ph,C,-0.1602155,-0.08641866,-0.13279225
+http://arxiv.org/pdf/2203.03617v2,Probing the low-energy electron-scattering dynamics in liquids with high-harmonic spectroscopy,"The time-frequency structure for the gas-phase similarly agrees with the expected structure, validating the
+approach. We note an additional emission contribution in the liquid phase at longer times that possibly corresponds to some
+other scattering process or a diﬀerent emission channel that will be investigated in future work. The time-frequency analysis
+is obtained with a Gabor transform with a Gaussian window of T/3, and the isolated molecule calculations are obtained with
+the methodology described in ref. ",physics.chem-ph,C,-0.19976631,0.11506745,-0.042761125
+http://arxiv.org/pdf/2203.04441v2,Automatic Differentiation for the Direct Minimization Approach to the Hartree-Fock Method,"The same trend as iteration number was obtained. possible future work. Acknowledgments
+
+We thank Rodrigo Vargas and Al´an Aspuru-Guzik for useful discussions. ",physics.chem-ph,B,0.31494886,-0.13026814,-0.21213338
+http://arxiv.org/pdf/2203.04707v1,Ab-initio cluster approach for high-harmonic generation in liquids,"We also note that it is slightly less pronounced when including
+         dynamical correlations in the calculation, though still visible (see SI). This should be investigated
+         in future work. We emphasize that this is the first prediction of a structural minima in the HHG
+         spectra of a liquid system, which is equivalent to those seen in gases79–81 and solids82, and which
+         can potentially be used to probe correlations or other dynamical effects. ",physics.chem-ph,C,-0.082461216,-0.051572867,-0.0053859283
+http://arxiv.org/pdf/2203.05486v1,Electric Double Layer at the Metal-Oxide/Electrolyte Interface,"This is followed by discussions from the atomistic modelling
+aspect of the EDL, with an emphasis on the density-functional theory-based
+molecular dynamics simulations. A conclusion and outlook for future works
+on this topic are also given. Keywords: metal oxide, surface charge, double layer, capacitance,
+density-functional theory, molecular dynamics
+
+     Email address: chao.zhang@kemi.uu.se (Chao Zhang)  March 11, 2022
+Preprint submitted to Elsevier
+1. ",physics.chem-ph,C,-0.24481738,0.10958972,0.29600725
+http://arxiv.org/pdf/2203.05760v1,Facile synthesis of Cu2O nanorods in the presence of NaCl by SILAR method and its characterizations,"Besides the above-mentioned reasons, the steric hindrance effect caused
+by salt concentration should also influence the micelle aggregates, and these effects together result in the
+assemblies of the products. Further studies and work are ongoing to additional research of the mechanisms
+for the fabrication process caused by the new proposed route. 3.3 Electrical Properties:
+
+         The electrical resistivities of the samples were measured by using a homemade 4-point collinear probe
+that was reported in our previous work [23]. ",physics.chem-ph,C,-0.061040357,0.5711733,-0.17863153
+http://arxiv.org/pdf/2203.05760v2,Facile synthesis of Cu2O nanorods in the presence of NaCl by SILAR method and its characterizations,"Besides the above-mentioned reasons, the steric hindrance effect caused
+by salt concentration should also influence the micelle aggregates, and these effects together result in the
+assemblies of the products. Further studies and work are ongoing to additional research of the mechanisms
+for the fabrication process caused by the new proposed route. 3.3 Electrical Properties:
+
+         The electrical resistivities of the samples were measured by using a homemade 4-point collinear probe
+that was reported in our previous work [23]. ",physics.chem-ph,C,-0.061040357,0.5711733,-0.17863153
+http://arxiv.org/pdf/2203.07197v1,Variational Density Functional Calculations of Excited States: Conical Intersection and Avoided Crossing in Ethylene Bond Twisting,"Similar determinants can be formed for the delocalized orbital set and are related to the
+localized set:
+
+D1 = |x1α1x2β2     1
+D2 = |y1α1y2β2  = 2 (D1 + D2 + D3 + D4) ,
+D3 = |x1α1y2β2  = 21 (D1 + D2 − D3 − D4) ,
+D4 = |y1α1x2β2  = 21 (D1 − D2 − D3 + D4) ,
+                = 21 (D1 − D2 + D3 − D4) ,
+
+D5 = |x1α1y2α2 = −D5 ,
+
+D6 = |x1β1y2β2 = −D6 . S-17
+    The triplet determinants are identical in the localized and delocalized sets and D5 and
+D6 can therefore be omitted in the further analysis. Making use of the fact that the squared spin parts of the determinants each integrate to
+unity, we can show the relationships between the energies of the determinants using the two
+orbital sets. ",physics.chem-ph,B,-0.14444822,-0.09737474,0.08471639
+http://arxiv.org/pdf/2203.07560v1,Quantifying Energetic and Entropic Pathways in Molecular Systems,"ergy or enthalpy change. This exciting avenue for adding
+                                                             physics-based constraints to training SPIB will be ex-
+   An additional advantage of using the nonlinear RCs        plored in future work. from SPIB is an ‘adaptive resolution’ of the RC, with
+higher resolution of the transition states and lower reso-   V ACKNOWLEDGEMENTS
+lution of the energetic wells, compared to the linear TICA
+method; this eﬀect is seen for all three systems examined       This research is entirely supported by the U.S. Depart-
+here (viz. ",physics.chem-ph,C,0.18788925,0.08723278,-0.14702538
+http://arxiv.org/pdf/2203.09491v1,Accurate core-excited states via inclusion of core triple excitations in similarity-transformed EOM theory,"In another vein, the approximate inclusion of triple
+excitations may oﬀer an equally eﬀective and even more computationally inexpensive option. With the advances developed in this and future work, we are conﬁdent that similarity-
+transformed equation-of-motion theory will ﬁnd signiﬁcant use in core-hole spectroscopy,
+not only due to the excellent accuracy exhibited in our benchmark, but also due to the
+ability of STEOM to treat large numbers of excited states eﬃciently, its ability to treat core
+and valence states on an even footing, and its proven computational eﬃciency. Acknowledgments
+
+The authors would like to thank Prof. Marcel Nooijen for inspiring us to work on triple
+excitations in STEOM-CC theory and for several fruitful discussions. ",physics.chem-ph,C,-0.14762759,-0.16580294,0.09986861
+http://arxiv.org/pdf/2203.11731v1,A modified surface kinetic model for calcium and strontium isotope fractionation during calcite precipitation,"If k8′ 8 falls out of the range of our sensitiv-
+ity analysis (from 0.7 to 1.5), then the deviation from experimental observations could be
+signiﬁcant. From this point of view, that Sr2+ and Ca2+ have similar probabilities of be-
+ing detached from the crystal surface within a given time interval, or more quantitatively,
+k8′ 8 = ra(88Sr)/ra(40Ca)/(88Sr/40Ca)aq ∈ (0.7, 1.5), is also a prediction of our model that can
+be tested by additional investigations. Within the range of parameters covered in the present
+sensitivity analysis, the results are close to our simpliﬁed model, Eqs. ",physics.chem-ph,C,-0.0937006,0.083361775,-0.13027257
+http://arxiv.org/pdf/2203.11978v1,Benchmark potential energy curve for collinear H$_3$,"doi:
+methodological and algorithmic developments that                            10.1063/1.448527. is left for future work. [11] C. W. Bauschlicher, S. R. Langhoﬀ, H. Partridge, A reeval-
+5. ",physics.chem-ph,B,0.3940494,-0.13701713,-0.019592125
+http://arxiv.org/pdf/2203.13961v1,On the Meaning of Berry Force For Unrestricted Systems Treated With Mean-Field Electronic Structure,"Future work will
+
+                                                        16
+be necessary as far as understanding if other unanticipated practical problems arise when
+running dynamics around Coulson-Fisher points for large systems. As a practical matter,
+one can also anticipate that future work will also investigate new techniques in electronic
+structure that can capture static correlation for systems with spin-orbit coupling. Indeed,
+the future of ab initio nonadiabatic dynamics with Berry forces would appear to be a very
+exciting new research direction. ",physics.chem-ph,C,-0.18980414,-0.17569926,0.030626774
+http://arxiv.org/pdf/2203.13961v2,On the Meaning of Berry Force For Unrestricted Systems Treated With Mean-Field Electronic Structure,"Future work will
+
+                                                        16
+be necessary as far as understanding if other unanticipated practical problems arise when
+running dynamics around Coulson-Fisher points for large systems. As a practical matter,
+one can also anticipate that future work will also investigate new techniques in electronic
+structure that can capture static correlation for systems with spin-orbit coupling. Indeed,
+the future of ab initio nonadiabatic dynamics with Berry forces would appear to be a very
+exciting new research direction. ",physics.chem-ph,C,-0.18980414,-0.17569926,0.030626774
+http://arxiv.org/pdf/2203.15461v2,ELECTRODE: An electrochemistry package for atomistic simulations,"We also
+pacitance of the Gouy-Chapman model, though in disagree-              implemented several new features such as the EW2D summa-
+ment with that of the Kilic-Bazant-Ajdari53 model. Although           tion and a correction for systems periodic in just one dimen-
+the analytical estimates of RC times presented here are inter-        sion, whose capabilities and full potential have been scarcely
+esting and provide starting points for further research on the
+implications of nanoconﬁnement and ﬁnite salt concentration
+on charging times, these results should not be overinterpreted
+as the analytical models contain simpliﬁcations that may not
+apply to such nanoscopic systems. ELECTRODE                                                                                                                                          5
+explored and which work also independently of the CPM. ",physics.chem-ph,C,-0.19066736,0.22687235,-0.049151346
+http://arxiv.org/pdf/2203.15461v3,ELECTRODE: An electrochemistry package for atomistic simulations,"Although the analytical es-
+planar electrodes16. The charging times obtained with CCM             timates of RC times presented here are interesting and pro-
+appear to be too fast, since τ1 is about two orders of mag-           vide starting points for further research on the implications
+nitude smaller than obtained with the potential-based meth-           of nanoconﬁnement and ﬁnite salt concentration on charging
+ods, which is a well-known effect6,55 that could be related to        times, these results should not be overinterpreted as the an-
+rather unphysical high temperatures and voltages when ap-             alytical models contain simpliﬁcations that may not apply to
+plying an instantaneous charge with CCM on the electrodes6. such nanoscopic systems. ",physics.chem-ph,C,-0.15203191,0.44526067,-0.09666158
+http://arxiv.org/pdf/2203.15746v1,Selectivity Trends and Role of Adsorbate-Adsorbate Interactions in CO Hydrogenation on Rhodium Catalysts,"11
+thus, both types of sites are required for a high       of Rh nanoparticles from Schumann et al.4
+activity. An analysis of how this would play              The inclusion of lateral interactions are found
+out at realistic nanoparticle geometries will be
+an intriguing topic for future work. to have a huge eﬀect on the Rh(111) simu-
+                                                        lations. ",physics.chem-ph,C,-0.19252619,0.1284285,0.12294527
+http://arxiv.org/pdf/2203.16055v1,Benchmarking Structural Evolution Methods for Training of Machine Learned Interatomic Potentials,"In
+(a) MD Train Set                                MD Test Set                      CE Test Set                      Dimer Test Set                                                                            11
+                                                    MAE: 15.2                       MAE: 14.9                             MAE: 32.9
+             MAE: 14.0                                                                                                               sidered for future training set generation because (i) it
+      180° 135°                                180° 135°                       180° 135°                          180° 135°          yielded the most descriptor-diverse training data, (ii) the
+                                                                                                                                     dimer-trained MLIP was the least erroneous in diﬀusion
+                         0                90° 0       90° 0                           90° 0                                    90°   MEPs, and (iii) the dimer-trained MLIP more closely
+                                                                                                                                     reproduced the phonon dispersions of β-Zr. Thus we sug-
+                         1                     1                               1                                  1                  gest future works use a combination of dimer searches and
+                                                                                                                                     CE, where CE uses shallower potential energy ramping
+                         2                45°  2      45°                      2      45°                         2            45°   to better sample low energy structures. In building to-
+                                                                                                                                     wards a fully automatable MLIP training scheme, where
+                            0°                    0°                              0°                                 0°              automatically created initial structures are evolved using
+                                                                                                                                     dynamics methods to sample more conﬁguration space,
+(b) CE Train Set                                MD Test Set                      CE Test Set                      Dimer Test Set     robust structure generations schemes are still in need of
+                                                    MAE: 15.5                       MAE: 14.2                             MAE: 32.0  improvement. ",physics.chem-ph,A,0.34715283,0.022118505,0.09147245
+http://arxiv.org/pdf/2203.16091v1,A Continuum of Physics-Based Lithium-Ion Battery Models Reviewed,"All
+these models need to be properly coupled to an electrochemical model, and the derivation of simpliﬁed
+models accounting for these additional physics should be done using the same framework as we introduced
+for electrochemical models. These model extensions are connected to the main areas for further research in the ﬁeld of continuum
+models for lithium-ion batteries. The principal challenges in the near future are the inclusion of additional
+physics into the continuum modelling framework. ",physics.chem-ph,C,-0.037152335,0.21449493,0.041026223
+http://arxiv.org/pdf/2203.16205v1,Automatic Identification of Chemical Moieties,"As another example, we have pre-
+diﬀerence, MoINN distinguishes between individual moieties           sented the dynamic clustering of chemical reactions, demon-
+and environment types, while DiﬀPool and MinCut handle               strating that the environment types identiﬁed by MoINN
+
+                                                                  7
+capture conformational information that can be used to de-          [5] J. Han, L. Zhang, R. Car, and W. E, “Deep Potential: a
+ﬁne reaction coordinates. general representation of a many-body potential energy
+                                                                         surface,” arXiv:1707.01478 [physics], July 2017. arXiv:
+    A promising avenue for future work is the application of             1707.01478. MoINN in the domain of generative models. ",physics.chem-ph,A_centroid,0.20342115,-0.002742894,0.27753878
+http://arxiv.org/pdf/2204.00699v1,Reduced density matrix functional theory from an ab initio seniority-zero wave function: Exact and approximate formulations along an adiabatic connection path,"The construction of den-                                ελp=1 = hpp, thus leading to
+
+                                                                                     S  E0λ=1 = E = ελ=1 nΨ0 + Wˆ ee ,                                     (64)
+
+sity matrix functional approximations to W ({ϕp} , n)                                                                                                  Ψ0
+as well as the self-consistent implementation of Eq. (54)
+is left for future work. In the rest of this work, we assume                            where we used the fact that, by construction,
+that the exact natural orbitals of the system under study
+are known and we focus on the evaluation of the com-                                                   nˆpq Ψ0 p==q 0. ",physics.chem-ph,B,-0.07939625,-0.4634117,-0.0075596794
+http://arxiv.org/pdf/2204.00699v2,Reduced density matrix functional theory from an ab initio seniority-zero wave function: Exact and approximate formulations along an adiabatic connection path,"The construction of den-
+                                                                                        this case), thus leading to
+                                                                                     S
+                                                                                        E0λ=1 = E = ελ=1 nΨ0 + Wˆ ee ,                                     (64)
+sity matrix functional approximations to W ({ϕp} , n)
+as well as the self-consistent implementation of Eq. (54),                                                                                             Ψ0
+which are essential for turning the theory into a practi-
+cal computational method, are left for future work. In                                  where we used the fact that, by construction,
+the rest of this work, we assume that the exact natural
+orbitals of the system under study are known and we                                                    nˆpq Ψ0 p==q 0. ",physics.chem-ph,B_centroid,-0.06875866,-0.47841465,0.022120137
+http://arxiv.org/pdf/2204.00699v3,Reduced density matrix functional theory from an ab initio seniority-zero wave function: Exact and approximate formulations along adiabatic connection paths,"First of all, one should design density         schemes should obviously be explored further. This is
+matrix functional approximations to the higher-seniority      left for future work. interaction energy which is obtained by subtracting the
+seniority-zero density matrix functional energy from             Finally, the computational burden of performing DOCI
+the regular full interaction one. ",physics.chem-ph,B,0.05248732,-0.20623568,0.11368331
+http://arxiv.org/pdf/2204.01396v1,RE-EDS Using GAFF Topologies: Application to Relative Hydration Free-Energy Calculations for Large Sets of Molecules,"Overall, it has been shown that hydration free-energy calculations with RE-EDS and GAFF pa-
+
+rameters executed in GROMOS accurately reproduce both experimental values and results obtained
+with diﬀerent free-energy estimators and MD engines. In future work, GAFF parameterized topologies
+will be used to perform binding free-energy calculations with RE-EDS in GROMOS. Data and Software Availability
+
+The input ﬁles for the RE-EDS simulations can be found at https://github.com/rinikerlab/reeds/
+tree/main/examples/systems/benzenes_amber2gromos. ",physics.chem-ph,C,0.009697072,0.16504015,0.16410089
+http://arxiv.org/pdf/2204.01396v2,RE-EDS Using GAFF Topologies: Application to Relative Hydration Free-Energy Calculations for Large Sets of Molecules,"While the molecules of the chosen datasets were
+relatively small and contained a well-deﬁned common benzene core, previous studies successfully used
+RE-EDS to calculate binding and hydration free energies for molecule sets involving larger structural
+changes such as R-group modiﬁcations, ring opening/closing and ring size changes. In future work,
+GAFF parameterized topologies will be used to perform binding free-energy calculations with RE-EDS
+in GROMOS. Data and Software Availability
+
+The input ﬁles for the RE-EDS simulations can be found at https://github.com/rinikerlab/reeds/
+tree/main/examples/systems/benzenes_amber2gromos. ",physics.chem-ph,C,0.022896472,0.11552012,0.33350456
+http://arxiv.org/pdf/2204.01842v1,Surface microlenses for much more efficient photodegradation in water treatment,"The photodegradation eﬃciencies of the dye and three micropollu-
+tants in bottles functionalized with MLs were all signiﬁcantly higher than that in normal
+bottles, demonstrating the potential application of MLs in the photodegradation of harmful
+compounds in water. In future work, MLs may be fabricated in commercial drinking water
+bottles that can be recycled for the decontamination of water. Acknowledgement
+
+The authors acknowledge the support from Canada First Research Excellence Fund as part
+of the University of Alberta’s Future Energy System research initiative and the technical
+assistance from the Institute for Oil Sands Innovation (IOSI) at the University of Alberta. ",physics.chem-ph,C,0.13089386,0.53816885,-0.10238357
+http://arxiv.org/pdf/2204.05160v1,Systematically Improvable Generalization of Self-Interaction Corrected Density Functional Theory,"APSIC(2,2)PBE gives results close to
+N-electron valence perturbation theory NEVPT2 in this basis set. These results suggest a number of avenues for future work. (1) The derivation lets us
+express projections Pˆiσ in terms of the complex-valued[25] or Fermi-L¨owdin[9] localized or-
+bitals of modern SIC methods. ",physics.chem-ph,B,-0.08686523,-0.16100945,0.046314083
+http://arxiv.org/pdf/2204.05160v2,Systematically Improvable Generalization of Self-Interaction Corrected Density Functional Theory,"APSIC(2,2)PBE is instead quite close to
+the reference. These results suggest a number of avenues for future work. (1) The Adiabatic Projec-
+tion derivation admits many choices of projection Pˆiσ, including the complex-valued[26] or
+
+                            6
+Fermi-L¨owdin[9] localized orbitals of modern SIC. ",physics.chem-ph,B,-0.09020562,-0.10197988,-0.009612868
+http://arxiv.org/pdf/2204.05557v1,Janus van der Waals equations for real molecules with two-sided phase transitions,"Further, the former should be
+a local maximum of Tr, while the latter should be either a local maximum as in Figure 1 if the critical
+index is even or an inﬂection point if it is odd. We leave the construction of this kind of multi-critical Janus
+
+van der Waals equations for future work. 1 .5
+
+                      N IS T c o - e x is te n c e c u r v e
+                      J a n u s ( n = 2 ) s p in o d a l c u r v e
+                      v d W s p in o d a l c u r v e
+
+    1 .0
+
+Pr
+
+    0 .5
+
+    0 .0
+
+          0 .0  0 .5       1 .0                                          1 .5  2 .0
+
+                           1 /v r
+
+Figure 11. ",physics.chem-ph,B,0.07547467,-0.15026775,-0.12918319
+http://arxiv.org/pdf/2204.07534v1,Ultra-fast Spectroscopy for High-Throughput and Interactive Quantum Chemistry,"The application to
+semi-empirical models based on the neglect of diatomic diﬀerential overlap, such as
+MNDO, AM1, RM1, PM3 and PM6, yields, however, no reliable vibrational and
+electronic spectra (the latter calculated with the conﬁguration interaction singles
+method). The extension of the approaches discussed in this work to modern semi-
+empirical models, such as the extended tight-binding method family (GFNn-xTB,
+n = 0, 1, 2) and orthogonalization-corrected methods (OMn, n = 1, 2, 3), is rather
+straightforward and will therefore be considered in future work. Acknowledgments
+
+We gratefully acknowledge ﬁnancial support by the Swiss National Science Founda-
+tion (Project No. ",physics.chem-ph,C,-0.1414688,-0.13515496,0.06289977
+http://arxiv.org/pdf/2204.07534v2,Ultra-fast Spectroscopy for High-Throughput and Interactive Quantum Chemistry,"The application to
+semi-empirical models based on the neglect of diatomic diﬀerential overlap, such as
+MNDO, AM1, RM1, PM3 and PM6, yields, however, no reliable vibrational and
+electronic spectra (the latter calculated with the conﬁguration interaction singles
+method). The extension of the approaches discussed in this work to modern semi-
+empirical models, such as the extended tight-binding method family (GFNn-xTB,
+n = 0, 1, 2) and orthogonalization-corrected methods (OMn, n = 1, 2, 3), is rather
+straightforward and will therefore be considered in future work. Acknowledgments
+
+We gratefully acknowledge ﬁnancial support by the Swiss National Science Founda-
+tion (Project No. ",physics.chem-ph,C,-0.1414688,-0.13515496,0.06289977
+http://arxiv.org/pdf/2204.07748v1,The generality of uncooperative and cooperative effects in elementary hydrogen-bonded systems,"Those structures with different D and A
+atoms (D≠A) include F-H‧‧‧OH2, F-H‧‧‧OCH2, HO-H‧‧‧NH3, and F-H‧‧‧NH3, and others with the same D and A atom (D=A)
+include F-H‧‧‧FH, HO-H‧‧‧OCH2, HO-H‧‧‧OH2 and H2N-H‧‧‧NH3 (for details, see Supplementary Information (SI), Part 1). 3
+The different D~A distances at the equilibrium position are taken as the zero point to further study the structures
+(Figures 1b and c) and energies (Figures 1bʹ and cʹ) during compression. The calculations indicate that for the H-
+bonded systems of D≠A, with the decreasing of intermolecular distance, the D-H bond length first increases and
+then decreases, which reproduces the common cooperative effect13,14. ",physics.chem-ph,C,-0.15644962,0.11233896,0.15769371
+http://arxiv.org/pdf/2204.11466v1,Fourier-transform spectroscopy of $^{13}$C$^{17}$O and deperturbation analysis of the A$^1Π$ ($ν$ = 0 - 3) levels,"The only other possibility is that
+another hitherto unknown Rydberg state is involved, of 1Π, 3Π, or 3Σ- character. We hope, that
+our future work [87] concerning a multi-isotopologue analysis of the CO molecule may shed
+more light on this problem. The qv constants in the CO A1Π state are very small as well as they have erratic signs and
+magnitudes (Table 4). ",physics.chem-ph,C,-0.34744668,-0.011894417,-0.11730363
+http://arxiv.org/pdf/2204.12216v1,Lieb variation principle in density-functional theory,"In these cases, the Lieb variation principle was used to
+determine the ground-state adiabatic connections and then excitation energies estim-
+ated by perturbation at each value of the interaction strength. The Lieb variation
+principle may provide a useful tool for further study of time-independent approaches
+to excitation energies in the future. Lieb variation principle in density-functional theory 31
+
+1.3 Conclusions
+
+We have seen how DFT is predicated on the concavity and continuity of the ground-
+state energy in the external potential – from this fact, DFT follows by application
+of convex analysis. ",physics.chem-ph,C,-0.15753157,-0.12163964,-0.08861552
+http://arxiv.org/pdf/2204.12217v1,Inverse molecular design from first principles: tailoring organic chromophore spectra for optoelectronic applications,"They
+also do not require presumption of a speciﬁc parameterization scheme for PPP, or for the
+hydrocarbon to be alternant139. In future work we propose extending this methodology to dimerization via a linker or
+‘wire’, which has been the subject of recent experimental and theoretical studies95,123. By
+consideration of the ground state mixing of CT excitations through Mu¨lliken’s theory127,128
+and of double and higher excitations we could extend our methodology to a wider variety
+of charge-transfer dimers and complexes. ",physics.chem-ph,C,-0.13844702,0.08755724,0.17985345
+http://arxiv.org/pdf/2204.12226v1,IRFEL Selective Irradiation of Amorphous Solid Water: from Dangling to Bulk Modes,"However, global heating of the ice does not fully reproduce the eﬀects
+seen upon IRFEL irradiation, because IR irradiation seems to be more restricted
+and selective[7–12]. A more systematic and in depth study of such phenomena
+will be the focus of future work. In this study, we can discriminate two types of
+pASW behaviour upon IRFEL selective irradiation: irradiation of the surface
+modes, leading to the photoinduced rearrangement of these oscillators; and
+irradiation on bulk modes, leading to photoinduced, on-resonance local thermal
+eﬀects occurring after vibrational energy dissipation. ",physics.chem-ph,C,-0.0945094,0.37309107,-0.18143511
+http://arxiv.org/pdf/2204.13903v1,Towards the ground state of molecules via diffusion Monte Carlo on neural networks,"Therefore, we only use a
+single determinant when dealing with large systems so that the process becomes more eﬃcient and stable. Admittedly, this limits the
+network expressiveness, and further improvements are left for future work. Thirdly, the under-ﬁtted decaying behavior of electron density at a distance may cause serious issues, introducing outliers in the
+calculation of total energy. ",physics.chem-ph,B,0.012706842,-0.18495159,0.024830775
+http://arxiv.org/pdf/2204.14218v1,An Interactive Polymer Building Toolkit for Molecular Dynamics Simulations: PolyMAPS,"4. Conclusion and future work
+             PolyMAPS provides researchers with a new approach to initialize simulations in
+
+    Jupyter notebook with Python language and popular libraries, such as NumPy, SciPy,
+    Pandas, Plotly, and Py3Dmol. The simulation initialization process is separated into 3
+    parts: atomic coordinates, molecular topology, and force field parameters. ",physics.chem-ph,A,0.13832727,0.09902602,0.15805177
+http://arxiv.org/pdf/2205.01498v1,"Carrier Doping Modulates 2D Intrinsic Ferromagnetic Mn2Ge2Te6 Monolayer High Curie Temperature, Large Magnetic Crystal Anisotropy","The black, red, and green
+lines represent partial density of the Te, Ge, and Mn atoms, respectively. spin transport devices.53 Through further analysis, the states near the
+Fermi-level are mainly contributed by the Te’s p orbitals, while the states
+near the Fermi-level are partially contributed by Mn’s dxy , dyz , dx2−y2 and dxz
+orbitals, shown in Figure 1i, S4, S5, respectively. The PDOS and integrated
+density of the states (IDOS) of Mn atoms are shown in Figure S5a, b,
+respectively. ",physics.chem-ph,C,-0.32034636,0.072512016,0.028850164
+http://arxiv.org/pdf/2205.01530v1,Probing the Effect of Molecular Structure Saddling on Ultrafast Charge Migration via Time-Resolved X-ray Diffraction,"The rest of the electronic populations
+is distributed among other excited states, each with a very insigniﬁcant amount. The small
+contributions from other states involved in the electronic response during the excitation can
+be neglected for further analysis. The energy diﬀerence between the ground state and the
+9th excited state is ∆E = 3.45 eV. ",physics.chem-ph,C,-0.35008347,0.07765786,-0.18510827
+http://arxiv.org/pdf/2205.01530v2,Probing the Effect of Molecular Structure Saddling on Ultrafast Charge Migration via Time-Resolved X-ray Diffraction,"2, is distributed among other excited states with
+insigniﬁcant probability. The insigniﬁcant contributions from other states involved in the
+electronic response during the excitation can be neglected for further analysis. The energy
+diﬀerence between the ground and the ninth excited states is ∆E = 3.45 eV. ",physics.chem-ph,C,-0.3674794,-0.03065221,-0.18953373
+http://arxiv.org/pdf/2205.02369v1,When gold is not enough: platinum standard of quantum chemistry with $N^7$ cost,"In the spin-unrestricted formalism each spin case has to be decomposed sep-
+arately, leading to a signiﬁcant increase in the computational costs. As a result, a more
+robust and advanced139–145 approach to the spin-adaptation in open-shell systems may be
+required which will be considered in future works. 46
+Acknowledgement
+
+I would like to thank Dr. A. Tucholska for fruitful discussions, and for reading and com-
+menting on the manuscript. ",physics.chem-ph,B,0.10166323,-0.2949135,0.1828209
+http://arxiv.org/pdf/2205.02369v2,When gold is not enough: platinum standard of quantum chemistry with $N^7$ cost,"In the spin-unrestricted formalism each spin case has to be decomposed sep-
+arately, leading to a signiﬁcant increase in the computational costs. As a result, a more
+robust and advanced140–146 approach to the spin-adaptation in open-shell systems may be
+required which will be considered in future works. Acknowledgement
+
+I would like to thank Dr. A. Tucholska for fruitful discussions, and for reading and com-
+menting on the manuscript. ",physics.chem-ph,B,0.10183618,-0.31639308,0.16815092
+http://arxiv.org/pdf/2205.02623v1,Geometry Relaxation and Transition State Search throughout Chemical Compound Space with Quantum Machine Learning,"By      mization runs using algorithms such as LBFGS44. contrast, RMSD performance curves for reactant com-
+plexes, while also monotonically increasing with train-         For further analysis of reactant complexes and transi-
+ing set size, exhibit substantially smaller learning rates. tion states we used 300 out-of-sample compounds. ",physics.chem-ph,A,0.20796329,0.19478461,0.10908505
+http://arxiv.org/pdf/2205.02623v2,Geometry Relaxation and Transition State Search throughout Chemical Compound Space with Quantum Machine Learning,"transition states include charged compounds and non-
+covalent binding to leaving and attacking groups. The           For further analysis of reactant complexes and transi-
+                                                             tion states we used 300 out-of-sample compounds. Ta-
+                                                             ble I shows a summary of the predictions of the reac-
+                                                             tant complex optimization of the ground states (GS) and
+                                                             the transition state (TS) search, as well as the compari-
+                                                             4
+
+FIG. ",physics.chem-ph,C,-0.17141172,0.17904696,0.18108037
+http://arxiv.org/pdf/2205.02623v3,Geometry Relaxation and Transition State Search throughout Chemical Compound Space with Quantum Machine Learning,"transition states include charged compounds and non-
+covalent binding to leaving and attacking groups. The           For further analysis of reactant complexes and transi-
+                                                             tion states we used 300 out-of-sample compounds. Ta-
+                                                             ble I shows a summary of the predictions of the reac-
+                                                             tant complex optimization of the ground states (GS) and
+                                                             the transition state (TS) search, as well as the compari-
+                                                             4
+
+FIG. ",physics.chem-ph,C,-0.17141172,0.17904696,0.18108037
+http://arxiv.org/pdf/2205.04463v5,SHAP Interpretable Machine learning and 3D Graph Neural Networks based XANES analysis,"Directly based on PYG Dimenet++ model, it can achieve a good
+prediction eﬀect as shown in the Figure4. This problem needs further study. The direct prediction of XANES from the three-dimensional structure makes the
+user no longer need to summarize the important structural change parameters
+based on the system prior knowledge, and also provides the system with higher
+structural freedom, but also increases the consumption of computing resources. ",physics.chem-ph,A,0.31647816,0.044932,0.17977715
+http://arxiv.org/pdf/2205.04566v1,Photoemission of the Upconverted Hot Electrons in Mn-doped CsPbBr$_3$ Nanocrystals,"The analysis of the temperature-dependent
+𝐼𝑀𝑛,𝜏/(𝐼𝑒𝑥/𝐼𝑒0𝑥) of Mn-doped CsPbBr3 QDs (Fig. S9) suggests more efficient sensitization by dark
+exciton than bright exciton, although the firmer conclusion requires further study. Jhot shows a dip
+near 200 K that is absent in the temperature-dependent sensitization, which is reminiscent of the
+thermally activated trapping of exciton competing with radiative recombination of exciton or
+sensitization in the studied earlier in other QDs.24, 32, 37, 38 The distinct dip in Jhot in Mn-doped
+CsPbBr3 QDs suggests that Auger energy transfer in the QD host may be more susceptible to the
+charge carrier trapping than the sensitization is. ",physics.chem-ph,C,-0.22513995,0.31190622,-0.20220783
+http://arxiv.org/pdf/2205.04755v1,Nonequilibrium reaction rate theory: Formulation and implementation within the hierarchical equations of motion approach,"More general cases where (x) is        reaction takes place faster. As a consequence, the ﬂux
+                                                              correlation function Cf (t) decreases over time because
+a function of x will be the subject of future work. the timescale separation is no longer satisﬁed and the
+                                                              reactant population changes signiﬁcantly from its initial
+Besides, we assume that the dependence of molecule-           value. ",physics.chem-ph,C,-0.018993337,0.084719814,0.040401876
+http://arxiv.org/pdf/2205.05102v1,Current density in solar fuel technologies,"However, this assembly can easily induce
+         photoelectrode and incoming through the wire) to the      temperature rise even above 100°C. Since most of the current
+         catalyst sites                                            cell designs and materials cannot run in a temperature range of
+    c) Evolution of the products in the form of gaseous bubbles    around 100-200°C, further research is needed to address the
+         (avoiding the stable deposition on the surface of         possible applications of (low cost) sun-concentration systems to
+         photoelectrode) and inhibition of side and                enhance the PEC performances. recombination reactions. ",physics.chem-ph,C,-0.11013213,0.47468084,-0.0817253
+http://arxiv.org/pdf/2205.06601v1,Exact Factorization Adventures: A Promising Approach for Non-bound States,"Here we compare the use of auxiliary trajectories within an XF-based
+surface-hopping framework (SHXF) [21, 22] to using coupled trajectories within the surface-
+hopping procedure (CTSH) [23] as well as within the original coupled-trajectory mixed
+quantum-classical approach (CTMQC) [24–26] that was derived directly from the XF. We
+further study the impact of a modiﬁed deﬁnition of the quantum momentum in the coupled-
+trajectories calculations CTSH and CTMQC, that ensures the physical condition of zero
+population transfer in regions of no non-adiabatic coupling. The paper is organized as follows. ",physics.chem-ph,C,-0.15244046,-0.08519378,0.060929637
+http://arxiv.org/pdf/2205.08217v2,Specific versus non-specific solvent interactions of a biomolecule in water,"These Auger-electron signals are
+N Auger   290.29             –    290.58       –               brought about by many ﬁnal dicationic states. A compu-
+C Auger                                                        tational technique based on electron-population analysis
+             –            387.53     –      387.02             was demonstrated as an eﬃcient tool for modeling Auger
+             –            274.31     –      272.26             spectra, aiding in further analysis of molecules in complex
+                                                               environments using x-ray photoemission spectroscopy. CONCLUSIONS
+                                                                  Overall, our detailed investigation of the photoemis-
+   We provided the ﬁrst full photoemission spectrum of         sion spectrum of indole in water provided a clear and
+indole in aqueous solution by measuring the valence and        reﬁned view on the solvation of indole, speciﬁcally for
+core-level photoelectron and Auger spectra following ion-      its diﬀerent moeties, including a surprising highly spe-
+ization by 600 eV synchrotron radiation. ",physics.chem-ph,C,-0.28400826,0.32481056,-0.042828165
+http://arxiv.org/pdf/2205.08306v1,Accurate Machine Learned Quantum-Mechanical Force Fields for Biomolecular Simulations,"For example,
+a description of the potential energy at ab initio quality      Another advantage of using accurate MLFFs is the avail-
+might be necessary to gain deeper insights into Levinthal’s  ability of arbitrary derivatives – including the potential
+paradox [38]. A promising avenue for future work is to       to obtain alchemical derivatives [42, 43]. This may en-
+extend GEMS to larger systems and longer timescales, for     able the optimization of accessible observables, such as
+example by distributing GEMS simulations over multiple       docking/binding energies, with respect to local (nearly
+accelerators, which requires non-trivial modiﬁcations to     isosteric) mutations. ",physics.chem-ph,C,0.047513984,0.018975364,0.2270446
+http://arxiv.org/pdf/2205.08658v1,Electron-Affinity Time-Dependent Density Functional Theory: Formalism and Applications to Core-Excited States,"Our group
+the results leading to higher RMSE for HFLYP than            has previously established SCAN as an excellent func-
+B5050LYP. Overall, asymptotically correct functionals        tional for core-excitations with OO-DFT, so we forego
+perform the best, with rCAM-B3LYP performing the             further analysis here.25,26 The method/functional com-
+best of all at an RMSE of just 0.5 eV. The recovery of       binations that yielded the lowest errors on this test set
+Jacob’s Ladder is some indication that EA-TDA gets the       were subjected to the more rigorous test of 132 experi-
+correct answers for the correct reasons. ",physics.chem-ph,B,-0.035330035,-0.13982391,-0.22714496
+http://arxiv.org/pdf/2205.08658v2,Electron-Affinity Time-Dependent Density Functional Theory: Formalism and Applications to Core-Excited States,"Our group has previously established      1s→3s transition, which is largely symmetry forbidden,
+SCAN as an excellent functional for core-excitations with     leading to a small pre-edge peak in the experiment. The
+OO-DFT, so we forego further analysis here.28,29 The          ampliﬁcation of this feature is an artifact of ROKS, which
+method/functional combinations that yielded the low-          allows strong singlet-triplet mixing when the initial and
+est errors on this test set were subjected to the more        ﬁnal states are isosymmetric.60–64 Interestingly, the er-
+rigorous test of 132 experimental K-edge transitions of       rors do not seem to stem from nonorthogonality of the
+46 molecules, ranging from 1–5 transitions per molecule. ROKS states, as we account for residual nonorthogonal-
+The results for IO-TDA were omitted because the best          ity by subtracting the overlap-weighted nuclear dipole
+                                                              moment.56 Instead, these errors may emerge as a direct
+                                                              consequence of spurious spatial symmetry-breaking due
+to use of approximate functionals.65–67 Spuriously large                                                                                 7
+oscillator strengths occur frequently for 1s→3s transi-
+tions in ROKS spectra, exerting a catastrophic impact           accounted for using a spin-free exact two-component
+on spectra containing truly dark 1s→3s transitions like         (X2C) model.29,69–76 Core-ionized references were opti-
+the one in trans-butadiene (Fig. ",physics.chem-ph,C,-0.20418587,0.00076805695,0.05337328
+http://arxiv.org/pdf/2205.08658v3,Electron-Affinity Time-Dependent Density Functional Theory: Formalism and Applications to Core-Excited States,"tailed statistics). Our group has previously established          Overall, we ﬁnd that EA-TDA successfully ameliorates
+SCAN as an excellent functional for core-excitations with      eh-SIE, providing sizable improvements over TDDFT-
+OO-DFT, so we forego further analysis here.44,45 The           based response theory, yielding core-excitation energies
+method/functional combinations that yielded the low-           on par with OO-DFT while avoiding the spurious high-
+est errors on this test set were subjected to the more         intensity dark states that occur in the latter. We antici-
+rigorous test of 132 experimental K-edge transitions of        pate that EA-TDA, with its low computational cost and
+46 molecules, ranging from 1–5 transitions per molecule. ",physics.chem-ph,C,-0.26393455,0.07804728,0.047156632
+http://arxiv.org/pdf/2205.08792v1,Three Lagrangians for the complete-active space coupled-cluster method,"Requiring S to be stationary with re-
+lations. A detailed exposition including response theory                                                                                 spect to all independent variables now reveals equations
+based on this formalism is relegated to future work. 6
+
+of motion of the form                                                     Equations of motion for ρi are now obtained by forcing
+                                                                          Sˆ to be critical. ",physics.chem-ph,B,0.11597758,-0.12721197,-0.14285672
+http://arxiv.org/pdf/2205.10393v1,Tracking the Electron Transfer Cascade in European Robin Cryptochrome 4 Mutants,"A polarizer mounted on a motorized rotation stage can turn the pump
+polarization, allowing for parallel and crossed polarization between pump and probe without
+affecting the pump power. Experimental data is acquired in crossed and parallel polarization for each scan, from which
+isotropic differential transmission spectra at magic angle (MA) are calculated as
+
+            Δ𝑇 1 Δ𝑇  Δ𝑇
+            𝑇 MA = 3 ( 𝑇 parallel + 2 𝑇 crossed)
+
+These MA spectra are displayed in the main manuscript and used for further analysis. 21
+Linearity and sample stability
+
+To ensure that TA experiments are performed in a linear pump-power regime, the dependence of
+Δ𝑇/𝑇 signal strength on pump pulse energy was recorded for a wild type sample. ",physics.chem-ph,C,0.08924349,0.16739063,-0.35657233
+http://arxiv.org/pdf/2205.10707v1,Benchmarking the Semi-Stochastic CC(P;Q) Approach for Singlet-Triplet Gaps in Biradicals,"While the convergence of the CC(P ;Q) en-
+    3. Solve the CC(P ) equations in the P space spanned      ergies of the lowest singlet and triplet states of birad-
+       by all singly and doubly excited determinants and      ical species considered in this study and of the corre-
+       the subset of triply excited determinants identiﬁed    sponding singlet–triplet gaps obtained with the help of i-
+       in step 2, using the same reference |Φ as that cho-    CIQMC propagations toward the parent CCSDT results,
+       sen to initiate the CIQMC run, to obtain the cluster   discussed in Section III, is very fast, we will examine if
+       operator T (P ), deﬁned as T1+T2+T3(MC), where the     the newer CIQMC algorithms can further speed it up in
+       list of triples in T3(MC) is extracted from the CIQMC  the future work. propagation at time τ , and the corresponding en-
+       ergy E(P ). ",physics.chem-ph,B,-0.12945513,-0.19390923,-0.050968252
+http://arxiv.org/pdf/2205.10707v2,Benchmarking the Semi-Stochastic CC(P;Q) Approach for Singlet-Triplet Gaps in Biradicals,"While the conver-     driven, CC(P ;Q) methodology in converging the full
+gence of the CC(P ;Q) energies of the lowest singlet and     CCSDT data for the singlet–triplet gaps and the cor-
+triplet states of biradicals considered in this study and    responding singlet- and triplet-state energies of biradi-
+of the corresponding singlet–triplet gaps obtained with      cal systems, we applied it to methylene, (HFH)−, cy-
+the help of i-CIQMC propagations toward the parent           clobutadiene, cyclopentadienyl cation, and trimethylen-
+CCSDT results is very fast, we will examine the utility      emethane. Following our earlier studies of the singlet–
+of the newer CIQMC algorithms in the future work. triplet gaps in the same systems using the determinis-
+                                                             tic CC(P ;Q)52 and DEA/DIP-EOMCC123,124,135,136 ap-
+   As explained in Refs. ",physics.chem-ph,C,-0.11741684,0.0024547363,0.07156597
+http://arxiv.org/pdf/2205.14124v1,The C(2)$^1Π_u$ state in Rb$_2$. Observation and deperturbation,"The calibration of the PLS spectra assures uncertainty
+better than 0.1 cm−1. In the course of further analysis only 28 lines (i.e. less
+than 1% of all observed) have been rejected as misassigned or impossible to be
+included in the model developed below since they cannot be reproduced within
+better than ±0.5 cm−1. ",physics.chem-ph,C,-0.007766486,0.12749873,-0.33676285
+http://arxiv.org/pdf/2205.15885v1,Connecting Entropy Scaling and Density Scaling,"A way to consistently link density
+2018 summarized the progress in this ﬁeld up to that date. scaling and entropy scaling is provided by isomorph theory,
+Since then, additional studies have considered the physical        brieﬂy introduced below. For a more complete overview of
+basis of this approach2,7, and applied the technique to differ-    the theory we refer to Refs. ",physics.chem-ph,C,0.04756573,-0.031113911,0.019387847
+http://arxiv.org/pdf/2206.00355v1,Regularized by Physics: Graph Neural Network Parametrized Potentials for the Description of Intermolecular Interactions,"A universal optimisation toolkit combined with robust and physically-constrained
+models. In future work, the exploration of additional FF terms and the application of the ANA model
+to condensed-phase systems will be investigated. In addition, employing the end-to-end diﬀerentiable
+approach to the parametrization of bonded/intramolecular interactions will be explored. ",physics.chem-ph,C,0.02490331,0.015838338,0.19503634
+http://arxiv.org/pdf/2206.01729v1,Torsional Diffusion for Molecular Conformer Generation,"To importance sample from the
+full Boltzmann distribution pG(C), one would need a model pG(L) over local structures that also
+provides exact likelihoods. This is not the case with RDKit or, to the best of our knowledge, other
+existing models, and therefore an interesting avenue for future work. G Experimental details
+
+G.1 Dataset details
+
+Splits We follow the data processing and splits from Ganea et al. ",physics.chem-ph,A,0.2969758,0.10582124,0.080698244
+http://arxiv.org/pdf/2206.01801v2,Integral-direct Hartree-Fock and Møller-Plesset Perturbation Theory for Periodic Systems with Density Fitting: Application to the Benzene Crystal,"Additional approximations such as the Laplace transform
+                                                                                   that have been shown to further reduce the computational cost
+If necessary, Eq. (13) can be used in a fully direct manner (i.e.,                 of canonical periodic MP2 calculations9 will be explored in
+using only memory), but this increases the computational cost                      future work. compared to the semi-direct algorithm because each batch of
+the half-transformed integrals, WPkµ1[ki]2 , requires evaluating the               III. ",physics.chem-ph,B,0.10307833,-0.18517357,-0.029041978
+http://arxiv.org/pdf/2206.02297v1,Quantum calculations on a CCSD(T) machine-learned PES reveal the leaky nature of gas-phase trans and gauche ethanol conformers,"Furthermore,
+the previously suggested geared motion of the rotors is conﬁrmed by our calculations, and
+the 2-D model of the torsions based on cuts through the full-dimensional potential provides
+reasonable energy levels when compared to experiment. Finally, and as a perspective, we notice that semiclassical calculations are able to eval-
+uate the energy of vibrationally excited states and therefore, given the high ﬁdelity of the
+PES, they will be employed, together with MULTIMODE calculations, in a future work for
+determining ethanol fundamental frequencies of vibration. Supporting information available
+
+The supporting information ﬁle contains a plot comparing correction, ∆VCC−LL and DFT
+energies, the harmonic frequencies for the trans-gauche isomerization saddle points, func-
+tional form of the 2-D CH3 and OH torsional potential, a plot showing the results of a DVR
+calculation for the CH3 torsional potential, a plot of the torsional potential of the methyl
+rotor for TS1 and TS2, the OH torsional potential for θ = 0 and θ = 60 degrees, comparison
+of the ground state OH torsional wavefunction between DVR and DMC calculations and a
+schematic of the OH torsional path. ",physics.chem-ph,C,-0.12757099,0.06231647,-0.086353034
+http://arxiv.org/pdf/2206.02297v2,Quantum calculations on a new CCSD(T) machine-learned PES reveal the leaky nature of gas-phase $trans$ and $gauche$ ethanol conformers,"Furthermore,
+the previously suggested geared motion of the rotors is conﬁrmed by our calculations, and
+the 2-D model of the torsions based on cuts through the full-dimensional potential provides
+reasonable energy levels when compared to experiment. Finally, and as a perspective, we notice that semiclassical calculations are able to eval-
+uate the energy of vibrationally excited states and therefore, given the high ﬁdelity of the
+PES, they will be employed, together with MULTIMODE calculations, in a future work for
+determining ethanol fundamental frequencies of vibration. Supporting information available
+
+The supporting information ﬁle contains a plot comparing correction, ∆VCC−LL and DFT
+energies, the harmonic frequencies for the trans-gauche isomerization saddle points, func-
+tional form of the 2-D CH3 and OH torsional potential, a plot showing the results of a DVR
+calculation for the CH3 torsional potential, a plot of the torsional potential of the methyl
+rotor for TS1 and TS2, the OH torsional potential for θ = 0 and θ = 60 degrees, comparison
+of the ground state OH torsional wavefunction between DVR and DMC calculations and a
+schematic of the OH torsional path. ",physics.chem-ph,C,-0.12757099,0.06231647,-0.086353034
+http://arxiv.org/pdf/2206.02333v1,Coupled electron pair-type approximations for tensor product state wavefunctions,"der the rotation of the occupied molecular orbitals and
+hence not studied in this work. Moreover, correcting             As seen in Figure 1(a), most of the determinant based
+the equation with orbital energies is not straight forward    CEPA variants work well in the weakly correlated regime,
+since we are working in the TPS basis, but this could be
+the focus of future work. 5
+
+FIG. ",physics.chem-ph,B,-0.14162558,-0.28881222,0.027755365
+http://arxiv.org/pdf/2206.05007v1,Probing Disorder in 2CzPN using Core and Valence States,"Such effects may also inﬂuence the      large aromatic molecules where a reliable interpretation cannot
+calculated valence spectra, therefore, it would be interesting in    be achieved purely by relying on comparison to reference spectra. future work to assess the impact of going beyond gas phase by in-
+cluding neighbouring molecules. This could be achieved either by     Conﬂicts of interest
+extracting a small cluster from the MD trajectory, or by simulating
+2CzPN in its crystalline form. ",physics.chem-ph,C,-0.137707,0.027292155,0.20915204
+http://arxiv.org/pdf/2206.05078v1,Systematic derivation of a Single Particle Model with Electrolyte and Side Reactions (SPMe+SR) for degradation of lithium-ion batteries,"This leads to a region of the negative electrode near the current collector
+not receiving ions. In this case, the SPMe+SR breaks down as the assumption of uniform behaviour for
+all electrode particles is no longer true, and it is an area for future work to explore how the SPMe+SR (or
+other reduced models) can be extended to account for such situations. 5. ",physics.chem-ph,C,-0.094694406,0.24701813,-0.32685912
+http://arxiv.org/pdf/2206.07048v1,A smile is all you need: Predicting limiting activity coefficients from SMILES with natural language processing,"While our ML model relies on the COSMO models to generate initial data for pretraining, the ﬁne-tuning
+step on experimental data allows it to surpass the accuracy of the original COSMO models. In a further analysis, we compare SPT to the machine learning-based model from Damay et al. [2021]. ",physics.chem-ph,A,0.5505476,0.0853363,-0.021065656
+http://arxiv.org/pdf/2206.07927v2,High-resolution spectroscopy of buffer-gas-cooled phthalocyanine,"In addition, Doppler-free spectroscopy has the potential to observe finer
+spectral structures. Doppler-free LIF of the large functional molecules would be an interesting
+future work to learn more about such molecules. Method
+
+The apparatus used for high-resolution spectroscopy of FBPc is shown schematically in Fig. ",physics.chem-ph,C,-0.12208003,0.107512176,0.056208704
+http://arxiv.org/pdf/2206.08937v1,Chemical reactivity under collective vibrational strong coupling,"Extrapolating this analysis to experimen-      ues of Qn ∈ {qn,1, qn,2, pn,1, pn,2, pn,3} corresponding to
+tal conditions of smaller λc and larger Nmol, we believe      the cases when Emol is contained entirely within the po-
+that such eﬀects may be observed in experimentally re-        tential or kinetic energy associated with Qn. Then, we
+alizable infrared cavities for aligned reactants, although    generate all possible initial states from uniformly spaced
+further study is needed to explore beyond the limit of low    arrays with N values between Qn,min and Qn,max. For
+cavity loss and intermolecular interactions. ",physics.chem-ph,C,-0.26334426,0.08159271,-0.012306591
+http://arxiv.org/pdf/2206.12319v1,Hydrated anions: From clusters to bulk solution with quasi-chemical theory,"Finally, the ability to predict both ac-
+contribution. curate solvation free energy and accurate sol-
+                                                      vation structure of anions supports future work
+  Summarizing, the excellent agreement of an-         using QCT to understand mechanisms of ion
+ion hydration free energies is due to quan-           transport and selectivity for the large diversity
+tum computations accurately checked with ex-          of anion-selective transport proteins. periment, together with the physical statisti-
+
+                                                  15
+4 Author Information                              Chemical Engineering at Rice University. ",physics.chem-ph,C,-0.10953445,0.29447,0.14325044
+http://arxiv.org/pdf/2206.12354v1,ExoMol photodissociation cross sections I: HCl and HF,"Implementation of model which includes triplet states and the appropriate spin-orbit couplings
+would allow ﬁnal state analysis of photodissociation processes to be performed which would improve our understanding
+of these phenomena, and it will help in the understanding of the tiplet excitation contributions for vibrationally excited
+molecules, quantifying their overall contributions for high temperatures. This problem is left to future work. 21
+                                             EXOMOL photodissociation I: HCl and HF
+
+Data availability
+
+DUO and EXOCROSS input ﬁles HCl and HF as used for generating the photodissociation cross sections and rates
+are available as supplementary information in archives HCl.zip and HF.zip. ",physics.chem-ph,C,-0.24806732,0.15685636,0.008277574
+http://arxiv.org/pdf/2206.12652v1,$Ab\ intio$ molecular dynamics of temporary anions using complex absorbing potentials,"than 10 fs. We conclude by noting that an ob-               Advances in Quantum Chemistry 2007, 52,
+vious challenge for future work is to improve               171–188. the description of the electronic structure, that
+is, replacing HF by density functional theory          (5) Rees, M. Physics and Chemistry of the Upper
+in CAP-AIMD simulations. ",physics.chem-ph,C_centroid,-0.3798094,-0.062434442,0.20746899
+http://arxiv.org/pdf/2206.12652v2,$Ab\ initio$ molecular dynamics of temporary anions using complex absorbing potentials,"than 10 fs. We conclude by noting that an ob-               Advances in Quantum Chemistry 2007, 52,
+vious challenge for future work is to improve               171–188. the description of the electronic structure, that
+is, replacing HF by density functional theory          (5) Rees, M. Physics and Chemistry of the Upper
+in CAP-AIMD simulations. ",physics.chem-ph,C,-0.3798094,-0.062434442,0.20746899
+http://arxiv.org/pdf/2206.13198v1,Constructing 'full-frequency' spectra via moment constraints for coupled cluster Green's functions,"of biorthogonality to be out of the scope of this current  spaces that the CC Hamiltonian is represented in. In this
+work, where we do not extend to very high moment num-      way, computing the moments from the RDMs allows for
+bers, and future work will look to remedy this. limited ﬂuctuations into the 3p2h and 3h2p spaces which
+                                                           are absent in a CCSD treatment. ",physics.chem-ph,B,0.06488826,-0.31912547,0.12641753
+http://arxiv.org/pdf/2206.13198v2,Constructing `full-frequency' spectra via moment constraints for coupled cluster Green's functions,"Georges, G. Kotliar, W. Krauth, and M. J. Rozenberg, Rev. The generality of the algorithm to build Green’s func-
+tions via moment constraints will mean that future work       Mod. Phys. ",physics.chem-ph,A,0.27711657,-0.13275151,-0.045773294
+http://arxiv.org/pdf/2206.13780v1,Fewest-Switch Surface Hopping with Long Short-Term Memory Networks,"The time evolution on classical subsystem can be also learned by LSTM or RNN
+
+                   9
+as reported in recent works.38,39 On the other hand, several ML-based protocols have been
+performed excellently to predict accurate potential energies and gradients on the right-hand
+side of Eq 12, which may be a better choice for realistic molecular systems.52,53 Here the
+classical subsystem still evolves according to Eq 12 with analytical gradients of our test
+model systems. More benchmarks and further methodology developments on this issue are
+left for future work. The workﬂow of LSTM-FSSH is summarized in Figure 2. ",physics.chem-ph,B,0.13648267,-0.10761358,0.18451479
+http://arxiv.org/pdf/2206.13780v2,Fewest-Switches Surface Hopping with Long Short-Term Memory Networks,"All values of ρ00 are shifted by
+−0.5. S3
+S2.2 Time-dependent population for selected trajectories
+
+We further analysis all trajectories that end in the same channel as the representative tra-
+jectories shown in Figs. 5, 6 and 7 in the main text. ",physics.chem-ph,B,0.14118522,-0.066740185,-0.22076169
+http://arxiv.org/pdf/2206.14141v1,"Synthesis and Electrochemical Study of Multi-Phase, Multi-Species Ion Conductor Sodium beta""-Alumina (BASE) + 20SDC Using a Vapor-Phase Process","In the current study, the conductivity behavior of the sample was found to be linear in the
+Arrhenius plot, which is attributed to the convolution of both phases’ conductivity at lower
+temperatures. In future work, authors will directly add 𝐿𝑖""𝑂, and 𝑀𝑔𝑂 to basic starting mixture to
+increase the total conductivity of converted samples to introduce more 𝑁𝑎! ions into the
+conduction planes, using higher 𝑁𝑎""𝑂 content and larger grain size, at the expense of the higher
+conversion time to remove the trace of alumina and make pure 𝑁𝑎 − 𝛽’’ − 𝑎𝑙𝑢𝑚𝑖𝑛𝑎 . ",physics.chem-ph,C,-0.06956237,0.4458763,-0.23606943
+http://arxiv.org/pdf/2206.14331v2,Spherical Channels for Modeling Atomic Interactions,"SCN’s results on datasets such as MD17[7]
+and QM9[32] are not state-of-the-art. However, in future work it would be interesting to explore
+pre-training on larger datasets, such as OC20, and see if improved results can be achieved on smaller
+datasets through ﬁnetuning [25]. While this work is motivated by problems we face in addressing climate change, advances in chemistry
+may have numerous use cases. ",physics.chem-ph,A,0.34873104,0.2106996,0.25740683
+http://arxiv.org/pdf/2206.14765v1,Computer Simulation of the Early and Late Stages of the Self-Assembly of ZIF-8,"The dynamics
+tem to test that WT-MetaD explores the whole range             and long-range connectivity of these low-dimensionality
+of possible values of the CVs (see Figure S8). The sys-        clusters will be further explored in future work combining
+tem does indeed explore the full range of connectivity         in situ spectroscopy experiments with multiscale model-
+variables, proving that the simulation setup is suitable. ling techniques. ",physics.chem-ph,C,0.04344115,0.023051087,0.022289626
+http://arxiv.org/pdf/2206.14765v2,Computer Simulation of the Early and Late Stages of the Self-Assembly of ZIF-8,"The dynamics
+tem to test that WT-MetaD explores the whole range             and long-range connectivity of these low-dimensionality
+of possible values of the CVs (see Figure S8). The sys-        clusters will be further explored in future work combining
+tem does indeed explore the full range of connectivity         in situ spectroscopy experiments with multiscale model-
+variables, proving that the simulation setup is suitable. ling techniques. ",physics.chem-ph,C,0.04344115,0.023051087,0.022289626
+http://arxiv.org/pdf/2206.14765v3,Computer Simulation of the Early Stages of Self-Assembly and Thermal Decomposition of ZIF-8,"47      0               10  100        1000  10000
+                                                                                                                                                                           Indeed, solvent-reactants interactions are crucial during the            1
+                                                                                                                                                                           different stages of self-assembly, and large variations of local
+                                                                                                                                                                           solvent densities at the different stages of the self-assembly                        Time / ps
+                                                                                                                                                                           process are to be expected. The dynamics and long-range con-
+                                                                                                                                                                           nectivity of these low-dimensionality clusters will be further     Figure 5: Population of n-fold coordinated Zn2+ cations in
+                                                                                                                                                                           explored in future work combining in situ spectroscopy exper-
+                                                                                                                                                                           iments with multiscale modeling techniques. the simulation box over time for the 96 Zn(MIm)2 4096
+                                                                                                                                                                                                                                             MeOH system from WT-MetaD simulations over 12 walkers
+                                                                                                                                                                              We have further studied the evolution of the clusters that
+                                                                                                                                                                           are formed during these ﬁrst polymerization stages of the self-                      (same system as in Fig. ",physics.chem-ph,C,-0.14171061,0.25033316,0.20084664
+http://arxiv.org/pdf/2206.15034v1,Combining Renormalized Singles $GW$ Methods with the Bethe-Salpeter Equation for Accurate Neutral Excitation Energies,"The error for system i is deﬁned as Errori = Eicalc − Eiexperiment
+The cc-pVDZ basis set was used. HF           BLYP         PBE          B3LYP        PBE0
+
+   TDDFT    MAE   MSE    MAE   MSE    MAE   MSE    MAE   MSE    MAE   MSE
+ BSE/G0W0   0.78  0.78   1.44  -1.44  1.45  -1.45  1.16  -1.16  1.08  -1.08
+BSE/GRSW0   0.10  -0.06  1.28  -1.28  1.31  -1.31  0.74  -0.74  0.65  -0.65
+BSE/GRSWRS  0.10  -0.06  0.35  -0.35  0.35  -0.37  0.29  -0.28  0.29  -0.29
+            0.10  -0.06  0.17  0.14   0.18  0.11   0.14  0.09   0.17  0.14
+
+    We further study the performance of BSE/GRSWRS on predicting CT excitation energies
+by testing Stein CT test set. This test set contains 12 intramolecular CT systems. ",physics.chem-ph,B,0.14557344,0.026841015,-0.31366622
+http://arxiv.org/pdf/2206.15034v2,Combining Renormalized Singles $GW$ Methods with the Bethe-Salpeter Equation for Accurate Neutral Excitation Energies,"The error for system i is deﬁned as
+Errori = Eicalc − Eiexperiment The cc-pVDZ basis set was used. HF  BLYP               PBE  B3LYP PBE0  PBEh
+
+                   MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE
+   TDDFT 0.78 0.78 1.44 -1.44 1.45 -1.45 1.16 -1.16 1.08 -1.08 0.19 0.02
+ BSE/G0W0 0.10 -0.06 1.28 -1.28 1.31 -1.31 0.74 -0.74 0.65 -0.65 0.14 0.09
+BSE/GRSW0 0.10 -0.06 0.35 -0.35 0.35 -0.37 0.29 -0.28 0.29 -0.29 0.16 -0.15
+BSE/GRSWRS 0.10 -0.06 0.17 0.14 0.18 0.11 0.14 0.09 0.17 0.14 0.11 -0.07
+
+    We further study the performance of BSE/GRSWRS on predicting CT excitation energies
+by testing Stein CT test set. This test set contains 12 intramolecular CT systems. ",physics.chem-ph,B,0.1861307,-0.06186393,-0.3029065
+http://arxiv.org/pdf/2207.00508v1,Combining Localized Orbital Scaling Correction and Bethe-Salpeter Equation for Accurate Excitation Energies,"This observation is different from the results of Truhlar-Gagliardi test
+set, where BSE-TDA/LOSC results are always better. C. Rydberg excitations
+
+     We further study the performance of our BSE/LOSC approach on predicting Rydberg excitation energies by testing B+, Be
+and Mg. The MAEs of predicting Rydberg excitation energies obtained from BSE/LOSC, BSE/G0W0, TDDFT, BSE/evGW , BSE-
+TDA/LOSC, BSE-TDA/G0W0, TDDFT-TDA and BSE-TDA/evGW with HF, BLYP, PBE, B3LYP and PBE0 are listed in Table.III. ",physics.chem-ph,C,-0.22367471,0.00010086782,-0.24435125
+http://arxiv.org/pdf/2207.02215v1,Mathematical Model for Chemical Reactions in Electrolyte Applied to Cytochrome $c$ Oxidase: an Electro-osmotic Approach,"It seems premature to attack this problem here, as important as it is for the function
+of cytochrome c oxidase, and all alternating access transporters, for that matter. Here, we
+simply describe the rectiﬁcation without further analysis of how it arises from the distribution
+of permanent charge and other properties of the transporter structure. Of course, other possibilities exist. ",physics.chem-ph,C,-0.18624297,0.18073125,-0.043630112
+http://arxiv.org/pdf/2207.02215v2,Mathematical Model for Chemical Reactions in Electrolyte Applied to Cytochrome $c$ Oxidase: an Electro-osmotic Approach,"It seems premature to attack this problem here, as important as it is for the function
+of cytochrome c oxidase, and all alternating access transporters, for that matter. Here, we
+simply describe the rectiﬁcation without further analysis of how it arises from the distribution
+of permanent charge and other properties of the transporter structure. Of course, other possibilities exist. ",physics.chem-ph,C,-0.18624297,0.18073125,-0.043630112
+http://arxiv.org/pdf/2207.02435v1,A comparison between the one- and two-step spin-orbit coupling approaches based on the ab initio Density Matrix Renormalization Group,"Nonetheless, when computing 20 states in the 1-        Hamiltonians. This may be addressed in future work. step approach, the cost exceeded that of the spin-free
+part of the 2-step approach computing 1296 states; when      ACKNOWLEDGMENTS
+computing 12 states (the number of states described with
+qualitative accuracy in the 2-step approach), the 1-step        This work was supported by the US Department of
+cost was comparable to that of computing 864 states in       Energy, Oﬃce of Science, via award DE-SC0019390. ",physics.chem-ph,B,-0.03589793,-0.29843277,0.066110134
+http://arxiv.org/pdf/2207.02435v2,A comparison between the one- and two-step spin-orbit coupling approaches based on the ab initio Density Matrix Renormalization Group,"Note        working with two component Hamiltonians. This may be
+that the timings can depend on details of the DMRG pa-         addressed in future work. rameters and implementation. ",physics.chem-ph,B,0.15463197,-0.21977128,0.013448987
+http://arxiv.org/pdf/2207.03599v1,Quantum chemical roots of machine-learning molecular similarity descriptors,"We found that narrowing the
+Gaussians that compose the SOAP kernel also increases sensitivity, so that
+SOAP, which is much easier to evaluate than SOED, could be used instead, but
+with a parameter α in the exponent that is larger than the standard one. In future work, we will build upon these ﬁndings and elaborate on molecular
+similarity in the context of a huge number of molecular structures occuring in
+
+                                                  30
+a large reaction network. Acknowledgements
+
+Financial support by the Swiss National Science Foundation through project
+no. ",physics.chem-ph,C,0.07166654,0.13315983,0.2366117
+http://arxiv.org/pdf/2207.03599v2,Quantum chemical roots of machine-learning molecular similarity descriptors,"Clearly, a big data
+approach needs to be taken to demonstrate actual usefulness in machine learning
+applications. In future work, we will build upon our ﬁndings and elaborate on
+molecular similarity in the context of a huge number of elementary steps (on
+the same and on diﬀerent Born–Oppenheimer surfaces). Only such work will
+eventually allow us to rate the value of our new descriptors for machine learning
+purposes compared to known descriptors. ",physics.chem-ph,A,0.24409658,0.13246848,0.4451483
+http://arxiv.org/pdf/2207.04022v1,Preparation of Vibrational Quasi-Bound States of the Transition State Complex BrHBr from the Bihalide Ion BrHBr-},"For a given combination of speciﬁc types of laser pulses interacting with BrHBr− in a particular way,
+the issue of which would be the complete set of achievable states of the molecule is still open. We plan to address
+this issue in future works. ACKNOWLEDGEMENTS
+
+   This work was supported by Universidad del Valle through Project CI-71221, and by Internal Research Grants
+of Universidad Icesi. ",physics.chem-ph,C,-0.28622103,0.053594045,0.010821436
+http://arxiv.org/pdf/2207.04105v1,New Local Explorations of the Unitary Coupled Cluster Energy Landscape,"5. Gaussian ﬁttings of the CRE-31 test set in the cc-     explore this in future work. pVTZ basis, with reactions 7 and 22 excluded due to non-
+convergence for some methods. ",physics.chem-ph,B,-0.015480353,-0.07759533,-0.15454787
+http://arxiv.org/pdf/2207.04105v2,New Local Explorations of the Unitary Coupled Cluster Energy Landscape,"0.004  O2D -UCCSD                                                                                While these corrections seem to be of minimal help for
+                                  KS Orbitals, UCCSD Variant                                                                computing reaction energies, they dramatically improve
+                                  KS Orbitals, tUCCSD Variant                                                               the behavior of single-reference O2-UCCSD for single
+                           0.002  ±1 kcal/mol                                                                               bond-breaking events, repairing one of the most promi-
+                                                                                                                            nent pathologies of LCCSD in an extremely simple, phys-
+                           0.000                                                                                            ically motivated way. We believe that further investi-
+                                                                                                                            gation into orbital optimization can only improve our
+                           0.002                                                                                            method given its strong orbital dependence, and plan to
+                                                                                                                            explore this in future work. 0.004
+                                                                                                                               Additionally, we oﬀer an alternative, Trotterized
+                           0.006                                                                                            ansatz which eliminates the extensivity-violating dia-
+                                                                                                                            grams from second-order UCCSD, noting that tUCC pos-
+                                  1 2 3 4 5 6 7 8 9 10 11 12 13 1R4 1e5a1c6t1io7n18 19 20 21 22 23 24 25 26 27 28 29 30 31  sesses all the qualities that made UCCSD attractive to
+                                                                                                                            begin with. ",physics.chem-ph,C,-0.13639684,-0.0045000836,0.15291473
+http://arxiv.org/pdf/2207.07654v1,Learning inducing points and uncertainty on molecular data,"ing” [34], that was used in this work, and the choices of
+                                                                the molecular descriptor representations such as SOAP. Next, we show what fraction of test points falls within      In future work, we aim to address the above issues as
+the convex hull of training points for randomly selected        well as apply variational multiparametric GP models to
+subspaces in the descriptor space. First, we formed a ran-      a variety of large-scale problems. ",physics.chem-ph,A,0.39556476,-0.03353612,0.30769706
+http://arxiv.org/pdf/2207.07654v2,Learning inducing points and uncertainty on molecular data,"as in the previous section. To get an estimate of the           In future work, we aim to address the above issues as
+                                                                well as apply variational multiparametric GP models to
+variability of the invariant vectors within the dataset, we     a variety of large-scale problems. applied the Principal Component Analysis (PCA) to the                                ACKNOWLEDGMENTS
+
+dataset containing invariant vectors for 10 000 consecu-           The author wishes to acknowledge the various fruitful
+                                                                discussions within the group of Prof. T. Komatsuzaki
+tive snapshots. ",physics.chem-ph,A,0.45276442,-0.05482284,0.010443201
+http://arxiv.org/pdf/2207.07810v2,Interatomic force from neural network based variational quantum Monte Carlo,"Therefore, implementing and          There are various settings in the training and calcula-
+testing the reweighting algorithm in neural networks is        tion process. In the training part, we use the default
+left for future work. conﬁg recommended by the FermiNet package6,13. ",physics.chem-ph,A,0.44135034,0.079016924,-0.13397405
+http://arxiv.org/pdf/2207.10268v1,"Franck-Condon spectra of unbound and imaginary-frequency vibrations via correlation functions: a branch-cut free, numerically stable derivation","Together with the lowest-order anharmonic and
+Herzberg-Teller corrections, these results provide a simple means to simulating vibronic
+spectra that access unbound or negative curvature potential energy surfaces. The develop-
+ment of higher-order time-dependent perturbation theory corrections presents a promising
+avenue for future work. ACKNOWLEDGMENTS
+
+   This project has received funding from the European Research Council (ERC) under
+the European Union’s Horizon 2020 research and innovation programme (grant agreement
+No. ",physics.chem-ph,C,-0.029725946,-0.033613615,-0.026377628
+http://arxiv.org/pdf/2207.11535v1,A new framework for frequency-dependent polarizable force fields,"In this work, the parametrization is relatively expensive to obtain accurate
+predictions, thereby showing that ACKS2ω is capable of reproducing its LrTDDFT reference. In future work, simpler force-ﬁeld like parametrizations could be used instead, to overcome the
+computational bottleneck of the current parametrization. We anticipate that this approach will be
+beneﬁcial, e.g. ",physics.chem-ph,B,0.14394864,-0.14580438,8.180551e-05
+http://arxiv.org/pdf/2207.11535v2,A new framework for frequency-dependent polarizable force fields,"In this work, the parametrization is relatively expensive to obtain accurate
+predictions, thereby showing that ACKS2ω is capable of reproducing its LrTDDFT reference. In future work, simpler force-ﬁeld like parametrizations could be used instead, to overcome the
+computational bottleneck of the current parametrization. We anticipate that this approach will be
+beneﬁcial, e.g. ",physics.chem-ph,B,0.14394864,-0.14580438,8.180551e-05
+http://arxiv.org/pdf/2207.11592v1,Thermal half-lives of azobenzene derivatives: virtual screening based on intersystem crossing using a machine learning potential,"ML for equilibrium
+conformer generation has rapidly progressed in recent years [81–89], and many of the methods could also be
+applied to TS generation. These avenues would certainly be of interest in future work. C. Eigenvector following
+
+   EVF was implemented with Baker’s rational function optimization method [90]. ",physics.chem-ph,B,0.27912858,-0.22292495,-0.14281544
+http://arxiv.org/pdf/2207.11592v2,Thermal half-lives of azobenzene derivatives: virtual screening based on intersystem crossing using a machine learning potential,"ML for equilibrium
+conformer generation has rapidly progressed in recent years [81–89], and many of the methods could also be
+applied to TS generation. These avenues would certainly be of interest in future work. C. Eigenvector following
+
+   EVF was implemented with Baker’s rational function optimization method [90]. ",physics.chem-ph,B,0.27912858,-0.22292495,-0.14281544
+http://arxiv.org/pdf/2207.11592v3,Thermal half-lives of azobenzene derivatives: virtual screening based on intersystem crossing using a machine learning potential,"ML for equilibrium conformer generation has rapidly progressed in recent years 92–100,
+and many of the methods could also be applied to TS generation. These avenues would certainly be of interest in
+future work. S3.3 Eigenvector following
+
+EVF was implemented with Baker’s rational function optimization method 101. ",physics.chem-ph,B,0.25933135,-0.21001506,-0.15432398
+http://arxiv.org/pdf/2207.11592v4,Thermal half-lives of azobenzene derivatives: virtual screening based on intersystem crossing using a machine learning potential,"ML for equilibrium conformer generation has rapidly progressed in recent years 92–100,
+and many of the methods could also be applied to TS generation. These avenues would certainly be of interest in
+future work. S3.3 Eigenvector following
+
+EVF was implemented with Baker’s rational function optimization method 101. ",physics.chem-ph,B,0.25933135,-0.21001506,-0.15432398
+http://arxiv.org/pdf/2207.12587v1,"A truncated Davidson method for the efficient ""chemically accurate"" calculation of full configuration interaction wavefunctions without any large matrix diagonalization","Anticipated             1P. J. Knowles, “Very large full conﬁguration interaction calcula-
+future work will include a straightforward extension of        tions,” Chemical Physics Letters 155, 513–517 (1989). the present method to the treatment of excited elec-
+                                                              2P. ",physics.chem-ph,C,-0.18489462,0.13485983,-0.015652109
+http://arxiv.org/pdf/2207.13836v1,Differentiable quantum chemistry with PySCF for molecules and materials at the mean-field level and beyond,"In section V, we summarize our
+                                                  faces, in molecular dynamics simulations, for basis set      experience with AD in this project, and outline some di-
+                                                  and pseudopotential optimization, etc. Before the advent     rections for future work. of AD, these derivatives were mainly computed by ana-
+                                                  lytic schemes, where the symbolic formula for the deriva-    II. ",physics.chem-ph,B,0.049670443,-0.15110643,0.27450895
+http://arxiv.org/pdf/2207.13836v2,Differentiable quantum chemistry with PySCF for molecules and materials at the mean-field level and beyond,"In section V, we summarize our
+                                                 faces, in molecular dynamics simulations, for basis set      experience with AD in this project, and outline some di-
+                                                 and pseudopotential optimization, etc. Before the advent     rections for future work. of AD, these derivatives were mainly computed by ana-
+                                                 lytic schemes, where the symbolic formula for the deriva-    II. ",physics.chem-ph,B,0.04967039,-0.15110633,0.27450895
+http://arxiv.org/pdf/2207.14101v1,4-component relativistic Hamiltonian with effective QED potentials for molecular calculations,"The
+                                                                          possible cases are:
+
+            i                                                                   S≤0                 convergence
+                                                                                S=0                 logarithmic divergence
+                                                        (A53)                   S=1                 linear divergence
+                                                                                S=2                 quadratic divergence
+We note that the vacuum polarization eﬀect is local,                                                                        (A59)
+
+i.e., it can be written as an expectation value of a local
+
+vacuum polarization four-potential
+
+ϕµVP (x1) = ie              d3x2 Tr γµSAFe (x2, x2) . (A54)                 This naive estimation usually overestimates the eﬀec-
+                                     4π 0 |x1 − x2|                       tive (divergence), that we shall call E, and this can be
+                                                                          seen after further analysis of the integral in question. As
+   The energy expression of Eq. ",physics.chem-ph,B,0.025755184,-0.15354869,-0.28078938
+http://arxiv.org/pdf/2207.14215v1,Collective response in light-matter interactions: The interplay between strong coupling and local dynamics,"Dephasing thermal relaxation should have a profound
+eﬀect on the observed collective response [102]. Semiclassical mean-ﬁeld approximations
+that have proven useful in coupled plasmon-exciton systems [103] will be explored to this
+end in future work. 40
+
+                                      SUPPLEMENTARY MATERIAL
+
+   See supplementary material for discussions of the time evolution of a single excited molec-
+ular state in the Tavis-Cummings system, more ﬁgures in addition to those shown in Sec. ",physics.chem-ph,C,-0.19568951,-0.026961133,-0.07688902
+http://arxiv.org/pdf/2207.14276v1,Scalable Hybrid Deep Neural Networks/Polarizable Potentials Biomolecular Simulations including long-range effects,"This limitation
+
+may come from intrinsic quickly-varying contributions in ∆VML or
+
+from resonance effects (see ref. ) and should be examined in more
+
+details in future works. Another way to further increase the us-
+
+able time step is to redistribute the mass of the heavy atoms on
+
+hydrogens, method called hydrogen mass repartitioning (HMR),
+
+thus slowing down their stretching motions. ",physics.chem-ph,C,0.047413446,0.097984605,-0.007207428
+http://arxiv.org/pdf/2207.14554v1,Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations,"gions). An interesting direction for further research is to com-     Overall, we expect that our approach to manifold
+bine diﬀusion reweighting with a metric diﬀerent from        learning from enhanced sampling simulations opens a va-
+Euclidean distance, for instance, by considering a metric    riety of potential directions in studying metastable dy-
+that enables introducing a lag time, as done in the case of  namics that can be explored. kinetic and commute maps [73–75], a Mahalanobis ker-
+nel [76, 77], or delay coordinates [78]. ",physics.chem-ph,A,0.25237465,-0.12491746,0.21502624
+http://arxiv.org/pdf/2208.01257v1,Understanding Dynamics in Coarse-Grained Models: II. Coarse-Grained Diffusion Modeled Using Hard Sphere Theory,"For nonpolar or weakly polar molecular liquids, one expects the mapping would deliver
+packing fractions substantially larger than 0.3. This will be tested in future work. Table 1: Effective hard sphere packing fractions (𝜂) of the hard sphere system mapped from the
+CG water system using the BH scheme and the fluctuation matching approach with the selected
+EOSs. ",physics.chem-ph,C,0.021033313,0.0585864,0.028941005
+http://arxiv.org/pdf/2208.01315v1,Transfer learning for affordable and high quality tunneling splittings from instanton calculations,"A total of 5 TLs were performed,
+each on diﬀerent splits of the data. The two best NNs (judged from the performance on the
+validation set) were used for further analysis. First, it is noted that for TLMEP and TLMI the barrier EB for HT agrees well with the target
+value of 3.8948 kcal/mol (ab initio CCSD(T)/aug-cc-pVTZ level value) whereas this is not
+the case for TLIP, as expected, because the instanton path does not pass through the transi-
+tion state of the MEP (see Table 2). ",physics.chem-ph,C,0.024944473,-0.008408144,-0.2722333
+http://arxiv.org/pdf/2208.01490v1,Observing Nearby Nuclei on Paramagnetic Trityls and MOFs via DNP and Electron Decoupling,"5b and c) was achieved during
+eDec, showing again that the intramolecular nuclei on the radical can be efficiently decoupled from the
+unpaired electron. Following that, further characterization of the intramolecular 19F nuclei is anticipated
+in future work, such as to study their structures, their roles in DNP, and spin diffusion to the bulk. Metal Oxide Frameworks
+         Following the DNP and eDec study on intramolecular nuclei on the organic radicals, we applied the
+
+same techniques on other paramagnetic materials whose hyperfine-coupled nuclei might play important
+roles in material science applications. ",physics.chem-ph,C,-0.2098417,0.18649408,0.15764336
+http://arxiv.org/pdf/2208.02009v2,Effect of Protonation and Deprotonation on Electron Transfer Mediated Decay and Interatomic Coulombic Decay,"Thus, we conclude that the metal-centered depro-           = 34.36 kcal/mol by delocalizing Li-2s electron density to
+tonated systems can lose electrons vibrationally in their
+ground state and are not electronically stable. Therefore,         2 O-H antibonding orbitals, drastically lowering the IP of
+we will not further study the metal-centered deprotonated
+systems for the decay width. We have used the CCSD(T)              HOMO to 0.42 eV. ",physics.chem-ph,C,-0.30813783,0.015882038,0.016725926
+http://arxiv.org/pdf/2208.02365v1,A perturbative approximation to DFT/MRCI: DFT/MRCI(2),"Both these areas of applications
+dreds. Here, the DFT/MRCI(2) approximation will be          will be the subject of future work within our group. advantageous due to: (a) a massive reduction in the cost
+associated with the (eﬀective) Hamiltonian construction,
+                                                                                                              10
+
+  TABLE II: CSF basis dimensions, NCSF , and CPU
+     times (in units of seconds) for the aza-BODIPY
+
+  DFT/MRCI(2) calculations. ",physics.chem-ph,B,0.057705212,-0.34037492,0.08269714
+http://arxiv.org/pdf/2208.04937v1,"Interatomic-Potential-Free, Data-Driven Molecular Dynamics","If convergent, the scheme results in
+trajectories that are close to those of the underlying–and unknown–force ﬁeld sampled by the data, a
+remarkable feat indeed. These and other questions and improvements of the DD paradigm presented here suggest themselves
+as worthwhile directions for further research. Acknowledgments
+
+   This work has been funded by the Deutsche Forschungsgemeinschaft (DFG, German Research
+Foundation) via project 211504053 - SFB 1060; project 441211072 - SPP 2256; and project 390685813
+- GZ 2047/1 - HCM. ",physics.chem-ph,B,0.20049906,-0.1549834,-0.013981437
+http://arxiv.org/pdf/2208.04942v2,Rare Event Kinetics from Adaptive Bias Enhanced Sampling,"In the OPES ﬂooding ap-
+proach, even when just the φ angle is used as the CV, the estimated rates are unaffected
+by this extra hidden barrier, as the accuracy of the result depends only on the conver-
+gence of bias in the initial state minimum and consequent accurate evaluation of the
+ensemble average of exp(βVf(R)). However, the applicability of OPES f in systems with
+multiple high free energy barriers or in rugged free energy landscapes remains to be
+explored, and we intend to investigate these in future work. (a)                  (b)
+
+     sexc =-0.7  ΔE
+     sexc =-0.6
+     sexc =-0.5
+
+     sexc =-0.4
+     sexc =-0.3
+
+     sexc =-0.2
+     sexc =-0.1
+
+                                                                                                                      . ",physics.chem-ph,B,0.069298774,-0.065389276,-0.18191515
+http://arxiv.org/pdf/2208.05524v1,"Explicit-Solute Implicit-Solvent Molecular Simulation with Binary Level-Set, Adaptive-Mobility, and GPU","In our applications, we ﬁnd this to result in a nearly negligible amount of error compared
+to double-precision results, allowing us to take advantage of the speed aﬀorded by single-
+precision computations. In future work, we may consider computing with mixed-precision
+machine numbers to better balance round-oﬀ error and speed. As we shall show below (cf. ",physics.chem-ph,A,0.3104638,-0.11779537,-0.13955791
+http://arxiv.org/pdf/2208.06256v1,Kinetic energy density for open-shell systems: Analysis and development of a novel technique,"Further-
+more, the effect of the bond-breaking and bond-making process on these quantities are yet to be
+explored. We will be addressing these questions in our future works. ACKNOWLEDGMENTS
+
+   Priya acknowledges a prime minister’s research fellowship for ﬁnancial supports. ",physics.chem-ph,C,-0.14943007,0.2904144,0.06268463
+http://arxiv.org/pdf/2208.06708v1,Solving the Schrödinger Equation in the Configuration Space with Generative Machine Learning,"12
+    In summary we have shown how a generative model can be used to solve the Schro¨dinger
+equation by sampling the excited Slater determinants that contribute the most to the wave-
+function. Numerical applications show that this approach is already competitive with previ-
+ous approaches based on Monte Carlo sampling of the excited determinants26 or on machine
+learning ansatzes to represent the wavefunction in the conﬁguration space.8,11 An improve-
+ment that should be addressed in future work involves the development of a generative model
+that intrinsically takes into account the symmetry of the determinants and, more in general,
+the properties of the determinants contributing to the wavefunction. It has already been
+shown that a sizeable improvement in the convergence speed can be achieved by directly
+generating the determinants that couple with double and single substitutions to the deter-
+minants already included in the wavefunction. ",physics.chem-ph,B,0.095754094,-0.22973917,0.0070812833
+http://arxiv.org/pdf/2208.07505v1,Unified definition of exciton coherence length for exciton-phonon coupled molecular aggregates,"3, Lρ correlates linearly
+with the radiative eﬃciency γ (Fig.S4). We further study the temperature dependence of the
+superradiance enhancement (SRE) of the 2d brick layers. The temperature dependence of SRE was described by
+1/T law [32, 33], namely, the temperature achieving max-
+imal SRE is zero, and the SRE decreases with increasing
+temperature. ",physics.chem-ph,C,-0.058750935,0.15228768,-0.34321988
+http://arxiv.org/pdf/2208.08236v1,DPA-1: Pretraining of Attention-based Deep Potential Model for Molecular Simulation,"Multi-task and
+unsupervised training schemes would worth exploring; and, for downstream tasks, just like what has
+happened in the ﬁelds of CV and NLP, schemes like model compression, distillation, and transfer,
+etc., are desperately needed. We leave these possibilities and more applications to future works. 5 Acknowledgements
+
+The work of H.W. ",physics.chem-ph,A,0.6132097,0.22935036,0.16026577
+http://arxiv.org/pdf/2208.08236v2,DPA-1: Pretraining of Attention-based Deep Potential Model for Molecular Simulation,"Multi-task and
+unsupervised training schemes would worth exploring; and, for downstream tasks, just like what has
+happened in the ﬁelds of CV and NLP, schemes like model compression, distillation, and transfer,
+etc., are desperately needed. We leave these possibilities and more applications to future works. 5 Acknowledgements
+
+The work of H.W. ",physics.chem-ph,A,0.6132097,0.22935036,0.16026577
+http://arxiv.org/pdf/2208.08236v3,DPA-1: Pretraining of Attention-based Deep Potential Model for Molecular Simulation,"Multi-task and
+unsupervised training schemes would worth exploring; and, for downstream tasks, just like what has
+happened in the ﬁelds of CV and NLP, schemes like model compression, distillation, and transfer,
+etc., are desperately needed. We leave these possibilities and more applications to future works. 5 Acknowledgements
+
+The work of H.W. ",physics.chem-ph,A,0.6132097,0.22935036,0.16026577
+http://arxiv.org/pdf/2208.09062v1,The three-center two-positron bond,"2 the methods and                        i> j=1
+numerical procedures are summarized; the properties of the di-
+positronic system and the purely electronic analogues are pre-                                         + βgeee−ζgee|rei −rej|2∑G                        (3)
+sented and discussed in Sec. 3; concluding remarks and perspec-
+tives for future work are outlined in Sec. 4.                                                                g=1
+
+2 Methods                                                                                   Np   − pp  Γ     p+
+
+This study considers electrons and positrons as quantum particles     ∑ Jcpp(r¯ p) =                   pp p
+and atomic nuclei as point charges within the Born-Oppenheimer                           i> j=1       β0 (1 + β0 |ri − r j |)
+approximation. ",physics.chem-ph,B,-0.23619372,-0.14922217,-0.03873661
+http://arxiv.org/pdf/2208.10784v1,Building Robust Machine Learning Models for Small Chemical Science Data: The Case of Shear Viscosity,"Finally, the principles discussed in this work can be applied
+                                                                               to develop ML models of viscosity for more complex ﬂuids. However, in such ﬂuids, the identiﬁcation of the features that
+                                                                               are most relevant to shear viscosity would also be non-trivial
+                                                                               and constitutes a part of our future work. FIG. ",physics.chem-ph,A,0.46770304,0.1323514,0.06277186
+http://arxiv.org/pdf/2208.12287v1,The Parallel-Transported (Quasi)-Diabatic Basis,"We have also exploited integral relationships that hold
+between the connection and curvature in the parallel-transported basis, which are generalizations
+of Poincaré gauge to a non-Abelian context and which provide a convenient means for computing
+the derivative couplings. Our goal is to give analytic treatments of connection and curvature in
+the neighborhood of degeneracy manifolds that will be useful for future work, including multi-
+dimensional Landau-Zener normal forms. ACKNOWLEDGMENTS
+
+   One of us (R.L.) ",physics.chem-ph,A,0.24660492,-0.08992275,0.09521014
+http://arxiv.org/pdf/2208.13570v1,"Geometries, interaction energies and bonding in [Po(H$_2$O)$_n$]$^{4+}$ and [PoCl$_n$]$^{4-n}$ complexes","To limit the discussion to pure electronic-structure theory aspects,       plus one). In fact, in the current study, it was manually set to freeze
+only gas-phase results will be considered (future work may deal
+with solvation). Similarities and differences between the hydrated         4 orbitals for Po (5s and 5p pseudo-orbitals), 1 for each water (the
+and chlorinated complexes will be discussed, in particular concern-
+ing the ﬁrst coordination sphere of the polonium(IV) cation. ",physics.chem-ph,C,-0.3558097,0.24154559,0.12578762
+http://arxiv.org/pdf/2208.13570v2,"Geometries, interaction energies and bonding in [Po(H$_2$O)$_n$]$^{4+}$ and [PoCl$_n$]$^{4-n}$ complexes","To limit the discussion to pure electronic-structure theory aspects,       the ﬁrst unfrozen orbital, i.e. the number of frozen cores –NFC–
+only gas-phase results will be considered (future work may deal
+with solvation). Similarities and differences between the hydrated         plus one). ",physics.chem-ph,C,-0.31267166,0.16171105,0.16274108
+http://arxiv.org/pdf/2208.13570v3,"Geometries, interaction energies and bonding in [Po(H$_2$O)$_n$]$^{4+}$ and [PoCl$_n$]$^{4-n}$ complexes","To limit the discussion to pure electronic-structure theory aspects,       the ﬁrst unfrozen orbital, i.e. the number of frozen cores –NFC–
+only gas-phase results will be considered (future work may deal
+with solvation). Similarities and differences between the hydrated         plus one). ",physics.chem-ph,C,-0.31267166,0.16171105,0.16274108

@@ -1,0 +1,885 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00921v1,Neurons as hierarchies of quantum reference frames,"Hence the current
+framework represents neurons as explicitly quantum devices. Our goal here has been to develop a framework for building detailed models of speciﬁc
+neuronal cell types in speciﬁc environments; these will be pursued in future work. Even
+at the current abstract level, however, we are able to predict generically that dendritic
+trees will remodel in the direction of maximal informativeness, with trophic reward as the
+selection criterion. ",q-bio.NC,A,-0.15550557,-0.30058175,0.068960324
+http://arxiv.org/pdf/2201.03306v2,A Planck Radiation and Quantization Scheme for Human Cognition and Language,"Indeed, there are two quantum axioms of the axiomatic mathematical structure
+of this quantum formalism that stand in the way of this (Aerts, 1982). It is not our intention to elaborate
+on this now, but in future work we certainly want to explore this situation in greater depth again, especially
+now that many other aspects of this situation have become clear in the meantime. Indeed, from the analysis
+of Bose-Einstein and Maxwell-Boltzmann that we made here, it appears that separated or not separated
+entities will also determine the choice between these two, Maxwell-Boltzmann or Bose-Einstein (or Fermi-
+Dirac). ",q-bio.NC,A,-0.042041574,-0.042665064,-0.24321625
+http://arxiv.org/pdf/2201.05464v1,Bayesian sense of time in biological and artificial brains,"(2017) introduced Hierarchical
+Multiscale Recurrent Neural Networks (HM-RNNs) that employed a discrete-space long
+short term memory (LSTM) model with a parametrised boundary detector. The authors
+demonstrated that a hierarchical LSTM can discover an underlying spatiotemporal struc-
+ture in sequential data, facilitating further research into this area. Notably, HM-RNNs were
+not probabilistic models and therefore did not operate over Bayesian belief states. ",q-bio.NC,A,-0.033283517,-0.08415837,0.2811814
+http://arxiv.org/pdf/2201.05496v1,Evaluating Muscle Synergies with EMG Data and Physics Simulation in the Neurorobotics Platform,"Frequency domain plot: The FFT-generated data is averaged over all trials, which shows that
+the most prominent frequencies lie within the lower end of the spectrum. All frequencies higher than the
+computed cut-off point will be ignored in further analysis
+
+4.1.3 Feature Extraction
+
+  To be consistent with the study experiment, muscle activation data has to be inferred from the EMG
+signals. It is known that a muscle unit (MU) exerts a muscle unit activation potential (MUAP) when
+activated. ",q-bio.NC,C,0.07768209,0.17364284,-0.048023395
+http://arxiv.org/pdf/2201.07075v1,Critical dynamics in a chain of integrator units with adaptive thresholds,"A top-down signal could set
+oﬀ a surge of activity in subordinate levels, with its size being exponentially related to the
+rank of the emitting level (section VI H). An expedient course for future work on top-down
+eﬀects could be explicitly modeling top-down signals that suppress uncertainty in subordi-
+nate levels and splitting the time step into the number of hierarchy levels traversed. This
+could potentially inform the presence of local peaks commonly superimposed on M/EEG
+power spectra [109] and untangle avalanche clusters due to temporal subsampling [136, 151]
+
+                                                        60
+(section VI J). ",q-bio.NC,C_centroid,0.7473715,-0.05570466,-0.017404258
+http://arxiv.org/pdf/2201.07075v10,Discrete scaling and criticality in a chain of adaptive excitable integrators,"A top-down signal could set oﬀ a surge of activity in
+subordinate levels, with its size being exponentially related to the rank of the emitting
+level (Section VI F). An expedient course for future work on top-down eﬀects could be to
+explicitly model top-down signals that suppress uncertainty in subordinate levels and to split
+the time step into the number of hierarchy levels traversed. Potentially this could inform
+the presence of local peaks commonly superimposed on M/EEG power spectra [124] and
+untangle avalanche clusters due to temporal subsampling [151, 173] (Section VI H). ",q-bio.NC,C,0.7478141,-0.059181374,-0.04438554
+http://arxiv.org/pdf/2201.07075v2,Critical dynamics in a chain of integrator units with adaptive thresholds,"A top-down signal could set
+oﬀ a surge of activity in subordinate levels, with its size being exponentially related to the
+rank of the emitting level (section VI H). An expedient course for future work on top-down
+eﬀects could be explicitly modeling top-down signals that suppress uncertainty in subordi-
+nate levels and splitting the time step into the number of hierarchy levels traversed. This
+could potentially inform the presence of local peaks commonly superimposed on M/EEG
+power spectra [109] and untangle avalanche clusters due to temporal subsampling [136, 151]
+
+                                                        60
+(section VI J). ",q-bio.NC,C,0.7473715,-0.05570466,-0.017404258
+http://arxiv.org/pdf/2201.07075v3,Critical dynamics in a chain of integrator units with adaptive thresholds,"A top-down signal could set
+oﬀ a surge of activity in subordinate levels, with its size being exponentially related to the
+rank of the emitting level (section VI H). An expedient course for future work on top-down
+eﬀects could be explicitly modeling top-down signals that suppress uncertainty in subordi-
+nate levels and splitting the time step into the number of hierarchy levels traversed. This
+could potentially inform the presence of local peaks commonly superimposed on M/EEG
+power spectra [108] and untangle avalanche clusters due to temporal subsampling [135, 151]
+(section VI J). ",q-bio.NC,C,0.74671465,-0.05938572,-0.019741982
+http://arxiv.org/pdf/2201.07075v4,Critical dynamics in a chain of integrator units with adaptive thresholds,"A top-down signal could set
+oﬀ a surge of activity in subordinate levels, with its size being exponentially related to the
+rank of the emitting level (section VI H). An expedient course for future work on top-down
+eﬀects could be explicitly modeling top-down signals that suppress uncertainty in subordi-
+nate levels and splitting the time step into the number of hierarchy levels traversed. This
+could potentially inform the presence of local peaks commonly superimposed on M/EEG
+power spectra [108] and untangle avalanche clusters due to temporal subsampling [135, 151]
+(section VI J). ",q-bio.NC,C,0.74671465,-0.05938572,-0.019741982
+http://arxiv.org/pdf/2201.07075v5,Quasi-critical dynamics in a chain of integrator units with adaptive thresholds,"A top-down signal could set
+oﬀ a surge of activity in subordinate levels, with its size being exponentially related to the
+rank of the emitting level (section VI H). An expedient course for future work on top-down
+eﬀects could be explicitly modeling top-down signals that suppress uncertainty in subordi-
+nate levels and splitting the time step into the number of hierarchy levels traversed. This
+could potentially inform the presence of local peaks commonly superimposed on M/EEG
+power spectra [109] and untangle avalanche clusters due to temporal subsampling [136, 156]
+(section VI J). ",q-bio.NC,C,0.7486061,-0.05606451,-0.020335611
+http://arxiv.org/pdf/2201.07075v6,Quasi-critical dynamics in a chain of integrator units with adaptive thresholds,"A top-down signal could set
+oﬀ a surge of activity in subordinate levels, with its size being exponentially related to the
+rank of the emitting level (section VI F). An expedient course for future work on top-down
+eﬀects could be explicitly modeling top-down signals that suppress uncertainty in subordi-
+nate levels and splitting the time step into the number of hierarchy levels traversed. This
+could potentially inform the presence of local peaks commonly superimposed on M/EEG
+power spectra [112] and untangle avalanche clusters due to temporal subsampling [139, 159]
+(section VI H). ",q-bio.NC,C,0.7455104,-0.05815807,-0.017652819
+http://arxiv.org/pdf/2201.07075v7,Quasi-critical dynamics in a chain of integrator units with adaptive thresholds,"A top-down signal could set oﬀ a surge of activity in
+subordinate levels, with its size being exponentially related to the rank of the emitting
+level (Section VI F). An expedient course for future work on top-down eﬀects could be to
+explicitly model top-down signals that suppress uncertainty in subordinate levels and to split
+the time step into the number of hierarchy levels traversed. Potentially this could inform
+the presence of local peaks commonly superimposed on M/EEG power spectra [115] and
+untangle avalanche clusters due to temporal subsampling [141, 162] (Section VI H). ",q-bio.NC,C,0.7475331,-0.061513677,-0.045632154
+http://arxiv.org/pdf/2201.07075v8,Criticality in a chain of integrator units with adaptive thresholds,"A top-down signal could set oﬀ a surge of activity in
+subordinate levels, with its size being exponentially related to the rank of the emitting
+level (Section VI F). An expedient course for future work on top-down eﬀects could be to
+explicitly model top-down signals that suppress uncertainty in subordinate levels and to split
+the time step into the number of hierarchy levels traversed. Potentially this could inform
+the presence of local peaks commonly superimposed on M/EEG power spectra [116] and
+untangle avalanche clusters due to temporal subsampling [143, 165] (Section VI H). ",q-bio.NC,C,0.74897563,-0.062146213,-0.045199618
+http://arxiv.org/pdf/2201.07075v9,Discrete criticality in a chain of integrator units with adaptive thresholds,"A top-down signal could set oﬀ a surge of activity in
+subordinate levels, with its size being exponentially related to the rank of the emitting
+level (Section VI F). An expedient course for future work on top-down eﬀects could be to
+explicitly model top-down signals that suppress uncertainty in subordinate levels and to split
+the time step into the number of hierarchy levels traversed. Potentially this could inform
+the presence of local peaks commonly superimposed on M/EEG power spectra [117] and
+untangle avalanche clusters due to temporal subsampling [144, 166] (Section VI H). ",q-bio.NC,C,0.74589205,-0.06040101,-0.04784493
+http://arxiv.org/pdf/2201.07320v1,"Critical periods and Autism Spectrum Disorders, a role for sleep","There are currently no studies that have concurrently examined sleep and synaptic plasticity deficits in early
+life using an ASD mouse model. Given how important the early postnatal period has been shown to be for
+ASD, further examination of the interaction between sleep and plasticity during early life is necessary. Concluding remarks
+
+Animal models have been proven useful to understand mechanism underlying deficits in ASD. ",q-bio.NC,A,-0.18721242,-0.028481515,-0.0026057458
+http://arxiv.org/pdf/2201.10598v1,"The positive-negative mode link between brain connectivity, demographics, and behavior: A pre-registered replication of Smith et al. 2015","For example,
+the ability to predict behavior disorder symptoms from functional connectivity (and vice-versa) could be
+of great utility to clinicians. In addition, future work should extend this analysis into younger children to
+examine a possible dynamic emergence and clinically predictive accuracy of the positive-negative axis. Finally, we also found a specific pattern of functional connectivity edges that was related to the primary
+CCA mode. ",q-bio.NC,A,1.9685365e-05,0.013120882,-0.05715376
+http://arxiv.org/pdf/2201.11600v1,Chronic iEEG recordings and interictal spike rate reveal multiscale temporal modulations in seizure states,"Finally, uncovering the time-varying mechanisms that underlie seizure
+variability and severity could provide new targets for manipulating seizures and lessening their
+impact on patients. As a preliminary step towards clinical applications, future work could con-
+nect seizure network states to clinically relevant features, such as onset locations and secondary
+generalisation. Additionally, repeating our analysis in a larger cohort could determine if cer-
+tain characteristic temporal patterns of variability, analogous to chronotypes in seizure occurrence
+(Langdon-Down and Brain, 1929; Leguia et al., 2021; Loddenkemper et al., 2011; Rao et al., 2020),
+exist across patients. ",q-bio.NC,C,0.24126005,0.03846221,0.122383595
+http://arxiv.org/pdf/2201.13378v1,Reproducible measures of correlative and causal brain connectivity,"12
+comparisons to the literature. Pearson’s r which is less susceptible to scale variations and sparsity, and the
+DB clustering score, which looks at a measure of subject identifiability, were chosen as more reproducible
+measures for further analysis. A comparison of the six FC methods along these two metrics is shown in
+Figure 2. ",q-bio.NC,B,-0.053916395,0.52261287,-0.13368008
+http://arxiv.org/pdf/2202.01989v1,A Comparison of Representation Learning Methods for Dimensionality Reduction of fMRI Scans for Classification of ADHD,"Recurrent
+                                                               neural networks or convolutional neural network, should
+                                                               be explored in future work. Moreover, we propose that
+                                                               locating lower dimensional sets of fMRI features that retain
+discriminating power for ADHD classiﬁcation is the heart
+
+of the problem and that the majority of future work should
+
+focus on this task. REFERENCES
+
+ [1] I. Rish, B. Thyreau, et al., “Discriminative network models of
+      schizophrenia,” Advances in Neural Information Processing Systems,
+      vol. ",q-bio.NC,A,-0.022270719,0.0640819,0.27441293
+http://arxiv.org/pdf/2202.02228v1,Uncertainty in fMRI Functional Networks of Autism Brain Imaging Data,"Given N simple networks of
+a subject’s brain we can generate a probabilistic network in which an edge probability is determined by the relative
+frequency of samples in which the edge exists. While this discussion shows that probabilistic networks can be generated as an output of the pipeline, maintaining more
+information from the originating fMRI data, additional research is needed to verify whether and how this enriched
+output can be exploited in the subsequent network analysis phases. 6In this work probability distributions are calculated based on Bayesian methods
+
+                                                                     11
+Uncertainty in fMRI Data  A PREPRINT
+
+References
+
+Onerva Korhonen, Massimiliano Zanin, and David Papo. ",q-bio.NC,A,-0.038636982,0.009076973,0.12412505
+http://arxiv.org/pdf/2202.02590v1,Volumetric and structural connectivity abnormalities co-localise in TLE,"Therefore, some complementary
+information exists between the two modalities. It could be the case that connectivity abnormalities
+are more extensive than volumetric abnormalities in some patients, or vice versa, and this will be
+investigated in future work. Our approach may have clinically relevant implications for two key reasons. ",q-bio.NC,A,0.052829348,0.17484778,-0.021234985
+http://arxiv.org/pdf/2202.04773v1,A Neural Network Model of Continual Learning with Cognitive Control,"The default random initializa-  Herd, S. A., Banich, M. T., & O’Reilly, R. C. (2006, Jan-
+tions we used in our model were likely small enough to put        uary). Neural mechanisms of cognitive control: An inte-
+them in the “rich” regime, but future work will assess the ex-    grative model of Stroop task performance and fMRI data. tent to which our results depend on initialization. ",q-bio.NC,A,-0.1555016,-0.1029705,-0.1058401
+http://arxiv.org/pdf/2202.04773v2,A Neural Network Model of Continual Learning with Cognitive Control,"The default random initializa-  Herd, S. A., Banich, M. T., & O’Reilly, R. C. (2006, Jan-
+tions we used in our model were likely small enough to put        uary). Neural mechanisms of cognitive control: An inte-
+them in the “rich” regime, but future work will assess the ex-    grative model of Stroop task performance and fMRI data. tent to which our results depend on initialization. ",q-bio.NC,A,-0.1555016,-0.1029705,-0.1058401
+http://arxiv.org/pdf/2202.06634v1,On the influence of input triggering on the dynamics of the Jansen-Rit oscillators network,"Then, the noise was interrupted, and
+after some ﬂuctuations, the equilibrium state was reached. By discarding
+the ﬁrst 100 seconds of simulation from further analysis, we were conﬁdent
+that the system had reached to its equilibrium. Every node received an input
+from another part of the brain as an external input. ",q-bio.NC,A,-0.13471386,-0.29765853,-0.2512646
+http://arxiv.org/pdf/2202.06634v2,On the influence of input triggering on the dynamics of the Jansen-Rit oscillators network,"Then, the noise was interrupted, and
+after some ﬂuctuations, the equilibrium state was reached. By discarding
+the ﬁrst 100 seconds of simulation from further analysis, we were conﬁdent
+that the system had reached to its equilibrium. Every node received an input
+from another part of the brain as an external input. ",q-bio.NC,A,-0.13471386,-0.29765853,-0.2512646
+http://arxiv.org/pdf/2202.07218v1,Situation-based memory in spiking neuron-astrocyte network,"According to the results obtained, the
+considered SNN can learn up to 40 patterns. In further analysis, we used data set sizes of 20 and 40
+patterns for comparison. Fig. ",q-bio.NC,A,-0.113928236,0.187465,0.19182941
+http://arxiv.org/pdf/2202.09209v1,A time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time,"(2019) ﬁnd that the
+speciﬁcally using a multi-scale temporal representation as a      behaviour of the adaptive responses that they observe can
+temporal memory. In a further study of the primate entorhi-       be accounted for by ﬁlters that operate over multiple time
+nal cortex, Bright et al. (2020) conclude that the that this      scales. ",q-bio.NC,A,-0.13873327,-0.097270474,-0.050517723
+http://arxiv.org/pdf/2202.09209v2,A time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time,"(2019) ﬁnd that the
+speciﬁcally using a multi-scale temporal representation as a      behaviour of the adaptive responses that they observe can
+temporal memory. In a further study of the primate entorhi-       be accounted for by ﬁlters that operate over multiple time
+nal cortex, Bright et al. (2020) conclude that the that this      scales. ",q-bio.NC,A,-0.13873327,-0.097270474,-0.050517723
+http://arxiv.org/pdf/2202.09209v3,A time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time,"(2018) show how temporal information in
+                                                                    the lateral entorhinal cortex is robustly encoded over a wide
+    In the second-stage model of spectro-temporal receptive         range of temporal scales, from time scales of seconds to
+ﬁelds in this theory, the idealized form of auditory receptive      hours, where speciﬁcally the brain handles multiple scales
+ﬁelds are from theoretical arguments constrained to be of the       in parallel, consistent with the underlying construction of
+form                                                                a multi-scale representation over the temporal domain, and
+                                                                    speciﬁcally using a multi-scale temporal representation as a
+A(t, ν; Σ) = ∂tα ∂νβ (g(ν − vt; s) T (t; τa))  (82)                 temporal memory. In a further study of the primate entorhi-
+                                                                    nal cortex, Bright et al. (2020) experimentally model time
+where                                                               cells in this brain area as single truncated exponentials, in
+                                                                    line with theoretical model in Equation (16), although also
+ – ∂tα represents a temporal derivative operator of order           complemented with a Gaussian smoothing step that leads
+    α with respect to time t which could alternatively be re-       to the ex-Gaussian model, and conclude that the time cells
+    placed by a glissando-adapted temporal derivative of the        in the entorhinal cortex use a spectrum of time constants to
+    form ∂t = ∂t + v ∂ν ,                                           construct a temporal record of the past in support of episodic
+                                                                    memory. ",q-bio.NC,A,-0.046963245,-0.14463612,0.0018336605
+http://arxiv.org/pdf/2202.10021v1,Frontal effective connectivity increases with task demands and time on task: a DCM study on electrocorticogram in macaque monkeys,"11
+[10] Christensen-Szalanski JJJ. A further examination of the selection of problem-solving strategies: The eﬀects
+      of deadlines and analytic aptitudes. Organizational Behavior and Human Performance. ",q-bio.NC,B,-0.15657237,0.30974644,-0.3407237
+http://arxiv.org/pdf/2202.10376v1,Same Cause; Different Effects in the Brain,"Then,
+
+    zone generalization(zone1, zone2) < zone generalization(zone2, zone1),
+             zone residuals(zone1, zone2) < zone residuals(zone2, zone1). Disentangling this from the SNR effect on asymmetry is an interesting direction for future work. Appendix H. 34 Language ROI Heatmap Tick Numbers Projected on the Brain
+
+                                                                34
+                                                                                              10/22/21, 12:47 AM                                       B
+                                                                                                                                                      B
+10/22/21, 12:47 AM                                   B                                        10/22/21, 12:47 AM
+                                                                                                                                                       B
+   :PN3HUN960Z/*7                                 SAME CAUSE; D:IPFNFE3RHEUNNT9E6F0FZEC/T*S7IN THE BRAIN
+                                                                          :PN9:60P3NHILS3LK HUN960Z/*7                                                      13
+        :PN9603HILSLK
+                                                                                                              :PN9603HILSLK
+                           A. Courtois NeuroMod
+                                       17                                                                         FIG 7
+
+                            15                                                                10/22/21, 12:47 AM         B. ",q-bio.NC,A,-0.018799108,0.102201544,-0.025579628
+http://arxiv.org/pdf/2202.11690v3,Brain Structural Saliency Over The Ages,"In the future it would also be of great
+interest to examine how the distribution of relevance within the brain may change
+according to di erent model architectures and across di erent datasets. Another po-
+tential avenue for future work is to see how the size of a dataset may in uence the
+distribution of relevance through the brain volume. It would also be of interest to com-
+pare the saliency maps of other, possibly more computationally expensive techniques,
+such as Integrated Gradients [41, 42]. ",q-bio.NC,A,-0.009478224,0.15031159,0.22038671
+http://arxiv.org/pdf/2202.12992v1,Decomposing past and future: Integrated information decomposition based on shared probability mass exclusions,"of lower-level dependencies. Like the disintegrated sys-
+tem, the integrated system is non-ergodic, so not every          Dissociated and organotypic cultures have been a
+state each reachable from every other state - the extent to   highly productive model system for research into infor-
+which properties such as ergodicity, system size, etc, in-    mation dynamics and “computation” in biological sys-
+ﬂuence the distribution of integrated information atoms       tems: for example, see studies of the relationship between
+remains an area of further study. criticality and information-theoretic complexity [12, 36],
+                                                              network structure and synergy [37–39], changes to com-
+                       3. ",q-bio.NC,A,-0.2232771,-0.27183694,-0.33174133
+http://arxiv.org/pdf/2202.12992v2,Decomposing past and future: Integrated information decomposition based on shared probability mass exclusions,"of lower-level dependencies. Like the disintegrated sys-
+tem, the integrated system is non-ergodic, so not every          Dissociated and organotypic cultures have been a
+state each reachable from every other state - the extent to   highly productive model system for research into infor-
+which properties such as ergodicity, system size, etc, in-    mation dynamics and “computation” in biological sys-
+ﬂuence the distribution of integrated information atoms       tems: for example, see studies of the relationship between
+remains an area of further study. criticality and information-theoretic complexity [12, 36],
+                                                              network structure and synergy [37–39], changes to com-
+                       3. ",q-bio.NC,A,-0.2232771,-0.27183694,-0.33174133
+http://arxiv.org/pdf/2203.07193v1,Emergent dynamics in an astrocyte-neuronal network coupled via nitric oxide,"Thereby, suggesting the existence of optimized value of Q where the system
+is most synchronized. For further analysis, values of Q and stimulus corresponding to best case
+scenario of synchronization were chosen and ﬁxed at 0.45 and 0.17 µM sec−1, respectively, unless
+otherwise speciﬁed. The above discussion is summarized as below. ",q-bio.NC,A,0.0022142746,0.013118608,-0.35981858
+http://arxiv.org/pdf/2203.08312v1,An explainability framework for cortical surface-based deep learning,"On the other hand, if
+                                                                          salient vertices and features differ, one could perform validity
+                                                                          experiments to assess whether different methods are more
+                                                                          valid than others, i.e., whether one explainability approach is
+                                                                          better suitable to detect important vertices and features than
+                                                                          others. Finally, since our conceptual framework is not limited
+                                                                          to this case study, we provide all source code in the hope it
+                                                                          serves as a starting point for future work in explainable AI. REFERENCES
+
+                                                                           [1] J. ",q-bio.NC,B,-0.11525237,0.2666645,0.07433109
+http://arxiv.org/pdf/2203.08341v1,Exact mean-field models for spiking neural networks with adaptation,"Complicated bifurcation structures, including Bogdanov-Takens bifurcation, may occur for nearby
+parameter values. We leave further investigation to future work. Fig. ",q-bio.NC,A,-0.08383426,-0.16942257,-0.18071187
+http://arxiv.org/pdf/2203.09281v1,Ranking of Communities in Multiplex Spatiotemporal Models of Brain Dynamics,"However, a potential advantage of the HMGM
+                  framework is that it provides a way to ground the interlayer coupling parameters
+                  used in some multilayer community detection using a natural property of the model,
+                  the probability of state transition. In our future work we intend to investigate mul-
+                  tilayer community detection approaches to look at dynamic changes in network
+                  membership using coupling parameters based on the transition probabilities be-
+                  tween state layers. We plan to apply our multiplex analysis framework to conditions of altered con-
+                  sciousness in deep anaesthesia and determine novel spatiotemporal networks that
+                  characterise this condition with comparison to our current graph model for rest-
+                  ing wakefulness. ",q-bio.NC,A,0.064247616,-0.0612613,0.1898064
+http://arxiv.org/pdf/2203.09281v2,Ranking of Communities in Multiplex Spatiotemporal Models of Brain Dynamics,"However, a potential advantage of the HMGM
+                  framework is that it provides a way to ground the interlayer coupling parameters
+                  used in some multilayer community detection using a natural property of the model,
+                  the probability of state transition. In our future work we intend to investigate mul-
+                  tilayer community detection approaches to look at dynamic changes in network
+                  membership using coupling parameters based on the transition probabilities be-
+                  tween state layers. We plan to apply our multiplex analysis framework to conditions of altered con-
+                  sciousness in deep anaesthesia and determine novel spatiotemporal networks that
+                  characterise this condition with comparison to our current graph model for rest-
+                  ing wakefulness. ",q-bio.NC,A,0.064247616,-0.0612613,0.1898064
+http://arxiv.org/pdf/2203.10810v1,Information-theoretic analyses of neural data to minimize the effect of researchers' assumptions in predictive coding studies,"The spikes of individual neurons were isolated using template matching, parametric
+clustering, and the presence of a refractory period in the auto-correlogram. Recordings from 17 cell pairs entered further analysis. Recordings had an average
+length of 788.4 s (± 441.6 s SD, see Supplemental Table 1)
+
+    To assert connectivity between recorded cells, the cross-correlogram between both
+recordings was visually inspected for abrupt, short-latency peaks using a bin-size of
+0.1 ms (see [54], Fig 1). ",q-bio.NC,C,0.1341092,-0.09405513,0.028542763
+http://arxiv.org/pdf/2203.10810v2,Information-theoretic analyses of neural data to minimize the effect of researchers' assumptions in predictive coding studies,"The spikes of individual neurons were isolated using template matching, parametric
+clustering, and the presence of a refractory period in the auto-correlogram. Recordings from 17 cell pairs entered further analysis. Recordings had an average
+length of 788.4 s (± 441.6 s SD, see Supplemental Table 1)
+
+    To assert connectivity between recorded cells, the cross-correlogram between both
+recordings was visually inspected for abrupt, short-latency peaks using a bin-size of
+0.1 ms (see [54], Fig 1). ",q-bio.NC,C,0.1341092,-0.09405513,0.028542763
+http://arxiv.org/pdf/2203.14870v1,Biophysical models of intrinsic homeostasis: Firing rates and beyond,"So far, it is hard to tell how much of a
+challenge this poses for established models of rate homeostasis because excitability switches
+encountered during regulation are typically not reported. Accordingly, future work should
+systematically compare regulation across switches and within an excitability class to clarify
+this issue. Because of the tremendous importance of the excitability class on information processing and
+network behavior, we here propose that also the dynamical type, beyond the mere firing rate,
+should be under homeostatic control. ",q-bio.NC,A,-0.0003106459,-0.23676991,-0.15268134
+http://arxiv.org/pdf/2204.00583v1,Beyond Wilson-Cowan dynamics: oscillations and chaos without inhibition,"Using a higher-order moment
+    closure, we could take into account the correla-              Destexhe A, Sejnowski TJ (2009)
+    tions between activities of diﬀerent populations. The Wilson-Cowan model, 36 years
+    We intend to investigate this in future work. later. ",q-bio.NC,A,-0.07632956,-0.005639041,-0.26141623
+http://arxiv.org/pdf/2204.00583v2,Beyond Wilson-Cowan dynamics: oscillations and chaos without inhibition,"Thus, it is clear that in this
+15
+
+    closure, we could take into account the correla-     Bressloﬀ PC, Ermentrout GB, Faugeras O,
+    tions between activities of diﬀerent populations. et al (2016) Stochastic Network Models in
+    We intend to investigate this in future work. Neuroscience: A Festschrift for Jack Cowan. ",q-bio.NC,A,-0.040674552,-0.14585876,-0.05318076
+http://arxiv.org/pdf/2204.01182v1,"Curiosity as filling, compressing, and reconfiguring knowledge networks","This method is limited in that a) names, Census
+entries, and Wikipedia proﬁles used to make predictions about gender may not be indicative of
+racial/ethnic identity, and b) it cannot account for Indigenous and mixed-race authors, or those
+who may face diﬀerential biases due to the ambiguous racialization or ethnicization of their names. We look forward to future work that could help us to better understand how to support equitable
+practices in science. 7 Acknowledgments
+
+The authors gratefully acknowledge helpful discussions with Drs. ",q-bio.NC,B,-0.1546554,0.46298617,-0.15676555
+http://arxiv.org/pdf/2204.01675v1,Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity,"(7) to a stochastic neural field equation. The circular environment
+we study can be regarded as a space-discretized stochastic neural field but the exact expression of
+the continuous equation and its physical interpretation is unclear and will be subject of future work. Ideally, one would want to be able to prove the convergence to such an equation, as in [157] in the
+case without STP. ",q-bio.NC,A,-0.2826143,-0.28048852,0.10514053
+http://arxiv.org/pdf/2204.01675v2,Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity,"(7) to a stochastic neural field equation. The circular environment
+we study can be regarded as a space-discretized stochastic neural field but the exact expression of
+the continuous equation and its physical interpretation is unclear and will be subject of future work. Ideally, one would want to be able to prove the convergence to such an equation, as in [163] in the
+case without STP. ",q-bio.NC,A,-0.2831428,-0.2870382,0.10733598
+http://arxiv.org/pdf/2204.05110v1,Comparative Survey of Multigraph Integration Methods for Holistic Brain Connectivity Mapping,"Finally, we evaluated DGN on unimodal data for CBT generation. In
+
+future work, we can generalize our comparison study to integrate multi-modal
+brain networks such as functional and structural brain networks at the same
+time while capitalizing on geometric deep learning for estimating holistic
+CBTs and investigating populations diﬀerences at functional and structural
+levels. The importance of analyzing brain connectivity patterns in biological
+datasets which proliferate with unprecedented complexity and heterogeneity
+opens new frontiers to upgrade the capacity of multigraph fusion methods
+to work on multimodal connectomic datasets to learn integral and holis-
+tic connectional templates of populations of multi-view networks. ",q-bio.NC,A,-0.08971053,0.049671516,0.32316154
+http://arxiv.org/pdf/2204.06071v1,Understanding Saliency Prediction with Deep Convolutional Neural Networks and Psychophysical Models,"2. Therefore, future work
+                                                                   could collect human saliency prediction data on the degraded
+                                                                   image, and it would be fascinating. 3.4. ",q-bio.NC,B,-0.078651935,0.43022436,0.22569469
+http://arxiv.org/pdf/2204.06071v3,Understanding Saliency Prediction with Deep Convolutional Neural Networks and Psychophysical Models,"5. Therefore, future work could col-
+                                                                   lect human saliency prediction data on the degraded image,
+                                                                   and it would be fascinating. 3.4. ",q-bio.NC,B_centroid,-0.056294456,0.44646984,0.22110897
+http://arxiv.org/pdf/2204.06071v4,Understanding Saliency Prediction with Deep Convolutional Neural Networks and Psychophysical Models,"5. Therefore, future work could col-
+                                                                    lect human saliency prediction data on the degraded image,
+                                                                    and it would be fascinating. 3.4. ",q-bio.NC,B,-0.056294456,0.44646984,0.22110897
+http://arxiv.org/pdf/2204.06071v5,Understanding Saliency Prediction with Deep Convolutional Neural Networks and Psychophysical Models,"5. Therefore, future work could col-
+                                                                    lect human saliency prediction data on the degraded image,
+                                                                    and it would be fascinating. 3.4. ",q-bio.NC,B,-0.056294456,0.44646984,0.22110897
+http://arxiv.org/pdf/2204.07186v1,Optimal quadratic binding for relational reasoning in vector symbolic neural architectures,"The former assumption is reasonable under
+the latter assumption because a quadratic binding should be enough to capture the statistical relationship between
+the inputs when the inputs are Gaussian. We leave an investigation of the optimal binding under general input
+statistics for future works. Many binding mechanisms have been proposed previously in the framework of VSA (Smolensky, 1990; Plate,
+1995; Kanerva et al., 1997; Gallant and Okaywe, 2013; Gosmann and Eliasmith, 2019; Frady et al., 2020). ",q-bio.NC,A,-0.118664816,-0.019467894,-0.020395517
+http://arxiv.org/pdf/2204.07478v1,Signal Reception With Generic Three-State Receptors in Synaptic MC,"Numerical results show
+
+       80                                                                             that the proposed model allows for analyses that exceed the
+
+o(t′)  60                                                                             capabilities of the commonly used two-state receptor models. 40                                                                                In future work, we plan to extend the proposed model to
+
+       20                                                                             account for the competition of different receptor types for NTs
+
+       00   0.5  1  1.5  2  2.5                 3  3.5                             4  in the same synapse. Apart from SMC, it would be interesting
+
+       100                                 (!κ˜′do, κ˜′oc, κ˜′dc): defau""lt           to apply the proposed model for the design of synthetic MC
+        80                                  κ˜′do · 101, κ˜′oc/2, / κ˜′dc 2
+        60                                                                            systems based on reactive Rxs. ",q-bio.NC,A,-0.2589913,-0.13923503,-0.12421326
+http://arxiv.org/pdf/2204.09119v2,Optically-generated focused ultrasound for noninvasive brain stimulation with ultrahigh precision,"This flexibility guarantees a pre-compensated optimization to minimize the aberration. Thus,
+         in future work, one can minimize the aberration by scanning the skull and calculating the
+         required profile of SOAP for phase compensation. In summary, OFUS offers ultrahigh precision non-invasively towards neurological research
+         in sub-regions of a brain. ",q-bio.NC,B,0.015160199,0.21431422,0.05580259
+http://arxiv.org/pdf/2204.11843v1,A Computational Theory of Learning Flexible Reward-Seeking Behavior with Place Cells,"For a complex
+maze environment without these conditions satisﬁed, there is no guarantee that grid patterns will
+emerge. We leave the study of how place cell ﬁring ﬁelds in a complex maze are formed from grid
+cell activations for our future work. The work [4] further fed the activations of RNN hidden units
+into another RNN for representing the policy and value function in actor-critic based RL. ",q-bio.NC,A,-0.27767763,-0.3108352,0.12022589
+http://arxiv.org/pdf/2204.11843v2,A Computational Theory of Learning Flexible Reward-Seeking Behavior with Place Cells,"For a complex maze
+environment without these conditions satisﬁed, there is no guarantee that grid patterns will emerge. We leave the study of how grid-like patterns might emerge from RNN-based path integration in
+complex mazes for our future work. The work [4] further fed the activations of RNN hidden units
+into another RNN for representing the policy and value function in actor-critic based RL. ",q-bio.NC,A,-0.27772802,-0.28197652,0.13766187
+http://arxiv.org/pdf/2204.12595v1,Correcting motion induced fluorescence artifacts in two-channel neural imaging,"For these
+reasons, while TMAC is a linear approximation to the true interaction between a and m, it is an approximation
+that is highly accurate. An interesting avenue for future work would be to consider asymmetric distributions
+which can retain both high variability and positivity and may better approximate the true activity distribution. In this work we demonstrated TMAC’s ability to remove decodable motion artifacts from calcium
+induced fluorescence. ",q-bio.NC,A,0.0007154308,-0.07035786,-0.015988024
+http://arxiv.org/pdf/2205.02465v2,Paired associative stimulation demonstrates alterations in motor cortical synaptic plasticity in patients with hepatic encephalopathy,"Participants are requested to report when they first perceive the light
+as clearly flickering. Participants were first trained in this process and after they confirmed to
+understand the instructions, the measurement was repeated three times and the mean CFF value
+was taken for further analysis. The individual CFF is known to decrease depending on HE disease
+severity, with 39 Hz suggested as a cut-off to detect minimal HE in patients (Kircheis et al., 2014,
+2002). ",q-bio.NC,B,0.0914795,0.34248143,-0.17987028
+http://arxiv.org/pdf/2205.03635v3,Ultrafast image categorization in vivo and in silico,"So the
+size of the features needed to perform such a task varies with the depth of the network. For
+example, VGG GEN appears to use feature sizes between 32 × 32 and 64 × 64 pixels, as its
+accuracy drop when we pass this threshold (see Figure 10), but further study is needed to
+quantify this size. In a future application, we could extract features from these low-level layers
+to better understand the features needed to perform this task. ",q-bio.NC,A,-0.045808747,0.12820873,0.3098474
+http://arxiv.org/pdf/2205.04235v1,Measuring Cognitive Workload Using Multimodal Sensors,"of multiple sensors usually improves cognitive workload
+
+sensor separately, both the ECG and EDA outperformed (acc          assessment [13], [14]. In our future work, these indicators
+= 0.68) the RESP (acc = 0.60) and SpO2 (acc = 0.56)
+sensors. The performance of the ECG and EDA sensor data            will be tested and validated using other cognitive tasks, more
+was further conﬁrmed after the feature selection process, in
+which the top-10 features were composed only with features         realistic scenarios, and with a larger population. ",q-bio.NC,C,0.097617716,0.3120618,-0.089858085
+http://arxiv.org/pdf/2205.04670v1,Explaining the effectiveness of fear extinction through latent-cause inference,"Both
+accounts for individual diﬀerences are likely in the task we modeled. We leave for future work to examine these
+sources of variability by ﬁtting models to individual animals’ behavior and comparing their predictions. 4.4 | Conclusion
+
+In sum, our work explains the eﬀectiveness, or lack thereof, of diﬀerent behavioral manipulations aimed at reducing
+maladaptive fear responses. ",q-bio.NC,B,-0.1403719,0.18607914,-0.28476465
+http://arxiv.org/pdf/2205.06884v1,Baseline control of optimal performance in recurrent neural networks,"The simplest such possibility would be
+the ability to perform different tasks by gating in and out speciﬁc subpopulations, driving them with negative input. This is a promising new direction for multitasking and we leave it for future work. Evidence for baseline modulations in brain circuits. ",q-bio.NC,A,0.09189154,-0.1031241,-0.1170824
+http://arxiv.org/pdf/2205.07045v1,How can I investigate causal brain networks with iEEG?,"Future human plasticity studies will
+focus on how CCEPs are modulated as a function of stimulation frequency, duration, amplitude,
+and brain state. Mechanistic basis of CCEPs
+
+The neurophysiological mechanisms underlying CCEPs are only partially known and future work
+to further elucidate these mechanisms will improve insights from CCEP studies. Here, we provide
+an overview of what is known about the mechanistic basis of CCEPs. ",q-bio.NC,A,-0.09268476,-0.07500887,-0.1265121
+http://arxiv.org/pdf/2205.08540v1,Bi-Phasic Quasistatic Brain Communication for Fully Untethered Connected Brain Implants,"Inefficient       Inefficient  Inefficient  Inefficient  Inefficient  Efficient   Inefficient  Efficient
+   (pJ/b)        (> 500)          (> 1000)     (> 1000)     (> 10000)     (> 500)      (~50)       (> 500)       (~50)
+
+* Estimated with 1% duty cycling                                                                                 10/20
+picked up by an attacker at a distance of a few cm – a few m. Our previous works42,45 have explored the security properties
+of G-HBC and C-HBC in detail, and compared them with RF to show that EQS HBC techniques exhibit a private space
+which is ~30× better45 than traditional radiative RF, thereby making it harder for a malicious attacker to snoop in. A detailed
+analysis of the security properties of BP-QBC, and comparison with the security of OP, US and ME techniques is out of
+scope of the current article and will be analyzed in a future work. Conclusions
+
+This work, for the first time, analyzes fully-electrical quasistatic signaling for Wireless Communication from a Brain
+Implant, and demonstrates the first BP-QBC link with simultaneous powering and communication. ",q-bio.NC,C,0.1146307,0.03625336,-0.1517798
+http://arxiv.org/pdf/2205.08540v2,Bi-Phasic Quasistatic Brain Communication for Fully Untethered Connected Brain Implants,"Since the EQS signals do not radiate significantly outside the human body, all
+EQS HBC modalities are inherently more secure than RF techniques where the signals leak outside the body and can be
+picked up by an attacker at a distance of a few cm – a few m. Our previous works42,45 have explored the security properties
+of G-HBC and C-HBC in detail, and compared them with RF to show that EQS HBC techniques exhibit a private space
+which is ~30× better45 than traditional radiative RF, thereby making it harder for a malicious attacker to snoop in. A detailed
+analysis of the security properties of BP-QBC, and comparison with the security of OP, US and ME techniques is out of
+scope of the current article and will be analyzed in a future work. Conclusions
+
+This work, for the first time, analyzes fully-electrical quasistatic signaling for Wireless Communication from a Brain
+Implant, and demonstrates the first BP-QBC link with simultaneous powering and communication. ",q-bio.NC,C,0.10547646,0.040795274,-0.15053475
+http://arxiv.org/pdf/2205.10308v1,Intrinsic timescales of spiking activity in humans during wakefulness and sleep,"When
+available, both hemispheres are shown, where plots in the same position belong to simultaneous recordings. Missing values plots indicate that too few spikes were registered, and red annotations show that a recording
+was excluded from further analysis based on one of the exclusion criteria. 21 of 21 ",q-bio.NC,C,0.13929136,0.22016095,-0.12465368
+http://arxiv.org/pdf/2205.13493v1,Mesoscopic modeling of hidden spiking neurons,"This
+is most likely due to the non-identiﬁablity of the generative SNN model when the external stimulus is
+constant. Using Bayesian inference to circumvent the problem of non-identiﬁability (as in [54]) is
+left for future work. 9
+Second, in the case of real data, choosing the good generative SNN model is a nontrivial task. ",q-bio.NC,A,-0.18292063,0.05078332,0.13649093
+http://arxiv.org/pdf/2205.13614v1,Emergent organization of receptive fields in networks of excitatory and inhibitory neurons,"The sensory model explored here is limited; it would be of interest to build on these
+results with more realistic models. For text data, our experiments could in future work be compared
+with clustering-based models derived from fMRI studies of language perception, which have found
+that semantic representation of language is widely distributed (Huth et al., 2016). Finally, we note
+that while algorithms like t-SNE are commonly used to visualize vector representations of ob-
+jects (van der Maaten and Hinton, 2008), the algorithms developed here provide an alternative
+way of interpreting and visualizing any such representation, separate from any motivation from
+neuroscience. ",q-bio.NC,A,-0.16857338,0.10608166,0.18080838
+http://arxiv.org/pdf/2205.14544v1,Temporal support vectors for spiking neuronal networks,"Using the kernel method, this extension can be generalized to neurons with nonlinear
+spatio-temporal kernels allowing for nonlinear interactions between diﬀerent spatial components of the
+input and inputs at diﬀerent times. We leave the investigation of these models and their biological
+interpretation for future work. 17
+We have proposed that the underlying kernel nonlinearities are implemented in biological circuits by the
+nonlinear synaptic integration of dendritic branches. ",q-bio.NC,A,-0.16643763,-0.31927788,0.14893658
+http://arxiv.org/pdf/2205.15421v1,Multilayer adaptive networks in neuronal processing,"Moreover, the study of neuronal circuits using multilayer adaptive networks
+will provide clues and evidence of why the processing of information in the brain is
+more complex and varied than the one observed in artiﬁcial neural networks. 6 Conclusions and future work
+
+Important as is the study of structural and functional connectome networks, it is even
+more important to consider the additional neuromodulatory layers that condition and
+reconﬁgure the connectome. In line with the complex cognitive needs of the brain,
+there is no universal neural coding-decoding scheme but rather diﬀerent layers of
+processes that add capabilities to information processing. ",q-bio.NC,A,-0.1943636,-0.21160755,0.052416105
+http://arxiv.org/pdf/2206.00436v1,Top-down inference in an early visual cortex inspired hierarchical Variational Autoencoder,"The size of the image patch we used limits the complexity of the features learned and therefore
+the added beneﬁt of deeper generative models. In future work we seek to explore opportunities in
+increased patch sizes. We used fully connected MLPs for a better transparency of the model but using
+convolutional layers instead will provide a margin for training the model with larger image patches,
+which will also give an opportunity to explore the response properties in higher visual areas. ",q-bio.NC,B,-0.18225318,0.17122936,0.4760592
+http://arxiv.org/pdf/2206.00649v1,Differentiable programming for functional connectomics,"Model details We thus computed c = 10 parameterised 400 × 400 covariance matrices ACi and
+1 unparameterised (standard or “time-averaged”) 400 × 400 covariance matrix A among the 400
+parcel-wise BOLD time series. (All covariance matrices were normalised to Pearson correlations for
+the purpose of further analysis.) Next, we used the community afﬁliation C to estimate the relaxed
+Girvan-Newman modularity [24] on the unparameterised covariance matrix A as described in the
+main text. ",q-bio.NC,B,0.043444257,0.18409517,-0.022211993
+http://arxiv.org/pdf/2206.01080v1,Longitudinal abnormalities in white matter extracellular free water volume fraction and neuropsychological functioning in patients with traumatic brain injury,"We performed two separate PCAs corresponding to neuropsychological assessments completed
+in the subacute and chronic post-injury period. Each PCA included total z-scores for each of the
+four neuropsychological assessments and the first principal component score was extracted for
+further analysis. Using the first principal component score at each time point as a proxy for overall
+neurocognitive status, we assessed the relationship between neuropsychological functioning and
+SAS using Spearman’s rank correlation. ",q-bio.NC,B,0.0061038043,0.31893364,-0.11336031
+http://arxiv.org/pdf/2206.01338v1,Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators,"The dynamics of those states are governed by
+
+                                                           
+
+           sj,t+1 = η sj,t + (1 − η)  Wjl zl,t + WjImN xm,t+1
+
+                                      l=j  p
+
+           zj,t = ReLU (sj,t),                                   (7)
+
+where η = e−dt/τm denotes the leak factor for simulation time step dt and membrane time constant τm, Wlj denotes
+the weight of the synaptic connection from neuron j to l, WjImN denotes the strength of the connection between the
+mth external input and neuron j and xt denotes the external input at time t. Threshold adaptation is not used here
+in order to focus on capacity of the temporal credit propagation mechanism. We focused on ReLU activation due
+
+to its wide adoption in both deep learning and computational neuroscience communities; as discussed, we leave
+
+extension to other activation functions (spike-based in particular) for future work. The readout y is a linear transformation of the hidden state
+
+                  yk,t = WkOjUTzj,t + bOk UT,                    (8)
+
+                                j
+
+where WkOjUT denotes the strength of the connection from neuron j to output neuron k, bOk UT denotes the bias of
+the k-th output neuron. ",q-bio.NC,A,-0.029353224,-0.31673646,0.20454803
+http://arxiv.org/pdf/2206.01338v2,Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators,"The dynamics of those states are governed by
+
+                                                                                                                                 
+
+                         sj,t+1 = η sj,t + (1 − η)  Wjl zl,t + WjIm N xm,t+1
+
+                                                          l=j                              p
+
+                             zj,t = ReLU (sj,t),                                                                                                                   (S1)
+
+where η = e−dt/τm denotes the leak factor for simulation time step dt and membrane time constant
+τm, Wlj denotes the weight of the synaptic connection from neuron j to l, WjIm N denotes the strength
+of the connection between the mth external input and neuron j and xt denotes the external input at
+time t. Threshold adaptation is not used here in order to focus on capacity of the temporal credit
+
+propagation mechanism. We focused on ReLU activation due to its wide adoption in both deep
+
+learning and computational neuroscience communities; as discussed, we leave extension to other
+
+activation functions (spike-based in particular) for future work. The readout y is a linear transformation of the hidden state
+
+                                               yk,t = WkOjUTzj,t + bOk UT,                                                                                         (S2)
+
+                                                             j
+
+where WkOjUT denotes the strength of the connection from neuron j to output neuron k, bOkUT denotes
+the bias of the k-th output neuron. ",q-bio.NC,A,-0.04033768,-0.31939185,0.21166018
+http://arxiv.org/pdf/2206.01338v3,Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators,"The dynamics of those states are governed by
+
+                                                                                                                                 
+
+                         sj,t+1 = η sj,t + (1 − η)  Wjl zl,t + WjIm N xm,t+1
+
+                                                          l=j                              p
+
+                             zj,t = ReLU (sj,t),                                                                                                                   (S1)
+
+where η = e−dt/τm denotes the leak factor for simulation time step dt and membrane time constant
+τm, Wlj denotes the weight of the synaptic connection from neuron j to l, WjIm N denotes the strength
+of the connection between the mth external input and neuron j and xt denotes the external input at
+time t. Threshold adaptation is not used here in order to focus on capacity of the temporal credit
+
+propagation mechanism. We focused on ReLU activation due to its wide adoption in both deep
+
+learning and computational neuroscience communities; as discussed, we leave extension to other
+
+activation functions (spike-based in particular) for future work. The readout y is a linear transformation of the hidden state
+
+                                               yk,t = WkOjUTzj,t + bOk UT,                                                                                         (S2)
+
+                                                             j
+
+where WkOjUT denotes the strength of the connection from neuron j to output neuron k, bOkUT denotes
+the bias of the k-th output neuron. ",q-bio.NC,A,-0.04033768,-0.31939185,0.21166018
+http://arxiv.org/pdf/2206.02558v1,Binding Dancers Into Attractors,"Overall, the results imply that the model ﬁnds a stable
+
+                                                                   internal attractor state even if the dynamics of the observed
+
+                                                                   data differs from the learned motion (in the case of the
+
+                                                                   unknown walker data). We leave it for further research to
+
+                                                                      2Also taken from the CMU database from subject 12, trial 4 (thai chi) and
+                                                                   subject 5, trial 2 (modern dance). TABLE I: Model hyperparameters for performed experiments. ",q-bio.NC,A,-0.09391263,-0.13140841,-0.075280994
+http://arxiv.org/pdf/2206.03950v1,Transfer learning to decode brain states reflecting the relationship between cognitive tasks,"The organization of the human cerebellum estimated by
+                                                                     intrinsic functional connectivity. Journal of neurophysiol-
+   Limitations and future work: In this study, we used               ogy, 106(5):2322–2345, 2011.
+a transfer learning model based on fully connected layers
+which are relatively simple. The correlations between cogni-      [Cao et al., 2018] Zhangjie Cao, Mingsheng Long, Jianmin
+tive tasks may not be fully explored. ",q-bio.NC,A,-0.13944468,-0.12088036,0.02761436
+http://arxiv.org/pdf/2206.03950v2,Transfer learning to decode brain states reflecting the relationship between cognitive tasks,"Angela Castellanos, Julio C Diaz, and BT Thomas Yeo. The organization of the human cerebellum estimated by
+   Limitations and future work: In this study, we used               intrinsic functional connectivity. Journal of neurophysiol-
+a transfer learning model based on fully connected layers            ogy, 106(5):2322–2345, 2011.
+which are relatively simple. ",q-bio.NC,A,-0.16309035,-0.16643089,0.055051617
+http://arxiv.org/pdf/2206.03950v3,Transfer learning to decode brain states reflecting the relationship between cognitive tasks,"The distributed nature of the working
+memory cognitive task leads to a hard problem to decode perfectly. Limitations and future work: In this study, we used a transfer learning
+model based on fully connected layers which are relatively simple. The corre-
+lations between cognitive tasks may not be fully explored. ",q-bio.NC,A,-0.1796395,-0.11478096,0.030076683
+http://arxiv.org/pdf/2206.04603v1,In search for an alternative to the computer metaphor of the mind and brain,"In this context, the words “biology” and “biological” do not so much refer to
+the various details of the neural systems that underly cognitive processes or even
+the human body, but to the wider biological domain in which cognitive phenomena
+have evolved exist in a wide variety. In this case, the question of what nervous
+systems are and how they operate become open issues in need of further research
+and conceptual work. A good example of what such a program could look like at a wide conceptual
+level is provided by Godfrey-Smith’s recent work on the constitution and evolution
+of animal minds and experience (2020, 2016a, 2016b). ",q-bio.NC,A,-0.24954754,-0.08231003,-0.19515677
+http://arxiv.org/pdf/2206.06096v1,An Enactivist-Inspired Mathematical Model of Cognition,"Does the notion of suﬃcient labelings capture the same ideas in a more general
+way? This is an open question for further research. A generalization of suﬃciency is n-suﬃciency, in which the data of n previous steps is needed
+to determine the next label. ",q-bio.NC,B,-0.09521148,0.1658909,-0.13310933
+http://arxiv.org/pdf/2206.06131v2,Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers,"In our experiments on both synthetic many-
+body systems and real-world neural systems, we demonstrated that our model not only provides
+state-of-the-art decoding performance, but also leads to impressive domain generalization thanks to
+its permutation-invariant design. While our model provides a novel strategy for decomposing complex dynamics, we note that there
+are also limitations and areas for future work:
+
+        • The downsides of building individual embeddings: Training an individual module at the
+           beginning not only requires prior knowledge about the separation of the system [30], but also
+           might restrict the model’s representational capacity (also discussed in [67]) due to the limited
+           size of the ﬁnal representation space. One possible solution to both challenges is to stack
+           multiple individual-interaction modules [23], which would sacriﬁce the spatial/individual
+           separability of the individual module. ",q-bio.NC,A,-0.28092715,-0.2161088,0.047672328
+http://arxiv.org/pdf/2206.10700v1,Longitudinal Prognosis of Parkinsons Outcomes using Causal Connectivity,"Additional metrics are shown in Supplemental Section 10.5. 4.4 Augmentation sensitivity analysis
+
+         After finding significant benefit to including augmentation in the training of models in Experiments
+1-3, we additionally embarked on further analysis of the augmentation benefits with sensitivity studies. Further description and results of these experiments are described in Supplemental Section 10.6 This
+supplementary study indicated several findings: We also found the largest benefit from augmentation to
+be between the factors of 1-3, or 2-4x the original dataset size. ",q-bio.NC,B,-0.04725511,0.3829828,0.061309792
+http://arxiv.org/pdf/2206.11224v1,Deep reinforcement learning for fMRI prediction of Autism Spectrum Disorder,"We suspect that a wholly custom-built architecture designed for data
+eﬃciency would allow DRL to classify with higher accuracy. In future work, we plan to apply DRL to fMRI data sets of brain cancer
+patients, both primary glioma/glioblastoma and metastatic brain disease. Conclusion
+
+We have shown that DRL outperforms SDL for predicting ASD based on small
+fMRI training sets. ",q-bio.NC,A,-0.15550616,0.2157576,0.3539672
+http://arxiv.org/pdf/2206.11233v1,Automatic Autism Spectrum Disorder Detection Using Artificial Intelligence Methods with MRI Neuroimaging: A Review,"[13] Shoeibi, A., Ghassemi, N., Khodatars, M., Jafari, M., Moridian, P., Alizadehsani, R., ... & Nahavandi, S. (2021). Applications of epileptic seizures detection in neuroimaging modalities using deep learning techniques: methods,
+challenges, and future works. arXiv preprint arXiv:2105.14278. ",q-bio.NC,C,0.072796196,0.0881664,0.59166557
+http://arxiv.org/pdf/2206.11233v2,Automatic Autism Spectrum Disorder Detection Using Artificial Intelligence Methods with MRI Neuroimaging: A Review,"[13] Shoeibi, A., Ghassemi, N., Khodatars, M., Jafari, M., Moridian, P., Alizadehsani, R., ... & Nahavandi, S. (2021). Applications of epileptic seizures detection in neuroimaging modalities using deep learning techniques: methods,
+challenges, and future works. arXiv preprint arXiv:2105.14278. ",q-bio.NC,C,0.072796196,0.0881664,0.59166557
+http://arxiv.org/pdf/2206.11233v3,Automatic autism spectrum disorder detection using artificial intelligence methods with MRI neuroimaging: A review,"[13] Shoeibi, A., Ghassemi, N., Khodatars, M., Jafari, M., Moridian, P., Alizadehsani, R., ... & Nahavandi, S. (2021). Applications of epileptic seizures detection in neuroimaging modalities using deep learning techniques: methods,
+challenges, and future works. arXiv preprint arXiv:2105.14278. ",q-bio.NC,C,0.072796196,0.0881664,0.59166557
+http://arxiv.org/pdf/2206.11417v1,Self-Supervised Learning Of Brain Dynamics From Broad Neuroimaging Data,"First empirical evidence indicates that attribution methods from
+explainable artiﬁcial intelligence [XAI; 33] research are well-suited to provide insights in the mental
+state decoding decisions of DL models [34, 35]. Yet, further research is needed to better understand
+the limits of these types of attribution methods in mental state decoding. References
+
+ [1] J.-D. Haynes and G. Rees, “Decoding mental states from brain activity in humans,” Nature
+      Reviews Neuroscience, vol. ",q-bio.NC,A,-0.20051551,0.10904667,-0.18063286
+http://arxiv.org/pdf/2206.11769v1,Single-phase deep learning in cortico-cortical networks,"There is evidence that these interneurons receive STF top-down
+
+                                                           9
+connections whereas top-down projections onto pyramidal cells exhibit STD dynamics as required by
+our model [12–17]. In future work, it would be interesting to model the speciﬁc neuron types for
+each connection to satisfy Dale’s law and further increase biological plausibility. A prediction from our model is that manipulations of these interneurons with STF connections would
+lead to disruptions in burst decoding from the layer (brain area) above thereby obstructing learning
+in the brain area below. ",q-bio.NC,A,-0.012788866,-0.30377007,0.1531094
+http://arxiv.org/pdf/2206.11769v2,Single-phase deep learning in cortico-cortical networks,"There is evidence that these interneurons receive STF top-down
+connections whereas top-down projections onto pyramidal cells exhibit STD dynamics as required by
+our model [12–17]. In future work, it would be interesting to model the speciﬁc neuron types for
+each connection to satisfy Dale’s law and further increase biological plausibility. A prediction from our model is that manipulations of interneurons with STF connections would lead
+to disruptions in burst decoding from the layer (brain area) above thereby obstructing learning in the
+brain area below. ",q-bio.NC,A,-0.011768042,-0.31501192,0.15247197
+http://arxiv.org/pdf/2206.12997v1,Personalized rTMS for Depression: A Review,"In the end, treatment options that are effective, fast,
+user-friendly, and inexpensive will be most desirable for clinics and patients. 12
+To help guide further research investigation of the many modifiable stimulation parameters (Fig
+1), we provide some general recommendations after reviewing the literature for clinicians
+interested in more personalized TMS treatment for depression. Consider these points in designing
+your protocols:
+
+● Figure-of-eight shaped coils provide a good depth / focality tradeoff out of coils currently
+    available. ",q-bio.NC,C,-0.00863261,0.116207354,-0.14645544
+http://arxiv.org/pdf/2206.14942v1,Multi-band oscillations emerge from a simple spiking network,"The
+of model reductions, the complex MFE dynamics were cap-           central role of the membrane potential distribution points out
+tured by the neuronal potential proﬁles on the time sections of   the possibility of maintaining and manipulating these multi-
+MFE initiations, which were further computed from a series of     frequencied, synchronizing populations, which we hope to in-
+Monte Carlo simulations of transient network dynamics. The        vestigate more fully in ongoing and future work. Poincaré sectional theory revealed the crucial role of the deli-
+cate E-I competition in MFE bifurcations, leading to multiple
+frequency bands in network oscillations. ",q-bio.NC,A,-0.002756956,-0.44525784,-0.05271911
+http://arxiv.org/pdf/2206.15158v1,Global dynamics of neural mass models,"To distinguish between the two proposals; bifurcations or semi-stable state
+transitions, the statistics of transitions among states may need to be further explored. It is
+through tools such as the invertible, reduced models presented here that future work will be
+able to specifically address these questions empirically; i.e., through the (Bayesian) model
+comparison of models with and without changes in connectivity. In summary, we have introduced the theoretical backdrop for a model of cortical multi-
+stability and itinerancy that could be used to infer the underlying synaptic connectivity from
+statistical descriptions of transient dynamic features. ",q-bio.NC,A,0.027008906,-0.29664773,-0.015320643
+http://arxiv.org/pdf/2206.15158v2,Global dynamics of neural mass models,"To distinguish between the two proposals; bifurcations or semi-stable state
+transitions, the statistics of transitions among states may need to be further explored. It is
+through tools such as the invertible, reduced models presented here that future work will be
+able to specifically address these questions empirically; i.e., through the (Bayesian) model
+comparison of models with and without changes in connectivity. In summary, we have introduced the theoretical backdrop for a model of cortical multi-
+stability and itinerancy that could be used to infer the underlying synaptic connectivity from
+statistical descriptions of transient dynamic features. ",q-bio.NC,A,0.027008958,-0.29664767,-0.015320594
+http://arxiv.org/pdf/2206.15283v1,A library of quantitative markers of seizure severity,"Our library therefore contributes to ongoing eﬀorts in char-
+acterising seizures over time, seizure prediction, neuro-modulation, and generally designing novel,
+personalised treatment plans that mitigate seizure severity and occurrence. Limitations and future work: First, the patients included in this study are presurgical can-
+
+                                                             18
+didates with refractory focal epilepsy; therefore, our results may not generalise to all epilepsy
+syndromes. The use of iEEG allows for good signal quality but does not capture activity beyond
+a small region of the brain, making our methods less suitable for analysing generalised seizures. ",q-bio.NC,C,0.17810892,0.12820739,0.19071496
+http://arxiv.org/pdf/2207.02457v1,Brain-inspired probabilistic generative model for double articulation analysis of spoken language,"This study compared, mapped,             the regional partitioning of the auditory cortex in non-human
+                                          and integrated these existing computational models with neuro-          primates [5]. However, where and how DAA is performed
+                                          scientiﬁc ﬁndings to bridge this gap, and the ﬁndings are relevant      in the human brain has not been established, although some
+                                          for future applications and further research. This study proposes       insights into this process have been obtained [6]. ",q-bio.NC,A,-0.092847764,-0.00036050938,0.016427564
+http://arxiv.org/pdf/2207.02833v1,Mesoscopic Collective Activity in Excitatory Neural Fields: Cross-frequency Coupling,"The
+published literature on the topic is vast, and it is hard to do justice to all relevant contributions
+in the space of this introduction. Jensen and Colgin [2007] hypothesize that “given that this
+coupling re lects a speci ic interplay between large ensembles of neurons1, (cross‑frequency
+coupling) it is likely to have profound implications for neuronal processing”, a suggestion sup‑
+ported by further research, which indicates it may play a role in the formation of short‑term
+memories [Colgin et al., 2009, Lisman and Jensen, 2013, Pernı́a‑Andrade and Jonas, 2014,
+Lega et al., 2014, Bergmann and Born, 2018]. Theta‑gamma coupling is often understood as a consequence of mechanisms for gamma gen‑
+eration. ",q-bio.NC,A,0.021386392,-0.20141475,-0.021982186
+http://arxiv.org/pdf/2207.03569v1,Enhanced brain structure-function tethering in transmodal cortex revealed by high-frequency eigenmodes,"Meanwhile, the growth curve of
+transmodal areas is steeper than that of unimodal areas, suggesting that high-frequency
+patterns have a propensity to explain neuronal coactivation in transmodal cortex. These
+results provide fundamental references for future work on distilling information from
+high-frequency eigenmodes to adequately capture the structure-function relationship. Since high-frequency eigenmodes are usually on the periphery of attention in structure-
+function prediction due to their association with noisy and random patterns, there may be
+some concerns about the reliability of the information they provide. ",q-bio.NC,A,-0.030557986,-0.16749932,0.12192122
+http://arxiv.org/pdf/2207.04832v1,Mixed vine copula flows for flexible modelling of neural dependencies,"We therefore included an additional rounding operation for discrete margins that were generated by trained
+NSF. This issue with discrete margins could be addressed in future work that can improve upon the framework by
+incorporating normalizing ﬂow models that are more naturally suited to handle discrete or mixed data and do not need
+the ad hoc modiﬁcations that were employed in the present project. SurVAE ﬂows that were developed recently [52]
+as an attempt to unify variational autoencoders and normalizing ﬂows might potentially be better suited for discrete
+data as the kind of surjective transformations may better account for discontinuities in discrete cumulative distribution
+functions. ",q-bio.NC,B,-0.10335681,0.20226166,0.30859613
+http://arxiv.org/pdf/2207.06003v1,Bridging the information and dynamics attributes of neural activities,"Then we can use the maximum likelihood       population with non-homogeneous Poisson processes. A
+estimation to construct the observed non-homogeneous         beneﬁcial property for further analysis is that any Pois-
+Poisson process of the neural activities of Nj, where the    son process is a kind of continuous Markov chain. There-
+                                                             fore, we reformulate neural activities in the form of the
+observed time-varying intensity function λj (t) is given as  Markov chain. ",q-bio.NC,A,0.047121987,-0.16363952,-0.04447229
+http://arxiv.org/pdf/2207.07504v1,Non-separability of Physical Systems as a Foundation of Consciousness,"Thus, we may suggest that entropy-based measures like the entanglement entropy, especially
+when computed using the Wigner function or its classical equivalent the Liouville density
+function, can be useful in characterizing the amount of consciousness in a physical system. Proposals of specific formulas and characterization of their properties will require substantial
+future work, as the measures of entanglement discussed above are typically very difficult (NP-
+hard) to compute. It will also be interesting to consider how such measures may relate to the computation of the
+Integrated Information Phi in the IIT [5,6,41–47], which is notoriously difficult to compute as
+well. ",q-bio.NC,A,-0.015299936,-0.05349976,-0.18732892
+http://arxiv.org/pdf/2207.08456v1,Reliability and validity of TMS-EEG biomarkers,"We hope that by adopting the recommended approach outlined below, this
+trajectory can be modified to produce tools with high reliability and validity. To help guide further research into the reliability and validity of novel and established
+neuroimaging techniques, we provide some general recommendations:
+
+● Although reliability and validity are related, a biomarker can have high reliability but low
+   validity or high validity but low reliability (Figure 1). We suggest that careful consideration of
+   both are necessary before implementing a biomarker to make diagnostic or treatment
+   decisions. ",q-bio.NC,A,0.04135436,0.1822218,0.05522023
+http://arxiv.org/pdf/2207.09047v1,"Lateral predictive coding revisited: Internal model, symmetry breaking, and response time","The simple
+               V. CONCLUDING REMARKS                                                                                                                                                                                                                                                                                                                                                                                                                   noise-free response dynamics (1) then will be replaced by
+                                                                                                                                                                                                                                                                                                                                                                                                                                                       the more complicated and stochastic integrate-and-ﬁre
+   We studied lateral feedback interactions in a simple                                                                                                                                                                                                                                                                                                                                                                                                dynamics of spiking neurons. Much future work is needed
+model of neural response dynamics (1) from the per-                                                                                                                                                                                                                                                                                                                                                                                                    to understand the eﬀect of lateral feedback interactions
+spective of predictive coding. Lateral interactions be-                                                                                                                                                                                                                                                                                                                                                                                                in predictive coding neural networks and the competition
+tween two neurons were implemented through the synap-                                                                                                                                                                                                                                                                                                                                                                                                  and cooperation between lateral and top-down feedback
+tic weights wij of the linear response function (2). ",q-bio.NC,A,-0.16279978,-0.36804974,-0.026275873
+http://arxiv.org/pdf/2207.09903v1,Neuronal growth on high-aspect-ratio diamond nanopillar arrays for biosensing applications,"We could not
+explore the role of the functionalization layer (poly-l-lysine and laminin) on the NV coherence
+properties, due to the uniform distribution of NV centers in the diamond volume. This aspect will
+be relevant when working with shallow NV layers and should be investigated in future works. Diﬀerent geometries rather than cylindrical pillars can be explored in order to increase the light
+collection eﬃciency and to promote neuronal growth and adhesion to the nanostructures. ",q-bio.NC,A,-0.15391718,-0.09196831,0.07882974
+http://arxiv.org/pdf/2207.09903v2,Neuronal growth on high-aspect-ratio diamond nanopillar arrays for biosensing applications,"b) Excitatory post synaptic potentials (EPSPs) produced at -65 mV membrane potential
+by spontaneous synaptic activation. In the inset a single ESPS peak is ﬁt giving a time decay
+constant τ ∼ 25 ms.
+
+                                                               12
+when working with shallow NV layers and should be systematically investigated in future works. Diﬀerent geometries rather than cylindrical pillars can be explored in order to increase the light
+collection eﬃciency and to promote neuronal growth and adhesion to the nanostructures. ",q-bio.NC,A,-0.043973174,-0.23762958,0.09093326
+http://arxiv.org/pdf/2207.10861v1,"Mechanics of Morphogenesis in Neural Development: in vivo, in vitro, and in silico","Moreover, no two brain organoids are identical due to variable growth factors, and new
+techniques should be created to reduce these variations for growing more similar brain organoids
+and making such research results more reproducible. 4.3 Validation, limitations, and future work
+   Morphogenesis events are the combination of mechanical and chemical rules[88] at different
+
+length scales; i.e., they have multiscale multiphysics processes controlling final biological
+structures and behaviors (Fig. 7). ",q-bio.NC,A,-0.18784314,0.0051009944,-0.066632524
+http://arxiv.org/pdf/2207.14470v1,Significant changes in EEG neural oscillations during different phases of three-dimensional multiple object tracking task (3D-MOT) imply different roles for attention and working memory,"The rational behind this discrete scoring of conﬁdence was to clearly dissociate between a random
+guess and a fully conﬁdent answer (0% vs 100%). For the in-between, we decided to avoid having
+only one additional option as we felt like most participants might default to that option whether
+they are quite conﬁdent but do have a small doubt or if they are mostly guessing it, making this
+option hard to use for further analysis. Adding more granularity than four options for the conﬁdence
+level would have only added a cognitive load with no additional beneﬁt. ",q-bio.NC,B,-0.09025201,0.36272424,-0.2828334
+http://arxiv.org/pdf/2208.00352v1,Neural Correlates of Face Familiarity Perception,"Subjects underwent a behavioral task after the scan where they labeled the degree of familiarity they
+had with the various faces (scale 1 to 5, 1 being certain they do not know them and 5 being they can name
+the celebrity and their occupation). Subjects who failed to provide a familiarity score of 4 or higher to at least
+35 of the familiar faces, or who failed to provide a familiarity score of 2 or lower to at least 35 of the
+unfamiliar faces were removed from further analysis. The familiar and unfamiliar object image classes each
+had 40 distinct images (one image of each object). ",q-bio.NC,B,-0.14684686,0.51168096,-0.043509275
+http://arxiv.org/pdf/2208.03352v1,Functional architecture of M1 cells encoding movement direction,"Images from [16]. 4 Conclusions and future work
+
+Our model proposes a geometric setting to explain the neural behaviour of the motor
+arm area M1. By getting inspiration from Georgopoulos neural models [31, 29], we pro-
+vided a ﬁber bundle structure which is able to describe the hypercolumnar organization
+of the cortical area. ",q-bio.NC,A,-0.13104518,-0.17866416,-0.033661492
+http://arxiv.org/pdf/2208.03726v1,Quantum Structure in Human Perception,"Although we would
+like to add at the outset that this is, as far as we know, a ﬁrst attempt to frame the cause of the presence of
+quantum structures in human cognition within the nature of human perception itself, so we are well aware of
+the ‘still to further investigate’ character of the connections we will be pointing out. We do so, therefore, in all
+modesty, with the main intention of inviting and stimulating further research along these lines. We already mentioned how the research in Aerts Argu¨elles (2018) was inspired by earlier research about the
+guppy eﬀect in concept theory in which one of the authors was directly involved (Gabora & Aerts, 2002; Aerts
+& Gabora, 2005a,b; Aerts et al., 2012). ",q-bio.NC,B,-0.09871559,0.13226631,-0.24200332
+http://arxiv.org/pdf/2208.03726v2,Human Perception as a Phenomenon of Quantization,"We return to this brieﬂy
+in Section 4 when we mention the SCoP model for concepts. It would lead us too far away from the subject
+of this article to elaborate on it now, but it is something we do plan for future work. Now, before continuing our analysis of this measurement model, let us come to that general statement
+about the scientiﬁc status of quantum cognition, as we promised. ",q-bio.NC,A,-0.024271626,0.055859007,-0.33300614
+http://arxiv.org/pdf/2208.04790v1,A functional connectivity atlas of $\textit{C. elegans}$ measured by neural activation,"S3). Inclusion criteria
+Stimulation events were included for further analysis if they evoked a detectable calcium response in the stimulated neuron. A classiﬁer determined whether the response was detected by inspecting whether the amplitude of the ∆F/F0 transient and
+its second derivative exceeded hand-tuned thresholds. ",q-bio.NC,C,0.14575419,0.028115993,-0.22803861
+http://arxiv.org/pdf/2208.04790v2,Neural signal propagation atlas of $\textit{C. elegans}$,"S3). Inclusion criteria Stimulation events were included for further analysis if they evoked a detectable calcium response in the
+stimulated neuron. A classiﬁer determined whether the response was detected by inspecting whether the amplitude of the
+∆F/F0 transient and its second derivative exceeded hand-tuned thresholds. ",q-bio.NC,C,0.14575419,0.028115993,-0.22803861
+http://arxiv.org/pdf/2208.04841v1,"Validity of Web-based, Self-directed, NeuroCognitive Performance Test in MCI","We did not measure
+biomarkers and hence cannot determine the cause of MCI. While the feasibility was high among MCI subjects,
+our study included a trouble-shooting monitor – hence, further study is needed to confirm if the feasibility in
+unsupervised home settings is equally high. In summary, our analysis finds that the NCPT, a web-based, self-directed, computerized test, shows high
+concurrent validity with established tests and hence offers promise for use as a research or clinical tool in MCI. ",q-bio.NC,B,0.0019170996,0.32133186,-0.061801765
+http://arxiv.org/pdf/2208.07455v1,A Geometric Framework for Odor Representation,"Based on the construction above, we can take C∞(R) to be a rough approx-
+imation of G as a sheaf. We cannot conclude that they are precisely equal, as this would
+require further analysis that is not presented here. Remark 1.10. ",q-bio.NC,B,-0.094912685,0.2472626,-0.0010899529
+http://arxiv.org/pdf/2208.08478v1,"""Task-relevant autoencoding"" enhances machine learning for human neuroscience","We assessed these metrics as a function of
+different bottleneck dimensionalities (i.e., compression levels), first on the MNIST and Fashion
+MNIST datasets under increasing data sparsity and then on a previously-collected fMRI dataset
+of ventral temporal cortex (VTC) (i.e.,voxel activations while 59 human subjects viewed 40
+classes of animals and objects). We also performed additional investigation at each dataset’s
+‘optimal’ bottleneck dimensionality (where reconstruction class specificity is maximized) to
+characterize each model’s behavior. 3
+2.1 Benchmarking TRACE’s advantages, including under increasing data
+sparsity
+
+Figure 2. ",q-bio.NC,A,-0.1020214,0.14917475,0.14531624
+http://arxiv.org/pdf/2208.09648v1,Research on Creative Thinking Mode Based on Category Theory,"Reviewing the historical development of rational thinking, it’s obviously that the transcendence
+of brain thinking, beyond the world of experience, and even beyond human intuition, which guided
+scientists to establish various scientific theories. 3.2 Category Theory and Natural Transformations
+
+      In order to study the structural characteristics of brain thinking, it is necessary to further study
+the structural characteristics of scientific theories, that is, to categorize and axiomize scientific
+theories. In this way, from the perspective of categorization, the isomorphic characteristics of
+theoretical models of different disciplines and the categorization characteristics of brain thinking
+can be shown. ",q-bio.NC,A,-0.10378705,0.1251145,-0.28614914
+http://arxiv.org/pdf/2208.10575v1,Laminar model for the joint development of ocular dominance columns and CO blobs in V1,"In particular, one cannot model monocular deprivation simply as a change
+       in input correlations to a single layer network. We hope in future work to extend
+       our laminar network model to analyze development during the critical period, and
+       to understand the delayed occurrence of plasticity in layer 4 during monocular
+       deprivation by considering the role of feedback from layer 2/3 to layer 4. Finally, note
+       that the principles outlined in this paper could be extended to include orientation
+       selectivity and spatial frequency in the visual system, and could also be employed
+       to study the development of laminar structures in other cortical areas. ",q-bio.NC,A,-0.09797278,-0.18437542,0.0585749
+http://arxiv.org/pdf/2208.11411v1,Spectrum of non-Hermitian deep-Hebbian neural networks,"The
+non-normal property also causes the transient ampliﬁcation, especially when the network
+setting falls within the critical regime. Thus, it is also very interesting in future works to
+show how these characteristics are modiﬁed when more biological constrains are considered,
+such as cell types, sparseness, and excitation-inhibition balance. Acknowledgments
+
+   This research was supported by the National Natural Science Foundation of China for
+Grant number 12122515 (H.H.). ",q-bio.NC,A,-0.005403162,-0.2444715,-0.07593067
+http://arxiv.org/pdf/2208.11631v1,A structurally informed model for modulating functional connectivity,"This method
+is limited in that a) names and Florida Voter Data to make the predictions may not be indicative
+of racial/ethnic identity, and b) it cannot account for Indigenous and mixed-race authors, or those
+who may face diﬀerential biases due to the ambiguous racialization or ethnicization of their names. We look forward to future work that could help us to better understand how to support equitable
+practices in science. 21
+References
+
+  [1] Khalid Saad Al-Harbi. ",q-bio.NC,B,-0.19386223,0.4445334,-0.20878975
+http://arxiv.org/pdf/2208.11700v1,Low-Level Physiological Implications of End-to-End Learning of Speech Recognition,"It remains as a hypothesis for the neuroscience
+However, it is well known that the cochlea contains a rectiﬁer       community. Our own future work will focus on more biologi-
+function [31], implying that ReLU is the right physiologically       cally plausible architectures. This experimental study indicates
+plausible solution. ",q-bio.NC,A,-0.19966309,-0.098026305,-0.057430357
+http://arxiv.org/pdf/2208.12231v1,Controlling collective dynamical states of mesoscale brain networks with local perturbations,"On the one hand, the
+relative simplicity of the WC model permitted a thorough mapping of networks’ baseline dynamics in the
+presence of stochastic background inputs, as well as in-depth analyses of functional state manipulation at
+a variety of working points, for diﬀerent networks, and for diﬀerent perturbations. Moreover, it may even
+be possible to make some analytical progress in the context of this model in future work. On the other
+hand, though, only more biologically detailed models allow for (i) linking microscopic, spiking-level neuronal
+activity to population-level phase-locking [13] and collective state control [15], and (ii) an understanding of
+how macroscopic functional states relate to interareal communication and information ﬂow at the level of
+individual spike patterns [12]. ",q-bio.NC,A_centroid,0.0447919,-0.45985293,-0.040013447
+http://arxiv.org/pdf/2208.13213v1,The Role of Valence and Meta-awareness in Mirror Self-recognition Using Hierarchical Active Inference,"By expanding the model in future research one can potentially address open questions
+such as mirror avoidance and modelling mirrors in therapy [9]. Airing on the side of caution, even
+if the proposed computational model here does not simulate self-awareness, it can be used to pose
+interesting questions about action dependent aﬀect in mirror self-recognition for future work. For
+example what are the actions available to an infant recognizing itself in the mirror? ",q-bio.NC,B,-0.29465625,0.11933114,-0.14662203
+http://arxiv.org/pdf/2208.13675v1,"Juggling too many balls at once: Qualitatively different effects when measuring priming and masking in single, dual, and triple tasks","Additionally, participants had a
+we wanted a conservative estimate of the triple-       brief description of the rating categories on the
+task disadvantage we expected. The first block         instruction sheet (Table 1; our German
+of each session was practice and not considered        translation of the original PAS, Ramsøy &
+for further analysis. Stimulus sequences were          Overgaard, 2004). ",q-bio.NC,B,-0.06514668,0.36057642,-0.28685242
+http://arxiv.org/pdf/2208.13675v2,"Juggling too many balls at once: Qualitatively different effects when measuring priming and masking in single, dual, and triple tasks","on the more challenging triple task; and because       The scale categories were ""1: kein Erlebnis"" (no
+we wanted a conservative estimate of the triple-       experience), ""2: flüchtiger Eindruck"" (brief
+task disadvantage we expected. The first block         glimpse), ""3: nahezu klares Erlebnis"" (almost clear
+of each session was practice and not considered        experience), and ""4: klares Erlebnis"" (clear
+for further analysis. Stimulus sequences were          experience)"". ",q-bio.NC,B,0.0061443495,0.31122333,-0.14117882

@@ -1,0 +1,1032 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00184v1,Secure Information Flow Typing in LUSTRE,"The motivations and discussions have been expanded, and fortiﬁed with worked-out examples. Additional formalisation and proof details have been added, as well as directions for future work. 2. ",cs.PL,C,-0.07041561,-0.050924215,0.0054751714
+http://arxiv.org/pdf/2201.00495v1,"let (rec) insertion without Effects, Lights or Magic","MetaOCaml Implementation
+
+Formal semantics is not the end, but the means; it is developed to be used. One application,
+the subject of future work, is reasoning about generating programs and making sure the
+generated code is not only well-formed and well-typed but also intended. Another application,
+the subject of the present paper, is to clarify edge cases, and attempt to minimize them once
+exposed. ",cs.PL,B,0.09129149,0.13328964,-0.319995
+http://arxiv.org/pdf/2201.03473v1,"Macroprogramming: Concepts, State of the Art, and Opportunities of Macroscopic Behaviour Modelling","More
+ motivation is given by the urge of the following research questions. Research goals and questions
+
+ The goal of this article is to explore the literature on macroprogramming in breadth, synthe-
+ sise the major contributions, and provide a basis for further research. The focus is on the
+ programming perspective, rather than e.g. ",cs.PL,B,-0.23115954,-0.15122715,-0.27109703
+http://arxiv.org/pdf/2201.03641v1,A Compositional Proof Framework for FRETish Requirements,"In [15], the equivalence between Fret generated future-
+                                                                   time and past-time formulas is checked on finite traces of
+                                                                   specified length. As future work, the authors plan to prove
+A Compositional Proof Framework for FRETish Requirements                                                  CPP ’22, January 17–18, 2022, Philadelphia, PA, USA
+
+the correctness of the algorithm also for future-time formu-                    [11] A. W. Fifarek, L. G. Wagner, J. A. Hoffman, B. D. Rodes, M. A. Aiello, and
+las over traces of arbitrary length. ",cs.PL,C,0.10170268,0.09244807,0.1374842
+http://arxiv.org/pdf/2201.04804v1,"MCAD: Beyond Basic-Block Throughput Estimation Through Differential, Instruction-Level Tracing","measure cycle counts directly using the facilities provided by
+                                                                       the device [3, 19]. While in theory this yields the most precise
+   Looking ahead to future work we anticipate that research            results and should also be reasonably fast, in practice this
+into analysis of multi-process executions should be feasible           is often not the case: the target architecture might be a pro-
+within MCAD in principle. As introduced in Section 3 we                duction system that is not readily available to the developer
+collect execution traces using QEMU and a custom plugin                running the test and in a collaborative environment each team
+and certain recently-added QEMU plugin interfaces would al-            would require their own physical device to test their changes
+low us to distinguish traces originating from different virtual        against. ",cs.PL,B,-0.40221858,0.3562585,0.11044553
+http://arxiv.org/pdf/2201.04919v1,Translation Certification for Smart Contracts,"This is diﬀerent for Step (4), where
+16  Krijnen et al. we anticipate the need for further research work. This includes more composi-
+tional deﬁnitions of the translation relations, such that we can generate at least
+part of the decision procedures (semi-)automatically. ",cs.PL,C,0.17748713,-0.24188423,0.13772883
+http://arxiv.org/pdf/2201.04919v2,Translation Certification for Smart Contracts,"The ﬁrst three steps pose a signiﬁcant amount of work, but we do not expect
+major new conceptual questions or obstacles. This is diﬀerent for Step (4), where
+we anticipate the need for further research work. This includes more composi-
+tional deﬁnitions of the translation relations, such that we can generate at least
+part of the decision procedures (semi-)automatically. ",cs.PL,C,0.05912044,-0.26917207,0.10592968
+http://arxiv.org/pdf/2201.05860v1,View-Based Owicki-Gries Reasoning for Persistent x86-TSO (Extended Version),"However, our
+assertions are ﬁne-tuned to cope with the other types of view present in Px86view,
+such as those corresponding to the persistent and the asynchronous views. It is
+interesting that some of the principles of view-based reasoning apply to diﬀerent
+memory models, and future work could look at unifying reasoning across models. Dalvandi et al. ",cs.PL,C,-0.030253602,0.018360738,0.05395412
+http://arxiv.org/pdf/2201.06753v1,BINGO: Pinpointing Concurrency Bugs in Go via Binary,"IEEE Transactions on Software Engineering,
+acceptance. As our future work, we will extend BINGO to                   40(3):266–281, 2014.
+detect non-blocking bugs in Go applications, such as data
+races. Moreover, we will explore the techniques to feed the         [23] Trevor E. Carlson, Wim Heirman, and Lieven Eeckhout. ",cs.PL,B,-0.23666386,0.21987058,-0.025995571
+http://arxiv.org/pdf/2201.06753v2,BinGo: Pinpointing Concurrency Bugs in Go via Binary Analysis,"IEEE Transactions on Software Engineering,
+acceptance. As our future work, we will extend BINGO to                   40(3):266–281, 2014.
+detect non-blocking bugs in Go applications, such as data
+races. Moreover, we will explore the techniques to feed the         [23] Trevor E. Carlson, Wim Heirman, and Lieven Eeckhout. ",cs.PL,B,-0.23666386,0.21987058,-0.025995571
+http://arxiv.org/pdf/2201.09268v1,Two-level Just-in-Time Compilation with One Interpreter and One Engine,"JIT compilation has enough potential to work as a startup
+compilation if we carefully adjust the threshold to enter a                  The Jikes Java Research VM (originally called Jalapeño) [1],
+baseline JIT compilation. This is left as future work. which was developed by IBM Research, is a research-oriented
+                                                                          VM that is written in Java. ",cs.PL,B,-0.34644818,-0.0016625542,-0.27732933
+http://arxiv.org/pdf/2201.09448v1,Cobol2Vec: Learning Representations of Cobol code,"We designed an in house dataset and demonstrated that our hypothesis of treating code as a sequence of
+tokens rather than a bag of root to leaf paths is a valid one and showed that we can discover structure and retrieve
+closely related samples with our neural network. This direction of research opens up interesting avenues for future work. First, it presents an opportunity to build deep
+neural networks for learning a representation of old mainframe languages with a hugely different syntax than modern
+langauges. ",cs.PL,B,-0.09781957,-0.43696803,-0.20957154
+http://arxiv.org/pdf/2201.10213v1,Probabilistic Total Store Ordering,"However, we
+emphasize that our results carry-over to policies satisfying faithfulness and left-
+orientedness, which are fairly weak conditions. Hence we believe that developing
+more reﬁned models that better capture behaviours of TSO implementations,
+using techniques such as parameter estimation, is interesting future work. General Cost Models Similar can be said for cost models: our algorithm works
+for all cost functions such that the cost of a path is exponentially bounded by
+its length. ",cs.PL,C,-0.06949548,-0.023564976,0.2966009
+http://arxiv.org/pdf/2201.10485v1,"Concurrent NetKAT: Modeling and analyzing stateful, concurrent networks","It is worth investigating whether
+CNetKAT also supports other weak memory models, such as linearizability. Another exciting direction for future work is the development of a library of
+litmus tests for networking in the spirit of [1]. Litmus tests are carefully crafted
+concurrent programs operating on shared memory locations that expose subtle
+bugs in memory models of hardware. ",cs.PL,B,-0.36450076,0.21378472,-0.06934623
+http://arxiv.org/pdf/2201.10485v2,"Concurrent NetKAT: Modeling and analyzing stateful, concurrent networks","To accommodate this in the
+semantics, we will have to allow partially deﬁned packet ﬁelds and determine
+the missing ﬁeld values at the end (when we check for guarded traces). Another exciting direction for future work is the development of a library of
+litmus tests for networking in the spirit of [1]. Litmus tests are carefully crafted
+concurrent programs operating on shared memory locations that expose subtle
+bugs in memory models of hardware. ",cs.PL,B,-0.20517796,0.509983,0.08381253
+http://arxiv.org/pdf/2201.10485v3,"Concurrent NetKAT: Modeling and analyzing stateful, concurrent networks","To accommodate this in the
+semantics, we will have to allow partially deﬁned packet ﬁelds and determine
+the missing ﬁeld values at the end (when we check for guarded traces). Another exciting direction for future work is the development of a library of
+litmus tests for networking in the spirit of [1]. Litmus tests are carefully crafted
+concurrent programs operating on shared memory locations that expose subtle
+bugs in memory models of hardware. ",cs.PL,B,-0.20517796,0.509983,0.08381253
+http://arxiv.org/pdf/2201.10627v3,Scalable Typestate Analysis for Low-Latency Environments,"We conjecture that “must
+call” property can be encoded as bit-vectors in a complementary way to our BFA
+approach. We leave this extension for future work. Our annotations could be mimicked by having a local DFA attached to each
+method. ",cs.PL,C,0.11513591,0.07573434,-0.04749556
+http://arxiv.org/pdf/2201.10816v1,50 Years of Prolog and Beyond,"Another predecessor of Prolog was Ed Elcock’s Aberdeen System, Absys, from 1967, even if
+it did not directly inﬂuence the development of Prolog (Elcock, 1990). 2.3 The Birth of Prolog
+
+By 1972, Colmerauer’s aim of creating a human-machine communication system in logic had
+led him to further research French language analysis with Pasero (1973), and to numerous ex-
+periments with Philippe Roussel and Jean Trudel on automated theorem proving methods. Ex-
+changes with Kowalski during Kowalski’s visits to Marseille in 1971 and 1972 determined the
+choice of SL-resolution for Roussel’s thesis on formal equality in automated theorem-proving
+(1972), since it seemed to be the most interesting resolution system to manage procedural calls
+and to deal with backtracking a` la Floyd. ",cs.PL,C,0.19864723,-0.06714493,-0.012357371
+http://arxiv.org/pdf/2201.10816v2,Fifty Years of Prolog and Beyond,"The semantics of Horn
+clauses was explored by Kowalski and van Emden (1976). 2.3 The Birth of Prolog
+
+Colmerauer’s aim of creating a human-machine communication system in logic had led him to
+further research French language analysis with Pasero (1973), and to numerous experiments with
+Philippe Roussel and Jean Trudel on automated theorem proving methods. Having learned about
+SL-resolution, he invited Kowalski to visit Marseille in the summer of 1971. ",cs.PL,C,0.25363386,-0.14395311,-0.05753211
+http://arxiv.org/pdf/2201.10816v3,Fifty Years of Prolog and Beyond,"The
+semantics of Horn clauses was explored by Kowalski and van Emden (1976). 2.3 The Birth of Prolog
+
+Colmerauer’s aim of creating a human-machine communication system in logic had led
+him to further research French language analysis with Pasero (1973), and to numer-
+ous experiments with Philippe Roussel and Jean Trudel on automated theorem proving
+methods. Having learned about SL-resolution, he invited Kowalski to visit Marseille in
+the summer of 1971. ",cs.PL,C,0.25900084,-0.15120399,-0.043408405
+http://arxiv.org/pdf/2201.10998v1,Polarized Subtyping,"This includes a novel proof that syntactic versions of typing
+and subtyping are sound with respect to our semantic deﬁnitions. While we also
+conjecture that subtyping is precise (in the sense of [53]), we postpone this more
+syntactic property to future work. Because our foundation is call-by-push-value, a paradigm that synthesizes call-
+by-name and call-by-value based on the logical principle of polarization, we obtain
+several additional results in relatively straightforward ways. ",cs.PL,A,0.4144824,-0.036498107,-0.14320445
+http://arxiv.org/pdf/2201.11040v1,A Dependent Dependency Calculus (Extended Version),"Therefore, the decidability of type checking reduces to showing strong nor-
+malization. If we select the sorts, axioms and rules of DDC to match those of
+the Calculus of Constructions (Barendregt, 1993b), we believe that this result
+holds, but leave a direct proof for future work. However, by translating this
+instance of DDC to ICC∗, we can show that the sublanguage of this instance
+is strongly normalizing. ",cs.PL,A,0.45569775,0.1972265,-0.069990836
+http://arxiv.org/pdf/2201.11040v2,A Dependent Dependency Calculus (Extended Version),"Therefore, the decidability of type checking reduces to showing strong nor-
+malization. If we select the sorts, axioms and rules of DDC to match those of
+the Calculus of Constructions (Barendregt, 1993), we believe that this result
+holds, but leave a direct proof for future work. However, by translating this
+instance of DDC to ICC∗, we can show that a sublanguage of this instance is
+
+27 typing.v:Typing substitution CTyping 28 typing.v:Typing regularity
+29 typing.v:Typing preservation 30 progress.v:Typing progress
+31 consist.v:DefEq Joins,Joins DefEq
+
+21
+strongly normalizing. ",cs.PL,A,0.43521333,0.13323724,-0.13646442
+http://arxiv.org/pdf/2201.12242v1,Large Scale Generation of Labeled Type Data for Python,"produces high quality labeled data, enabling better probabilistic
+                                                                        type inference systems. A next step for future work is to leverage
+   Beyond that, machine learning approaches are gaining popu-           these large scale type annotated data for building better neural
+larity. TypeWriter [11] trained a neural model using a corpus of        models for type inference. ",cs.PL,A,0.21363565,-0.40848112,-0.20723242
+http://arxiv.org/pdf/2201.12242v2,Large Scale Generation of Labeled Type Data for Python,"produces high quality labeled data, enabling better probabilistic
+                                                                        type inference systems. A next step for future work is to leverage
+   Beyond that, machine learning approaches are gaining popu-           these large scale type annotated data for building better neural
+larity. TypeWriter [11] trained a neural model using a corpus of        models for type inference. ",cs.PL,A,0.21363565,-0.40848112,-0.20723242
+http://arxiv.org/pdf/2201.13394v1,A Formal Model of Checked C,"com/microsoft/checkedc-clang/issues/1008
+compatibility at higher checking cost. Checked C uses static            As future work, we wish to extend CORECHKC to model
+type information to enable bounds checks without need of             more of Checked C, with our Redex-based testing framework
+pointer-attached metadata, as we show in Section IV. Neither         guiding the process. ",cs.PL,B,0.050055023,0.27635974,-0.12185238
+http://arxiv.org/pdf/2202.01901v1,Bunched Fuzz: Sensitivity for Vector Metrics,"We have shown how this
+type system supports reasoning about both deterministic and probabilistic programs. There are at least two directions that we would like to explore in future works. On the one hand, we
+would like to understand if the typing rules we introduced here could be of more general use in the setting
+of probabilistic programs. ",cs.PL,A,0.32208163,0.059237,-0.027783973
+http://arxiv.org/pdf/2202.03293v1,Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction,"L1-resident  2-D  convolution       for  different  strides,  dilations,  and  problem  sizes  ((𝑁  ,  𝐶,  𝐹,  𝐾,   𝐾𝑤  )                             fixed
+
+                                                                                                                           ℎ
+
+to (1, 32, 64, 3, 3)). Theoretical peak is 192GFLOP/𝑠, fine tuning of performance is left for future work. (3) Only a subset of the input is read, depending on the values of the stride and dilations quantities. ",cs.PL,C,-0.2024672,-0.34887928,0.28814894
+http://arxiv.org/pdf/2202.04153v1,Source Matching and Rewriting,"Evalu-
+and al. use pattern matching to raise the abstraction level           ation of SMR’s potential to capture more generic patterns
+of the intermediate representation of general-purpose lan-            was left as future work. guages to allow domain-specific optimizations, while Lücke
+and al. ",cs.PL,B,-0.11454083,0.0676357,-0.05614278
+http://arxiv.org/pdf/2202.05872v1,REST: Integrating Term Rewriting with Program Verification,"However, we note that treating AC axioms as rewrite rules can lead to an explosion in
+            the number of terms obtained via rewriting. As future work, it could be possible to extend
+            REST to support AC rewriting and uniﬁcation in order to reduce the number of explicitly
+            instantiated terms. 9 Conclusion
+
+            We have presented REST, a novel approach to rewriting that uses an online termination
+            check that simultaneously considers entire families of term orderings via a newly introduced
+            Ordering Constraint Algebra. ",cs.PL,A,0.28651375,0.058374003,0.0010594438
+http://arxiv.org/pdf/2202.05872v2,REST: Integrating Term Rewriting with Program Verification (Extended Version),"However, we note that treating AC axioms as rewrite rules can lead to an explosion in
+            the number of terms obtained via rewriting. As future work, it could be possible to extend
+            REST to support AC rewriting and uniﬁcation in order to reduce the number of explicitly
+            instantiated terms. 9 Conclusion
+
+            We have presented REST, a novel approach to rewriting that uses an online termination
+            check that simultaneously considers entire families of term orderings via a newly introduced
+            Ordering Constraint Algebra. ",cs.PL,A,0.28651375,0.058374003,0.0010594438
+http://arxiv.org/pdf/2202.06868v1,Enhancing expressivity of checked corecursive streams (extended version),"In future work we plan to investigate more expressive operational character-
+izations of equivalence. Other interesting directions for future work are the following. – Investigate additional operators and the expressive power of the calculus. ",cs.PL,A,0.354128,-0.03785491,0.022315117
+http://arxiv.org/pdf/2202.07577v1,Weighted Programming,"The case study on the ski rental problem exempliﬁes
+this: We verify the competitive ratio of the optimal online algorithm for every trip duration of the
+ski rental problem. Automating this veriﬁcation process is an appealing direction for future work. More closely related is the work by Bistarelli et al. ",cs.PL,B,-0.17278028,-0.2578525,0.2617364
+http://arxiv.org/pdf/2202.07577v2,Weighted Programming,"The case study on the ski rental problem exempliﬁes
+this: We verify the competitive ratio of the optimal online algorithm for every trip duration of the
+ski rental problem. Automating this veriﬁcation process is an appealing direction for future work. More closely related is the work by Bistarelli et al. ",cs.PL,B,-0.17278028,-0.2578525,0.2617364
+http://arxiv.org/pdf/2202.07636v1,On Dynamic Lifting and Effect Typing in Circuit Description Languages (Extended Version),"The main technical results we obtained are type soundness, in the sense of
+subject reduction and progress theorems. Future Work In this paper we focused on the operational aspects, leaving an investigation
+about a possible denotational account of Proto-Quipper-K as future work. A related problem
+is that of understanding the precise nature of the lifting operation that we use pervasively in
+the paper. ",cs.PL,A,0.2847026,0.005094791,-0.15397492
+http://arxiv.org/pdf/2202.09230v1,United Monoids: Finding Simplicial Sets and Labelled Algebraic Graphs in Trees,"Two of these monoids, namely Applicative and
+Monad, turn out to have the same unit pure = return, and they can therefore be con-
+sidered united monoids in the category of endofunctors. Investigating categorical equiv-
+alents of the presented ideas is an interesting direction of future work. Acknowledgements I would like to thank everyone who contributed to this research
+by giving feedback on earlier versions of this work (particularly, [21] and [24]), partici-
+pating in numerous online and in-person discussions, and last but not least, expressing
+genuine interest and encouragement. ",cs.PL,A,0.18622747,-0.005849597,-0.124663964
+http://arxiv.org/pdf/2202.09231v1,Debootstrapping without Archeology: Stacked Implementations in Camlboot,":
+Debootstrapping without Archeology: Stacked Implementations in Camlboot
+
+   We leave a . build path as future work. There are two possible approaches,
+one is to try to build . ",cs.PL,B,-0.17866194,-0.012558475,-0.037300944
+http://arxiv.org/pdf/2202.12193v1,Black-Box Algorithm Synthesis -- Divide-and-Conquer and More,"14 void initialize ( int i ,𝑇𝑥 *A , int l , int r){
+                                                                        Because our paper focuses on the lifting problem, recovering
+15 if (l == r) {
+                                                                        the semantics of ℎ and 𝑢 from the semantics of 𝑝 is out of
+16    info[i] = /*h [A[l]], f [A[l]]*/;
+                                                                        our scope. Therefore, We leave this subtask to future work. 17    return;
+                                                                        E Appendix: Evaluation
+18 }
+                                                                        E.1 Extra Operators
+19 int mid = l + r >> 1;                                                As discussed in Section 7.3 and 7.4, for 9 tasks, we manually
+                                                                        supply operators to AutoLifter under the enhanced setting. ",cs.PL,A,0.19493842,-0.038176462,0.019351827
+http://arxiv.org/pdf/2202.12195v1,LAGC Semantics of Concurrent Programming Languages,"This result can and should be extended to a state-of-art calculus for the language
+in Section 7.3 [53]. An obvious direction for future work is to fully mechanize the LAGC semantics in a proof assistant [61,14]. In
+fact, all deﬁnitions and theorems from Sections 2, 3, and 5 have been mechanized and proven25 in Isabelle/HOL. ",cs.PL,A,0.38600498,0.12890995,-0.08009304
+http://arxiv.org/pdf/2202.12208v1,Synthesizing Efficient Dynamic Programming Algorithms,"https://doi.org/10.1016/0167-6423(91)90022-P
+from relational hylomorphisms. Extending MetHyl to sup-
+port these algorithms is future work. Robert Giegerich, Carsten Meyer, and Peter Steffen. ",cs.PL,C,0.070550434,-0.061723746,0.19160357
+http://arxiv.org/pdf/2202.13134v1,Preventing Timing Side-Channels via Security-Aware Just-In-Time Compilation,"We report interesting case studies which shed light        program gabfeed_1 [46]. It takes strings 𝑎 and 𝑏 with length 8
+on directions for further research in this area. as inputs, denoting the user-entered and correct passwords,
+                                                                    respectively. ",cs.PL,C,-0.15322371,-0.024565531,-0.0088147465
+http://arxiv.org/pdf/2202.13833v1,Formally verified asymptotic consensus in robust networks,"In Section 5, we conclude by discussing key takeaways from
+our work and generic challenges we encountered during the formalization. We
+also lay down a few directions that could be addressed in the future work. 2 Background
+
+In this paper we consider the problem of formalizing consensus in a time-invariant
+network, and adopt the problem formulation from [28]. ",cs.PL,C,0.17541587,0.14767277,0.101872295
+http://arxiv.org/pdf/2203.00652v1,Parsing Randomness: Unifying and Differentiating Parsers and Random Generators,"Our al-                     genTree ℎ =
+       gorithm performs well on simple benchmarks, in most                            if ℎ = 0 then
+       cases producing more than twice as many valid values                                return Leaf
+       as a naïve “rejection sampling” generator in the same                          else
+       amount of time (§6). 𝑐 ← flip()
+                                                                                           if 𝑐 == Heads then return Leaf
+We conclude with related and future work (§7 and §8). if 𝑐 == Tails then
+                                                                                               𝑐 ← flip()
+2 The High-Level Story                                                                         if 𝑐 == Heads then 𝑥 ← True
+                                                                                               if 𝑐 == Tails then 𝑥 ← False
+Let’s take a walk in the forest before we dissect the trees. ",cs.PL,C,-0.11324145,-0.031007823,0.14774701
+http://arxiv.org/pdf/2203.02340v1,Deoptless: Speculation with Dispatched On-Stack Replacement and Specialized Continuations,"Our evaluation
+         1.0                                                                                      shows that this strategy is robust and able to produce good
+                                                                                                  code for the continuations. microbenchmark rsa
+                                                                                                     An interesting avenue for future work would be to try
+Figure 11. Speedup on reoptimization benchmarks                                                   and recombine continuations into one function again. ",cs.PL,B,-0.22280557,0.06291841,0.012420086
+http://arxiv.org/pdf/2203.02340v2,Deoptless: Speculation with Dispatched On-Stack Replacement and Specialized Continuations,"Our evaluation
+         1.2                     shared                                                           shows that this strategy is robust and able to produce good
+         1.1                                                                                      code for the continuations. 1.0
+                                                                                                     An interesting avenue for future work would be to try
+             microbenchmark rsa                                                                   and recombine continuations into one function again. The
+                                                                                                  information from the contexts could be used to recompile
+Figure 11. ",cs.PL,B,-0.110165685,0.010165469,0.020749057
+http://arxiv.org/pdf/2203.02461v2,A Theory of Composing Protocols,"An alternative
+   would be to annotate branching instances with the different options, which would
+   further increase relevance of the returned results. This is left for future work. Table 1
+   shows the number of interleaving compositions obtained for each variation of the
+   branching rule for a suite of examples. ",cs.PL,A,0.13641346,-0.15879925,0.13586932
+http://arxiv.org/pdf/2203.03288v1,Handling Higher-Order Effects,"We summarize some of the main recent results in this area below. In future work, we
+intend to explore how to eﬃciently implement hop in practice, and the literature we summarize
+below will be valuable to that end. Eﬀect handlers evidently [Xie et al. ",cs.PL,C,0.032442443,0.1589605,0.18001471
+http://arxiv.org/pdf/2203.04422v1,ProbTA: A sound and complete proof rule for probabilistic verification,"We
+present an automated algorithm to apply our proof rule. To conclude, we provide a theoretically
+comprehensive framework of probabilistic trace abstraction in the control-flow randomness style,
+which we believe could be extended and applied in future work. REFERENCES
+
+Tomás Brázdil, Javier Esparza, Stefan Kiefer, and Antonín Kucera. ",cs.PL,C,0.06888661,0.2356287,0.1828327
+http://arxiv.org/pdf/2203.04995v1,CUBES: A Parallel Synthesizer for SQL Using Examples,"The Cubes
+techniques, and no shared memory is used. Exchanging information       framework proposed in this paper is also based on SMT-based rep-
+between processes is another source of improvement that would          resentations but it extends prior work in several dimensions: (i)
+be worth exploring in future work. extends the language in the programs to be synthesized, (ii) pro-
+                                                                       poses pruning techniques that can be directly encoded into SMT,
+   Cube generation. ",cs.PL,B,-0.2401379,-0.020605855,-0.28279608
+http://arxiv.org/pdf/2203.06229v1,Veracity: Declarative Multicore Programming with Commutativity,"Miners and validators in
+
+functions called busy(size), which take size in interpret- blockchain systems repeatedly execute enormous workloads
+
+ing a loop. In future work we plan to implement the back-end of smart contract transactions. These transactions are cur-
+
+of the Veracity compilation chain, but for now, independent rently executing sequentially and recent proposals have been
+
+busy waits reasonably model computational complexity. ",cs.PL,B,-0.17596753,0.19858468,0.052122086
+http://arxiv.org/pdf/2203.06229v2,Veracity: Declarative Multicore Programming with Commutativity,"Future Work. On the practical side, top priorities for future work are to explore back-end compila-
+tion strategies to emit, e.g., concurrent IR. Our work can also be combined with other parallelization
+strategies such as promises/futures [Chatterjee 1989; Liskov and Shrira 1988]. ",cs.PL,B,-0.2565863,-0.009329168,-0.054074563
+http://arxiv.org/pdf/2203.07431v1,Conditional Contextual Refinement (CCR),"is ignored and replaced by APCDef. Therefore, in an incre-                                        6 Evaluation, related and future work
+
+mental verification, we can abstract a selected set of memory                                        Evaluation. Our development comprises 37,329 SLOC of
+                                                                                                  Coq (counted by coqwc), including 10,100 SLOC for all the ex-
+operations into APC leaving the rest as unabstracted, which                                       amples in the paper and technical report [3]. ",cs.PL,B,-0.23993105,0.07063545,-0.020783488
+http://arxiv.org/pdf/2203.07601v1,Automatic HFL(Z) Validity Checking for Program Verification,"Thus, it would be better to choose diﬀerent values for those parameters for each least ﬁxpoint
+formula. Developing a better way to determine the values is left for future work. We additionally implemented an optimization in which we omit some extra arguments for
+consecutive higher-order arguments. ",cs.PL,C,0.022884335,-0.2176896,0.5050324
+http://arxiv.org/pdf/2203.07601v2,Automatic HFL(Z) Validity Checking for Program Verification,"Thus, it would be better to choose diﬀerent values for those parameters for each least ﬁxpoint
+formula. Developing a better way to determine the values is left for future work. We additionally implemented an optimization to omit some extra arguments for con-
+secutive higher-order arguments. ",cs.PL,C,0.035874896,-0.22484136,0.48748648
+http://arxiv.org/pdf/2203.07621v1,Practical Detectability for Persistent Lock-Free Data Structures,"Converting the others to                                                                         the paper). https://cp.kaist.ac.kr/memento
+detectable DSs is an interesting future work (see §9 for details). [2] 2022. ",cs.PL,C,-0.17024577,-0.14181393,0.14833175
+http://arxiv.org/pdf/2203.07814v1,Competition-Level Code Generation with AlphaCode,"Applications
+
+Although there are few direct applications of this work outside of competitive programming, improving
+human readable code generation opens the door to many future applications with large real-world
+impact. All these applications require varying amounts of future work. Automating code generation could make existing programmers more productive, with potential
+applications ranging from suggesting extended code completions to optimizing blocks of code. ",cs.PL,B,-0.26289266,-0.15991578,-0.38474762
+http://arxiv.org/pdf/2203.08069v1,DISTAL: The Distributed Tensor Algebra Compiler,"1993. Communication Op-
+avenue of future work that we are currently undertaking is
+to is to extend DISTAL with support for sparse tensors. The   timization and Code Generation for Distributed Memory Machines. ",cs.PL,B,-0.27621797,-0.22002496,-0.0884719
+http://arxiv.org/pdf/2203.08069v2,DISTAL: The Distributed Tensor Algebra Compiler,"1993. Communication Op-
+avenue of future work that we are currently undertaking is
+to is to extend DISTAL with support for sparse tensors. The   timization and Code Generation for Distributed Memory Machines. ",cs.PL,B,-0.27621797,-0.22002496,-0.0884719
+http://arxiv.org/pdf/2203.08402v1,Gradual Tensor Shape Checking,"We observed that, thanks to the
+
+best-eﬀort type inference, users would not be required too many type annotations to statically
+
+type-check the whole program, and it would not be diﬃcult to ﬁnd where to add type annotations
+
+to improve the inference. We conclude with some ideas for future work. • Extension with type polymorphism. ",cs.PL,A,0.35083917,0.0574641,-0.18418312
+http://arxiv.org/pdf/2203.08941v1,Translating Canonical SQL to Imperative Code in Coq,"We run various queries, with and without aggregates and grouping operations; examples of
+queries are:
+
+select avg(age) from employees where age > 32.0;
+select age, count(*) from employees group by age;
+
+These experiments shows that DBCert runs about two times slower than AlaSQL. Further opti-
+mizations and performance improvements are future work. Proc. ",cs.PL,C,-0.2543004,-0.12367846,0.06663381
+http://arxiv.org/pdf/2203.08941v2,Translating Canonical SQL to Imperative Code in Coq,"We run various queries, with and without aggregates and grouping operations; examples of
+queries are:
+
+select avg(age) from employees where age > 32.0;
+select age, count(*) from employees group by age;
+
+These experiments shows that DBCert runs about two times slower than AlaSQL. Further opti-
+mizations and performance improvements are future work. Proc. ",cs.PL,C,-0.2543004,-0.12367846,0.06663381
+http://arxiv.org/pdf/2203.09452v1,Automated Transpilation of Imperative to Functional Code using Neural-Guided Program Synthesis (Extended Version),"More
+broadly, while NGST2 has only been evaluated in the context of imperative-to-functional translation,
+our techniques are applicable in any domain satisfying the trace-compatibility assumption, which
+is likely to hold in other contexts as well. We leave it to future work to explore the applicability of
+our techniques (as well as their limitations) for other transpilation tasks. 11 ACKNOWLEDGEMENTS
+
+We would like to thank Benjamin Sepanski, Shankara Pailoor, and Jocelyn Chen for their thoughtful
+feedback. ",cs.PL,A,0.06702512,-0.21957737,-0.15728085
+http://arxiv.org/pdf/2203.09452v2,Automated Transpilation of Imperative to Functional Code using Neural-Guided Program Synthesis (Extended Version),"More
+broadly, while NGST2 has only been evaluated in the context of imperative-to-functional translation,
+our techniques are applicable in any domain satisfying the trace-compatibility assumption, which
+is likely to hold in other contexts as well. We leave it to future work to explore the applicability of
+our techniques (as well as their limitations) for other transpilation tasks. 11 ACKNOWLEDGEMENTS
+
+We would like to thank Benjamin Sepanski, Shankara Pailoor, and Jocelyn Chen for their thoughtful
+feedback. ",cs.PL,A,0.06702512,-0.21957737,-0.15728085
+http://arxiv.org/pdf/2203.11532v1,Quickstrom: Property Based Acceptance Testing with LTL Specifications,"We expect that this could be modelled
+         ∨ abortEdit (initialItem)                                     by inserting page reloads as another possible action, and may
+                                                                       expose further problems in the implementations’ handling
+      Figure 12. Sketch of our TodoMVC specification                   of local storage, but this is left as future work. When numeric subscripts on temporal operators are omit-                4.2 Results
+ted, they use a user-specified default value. ",cs.PL,C,0.06750133,-0.015527416,0.20635298
+http://arxiv.org/pdf/2203.12069v1,ANOSY: Approximated Knowledge Synthesis with Refinement Types for Declassification,"higher than 0.7”. We plan to deal with probability distribu-
+The line for each 𝑘, i.e., the number of synthesized intervals    tions in future work. However, Anosy synthesizes a function
+in the powerset, depicts the number of experiment instances       that computes the posterior given a prior, eliminating the
+that are still running (Y-axis) after executing the 𝑖-th query    need to run the full static analysis for each query execu-
+(X-axis). ",cs.PL,C,-0.12303898,0.01764764,0.32830715
+http://arxiv.org/pdf/2203.12875v1,"Replicate, Reuse, Repeat: Capturing Non-Linear Communication via Session Types and Graded Modal Types","{ReceivePrefix p}
+                                        ⇒ (LChan p → ()) [0..∞] → Stream ((LChan (Dual p)) [0..1])
+
+Further applications and related ideas Using the linear channels already present in Granule it is
+possible to represent functions that are sequentially realizable [13]; a sequentially realizable function is
+one which has outwardly pure behaviour but relies on a notion of local side effects which are contained
+within the body of the function. Looking into which such behaviours may be more easily expressed by
+introducing non-linearity via graded channels would be an avenue for future work. As discussed in Section 4, it is necessary to restrict promotion of channels due to Granule’s default
+call-by-value semantics, since otherwise this allows for a linear channel to be used non-linearly. ",cs.PL,C,0.09742065,0.028716376,0.112376824
+http://arxiv.org/pdf/2203.12879v1,Lang-n-Send: Processes That Send Languages,"We have
+not included this feature because we believe that it enables rather complex dynamics, and we wanted
+to conﬁne our examples to the already interesting scenarios that sending/receiving languages allow. We
+M. Cimini  55
+
+plan to explore the sending of terms after execution as future work. We plan to study more examples such as servers that decide the semantics of the parallel operator for
+
+client processes (CCS style, only interleaving and no communication, or the synchronous CSP parallel
+composition [8], for instance). ",cs.PL,B,0.014038885,0.15750918,-0.074671
+http://arxiv.org/pdf/2203.13445v1,C to Checked C by 3C,"Cascade aims to handle qualifier incompatibilities from
+
+a generic lattice for which there are many possible annotation-based solutions, so they require a
+
+more involved (and more expensive) approach; its guess-and-check strategy is very unlikely to
+
+scale. We could imagine future work to 3C that suggests changes and speculatively computes their
+impact, as Cascade does; we believe the main technical challenge will be making this speculation
+
+performant on large codebases. Ruef et al. ",cs.PL,B,-0.036849577,0.008717407,-0.16621828
+http://arxiv.org/pdf/2203.14845v1,Warping Cache Simulation of Polyhedral Programs,"In contrast to existing analytical
+approaches, warping cache simulation may accurately model replacement policies of real-world
+cache architectures. A natural target for future work is to apply warping to efficiently simulate
+modern speculative out-of-order processors core and branch prediction mechanisms and their
+interaction with the cache, which promises to increase the accuracy of the predictions w.r.t. real
+hardware. ",cs.PL,B,-0.3431933,0.0749933,0.02705735
+http://arxiv.org/pdf/2203.15426v1,"On Reinforcement Learning, Effect Handlers, and the State Monad","Technically, the most important contribution of this work lies in highlighting where the state
+of the art is deﬁcient with respect to the type of type safety and code reuse properties that one would
+like. Some ideas for future works can be sought precisely in the direction just mentioned and, in particular,
+in the deﬁnition of systems of types suﬃciently powerful to guarantee that the algebraic operations
+involved are actually carried out in the good order, or that they allow the right level of polymorphism. An alternative to powerful type systems for some safety properties could also be the use of some
+advanced features of programming language for abstraction. ",cs.PL,A,0.27463442,0.20181012,-0.15247266
+http://arxiv.org/pdf/2203.16345v1,An Algebraic Framework for Structured Epidemic Modeling,"Together, the mathematical and computational features of
+our approach simplify and accelerate the iterative modeling process. The structuralist approach to epidemiological modeling suggests many directions for future work. It can
+be extended to incorporate additional model semantics, such as stock-and-ﬂow diagrams as an alternative
+to Petri nets, or stochastic and jump diﬀerential equations as complements to ODEs and DDEs. ",cs.PL,C,0.09754709,-0.3163412,0.33586955
+http://arxiv.org/pdf/2203.16345v2,An Algebraic Framework for Structured Epidemic Modeling,"Together, the mathematical and computational features of
+our approach simplify and accelerate the iterative modeling process. The structuralist approach to epidemiological modeling suggests many directions for future work. It can
+be extended to incorporate additional model semantics, such as stock-and-ﬂow diagrams as an alternative
+to Petri nets, or stochastic and jump diﬀerential equations as complements to ODEs and DDEs. ",cs.PL,C,0.09754709,-0.3163412,0.33586955
+http://arxiv.org/pdf/2203.16345v3,An Algebraic Framework for Structured Epidemic Modeling,"Together, the mathematical and computational features of
+our approach simplify and accelerate the iterative modeling process. The structuralist approach to epidemiological modeling suggests many directions for future work. It can
+be extended to incorporate additional model semantics, such as stock-and-ﬂow diagrams as an alternative
+to Petri nets, or stochastic and jump diﬀerential equations as complements to ODEs and DDEs. ",cs.PL,C,0.09754709,-0.3163412,0.33586955
+http://arxiv.org/pdf/2203.16697v1,Type-Directed Program Synthesis for RESTful APIs,"our problem domain, because (1) our programs also contain
+                                                                 arbitrary API method invocations, and (2) we manipulate
+User interface. Another important direction for future work      semi-structured data instead of relational data. is to investigate usable ways of specifying semantic type
+queries and comprehending synthesis results. ",cs.PL,A,0.25399044,-0.055992264,-0.2685014
+http://arxiv.org/pdf/2203.16697v2,Type-Directed Program Synthesis for RESTful APIs,"For example, the method for     User interface. Another important direction for future work
+posting a message on Slack also returns the message object,      is to investigate usable ways of specifying semantic type
+and the method for deleting a catalog item in Sqare returns      queries and comprehending synthesis results. In particular,
+the ID of the deleted item (instead of just returning void). ",cs.PL,B,0.012902752,-0.025507586,-0.1569832
+http://arxiv.org/pdf/2204.00870v1,Differential Cost Analysis with Simultaneous Potentials and Anti-potentials,"An in-
+alyze. We may compute bounds on the program’s cost usage                                          teresting direction of future work is to extend our method to
+by naturally adapting our algorithm presented in Section 5                                        generate method summaries [24] that can express quantita-
+to compute (1) a PF in T , (2) an anti-PF in T , and (3) a                                        tive speciﬁcations on cost (to make it more compositional). value that satisﬁes
+                                                                                                     The Infer Static Analyzer [19] performs a kind of diﬀeren-
+                 ∀x ∈ Θ0. ",cs.PL,C_centroid,-0.08251655,-0.0034720004,0.20512576
+http://arxiv.org/pdf/2204.00870v2,Differential Cost Analysis with Simultaneous Potentials and Anti-potentials,"An in-
+alyze. We may compute bounds on the program’s cost usage                                          teresting direction of future work is to extend our method to
+by naturally adapting our algorithm presented in Section 5                                        generate method summaries [24] that can express quantita-
+to compute (1) a PF in T , (2) an anti-PF in T , and (3) a                                        tive speciﬁcations on cost (to make it more compositional). value that satisﬁes
+                                                                                                     The Infer Static Analyzer [19] performs a kind of diﬀeren-
+                 ∀x ∈ Θ0. ",cs.PL,C,-0.08251655,-0.0034720004,0.20512576
+http://arxiv.org/pdf/2204.02948v1,Guaranteed Bounds for Posterior Inference in Universal Probabilistic Programming,"Running SBC for on the pedestrian example (with a reduced                   within the fixed depth is therefore imprecise. For future work,
+sample size and using the parameters recommended in [57])
+                                                                            it would be interesting to improve the bounds in our type
+13While the running time seems high, we note that Pyro HMC took about
+an hour to generate 104 samples and produce the (wrong) histogram. Diag-    system to provide more information about the distribution
+nostic methods like simulation-based calibration took even long (>30h) and
+delivered inconclusive results (see Section 7.4 for details). ",cs.PL,C,-0.26972187,-0.10800266,0.24205689
+http://arxiv.org/pdf/2204.02948v2,Guaranteed Bounds for Posterior Inference in Universal Probabilistic Programming,"a fixed depth, the approximation of the paths not terminating
+Running SBC on the pedestrian example (with a reduced             within the fixed depth is therefore imprecise. For future work,
+sample size and using the parameters recommended in [60])         it would be interesting to improve the bounds in our type
+took 32 hours and was still inconclusive because of strong au-    system to provide more information about the distribution
+tocorrelation. Reducing the latter via thinning requires more     by means of rigorous approximations of the denotation of
+samples, and would increase the running time to >300 hours. ",cs.PL,C,-0.24292092,-0.14021635,0.34777924
+http://arxiv.org/pdf/2204.03089v1,Fluently specifying taint-flow queries with fluentTQL,"This can be extended by adding new
+implementation of the SourceSinkManager, which we left as future work. San-
+itizers by default are not supported, but we applied the same solution as in our
+Boomerang implementation, whereas required propagators are not supported
+and requires either extension of the taint analysis or post-processing of the
+ﬁndings which we also consider as future work. Finally, both instances of ﬂuentTQL have some limitations in the way
+the traces are constructed and reported. ",cs.PL,C,-0.024890978,0.2296941,-0.022573268
+http://arxiv.org/pdf/2204.03113v1,P4BID: Information Flow Control in P4,"by different parties act on only their own packet headers. Richer dataflow policies could potentially be enforced by            7 Conclusion
+    using more complex lattices; this is an interesting direction
+    for future work. We have presented an information-flow control type system
+                                                                         for P4, and illustrated how it can verify relevant networking
+    6 Related Work                                                       properties for programs running on programmable switches. ",cs.PL,C,-0.045746528,0.35683504,0.014881633
+http://arxiv.org/pdf/2204.03113v2,P4BID: Information Flow Control in P4,"Richer dataflow policies could potentially be enforced by
+P4BID: Information Flow Control in P4                                                               PLDI ’22, June 13–17, 2022, San Diego, CA, USA
+
+using more complex lattices; this is an interesting direction          Information-flow control. Our approach belongs to a
+for future work. line of research on information-flow control (IFC), a type-
+                                                                    based method of expressing and verifying a wide variety of
+6 Related Work                                                      security properties. ",cs.PL,C,0.03960938,0.22333565,0.0062185684
+http://arxiv.org/pdf/2204.05644v1,Traits for Correct-by-Construction Programming,"The main advantage of TraitCbC is the simplicity of the
+reﬁnement process that supports code and proof reuse. As future work, we want to investigate how TraitCbC can be used to con-
+struct software product lines. As proposed by Bettini et al. ",cs.PL,B,-0.08177248,0.27821654,-0.21853784
+http://arxiv.org/pdf/2204.06156v1,Modular and Didactic Compiler Design with XML Inter-Phases Communication,"Kundra and Sureka [26] presents their
+Case-Based and Project-Based Learning Approaches on compiler design concepts. Some other
+research is motivated by the idea that “Students will (most likely) never construct compilers in
+their future works”, like Henry's [3]. Gruner [4] is worried because some universities nowadays
+(2019) might feel tempted to dilute (if not entirely abolish) a number of classical courses (like
+Compiler Construction) that are now being regarded as “too theoretical”, “not practical enough”,
+or “not industrially relevant”, as revealed by [27, 28]. ",cs.PL,B,-0.047800563,-0.12695846,-0.32326812
+http://arxiv.org/pdf/2204.06868v1,Program Analysis of Probabilistic Programs,"Such cases can likely be handled by optimising over            Conference on Programming Language Design and Im-
+augmented families of reparameterisations, and designing                 plementation, PLDI 2019, pp. 221–236, 2019. doi:
+such families is an interesting topic for future work. 10.1145/3314221.3314642. ",cs.PL,B,-0.028621819,-0.049040545,-0.21016654
+http://arxiv.org/pdf/2204.07112v1,A Formally Certified End-to-End Implementation of Shor's Factorization Algorithm,"We chose to extract it to the most similar native
+       let m := Nat.log2 (2*(Nˆ2)) in                                   data type in OCaml–ﬂoating-point numbers. An alternative
+       let n := Nat.log2 (2*N) in                                       would be to prove Shor’s algorithm correct with gate parame-
+       ugcount (shor_circuit a N) ≤                                     ters represented using some Coq formalism for ﬂoating-point
+       (212*n*n + 975*n + 1031)*m + 4*m + m*m.                          numbers56, which we leave for future work. Here ugcount counts how many gates are in the circuit. ",cs.PL,C,-0.09381374,0.04261975,0.31888545
+http://arxiv.org/pdf/2204.07167v1,Towards Porting Operating Systems with Program Synthesis,"Vale does not enable synthesis. An interesting
+avenue of future work would be to extend our synthesis work to the domain of cryptographic
+functions with Vale’s use cases. Operating Systems. ",cs.PL,B,-0.024252478,0.11715545,-0.19917926
+http://arxiv.org/pdf/2204.07167v2,Towards Porting Operating Systems with Program Synthesis,"Vale
+does not enable synthesis. An interesting avenue of future work would be to extend our synthesis work to the domain
+of cryptographic functions with Vale’s use cases. Synthesis for Operating Systems. ",cs.PL,B,-0.036394496,0.17060138,-0.20637047
+http://arxiv.org/pdf/2204.07454v1,Formalizing $\varphi$-calculus: a purely object-oriented calculus of decorated objects,"Finally, we discussed some syntactic extensions to the calculus, closing the gap between our pre-
+sentation and that of Bugayenko [8]. We expect two main departures for the future work. First, we could add type system for the
+calculus, probably based on row types to facilitate type inference. ",cs.PL,A,0.48784208,-0.22116134,0.0067467745
+http://arxiv.org/pdf/2204.07454v2,Formalizing $\varphi$-calculus: a purely object-oriented calculus of decorated objects,"Finally, we discussed some syntactic extensions to the calculus, closing the gap between our pre-
+sentation and that of Bugayenko [6]. We expect two main departures for the future work. First, we could add type system for the
+calculus, probably based on row types to facilitate type inference. ",cs.PL,A,0.48972812,-0.22008285,0.008141229
+http://arxiv.org/pdf/2204.09033v1,Quartz: Superoptimization of Quantum Circuits (Extended Version),"It sup-                     optimization using (𝑛, 𝑞)-complete ECC sets for larger values
+ports parameters only by considering concrete values, and                          of 𝑛 and 𝑞, which may also require improving the generator. unlike Quartz it does not discover or verify symbolic trans-                       Another limitation of Quartz that suggests opportunity for
+formations, which are the source of many of the challenges                         future work is that it only targets the logical circuit optimiza-
+Quartz deals with. Quanto uses floating-point matrix equal-                        tion stage and does not consider qubit mapping. ",cs.PL,C,-0.19566473,0.09118983,0.14196976
+http://arxiv.org/pdf/2204.09033v2,Quartz: Superoptimization of Quantum Circuits (Extended Version),"It sup-                     ter optimization using (𝑛, 𝑞)-complete ECC sets for larger
+ports parameters only by considering concrete values, and                          values of 𝑛 and 𝑞, which may also require improving the
+unlike Quartz, it does not discover or verify symbolic trans-                      generator. Another limitation of Quartz that suggests an op-
+formations, which are the source of many of the challenges                         portunity for future work is that it only targets the logical
+Quartz deals with. Quanto uses floating-point matrix equal-                        circuit optimization stage and does not consider qubit map-
+ity to identify equivalence between circuits, while Quartz                         ping. ",cs.PL,C,-0.20131743,0.14022714,0.12722209
+http://arxiv.org/pdf/2204.09421v1,Sheaf semantics of termination-insensitive noninterference,"that every type is ⊥-protected when P
+has a bottom element. We simply reproduce this mismatch between security levels and the
+security typing, though it would be interesting to remedy it in future work. Any ﬁnitely continuous functor P E can be thought of as a model of the theory P.
+The collection of all topos models of P is concentrated in the topos P = P: by Diaconescu’s
+theorem [13], a model L : P SX corresponds essentially uniquely to a morphism of topoi
+[L] : X P whose inverse image functor is obtained by Yoneda extension:
+
+         P L SX
+
+yP [L∗]
+
+SP                                                                     (1)
+
+The direct image functor [L]∗ : SX SP can be computed by adjointness:
+
+[L]∗X ∼= HomSP (yP−, [L]∗X)    Yoneda                                  (2)
+        ∼= HomSX ([L]∗yP−, X)
+        ∼= HomSX (L−, X)       [L]∗ [L]∗                               (3)
+
+                               Diagram 1                               (4)
+
+To see that [L]∗ [L]∗ we use the fact that [L]∗ is cocontinuous. ",cs.PL,A,0.30380964,0.12556615,0.16414097
+http://arxiv.org/pdf/2204.10411v1,Decomposition Without Regret,"and develop similar tools on other multi-paradigm languages such as Rust. Another direction of
+future work is to mechanize our manual proofs in a theorem prover like Coq, where Binder et al. [2019]’s work is a good start point. ",cs.PL,B,0.07346432,0.09642064,-0.2584505
+http://arxiv.org/pdf/2204.10455v1,Optimal Heap Limits for Reducing Browser Memory Use,"Luckily, because marking
+is also incremental, concurrent marking tends to run quickly, limiting the excess. Extending our
+notion of compositional heap limit rules to account for concurrent marking would be an interesting
+direction for future work. Thanks to MemBalancer’s principled heap limit rule, our prototype is able to remove V8 compo-
+nents that patch over issues with V8’s current heap limit rule. ",cs.PL,B,-0.13459292,0.25155625,-0.0034995861
+http://arxiv.org/pdf/2204.10455v2,Optimal Heap Limits for Reducing Browser Memory Use,"Luckily, because marking
+is also incremental, concurrent marking tends to run quickly, limiting the excess. Extending our
+notion of compositional heap limit rules to account for concurrent marking would be an interesting
+direction for future work. Thanks to MemBalancer’s principled heap limit rule, our prototype is able to remove V8 compo-
+nents that patch over issues with V8’s current heap limit rule. ",cs.PL,B,-0.13459292,0.25155625,-0.0034995861
+http://arxiv.org/pdf/2204.10455v3,Optimal Heap Limits for Reducing Browser Memory Use,"Users may
+also have additional preferences around peak memory usage, maximum garbage collection pause
+times, fragmentation, or other qualities not controlled by MemBalancer. Modeling and integrating
+these into MemBalancer is a possible direction for future work. 7.4 Deploying MemBalancer
+
+   Firefox. ",cs.PL,B,-0.37249035,-0.09841231,-0.024387784
+http://arxiv.org/pdf/2204.10455v4,Optimal Heap Limits for Reducing Browser Memory Use,"Users may
+also have additional preferences around peak memory usage, maximum garbage collection pause
+times, fragmentation, or other qualities not controlled by MemBalancer. Modeling and integrating
+these into MemBalancer is a possible direction for future work. 7.4 Deploying MemBalancer
+
+   Firefox. ",cs.PL,B,-0.37249035,-0.09841231,-0.024387784
+http://arxiv.org/pdf/2204.10784v1,MCBeth: A Measurement Based Quantum Programming Language,"We
+also argued that programming in MCBeth allows one to naturally create distributed quantum
+algorithms, which could be executed on a network of machines where each machine is specialized
+to handle a different type of quantum operation. For future work, we hope to extend MCBeth to handle the extended measurement calculus [Danos
+et al. 2009], which would increase the range of states the measurement operator could measure
+in and, thus, allow for more flexibility in creating MCBeth programs. ",cs.PL,C,-0.15142825,0.069436856,0.16213496
+http://arxiv.org/pdf/2204.10784v2,MCBeth: A Measurement Based Quantum Programming Language,"We
+also argued that programming in MCBeth allows one to naturally create distributed quantum
+algorithms, which could be executed on a network of machines where each machine is specialized
+to handle a different type of quantum operation. For future work, we hope to extend MCBeth by introducing a generalized J operator to the
+measurement calculus which would allow multiple qubits to be entangled and corrected based
+on one measured qubit; and extend MCBeth to handle the extended measurement calculus [Danos
+et al. 2009], which would increase the range of states the measurement operator could measure in
+and, thus, allow for more flexibility in creating MCBeth programs. ",cs.PL,C,-0.16120389,0.06437504,0.12667651
+http://arxiv.org/pdf/2204.10923v2,You Only Linearize Once: Tangents Transpose to Gradients,"One of the limitations of Linear A as defined is that the size of
+any tuple is syntactically apparent, so it is not possible to write size-polymorphic (i.e., “array
+processing”) functions in Linear A. Array-size-polymorphic functions are of course critical in
+practice, but are mostly orthogonal to the transformations we introduced here. We leave a full
+formalization to future work, with the comment that JAX resolves array size polymorphism at trace
+time (in our terms, during metaprogramming of Linear A), whereas Dex handles it by extending
+the internal representation with constructs that deal with it directly. Sparse matrix algorithms. ",cs.PL,B,0.020223783,-0.033615105,-0.017469112
+http://arxiv.org/pdf/2204.13464v1,Stay Safe under Panic: Affine Rust Programming with Multiparty Session Types,"We
+            demonstrated the use of MultiCrusty for programming distributed application protocols
+            with exception handling patterns. As part of future work, we would like to develop recovery strategies based on causal
+            analysis, along the lines of [47]. In addition, it would be interesting to verify role-parametric
+            session types following [9] in an aﬃne setting. ",cs.PL,C,0.0052977838,0.29128698,0.0026399232
+http://arxiv.org/pdf/2205.01171v1,Reversing an Imperative Concurrent Programming Language,"Currently the next
+identiﬁer is retrieved from a central counter. In future work we plan to address this ineﬃciency possibly using
+the approach in [1]. Thirdly, the approach presented here implements backtracking reversibility. ",cs.PL,C,-0.017729314,0.13525303,0.23197111
+http://arxiv.org/pdf/2205.01241v1,Propositional Equality for Gradual Dependently Typed Programming,"For the evolution of type information to be monotone, the operator & should com-
+
+pute a lower bound with respect to this notion of precision. Computing the greatest lower bound
+
+prevents premature errors, although the proof that composition is the greatest lower bound is
+
+left to future work. With non-dependent gradual types, precision can be syntactically, by adding
+
+structural rules to t ⊑ ?T, but structural rules are not ﬂexible enough to handle composition. ",cs.PL,A,0.39598882,-0.0038096625,0.04163393
+http://arxiv.org/pdf/2205.02636v1,Implementing Choreography Extraction,"However, we remark that comparing the per-
+formances of diﬀerent strategies was not an objective of this work, as it would
+require a dedicated test suite. We leave it as interesting future work. 36
+5.3 Livelocks
+
+Several examples in [19] include processes that oﬀer a service, and as such may
+be inactive throughout a part (or the whole) of execution. ",cs.PL,C,-0.09470865,0.32313377,0.23516497
+http://arxiv.org/pdf/2205.02636v2,Implementing Choreography Extraction,"However, we remark that comparing the per-
+formances of diﬀerent strategies was not an objective of this work, as it would
+require a dedicated test suite. We leave it as interesting future work. 36
+5.3 Livelocks
+
+Several examples in [19] include processes that oﬀer a service, and as such may
+be inactive throughout a part (or the whole) of execution. ",cs.PL,C,-0.09470865,0.32313377,0.23516497
+http://arxiv.org/pdf/2205.03262v1,Synchron -- An API and Runtime for Embedded Systems,"In the real-time space, a safety-critical VM that can provide hard real-time guarantees
+            on Real-Time Java programs is the FijiVM [26] implementation. A critical innovation of
+            the project was the Schism real-time garbage collector [25], from which we hope to draw
+            inspiration for future work on memory management. RTMLton [30] is another example of a real-time project supporting a general-purpose
+            language like SML. ",cs.PL,B,-0.324466,0.1937787,-0.22673008
+http://arxiv.org/pdf/2205.03590v1,Can We Run in Parallel? Automating Loop Parallelization for TornadoVM,"tion 6). A future work could be to export AutoTornado
+                                                                       as an IDE plugin that suggests parallelizable loops to pro-
+   The safer solution for communicating the static analysis            grammers who can either accept or reject the suggestion; we
+results of AutoTornado to TornadoVM runtime is to create               mark this as an interesting software-engineering exercise. a map 𝐴𝑛𝑛𝑜𝑡𝑎𝑡𝑖𝑜𝑛𝑀𝑎𝑝 : 𝑠𝑖𝑔𝑛𝑎𝑡𝑢𝑟𝑒 → 𝐿𝑖𝑠𝑡 (𝐴𝑛𝑛𝑜𝑡𝑎𝑡𝑖𝑜𝑛𝑠). ",cs.PL,B,-0.17383245,0.058976658,-0.10628782
+http://arxiv.org/pdf/2205.03707v1,Slicing of Probabilistic Programs based on Specifications,"This is particularly interesting due to the recent resurgence of probabilistic
+programing and its intrinsic complexity—any tool aiding program understanding becomes
+vital. We have identiﬁed several directions of future work. These include improving slice
+precision by either incorporating the forward propagation of pre-conditions or dispensing
+with the local reasoning principle underlying modular slicing. ",cs.PL,B,-0.018654037,-0.0015125686,-0.018849138
+http://arxiv.org/pdf/2205.04373v1,Making ProB compatible with SWI-Prolog,"At the time, conditional compi-
+
+ 9 https://github.com/rug-compling/Alpino
+14  D. Geleßus, M. Leuschel
+
+lation was not available yet, so manual compatibility modules for each system were used
+instead. 8 Conclusion and future work
+
+We presented the process of making ProB, which was originally developed only for SICS-
+tus Prolog, also compatible with SWI-Prolog. Our motivations were, amongst others, a
+double toolchain for certiﬁcation and ensuring long term support. ",cs.PL,C,0.11110008,0.071999535,-0.073721655
+http://arxiv.org/pdf/2205.04384v1,Applying consensus and replication securely with FLAQR,"PBFT [2], but our present goal is not to develop a framework
+for verifying implementations of such protocols (although it                                                        Figure 2 illustrates pseudocode for the getBalance function
+                                                                                                                 for this system. The code fetches balances from the three nodes
+would be interesting future work). Rather, the goal is to develop                                                (lines 2-4) and compares them (lines 6-8). ",cs.PL,C,-0.061866157,0.35027802,0.07891437
+http://arxiv.org/pdf/2205.06150v1,Direct Foundations for Compositional Programming,"Although F+i is already expressive enough to work as a core calculus of the CP language,
+    some useful constructs like type operators are missing. We leave the extension of type-level
+    operations for future work. Another interesting design choice that we want to explore is
+    to lazily evaluate both sides of merges, just like what we have done for record ﬁelds, which
+    can help avoid some redundant computation on the unused side of a merge. ",cs.PL,A,0.3375212,0.055057127,-0.084358335
+http://arxiv.org/pdf/2205.06535v1,Design-by-Contract for Flexible Multiparty Session Protocols -- Extended Version,"§ 1 and § 6). An interesting direction for future work is to develop an analysis of existing
+L. Gheri, I. Lanese, N. Sayers, E. Tuosto, and N. Yoshida                                              XX:33
+
+APIs; for instance, by extracting an abstract representation of the API, its conformance
+could be checked against a projection of the global speciﬁcation. Such design would improve
+on the applicability of our theory, for analysing and reusing existing developments. ",cs.PL,B,-0.05035843,0.0426934,-0.09554358
+http://arxiv.org/pdf/2205.06780v1,Automatic Root Cause Quantification for Missing Edges in JavaScript Call Graphs (Extended Version),"All of our code and data is publicly available. In
+    future work, we plan to extend the study to other domains; we expect that analyses for
+    any dynamic language with extensive use of higher-order functions could beneﬁt from our
+    techniques. We also plan to use the techniques to further develop improved call graph
+    builders and other JavaScript static analyses. ",cs.PL,B,-0.035889503,-0.08678785,0.010704778
+http://arxiv.org/pdf/2205.06841v1,From Logic to Functional Logic Programs,"In this
+From Logic to Functional Logic Programs  15
+
+sense, our work provides a justiﬁcation for speciﬁc control rules used in logic programming,
+since it is based on soundness and completeness results for functional logic programs. For future work it is interesting to use a reﬁned representation of types (as discussed in Sect. 8)
+or to consider other methods to infer result positions, e.g., by a program analysis taking into
+account the data ﬂow between arguments of literals in goals. ",cs.PL,A,0.376992,0.09117015,-0.023854062
+http://arxiv.org/pdf/2205.06921v1,Ferrite: A Judgmental Embedding of Session Types in Rust,"Section 7 provides an evaluation of Ferrite via a re-implementation
+of the Servo canvas component. Section 8 reports on related and future work. An anonymized version of Ferrite’s source code with examples is provided as an artifact. ",cs.PL,B,-0.168814,-0.061140753,0.0070010964
+http://arxiv.org/pdf/2205.08762v1,Leapfrog: Certified Equivalence for Protocol Parsers,"find that Leapfrog can be applied to a diverse
+set of practical scenarios. In the rest of this section, we dis-                                                                                                                                                                                                                                                                                                                          ]
+
+cuss some of our experiences using the tool, including its
+limitations and directions for future work. higher memory demands. ",cs.PL,B,-0.30069003,-0.18801063,-0.031410858
+http://arxiv.org/pdf/2205.08768v1,Global Type Inference for Featherweight Generic Java,"The inference
+algorithm is constraint based and is able to infer method types with bounded generic types. In future work, we plan to extend FGJ-GT to a calculus with wildcards inspired by
+Wild FJ [28]. We also plan to extend the formal calculus with lambda expressions (cf. ",cs.PL,A_centroid,0.4718598,-0.07888937,-0.00311568
+http://arxiv.org/pdf/2205.08768v2,Global Type Inference for Featherweight Generic Java,"The inference
+algorithm is constraint based and is able to infer method types with bounded generic types. In future work, we plan to extend FGJ-GT to a calculus with wildcards inspired by
+Wild FJ [28]. We also plan to extend the formal calculus with lambda expressions (cf. ",cs.PL,A,0.4718598,-0.07888937,-0.00311568
+http://arxiv.org/pdf/2205.11368v1,"Dual-Numbers Reverse AD, Efficiently","By contrast, in this work, we have exclusively focussed on differentiating sequentially executed
+code and, in fact, our approach using linearly ordered IDs is inherently sequential. As we explain
+in Section 12, we plan to investigate in future work whether the approach described in this paper
+can be made suitable for differentiating parallel programs. REFERENCES
+
+Martín Abadi and Gordon D. Plotkin. ",cs.PL,B,-0.18026505,0.09754027,0.06695458
+http://arxiv.org/pdf/2205.11622v1,SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring,"For the same kernel in multi-threaded execution, we       association scheduling directives, that would allow it to use
+observed speedups of 0.86–3.16x, and 2.44–139x for TACO           the better schedules of TACO separate, but we leave that for
+original and TACO separate, respectively. future work. We see substantial speedups in <SDDMM, SpMM, GEMM>             Speedup over TACO-Original  120
+due to the kernel presenting two opportunities for fusion:           single-thread execution
+<SDDMM, SpMM> and <SpMM, GEMM>. ",cs.PL,B,-0.38393712,0.22597966,0.0697325
+http://arxiv.org/pdf/2205.12425v1,Synthesizing CRDTs from Sequential Data Types with Verified Lifting,"Our synthesis algorithm also produces alternate designs for many other benchmarks, such as
+
+using pairs of clocks instead of a LexicalProduct for the enable/disable-wins flag benchmarks. The presence of such alternatives paves the way for future work where we synthesize not only a
+
+correct CRDT, but a performant one according to a cost model that can compare CRDT candidates. Furthermore, the pool of alternative designs may be useful for incrementally re-synthesizing CRDTs
+
+as the sequential data type is updated, something we hope to explore in the future. ",cs.PL,B,-0.1535294,0.033316534,-0.08366405
+http://arxiv.org/pdf/2205.12425v2,Katara: Synthesizing CRDTs with Verified Lifting,"Our synthesis algorithm also produces alternate designs for many other benchmarks, such as
+using pairs of clocks instead of a LexicalProduct for the enable/disable-wins flag benchmarks. The presence of such alternatives paves the way for future work where we synthesize not only a
+correct CRDT, but a performant one according to a cost model that can compare CRDT candidates. Furthermore, the pool of alternative designs may be useful for incrementally re-synthesizing CRDTs
+as the sequential data type is updated, something we hope to explore in the future. ",cs.PL,B,-0.1535294,0.033316534,-0.08366405
+http://arxiv.org/pdf/2205.13430v1,GNOLL: Efficient Software for Real-World Dice Notation and Extensions,"Due to this much wider demographic, it’s
+tion and the paper is concluded with a summary of GNOLL’s           clear there is a need for notation to be straightforward and
+impact and a discussion on its merits, limitations, and desir-      intuitive. able future work for the project. A list of references and an
+appendix follow. ",cs.PL,C,0.13459748,-0.1558479,0.12712538
+http://arxiv.org/pdf/2205.13430v2,GNOLL: Efficient Software for Real-World Dice Notation and Extensions,"Dungeons & Dragons released
+   A collection of results are presented in the subsequent sec-     statistics in 2019 revealing that 12% of players were age 8
+tion and the paper is concluded with a summary of GNOLL’s           to 12, furthermore 40% of players were age 24 or younger
+impact and a discussion on its merits, limitations, and desir-      [4]. It is clear that because there are many players who are
+able future work for the project. A list of references and an       not programmers and even who are not in high school yet,
+appendix follow. ",cs.PL,C,-0.19697727,-0.13546742,0.05549725
+http://arxiv.org/pdf/2205.15204v1,"Programming with rules and everything else, seamlessly","In conclusion, Alda allows the use of logic rules with all of sets, functions, updates, and
+objects in a seamlessly integrated fashion. As a direction for future work, many optimizations
+can be used to improve the eﬃciency of implementations. This includes optimizing the logic
+rule engines used, improving interfaces and interactions with them, and using diﬀerent and
+specialized rule engines such as Souﬄe [JSS16] to obtain the best possible performance. ",cs.PL,B,-0.02640956,0.05274921,-0.02473285
+http://arxiv.org/pdf/2206.01024v1,A Constraint and Object Oriented Fifth Generation Programming Language and its Compiler and Runtime System,"Mark the return to active record of the
+current active record as the current active record, use the
+                                                    HAN Ji-Peng, LICHEN Zhi-Hang：
+
+A Constraint and Object Oriented Fifth Generation Programming Language and its Compiler and Runtime System  21
+
+will be called and the return address of the active record created destroys the simplicity, however, machine learning can be
+
+for the function call will be set to the address of the code on the attempted to determine the multi-dimensional weight of a
+
+previous line of the function call code segment calling this function. In addition, further research is needed to expand the
+
+reverse function in the longest expression code segment, If the scope of reversible inference. start position of function call code segment calling this reverse  In terms of execution performance, during COOL pre-
+
+function coincides with the start position of the code segment of execution, traversal methods are currently used to determine
+
+the longest expression, set the return address to the address of functions with the same structure as expressions, which incur
+
+the next line of code after the end position of the longest considerable performance overhead. ",cs.PL,B,-0.09440627,-0.061632242,0.017228238
+http://arxiv.org/pdf/2206.03457v1,Dependently-Typed Data Plane Programming,"Another direction is to consider the effect of modularity on verification times; if
+a tool incrementally caches verification results for ascribed code blocks, it would only have to
+check the portions of the code that change between runs of the typechecker. Some preliminary
+experiments indicate that modular typechecking offers significant benefits, but an empirical study
+to answer this question carefully is left for future work, after we have optimized our prototype. We also plan to extend Π4 to handle more complicated features of P4 perhaps requiring concolic
+techniques [Godefroid et al. ",cs.PL,B,-0.09786618,0.19969016,-0.09870959
+http://arxiv.org/pdf/2206.03532v1,Q# as a Quantum Algorithmic Language,"• Finally, we provide an elaboration relation from Q# to λQ#, thereby endowing a signiﬁcant portion
+       of Q# with a formal speciﬁcation and additional safety guarantees. Outline In the rest of the paper, we review background on the Q# programming language and Staton’s
+theory for quantum computation (§2); introduce λQ# along with its syntax and semantics (§3); describe
+how λQ# is faithful to the surface Q# language (§4); and discuss related and future work (§5 and §6). 2 Background
+
+Before introducing λQ#, we discuss the two projects that inspired our work. ",cs.PL,C,0.17114991,0.16344753,0.06527701
+http://arxiv.org/pdf/2206.03865v2,Fault-Aware Neural Code Rankers,"We believe that a ranker task is a code understanding task, hence starting with pre-trained encoders
+such as CodeBERT are most effective compared to starting with a pre-trained encode-decoder or
+decoder only code-generation models. We leave the full study about the impact of various ranker
+architectures to future work. We also do not anticipate that just bigger ranker models would ﬁll in the
+gap between current ranked pass@1 and pass@100 since a ranker needs to implicitly learn to execute
+which is a hard task. ",cs.PL,B,-0.25468045,-0.28349355,-0.20742247
+http://arxiv.org/pdf/2206.06164v1,Metric Program Synthesis for Inverse CSG,"In
+particular, our approach can solve 78% of the benchmarks, whereas its closest competitor can only
+solve around 8%. There are several interesting directions for future work. First, we are interested in applying
+our approach to other domains that contain many semantically similar programs that are also
+syntactically close. ",cs.PL,B,-0.24086592,-0.124045454,-0.10808062
+http://arxiv.org/pdf/2206.06164v2,Metric Program Synthesis,"In contrast, our approach relies on a domain-specific distance function, and we find that simple
+distance functions often work fairly well. There is a potential for future work that seeks to apply
+the insights of this work in a deep learning context. Diversity. ",cs.PL,B,-0.2409654,-0.38235328,0.079913795
+http://arxiv.org/pdf/2206.06943v1,Solving Invariant Generation for Unsolvable Loops,"Although our deﬁnition of a defective vari-
+ables does not apply here, we could say the variable x here is somehow defective:
+while the exact value of sin(x) cannot be computed, it could be approximated
+using power series. Extending our work with more general notions of defective
+variables is an interesting line for future work. 7 Experiments
+
+In this section we report on our implementation towards fully automating the
+analysis of unsolvable loops, and report on our experimental setting and results. ",cs.PL,C,-0.038226914,-0.027728323,0.30203193
+http://arxiv.org/pdf/2206.07185v1,Aeneas: Rust Verification by Functional Translation,"Again, doing so will require a fair
+
+amount of engineering time. A ﬁnal unit of future work is to strengthen the C     tool; many authors of Rust veriﬁcation
+
+tools seem to re-implement comparable compiler plugins. Sharing engineering eﬀorts can only
+
+beneﬁt the wider community. ",cs.PL,B,-0.19901928,0.14480776,-0.34118074
+http://arxiv.org/pdf/2206.07185v2,Aeneas: Rust Verification by Functional Translation,"Again, doing so will require a fair
+
+amount of engineering time. A ﬁnal unit of future work is to strengthen the C     tool; many authors of Rust veriﬁcation
+
+tools seem to re-implement comparable compiler plugins. Sharing engineering eﬀorts can only
+
+beneﬁt the wider community. ",cs.PL,B,-0.19901928,0.14480776,-0.34118074
+http://arxiv.org/pdf/2206.07585v1,"NatGen: Generative pre-training by ""Naturalizing"" source code","Later, Liu et al. show that RoBERTa [42]
+generation as a potential future work. outperforms BERT only using Mask Language Modeling (MLM)
+                                                                                   with new training strategies and hyper-parameter tuning. ",cs.PL,B,-0.15923914,-0.415779,-0.2706002
+http://arxiv.org/pdf/2206.07585v2,"NatGen: Generative pre-training by ""Naturalizing"" source code","neural re-factoring tool, more training data, with a larger variety of
+                                                                                   transformations, would be required. We leave this as future work. Table 6: NatGen’s performance in Code summarization
+                                                                                   7 Related Works
+Approach   Go    Java     JS   Python             Php    Ruby   Overall
+ PLBART   18.91  18.45  15.56   19.30             23.58  14.11   18.32             The approach of pre-training large Transformers without human
+  CodeT5  19.56  20.31  16.16   20.01             26.03  15.24   19.55             labels started in NLP domain with BERT [21], which introduces
+ NatGen   19.43  20.38  16.00   20.09             26.00  15.38   19.55             two pre-training objectives (i.e., Mask Language Modeling and
+                                                                                   Next Sentence Prediction). ",cs.PL,B,-0.13661492,-0.4644047,-0.24492371
+http://arxiv.org/pdf/2206.07828v1,Searching Entangled Program Spaces,"10);
+hence a general and efficient SAT encoding is not possible. Although future work might develop a
+
+Proc. ACM Program. ",cs.PL,C,-0.04418527,-0.06739846,-0.041797124
+http://arxiv.org/pdf/2206.09980v1,Semantic preservation for a type directed translation scheme of Featherweight Go,"consider Haskell type classes [7] and traits in Scala [29] and
+Rust [23]. This is another topic for future work. In another direction, we plan
+to adapt our translation scheme and proof method to cover Featherweight Go
+extended with generics [6]. ",cs.PL,A,0.35116285,0.07744339,-0.19124392
+http://arxiv.org/pdf/2206.10893v1,Decoupling the ascending and descending phases in Abstract Interpretation,"Even though this preliminary experimental evaluation is not adequate for
+assessing the impact on eﬃciency (in particular, scalability) of the proposed ap-
+proach, we conjecture that the idea of using a more precise domain D only in the
+descending phase naturally leads to a more easily tunable eﬃciency/precision
+tradeoﬀ. We would also like to stress that our approach is not really meant to be
+used uniformly on all the code being analyzed; rather, the idea is to selectively
+enable it on those portions of the program where a precision gain would be desir-
+able, but scalability issues likely prevent to perform the whole analysis using the
+more precise (and usually less eﬃcient) domain D. As a consequence, an interest-
+ing problem that will be studied in future work is how to automatically identify
+those parts of the program where the decoupled approach is going to be more
+helpful. In particular, we plan to investigate the eﬀectiveness of simple heuristics
+(e.g., suitable metrics on the CFG of a function) as well as more sophisticated
+approaches possibly based on machine learning techniques. ",cs.PL,B,-0.0880734,-0.020757023,0.0819126
+http://arxiv.org/pdf/2206.13831v1,Gradual Soundness: Lessons from Static Python,"Another sound type system is Reticulated, which enforces structural types and
+pioneered the transient semantics [ , ]. A rigorous comparison of Reticulated and
+Static Python is an important topic for future work. We conjecture that adapting code
+to Reticulated requires fewer edits than Static Python but delivers slower performance. ",cs.PL,B,0.015102993,-0.034025673,-0.17955351
+http://arxiv.org/pdf/2206.14091v1,Compilation Forking: A Fast and Flexible Way of Generating Data for Compiler-Internal Machine Learning Tasks,"In future work we will shift the focus on improving our machine
+learning models further, by employing techniques such as graph neural networks
+to better capture graph-based IRs. Furthermore, compilation forking itself provides
+opportunities for further research: We plan to investigate the interplay of optimizations
+by employing nested forking. Besides that, deoptimization enables us to connect data
+generation by compilation forking with using learned or updated ML models in single
+runs. ",cs.PL,B,-0.17738631,-0.22192812,-0.14393544
+http://arxiv.org/pdf/2206.14992v1,Maniposynth: Bimodal Tangible Functional Programming,"Value-Oriented Thinking We hypothesize that expression-oriented and value-oriented
+modes of thinking are distinct states of mind, and experienced programmers tend towards the
+former. An intriguing possibility for future work is to experimentally validate that expression-
+oriented and value-oriented thinking are actually modes—i.e. the activity of considering
+values discourages considering expressions, and vice versa. ",cs.PL,B,0.011194725,-0.076709695,-0.15201432
+http://arxiv.org/pdf/2207.00843v1,Sikkel: Multimode Simple Type Theory as an Agda Library,"Finally, presheaves have been formalized for different purposes than Sikkel [7, 22, 37], but
+these formalizations do not provide all of Sikkel’s features. In future work, we plan to extend Sikkel with support for dependent types. As mentioned in Sec-
+tion 4, our formalization of presheaf models already anticipates this. ",cs.PL,A,0.27400795,0.028433293,-0.102556035
+http://arxiv.org/pdf/2207.00847v1,Combinatory Adjoints and Differentiation,"Our combinatory language features powerful parallel operations and general differentiation and
+adjoint rules that retain semantic data parallelism, but does not devise a general implementation method
+for compact representation of relations and efﬁcient parallel implementation of relational reduction. This
+is future work. An approach to combinatory differentiation based on category theory rather than linear algebra is
+differential categories [6, 10] and its many variations (e.g., [7, 9, 11]). ",cs.PL,A,0.17964011,-0.17794392,0.009791261
+http://arxiv.org/pdf/2207.02355v1,A Concurrent Program Logic with a Future and History,"Lastly, we ob-
+
+serve that the overall runtime tends to increase with the nesting depth and complexity of loops,
+
+as plankton requires several loop iterations (oftentimes between 3 and 5) to ﬁnd an invariant. A
+
+proper investigation of how ﬁnding loop invariants aﬀects the overall runtime is future work. We also stress-tested plankton with faulty variations of the benchmarks. ",cs.PL,B,-0.25831684,0.0016454719,0.26519495
+http://arxiv.org/pdf/2207.02355v2,A Concurrent Program Logic with a Future and History,"A limitation of the existing hindsight theory as well as our work is that it does not apply to
+algorithms with impure future-dependent linearization points like the Herlihy-Wing queue [Herlihy
+and Wing 1990]. We leave the extension of the theory to such algorithms as future work. However,
+pure future-dependent linearization points are more common in concurrent data structures. ",cs.PL,B,-0.12102795,0.0042252876,0.19968066
+http://arxiv.org/pdf/2207.02502v1,VeriFx: Correct Replicated Data Types for the Masses,"VeriFx enables programmers to verify that this is the
+case. In this paper, we did not consider application invariants and leave them as future work. Other approaches [De Porre et al. ",cs.PL,B,-0.064511806,0.37974274,-0.04617276
+http://arxiv.org/pdf/2207.03402v1,Scoped Capabilities for Polymorphic Effects,"The analysis tracks variable reference using a type-and-eﬀect system and annotates every func-
+tion type with the set of free variables it captures. The authors leave the treatment of eﬀect poly-
+morphism to future work. In a similar spirit, Scherer and Hoﬀmann [2013] present Open Closure
+Types to facilitate reasoning about data ﬂow properties such as non-interference. ",cs.PL,A,0.37647036,0.10109308,0.019687302
+http://arxiv.org/pdf/2207.03402v2,Scoped Capabilities for Polymorphic Effects,"The analysis tracks variable reference using a type-and-eﬀect system and annotates every func-
+tion type with the set of free variables it captures. The authors leave the treatment of eﬀect poly-
+morphism to future work. In a similar spirit, Scherer and Hoﬀmann [2013] present Open Closure
+Types to facilitate reasoning about data ﬂow properties such as non-interference. ",cs.PL,A,0.37647036,0.10109308,0.019687302
+http://arxiv.org/pdf/2207.03418v2,Efficient Dual-Numbers Reverse AD via Well-Known Program Transformations,"As our code is simply a proof-of-concept with minimal effort spent
+on performance, we conclude from this that the algorithm described in this paper indeed admits a
+work-efficient implementation. We leave further optimisation of our implementation and extensive
+benchmarking to future work. 11 CONCLUSIONS
+One may ask: if the final algorithm from Section 7 can be argued to be “just taping” (Section 8.3),
+which is already widely used in practice, what was the point? ",cs.PL,B,-0.2302734,0.019528687,0.2320281
+http://arxiv.org/pdf/2207.03578v1,Code Translation with Compiler Representations,"Another limitation is the scale of our current source
+and target sequences. As future work, LLVM IRs could be generated at a larger scale by compiling
+entire projects, which would greatly improve the percentage of successful IR compilations in Table 1. More languages and IRs could be used, and those extensions could be powered by larger models. ",cs.PL,B,-0.23045506,-0.2138288,-0.29902905
+http://arxiv.org/pdf/2207.03578v2,Code Translation with Compiler Representations,"Another limitation is the scale of our current source
+and target sequences. As future work, LLVM IRs could be generated at a larger scale by compiling
+entire projects, which would greatly improve the percentage of successful IR compilations in Table 1. More languages and IRs could be used, and those extensions could be powered by larger models. ",cs.PL,B,-0.23045506,-0.2138288,-0.29902905
+http://arxiv.org/pdf/2207.03578v3,Code Translation with Compiler Representations,"Another limitation is the scale of our current source
+and target sequences. As future work, LLVM IRs could be generated at a larger scale by compiling
+entire projects, which would greatly improve the percentage of successful IR compilations in Table 1. More languages and IRs could be used, and those extensions could be powered by larger models. ",cs.PL,B,-0.23045506,-0.2138288,-0.29902905
+http://arxiv.org/pdf/2207.03994v1,LibNDT: Towards a Formal Library on Spreadable Properties over Linked Nested Datatypes,"We are conﬁdent that this can be proven in our library; however, this requires a strict
+discipline on how to reliably ﬁnd invariants in recursive function over LNDTS, when the signature of
+the function contains elements that are not concerned by this recursivity. This remains an open question
+and will most likely be the subject of future work. Extending LIBNDT with additional datatypes Since, by nature, the work presented in this article
+only applies to a speciﬁc subset of nested datatypes, there are some other nested datatypes which are
+not handled in our work. ",cs.PL,A,0.37307233,0.02960622,0.104909845
+http://arxiv.org/pdf/2207.04034v1,Flux: Liquid Types for Rust,"Their recursive heap predicates
+
+and universally quantiﬁed assertions permit speciﬁcations about the exact values in containers,
+
+and hence, veriﬁcation of functional correctness properties which are currently out of F ’s reach. In future work, it would be interesting to see how to recoup such expressiveness, perhaps by incor-
+
+porating techniques like abstract and bounded reﬁnements, measures, and reﬂection [Vazou et al. 2015, 2013, 2018], that have proven eﬀective in the purely functional setting. ",cs.PL,A,0.26283795,0.15741476,0.078016244
+http://arxiv.org/pdf/2207.05617v1,Mechanizing Refinement Types (extended),"Finally, the stately pace of veriﬁcation — 9400 lines across 35 ﬁles take about 30 minutes — hinders
+interactive development. Thus, rapid incremental checking, lightweight synthesis, and actionable
+error messages would go a long way towards improving the ergonomics of veriﬁcation, and hence
+remain important directions for future work. REFERENCES
+
+Brian E. Aydemir, Aaron Bohannon, Matthew Fairbairn, J. Nathan Foster, Benjamin C. Pierce, Brian E. Aydemir, Aaron Bo-
+   hannon, Matthew Fairbairn, J. Nathan Foster, Benjamin C. Pierce, Peter Sewell, Dimitrios Vytiniotis, Geoﬀrey Washburn,
+   Stephanie C. Weirich, Stephan A. Zdancewic, Brian E. Aydemir, Aaron Bohannon, Matthew Fairbairn, J. Nathan Fos-
+   ter, Benjamin C. Pierce, Peter Sewell, Dimitrios Vytiniotis, Stephanie Weirich, and Steve Zdancewic. ",cs.PL,B,-0.21931702,-0.04750656,0.096645445
+http://arxiv.org/pdf/2207.05946v1,Distribution Theoretic Semantics for Non-Smooth Differentiable Programming,"Furthermore, we conjecture that by allowing non-terminating behavior it might be easier
+
+to get a better categorical understanding of what distributions are, as test functions might simply
+
+be smooth functions, instead of compactly supported ones. Another promising line of work that requires further research is developing a theory of probability
+inside Diff. Many modern Bayesian inference engines rely on differentiable programming. ",cs.PL,C,0.086159885,-0.1630134,0.17654505
+http://arxiv.org/pdf/2207.06574v1,Bringing Iris into the Verified Software Toolchain,"Still, the work of Lahav et
+    al. [16] gives us conﬁdence that the axiomatization is correct, and we hope to complete the proof
+    in future work. The work described here does not allow us to take advantage of every innovation in Iris, nor does
+it give us guarantees down to assembly for every sophisticated concurrent program we are able to
+verify, but it goes a long way towards bringing VST up to date with the latest tools in concurrent
+separation logic. ",cs.PL,B,0.07813054,0.33481148,-0.067215115
+http://arxiv.org/pdf/2207.06574v2,Bringing Iris into the Verified Software Toolchain,"Still, the work of Lahav et al. [16] gives us conﬁdence that the
+     axiomatization is correct, and we hope to complete the proof in future work. The work described here does not allow us to take advantage of every innovation in
+Iris, nor does it give us guarantees down to assembly for every sophisticated concurrent
+program we are able to verify, but it goes a long way towards bringing VST up to date
+with the latest tools in concurrent separation logic. ",cs.PL,B,0.07813054,0.33481148,-0.067215115
+http://arxiv.org/pdf/2207.08389v1,MLGOPerf: An ML Guided Inliner to Optimize Performance,"minimized. Our proposed work, MLGOPerf, is similar to MLGO
+Finally, in Section 5 we reveal the current shortcomings, challenges,      in the sense that we leverage the inlining infrastructure already
+and propose some future work. upstreamed in LLVM repository, however, we adapt a framework
+                                                                           to derive decisions to optimize performance rather than a reduction
+2 RELATED WORK                                                             in code size. ",cs.PL,B_centroid,-0.3342066,-0.079442754,-0.21898246
+http://arxiv.org/pdf/2207.08389v2,MLGOPerf: An ML Guided Inliner to Optimize Performance,"minimized. Our proposed work, MLGOPerf, is similar to MLGO
+Finally, in Section 5 we reveal the current shortcomings, challenges,      in the sense that we leverage the inlining infrastructure already
+and propose some future work. upstreamed in LLVM repository, however, we adapt a framework
+                                                                           to derive decisions to optimize performance rather than a reduction
+2 RELATED WORK                                                             in code size. ",cs.PL,B,-0.3342066,-0.079442754,-0.21898246
+http://arxiv.org/pdf/2207.08795v1,Multi Types and Reasonable Space (Long Version),"Taking advantage of a recent
+result about a reasonable space measure for the call-by-name -calculus, we craft a multi type
+system able to reﬂect such a measure on typed -terms. There are at least two interesting directions for future work. Firstly, we would like to adapt
+the type system to cover call-by-value evaluation, where a notion of reasonable space measure
+is known [9], too. ",cs.PL,A,0.36328608,0.015663438,0.050216522
+http://arxiv.org/pdf/2207.09379v1,To what extent can we analyze Kotlin programs using existing Java taint analysis tools?,"Finally, we conclude and
+                                        such as injections [1], [8], [9] and XSS [10]. This versatility     present our future work in Section V.
+                                        of the taint analysis is due to its capacity to set various inputs
+                                        in the form of rules. At its core, the analysis follows the path       3 https://github.com/spring- petclinic/spring- petclinic- kotlin
+                                        between so-called sources, where the taint is created, until so-
+                                        called sinks, where the taint is reported. ",cs.PL,C,0.053523093,0.24934201,0.09020514
+http://arxiv.org/pdf/2207.09379v2,To what extent can we analyze Kotlin programs using existing Java taint analysis tools? (Extended Version),"Finally, we conclude and                                       helps to identify the challenges easily and quickly. For deeper
+present our future work in Section V.                                                          examination, we then examine the IR and Java bytecode. II. ",cs.PL,B,-0.25522357,0.04241231,-0.28282875
+http://arxiv.org/pdf/2207.09914v1,Constraint-based type inference for FreezeML,"Such types need not induce,
+and depending on the theory such types may have equivalent forms with diﬀerent numbers of
+quantiﬁed types. Adopting the unordered quantiﬁcation approach in Section 5.2 could help with
+this, but we leave this and the investigation of generalizing to a “FreezeML( )” to future work. 7 CONCLUSIONS
+
+Emrich et al. ",cs.PL,A,0.45669603,0.003940495,0.13194403
+http://arxiv.org/pdf/2207.10386v1,Temporal Verification with Answer-Effect Modification,"We believe that this work will serve on compositional
+veriﬁcation of temporal properties of programs in practical languages. There are several directions for future work. A key step for practice is to automate veriﬁcation
+of the reasoning with our eﬀect system. ",cs.PL,A,0.29490894,0.07704347,-0.12617862
+http://arxiv.org/pdf/2207.11350v1,CoqQ: Foundational Verification of Quantum Programs,"2019; Li
+and Unruh 2021; Unruh 2019b] develop relational Hoare logics for quantum programs. A promising
+direction for future work is to enhance our formalization to support relational reasoning. There are also many alternative approaches to verify quantum programs based on dynamic logic,
+temporal logic, Kleene algebra, type theory and process algebra, see for instance [Akatov 2005;
+Baltag and Smets 2006; Brunet and Jorrand 2004; Feng et al. ",cs.PL,C,0.23860455,0.18297789,-0.032890264
+http://arxiv.org/pdf/2207.13291v1,Correct Compilation of Semiring Contractions,"2017]. By implementing in Lean, our compiler is amenable to mechanized verification, but we leave
+this mechanization as future work. Our prototype implementation demonstrates that
+
+    • variable contraction problems can be specified in a high-level, richly typed input language
+       that helps prevent programmer error, and
+
+    • high-performance programs can be generated from this notation using a concise, modular
+       compilation approach. ",cs.PL,B,0.02450605,0.097831115,-0.29357365
+http://arxiv.org/pdf/2208.00192v1,Typed SLD-Resolution: Dynamic Typing for Logic Programming,"Arithmetic interpretations of +, −, ×, and / can be
+introduced in the typed uniﬁcation algorithm, so that in this context, uniﬁcations
+such as a + b = a + b would now return wrong instead of true. These extensions
+are left for future work. Using TSLD in practice: we plan to integrate TSLD into the YAP Prolog
+System [CRD12]. ",cs.PL,A,0.3355484,-0.018726995,0.06105773
+http://arxiv.org/pdf/2208.00315v1,Implementing and Verifying Release-Acquire Transactional Memory (Extended Version),"TMS2 is known to be a sufficient abstraction for hybrid TMs in
+SC [Armstrong and Dongol 2017], so it is likely that TMS2-ra also provides a basis for developing
+and verifying relaxed and release-acquire versions of these more sophisticated algorithms. We
+leave such studies for future work. ACKNOWLEDGMENTS
+
+The authors would also like to thank the anonymous referees for their valuable comments and
+helpful suggestions. ",cs.PL,B,-0.1442477,0.011900825,0.054016907
+http://arxiv.org/pdf/2208.04632v1,Branching Pomsets for Choreographies,"The conﬂict heredity property of prime event
+structures leads to event duplication, which is avoided in ﬂow event structures and branching pomsets. We leave a detailed comparison between ﬂow event structures and branching pomsets for future work. We note that, given a branching pomset, one may construct an event structure by deﬁning its conﬂict
+relation as all pairs of events that belong to different branches of some choice in the branching structure. ",cs.PL,C,0.16309373,0.0112424195,0.14692405
+http://arxiv.org/pdf/2208.04635v1,Lang-n-Send Extended: Sending Regular Expressions to Monitors,"We believe that the
+three examples in [14], together with the examples in this paper, provide a good idea of the potential uses
+of LANG-N-SEND+m. As future work, we would like to design a type system for LANG-N-SEND+m. We also would like
+to extend LANG-N-SEND+m. ",cs.PL,A,0.26272094,-0.034140676,-0.2160655
+http://arxiv.org/pdf/2208.06329v1,Multi-Model Probabilistic Programming,"Each node represents a model and each edge represents one
+swapped-out module. 63
+sophisticated search methods for future work. Our greedy graph search loops over the following steps, given an arbitrary
+
+starting point:
+
+   1. ",cs.PL,B,-0.19660354,-0.18917766,0.22139326
+http://arxiv.org/pdf/2208.06810v1,"Generic Go to Go: Dictionary-Passing, Monomorphisation, and Hybrid","2019]) and are applicable for languages with recursion. Sulzmann and Wehr [2021]
+left a type-preserving translation from FG and a translation from FGG as their future work. No
+
+implementation or evaluation of their translation is provided. ",cs.PL,A,0.32597256,-0.12325829,-0.1601914
+http://arxiv.org/pdf/2208.06810v2,"Generic Go to Go: Dictionary-Passing, Monomorphisation, and Hybrid","2019]), and are applicable for languages with recursion. Sulzmann and Wehr
+[2021] left a type-preserving translation from FG and a translation from FGG as their future work. No implementation or evaluation of their translation is provided. ",cs.PL,A,0.33010906,-0.12122415,-0.15878317
+http://arxiv.org/pdf/2208.07451v1,Invariant Inference With Provable Complexity From the Monotone Theory,"However, since B also changes
+   the available inductive invariants, the overall convergence might actually be faster
+   with a larger (less extrapolating) B. Understanding how to choose B is an important
+   direction for future work. (In [14], B was obtained from the states that reach a bad
+   state in a ﬁxed number of steps, mimicking PDR’s scheme for generating proof
+   obligations.) ",cs.PL,C,-0.0029171417,0.0017683895,0.25692725
+http://arxiv.org/pdf/2208.10460v1,Towards Clause Learning à la Carte through VarMonads,"As our constructions
+use a state monad for the current assignment and dependency tracking, we get
+search features like branching for free. Therefore, for future work, our approach
+only needs to be combined with [15] to create a full solving system. Furthermore,
+it needs to be investigated how to combine the results with [12,13,14] so that the
+constraint solving and clause learning come for free even in a concurrent setting. ",cs.PL,A,0.09714444,-0.12274133,-0.029114256
+http://arxiv.org/pdf/2208.10530v2,Smoothness Analysis for Probabilistic Programs with Application to Optimised Variational Inference,"On the other hand,
+(R5) follows from (R2’) and (R3’) now under two (instead of one) regularity conditions on densities
+(Theorem E.2), where the first condition is the one mentioned in §4.2 and the second (new) condition
+is about some form of almost-everywhere differentiability of densities. Although we believe that
+the two regularity conditions would usually hold in practice, they can be violated in some cases that
+involve locally Lipschitz, non-differentiable functions; hence, it would be worthwhile to devise an
+automatic way of checking the two conditions or more generally (R5), which we leave as future work. Because local Lipschitzness property has wider coverage than differentiability in practice while
+ensuring that the results in §4.2 remain valid, our implementation and experiments consider the
+option of using (R2’) and (R3’) as well as that of using (R2) and (R3); see §5.3–§7 for details. ",cs.PL,C,0.013384121,0.012545826,0.3561712
+http://arxiv.org/pdf/2208.10530v3,Smoothness Analysis for Probabilistic Programs with Application to Optimised Variational Inference,"On the other hand,
+(R5) follows from (R2’) and (R3’) now under two (instead of one) regularity conditions on densities
+(Theorem E.2), where the first condition is the one mentioned in §4.2 and the second (new) condition
+is about some form of almost-everywhere differentiability of densities. Although we believe that
+the two regularity conditions would usually hold in practice, they can be violated in some cases that
+involve locally Lipschitz, non-differentiable functions; hence, it would be worthwhile to devise an
+automatic way of checking the two conditions or more generally (R5), which we leave as future work. Because local Lipschitzness property has wider coverage than differentiability in practice while
+ensuring that the results in §4.2 remain valid, our implementation and experiments consider the
+option of using (R2’) and (R3’) as well as that of using (R2) and (R3); see §5.3–§7 for details. ",cs.PL,C,0.013384121,0.012545826,0.3561712
+http://arxiv.org/pdf/2208.11241v1,Your Blockchain Needn't Care How the Message is Spread,"Afterwards, we discuss related work in Sect. 5 and give a conclusion and an
+outlook on ongoing and future work in Sects. 6 and 7. ",cs.PL,C,-0.038008373,0.0023923628,-0.08671025
+http://arxiv.org/pdf/2208.11858v1,Polyhedral Specification and Code Generation of Sparse Tensor Contraction with Co-Iteration,"Compared to tensor algebra compilers such as TACO [41], we eliminated many
+special cases in the compiler design and extended the capability in both supporting layouts and
+implementing co-iteration. However, in this work, the support for disjunctive merge, which can be
+represented as sparse loop fusion, is future work. 10 CONCLUSION & FUTURE WORK
+
+The polyhedral framework provides mathematical descriptions of loop nest computations that
+enable dependence testing, composing code transformation sequences, and generating code. ",cs.PL,B,0.034124736,-0.056420796,-0.058289647
+http://arxiv.org/pdf/2208.12747v1,Automatic Synthesis of Random Generators for Numerically Constrained Algebraic Recursive Types,"depth ﬁrst search). This will be
+   studied in future work. 3 Constrained Type Solving
+
+   A Constraint Satisfaction Problem (CSP) is a triple (X , D, C) where X is a set
+
+   of variables, D is a function associating a ﬁnite domain (considered here as a
+
+   subset of Z without any loss of generality) to every variable and C is a set of
+
+   constraints, each of them being < var(c), rel(c) >, where var(c) is a tuple of
+
+   variables (Xi1 , .., Xir ) called the scope of c, and rel(c) is a relation between
+                                    r
+   these variables, i.e., rel(c) ⊆  k=1  D(Xik ). ",cs.PL,C,0.18766418,-0.09703863,0.16123706

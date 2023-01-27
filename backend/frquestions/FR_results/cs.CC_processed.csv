@@ -1,0 +1,418 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.08895v1,On the Satisfaction Probability of $k$-CNF Formulas,"It is,
+    however, not clear whether such a family exists as the natural way of searching for packings
+    or sunﬂowers involves color coding, which seems to need a quadratic size for derandomization. While these considerations will not be important for the complexity-theoretic statements of
+    the main theorem, further research on the complexity of ksat-prob≥δ could address these
+    questions. 4.2 Lower Complexity Bounds for the Strictly-Greater-Than Problem
+
+    We now show that ksat-prob>δ is NL- or NP-hard for certain values of k and δ. ",cs.CC,A_centroid,-0.105366774,-0.14153722,-0.22846925
+http://arxiv.org/pdf/2201.08895v2,On the Satisfaction Probability of $k$-CNF Formulas,"It is,
+    however, not clear whether such a family exists as the natural way of searching for packings
+    or sunﬂowers involves color coding, which seems to need a quadratic size for derandomization. While these considerations will not be important for the complexity-theoretic statements of
+    the main theorem, further research on the complexity of ksat-prob≥δ could address these
+    questions. 4.2 Lower Complexity Bounds for the Strictly-Greater-Than Problem
+
+    We now show that ksat-prob>δ is NL- or NP-hard for certain values of k and δ. ",cs.CC,A,-0.105366774,-0.14153722,-0.22846925
+http://arxiv.org/pdf/2201.08988v2,Faster Algorithms for Sparse ILP and Hypergraph Multi-Packing/Multi-Cover Problems,"To handle the problems with multiplicities, we just take the com-
+plexity bound (13). We also mention that the existence of algorithms for the
+problems Count-IP and Opt-And-Count-IP in the form Standard-Form with
+multiplicities, parameterized by k and polynomial by n, is open, and it is a
+good direction for further research. Sparse ILP and Applications                                      13
+
+Table 2: New complexity bounds for ILP problems in the form Standard-Form
+
+           Problems:                                               T ime : 1
+   Opt-IP without mult. ",cs.CC,A,-0.3719654,-0.017081544,0.044587087
+http://arxiv.org/pdf/2201.08988v3,Faster Algorithms for Sparse ILP and Hypergraph Multi-Packing/Multi-Cover Problems,"To handle the problems with multiplicities, we just take the com-
+plexity bound (13). We also mention that the existence of algorithms for the
+problems Count-IP and Opt-And-Count-IP in the form Standard-Form with
+multiplicities, parameterized by k and polynomial by n, is open, and it is a
+good direction for further research. Table 2: New complexity bounds for ILP problems in the form Standard-Form
+
+           Problems:                                               T ime : 1
+   Opt-IP without mult. ",cs.CC,A,-0.3695431,-0.014097417,0.052125715
+http://arxiv.org/pdf/2202.08357v1,On the Complexity of Some Variations of Sorting by Transpositions,"The complexity of the ﬁrst set of problems remains open when w2/w1 > 1.5,
+and the complexity of the fragmentation-weighted problems remains open for
+the model with only reversals. Another future work direction is to study the
+hardness of approximation for the optimization problems of genome rearrange-
+ments, including models with only transpositions and transpositions alongside
+reversals. Acknowledgments
+
+This work was supported by the National Council of Technological and Scien-
+tiﬁc Development, CNPq (grants 400487/2016-0 and 425340/2016-3), the Coor-
+denac¸a˜o de Aperfei¸coamento de Pessoal de N´ıvel Superior - Brasil (CAPES) -
+Finance Code 001, and the Sa˜o Paulo Research Foundation, FAPESP (grants
+2013/08293-7, 2015/11937-9, 2017/12646-3, and 2019/27331-3). ",cs.CC,B,0.11183232,0.06489285,0.0046290504
+http://arxiv.org/pdf/2202.08909v1,"Proofs, Circuits, and Communication","We note that, in contrast to [BEGJ00], for this application it is indeed important that the
+communication model of the lifting theorem is real communication protocols and not triangle-dags. 5 Perspectives and Open Problems
+
+In this ﬁnal section, we discuss directions for further research inspired by the themes of this survey. Our main conceptual message is this: We advocate to foster the interplay between the diﬀerent
+subﬁelds of complexity theory—circuit complexity, proof complexity, query/communication com-
+plexity, and the theory of total search problems. ",cs.CC,A,-0.07058536,-0.11141481,0.2024627
+http://arxiv.org/pdf/2202.09495v1,Sorting Balls and Water: Equivalence and Computational Complexity,"That
+is, these transparent balls are just used for arranging balls, and their ﬁnal positions do not
+matter in the ﬁnal state. Those extensions seems to be reasonable future work. References
+
+1 Michael R. Garey and David S. Johnson. ",cs.CC,B,0.26791996,0.29963574,0.14433363
+http://arxiv.org/pdf/2203.05019v1,Quantum and Classical Algorithms for Bounded Distance Decoding,"Elsewhere in the paper, they proved the opposite direction of the reduction as well, meaning
+that the conjectured hardness of γ-GAP-SVP is equivalent to the hardness of BDD. It is precisely
+because of this link between the security of LWE and BDD that further study of Eldar and Hallgren’s
+algorithm for BDD is so important. 2.4 Survey of Quantum Approaches to Lattice Problems
+
+Before Eldar and Hallgren’s algorithm for BDD, a number of other quantum algorithms have been
+
+proposed for diﬀerent lattice problems. ",cs.CC,A,-0.10554798,0.073586,-0.12538911
+http://arxiv.org/pdf/2203.05207v1,Computing Whittle (and Gittins) Index in Subcubic Time,"One might expect to have more efficient algorithms if the process has a sparse
+
+structure. We leave this question for future work. 7
+
+ In fact, Whittle index was first introduced as a generalization of Gittins index to restless bandit in [47]. ",cs.CC,A,0.1414499,0.1379533,-0.20126528
+http://arxiv.org/pdf/2203.05207v2,Computing Whittle (and Gittins) Index in Subcubic Time,"One might expect
+to have more eﬃcient algorithms if the arm has a sparse structure. We leave
+this question for future work. Acknowledgments. ",cs.CC,A,-0.016838396,0.18699887,0.09057967
+http://arxiv.org/pdf/2203.07079v1,"Strategy Complexity of Point Payoff, Mean Payoff and Total Payoff Objectives in Countable MDPs","The lower bounds hold even for integer transition rewards, since all our
+counterexamples are of this form. Directions for future work include the corresponding questions for lim sup threshold
+objectives. While the lim inf point payoﬀ objective generalizes co-Bu¨chi (see Section 2), the
+lim sup point payoﬀ objective generalizes Bu¨chi. ",cs.CC,C,0.27686766,0.5879862,-0.09168391
+http://arxiv.org/pdf/2203.07079v2,"Strategy Complexity of Point Payoff, Mean Payoff and Total Payoff Objectives in Countable MDPs","The lower bounds hold even for integer transition rewards, since all our
+counterexamples are of this form. Directions for future work include the corresponding questions for lim sup threshold
+objectives. While the lim inf point payoﬀ objective generalizes co-Bu¨chi (see Section 2), the
+lim sup point payoﬀ objective generalizes Bu¨chi. ",cs.CC,C,0.27686766,0.5879862,-0.09168391
+http://arxiv.org/pdf/2203.07941v1,Reachability In Simple Neural Networks,"We conclude in Sec. 5 with references to possible future work which focuses on further research
+regarding computational complexity and decidability issues on the reachability problems of NN or
+deep learning models in a broader sense. 2. ",cs.CC,B,0.18948299,-0.2851153,0.42790595
+http://arxiv.org/pdf/2203.07941v2,Reachability In Simple Neural Networks,"We conclude in Sec. 5 with references to possible future work which focuses on further research
+regarding computational complexity and decidability issues on the reachability problems of NN or
+deep learning models in a broader sense. 2. ",cs.CC,B,0.18948299,-0.2851153,0.42790595
+http://arxiv.org/pdf/2203.09233v1,On the Complexity of Techniques That Make Transition Systems Implementable by Boolean Nets,"Unfortunately, it turns out that these techniques are also
+NP-complete for τ , and all implementations. Hence, it remains future work to investigate whether
+other techniques that make TS implementable may have a better complexity, as, for example, the
+insertion of states, edges or events. Moreover, one might consider κ as a parameter and investigate the discussed modiﬁcation tech-
+niques from the point of view of parameterized complexity. ",cs.CC,B,-0.0048496914,-0.12364408,0.37908396
+http://arxiv.org/pdf/2203.09233v2,On the Complexity of Techniques That Make Transition Systems Implementable by Boolean Nets,"There is however a single case that,
+surprisingly, remains undetermined: the complexity for event-removal when ω = ∅. Hence, it
+remains for future work to investigate this special case, and to search for other techniques that
+may have a better complexity to make a TS implementable, like for example the insertion of
+states, edges or events. Moreover, one might consider κ as a parameter and investigate the discussed modiﬁcation tech-
+niques from the point of view of parameterized complexity. ",cs.CC,B,0.11781241,-0.11436297,0.28645945
+http://arxiv.org/pdf/2203.09728v1,On the Problem of Undirected st-connectivity,"This is a direct consequence of Theorem 4.1 and Theorem 6.2. 7 Discussion
+
+In this section, we will discuss the importance of the paper by Reingold[1] and some further research
+based on the paper. The paper by Reingold has made progress towards discovering the relationship between L and RL. ",cs.CC,C,0.04758319,0.1155418,0.10544324
+http://arxiv.org/pdf/2203.14379v1,Constructive Separations and Their Consequences,"This completes the proof of the overall theorem. 7 Conclusion
+
+Many interesting questions remain for future work. While we have given many examples of
+complexity separations that can automatically be made constructive, it is unclear how to extend
+our results to separations with complexity classes within P. For example, let L be a P-complete
+
+28
+language. ",cs.CC,B,0.03992905,-0.2252559,0.19941226
+http://arxiv.org/pdf/2203.15667v1,Algorithms and Barriers in the Symmetric Binary Perceptron Model,"A
+more compelling picture would be to show that the OGP takes place also for the asymmetric
+model, with an η that is of order O(1); and then couple such result with Theorem 3.8. We leave
+this as a very interesting direction for future work. Lastly, it would also be very interesting to prove that the algorithm by Abbe, Li and
+Sly [ALS21a] devised for the SBP is also stable in the relevant sense. ",cs.CC,C,-0.021189345,0.20288321,0.08668533
+http://arxiv.org/pdf/2204.01368v1,Training Fully Connected Neural Networks is $\exists\mathbb{R}$-Complete,"1.2 Discussion
+
+In this section, we discuss our main theorem from various perspectives, pointing out strengths and
+limitations. This includes, but is not limited to, identifying angles from which it is tight and angles
+from which it leaves room for further research. Input Neurons. ",cs.CC,B,0.14774859,0.031338867,0.1926165
+http://arxiv.org/pdf/2204.01368v2,Training Fully Connected Neural Networks is $\exists\mathbb{R}$-Complete,"A famous example is mixed-integer programming, which is NP-complete, but highly op-
+timized solvers can eﬃciently ﬁnd globally optimal solutions to a wide range of practical instances. Consequently, an exciting question for further research is to explain this discrepancy between the-
+oretical hardness and practical eﬃciency by ﬁnding suitable extra assumptions which circumvent
+hardness and are satisﬁed in practical settings. 1.3 Existential Theory of the Reals
+
+The complexity class ∃R (pronounced as “ER”) has gained a lot of interest in recent years. ",cs.CC,A,0.116874166,-0.08715409,-0.01039426
+http://arxiv.org/pdf/2204.05809v1,1-Extendability of independent sets,"Corollary 2. param-1-Extendability admits a kernel with O(k2) vertices on
+planar graphs and d-degenerate graphs for bounded d, and a kernel with O(kr2 )
+vertices on Kr-free graphs for every ﬁxed r 3. 6 Conclusion and further research
+
+We investigated the computational complexity of 1-Extendability. We showed
+that in general graphs it cannot be solved in subexponential-time unless the
+ETH fails, and that it remains NP-hard in subcubic planar graphs and in
+unit disk graphs. ",cs.CC,A,-0.23770218,-0.10012652,0.23238215
+http://arxiv.org/pdf/2204.12614v1,MaxSAT with Absolute Value Functions: A Parameterized Perspective,"Using a collection of additional reduction rules, we were able to generalize the results from pα,d-abs-dnf to
+pα,d-abs-io, which tries to optimize the absolute value of the target function of a restricted integer optimization
+problem. An interesting line of further research could be to study the minimization version of the problems pre-
+sented within this paper. Usually, minimization and maximization problems have similar complexity, as one
+can perform some easy modiﬁcations such as multiplying all weights with −1. ",cs.CC,A,-0.19379432,0.3273965,-0.049780656
+http://arxiv.org/pdf/2205.00611v1,Improved Low-Depth Set-Multilinear Circuit Lower Bounds,"Thus,        we       conclude              that      s  ≥   d  log d  =     dΩ(log d). 120                                                                       120
+
+4 Discussion and Open Problems
+
+We conclude by mentioning some interesting directions for future work. • The most interesting and natural question is to make the hard polynomial in our main result IMMn,n. ",cs.CC,C,-0.1852389,0.09677905,-0.38839614
+http://arxiv.org/pdf/2205.00851v1,Weighted Counting of Matchings in Unbounded-Treewidth Graph Families,"Indeed, using a weighted
+
+    variant of the FKT algorithm [8, Chapter 4], the weighted counting of perfect matchings is
+
+    polynomial-time over the class of planar graphs, which is treewidth-constructible. We conclude by leaving open two directions for future work. The first one would be to
+
+    obtain the same kind of lower bounds when the probabilities annotate the nodes instead of the
+
+    edges, that is, studying the corresponding weighted counting problems for, e.g., independent
+
+    sets, vertex covers, or cliques. ",cs.CC,A,-0.19349235,-0.06691695,-0.0632973
+http://arxiv.org/pdf/2205.02149v1,Degree-restricted strength decompositions and algebraic branching programs,"In Theorem 13, we apply this new method to give a lower bound on the
+   k-restricted strengths of an explicit sequence of polynomials, which implies a lower bound on
+   the minimal size of an algebraic branching program computing it. In Section 3.3, we further study the notion of slice rank, a particular instance of k-
+   restricted strength. Theorem 17 gives an improved version of Proposition 8 in the case
+   of slice rank. ",cs.CC,C_centroid,-0.14178793,0.14401841,-0.17955056
+http://arxiv.org/pdf/2205.02149v2,Degree-restricted strength decompositions and algebraic branching programs,"If the degree is exponential
+   in N , we get a further additive improvement of order N2 dc/N , see Corollary 17(c). In Section 3.4, we further study the notion of slice rank of homogeneous polynomials,
+
+   which is a special case of k-restricted strength when k = 1. Theorem 18 gives a method to
+
+   prove lower bounds on the slice rank. ",cs.CC,C,-0.264476,0.1678907,-0.26242685
+http://arxiv.org/pdf/2205.02161v1,Is the Algorithmic Kadison-Singer Problem Hard?,"On the other side, our NP-hardness result shows that the Kadison-Singer type problem for arbitrary
+dimensions can be as hard as solving the SAT problem, and the KS2(c) problem belongs to different com-
+plexity classes for different values of c. Hence, more reﬁned studies on the classiﬁcation of its computational
+complexity would help us better understand the complexity of the algorithmic Kadison-Singer problem. In
+our point of view, both directions left from the paper are very interesting, and we leave these for future work. References
+
+[AG14]    Nima Anari and Shayan Oveis Gharan. ",cs.CC,A,-0.45625767,-0.33682376,-0.1245201
+http://arxiv.org/pdf/2205.02161v2,Is the Algorithmic Kadison-Singer Problem Hard?,"On the other side, our NP-hardness result shows that the Kadison-Singer type problem for arbitrary
+dimensions can be as hard as solving the SAT problem, and the KS2(c) problem belongs to different com-
+plexity classes for different values of c. Hence, more reﬁned studies on the classiﬁcation of its computational
+complexity would help us better understand the complexity of the algorithmic Kadison-Singer problem. In
+our point of view, both directions left from the paper are very interesting, and we leave these for future work. Acknowledgement. ",cs.CC,A,-0.44258392,-0.34673044,-0.12747785
+http://arxiv.org/pdf/2205.02161v3,Is the Algorithmic Kadison-Singer Problem Hard?,"On the other side, our NP-hardness result shows that the Kadison-Singer type problem for arbitrary
+dimensions can be as hard as solving the SAT problem, and the KS2(c) problem belongs to different com-
+plexity classes for different values of c. Hence, more reﬁned studies on the classiﬁcation of its computational
+complexity would help us better understand the complexity of the algorithmic Kadison-Singer problem. In
+our point of view, both directions left from the paper are very interesting, and we leave these for future work. Acknowledgement. ",cs.CC,A,-0.44258392,-0.34673044,-0.12747785
+http://arxiv.org/pdf/2205.02374v1,The composition complexity of majority,"D)
+
+                                                                                                                                 ∈
+
+        ≤  Pr[X⊕i ∈ D | X ∈ Sv] + Pr[X⊕i ∈ D ∧ Xi = 1 ∧ |X(i→0)| = w∗ − 1 | X ∈ Sv]
+
+                                              Pr[|X| = w∗ | X ∈ Sv]
+
+                                                                                                        (logical consequences)
+
+           2−10q+1 + pw∗−1                                               pw∗ −1
+        ≤                      2              (because      there  are      2    |D  ∩  Sv |  inputs    of  type  (ii),  and  by  (9))
+              p ∗ +p ∗
+              w        w −1
+
+                  2
+
+        = 2−10q+2 + pw∗−1
+              pw∗ + pw∗−1
+
+           2−10q+2 + (pw∗ − 2−2q−3)                    (because pw∗ ≥ 2−2q−3 > 210q+2 and pw∗−1 ≤ pw∗ − 2−2q−3)
+        ≤ pw∗ + (pw∗ − 2−2q−3)
+
+           1 2−2q−3/2 − 2−10q+2
+        =−
+           2      2pw∗ − 2−2q−3
+
+           1           2−2q−5
+        ≤ 2 − 2pw∗ − 2−2q−3                                                                                       (because q ≥ 1)
+
+           1 2−2q−5
+        <−                                                                                                      (because pw∗ ≤ 1)
+           2      2                                                                                                (because q ≥ 1)
+
+        = 1 − 2−O(q),
+           2
+
+thus (8) is satisﬁed, and this concludes the proof. 22
+6 Conclusion
+
+In this section we outline several interesting directions for future work. 6.1 A plan towards better depth-3 lower bounds
+
+                                                                                                                            √
+As we pointed out in√the introduction, if it were possib√le to compute Majn as a fan-in-O( n)
+function of fan-in-O( n) functions√, there would be 2O( n)-size depth-3 circuits for Ma√jn. ",cs.CC,A,-0.04647664,0.18706432,-0.16636932
+http://arxiv.org/pdf/2205.02374v2,The composition complexity of majority,"D)
+
+                                                                                                                                 ∈
+
+        ≤  Pr[X⊕i ∈ D | X ∈ Sv] + Pr[X⊕i ∈ D ∧ Xi = 1 ∧ |X(i→0)| = w∗ − 1 | X ∈ Sv]
+
+                                              Pr[|X| = w∗ | X ∈ Sv]
+
+                                                                                                        (logical consequences)
+
+           2−10q+1 + pw∗−1                                               pw∗ −1
+        ≤                      2              (because      there  are      2    |D  ∩  Sv |  inputs    of  type  (ii),  and  by  (9))
+              p ∗ +p ∗
+              w        w −1
+
+                  2
+
+        = 2−10q+2 + pw∗−1
+              pw∗ + pw∗−1
+
+           2−10q+2 + (pw∗ − 2−2q−3)                    (because pw∗ ≥ 2−2q−3 > 210q+2 and pw∗−1 ≤ pw∗ − 2−2q−3)
+        ≤ pw∗ + (pw∗ − 2−2q−3)
+
+           1 2−2q−3/2 − 2−10q+2
+        =−
+           2      2pw∗ − 2−2q−3
+
+           1           2−2q−5
+        ≤ 2 − 2pw∗ − 2−2q−3                                                                                       (because q ≥ 1)
+
+           1 2−2q−5
+        <−                                                                                                      (because pw∗ ≤ 1)
+           2      2                                                                                                (because q ≥ 1)
+
+        = 1 − 2−O(q),
+           2
+
+thus (8) is satisﬁed, and this concludes the proof. 22
+6 Conclusion
+
+In this section we outline several interesting directions for future work. 6.1 A plan towards better depth-3 lower bounds
+
+                                                                                                                            √
+As we pointed out in√the introduction, if it were possib√le to compute Majn as a fan-in-O( n)
+function of fan-in-O( n) functions√, there would be 2O( n)-size depth-3 circuits for Ma√jn. ",cs.CC,A,-0.04647664,0.18706432,-0.16636932
+http://arxiv.org/pdf/2205.03372v1,Constrained Backward Time Travel Planning is in P,"The existence of a single backward-free travel (that is, a journey) to the destination implies a
+travel of optimal cost Opt = c (travel to the destination and perform a single backward time travel to
+reach time 0), and this travel can be discovered arbitrarily far in the future. Considering other functions in U O with respect to online competitive ratio is left for future work. References
+
+ [1] Arnaud Casteigts, Paola Flocchini, Bernard Mans, and Nicola Santoro. ",cs.CC,B,0.155894,0.18717608,0.1980943
+http://arxiv.org/pdf/2205.03400v2,Defying Gravity: The Complexity of the Hanano Puzzle,"By leveraging schemas and symmetry, we only needed to provide seven gadgets (instead of 32
+gadgets). However, we suspect that it could be further lowered, and future work could focus on
+lowering that number. Additionally, it is unknown if Theorem 3.6 could be strengthened by adding
+the restriction that only two colors are used. ",cs.CC,B,0.036441565,0.24951139,0.18442267
+http://arxiv.org/pdf/2205.07803v1,Average-Case Hardness of Proving Tautologies and Theorems,"Another interesting question is whether there are
+dense sets of true unprovable sentences that do not have Kolmogorov random
+strings embedded. In sum, there are numerous areas for further research including the rele-
+vance of hard sequences for NP and OWFs, developing conjectures implying
+a resolution of other open problems, elaborating the implications of these
+conjectures, exploring other applications for hard sequences, understanding
+whether hard sequences can be constructed, and exploring the nature of
+H′. References
+
+ [1] Leonard Berman and Juris Hartmanis, On isomorphisms and density of
+      NP and other complete sets, SIAM J. Comput. ",cs.CC,B_centroid,0.52926594,-0.4405937,-0.33796677
+http://arxiv.org/pdf/2205.07803v2,Average-Case Hardness of Proving Tautologies and Theorems,"Another interesting question is whether there are
+dense sets of true unprovable sentences that do not have Kolmogorov random
+strings embedded. In sum, there are numerous areas for further research including the rele-
+vance of hard sequences for NP and OWFs, developing conjectures implying
+a resolution of other open problems, elaborating the implications of these
+conjectures, exploring other applications for hard sequences, understanding
+whether hard sequences can be constructed, and exploring the nature of
+H′. References
+
+ [1] Leonard Berman and Juris Hartmanis, On isomorphisms and density of
+      NP and other complete sets, SIAM J. Comput. ",cs.CC,B,0.52926594,-0.4405937,-0.33796677
+http://arxiv.org/pdf/2205.07803v3,Average-Case Hardness of Proving Tautologies and Theorems,"Another interesting question is whether there are
+dense sets of true unprovable sentences that do not have Kolmogorov random
+strings embedded. In sum, there are numerous areas for further research including the rele-
+vance of hard sequences for NP and OWFs, developing conjectures implying
+a resolution of other open problems, elaborating the implications of these
+conjectures, exploring other applications for hard sequences, understanding
+whether hard sequences can be constructed, and exploring the nature of
+H′. References
+
+ [1] Leonard Berman and Juris Hartmanis, On isomorphisms and density of
+      NP and other complete sets, SIAM J. Comput. ",cs.CC,B,0.52926594,-0.4405937,-0.33796677
+http://arxiv.org/pdf/2205.13428v1,QBF Merge Resolution is powerful but unnatural,"The restriction of this family obtained by setting t = 0 is
+
+exactly the KBKF-lq formula family, which, as shown in Lemma 4.2, is exponentially hard
+
+for M-ResW∀ and hence also for M-Res. ◀
+
+  5 Conclusion and future work
+
+M-Res was introduced in [6] to overcome the weakness of LD-Q-Res. It was shown that
+M-Res has advantages over many proof systems, but the advantage over LD-Q-Res was
+not demonstrated. ",cs.CC,C,-0.05867423,0.11538473,0.020154724
+http://arxiv.org/pdf/2205.13725v1,Low-Degree Polynomials Extract from Local Sources,", xn] be a set of polynomials with
+linear degree3 at most D and nonlinear degree4 at most ∆, such that 0 is a common solution and D+∆ < n.
+Then there is a common solution x = 0 with Hamming weight
+
+                                             w ≤ 8∆ + 8D/ log(n/D) + 8. 1.2 Open problems
+
+Our work leaves open several interesting avenues for future work. We highlight three of them here:
+     • For any constant r ≥ 2, construct an explicit F2-polynomial of degree ≤ r that extracts from 2-local
+       sources of min-entropy o(n). ",cs.CC,C,-0.16692376,0.14747332,-0.33292967
+http://arxiv.org/pdf/2205.14718v1,Theory and Applications of Probabilistic Kolmogorov Complexity,"In the remaining parts of this article, we explain the recent progress on Questions Q1-Q5
+achieved by references [Oli19, LO21, LOS21, GKLO22, LOZ22]. Along the way, we highlight some
+concrete open problems and present directions for further research. Due to space constraints, we
+often provide only a sketch of the underlying arguments, referring to the original references for
+more details. ",cs.CC,B,0.13179308,0.08290756,0.16378318
+http://arxiv.org/pdf/2206.00968v1,"Real-Time, Constant-Space, Constant-Randomness Verifiers","We suspect that it is impossible
+to design certiﬁcates from which real-time input machines can acquire these two
+pieces of information without getting tricked into accepting some illegal inputs. For further study, it would be interesting to examine the power of real-time
+ﬁnite-state veriﬁers with less severe bounds on the amount of randomness that
+can be used, as well as real-time veriﬁcation of debates [5] between two opposing
+“provers” by similarly restricted machines. Restricting the veriﬁers further by
+imposing other conditions like reversibility [10] is another possible direction. ",cs.CC,B,0.32197645,-0.11492844,0.19648789
+http://arxiv.org/pdf/2206.07172v1,Parameterized Complexity Results for Bayesian Inference,"As a
+consequence, the topological vertex separation number of a directed acyclic graph is an
+upper bound on the vertex separation number of its moralization.3 By Kinnersley (1992), it
+is known that the vertex separation number of an undirected graph is equal to its pathwidth,
+and in turn pathwidth is an upper bound on treewidth. Thus all of the hardness results
+in this section also apply with relation to these graph parameters – we aim to identify the
+corresponding complexity classes for the parameterization by treewidth in future work. 4.1 XNLP-completeness of t-Positive Inference
+
+As in Section 3, we ﬁrst study Positive Inference for this parameterization before pro-
+ceeding with inference in its full generality. ",cs.CC,A,-0.09240142,-0.09623943,0.18020068
+http://arxiv.org/pdf/2206.09476v1,The Game of Tumbleweed is PSPACE-complete,"In §4 we prove that W GT C is in PSPACE and W SP F ≤p W GT C. The reduction
+is hard to read, so we progress slowly toward the actual construction, starting from a
+very high level description. In §5 we discuss the highlights of our technique, the possibility of a complexity gap
+between arbitrary conﬁgurations and naturally reachable conﬁgurations, and suggest a
+further research question. 1
+2  LEAR BAHACK
+
+                       2. ",cs.CC,B,0.08312536,-0.06568404,0.17503247
+http://arxiv.org/pdf/2207.00104v1,On the Number of Quantifiers as a Complexity Measure,"In that
+paper Immerman remarked,
+
+        “Little is known about how to play the separability game. We leave it here as a jumping off point for
+        further research. We urge others to study it, hoping that the separability game may become a viable tool
+        for ascertaining some of the lower bounds which are ‘well believed’ but have so far escaped proof.”
+
+    Immerman’s paper laid the groundwork for studying the number of quantiﬁers needed to express prop-
+erties in ﬁrst-order logic, but alas, the game seemed to be too complicated to study and the paper used the
+surrogate measure of quantiﬁer rank, which provides a lower bound on the number of quantiﬁers, to make
+its arguments. ",cs.CC,B,0.27222323,0.034168586,0.09940542
+http://arxiv.org/pdf/2207.00104v2,On the Number of Quantifiers as a Complexity Measure,"In that paper Immerman remarked,
+
+                   “Little is known about how to play the separability game. We leave it here as a jumping oﬀ
+                   point for further research. We urge others to study it, hoping that the separability game
+                   may become a viable tool for ascertaining some of the lower bounds which are ‘well believed’
+                   but have so far escaped proof.”
+
+                 Immerman’s paper laid the groundwork for studying the number of quantiﬁers needed
+            to express properties in FOL, but alas, the game seemed too complicated to study and the
+            paper used the surrogate measure of quantiﬁer rank, which provides a lower bound on the
+            number of quantiﬁers, to make its arguments. ",cs.CC,B,0.2219078,0.026411442,0.09909098
+http://arxiv.org/pdf/2207.05930v1,On the Complexity of Identifying Strongly Regular Graphs,"As a corollary, we obtained that GI is not βiFO((log log n)c)-reducible to isomorphism testing of
+Latin square graphs, k-net graphs (for ﬁxed k), and the block-intersection graphs arising from Steiner triple
+systems. Our work leaves several directions for further research. In Proposition 4.7, we showed that a Steiner 2-design can be recovered from its block-incidence graph in
+AC0 when the block size is bounded. ",cs.CC,A,-0.2807454,0.008134133,0.1281876
+http://arxiv.org/pdf/2207.12251v1,"Low complexity, low probability patterns and consequences for algorithmic probability applications","Given the way the series was discretised             consistency. This needs to be explored in future work. in terms of above/below the mean value of the string, we
+can expect that strings with an excess of 1’s or 0’s will have            Another observation is that the probability decay follows
+low probability, even if they are not complex. ",cs.CC,B,0.40462357,-7.589348e-05,-0.38091645
+http://arxiv.org/pdf/2207.12368v1,Component twin-width as a parameter for BINARY-CSP and its semiring generalisations,"Importantly, we obtained
+two novel algorithms by bounding either the class of input instances, or the constraint template, and presented
+several instances where our approach beats both the best known upper bound (e.g., counting homomorphisms
+to cycles) as well as improving upon earlier algorithms making use of tree-width and clique-width. These
+results raise several questions for future work:
+
+Generalized problems. Even though Theorem 15 and Theorem 16 are very general algorithms applicable
+to broad classes of binary constraints it is still tempting to generalize them to even wider classes of problems. ",cs.CC,A,-0.23459841,0.029191282,0.09002498
+http://arxiv.org/pdf/2208.01796v1,On the Computational Complexity of the Strong Geodetic Recognition Problem,"This latter one elucidates the contrast between the complexity of SG (NP-complete)
+and SGR (polynomial-time solvable).Some polynomial-time algorithms for block and cacti graphs
+are also provided. We conclude the paper discussing some further research directions in Section 7. 2 Deﬁnitions, Notations, and Preliminaries
+
+2.1 Deﬁnitions and Notations
+
+For a positive integer k, let [k] = {1, 2, . ",cs.CC,A,-0.35653585,-0.12918375,-0.0012851413
+http://arxiv.org/pdf/2208.04016v1,Solving the Online Assignment Problem with Machine Learned Advice,"Naval
+mal, also studies on different techniques and how they affect the                              research logistics quarterly 2, 1-2 (1955), 83–97. algorithm can be a focus on future work. While we investigated
+and analyzed the effectiveness of the presented algorithm, the ML                        [12] Silvio Lattanzi, Thomas Lavastida, Benjamin Moseley, and Sergei Vassilvitskii. ",cs.CC,A,0.06402645,0.11595044,-0.025724381
+http://arxiv.org/pdf/2208.05261v1,Roman Census: Enumerating and Counting Roman Dominating Functions on Graph Classes,"For split and cobipartite graphs our
+enumeration is not tight, but gives an upper bound of O(1.4656n), which is
+relatively close to the lower bound. For future work, it would be an interesting natural question to close the gap
+between the presented lower and upper bounds in the case of split and cobipartite
+graphs. Our enumeration algorithm in the case of forests was more exhaustive
+and more intricate than one would expect for this graph class, yet it proved to
+be optimal as we noted above. ",cs.CC,A,-0.19165805,0.07621129,-0.023720698

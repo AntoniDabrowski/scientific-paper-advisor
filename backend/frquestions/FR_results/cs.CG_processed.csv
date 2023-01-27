@@ -1,0 +1,450 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01344v1,Polyline Simplification under the Local Fréchet Distance has Subcubic Complexity in 2D,"For the practically most relevant use case of two dimensions no (conditional)
+lower bounds are known, though. Another direction for future work would be to generalize
+our algorithm to work in higher dimensions, which requires dealing with a more complex
+wave front. Finally, one could also consider further distance measures, as e.g. ",cs.CG,C,0.14219475,-0.21347752,-0.03565059
+http://arxiv.org/pdf/2201.01344v2,Polyline Simplification under the Local Fréchet Distance has Almost-Quadratic Runtime in 2D,"For the practically most relevant use case of two dimensions no (conditional)
+    lower bounds are known, though. Another direction for future work would be to generalize
+    the algorithm to work in higher dimensions, which implies a more complex wavefront. Finally,
+    one could also consider further distance measures, as e.g. ",cs.CG,C,0.17221044,-0.2218217,-0.014423534
+http://arxiv.org/pdf/2201.01844v1,Sparsifying Disk Intersection Graphs for Reliable Connectivity,"It is natural to conjecture that our
+construction (or a slightly modiﬁed construction) provides such a guarantee. We leave this as an
+open problem for further research. References
+
+[ABES14]  B. Aronov, M. de Berg, E. Ezra, and M. Sharir. ",cs.CG,B,0.03896157,0.2100707,-0.18155351
+http://arxiv.org/pdf/2201.03490v1,Segment Visibility Counting Queries in Polygons,"Finally, when considering segments, one can ask many
+other questions: how much of each segment is seen by a query segment and vice versa, for
+each segment or in total; these questions and more can also be considered for moving objects
+as in Section 6.3. All of these would be highly exciting directions for future work. References
+
+1 Pankaj K. Agarwal and Jiří Matoušek. ",cs.CG,A,-0.17225307,0.10162766,0.1013549
+http://arxiv.org/pdf/2201.11412v1,Reduction of Two-Dimensional Data for Speeding Up Convex Hull Computation,"Our algorithm is
+not output sensitive, and the steps of binning and contour interpolation are parallelizable. The transformation as that of
+a planar case may apply for higher dimensions and could be considered in any future work. The speed and robustness
+of our algorithm has been experimentally validated on large and irregular datasets. ",cs.CG,B,0.027361777,-0.33432773,0.45052886
+http://arxiv.org/pdf/2201.11412v2,Reduction of Two-Dimensional Data for Speeding Up Convex Hull Computation,"Our algorithm is
+not output sensitive, and the steps of binning and contour interpolation are parallelizable. The transformation as that of
+a planar case may apply for higher dimensions and could be considered in any future work. The speed and robustness
+of our algorithm has been experimentally validated on large and irregular datasets. ",cs.CG,B,0.027361777,-0.33432773,0.45052886
+http://arxiv.org/pdf/2201.11412v3,Reduction of Two-Dimensional Data for Speeding Up Convex Hull Computation,"Our algorithm is
+not output sensitive, and the steps of binning and contour interpolation are parallelizable. The transformation as that of
+a planar case may apply for higher dimensions and could be considered in any future work. The speed and robustness
+of our algorithm has been experimentally validated on large and irregular datasets. ",cs.CG,B,0.027361777,-0.33432773,0.45052886
+http://arxiv.org/pdf/2202.00577v1,Families of point sets with identical 1D persistence,"If H1(VR(A; α)) is trivial, then so is H1(VR(A ∪ T ; α)) by Theorem 2.8. 3 Experiments, discussion and future work
+
+The experiments in this section increase the understanding of how regularly persistent
+homology reveals persistent features separated from noise. The experiments depend on
+two parameters, the size n of a point set, and the dimension N that the point set lies
+in. ",cs.CG,B,-0.34847444,0.52919143,0.16501524
+http://arxiv.org/pdf/2202.00577v2,Families of point sets with identical 1D persistence,"Since the tail T has trivial 1D persistence by Proposition 3.3, Theorem 4.2 implies
+that PD1{C(A ∪ T ; α)} = PD1{C(A; α)} = ∅. 5 Experiments, discussion and future work
+
+The experiments in this section increase the understanding of how regularly persistent
+homology reveals persistent features separated from noise. The experiments depend on
+two parameters, the size n of a point set, and the dimension N that the point set lies
+in. ",cs.CG,B,-0.35038316,0.5779767,0.15383
+http://arxiv.org/pdf/2202.09686v1,Local Decomposition of Hexahedral Singular Nodes into Singular Curves,"8, 74–76,
+nodes. We expect that a valid sheet inﬂation can al-              1994
+ways be found and leave its eﬃcient computation to
+future work. [2] Cifuentes A., Kalbag A. ",cs.CG,B,0.036167692,0.09682348,0.0020695124
+http://arxiv.org/pdf/2202.10831v1,Flipping Plane Spanning Paths,"We are currently working on a generalization to point sets
+    fulﬁlling (P1). Lastly, there are several other directions for further research conceivable, e.g. considering
+    simple drawings (or other types of drawings) instead of straight-line drawings. ",cs.CG,A,-0.31264314,-0.11816043,0.059779603
+http://arxiv.org/pdf/2202.10831v2,Flipping Plane Spanning Paths,"A proof for general
+point sets, however, seems elusive at the moment. Lastly, there are several other directions for further research conceivable, e.g. considering simple drawings (or other types of drawings) instead of straight-line
+drawings. ",cs.CG,A,-0.2781557,0.035773408,-0.02181496
+http://arxiv.org/pdf/2202.11562v1,Transitions in Dynamic Map Labeling,"Finally, we showed that it is NP-complete to decide whether a weighted
+    simultaneous transition has a penalty of at most k. We see this paper as a ﬁrst step towards
+    understanding such transitions in map labeling. Therefore we have many open questions for
+    future work, such as:
+
+        Do transitions work well in practice? Can we verify our results with a prototype? ",cs.CG,B,-0.071355015,0.27025124,0.099328965
+http://arxiv.org/pdf/2203.00855v1,Reachability of turn sequences,"For our problem, determining the reachable region from an angle (turn) sequence, there
+   appears to be little that is known. Culberson and Rawlins [6] mention as future work “spline”
+   problem: to draw a polygonal curve between two given points such that the turning angles
+   of the curve form a given angle sequence. However, they do not suggest any approach to
+   solving this problem. ",cs.CG,A,-0.22142431,-0.20818424,-0.121490724
+http://arxiv.org/pdf/2203.00855v2,Reachability of turn sequences,"For our problem, determining the reachable region from an angle (turn) sequence, there
+   appears to be little that is known. Culberson and Rawlins [6] mention as future work “spline”
+   problem: to draw a polygonal curve between two given points such that the turning angles
+   of the curve form a given angle sequence. However, they do not suggest any approach to
+   solving this problem. ",cs.CG,A,-0.22142431,-0.20818424,-0.121490724
+http://arxiv.org/pdf/2203.02832v1,On the sampling error for parametric curves,"We can consider this as a
+number of binary subdivision steps to accelerate the algorithm. This                      condition number for sampling 𝛾, although further research on it
+                                                                                          is needed. strategy does indeed accelerate the sampler, as shown by experi-
+                                                                                          Proof of Theorem 5.9. ",cs.CG,B,0.26335686,0.05316279,-0.022767328
+http://arxiv.org/pdf/2203.02832v2,On the Error of Random Sampling: Uniformly Distributed Random Points on Parametric Curves,"Given a random variable 𝔵 ∈ R, an efficient sampler
+we feel that these methods might not generalize easily to higher
+dimensions, that we plan to deal with in the future. Nevertheless,                                         for 𝔵 is a pair of BSS programs S               :  N  ×    𝑘  ×    [0, 1]𝑙  →       R and
+we leave for future work a careful study of these methods. R
+
+                                                                                                           P  :  N  →    𝑘  such  that:  S1)    on  input  (ℓ, 𝑥,𝑢),     the  run-time     of  S  is  at
+
+                                                                                                                       R
+
+                                                                                                        2
+On the Error of Random Sampling: Uniformly Distributed Random Points on Parametric Curves                                                    ,,
+
+most poly(ℓ), S2) on input ℓ, the run-time of P is at most exp(ℓ), and         3.1 Bounds using 𝐿1-norms
+S3) if 𝔲 ∈ [0, 1]𝑙 is uniformly distributed, then 𝔵ℓ := S(ℓ, P(ℓ), 𝔲) is
+a random variable such that                                                    The following proposition shows the main technique that we apply
+                                                                               for getting bounds on the TV distance. ",cs.CG,B,0.18448526,0.07917203,-0.19909531
+http://arxiv.org/pdf/2203.04531v1,Computing Continuous Dynamic Time Warping of Time Series in Polynomial Time,"Our main technical contribution is bounding the total complexity of the
+functions which the algorithm propagates, to bound the total running time of the algorithm. One
+
+                                        13
+direction for future work is to improve the upper bound on the total complexity of the propagated
+functions. Our O(n5) upper bound is pessimistic, for example, we do not know of a worst case
+instance. ",cs.CG,B,0.5905664,0.08195823,-0.20243108
+http://arxiv.org/pdf/2203.04531v2,Computing Continuous Dynamic Time Warping of Time Series in Polynomial Time,"Our main technical contribution is bounding the total complexity of the
+functions which the algorithm propagates, to bound the total running time of the algorithm. One
+direction for future work is to improve the upper bound on the total complexity of the propagated
+functions. Our O(n5) upper bound is pessimistic, for example, we do not know of a worst case
+instance. ",cs.CG,B,0.59438455,0.08928593,-0.21023226
+http://arxiv.org/pdf/2203.04531v3,Computing Continuous Dynamic Time Warping of Time Series in Polynomial Time,"Our main technical contribution is bounding the total complexity of the
+functions which the algorithm propagates, to bound the total running time of the algorithm. One
+direction for future work is to improve the upper bound on the total complexity of the propagated
+functions. Our O(n5) upper bound is pessimistic, for example, we do not know of a worst case
+instance. ",cs.CG,B,0.59438455,0.08928593,-0.21023226
+http://arxiv.org/pdf/2203.05364v1,Parameterized Algorithms for Upward Planarity,"Indeed, obtaining a suitable algorithm that can
+
+compute the feasible sets for an R-node given the feasible sets for all of its children will be the
+
+task of our parameterized algorithms presented in Sections 6 and 7. In order to complete the
+
+description of our framework and also present it in a modular fashion which can be reused
+
+by future work, here we formalize the notion of an R-node subprocedure which, intuitively, is
+
+an algorithm that can compute a feasible set of an R-node. Formally, an R-node subprocedure is an algorithm which takes as input an R-node µ of T
+
+with skeleton H, a mapping Sµ which assigns each child of µ to its feasible set, runs in time
+
+at most α(Gµ, Sµ), and computes the feasible set Fµ. ",cs.CG,B,0.24279624,0.0857279,-0.08233906
+http://arxiv.org/pdf/2203.07444v1,Minimum Partition into Plane Subgraphs: The CG:SHOP Challenge 2022,"Variations of this heuristic have been studied and shown to be successful for certain
+   graph classes [27]. 2.2.2 Exact Methods
+
+   DSATUR has also been used as a subroutine in a branch-and-bound-based exact graph
+   coloring algorithm, sometimes called Backtracking DSATUR [33], which became the de-facto
+   standard algorithm for exact graph coloring for a while after its presentation in 1991; it was
+   later improved by further research, in part driven by the 1993 DIMACS implementation
+   challenge on Cliques, Coloring and Satisﬁability [36]. More recently, San Segundo [34] and
+   Furini et al. ",cs.CG,B,0.20369434,0.0118865445,0.021992829
+http://arxiv.org/pdf/2203.09087v1,GPU Computation of the Euler Characteristic Curve for Imaging Data,"The above issue opens up a new avenue – it may now be opportune to load
+compressed images, which would limit the disk I/O time. We plan to investigate this in
+future work. 5.3 Case study: GPU-only pipeline
+
+In this scenario, the images are stored and processed entirely in GPU memory. ",cs.CG,B,0.11767118,0.18699229,0.14477566
+http://arxiv.org/pdf/2203.10916v1,DBSOP: An Efficient Heuristic for Speedy MCMC Sampling on Polytopes,"Additionally, as stated in greater detail later
+in this section, it generates proposal distributions beginning with the typical
+logarithmic barrier for a polytope. As inducted in [24], it was shown that the
+Dikin walk may be extended to generic curves with subconscious barriers, which
+was proven in a further study. 4       C. Karras et al. ",cs.CG,A,-0.338346,0.18431094,-0.2609241
+http://arxiv.org/pdf/2203.10916v2,DBSOP: An Efficient Heuristic for Speedy MCMC Sampling on Polytopes,"Additionally, as stated in greater
+detail later in this section, it generates proposal distributions beginning with the
+typical logarithmic barrier for a polytope. As inducted in [27], it was shown that
+the Dikin walk may be extended to generic curves with subconscious barriers,
+which was proven in a further study. 4       C. Karras et al. ",cs.CG,A_centroid,-0.33845472,0.18437517,-0.26091045
+http://arxiv.org/pdf/2203.10916v3,DBSOP: An Efficient Heuristic for Speedy MCMC Sampling on Polytopes,"Additionally, as stated in greater
+detail later in this section, it generates proposal distributions beginning with the
+typical logarithmic barrier for a polytope. As inducted in [27], it was shown that
+the Dikin walk may be extended to generic curves with subconscious barriers,
+which was proven in a further study. 4       C. Karras et al. ",cs.CG,A,-0.33845472,0.18437517,-0.26091045
+http://arxiv.org/pdf/2203.15507v1,Computation of Centroidal Voronoi Tessellations in High Dimensional spaces,"63,
+say computing CVT on a sphere, and will be a point of                             pp. 185–212, 2015.
+investigation for our future work. [18] J. Mouret and J. Clune, “Illuminating search spaces by mapping elites,”
+                            REFERENCES                                            CoRR, vol. ",cs.CG,B,0.029572561,0.036689907,-0.0920964
+http://arxiv.org/pdf/2203.16748v1,Topological Optimization with Big Steps,"With       few of the losses proposed in the literature need such operations, work-
+momentum, the diagram methods performs better. However, for large            ing out a complete method for combining our construction with the
+learning rates the performance of the best value of γ = 0.9 becomes          clearing optimization is another worthwhile direction for future work. worse: the corresponding purple line shoots up. ",cs.CG,C,-0.028000282,-0.058609843,0.0010273941
+http://arxiv.org/pdf/2204.02919v1,Branch Decomposition-Independent Edit Distances for Merge Trees,"smaller distances. We leave this for future work. References
+Appendix H: Applications                                                [PVDT21] PONT M., VIDAL J., DELON J., TIERNY J.: Wasserstein
+
+We now show the more detailed results on some of the datasets              distances, geodesics and barycenters of merge trees. ",cs.CG,B,0.034928318,0.09243494,0.3273723
+http://arxiv.org/pdf/2204.09949v1,Faster Approximate Covering of Subcurves under the Fréchet Distance,"As P is c-packed, it is conceivable that this can be
+32  Faster Approximate Covering of Subcurves under the Fréchet Distance
+
+    done such that the arrangement complexity can be bounded by O(poly(c) · n). However,
+    constructing the arrangement in an output-sensitive manner requires more care and we leave
+    this for future work. 5 Algorithm variant with implicit weight update
+
+    In this section we describe a variant of Algorithm 1 that will lead to better running times and
+    space requirements in terms of n, the number of vertices of the input curve, at the expense
+    of introducing a (polylogarithmic) dependency on the arclength of the input curve. ",cs.CG,B,0.20907363,-0.08420872,-0.04465475
+http://arxiv.org/pdf/2204.10053v1,Time Window Frechet and Metric-Based Edit Distance for Passively Collected Trajectories,"There is no strongly subquadratic approximation algorithm to compute the discrete
+Fr´echet distance with an approximation factor less than 1.61 unless SETH fails. 7 Conclusion and Future Work
+
+An interesting direction of future work is to experiment with the time-window Fr´echet distance and
+the metric-based edit distance for real mobility trajectories. 12
+A Time-Window Metrics
+
+A.1 Other Time-Window Metrics
+
+The idea of enforcing a time-window constraint can be applied to other distances such as the discrete
+Fr´echet distance [23] and dynamic time warping [8]. ",cs.CG,B,0.115434214,0.11019859,-0.06452753
+http://arxiv.org/pdf/2204.13143v1,On the Complexity of Half-Guarding Monotone Polygons,"Section 3 provides an NP-hardness proof for
+   point guarding a monotone polygon using half-guards. Finally, Section 4 gives a conclusion
+   and possible future work. H. M. Hillberg, E. Krohn and A. Pahlow                                                              3
+
+2 8-approximation for Point Guarding a Monotone Polygon with
+      Half-Guards
+
+We start by giving an algorithm for point guarding the boundary of a monotone polygon P
+with half-guards. ",cs.CG,B,0.030910376,0.031067282,-0.24676907
+http://arxiv.org/pdf/2205.01634v1,Multi-view Geometry: Correspondences Refinement Based on Algebraic Properties,"We
+believe that if Theorem 2 is used better then Main algorithm will be better. Our future work will focus on
+how to exploit Theorem 2 to improve our current results. References
+
+Sameer Agarwal, Noah Snavely, Steven M. Seitz, and Richard Szeliski. ",cs.CG,B,0.24111667,0.021993248,0.024645017
+http://arxiv.org/pdf/2205.02021v1,Max-Min $k$-Dispersion on a Convex Polygon,"22
+
+6 Conclusion
+
+In this paper, we studied the k-dispersion problem on a convex polygon and proposed an exponential
+time exact algorithm for any k and a logarithmic time approximation algorithm for k = 3. There are
+many directions for further research on this problem and the general Euclidean k-dispersion problem. 9
+Since the NP-hardness of the convex version of the problem is unknown, the problem is open from the
+point of polynomial exact algorithm or faster exact exponential algorithm. ",cs.CG,B,0.19793516,-0.07540309,-0.102411926
+http://arxiv.org/pdf/2205.03651v1,Dispersing Facilities on Planar Segment and Circle Amidst Repulsion,"Remark 4.1 [7] Unconstrained COFL problem can be solved in O(n log n) time for k = 1 by ﬁnding
+the largest empty circle in a Voronoi diagram formed by n demand points as the voronoi sites. 14
+5 Conclusion and future work
+
+We proposed a brute force algorithm based on binary search that solves the COFL problem exactly in
+O((nk)2 log (nk)+(n+k) log (nk)) time for both rectilinear and Euclidean cases. We showed that using
+Megiddo’s parametric search technique, we can improve the running time to O((n + k)2) time. ",cs.CG,B,0.24422523,-0.0019903453,-0.040722687
+http://arxiv.org/pdf/2205.03651v2,Dispersing Facilities on Planar Segment and Circle Amidst Repulsion,"Remark 4.1 [7] Unconstrained COFL problem can be solved in O(n log n) time for k = 1 by ﬁnding
+the largest empty circle in a Voronoi diagram formed by n demand points as the voronoi sites. 5 Conclusion and future work
+
+We proposed a brute force algorithm based on binary search that solves the COFL problem exactly in
+O((nk)2 log (nk)+(n+k) log (nk)) time for both rectilinear and Euclidean cases. We showed that using
+Megiddo’s parametric search technique, we can improve the running time to O((n + k)2) time. ",cs.CG,B,0.23946899,-0.008532027,-0.04149282
+http://arxiv.org/pdf/2205.03852v1,Randomized geometric tools for anomaly detection in stock markets,"The section 4 presents the results and the analysis of the volatility
+anomaly in European and U.S. stock markets using our methods. Last, in section 5
+we discuss the possible future work to improve the eﬃciency of our methods and other
+ﬁnancial problems that our framework could be used to address. 2 Geometric modeling and algorithms
+
+Our approach consists of the geometric modeling of long-only volatility-constrained
+portfolios. ",cs.CG,C,-0.2831819,0.16601168,-0.15293853
+http://arxiv.org/pdf/2205.03852v2,Randomized geometric tools for anomaly detection in stock markets,"The section 4 presents the results and the analysis of the volatility
+anomaly in European and U.S. stock markets using our methods. Last, in section 5
+we discuss the possible future work to improve the eﬃciency of our methods and other
+ﬁnancial problems that our framework could be used to address. 2 Geometric modeling and algorithms
+
+Our approach consists of the geometric modeling of long-only volatility-constrained
+portfolios. ",cs.CG,C,-0.2831819,0.16601168,-0.15293853
+http://arxiv.org/pdf/2205.05760v1,Co-generation of Collision-Free Shapes for Arbitrary One-Parametric Motion,"We observed that maximizing the d−measure of both design
+subdomains (e.g., area in 2D and volume in 3D) is eﬀective                    4.2. Iterative Optimization Algorthm
+in many scenarios—although more sophisticated objective
+functions such as contact [7] and complementarity [8] mea-                       To solve the optimization problem an iterative approach
+sures can be adopted in future work. Moreover, to control                     is utilized where the method of moving asymptotes (MMA)
+the choice of maximal pairs from a one-parametric family                      [29] is utilized. ",cs.CG,C_centroid,-0.04576175,-0.5308447,-0.18742594
+http://arxiv.org/pdf/2205.05760v2,Co-generation of Collision-Free Shapes for Arbitrary One-Parametric Motion,"Iterative Optimization Algorthm
+We observed that maximizing the d−measure of both design
+subdomains (e.g., area in 2D and volume in 3D) is eﬀective                    To solve the optimization problem an iterative approach
+in many scenarios—although more sophisticated objective                    is utilized where the method of moving asymptotes (MMA)
+functions such as contact [7] and complementarity [8] mea-                 [29] is utilized. Algorithm 1 provides a description of the
+sures can be adopted in future work. Moreover, to control                  approach. ",cs.CG,C,-0.038461942,-0.5510597,-0.17179093
+http://arxiv.org/pdf/2205.05760v3,Co-generation of Collision-Free Shapes for Arbitrary One-Parametric Motion,"Iterative Optimization Algorithm
+We observed that maximizing the d−measure of both design
+subdomains (e.g., area in 2D and volume in 3D) is eﬀective                    To solve the optimization problem an iterative approach
+in many scenarios—although more sophisticated objective                    is utilized where the method of moving asymptotes (MMA)
+functions such as contact [7] and complementarity [8] mea-                 [29] is utilized. Algorithm 1 provides a description of the
+sures can be adopted in future work. Moreover, to control                  approach. ",cs.CG,C,-0.039950315,-0.55420715,-0.16575924
+http://arxiv.org/pdf/2205.10194v1,New compressed cover tree for k-nearest neighbor search,"It was shown experimentally that mergegram produces excellent
+results in 2d shape recognition when it was combined with Perslay-neural network architecture. No work is ever complete, therefore it is important to highlight a few possible further research
+directions:
+
+     Paired-trees: Worst-time complexities for k-nearest neighbors and the minimum spanning
+
+                                                              124
+Chapter 6. Conclusions  125
+
+tree problem can be potentially improved by using cover trees of both query and reference sets. ",cs.CG,B,0.13840857,-0.00026248582,0.551322
+http://arxiv.org/pdf/2205.10194v2,New compressed cover tree for k-nearest neighbor search,"It was shown experimentally that mergegram produces excellent
+results in 2d shape recognition when it was combined with Perslay-neural network architecture. No work is ever complete, therefore it is important to highlight a few possible further research
+directions:
+
+     Paired-trees: Worst-time complexities for k-nearest neighbors and the minimum spanning
+
+                                                              123
+124  Yury Elkin
+
+tree problem can be potentially improved by using cover trees of both query and reference sets. Given query and reference sets Q, R we wish to develop an algorithm that scans through all
+relevant pairs of Q × R in time O(cO(1) · max{|Q|, |R|}), where c is an expansion constant that
+depends on sets Q,R. ",cs.CG,B,0.27304238,0.024257626,0.51598644
+http://arxiv.org/pdf/2205.10194v3,New compressed cover tree for k-nearest neighbor search,"It was shown experimentally that mergegram produces excellent
+results in 2d shape recognition when it was combined with Perslay-neural network architecture. No work is ever complete, therefore it is important to highlight a few possible further research
+directions:
+
+     Paired-trees: Worst-time complexities for k-nearest neighbors and the minimum spanning
+
+                                                              123
+124  Yury Elkin
+
+tree problem can be potentially improved by using cover trees of both query and reference sets. Given query and reference sets Q, R we wish to develop an algorithm that scans through all
+relevant pairs of Q × R in time O(cO(1) · max{|Q|, |R|}), where c is an expansion constant that
+depends on sets Q,R. ",cs.CG,B,0.27304238,0.024257626,0.51598644
+http://arxiv.org/pdf/2205.10194v4,A new compressed cover tree for k-nearest neighbour search and the stable-under-noise mergegram of a point cloud,"Follows from Theorem 4.4.14 by noting that |H (T (R))| ≤ log2(∆(|R|)). 4.5 Discussions: past challenges, contributions, and future work
+
+The motivations were the past challenges in the proof of time complexities in [61, Theorem 5.1],
+which attempted to solve metric minimum spanning tree problem in O(|R| · log2(|R|)) time. Section 4.2 and 4.3 show that the provided proof was incorrect. ",cs.CG,B,0.24524544,0.34543878,-0.15591526
+http://arxiv.org/pdf/2205.11338v2,Temporal Network Analysis Using Zigzag Persistence,"networks from chaotic signals tend to have persistence diagrams with many features in 𝐻1 when compared to their
+periodic counterpart. The fact that this labeling is done with only the user’s choice of threshold for what is considered
+a high-persistence point makes this a potentially exciting avenue for future work to understand how it can be used in
+the case of labeling intermittency in time series. Additionally, note in the persistence diagram in Fig. ",cs.CG,B,-0.29981053,0.59613764,0.19800818
+http://arxiv.org/pdf/2205.14151v1,Interactive and Robust Mesh Booleans,"Two examples of our interactive rotation demo: one mesh rotates on top of the other while the system executes a Boolean operator in real time. We leave this improvement for future work to obtain additional          Size libigl (𝑡)         FA(𝑡 )         Ours (𝑡)
+speedups. 25K  0.22/0.78/0.39  0.03/0.12/0.07  0.01/0.04/0.02
+   Rotation demo. ",cs.CG,C,-0.106404856,-0.0367959,-0.014010081
+http://arxiv.org/pdf/2206.06273v1,Learning Joint Surface Atlases,"We further oﬀer other technical contributions,
+such as learning the 2D domain by optimizing a sampling probability distribution, analyzing
+the eﬀect of incorporating normals in the optimization, and introducing a repulsive loss to
+have a more even point distribution. We believe our work is an important step towards
+learning consistent atlases and it will inspire future work on further improving quality of
+atlases, such as modeling transition maps, minimizing seams, and distortion. 9
+Acknowledgments Thanks to F. Darmon, R. Loiseau, E. Vincent for their feedbacks on
+the manuscript; E. Shechtman , D. Picard, Y. Siglidis and G. Ponimatkin for inspiring
+discussions; and B. George for code suggestions; This work was partly supported by ANR
+project EnHerit ANR-17-CE23-0008, Labex Bézout, gifts from Adobe to École des Ponts
+and HPC resources from GENCI-IDRIS (2021-AD011011937R1). ",cs.CG,C,-0.19191253,-0.085647896,0.108137056
+http://arxiv.org/pdf/2206.06513v1,Fiberwise dimensionality reduction of topologically complex data with vector bundles,"We believe that the
+main algorithm of Section 4 can be adjusted to account for different local dimensions by allowing the
+cocycle Ω between patches with different dimension to be a matrix in a Stiefel manifold, instead of
+an orthogonal matrix. With respect to (2), our procedures are robust with respect to limited amount
+of noise, and the problem of devising extensions robust to outliers is left as future work. With respect to (3), there are several ways to obtain non-linear initial representations. ",cs.CG,C,-0.12749843,0.08818704,0.078828305
+http://arxiv.org/pdf/2206.07496v1,"Normalization, Square Roots, and the Exponential and Logarithmic Maps in Geometric Algebras of Less than 6D","However, by applying the approach set out in [8] to the existing literature on normalization
+                                        [4–7], a signature agnostic normalization procedure in geometric algebras of 𝑛 < 6 was found. While the 𝑛 ≥ 6
+                                        limit remains intractable, the signature agnostic approach laid out in the current work provides additional insights
+                                        that might guide future work towards 𝑛 = 6 and beyond. Fortunately however, many popular algebras are of
+                                        dimension 𝑛 < 6. ",cs.CG,C,-0.0183433,-0.019944495,-0.043391213
+http://arxiv.org/pdf/2206.07496v2,"Normalization, Square Roots, and the Exponential and Logarithmic Maps in Geometric Algebras of Less than 6D","However, by applying the approach set out in [8] to the existing literature on normalization
+                                        [4–7], a signature agnostic normalization procedure in geometric algebras of 𝑛 < 6 was found. While the 𝑛 ≥ 6
+                                        limit remains intractable, the signature agnostic approach laid out in the current work provides additional insights
+                                        that might guide future work towards 𝑛 = 6 and beyond. Fortunately however, many popular algebras are of
+                                        dimension 𝑛 < 6. ",cs.CG,C,-0.0183433,-0.019944495,-0.043391213
+http://arxiv.org/pdf/2206.09699v1,FoR$^2$M: Recognition and Repair of Foldings in Mesh Surfaces. Application to 3D Object Degradation,"5 EXPERIMENTAL EVALUATION
+
+5.1 Qualitative Results
+
+Since no quantitative benchmark exists for the speciﬁc type
+of problem, a qualitative evaluation will be performed based
+on the quality of the method’s output mesh surfaces in
+comparison to the input 3D models. In order to make the results of the proposed method
+comparable against existing and future works on the prob-
+lem of 3D mesh folding, the experiments have been per-
+formed on publicly available 3D models from well known
+repositories. The selection of the speciﬁc models was made
+based on the diversity of their shape and surface character-
+istics. ",cs.CG,C,-0.2946024,-0.33918583,-0.04472671
+http://arxiv.org/pdf/2206.10504v1,A Theory of Sub-Barcodes,"Note,
+this means it is faster to test sub-barcodes than to compute bottleneck matchings. In future work we will expand the theory of barcode functors and show how sub-barcodes and
+factorizations appear implicitly in prior work, oﬀering a new perspective on barcodes, the persistence
+measure, and interleaving. In particular, we will apply the theory of generalized interleavings [25,
+35] to δ-smoothed persistence modules Vδ : Vδ1 Vδ2 given by pre-composition with a natural
+transformation of monotone functions:
+
+                δ1                        Vδ1
+
+             S  δ T V Vec              S  Vδ Vec. ",cs.CG,B,0.039557632,0.333944,0.19558096
+http://arxiv.org/pdf/2206.11456v1,Metric Optimization in Penner Coordinates,"Theoretically, it is a question about intersection between a linear
+                                                                        subspace of dimension |𝐸| − |𝐸𝑏 | where |𝐸𝑏 | is the number of bound-
+                                                                        ary edges, and the nonlinear manifold of angle-constrained metric,
+                                                                        of dimension |𝐸| − |𝑉 |. It is an interesting question for future work. ACKNOWLEDGMENTS
+                                                                        NSF
+
+                                                                        REFERENCES
+
+                                                                        Mirela Ben-Chen, Craig Gotsman, and Guy Bunin. ",cs.CG,C,-0.14794414,-0.08932167,-0.15637863
+http://arxiv.org/pdf/2206.11481v1,A Novel Algorithm for Exact Concave Hull Extraction,"This content-adaptive strategy ensures that the performance on each file has maximal quality
+with minimal user input. In future work, we suggest that one could effectively apply AGCR to both visualization and
+retrieval of images in 2D and in higher dimensions. We already enable the extraction of region
+contours in the Wavefront OBJ format, opening avenues for immediate visualization in 3D
+rendering pipelines. ",cs.CG,B,-0.09131042,-0.18907931,0.40062353
+http://arxiv.org/pdf/2206.14423v1,The Mutual Visibility Problem for Fat Robots,"Also, our algorithm solves the Mutual Visi-
+bility problem in O(n) rounds. For future work, it is interesting to extend our
+algorithm for non-rigid movements of robots and also for semi-synchronous and
+asynchronous computations, or to remove the assumption that n is known to
+the corner robots in one round. Finally, reducing the number of colors to two or
+showing that this is impossible are interesting open questions. ",cs.CG,B,0.046481494,0.0230133,-0.048996463
+http://arxiv.org/pdf/2206.14423v2,The Mutual Visibility Problem for Fat Robots,"Also, our algorithm solves the Mutual Visibility problem
+in O(n) rounds. For future work, it is interesting to extend our algorithm for
+non-rigid movements of robots and also for semi-synchronous and asynchronous
+computations. References
+
+ 1. ",cs.CG,B,0.12639503,0.061915897,-0.048940897
+http://arxiv.org/pdf/2206.14911v1,Minimum Weight Euclidean $(1+\varepsilon)$-Spanners,"Finally, we note that Steiner points can substantially improve the weight of a
+(1 + ε)-spanner in Euclidean space [5, 24, 25]. It is left for future work to study the minimum
+weight of a Euclidean Steiner (1 + ε)-spanner for n points in the unit square [0, 1]2 or unit cube
+[0, 1]d; and for an n × n section of the integer lattice. References
+
+ [1] A. Karim Abu-Aﬀash, Gali Bar-On, and Paz Carmi. ",cs.CG,B,0.073444374,-0.039434344,-0.31078967
+http://arxiv.org/pdf/2206.14911v2,Minimum Weight Euclidean $(1+\varepsilon)$-Spanners,"Finally, we note that Steiner points can substantially improve the
+
+weight of a (1 + ε)-spanner in Euclidean space [9, 36, 34]. It is left for future work to study the
+
+minimum weight of a Euclidean Steiner (1 + ε)-spanner for n points in the unit cube [0, 1]d; and
+
+for an n × . . ",cs.CG,B,0.03972289,-0.049678102,-0.30067068
+http://arxiv.org/pdf/2206.15339v1,Abstract morphing using the Hausdorff distance and Voronoi diagrams,"Another direction is to develop other morphs that guarantee a smooth change of
+some distance measure other than the Hausdorﬀ distance; we noted that it is unclear how
+to employ the Fr´echet distance for morphing in the presence of multiple components. A more practically oriented direction for further research would be to develop a less naive
+method of ﬁlling gaps than the mixed morph. It does not necessarily make sense to use the
+same radius for the closing operator everywhere, which sometimes closes gaps that will be
+opened again. ",cs.CG,B,-0.20030683,0.049571052,0.13248871
+http://arxiv.org/pdf/2207.02990v1,Value-Offset Bifiltrations for Digital Images,"In Section 5 we present our experimental results, including
+runtimes and properties of our biﬁltrations computed from sample images. We conclude in Section 6
+with discussion and directions for future work. 2 Mathematical Preliminaries
+
+2.1 Images and Filtrations
+
+We regard a digital image as a ﬁnite set of pixels P ⊂ N2 along with a function f : P → R that assigns
+a grayscale intensity/color value to each pixel. ",cs.CG,B,0.06281777,0.06359227,0.14428711
+http://arxiv.org/pdf/2207.07211v1,Computing Optimal Kernels in Two Dimensions,"The bound of 1 ´ 4ε on the approximation factor is most likely not tight. Proving a sharp bound
+on the approximation factor is an interesting problem for further research. Corollary 6.4. ",cs.CG,B,0.3301195,0.25977004,-0.2829726
+http://arxiv.org/pdf/2207.08511v1,Edit Distance between Merge Trees,"41–50, 2014.
+application to data analysis and visualization using various
+computational experiments. In future work, we plan to                        [8] D. M. Thomas and V. Natarajan, “Multiscale symmetry detection
+develop a theoretical analysis of the stability properties                         in scalar ﬁelds by clustering contours,” IEEE Trans. Vis. ",cs.CG,C,-0.22186525,-0.050823025,0.28357646
+http://arxiv.org/pdf/2208.05062v1,Implicit High-Order Meshing using Boundary and Interface Fitting,"We have demonstrated that the method is eﬀective
+for generating boundary- and interface-ﬁtted meshes for nontrivial curvilinear geometries. In future work, we will improve the method by developing mesh reﬁnement strategies
+for hexahedral and tetrahedral meshes, which are required when the mesh topology limits
+how well the mesh can ﬁt to the target surface (Section 3.2). We will also explore ways for
+aligning meshes to domains with sharp features [26, 43], as we currently assume that the
+level set function σ used in (8) is suﬃciently smooth around its zero level set. ",cs.CG,C,-0.32851952,-0.3137374,-0.0621721
+http://arxiv.org/pdf/2208.05850v1,A Deformation-based Edit Distance for Merge Trees,"Graph. Forum, 35(3):643–667,
+   In future work, we want to study stability properties of the new                   2016. doi: 10.1111/cgf.12933
+distance (speciﬁcally comparing the unconstrained and one-degree
+versions in this regard), parallel algorithms for more practical run-            [9] T. Jiang, L. Wang, and K. Zhang. Alignment of trees - an alternative
+ning times on complex datasets, and a possible adaptation to contour                  to tree edit. ",cs.CG,B_centroid,0.117070064,0.12673862,0.22769792
+http://arxiv.org/pdf/2208.07128v1,Tetrahedralization of a Hexahedral Complex,"We have also shown that using
+a predeﬁned set of face cuts restricts the triangulation in certain instances and the use of Steiner points is
+warranted to completely solve the triangulation problem for hexahedra. In future work, we plan to implement the algorithm above in the PETSc (Balay et al., 2022a,b) libraries
+in order to convert meshes with tensor product cells to simplicial cells as part of its DMPlex mesh capabili-
+ties (Knepley and Karpeev, 2009; Lange et al., 2016; Knepley et al., 2017). Acknowledgments
+
+We gratefully acknowledge the support of the Computational Infrastructure for Geodynamics project NSF
+EAR-0949446, as well as support from the Department of Energy Applied Math Research program under
+U.S. DOE Contract DE-AC02-06CH11357. ",cs.CG,C,-0.16876566,-0.15841767,0.07198441
+http://arxiv.org/pdf/2208.07148v1,Reduced Connectivity for Local Bilinear Jacobi Sets,"In sum, our method enables the reliable
+approach. It takes all relevant forces into account, being inertia of              and fast identiﬁcation of topological structures within the droplet
+the liquid and the ambient gas, the surface tension of the interface,              impact for further analysis of the phenomena. as well as friction losses, and gravity. ",cs.CG,C,-0.39791027,-0.10096875,-0.17632115
+http://arxiv.org/pdf/2208.07148v2,Reduced Connectivity for Local Bilinear Jacobi Sets,"In sum, our method enables the reliable
+approach. It takes all relevant forces into account, being inertia of              and fast identiﬁcation of topological structures within the droplet
+the liquid and the ambient gas, the surface tension of the interface,              impact for further analysis of the phenomena. as well as friction losses, and gravity. ",cs.CG,C,-0.39791027,-0.10096875,-0.17632115
+http://arxiv.org/pdf/2208.07567v1,Computing Smallest Convex Intersecting Polygons,"One could
+also try to generalize the set of objects, for example, adapting the minimum area algorithm
+to arbitrary convex objects. We propose the following open questions for further study. Is there a polynomial-time exact algorithm for the minimum area convex intersecting
+    polygon of segments? ",cs.CG,B,0.060459975,-0.256105,-0.11157083
+http://arxiv.org/pdf/2208.11275v1,Halving by a Thousand Cuts or Punctures,"It is natural to further investigate this connection. Ultimately,
+improving and simplifying Rubin’s construction in 2d seems like a worthy problem for further research. Beyond that, this work emphasize the “rounding is approximation” approach. ",cs.CG,B,0.025386576,-0.012590329,-0.121351436
+http://arxiv.org/pdf/2208.14264v1,Approximation Algorithm for Minimum $p$ Union Under a Geometric Setting,"In Subsection 2.3, local solutions to these subproblems are
+
+assembled to yield a (4, 1+1 ε )-bicriteria approximate solution to the DkSH-US instance,
+                                                      1
+which,  by  the  previous  relation,  yields  a  (  1+   ε  ,  4  )  -  bicr  it  er  ia  approximate  solution  to  the
+
+MinpU-US instance. Section 3 concludes the paper with some discussions on future work. 2 Approximation Algorithm for MinpU-US
+
+2.1 Preliminaries
+
+    In this subsection, we formally deﬁne the MinpU problem and the DkSH problem, and
+reveals a relation between then in terms of bicriteria algorithms. ",cs.CG,B,0.2645368,0.027093714,-0.10957021

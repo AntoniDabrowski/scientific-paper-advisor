@@ -1,0 +1,1437 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00324v1,Rank $1$ perturbations in random matrix theory -- a review of exact results,"First, the matrix integral eval-
+uation (2.18) extends to a matrix integral over the Haar measure for unitary matrices and
+unitary symplectic matrices, these diagonalising GUE and GSE matrices respectively. Of
+particular interest for the future working of Section 3.2 is the unitary matrix integral
+
+          e4αNTr(UΛU†1ˆ N 1ˆ TN ) (U†dU) ∝  ∏ ∞−iceit       N               −1
+
+(2.39)  U                                   −∞−ic j=1          it − 4αNλj      dt. Generalising (4.21) to the shifted GUE and GSE ensembles gives a characterisation of the
+corresponding parameter dependent probability density function pt as satisfying the Fokker-
+Planck equation (2.21) with the Dyson index β appearing as a factor of the second appearance
+of the partial derivative with respect to λj through a multiplication by 1/β; see [34, §11.1]. ",math-ph,C,-0.12942845,0.33361834,0.15126455
+http://arxiv.org/pdf/2201.00324v2,Rank $1$ perturbations in random matrix theory -- a review of exact results,"First, the matrix integral eval-
+uation (2.18) extends to a matrix integral over the Haar measure for unitary matrices and
+unitary symplectic matrices, these diagonalising GUE and GSE matrices respectively. Of
+particular interest for the future working of Section 3.2 is the unitary matrix integral
+
+          e4αNTr(UΛU†1ˆ N 1ˆ TN ) (U†dU) ∝  ∏ ∞−iceit       N               −1
+
+(2.39)  U                                   −∞−ic j=1          it − 4αNλj      dt. Generalising (4.21) to the shifted GUE and GSE ensembles gives a characterisation of the
+corresponding parameter dependent probability density function pt as satisfying the Fokker-
+Planck equation (2.21) with the Dyson index β appearing as a factor of the second appearance
+of the partial derivative with respect to λj through a multiplication by 1/β; see [38, §11.1]. ",math-ph,C,-0.12793538,0.3350774,0.15195175
+http://arxiv.org/pdf/2201.01423v1,On the equilibrium of the Poisson-Nernst-Planck-Bikermann model equipping with the steric and correlation effects,"The understandings of the dynamical problem on the PNPB model is limited. The well-
+posedness and other analytical issues such as the positivity preserving property of the dynamical
+problem are left for our future work. Acknowledgement
+
+We would like to thank Prof. Bob Eisenberg for his distinguished lectures on this topic at Duke
+Kunshan and helpful discussions with us and bringing the PNPB theory to us. ",math-ph,A,0.23730531,-0.015004778,-0.26236725
+http://arxiv.org/pdf/2201.01619v1,Evolution of interface singularities in shallow water equations with variable bottom topography,"Thus, a priori estimates on
+the time of gradient blowup [15] for hyperbolic one-dimensional systems should be extended to higher
+dimensions, with the core blowup of the self-similar solutions providing an upper bound for more general
+initial conditions. These and other issues will be pursued in future work. Acknowledgements
+
+We thank the anonymous referees for useful suggestions on the paper’s exposition and for alerting us
+to references [30, 25, 32]. ",math-ph,A,0.29208785,-0.11793183,-0.042328157
+http://arxiv.org/pdf/2201.03253v1,Restriction of Laplace-de Rham operator on one-forms: from $R^{n+2}$ and $R^{n+1}$ ambient spaces to embedded (A)dS$_n$ submanifolds,"Nevertheless, many of them share the
+same conformal group SO(2, n), including Friedmann-Lemaˆıtre-Robertson-Walker spaces. This should allow us, in a future work, to generalize to these spaces the results obtained
+here. 18
+
+                                     Appendix A: Details on calculations
+
+                                         1. ",math-ph,C,-0.26789856,-0.13941711,0.28465188
+http://arxiv.org/pdf/2201.03253v2,Restriction of Laplace operator on one-forms: from $\mathbb{R}^{n+2}$ and $\mathbb{R}^{n+1}$ ambient spaces to embedded (A)dS$_n$ submanifolds,"Nevertheless, many of them share the
+same conformal group SO(2, n), including Friedmann-Lemaˆıtre-Robertson-Walker spaces. This should allow us, in a future work, to generalize to these spaces the results obtained
+here. 18
+
+                                     Appendix A: Details on calculations
+
+      1. ",math-ph,C,-0.26789856,-0.13941711,0.28465188
+http://arxiv.org/pdf/2201.04589v1,Time and band limiting operator and Bethe ansatz,"The result was an expression for the eigenvalues of these Heun
+operators, and by extension for the spectrum of the time and band limiting operators, as
+functions of the solutions of Bethe equations. The present work opens the door for further researchs. There exist many diﬀerent Heun
+operators and their connection with integrable systems remains an interesting open question. ",math-ph,C,-0.07541627,0.17947766,0.16120091
+http://arxiv.org/pdf/2201.05480v1,Quantum Control at the Boundary,"For the rest of this section we are
+going to assume that this equality holds. Before further studying the relation between both approaches, let us briefly
+review the assumptions B. Simon and J. Kisyński made to prove the existence
+of a unitary propagator. There are two main ingredients playing a central role
+in their proofs: the (uniform) equivalence of the norms ∥ · ∥+,t := √︁⟨·, ·⟩+,t
+and the regularity of the generators H(t). ",math-ph,C,-0.22130692,0.32828793,0.09939381
+http://arxiv.org/pdf/2201.05480v2,Quantum Control at the Boundary,"For the rest of this section we are
+going to assume that this equality holds. Before further studying the relation between both approaches, let us briefly
+review the assumptions B. Simon and J. Kisyński made to prove the existence
+of a unitary propagator. There are two main ingredients playing a central role
+in their proofs: the (uniform) equivalence of the norms ∥ · ∥+,t := √︁⟨·, ·⟩+,t
+and the regularity of the generators H(t). ",math-ph,C,-0.22130692,0.32828793,0.09939381
+http://arxiv.org/pdf/2201.07269v1,Spin generalizations of the Benjamin-Ono equation,"In particular, we deﬁne the A-type sCM systems in Section 2.1, and, following
+[19], we state and prove a B¨acklund transformation for these systems in Sections 2.2 and 2.3. For
+simplicity, we restrict our discussion to cases I–III; we expect a similar result for the elliptic case
+IV, but this case is more complicated and thus left to future work. We believe that the results in this section are of interest in their own right: to our knowledge,
+the proof of the relevant B¨acklund transformation (see (2.8)) in the literature has previously been
+restricted to the rational case (I) and M = N [19]. ",math-ph,C,-0.13077098,-0.076444805,0.05989119
+http://arxiv.org/pdf/2201.08803v1,Regularity properties of bulk and edge current densities at positive temperature,"In such cases, the situation is even
+          more delicate and one has to suitably modify the gauge covariant magnetic
+          perturbation theory. We plan to address these issues in a future work. An
+          even more challenging problem would be to extend our results to general
+          elliptic operators, including Dirac operators. ",math-ph,C,-0.030280262,-0.011134815,0.29096082
+http://arxiv.org/pdf/2201.10046v1,"On evolving natural curvature for an inextensible, unshearable, viscoelastic rod","A nice feature of this
+weaker requirement is that we can make the simplifying geometric and logi-
+cally consistent assumption that the natural curvature is constant across the
+rod.5 If instead we require the entropy to be pointwise increasing in time,
+then we could not make this assumption. Of course, many rods can and do
+have a non-uniform natural curvature evolving in time, and we intend to
+investigate the more general model in future work. In Section 3, we specialize our study to the equations describing qua-
+sistatic motion of an Eulerian strut (see (3.2) and (3.3)). ",math-ph,A,0.19346814,-0.116911106,-0.24858096
+http://arxiv.org/pdf/2201.10046v2,"On evolving natural curvature for an inextensible, unshearable, viscoelastic rod","A
+
+nice feature of this weaker requirement is that we can make the simplifying
+
+geometric and logically consistent assumption that the natural curvature
+
+µ◦ is independent of the variable s for each t.5 If instead we require the
+
+entropy to be pointwise increasing in time, then we could not make this
+
+assumption. Of course, many rods can and do have a non-uniform natural
+
+curvature evolving in time, and we intend to investigate the more general
+
+model in future work. 5Equivalently, we assume that the possible natural conﬁgurations of the rod are seg-
+ments of circles of varying radii. ",math-ph,A,0.22055295,-0.11871225,-0.25003457
+http://arxiv.org/pdf/2201.10205v1,Self-adjoint extension schemes and modern applications to quantum Hamiltonians,"Abstractly speaking, one can perform a regularisation with an ad hoc energy cut-
+off on the canonical model H0,β , or also with a modiﬁed Hamiltonian in the form
+of a proper Schrödinger operator with two-body potentials of small but ﬁnite (i.e.,
+non-zero) effective range. Somewhat intermediate between such two directions is a construction, formerly
+contemplated by Minlos and Faddeev with no further analysis, of a contact interac-
+tion Hamiltonian similar to H0,β , but with a regularisation that has the overall effect
+of switching the interaction off in the vicinity of the triple coincidence conﬁgura-
+tion. The three identical bosons are allowed by the statistics to occupy that region,
+in which now the regularisation make them asymptotically free. ",math-ph,C,-0.030119259,0.1985963,-0.19670905
+http://arxiv.org/pdf/2201.10205v2,Self-adjoint extension schemes and modern applications to quantum Hamiltonians,"Abstractly speaking, one can perform a regularisation with an ad hoc energy cut-
+off on the canonical model H0,β , or also with a modiﬁed Hamiltonian in the form
+of a proper Schrödinger operator with two-body potentials of small but ﬁnite (i.e.,
+non-zero) effective range. Somewhat intermediate between such two directions is a construction, formerly
+contemplated by Minlos and Faddeev with no further analysis, of a contact interac-
+tion Hamiltonian similar to H0,β , but with a regularisation that has the overall effect
+of switching the interaction off in the vicinity of the triple coincidence conﬁgura-
+tion. The three identical bosons are allowed by the statistics to occupy that region,
+in which now the regularisation make them asymptotically free. ",math-ph,C,-0.030119259,0.1985963,-0.19670905
+http://arxiv.org/pdf/2201.10205v3,Self-adjoint extension schemes and modern applications to quantum Hamiltonians,"Abstractly speaking, one can perform a regularisation with an ad hoc energy cut-
+off on the canonical model H0,β , or also with a modiﬁed Hamiltonian in the form
+of a proper Schrödinger operator with two-body potentials of small but ﬁnite (i.e.,
+non-zero) effective range. Somewhat intermediate between such two directions is a construction, formerly
+contemplated by Minlos and Faddeev with no further analysis, of a contact interac-
+tion Hamiltonian similar to H0,β , but with a regularisation that has the overall effect
+of switching the interaction off in the vicinity of the triple coincidence conﬁgura-
+tion. The three identical bosons are allowed by the statistics to occupy that region,
+in which now the regularisation make them asymptotically free. ",math-ph,C,-0.030119259,0.1985963,-0.19670905
+http://arxiv.org/pdf/2201.10540v1,Hydrodynamic behavior of long-range symmetric exclusion with a slow barrier: superdiffusive regime,"This
+is similar to what has been done in [10]. We leave this for future work. Here follows an outline of this article. ",math-ph,B,-0.05272199,0.051059417,-0.08571022
+http://arxiv.org/pdf/2201.11487v1,A Calculus for Magnetic Pseudodifferential Super Operators,"Let us begin by investigating the products of Hörmander symbols ﬁrst, which are the ba-
+sis for any calculus. In future works, this will be the basis for proving that e. g. super
+Moyal resolvents of magnetic pseudodifferential super operators associated to Hörmander
+symbols are again Hörmander symbols. 6.1 The magnetic semi-super Weyl product •B
+
+The ﬁrst order of business is to show that Hörmander symbols have good composition
+properties under the magnetic semi-super product. ",math-ph,C,-0.21216193,-0.0068628984,0.16067573
+http://arxiv.org/pdf/2201.11487v2,A Calculus for Magnetic Pseudodifferential Super Operators,"Let us begin by investigating the products of Hörmander symbols ﬁrst, which are the ba-
+sis for any calculus. In future works, this will be the basis for proving that e. g. super
+Moyal resolvents of magnetic pseudodifferential super operators associated to Hörmander
+symbols are again Hörmander symbols. 6.1 The magnetic semi-super Weyl product •B
+
+The ﬁrst order of business is to show that Hörmander symbols have good composition
+properties under the magnetic semi-super product. ",math-ph,C,-0.21216193,-0.0068628984,0.16067573
+http://arxiv.org/pdf/2201.11982v1,Hydrodynamic behavior of the 2-TASEP,"Shock curves coincide with
+rarefaction curves so this an example of a conservation system of Temple class [29]. A further analysis of the Hugoniot condition allows to conclude that in the bulk
+
+of the physical domain D, the only possible shocks are α and β–shocks. There exists
+
+however one more class of shocks when both sides of the discontinuity lie on the boundary
+line ρ∗ = 0. ",math-ph,A,0.22243679,-0.21069202,-0.19168246
+http://arxiv.org/pdf/2201.12846v1,"Combinatorial Cell Complexes: Duality, reconstruction and causal cobordisms","We explain more concretely why we believe so in Section 0.1. These examples
+therefore encapsulate well some of the motivations of this work and understanding how to include
+them in the formalism introduced here constitutes an interesting direction for further research. It is relatively straightforward to deﬁne the duality map for the case of closed combinatorial cell
+complexes and verify that it deﬁnes an involution, which is part of the content of Chapter 1. ",math-ph,C,-0.4538151,-0.0064183585,-0.03467824
+http://arxiv.org/pdf/2201.12846v2,"Combinatorial Cell Complexes: Duality, reconstruction and causal cobordisms","We explain more concretely why we believe so in Section 0.1. These examples
+therefore encapsulate well some of the motivations of this work and understanding how to include
+them in the formalism introduced here constitutes an interesting direction for further research. It is relatively straightforward to deﬁne the duality map for the case of closed combinatorial cell
+complexes and verify that it deﬁnes an involution, which is part of the content of Chapter 1. ",math-ph,C,-0.4538151,-0.0064183585,-0.03467824
+http://arxiv.org/pdf/2201.12871v1,Investigation of the two-cut phase region in the complex cubic ensemble of random matrices,"In fact, to solve
+RHP-𝑵 we only need to exclude indices 𝑛 for which 𝒛𝑛,1 “ 8p0q (in this case 𝒛𝑛,0 “ 8p1q, see
+Proposition 7.1) as should be clear from (8.5). However, for further analysis we shall need estimate
+
+(7.29), where it is crucial that 𝑛 P Np𝜀q for some 𝜀 ą 0. Let the functions 𝑀𝑛,𝑘 p𝒛q be given by (7.26) and Dp𝑧q “ Dp𝑧; 𝑡q be deﬁned by (4.2). ",math-ph,B,0.1293357,0.14159189,0.058537032
+http://arxiv.org/pdf/2201.12941v1,Universality for multiplicative statistics of Hermitian random matrices and the integro-differential Painlevé II equation,"For |n2/3ϕ(z)| ≤ R, the terms ΦAi,+(ζ = n2/3ϕ(z)) and ΦAi,+(ζ = n2/3ϕ(z)) consist of continuous
+
+functions evaluated inside the compact interval [−R, R], and therefore they are bounded. By the same
+reason, the expression (10.11) shows that F is bounded for |n2/3ϕ(z)| ≤ R. On the other hand, without
+further analysis we obtain that F may grow at most as O(n1/6). Finally, combining with (10.9) and
+the fact that the determinant of P is identically 1, we conclude that for |n2/3ϕ(x)| ≤ R,
+
+    P+(x) = O(1) enφ+(x)σ3 , P+(x)−1 = e−nφ+(x)σ3 O(1) and P+(x) = O(n) e−nφ+(x)σ3 (12.7)
+
+which is valid as n → ∞ and uniformly for x ∈ (−a − δ, −a + δ), also uniformly for u ≥ s and
+
+t0 ≤ t ≤ 1/t0. ",math-ph,B,0.15572068,0.19725224,0.2750656
+http://arxiv.org/pdf/2201.13126v1,"Current correlations, Drude weights and large deviations in a box-ball system","The other second order scaled cumulants are given
+
+by
+
+    1            c            ∂2F               a(1 − a) (1 + z)(1 − zl)(1 + a2zl) − (1 + a)2(1 − z)lzl
+lim    N∞,tN1,t   β∞,β1 =                    =                     (1 + a)3(1 − z)(1 − azl)2 ,
+t→∞ t                         ∂λ∂µ
+                                     λ=µ=0
+
+                                                                                                     (C.24)
+
+       1 2c                   ∂2F            a(1 − a)(1 − zl)(1 + a2zl)
+    lim    N1,t   β∞,β1 =                 = (1 + a)3(1 − azl)2 . (C.25)
+    t→∞ t                     ∂µ2
+                                   λ=µ=0
+
+     We leave an interesting problem of studying the Hessian of F in relation to the
+convexity of F for a future work. Current correlations, Drude weights and large deviations in a box-ball system  36
+
+When l = ∞, (C.23) in the regime zeλ < 1 simpliﬁes to
+
+                        F (∞)(λ, µ) = ln 1 − a . ",math-ph,B,0.17899145,0.14633282,0.24026287
+http://arxiv.org/pdf/2201.13126v2,"Current correlations, Drude weights and large deviations in a box-ball system","The other second order scaled cumulants are given
+
+by
+
+    1  N∞,tN1,t  c         ∂2F            =  a(1 − a) (1 + z)(1 − zl)(1 + a2zl) − (1 + a)2(1 − z)lzl
+lim               β∞,β1 =                                   (1 + a)3(1 − z)(1 − azl)2 ,
+t→∞ t                      ∂λ∂µ
+                                  λ=µ=0
+
+                                                                               (C.24)
+
+       1 2c                ∂2F            a(1 − a)(1 − zl)(1 + a2zl)
+    lim    N1,t   β∞,β1 =              = (1 + a)3(1 − azl)2 . (C.25)
+    t→∞ t                  ∂µ2
+                                λ=µ=0
+
+     We leave an interesting problem of studying the Hessian of F in relation to the
+convexity of F for a future work. When l = ∞, (C.23) in the regime zeλ < 1 simpliﬁes to
+
+                                  F (∞)(λ, µ) = ln 1 − a . ",math-ph,B,0.17676371,0.1083764,0.25171012
+http://arxiv.org/pdf/2202.00803v1,Discrete Dirac reduction of implicit Lagrangian systems with abelian symmetry groups,"Discrete
+Dirac mechanics is also the basis of a discrete theory of interconnections [30], which allows one to
+construct discretizations of complex multiphysics systems by interconnecting simpler subsystems. For future work, we will extend this to the setting of nonabelian symmetry groups, and to discrete
+analogues of Routh reduction, where the discrete dynamics is also restricted to the level sets of the
+discrete momentum. DISCRETE DIRAC REDUCTION WITH ABELIAN SYMMETRY GROUPS  23
+
+                                                 Acknowledgements
+
+   ARA was supported by a FPU grant from the Spanish Ministry of Science, Innovation and Univer-
+sities (MICIU). ",math-ph,C,-0.017464895,-0.038246434,-0.13158333
+http://arxiv.org/pdf/2202.00803v2,Discrete Dirac reduction of implicit Lagrangian systems with abelian symmetry groups,"DISCRETE DIRAC REDUCTION  29
+
+to generalize the local theory that was discussed to a discrete reduction theory that is globally
+well-deﬁned on a manifold. For future work, we will extend this to the setting of nonabelian symmetry groups, and to discrete
+analogues of Routh reduction, where the discrete dynamics is also restricted to the level sets of the
+discrete momentum. In the same vein, it would be interesting to explore discrete Dirac reduction by
+stages. ",math-ph,C,-0.15116331,-0.083814986,-0.14483206
+http://arxiv.org/pdf/2202.01538v1,Bose-Einstein condensation on hyperbolic spaces,"In particular, the proof of the main result does not
+require recent advances on rigorous implementation of Bogoliubov’s heuristic. The result raises some potentially interesting questions for further study in the hyper-
+bolic setting. (i) Our result on BEC is proved without identifying even the leading order of the
+energy asymptotics in the dilute limit. ",math-ph,B,0.092485264,0.22240305,-0.025233699
+http://arxiv.org/pdf/2202.01538v2,Bose-Einstein condensation on hyperbolic spaces,"This means that the argument provides no new
+insight on the Euclidean case. The result raises some potentially interesting questions for further study in the hyper-
+bolic setting. (i) Our result on BEC is proved without identifying even the leading order of the
+energy asymptotics in the dilute limit. ",math-ph,B,0.110697195,0.19953066,0.003908409
+http://arxiv.org/pdf/2202.02050v1,Conjugation Matters. Bioctonionic Veronese Vectors and Cayley-Rosenfeld Planes,"[CCM], and Refs. therein), and we leave this intriguing issue for further future work. Here, we only notice that
+
+(6.14) appears as the enlarged scalar manifold of N = 5, D = 3 + 1 “pure” supergravity timelikely reduced to
+
+N = 10, D = 3 + 0 “pure” supergravity (after complete dualization of 1-forms to 0-forms); cf. ",math-ph,C,-0.21212028,-0.36864346,0.04410828
+http://arxiv.org/pdf/2202.02657v1,Notes on the Twistor $\mathbf P^1$,"It is rather striking that one gets in this way a generalization to the arith-
+metic context of a theory which for F = R is canonical quantization for the
+case of conﬁguration space H, which is just the case of quantization relevant
+to wave-functions on the usual four-dimensional space-time. The author is not
+aware of this being previously considered from any physical viewpoint, but it
+clearly deserves further study. So far we have just been considering the local ﬁelds Qp and R, but one can
+use these to study the global ﬁeld Q. ",math-ph,C,-0.2470553,-0.0046501067,-0.29187292
+http://arxiv.org/pdf/2202.02657v2,Notes on the Twistor $\mathbf P^1$,"It is rather striking that one gets in this way a generalization to the arith-
+metic context of a theory which for F = R is canonical quantization for the
+case of conﬁguration space H, which is just the case of quantization relevant
+to wave-functions on the usual four-dimensional space-time. The author is not
+aware of this being previously considered from any physical viewpoint, but it
+clearly deserves further study. So far we have just been considering the local ﬁelds Qp and R, but one can
+use these to study the global ﬁeld Q. ",math-ph,C,-0.2470553,-0.0046501067,-0.29187292
+http://arxiv.org/pdf/2202.07637v1,Review of a Simplified Approach to study the Bose gas at all densities,"In this paper, we will not discuss how the approximation can be justiﬁed, rather the aim here
+is to study the Simpliﬁed Approach and use it as a tool to compute physical observables for the
+repulsive Bose gas. Justifying this approximation will be the goal of future work. 3.1. ",math-ph,B,0.20958732,0.40360433,-0.09692916
+http://arxiv.org/pdf/2202.07982v1,A Direct Road to Entropy and the Second Law of Thermodynamics,"This
+formula, remarkable as it is, does not end our story, however. For one thing, we do not
+consider it natural to accept CH as an axiom without proof and a substantial part of
+A DIRECT ROAD TO ENTROPY AND THE SECOND LAW OF THERMODYNAMICS  3
+
+our further analysis consists in deriving it from physically more transparent assump-
+tions. These involve familiar concepts from traditional thermodynamics, in particular
+energy, volume and pressure, and last but not least, that of thermal equilibrium, which
+can be deﬁned using the relation ≺. ",math-ph,A,0.11375295,0.19961202,-0.22006857
+http://arxiv.org/pdf/2202.08136v1,On BV Supermanifolds and the Super Atiyah Class,"This suggests, in turn, the following question:
+do the obstruction classes to splitting a complex supermanifold also obstruct the existence of a
+globally-deﬁned odd non-degenerate closed 2-form? We leave these questions to future works. Appendix A. Extensions of Sheaves
+
+For the sake of readability of the paper we recall that an extension of sheaves on a manifold X is
+a short exact sequence of sheaves
+
+                                        0            GA i GC j GB                  G 0. ",math-ph,C,-0.24781585,-0.42886674,0.035300285
+http://arxiv.org/pdf/2202.08136v2,On BV Supermanifolds and the Super Atiyah Class,"This suggests, in turn, the following question:
+do the obstruction classes to splitting a complex supermanifold also obstruct the existence of a
+globally-deﬁned odd non-degenerate closed 2-form? We leave these questions to future works. Appendix A. Extensions of Sheaves
+
+For the sake of readability of the paper we recall that an extension of sheaves on a manifold X is
+a short exact sequence of sheaves
+
+       0  GA i GC j GB         G 0. ",math-ph,C,-0.24781585,-0.42886674,0.035300285
+http://arxiv.org/pdf/2202.08136v3,On BV Supermanifolds and the Super Atiyah Class,"This suggests, in turn, the following question:
+do the obstruction classes to splitting a complex supermanifold also obstruct the existence of a
+globally-deﬁned odd non-degenerate closed 2-form? We leave these questions to future works. Appendix A. Extensions of Sheaves
+
+For the sake of readability of the paper we recall that an extension of sheaves on a manifold X is
+a short exact sequence of sheaves
+
+                                                              0            /A i /C j /B                   / 0. ",math-ph,C,-0.23650047,-0.42939013,0.036456745
+http://arxiv.org/pdf/2202.08162v1,Completeness of Bethe ansatz for Gaudin models associated with gl(1|1),"The theory of Bethe ansatz has been developed for Gaudin models associated with osp(1|2) in
+[KM01]. We plan to further study the completeness of Bethe ansatz for osp(1|2) Gaudin models,
+cf. [LM21c]. ",math-ph,C,-0.14197378,0.10258427,-0.032156844
+http://arxiv.org/pdf/2202.09581v1,Infinitesimal time reparametrisation and its applications,"See [47] for more details on this subject. 9 Conclusions and future work
+
+We started with the classical deﬁnition of Sundman transformation for autonomous systems of
+ﬁrst-order diﬀerential equations and its applications at the beginning of twentieth century and
+describe it in a geometric way as a conformal change in the corresponding. dynamical vector
+ﬁeld. ",math-ph,A,0.13026772,-0.2302837,-0.02347757
+http://arxiv.org/pdf/2202.10599v1,Delta Potentials Supported by Hybrid Geometries and Their Deformations,"It is tempting to push this to the second order and search for, if there is any, a geometric
+interpretation of the result. But the calculations are rather involved so we postpone it for future work. Note
+that the circle problem per se can be solved by elementary methods, that is by choosing polar coordinates at the
+center and writing the delta function along the radial direction. ",math-ph,B,0.56845975,-0.13918248,0.3592467
+http://arxiv.org/pdf/2202.10599v2,Delta Potentials Supported by Hybrid Geometries and Their Deformations,"It is tempting to push this to the second order and search for, if there is any, a geometric
+interpretation of the result. But the calculations are rather involved so we postpone it for future work. Note
+that the circle problem per se can be solved by elementary methods, that is by choosing polar coordinates at the
+center and writing the delta function along the radial direction. ",math-ph,B,0.56845975,-0.13918248,0.3592467
+http://arxiv.org/pdf/2202.10599v3,Delta Potentials Supported by Hybrid Geometries and Their Deformations,"It is tempting to push this to the second order and search for, if there is any, a geometric
+interpretation of the result. But the calculations are rather involved so we postpone it for future work. Note
+that the circle problem per se can be solved by elementary methods, that is by choosing polar coordinates at the
+center and writing the delta function along the radial direction. ",math-ph,B,0.56845975,-0.13918248,0.3592467
+http://arxiv.org/pdf/2202.10599v4,Rank One Perturbations Supported by Hybrid Geometries and Their Deformations,"It is tempting to push this to the second order and search for, if there is any, a geometric
+interpretation of the result. But the calculations are rather involved so we postpone it for future work. Note
+that the circle problem per se can be solved by elementary methods, that is by choosing polar coordinates
+at the center and writing the delta function along the radial direction. ",math-ph,B,0.56845975,-0.13918248,0.3592467
+http://arxiv.org/pdf/2202.12870v1,Correlation functions for open XXZ spin 1/2 quantum chains with unparallel boundary magnetic fields,"The
+computation of completely general correlation functions indeed leads to more complicated types of scalar
+products, for which at the moment there exists no known simple determinant representation. We intend to
+consider this interesting but more delicate problem in a further study. Finally, we expect that our study of correlation function can be adapted to the consideration of some other
+type of boundary conditions at site N , for instance non-diagonal ones with the constraint (3.45). ",math-ph,B,-0.03241074,0.10247111,0.16057688
+http://arxiv.org/pdf/2202.13246v1,"On applications of Herglotz-Nevanlinna functions in material sciences, II: extended applications and generalized theory","Note that items that are already deﬁned in Part I will not be deﬁned again in this
+part. We hope that this review can be both helpful for people working in applications (by
+providing mathematical references for diﬀerent aspects of Herglotz-Nevanlinna func-
+tions as well as their generalizations for future work) and interesting for pure math-
+ematicians (by pointing out some relevant applications of Herglotz-Nevanlinna func-
+tions). 2 Applications
+
+This section starts with the applications arising in the study of eﬀective properties
+of composite materials, followed by the application in broadband passive quasi-static
+cloaking and is concluded with a delicate application of the operator-valued Herglotz-
+Nevanlinna function theory for understanding the Hamiltonian structure of time dis-
+persive and dissipative systems. ",math-ph,A,0.0073814094,-0.029845018,0.015896257
+http://arxiv.org/pdf/2202.13246v2,"On applications of Herglotz-Nevanlinna functions in material sciences, II: extended applications and generalized theory","Note that items that are already deﬁned in Part I will not be deﬁned again in this
+part. We hope that this review can be both helpful for people working in applications
+(by providing mathematical references for diﬀerent aspects of Herglotz-Nevanlinna
+functions as well as their generalizations for future work) and interesting for pure
+mathematicians (by pointing out some relevant applications of Herglotz-Nevanlinna
+functions). 2 Applications
+
+This section starts with the applications arising in the study of eﬀective properties
+of composite materials, followed by the application in broadband passive quasi-
+static cloaking and is concluded with a delicate application of the operator-valued
+Herglotz-Nevanlinna function theory for understanding the Hamiltonian structure of
+time-dispersive and dissipative systems. ",math-ph,A,0.059914775,0.010815332,0.0028152913
+http://arxiv.org/pdf/2202.13722v1,Combinatorial Cobordism Theory,"Readers familiar with these areas
+of research will certainly know applications of the dual lattice or of more
+general discrete spaces to study certain transformations on ﬁelds deﬁned
+on it, the simplest example being probably the Kramers-Wannier duality of
+the two-dimensional Ising model. The latter duality has for example been
+interpreted as a generalized Fourier transform ([McK64]) or linked with the
+electromagnetic duality ([FT19]) and such connections might shed light on
+
+                                                6
+how the duality on cell complexes would couple with ﬁelds deﬁned on causal
+cobordisms, however this is a topic for further research. This paper is self-contained, and organised as follows. ",math-ph,C,-0.24167156,0.0287183,-0.120845795
+http://arxiv.org/pdf/2202.13722v2,Combinatorial Cobordism Theory,"These areas of research include many
+applications of the dual lattice or of more general discrete spaces to study
+certain transformations on ﬁelds deﬁned on it, the simplest example being
+arguably the Kramers-Wannier duality of the two-dimensional Ising model. The latter duality has for example been treated as a generalized Fourier
+transform ([McK64]) or linked with the electromagnetic duality ([FT19]) and
+such connections might shed light on how the duality on cell complexes would
+couple with ﬁelds deﬁned on causal cobordisms, however this is a topic for
+further research. On connections with lattices, quantum logic and other combina-
+torial notions of cell complexes. ",math-ph,C,-0.26013488,0.0013480633,-0.16170445
+http://arxiv.org/pdf/2203.00287v1,The Elliptic Ginibre Ensemble: A Unifying Approach to Local and Global Statistics for Higher Dimensions,"However, to attain such a regime
+for d > 1, a different saddle point analysis would have to be made that is much more involved. We postpone such an analysis to
+future work. 4. ",math-ph,B,0.17051423,0.03178875,-0.039408818
+http://arxiv.org/pdf/2203.03473v1,Hamilton-Jacobi approach to thermodynamic transformations,"dU = − a ,  dV = 0,  dN = 0,  dG = −λG. There are several avenues for future work. For in-
+dt  V       dt       dt       dt                               stance, the distance in the sense of thermodynamic length
+                                                               [29] between thermodynamic states related by a Hamilto-
+                                           (66)                nian transformation remains to be well understood. ",math-ph,A,0.200462,-0.112962246,-0.13034657
+http://arxiv.org/pdf/2203.03473v2,Hamilton-Jacobi approach to thermodynamic transformations,"are (T, P, µ) can be described from the knowledge of
+the time evolving potential and its dynamical arguments. Acknowledgements
+
+   There are several avenues for future work. For in-               The author is grateful to Chandrasekhar Bhamidipati
+stance, the distance in the sense of thermodynamic length        for useful discussions. ",math-ph,A,0.1197045,0.07736422,-0.290575
+http://arxiv.org/pdf/2203.07277v1,A short note on the appearance of the simplest antilinear ODE in several physical contexts,"Second, this equation emerges, after appropriate reduction steps, in rather diﬀerent physical contexts. Certainly,
+much more applications can be identiﬁed, but already the context of the linear Schrödinger equation alone is a good
+enough motivation to further study the antilinear ODE u′ (x) = f (x) u (x). For example, reduction of matrix/vector
+manipulations to those with scalar quantities already provides simpliﬁcation in tedious constructions of asymptotic-
+numerical methods, see e.g. ",math-ph,A,0.1661103,0.08645592,-0.15496552
+http://arxiv.org/pdf/2203.07277v2,A short note on the appearance of the simplest antilinear ODE in several physical contexts,"Certainly, much more application areas can be identiﬁed (e.g. telegrapher’s
+equations or Goldstein-Taylor model [5]), but already the context of the linear Schrödinger equation alone is a good
+enough motivation to further study the antilinear ODE u′ (x) = f (x) u (x). For example, reduction of matrix-
+vector manipulations to those involving scalar quantities already provides a simpliﬁcation in tedious constructions
+of asymptotic-numerical methods, cf. ",math-ph,A,0.1841831,0.10951108,-0.18996438
+http://arxiv.org/pdf/2203.07674v1,Return probability of quantum and correlated random walks,"We hope that this
+research will provide a mathematical foundation for the properties of quantum walks. For
+future research, a further analysis using the generating function of the return probability
+obtained in this study would be interesting. Moreover, to extend the one-dimensional
+lattice to a more general graph would be one of the fascinating problems. ",math-ph,B,-0.10701737,0.33431762,-0.03626722
+http://arxiv.org/pdf/2203.07674v2,Return probability of quantum and correlated random walks,"We hope that this
+research will provide a mathematical foundation for the properties of quantum walks. For
+future research, a further analysis using the generating function of the return probability
+obtained in this study would be interesting. Moreover, extending the one-dimensional
+lattice to a higher dimensional lattice would be one of the fascinating problems. ",math-ph,B,-0.109216675,0.3542269,-0.03634783
+http://arxiv.org/pdf/2203.07952v1,Causal and self-dual morphisms in four complex dimensions,"The relationship to conformal transformations
+also makes them interesting from a purely mathematical point of view, particularly for
+the study of four dimensional manifolds. We look forward to further understanding the
+properties and applications of these transformations in future work. A Details of self-dual morphisms
+
+Here we present a more detailed calculation for the examples of self-dual morphisms. ",math-ph,C,-0.1433472,-0.37878644,0.11266437
+http://arxiv.org/pdf/2203.07952v2,Causal and self-dual morphisms in four complex dimensions,"The relationship to conformal transformations
+also makes them interesting from a purely mathematical point of view, particularly for
+the study of four dimensional manifolds. We look forward to further understanding the
+properties and applications of these transformations in future work. A Details of self-dual morphisms
+
+Here we present a more detailed calculation for the examples of self-dual morphisms. ",math-ph,C,-0.1433472,-0.37878644,0.11266437
+http://arxiv.org/pdf/2203.09113v1,Local Hard-Sphere Poisson-Nernst-Planck Models for Ionic Channels with Permanent Charges,"In Section 5, we
+express the importance and productivity of the work. We also bring up some future works we
+are working on and one may also take into consideration. 2 Poisson-Nernst-Planck systems with a local HS model for
+     ionic ﬂows
+
+2.1 A one-dimensional PNP-type system. ",math-ph,A,0.0038196966,0.12439625,-0.23091008
+http://arxiv.org/pdf/2203.09115v1,Nineteen vortex equations and integrability,"We have used this relation to ﬁnd the singular geometry that would
+be the solution to the Chern-Simons vortex. This work leads to many questions for future work. The ﬁrst of which is
+what are the theories that these new vortex equations could be derived from. ",math-ph,C,0.02607978,-0.23085216,0.07792754
+http://arxiv.org/pdf/2203.09115v2,Nineteen vortex equations and integrability,"We have used this relation to ﬁnd the singular geometry that would be
+the solution to the Chern-Simons vortex. This work leads to many questions for future work. The ﬁrst of which is what are the
+theories that these new vortex equations could be derived from. ",math-ph,C,0.02607978,-0.23085216,0.07792754
+http://arxiv.org/pdf/2203.09529v1,Asymptotic measurement schemes for every observable of a quantum field theory,"An immediate question raised by our results is whether they extend to the algebra generated by
+Wick powers. In the expectation of merely mild technical eﬀort we have left this task together with
+the possible extension to theories other than scalar ones for future work. Beyond speciﬁc quantum
+ﬁeld theories, it would very interesting to understand whether there is a general result, akin to
+the Stinespring theorem, that would establish the (asymptotic) measureability of arbitrary local
+observables in general QFTs by locally coupled probes. ",math-ph,C,-0.24820794,0.25694764,-0.20173216
+http://arxiv.org/pdf/2203.09529v2,Asymptotic measurement schemes for every observable of a quantum field theory,"An immediate question raised by our results is whether they extend to the algebra generated by
+Wick powers. In the expectation of merely mild technical eﬀort we have left this task together with
+the possible extension to theories other than scalar ones for future work. Beyond speciﬁc quantum
+ﬁeld theories, it would be very interesting to understand whether there is a general result, akin to
+the Stinespring theorem, that would establish the (asymptotic) measureability of arbitrary local
+observables in general QFTs by locally coupled probes. ",math-ph,C,-0.25264296,0.25365198,-0.20068133
+http://arxiv.org/pdf/2203.11107v1,$F$-algebroids and deformation quantization via pre-Lie algebroids,"This would allow us to give
+a comprehensible interpretation of our construction as a manifestation of a mirror phenomenon. We want to follow this line of thought in future works. The paper is organized as follows. ",math-ph,A,-0.13134757,-0.1339457,-0.29233646
+http://arxiv.org/pdf/2203.11643v1,Relation between spectra of Narain CFTs and properties of associated boolean functions,"Moreover, consulting with the work of Parker and Tellambura [PT02], we
+constructed some nested clique graphs of length t2 and conﬁrmed that their
+EPC distances satisfy db ≥ 2t − 2 for t = 3, 5, 7, 11. To prove or disprove
+that this holds for all t, and to make the upper bound (4.7) stricter are left
+to future works. We also tested the correlation between the high distance
+and the low independence number comparing the independence number of
+graphs with high distance to those of a large number of random graphs. ",math-ph,B,0.011255048,0.2081781,-0.12727949
+http://arxiv.org/pdf/2203.11643v2,Relation between spectra of Narain CFTs and properties of associated boolean functions,"Moreover, consulting with the work of Parker and Tellambura [PT02], we
+constructed some nested clique graphs of length t2 and conﬁrmed that their
+binary distances satisfy db ≥ 2t − 2 for t = 3, 5, 7, 11. To prove or disprove
+that this holds for all t, and to make the upper bound (4.7) stricter are left
+to future works. We also tested the correlation between the high distance
+and the low independence number comparing the independence number of
+graphs with high distance to those of a large number of random graphs. ",math-ph,B,-0.009287957,0.17775953,-0.15839663
+http://arxiv.org/pdf/2203.13850v2,Inverse Regge poles problem on a warped ball,"Standard theory of
+ODE’s then imply that vk exists and is uniquely determined thus proving
+Lemma 7 for these harmonics. The case k = 0 requires further analysis of the behaviour of solutions
+
+for large values of x, existence and unicity being guaranteed by standard
+
+ODE results. Furthermore, according to our assumptions (CF1’,CF2), x →
+f (x) − e−x is compactly supported so working away from its support we
+can assume: f (x) = e−x. ",math-ph,A,0.21134107,-0.12689096,-0.082346074
+http://arxiv.org/pdf/2203.16594v1,Generalised Onsager Algebra in Quantum Lattice Models,"Yet the Lax operator and the R matrix are needed to be constructed, which
+should be more complex than the ones of the Fendley model. We reserve all those intriguing
+questions for the future work. 6 Conclusions and outlooks
+
+In this article, we begin with presenting the generalised Cliﬀord algebra GC(r, N ) and its
+relation to the graph Temperley-Lieb algebra GTL(r, N ) and the generalised Onsager algebra
+GO(r + 1). ",math-ph,C,-0.3924846,-0.0514614,0.15055457
+http://arxiv.org/pdf/2203.16594v2,Generalised Onsager Algebra in Quantum Lattice Models,"Yet the Lax operator and the R matrix are needed to be constructed, which
+should be more complex than the ones of the Fendley model. We reserve all those intriguing
+questions for the future work. 17
+SciPost Physics        Submission
+
+6 Conclusions and outlooks
+
+In this article, we begin with presenting the generalised Cliﬀord algebra GC(r, N ) and its
+relation to the graph Temperley-Lieb algebra GTL(r, N ) and the generalised Onsager algebra
+GO(r + 1). ",math-ph,C_centroid,-0.3413167,-0.06745854,0.13677835
+http://arxiv.org/pdf/2203.16594v3,Generalised Onsager Algebra in Quantum Lattice Models,"Yet the Lax operator and the R matrix are needed to be constructed, which
+should be more complex than the ones of the Fendley model. We reserve all those intriguing
+questions for the future work. 6 Conclusions and outlooks
+
+In this article, we begin with presenting the generalised Cliﬀord algebra GC(r, N ) and its
+relation to the graph Temperley-Lieb algebra GTL(β, r, N ) and the generalised Onsager al-
+gebra GO(r + 1). ",math-ph,C,-0.3832394,-0.045527466,0.17204268
+http://arxiv.org/pdf/2203.16594v4,Generalised Onsager Algebra in Quantum Lattice Models,"Yet the Lax operator and the R matrix are needed to be constructed, which
+should be more complex than the ones of the Fendley model. We reserve all those intriguing
+questions for the future work. 6 Conclusions and outlooks
+
+In this article, we begin with presenting the generalised Cliﬀord algebra GC(r, N ) and its
+relation to the graph Temperley-Lieb algebra GTL(β, r, N ) and the generalised Onsager al-
+gebra GO(r + 1). ",math-ph,C,-0.3832394,-0.045527466,0.17204268
+http://arxiv.org/pdf/2203.16889v1,"Exactly solvable anharmonic oscillator, degenerate orthogonal polynomials and Painlevé II","Next we consider the properties of the operator (3.1) (or equivalently of (3.5)) under the assumption that
+J = n + 1 ∈ N and λ (respectively Λ) is an eigenvalue. We start from further analysis of the corresponding
+Stokes phenomenon. Theorem 3.3. ",math-ph,B,-0.0043441914,-0.0045687854,0.27704248
+http://arxiv.org/pdf/2204.00557v1,Cherenkov radiation with massive bosons and quantum friction,"First note that the above
+result gives curiously no access to the spectrum in the energy interval E0(2)(P ), E0(nP )(P )
+between the two-boson threshold and the last threshold below the embedded eigenvalue:
+although we also expect the same behavior in this interval (away from thresholds), a dif-
+ferent type of construction seems to be needed for conjugate operators. Another question
+concerns the use of the above Mourre estimate to further investigate asymptotic complete-
+ness, thus aiming to extend [27, 15] beyond the two-boson threshold in the weak-coupling
+MASSIVE CHERENKOV RADIATION AND QUANTUM FRICTION  9
+
+regime; this is postponed to a future work. Finally, a last important open question concerns
+the validity of the Mourre estimate at large coupling: this was solved in [34] below the two-
+boson threshold and we may expect our present contribution to give valuable inspiration
+to get beyond that. ",math-ph,C,-0.049949635,0.17909133,0.05242488
+http://arxiv.org/pdf/2204.00557v2,Cherenkov radiation with massive bosons and quantum friction,"First note that the above
+result gives curiously no access to the spectrum in the energy interval E0(2)(P ), E0(nP )(P )
+between the two-boson threshold and the last threshold below the embedded eigenvalue:
+although we also expect the same behavior in this interval (away from thresholds), a dif-
+ferent type of construction seems to be needed for conjugate operators. Another question
+concerns the use of the above Mourre estimate to further investigate asymptotic complete-
+ness, thus aiming to extend [29, 17] beyond the two-boson threshold in the weak-coupling
+regime; this is postponed to a future work. Finally, a last important open question concerns
+the validity of the Mourre estimate at large coupling: this was solved in [36] below the two-
+boson threshold and we may expect our present contribution to give valuable inspiration
+to get beyond that. ",math-ph,C,-0.0665283,0.27979833,0.09727714
+http://arxiv.org/pdf/2204.01843v1,A diagrammatic view of differential equations in physics,"In Examples 2.2 and 4.9,
+difference equations were presented using diagrams in VectR, requiring only linear al-
+gebra, rather than differential geometry. In future work, we intend to explore how prob-
+abilistic and statistical models, such as structural equation models, can be presented by
+diagrams in suitable categories. We hope and expect that many further applications will
+be found. ",math-ph,C,-0.04055557,-0.13282691,-0.13773666
+http://arxiv.org/pdf/2204.01843v2,A diagrammatic view of differential equations in physics,"In Examples 2.2 and 4.9, diﬀerence equations were presented using
+diagrams in VectR, requiring only linear algebra, rather than diﬀerential geometry. In future work, we
+intend to explore how probabilistic and statistical models, such as structural equation models, can be
+presented by diagrams in suitable categories. We hope and expect that many further applications will
+be found. ",math-ph,C,-0.07862933,-0.042026035,-0.21764293
+http://arxiv.org/pdf/2204.01985v1,Mock-integrability and stable solitary vortices,"In fact, such merging process has repeatedly been observed in the atmosphere
+of Jupiter. E. Fourier analysis: the conﬁgurational entropy
+
+    Having seen the fusion phenomena of vortices in the WYF model, it is necessary to ﬁnd a
+measure of the soliton excitation for further analysis on these non-linear systems. So far, we have
+                                                              22
+
+                        3 .8
+
+                        3 .6
+
+                        3 .4
+
+                        3 .2
+
+                        3 .0
+
+P e a k a m p litu d e  2 .8
+
+                        2 .6
+
+                        2 .4
+
+                        2 .2     f = 0 .2
+
+                                    1
+
+                        2 .0     f1 = 0 .4
+
+                        1 .8     f1 = 0 .6
+
+                        1 .6     f1 = 1 .0
+
+                                 f = 1 .21
+
+                        1 .4
+
+                              1             10     100  1000
+
+                                                T
+
+FIG. ",math-ph,A,0.26735705,0.103519194,-0.17036942
+http://arxiv.org/pdf/2204.01985v2,Mock-integrability and stable solitary vortices,"In fact, such merging process has repeatedly been observed in the atmosphere
+of Jupiter. E. Fourier analysis: the conﬁgurational entropy
+
+    Having seen the fusion phenomena of vortices in the WYF model, it is necessary to ﬁnd a
+measure of the soliton excitation for further analysis on these non-linear systems. So far, we have
+                                                              22
+
+                        3 .8
+
+                        3 .6
+
+                        3 .4
+
+                        3 .2
+
+                        3 .0
+
+P e a k a m p litu d e  2 .8
+
+                        2 .6
+
+                        2 .4
+
+                        2 .2     f = 0 .2
+
+                                    1
+
+                        2 .0     f1 = 0 .4
+
+                        1 .8     f1 = 0 .6
+
+                        1 .6     f1 = 1 .0
+
+                                 f = 1 .21
+
+                        1 .4
+
+                              1             10     100  1000
+
+                                                T
+
+FIG. ",math-ph,A,0.26735705,0.103519194,-0.17036942
+http://arxiv.org/pdf/2204.01985v3,Mock-integrability and stable solitary vortices,"In fact, such a merging process has repeatedly been observed in the
+atmosphere of Jupiter. E. Fourier analysis: the conﬁgurational entropy
+
+    Having seen the fusion phenomena of vortices in the WYF model, it is necessary to ﬁnd a
+measure of the soliton excitation for further analysis on these non-linear systems. So far, we have
+mostly examined the peak amplitude of the vortices as the characteristic quantity of the soliton-
+                                                                                                23
+
+              2 .2
+
+              2 .1
+
+              2 .0
+
+              1 .9
+
+              1 .8
+
+              1 .7
+
+S P [ؘ ‫([ ״)‬  1 .6
+
+              1 .5                    T = 1000
+
+              1 .4                    T = 3000
+
+              1 .3                    T = 5000
+
+              1 .2 T = 7 0 0 0
+                                                                          T = 9000
+
+              1 .1                    T = 10000
+
+              1 .0
+
+                    0 .6  0 .8  1 .0                                                1 .2  1 .4
+
+                                f1
+
+FIG. ",math-ph,A,0.27307972,0.09623891,-0.14433308
+http://arxiv.org/pdf/2204.02182v1,Periodic solutions of the non-chiral intermediate Heisenberg ferromagnet equation described by elliptic spin Calogero-Moser dynamics,"The periodic ncIHF equation generalizes known integrable systems (the HWM and real-line
+ncIHF equations) and originates from another (the elliptic spin CM system) but a Lax pair for
+it has not yet been established. While we regard the construction of such a Lax pair as an
+interesting question for future work, the class of exact solutions presented in this paper provides
+evidence for the integrability of the periodic ncIHF equation. The construction of these solutions
+is more involved than that of analogous solutions for the ncIHF equation on the real line [21] due
+to the presence of elliptic functions in both (1.2) and the spin-pole ansatz (1.16) given below. ",math-ph,C,0.08173644,-0.12207851,0.17866223
+http://arxiv.org/pdf/2204.03302v1,Fast inverse elastic scattering of multiple particles in three dimensions,"Numerical experiments
+show that the combination of TRM and the fast solver is very eﬀective to simulate the inversion of
+multiple particles in the existence of non-negligible multiple scattering. Our future work includes
+developing high resolution imaging method for multiple elastic particles and extending the inversion
+method to recover particles with other kinds of elastic boundary conditions. Appendix A. ",math-ph,A,0.30461496,-0.011368319,-0.025720036
+http://arxiv.org/pdf/2204.03303v1,A review of exact results for fluctuation formulas in random matrix theory,"In addition to the quantity NL, there are now many linear statistics and random
+matrix ensembles for which knowledge of the corresponding distributional properties is of
+applied interest. Moreover, consideration of the calculation of these distributions involves
+rich mathematical structures, with the scope for further research. At the same time the
+existing literature is vast, necessitating some restriction to the scope of the review. ",math-ph,B,0.034190472,0.452255,-0.024878444
+http://arxiv.org/pdf/2204.03303v2,A review of exact results for fluctuation formulas in random matrix theory,"In addition to the quantity NL, there are now many linear statistics and random
+matrix ensembles for which knowledge of the corresponding distributional properties is of
+applied interest. Moreover, consideration of the calculation of these distributions involves
+rich mathematical structures, with the scope for further research. At the same time the
+existing literature is vast, necessitating some restriction to the scope of the review. ",math-ph,B,0.034190472,0.452255,-0.024878444
+http://arxiv.org/pdf/2204.03395v1,A Two Species Thomas-Fermi Model for Stellar Ground States,"Of course, these results still make a large number of unrealistic assumptions: at the very least, actual
+white dwarfs rotate and are not composed of only protons and electrons. In future work, we intend to extend
+this work to models removing these assumptions. We believe it is however worthwhile to study the simplest
+nonneutral case before beginning to address more realistic, complicated models. ",math-ph,A,0.06565629,-0.0835875,-0.085275814
+http://arxiv.org/pdf/2204.06023v1,Homological invariants of Pauli stabilizer codes,"Finally, one has
+coarse-graining, which does not change the code, but forgets about some of its
+translation symmetry. In this section we discuss stacking and coarse-graining
+(in particular how they aﬀect invariants of a code), but compactiﬁcations are
+postponed to future work. Moreover, we explain that the choice of n (which
+has to be a common multiple of qubit dimensions) does not matter and that
+the whole theory reduces to the case when n is a prime power. ",math-ph,C,-0.3296275,0.1059161,-0.104845464
+http://arxiv.org/pdf/2204.07564v1,Perturbation theory for a non-equilibrium stationary state of a one-dimensional stochastic wave equation,"Thus the n term is of degree −1 and the sum of
+degree 0. For this diagram however, and with further analysis of the en,π’s and fn,π’s, there is a
+fortuitous eﬀective cancellation of the n and −n modes for large n, and with this cancellation the
+
+sum is ﬁnite. The z-integral does not enhance the convergence of the sum. ",math-ph,B,0.049843833,0.05462399,0.40084177
+http://arxiv.org/pdf/2204.09581v1,Exact 3D scattering solutions for spherical symmetric scatterers,"One would then probably need to use relations like [43, 03.21.26.0047.01
+and 03.21.26.0049.01]
+
+                       √√  √  π 2,0                          0
+                                                   z − 1 , n, −n − 1
+                       jn( z)yn( z) = − 2 G1,3                                            (105)
+                                                          2                               (106)
+
+                       √√  √  π 2,1                         0, − 1
+
+                       jn+1( z)yn( z) = 2 G2,4  z  0, n  +           2  −     3
+
+                                                            1 , −1, −n
+                                                            2                 2
+
+where G is the Meijer G-function. This investigation is left as future work. 7. ",math-ph,B,0.07239571,0.10434772,0.44047362
+http://arxiv.org/pdf/2204.10081v1,The Scott conjecture for large Coulomb systems: a review,"Note that for α = 2 the ground state transform has been known long before, see,
+e.g., [190, p. 169] for a textbook treatment when d = 3. For a further study of the
+ground state transform in the fractional case, see [89]. Spectrum. ",math-ph,B,0.018404964,0.0606557,0.25485545
+http://arxiv.org/pdf/2204.11900v1,Towards a Geometry and Analysis for Bayesian Mechanics,"We take this in a slightly unconventional direction, and invoke this probability
+density as a ﬁeld itself. To that end, we will check some key properties, but leave any
+fuller axiomatic ﬁeld theory of probabilistic inference to future work. Since we use classical
+devices to understand the Fokker-Planck equation, any formal equivalence would be mostly
+for book-keeping purposes. ",math-ph,A,-0.046402596,0.3717891,-0.364984
+http://arxiv.org/pdf/2204.12387v1,"Chern-Simons theory, link invariants and the Askey-Wilson algebra","This algebra is certainly of
+interest and should be related for instance to the centralizers of Uq(su2) and to orthogonal
+polynomials [12, 13]. We plan to investigate these aspects for future works. Acknowledgments: The authors are grateful to Lo¨ıc Poulain d’Andecy for enlightening dis-
+cussions, relevant observations and pointing out useful references. ",math-ph,C,-0.33324856,0.082302466,0.3457597
+http://arxiv.org/pdf/2204.12576v3,Higher rank 1+1 integrable Landau-Lifshitz field theories from associative Yang-Baxter equation,"Skrypnyk [15]. We hope to clarify relation of our construction to the results
+of [5] in our future works. 8For example, in this way one can deduce the properties SE(S) = 0, SE((∂xS)S) = 0, SE(S(∂xS)) = −c(∂xS)E(S). ",math-ph,B,0.006768722,-0.034095995,-0.0084886905
+http://arxiv.org/pdf/2204.13771v1,On operator estimates in homogenization of non-local operators of convolution type,"The goal of this section is to estimate
+the lower edge of the spectrum of operator A(ξ, a, µ) for all ξ. The next statement provides a representation of the quadratic form of the operator
+A(ξ, a, µ) that will be convenient for the further analysis. 10                    A. PIATNITSKI, V. SLOUSHCH, T. SUSLINA AND E. ZHIZHINA
+
+Lemma 1.1. ",math-ph,B,-0.111988336,0.19182932,0.2826543
+http://arxiv.org/pdf/2204.14206v1,Double scaling limits of Dirac ensembles and Liouville quantum gravity,"Another possibility is through functional renormalization
+group techniques [36]. We hope to explore these ideas in future works. References
+
+[1] Jan Ambjorn, Timothy Budd, and Yuri Makeenko. ",math-ph,B,-0.008362717,0.21172845,-0.007292116
+http://arxiv.org/pdf/2205.00453v1,Quantum Groups and Asymptotic Symmetries,"4
+
+    Finally, in chapter 6 the results are summarized and put in the context of the main goals
+of the thesis. Some open questions and further research directions are highlighted. Chapter 2
+
+Quantum Groups and
+Non-commutative Geometry
+
+In this chapter, the underlying ideas of quantum groups are introduced, following [21], and the
+mathematical framework is developed [21],[24]. ",math-ph,C,-0.3187631,-0.0204847,0.013842581
+http://arxiv.org/pdf/2205.01642v1,Exact renormalization groups and transportation of measures,"the Wiener measure, since Gaussian measures satisfy functional
+
+inequalities with constants are independent of the dimension; in our case this amounts to
+
+being independent of the infrared and ultraviolet cutoﬀs. We leave for future work the
+
+extension of the Brownian transport maps for general (C˙ t) and the incorporation of the
+various multiscale Bakry-E´mery criteria. 12
+                                         References
+
+[1] Davide Addona, Matteo Muratori, and Maurizia Rossi, On the equivalence of Sobolev norms in Malliavin
+
+     spaces, arXiv preprint arXiv:2108.11612 (2021). ",math-ph,B,-0.06867121,0.3587287,-0.08357144
+http://arxiv.org/pdf/2205.01642v2,Exact renormalization groups and transportation of measures,"the Wiener measure, since Gaussian measures satisfy functional
+inequalities with constants that are independent of the dimension; in our case this amounts
+to being independent of the infrared and ultraviolet cutoﬀs. We leave for future work the
+extension of the Brownian transport maps for general (C˙ t) and the incorporation of the
+various multiscale Bakry-E´mery criteria. References
+
+[1] Davide Addona, Matteo Muratori, and Maurizia Rossi, On the equivalence of Sobolev norms in Malliavin
+
+     spaces, arXiv preprint arXiv:2108.11612 (2021). ",math-ph,B,-0.06693719,0.35758224,-0.08778711
+http://arxiv.org/pdf/2205.05791v1,Calabi-Yau/Landau-Ginzburg Correspondence for Weil-Peterson Metrics and $tt^*$ Structures,"U (1) action. To further study the structure of the Hodge bundle, let us introduce the U (1) action
+associated to f on diﬀerential forms, which is closely related to the pole order ﬁltration in Section 1. First, assume that the weight qi = abii with (ai, bi) = 1, and d = lcm (b1, . ",math-ph,C,-0.16478336,-0.31307894,0.13623548
+http://arxiv.org/pdf/2205.06045v1,On generalization of Lipschitz groups and spin groups,"The relation between the generalized spin groups
+and the orthogonal groups (or their generalizations) in the cases ≥ 6 requires further research. Study of the corresponding Lie
+
+groups in degenerate geometric algebras  , , , which are widely used in diﬀerent applications, is another interesting problem
+for further research. Being the generalizations of the standard Lipschitz and spin groups, the groups introduced in this paper
+may be useful for various applications in physics 1,21,22,23,24, engineering 25,26,27,28, computer science 29,30,31,26,27 (in particular, for
+neural networks32 and image processing 33), and other sciences. ",math-ph,C,-0.21379885,-0.10547336,0.10005221
+http://arxiv.org/pdf/2205.06343v1,Average capacity of quantum entanglement,"Section 3 is devoted to the proofs of the main results. We summarize
+the key ﬁndings and outline potential future works in section 4. Relevant summation
+identities are listed and discussed in appendix A. ",math-ph,B,-0.11730698,0.24165307,0.13770303
+http://arxiv.org/pdf/2205.06734v1,Dynamical maps and symmetroids,"Since this mathematical object will play a central role in the
+second part of the paper, in this section we are going to brieﬂy recall the basic ingredients of
+Schwinger’s picture of Quantum Mechanics and the notions regarding 2-groupoids which will be
+necessary in what follows. As mentioned in the introduction, since this work is pedagogical in
+its aim, we will consider only the case of ﬁnite (and countable) groupoids leaving the continuum
+case for future works. The departure assumption in Schwinger’s picture of Quantum Mechanics consists in asso-
+ciating with every quantum system a pair (G, [µ]), where G ⇒ Ω is a groupoid and Ω the
+corresponding space of objects, and [µ] is an equivalence class of measures on G (two measures are
+equivalent if they have the same null-measure subsets). ",math-ph,C,-0.30110228,0.06859248,-0.21761875
+http://arxiv.org/pdf/2205.06950v1,Good geodesics satisfying the timelike curvature-dimension condition,"Remark 3.2 and
+Remark 3.18.) Applications and future work. A long-term goal we wish to contribute to with
+our Theorem 1.2 is to obtain a nonsmooth Lorentzian analogue of the splitting
+theorem for RCD(0, N ) spaces [20]. ",math-ph,C,-0.145071,-0.039312273,-0.08150557
+http://arxiv.org/pdf/2205.07263v1,Irreducible representations of $\mathbb{Z}_2^2$-graded ${\cal N} =2$ supersymmetry algebra and $\mathbb{Z}_2^2$-graded supermechanics,"The second one is the fact that
+
+if all the variables of Z22-degree (0, 0) or (1, 1) is auxiliary, then the conserved Noether
+charge of degree (1, 1) vanishes. We comment on some possible future works in §6. Before starting our explore, we give a deﬁnition of Z22-graded Lie superalgebra. ",math-ph,C,-0.2928217,-0.36489815,0.33335456
+http://arxiv.org/pdf/2205.07263v2,Irreducible representations of $\mathbb{Z}_2^2$-graded ${\cal N} =2$ supersymmetry algebra and $\mathbb{Z}_2^2$-graded supermechanics,"The second one is the fact that
+
+if all the variables of Z22-degree (0, 0) or (1, 1) is auxiliary, then the conserved Noether
+charge of degree (1, 1) vanishes. We comment on some possible future works in §6. Before starting our explore, we give a deﬁnition of Z22-graded Lie superalgebra. ",math-ph,C,-0.2928217,-0.36489815,0.33335456
+http://arxiv.org/pdf/2205.07326v1,Adjoint-based optimization of two-dimensional Stefan problems,"optimization procedure is shown to be a robust algorithm to control the shape of a melting or solidiﬁcation
+front, even in the presence of dendritic instabilities and anisotropic eﬀects. As a future work, one could
+consider to solve the Navier-Stokes equations in the ﬂuid phase, allowing for Rayleigh-Bénard instabilities in
+the case of the unidirectional solidiﬁcation process. 28
+        Case          Optimization parameters                                Results
+                                                                         ∇J calls
+Melting circle    β1          β2  β3     β4                    J calls                      Jf inal /J0
+Mullins-Sekerka                         10−3                      66         16            1.81 × 10−3
+Growing crystals  1           10  0                               54         10            1.89 × 10−3
+                                                                  25         20            3.21 × 10−3
+                  1           10  0.1   10−4
+
+                  1           1   0     10−2
+
+Table 1: Optimization parameters and ﬁnal results of the diﬀerent considered cases. ",math-ph,A,0.42085832,-0.15244894,0.017294005
+http://arxiv.org/pdf/2205.07326v2,Adjoint-based optimization of two-dimensional Stefan problems,"optimization procedure is shown to be a robust algorithm to control the shape of a melting or solidiﬁcation
+front, even in the presence of dendritic instabilities and anisotropic eﬀects. As a future work, one could
+consider to solve the Navier-Stokes equations in the ﬂuid phase, allowing for Rayleigh-Bénard instabilities in
+the case of the unidirectional solidiﬁcation process. 28
+        Case          Optimization parameters                                Results
+                                                                         ∇J calls
+Melting circle    β1          β2  β3     β4                    J calls                      Jf inal /J0
+Mullins-Sekerka                         10−3                      66         16            1.81 × 10−3
+Growing crystals  1           10  0                               54         10            1.89 × 10−3
+                                                                  25         20            3.21 × 10−3
+                  1           10  0.1   10−4
+
+                  1           1   0     10−2
+
+Table 1: Optimization parameters and ﬁnal results of the diﬀerent considered cases. ",math-ph,A,0.42085832,-0.15244894,0.017294005
+http://arxiv.org/pdf/2205.09019v3,Category of Quantizations and Inverse Problem,"To obtain the classical limit, we need a sequence of
+              1                                   k
+
+quantization maps from the Poisson algebra to objects. While a detailed examination of the following discussion is left for future work, an
+
+outline of the methods expected to be accomplished is provided here. Let us ﬁnd the
+
+way to obtain the set of these quantization maps. ",math-ph,C,-0.19360138,0.14524397,0.10040504
+http://arxiv.org/pdf/2205.09454v1,Time-dependent contact mechanics,"Notice that in this example, the energy does not tend to zero, but to a positive constant since
+the radial coordinates keeps oscillating forever. 8 Conclusions and further research
+
+In this paper we have introduced a geometrical formulation for time-dependent contact systems by
+deﬁning a new geometric structure: cocontact manifolds. This new notion combines the well-known
+contact and cosymplectic structures. ",math-ph,A,0.1287588,-0.3976019,-0.33409122
+http://arxiv.org/pdf/2205.10094v1,Generalised graph Laplacians and canonical Feynman integrals with kinematics,"1.2. Discussion and questions for further research. It would be very inter-
+esting to ﬁnd a momentum or position space formulation for the integrals (1.9), and
+to relate them more closely to the theory of graphical functions [GPS17, BS21] in
+the case when all masses vanish. ",math-ph,B,-0.012912966,0.010920148,0.018062212
+http://arxiv.org/pdf/2205.10512v2,Integrable boundaries for the q-Hahn process,"As already mentioned in the introduction, such
+algebraic expressions are advantageous when studying stochastic dualities. We hope to return to
+the study of the intertwining relations in a future work. We also like to point out that several
+expressions for K-matrices exist in the literature that may be useful to obtain a representation
+of the K-matrix of the q-Hahn process. ",math-ph,C,-0.3313502,0.26840222,-0.09019468
+http://arxiv.org/pdf/2205.10525v1,Noether symmetries and first integrals of damped harmonic oscillator,"Moreover, some interesting results related to DHO employing Eq. (22)
+will be discussed in future work. IV. ",math-ph,B,0.09325561,0.12701224,0.03999207
+http://arxiv.org/pdf/2205.10818v1,Exact surface energy of the $D^{(1)}_2$ spin chain with generic non-diagonal boundary reflections,"Only the conﬁgurations (I), (III) and (IV) of zero roots appear
+at the ground state. The further analysis gives that the boundary strings take the form of
+
+                                         zlb = π ± (2η − αxy)i,                                                   (5.13)
+
+where αxy ∈ {α1, α2, α1′ , α2′ } is deﬁned in Eq.(4.5). We should note that the ﬁxed boundary
+magnetic ﬁelds can give the positive or negative values of Re(αxy) due to the property of
+
+hyperbolic cosine function. ",math-ph,B,0.15443899,-0.18868254,0.42607158
+http://arxiv.org/pdf/2205.10818v2,Exact surface energy of the $D^{(1)}_2$ spin chain with generic non-diagonal boundary reflections,"Only the conﬁgurations (I), (III) and (IV) of zero roots appear
+at the ground state. The further analysis gives that the boundary strings take the form of
+
+                    zlb = π ± (2η − αxy)i, and αxy ∈ {α1, α2, α1′ , α2′ },                                          (5.13)
+
+where parameters α1, α2, α1′ , α2′ are deﬁned in Eq.(4.5). We should note that the ﬁxed bound-
+
+ary magnetic ﬁelds can give the positive or negative values of Re(αxy) due to the property of
+
+hyperbolic cosine function. ",math-ph,B,0.18396758,-0.12195538,0.4279828
+http://arxiv.org/pdf/2205.10875v2,On an elastic strain-limiting special Cosserat rod model,"This process is rate-dependent and hysteretic [66]. The thermodynamic framework
+introduced by the ﬁrst author and Srinivasa for evolving natural conﬁgurations of
+three-dimensional bodies [59–61] provides a road map for developing a thermody-
+namically consistent model capable of describing this phase transition at the level
+of continuum rods, a topic to be discussed in future work. References
+
+ [1] S. S. Antman. ",math-ph,A,0.41164744,-0.10945567,-0.26888242
+http://arxiv.org/pdf/2205.10950v1,New conserved integrals and invariants of radial compressible fluid flow and gas dynamics in $n>1$ dimensions,"A full exploration of nonlocal conservation laws and
+nonlocal invariants for radial ﬂuid ﬂow will be considered elsewhere. Finally, in other future work on radial ﬂuid ﬂow, an investigation of symmetries, Hamil-
+tonian structure, and Casimirs is currently in progress [5]. Appendix A. Computational remarks for scalar invariants
+
+   The ﬁrst step is substitution of J(t, r, U, ρ, S, Ur, ρr, Sr) into the determining equation
+(3.2), followed by elimination of t-derivatives through use of the radial Euler equations
+(2.12)–(2.14). ",math-ph,A,0.0943601,-0.30078804,0.02319011
+http://arxiv.org/pdf/2205.12733v1,On Duclos-Exner's conjecture about waveguides in strong uniform magnetic fields,"Moreover, in our unbounded setting, one needs
+to be very careful since the functional spaces (such as the Hardy spaces) involved
+in [1] are no more obviously well-deﬁned. The study of such spaces on strips3 has
+an interest of its own and their use to deduce precise spectral asymptotics will
+be the object of a future work. Fortunately, we do not need them to disprove
+Duclos-Exner’s conjecture. ",math-ph,C,-0.13107048,0.0661466,0.1429376
+http://arxiv.org/pdf/2205.13449v1,Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras,"Using this
+method, we solve the dimensions n = 5 and n = 6. The applicability of the
+method to the higher dimensions is a subject for further research. Diﬀerent (recursive and explicit) formulas can be used for diﬀerent pur-
+poses. ",math-ph,B,0.068640344,-0.19307983,0.05869018
+http://arxiv.org/pdf/2205.13449v2,Basis-free Formulas for Characteristic Polynomial Coefficients in Geometric Algebras,"Using this
+method, we solve the dimensions n = 5 and n = 6. The applicability of the
+method to the higher dimensions is a subject for further research. Diﬀerent (recursive and explicit) formulas can be used for diﬀerent pur-
+poses. ",math-ph,B,0.068640344,-0.19307983,0.05869018
+http://arxiv.org/pdf/2205.14133v1,The derived pure spinor formalism as an equivalence of categories,"We also emphasize that the version of Koszul duality encap-
+sulated in the pure spinor formalism naturally produces dg vector bundles whose sections
+are sheaves on the site of manifolds equipped with appropriate structure: in the case of
+standard super-Poincaré algebras, this means that one knows how to place the resulting
+multiplet on any Riemannian manifold. We see this as being connected to ideas in Cartan
+geometry for the model space N ∼= G/G0, and hope to return to versions of the formalism on
+non-ﬂat spacetimes (for nontrivial or more general Cartan geometries) in future work. Finally, it is worth remarking that the functor from right to left in (1.3) is also easy to
+understand: it is just taking the derived n-invariants of a multiplet. ",math-ph,C,-0.4766962,-0.31448868,0.011461396
+http://arxiv.org/pdf/2205.14133v2,The derived pure spinor formalism as an equivalence of categories,"We also emphasize that the version of Koszul duality encap-
+sulated in the pure spinor formalism naturally produces dg vector bundles whose sections
+are sheaves on the site of manifolds equipped with appropriate structure: in the case of
+standard super-Poincaré algebras, this means that one knows how to place the resulting
+multiplet on any Riemannian manifold. We see this as being connected to ideas in Cartan
+geometry for the model space N ∼= G/G0, and hope to return to versions of the formalism on
+non-ﬂat spacetimes (for nontrivial or more general Cartan geometries) in future work. Finally, it is worth remarking that the functor from right to left in (1.3) is also easy to
+understand: it is just taking the derived n-invariants of a multiplet. ",math-ph,C,-0.4766962,-0.31448868,0.011461396
+http://arxiv.org/pdf/2205.14577v1,Symmetries and conservation laws for the generalized $n$-dimensional Ermakov system,"The functional forms for the potential V (θ1, θ2, ..., θn−1)
+in which additional conservation laws linear or quadratic in the momentum are:
+
+               V (θ1, θ2, ..., θn−1) = V0  (46)
+
+               8
+                      V (x1, x2, ..., xn) = Vi xi −2                                     (47)
+
+                                                 i
+
+                      V (x1, x2, ..., xn) =  Vi +   Vi , κ = λ,                          (48)
+                                             i κ xκxκ i (xλ)2
+
+                      V (x1, x2, ..., xn) =  Vi     + αλVi , κ = λ,                      (49)
+
+                                             i κ (ακxκ)2 i (xλ)2
+
+where (x1, x2, ..., xn) are the Cartesians coordinates for the n-dimensional Euclidian space and ρ−2V (θ1, θ2, ..., θn−1) =
+
+V (x1, x2, ..., xn). In a future work we plan to extend this procedure to other attempts on the generalization of the Ermakov
+
+system. Acknowledgements
+
+GL was funded by Comisi´on Nacional de Investigaci´on Cient´ıﬁca y Tecnol´ogica (CONICYT) through FONDE-
+CYT Iniciacio´n 11180126. ",math-ph,B,0.1190219,-0.0351038,0.1024675
+http://arxiv.org/pdf/2205.14757v1,Lagrangian-Hamiltonian formalism for time-dependent dissipative mechanical systems,"The friction coeﬃcient is γ = 0.3 and the initial conﬁguration of the
+system is q(0) = (2, 0, 0), v(0) = (0, 10, 0). As indicated above, the particle is subjected to the
+restriction z = t.
+
+6 Conclusions and further research
+
+We have generalized the Skinner–Rusk uniﬁed formalism for time-dependent contact systems. This framework allows to skip the second-order problem, since this condition is recovered in the
+ﬁrst step of the constraint algorithm for both regular and singular Lagrangians. ",math-ph,A,0.20364675,-0.24840882,-0.22317791
+http://arxiv.org/pdf/2205.14776v1,Magnetisation moment of a bounded 3D sample: asymptotic recovery from planar measurements on a large disk using Fourier analysis,"This is
+
+pertinent to the problem of ﬁnding an optimal truncation of asymptotic series. In future works, we should study relation of our asymptotic results to the stable estimates of the net moment
+
+using constrained optimisation approach, in particular those obtained in [1] for the planar and regular (square-
+
+integrable) magnetisation. The strength of that approach is in its generality (potentially giving more than just
+a net moment estimate) and, in particular, that the result does not require any largeness of the measurement
+
+area size. ",math-ph,B,0.2182576,0.2931859,0.19435298
+http://arxiv.org/pdf/2205.14776v2,Magnetisation moment of a bounded 3D sample: asymptotic recovery from planar measurements on a large disk using Fourier analysis,"This is
+
+pertinent to the problem of ﬁnding an optimal truncation of asymptotic series. In future works, we should study relation of our asymptotic results to the stable estimates of the net moment
+
+using constrained optimisation approach, in particular those obtained in [1] for the planar and regular (square-
+
+integrable) magnetisation. The strength of that approach is in its generality (potentially giving more than just
+a net moment estimate) and, in particular, that the result does not require any largeness of the measurement
+
+area size. ",math-ph,B,0.2182576,0.2931859,0.19435298
+http://arxiv.org/pdf/2205.14873v1,Lie symmetry classification and qualitative analysis for the fourth-order Schrödinger equation,"However, that is not the unique proposed GUP,
+and other deformations algebras exist. Therefore, in future work, we plan to perform a detailed
+classiﬁcation for the higher-order Schro¨dinger equation for diﬀerent models of GUP. Finally, we
+will present formal expansions, representing valid asymptotic approximations of the function
+ψε(τ ) for other initial conditions that we set out to study by singular perturbations methods,
+boundary layers, and multiple time scales. ",math-ph,C,0.068068,0.011119177,-0.0037156926
+http://arxiv.org/pdf/2205.15739v1,Topological states and continuum model for swarmalators without force reciprocity,"Since, it can only
+change by integer values, only two possibilities may occur: either the solution transitions
+
+      16
+to another solution with the same topological index, or, a phase discontinuity occurs
+somewhere. To distinguish between these two scenarios, numerical simulations are needed
+and will be developed in future work. 4 Numerical experiments
+
+In this section, we present numerical simulations of both the particle model (2.1)-(2.3) and
+the hydrodynamic SH model (3.4)-(3.6). ",math-ph,A,0.39205492,-0.024047516,-0.06648666
+http://arxiv.org/pdf/2206.01033v1,Quasi-exactly solvable extensions of the Kepler-Coulomb potential on the sphere,"Solving it would be an interesting topic for future
+investigation. Applying the methods presented here to extensions of the KC potential in a
+hyperbolic space would also be an open question for future work. ACKNOWLEDGMENTS
+
+The author was supported by the Fonds de la Recherche Scientiﬁque - FNRS under Grant
+Number 4.45.10.08. ",math-ph,A,0.2869541,0.031993553,-0.009987172
+http://arxiv.org/pdf/2206.01033v2,Quasi-exactly solvable extensions of the Kepler-Coulomb potential on the sphere,"Solving it would be an interesting topic for future
+investigation. Applying the methods presented here to extensions of the KC potential in a
+hyperbolic space would also be an open question for future work. Taking into account the large number of physical problems wherein the KC potential
+(either in curved space or in a PDM background) provides a ﬁrst crude approximation and
+some additional terms are needed to reproduce experimental data, it is obvious that the
+exact results presented here for potentials including some additional terms may ﬁnd some
+interesting applications to practical problems. ",math-ph,A,0.3394593,0.012107249,-0.14173564
+http://arxiv.org/pdf/2206.03444v1,Partially hyperbolic random dynamics on Grassmannians,"Therefore
+
+the toy model (1.11) to which Theorem 6 applies is already fairly close to the Anderson model. Clearly some further analysis of the symplectic structure of T E is needed, but this goes beyond
+the scope of this work. Several technical elements in this last respect can be found in [12, 9] and
+
+in the work of Sadel and Virag [11] whose main focus is, however, on the derivation of so-called
+DMPK equations in a scaling limit in which the strip width L scales like λ−2, just as in [2, 13],
+
+but including hyperbolic channels. ",math-ph,C,-0.08357227,0.037587736,-0.085182816
+http://arxiv.org/pdf/2206.03444v2,Partially hyperbolic random dynamics on Grassmannians,"Most importantly, it has the same partial hyperbolicity. Clearly
+some further analysis of the symplectic structure of T E is needed, but this goes beyond the scope
+of this work. Several technical elements in this last respect can be found in [9, 12] and in the
+work of Sadel and Vir´ag [11] whose main focus is, however, on the derivation of so-called DMPK
+equations in a scaling limit in which the strip width L scales like λ−2, just as in [2, 13], but
+including hyperbolic channels. ",math-ph,C,-0.029440086,-0.10495294,-0.09465174
+http://arxiv.org/pdf/2206.05444v2,The Malyuzhinets-Popov diffraction problem revisited,"In subsequent
+papers [8, 9, 32, 33, 34, 35, 36], steps were taken towards describing the ﬁeld at
+a larger distance. Perhaps, these techniques will be helpful in the further study
+of the Malyuzhinets—Popov problem. Acknowledgements
+
+    This work was supported by the Russian Science Foundation grant 22-21-
+00557. ",math-ph,B,0.08705203,-0.11580737,0.06290299
+http://arxiv.org/pdf/2206.06441v1,Reconstruction of smooth shape defects in waveguides using locally resonant frequencies,"We believe that this work could be extended to elastic waveguides in two dimensions, using the
+modal decomposition in Lamb modes presented in [23]. After generalizing it to elastic waveguide, we
+plan in future works to test the method developed in this article on experimental data to see if the
+good numerical results obtained using data generated by ﬁnite element methods can be reproduced. Indeed, diﬀerent physical experiments have already been conducted to recover width defects using
+locally resonant frequencies (see [5, 13]) and we hope that the present reconstruction method could
+both justify and improve these width reconstructions. ",math-ph,A,0.19481921,-0.083419554,0.041220523
+http://arxiv.org/pdf/2206.06990v1,Decimations for One- and Two-dimensional Ising and Rotator Models II: Continuous versus Discrete Symmetries,"We shall pursue the
+latter path, and leave the former (i.e. the softening of Malyshev contours) to a future work. 3 Decimation of the borderline 1/r2d- long-range rotators
+
+We brieﬂy describe two extensions for long-range models:
+     1. ",math-ph,B,0.11007303,-0.062923916,-0.056466475
+http://arxiv.org/pdf/2206.06990v2,Decimations for One- and Two-dimensional Ising and Rotator Models II: Continuous versus Discrete Symmetries,"We shall pursue the latter path, and leave the former (i.e. the
+softening of these contours) to a future work. 3 Decimation of the borderline 1/r2d- long-range rotators
+
+We brieﬂy describe two extensions for long-range models:
+    1. ",math-ph,B,0.040070683,-0.024602335,-0.05246262
+http://arxiv.org/pdf/2206.08238v1,Topological insulators in semiclassical regime,"However, the Fourier in-
+tegral operator produced in [CV04] mixes time and space variable in an unspeciﬁed way. Without
+further analysis, this would doom our goal of estimating solutions to (A.1). We chose instead to apply the strategy of [CV03, CV04] to the operator D/ rather than
+hDt + D/ , tracking down along the way the value of the symplectic invariant λ∂/. ",math-ph,C,0.07561726,-0.040096343,0.038204104
+http://arxiv.org/pdf/2206.08388v1,Six-dimensional supermultiplets from bundles on projective spaces,"Following Remark 2.2, one thus expects that the Donaldson–Witten twists of all multiplets
+arising by dimensional reduction are perturbatively trivial. We hope to give a more com-
+plete account of extensions of the methods developed in [SW21] to general multiplets in
+future work. 4. ",math-ph,C,-0.17522061,-0.21512401,-0.0040612766
+http://arxiv.org/pdf/2206.08633v1,Discrete orthogonal ensemble on the exponential lattices,"In Section 2, we start
+                                                                                                    (1.10)
+with Aomoto’s q-Selberg integral and extract the model
+
+                                                 n
+
+                                             (zi − zj) ω(zi; q)
+
+                                    1≤i<j≤n      i=1
+
+with conﬁguration space deﬁned by (1.9). However, with the conﬁguration space asymmetric, it
+is hard for us for further analysis. Therefore, from the discrete version of de Bruijn formula, we
+rewrite Aomoto’s q-Selberg integral into a Pfaﬃan form and a skew inner product is formulated. ",math-ph,B,-0.11472307,0.13502865,0.22020301
+http://arxiv.org/pdf/2206.09192v1,Complex Generalized Integral Means Spectrum of Drifted Whole-Plane SLE and LLE,"This three-
+dimensional manifold must intersect the above overlap ribbon on a certain phase-transition
+line. The study of such phase-transition manifolds is left to a future work. 4. ",math-ph,A,0.08915115,-0.35534495,-0.048852757
+http://arxiv.org/pdf/2206.09781v1,Mobility estimation for Langevin dynamics using control variates,"The straight
+dashed lines, which correspond to functions of the form γ → Cγ−σ with powers σ indicated in
+
+the legend, are obtained by linear interpolation (in the log-log plot) using only values of γ less
+than or equal to 10−2. 5 Conclusions and perspectives for future work
+
+In this work, we showed how techniques based on control variates can be employed for improving
+estimators of dynamical properties, here the mobility of Langevin dynamics based on Einstein’s
+formula. The control variate approach we propose requires the knowledge of an approximate
+solution to a Poisson equation involving the generator of the dynamics. ",math-ph,A,0.33782482,0.1418693,-0.109329924
+http://arxiv.org/pdf/2206.09879v1,Spectra of Lindbladians on the infinite line: From non-Hermitian to full evolution via tridiagonal Laurent matrices,"Notice again how ρ must be trace-free. We leave it to future work to establish a stronger relationship between spectra and dynamics in
+the inﬁnite dimensional case. In particular, one cannot use our work to gain many rigorous guarantees
+about the evolution of inﬁnite open quantum systems, but we consider the results presented as steps
+towards such rigorous guarantees. ",math-ph,C,-0.087776214,0.24397501,-0.062380753
+http://arxiv.org/pdf/2206.09911v1,"Scaling Symmetries, Contact Reduction and Poincaré's dream","Despite the dynamical equivalence among all such theories, the contact Hamiltonian one,
+involving less elements for its complete description, has more explanatory power (Proposition 6 and Theorem 2). We conclude in Section IV with an outlook on future work and applications. To have the paper as self-contained as
+possible and in order to further motivate our constructions, three appendices are also included: in Appendix A
+we introduce the symplectic and contact Hamiltonian systems that we consider, and brieﬂy summarize some
+known relationship betweem them. ",math-ph,C,-0.16140074,-0.1994949,-0.4019096
+http://arxiv.org/pdf/2206.11702v1,Contact Lagrangian systems subject to impulsive constraints,"We have
+illustrated the theoretical results with two examples: a rolling cylinder on a springily
+surface and a rolling sphere on a non-uniform surface, both with dissipation. In a future work, we shall provide a variational approach for contact Lagrangian
+systems with impacts, a nonsmooth Herglotz principle for contact Lagrangians analogous
+to the one developed in [11] for usual Lagrangian. Furthermore, we plan to study
+hybrid contact Hamiltonian and Lagrangian systems. ",math-ph,A,0.21317863,-0.31709218,-0.24361718
+http://arxiv.org/pdf/2206.11702v2,Contact Lagrangian systems subject to impulsive constraints,"We have
+illustrated the theoretical results with two examples: a rolling cylinder on a springily
+plane and a rolling sphere on a non-uniform plane, both with dissipation. In a future work, we shall provide a variational approach for contact Lagrangian
+systems with impulsive constraints, extending the variational approach from [28] (see
+also [16]). Furthermore, we plan to study hybrid contact Hamiltonian and Lagrangian
+systems. ",math-ph,A,0.26732165,-0.26195002,-0.28380588
+http://arxiv.org/pdf/2206.11950v1,The finite gap method and the periodic Cauchy problem of $2+1$ dimensional anomalous waves for the focusing Davey-Stewartson 2 equation,"For non-generic periods one has to study perturbations of higher-order mul-
+tiple points. This problem may be very interesting, but it requires a serious
+additional investigation, therefore we do not discuss it now. Equations (64) are equivalent to the following pair of equations:
+
+           τ2 − τ1 = kx + iky,                                         (67)
+           τ12 − τ11 = kx − iky,
+
+where kx, ky are deﬁned by (66) with integer nx, ny. ",math-ph,B,0.17741263,-0.06878931,0.119237274
+http://arxiv.org/pdf/2206.15142v1,The Floquet Baxterisation,"complications, as shown in [109]. We shall leave the investigation of the exact form of the
+
+Dyson map X to future work. Above all, from (5.6) that relates the inhomogeneity α and the Floquet period 2T and
+Fig. ",math-ph,C,-0.120953,-0.080816686,0.009771673
+http://arxiv.org/pdf/2207.00568v1,Hamiltonian gauge theory with corners: constraint reduction and flux superselection,"The
+advantage of this alternative corner structure is that it can be introduced even in
+the absence of a ﬂux-map, purely out of the theory’s constraint form. We leave a
+general analysis of these alternative corner data set to future work. In Deﬁnition 4.10 and Lemma 4.11 we have interepreted H as a local Lagrangian
+density on the triple product Ωtloocp,0(Σ × A) for A = P × G. Using the decomposition
+of Theorem 2.18, we do the same for H◦ and write the total variation
+
+                                   ˇdH◦ = (ˇdH◦)src + (ˇdH ◦)bdry
+
+where (ˇdH◦)bdry ∈ dΩtloocp−1,0(Σ × P, G∗). ",math-ph,C,-0.13501996,-0.09228067,-0.07451089
+http://arxiv.org/pdf/2207.00568v2,Hamiltonian gauge theory with corners: constraint reduction and flux superselection,"The
+advantage of this alternative corner structure is that it can be introduced even in
+the absence of a ﬂux-map, purely out of the theory’s constraint form. We leave a
+general analysis of these alternative corner data set to future work. In Deﬁnition 4.11 and Lemma 4.12 we have interepreted H as a local Lagrangian
+density on the triple product Ωtloocp,0(Σ × A) for A = P × G. Using the decomposition
+of Theorem 2.18, we do the same for H◦ and write the total variation
+
+                           ˇdH◦ = (ˇdH◦)src + (ˇdH ◦)bdry
+
+where  (ˇdH ◦)bdry  ∈  dˇΩtloocp−1,0(Σ. ",math-ph,C,-0.12852387,-0.07453002,-0.08507478
+http://arxiv.org/pdf/2207.01677v1,Scaling Asymptotics of Wigner Distributions of Harmonic Oscillator Orbital Coherent States,"In future work, we plan
+to study the asymptotics of Wigner distributions of orbital coherent states of the hydrogen
+atom. They are much more diﬃcult to compute, but the isotropic harmonic oscillator of this
+paper provides a more readily computable model which guides future work. 1.3. ",math-ph,B,0.14944103,0.28243452,0.18325627
+http://arxiv.org/pdf/2207.01677v2,Scaling Asymptotics of Wigner Distributions of Harmonic Oscillator Orbital Coherent States,"In future work, we plan
+to study the asymptotics of Wigner distributions of orbital coherent states of the hydrogen
+atom. They are much more diﬃcult to compute, but the isotropic harmonic oscillator of this
+paper provides a more readily computable model which guides future work. 1.3. ",math-ph,B,0.14944103,0.28243452,0.18325627
+http://arxiv.org/pdf/2207.02048v1,On some aspects of the dynamics of a ball in a rotating surface of revolution and of the kasamawashi art,"Inspec-
+tion of movies showing actual kasamawashi performances4 suggests that the performer manages
+to have ωz = 0 and that, consistently with the above remarks, x1 > sin α.5 Of course, these
+conclusions should be taken for what they are because—besides the fact that, as already pointed
+
+out, kasamawashi involves control—not only spectral stability does non guarantees stability but,
+
+moreover, the presence of zero eigenvalues might be an indication of unstable behaviours. Some
+
+further study of the dynamics might be interesting. Ω                     Ω                                            Ω
+
+                  ω�                 ω�                                           ω�
+
+(�) �< ��< ��� α      (�) ��= ��� α                                (�) ��> ��� α
+
+Figure 3: The region of spectral stability of the equilibrium (x1, 0, 0, ωz) in the plane (ωz, Ω) when f (x1) =
+0. ",math-ph,A,0.16012761,0.036195993,0.10834227
+http://arxiv.org/pdf/2207.03252v1,A geometric model for non-uniform processes of morphogenesis,"We have also obtained the corresponding linear equations of
+evolution, making our results computable. In a future work we wish to deepen this theory, and also consider more complex
+situations such as in media with microstructure or composite media. Acknowledgments
+
+M. de Leon and V. M. Jiménez acknowledge the partial ﬁnantial support from
+MICINN Grant PID2019-106715GB-C21 and the ICMAT Severo Ochoa project
+CEX2019-000904-S. M. de León also acknowledges MICINN’s support under grant
+EIN2020-112107. ",math-ph,A,0.1480456,0.010558531,-0.36698985
+http://arxiv.org/pdf/2207.03252v2,A geometric model for non-uniform processes of morphogenesis,"We have also obtained the corresponding linear equations of
+evolution, making our results computable. In a future work we wish to deepen this theory, and also consider more complex
+situations such as in media with microstructure or composite media. Acknowledgments
+
+M. de Leon and V. M. Jiménez acknowledge the partial ﬁnantial support from
+MICINN Grant PID2019-106715GB-C21 and the ICMAT Severo Ochoa project
+CEX2019-000904-S. M. de León also acknowledges MICINN’s support under grant
+EIN2020-112107. ",math-ph,A,0.1480456,0.010558531,-0.36698985
+http://arxiv.org/pdf/2207.03252v3,A geometric model for non-uniform processes of morphogenesis,"We have also obtained the corresponding linear equations of
+evolution, making our results computable. In a future work we wish to deepen this theory, and also consider more complex
+situations such as in media with microstructure or composite media. 39
+Acknowledgments
+
+M. de Leon and V. M. Jiménez acknowledge the partial ﬁnantial support from
+MICINN Grant PID2019-106715GB-C21 and the ICMAT Severo Ochoa project
+CEX2019-000904-S. M. de León also acknowledges MICINN’s support under grant
+EIN2020-112107. ",math-ph,A,0.13879895,0.019603388,-0.36142468
+http://arxiv.org/pdf/2207.04038v1,Contact Lie systems,"In fact, it could be projected onto R3/X5 R2, giving rise to a Lie–Hamilton
+
+system on R2 of the form
+
+                            dx3 = b3(t),        dx4 = b4(t)
+                            dt                  dt
+
+relative to ω = dx4 ∧ dx3. 5 Conclusions and further research
+
+In this paper we have introduced the notion of contact Lie system: systems of ﬁrst-order dif-
+ferential equations describing the integral curves of a t-dependent vector ﬁeld taking values in
+a ﬁnite-dimensional Lie algebra of Hamiltonian vector ﬁelds relative to a contact structure. In
+particular, we have studied families of conservative contact Lie systems. ",math-ph,A,0.06260636,-0.3897792,-0.24701884
+http://arxiv.org/pdf/2207.04038v2,Contact Lie systems,"We also believe
+that a new type of contact reduction can be achieved by interpreting contact forms in a new manner. This
+is currently being developed and, hopefully, will be published in a future work. Recently, the contact formulation for non-conservative mechanical systems has been generalised via
+the so-called k-contact [26, 28, 35], k-cocontact [55], and multicontact [42, 62] formulations. ",math-ph,A,0.1371636,-0.2132284,-0.33314234
+http://arxiv.org/pdf/2207.05379v1,One-dimensional MHD flows with cylindrical symmetry: Lie symmetries and conservation laws,"It follows that the symmetries of
+system (3.13) are expanded in the basis
+
+       ∂          ∂
+Y1 = ∂t ,  Y2 = ∂s ,
+
+Y3 = t ∂ + 2s ∂ − u ∂ − v ∂ − w ∂ + 2ρ ∂ − Eθ ∂ − Ez ∂ ,
+           ∂t ∂s ∂u ∂v ∂w ∂ρ                            ∂Eθ  ∂Ez
+
+Y4 = −2s ∂ + r ∂ + z ∂ + u ∂ + v ∂ + w ∂ − 4ρ ∂ − 2p ∂ − Hθ ∂ − Hz ∂ ,
+   ∂s ∂r ∂z ∂u ∂v ∂w ∂ρ ∂p                                   ∂Hθ     ∂Hz
+
+Y5 = 2s ∂ + 2ρ ∂ + 2p ∂ + Eθ ∂ + Ez ∂ + Hθ ∂ + Hz ∂ ,
+           ∂s ∂ρ ∂p         ∂Eθ                 ∂Ez     ∂Hθ  ∂Hz
+
+                    ∂∂                         ∂                      ∂
+           Y6 = t∂z + ∂w ,   Y7 = f1(s, rv) ∂θ ,        Y8 = f2(s) ∂z . (4.4)
+
+For further analysis we need to consider the cases A = 0 and A = 0 separately. 4.1 Case A = 0
+
+Now we develop Lie group classiﬁcations for system (3.13) with A = 0. ",math-ph,A,0.15077545,-0.27711582,0.12468519
+http://arxiv.org/pdf/2207.06158v1,Spontaneous stochasticity and renormalization group in discrete multi-scale dynamics,"At each point of the lattice (n, t) ∈ L we consider a variable un(t) ∈ X, where
+X is a complete separable metric space with an additive group operation. We restrict inter-
+scale interactions to nearest neightbors with the purpose of facilitating the further analysis. Speciﬁcally, we consider interactions described by continuous functions f : X2 → X and
+g : X2 → X within each cell as shown in Fig. ",math-ph,B,-0.13234574,0.16508546,-0.15426105
+http://arxiv.org/pdf/2207.06163v1,An effective fractional paraxial wave equation for wave-fronts in randomly layered media with long-range correlations,"Considering more
+general models could also allow us to obtain exponent λ ∈ (0, 1) for the attenuation power law, and the rough
+path theory could be helpful to handle more general settings. Nevertheless, our method opens the road to
+analyze more general 3D settings with random variations with respect to the transverse section, which will
+be the aim of future works. 28
+A Proof of Propositions 4.1
+
+Setting                                       √
+                                W˜ ε(L) := ε θ0
+                                                                   L
+                                                σε
+                                                                    V (u/ε)du,
+
+                                                                 0
+
+we have from a Taylor expansion of Θ at the second order (remember that Θ is odd, and then Θ (0) = 0)
+and (61)
+
+                                                 ≤1          L                                  √
+                                                    c0σε
+                    E |Wε(L) − W˜ ε(L)|                         E |νε(u/ε) − εθ0V (u/ε)| du
+
+                                                          0
+
+                                                 ≤ sup |Θ |L ε3/2 sup E |V (z)|3 −→ 0,
+                                                       c0σε                                                ε→0
+                                                                     z∈[0,L/ε]
+
+so that we only need to focus on W˜ ε according to [4, Theorem 3.1 pp. ",math-ph,B,0.13010865,-0.067584395,0.03919951
+http://arxiv.org/pdf/2207.06163v2,An effective fractional paraxial wave equation for wave-fronts in randomly layered media with long-range correlations,"Considering more
+general models could also allow us to obtain exponent λ ∈ (0, 1) for the attenuation power law, and the rough
+path theory could be helpful to handle more general settings. Nevertheless, our method opens the road to
+analyze more general 3D settings with random variations with respect to the transverse section, which will
+be the aim of future works. 28
+A Proof of Proposition 3.1
+
+The analyticity ω → ω2Γc(ω) and ω → ω2Γs(ω) over the upper complex half-plane is direct to see. ",math-ph,B,0.14387697,-0.016612789,0.036738627
+http://arxiv.org/pdf/2207.06163v3,An effective fractional paraxial wave equation for wave-fronts in randomly layered media with long-range correlations,"Considering more
+general models could also allow us to obtain exponent λ ∈ (0, 1) for the attenuation power law, and the rough
+path theory could be helpful to handle more general settings. Nevertheless, our method opens the road to
+analyze more general 3D settings with random variations with respect to the transverse section, which will
+be the aim of future works. A Proof of Proposition 3.1
+
+The analyticity of ω → ω2Γc(ω) and ω → ω2Γs(ω) over the upper complex half-plane is direct. ",math-ph,B,0.13837053,-0.030922724,0.023600178
+http://arxiv.org/pdf/2207.06675v1,Boundary Condition and the Auxiliary Phase in Feynman Path Integral,"Related discussion can be found in [Dow72,
+
+Mou21, Suz11]. To further study this auxiliary phase factor, certain modiﬁcation on the model has to be
+
+made. Instead of considering the inﬁnite potential well, one consider the wave function of
+
+an 1-dimensional free particle conﬁned to a line segment [0, L]. ",math-ph,B,0.27433962,0.0005880636,0.104975894
+http://arxiv.org/pdf/2207.06675v2,Boundary Condition and the Auxiliary Phase in Feynman Path Integral,"Related
+                                                                                                            discussion can be found in [9–11]. ∗ crlee@nus.edu.sg
+                                          † phycrl@ccu.edu.tw                                                  To further study this auxiliary phase factor, cer-
+                                                                                                            tain modiﬁcation on the model has to be made. In-
+                                                                                                            stead of considering the inﬁnite potential well, one
+                                                                                                            consider the wave function of an 1-dimensional free
+                                                                                                                                                          2
+
+particle conﬁned to a line segment [0, L]. ",math-ph,B,0.25352108,0.0076631294,0.09123941
+http://arxiv.org/pdf/2207.07664v1,Combinatorics of generalized Dyck and Motzkin paths,"Finally, in knot
+theory, the Temperley–Lieb algebra can have a representation based on Dyck paths, while,
+if empty vertices (vertices not incident to an edge) are allowed, Motzkin paths become
+relevant [17]. The extension of this connection to more general paths, and the meaning of
+the cg and c1,g coeﬃcients in this context, are nontrivial issues that deserve further study. Acknowledgments
+
+L.G. ",math-ph,C,-0.38830262,-0.15923762,0.03910476
+http://arxiv.org/pdf/2207.08555v1,"Perturbation theory for the $Φ^4_3$ measure, revisited with Hopf algebras","From these examples, it is interesting to note that, upon identifying
+                                      X ←→ Z ∼ N (0, 1), E [X 2] ←→ 2ηY ,
+
+the map M ◦χη behaves like a Wick product. We leave further investigations of this observation
+
+for future work. ♦
+
+     It remains to check that the diagrams are indeed commutative. ",math-ph,C,-0.28416967,-0.021487856,0.019878183
+http://arxiv.org/pdf/2207.08612v1,Winding Number Statistics for Chiral Random Matrices: Averaging Ratios of Determinants with Parametric Dependence,"Also the large N-limit in all possible double scaling limits has to be performed. In a
+future work we want to address this in combination with universality studies. Related to the analyzing universality is the following observation. ",math-ph,B,-0.077709556,0.21913117,-0.1489198
+http://arxiv.org/pdf/2207.08694v1,G-dual teleparallel connections in Information Geometry,"[10]). However, we only plan to investigate these matters in future works. Coming back to statistical manifolds, of particular interest are those statistical manifolds
+whose Amari-Cencov tensor T gives rise to a pair (∇, ∇∗) of g-dual connections which are both
+ﬂat in the sense that, in addition to being torsion-free, their curvature vanishes. ",math-ph,C,-0.20358595,-0.17922598,-0.11201584
+http://arxiv.org/pdf/2207.09268v2,On General-n Coefficients in Series Expansions for Row Spin-Spin Correlation Functions in the Two-Dimensional Ising Model,"Furthermore, calculations for
+
+Dn and the structural form presented in [38] apply for the general anisotropic case J1 = J2,
+
+with k> = k<−1 = sinh(2K1) sinh(2K2) and Ki = βJi, whereas in the anisotropic case, other
+
+correlation functions such as Rn would involve not just complete elliptic integrals of the ﬁrst
+
+and second kinds, but also those of the third kind, as was already evident for R1 [6, 58]. Our methods could be applied to this case in future work, although the series expansions
+
+would depend on two variables, e.g., vi = tanh Ki where Ki = βJi, i = 1, 2, or equivalently,
+
+si = sinh(2Ki) with i = 1, 2 for the high-temperature expansions, and similarly on 1/si with
+
+i = 1, 2 for the low-temperature expansions. III. ",math-ph,B,0.27723396,0.10031914,0.2909137
+http://arxiv.org/pdf/2207.09396v1,Parametric models and information geometry on W*-algebras,"This instance may be partly attributed to the nice
+mathematical properties of n.p.l.f.s. Be that as it may, motivated by the above-mentioned
+empirical usefulness of n.p.l.f.s with respect to classical and quantum information geometry, we
+decided to limit our analysis to this kind of positive linear functionals and leave a more general
+analysis for future works. Given an arbitrary n.p.l.f. ",math-ph,B_centroid,-0.14489731,0.32236406,0.009797773
+http://arxiv.org/pdf/2207.09522v1,Classification of the Ground State Space for Abelian Higher Gauge Symmetry Models,"b∈H 0 ×H0                                                   b∈H 0 ×H0
+
+This is, the set of numbers {λb}b∈H0×H0 can be interpreted as probabilities deﬁning the
+mixed density operator of the ground state space H0 :
+
+                                  ρˆH0×H0 :=             λbΠˆ b ,                           (85)
+
+                                              b∈H 0 ×H0
+
+associated to a gns-ground state ϕ ∈ K. Notice that these do not evolve with time, as it is
+attested by the Von-Neumann equation:
+
+∂ρˆH∂0t×H0 = i1h [πϕ (H) , ρˆH0×H0 ] = − i1h ln πϕ Π0ˆ0 , ρˆH0×H0 ,
+
+where we have used (46) and the fact that πϕ Π0ˆ0 , Πˆ b = 0. Moreover, the projectors Πˆ b
+are recognized as the measuring operators for the diﬀerent sectors of the ground state space
+and become the prototype for studying the superselection sectors in future works. To complete the picture, writing explicitly λb = λνµˆ for b = µ, νˆ ∈ H0 × H0, we show
+that the description of the ground state given in Sec. ",math-ph,C,-0.12936625,0.16380692,-0.0024287235
+http://arxiv.org/pdf/2207.11367v1,Towards a mathematical Theory of the Madelung Equations,"♦
+
+  To summarize this section, the current state of research does not provide a satisfac-
+tory answer to the question of what precisely is meant with the term ‘distributional
+Madelung equations’. Nonetheless, we hope that the general considerations expressed
+here contribute to further research, so that more results will be established on the
+general relationship between such Madelung equations and the Schro¨dinger equation. 4 Some explicit ‘non-quantized’ strong solutions of
+   the 2-dimensional Madelung equations
+
+In Ref. ",math-ph,A,0.11378228,0.18600795,-0.10158742
+http://arxiv.org/pdf/2207.12313v2,Classification of all constant solutions of the Yang-Mills-Dirac equations,"The results can be used further to obtain a local classiﬁcation of
+all (nonconstant) solutions of the classical Yang–Mills–Dirac equations and to
+describe physical vacuum. An interesting task for further research is to generalize the results of
+this paper to the case of the Lie group SU(3), which is important for quan-
+tum chromodynamics, or the more general case of the special unitary group
+SU(N ). Another task is to consider the case of an arbitrary, possibly globally
+hyperbolic, Lorentzian manifold. ",math-ph,C,-0.19533843,-0.22360903,0.043577697
+http://arxiv.org/pdf/2207.13557v1,$D$-dimensional cellular automata provide Salem's singular function $L_α$ with $α=1/(2D+1)$ and $1/(2^D+1)$,"On the hexagonal lattice,
+we found two CAs related to L1/5 and L1/4. In future work, we plan to study a CA T the function fT of which equals
+L1/M for an even number M . In this paper, we have shown that we have a
+hexagonal CA the function of which is L1/4 when M = 4. ",math-ph,B,0.030213645,-0.008469639,0.20752826
+http://arxiv.org/pdf/2207.14073v1,Universal Chern number statistics in random matrix fields,"It is interesting that while the gap Chern number correlations studied in section 5 are
+
+                                                            9
+SciPost Physics                                                        Submission
+
+Figure 4: The oﬀ-diagonal correlation coeﬃcient gn,k, calculated from the gap Chern
+
+number distributions of all random matrix sizes and matrix-element correlations in
+
+the short correlations regime ρσ ≥ 0.7, and all base levels n, shown as a function of
+
+the oﬀset k. The centres and error bars of each point show the mean and standard
+
+deviation (respectively) of the population of gn,k samples obtained in this way; the
+
+smallness of the standard deviations supports the hypothesis that the gn,k are uni-
+
+versal coeﬃcients independent of n. The universal function is well described by the
+                        g1
+power  law  ﬁt  gn,k ∼  kγ  with  g1 = 0.18 ± 0.01,  γ = 0.62 ± 0.01.
+
+small, the deviations from (15) and (16) are quite signiﬁcant. This may be an indication that
+there are non-trivial multi-level correlations between Chern numbers, but further study of
+this question is beyond the present scope. 7 Conclusions
+
+The present numerical study of the Chern numbers of parametric random matrix models
+examined three types of statistics: moments of the single-band Chern number distribution,
+correlations of the gap Chern numbers, and the variance of weighted sums of band Chern
+numbers. ",math-ph,B,-0.06672037,0.21714996,0.1639401
+http://arxiv.org/pdf/2208.01730v1,Defects via Factorization Algebras,"At the classical level, most statements about the factorization algebra boil down to
+statements about the behavior of solutions with the boundary condition. We postpone such analysis of more
+interesting examples, including quantizations, to future work. Remark 4.1. ",math-ph,C,-0.22199446,-0.062348437,-0.03164893
+http://arxiv.org/pdf/2208.02218v1,Bulk-edge correspondence for unbounded Dirac-Landau operators,"The results of our paper cannot be applied to such a setting. A more delicate analysis is required and we postpone it to a future work. (ii) An alternative way to compute the integrated density of states for magnetic oper-
+         ators, by using the Dixmier trace, has been recently developed in a series of works
+         [12, 14, 11]. ",math-ph,B,0.123443976,0.17584333,0.27980155
+http://arxiv.org/pdf/2208.02749v1,On the hyperbolic Bloch transform,"On the other hand, this is contrast to the Eu-
+clidean case, where only the 1-dimensional representations are important. Quantify-
+
+ing the amount of information encoded in Bn(ψ) and extending the above results to
+all of ℓ2(Γ) are the most important and interesting directions for further research. 4. ",math-ph,C,-0.2566635,0.17035025,-0.048625097
+http://arxiv.org/pdf/2208.02749v2,On the hyperbolic Bloch transform,"On the other hand, this is contrast to the Eu-
+clidean case, where only the 1-dimensional representations are important. Quantify-
+
+ing the amount of information encoded in Bn(ψ) and extending the above results to
+all of ℓ2(Γ) are the most important and interesting directions for further research. 4. ",math-ph,C,-0.2566635,0.17035025,-0.048625097
+http://arxiv.org/pdf/2208.03800v1,Multimetric Finsler Geometry,"Though in 2d we have succeeded in ﬁnding the measure relevant for possible physical appli-
+cations, the Holmes-Thompson one, we do not expect that the same approach would work in the
+case of the arbitrary number of dimensions. This requires further study. In the introduction we mentioned the spectral action approach that allows to construct general-
+izations of the Einstein gravity starting with some generalized geometries. ",math-ph,C,-0.11192238,-0.12871651,-0.075137734
+http://arxiv.org/pdf/2208.07436v1,Hamilton-Jacobi theory for contact systems: autonomous and non-autonomous,"This allows us to study the dynamics outside the zero-energy level. In future works, we will deepen in the study of inﬁnitesimal symmetries [38], and in the reduction
+problem, in the Hamilton–Jacobi equations for the evolution vector ﬁeld and its possible applications to
+thermodynamics as well as the extension to higher order systems. The study of the discrete Hamilton–
+Jacobi equations and applications to the construction of geometric integrators is also on the agenda. ",math-ph,A,0.12765083,-0.17282549,-0.15090683
+http://arxiv.org/pdf/2208.07436v2,Hamilton-Jacobi theory and integrability for autonomous and non-autonomous contact systems,"This allows us to study the dynamics outside the zero-energy level. In future works, we will deepen in the study of inﬁnitesimal symmetries [45], and in the
+reduction problem, in the Hamilton–Jacobi equations for the evolution vector ﬁeld and its possible
+applications to thermodynamics as well as the extension to higher order systems. The study of the
+discrete Hamilton–Jacobi equations and applications to the construction of geometric integrators
+is also on the agenda. ",math-ph,A_centroid,0.12776299,-0.17080773,-0.15138224
+http://arxiv.org/pdf/2208.08026v1,Conservation laws of damped nonlinear wave equations,"In particular, this gives the wave equation a certain type of
+null structure which is closely related to the null-form nonlinearities studied in analysis. For future work, the present results can be naturally extended to wave equations in higher
+dimensions, and applications in analysis can be expected to emerge. 15
+                                            Acknowledgements
+
+   APM, TMG, and MLG warmly acknowledge the ﬁnancial support from the Junta de
+Andaluc´ıa FQM-201 group. ",math-ph,A,0.065833904,-0.12598713,-0.024529822
+http://arxiv.org/pdf/2208.08893v1,Measurand Spaces and Dimensioned Hamiltonian Mechanics,"Also, with physical applications in mind, note that the metric of a Newtonian
+  system seems to be entirely independent of all the possible choices of observables that
+  may be considered for the dynamical theory, whereas a choice of L-metric is tied to
+  a particular dimensionality of observables. Details on how to formally implement the
+  equivalent of Riemannian geometry in “unit-free” manifolds, and thus how to consistently
+
+                                                        74
+  deﬁne dimensioned Newtonian mechanics, will follow in future works by the author. • What does it mean for a dimensioned observable to be a section of a non-trivial
+  line bundle? ",math-ph,C,-0.062379554,-0.26943892,-0.278571
+http://arxiv.org/pdf/2208.09994v1,Symmetry actions and brackets for adjoint-symmetries. II: Physical examples,"Thus, the adjoint-symmetries of a given PDE system carry useful information about im-
+portant aspects of the system. Further developments and exploration of more examples will
+be an interesting problem for future work. Acknowledgments
+
+   SCA is supported by an NSERC Discovery Grant. ",math-ph,A,0.04928477,-0.1900169,-0.016207842
+http://arxiv.org/pdf/2208.12685v2,Quantum ergodicity for periodic graphs,"Quantum
+ergodicity is violated (use the eigenfunction shown in Figure 3 and argue as in §3.3). See §4.6 for a further analysis when we add a potential. Still, this product sometimes behaves well. ",math-ph,B,0.13461539,0.30319697,-0.01424232

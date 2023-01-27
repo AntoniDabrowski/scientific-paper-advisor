@@ -1,0 +1,230 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.05463v1,Very Local Interstellar Medium Revealed by Complete Solar Cycle of Interstellar Neutral Helium Observations with IBEX,"Moreover,
+the residuals show a systematic pattern with negative residuals early in each observational season before the
+peak and positive residuals after the orbit with the peak. This pattern suggests that the hypothetical contribution
+from the ISN hydrogen is not eliminated and requires further analysis, beyond the scope of this paper. The model
+
+                                                                                                                                                                                                                                                                                                                             15
+                                                    Table 6
+
+                       Comparison of the ISN He Flow Parameters from Select Studies
+
+Source                          Instrument   Years  𝝌𝟐/𝝂        λ             β      v                                           T
+                                                                                                                             (103 K)
+                                                                (°)           (°)  (km s–1)
+                                                                                                                               7.47
+Bzowski et al. ",physics.space-ph,A,0.23317704,-0.17248772,0.18918714
+http://arxiv.org/pdf/2201.06454v1,Observation-based modelling of the energetic storm particle event of 14 July 2012,"This will generate an extra, more energetic seed population that
+                                                                           can be re-accelerated in the interplanetary medium along with
+                                                                           the suprathermal ions of the solar wind. In future work, we plan
+                                                                           to extend our model to the corona to investigate this possibility
+                                                                           further. In our simulation, the particle intensity-time proﬁles show
+                                                                           a drop when the ﬂux rope arrives. ",physics.space-ph,A,-0.007363772,-0.47040784,-0.08687289
+http://arxiv.org/pdf/2201.07965v1,On the Existence of Fast Modes in Compressible Magnetohydrodynamic Turbulence,"Second, we perform the fourth (tempo-
+with wave numbers k that satisfy periodical boundary,       ral) layer of the spatio-temporal Fourier transform (for
+and randomly selected phases φ, and amplitudes Av,          individual frequencies) by integrating the intermediate
+AB for velocity and magnetic ﬁelds, respectively. The       data over time, and save the results in a series of indi-
+amplitude is decomposed into components parallel and        vidual frequencies for further analysis. The outcome of
+perpendicular to the background magnetic ﬁeld B0 as         these analyses will be spectral power populated within
+A and A⊥. ",physics.space-ph,B,-0.1960222,0.37510628,-0.14090224
+http://arxiv.org/pdf/2201.10558v1,ULF wave transmission across collisionless shocks: 2.5D local hybrid simulations,"We divide the simulated shocks into those with σ ≤6.0 (from runs
+a, b, f, h, j and k) and those with σ >6.1 (from runs c, d, e, g, i). This
+division is arbitrary but it will help us with further analysis. Figures 4c) and d) show power spectra of the curves describing the sur-
+faces of the shocks from runs a and i. ",physics.space-ph,A,-0.20705998,-0.019063199,0.2500445
+http://arxiv.org/pdf/2201.12049v1,Parameter Distributions for the Drag-Based Modeling of CME Propagation,"Lastly, it is worth to stress that the joint PDFs in Figure 3 show a non-linear
+correlation between γ and w: while we did not make use of this information in our
+work, the use of a joint PDF for the parameter extraction would reduce the parameter
+space by one degree of freedom. This approach deﬁnitely deserves further investigation,
+and it will be treated in future work. 6 Acknowledgements
+
+       This work is in part supported by the ESCAPE project (the European Science
+Cluster of Astronomy & Particle Physics ESFRI Research Infrastructures) that has
+received funding from the European Union Horizon 2020 research and innovation pro-
+gram under the Grant Agreement n. 824064. ",physics.space-ph,A,-0.05931601,-0.14395705,0.4366051
+http://arxiv.org/pdf/2201.13152v1,"How a realistic magnetosphere alters the polarizations of surface, fast magnetosonic, and Alfvén waves","Incor-
+porating pressure anisotropy could be investigated, though the typical Chew-Golderberger-
+
+                                                               –25–
+                 manuscript submitted to Journal of Geophysical Research: Space Physics
+Low (CGL) kinetic approximation of the MHD equations often applied to simulations
+(Chew et al., 1956; Meng et al., 2012) might not be appropriate for the low frequencies
+under consideration since the accessible volume to particles becomes essentially the en-
+tire ﬂux tubes. It is conceivable that appropriately modelling the cusps though might
+reveal a hitherto unforeseen eigenmode corresponding to magnetosonic (or sound) waves
+trapped within the cone-like cavity of each magnetospheric cusp, a challenge we leave
+to future work. –26–
+                             manuscript submitted to Journal of Geophysical Research: Space Physics
+
+a) Box model magnetosphere                                                           b) Surface eigenmode
+
+                               N Ionosphere                                             Depicted: fundamental (half-wavelength in ||) mode
+
+               sph                              Magnetosheath                                                                                     Principal
+                                                                                                                                                  directions
+   Equatorial                                                                                                                                      of wave
+Magnetosphere                                                                                                                                   propagation
+
+    ||
+
+φ⊥  r⊥                       S Ionosphere          Magnetopause
+                                                vA, ωA
+Field-aligned                                                                                                           ξr⊥, δBr⊥, δB||
+
+co-ordinates                                                                                                  Radially
+                                                                                                          evanescent
+
+                                                                                 r⊥                                                                                  r⊥
+                                                                                          Large scale
+c) Fast magnetosonic (cavity/waveguide) mode                                              across eld
+                                                                                         (|kr -1|~10RE)
+   Depicted: fundamental (quarter-wavelength in r⊥) mode
+                                                                                                         ⊥
+
+                                                                                                                 Polarizations
+
+                                                                                                    for propagation in -φ⊥ (out of page)
+
+                                                                                     d) Alfvén ( eld line resonance) mode
+
+                                                                                        Depicted: fundamental (half-wavelength in ||) poloidal mode
+
+                   Radially           Radially  ξr⊥, δBr⊥, δB||                                                         ξr⊥, δBr⊥, δB||
+               evanescent             standing                    r⊥                                                                      r⊥
+
+  Intermediate               Turning                                                       Small scale
+scale across eld              Point                                                        across eld
+                                                                                           (|kr -1|<2RE)
+  (|kr -1|~2-4RE)
+              ⊥                                                                                     ⊥
+
+     Figure 1: Cartoon illustrating a) a box model magnetosphere and b–d) MHD
+    wave eigenmodes within it. ",physics.space-ph,A,-0.080228716,-0.041882344,-0.3987286
+http://arxiv.org/pdf/2202.01874v1,"Intermittency in the Expanding Solar Wind: Observations from Parker Solar Probe (0.16au), Helios 1 (0.3-1au), and Voyager 1 (1-10au)","Below, the
+                                                                               behavior of Re will be of interest in examining the macro-
+4                                       CUESTA ET AL. scopic variations of intermittency measures within the helio-     For the purpose of further analysis below we shall assume
+sphere as measured by Voyager. The hydrodynamic value             that the moments of the magnetic increments, under the mod-
+of the Reynolds number, RH , is equal to uL/ν, where u is         iﬁed KRSH, behave as
+the turbulence speed, L is the correlation scale mentioned in
+Section 3.2, and ν is the kinematic viscosity ordinarily well     SFn( ) = Cnεn/3 n/3+µ(n)  (6)
+determined for a collisional medium. ",physics.space-ph,A,-0.10835685,-0.27841726,-0.036364153
+http://arxiv.org/pdf/2202.06042v1,Kinetic-scale flux ropes: Observations and applications of kinetic equilibrium models,"This estimated scale is comparable
+to the gyro-radius of a thermal ion ρi ∼ 85km, demonstrating the observations of an ion-scale ﬂux rope. For further analysis, one can use the magnetic ﬁeld data to perform a multi-spacecraft analysis (e.g., Shi et al. 2005, 2006; Zhou et al. ",physics.space-ph,C,0.003545226,-0.025980795,-0.18434983
+http://arxiv.org/pdf/2202.11320v1,Cosmic ray transport near the Sun,"2021). Additional, it should be kept in mind that pitch-angle scattering is primarily
+responsible for the isotropization of the distribution function, and given the fact that we do include
+this process in our modelling approach, we do not expect the results presented here to qualitatively
+change when additional cross-ﬁeld processes are included in future work. Additionally, Ruﬀolo
+(1995) showed that the eﬀect of adiabatic energy losses becomes negligible for solar energetic particle
+protons above 20 MeV. ",physics.space-ph,A_centroid,-0.20870137,-0.2627666,0.0387652
+http://arxiv.org/pdf/2203.02218v1,First results of Low-latitude Ionospheric Irregularities measured by NavIC and GPS near the Anomaly Crest and the Magnetic Equator,"Among those 27 events, we have
+chosen three representative events (with most coverage from all the GPS and NavIC satel-
+lites). In the rest of the paper, we will show results and further analysis of these three
+events which are suitably chosen across diﬀerent solar and geophysical conditions. 3 Results and Discussions
+
+       In this section, the strong storm day of September 8, 2017, the weak storm day of
+August 17, 2018 and the quiet day of September 16, 2017 have been presented as sam-
+ple cases to study the C/No variation as observed by the NavIC satellites; thereafter analysing
+the corresponding PSD and the respective irregularity scale sizes with the spectral slopes,
+under varying geophysical conditions over Indore: a location near the northern crest of
+the EIA of the Indian longitude sector. ",physics.space-ph,B,0.6364793,0.14424144,0.17334455
+http://arxiv.org/pdf/2203.02218v2,First results of Low-latitude Ionospheric Irregularities measured by NavIC and GPS near the Anomaly Crest and the Magnetic Equator,"Among those 27 events, we have
+chosen three representative events (with most coverage from all the GPS and NavIC satel-
+lites). In the rest of the paper, we will show results and further analysis of these three
+events which are suitably chosen across diﬀerent solar and geophysical conditions. 3 Results and Discussions
+
+       In this section, the strong storm day of September 8, 2017, the weak storm day of
+August 17, 2018 and the quiet day of September 16, 2017 have been presented as sam-
+ple cases to study the C/No variation as observed by the NavIC satellites; thereafter analysing
+the corresponding PSD and the respective irregularity scale sizes with the spectral slopes,
+under varying geophysical conditions over Indore: a location near the northern crest of
+the EIA of the Indian longitude sector. ",physics.space-ph,B,0.6364793,0.14424144,0.17334455
+http://arxiv.org/pdf/2203.07899v1,A planning tool for optimal three-dimensional formation flight maneuvers of satellites in VLEO using aerodynamic lift and drag via yaw angle deviations,"So far, however, a simultaneous control
+of two out of the three not to speak of all Euler angles has not
+been considered. Therefore, the question arises whether the
+
+                                                                   16
+therefore considered part of our future work. Since for a prob-           5.1.3. ",physics.space-ph,C,-0.17614132,0.19853881,0.34575182
+http://arxiv.org/pdf/2204.10215v1,A Scale-Separated Dynamic Mode Decomposition From Observations of the Ionospheric Electron Density Profile,"The method was developed for one-dimensional observations of the ionosphere at a mid-
+latitude location. In future work, two- and three-dimensional data may be used, however,
+such spatially varied data sets will likely have to include modeled or assimilated data to ﬁll in
+gaps between sounder locations and therefore detract somewhat from the purely data-driven
+approach of SSDMD. Finally, data spanning longer time periods may even be used to extract
+seasonal and solar cycle dynamics. ",physics.space-ph,B_centroid,0.30456322,0.33298945,-0.32685858
+http://arxiv.org/pdf/2204.10215v2,Scale-Separated Dynamic Mode Decomposition and Ionospheric Forecasting,"These disturbances can induce long-lived deviations in foF2 and
+hmF2 with magnitudes that far exceed climatology [51, 12] which would not necessarily be
+captured by empirical models with drivers derived from geomagnetic and solar indices. While the method was developed for one-dimensional observations of the ionosphere at
+a single sounder station, in future work, data from the global network of sounders may be
+used. However, a global model will require ﬁtting additional spatial expansion functions to
+
+                                                             21
+interpolate between the stations. ",physics.space-ph,B,0.16677296,0.2213136,-0.42620933
+http://arxiv.org/pdf/2205.00143v1,Implications from secondary emission from neutral impact on Cassini plasma and dust measurements,"Institute for Aerospace Studies, University of Toronto
+Maxwellian. We therefore welcome further research into how to                 Laskin J., Futrell J. H., 2003, The Journal of Chemical Physics, 119, 3413
+model such currents, as well as a more detailed laboratory study in           McElroy D., Walsh C., Markwick A., Cordiner M., Smith K., Millar T., 2013,
+the Tse variation with chemical composition of the neutral gas and                 Astronomy & Astrophysics, 550
+impact energy. Meroueh O., L. Hase W., 2001, Physical Chemistry Chemical Physics, 3,
+                                                                                   2306
+   This and future studies into impact emission is especially impor-          Meyer-Vernet N., et al., 2009, Sol. ",physics.space-ph,A,-0.123623654,-0.24517109,0.09364621
+http://arxiv.org/pdf/2205.00143v2,Implications from secondary emission from neutral impact on Cassini plasma and dust measurements,"How-                   G. G. T. Imhof, C. Cipriani, F. 2020, A&A, 642, A43
+ever, irregularities in the sweep derivative, albeit noisy, suggested     Johansson F. L., et al., 2017, Monthly Notices of the Royal Astronomical
+that the energy distribution of emitted electrons is not perfectly             Society, 469, S626
+Maxwellian. We therefore welcome further research into how to             Johansson F., et al., 2021, A&A, 653, A128
+model such currents, as well as a more detailed laboratory study in       Jones G. H., et al., 2009, Geophys. Res. ",physics.space-ph,A,-0.13785468,-0.2115233,0.090639725
+http://arxiv.org/pdf/2205.00229v1,Electron dynamics in small magnetospheres: insights from global fully-kinetic plasma simulations of planet Mercury,"On the other hand, using a    netosphere. Such a more realistic modeling will be addressed in
+smaller planet radius ≈ 230 km instead of the realistic Mercury       future works. radius ≈ 2400 km may have a signiﬁcant impact on simulation’s
+results (in our work here the scale separation between planet ra-         To conclude, the results of this work show that high energy
+dius and ion gyro-radius remains of about a factor 10). ",physics.space-ph,C_centroid,0.067284815,-0.13583194,-0.31772086
+http://arxiv.org/pdf/2205.08670v1,Anisotropic electron heating in turbulence-driven magnetic reconnection in the near-Sun solar wind,"Indeed, this will be the subject    under the project “HIPERCRHEL”. of future work. 17
+
+REFERENCES
+
+Adhikari, S., Parashar, T. N., Shay, M. A., et al. ",physics.space-ph,B,-0.19139366,0.27838013,0.39129105
+http://arxiv.org/pdf/2205.12734v1,Global geomagnetic perturbation forecasting using Deep Learning,"Hence, information propagation across diﬀerent stations takes time, which must
+be incorporated in the basis matrix formulation itself. While this is beyond the scope
+of the paper, such a path is a potential future work for improvement. Also, note that DAGGER does not yet provide uncertainty estimates on the per-
+turbation forecasts. ",physics.space-ph,B,-0.00082568824,0.544203,0.25021178
+http://arxiv.org/pdf/2205.14117v1,Wind--Pellet Shear Sailing,"While the pusher concepts discussed in Subsection 3.3 have been previously
+published, more detailed and practical implementations are a fruitful area
+for further research. The design of a statite dispensing system for photon-pushed aerographite
+pellets remains as future work, as does the pellet-pusher. The pellet pusher is
+interesting in its own right as a means of producing hypervelocity laboratory
+particles or plasmas. ",physics.space-ph,A,-0.5588324,-0.02804707,0.05989826
+http://arxiv.org/pdf/2206.04279v1,Listening to the magnetosphere: How best to make ULF waves audible,"Takahashi et al., 2015b) or electric ﬁeld (e.g. Hartinger et al., 2012) could also be used in the
+soniﬁcation of ULF waves – a prospect we leave to future work. How the diﬀerent potential soniﬁcation methods
+aﬀect the sound of the resulting audio is assessed in section 3. ",physics.space-ph,B,-0.37326056,0.38302723,-0.1871173
+http://arxiv.org/pdf/2206.05345v1,The Capacity of Low Earth Orbit Computed using Source-sink Modeling,"Results are presented to demonstrate the modeling and analytical approaches
+proposed, but should not be interpreted as providing conclusive statements regarding the behavior of the
+actual LEO orbital environment. Veriﬁcation is intended in future work. The region of LEO that is analyzed in this work ranges from hmin = 200 km to hmax = 900 km of altitude
+divided into Nshells orbital shells. ",physics.space-ph,C,0.08176543,0.024331864,-0.18565351
+http://arxiv.org/pdf/2206.10671v1,Preferential Proton over Electron heating from coherent structures during the first perihelion of Parker Solar Probe,"large-scale energy will grow in time as the paral-
+lel correlation length decreases (Meyrand et al. Our results will guide future works that model
+2021). It is through this growth that turbulent      the heating of the solar corona and the nascent
+energy is eventually funneled into a spectrum        solar wind environment. ",physics.space-ph,A,0.08993357,-0.29989088,-0.01073595
+http://arxiv.org/pdf/2207.06760v1,Refraction and scattering in the atmosphere of the planet Venus: The Lomonossov arc,"This evaluation of the order of magnitude can thus be refined to take into account the
+specific composition of the atmosphere of Venus and the obviously curved trajectory of the
+light rays, although, by definition, this curvature is limited according to the calculation of d
+(2). Nevertheless, further analysis shows that a multi-layer model should be developed <10>. Estimating orders of magnitude seems sufficient to evaluate the intensities (fluxes) observed
+in the arc and the variation of these intensities as a function of angular distance from the solar
+limb. ",physics.space-ph,C,0.121373534,-0.29777136,-0.12289168
+http://arxiv.org/pdf/2207.10460v1,An inner boundary condition for solar wind models based on coronal density,"A low density - low velocity structure could well be the explanation of the
+velocity overestimation of 2014 May 27-29 as this region maps back to approximately 150◦longitude
+which is a section in between two coronal holes (see ﬁgure 7 a). However, this is an area with obvious
+key implications for solar wind forecasting that demands further research. – 19 –
+
+CR IB       Vmax  Vmin          ∆T        ∆V         MAE DTW Dist SSF
+                               (Days)  (km s−1)    (km s−1) (×104)
+            (km s−1) (km s−1)
+
+2150 Tom 400      240 -1.57 ± 2.31 -0.80 ± 9.83 38.44  0.79  0.42
+2150 MAS 390      270 3.61 ± 2.19 0.78 ± 16.10 40.12
+                                                       1.78  0.95
+
+2202 Tom 440      230 1.12 ± 1.69 0.50 ± 14.92 39.31   1.25  0.34
+2202 MAS 420      290 2.98 ± 3.21 -3.34 ± 28.09 57.93
+                                                       2.39  0.66
+
+Table 2:: Statistics of HUXt model run with both tomography and MAS inner boundaries, with the
+type of inner boundary indicated by the IB column. ",physics.space-ph,A,0.41444328,-0.121321015,0.110469766
+http://arxiv.org/pdf/2208.00892v1,Crewed Missions to Mars: Modeling the Impact of Astrophysical Charged Particles on Astronauts and Assessing Health Effects,"These
+concepts make active shielding more expensive and with roughly the same shielding result. Consequently,
+in order to assess its feasibility, further research should not only focus on power management, but also on the
+transportation of the system from Earth to Mars and its set-up on the surface. 6. ",physics.space-ph,C,-0.32683653,0.10814657,-0.17879479

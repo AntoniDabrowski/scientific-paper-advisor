@@ -1,0 +1,546 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01194v1,What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,"Shaikh and Toulis (2021) propose a
+method for observational settings where treatment timing is random conditional on ﬁxed ob-
+servable characteristics. We think that developing methods for observational settings where
+treatment timing is approximately random, possibly conditional on covariates and lagged
+outcomes, is an interesting area for further study in the years ahead. Sequential random assignment. ",econ.EM,C,0.19232273,0.08805657,-0.21024226
+http://arxiv.org/pdf/2201.01194v2,What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature,"Shaikh and Toulis (2021) propose a
+method for observational settings where treatment timing is random conditional on ﬁxed ob-
+servable characteristics. We think that developing methods for observational settings where
+treatment timing is approximately random, possibly conditional on covariates and lagged
+outcomes, is an interesting area for further study in the years ahead. 41
+Sequential random assignment. ",econ.EM,C_centroid,0.20151827,0.08500707,-0.21520759
+http://arxiv.org/pdf/2201.02532v1,"Dynamic Factor Model for Functional Time Series: Identification, Estimation, and Prediction","A Monte Carlo study and an em-
+pirical illustration to yield curves show that our method provides an attractive modeling
+and predictive framework. Several methodological problems await further analysis. The ﬁrst is to develop the
+distributional and inferential theory for estimated factors and loading functions beyond
+the consistency results obtained in this paper. ",econ.EM,A,-0.17975648,0.18027563,-0.047643006
+http://arxiv.org/pdf/2201.02532v2,Approximate Factor Models for Functional Time Series,"The results from the DNS model are given in the last two columns. 30
+    Several methodological problems await further analysis. The ﬁrst is to develop the distri-
+butional and inferential theory for the estimators beyond the consistency results obtained in
+this paper. ",econ.EM,B,-0.19275671,-0.03439995,0.0916268
+http://arxiv.org/pdf/2201.05139v1,"Generalized Kernel Ridge Regression for Long Term Causal Inference: Treatment Effects, Dose Responses, and Counterfactual Distributions","Since only one of the two sets of kernels in a product rate condition needs to have
+polynomial spectral decay, this amounts to multiple spectral robustness. Reversing the norms of the
+
+other product rate conditions would require a mean square rate on ν0, which I pose as a question
+
+for future work. 29
+F Tuning
+
+F.1 Simpliﬁed setting
+
+I propose a family of novel estimators that are combinations of kernel ridge regressions. ",econ.EM,B,0.022449223,-0.18592973,0.2506202
+http://arxiv.org/pdf/2201.05430v1,Efficiently Detecting Multiple Structural Breaks in Systems of Linear Regression Equations with Integrated and Stationary Regressors,"This also means that the most diﬃcult cases (leading to a
+non-rejection of the sequential test’s hypothesis) are not considered for the evaluation of the
+precision of the likelihood-based approach because in columns two to six of Table 2 only those
+cases with the correctly estimated number of breaks can be properly evaluated. We further study the performance of the two-step estimator in settings with structural
+breaks of smaller or larger magnitude. For instance, we apply the factor c = 1.5 to increase
+the break magnitude in Equation (11). ",econ.EM,A,-0.046119895,0.009466251,-0.37179768
+http://arxiv.org/pdf/2201.05430v2,Efficiently Detecting Multiple Structural Breaks in Systems of Linear Regression Equations with Integrated and Stationary Regressors,"This also means that the most diﬃcult cases (leading to a
+non-rejection of the sequential test’s hypothesis) are not considered for the evaluation of the
+precision of the likelihood-based approach because in columns two to six of Table 2 only those
+cases with the correctly estimated number of breaks can be properly evaluated. We further study the performance of the two-step estimator in settings with structural
+breaks of smaller or larger magnitude. For instance, we apply the factor c = 1.5 to increase
+the break magnitude in Equation (11). ",econ.EM,A,-0.046119895,0.009466251,-0.37179768
+http://arxiv.org/pdf/2201.06140v1,Nonparametric Identification of Random Coefficients in Endogenous and Heterogeneous Aggregate Demand Models,"This approach may allow us to relax some of the support conditions. To
+keep a tight focus on nonparametric identiﬁcation, we leave this extension for future work. Remark 3.3. ",econ.EM,B,0.12333151,-0.20081806,0.22061795
+http://arxiv.org/pdf/2201.06605v1,Inferential Theory for Granular Instrumental Variables in High Dimensions,"T
+
+Proof of Lemma 3: The terms, a1, b1, and c1 follow very similarly as the proof for Lemma 2 and hence
+
+are omitted and the terms a2, b2 and c2 follow symmetrically to the proof of Lemma 2 and thus, they
+
+are also omitted. The term c3 is novel and warrants some further analysis. Recall c3 is given by c3 =
+
+T −1z M η (uE − uE). ",econ.EM,A,0.02508244,0.052125756,0.2576332
+http://arxiv.org/pdf/2201.06647v1,An Entropy-Based Approach for Nonparametrically Testing Simple Probability Distribution Hypotheses,"In particular, the
+functional specification of the moment constraints used in the definition of the ET statistic
+deserves further exploration. How many moment constraints to incorporate in the
+maximum entropy problem, and of what type, is a question worthy of further research. In
+addition, rather than converting composite hypotheses to simple hypotheses through
+sample data transformations, as illustrated in this paper, the possibility of formulating an
+ET statistic that applies to composite hypotheses directly is worth contemplating. ",econ.EM,B,-0.09669661,-0.118106425,-0.055107526
+http://arxiv.org/pdf/2201.06898v1,Difference-in-Differences Estimators for Treatments Continuously Distributed at Every Period,"Then,
+an estimator of the more interpretable δ+ parameter can be computed by replacing the δ+, s by
+their estimators in Equation (9), and by replacing all the other population quantities by their
+sample equivalents. 5 Future work
+
+In future work, we will formally study the asymptotic properties of the estimators based on
+our identiﬁcation results. We will start by considering the case with some stayers and no quasi-
+stayers, where we anticipate that estimators of the AMPOS and WAMPOS will both converge at
+the parametric rate. ",econ.EM,B,-0.14308378,-0.20178793,-0.17053011
+http://arxiv.org/pdf/2201.07055v1,Close Enough? A Large-Scale Exploration of Non-Experimental Approaches to Advertising Measurement,"The median holdout percentage places 90% of users in the test group and
+
+    6These minimums were selected by ﬁrst starting with larger cutoﬀs during initial versions of these analyses in
+an eﬀort to provide observational models the largest possible amount of data. We then continually lowered these
+thresholds to randomly add additional studies while balancing overall computational resources until timing become
+the main constraint and adding additional studies wasn’t feasible. 7An earlier version of this paper, dated February 17, 2021, used 850 experimental studies that were selected using
+the same selection criteria. ",econ.EM,C,0.24290402,0.034411054,-0.43394816
+http://arxiv.org/pdf/2201.07168v1,Bayesian inference of spatial and temporal relations in AI patents for EU countries,"Priors for the subsequent years were just posteriors from the
+previous years. The results are stable and estimated posterior distributions are
+quite similar over the years - this shows our current estimates can be useful
+for further analysis in the future. Furthermore, the posteriors are also close to the main posteriors estimated
+for the whole dataset. ",econ.EM,C,-0.017283875,-0.04830105,0.03134516
+http://arxiv.org/pdf/2201.07303v1,Large Hybrid Time-Varying Parameter VARs,"In a forecasting exercise that involves 20 macroe-
+conomic and ﬁnancial variables, we demonstrated the superior forecast performance of
+the proposed hybrid TVP-VARs compared to standard benchmarks. In future work, it would be interesting to use hybrid TVP-VARs for structural analysis. Since they are formulated in the recursive structural-form, structural analysis using large
+VARs identiﬁed by recursive zero restrictions, such as the application in Ellahie and Ricco
+(2017), can directly use the proposed models. ",econ.EM,A,-0.26735032,0.33540806,0.11429516
+http://arxiv.org/pdf/2201.07303v2,Large Hybrid Time-Varying Parameter VARs,"In a forecasting exercise that involves 20 macroe-
+conomic and ﬁnancial variables, we demonstrated the superior forecast performance of
+the proposed hybrid TVP-VARs compared to standard benchmarks. In future work, it would be interesting to use hybrid TVP-VARs for structural analysis. Since they are formulated in the recursive structural-form, structural analysis using large
+VARs identiﬁed by recursive zero restrictions, such as the application in Ellahie and Ricco
+(2017), can directly use the proposed models. ",econ.EM,A,-0.26735032,0.33540806,0.11429516
+http://arxiv.org/pdf/2201.07903v1,Identification of Direct Socio-Geographical Price Discrimination: An Empirical Study on iPhones,"To address this issue requires additional instrumental variables, which may be done as an extension
+of this study. Including instrument variables for arbitrage may also be future work that stems from this
+study. The purpose of this study is to identify and quantify socio-economical and geographical inﬂuences to
+iPhone prices. ",econ.EM,A,-0.20228708,0.19818881,-0.2493307
+http://arxiv.org/pdf/2201.13000v1,A General Description of Growth Trends,"By contrast, a contracting system does not offer an obvious intrinsic scale that does not
+               depend on initial conditions. Because of this fundamental difﬁculty, a general description of
+               negative growth situations requires a different approach and remains an important challenge
+               for future work. Acknowledgments: I have greatly beneﬁted from discussions with Joseph Friedman, Željko Ivezic´, Scott
+               Kaplan, Dejan Vinkovic´ and David Zilberman. ",econ.EM,A,-0.16313487,0.35622972,0.1158122
+http://arxiv.org/pdf/2201.13004v1,Regression Adjustments under Covariate-Adaptive Randomizations with Imperfect Compliance,"We fur-
+ther construct a new estimator which combines the linearly and nonlinearly adjusted estimators,
+and show it is weakly more than both as well as the one without any adjustments, i.e., the fully
+saturated estimator proposed by Bugni and Gao (2021). We further study nonparametric and
+high-dimensional adjustments and provide conditions under which they are weakly more eﬃcient
+than all the other adjusted estimators considered in this paper and are as if the correctly speciﬁed
+regression adjustments are used. The ﬁnal contribution of the paper is to provide simulation evidence and empirical support for
+the eﬃciency gains achieved by our regression-adjusted LATE estimator. ",econ.EM,B,-0.14004633,-0.3724571,-0.26833254
+http://arxiv.org/pdf/2201.13004v2,Regression Adjustments under Covariate-Adaptive Randomizations with Imperfect Compliance,"It is also guaranteed to
+be weakly more eﬃcient than the 2SLS estimator with control variables which is commonly used
+in empirical researches. We further study the nonparametric and high-dimensional adjustments
+which are completely new to these two papers. Ren and Liu (2021) studied the regression-adjusted
+LATE estimator in completely randomized experiments for a binary outcome using the ﬁnite pop-
+ulation asymptotics. ",econ.EM,B,-0.042534344,-0.31944674,-0.26199266
+http://arxiv.org/pdf/2202.00141v1,Partial Sum Processes of Residual-Based and Wald-type Break-Point Statistics in Time Series Regression Models,"In particular, despite the large availability of macroeconomic and ﬁnancial variables which can be
+included as regressors in predictive regressions (such as ﬁnancial ratios, diﬀusion indices, fundamentals),
+practitioners have no prior knowledge regarding the persistence properties of predictors so conventional
+estimation and inference methods for model parameters, such as predictability tests, forecast evaluation
+tests as well as structural break testing require to handle the nuisance parameter of persistent. Therefore, further research is needed to propose suitable statistical methodologies that take into consid-
+eration these challenges, especially when testing for the presence of a structural break in nonstationary
+time series models. Practically, the extension of structural break tests in nonstationary time series models,
+such as predictive regressions, which are particularly useful when information regarding the time series
+properties of regressors is not lost by taking the ﬁrst diﬀerence for instance, is crucial for both theoretical
+and empirical studies. ",econ.EM,A_centroid,-0.37072086,0.18419078,-0.1742519
+http://arxiv.org/pdf/2202.00141v2,Partial Sum Processes of Residual-Based and Wald-type Break-Point Statistics in Time Series Regression Models,"In particular, despite the large availability of macroeconomic and ﬁnancial variables which can be
+included as regressors in predictive regressions (such as ﬁnancial ratios, diﬀusion indices, fundamentals),
+practitioners have no prior knowledge regarding the persistence properties of predictors so conventional
+estimation and inference methods for model parameters, such as predictability tests, forecast evaluation
+tests as well as structural break testing require to handle the nuisance parameter of persistent. Therefore, further research is needed to propose suitable statistical methodologies that take into consid-
+eration these challenges, especially when testing for the presence of a structural break in nonstationary
+time series models. Practically, the extension of structural break tests in nonstationary time series models,
+such as predictive regressions, which are particularly useful when information regarding the time series
+properties of regressors is not lost by taking the ﬁrst diﬀerence for instance, is crucial for both theoretical
+and empirical studies. ",econ.EM,A,-0.37072086,0.18419078,-0.1742519
+http://arxiv.org/pdf/2202.00877v1,Efficient Volatility Estimation for Lévy Processes with Jumps of Unbounded Variation,"These two facts suggest that further debiasing steps similar to (3.5)-
+
+(3.6) could lead to an extension of this method to handle values of Y larger than 8/5. This
+
+conjecture requires signiﬁcant further analysis beyond the scope of the present paper and, hence,
+
+we leave it for future research. 4Though, it is shown in [8] that under the setting of Section 2, the optimal threshold ε∗n is such that ε∗n ∼
+    (2 − Y )σ2hn ln(1/hn). ",econ.EM,B,0.057146683,-0.24606752,0.14371891
+http://arxiv.org/pdf/2202.04146v1,A Neural Phillips Curve and a Deep Output Gap,"Nonetheless, this application is meant as illustrative about HNN versatility, and to under-
+stand further how supervision affect gt. A comprehensive assessment of ""neural Taylor rules"" is
+material for future work. A.4 Mnemonics for Benchmark HNNs
+
+#These are for HNN-F. Add ""trend"" to the first three hemispheres to get HNN. ",econ.EM,A,0.063875735,0.26260865,0.23042235
+http://arxiv.org/pdf/2202.04154v1,"Dynamic Heterogeneous Distribution Regression Panel Models, with an Application to Labor Income Processes","However, our approach may be applicable to
+a network setting in which there is contemporaneous dependence across units. We
+leave this extension to future work. In the econometric analysis, the unknown degree of heterogeneity aﬀects both the
+rate of convergence and the asymptotic distribution, making them unknown and con-
+tinuously varying across diﬀerent assumptions on the heterogeneity. ",econ.EM,B,-0.2076478,-0.04254139,0.08025567
+http://arxiv.org/pdf/2202.04154v2,"Dynamic Heterogeneous Distribution Regression Panel Models, with an Application to Labor Income Processes","Finally, while our focus here is a panel comprising
+repeated time series observations on the same unit our approach could be applied to
+a network setting in which there is contemporaneous dependence across units. We
+leave these extensions to future work. Appendix A. ",econ.EM,A,-0.07331659,0.16801447,0.23746938
+http://arxiv.org/pdf/2202.04339v2,Semiparametric Bayesian Estimation of Dynamic Discrete Choice Models,"Norets and Tang (2013)
+point out in their Section 3.2 that Bayesian and classical inference results can be reconciled
+if inference is performed on the identiﬁed sets. Kline and Tamer (2016) further study this
+approach and Kitagawa (2011) obtain related results under multiple priors for set identiﬁed
+parameters. In this subsection, we describe how credible and conﬁdence sets for identiﬁed
+sets can be deﬁned and computed from the output of our MCMC algorithm. ",econ.EM,C,0.2567652,-0.13218483,0.14203086
+http://arxiv.org/pdf/2202.05192v1,von Mises-Fisher distributions and their statistical divergence,"In characterising the limiting behaviour of our chosen measures
+of divergence, we provide results that are useful for the theoretical development of econometric
+methods, especially those that involve penalisation. We suggest that there are several directions for further research. Firstly, the von Mises-Fisher
+family is highly restrictive. ",econ.EM,B,-0.25895786,-0.21361402,0.03438993
+http://arxiv.org/pdf/2202.05192v2,von Mises-Fisher distributions and their statistical divergence,"In characterising the limiting behaviour of our chosen measures
+of divergence, we provide results that are useful for the theoretical development of econometric
+methods, especially those that involve penalisation. We suggest that there are several directions for further research. Firstly, the von Mises-Fisher
+family is highly restrictive. ",econ.EM,B,-0.25895786,-0.21361402,0.034389935
+http://arxiv.org/pdf/2202.08426v1,Synthetic Control As Online Linear Regression,"Lastly, we draw an analogous connection between regu-
+larized synthetic control and Follow-the-Regularized-Leader, a popular class of strategies in
+online learning. We now point out a few limitations of this paper and directions for future work. So far, we
+have considered a thought experiment where, before each step t, the analyst only has access
+to data Y1:t−1 to output a prediction function. ",econ.EM,C,0.1588764,0.21076885,0.2662723
+http://arxiv.org/pdf/2202.08426v2,Synthetic Control As Online Linear Regression,", ℓS−1(·) when making
+decisions θS —rendering our results here insufﬁcient. That said, delayed feedback—where
+the online player only has knowledge of the loss function after k periods—is studied in
+online learning (Weinberger and Ordentlich, 2002, Korotin et al., 2018, Flaspohler et al.,
+2021), and we leave an exploration to future work. REFERENCES
+
+ABADIE, ALBERTO (2021): “Using synthetic controls: Feasibility, data requirements, and methodological as-
+  pects,” Journal of Economic Literature, 59, 391–425. ",econ.EM,C,-0.024615612,0.24177185,0.047965266
+http://arxiv.org/pdf/2202.08977v1,Fairness constraint in Structural Econometrics and Application to fair estimation using Instrumental Variables,"In particular, deﬁnitions that impose restriction on the entire distribution of 𝜑
+given 𝑆. These constraints are nonlinear and thus more cumbersome to deal with in practice, and we defer their study to
+future work. 2 Examples in Econometrics
+
+We let F1 and F2 be the set of square integrable functions which satisfy deﬁnitions 1.1 and 1.2, respectively. ",econ.EM,B,-0.051314436,-0.25031972,0.1561328
+http://arxiv.org/pdf/2203.03032v1,Weighted-average quantile regression,"The
+results highlight the diﬀerent dynamics between the risk measures and the means or
+quantiles of returns and the importance of the factors in capturing the variations of
+the risk measures of the portfolio returns. We further study the time-varying exposures of the 10% ES of the industry returns
+to the Fama-French 5 factors. The period used for estimation is the past twenty years
+and we roll the estimation period every year. ",econ.EM,A,-0.35274625,-0.061478436,-0.13151036
+http://arxiv.org/pdf/2203.03040v1,Modelplasticity and Abductive Decision Making,"13
+Remark 3. The density-sharpening process plays an essential role for abductive inference,
+which provides the computational machinery for generating novel hypotheses with explanatory
+merit and selecting speciﬁc ones for further examinations. Remark 4 (Abductive inference ‰ Hypothesis testing). ",econ.EM,C,0.10922825,0.059749022,-0.06018211
+http://arxiv.org/pdf/2203.03497v1,Inference in Linear Dyadic Data Models with Network Spillovers,"One of the limitations of our approach is the assumption that πN,M is known to the
+econometrician a priori. Extension to the case where πN,M is unknown is left for future work. To conclude, we would like to clarify that our goal in this exercise is neither to criticize
+dyadic-robust variance estimators, which are a fundamental part of the empiricist’s toolkit,
+nor to suggest our approach should always be used. ",econ.EM,B,-0.15262589,-0.30090642,-0.04058256
+http://arxiv.org/pdf/2203.03497v2,Inference in Linear Dyadic Data Models with Network Spillovers,"In the observance
+of Remark 4.2, this modeling choice helps us to explicitly compare these two variance estimators
+within the same asymptotic approximation (i.e., the same rate of convergence). Evaluating the
+impacts of incorrectly choosing the value for this parameter and developing a methodology for
+estimating it are beyond the scope of this paper and thus left for future work. It follows from Theorem 4.1 that the dyadic-robust variance estimator (11) is inconsistent for
+the true variance when the underlying network involves a nonnegligible degree of far-away corre-
+lations. ",econ.EM,B,-0.1494124,-0.29394016,0.037421826
+http://arxiv.org/pdf/2203.03613v1,Bayesian Bilinear Neural Network for Predicting the Mid-price Dynamics in Limit-Order Book Markets,"The paper discusses how to make use and
+                                                                           interpret predictive probabilities, providing insights on their
+                                                                           implication in the decision process. Following our analysis,
+                                                                           and besides promoting further research and applications in-
+                                                                           volving Bayesian deep learning methods, future research might
+                                                                           explore to which extent posterior probabilities lead to better
+                                                                           uncertainty-informed trades, e.g. by applying and comparing
+                                                                           Bayesian and non-Bayesian models for constructing actionable
+                                                                           trading strategies, veriﬁed with robust back-testing procedures. ",econ.EM,C,-0.11634478,0.19261359,0.17063725
+http://arxiv.org/pdf/2203.06685v1,Encompassing Tests for Nonparametric Regressions,"Consider Statement (a). Since E (E (Y |W )|X) = E (Y |X) a.s.,
+
+                E [Y − E (Y |X)]2 = E [Y − E (Y |W )]2 + E [E (Y |W ) − E (Y |X)]2 ,
+
+    1We leave the study of the formal properties of such a two-step procedure for future work. 5
+as the cross-term cancels, and E [Y − E (Y |X)]2 ≥ E [Y − E (Y |W )]2. ",econ.EM,B,0.071427144,-0.12605594,0.0910736
+http://arxiv.org/pdf/2203.08879v1,Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models,"Sec-
+ond, how do the new estimators compare to existing methods requiring the number
+of groups to be known or when covariates are included? We leave these questions for
+further research. 17
+References
+
+Acemoglu, D., Johnson, S., Robinson, J. ",econ.EM,C,0.23502804,-0.18266812,-0.35369557
+http://arxiv.org/pdf/2203.08879v2,Make the Difference! Computationally Trivial Estimators for Grouped Fixed Effects Models,"Second, how do the new estimators perform in ﬁnite sample relative to alternative
+existing methods requiring the number of groups to be known or when covariates are
+included? We leave these questions for further research. 17
+References
+
+Acemoglu, D., Johnson, S., Robinson, J. ",econ.EM,C,0.20251015,-0.22614813,-0.43839228
+http://arxiv.org/pdf/2203.10683v1,Indirect Inference for Nonlinear Panel Models with Fixed Effects,"The simulation results are in line with those reported in
+Hughes and Hahn (2020), who theoretically showed that SBC has a larger higher–order variance
+and remaining bias than BC–HN.8 On the other hand, IFE is comparable with BC–HN in terms of
+both bias and standard deviation. A theoretical exploration is left for future work. Like other bias correction methods, the theoretical properties of the indirect xed e ect
+estimator are predicated on the large–𝑇 assumption. ",econ.EM,B,-0.1309101,-0.16183501,-0.09531458
+http://arxiv.org/pdf/2203.10683v2,Indirect Inference for Nonlinear Panel Models with Fixed Effects,"The simulation results are in line with those reported in Hughes and Hahn (2020),
+who theoretically showed that HBC has a larger higher–order variance and remaining bias than
+BC–HN.7 On the other hand, IFE is comparable with BC–HN in terms of both bias and standard
+deviation. A theoretical exploration is left for future work. The current theory is restricted to strictly exogenous explanatory variables, but Monte Carlo
+simulations in Appendix C.2 shows that the method can accommodate lagged dependent variables
+as well. ",econ.EM,A,-0.20314348,0.042937648,-0.10417622
+http://arxiv.org/pdf/2204.00551v1,Decomposition of Differences in Distribution under Sample Selection and the Gender Wage Gap,"Such
+comprehensive models could be informative about features that are not captured by a simpler model, at the
+cost of making them computationally more complicated. Their study is left for future work. 4Note that the propensity score is sensitive to the instrument used. ",econ.EM,C,0.20217873,0.17777187,-0.1084314
+http://arxiv.org/pdf/2204.01215v1,Capturing positive utilities during the estimation of recursive logit models: A prism-based approach,"It
+has been necessary to develop a method that is able to analyze the attractiveness having positive
+eﬀects on pedestrians’ behavior, and our proposed method can also be considered as a signiﬁcant
+contribution in such a context. Given the way of solving the numerical issue of the RL model, there are a number of open
+and potentially valuable research directions for further study. Recursive modeling of behavior
+is a general framework, and its application is not limited to route choice behavior. ",econ.EM,C,0.11577702,0.48248458,0.030366525
+http://arxiv.org/pdf/2204.01215v2,Capturing positive network attributes during the estimation of recursive logit models: A prism-based approach,"Because most previous studies used a classical route choice model that
+requires path enumeration, e.g., the path-size logit model (Ben-Akiva and Bierlaire, 1999), it is
+an interesting topic for future research to use the Prism-RL model for a more detailed analysis
+on pedestrian route choice and compare it with the ﬁndings in the literature. Having a way of solving the numerical issue of the RL model, we consider many open and
+potentially valuable research directions for further study. Recursive modeling of behavior is a
+general framework, and its application is not limited to route choice analysis. ",econ.EM,C,0.19474772,0.47104457,0.009510035
+http://arxiv.org/pdf/2204.01683v1,Kernel-weighted specification testing under general distributions,"The tools developed in this paper provide a limit theory for a class of
+kernel-based statistics when the underlying distribution of the conditioning variables is ""con-
+taminated"" by singular components. The results could be extended in future work in a number
+of directions. First, a more detailed analysis of the local singularity of the measure for non-
+symmetric sets would allow for different bandwidth rates in the regressors. ",econ.EM,B,-0.09541493,-0.24467444,0.2781398
+http://arxiv.org/pdf/2204.01683v2,Kernel-weighted specification testing under general distributions,"The tools developed in this paper provide a limit theory for a class of
+kernel-based statistics when the underlying distribution of the conditioning variables is ""con-
+taminated"" by singular components. The results could be extended in future work in a number
+of directions. First, a more detailed analysis of the local singularity of the measure for non-
+symmetric sets would allow for different bandwidth rates in the regressors. ",econ.EM,B,-0.09541493,-0.24467444,0.2781398
+http://arxiv.org/pdf/2204.02346v1,Finitely Heterogeneous Treatment Effect in Event-study,"In the last section, I
+revisit Lutz (2011) that studies the eﬀect of the district court rulings on school desegregation plans in US on
+school desegregation and ﬁnd that the suggested method shows us interesting patterns between heterogeneity
+
+     1The term ‘selection bias’ can be used in diﬀerent contexts but in this paper, what I refer to as the selection bias is the
+selection into treatment. 2
+in treatment eﬀects and heterogeneity in untreated outcomes that motivate further research questions. In addition to the treatment timing being random conditional upon a latent variable, I also assume
+
+that the type variable has a ﬁnite support. ",econ.EM,C,0.20252523,-0.034009244,-0.24051628
+http://arxiv.org/pdf/2204.03094v1,Super-linear Scaling Behavior for Electric Vehicle Chargers and Road Map to Addressing the Infrastructure Gap,"Thus identifying the place-                                                                                                                                                        requirements of emerging technology. Our application here to
+ment of EVSE to meet this growing demand is essential and                                                                                                                                                            EVSEs opens up a variety of future work in scaling theory. has been an area of extensive research (1–4). ",econ.EM,A,0.075690605,0.269822,0.18040767
+http://arxiv.org/pdf/2204.10445v1,MTE with Misspecification,"Thus, if νx = −1/2, then MPˆRTE∗(x) does not converge in probability. In future work, we will
+use these results to construct conﬁdence intervals for the parameters of interest. 6 Conclusion
+
+In this paper we use the MTE framework to model a proportion of individuals who do not re-
+spond to the incentives of the instrumental variable. ",econ.EM,B,-0.018711235,-0.07083073,-0.057094842
+http://arxiv.org/pdf/2204.10495v1,Adversarial Estimators,"Note that this regularization
+does not aﬀect the sieve’s approximation power relative to the target spaces, and there always exists
+an ǫ > 0 for which Θn, Λn are non-empty due to their o(n−1) approximation rates. These conditions
+can simply be viewed as implementation choices for the neural networks, although the current sup-
+norm regularization is arguably not practical and future work may be able to clarify whether e.g. an
+appropriate L2 penalty on the weights is suﬃcient. ",econ.EM,B,0.1925368,-0.08845887,0.5427862
+http://arxiv.org/pdf/2204.10495v3,Adversarial Estimators,"Note that this does not aﬀect the sieve’s approximation
+power towards these spaces, and there always exists an ǫ > 0 for which Θn, Λn are
+non-empty due to their o(n−1) approximation rates. While in principle just an imple-
+mentation choice, the current sup-norm regularization is arguably not practical and
+
+                      22
+future work may be able to clarify whether e.g. an appropriate L2 penalty on the
+
+weights suﬃces. ",econ.EM,B,0.2111489,-0.18080944,0.48533136
+http://arxiv.org/pdf/2204.12992v1,Estimation of Recursive Route Choice Models with Incomplete Trip Observations,"Our methods can be used with other recursive models developed in the literature, e.g., the
+dynamic RL (de Moraes Ramos et al., 2020) or stochastic time-dependent RL (Mai et al., 2021)
+models, and may have applications beyond route choice modeling, for example, the estimation
+of activity-based models or general structural dynamic discrete choice models with missing data. These would shape some interesting directions for future work. Acknowledgements
+
+This research is supported by Singapore Ministry of Education (MOE) Academic Research Fund
+(AcRF) Tier 1 grant (Grant No: 20-C220-SMU-010) to the ﬁrst and second authors
+
+References
+
+Arcidiacono, P. and Miller, R. A. ",econ.EM,C,-0.059024245,0.38413805,0.011743672
+http://arxiv.org/pdf/2204.13815v1,Controlling for Latent Confounding with Triple Proxies,"As such, the nonpara-
+metric identiﬁcation results presented here may act as motivation for a sim-
+pler parametric estimation strategy or estimation of a discretized version of the
+model. Nonetheless, we intend to explore nonparametric estimation using triple
+proxies in future work. References
+
+Ai, Chunrong, & Chen, Xiaohong. ",econ.EM,B,-0.0065947548,-0.13651046,-0.034811646
+http://arxiv.org/pdf/2205.01246v1,"Heterogeneous Treatment Effects for Networks, Panels, and other Outcome Matrices","Intersecting our bounds with
+others may lead to smaller identiﬁed sets for the DPO and DTE, but potentially at the cost
+of greater computational complexity or statistical uncertainty. We leave this to future work. 20
+5 Extensions
+
+We sketch some extensions to the Section 3 framework. ",econ.EM,B,0.24476552,-0.15989918,0.32924396
+http://arxiv.org/pdf/2205.01246v2,"Heterogeneous Treatment Effects for Networks, Panels, and other Outcome Matrices","Intersecting our bounds with
+others may lead to smaller identiﬁed sets for the DPO and DTE, but potentially at the cost
+of greater computational complexity or statistical uncertainty. We leave this to future work. 20
+5 Extensions
+
+We describe some extensions to the Section 3 framework. ",econ.EM,B,0.24399818,-0.15079845,0.32002333
+http://arxiv.org/pdf/2205.03948v1,Dynamic demand for differentiated products with fixed-effects unobserved heterogeneity,"I apply and extend recent results from Aguirregabiria,
+Gu, and Luo (2021) to establish the identiﬁcation of all structural parameters in this model. Several extensions of the results in this paper are interesting topics for further research. First, an important motivation for the estimation of structural models is using them for coun-
+terfactual experiments that consist in evaluating the eﬀects on agents’ behavior of hypothetical
+changes in structural parameters or/and exogenous variables. ",econ.EM,A,-0.21353883,0.22662947,-0.23183316
+http://arxiv.org/pdf/2205.03948v2,Dynamic demand for differentiated products with fixed-effects unobserved heterogeneity,"I apply and extend recent results from Aguirregabiria,
+Gu, and Luo (2021) to establish the identiﬁcation of all structural parameters in this model. Several extensions of the results in this paper are interesting topics for further research. First, the speciﬁcation of the sources of demand dynamics in the model of this paper is
+restrictive. ",econ.EM,A,-0.31476182,0.3409583,-0.03530122
+http://arxiv.org/pdf/2205.03970v1,Policy Choice in Time Series by Empirical Welfare Maximization,"It is possible to
+extend their analysis to our time-series setting and assess whether or not the rate shown in
+Theorem 5.3 can be improved. However this is not a trivial extension, and we leave it for
+further research. 5.3.2 Estimation of propensity scores
+
+In this subsection, we brieﬂy review various methods of estimating propensity score functions. ",econ.EM,C,-0.020173263,-0.1081741,-0.17054093
+http://arxiv.org/pdf/2205.04637v1,Distributionally Robust Policy Learning with Wasserstein Distance,"This study does not consider whether a
+
+                                                         21
+Nash equilibrium exists or what types of strategies constitute the equilibrium. I leave these
+questions for future work. Acknowledgements
+
+The data used in this study derive from data ﬁles made available to researchers by the
+MDRC. ",econ.EM,C,0.068941616,0.40766007,-0.13542385
+http://arxiv.org/pdf/2205.04637v2,Distributionally Robust Policy Learning with Wasserstein Distance,"However, this study does not consider
+whether a Nash equilibrium exists or what types of strategies constitute the equilibrium. I leave these
+questions for future work. 15
+Structure of this appendix Appendix A provides the additional information on Section 5. ",econ.EM,C,-0.0011943411,0.37480378,-0.03526142
+http://arxiv.org/pdf/2205.05779v1,Multivariate ordered discrete response models,"Several extensions
+warrant investigation. For example, future work may relax the homoskedasticity assumption
+or consider median independence of unobservables, which may suit a partial identiﬁcation ap-
+proach. We also envisage an extensive analysis of the generalizability of existing univariate lattice
+semiparamteric methods to non-lattice models. ",econ.EM,B,0.03457368,-0.04699552,0.15803418
+http://arxiv.org/pdf/2205.06363v1,Causal Estimation of Position Bias in Recommender Systems Using Marketplace Instruments,"In the ads example, we identiﬁed a position
+eﬀect among ad campaigns that had ranking changes due to the bidding experiment; we might
+consider selecting a subset of the remaining ads as strong candidates for randomization, following
+for example Rosenman and Owen (2021). Another direction for future work is to explore diﬀerences
+between ad campaigns or LinkedIn users. It is likely that the eﬀect of position is heterogeneous
+across those groups, and that position bias modelling would be improved greatly by understanding
+the complex heterogeneous treatment eﬀects present. ",econ.EM,C,0.31130195,0.108127646,-0.15178102
+http://arxiv.org/pdf/2205.07719v1,HARNet: A Convolutional Neural Network for Realized Volatility Forecasting,"In the case of MSE,
+however, the test error of the NN model relative to the baseline HAR ﬁt remains almost the same
+after optimization. Based on the results presented in Figures 4 and 5, we believe that the following observations
+are of signiﬁcant importance and merit further analysis:
+
+   1. While Rahimikia and Poon (2020) do not recommend using the QLIKE error as an objective
+       function during optimization, we found that this approach can yield consistent and substan-
+       tial improvements. ",econ.EM,A,-0.041470163,0.10029743,0.12314023
+http://arxiv.org/pdf/2205.11953v1,Subgeometrically ergodic autoregressions with autoregressive conditional heteroskedasticity,"Assumption 2(ii)
+can be veriﬁed as in the proof of Proposition 2 in Meitz and Saikkonen (2020), and the result
+follows from Theorem 1 (with δ = 2s0/ρ). Appendix B
+
+Appendix B contains Figure 2 which displays further analysis of the residuals of model (27). 0.0 0.2 0.4 0.6 0.8 1.0                                          0.0 0.2 0.4 0.6 0.8 1.0
+
+                         0      10  20     30     40     50                               0      10     20  30     40     50
+
+0.6
+
+0.4                                                              −4 −2 0 2 4 6
+
+0.2
+
+0.0
+
+                            −4  −2  0   2      4      6  8                                −4 −2      0  2   4   6      8  10
+
+Figure 2: Further analysis of the residuals shown in (the bottom right graph of) Figure 1:
+autocorrelation function of εˆt (top left), autocorrelation function of εˆ2t (top right), histogram
+along with the estimated error density (bottom left), and a Q-Q plot (bottom right)√. ",econ.EM,B,-0.24930471,-0.17241506,0.043377005
+http://arxiv.org/pdf/2205.12126v1,Estimation and Inference for High Dimensional Factor Model with Regime Switching,"An application to the FRED-MD dataset demonstrates the poten-
+tial of using many time series with our method for quick detection of business cycle
+turning points. Some related topics are worth further study. First, it would be interesting to see
+the performance of the portfolio constructed using regime speciﬁc loadings, and how
+the identiﬁed regime is related to exogenous variables such as market volatility and
+money growth. ",econ.EM,A,-0.2529114,0.27976495,-0.038954653
+http://arxiv.org/pdf/2205.15738v1,Estimating spot volatility under infinite variation jumps with market microstructure noise,"7. Conclusion and future work
+
+    In this paper, we propose a jump-robust estimator of spot volatility by using noisy high-
+frequency data, where the jumps considered can be active with inﬁnite variation. Under mild
+assumptions, we establish the consistency and asymptotic normality results after estimating
+and removing the biases stemming from the jumps and market microstructure noise. ",econ.EM,B,-0.17156465,-0.22954617,0.0056720152
+http://arxiv.org/pdf/2206.04157v1,Inference for Matched Tuples and Fully Blocked Factorial Designs,"We continue matching pairs of groups in
+this fashion until we obtain groups of size 2K. We emphasize, however, that this approach is not guaranteed
+to be optimal, and we leave the study of potentially more eﬀective matching algorithms to future work. In addition to the standard matched tuples design (MT), we now include a matched tuples design with
+two replicates for each treatment as described in Remark 3.1, denoted by MT2. ",econ.EM,C,0.8330382,0.09289271,-0.012537517
+http://arxiv.org/pdf/2206.04157v2,Inference for Matched Tuples and Fully Blocked Factorial Designs,"We continue matching pairs of groups in
+this fashion until we obtain groups of size 2K. We emphasize, however, that this approach is not guaranteed
+to be optimal, and we leave the study of potentially more eﬀective matching algorithms to future work. In addition to the standard matched tuples design (MT), we now include a matched tuples design with
+
+                     16
+two replicates for each treatment as described in Remark 3.1, denoted by MT2. ",econ.EM,C,0.83672667,0.10144465,-0.02239103
+http://arxiv.org/pdf/2206.04157v3,Inference for Matched Tuples and Fully Blocked Factorial Designs,"We continue matching pairs of groups in
+this fashion until we obtain groups of size 2K. We emphasize, however, that this approach is not guaranteed
+to be optimal, and we leave the study of potentially more eﬀective matching algorithms to future work. In addition to the standard matched tuples design (MT), we now include a matched tuples design with
+
+                     17
+two replicates for each treatment as described in Remark 3.1, denoted by MT2. ",econ.EM,C,0.83796483,0.09913812,-0.019999648
+http://arxiv.org/pdf/2206.06116v1,A Constructive GAN-based Approach to Exact Estimate Treatment Effect without Matching,"If the R-squared is suﬃciently close to 1, it can be considered that
+
+                                                                15
+there is no major unobserved covariates. In order to better use our GAN-ATT estimator, this issue
+awaits our further research. 6 Conclusion
+
+In this paper we propose the GAN-ATT estimator that can better estimate average treatment eﬀect
+on the treated (ATT) without matching. ",econ.EM,C,0.16559827,-0.2042483,-0.24866837
+http://arxiv.org/pdf/2206.07386v1,Finite-Sample Guarantees for High-Dimensional DML,"For our asymptotic corollaries,
+we have simply assumed that estimators σˆj or σˆu exist. We leave it to future work to provide
+ﬁnite-sample guarantees for variance estimation in the high dimensional case, although we
+note that such guarantees are available for one-dimensional DML with sample splitting
+(Chernozhukov et al., 2021b). 16
+References
+
+Athey, Susan and Guido W. Imbens, “Machine Learning Methods That Economists
+   Should Know About,” Annual Review of Economics, 2019, 11 (1), 685–725. ",econ.EM,B_centroid,-0.10646927,-0.36691803,-0.047277328
+http://arxiv.org/pdf/2206.07845v1,Optimality of Matched-Pair Designs in Randomized Controlled Trials,"I further note the diﬀerence-in-means is
+unbiased for the ATE in ﬁnite sample under all stratiﬁcations considered in this paper, while
+the regression-adjusted estimators are only consistent for the ATE asymptotically. A very
+interesting direction for future work is to combine regression adjustment with stratiﬁcations
+deﬁned by matched pairs or matched sets of four units. For inference, researchers can use the test with the variance estimator in (14). ",econ.EM,C,0.13119252,-0.29636747,-0.34534734
+http://arxiv.org/pdf/2206.08503v2,Semiparametric Single-Index Estimation for Average Treatment Effects,"Gao et al., 2002), while there are limited theoretical research on the optimal
+choice k for the single-index model. We leave it for future work. 9
+4 Asymptotic Properties
+
+To establish asymptotic properties for the average treatment eﬀect estimator, we assume
+the following conditions and provide justiﬁcations for the following assumptions. ",econ.EM,B,0.015106693,-0.13791378,-0.15138842
+http://arxiv.org/pdf/2206.09073v1,Interpretable and Actionable Vehicular Greenhouse Gas Emission Prediction at Road link-level,"We should note that there are other niche
+
+specific DCM models such as the ordered logit model, which we also implemented to obtain
+
+supporting evidence for the DCM models’ results, that are useful in capturing ordinal ranking
+
+attributes in the response variable to help improve the performance. To shed some light on the
+
+capability of some of those more niche-specific models, we will mention a few relevant works
+
+that share some similarities with our setup and utilized models that we believe could be useful
+
+to us in future works. Pr(Yi = J) = 1 (1)
+
+                        1  Σ +  J−1   eβj Xi
+                                 j=1
+
+The ordered logit model (standard equation shown in Equation 2) is an ordinal regression
+
+model, which is a type of regression model used for ordinal dependent variables (McCullagh,
+
+1980). ",econ.EM,C,0.07840276,0.25315306,-0.16458799
+http://arxiv.org/pdf/2206.14128v1,Business Cycle Synchronization in the EU: A Regional-Sectoral Look through Soft-Clustering and Wavelet Decomposition,"In
+this regard, probabilistic thresholding is the crucial clean-up procedure that improves the visibility of the
+synchronous core and highlights sectors and regions that must come ﬁrst when focusing on the European
+economic policy. For future work, it would be interesting to delve deeper into the estimation of optimal
+probabilistic thresholding parameter values. Although the soft-clustering method belongs to the realm of
+unsupervised learning approaches, we deem that for a particular problem (convergence, synchronization),
+it is possible to ﬁnd the problem-speciﬁc objective function. ",econ.EM,B,0.04588062,-0.0076120887,0.20929703
+http://arxiv.org/pdf/2207.03988v1,"Large Bayesian VARs with Factor Stochastic Volatility: Identification, Order Invariance and Structural Analysis","Lastly, the recent paper Chan, Koop, and Yu (2021) extends the
+stochastic volatility model of Cogley and Sargent (2005) by avoiding the use of Cholesky
+decomposition so that the extension is order-invariant. So far this reduced-form VAR is
+used for forecasting, and further research is needed to incorporate identiﬁcation restric-
+tions for structural analysis. The rest of this paper is organized as follows. ",econ.EM,A,-0.34235787,0.10069321,0.14499064
+http://arxiv.org/pdf/2207.04481v1,Detecting Grouped Local Average Treatment Effects and Selecting True Instruments,"Also,
+settings where the researcher already knows that there are clubs of propensity scores that are identical,
+for example through a policy, would be of particular interest. In future work, it would be interesting to allow for propensity scores that deviate from a common
+cluster mean with a local-to-zero deviation. 28
+References
+
+Andrews, D. W. (1999). ",econ.EM,C,0.3315121,-0.054699857,-0.07619896
+http://arxiv.org/pdf/2207.06564v1,Parallel Trends and Dynamic Choices,"Under Assumption 7, we recover Assumption 6a as follows:
+
+                  E[Y1(0)|D0 < D1] = E[E[Y1(0)|U0, D0 < D1]|D0 < D1]
+                                          ≤ E[E[Y1(0)|U0, D0 = 0]|D0 < D1]
+                                          ≤ E[E[Y1(0)|U0, D0 = 0]|D0 = D1 = 0]
+                                          ≤ E[E[Y1(0)|U0, D0 = D1 = 0]|D0 = D1 = 0]
+                                          = E[Y1(0)|D0 = D1 = 0]
+
+where the equalities follow by the law of iterated expectations, the ﬁrst and third inequalities
+follow from Assumption 7a, and the second inequality follows from combining Assumption 7b
+and c. Alternatively, one could attempt to (partially) identify a marginal group U0 = u∗ with
+other assumptions or an additional source of exogenous variation, such as an instrument. We
+leave this to future work. 5 Conclusion
+
+In this paper, we made connections between the commonly used parallel trends assumption
+and models of dynamic rational choice in economics. ",econ.EM,B,-0.0056731403,-0.1352925,-0.01871888
+http://arxiv.org/pdf/2207.07055v2,High Dimensional Generalised Penalised Least Squares,"We support this statement both theoretically and with our simulation
+results, where we show that even when autocorrelation is absent the debiased Lasso and
+debiased GLS Lasso are asymptotically equivalent. There are a number of interesting avenues for future work. For example, a natural exten-
+sion would be to generalise our method using not only 1-regularised models or 2 (e.g. ",econ.EM,B,0.0016800694,-0.15547335,0.17680243
+http://arxiv.org/pdf/2207.08249v1,Testing for explosive bubbles: a review,"Section 6 describes various models of the relationship between multiple time series with poten-
+tially explosive regimes. Finally, the Conclusion discusses possible further research directions. 1Tao and Yu (2020) investigated information criteria to select the best model among the unit root model,
+the local-to-unit-root model, the mildly explosive model and the regular explosive model. ",econ.EM,A,-0.2791945,0.26361668,0.021476503
+http://arxiv.org/pdf/2207.14481v1,A Tale of Two Panel Data Regressions,"In words, it states that the errors
+are independent across time and space, which is more restrictive than Assumptions 1 and 2 (iii) in isolation. We leave a proper analysis under dependent errors as future work, possibly by leveraging Li (2020). Summary. ",econ.EM,B,-0.120593704,-0.117934704,0.19648015
+http://arxiv.org/pdf/2207.14481v2,Same Root Different Leaves: Time Series and Cross-Sectional Methods in Panel Data,"In words, it states that Y 0 contains
+all measured confounders and the errors are independent across both time and space. We leave a proper analysis under dependent errors as future work. 4.1.2. ",econ.EM,B,-0.07455799,-0.06742577,0.17315248
+http://arxiv.org/pdf/2208.11281v1,Robust Tests of Model Incompleteness in the Presence of Nuisance Parameters,"(3.42)
+
+                             n→∞
+
+3.6 Inference on Parameters
+
+In some applications, the ultimate goal may be to make inference on the underlying parameter,
+for example, to construct conﬁdence intervals for components of θ. While we defer a formal
+analysis to future work, we suggest a hybrid procedure that aims at controlling the potential
+distortion of the model selection step, borrowing insights from the moment selection literature
+(Andrews and Soares, 2010; Romano et al., 2014). Consider  constructing  conﬁdence  intervals  for  a component  or  linear  combination  γ0  =  p  δ0
+                                                    √
+of δ0.13 Due to Proposition 3.1, γˆn = p δˆn is a n-consistent estimator of γ0 as long as
+
+the true value of β is in a neighborhood of β0 whose radius is of order n−1/2. ",econ.EM,B,-0.08332387,-0.2571146,-0.014688272
+http://arxiv.org/pdf/2208.13255v1,Comparing Stochastic Volatility Specifications for Large Bayesian VARs,"Our results also conﬁrmed the vital role of ﬂexible shrinkage priors: both
+cross-variable shrinkage and a data-based approach to determine the overall shrinkage
+strength were empirically important. In future work, it would be useful to extend the proposed estimators to compare large
+time-varying parameter VARs. Existing evidence seems to suggest that in a large VAR,
+only a few of the coeﬃcients are time-varying. ",econ.EM,B,-0.2595501,-0.16391322,0.0035003554

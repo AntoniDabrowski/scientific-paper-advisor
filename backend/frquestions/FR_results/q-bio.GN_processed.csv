@@ -1,0 +1,230 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01018v1,CHERRY: a Computational metHod for accuratE pRediction of virus-pRokarYotic interactions using a graph encoder-decoder model,"In addition, another challenge is
+the fewer training samples at the strain level. We will explore whether CHERRY can be extended for strain-level host
+prediction in our future work. 5 Data Availability
+
+All data and codes used for this study are available online or upon request to the authors. ",q-bio.GN,B,0.041942257,-0.28166878,-0.003432671
+http://arxiv.org/pdf/2201.01018v2,CHERRY: a Computational metHod for accuratE pRediction of virus-pRokarYotic interactions using a graph encoder-decoder model,"In addition, another challenge is the fewer training samples at the
+strain level. We will explore whether CHERRY can be extended for strain-level host prediction in our future work. Finally, our method can beneﬁt from using more characterized virus-host interactions. ",q-bio.GN,B,0.010862349,-0.28224158,0.045095623
+http://arxiv.org/pdf/2201.02273v1,PWM2Vec: An Efficient Embedding Approach for Viral Host Specification from Coronavirus Spike Sequences,"Here we can conclude
+
+that many amino acids contribute to the host speciﬁcation as compared to that for SARS-CoV-2 variants
+
+speciﬁcation [31], which is expected, since the genomic variability within the family coronavidiridae
+should be much higher. The IG values for all amino acids are also available online for further analysis 3. 1Information Gain
+
+                                               0.5
+
+                                                 0
+                                                        0 500 1,000 1,500 2,000 2,500 3,000 3,500
+                                                                           Amino Acids
+
+                         Figure 13. ",q-bio.GN,B,0.040999286,-0.24686748,0.098283336
+http://arxiv.org/pdf/2201.04778v1,Accurate identification of bacteriophages from metagenomic data using Transformer,"The results show that the combination of protein-cluster embedding, protein positional embedding, and
+attention mechanism greatly assist phage identiﬁcation tasks, leading to an increase of F1-score by 27% on mock
+metagenomic data. Although PhaMer has greatly improved phage contig identiﬁcation, we have several aims to optimize or extend PhaMer
+in our future work. One possible extension is to incorporate the alignment quality into the sentence. ",q-bio.GN,B,-0.15955558,-0.2662397,0.11129223
+http://arxiv.org/pdf/2201.04778v2,Accurate identification of bacteriophages from metagenomic data using Transformer,"Thus, it
+is hard to strike an optimal balance between sensitivity and precision by adjusting E-value cutoffs. Although PhaMer has greatly improved phage contig identiﬁcation, we have several aims to optimize PhaMer in our
+future work. One possible extension is to incorporate prophage detection in PhaMer. ",q-bio.GN,B,0.0042087957,-0.16564134,0.09469992
+http://arxiv.org/pdf/2201.05055v1,Depth Normalization of Small RNA Sequencing: Using Data and Biology to Select a Suitable Method,"All results were generated in R ver-
+                                           sion 4.0.2 and the code, data, and results are available on GitHub at https://github.com/LXQin/
+                                           DANA-paper-supplementary-materials. 1 MSK Data
+
+                                           We further study the paired MSK data sets for the same set of tumor samples for which a detailed
+                                           description of the data was previously reported in Qin et al. (2020). ",q-bio.GN,B,0.052873,-0.17639194,-0.11831315
+http://arxiv.org/pdf/2201.05198v1,Multiple Genome Analytics Framework: The Case of All SARS-CoV-2 Complete Variants,"Although it is mentioned        patterns. In future work a more detailed and thorough
+that it is possible to detect tandem repeats as repeated patterns,   description of usage on additional problems will be presented
+the obvious argument is what will happen if a tandem repeat          with more custom-made methodologies and algorithmic
+is not repeated. Such cases are also easy to be detected because     variations. ",q-bio.GN,A,0.17311214,0.10747987,0.15412408
+http://arxiv.org/pdf/2201.10923v1,"Fast, Flexible, and Exact Minimum Flow Decompositions via ILP","10
+    Given the maturity of ILP solvers and Toboggan’s intrinsic exponential dependence on k, it is not surpris-
+ing that an ILP for MFD using a quadratic number of variables performs signiﬁcantly better than Toboggan
+for larger k values. However, since for small k values our ILP formulations are still slower, as future work it
+would be interesting to further devise more eﬃcient MFD solvers (e.g., as a start, run Toboggan when the
+instance is detected as being “small enough”). It would also be interesting to extend our ILP formulations to ﬂow networks with cycles. ",q-bio.GN,C_centroid,0.64653337,0.4531936,-0.45372224
+http://arxiv.org/pdf/2201.10923v2,"Fast, Flexible, and Exact Minimum Flow Decompositions via ILP","10
+    Given the maturity of ILP solvers and Toboggan’s intrinsic exponential dependence on k, it is not surpris-
+ing that an ILP for MFD using a quadratic number of variables performs signiﬁcantly better than Toboggan
+for larger k values. However, since for small k values our ILP formulations are still slower, as future work it
+would be interesting to further devise more eﬃcient MFD solvers (e.g., as a start, run Toboggan when the
+instance is detected as being “small enough”). It would also be interesting to extend our ILP formulations to ﬂow networks with cycles. ",q-bio.GN,C,0.64653337,0.4531936,-0.45372224
+http://arxiv.org/pdf/2201.10923v3,"Fast, Flexible, and Exact Minimum Flow Decompositions via ILP","Given the maturity of ILP solvers and Toboggan’s intrinsic exponential dependence on k, it is not surpris-
+ing that an ILP for MFD using a quadratic number of variables performs signiﬁcantly better than Toboggan
+for larger k values. However, since for small k values our ILP formulations are still slower, as future work it
+would be interesting to further devise more eﬃcient MFD solvers (e.g., as a start, run Toboggan when the
+instance is detected as being “small enough”). It would also be interesting to extend our ILP formulations to ﬂow networks with cycles. ",q-bio.GN,C,0.645411,0.4503755,-0.45419744
+http://arxiv.org/pdf/2202.02958v1,Comprehensive survey of computational learning methods for analysis of gene expression data in genomics,"The centroids are
+recomputed in order to minimize the sum of distances between the genes in a cluster and their
+corresponding centroid [203]. After clustering, a scoring algorithm such as Relief [204] is
+utilized and high-scoring gene features of each cluster are selected for further analysis. Since
+the computational complexity of K-means is linear with respect to the number of instances,
+clusters, and dimensions, it is one of the fastest clustering techniques. ",q-bio.GN,A_centroid,-0.62037975,0.39960605,-0.16688739
+http://arxiv.org/pdf/2202.02958v2,Comprehensive survey of computational learning methods for analysis of gene expression data in genomics,"The centroids are
+recomputed in order to minimize the sum of distances between the genes in a cluster and their
+corresponding centroid [203]. After clustering, a scoring algorithm such as Relief [204] is
+utilized and high-scoring gene features of each cluster are selected for further analysis. Since
+the computational complexity of K-means is linear with respect to the number of instances,
+clusters, and dimensions, it is one of the fastest clustering techniques. ",q-bio.GN,A,-0.62037975,0.39960605,-0.16688739
+http://arxiv.org/pdf/2202.02958v3,A survey on computational learning methods for analysis of gene expression data in genomics,"The centroids are
+recomputed in order to minimize the sum of distances between the genes in a cluster and their
+corresponding centroid [203]. After clustering, a scoring algorithm such as Relief [204] is
+utilized and high-scoring gene features of each cluster are selected for further analysis. Since
+the computational complexity of K-means is linear with respect to the number of instances,
+clusters, and dimensions, it is one of the fastest clustering techniques. ",q-bio.GN,A,-0.62037975,0.39960605,-0.16688739
+http://arxiv.org/pdf/2202.02958v4,A comprehensive survey on computational learning methods for analysis of gene expression data in genomics,"The centroids are
+recomputed in order to minimize the sum of distances between the genes in a cluster and their
+corresponding centroid [203]. After clustering, a scoring algorithm such as Relief [204] is
+utilized and high-scoring gene features of each cluster are selected for further analysis. Since
+the computational complexity of K-means is linear with respect to the number of instances,
+clusters, and dimensions, it is one of the fastest clustering techniques. ",q-bio.GN,A,-0.62037975,0.39960605,-0.16688739
+http://arxiv.org/pdf/2202.02958v5,A comprehensive survey on computational learning methods for analysis of gene expression data,"In K-means
+clustering, an arbitrary K number of points from the data are selected as centroids, and all the genes
+are allocated to the nearest centroid (MacQueen, 1967; Kanungo et al., 2002). After clustering, a
+scoring algorithm such as Relief (Kira and Rendell, 1992) is utilized and high-scoring gene features
+
+                                                                                                                                 17
+of each cluster are selected for further analysis. The computational complexity of K-means is linear
+with respect to the number of instances, clusters, and dimensions. ",q-bio.GN,A,-0.56816447,0.41311806,-0.2465409
+http://arxiv.org/pdf/2202.09618v1,Identifying OCRs in cfDNA WGS Data by Correlation Clustering,"This is a
+comprehensive pipeline that can predict OCRs from WGS data with low false
+positive rate. However, there are several biological factors that inﬂuence the
+sequencing depth and need to be considered such as which will be added to the
+original version of the method in future works. 5 Data Availability
+
+All the raw cfDNA WGS samples were obtained from NCBI GEO under the
+accession number of GSE71378 and GSE114511. ",q-bio.GN,B_centroid,0.02194126,-0.35768217,0.14604172
+http://arxiv.org/pdf/2202.09618v2,Identifying OCRs in cfDNA WGS Data by Correlation Clustering,"However, to reduce the number of false positives
+the correlation clustering was applied in the next phase to maximize the agreements between
+similar nodes along with disagreement between dissimilar ones. However, there are several
+biological factors that influence the sequencing depth and need to be considered such as which
+will be added to the original version of the method in future works. Data Availability
+
+All the raw cfDNA WGS samples were obtained from NCBI GEO under the accession number of
+GSE71378 and GSE114511. ",q-bio.GN,B,-0.14586043,-0.13572112,0.13371485
+http://arxiv.org/pdf/2202.13884v1,Numeric Lyndon-based feature embedding of sequencing reads for machine learning approaches,"Limitations of the choice of
+higher k are related to the fact that the method can misclassify similar k-ﬁngers. Clearly,
+the length of the reads could be also another parameter to take into account to allow
+higher values of k.
+
+   Those results suggest that diﬀerent parameters and models applied in combination
+with the lyn2vec representation could lead to diﬀerent uses whose investigation can be
+carried out in future works. 4.5 Discussion and perspectives
+
+The results obtained in this section, allow us to conﬁrm that the lyn2vec method is
+eﬀective in providing representations of sequencing reads useful in machine learning
+problems. ",q-bio.GN,C,0.3145214,-0.017788777,-0.047614507
+http://arxiv.org/pdf/2202.13884v2,Numeric Lyndon-based feature embedding of sequencing reads for machine learning approaches,"Limitations
+of the choice of higher k are related to the fact that the method can misclassify similar
+k-ﬁngers. Clearly, the length of the reads could be also another parameter to take into
+account to allow higher values of k.
+
+   These results suggest that diﬀerent parameters and models applied in combination
+with the lyn2vec representation could lead to diﬀerent uses whose investigation can be
+carried out in future works. 4.2 Chimeric reads detection
+
+In Section 4.1 we have proved the soundness of the lyn2vec representation in a ML-based
+methodology to solve the read-gene classiﬁcation problem. ",q-bio.GN,B,0.14132313,-0.101702906,-0.041803643
+http://arxiv.org/pdf/2203.06138v1,Restricted Forensic Levenshtein Distance,"Here distance is deﬁned to be the lowest possible cost of any edit path
+between the strings (regardless of whether the minimal path is itself unique), with no penalty on the number
+of steps. The implementation of edit count penalization to the algorithm is an rea of interest for future work. 3
+References
+
+ [1] R Core Team. ",q-bio.GN,A,0.18205751,0.5394485,0.66736233
+http://arxiv.org/pdf/2203.06138v2,Restricted Forensic Levenshtein Distance,"Here distance is deﬁned to be the lowest possible cost of any edit path
+between the strings (regardless of whether the minimal path is itself unique), with no penalty on the number
+of steps. The implementation of edit count penalization to the algorithm is an rea of interest for future work. References
+
+ [1] R Core Team. ",q-bio.GN,A,0.17927149,0.5338465,0.6681062
+http://arxiv.org/pdf/2203.06138v3,A New String Edit Distance and Applications,"Here distance is deﬁned to be the lowest possible cost of
+any edit path between the strings (regardless of whether the minimal path is itself unique), with no
+penalty on the number of steps. The implementation of edit count penalization to the algorithm is
+an rea of interest for future work. References
+
+ [1] R Core Team. ",q-bio.GN,A,0.17927149,0.5338465,0.6681062
+http://arxiv.org/pdf/2204.06714v1,graph-GPA 2.0: A Graphical Model for Multi-disease Analysis of GWAS Results with Integration of Functional Annotation Data,"Finally, in the current framework, functional annotations are considered at
+
+                                                               13
+the SNP level. Embedding of the gene- or pathway-level information will be an interesting direction
+and left as a future work. We believe that GGPA will be a powerful tool for the integrative analysis
+of GWAS and functional annotation data. ",q-bio.GN,B,-0.14693144,-0.2195403,0.014165195
+http://arxiv.org/pdf/2205.01187v1,GeoTyper: Automated Pipeline from Raw scRNA-Seq Data to Cell Type Identification,"2015. doi:
+   The current pipeline can successfully automate the workﬂow
+from extracting scRNA-seq data to generating informative                        https://doi.org/10.1038/nbt.319
+visualizations and predicting cell types. This pipeline can serve
+as the prototype for future work and expansion to include more                  [12] F. Ma and M. Pellegrini, “Actinn: Automated identiﬁcation of cell types in
+features and enhance user-friendliness, such as including a more
+streamlined and interpretative approach to evaluating the cell                  single cell RNA sequencing,” Bioinformatics, vol. 36, no. ",q-bio.GN,B,-0.14660001,-0.29067433,-0.08946859
+http://arxiv.org/pdf/2205.05897v1,"CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods","Smaller FPR and TPR ranges
+get further enhanced with a larger dataset size. The appropriate level of calibration of the ROC
+curve in the clinical context requires further research. Potential approaches include using a power
+function with fractional power such as square root, cube root or the fourth root to scale FPR and
+TPR. ",q-bio.GN,B,0.048924115,-0.10347414,-0.05879827
+http://arxiv.org/pdf/2205.07957v1,Going From Molecules to Genomic Variations to Scientific Discovery: Intelligent Algorithms and Architectures for Intelligent Genome Analysis,"The acceleration efforts we highlight in this work represent state-of-the-art
+efforts to reduce current bottlenecks in the genome analysis pipeline. We hope that these efforts
+and the challenges we discuss provide a foundation for future work in making genome analysis
+faster, more accurate, privacy-preserving, more energy-efficient, and cost-effective; simply more
+intelligent. Acknowledgments
+
+We thank the SAFARI group members for feedback and the stimulating intellectual environment. ",q-bio.GN,B,-0.061712593,-0.23383726,0.16892287
+http://arxiv.org/pdf/2205.11243v1,Spatial Transcriptomics Dimensionality Reduction using Wavelet Bases,"We expect this to improve reconstruction performance. In further analysis, it is worth considering other wavelet
+   smoothing techniques and wavelet ﬁlters. The current methods incorporate little biological information. ",q-bio.GN,B,0.0640662,-0.03652133,-0.20275877
+http://arxiv.org/pdf/2205.14945v1,Functional and evolutionary genomics of the Streptomyces metabolism,"Its investigation therefore should lead to a scientific publication regarding this subjects, and this is
+currently being prepared. This discovery will also open the door for further research on synthetic
+biology: The SLI0883-0884 system is a small peptide biosynthetic system. Indeed, the LFT
+enzyme, the core of the system, has already been proven to be able to incorporate promiscuously
+natural and unnatural amino acids (Taki et al, 2009). ",q-bio.GN,B,0.062346734,-0.18792723,0.089394964
+http://arxiv.org/pdf/2206.00668v1,Learning to Untangle Genome Assembly with Graph Convolutional Networks,"Full results can be seen in
+Table 2. 6 Discussion
+
+The experimental results clearly demonstrate practical value and usefulness of the proposed learning-
+based framework which opens new avenues for further research. Next steps will include application
+of the developed framework to genomes of different species and to different types of data, e.g. ",q-bio.GN,B,-0.011104962,-0.2614472,-0.016910266
+http://arxiv.org/pdf/2206.07397v1,First large-scale genomic prediction in the honey bee,"Markers which were called in less
+than 90% of the samples, had minor allele frequency below 1%, or showed significant
+deviations from Hardy-Weinberg-equilibrium after Bonferroni-correction (chi-square p-value
+< 0.05 × 10−5) were removed. This left 63 240 markers for further analysis. 312 queens were
+removed because less than 90% of all the valid markers were called in their samples. ",q-bio.GN,B,-0.04489548,-0.21424422,-0.045429006
+http://arxiv.org/pdf/2206.09693v1,PhaTYP: Predicting the lifestyle for bacteriophages using BERT,"The prediction results of PhaTYP yielded
+several insights, most of which are consistent with recently published studies, suggesting that PhaTYP is a powerful
+means for studying and analyzing phage composition in metagenomic data. Although PhaTYP has greatly improved phages’ lifestyle prediction, we have several aims to optimize PhaTYP in our
+future work. One possible extension is to employ the knowledge distillation to reduce the parameter size of PhaTYP. ",q-bio.GN,B,-0.06920318,-0.30082905,0.026662147
+http://arxiv.org/pdf/2207.03288v1,"Further analysis of metagenomic datasets containing GD and GX pangolin CoVs indicates widespread contamination, undermining pangolin host attribution","(2022). In a
+further analysis by Jones et al. (2022c), both the NSP4 and NSP10 coding regions of the novel
+CoV were found to group with the GX PCoV clade, but the RdRp phylogenetically sits with
+bat-SL-CoVZC45. ",q-bio.GN,B,0.12550807,-0.17846894,0.06285453
+http://arxiv.org/pdf/2207.03288v2,"Further analysis of metagenomic datasets containing GD and GX pangolin CoVs indicates widespread contamination, undermining pangolin host attribution","(2022). In a
+further analysis by Jones et al. (2022c), both the NSP4 and NSP10 coding regions of the novel
+CoV were found to group with the GX PCoV clade, but the RdRp phylogenetically sits with
+bat-SL-CoVZC45. ",q-bio.GN,B,0.12550807,-0.17846894,0.06285453
+http://arxiv.org/pdf/2207.07734v1,COEM: Cross-Modal Embedding for MetaCell Identification,"Metacacell Evaluation on T-cell depleted bone marrow
+dataset. COEM metacells have higher separation than SEACell’s        In future work, we would explore more machine learn-
+                                                                     ing techniques for multi-modal sequence data integration
+separated and compacted based on the diffusion components            and metacell identiﬁcation. For example, scATAC-seq and
+from the other modality. ",q-bio.GN,B,0.06458764,-0.18085459,-0.22344609
+http://arxiv.org/pdf/2207.07734v2,COEM: Cross-Modal Embedding for MetaCell Identification,"Metacacell Evaluation on T-cell depleted bone marrow
+dataset. COEM metacells have higher separation than SEACell’s        In future work, we would explore more machine learn-
+                                                                     ing techniques for multi-modal sequence data integration
+separated and compacted based on the diffusion components            and metacell identiﬁcation. For example, scATAC-seq and
+from the other modality. ",q-bio.GN,B,0.06458764,-0.18085459,-0.22344609
+http://arxiv.org/pdf/2207.12173v1,A Bayesian method for estimating gene-level polygenicity under the framework of transcriptome-wide association study,"Our deﬁnition does not implicate a formally causal
+
+                                                               15
+biological relationship between the non-null gene and the trait. In future work, we plan to estimate
+the gene-level polygenicity while adjusting for the uncertainty of predicted expression in TWAS. In summary, polygene is a methodologically sound uniﬁed Bayesian approach to estimating the
+gene-level polygenicity and optimal subset of non-null genes for a complex trait under the TWAS
+framework. ",q-bio.GN,B,-0.095702454,-0.17690718,-0.05796143
+http://arxiv.org/pdf/2207.12184v1,Redundancy-aware unsupervised ranking based on game theory -- application to gene enrichment analysis,"Hence, we conclude
+that POR is the best ordering one could choose when the aim was to optimize
+the ranking both for redundancy elimination and coverage of the genes without
+incurring speciﬁc correlations with the gene sets’ sizes. 5.2 Limitations and future work
+
+We were able to show that using our tool as a pre-processing step for gene sets
+collections we get similar numbers of signiﬁcant pathways when checking for
+association with phenotypic traits (although relying on much fewer pathways). We evaluated the signiﬁcance of the top-ranked pathways with respect to phe-
+notypic traits yielding very similar results to the unﬁltered gene sets collections. ",q-bio.GN,B,-0.14057055,-0.07359496,0.023183763
+http://arxiv.org/pdf/2208.08361v1,I-GWAS: Privacy-Preserving Interdependent Genome-Wide Association Studies,"2021. Genome Reconstruc-
+   Directions for future work include analyzing and improving the                tion Attacks Against Genomic Data-Sharing Beacons. Proceedings on Privacy
+interplay between differential privacy and tolerable privacy budgets,            Enhancing Technologies 3 (2021), 28–48. ",q-bio.GN,B,0.07933263,-0.20566487,0.158297
+http://arxiv.org/pdf/2208.08361v2,I-GWAS: Privacy-Preserving Interdependent Genome-Wide Association Studies,"Thus, increasing the overall utility          vately share their data using the Beaver multiplication triples secret
+score of releases. Such a study is left for future work. Finally, even       sharing mechanism. ",q-bio.GN,B,0.15609753,-0.027670842,0.011954505

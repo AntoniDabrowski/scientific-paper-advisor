@@ -1,0 +1,277 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.02441v1,Applications of Signature Methods to Market Anomaly Detection,"This, in turn, also serves as a robustness
+check for our newly developed methodology of randomized signatures. As future work, it would be interesting to preprocess the data to reﬂect the prior knowledge
+that we have about PD attempts by prescribing a certain kind of pattern as the one described
+in Section 3.5. Hence, our algorithm can be improved by processing the input data to reﬂect the
+prior knowledge. ",q-fin.CP,C,-0.45225054,-0.11070281,-0.2110638
+http://arxiv.org/pdf/2201.02441v2,Applications of Signature Methods to Market Anomaly Detection,"This, in turn, also serves as a robustness
+check for our newly developed methodology of randomized signatures. As future work, it would be interesting to preprocess the data to reﬂect the prior knowledge
+that we have about PD attempts by prescribing a certain kind of pattern as the one described
+in Section 3.5. Hence, our algorithm can be improved by processing the input data to reﬂect the
+prior knowledge. ",q-fin.CP,C,-0.45225054,-0.11070281,-0.2110638
+http://arxiv.org/pdf/2201.05854v2,Stability analysis and condition number of compact scheme for convection-diffusion equations,"Numerical examples have been considered to study the
+sharpness of that proposed upper bound. As a future work, the proposed methodology may
+be investigated for variable coeﬃcient problems, multi-dimensional problems, and for system
+of PDEs etc. References
+
+ [1] F. Black, M. Scholes, Pricing of options and corporate liabilities, The Journal of Political Economy 81
+      (1973) 637–654. ",q-fin.CP,B,0.16204152,-0.05338587,-0.065470584
+http://arxiv.org/pdf/2201.07880v1,Deep self-consistent learning of local volatility,"It is observed that,
+
+                        11
+with ﬁxed size of dataset and increasing λ from 0, the relative error for the calibrated
+volatility ﬁrst decreases then increases, indicative the existence of an optimal λ. The value of
+optimal λ seems to be dependent on the dataset and its determination is out of the scope
+of this paper, hence left for future work. The decreased RMSEs for all λ = 0 support the
+inclusion of the Dupire’s equation for regularizing the parameterized option price. ",q-fin.CP,B,0.023008494,-0.14596239,-0.2881565
+http://arxiv.org/pdf/2202.01027v1,A semi-static replication approach to efficient hedging and pricing of callable IR derivatives,"Illustrative examples focussing on
+convergence, hedging and pricing are provided for a 1-factor and a 2-factor model, which are
+popular amongst practitioners. As a look-out for further research, we consider applying the algorithm to the computation
+of counterparty credit risk-measures and various value-adjustments. These metrics typically
+rely on generating a forward value- and sensitivity-proﬁles of (exotic) derivative portfolios. ",q-fin.CP,A,-0.014846826,0.27504286,0.09238802
+http://arxiv.org/pdf/2202.01423v1,Do new investment strategies take existing strategies' returns -- An investigation into agent-based models,"These        complex. Such models would prevent us from understanding
+criticisms should be investigated using an artiﬁcial market       and discovering mechanisms that affect price formation be-
+model, which are considered future works. cause the number of related factors would increase. ",q-fin.CP,B,0.39130574,-0.12917882,0.040285558
+http://arxiv.org/pdf/2202.13996v1,Risk-Neutral Market Simulation,"In this case,   relevant properties of the historical data. the options trade at implied volatilities of 21.3% and 23.1%
+whereas the realized volatility for the spot is 25.4%, making         We leave it as future work to construct the full risk-neutral
+                                                                   market simulator from which one can sample and expand the
+    4Of course the market does not follow Black-Scholes dynamics,  set of tradable instruments to wider ﬂoating grids of relative
+however it provides a useful and simple framework to understand    strikes and maturities. Another direction of research is the
+the optimal trading action. ",q-fin.CP,B,0.15800083,-0.029079959,-0.33582246
+http://arxiv.org/pdf/2203.08196v1,Optimal Damping with Hierarchical Adaptive Quadrature for Efficient Fourier Pricing of Multi-Asset Options in Lévy Models,"However, we expect such rules to be more complicated and computationally
+expensive (e.g., the evaluation of the gradient of the integrand). Investigating other rules remains
+for future work. R = 1                                                                          R = 1
+                                                                                                                           R = 2
+                                            R = 2                                                         10−1             R = 5
+                                                                                                                           R = 3.07
+      8 RR ==53.07
+
+                                                                                                          10−2
+
+      6
+
+g(u)                                                                           εR 10−3
+
+      4
+                                                                                                              10−4
+
+      2
+                                                                                                              10−5
+
+      0                                                                                                   10−6
+
+           0  1     2     3  u  4     5     6                                                     7                   101
+
+                                                                                                                        N
+
+                       (a) S0 = 100, K = 100, r = 0%, T = 1, σ = 0.4
+
+                                               R = 1                                                                                                        R = 1
+                                                                                                                                                            R = 3
+      20                                       R = 3                                                                                                        R = 4
+                                                                                                                                                         R = 2.29
+                                               R = 4                                                      10−1
+                                                                                                                      101
+                                               R = 2.29
+                                                                                                                        N
+      15
+                                                                                                                10−2
+
+g(u)  10                                                                                                 εR
+
+                                                                                                          10−3
+
+      5
+                                                                                                              10−4
+
+      0
+
+                                                                                                          10−5
+
+           0     1     2     u     3     4                                                        5
+
+      (b) S0 = 100, K = 100, r = 0%, T = 1, σ = 0.4, θ = −0.3, ν = 0.257
+
+      3.0                                                                                                                                                    R = 2
+                                                                                           R = 2                                                             R = 4
+                                                                                                                                                             R = 5
+                                               R = 4                                                      10−1                                             R = 5.8
+
+      2.5                                      R = 5                                                                  101
+
+                                               R = 5.8                                                                  N
+
+      2.0
+
+                                                                                                          10−2
+
+g(u)  1.5                                                                                             εR
+
+      1.0
+                                                                                                                10−3
+
+      0.5
+
+      0.0
+
+                                                                                                          10−4
+
+           0     2     4     u     6     8                                                        10
+
+              (c) S0 = 100, K = 100, r = 0%, T = 1, α = 10, β = −3, δ = 0.2
+
+Figure 3.1: 1D illustration: (Left) Shape of the integrand w.r.t the damping parameter, R. (Right)
+
+ER convergence w.r.t. ",q-fin.CP,A,-0.25712657,0.075142145,-0.3850903
+http://arxiv.org/pdf/2203.08196v2,Optimal Damping with Hierarchical Adaptive Quadrature for Efficient Fourier Pricing of Multi-Asset Options in Lévy Models,"However, we expect such rules to be more complicated and computationally expensive (e.g., the
+evaluation of the gradient of the integrand). Investigating other rules remains for future work. 3.2 Numerical evaluation of the inverse Fourier integrals using hierarchical de-
+       terministic quadrature methods
+
+We aim to approximate (2.5) eﬃciently using a tensorization of quadrature formulas over Rd. ",q-fin.CP,A,-0.26484787,0.038602587,-0.35648394
+http://arxiv.org/pdf/2204.02680v1,Relevance of Wrong-Way Risk in Funding Valuation Adjustments,"As the number of risk-factors is typically already large, adding
+even more risk-factors in the simulation phase is undesired, especially regarding the large
+amount of counterparties a bank may have. This leaves room for our further research, to
+develop eﬃcient calculation methods for WWR in FVA. Acknowledgements
+
+    This work has been ﬁnancially supported by Rabobank. ",q-fin.CP,A_centroid,-0.12921186,0.53513306,0.17392862
+http://arxiv.org/pdf/2204.02680v2,Relevance of Wrong-Way Risk in Funding Valuation Adjustments,"As the number of risk-factors is typically already large, adding
+even more risk-factors in the simulation phase is undesired, especially regarding the large
+amount of counterparties a bank may have. This leaves room for our further research, to
+develop eﬃcient calculation methods for WWR in FVA. 13
+Acknowledgements
+
+    This work has been ﬁnancially supported by Rabobank. ",q-fin.CP,A,-0.122171216,0.5300361,0.16879267
+http://arxiv.org/pdf/2204.02680v3,Relevance of Wrong-Way Risk in Funding Valuation Adjustments,"Yet, portfolio FVA computation and
+
+                                                            13
+trade level attribution should always be possible under these modelling choices. This can be
+challenging, and requires further research. The stochastic funding spread generates WWR, while the credit adjustment eﬀects trans-
+late into RWR (for a receiver swap and ρr,I , ρr,C < 0). ",q-fin.CP,A,-0.012111899,0.46490628,0.26916245
+http://arxiv.org/pdf/2204.02680v4,Relevance of Wrong-Way Risk in Funding Valuation Adjustments,"Yet, portfolio FVA computation and
+
+                                                            13
+trade level attribution should always be possible under these modelling choices. This can be
+challenging, and requires further research. The stochastic funding spread generates WWR, while the credit adjustment eﬀects trans-
+late into RWR (for a receiver swap and ρr,I , ρr,C < 0). ",q-fin.CP,A,-0.012111899,0.46490628,0.26916245
+http://arxiv.org/pdf/2204.05199v1,The short-term effect of COVID-19 pandemic on China's crude oil futures market: A study based on multifractal analysis,"In this study, we mainly focus on the short-term effects
+of COVID-19 on SC. A further study could assess the long-lasting inﬂuence of this pandemic on the major crude oil
+futures markets including SC. Acknowledgements
+
+    This work was supported by the National Natural Science Foundation of China (12005064, 11805119). ",q-fin.CP,B,0.31209084,-0.079310335,-0.057648003
+http://arxiv.org/pdf/2204.13587v1,Supervised machine learning classification for short straddles on the S&P500,"We could open long positions to limit
+losses, or one could react to changing market environments by trading the underlying asset (or futures of it
+for keeping trading costs low), or close the open positions if a certain threshold for losses is reached. These
+adaptations will not be followed in this paper, but should be kept in mind for further research. The strict
+rules for a general form of such Lambda strategies are as follows:
+
+    – We choose a ﬁxed time period of length T (e.g. ",q-fin.CP,B,0.21977171,-0.022471147,0.1999754
+http://arxiv.org/pdf/2205.01639v1,Dynamic and Context-Dependent Stock Price Prediction Using Attention Modules and News Sentiment,"Furthermore, in addition to the more
+accurate predictions that it provided, the advantage of the αt-RIM is that the attention weights and activation pattern of
+the modules can be visualized to further study the behavior of the model. In closing, for further research, we suggest
+investigating the possibility of including DSelect-k [32] for the αt-RIM, which would the model allow to learn to select
+a different number of modules at each time-step. Acknowledgements: The author would like to thank YUKKA Lab, Berlin, for providing the raw data for this research. ",q-fin.CP,A,-0.14372152,-0.05549428,-0.24104568
+http://arxiv.org/pdf/2205.05719v1,"A time-varying study of Chinese investor sentiment, stock market liquidity and volatility: Based on deep learning BERT model and TVP-VAR model","There are some imperfections in this paper that need to be further studied by scholars. For example, future work could try to study the impact of uncertainties such as national
+policies, markets, and unexpected events. More explanatory variables can also be added to the
+model to reduce noise, and long-period samples and smaller samples can be used to further
+experiment with the model and parameters to improve the performance of the model. ",q-fin.CP,B_centroid,0.5268574,-0.2506867,-0.09501592
+http://arxiv.org/pdf/2205.05719v2,"A time-varying study of Chinese investor sentiment, stock market liquidity and volatility: Based on deep learning BERT model and TVP-VAR model","There are some imperfections in this paper that need to be further studied by scholars. For example, future work could try to study the impact of uncertainties such as national
+policies, markets, and unexpected events. More explanatory variables can also be added to the
+model to reduce noise, and long-period samples and smaller samples can be used to further
+experiment with the model and parameters to improve the performance of the model. ",q-fin.CP,B,0.5268574,-0.2506867,-0.09501592
+http://arxiv.org/pdf/2205.07022v1,Volatility-inspired $σ$-LSTM cell,"We will investigate
+target. The power of 2 in this metric prevents neutral-         more advanced loss functions in future work that could
+izing positive and negative deviations, which minimizes         allow faster learning convergence and accuracy. the distance between actual and calculated values. ",q-fin.CP,A,-0.20097327,-0.005270381,-0.28731525
+http://arxiv.org/pdf/2205.09890v1,Replicating Portfolios: Constructing Permissionless Derivatives,"The capital eﬃciency of theta vaults and liquidation-free
+lending on RMM-01 needs careful evaluation. This work lays the foundation for future work
+in permissionless derivative design. Further inquiry into MEV-aware application design,
+mechanism architecture, and transparent structured products is necessary. ",q-fin.CP,A,-0.15674663,0.5186038,0.047903966
+http://arxiv.org/pdf/2205.09890v2,Replicating Portfolios: Constructing Permissionless Derivatives,"The capital eﬃciency of theta vaults and liquidation-free
+lending on RMM-01 needs careful evaluation. This work lays the foundation for future work
+in permissionless derivative design. Further inquiry into MEV-aware application design,
+mechanism architecture, and transparent structured products is necessary. ",q-fin.CP,A,-0.15674663,0.5186038,0.047903966
+http://arxiv.org/pdf/2205.15991v1,Hedging option books using neural-SDE market models,"While there is a vast literature on martingale models for option
+                                           pricing and their associated hedging strategies, this paper explores the capacity of the
+                                           neural-SDE market models for producing eﬀective hedging strategies for portfolios of vanilla
+                                           European options in real markets. Though we also discuss hedge ratios for exotics, such as
+                                           barrier and lookback options, we leave empirical assessment of these for future works. 1
+    A typical option price model describes the dynamics of the underlying price by a stochas-
+tic process. ",q-fin.CP,B,0.0945625,-0.089058235,0.053002924
+http://arxiv.org/pdf/2206.04350v1,Applying separative non-negative matrix factorization to extra-financial data,"Utilities                                                                        0.5
+
+Information Technology                                                                Proportion of sector in cluster
+
+Energy                                                                           0.4
+
+Health Care
+
+Consumer Staples                                                                 0.3
+
+Financials
+
+Real Estate                                                                      0.2
+
+Consumer Discretionary
+
+Industrials                                                                      0.1
+
+Communication Services
+
+Materials                                                                        0.0
+
+                        1  2            3             4  5                   6
+                                        Cluster Number
+
+Figure 10: Incidence matrix between industrial sectors and S2NMF clusters. 13
+6 Conclusion and future work
+
+We have illustrated here the application of NMF to extra-ﬁnancial score data. In contrast to principal
+component analysis, which focuses on risk reduction by creating mutually orthogonal factors, NMF allows
+the information contained in the data to be summarized faithfully using meta-variables, where the original
+variables appear as linear combinations with positive coeﬃcients. ",q-fin.CP,A,-0.034673534,0.09849344,0.026950905
+http://arxiv.org/pdf/2207.01151v1,Modeling Randomly Walking Volatility with Chained Gamma Distributions,"1). The reasons for restricting to this
+form are: 1) this paper can focus the discussion on the core idea, and leave extensions to possible future works; 2) it is
+probably enough for many applications where overﬁtting casued by excessive parameters is undesirable[20]. 2.2 Dynamic Bayesian Network
+
+SV can be naturally represented as DBN. ",q-fin.CP,C,-0.45380723,-0.48480064,0.5023078
+http://arxiv.org/pdf/2207.01151v2,Modeling Randomly Walking Volatility with Chained Gamma Distributions,"1). The reasons for restricting this
+form are: 1) this paper can focus the discussion on the core idea and leave extensions to possible future works; 2) it is
+probably enough for many applications where overﬁtting caused by excessive parameters is undesirable[20]. 2.2 Dynamic Bayesian Network
+
+SV can be naturally represented as DBN. ",q-fin.CP,C_centroid,-0.44428185,-0.48423898,0.5002268
+http://arxiv.org/pdf/2207.01151v3,Modeling Randomly Walking Volatility with Chained Gamma Distributions,"1). The reasons for restricting this
+form are: 1) this paper can focus the discussion on the core idea and leave extensions to possible future works; 2) it is
+probably enough for many applications where overﬁtting caused by excessive parameters is undesirable[20]. 2.2 Dynamic Bayesian Network
+
+SV can be naturally represented as DBN. ",q-fin.CP,C,-0.44428185,-0.48423898,0.5002268
+http://arxiv.org/pdf/2207.02458v1,Reinforcement Learning Portfolio Manager Framework with Monte Carlo Simulation,"Section 2 describes related
+        and financial market characteristics                                work, Section 3 describes motivation, Section 4 describes proposed
+        Actions computed by the model should not change the finan-          method, Section 5 present the experiments, Section 6 describes
+        cial markets, but change the portfolio operated by the agent. conclusion and future work. Investments by institutions or pension funds can bring big
+        changes to the financial market, but individual investments         2 RELATEDWORK
+        cannot bring big changes to the financial market. ",q-fin.CP,B,0.3874936,0.12130853,0.10602039
+http://arxiv.org/pdf/2207.04959v1,Learning Mutual Fund Categorization using Natural Language Processing,"One interesting direction                                 with Bloom embeddings, convolutional neural networks and incremental parsing. of future work would be to combine the NLP based method pre-                                     To appear, 2017.
+sented here with the approach using structured data to improve                             [24] Fabian Pedregosa, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel,
+classification accuracy. Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss,
+                                                                                                 Vincent Dubourg, et al. ",q-fin.CP,C,-0.25070375,-0.17449483,-0.24120054
+http://arxiv.org/pdf/2207.14379v1,Sixth-Order Compact Differencing with Staggered Boundary Schemes and 3(2) Bogacki-Shampine Pairs for Pricing Free-Boundary Options,"This process could further be trained to be adaptive. We hope
+
+to investigate this phenomenon in our future work. Heuristically, a simple computation reveals the
+
+following parameters for 𝐶𝛾𝑖 based on the grid points distribution
+
+𝐶𝛾𝑖 (2, 3,4, 5,6) = 0.77143, 𝐶𝛾𝑖 (2, 4,5, 6,7) = 1.78646, 𝐶𝛾𝑖(2, 4,6, 8,10) = 95.23810. ",q-fin.CP,C,-0.20692916,-0.17410757,-0.34550977
+http://arxiv.org/pdf/2208.00765v1,Solving the optimal stopping problem with reinforcement learning: an application in financial option exercise,"We conduct our
+experiments in Section IV and show the results. Finally, in
+Section V, we present the conclusions and considerations for
+future works. movement. ",q-fin.CP,B,0.09570962,-0.1705908,-0.28973544
+http://arxiv.org/pdf/2208.12614v1,Regime-based Implied Stochastic Volatility Model for Crypto Option Pricing,"How Do Regimes Affect Asset Allocation? be combined, future work could more systematically examine the                    Financial Analysts Journal 60 (2002). https://papers.ssrn.com/abstract=310626
+effect of 𝐾, the number of cluster, and 𝜆, the temporal consistency
+penalty, for maximizing the model fit. ",q-fin.CP,B,0.54719603,-0.12516841,0.19811404
+http://arxiv.org/pdf/2208.12614v2,Regime-based Implied Stochastic Volatility Model for Crypto Option Pricing,"How Do Regimes Affect Asset Allocation? be combined, future work could more systematically examine the                    Financial Analysts Journal 60 (2002). https://papers.ssrn.com/abstract=310626
+effect of 𝐾, the number of cluster, and 𝜆, the temporal consistency
+penalty, for maximizing the model fit. ",q-fin.CP,B,0.54719603,-0.12516841,0.19811404
+http://arxiv.org/pdf/2208.14207v1,Understanding intra-day price formation process by agent-based financial market simulation: calibrating the extended chiarella model,"In this
+circumstance, hundreds of agents can be included in the model and interact with each other through limit order books,
+which is exactly the mechanism existing in real ﬁnancial markets. The last aspects of future work involves extending
+the Chiarella model to multiple stocks. For example, how to simulate the correlation structure across multiple stocks
+and how to create correlated demands for related stocks during simulation. ",q-fin.CP,B,0.21770307,-0.085979566,0.111171186

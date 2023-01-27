@@ -1,0 +1,79 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.03462v1,Towards Grassroots Peering at the Edge,"Aside from
+technical questions, we see a need for research regarding economics and
+incentives for providers to do this, i.e., it is not clear yet if and how ISPs
+will beneﬁt from such peering. In this context, sustainability incentives
+directed towards infrastructure sharing [23] might play important role,
+based on further research on the lifetime environmental impact of edge
+hardware [24]. Implications of Multi-Provider Environments on Existing Re-
+search: As outlined in our introduction, existing research on fog systems
+has so far mostly disregarded the problem of having multiple providers
+oﬀer independent edge infrastructure near the edge. ",cs.OH,C,-0.37806678,0.33048928,-0.24657662
+http://arxiv.org/pdf/2202.13878v1,Proceedings of the XI International Workshop on Locational Analysis and Related Problems,"Therefore, the information
+provided by the new models can be extremely useful to a decision-maker
+because together with the location decision, the models directly seek to
+ﬁnd structures underlying the problem that can be ”upgraded” in such a
+way that a better after-upgrading solution is obtained. Moreover, the re-
+search done in this work indicate different directions for future work in
+the topic. References
+
+[1] Blanco, V., & Marín, A. ",cs.OH,C,-0.26327083,-0.1539999,-0.4204143
+http://arxiv.org/pdf/2203.00491v1,Accuracy of Garmin GPS Running Watches over Repetitive Trials on the Same Route,"From the
+time/position data, the watch can compute relevant parameters such as total time elapsed for the
+workout, distance traveled, pace (per mile or kilometer), etc. At the conclusion of a workout, the
+user has the opportunity to save the workout data to a file stored on the device; this file can later
+be transferred to a computer for further analysis and archival. GPS technology uses a collection of satellites orbiting the earth to triangulate the user’s position
+based on the length of time it takes for signals from each satellite to reach the receiver (in this
+case, the sports watch) [2]. ",cs.OH,B_centroid,0.5616673,-0.18056877,-0.16591415
+http://arxiv.org/pdf/2203.01129v1,Defining a synthetic data generator for realistic electric vehicle charging sessions,"We believe this fits a
+2.2 Mixture Models for Connected Times and                               strong need of researchers in both academic and industrial settings. Energy
+                                                                            As future work, we aim to propose modeling methods for the
+Aside from arrival events, also EV departure events, as well as the      time-varying arrival distribution model parameters. Further, we will
+EV charging load (or total energy charged) need to be modeled. ",cs.OH,A,-0.19048277,-0.4035974,0.41975158
+http://arxiv.org/pdf/2203.08465v1,Building AI Innovation Labs together with Companies,"This framework supports companies in
+coming up with and implementing AI use cases that add real business value instead of them starting to
+invest into infrastructures and tools without a clear purpose. In the remainder of this article, we will first
+describe the framework, then illustrate lessons learned from its practical applications, discuss related
+work, and finally conclude with a brief summary and an outlook on future work. 2 AI Innovation Labs
+
+An AI innovation lab is a framework used for systematically creating, implementing, and evaluating AI
+use cases for a company that have a clear business impact. ",cs.OH,C,-0.11086361,0.52488595,-0.039547138
+http://arxiv.org/pdf/2204.00922v1,Application of Stochastic Optimization Techniques to the Unit Commitment Problem -- A Review,"As two stage models are still the
+microgrid which consists of batteries and wind, photovoltaic       more viable and applied solution to SUC, we suggest that
+and diesel generators [2]. The study shows that the stochastic     the DRO approach is especially worth to do further research
+model can handle different load and generation scenarios well      in, since it improves the already common robust optimization
+[2]. It better models the performance of energy storage systems    through the use of ambiguity sets. ",cs.OH,A_centroid,-0.5274908,-0.3212706,0.376639
+http://arxiv.org/pdf/2204.06826v1,Exhaustive Survey of Rickrolling in Academic Literature,"For
+instance, preliminary inquiry suggests that it is used as fake persona homepages2. And we leave for future work to survey the academic literature on “Dance Dance
+Authentication” 3 . 2 As Github user profile link: https://github.com/search?p=3&q=dQw4w9WgXcQ&type=Users
+3 https://scholar.google.se/scholar?q=%22VgC4b9K-gYU%22
+References
+
+ [1] S. Islam, A. C. Roy, M. S. Arefin, and S. Afroz, “Multi-label
+      emotion classification of tweets using machine learning,” in Proceedings
+      of the International Conference on Big Data, IoT, and Machine Learning. ",cs.OH,C,0.27363622,0.57991046,0.5552859
+http://arxiv.org/pdf/2204.13992v1,A Validation Procedure for the Estimation of Reachable Regions in Football,"Section 4 describes our exemplary model valida-
+tion and optimisation based on a real data set and discusses its results. Section 5
+summarises the contributions of this paper and points out possible directions of
+further research. A Validation Procedure for the Estimation of Reachable Regions in Football  3
+
+2 Motion models in football: state of the art
+
+Assumptions about the trajectorial motion of players are inherent to many per-
+formance indicators within the analysis of sports games. ",cs.OH,B,0.46196985,-0.2693787,-0.08956942
+http://arxiv.org/pdf/2206.00734v1,Measuring Discrimination Abilities of Monk Parakeets Between Discreet and Continuous Quantities Through a Digital Life Enrichment Application,"The web application presents extensive parameters to vary
+the time between each exercise and which game, so that part of the rhythm of the application can be adjusted by the
+experimenter to the CFFF of the subject, but more research is required in order to automatically adapt the rhythm of
+such applications to the CFFF of individuals from a variety of species. 6.3 Perspective on future work
+Some issues with the results presented in this work are not related to any difference with Al Aïn et al. [1]’s experimental
+protocol, but rather with limitations of the current one. ",cs.OH,B,0.57287097,-0.18087654,-0.002578184
+http://arxiv.org/pdf/2208.07928v1,Business Process Simulation with Differentiated Resources: Does it Make a Difference?,"In the current
+implementation, we apply a grid search over narrow parameter ranges to ﬁnd an
+optimal conﬁguration. Another future work direction is to enhance the approach
+with a hyperparameter tuning algorithm to explore large conﬁguration spaces. Business Process Simulation with Diﬀerentiated Resources  17
+
+Reproducibility. ",cs.OH,A,-0.36574072,-0.20992836,-0.124242574
+http://arxiv.org/pdf/2208.12224v1,Repairing Activity Start Times to Improve Business Process Simulation,"formance of the proposed approach degrades when                   Support Syst., 134:113284, 2020.
+there is a high level of multitasking. Addressing this
+shortcoming is another avenue for future work. [6] Manuel Camargo, Marlon Dumas, and Os-
+                                                                  car González Rojas. ",cs.OH,C_centroid,-0.034228727,0.2843345,-0.26283395

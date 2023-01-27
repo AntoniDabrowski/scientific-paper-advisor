@@ -1,0 +1,1269 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00746v1,Coherence of probabilistic constraints on Nash equilibria,"PCE-Coherence may be seen as an addition to this list by
+Theorem 8 in Section 5 if one glimpses it as the problem of deciding whether there are at most
+K + 1 mixed equilibria for which there is an associated vector π that satisﬁes conditions in (3). 7 Conclusions and future work
+
+By means of observable games, we have modeled the scenario of uncertainty about exactly what
+equilibrium is to be reached in a situation that will certainly reach one. To avoid the possible
+hardness of computing and enumerating all equilibria in order to assign probabilities to them,
+the proposed model instead allows the observer to assign probabilities to the possible actions of
+the players involved. ",cs.GT,A,-0.2682744,-0.15666702,0.091130115
+http://arxiv.org/pdf/2201.01163v1,Finding General Equilibria in Many-Agent Economic Simulations Using Deep Reinforcement Learning,"B REPRODUCIBILITY STATEMENT
+
+We discuss speciﬁc training details for all experiments such as hyperparameters in the Appendix. Upon acceptance, all code for this project will be made open source and publicly available for
+reproducibility purposes and further research. Upon request, we will share our code with reviewers
+and area chairs for review. ",cs.GT,B,-0.08675832,0.3213532,0.26676893
+http://arxiv.org/pdf/2201.01450v1,Offsetting Unequal Competition through RL-assisted Incentive Schemes,"Despite there exists recent work on the stability        balancing economic equality and productivity, where the agents
+of mixed-strategy learning algorithms [43] or the conditions          are trained through deep reinforcement learning. The present
+for the convergence to Nash equilibria in continuous action           work adds to the domain at the intersection of mechanism
+spaces [44], we postpone such theoretical exploration to a            design, reinforcement learning and fair machine learning
+future work. by considering competition between unequal teams and build
+                                                                      RL agents for devising dynamic incentives for fair outcomes. ",cs.GT,A,-0.25666347,-0.22340584,0.030688688
+http://arxiv.org/pdf/2201.01810v1,Privacy-Friendly Peer-to-Peer Energy Trading: A Game Theoretical Approach,"Sellers’ sensitive data                  [11] T. Dimitriou and G. Karame, “Privacy-friendly tasking and trading
+is protected from buyers and vice versa. As a future work,                          of energy in smart grids,” in Proceedings of the 28th Annual ACM
+we plan to extend PFET by (i) considering network costs and                         Symposium on Applied Computing, 2013, pp. 652–659. ",cs.GT,C,0.19643575,0.09673554,-0.09517661
+http://arxiv.org/pdf/2201.01810v2,Privacy-Friendly Peer-to-Peer Energy Trading: A Game Theoretical Approach,"Sellers’ sensitive data                  [11] T. Dimitriou and G. Karame, “Privacy-friendly tasking and trading
+is protected from buyers and vice versa. As a future work,                          of energy in smart grids,” in Proceedings of the 28th Annual ACM
+we plan to extend PFET by (i) considering network costs and                         Symposium on Applied Computing, 2013, pp. 652–659. ",cs.GT,C,0.19643575,0.09673554,-0.09517661
+http://arxiv.org/pdf/2201.03398v1,Multiplayer Performative Prediction: Learning in Decision-Dependent Games,"This suggests that modeling performative eﬀects due to competition can be beneﬁcial for
+both players. 8 Discussion
+
+The new class of games in this paper motivates interesting future work at the intersection of statistical learning
+theory and game theory. For instance, it is of interest to extend the present framework to handle more general
+parametric forms of the distributions Di. ",cs.GT,A,-0.33545044,-0.24724449,0.3087693
+http://arxiv.org/pdf/2201.03398v2,Multiplayer Performative Prediction: Learning in Decision-Dependent Games,"This suggests that modeling
+performative eﬀects due to competition can be beneﬁcial for both players. 8 Discussion
+
+The new class of games in this paper motivates interesting future work at the intersection of
+statistical learning theory and game theory. For instance, it is of interest to extend the present
+framework to handle more general parametric forms of the distributions Di. ",cs.GT,A,-0.33545044,-0.24724449,0.3087693
+http://arxiv.org/pdf/2201.04662v1,Beyond Cake Cutting: Allocating Homogeneous Divisible Goods,"On the other hand, their approach allows for more expressive constraint
+
+structures over the feasible allocations of goods to agents. We believe that investigating the degree
+
+to which the two approaches can be combined is an interesting question for future work. 6 Additional Observations and Future Work
+
+In this section, we provide some auxiliary results in our model and suggest several interesting related
+
+open questions. ",cs.GT,C,0.1323686,-0.1067297,-0.19850439
+http://arxiv.org/pdf/2201.05976v1,Cost Sharing for Connectivity with Budget,"From the proof of Theorem 5, we can get v(S ∪ {i}) −
+  v(S) ≥ 0. One interesting future work is to characterize all possible
+                                                                                                                            cost share mechanisms to incentivize them to share their con-
+From the analysis above together, we can know for node i ∈                                                                  nections. Since we have different solutions for the same prob-
+g(θ), φi is non-negative and xi(θ ) = Bi − φi. ",cs.GT,C,0.08448397,0.14322715,-0.3013581
+http://arxiv.org/pdf/2201.06597v1,Adjudication with Rational Jurors,"We considered two classes of jurors
+       fi(λ∗i ) = βi +         1              exp(−αiλ∗) = 1 + δ.                   and gave bounds on the size of the payments to ensure the
+                               2 − βi                     i2                        adjudication has bounded error rate. Not considering the degenerate cases where no such λ∗i exists                          As future work, it would be interesting to instantiate the
+                    1                                λ∗i                            mechanism using a different voting rule such as surprisingly
+(e.g. if  βi  <    2  +  δ),  we  can   solve  for       to  yield:                popular voting by Prelec [2004], as this might enable the
+                                                                                    mechanism to recover the ground truth even if most jurors are
+                       λ∗ = 1 ln 1 − 2βi . ",cs.GT,B,0.0060734665,0.17263976,0.11847046
+http://arxiv.org/pdf/2201.07546v1,Welfare vs. Representation in Participatory Budgeting,"Our results provide a deeper understanding of the trade-oﬀs between welfare and
+representation for voting rules in Participatory Budgeting and can lead to more
+eﬃcient outcomes that will satisfy the citizens. There are several directions that are interesting to explore in future work. First, extending our analysis to consider additional voting rules from the litera-
+ture, and considering more families of rules (e.g. ",cs.GT,C,0.48888052,-0.07964079,0.27033907
+http://arxiv.org/pdf/2201.07546v2,Welfare vs. Representation in Participatory Budgeting,"Our results provide a deeper understanding of the trade-oﬀs between welfare and
+representation for voting rules in Participatory Budgeting and can lead to more
+eﬃcient outcomes that will satisfy the citizens. There are several directions that are interesting to explore in future work. First, extending our analysis to consider additional voting rules from the litera-
+ture, and considering more families of rules (e.g. ",cs.GT,C,0.48888052,-0.07964079,0.27033907
+http://arxiv.org/pdf/2201.07546v3,Welfare vs. Representation in Participatory Budgeting,"Our results provide a deeper understanding of the trade-oﬀs between welfare and
+representation for voting rules in Participatory Budgeting and can lead to more
+eﬃcient outcomes that will satisfy the citizens. There are several directions that are interesting to explore in future work. First, extending our analysis to consider additional voting rules from the litera-
+ture, and considering more families of rules (e.g. ",cs.GT,C,0.48888052,-0.07964079,0.27033907
+http://arxiv.org/pdf/2201.07700v1,Anytime Optimal PSRO for Two-Player Zero-Sum Games,"In Proceedings of the 20th International Conference
+size of these worst-case sequences is still an open question,      on Machine Learning (ICML-03), 536–543. an interesting direction for future work. This issue is a po-
+tential problem for both AODO and DO. ",cs.GT,B,-0.100219205,0.35295135,0.12365929
+http://arxiv.org/pdf/2201.07700v2,Anytime PSRO for Two-Player Zero-Sum Games,"How one could reduce the size of these worst-
+(Lanctot et al., 2019) with 13 cards and simultaneous moves. case sequences is still an open question, and an interesting
+As shown in ﬁgure 6b, APSRO with deep RL best responses         direction for future work. outperforms PSRO and has a slightly smoother exploitability
+curve. ",cs.GT,A,-0.21062446,0.17205566,-0.05053644
+http://arxiv.org/pdf/2201.08616v1,Diffusion Multi-unit Auctions with Diminishing Marginal Utility Buyers,"Designing diffusion             social networks. In Proceedings of the 17th International
+mechanisms without µ but still have social welfare and rev-          Conference on Autonomous Agents and MultiAgent Sys-
+enue improvements is an interesting future work, which re-           tems, AAMAS 2018, pages 68–76, 2018.
+quires reﬁned understanding of potential competitors. More-
+over, LDM fails to be extended to more general combinatorial      [Zhao, 2021] Dengji Zhao. ",cs.GT,C,0.09582843,-0.16398637,-0.075764604
+http://arxiv.org/pdf/2201.08616v2,Diffusion Multi-unit Auctions with Diminishing Marginal Utility Buyers,"Designing diffusion             social networks. In Proceedings of the 17th International
+mechanisms without µ but still have social welfare and rev-          Conference on Autonomous Agents and MultiAgent Sys-
+enue improvements is an interesting future work, which re-           tems, AAMAS 2018, pages 68–76, 2018.
+quires reﬁned understanding of potential competitors. More-
+over, LDM fails to be extended to more general combinatorial      [Zhao, 2021] Dengji Zhao. ",cs.GT,C,0.09582843,-0.16398637,-0.075764604
+http://arxiv.org/pdf/2201.09616v1,Reasoning about Human-Friendly Strategies in Repeated Keyword Auctions,"assigned to agent is bounded, and we have that  ( )≤ . We consider several directions for future work. First, a proba-
+Thus, each strategy can be stored in ( · | |) and, by conse-            bilistic extension of Strategy Logic [9] would allow handling mech-
+                                                                        anisms in stochastic settings with mixed strategies. ",cs.GT,A,-0.22508243,-0.13560969,0.053984787
+http://arxiv.org/pdf/2201.10115v1,The Privacy-Welfare Trade-off: Effects of Differential Privacy on Influence & Welfare in Social Choice,"At a high-level we are the ﬁrst to shed light on the relationship between
+privacy and other important phenomenon of inﬂuence and welfare. Therefore, we hope that this
+bridge we have proposed between the two important ﬁelds of diﬀerential privacy and social choice
+theory is further studied and extended as part of future works. References
+
+ [1] Cynthia Dwork et al. ",cs.GT,C,0.3022625,-0.20779744,-0.0014182152
+http://arxiv.org/pdf/2201.10631v1,The Price of Strategyproofing Peer Assessment,"Third, in contrast to past
+work, our partitions are non-random. Building on our experimental results revealing that these non-random
+partitions still result in subsets with roughly equal submission strengths, future work could dig deeper
+into this phenomenon both theoretically and empirically. Fourth, recent work [37] provides a strategyproof
+algorithm with theoretical guarantees that does not rely on partitioning. ",cs.GT,B,0.16799513,0.21025029,0.10746112
+http://arxiv.org/pdf/2201.10631v2,Strategyproofing Peer Assessment via Partitioning: The Price in Terms of Evaluators' Expertise,"Third, in contrast to past
+work, our partitions are non-random. Building on our experimental results revealing that these non-random
+partitions still result in subsets with roughly equal submission strengths, future work could dig deeper
+into this phenomenon both theoretically and empirically. Fourth, recent work [20] provides a strategyproof
+algorithm with theoretical guarantees that does not rely on partitioning. ",cs.GT,B_centroid,0.16954462,0.2130836,0.108759806
+http://arxiv.org/pdf/2201.10631v3,Strategyproofing Peer Assessment via Partitioning: The Price in Terms of Evaluators' Expertise,"Third, in contrast to past
+work, our partitions are non-random. Building on our experimental results revealing that these non-random
+partitions still result in subsets with roughly equal submission strengths, future work could dig deeper
+into this phenomenon both theoretically and empirically. Fourth, recent work [20] provides a strategyproof
+algorithm with theoretical guarantees that does not rely on partitioning. ",cs.GT,B,0.16954462,0.2130836,0.108759806
+http://arxiv.org/pdf/2201.10992v1,Unpredictability in congestion games: memory loss can prevent chaos,"Results
+on more general classes of dynamics [8, 58] suggest that our result can be generalized to
+larger class of dynamics like (discounted) FTRL dynamics. We also leave the answer to this
+question for the future work. Lastly, Pangallo et al. ",cs.GT,C,-0.11920004,-0.031175053,0.1370245
+http://arxiv.org/pdf/2201.10992v2,Unpredictable dynamics in congestion games: memory loss can prevent chaos,"Results
+on more general classes of dynamics [8, 58] suggest that our result can be generalized to
+larger class of dynamics like (discounted) FTRL dynamics. We also leave the answer to this
+question for the future work. Lastly, Pangallo et al. ",cs.GT,C,-0.11920004,-0.031175053,0.1370245
+http://arxiv.org/pdf/2201.11324v1,Efficient Distributed Learning in Stochastic Non-cooperative Games without Information Exchange,"463–483, 1954.
+to converge in mean square to the Nash equilibrium, which
+is faster than the existing method. In future work, we could    D’Oro, S., Mertikopoulos, P., Moustakas, A. L., and Palazzo,
+investigate a fully decentralized setting where the players’       S. Interference-based pricing for opportunistic multi-
+updates need not be synchronous. carrier cognitive radio systems. ",cs.GT,A,-0.067331776,-0.2550552,-0.12610814
+http://arxiv.org/pdf/2201.11324v2,Efficient Distributed Learning in Stochastic Non-cooperative Games without Information Exchange,"For a class of strictly monotone games, our proposed algorithm is shown to converge in mean square to the
+Nash equilibrium, which is faster than the existing method. In future work, we could investigate a fully
+decentralized setting where the players’ updates need not be synchronous. References
+
+ [1] Tansu Alpcan and Tamer Basar. ",cs.GT,A,-0.18814489,-0.16177694,-0.19102123
+http://arxiv.org/pdf/2201.12489v1,A Context-Integrated Transformer-Based Neural Network for Auction Design,"Therefore, to make a fair comparison, we adopt the
+the model parameters and Lagrange multipliers in turn, i.e.,           learning framework in Du¨tting et al. (2019) for the baselines and
+we alternately ﬁnd wnew ∈ arg minw Lρ(wold, λold) and                  leave the adversarial learning framework extension for future work. update λni ew = λoi ld + ρ · rgti(wnew), ∀i ∈ N . ",cs.GT,B,-0.19420676,0.19145837,0.02240306
+http://arxiv.org/pdf/2201.12489v2,A Context-Integrated Transformer-Based Neural Network for Auction Design,"Therefore, to make a fair comparison, we adopt the
+                                                                       learning framework in Du¨tting et al. (2019) for the baselines and
+       i=1                               i=1                           leave the adversarial learning framework extension for future work. where λ = (λ1, λ2, . ",cs.GT,B,-0.16986683,0.14238662,0.12659413
+http://arxiv.org/pdf/2201.13158v1,FEN-Hedonic Games with Distance-Based Preferences,"An axiomatic and computational
+study indicates that this model is a reasonable completion of compact hedonic game
+representations. For future work, it is interesting to study this model with respect
+to further stability concepts, such as the core. Furthermore, we are interested in a
+comparison to a diﬀerent preference model, e.g., relaxing the constant bound on known
+players. ",cs.GT,A,-0.23892382,-0.23466396,0.026706094
+http://arxiv.org/pdf/2202.00633v1,Efficient Policy Space Response Oracles,"However, EPSRO is limited to han-          Lanctot, M., Zambaldi, V., Gruslys, A., Lazaridou, A.,
+dling the two-player cases because there will be a divergence       Tuyls, K., Pérolat, J., Silver, D., and Graepel, T. A uni-
+in selecting meta-strategies for more players involved. In           ﬁed game-theoretic approach to multiagent reinforcement
+future work, we would like to seek a method to solve this            learning. In Proceedings of the 31st International Con-
+problem and generalize EPSRO to multi-player cases. ",cs.GT,A,-0.37673244,-0.2515372,-0.029102009
+http://arxiv.org/pdf/2202.00633v2,Efficient Policy Space Response Oracles,"However, EPSRO is limited to han-
+dling the two-player cases because there will be a divergence      Lanctot, M., Zambaldi, V., Gruslys, A., Lazaridou, A.,
+in selecting meta-strategies for more players involved. In           Tuyls, K., Pérolat, J., Silver, D., and Graepel, T. A uni-
+future work, we would like to seek a method to solve this             ﬁed game-theoretic approach to multiagent reinforcement
+problem and generalize EPSRO to multi-player cases. learning. ",cs.GT,A,-0.39037278,-0.27776885,-0.046466812
+http://arxiv.org/pdf/2202.00633v3,Efficient Policy Space Response Oracles,"However, EPSRO is limited to handling the two-player cases because there
+will be a divergence in selecting meta-strategies for more players involved. In future work,
+we would like to seek a method to solve this problem and generalize EPSRO to multi-player
+cases. References
+
+H. Aziz. ",cs.GT,A,-0.25181386,-0.19443259,-0.0666628
+http://arxiv.org/pdf/2202.00633v4,Efficient Policy Space Response Oracles,"However, EPSRO is limited to handling the two-player cases because there will be
+a divergence in selecting meta-strategies for more players involved. In future work, we would like to
+seek a method to solve this problem and generalize EPSRO to multi-player cases. References
+
+ [1] Haris Aziz. ",cs.GT,A,-0.25136942,-0.17742133,-0.08008129
+http://arxiv.org/pdf/2202.01716v1,Multivariate Algorithmics for Eliminating Envy by Donating Goods,"Moreover, we discovered several interesting contrasts
+between seemingly closely related parameters and problem variants. For future work, it would be
+possible to change the considered fairness criterion and to consider, for example, proportionality
+or maximin share. Furthermore, instead of or in addition to allowing that some resources are
+
+                                                             28
+donated, one could also analyze reallocating some resources, which seems to be a harder setting
+as many of our intractability results (such as Theorem 5) can be converted to this setting by
+adding some dummy agents to “receive” donated resources. ",cs.GT,C_centroid,0.33108127,-0.20398843,-0.13665436
+http://arxiv.org/pdf/2202.02199v1,ABSNFT: Securitization and Repurchase Scheme for Non-Fungible Tokens Based on Game Theoretical Analysis,"However, when there are multiple
+leaders, the strategies of leaders should reach a Bayesian Nash equilibrium, which
+is much more diﬃcult to calculate. So we regard it as our future work to analyze
+the Bayesian Stackelberg equilibrium of the multi-player repurchase Stackelberg
+game. 6 Discussion
+
+6.1 A Blockchain Solution to Budget Constraints
+
+In the previous settings, we do not consider the budget constraints. ",cs.GT,C,0.035018325,-0.2781,-0.03639984
+http://arxiv.org/pdf/2202.02199v2,ABSNFT: Securitization and Repurchase Scheme for Non-Fungible Tokens Based on Game Theoretical Analysis,"However, when there are multiple
+leaders, the strategies of leaders should reach a Bayesian Nash equilibrium, which
+is much more diﬃcult to calculate. So we regard it as our future work to analyze
+the Bayesian Stackelberg equilibrium of the multi-player repurchase Stackelberg
+game. 16        Hongyin Chen et al. ",cs.GT,A,-0.08458661,-0.3073912,0.08249809
+http://arxiv.org/pdf/2202.02672v1,"(Almost) Envy-Free, Proportional and Efficient Allocations of an Indivisible Mixed Manna","One can also ask whether allocations satisfying more demanding
+
+                                                               19
+fairness notions than PropM exist, both for goods and the more general mixed manna setting. Lastly, the existence of weighted-PropMX allocations for agents with unequal entitlements is an
+interesting direction for future work. References
+
+[1] Martin Aleksandrov and Toby Walsh. ",cs.GT,C,0.24483533,-0.19034106,-0.0588374
+http://arxiv.org/pdf/2202.02872v1,Differentiable Economics for Randomized Affine Maximizer Auctions,"puted in a way that preserves differentiability. Exploring
+the use of learned AMAs in new mechanism design set-          Brero, G., Lahaie, S., and Seuken, S. Fast iterative combi-
+tings is a fruitful direction for future work. natorial auctions via bayesian learning. ",cs.GT,B,-0.07038018,0.064569466,-0.025951497
+http://arxiv.org/pdf/2202.03385v1,Using Multiwinner Voting to Search for Movies,"We show that the greedy algorithm is, on average, superior to simulated annealing for computing
+       our committees (but simulated annealing also has positive features). While our system is a prototype, we believe that its results are promising and deserve further study. Related Work. ",cs.GT,B,0.13626947,0.2927231,0.10780445
+http://arxiv.org/pdf/2202.03385v2,Using Multiwinner Voting to Search for Movies,"We show that the greedy algorithm is, on average, superior to simulated annealing for computing
+       our committees (but simulated annealing also has positive features). While our system is a prototype, we believe that its results are promising and deserve further study. Related Work. ",cs.GT,B,0.13626947,0.2927231,0.10780445
+http://arxiv.org/pdf/2202.03637v1,Boolean Observation Games,"A summary of our results are listed in Table 3. There are many directions for further research. One could imagine a whole and ever
+widening range of qualitative incomplete information games of imperfect information. ",cs.GT,A,-0.12621856,-0.050793126,0.18207769
+http://arxiv.org/pdf/2202.04171v1,Inferring Strategies from Observations in Long Iterated Prisoner's Dilemma Experiments,"The resulting HMM models are both
+simple and transparent, containing enough modeling power to represent subjects’ strategies in the IPD while also being
+generative. The latter is of interest as the inferred strategies could be directly be used within the context of theoretical
+simulations assessing their performance, which is left for future work. Methods
+
+Experimental data collection
+
+As explained in the Introduction, data was collected for two treatments wherein participants played long IPD in two
+different pairwise conﬁgurations, i.e. ",cs.GT,B,-0.24071406,0.029983306,0.38896298
+http://arxiv.org/pdf/2202.05747v1,Incentive Compatible Queues Without Money,"Finally, we have chosen to work with a simpliﬁed system where job times and estimates come
+from a ﬁnite set. There appear to be various technical challenges in generalizing to continuous
+distributions; we leave this as a problem for future work. ACKNOWLEDGMENTS
+
+Isaac Grosof was supported in part by NSF grants CMMI-1938909 and CSR-1763701. ",cs.GT,B,0.056380153,0.10605177,0.20506161
+http://arxiv.org/pdf/2202.06191v3,Incentivizing Participation in Clinical Trials,"Our results focus on “non-adaptive”
+mechanisms, as deﬁned in Section 3 and motivated by practical considerations. Extensions to adaptive mechanisms are left to future work.15 We conjecture that the impossi-
+bility result for homogeneous agents extends to non-adaptive mechanisms; the key technical issue
+is to extend the lower bound on estimators (Lemma 4.14). On the other hand, one might want
+to use an adaptive mechanism to attain the benchmark from Section 6 without knowing anything
+about the type frequencies; whether this is possible is unclear. ",cs.GT,B,-0.041005082,0.09908891,0.052282806
+http://arxiv.org/pdf/2202.06384v1,FairTraDEX: A Decentralised Exchange Preventing Value Extraction,"As such, the indirect costs are substantial, are
+increasing in order-size increases and proportionally to improvements in client trading ability as strategies
+can be replicated/front-run. A thorough comparison of the monetary costs of FairTraDEX vs. AMMs over
+various order-sizes, and trading scenarios makes for interesting future work as FairTraDEX begins to be
+deployed and tested in the wild. It can be seen from the proof of Theorem 4.4 that the client strategies identiﬁed are strong incentive
+compatible in expectation as the MM always shows markets of width less than or equal to fmcf . ",cs.GT,C,0.121182196,-0.16957691,-0.1883972
+http://arxiv.org/pdf/2202.06384v2,FairTraDEX: A Decentralised Exchange Preventing Value Extraction,"As such, the indirect costs are substantial, are increasing in order-
+size increases and proportionally to improvements in client trading ability as
+strategies can be replicated/front-run. A thorough comparison of the monetary
+costs of FairTraDEX vs. AMMs over various order-sizes, and trading scenarios
+makes for interesting future work as FairTraDEX begins to be deployed and
+tested in the wild. It can be seen from the proof of Theorem 1 that the client strategies identiﬁed
+are strong incentive compatible in expectation as the MM always shows markets
+of width less than or equal to fmcf . ",cs.GT,C,0.1188806,-0.17315766,-0.18002664
+http://arxiv.org/pdf/2202.06570v1,Anytime Capacity Expansion in Medical Residency Match by Monte Carlo Tree Search,"We develop a UCT-based search method and verify that it out-
+                                                                 performs the previous approaches. In future work, we would
+                                                                 like to extend it to matchings with constraints that need not
+                                                                 admit stable matching. References                                                    [Kamada and Kojima, 2015] Yuichiro Kamada and Fuhito
+                                                                 Kojima. ",cs.GT,B,-0.02069385,0.25648716,-0.110934705
+http://arxiv.org/pdf/2202.06660v1,Non-Obvious Manipulability for Single-Parameter Agents and Bilateral Trade,"Some cycles are guaranteed to exist in Gβi,f and Gωi,f , regardless of the labellings we choose. We
+can use the existence of such cycles to further study the conditions under which particular social choice
+
+functions are implementable as NOM mechanisms. Consider ﬁrst any labelling β and let tj, tk ∈ Di be
+two types from the domain of player i. ",cs.GT,C,-0.012660375,-0.15733585,-0.042051557
+http://arxiv.org/pdf/2202.07086v1,Price Cycles in Ridesharing Platforms,"It is
+practically relevant to relax these assumptions and analyze the emergence of price cycles in a stochastic
+setting with incomplete information. Other interesting directions for future work include understand-
+ing the trade-o s surrounding other mitigation approaches such as “price caps”, and incorporating
+multi-homing on the part of drivers and riders. More broadly, it is increasingly important to better understand control algorithms that make deci-
+sions based on the actions of the participants, when participants may coordinate on acting strategically. ",cs.GT,C,-0.017948164,-0.15960872,-0.011374906
+http://arxiv.org/pdf/2202.07318v1,An algorithmic solution to the Blotto game using multi-marginal couplings,"i∈[n]         2TA
+
+    The proof of this result is based solely on computations; it is postponed to Section B.4
+    Note that the result of Corollary 7 is tight in the sense that if r → 0 it recovers the result
+of Corollary 6. It is unclear whether the dependence in r is sharp in our result and it is an
+interesting question to address in future work. Under rather general conditions, the above two corollaries show the existence of solutions
+with marginal distributions of the Lotto game derived in [21]. ",cs.GT,C,0.055415522,-0.045510396,0.09693941
+http://arxiv.org/pdf/2202.07318v2,An algorithmic solution to the Blotto game using multi-marginal couplings,"∈[ ]  2
+
+   The proof of this result is based solely on computations; it is postponed to Section B.4
+   Note that the result of Corollary 7 is tight in the sense that if → 0 it recovers the result of
+Corollary 6. It is unclear whether the dependence in is sharp in our result and it is an interesting
+question to address in future work. Under rather general conditions, the above two corollaries show the existence of solutions with
+marginal distributions of the Lotto game derived in [KR21]. ",cs.GT,C,0.07488806,-0.07884838,0.08494283
+http://arxiv.org/pdf/2202.08362v1,MMZDA: Enabling Social Welfare Maximization in Cross-Silo Federated Learning,"2(a) presents the strategy vectors
+and utility vectors based on the example shown in Fig. 1.                                                   x=1
+
+   In the cross-silo FL model, an organization’s current move                    We further study the social welfare maximization problem with
+depends only on its last action and the action vector y in
+the last game round. We can construct a Markov matrix                            the help of the MMZD in this circumstance. ",cs.GT,A,-0.19490829,-0.321382,-0.03332544
+http://arxiv.org/pdf/2202.08362v2,MMZDA: Enabling Social Welfare Maximization in Cross-Silo Federated Learning,"And (9) can be converted to:
+
+                                                                                                           N
+
+                                                                                                                αxEx + α0 = 0. (11)
+
+                                                                                                           x=1
+
+                                                                                We further study the social welfare maximization problem with
+
+                                                                                the help of the MMZD in this circumstance. Take organization
+
+                                                                                1 performing the MMZD strategy as an example. ",cs.GT,C,-9.325519e-05,-0.19502813,-0.17926806
+http://arxiv.org/pdf/2202.09044v1,Social Welfare Maximization in cross-silo Federated Learning,"On the one hand,         coefﬁcient of organization i’s computing chipset, fi denotes the calculation
+the computation cost Cpi = βiKyi, where βi is a positive
+                                                                   processing capacity, Di denotes the number of data units, and Si denotes
+
+                                                                   the number of CPU cycles required by organization i to process one data
+
+parameter, denoting the computation cost of each iteration         unit. In fact, this condition strengthens organizations’ motivation                         We further study the social welfare maximization problem
+to participate in global training in cross-silo FL game. with the help of the MMZD in this circumstance. ",cs.GT,A,-0.09532492,-0.111038886,-0.1298551
+http://arxiv.org/pdf/2202.09044v2,Social Welfare Maximization in Cross-Silo Federated Learning,"On the one hand,         coefﬁcient of organization i’s computing chipset, fi denotes the calculation
+the computation cost Cpi = βiKyi, where βi is a positive
+                                                                   processing capacity, Di denotes the number of data units, and Si denotes
+
+                                                                   the number of CPU cycles required by organization i to process one data
+
+parameter, denoting the computation cost of each iteration         unit. In fact, this condition strengthens organizations’ motivation                         We further study the social welfare maximization problem
+to participate in global training in cross-silo FL game. with the help of the MMZD in this circumstance. ",cs.GT,A,-0.09532492,-0.111038886,-0.1298551
+http://arxiv.org/pdf/2202.09291v1,Bayesian and Randomized Clock Auctions,"Minimizing the number of prices oﬀered to each bidder reduces the burden on them and speeds
+up the auction which may be desirable from an implementation perspective, further motivating a
+deeper analysis of the hierarchy we propose. 8 Conclusions and Future Work
+
+In this paper, we achieve signiﬁcantly improved social welfare approximation guarantees using
+Bayesian and randomized clock auctions; our results suggest many directions for future work. Most
+notably, understanding the best approximation guarantees that can be obtained by deterministic
+Bayesian clock auctions or randomized prior-free clock auctions under various feasibility constraints
+is an open line of research. ",cs.GT,C,0.27058646,-0.039387334,-0.08760463
+http://arxiv.org/pdf/2202.10145v2,Information Revelation Through Signalling,"Under-                           x = x′. standing the implications of the above result more deeply
+is a task for future work. Therefore, if two distinct symbols belong to the set
+                                                                                     D(σ, π), then they must produce distinct signals under the
+   Our study so far has restricted players to play only de-                          strategy π of the sender. ",cs.GT,A,-0.1804956,-0.049996898,0.07777099
+http://arxiv.org/pdf/2202.10382v1,Delegated Pandora's box,"7 Open Questions
+
+In this work, we explored just some of the many possible models and results related to the delegation of the
+Pandora’s box problem. We leave the following open questions for future work. • All of our positive results employ deterministic delegation mechanisms. ",cs.GT,C,0.07294385,-0.041560944,-0.01860546
+http://arxiv.org/pdf/2202.10939v1,Single-Leg Revenue Management with Advice,"Our robustness guarantees allow
+us to bound the performance for distributions centered on the advice, but it would be interesting
+to analyze distributional advice, especially one which is updated in a Bayesian manner across time. Furthermore, we leave extensions of our results to network revenue management for future work. References
+
+Shipra Agrawal, Zizhuo Wang, and Yinyu Ye. ",cs.GT,C,0.13355988,-0.06636221,0.10606396
+http://arxiv.org/pdf/2202.10939v2,Single-Leg Revenue Management with Advice,"Our robustness guarantees allow
+us to bound the performance for distributions centered on the advice, but it would be interesting
+to analyze distributional advice, especially one which is updated in a Bayesian manner across time. Furthermore, we leave extensions of our results to network revenue management problems with
+multiple resources and variable resource consumption for future work. References
+
+Shipra Agrawal, Zizhuo Wang, and Yinyu Ye. ",cs.GT,C,0.15122962,-0.09121722,0.054441478
+http://arxiv.org/pdf/2202.10946v1,Locally EFX Allocations Over a Graph,"It is not unlikely that
+there is a simple modiﬁcation of our algorithm that relaxes any of these constraints, which would
+be a signiﬁcant breakthrough in the major open problem of determining whether EFX allocations
+exist on four agents. Our techniques and results provide a very promising direction for future work on EFX allocations. Our empirical results show that G-EFX allocations are likely to exist for several more general classes
+of graphs like paths Pn. ",cs.GT,B,0.04557671,0.23014662,-0.2546302
+http://arxiv.org/pdf/2202.10947v1,Provably convergent quasistatic dynamics for mean-field two-player zero-sum games,"With both
+the generator and discriminator being large neural networks, training mixture of GANs with many
+generators and discriminators imposes formidable computational cost. Developing more efﬁcient
+particle methods for GANs is an important future work. REFERENCES
+
+Dyego Arau´jo, Roberto I Oliveira, and Daniel Yukimura. ",cs.GT,B,-0.067854926,0.30435216,0.15979351
+http://arxiv.org/pdf/2202.11061v1,"In This Apportionment Lottery, the House Always Wins","Less satisfying is that these “divisor criteria” do not satisfy any bounds such as
+
+  ≤ ( ) ≤ + 1, which makes it likely that solutions substantially deviate from proportionality
+            Paul Gölz, Dominik Peters, and Ariel D. Procaccia                                   9
+
+ex post. An interesting question for future work is whether Theorem 2 can be strengthened to
+additionally satisfy lower quota (“ ( ì, ℎ) ≥ ⌊ ⌋”) or upper quota (“ ( ì, ℎ) ≤ ⌈ ⌉”). 4 HOUSE MONOTONICITY
+
+While we cannot obtain population monotonicity without giving up on quota, we now propose an
+apportionment method that combines house monotonicity with quota and ex ante proportionality. ",cs.GT,C,0.36393705,0.10696694,-0.058868926
+http://arxiv.org/pdf/2202.11095v1,The Dichotomous Affiliate Stable Matching Problem: Approval-Based Matching with Applicant-Employer Relations,"Additionally, we must ensure
+                                                                               it was not previously matched to e . 1In future work, this could be generalized to coalitions, or larger
+sets of agents. 6. e is a ’s new match. ",cs.GT,B,-0.07163704,0.048525978,0.011525969
+http://arxiv.org/pdf/2202.11554v1,Deterministic n-person shortest path and terminal games on symmetric digraphs have Nash equilibria in pure stationary strategies,"Since identifying the set of positions from which the set of terminals is not
+reachable is a computationally easy task, and since those positions have no
+inﬂuence on the existence of a UNE, we can assume w.l.o.g. that we preprocess
+the input game, and delete all such positions, before any further analysis. Lemma 5 Assume that Γ = (G, L) is a symmetric terminal game, satisfying
+
+conditions (1) and σ is a situation such that for one of the players, i ∈ I,
+strategy σi is a uniform best response to σ−i. ",cs.GT,A,-0.28960282,-0.10197356,-0.06852273
+http://arxiv.org/pdf/2202.11871v1,No-Regret Learning in Games is Turing Complete,"(2021) in order to emulate the iconic Lorenz strange attractor. In future work,
+instead of using continuous learning dynamics as a proxy, directly simulating Turing machines
+with discrete dynamics may provide powerful tools for learning in games. Research on Turing
+machine simulations using physical systems has a rich history and encompasses far more than
+what is discussed in this paper. ",cs.GT,A,-0.3408937,0.0075938506,0.32969296
+http://arxiv.org/pdf/2202.12173v1,The Impact of Selfish Behavior in Load Balancing Games,"The ﬁrst is to understand
+whether better performance are possible for approximate one-round walks
+in weighted symmetric load balancing games (we conjecture this is not the
+case), while the second is to give upper bounds on the performance of one-
+round walks in weighted and unweighted load balancing games with identical
+resources. Relatively to further research directions, we believe that the modus-
+operandi considered in this work can be eﬃciently used to ﬁnd tight lower
+bounds in several variants of congestion games or scheduling games, and with
+respect to diﬀerent solution concepts. For instance, after the appearance of the
+conference version of this work, similar ideas have been eﬃciently reused in
+[11, 21, 47, 15, 10, 6, 14] to derive tight lower bounds on the eﬃciency of some
+variants of congestion games and load balancing games. ",cs.GT,A,-0.07137607,0.010995496,-0.16245799
+http://arxiv.org/pdf/2202.12844v1,Individual Fairness in Feature-Based Pricing for Monopoly Markets,"It is worth noting that the algorithm
+
+                                                                         10
+            Individual Fairness in Feature-Based Pricing for Monopoly Markets
+
+does not require a complete distribution function; peaks of revenue distributions are sufﬁcient statistics for computing
+optimal fair feature-based pricing. We leave the problem of ﬁnding an optimal segmentation (optimal value of K and corresponding K-partition of the
+market) as interesting future work. We assumed a monopoly market. ",cs.GT,C,0.25935057,0.01010365,-0.09202441
+http://arxiv.org/pdf/2202.13520v1,Anti-Malware Sandbox Games,"For example, commercially distributed
+                                                                         AM may not be aware of the exact distribution of real machines
+                                                                         where it may be deployed, and therefore be forced to commit to a
+                                                                         naïve strategy. While our results already identify some natural and
+                                                                         easy to compute AM-optimal solutions, fully exploring the impact
+                                                                         of different constraints of information and computational resources
+                                                                         on AM and M, and how to compute effective strategies for AM are
+                                                                         an interesting question for future work. REFERENCES                                                                                [12] Min Gyung Kang, Heng Yin, Steve Hanna, Stephen McCamant, and Dawn Song. ",cs.GT,B,-0.07878685,0.16333935,-0.11376085
+http://arxiv.org/pdf/2203.00544v1,Discovering Opportunities in New York City's Discovery Program: an Analysis of Affirmative Action Mechanisms,"However, other factors may come into play, such as the social stigma
+attached to being admitted via reserved seats14. This leads to two interesting directions for future work. As a ﬁrst step, we believe it would be
+beneﬁcial to explicitly collect students’ expanded preference. ",cs.GT,C,0.32736242,-0.099649444,0.1953317
+http://arxiv.org/pdf/2203.00872v1,Centralized Fairness for Redistricting,"We note that ReCom is a Markov Chain Monte Carlo (MCMC)
+sampling method and hence the generated samples are not actually iid. While this means that
+Condition (3.1) does not hold, we believe that our theorems still have utility and that future work
+
+can address more realistic sampling conditions. We follow the works of [15, 16] for calculating statistics using the ReCom algorithm. ",cs.GT,B,0.03115946,0.3108678,0.37981525
+http://arxiv.org/pdf/2203.00872v2,Centralized Fairness for Redistricting,"We note that ReCom is a Markov
+Chain Monte Carlo (MCMC) sampling method and hence the generated samples are not actually iid. While this means that Condition (3.1) does not hold, we believe that our theorems still have utility
+and that future work can address more realistic sampling conditions. Moreover, we always exclude
+
+    4Note that for PA the number of districts has been reduced by one to 17 districts after the 2020 census. ",cs.GT,B,0.1776975,0.20903331,0.50535345
+http://arxiv.org/pdf/2203.00872v3,Centralized Fairness for Redistricting,"We note that ReCom is a Markov
+Chain Monte Carlo (MCMC) sampling method and hence the generated samples are not actually iid. While this means that Condition (3.1) does not hold, we believe that our theorems still have utility
+and that future work can address more realistic sampling conditions. Moreover, we always exclude
+
+    4Note that for PA the number of districts has been reduced by one to 17 districts after the 2020 census. ",cs.GT,B,0.1776975,0.20903331,0.50535345
+http://arxiv.org/pdf/2203.01213v1,Truthful Online Scheduling of Cloud Workloads under Uncertainty,"Making this perspective
+rigorous runs into a subtle three-way distinction between agents’ beliefs, the engine’s predictions,
+and the true distributions; we leave this to future work. Another natural direction for future work is to extend the analysis to richer workload models. For example, elastic distributed workloads that may be executed at various concurrency settings,
+executing faster when utilizing more nodes and slower when running on fewer. ",cs.GT,B,-0.009458529,-0.055014916,0.010240059
+http://arxiv.org/pdf/2203.01285v1,Stackelberg-Pareto Synthesis (Extended Version),"These
+complexity results are summarized in Table 1. In future work, we want to ﬁnd the exact complexity class of the SPS problem for co-Büchi objectives. We also want
+to study quantitative objectives such as mean-payoﬀ in the framework of SP games and the SPS problem. ",cs.GT,A,-0.20059368,0.04935066,-0.07050306
+http://arxiv.org/pdf/2203.01477v1,A Matching Mechanism for Provision of Housing to the Marginalized,"In particular, we are seeking a collaboration with LA county to make this
+matching mechanism a part of future project Roomkey and Homekey eﬀorts. The unique structure that we presented in section 5 will also be a subject of
+future work as we look to understand it’s mathematical implication and where
+14  J Ceasar Aguma
+
+else we see it in the modern socio-economic societies. One quick example as
+mentioned earlier is the Food and donations industry. ",cs.GT,C,0.28469402,-0.048681065,-0.005767946
+http://arxiv.org/pdf/2203.03751v1,Class Fairness in Online Matching,"How about using a class-level matching algorithm
+that is oblivious to the randomness in the agent-level matching? Although such algorithms must
+violate non-wastefulness in general, we ﬁnd an algorithm that isn’t blatantly wasteful and looks
+interesting enough to be a stepping stone towards stronger algorithms in future works. 30
+    We call this algorithm EQUAL-RANKING. ",cs.GT,B,0.09209253,0.102103725,0.024750536
+http://arxiv.org/pdf/2203.03885v1,Incentivizing Data Contribution in Cross-Silo Federated Learning,"It
+                                                                                                                        7000                              would be important to characterize the impact of the non-i.i.d. 8000                                                                                                                    6000                              data on the free-rider issue in future work. Average data contribution                                                                                               5000
+                                                                                          Individual data contribution70004000                               Optimal mechanism design As a ﬁrst step, we studied three
+                                                                                                                        3000                              widely adopted proﬁt allocation mechanisms and compared
+6000                                                                                                                    2000                              their performance in incentivizing clients’ data contribution. ",cs.GT,C,0.33842322,-0.04461316,-0.14796293
+http://arxiv.org/pdf/2203.03885v2,Incentivizing Data Contribution in Cross-Silo Federated Learning,"The server can also announce this information to the clients
+[26]. We leave the case where sn is unknown to future work. 3
+A. ",cs.GT,B,0.0799375,0.118987635,0.026171621
+http://arxiv.org/pdf/2203.03969v1,A Dynamic Hierarchical Framework for IoT-assisted Metaverse Synchronization,"As for the experi-       also investigated. The extension to interoperability among
+ment setting, we consider VSPs 1 to 3 from the previous        VSPs will be considered in future work. experiment and allow VSP 3 to be the leader. ",cs.GT,C,0.031110113,0.08963622,-0.071870044
+http://arxiv.org/pdf/2203.05219v1,Organisations (de-)centralised to a greater or lesser degree for allocating cities in two Multiple Travelling Salesmen Problems,"13
+    This article addresses two versions of MTSP. In future work
+we would like to explore the impact of the level of (de-)central-
+isation in a third variant of MTSP. We are interested in models
+for food delivery, to check if centralisation is more eﬃcient in
+terms of kilometres travelled by delivery bikers, than a decen-
+tralised mobile application. ",cs.GT,C,0.08800433,-0.051227685,0.061359286
+http://arxiv.org/pdf/2203.05838v1,Staking Pools on Blockchains,"Our insights can help to design reward distribution
+rules that improve the blockchain security and fairness of reward distribution. This
+study might open many further research avenues on how staking pools can be designed
+optimally for blockchains. For instance, one might introduce quantity constraints such
+as a leverage constraint on staking pools which limits the share of delegators towards the
+pool owner. ",cs.GT,C,0.22855765,-0.19654354,-0.31699568
+http://arxiv.org/pdf/2203.05838v2,Staking Pools on Blockchains,"Our insights can help to design reward distribution
+rules that improve the blockchain security and fairness of reward distribution. This
+study might open many further research avenues on how staking pools can be designed
+optimally for blockchains. For instance, one might introduce quantity constraints such
+as a leverage constraint on staking pools which limits the share of delegators towards the
+
+                                                         26
+pool owner. ",cs.GT,C,0.23715958,-0.18750513,-0.31388465
+http://arxiv.org/pdf/2203.05838v3,Staking Pools on Blockchains,"Our insights can help to design reward distribution rules that
+improve the blockchain security and fairness of reward distribution. This study might open
+many further research avenues on how staking pools can be designed optimally for blockchains. For instance, one might introduce quantity constraints such as a leverage constraint on staking
+pools which limits the share of delegators towards the pool owner. ",cs.GT,C,0.22855765,-0.19654354,-0.31699568
+http://arxiv.org/pdf/2203.05838v4,Staking Pools on Blockchains,"Our insights can help to design reward distribution
+rules that improve the blockchain security and fairness of reward distribution. This
+study might open many further research avenues on how staking pools can be designed
+optimally for blockchains. For instance, one might introduce quantity constraints such
+as a leverage constraint on staking pools which limits the share of delegators towards the
+pool owner. ",cs.GT,C,0.22855765,-0.19654354,-0.31699568
+http://arxiv.org/pdf/2203.07796v1,Multi-Unit Diffusion Auctions with Intermediaries,"In addition, a marketplace often gathers substantial
+                                                    j              amounts of sellers and buyers with various supplies and de-
+                                                                   mands, designing efﬁcient markets to incentivize information
+C(Tj∗) = (i,i+1)∈T ∗ wii+1 denote the associated path cost. spreading, and to arrange the transactions globally is also an
+                                                    j              important future work. We can prove the following for all Tj∗ in AG∗(θ ). ",cs.GT,C,0.119796954,-0.084121004,-0.29038882
+http://arxiv.org/pdf/2203.09725v2,Forward-Looking Dynamic Persuasion for Pipeline Stochastic Bayesian Game: A Fixed-Point Alignment Principle,"1371–1379. Designing algorithms that converges to the local admissibility will
+be our future work. [19] J. ",cs.GT,B,-0.025467938,0.37092286,-0.07472752
+http://arxiv.org/pdf/2203.11421v1,Mobility Equity from a Game-Theoretic Perspective,"In          company’s bike in a generic city (one traveler per bike). future work, we plan to introduce a probabilistic model and
+consider private budgets. Deﬁnition 5. ",cs.GT,C,0.1966728,-0.045367174,0.12271586
+http://arxiv.org/pdf/2203.12001v1,Mitigating Moral Hazard in Cyber Insurance Using Risk Preference Design,"The probability of (ξ1, ξ2, ξ3) is (0.3, 0.4, 0.3) under   to their structural complexity. For future work, we would
+xL and (0.5, 0.3, 0.2) under xH . Note that this indicates that
+when the security investment increases, there is a lower              investigate representations of risk measures to simplify the
+likelihood for more severe losses to occur. ",cs.GT,B,0.027226437,-0.00938402,0.13374066
+http://arxiv.org/pdf/2203.12486v1,An Algorithmic Introduction to Savings Circles,"In Section 4, we further conduct experiments to
+study the impact of nonlinear utility on swap rosca welfare. We give directions for future work in Section 5. 3 Auction Roscas
+
+Auctions are a common mechanism for allocating pots in
+roscas (Ardener 1964; Bouman 1995a; Klonner 2003a). ",cs.GT,C,0.2167658,-0.079879925,-0.20922774
+http://arxiv.org/pdf/2203.15037v1,Online Algorithms for Matching Platforms with Multi-Channel Traffic,"Also, platforms with external
+traﬃc may have objectives beyond maximizing the number of matches (e.g., platforms such as
+DonorsChoose may aim to maximize the number of donation campaigns that reach a certain
+threshold). Studying the platform design in such settings is an interesting direction for future work. Manshadi et al. ",cs.GT,C,0.18612547,-0.17952475,-0.04857447
+http://arxiv.org/pdf/2203.15780v1,Adaptive Learning with Artificial Barriers Yielding Nash Equilibria in General Games,"Another example of a security game is the           binary. As a future work, we would like to extend our scheme
+jammer and transmitter game [35] where a jammer is try-              to Stackelberg games which are often employed in security
+ing to guess the communication channel of the transmitter            and that assume that the defender deploys a mixed strategy
+to interfere and block the communication. The transmitter            that can be fully observed by the attacker who will optimally
+chooses probabilistically a channel to transmit over and the         reply to it. ",cs.GT,A,-0.2940478,-0.32161957,0.058482945
+http://arxiv.org/pdf/2203.15780v2,Adaptive Learning with Artificial Barriers Yielding Nash Equilibria in General Games,"Another example of a security game is the           binary. As a future work, we would like to extend our scheme
+jammer and transmitter game [35] where a jammer is try-              to Stackelberg games which are often employed in security
+ing to guess the communication channel of the transmitter            and that assume that the defender deploys a mixed strategy
+to interfere and block the communication. The transmitter            that can be fully observed by the attacker who will optimally
+chooses probabilistically a channel to transmit over and the         reply to it. ",cs.GT,A,-0.2940478,-0.32161957,0.058482945
+http://arxiv.org/pdf/2203.16176v1,Enabling Trade-offs in Machine Learning-based Matching for Refugee Resettlement,"Helping families form beliefs over where they are most likely to thrive should have a positive impact on
+resettlement outcomes. Therefore, future work should explore how families can extend incomplete preference
+orders. For example, a system which asks refugees to rank properties of cantons could derive preference orders
+for them (see Delacr´etaz et al. ",cs.GT,C,0.3040463,-0.14633438,0.099474534
+http://arxiv.org/pdf/2203.16223v1,Hypergraphon Mean Field Games,"in economics49 or engineering
+strictive, similar to Cui and Koeppl 56, Theorem 5, we may                           applications50. In Appendix B, we perform additional experi-
+discretize and partition I in order to solve hypergraphon mean                       ments for an epidemics control scenario where existing algo-
+ﬁeld games to an arbitrary degree of exactness, preserving the                       rithms fail, pointing out potential future work. good approximation properties on large hypergraph games. ",cs.GT,A_centroid,-0.14740421,0.049123716,-0.08349897
+http://arxiv.org/pdf/2203.16223v2,Hypergraphon Mean Field Games,"in economics49 or engineering
+strictive, similar to Cui and Koeppl 56, Theorem 5, we may                           applications50. In Appendix B, we perform additional experi-
+discretize and partition I in order to solve hypergraphon mean                       ments for an epidemics control scenario where existing algo-
+ﬁeld games to an arbitrary degree of exactness, preserving the                       rithms fail, pointing out potential future work. good approximation properties on large hypergraph games. ",cs.GT,A,-0.14740421,0.049123716,-0.08349897
+http://arxiv.org/pdf/2203.16223v3,Hypergraphon Mean Field Games,"This α together with an agent’s original state
+in X will constitute the new state. In Appendix B, we perform                                                                 Wˆ unif(α) = 1 − max(α1, α2, α3)
+additional experiments for another numerical problem of epi-
+demics control, where existing algorithms fail, pointing out                                              and its inverted version
+potential future work. Wˆ inv−unif(α) = 1 − max(1 − α1, 1 − α2, 1 − α3)
+
+                                                                                                          resulting from a similar construction as in the standard case. ",cs.GT,B,-0.23287407,0.16455865,-0.09469966
+http://arxiv.org/pdf/2203.17041v2,On the Population Monotonicity of Independent Set Games,"However, population monotonicity allows non-pendant edges not to be incident to
+pendant edges provided that both endpoints of every such non-pendant edge have distance at most
+two to pendant vertices. One possible direction for future work is to characterize the PMASes of other combinatorial
+optimization games such as ﬂow games and linear production games. Besides, related concepts of
+PMASes, such as link monotonic allocation schemes [16] and monotonic core allocation paths [1]
+are also worth studying. ",cs.GT,C,-0.026643988,0.052173223,-0.21195364
+http://arxiv.org/pdf/2204.00464v2,Differential Liquidity Provision in Uniswap v3 and Implications for Contract Design,"Remarkably, this assumption of an exogeneous price dynamic
+makes the problem facing a single LP that of a (single-agent) decision-theoretic problem rather
+than a game-theoretic problem. We leave to future work a more sophisticated model of trade ﬂow
+with resulting price sequences that also depend on liquidity within a Uniswap contract. In Section 5 we apply this model of LP behavior to the design question of how v3 contracts
+should partition the price space in aﬀording diﬀerent liquidity allocations by LPs. ",cs.GT,C,0.051116012,-0.24979404,-0.14074422
+http://arxiv.org/pdf/2204.01773v1,"Contracts with Information Acquisition, via Scoring Rules","5.1 A linear program
+
+While we do not give a closed-form or simply-structured solution, here we give a polynomial time algorithm
+to solve Program (P4). We hope that future work can identify more useful structure in the solution. The key idea is that a piecewise linear G suﬃces to solve (P4). ",cs.GT,B,-0.118243426,0.29335234,-0.27469662
+http://arxiv.org/pdf/2204.01773v2,"Contracts with Information Acquisition, via Scoring Rules","5.1 A linear program
+
+While we do not give a closed-form or simply-structured solution, here we give a polynomial time algorithm
+to solve Program (P4). We hope that future work can identify more useful structure in the solution. The key idea is that a piecewise linear G suﬃces to solve (P4). ",cs.GT,B,-0.118243426,0.29335234,-0.27469662
+http://arxiv.org/pdf/2204.03589v1,"Collecting, Classifying, Analyzing, and Using Real-World Elections","To the best
+of our knowledge, this is the ﬁrst work that systematically compares elections from numerous
+diﬀerent sources. For future work, it would be interesting to analyze the relationship of the collected elections
+to elections drawn from various statistical cultures. Moreover, also performing our experiments
+on such synthetic elections could be useful to get a better understanding of their properties. ",cs.GT,B,0.26545805,0.051681347,0.5804883
+http://arxiv.org/pdf/2204.03589v2,"Collecting, Classifying, Analyzing, and Using Real-World Elections","To the best
+of our knowledge, this is the ﬁrst work that systematically compares elections from numerous
+diﬀerent sources. For future work, it would be interesting to analyze the relationship of the collected elections
+to elections drawn from various statistical cultures. Moreover, also performing our experiments
+on such synthetic elections could be useful to get a better understanding of their properties. ",cs.GT,B,0.26545805,0.051681347,0.5804883
+http://arxiv.org/pdf/2204.04186v1,The Complexity of Infinite-Horizon General-Sum Stochastic Games,"As one example, it yields a particularly
+simple existence proof of stationary NE in SimSG compared to past literature [Fin64, Tak64]. We
+hope these results facilitate the further study of inﬁnite-horizon stochastic games. Paper Organization: We cover notation and fundamental deﬁnitions in Section 2, an overview
+of our results and techniques in Section 3, and related work in Section 4. ",cs.GT,A,-0.32306385,-0.046739712,0.014745217
+http://arxiv.org/pdf/2204.04186v2,The Complexity of Infinite-Horizon General-Sum Stochastic Games,"As one example, it yields a particularly
+simple existence proof of stationary NE in SimSG compared to past literature [Fin64, Tak64]. We
+hope these results facilitate the further study of inﬁnite-horizon stochastic games. 3
+Paper Organization: We cover notation and fundamental deﬁnitions in Section 2, an overview
+of our results and techniques in Section 3, and related work in Section 4. ",cs.GT,A,-0.3274173,-0.04398056,0.015836755
+http://arxiv.org/pdf/2204.04826v1,Equilibrium Finding in Normal-Form Games Via Greedy Regret Minimization,"In practice, greedy weights
+converges even faster than this toy example because regret matching because general-sum games tend to have better than random
+samples for the next possible move as players learn to cooperate. While further work must be done to explain the convergence of games that are neither purely cooperative nor purely adversarial,
+we suspect that further study in this direction may lead to a long sought understanding of why regret matching performs so well
+in practice, even though its asymptotic bound is substantially worse than other methods. 2There are some subtle differences in that the adversary in Theorem 1 is more powerful than an opponent in a two-player zero-sum game in
+that she is able to pick any regret vector for each timestep without the constraints of picking from the game matrix. ",cs.GT,A,-0.23628627,-0.026475122,-0.07711539
+http://arxiv.org/pdf/2204.04930v1,A Unified Perspective on Deep Equilibrium Finding,"One of the key differences of PSRO       2017; Muller et al., 2020) is used to generate the target pol-
+                                                                 icy during the optimization. We will investigate this idea
+A Uniﬁed Perspective on Deep Equilibrium Finding
+
+and other efﬁcient optimization methods in future works. values, and the BV. ",cs.GT,B,-0.22524709,0.12744565,-0.115253165
+http://arxiv.org/pdf/2204.07223v1,On Scheduling Mechanisms Beyond the Worst Case,"Fourth, when we shift
+from social cost minimization to makespan minimization, the same questions remain and are probably more challenging. We
+leave these challenging questions for future work. References
+
+[Abramowitz et al., 1988] Milton Abramowitz, Irene A Stegun, and Robert H Romer. ",cs.GT,C,0.2788203,-0.08662266,-0.062677026
+http://arxiv.org/pdf/2204.07223v2,On Scheduling Mechanisms Beyond the Worst Case,"Fourth, when we shift
+from social cost minimization to makespan minimization, the same questions remain and are probably more challenging. We
+leave these challenging questions for future work. References
+
+[Abramowitz et al., 1988] Milton Abramowitz, Irene A Stegun, and Robert H Romer. ",cs.GT,C,0.2788203,-0.08662266,-0.062677026
+http://arxiv.org/pdf/2204.07971v1,On strong avoiding games,"Note that Red cannot ever claim any edge adjacent to the cover-edge. For further analysis we need to verify the following claim. 9
+Claim 3.1. ",cs.GT,B,0.05592077,0.36356932,0.004289938
+http://arxiv.org/pdf/2204.07971v2,On strong avoiding games,Note that Red cannot ever claim any edge adjacent to the cover-edge. For further analysis we need to verify the following claim. Claim 3.1. ,cs.GT,B,0.06046649,0.36472997,0.0023877062
+http://arxiv.org/pdf/2204.07971v3,On strong avoiding games,Note that Red cannot ever claim any edge adjacent to the cover-edge. For further analysis we need to verify the following claim. Claim 3.1. ,cs.GT,B,0.06046649,0.36472997,0.0023877062
+http://arxiv.org/pdf/2204.10040v2,Adapting Stable Matchings to Forced and Forbidden Pairs,"To the best of our knowledge, the idea of minimally changing a given matching to incorporate
+external requirements has not been studied in previous works. Thus, extending our studies of
+forced and forbidden pairs for stable matchings to other incremental requirements such as
+group fairness or diversity constraints or other matching problems such as popular matching is
+an interesting direction for future work. References
+
+ [1] Sayan Bhattacharya, Martin Hoefer, Chien-Chung Huang, Telikepalli Kavitha, and Lisa
+      Wagner. ",cs.GT,C,0.20777002,0.03279823,-0.12316014
+http://arxiv.org/pdf/2204.10423v1,Social Distancing Network Creation,"This demonstrates that the impact of
+    the agents’ selﬁshness is higher under social distancing, which calls for external coordination. The most obvious open question for future work is to settle the equilibrium existence. Do pairwise stable states exist for all connected host networks H and α? ",cs.GT,A,-0.12356244,-0.24393931,-0.02130624
+http://arxiv.org/pdf/2204.10423v2,Social Distancing Network Creation,"This demonstrates that the impact of
+    the agents’ selﬁshness is higher under social distancing, which calls for external coordination. The most obvious open question for future work is to settle the equilibrium existence. Do pairwise stable states exist for all connected host networks H and α? ",cs.GT,A,-0.12356244,-0.24393931,-0.02130624
+http://arxiv.org/pdf/2204.11950v1,Strategic Signaling for Utility Control in Audit Games,"Then, we can analyze the
+their respective utilities in the stationary state are:           features of ua. Firstly, the value range of ua is [0, ra − sa];
+                                                                  secondly, in (5), p1 and p4 are variables that are unilaterally
+                ua = v · UA = D(p, q, UA) ,                       controlled by the defender, so we need to further study the
+                    v·1     D(p, q, 1)                            extent of their inﬂuences on ua. By this means, we can reveal
+                                                                  that which variable is more effective to safeguard the system
+                ud = v · UD = D(p, q, UD) . ",cs.GT,A,-0.23377368,-0.08206102,0.024637066
+http://arxiv.org/pdf/2204.11980v1,Decentralisation Conscious Players And System Reliability,"Using simulations we have also considered how players
+may reach an equilibrium, including after disruptions. There is a variety of pos-
+sibilities for future work and opportunities to apply our model to speciﬁc cases. This includes cases with valuations of the system which are hard to precisely
+deﬁne e.g., ideological commitment, as well as cases with very explicit valua-
+tions and dependencies on rewards but complex ﬁnancial optimisation such as
+cryptocurrencies. ",cs.GT,A,-0.11562267,-0.43638787,-0.031412102
+http://arxiv.org/pdf/2204.12158v1,Mixed Strategies for Security Games with General Defending Requirements,"By per-
+forming extensive experiments on 6 real-world datasets, we
+demonstrate the effectiveness and efﬁciency of the Patching
+algorithm by showing that even with very small support sizes,
+the mixed strategy returned is able to achieve defending results
+that are close-to-optimal. Regarding future work, we believe
+that it would be most interesting to derive tighter lower bounds
+for the optimal defending results in the resource sharing model. In addition, studying mixed strategies against contagious at-
+tacks [Bai et al., 2021] and imperfect attackers [Zhang et al.,
+2021] are also interesting directions. ",cs.GT,B,-0.09169048,0.007968361,-0.053399272
+http://arxiv.org/pdf/2204.12436v1,Incentives in Social Decision Schemes with Pairwise Comparison Preferences,"Let R, R′ ∈ RN be two preference proﬁles for some
+electorate N ∈ F (N), i ∈ N be a voter, and a, b, c ∈ A          alternatives are always ranked below these alternatives and
+be three distinct alternatives such that R−i = R−′ i and a ≻i
+b ≻i c. Furthermore, consider a PC -strategyproof SDS f and      therefore Pareto-dominated. Hence, PC -efﬁciency entails for
+
+                                                                 all subsequent proﬁles that f (R, x) = 0 for all x ∈ A \
+
+                                                                 {a, b, c, d}, which means that these alternatives do not affect
+
+                                                                 our further analysis. In slight abuse of notation, we therefore
+
+                                                                 assume that A = {a, b, c, d}. ",cs.GT,C,0.14205426,0.009873265,0.06594875
+http://arxiv.org/pdf/2204.12588v1,Bandwidth Allocation Games,"Bandwidth Allocation Games  19
+
+phenomenon with a simplistic model for presentation purposes, we hope our work inspires more
+research on fairly allocating limited resources to heterogeneous users. As future work, we plan to study a hybrid model where file downloads and streaming are considered
+together. We aim to obtain real-world data where we can look into the operators’ market shares and
+thresholds in detail. ",cs.GT,C,0.06138698,-0.15215206,-0.034139458
+http://arxiv.org/pdf/2204.13019v1,Fair and Efficient Allocation with Quotas,"Finally, the under-speciﬁcation of our algorithm’s parameters provided an opportunity
+to secondarily enforce notions of fairness. Determining other secondary objectives to which this
+framework is amenable is an interesting direction for future work. For example, the ability to
+incorporate notions of utility — both on the part of the categories and the agents — could relax
+our assumption on indifference of allocation and provide a more realistic setting for settings with
+economic incentives. ",cs.GT,C,0.285265,-0.2170228,-0.14873299
+http://arxiv.org/pdf/2204.13424v1,Interpretable collective intelligence of non-rational human agents,"Using stochastic simulation, we now demonstrate that our model can reproduce
+
+real data with reasonable accuracy. Again, more detailed analysis may be a subject
+
+of further research. We consider the table data12 preloaded into CI.RData, which
+contains the trading history for a certain soccer event. ",cs.GT,B,-0.07749017,-0.0097542275,0.45745477
+http://arxiv.org/pdf/2204.13424v2,Interpretable collective intelligence of non-rational human agents,"Using stochastic simulation, we now demonstrate that our model can reproduce
+
+real data with reasonable accuracy. Again, more detailed analysis may be a subject
+
+of further research. We consider the table data12 preloaded into CI.RData, which
+
+contains the trading history for a certain soccer event. ",cs.GT,B,-0.07749017,-0.0097542275,0.45745477
+http://arxiv.org/pdf/2204.14173v1,Evolutionary Approach to Security Games with Signaling,"In Proceedings of the 7th ACM conference on Elec-
+well-suited for ﬁeld computing requirements, EASGS takes            tronic commerce, pages 82–90, 2006.
+us a step closer towards deploying real-world applications on
+a larger scale to protect valuable natural resources and bio-    [de Cote et al., 2013] Enrique de Cote, Ruben Stranders,
+diversity. As future work, we plan to test how well EASGS           Nicola Basilico, Nicola Gatti, and Nick Jennings. Intro-
+performs in the ﬁeld by integrating it with more advanced           ducing alarms in adversarial patrolling games. ",cs.GT,B,-0.09989444,0.032765687,0.01437849
+http://arxiv.org/pdf/2205.00291v1,Learning Mixed Strategies in Trajectory Games,"These initial results are extremely encouraging, and         Shimon Whiteson, Pieter Abbeel, and Igor Mordatch. future work should investigate online learning and adaptation            Learning with opponent-learning awareness. arXiv
+in noncooperative settings more extensively. ",cs.GT,A,-0.35896754,-0.052541204,0.23868337
+http://arxiv.org/pdf/2205.00291v2,Learning Mixed Strategies in Trajectory Games,"The path solver:
+strategies. These initial results are extremely encouraging, and         a nommonotone stabilization scheme for mixed comple-
+future work should investigate online learning and adaptation            mentarity problems. Optimization methods and software,
+in noncooperative settings more extensively. ",cs.GT,A,-0.28323826,0.102721244,-0.046256714
+http://arxiv.org/pdf/2205.00442v1,On Binary Networked Public Goods Game with Altruism,"Another research direction is to improve the
+approximation algorithms of [24] for ANM with asymmetric altruism for trees and graphs
+with bounded degree. Another interesting future work is to look at other graphical games by
+considering altruism. References
+
+ 1 Piotr Berman, Marek Karpinski, and A Scott. ",cs.GT,A,-0.1943277,0.13348937,-0.14742592
+http://arxiv.org/pdf/2205.00588v1,Tightness without Counterexamples: A New Approach and New Results for Prophet Inequalities,"3.3. Oblivious vs. Non-oblivious Static Thresholds in Non-IID Setting
+We further study the performances of oblivious static threshold policies versus general non-oblivious
+static threshold policies in the non-IID setting. We ﬁrst show that there exists an instance G such
+that ST performs better than OST, with respect to both the Ex-Ante benchmark and the prophet. ",cs.GT,B,0.014443874,0.30492592,-0.11585613
+http://arxiv.org/pdf/2205.00825v1,Online Learning in Fisher Markets with Unknown Agent Preferences,"We then introduce our privacy-preserving algorithm and bounds on its regret and constraint
+violation in Section 4 and evaluate its eﬃcacy through numerical experiments in Section 5. Finally, we
+conclude the paper and provide directions for future work in Section 6. 2 Literature Review
+
+Online resource allocation problems have been widely studied in the operations research and computer science
+communities, having found applications in domains including online advertising [19] and revenue manage-
+ment [20]. ",cs.GT,C,0.22654784,0.13942975,-0.20319861
+http://arxiv.org/pdf/2205.00825v2,Online Learning in Fisher Markets: Static Pricing Limits and Adaptive Enhancements,"Next, we introduce
+our revealed preference algorithm and bounds on its regret and constraint violation in Section 5 and evaluate
+its eﬃcacy through numerical experiments in Section 6. Finally, we conclude the paper and provide directions
+for future work in Section 7. In the appendix, we provide proofs omitted from the main text and discuss additional numerical results
+to further demonstrate the eﬃcacy of the algorithms developed in this work. ",cs.GT,C,0.15699358,0.18281254,-0.17627561
+http://arxiv.org/pdf/2205.00877v1,A Polynomial-time Decentralised Algorithm for Coordinated Management of Multiple Intersections,"We could address      ering autonomous vehicles: A systematic literature review. this by looking into envy-free algorithm in future work. IEEE Access, 7:91946–91965, 2019. ",cs.GT,B,-0.041701183,0.1341401,-0.025293268
+http://arxiv.org/pdf/2205.00881v1,Let's Agree to Agree: Targeting Consensus for Incomplete Preferences through Majority Dynamics,"In cases where consensus
+is not achieved, how far is the resulting proﬁle from being consensual? These and other questions are left for
+future work. 13
+Acknowledgements
+
+Zoi Terzopoulou is a fellow of the Paris Region Fellowship Programme, supported by the Paris Region. ",cs.GT,C,0.13736902,-0.008734928,0.13705733
+http://arxiv.org/pdf/2205.01365v1,Half-Positional Objectives Recognized by Deterministic Büchi Automata,"By Theorem 39, this
+
+implies that W is half-positional. ◀
+
+ 6 Conclusion and future work
+
+We have provided a characterization of half-positionality for DBA-recognizable objectives. While half-positionality of ω-regular objectives is still not completely understood, this is a
+novel step in this direction. ",cs.GT,B,-0.07024129,0.17491429,-0.069132276
+http://arxiv.org/pdf/2205.01365v2,Half-Positional Objectives Recognized by Deterministic Büchi Automata,"By Theorem 39, this
+
+    implies that W is half-positional. ◀
+
+     6 Conclusion and future work
+
+    We have provided a characterization of half-positionality for DBA-recognizable objectives. While half-positionality of ω-regular objectives is still not completely understood, this is a
+    novel step in this direction. ",cs.GT,B,-0.07024129,0.17491429,-0.069132276
+http://arxiv.org/pdf/2205.01469v1,On the Convergence of Fictitious Play: A Decomposition Approach,"· · · = GiK,jK , then BRU converges. As for the future work, the ﬁrst one is to have more analysis
+   Back to the Shapley game, on cycle C2, Gi1,j1 = · · · =        on FP dynamics using game decomposition techniques. We
+Gi3,j3 = min Gij . ",cs.GT,A,-0.31591573,0.068068534,-0.011009736
+http://arxiv.org/pdf/2205.02060v1,Estimation of Standard Auction Models,"Unlike the ﬁrst-price-auction setting, our main result in this
+setting involves estimating the bid distributions under the full-support regime where we aim to
+obtain distributions approximating Fi up to small error in Kolmogorov distance. As in the ﬁrst-
+price-setting, this incurs an exponential dependence on k. We leave the problem of estimation in
+the effective-support regime as an open problem for future work. (We do show in Subsection 3.4
+that if the econometrician can insert bids of their own, then even just the identity of the winner
+and an indicator of whether the reserve price was paid sufﬁce to estimate bid distributions over
+the effective support [Theorem 3.21], using a very simple algorithm.) ",cs.GT,B,0.15113391,0.061514277,0.0144264065
+http://arxiv.org/pdf/2205.04309v2,Characterizing Positionality in Games of Infinite Duration over Infinite Graphs,"), and characterizing positionality for ω-regular objectives. Another direction
+    which we leave to future work is to extend the technology of well-monotone graphs to the
+    case of ﬁnite-memory strategies; presently, no characterization result is known for objectives
+    (or valuations) which are ﬁnite-memory determined for Eve over inﬁnite graphs. References
+
+      1 Benjamin Bordais, Patricia Bouyer, and Stéphane Le Roux. ",cs.GT,A,-0.16274315,0.05552997,-0.15387908
+http://arxiv.org/pdf/2205.05482v1,Who won? Winner Determination and Robustness in Liquid Democracy,"However, this might not be the case for future problems
+to be studied. There are multiple possible directions for future work emanating from our work. First, there also exist diﬀerent models of liquid democracy where the type of questions
+studied in this paper are relevant. ",cs.GT,C,0.2169316,-0.2934704,0.21306014
+http://arxiv.org/pdf/2205.05482v2,Who won? Winner Determination and Robustness in Liquid Democracy,"However, this might not be the case for future problems
+to be studied. There are multiple possible directions for future work emanating from our work. First, there also exist diﬀerent models of liquid democracy where the type of questions
+studied in this paper are relevant. ",cs.GT,C,0.2169316,-0.2934704,0.21306014
+http://arxiv.org/pdf/2205.05482v3,Who won? Winner Determination and Robustness in Liquid Democracy,"However, this might not be the case for future problems to be studied. There are
+multiple possible directions for future work emanating from our work. First, there also exist diﬀerent models of liquid democracy where the type of questions
+studied in this paper are relevant. ",cs.GT,C,0.2169316,-0.2934704,0.21306014
+http://arxiv.org/pdf/2205.07546v1,Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games,"in assuming a fully observable setting, i.e., where decisions       Since an SPNE is therefore an NE of every subgame of the
+are made based on the full state of the NS-CSG, not just the        original game, the agents’ behaviour from any point in the
+parts of it revealed by the agents’ observation functions. An       game onward forms an NE of the continuation game, re-
+extension to partial observability is left for future work. gardless of what happened before. ",cs.GT,A,-0.33788878,-0.114377156,0.11496185
+http://arxiv.org/pdf/2205.07546v2,Finite-horizon Equilibria for Neuro-symbolic Concurrent Stochastic Games,"functions. An extension to partial observability (i.e., where       Since an SPNE is therefore an NE of every subgame of the
+the NS-CSG represents a continuous-state partially observ-          original game, the agents’ behaviour from any point in the
+able stochastic game) is left for future work. game onward forms an NE of the continuation game, re-
+                                                                    gardless of what happened before. ",cs.GT,A,-0.33944795,-0.08737904,0.07986887
+http://arxiv.org/pdf/2205.07550v1,Stable Matching with Multilayer Approval Preferences: Approvals can be Harder than Strict Preferences,"Regarding section 6, one may also consider diﬀerent similarity measures, e. g. (isomorphism-
+based) similarity of the approval graphs of the diﬀerent layers. Lastly, studying multilayer preferences in situations where agents shall be partitioned into
+groups of size larger than two (also known as hedonic games [5, 28]) is a promising direction for
+future work. Acknowledgments
+
+MB was supported by the DFG project MaMu (NI 369/19). ",cs.GT,A,-0.030878542,-0.042060856,0.016311277
+http://arxiv.org/pdf/2205.09008v1,Distributional Robustness: From Pricing to Auctions,"(He goes on to show that under additional uncertainty about the
+bidders’ information, second price is robustly optimal among a subclass of mechanisms he terms
+“competitive”.) An interesting direction for future work is to limit the correlation that nature can introduce
+among bidders, and study the optimal mechanism robust against limited correlation (rather than
+against extreme coordination of the bidders as above, which is arguably less realistic). References
+
+Amine Allouah, Achraf Bahamou, and Omar Besbes. ",cs.GT,C,0.14251962,-0.21344808,-0.15467164
+http://arxiv.org/pdf/2205.09008v2,Distributional Robustness: From Pricing to Auctions,"(He goes on to show that under additional uncertainty about the
+bidders’ information, second price is robustly optimal among a subclass of mechanisms he terms
+“competitive”.) An interesting direction for future work is to limit the correlation that nature can introduce
+among bidders, and study the optimal mechanism robust against limited correlation (rather than
+against extreme coordination of the bidders as above, which is arguably less realistic). References
+
+Amine Allouah, Achraf Bahamou, and Omar Besbes. ",cs.GT,C,0.14251962,-0.21344808,-0.15467164
+http://arxiv.org/pdf/2205.09092v1,Preference Restrictions in Computational Social Choice: A Survey,"Similarly, we
+can delete leaves (vertices of degree 1) from T . An interesting direction for future work is to consider the domain of proﬁles that are single-
+peaked on a tree, and, moreover, remain single-peaked on some tree, no matter which (and how
+many) alternatives we delete. 3.6 Preferences Single-Peaked on a Circle
+
+In the previous section, we explored the consequences of extending the notion of single-peaked
+preferences from paths to trees. ",cs.GT,C,0.12683585,0.09207981,-0.13795123
+http://arxiv.org/pdf/2205.10942v1,Lotteries for Shared Experiences,", | |}, and non-increasing thereafter. One exciting direction for future work is to adapt these mechanisms to settings with heteroge-
+neous goods. For example, while the daily lottery for Half Dome allocates homogeneous permits
+using the Individual Lottery, the pre-season lottery allocates 225 permits for each day. ",cs.GT,C,0.19670287,-0.12450664,-0.039283536
+http://arxiv.org/pdf/2205.11313v1,Mechanism Design with Predictions,"7 Conclusion
+
+This paper initiates the systematic study of mechanism design with predictions, and develops a set of techniques that
+can be applied to a large number of classic mechanism design settings. There leave quite a lot of possibilities for
+future work. For example, on truthful job scheduling, whether such a trade-off between consistency and robustness is
+optimal (under Nisan-Ronen conjecture) is a very interesting open problem. ",cs.GT,B,0.040045604,0.108546905,-0.052887112
+http://arxiv.org/pdf/2205.11389v1,Fictitious Play in Markov Games with Single Controller,"The results have thus further justiﬁed (Markov stationary) NE in MGs as an
+outcome of myopic non-equilibrium adaptation. We believe our results have opened up fruitful
+research directions for future work. • Fictitious-play-property for other classes of MGs. ",cs.GT,A,-0.19813761,-0.17515755,0.17329529
+http://arxiv.org/pdf/2205.12324v1,Linearly representable games and pseudo-polynomial calculation of the Shapley value,"It is absolutely not
+clear how to compute a linear representation with weights less than exponential or how to decide if
+such representation exists. This can be a question for further research. For now, the method we
+propose in the next section is only meaningful for games that are linearly representable with “small
+enough” weights. ",cs.GT,B,-0.18321061,0.14247581,-0.05894679
+http://arxiv.org/pdf/2205.12559v1,Envy-Free Cake Cutting with Graph Constraints,"One immediate
+research direction is to ﬁnd a locally envy-free protocol for the case when six or more agents lie on a
+LINE graph. Another interesting direction for future work is to develop upper and lower bounds for
+the query complexity of ﬁnding locally envy-free allocations for graph structures such as cycles. Our approach designates a single agent as the cutter. ",cs.GT,C,0.07660701,0.07001819,-0.25261998
+http://arxiv.org/pdf/2205.13039v1,On Infinite Separations Between Simple and Optimal Mechanisms,"Interestingly, ongoing work by [1] uses the framework developed in this
+paper in order to prove approximation results for so-called ﬁne-grained buy-
+many mechanisms, a class of mechanisms which interpolates between buy-
+one and the recently introduced buy-many mechanisms [13, 14]. In general,
+our techniques make it possible for future work to explore the gap between
+various simple versus optimal benchmarks without having to reason directly
+about the underlying mechanisms. References
+
+ [1] Sepehr Assadi and Ariel Schvartzman. ",cs.GT,C,0.122030705,0.04960943,-0.2885561
+http://arxiv.org/pdf/2205.14312v1,Fine-Grained Buy-Many Mechanisms Are Not Much Better Than Bundling,"Moreover, all our results hold for the case of an
+adaptive buyer. There are numerous questions for future work. Firstly, it would be inter-
+esting to understand whether or not Lemma 18 is tight. ",cs.GT,C,0.16117862,0.014279425,-0.065762505
+http://arxiv.org/pdf/2205.14312v2,Fine-Grained Buy-Many Mechanisms Are Not Much Better Than Bundling,"Moreover, all our results hold for the case of an adaptive buyer. There are numerous questions for future work:
+
+    • We have already outlined one interesting question for future work, to prove or disprove Con-
+       jecture C. Even a slight weakening of the conjecture, just showing that for every k there exists
+       some Dk such that BuykRev(Dk) > Buyk+1Rev(Dk) would be interesting. We discuss our
+       candidate instance for Conjecture 1 in Appendix C.
+
+                                       20
+    • We showed that restricting the seller to be buy-n incentive compatible suﬃced to obtain a
+       O(2n · n2)-approximation via bundling. ",cs.GT,C,0.16586411,-0.057000645,-0.14764091
+http://arxiv.org/pdf/2205.14838v1,Fair and Fast Tie-Breaking for Voting,"We also characterized
+the semi-random likelihood of violation of fairness after applying an MFP breaking to commonly-
+studied voting rules with D = A. There are many directions for future work. One interesting
+question is how to deal with other types of preference structures, for example k-committee, k-list,
+or approval preferences. ",cs.GT,C,0.31812924,0.0009434195,0.11128746
+http://arxiv.org/pdf/2205.15760v1,Optimized Distortion and Proportional Fairness in Voting,"Beyond our setting, there is signiﬁcant literature on studying distortion with respect to the utilitarian
+welfare for ballot formats other than ranked preferences [Benade et al., 2021, Mandal et al., 2019, 2020,
+Amanatidis et al., 2021, Borodin et al., 2022]. A natural direction for future work is to study proportional
+fairness and distortion with respect to other welfare functions for such ballot formats. One can also extend
+these ideas from single-winner selection to committee selection, where the output of a voting rule is a
+(randomized) subset of alternatives of a given size, and participatory budgeting, where each alternative
+has a cost and the output is a (randomized) subset of alternatives with total cost at most a given budget. ",cs.GT,C,0.38749325,-0.06455779,0.22082984
+http://arxiv.org/pdf/2205.15760v2,Optimized Distortion and Proportional Fairness in Voting,"Beyond our setting, there is signiﬁcant literature on studying distortion with respect to the utilitarian
+welfare for ballot formats other than ranked preferences [Benade et al., 2021, Mandal et al., 2019, 2020,
+Amanatidis et al., 2021, Borodin et al., 2022]. A natural direction for future work is to study proportional
+fairness and distortion with respect to other welfare functions for such ballot formats. One can also extend
+these ideas from single-winner selection to committee selection, where the output of a voting rule is a
+(randomized) subset of alternatives of a given size, and participatory budgeting, where each alternative
+has a cost and the output is a (randomized) subset of alternatives with total cost at most a given budget. ",cs.GT,C,0.38749325,-0.06455779,0.22082984
+http://arxiv.org/pdf/2206.02948v1,Simple Mechanisms for Welfare Maximization in Rich Advertising Auctions,"They analyze VCG and GSP variants for
+a special version of the rich ad problem where ads can be of only one of two possible sizes. They leave the
+problem addressed in this paper as an open problem for future work. Much of the literature focuses on GSP-like rules (e.g., because the cost of switching from existing GSP
+to VCG can be high [35]). ",cs.GT,C,0.15247975,0.07065892,-0.16643369
+http://arxiv.org/pdf/2206.02993v1,"False Consensus, Information Theory, and Prediction Markets","Thus, our techniques cannot be straightforwardly
+adjusted to reprove Theorem 3.5 or Proposition 4.5 in this manner. So while this generalizes our
+framework, ﬁnding a good application remains future work. We hope that our framework can analyze additional settings of agents aggregating informa-
+tion. ",cs.GT,B,0.0052535776,0.15840487,0.046023868
+http://arxiv.org/pdf/2206.02993v2,"False Consensus, Information Theory, and Prediction Markets","Thus, our techniques cannot be straightforwardly adjusted to reprove Theo-
+rem 3.8 or Proposition 4.5 in this manner. So while this generalizes our framework, ﬁnding a good
+application remains future work. We hope that our framework can analyze additional settings of agents aggregating information. ",cs.GT,B,-0.0013681238,0.11100505,0.07900526
+http://arxiv.org/pdf/2206.03348v1,Specification-Guided Learning of Nash Equilibria with High Social Welfare,"Such a joint policy is not among the set of policies consid-
+ered; therefore, our approach learns a solution in which only two cars achieve
+their goals. We believe that such limitations can be overcome in future work by
+modifying the various components within our enumerate-and-verify framework. Acknowledgements. ",cs.GT,C,-0.006512342,0.009758465,-0.014924943
+http://arxiv.org/pdf/2206.03857v1,Non-decreasing Payment Rules for Combinatorial Auctions,"We leave a more detailed exploration of the space of
+that two other core-selecting rules are non-decreasing as well. non-decreasing core-selecting payment rules for future work. The ﬁrst one is the proportional rule, where the payments are
+on the core boundary and proportional to the winning bids. ",cs.GT,C,0.19234985,-0.1118371,-0.088758215
+http://arxiv.org/pdf/2206.03922v1,Learning in games from a stochastic approximation viewpoint,"We leave the inclusion of
+even more general frameworks – such as algorithms with adaptive step-sizes, learning with
+asyncrhonous and/or delayed feedback, etc. – to future work. Acknowledgments
+
+   Part of this work was done while the ﬁrst author was visiting the Simons Institute for
+the Theory of Computing. ",cs.GT,B,-0.2733012,0.35211125,0.002868943
+http://arxiv.org/pdf/2206.04122v1,ESCHER: Eschewing Importance Sampling in Games by Computing a History Value Function to Estimate Regret,"Robust reinforcement learning (Pinto et al., 2017), seeks to train
+an RL policy to be robust against an adversarial environment. In future work we will look to apply
+ESCHER to this setting. Markov games (or stochastic games) are extensive-form games where the world state information is
+shared among all players at each timestep, but players take simultaneous actions. ",cs.GT,A,-0.43987435,-0.14491877,0.18394521
+http://arxiv.org/pdf/2206.04122v2,ESCHER: Eschewing Importance Sampling in Games by Computing a History Value Function to Estimate Regret,"As a result, we cannot expect these algorithms to learn a strong strategy on dark chess,
+but it is still a fair comparison. In future work we plan on doing more engineering to include more
+information to the networks. 11 CODE
+
+We will include a GitHub link to our open source code under the MIT license in the deanonymized
+version of this work. ",cs.GT,A,-0.2954769,0.059602663,0.017025528
+http://arxiv.org/pdf/2206.04160v1,Alternating Mirror Descent for Constrained Min-Max Games,"On the other hand, a key property
+of the energy function that we have in our context, namely convexity, has not been utilized by
+these tools. Therefore, we leave as a future work the task of quantifying with concrete bounds the
+performance of the symplectic Euler method. Here we simply conjecture that for suﬃciently nice
+and convex energy functions, the iterates of the alternating method with small enough step size stay
+uniformly bounded, as in the unconstrained setting. ",cs.GT,B,-0.111765385,0.40340534,-0.020930002
+http://arxiv.org/pdf/2206.05885v1,Auction-Promoted Trading for Multiple Federated Learning Services in UAV-Aided Networks,"Although FOGA achieves slightly larger revenue than
+the running time of the proposed Opt algorithm is about 102 to                                                     the Subopt algorithm under the cost of longer running time,
+                                                                                                                   it fails to guarantee the properties of truthfulness, individual
+   7More complicated service costs can be replaced by considering speciﬁc                                          rationality, and computational efﬁciency. Revisit the above-
+scenario or communication protocols as future work. IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY, VOL. ",cs.GT,C,0.10916868,0.1570582,-0.19448432
+http://arxiv.org/pdf/2206.06015v1,No-Regret Learning in Games with Noisy Feedback: Faster Rates and Adaptivity via Learning Rate Separation,"We also mention here that our paper focuses on the unconstrained setting, as this simpliﬁes
+considerably the presentation and treatment of multiplicative noise models. We defer the constrained case
+(where players must project their actions to a convex subset of Rd), to future work. 2 Problem Setup
+
+Throughout this paper, we focus on deriving optimal regret minimization guarantees for multi-agent game-
+
+theoretic settings with noisy feedback. ",cs.GT,A,-0.18411775,-0.08259389,-0.07826548
+http://arxiv.org/pdf/2206.07520v1,Principal Trade-off Analysis,"Here it is clear that the complexity predicted by PTA overstates the complexity of the underlying game,
+since subsequent disc games are best interpreted as corrections that gradually ﬁnesse the ﬁrst disc game, not distinct
+trade-offs. More general proof and exploration is saved for future work. C Disc Games
+
+C.1 Geometry
+
+Principal trade-off analysis is a useful visualization technique since disc games encode performance relations via
+embedding geometry. ",cs.GT,A,-0.30289775,0.05290811,0.0006690759
+http://arxiv.org/pdf/2206.07520v2,Principal Trade-off Analysis,"Here it is clear that the complexity predicted by PTA overstates the complexity of the underlying game,
+since subsequent disc games are best interpreted as corrections that gradually ﬁnesse the ﬁrst disc game, not distinct
+trade-offs. More general proof and exploration is saved for future work. C Disc Games
+
+C.1 Geometry
+
+Principal trade-off analysis is a useful visualization technique since disc games encode performance relations via
+embedding geometry. ",cs.GT,A,-0.30289775,0.05290811,0.0006690759
+http://arxiv.org/pdf/2206.09161v1,"A Marriage between Adversarial Team Games and 2-player Games: Enabling Abstractions, No-regret Learning, and Subgame Solving","Developing efﬁcient
+subgame-solving techniques for the TPI game is an inter-        Algorithms. We test our representations with state-of-the-
+esting line of research and is left as future work. art no-regret algorithms for 2p0s games as Counter Fac-
+                                                                tual Regret plus (CFR+) (Tammelin, 2014) and Outcome
+5. ",cs.GT,A,-0.3358958,-0.001729019,-0.052005082
+http://arxiv.org/pdf/2206.09495v1,The Power of Regularization in Solving Extensive-Form Games,"Furthermore,
+we have shown empirically that for CFR and CFR+, solving the regularized problem can achieve
+better last-iterate performance, further demonstrating the power of regularization in solving EFGs. We leave it for future work to study its explicit convergence rate. References
+
+James P. Bailey and Georgios Piliouras. ",cs.GT,B,-0.18055826,0.42825216,-0.082694165
+http://arxiv.org/pdf/2206.10614v1,On the Impossibility of Learning to Cooperate with Adaptive Partner Strategies in Repeated Games,"Rational Adaptation                                           best-response to any set of strategies Alice could plausibly
+                                                                 follow. We leave as a goal for future work the develop-
+Our results highlight the fundamental limitation of ap-          ment of learning algorithms with regret guarantees under
+proaching multi-agent learning as a non-stationary, single-      the assumption that Bob’s strategy is hierarchically or com-
+agent learning problem. Even when we can assume that             putationally rational. ",cs.GT,A,-0.3434206,-0.13876408,0.045185786
+http://arxiv.org/pdf/2206.10614v2,On the Impossibility of Learning to Cooperate with Adaptive Partner Strategies in Repeated Games,"Rational Adaptation                                           best-response to any set of strategies Alice could plausibly
+                                                                 follow. We leave as a goal for future work the develop-
+Our results highlight the fundamental limitation of ap-          ment of learning algorithms with regret guarantees under
+proaching multi-agent learning as a non-stationary, single-      the assumption that Bob’s strategy is hierarchically or com-
+agent learning problem. Even when we can assume that             putationally rational. ",cs.GT,A,-0.3434206,-0.13876408,0.045185786
+http://arxiv.org/pdf/2206.10660v1,Welfare-Maximizing Pooled Testing,"In this regard, the efﬁcient algorithms we have pro-
+vided for computing approximately optimal non-overlapping testing regimes are of key importance
+going forward. There are many directions for future work. On a theoretical level, there is a gap between our
+upper bound of 4 and lower bound of 7/6 on the gain of overlaps. ",cs.GT,B,-0.03505612,0.3520363,-0.06520274
+http://arxiv.org/pdf/2206.13081v1,Differentially Private Condorcet Voting,"For future work, we plan to explore more axioms for randomized voting rules
+and design new voting rules performing better on satisfaction of the axioms. The design and analysis
+of differentially private mechanisms for other social choice problems, such as multi-winner elections,
+fair division, and participatory budgeting, are also promising directions for future work. 19
+References
+
+ [1] Haris Aziz, Florian Brandl, and Felix Brandt. ",cs.GT,C,0.40478963,-0.14918895,0.077474125
+http://arxiv.org/pdf/2206.13081v2,Differentially Private Condorcet Voting,"For future
+work, we plan to explore more axioms for randomized voting rules and design new voting rules performing better
+on satisfaction to the axioms. The design and analysis of differentially private mechanisms for other social choice
+problems, such as multi-winner elections, fair division, and participatory budgeting, are also promising directions for
+future work. References
+
+Apple Inc. 2017. ",cs.GT,C,0.4115573,-0.13609031,0.05612424
+http://arxiv.org/pdf/2206.13102v1,Modeling Content Creator Incentives on Algorithm-Curated Platforms,"In contrast, we investigate how NE depend on
+algorithmic and environmental factors (non-negativity, exploration, dependence of exposure on ranking), and propose
+an algorithmic audit which leverages the creator model. While taking β → ∞ in the Jagadeesan et al.’s cost recovers
+our unit norm constraint, understanding the NE behavior at the limit remains a subject of future work (e.g., pure NE
+exist only in our setup). Our works are thus largely complementary. ",cs.GT,B,0.026646027,0.100670695,-0.1455458
+http://arxiv.org/pdf/2206.13119v1,Optimal Private Payoff Manipulation against Commitment in Extensive-form Games,"ough in some
+game se ings, e.g., the computation of Stackelberg equilibria in extensive-form games with imperfect
+information is NP-hard (Letchford and Conitzer, 2010), and the approximation of Nash equilibria in
+normal-form games is PPAD-complete (Daskalakis et al., 2009; Chen et al., 2009), it is still interesting
+to study such follower’s strategic behavior in such se ings. Another future work would be to consider how to counteract such manipulation. Actually, when
+the follower may misreport to exercise his right of privacy, we assume he is in a higher cognitive
+hierarchy than the leader. ",cs.GT,A,-0.17474361,-0.15538114,-0.023650263
+http://arxiv.org/pdf/2206.13489v1,Supply-Side Equilibria in Recommender Systems,"Our work serves as a starting point to investigate the structure of supply-side equilibria in greater
+generality. We propose several directions for future work:
+
+Open Question 1. Characterize what sets of genres Genre(µ) arise at equilibria µ. ",cs.GT,C,0.04507038,-0.25942653,0.047397338
+http://arxiv.org/pdf/2206.14429v1,Equilibria and Convergence in Fire Sale Games,"Another open problem is characterizing existence and computation of equilibria for non-even-sales. Several interesting directions arise for future work. A prominent research direction are the economic
+implications of bailouts. ",cs.GT,C,0.14829682,-0.29692554,-0.080963016
+http://arxiv.org/pdf/2206.14429v2,Equilibria and Convergence in Fire Sale Games,"Another open problem is characterizing existence and computation of equilibria for non-even-sales. Several interesting directions arise for future work. A prominent research direction are the economic
+implications of bailouts. ",cs.GT,C,0.14829682,-0.29692554,-0.080963016
+http://arxiv.org/pdf/2206.14684v1,Smoothed Analysis of Social Choice Revisited,"However, one can get bounds in terms of φ by deﬁning a speciﬁc
+
+φ-parameterized noise model within our class. Then, our work can be applied to directly yield bounds in
+
+the positive direction, and open the door for interesting future work in the negative direction. We illustrate
+
+both through an example in which we choose our noise model to be the popular Mallows noise model,
+
+deﬁned below. ",cs.GT,B,0.085773945,0.26434535,0.15383375
+http://arxiv.org/pdf/2206.14684v2,Smoothed Analysis of Social Choice Revisited,"However, one can get bounds in terms of φ by deﬁning a speciﬁc
+
+φ-parameterized noise model within our class. Then, our work can be applied to directly yield bounds in
+
+the positive direction, and open the door for interesting future work in the negative direction. We illustrate
+
+both through an example in which we choose our noise model to be the popular Mallows noise model,
+
+deﬁned below. ",cs.GT,B,0.085773945,0.26434535,0.15383375
+http://arxiv.org/pdf/2207.00898v1,Critical Distribution System,"We initiate the study of properties of our system, in the
+middle of a crisis. A study of the beginning and the end of a crisis is postponed
+to future work. Next two chapters describe the model of fairness and the deﬁ-
+nition of the market. ",cs.GT,C,0.20878756,-0.37658477,0.08889904
+http://arxiv.org/pdf/2207.00925v1,The Impact of Partner Expressions on Felt Emotion in the Iterated Prisoner's Dilemma: An Event-level Analysis,"Further studies are needed to disambiguate these
+processes along the lines of Shore and Parkinson (Shore & Parkinson, 2018). There are some patterns in the results that deserve further analysis. Here we largely focused on
+feelings of joy-at cooperation versus joy-at exploitation, but Fig. ",cs.GT,A,-0.08814762,-0.1975178,0.19433138
+http://arxiv.org/pdf/2207.01140v1,How to Sample Approval Elections?,"The Pearson Correlation Coefﬁcient is 0.989, and for 67% of elections the distances
+are identical. 7 Future Work
+
+An important task for future work is to broadly study real-world datasets with the
+methods proposed in this paper. Most of these come from political elections with few
+candidates. ",cs.GT,B,0.25318408,0.12397026,0.5503676
+http://arxiv.org/pdf/2207.01608v1,Decidability of One-Clock Weighted Timed Games with Arbitrary Weights,"Observe that this lower bound only uses non-negative weights. This complexity
+    gap deserves further study. Our work also opens three research directions. ",cs.GT,B,0.074734926,0.4966938,-0.16530514
+http://arxiv.org/pdf/2207.01970v1,Nash Welfare Guarantees for Fair and Efficient Coverage,"It would be interesting to extend the coverage framework to settings in which each agent i has
+value vit for getting covered by the tth selected subset and her valuation is additive across the T
+selections. Online version of fair coverage is another interesting direction for future work. References
+
+   [BEF21] Moshe Babaioff, Tomer Ezra, and Uriel Feige. ",cs.GT,C,0.13056645,0.035728667,0.002509497
+http://arxiv.org/pdf/2207.02596v1,Concurrent Games with Multiple Topologies,"However, these topologies can be succinctly
+    represented by computing them on-the-ﬂy. An interesting direction for future work is to
+    determine whether we can devise a symbolic approach that is able to handle such MTGs
+    without incurring an exponential blowup. Logic for partial information games Another approach to solve the CNE and GNE ex-
+    istence problems might be to formulate those problems with a logic for partial information
+    games [3, 16, 20]. ",cs.GT,A,-0.34748882,0.111338176,-0.050345413
+http://arxiv.org/pdf/2207.02596v2,Concurrent Games with Multiple Topologies,"However, these topologies can be succinctly
+    represented by computing them on-the-ﬂy. An interesting direction for future work is to
+    determine whether we can devise a symbolic approach that is able to handle such MTGs
+    without incurring an exponential blowup. Logic for partial information games Another approach to solve the CNE and GNE exist-
+    ence problems is to formulate those problems with a logic for partial information games [3,
+    16, 20]. ",cs.GT,A,-0.35809803,0.09423484,-0.04503197
+http://arxiv.org/pdf/2207.02596v3,Concurrent Games with Multiple Topologies,"However, these topologies can be succinctly
+    represented by computing them on-the-ﬂy. An interesting direction for future work is to
+    determine whether we can devise a symbolic approach that is able to handle such MTGs
+    without incurring an exponential blowup. Logic for partial information games Another approach to solve the CNE and GNE exist-
+    ence problems is to formulate those problems with a logic for partial information games [3,
+    17, 21]. ",cs.GT,A,-0.35818708,0.091299206,-0.044269986
+http://arxiv.org/pdf/2207.03076v1,Playing Divide-and-Choose Given Uncertain Preferences,"They include the importance of diversiﬁcation, the tip from chooser
+advantage to divider advantage as the number of goods increases, and the divider’s advantage and
+the chooser’s disadvantage when the divider makes multiple alternative oﬀers. A promising direction for future work would be to investigate approximately optimal divisions
+in terms of their structure. For instance, can it be shown that the intuitive rule of concentrating all
+goods with the highest critical ratios in pile 1 yields a nontrivial constant-factor approximation to
+the optimal expected divider utility? ",cs.GT,C,0.1667097,-0.13668856,-0.111669675
+http://arxiv.org/pdf/2207.03470v1,"For Learning in Symmetric Teams, Local Optima are Global Nash Equilibria","However,         Bostrom, N., Douglas, T., and Sandberg, A. The unilater-
+future work may wish to deal with behavioral strategy space. alist’s curse and the case for a principle of conformity. ",cs.GT,A,-0.2404257,-0.2858091,0.038191162
+http://arxiv.org/pdf/2207.03518v1,The Complexity of Proportionality Degree in Committee Elections,"18
+7 Conclusions and Future Work
+
+We have shown that computing committees with a given proportionality degree is, apparently,
+more difﬁcult than computing EJR committees, but veriﬁcation problems for these two notions
+have the same complexity. Two most natural directions of future work would be to establish the
+exact complexity of the PD-COMMITTEE problem and experimentally analyze PDs of committees
+provided by various voting rules. Acknowledgments
+
+This project has received funding from the European Research Council (ERC) under the European
+Union’s Horizon 2020 research and innovation programme (grant agreement No 101002854). ",cs.GT,B,0.17106995,0.25150278,0.13613877
+http://arxiv.org/pdf/2207.03798v1,The Impact of Cooperation in Bilateral Network Creation,"Hence, settling the PoA for solution concepts
+with more restricted agent coordination seems even more interesting. Another promising direction for future work is to consider bilateral edge creation in the
+Generalized Network Creation Game [7, 25], where a given weighted host graph speciﬁes the
+length of the edges which then inﬂuences the buying and the distance cost. With this, it is
+possible to model the diﬀerences between connections present in many real-world settings, e.g.,
+geographical distances between the agents. ",cs.GT,A,-0.14359628,-0.0914115,-0.18939692
+http://arxiv.org/pdf/2207.04192v1,Efficient Stackelberg Strategies for Finitely Repeated Games,"A closely related work is [VSZ10], which proves various properties about single-shot SE games
+with convex strategy sets. These works led to further research considering the complexity of computing SE
+in various settings. The most closely related followup work, which we will describe below, involves NP-hard
+results for stochastic and extensive-form games, which are superclasses of ﬁnite-horizon repeated games, and
+a poly-time algorithm for inﬁnite-horizon repeated games. ",cs.GT,A,-0.38449407,0.06513113,-0.08476876
+http://arxiv.org/pdf/2207.04192v2,Efficient Stackelberg Strategies for Finitely Repeated Games,"A closely related work is [VSZ10], which proves various properties about single-shot SE games
+with convex strategy sets. These works led to further research considering the complexity of computing SE
+in various settings. The most closely related followup work, which we will describe below, involves NP-hard
+results for stochastic and extensive-form games, which are superclasses of ﬁnite-horizon repeated games, and
+a poly-time algorithm for inﬁnite-horizon repeated games. ",cs.GT,A,-0.38449407,0.06513113,-0.08476876
+http://arxiv.org/pdf/2207.05846v1,On Partial Adoption of Vehicle-to-Vehicle Communication: When Should Cars Warn Each Other of Hazards?,"2590–2615, Oct. 2011.
+more often about trafﬁc accidents can paradoxically lead to
+an increased probability of accidents occurring, relative to      [15] D. Bergemann and S. Morris, “Information Design: A Uniﬁed Per-
+leaving all drivers uninformed. For future work, it will be             spective,” Journal of Economic Literature, vol. 57, pp. ",cs.GT,B,0.089872785,-0.074456796,0.24385515
+http://arxiv.org/pdf/2207.06411v1,Information Design for Vehicle-to-Vehicle Communication,"We have shown that warning a subset of drivers more often about trafﬁc accidents can paradoxically lead to an increased
+probability of accidents occurring, relative to leaving all drivers uninformed. For future work, it will be interesting to situate
+these models in the context of network routing problems or to consider more expressive signaling policies. APPENDIX
+A. ",cs.GT,B,-0.036597136,0.009553949,0.1520474
+http://arxiv.org/pdf/2207.06541v1,Self-Play PSRO: Toward Optimal Populations in Two-Player Zero-Sum Games,"6.2 Future Work
+
+SP-PSRO opens up exciting connections to the literature regarding learning approximate Nash
+equilibria in large games. In particular, although we introduce an unprincipled self play method for
+approximating a Nash equilibrium, future work can ﬁnd better ways of creating a new strategy that
+will better approximate a Nash equilibrium and therefore result in lower exploitability every iteration. 8
+For example, the data collected via the the opponent best response training against the restricted
+distribution can be used in a Monte-Carlo CFR-type algorithm to minimize regret on information sets
+visited during training. ",cs.GT,A,-0.37358147,-0.034616232,0.06506887
+http://arxiv.org/pdf/2207.07007v1,A Polynomial-Time Algorithm for 1/2-Well-Supported Nash Equilibria in Bimatrix Games,"As a byproduct, we have showed how we can
+convert our main algorithm into a query-eﬃcient protocol that achieves the same approximation
+guarantee with O(n · log n) queries. Below we identify three orthogonal directions for future work. • Close the gap between polynomial-time upper bounds and the quasi-polynomial lower bound
+  from [41]. ",cs.GT,B,0.018452555,0.40173787,-0.12986004
+http://arxiv.org/pdf/2207.07981v1,Indivisible Participatory Budgeting under Weak Rankings,"Learning optimal parameters of desirable rules such as median and min-max rules and
+rules with threshold approval votes [9] are considered important open directions in the voting
+literature. Similarly, the question of determining optimal parameters for cost-worthy rules is an
+important problem which we preserve for our future work. Next, we analyze the computational
+complexity of Wf,α. ",cs.GT,B,0.14373375,0.22563623,-0.03183026
+http://arxiv.org/pdf/2207.11835v1,Towards a Theory of Maximal Extractable Value I: Constant Function Market Makers,"This
+connection is most easily analyzed in CFMMs, where the ‘cost of privacy’ can be directly
+interpreted via the excess price impact or fees that a user has to pay to ensure that MEV
+searchers have negligible proﬁtability. Extending this analogy to more complex forms of
+MEV such as cross-chain MEV [OSS+21] and MEV related to liquidations [KCCM20] is
+future work. We note that many (if not most) of the routing MEV results can be ported to
+cross-chain MEV, as a number of protocols such as Synapse [Teab], use CFMMs to convert
+between synthetic and real assets. ",cs.GT,C,0.14004144,-0.04220986,-0.18856822
+http://arxiv.org/pdf/2207.14417v1,Optimistic and Topological Value Iteration for Simple Stochastic Games,"On the other hand,
+keeping the precision too similar results in lots of aborted veriﬁcation phases. Finding a good trade-oﬀ, possibly even by dynamically changing these param-
+eters during a run of the algorithm, is a task we leave for future work. E.4 Analysis of large models
+
+To analyze how the algorithms scale on a large model with many SCCs, we hand-
+crafted a model, called simple_n_m_SCC. ",cs.GT,B,-0.08220007,0.35256723,0.028870182
+http://arxiv.org/pdf/2208.00391v1,An Experimental Study on Learning Correlated Equilibrium in Routing Games,"Experimental ﬁndings are presented in Section V with an emphasis on answering the hypotheses. Finally, we present
+discussion of our results and provide directions for future work in Section VI. We end this section by deﬁning key notations to be used throughout this paper. ",cs.GT,B,0.009621791,0.1816543,0.15813428
+http://arxiv.org/pdf/2208.01563v1,Deepening the (Parameterized) Complexity Analysis of Incremental Stable Matching Problems,"From a broader algorithmic perspective, in particular, the “propagation” technique from our
+XP-algorithm for the number of swaps, and the study of the number of diﬀerent preference
+lists/master lists as a new parameter together with the needed involved constructions for the
+two respective hardness proofs could be of interest. There are several possibilities for future work. As direct open questions, for the parameteri-
+zation by the number of outliers, we do not know whether ISM-T or ISR-T are ﬁxed-parameter
+tractable. ",cs.GT,B,0.16313133,0.36409223,-0.13834754
+http://arxiv.org/pdf/2208.01563v2,Deepening the (Parameterized) Complexity Analysis of Incremental Stable Matching Problems,"From a broader algorithmic perspective, in particular, the “propagation” technique from our
+XP-algorithm for the number of swaps, and the study of the number of diﬀerent preference
+lists/master lists as a new parameter together with the needed involved constructions for the
+two respective hardness proofs could be of interest. There are several possibilities for future work. As direct open questions, for the parameteri-
+zation by the number of outliers, we do not know whether ISM-T or ISR-T are ﬁxed-parameter
+tractable. ",cs.GT,B,0.16313133,0.36409223,-0.13834754
+http://arxiv.org/pdf/2208.02204v1,Efficiently Computing Nash Equilibria in Adversarial Team Markov Games,"Similarly,
+for the adversary, we let Y := ∆(B)S and πadv = y so that ys,a = πadv(a|s). (Extending our results to other
+policy parameterizations, such as soft-max (Agarwal et al., 2021), is left for future work.) Value Function. ",cs.GT,C,-0.055949796,-0.025448805,-0.0526359
+http://arxiv.org/pdf/2208.02298v1,Additive Security Games: Structure and Optimization,"Finally, to address the problem
+                of maximizing the defender expected utility at equilibrium given that the attacker
+                payoﬀs may be perturbed, we show that (fundamentally owing to the NP-hardness
+                of computing Stackelberg equilibria in the case of multiple attacker resources) this
+                problem is NP hard for Stackelberg equilibria and propose a pseudopolynomial time
+                algorithm for the case of Nash equilibria under a disjointness assumption. August 5, 2022
+
+                28 Joe Clanin and Sourabh Bhattacharya
+
+                 We propose the following as promising directions for future work:
+
+                    • Extension of our structural approach to the classes of games Korzhyk et al. (2010); Letchford and Conitzer (2013) with schedule structures admitting
+                       polynomial-time solution algorithms and to repeated games. ",cs.GT,A,-0.22158802,-0.09705123,-0.18166842
+http://arxiv.org/pdf/2208.05898v1,Enabling Long-term Fairness in Dynamic Resource Allocation,"The resource
+management problem in virtualized caching systems application is provided in Section 6. Finally,
+we conclude the paper and provide directions for future work in Section 7. 2 Literature Review
+
+2.1 Fairness in Resource Allocation
+
+Fairness has found many applications in wired and wireless networking [3, 26, 50, 58, 70], and cloud
+computing platforms [17, 65, 68]. ",cs.GT,C,0.20329896,0.041265346,-0.21929742
+http://arxiv.org/pdf/2208.05898v2,Enabling Long-term Fairness in Dynamic Resource Allocation,"The resource
+management problem in virtualized caching systems application is provided in Section 6. Finally,
+we conclude the paper and provide directions for future work in Section 7. 2 Literature Review
+
+2.1 Fairness in Resource Allocation
+
+Fairness has found many applications in wired and wireless networking [3, 29, 53, 61, 77], and cloud
+computing platforms [19, 71, 74]. ",cs.GT,C,0.203056,0.04231379,-0.2195437
+http://arxiv.org/pdf/2208.06400v1,Computational and Data Requirements for Learning Generic Properties of Simulation-Based Games,"We improve upon their variance-aware bounds by deriving a novel sub-gamma tail
+bound, and we achieve eﬃciency guarantees via a novel progressive sampling schedule. In future work, these
+improvements could be combined with Areyan Viqueira et al.’s regret-based pruning to yield still tighter
+eﬃciency guarantees when the property of interest is speciﬁcally regret: i.e., equilibria. While our algorithms are nearly optimal for uniformly approximating simulation-based games, which is
+suﬃcient for learning well-behaved game properties, Areyan Viqueira et al.’s regret-based pruning algorithm,
+which learns non-uniform approximations, demonstrates that doing so is not always necessary. ",cs.GT,A,-0.22923985,0.09310694,0.06463958
+http://arxiv.org/pdf/2208.06521v1,Non-strategic Structural Inference (for Initial Play),"Using our framework of separating models into a strategic and non-strategic component, we could
+examine other models of non-strategic behavior (for example, the model proposed by Fudenberg
+and Liang [2019] could be used as a non-strategic model) beyond those discussed in this paper. Finally, further extending non-strategic behavioral models is an important direction for future work. This could take the form of extending QL4 to be more predictive, or evaluating domain-specific
+models of nonstrategic behavior. ",cs.GT,A,-0.11524695,-0.33642718,0.09940501
+http://arxiv.org/pdf/2208.07311v1,A General Framework for Fair Allocation with Matroid Rank Valuations,"This example seems to suggest that WEF1 is not a suitable envy relaxation for MRF valuations. We leave the question of creating suitable envy relaxations to future work. 7 Conclusion and Future Work
+
+In this work, we study the fair division of goods when agents have MRF valuations. ",cs.GT,C,0.1738067,-0.15560244,-0.16888839
+http://arxiv.org/pdf/2208.07666v1,Random Assignment of Indivisible Goods under Constraints,"In addition, we have provided a mechanism that satisﬁes sd-eﬃciency and
+anonymity. A future work is to develop mechanisms that satisfy other fairness and eﬃciency concepts with
+existence guarantees. Acknowledgments
+
+The ﬁrst author was supported by JSPS KAKENHI Grant Number JP20K19739, JST PRESTO Grant Num-
+ber JPMJPR2122, and Value Exchange Engineering, a joint research project between Mercari, Inc. and the
+RIISE. ",cs.GT,C,0.27311355,-0.17843731,-0.15420613
+http://arxiv.org/pdf/2208.08168v1,Finding Fair Allocations under Budget Constraints,"For instance, the knap-
+sack problem is NP-hard for proportional instances and, at the same time, EF1 allocations can be computed
+for such instances in polynomial time (Section 3.3). With this backdrop, obtaining EFk guarantees in the
+GAP formulation6 is another interesting direction for future work. References
+
+[ABFRV22] Georgios Amanatidis, Georgios Birmpas, Aris Filos-Ratsikas, and Alexandros A Voudouris. ",cs.GT,B,0.100713864,0.3197653,-0.1810258
+http://arxiv.org/pdf/2208.08238v1,Last-iterate Convergence to Trembling-hand Perfect Equilibria,"Notice that Theorem 2 shows asymptotic convergence in terms of 2-distance to an EFPE, while Corollary 2 shows
+convergence in terms of Nash gap. Determining whether it is possible to show ﬁnite convergence rates also for
+the 2-distance to the set of EFPEs requires additional research. The difﬁculty of such an inquiry is that, even in
+(non-perturbed) normal-form games, our problem reduces to the one of ﬁnding convergence rates to limit-quantal
+equilibria, which is still an open problem. ",cs.GT,A,-0.28142676,0.023993015,-0.06894897
+http://arxiv.org/pdf/2208.08670v1,Approximation Algorithms for Envy-Free Cake Division with Connected Pieces,"We also show that
+speciﬁcally for instances with bounded heterogeneity, an ε-EF division can be computed in time
+polynomial in n and 1/ε. In addition to the patent problem of efﬁciently ﬁnding ε-EF connected cake divisions, devel-
+oping ε-EF algorithms for special valuation classes (such as single-block and single-peaked val-
+uations) is a relevant direction of future work. Inapproximability results—similar to the ones
+recently obtained for ε-consensus halving [FRHSZ20]—are also interesting. ",cs.GT,B,0.09840537,0.2542975,-0.28301308
+http://arxiv.org/pdf/2208.09222v1,Mechanism Learning for Trading Networks,"For example, while we learn mechanisms from previously collected (oﬄine) data, the prior
+work has also investigated the approaches of learning mechanisms while collecting data in an online manner
+(Mohri and Medina, 2014; Chapman, Rogers, and Jennings, 2008; Balaguer et al., 2022b; Liu, Chen, and
+Qin, 2015) or by reinforcement learning (Tang, 2017; Rheingans-Yoo, 2020; Balaguer et al., 2022a; Zheng
+et al., 2021; Baumann, Graepel, and Shawe-Taylor, 2018; Koster et al., 2022; Brero et al., 2021b,a). Such
+online methods involves the additional challenge of the tradeoﬀ between exploration and exploitation, and it
+is an interesting direction of future work to study such online methods for trading networks. (Morgenstern
+and Roughgarden, 2016; Cai and Daskalakis, 2017; Gonczarowski and Weinberg, 2018; Balcan et al., 2005)
+
+                                                                  14
+                                1.00                                                                                0.6
+
+Fraction of feasible instances  0.98                                                                                0.4
+
+                                0.96                                                              Expected utility  0.2
+
+                                0.94                                                                                0.0
+
+                                0.92                                                                                0.2
+                                                                                                                                                                                   IP
+                                0.9016 32 64 128 256 512 1024 2048 4096
+                                                           Number of samples                                        0.416 32 64 128 256 512 1024 2048 4096
+                                                                                                                                              Number of samples
+                                                      (a) Feasibility
+                                 0.6                                                                                                 (b) Budget balance
+                                                                                                                    0.6
+
+                                0.4                                                                                 0.4
+
+Expected utility                0.2                                                               Expected utility  0.2
+
+                                0.0                                                                                 0.0
+
+                                0.2 S-L                                                                             0.2 B-L
+                                                                                             S-H                                                                                 B-H
+
+                                0.416 32 64 128 256 512 1024 2048 4096                                              0.416 32 64 128 256 512 1024 2048 4096
+                                                          Number of samples                                                                   Number of samples
+
+                                                 (c) Supplier utility                                                                 (d) Buyer utility
+
+Figure 4: The performance of the mechanisms learned by our approach against the number of the samples
+from the prior distribution. ",cs.GT,A,-0.20204748,-0.10414827,0.063542426
+http://arxiv.org/pdf/2208.09326v1,Myerson on a Network,"assumption does not hold, we provided a
+mechanism from our characterized class to experimentally show an improvement in the revenue from
+the currently known diffusion mechanisms. The question of ﬁnding the revenue optimal mechanism
+for a general network is still open and we want to pursue that as a future work. References
+
+ [1] Richard E Barlow, Albert W Marshall, and Frank Proschan. ",cs.GT,C,0.14041506,-0.15098403,-0.20380867
+http://arxiv.org/pdf/2208.09690v1,Gradient Descent Ascent in Min-Max Stackelberg Games,"Additionally,                                mistic) gradient descent in min-max optimization. arXiv preprint arXiv:1807.03907
+our experiments suggest avenues for future work, namely inves-                                      (2018). tigating how varying the degree of smoothness of the objective
+function can impact convergence rates. ",cs.GT,B,-0.12277205,0.31741822,-0.06688231
+http://arxiv.org/pdf/2208.09821v1,On The Robustness of Channel Allocation in Joint Radar And Communication Systems: An Auction Approach,"Simulation results showed that                      [16] Z. Xiao, X. Shen, F. Zeng, V. Havyarimana, D. Wang, W. Chen,
+the robust auction mechanism yields better performance
+compared to the deterministic auction mechanism in terms                       and K. Li, “Spectrum resource sharing in heterogeneous vehic-
+of satisfaction of the optimal auction solution when there is
+uncertainty about the submitted bids. For future works, we                     ular networks: A noncooperative game-theoretic approach with
+would like to investigate the use of deep learning in auction
+design and study what type of robustness it can provide. correlated equilibrium,” IEEE Transactions on Vehicular Technology,
+
+7 ACKNOWLEDGEMENT                                                              vol. ",cs.GT,C,-0.038843565,-0.10847441,-0.08567597
+http://arxiv.org/pdf/2208.09821v2,On The Robustness of Channel Allocation in Joint Radar And Communication Systems: An Auction Approach,"compared to the deterministic auction mechanism in terms                           Princeton University Press, 2009.
+of satisfaction of the optimal auction solution when there is
+uncertainty about the submitted bids. For future works, we                   [13] A. Tversky and D. Kahneman, “Advances in prospect theory:
+would like to investigate the use of deep learning in auction                      Cumulative representation of uncertainty,” Journal of Risk and
+design and study what type of robustness it can provide. Uncertaint, vol. ",cs.GT,B,0.01379293,-0.08890736,0.103518225
+http://arxiv.org/pdf/2208.10138v1,Learning Correlated Equilibria in Mean-Field Games,"What this means is that we cannot consider that the whole population plays
+a policy π(ν), which greatly complexiﬁes the proof. 31
+It is unclear whether the bound O      1        is ever reached, or if non-discrete MF(C)CEs
+                                        1
+
+                                       N4
+
+have tighter bounds; we leave this question for future work. However, before closing this section, we would like to make the remark that, since Nash
+
+equilibria can be cast as correlated equilibria, the above bounds also apply to Nash equilibria. ",cs.GT,A,-0.07751842,-0.10078346,0.044090748
+http://arxiv.org/pdf/2208.10269v1,To EVM or Not to EVM: Blockchain Compatibility and Network Effects,"congestion). We leave it to future work for incorpo-
+rating negative network eﬀect to better predict adoption patterns between diﬀerent blockchains. References
+
+[1] Alan Beggs and Paul Klemperer. ",cs.GT,C,0.099668846,-0.12641889,-0.07051346
+http://arxiv.org/pdf/2208.13464v1,Price of MEV: Towards a Game Theoretical Approach to MEV,"Then, as we will see, the block space cost             [7]. We leave for future work to study and compute
+of extracting the arbitrage opportunity will be the            the price of MEV of popular proposed ordering mech-
+sum of gas used by executing both searchers’ trans-            anisms. Also, in the future we will study the negative
+actions. ",cs.GT,C,0.011983413,0.02763455,-0.13767202
+http://arxiv.org/pdf/2208.13760v1,A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners,"Moreover, we have
+illustrated that our approach can detect a variety of diﬀerent patterns and can diﬀerentiate between
+seemingly very similar elections. For future work it would be interesting to dive deeper into the
+capabilities and limitations of our approach, for instance, by further exploring the possibility to use
+it as a tie-breaking mechanism. While we have already tried to make our experiments relevant to practitioners, there is certainly
+room for improvement: Because it is the (computationally) simpler and cleaner approach, we have
+considered an unweighted model where each swap has the same probability. ",cs.GT,B,0.2389639,0.051841047,0.3659638

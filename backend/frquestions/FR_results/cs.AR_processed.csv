@@ -1,0 +1,761 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00485v1,Freeway to Memory Level Parallelism in Slice-Out-of-Order Cores,"This is because larger instruction windows offer more ILP opportunities to OoO execution, thus widening
+the performance gap with Ideal-sOoO which only extracts MLP. These results highlight that further research is required for scaling sOoO cores to larger instruction windows. Furthermore, given that MLP’s contribution to overall performance reduces at large windows and that Freeway already
+extracts a large portion of the available MLP, the research in scaling sOoO cores should focus on ILP rather than
+capturing the MLP opportunities missed by Freeway. ",cs.AR,A,0.043830674,0.06748697,-0.07692424
+http://arxiv.org/pdf/2201.01385v1,DR-STRaNGe: End-to-End System Design for DRAM-based True Random Number Generators,"We leave the
+                  predictor have an accuracy of 80.0% and 80.3%, respectively. evaluation of such design to future work. Second, the simple DRAM idleness predictor’s accuracy is
+
+                  slightly higher than the RL-based predictor’s accuracy when
+
+                  the workload’s memory-intensity is high and the number of
+
+                  long idle periods is low. ",cs.AR,C_centroid,-0.35165036,-0.42313886,0.073571935
+http://arxiv.org/pdf/2201.01385v2,DR-STRaNGe: End-to-End System Design for DRAM-based True Random Number Generators,"We leave the
+                  predictor have an accuracy of 80.0% and 80.3%, respectively. evaluation of such design to future work. Second, the simple DRAM idleness predictor’s accuracy is
+
+                  slightly higher than the RL-based predictor’s accuracy when
+
+                  the workload’s memory-intensity is high and the number of
+
+                  long idle periods is low. ",cs.AR,C,-0.35165036,-0.42313886,0.073571935
+http://arxiv.org/pdf/2201.01385v3,DR-STRaNGe: End-to-End System Design for DRAM-based True Random Number Generators,"We leave the
+                  predictor have an accuracy of 80.0% and 80.3%, respectively. evaluation of such design to future work. Second, the simple DRAM idleness predictor’s accuracy is
+
+                  slightly higher than the RL-based predictor’s accuracy when
+
+                  the workload’s memory-intensity is high and the number of
+
+                  long idle periods is low. ",cs.AR,C,-0.35165036,-0.42313886,0.073571935
+http://arxiv.org/pdf/2201.01385v4,DR-STRaNGe: End-to-End System Design for DRAM-based True Random Number Generators,"We leave the
+                  predictor have an accuracy of 80.0% and 80.3%, respectively. evaluation of such design to future work. Second, the simple DRAM idleness predictor’s accuracy is
+
+                  slightly higher than the RL-based predictor’s accuracy when
+
+                  the workload’s memory-intensity is high and the number of
+
+                  long idle periods is low. ",cs.AR,C,-0.35165036,-0.42313886,0.073571935
+http://arxiv.org/pdf/2201.01385v5,DR-STRaNGe: End-to-End System Design for DRAM-based True Random Number Generators,"We leave the
+                  predictor have an accuracy of 80.0% and 80.3%, respectively. evaluation of such design to future work. Second, the simple DRAM idleness predictor’s accuracy is
+
+                  slightly higher than the RL-based predictor’s accuracy when
+
+                  the workload’s memory-intensity is high and the number of
+
+                  long idle periods is low. ",cs.AR,C,-0.35165036,-0.42313886,0.073571935
+http://arxiv.org/pdf/2201.03558v1,Studying the Potential of Automatic Optimizations in the Intel FPGA SDK for OpenCL,"As such, it is rec-
+   By performing this study, we identified the limitations of auto-       ommended that designers implement their kernels as Single Work
+matic optimization in a modern commercial HLS tool like AOC,              Item Kernels (SWIK), as opposed to the traditional multithreaded
+which motivates the need for more extensive compiler optimiza-            kernels that OpenCL is known for, in order to maximize AOC’s
+tions in these tools. This is an area of research that we are interested  ability to pipeline the kernel’s execution, and extract as much par-
+in and are pursuing as future work. allelism as possible. ",cs.AR,A,0.010070052,0.03542327,0.009998737
+http://arxiv.org/pdf/2201.04373v1,TA-LRW: A Replacement Policy for Error Rate Reduction in STT-MRAM Caches,"Moreover, LRU conducts                                 higher performance. This study will spark further research
+a set of operations to update the age bits of blocks for                             in designing more advanced thermal-aware replacement
+each cache access and to ﬁnd the suitable victim for each                            policies for STT-MRAM caches. cache miss. ",cs.AR,C,-0.35200626,-0.16175506,0.08278674
+http://arxiv.org/pdf/2201.05072v1,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,"Thus, some
+compressed formats designed for commodity processor-centric systems might not be suitable
+or efficient for real PIM systems. We leave the exploration of other PIM-suitable formats for
+future work. Hardware Accelerators for SpMV. ",cs.AR,B,-0.20755395,0.5015285,-0.035815448
+http://arxiv.org/pdf/2201.05072v2,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,"Therefore, some
+compressed formats designed for commodity processor-centric systems might not be suitable or
+efficient for real PIM systems. We leave the exploration of other PIM-suitable compressed matrix
+storage formats for future work. 10 Conclusion
+
+We present SparseP, the first open-source SpMV library for real Processing-In-Memory (PIM)
+systems, and conduct the first comprehensive characterization analysis of the widely-used SpMV
+kernel on a real-world PIM architecture. ",cs.AR,B,-0.1492686,0.6195644,0.052593436
+http://arxiv.org/pdf/2201.05072v3,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,"Therefore, some
+compressed formats designed for commodity processor-centric systems might not be suitable or
+efficient for real PIM systems. We leave the exploration of other PIM-suitable compressed matrix
+storage formats for future work. 10 Conclusion
+
+We present SparseP, the first open-source SpMV library for real Processing-In-Memory (PIM)
+systems, and conduct the first comprehensive characterization analysis of the widely-used SpMV
+kernel on a real-world PIM architecture. ",cs.AR,B,-0.1492686,0.6195644,0.052593436
+http://arxiv.org/pdf/2201.05072v4,SparseP: Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Systems,"Therefore, some
+compressed formats designed for commodity processor-centric systems might not be suitable or
+efficient for real PIM systems. We leave the exploration of other PIM-suitable compressed matrix
+storage formats for future work. 10 Conclusion
+
+We present SparseP, the first open-source SpMV library for real Processing-In-Memory (PIM)
+systems, and conduct the first comprehensive characterization analysis of the widely-used SpMV
+kernel on a real-world PIM architecture. ",cs.AR,B,-0.1492686,0.6195644,0.052593436
+http://arxiv.org/pdf/2201.07498v1,"A Mixed Precision, Multi-GPU Design for Large-scale Top-K Sparse Eigenproblems","their
+than a state-of-the-art FPGA hardware design. As future work,                      [14] R. Babich, M. A. Clark, and B. Joo´, “Parallelizing the quda library for
+                                                                                         multi-gpu calculations in lattice quantum chromodynamics,” in SC’10:
+we will extend our implementation to ﬁxed-point arithmetic                               Proceedings of the 2010 ACM/IEEE International Conference for High
+                                                                                         Performance Computing, Networking, Storage and Analysis. IEEE,
+and validate if novel interconnection technologies such as                               2010, pp. ",cs.AR,A,-0.074900545,0.15671094,-0.2249748
+http://arxiv.org/pdf/2201.08022v1,HEAM: High-Efficiency Approximate Multiplier Optimization for Deep Neural Networks,"The multipliers are implemented with look-up
+tables (LUTs) in Vivado. We also reproduce Systolic Cube              In future works, we will not only improve the optimization
+                                                                   scheme, but also apply the application-speciﬁc optimization
+                                                                         TABLE II
+                      COMPARISON OF ACCURACY ON FASHIONMNIST, CIFAR-10, AND CORA DATASET (%)
+
+            Dataset   HEAM    KMap   CR (C.6)  CR (C.7)                          AC    OU (L.1)  OU (L.3)  Wallace       Margin
+        FashionMNIST   90.41  59.35    15.29     75.09                          23.29    10.00     71.95    90.33   15.32 (20.40%)
+                       76.49  44.71    12.78     56.30                          9.06     10.00     50.61    76.16   20.19 (35.86%)
+           CIFAR10     81.09  79.80    80.24     80.35                          74.48    12.96      6.68    80.65    0.74 (0.92%)
+             CORA
+
+                                                                    TABLE III
+                                   COMPARISON OF MULTIPLIERS IN DNN ACCELRATORS ON DC
+
+Module         Metric     HEAM     KMap     CR (C.6)  CR (C.7)                           AC     OU (L.1)  OU (L.3)  Wallace       Margin
+ TASU                     355.87   321.54    309.60    305.81                          346.02    270.27    201.21   288.18    9.85 (2.85%)
+        Max freq. (M Hz)  2749.70  2887.90   2850.63   2868.23                         2786.84   2856.70   4489.64  2966.10  -37.14 (-1.33%)
+   SC   Area (µm2 × 103)  563.73   570.56    572.04    572.31                          571.07    578.69    656.88   572.21   -6.83 (-1.20%)
+   SA                     411.52    336.7    395.26    352.11                          383.14    436.68    202.02   363.64   -25.16 (-5.76%)
+           Power (mW )    101.05   109.73    106.62    107.49                          102.03    106.46    197.03   114.45   -0.98 (-0.96%)
+                           17.34    18.37     18.51     18.69                           18.06     17.66     24.73    19.00    0.32 (1.81%)
+        Max freq. ",cs.AR,A,0.2528016,0.045005124,-0.008250439
+http://arxiv.org/pdf/2201.08916v1,Enabling Flexibility for Sparse Tensor Acceleration via Heterogeneity,"overhead. Large datacenters require ﬂexibility, as in they must
+                                                                                                             have the compute and memory resources to perform all current
+                                           Many of these accelerators are rigid in both the dataﬂow          and future workloads efﬁciently. To address this challenge,
+                                        choice as well as the sparsity format employed. ",cs.AR,A,-0.104632065,0.09532097,-0.1954169
+http://arxiv.org/pdf/2201.12027v1,Puppeteer: A Random Forest-based Manager for Hardware Prefetchers across the Memory Hierarchy,"Puppeteer also reduces the number
+
+by each manager algorithm when executing 1.2B instructions of negative outliers by 89%. As future work, we will explore
+
+of 429.mcf-217B. In Figure 16b we show the IPC values and a uniﬁed design of a ML-based manager that selects from
+
+the PSC used in each instruction window for a small slice an array of ML-based prefetchers. ",cs.AR,B,0.094240785,0.043561745,0.07174968
+http://arxiv.org/pdf/2201.13056v1,The complexity gap in the static analysis of cache accesses grows if procedure calls are added,"To summarize, for all policies, the analysis problems are NP-complete for acyclic
+control-ﬂow graphs, but there is a gap between LRU (NP-complete) and the oth-
+ers (PSPACE-complete) for general control-ﬂow graphs. Monniaux and Touzeau
+[13] however left to future work the question of adding procedure calls (push-
+down control) to the setting. In this paper, we show that the gap widens when procedure calls are added :
+the decision problems remain NP-complete for LRU for programs with procedure
+calls (Figure 2), but become EXPTIME-complete for other policies (for NMRU,
+EXPTIME hardness is proved only with an initially empty cache).5
+
+    For the LRU policy, we derive backtracking algorithms that solve the exist-
+miss and exist-hit problems from the arguments of the proof of membership in
+NP. ",cs.AR,B,0.11605125,0.105402514,0.16012613
+http://arxiv.org/pdf/2202.07948v1,NORM: An FPGA-based Non-volatile Memory Emulation Framework for Intermittent Computing,"Section 4 presents the implementation details of NORM and Section 5 presents our evaluation
+based on simulations. Finally, Section 6 concludes our article and proposes future work. 2 BACKGROUND AND RELATED WORK
+
+A new class of embedded devices that can sense, compute, and communicate without batteries
+emerged. ",cs.AR,A,-0.012164417,-0.06159146,0.07966158
+http://arxiv.org/pdf/2202.09035v1,PISA: A Binary-Weight Processing-In-Sensor Accelerator for Edge Image Processing,"5, pp. 1588–1596, 2020.
+we plan to extend our future work to investigate image
+sensors’ challenges in the presence of power failure for energy                [14] Z. Liu, E. Ren, F. Qiao, Q. Wei, X. Liu, L. Luo, H. Zhao, and
+harvested systems, and more thoroughly discuss PISA’s power                          H. Yang, “Ns-cim: A current-mode computation-in-memory architecture
+failure resiliency. enabling near-sensor processing for intelligent iot vision nodes,” IEEE
+                                                                                     Transactions on Circuits and Systems I: Regular Papers, vol. ",cs.AR,C,-0.011108692,-0.20484766,-0.035753187
+http://arxiv.org/pdf/2202.10400v1,GenStore: A High-Performance and Energy-Efficient In-Storage Computing System for Genome Sequence Analysis,"If all of the               sands of pages, each of which is 4–16 KiB in size. NAND flash
+potential matching locations of the read get filtered, the read map-                  memory performs read/write operations at page granularity but
+per discards the read from further analysis. The read mapper uses                     erase operations at block granularity. ",cs.AR,B,-0.093188494,0.11296664,0.053270288
+http://arxiv.org/pdf/2202.11941v1,A Timing Yield Model for SRAM Cells in Sub/Near-threshold Voltages Based on A Compact Drain Current Model,"For simplicity, we use a                                                  [1][2]
+standard 6T SRAM cell as an example in the rest of the paper. However, a similar modeling process can be reproduced in                                                    𝑡 = |𝐶𝑄 ∫𝑉𝑇𝑅𝐼𝑃 𝑑𝑉𝑄 |                           (4)
+other complicated scenarios and left for our future work. 𝑉𝐷𝐷 𝐼𝑀4−𝐼𝑀2
+
+   Complete SRAM access can be divided into several cycles to                                               where IM4 and IM2 are the channel current for M4 and M2
+satisfy the core frequency. ",cs.AR,C,-0.21355978,-0.14641012,-0.029456493
+http://arxiv.org/pdf/2203.00158v3,GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks,"When conservatively projecting
+similar overheads to GROW’s MAC array design, supporting                         [14] K. Hegde, H. Asghari-Moghaddam, M. Pellauer, N. Crago, A. Jaleel,
+GAT is estimated to incur a chip-wide 1.7% area overhead. We                           E. Solomonik, J. Emer, and C. W. Fletcher, “ExTensor: An Accelerator
+leave the evaluation of GROW for these aggregation functions                           for Sparse Tensor Algebra,” in Proceedings of the International Sympo-
+as future work as it is beyond the scope of this paper. sium on Microarchitecture (MICRO), 2019. ",cs.AR,A,0.11853555,0.17898339,-0.2905719
+http://arxiv.org/pdf/2203.00158v4,GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks,"Evalua-           (IITP) grant funded by the Korea government(MSIT) (No. tion of GROW for such graphs however is beyond the scope                 2022-0-01037, Development of High Performance Processing-
+of this paper and we leave it as future work. in-Memory Technology based on DRAM), Samsung Advanced
+
+   Pinned vs. demand-based cache replacement policy. ",cs.AR,C,-0.29457098,-0.08992387,0.029400133
+http://arxiv.org/pdf/2203.00218v1,Specialized Accelerators and Compiler Flows: Replacing Accelerator APIs with a Formal Software/Hardware Interface,"For flexible matching, we translate the                 the final hidden and cell states either. In future work, it
+“unrolled” LSTM in Relay into Glenside and also match it in               would be feasible for us to support returning the final
+the target Glenside program. In principle, it would be possi-             hidden and cell states and eliminate this simplification. ",cs.AR,B,0.19370818,0.053241953,0.2692241
+http://arxiv.org/pdf/2203.00642v1,Relaxed virtual memory in Armv8-A (extended version),"; [TLBI-S1])
+       & (same-translation ; [T & Stage1] ; maybe_TLB_cached)
+
+(* ordered-before-TLBI *)                                translation
+let obtlbi =                                             [TLBI]
+
+       obtlbi_translate
+
+   (*
+     * a TLBI ensures all instructions that use the old
+     * and their respective memory events
+     * are ordered before the TLBI. *)
+
+   | [R|W|Fault] ; iio^-1 ; (obtlbi_translate & ext) ;
+
+(* context-change ordered-before *)
+(* note that this is under-approximate and future work is needed
+
+ * on exceptions and context-changing operations in general *)
+let ctxob =
+
+ (* no speculating past context-changing operations *)
+       speculative ; [MSR]
+
+ (* context-synchronization orders everything po-after with the synchronization point
+       *)
+
+   | [CSE] ; instruction-order
+
+ (* context-synchronization acts as a barrier for context-changing operations *)
+   | [ContextChange] ; po ; [CSE]
+
+ (* context-synchronization-events cannot happen speculatively *)
+   | speculative ; [CSE]
+
+(* ordered-before a translation fault *)
+let obfault =
+
+       data ; [Fault & IsFromW]
+   | speculative ; [Fault & IsFromW]
+   | [dmbst] ; po ; [Fault & IsFromW]
+B Full models                                                                      208
+
+B.1. Common
+
+| [dmbld] ; po ; [Fault & (IsFromW | IsFromR)]
+| [A|Q] ; po ; [Fault & (IsFromW | IsFromR)]
+| [R|W] ; po ; [Fault & IsFromW & IsFromReleaseW]
+
+(* ETS-ordered-before *)                                                           fault
+(* if FEAT_ETS then if E1 is ordered-before some Fault
+
+ * then E1 is ordered-before the translation-table-walk read which generated that
+ * (but not *every* read from the walk, only the one that directly led to the
+
+       translation fault)
+
+ *
+ * Additionally, if ETS then TLBIs are guaranteed completed after DSBs
+ * hence po-later translations must be ordered after the TLBI (D5.10.2)
+ *)
+let obETS =
+
+       (obfault ; [Fault]) ; iio^-1 ; [T_f]
+
+   | ([TLBI] ; po ; [dsb] ; instruction-order ; [T]) & tlb-affects
+
+include ""shows.cat""
+B Full models                                                            209
+
+B.2. ",cs.AR,B,-0.1046324,-0.040912285,0.33821604
+http://arxiv.org/pdf/2203.01479v1,Weightless Neural Networks for Efficient Edge Inference,"The low
+value b increases to compensate for the larger number of hash       latency and low energy beneﬁts that can be obtained from
+functions. This plot shows variants of the Small model with         WNNs warrant further research in this area. up to 128 hash functions per Bloom ﬁlter. ",cs.AR,B,0.06755915,-0.017076092,-0.04948158
+http://arxiv.org/pdf/2203.02550v1,AgileWatts: An Energy-Efficient CPU Core Idle-State Architecture for Latency-Sensitive Server Applications,"Our detailed evaluation reveals that AW has the potential             [13] A. Rogers, D. Kaplan, E. Quinnell, and B. Kwan, “The
+to realize power savings up to 71% per core at a worst-case                  Core-C6 (CC6) Sleep State of the AMD Bobcat x86
+1% performance degradation. These ndings support the                         Microprocessor,” in ISLPED, 2012.
+adoption of AW in future CPUs targeting servers in datacen-
+ters running microservices and calls for further research that        [14] R. Schöne, D. Molka, and M. Werner, “Wake-up Laten-
+                                                                             cies for Processor Idle States on Current x86 Processors,”
+                                                                             Computer Science-Research and Development, 2015. 13
+[15] R. Schöne, T. Ilsche, M. Bielert, A. Gocht, and                  [28] CPUbenchmark, “AMD vs Intel Market Share,” ac-
+      D. Hackenberg, “Energy E ciency Features of the In-                   cessed Nov 2020, https://bit.ly/3kV6kWY. ",cs.AR,C,-0.1816037,-0.22773968,-0.15562712
+http://arxiv.org/pdf/2203.02550v2,AgileWatts: An Energy-Efficient CPU Core Idle-State Architecture for Latency-Sensitive Server Applications,"These results support
+                                                                       the adoption of AW in future datacenter server CPUs running
+Fine-grained, Latency-Aware DVFS Management. Be-                       latency-critical applications and calls for further research into
+sides C-states, the other major power-management feature of            lowering the latency of deep idle states. modern processors is dynamic voltage and frequency scaling
+(DVFS). ",cs.AR,C,-0.20120856,-0.16555381,-0.10338378
+http://arxiv.org/pdf/2203.02676v1,ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines,"Secondly, current HBM restricts
+       35                               GEOMEAN                                 16                                            graph sizes to smaller than 8 GB. As a future work, we plan
+                                                                                                                              to introduce SSDs as storage while using HBM as buffers to
+       30                                                                       14                                            process billion-scale graphs. Thirdly, an increased number of
+                                                                                                                              ﬂexible memory ports are needed to improve the utilization of
+GTEPS  25              PR                               BFS                     12                                            the HBM. ",cs.AR,B,-0.24544767,0.15638077,-0.028752793
+http://arxiv.org/pdf/2203.05516v1,VirtualSync+: Timing Optimization with Virtual Synchronization,"To demonstrate the effectiveness                           compared with that after extreme retiming and sizing, while
+of VirtualSync+ in such cases, the clock period achieved by                            the increase of area is still negligible. In the future work, we
+extreme R&S, denoted as T , is relaxed, denoted as relaxed                             will enhance the framework to integrate VirtualSync+ with
+R&S. For example, we used the relaxed clock periods 1.05T ,                            physical design tools to fully automate virtual synchronization
+1.10T , 1.15T , 1.20T and 1.25T to compare VirtualSync+                                into the EDA ﬂow. ",cs.AR,A,-0.12230678,-0.053819284,0.07506644
+http://arxiv.org/pdf/2203.10359v1,FPGA-extended Modified Harvard Architecture,"Intel intrinsics guide. further research is desirable to develop faster reconﬁgurable                  [16] Dirk Koch, Nguyen Dao, Bea Healy, Jing Yu, and Andrew Attwood. FPGAs, especially for smaller regions to implement instruc-
+tions. ",cs.AR,A,0.102865696,0.0028971462,-0.15581122
+http://arxiv.org/pdf/2203.10359v3,FPGA-extended General Purpose Computer Architecture,"This is for brevity, but has not challenged the
+routability of the test case. The operating frequency aspect is left as future work,
+but does not seem prohibitive at the moment, given the margins for a hit latency
+(section 4.2) and reports for instruction-like tasks operating in the GHz range [4]. 5.2 Bitstream Cache Dimensions
+
+To better understand the bitstream cache requirements for high-end processors,
+a separate study is conducted on a commercial x86 platform with a higher
+instruction variety (such as with vector instructions). ",cs.AR,C,-0.15872721,-0.094737835,-0.13332024
+http://arxiv.org/pdf/2203.10486v1,PIMDB: Understanding Bulk-Bitwise Processing In-Memory Through Database Analytics,"PIMDB execution time breakdown. mapping of ﬁlter-heavy databases (e.g., key-value store [16,63])
+                                                                                                                    for future work. operated on if necessary, and then the large relations operation
+is split into four threads where each thread is responsible for a                                                      For calibration, we estimate how bulk-bitwise PIM compares
+quarter of each relation’s records. ",cs.AR,B,-0.115651995,0.2829467,0.19897227
+http://arxiv.org/pdf/2203.12521v1,CoMeFa: Compute-in-Memory Blocks for FPGAs,"We explore two architectures at the ends of the area-     40 PEs in the RAM. This provides a parallelism 160 operations
+delay design space (evaluating other candidates in this space is   done in 1 extended clock cycle, thereby trading off delay for
+left as future work). area. ",cs.AR,C,-0.2945271,0.038388565,-0.091138035
+http://arxiv.org/pdf/2204.02085v1,High-throughput Pairwise Alignment with the Wavefront Algorithm using Processing-in-Memory,"even higher (37.4× and 12.3×, respectively) when the CPU-
+                                                                                                                                                                                                                                                       DPU data transfer time is not accounted for (Kernel). Our
+                                                                                                                                                                              For fairness, we apply no optimizations to the WFA PIM                   future work includes scaling our implementation to longer read
+                                                                                                                                                                           implementation compared to the original WFA CPU imple-                      lengths and higher edit distance thresholds, and comparing to
+                                                                                                                                                                           mentation. In fact, we remove vectorization from the PIM                    PIM implementations of other alignment algorithms. ",cs.AR,B_centroid,-0.1514354,0.28223112,0.09730627
+http://arxiv.org/pdf/2204.02085v2,High-throughput Pairwise Alignment with the Wavefront Algorithm using Processing-in-Memory,"DPU data transfer time is not accounted for (Kernel). Our
+                                                                                                                                                                                                                                                       future work includes scaling our implementation to longer read
+                                                                                                                                                                              For fairness, we apply no optimizations to the WFA PIM                   lengths and higher edit distance thresholds, and comparing to
+                                                                                                                                                                           implementation compared to the original WFA CPU imple-                      PIM implementations of other alignment algorithms. mentation. ",cs.AR,B,-0.10920378,0.22123063,0.1888133
+http://arxiv.org/pdf/2204.02159v1,Systematic Unsupervised Recycled Field-Programmable Gate Array Detection,"while the conventional method failed to detect aged FPGAs. [18] D. Lorenz, G. Georgakos, and U. Schlichtmann, “Aging analysis of
+   As future work, we intend to further improve the detection                           circuit timing considering NBTI and HCI,” in Proceedings of IEEE
+                                                                                        International Symposium on On-Line Testing and Robust System Design,
+performance of unsupervised recycled FPGA detection. As                                 2009, pp. ",cs.AR,C,0.004730709,-0.04805702,-0.041565083
+http://arxiv.org/pdf/2204.02443v1,Efficient Table-based Function Approximation on FPGAs using Interval Splitting and BRAM Instantiation,"In consequence, reductions in the memory footprint and BRAM usage were shown
+to be achievable by our proposed approach. As future work, we want to explore more efficient
+packing of BRAMs and alternative sub-interval determination algorithms. REFERENCES
+
+ [1] Ben Adcock, Simone Brugiapaglia, and Clayton G. Webster. ",cs.AR,B,0.14726809,0.27047482,-0.029513717
+http://arxiv.org/pdf/2204.02443v2,Efficient Table-based Function Approximation on FPGAs using Interval Splitting and BRAM Instantiation,"In consequence, reductions in the memory footprint and BRAM usage were shown
+to be achievable by our proposed approach. As future work, we want to explore more efficient
+packing of BRAMs and alternative sub-interval determination algorithms. REFERENCES
+
+ [1] Ben Adcock, Simone Brugiapaglia, and Clayton G. Webster. ",cs.AR,B,0.14726809,0.27047482,-0.029513717
+http://arxiv.org/pdf/2204.02443v3,Efficient Table-based Function Approximation on FPGAs using Interval Splitting and BRAM Instantiation,"In consequence, reductions in
+the memory footprint and BRAM usage were shown to be achievable by our proposed approach. As future work, we want to explore more efficient packing of BRAMs and alternative sub-interval
+determination algorithms. REFERENCES
+
+ [1] Ben Adcock, Simone Brugiapaglia, and Clayton G. Webster. ",cs.AR,B,0.14726813,0.27047482,-0.029513642
+http://arxiv.org/pdf/2204.03290v1,Memory Performance of AMD EPYC Rome and Intel Cascade Lake SP Server Processors,"1109/MM.2019.2899330
+   Future research could focus on the new architectures by Intel
+and AMD, Ice Lake SP and EPYC Milan. Furthermore, the impact                      [5] T. Burd, N. Beck, S. White, M. Paraschou, N. Kalyanasundharam, G. Donley,
+of our findings on real world applications should be considered in
+future work. A. Smith, L. Hewitt, and S. Naffziger. ",cs.AR,A,-0.025759201,-0.1467681,-0.07187328
+http://arxiv.org/pdf/2204.04160v1,Leverage the Average: Averaged Sampling in Pre-Silicon Side-Channel Leakage Assessment,"power simulation time without significant loss in precision. In
+
+The last clock cycle executes the rest of the blocks in succession (SR,                                                              future work, we will study tests that can categorize samples as
+MC, and AddRoundKey) following which ma multiplexers choose
+the appropriate update values for each state word. mc sets the cor-                                                                  constructive or destructive to be applied to less-known designs. ",cs.AR,C,-0.09072078,-0.15591,0.015917247
+http://arxiv.org/pdf/2204.06114v1,DT2CAM: A Decision Tree to Content Addressable Memory Framework,"We report the values      selective precharge, can be extended to accommodate other
+for the sequential case (column-wise tiles operate sequentially)  ReRAM cell typologies, including ACAM [40], resulting in
+and pipelined case (column-wise tiles are pipelined). Com-        better performance which we consider for our future work. pared to the ASIC accelerators ( [17], [39]) and IMC based
+accelerators (ASIC IMC [20], ACAM [15]), our proposed                                          REFERENCES
+DT2CAM achieves the highest throughput (58.8E6 Dec/s)
+and consumes the lowest energy (0.17nJ/Dec). ",cs.AR,A,-0.21314809,0.027985215,-0.2151359
+http://arxiv.org/pdf/2204.10387v1,Enabling Effective Error Mitigation in Memory Chips That Use On-Die Error-Correcting Codes,"To prevent this problem in the future, we believe that an
+in-depth reevaluation of DRAM speci cations is warranted. Although we identify certain in-
+formation that can help DRAM consumers if released (discussed in Section 8.9), a broader study
+of areas in which design transparency can be helpful, possibly performed by system designers
+themselves, would be immensely helpful to guide future work. 9.2 Concluding Remarks
+
+In this dissertation, we explore memory error characterization and pro ling both with and
+without on-die ECC. ",cs.AR,C,-0.3027875,-0.11398757,0.2413907
+http://arxiv.org/pdf/2204.10707v1,Crescent: Taming Memory Irregularities for Accelerating Deep Point Cloud Analytics,"This strategy omits potential
+                                                                  neighbors but guarantees that the traversal terminates. 4.2 How Algorithms Proceed with Bank
+                                                                     An optimization that we leave for future work is to check
+      Conflicts Elision                                           whether the node returned from 𝐴1, the request allowed
+                                                                  to access the SRAM, is beneath the node (in the tree) that
+Feature Computation To aggregate neighbors, SRAM ac-              would have been returned from 𝐴2 if the bank conflict were
+cesses are made to retrieve neighbors of a point. Thus, ignor-    to be observed; if so, using 𝐴1 to continue the search in 𝑃2 is
+ing a conflicted access essentially ignores a point’s neighbor,   guaranteed to terminate without side effects. ",cs.AR,B,0.05811961,-0.047178186,0.17561479
+http://arxiv.org/pdf/2204.11275v1,Enabling High-Performance and Energy-Efficient Hybrid Transactional/Analytical Databases with Hardware/Software Cooperation,"The updates are stored in shared memory. studies of large-scale systems to future works. To allow coordination, ordering, and synchronization between
+different parts of islands, we need to provide coherence between                        Assumptions About the Encodings/Formats. ",cs.AR,B,-0.13922092,0.22317323,0.3520601
+http://arxiv.org/pdf/2205.01252v1,SIMD$^2$: A Generalized Matrix Instruction Set for Accelerating Tensor Computation beyond GEMM,"These accel-
+example, in GAMMA, only 10% of the total area is due to the FP64           erators propose various sparse optimizations to skip ineffectual
+MAC unit. We leave this extension to future work. computations to speed up the tensor algorithms with sparse inputs. ",cs.AR,A,0.22455049,0.30194855,-0.30699614
+http://arxiv.org/pdf/2205.01252v2,SIMD$^2$: A Generalized Matrix Instruction Set for Accelerating Tensor Computation beyond GEMM,"For
+
+example, in GAMMA, only 10% of the total area is due to the FP64
+
+MAC unit. We leave this extension to future work. It is worth mentioning that while libraries like cuSparse have
+
+an advantage in terms of space complexity when dealing with
+
+extremely sparse matrices, the compressed matrix format may con-
+
+sume more device memory when storing relatively dense matrices. ",cs.AR,A,0.0014843047,0.44732213,-0.25498644
+http://arxiv.org/pdf/2205.01252v3,SIMD$^2$: A Generalized Matrix Instruction Set for Accelerating Tensor Computation beyond GEMM,"For
+
+example, in GAMMA, only 10% of the total area is due to the FP64
+
+MAC unit. We leave this extension to future work. It is worth mentioning that while libraries like cuSparse have
+
+an advantage in terms of space complexity when dealing with
+
+extremely sparse matrices, the compressed matrix format may con-
+
+sume more device memory when storing relatively dense matrices. ",cs.AR,A,0.0014843047,0.44732213,-0.25498644
+http://arxiv.org/pdf/2205.02269v1,Fine-Grained Address Segmentation for Attention-Based Variable-Degree Prefetching,"We
+                                                                    believe TransFetch offers a new paradigm for modeling prefetch-
+                                                                    ing toward high performance and practicality. In future work, we
+                                                                    plan to explore the incorporation of software hints to improve
+                                                                    prefetching performance. ACKNOWLEDGMENTS
+
+                                                                    This work was supported by National Science Foundation (NSF)
+                                                                    under award number CCF-1912680. ",cs.AR,C,-0.07542517,-0.08905546,-0.0044388287
+http://arxiv.org/pdf/2205.04702v1,Training Personalized Recommendation Systems from (GPU) Scratch: Look Forward not Backwards,"Consequently, ScratchPipe                   N. Seshadri, L. Heldt, X. Wu, and E. Chi, “Factorized Deep Retrieval
+over multi-GPUs can severely underutilize the abundant GPU                  and Distributed TensorFlow Serving,” in Proceedings of Machine
+compute throughput, leading to lower training cost savings. A               Learning and Systems (MLSys), 2018.
+detailed, quantitative evaluation of such is beyond the scope
+of this paper and we leave it as future work. [5] NVIDIA, “NVIDIA Tesla A100,” 2020. ",cs.AR,A,0.18820253,0.081560254,-0.18786925
+http://arxiv.org/pdf/2205.05826v1,Sparseloop: An Analytical Approach To Sparse Tensor Accelerator Modeling,"With a case study, we show that Sparseloop is able to provide design insights with its flexibility
+to analyze the interactions between various dataflows, SAFs and sparsity characteristics. We leave the study of
+using Sparseloop to explore the design space as future work. ACKNOWLEDGMENTS
+
+We thank Haoquan Zhang for discussions on statistical analysis of tensor density. ",cs.AR,A,0.20944303,0.2675693,-0.06918236
+http://arxiv.org/pdf/2205.05883v1,SeGraM: A Universal Hardware Accelerator for Genomic Sequence-to-Graph and Sequence-to-Sequence Mapping,"Employing a filtering approach as part of our design would increase SeGraM’s         inx. This research was partially supported by the Semiconductor
+performance and efficiency, a study we leave to future work. Research Corporation. ",cs.AR,A,0.13526082,-0.12524697,-0.17406358
+http://arxiv.org/pdf/2205.05883v2,SeGraM: A Universal Hardware Accelerator for Genomic Sequence-to-Graph and Sequence-to-Sequence Mapping,"Employing a filtering approach as part of our design would increase SeGraM’s         inx. This research was partially supported by the Semiconductor
+performance and efficiency, a study we leave to future work. Research Corporation. ",cs.AR,A,0.13526082,-0.12524697,-0.17406358
+http://arxiv.org/pdf/2205.07311v1,COIN: Communication-Aware In-Memory Acceleration for Graph Convolutional Networks,"We
+do not exploit the adjacency matrix and feature matrix sparsity      [2] R. Ying et al., “Hierarchical graph representation learning with
+in this work while addressing the ever-important on-chip com-             differentiable pooling,” arXiv preprint arXiv:1806.08804, 2018.
+munication cost for GCN acceleration. The irregular structure
+of these matrices and the need for a column-level or block           [3] H. Dai, Z. Kozareva, B. Dai, A. Smola, and L. Song, “Learning
+sparsity for IMC is left for further research. Experimental               steady-states of iterative algorithms over graphs,” in Interna-
+evaluations across different datasets show that COIN achieves             tional conference on machine learning. ",cs.AR,A,0.29236287,0.08896148,-0.18255197
+http://arxiv.org/pdf/2205.07394v1,Sibyl: Adaptive and Extensible Data Placement in Hybrid Storage Systems Using Online Reinforcement Learning,"storage, which accommodates increasingly larger datasets. There-
+fore, we focus on hybrid storage systems and leave it to future work     13 CONCLUSION
+to study RL to manage hybrid main memories. We introduce Sibyl, the first reinforcement learning-based mecha-
+12 RELATED WORK                                                          nism for data placement in hybrid storage systems. ",cs.AR,B,-0.027292032,0.05177352,0.25267783
+http://arxiv.org/pdf/2205.07975v1,Key-Value Stores on Flash Storage Devices: A Survey,"on what storage medium to use. Some potential questions
+are: “Do key-value stores cost a large amount of energy to                Lastly, future work could look into other data stores and
+maintain? "", “How does the energy usage of key-value stores             how they can be optimised for ﬂash. ",cs.AR,B,-0.18985954,0.047369223,0.0395271
+http://arxiv.org/pdf/2205.09376v1,Multi-DNN Accelerators for Next-Generation AI Systems,"H. Kwon, L. Lai, M. Pellauer, T. Krishna, Y.-H. Chen, and
+the multiplicity and variability of DNNs. As such,                      V. Chandra, “Heterogeneous Dataﬂow Accelerators for
+further research effort needs to be invested in                         Multi-DNN Workloads,” in HPCA, 2021.
+developing scalable methodologies that overcome                    8. E. Wang, J. J. Davis, R. Zhao, H.-C. Ng, X. Niu, W. Luk,
+this complexity in order to lead to the next-                           P. Y. K. Cheung, and G. A. Constantinides, “Deep
+generation of multi-DNN platforms. ",cs.AR,A,0.27534646,-0.067861065,-0.18315804
+http://arxiv.org/pdf/2205.09552v1,Hybrid Intelligent Testing in Simulation-Based Verification,"It is also difﬁcult to                            2019.
+estimate how novelty-driven veriﬁcation will perform apriori,
+whereas metrics such as classiﬁcation accuracy could be used                    [14] B. Scho¨lkopf, R. Williamson, A. Smola, J. Shawe-Taylor, and J. Platt,
+to estimate the future performance of coverage-directed test                          “Support vector method for novelty detection,” in Proceedings of the
+selection. We are currently conducting further research to                            12th International Conference on Neural Information Processing Sys-
+develop this line of reasoning: how can we correlate learning                         tems, ser. NIPS’99. ",cs.AR,A,0.5915898,-0.16282411,0.30175883
+http://arxiv.org/pdf/2205.09552v2,Hybrid Intelligent Testing in Simulation-Based Verification,"It is also difﬁcult to                      Available: https://doi.org/10.1007/978-3-030-04666-8 13
+estimate how novelty-driven veriﬁcation will perform apriori,
+whereas metrics such as classiﬁcation accuracy could be used              [11] R. Gal, E. Haber, and A. Ziv, “Using DNNs and smart sampling for
+to estimate the future performance of coverage-directed test                    coverage closure acceleration,” in Proceedings of the 2020 ACM/IEEE
+selection. We are currently conducting further research to                      Workshop on Machine Learning for CAD, ser. MLCAD ’20. ",cs.AR,A,0.58369386,-0.227591,0.19500867
+http://arxiv.org/pdf/2205.09552v3,Hybrid Intelligent Testing in Simulation-Based Verification,"It is also difﬁcult to                      Available: https://doi.org/10.1007/978-3-030-04666-8 13
+estimate how novelty-driven veriﬁcation will perform apriori,
+whereas metrics such as classiﬁcation accuracy could be used              [11] R. Gal, E. Haber, and A. Ziv, “Using DNNs and smart sampling for
+to estimate the future performance of coverage-directed test                    coverage closure acceleration,” in Proceedings of the 2020 ACM/IEEE
+selection. We are currently conducting further research to                      Workshop on Machine Learning for CAD, ser. MLCAD ’20. ",cs.AR,A,0.58369386,-0.227591,0.19500867
+http://arxiv.org/pdf/2205.13130v1,RACE: A Reinforcement Learning Framework for Improved Adaptive Control of NoC Channel Buffers,"Table 1 summarizes the network
+the state for the RMC between routers 0 and 1 would be:                  configuration details. In this work, we do not use virtual channels
+                                                                         and consider it as one of our directions for future work. Table 1: NoC Platform Parameters
+
+                                                                         Number of cores             64
+
+𝑠 = [𝐶0𝑁, 𝐶0𝐸, 𝐶0𝑆, 𝐶0𝑊, 𝐶1𝑁, 𝐶1𝐸, 𝐶1𝑆, 𝐶1𝑊]          (3)                Topology                    8 × 8 mesh
+
+                                                                         Router buffers per port     2
+
+    While prior work only uses local information, e.g., QORE [6]         RMC subchannels             4
+uses link utilization, and CURE [7] uses buffer information (20-
+variable input state with information from the local link and            RMC buffers per subchannel  4
+router only), the credits stored in our two connected routers can
+provide us information about the routers neighboring the two             Flow control                Credit-based
+connected routers. ",cs.AR,B,0.027155375,-0.0036260346,0.13735592
+http://arxiv.org/pdf/2205.13675v1,Reinforcement Learning Approach for Mapping Applications to Dataflow-Based Coarse-Grained Reconfigurable Array,"In this paper we
+D. Pre-training and ﬁne-tuning                                                                          have given a brief overview of the SE device architecture
+                                                                                                        along with an analysis of how different design choices in
+   After training the RL model on various applications, the                                             terms of simulating the SE and neural network design impact
+RL model can be used for ﬁne-tunning on a speciﬁc task or                                               the quality of mappings obtained. As future work we wish to
+for inferencing. In Fig. ",cs.AR,A,0.19512004,-0.27734256,-0.018391155
+http://arxiv.org/pdf/2205.14122v1,Writes Hurt: Lessons in Cache Design for Optane NVRAM,"Exploring this alternative
+device endurance [14]. The throttling heuristic is rather sim-        was left for future work, since generic tiered memory systems
+ple; it is a conﬁgurable probability p that determines the            known to us, e.g., Nimble [35] and HeMem [29] required cus-
+overall rate of admission. As far as we know, p is not dy-            tom kernels that were impractical do adopt in the ﬁeld. ",cs.AR,C,-0.21018845,-0.06776506,-0.12452017
+http://arxiv.org/pdf/2205.14778v1,TransforMAP: Transformer for Memory Access Prediction,"383–389. our future work. [11] Z. Shi, A. Jain, K. Swersky, M. Hashemi, P. Ranganathan, and C. Lin,
+                          VI. ",cs.AR,A,0.113821864,-0.035746083,0.14109944
+http://arxiv.org/pdf/2205.15505v1,DNA Pattern Matching Acceleration with Analog Resistive CAM,"The proposed design is energy-                         M. Lanuzza, A. Teman, and L. Yavits, “Hamming distance tolerant
+efﬁcient, and it showed a remarkable improvement in terms                           content-addressable memory (hd-cam) for dna classiﬁcation,” IEEE
+of time cost compared to software implementations of DNA                            Access, 2022.
+pattern matching. The fabrication of this hardware accelerator
+is left for future work. Moreover, we are planning to test                    [14] Z. Kokosin´ski and W. Sikora, “An fpga implementation of a multi-
+the proposed design on practical datasets containing human                          comparand multi-search associative processor,” in International Confer-
+genome sequences. ",cs.AR,B,0.03450519,0.17262527,0.049443327
+http://arxiv.org/pdf/2206.00263v1,PiDRAM: An FPGA-based Framework for End-to-end Evaluation of Processing-in-DRAM Techniques,"We         provide. We acknowledge the generous gifts provided by our
+leave such optimizations to PiDRAM’s D-RaNGe implementa-             industrial partners, including Google, Huawei, Intel, Microsoft,
+tion for future work. and VMware. ",cs.AR,A,0.03644923,0.035491955,0.021482512
+http://arxiv.org/pdf/2206.00379v1,YOLoC: DeploY Large-Scale Neural Network by ROM-based Computing-in-Memory using ResiduaL Branch on a Chip,"This could
+model flexibility. Figure 11(b) shows that 16x compression is a                                                                                                                               be explored in future works. reasonable choice in VGGNet and ResNet for good accuracy and
+overall area savings. ",cs.AR,A,0.0446275,0.1721131,-0.18102756
+http://arxiv.org/pdf/2206.01932v1,Demeter: A Fast and Energy-Efficient Food Profiler using Hyperdimensional Computing in Memory,"Demeter is the rst work that                         accuracy. We hope that future work builds on top of our frame-
+investigates HDC in the realm of pro ling genomics data. Al-
+though HDNA [48] and GenieHD [103] propose to use HDC for                             work and its hardware and extends it to further improve our
+(partial5) sequence alignment of a single reference genome di-
+vided into multiple pieces, they never exploit it for any metage-                     food pro ling systems. ",cs.AR,B,0.026067832,0.019419255,0.36936462
+http://arxiv.org/pdf/2206.01932v2,Demeter: A Fast and Energy-Efficient Food Profiler using Hyperdimensional Computing in Memory,"HDC-based Systems                                                                racy. We hope that future work builds on top of our framework
+                                                                                      and its hardware and extends it to further improve our food
+   Many works exploit the HDC paradigm for speci c machine                            pro ling systems. learning applications that require capturing temporal pa erns. ",cs.AR,B,0.13662279,-0.049646072,0.31002808
+http://arxiv.org/pdf/2206.02051v1,Fast and Accurate Error Simulation for CNNs against Soft Errors,"It is worth noting that this manual             imately 2,000 lines of codes. inspection is the only step which requires the designer inter-
+action (as shown in the ﬁgure); future work will be devoted              6 ERROR MODELING RESULTS
+in its automation by means of data mining techniques. This section presents the results of the application of the
+    The output of this step is a tabular report describing               methodological framework in the deﬁnition of the error
+all the identiﬁed clusters together with the corresponding               models. ",cs.AR,B,0.4355483,-0.017662646,0.5372844
+http://arxiv.org/pdf/2206.02051v2,Fast and Accurate Error Simulation for CNNs against Soft Errors,"It is worth noting that this manual             imately 2,000 lines of codes. inspection is the only step which requires the designer inter-
+action (as shown in the ﬁgure); future work will be devoted              6 ERROR MODELING RESULTS
+in its automation by means of data mining techniques. This section presents the results of the application of the
+    The output of this step is a tabular report describing               methodological framework in the deﬁnition of the error
+all the identiﬁed clusters together with the corresponding               models. ",cs.AR,B,0.4355483,-0.017662646,0.5372844
+http://arxiv.org/pdf/2206.02987v1,A Formalism of DNN Accelerator Flexibility,"We believe this work will help both compiler developers and architects systematically develop
+flexibility-aware accelerator designs. Given that flexibility is often not added in HW to simplify
+engineering effort, we envision partial flexibility being ripe for future work. In future, we hope our
+analysis can be expanded to cover even more complex aspects of data orchestration and generalized
+beyond DNNs. ",cs.AR,A,0.114661865,0.014192756,0.025473315
+http://arxiv.org/pdf/2206.07308v1,Cost-Aware Exploration for Chiplet-Based Architecture with Advanced Packaging Technologies,"power, area, and cost simultaneously. All these will be explored in
+                                                                                                                                           our future work. A. Heterogeneous Chiplet System with HBM Stacks
+                                                                                                                                              1According to public data [13], HBM1 takes the area of 5.48mm×7.29mm. ",cs.AR,A,-0.09518422,0.031955086,-0.041084044
+http://arxiv.org/pdf/2206.07984v1,Vesyla-II: An Algorithm Library Development Tool for Synchoros VLSI Design Style,"Section III explains in detail how Vesyla works by focusing on its internal data structure. And
+finally, section IV concludes the paper and points out the direction for future works. 2 BACKGROUND
+
+2.1 Synchoros VLSI Design and Its Synthesis Flow
+
+In this sub-section, we provide the background information on the VLSI design style that Vesyla
+targets which differentiate it from the standard cell based VLSI design style targeted by conventional
+high-level synthesis (HLS) tools or algorithm-level synthesis (AGLS) tools. ",cs.AR,A,-0.108358905,-0.06970367,0.18155505
+http://arxiv.org/pdf/2206.07984v2,Vesyla-II: An Algorithm Library Development Tool for Synchoros VLSI Design Style,"Section III explains in detail how Vesyla-II works by focusing on its internal data structure. And
+finally, section IV concludes the paper and points out the direction for future works. 2 BACKGROUND
+
+2.1 Synchoros VLSI Design and Its Synthesis Flow
+
+In this sub-section, we provide the background information on the VLSI design style that Vesyla
+targets which differentiate it from the standard cell based VLSI design style targeted by conventional
+high-level synthesis (HLS) tools. ",cs.AR,A,-0.14862421,-0.09450218,0.16542625
+http://arxiv.org/pdf/2206.08432v1,GraphScale: Scalable Bandwidth-Efficient Graph Processing on FPGAs,"accelerators such as HitGraph and ThunderGP with an average
+                                                                         speedup of 2.3 and up to 4.77 on dense graphs. C. Discussion
+                                                                            In future work, we will further explore partitioning schemes
+   Overall, we observe an average speedup of 2.3 over the                to improve partition balance (e. g., as in [22]) and decrease
+two state-of-the-art graph processing accelerators HitGraph              overhead for large graphs. The promising results on four-
+and ThunderGP with a maximum speedup of 4.77 for BFS on                  channel DDR4 memory suggest an application of GraphScale
+the wiki-talk graph over ThunderGP, conﬁrming the potential              to modern multi-channel memory like HBM. ",cs.AR,B,-0.16494918,0.1316577,-0.20576808
+http://arxiv.org/pdf/2206.09999v1,Understanding RowHammer Under Reduced Wordline Voltage: An Experimental Study Using Real DRAM Devices,"Using real-device experiments and SPICE simulations,
+ECC, or doubling the refresh rate only for a small fraction of          we demonstrate that although the reduced VPP slightly wors-
+rows when the chip operates at reduced VPP). We believe such            ens DRAM access latency, charge restoration process and data
+designs are important to explore in future work. We hope that           retention time, most of (208 out of 272) tested chips reliably
+the new insights we provide can lead to the design of stronger          work under reduced VPP leveraging already existing guardbands
+DRAM-based systems against RowHammer along with better-                 of nominal timing parameters and employing existing ECC or
+informed DRAM-based system designs. ",cs.AR,C,-0.3585438,-0.21428734,-0.035260495
+http://arxiv.org/pdf/2206.10377v1,Can we trust our energy measurements? A study on the Odroid-XU4,"The main criticism of the shunt resistor
+in combination with an ADC. The ADC then digitises the           method is that a single shunt is only useful in a limited current
+information for further analysis. range [20], [15]. ",cs.AR,A,0.24921243,-0.15911525,0.1684751
+http://arxiv.org/pdf/2206.12358v1,Low- and Mixed-Precision Inference Accelerators,"The memory capacity of the SCM versions is very low
+compared to the SRAM versions, hindering the ability to run full-size networks on it
+without adding expensive oﬀ-chip memory accesses. For the sake of comparison, for
+all the architectures with an SRAM version available, the SRAM version is chosen
+for further analysis. Support for residual layers can only be found in ChewBaccaNN and BrainTTA. ",cs.AR,C,-0.22481214,-0.030129664,-0.007623203
+http://arxiv.org/pdf/2206.13601v1,Efficient Deep Learning Using Non-Volatile Memory Technology,"Thus, last-level caches of mobile CPUs or hardware accelerators can
+also be replaced by STT-MRAM and SOT-MRAM to improve performance and
+energy by reducing leakage energy and costly oﬀ-chip memory accesses due to
+their non-volatility and higher cell density [79, 80, 81, 82]. Therefore, the design
+space exploration of STT-MRAM and SOT-MRAM for mobile CPUs and hardware
+accelerators for inference workloads merits further research. 6 Conclusion
+
+In this chapter, we present the ﬁrst cross-layer analysis framework to characterize,
+model, and analyze various NVM technologies in GPU architectures for deep learn-
+ing workloads. ",cs.AR,C,-0.11310713,-0.20148432,-0.18624225
+http://arxiv.org/pdf/2206.13734v1,H-GCN: A Graph Convolutional Network Accelerator on Versal ACAP Architecture,"Speciﬁcally,         GCN achieves speedups of 1.1∼2.3×. In the future work,
+when the densities are 0.1%, 0.5%, 1.0%, 5.0%, and 10.0%,             we will address computation of gradually evolving GCNs by
+the run times of PL are 0.18 µs, 0.88 µs, 1.75 µs, 8.41 µs,           exploiting online graph reordering by leveraging the ARM
+and 16.82 µs, respectively. The run times of AIE are 1.1 µs,          processors in the Versal ACAPs. ",cs.AR,A,0.028707765,0.006090552,-0.18058944
+http://arxiv.org/pdf/2206.13970v1,RAPID: AppRoximAte Pipelined Soft Multipliers and Dividers for High-Throughput and Energy-Efficiency,"(2016). For future work, we intend to assess the efﬁcacy of the
+RAPID pipeline mode in different application domains, e.g., Neural                           [13] Xilinx. 2018. ",cs.AR,A,0.25075954,-0.06810949,0.0021056347
+http://arxiv.org/pdf/2206.15165v1,MatPIM: Accelerating Matrix Operations with Memristive Stateful Logic,"While alternative techniques such as analog memristive com-
+We choose a crossbar that supports the FELIX [13] suite of         puting are widely explored for neural networks, the mMPU is
+logic gates, and modify the results from previous works [18],      also an attractive architecture for data-intensive applications
+[19] to assume the state-of-the-art arithmetic for addition        due to the high-throughput within crossbar arrays and low
+and multiplication [14], providing a fair comparison of the        area overhead; the expansion of the proposed algorithms to
+algorithmic concepts rather than the speciﬁc stateful-logic        applications such as neural networks will be investigated in
+technique. We consider a 1024 × 1024 crossbar array with           future work. Overall, we provide an efﬁcient foundation for the
+32 partitions within rows and columns. ",cs.AR,A,0.0063355826,-0.012468779,-0.07708419
+http://arxiv.org/pdf/2207.00459v1,RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability,"By comparing against Approximation through                        [10] T. Alan, A. Gerstlauer, and J. Henkel, “Runtime accuracy-conﬁgurable
+Logic Isolation, we highlight the state-of-the-art performance                         approximate hardware synthesis using logic gating and relaxation,” in
+of our RUCA approach. In future work, we plan to analyze                               Design, Automation & Test in Europe Conference & Exhibition (DATE). the inﬂuence of different partitioning schemes on RUCA, and                            IEEE, 2020, pp. ",cs.AR,A,0.050126985,0.031153351,0.044779483
+http://arxiv.org/pdf/2207.05241v1,Accelerating Large-Scale Graph-based Nearest Neighbor Search on a Computational Storage Platform,"than the conventional CPU-based and GPU-based server platform,
+Signiﬁcant performance improvement can be achieved by larger          respectively. For future works, we plan to improve the performance
+bandwidth SSD and P2P communication, but GDS still requires           of the computational storage platform even further by scaling up
+the GPU and SSD to be connected via the long PCIe lanes on the        the system with more SmartSSD devices. We also plan to increase
+mainboard, unlike the SmartSSD based server platform, which           the size of the vector database to tens of TBs so that we can fully
+deﬁnitely causes more power consumption than the proposed             utilize the platform’s capability. ",cs.AR,A,-0.18392563,0.017542703,-0.1178526
+http://arxiv.org/pdf/2207.06150v1,Estimating the Power Consumption of Heterogeneous Devices when performing AI Inference,"With popular frameworks and libraries
+such as TensorFlow, Darknet, and PyTorch being supported, the community
+around these products is thriving and is full of how-to knowledge and good tips
+
+                                                  15
+and advice for many use cases and applications. For future work, the authors will expand this research to other DL algorithms
+
+suitable to be used in edge devices. The authors will also explore the use
+of Machine Learning (ML) for estimation of power consumption and reducing
+power consumption in real-time. ",cs.AR,A,0.21684958,-0.22152005,-0.23595925
+http://arxiv.org/pdf/2207.07258v1,Multi-node Acceleration for Large-scale GCNs,"data volume in system due to massive copies of neighboring fea-      This leaves room for further optimizing the design to ﬁt different
+ture vectors in each GPU. Figure 10(b) shows that MultiGCN (128      requirements, which will be explored in our future work. nodes and 8 TOPS) achieves average 9.6× and 2.3× speedup over
+OPPE-based MulAccSys (128 nodes and 8 TOPS) and OPPR-                    Graph Characteristic Sensitivity. ",cs.AR,A,-0.007708721,0.100344084,-0.26031125
+http://arxiv.org/pdf/2207.07258v2,Multi-node Acceleration for Large-scale GCNs,"We believe our work will
+DRAM accesses are variable across different numbers of rounds. draw more attention to the design of domain-speciﬁc processor
+This leaves room for further optimizing the design to ﬁt different                                                        clusters for increasingly important GNNs and graph-structured
+requirements, which will be explored in our future work. data. ",cs.AR,A_centroid,-0.15947741,-0.118360505,-0.037220534
+http://arxiv.org/pdf/2207.07626v1,Computing-In-Memory Neural Network Accelerators for Safety-Critical Systems: Can Small Device Variations Be Disastrous?,"3, 2022, San Diego, CA                                                                    Zheyu Yan, Xiaobo Sharon Hu, and Yiyu Shi
+
+                100  MC Actual                                                                           enhancing DNN robustness. Experimental results suggest that they
+                                                                                                         either induce significant overhead or are not quite effective, and
+                80                                                                                       further research is needed. Error Rate (%)  60                                                                                          The main contributions of this work are multi-fold:
+
+                40                                                                                            • This is the first work that formulates the problem of find-
+                                                                                                                 ing worst-case performance in DNN CiM accelerators with
+                20                                                                                               device variations for safety-critical applications. ",cs.AR,A,0.38916808,-0.21387294,-0.12850478
+http://arxiv.org/pdf/2207.07862v2,MAC-DO: Charge Based Multi-Bit Analog In-Memory Accelerator Compatible with DRAM Using Output Stationary Mapping,"Detailed software/system support is out                                    input voltages Vin. of the scope of this paper and planned as future work. C. Circuit Implementation
+B. Parameters of MAC-DO Test Circuits
+                                                                                                     MAC-DO has been simulated in transistor level by using
+                           TABLE I                                                                Cadence Spectre Simulator [1] under a 65nm CMOS process. ",cs.AR,A,0.14076376,-0.20005973,-0.045994967
+http://arxiv.org/pdf/2207.07917v1,Chimera: A Hybrid Machine Learning Driven Multi-Objective Design Space Exploration Tool for FPGA High-Level Synthesis,"Section V describes the experiments
+For this reason, the DSE tool also needs to perform multi-          conducted to evaluate the Chimera tool and present the results
+objective optimizations, so that it not only ﬁnds the extreme       acquired with discussion. Finally, Section VI concludes this
+design points with the lowest latency, resource, or power           paper with the current limitations and future works. consumption but also attempts to ﬁnd the Pareto efﬁcient
+points in between. ",cs.AR,A,0.18872125,-0.1060344,-0.03541648
+http://arxiv.org/pdf/2207.09765v1,ApHMM: Accelerating Profile Hidden Markov Models for Fast and Energy-Efficient Genome Analysis,"Third, ApHMM          reductions compared to CPU, GPU, and FPGAs, as ApHMM
+provides slightly better performance than the existing FPGA           minimizes redundant computations and data movement over-
+accelerator (FPGA D&C) in all applications, even though we            head for executing the Baum-Welch algorithm. We hope that
+ignore the data movement overhead of FPGA D&C, which                  ApHMM enables further future work by accelerating the re-
+suggests that ApHMM may perform much better than FPGA                 maining steps used with pHMMs (e.g., Viterbi decoding) based
+D&C in real systems. We conclude that ApHMM improves the              on the optimizations we provide in ApHMM. ",cs.AR,B,-0.19017276,0.21661156,-0.11699034
+http://arxiv.org/pdf/2207.11360v1,Hardware-based Scheduler Implementation for Dynamic Workloads on Heterogeneous SoCs,"As the injection rate goes beyond a certain level                                                         maintain correct application execution. As future work, we will
+(> 250 Mbps), the execution time per application starts to                                                                explore acceleration of energy-aware scheduling heuristics in
+saturate on average, at 131.37 ms and 89.79 ms for HEFTRT                                                                 order to expand our evaluations beyond focusing purely on
+and HEFTRT HW respectively. The saturation is caused by                                                                   optimization of execution time. ",cs.AR,C,-0.110863365,-0.16314915,-0.17758113
+http://arxiv.org/pdf/2207.11360v2,A Hardware-based HEFT Scheduler Implementation for Dynamic Workloads on Heterogeneous SoCs,"As the injection rate goes beyond a certain level                                                         maintain correct application execution. As future work, we will
+(> 250 Mbps), the execution time per application starts to                                                                explore acceleration of energy-aware scheduling heuristics in
+saturate on average, at 131.37 ms and 89.79 ms for HEFTRT                                                                 order to expand our evaluations beyond focusing purely on
+and HEFTRT HW respectively. The saturation is caused by                                                                   optimization of execution time. ",cs.AR,C,-0.110863365,-0.16314915,-0.17758113
+http://arxiv.org/pdf/2207.11437v1,The prediction of the quality of results in Logic Synthesis using Transformer and Graph Neural Networks,"But for a circuit like des3_area
+(Figure 13-d), the model cannot distinguish well between the QoR values of the optimization sequence, indicating that the
+data distribution during training is much different from the test distribution, and the model cannot make a good
+generalization for this type of circuit. Hence, a comprehensive collection of circuits with different feature distributions will
+be a priority in future work. 6 CONCLUSION
+This work proposes a joint learning policy based on GNN and Transformer, that estimates the QoR of unseen circuit-
+optimization sequence pairs. ",cs.AR,A,0.51862603,-0.1940533,-0.060601987
+http://arxiv.org/pdf/2207.12314v1,AutoCellLibX: Automated Standard Cell Library Extension Based on Pattern Mining,"However, currently,
+the timing-consuming layout synthesis, especially the simulated-              Since it is our initial attempt to explore the potentials of design-
+annealing transistor placer and MILP compactor, takes up more than         aware pattern mining of VLSI netlist and standard cell customization,
+95% of the runtime of AutoCellLibX for the benchmarks, although            these limitations are out of the scope of this proposed work, which
+AutoCellLibX has already pruned most of the minor patterns to avoid        presents an interesting and concrete approach to customizing standard
+unnecessary layout generation and reduce the runtime. The average          cells, and we will consider more factors in our future works. runtime is 1152 seconds for all the benchmarks while the longest
+runtime is 3869 seconds for benchmark ”voter”. ",cs.AR,A,0.011936668,-0.07239246,-0.09165505
+http://arxiv.org/pdf/2207.13358v1,"A Case for Self-Managing DRAM Chips: Improving Performance, Efficiency, Reliability, and Security via Autonomous in-DRAM Maintenance Operations","We believe SMD enables
+                                                                                                          such proﬁling in a seamless way. Due to limited space, we leave the
+                                                                                                          development and analysis of it to future work. 7
+be refreshed, as indicated by the lock region and row address          proposed as a mechanisms in the MC, which makes it difﬁ-
+counters. ",cs.AR,B,-0.0664847,0.09460497,0.34198505
+http://arxiv.org/pdf/2207.13358v2,"A Case for Self-Managing DRAM Chips: Improving Performance, Efficiency, Reliability, and Security via Autonomous in-DRAM Maintenance Operations","We believe SMD enables
+                                                                                                          such proﬁling in a seamless way. Due to limited space, we leave the
+                                                                                                          development and analysis of it to future work. 7
+or not the RG number of rows, starting from the address                   Inspired by PARA [67], we implement an in-DRAM main-
+indicated by the lock region and row address counters, are             tenance mechanism called Probabilistic RowHammer Protec-
+retention-weak rows by testing their row addresses using the           tion (SMD-PRP). ",cs.AR,B,-0.15659213,0.095936716,0.24416342
+http://arxiv.org/pdf/2207.13795v1,Sectored DRAM: An Energy-Efficient High-Throughput and Practical Fine-Grained DRAM Architecture,"We discuss various aspects (e.g., cache block management,
+                                                                            coherency) of Sectored DRAM’s implementation of sectored
+                                                                            caches in detail:
+
+                                                                         7
+Cache Block Evictions. When a cache block with a dirty                    architectures in Sectored DRAM to future work. sector is evicted from a higher level cache, the dirty sector in
+that cache block overwrites the copy of the same cache block in           5.3. ",cs.AR,C,-0.36574075,-0.14008446,0.25452334
+http://arxiv.org/pdf/2207.13795v2,Sectored DRAM: An Energy-Efficient High-Throughput and Practical Fine-Grained DRAM Architecture,"We use sectored caches                               New Load Instruction
+to minimize the storage and hardware complexity overheads
+in Sectored DRAM and leave the exploration of other cache                    Figure 7: LSQ Lookahead mechanism. architectures in Sectored DRAM to future work. LSQ Lookahead works in two steps. ",cs.AR,C,-0.41904595,-0.091631785,0.102528244
+http://arxiv.org/pdf/2207.14033v1,Identifying and Exploiting Sparse Branch Correlations for Optimizing Branch Prediction,"Our study unlocks several other topics for explo-                 [14] R. Gupta, E. Mehofer, and Y. Zhang, “Proﬁle guided compiler
+ration, mainly related to the optimization of ofﬂine training                        optimizations,” 2002.
+of sparse models. In future work, we plan to investigate the
+effectiveness of other algorithms from the quiver of sparse                    [15] G. Hamerly, E. Perelman, J. Lau, and B. Calder, “Simpoint 3.0: Faster
+modeling and also study their runtime adaptability. and more ﬂexible program phase analysis,” Journal of Instruction
+                                                                                     Level Parallelism, vol. ",cs.AR,A,0.18124188,0.18667234,-0.11709429
+http://arxiv.org/pdf/2207.14482v1,Domain-Specific Quantum Architecture Optimization,"In this experiment, we selected the heavy-hexagon-                       tectures can still demonstrate ﬁdelity improvements across
+based and grid-based architectures optimized for the QAOA-8                      different instances under the same application domain. Our
+circuit used in Section VII-A (target circuit) as an example                     future work will continue generalizing our framework to a
+for demonstration, and utilized the other thirty random QAOA                     wider range of architecture types and applications. Rather
+graphs of size 8 for evaluation. ",cs.AR,A,0.030545264,-0.10689251,-0.18806188
+http://arxiv.org/pdf/2208.00331v1,CoNLoCNN: Exploiting Correlation and Non-Uniform Quantization for Energy-Efficient Low-precision Deep Convolutional Neural Networks,"Strategy 2: Exploit correlation between neighboring feature                   noise having the same magnitude. Similar to (b), (d) shows the
+map values to reduce the effective variance and mean of quan-                    results for layer 4.
+tization error
+                                                                                    To further study the impact of mean shifts in the output
+   Here, we ﬁrst analyze the impact of variations in the bias                    feature maps, we performed an experiment where we added noise
+values of a CNN on its classiﬁcation accuracy. Note that this
+generated using a Gaussian distribution to the bias values of                                                           Based on the above analysis, we conclude that only intra-
+the ﬁlters/neurons of different layers of a pre-trained AlexNet                                                      feature map correlation can be exploited for error compensation. ",cs.AR,A,0.4520718,-0.15676358,-0.08085258
+http://arxiv.org/pdf/2208.00693v1,A 23 $μ$W Keyword Spotting IC with Ring-Oscillator-Based Time-Domain Feature Extraction,"The lowest learning rate is 5e-4. Using quantization-           to be sufﬁciently large, and our future work will include an
+aware training, the activations and weights are quantized to            additional ultra-low-power pre-ampliﬁer [33] before the VTC
+14-bits and 8-bits respectively. circuit. ",cs.AR,A,0.25305915,-0.13039333,-0.3559349
+http://arxiv.org/pdf/2208.01243v1,A Framework for High-throughput Sequence Alignment using Real Processing-in-Memory Systems,"DPU which underutilizes the DPU pipelines. This issue can
+be mitigated by using multiple DPU threads to align a single                     The third observation is that for the implementations that
+sequence pair in order to improve the utilization of the pipeline,            use a moderate amount of memory for the intermediate
+which is the subject of our future work. alignment data structures (i.e., WFA and WFA-adaptive), the
+                                                                              implementations that use WRAM only are faster for shorter
+                    100                                                       reads (up to 1.17× for WFA and 1.12× for WFA-adaptive). ",cs.AR,B,-0.1559075,0.15505281,0.21239275
+http://arxiv.org/pdf/2208.02703v1,"Static Hardware Partitioning on RISC-V -- Shortcomings, Limitations, and Prospects","2010. In future work, we will investigate the advanced interrupt  [17] Udo Steinberg and Bernhard Kauer. “NOVA: a
+architecture of the RISC-V ecosystem. ",cs.AR,A,-0.013403976,-0.070787884,0.151086
+http://arxiv.org/pdf/2208.04854v1,Design of High-Throughput Mixed-Precision CNN Accelerators on FPGA,"Table III) could be even more pronounced, as shown in
+                                              VI\HP PIHWWULFO3(DDUUD\GLPHQVLRQV                  [5]–[10]. We leave the optimization of word-length per layer
+                                                                                                      to future work, because we focus in this work on the hardware
+                                                                                                          accelerator. Those future optimizations could improve accuracy
+                                             +:& %5$0V                                             while maintaining memory footprint. ",cs.AR,A,-0.01539909,0.07068165,-0.1513104
+http://arxiv.org/pdf/2208.07124v1,ECI: a Customizable Cache Coherency Stack for Hybrid FPGA-CPU Architectures,"to offload SQL data processing [16]. For reasons of space, we leave
+other, more complex use cases that involve manipulating coherency           The most basic protocol, MSI, consists of three stable states
+for future work. The use case we analyze in detail demonstrates the      modified, shared and invalid. ",cs.AR,B,0.031186214,0.11655473,0.36061615
+http://arxiv.org/pdf/2208.08886v1,"Designing, Modeling, and Optimizing Data-Intensive Computing Systems","We interpret Sibyl’s policy through
+our explainability analysis and conclude that Sibyl provides an effective and robust
+approach to data placement in current and future hybrid storage systems. We hope
+that Sibyl and our open-sourced implementation of it [95] inspire future work and
+ideas in self-optimizing storage and memory systems. Chapter 8
+
+Conclusions and Future
+
+Directions
+
+    In this dissertation, the goal was twofold. ",cs.AR,B,-0.09916811,0.09747751,0.28370675
+http://arxiv.org/pdf/2208.10770v1,SASA: A Scalable and Automatic Stencil Acceleration Framework for Optimized Hybrid Spatial and Temporal Parallelism on HBM-based FPGAs,"Section 5 evaluates the performance of SASA on
+a comprehensive set of stencil benchmarks with different numbers of iterations, compares the
+performance of different parallelism optimizations, and demonstrates that SASA achieves an average
+speedup of 3.74× and up to 15.73× speedup over state-of-the-art automatic stencil acceleration
+framework SODA [4]. Finally, Section 6 concludes this paper and discusses the future work. ACM Trans. ",cs.AR,A,0.03599439,0.14219938,-0.08783445
+http://arxiv.org/pdf/2208.11449v2,QPU-System Co-Design for Quantum HPC Accelerators,"We ﬁnd this decrease
+to be a crucial improvement with regards to circuit execution times, but it also
+beneﬁts NISQ systems, since shorter circuits pick up less eﬀects of noise. Given
+limited space, we can unfortunately not study the impact of noise further in this
+paper, but retain this aspect for future work. Circuit Depth [k]      0.0139  0.05  0.25  0.5  0.9                                        Graph
+                                                                                           Density
+                   10
+                                                                                                   0.1
+                   5                                                                               0.5
+                                                                                                   0.9
+                   0
+                         25 50 75 100 25 50 75 100 25 50 75 100 25 50 75 100 25 50 75 100
+
+                                                           # Qubits
+
+Fig. ",cs.AR,C,0.058066934,-0.1886628,-0.41844398
+http://arxiv.org/pdf/2208.11449v3,QPU-System Co-Design for Quantum HPC Accelerators,"We ﬁnd this decrease
+to be a crucial improvement with regards to circuit execution times, but it also
+beneﬁts NISQ systems, since shorter circuits pick up less eﬀects of noise. Given
+limited space, we can unfortunately not study the impact of noise further in this
+paper, but retain this aspect for future work. Circuit Depth [k]      0.0139  0.05  0.25  0.5  0.9                                        Graph
+                                                                                           Density
+                   10
+                                                                                                   0.1
+                   5                                                                               0.5
+                                                                                                   0.9
+                   0
+                         25 50 75 100 25 50 75 100 25 50 75 100 25 50 75 100 25 50 75 100
+
+                                                           # Qubits
+
+Fig. ",cs.AR,C,0.058066934,-0.1886628,-0.41844398
+http://arxiv.org/pdf/2208.11449v4,QPU-System Co-Design for Quantum HPC Accelerators,"We ﬁnd this decrease
+to be a crucial improvement with regards to circuit execution times, but it also
+beneﬁts NISQ systems, since shorter circuits pick up less eﬀects of noise. Given
+limited space, we can unfortunately not study the impact of noise further in this
+paper, but retain this aspect for future work. Circuit Depth [k]      0.0139  0.05  0.25  0.5  0.9                                        Graph
+                                                                                           Density
+                   10
+                                                                                                   0.1
+                   5                                                                               0.5
+                                                                                                   0.9
+                   0
+                         25 50 75 100 25 50 75 100 25 50 75 100 25 50 75 100 25 50 75 100
+
+                                                        Problem Size
+
+Fig. ",cs.AR,C,0.08793849,-0.17271328,-0.3954431
+http://arxiv.org/pdf/2208.12392v1,DiVa: An Accelerator for Differentially Private Machine Learning,"Convolutional Neural Network Computing,” in Proceedings
+However, it is unclear how such co-location enabled GEMM                of the International Symposium on Computer Architecture
+engine can efﬁciently handle the backpropagation stages                 (ISCA), 2016.
+of deriving both activation and weight gradients (i.e., prior
+multi-tenant ML accelerators strictly focus on inference, not      [4] R. Anil, B. Ghazi, V. Gupta, R. Kumar, and P. Manurangsi,
+training), a feature naturally supported under the systolic             “Large-Scale Differentially Private BERT,” in arxiv.org, 2021.
+dataﬂow as well as our proposed DiVa design. Optimizing
+DiVa’s spatial array to handle these cases is beyond the scope     [5] Apple, “Learning with Privacy at Scale,” https://docs-
+of our work and we leave it as future work. assets.developer.apple.com/ml-research/papers/learning-with-
+                                                                        privacy-at-scale.pdf, 2017. ",cs.AR,A,0.2310251,-0.007371999,-0.010584381

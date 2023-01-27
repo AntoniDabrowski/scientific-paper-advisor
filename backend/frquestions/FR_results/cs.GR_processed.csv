@@ -1,0 +1,741 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00094v1,Wavelet Transparency,"can change under camera motion along the view vector. We propose
+                                                                       future work exploring the use of complex wavelets [SBK05], which
+   We conclude that across all results, Wavelet is the most robust     are nearly shift invariant, although more difﬁcult to optimize. Sta-
+because it is consistently among the best approximations, even         tionary wavelets are also shift invariant, although require too many
+though in speciﬁc cases others may also perform well. ",cs.GR,B,-0.27694476,-0.21050459,0.14330688
+http://arxiv.org/pdf/2201.01261v1,ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality,"Additionally, more user
+collisions during locomotion in VR are mainly caused by differences       studies should be conducted to investigate whether or not ENI aligns
+in the layouts of the PE and VE. By uniformly sampling the envi-          with users’ subjective perception of the navigability, though this will
+ronments and computing visibility polygons at sampled points, our         require careful consideration to ensure that all participants have the
+metric accurately captures the features of the environments that are      same notion of “navigability.” Another area for future work is to
+amenable to collision-free navigation (namely, the local surround-        investigate the cause of the plateauing effect we saw in navigability
+ings of a user across the PE and VE). We validate our metric through      scores in Sect. ",cs.GR,B,-0.06858015,0.28076416,-0.043650318
+http://arxiv.org/pdf/2201.01261v2,ENI: Quantifying Environment Compatibility for Natural Walking in Virtual Reality,"Additionally, more user
+collisions during locomotion in VR are mainly caused by differences       studies should be conducted to investigate whether or not ENI aligns
+in the layouts of the PE and VE. By uniformly sampling the envi-          with users’ subjective perception of the navigability, though this will
+ronments and computing visibility polygons at sampled points, our         require careful consideration to ensure that all participants have the
+metric accurately captures the features of the environments that are      same notion of “navigability.” Another area for future work is to
+amenable to collision-free navigation (namely, the local surround-        investigate the cause of the plateauing effect we saw in navigability
+ings of a user across the PE and VE). We validate our metric through      scores in Sect. ",cs.GR,B,-0.06858015,0.28076416,-0.043650318
+http://arxiv.org/pdf/2201.01873v1,DeepMLS: Geometry-Aware Control Point Deformation,"making the weight of the most dominant          Figure 5 are due to the very high weights, experienced by surface
+control point approach 1 and the other weights approach 0. In            points that are close to the input control points, as further analysis
+Section 4.4, we show the impact of this temperature parameter. shows in Section 4.3. ",cs.GR,C,0.1593073,0.19094625,-0.1283654
+http://arxiv.org/pdf/2201.01873v2,NeuralMLS: Geometry-Aware Control Point Deformation,"We claim that the artifacts in
+Section 4.4, we show the impact of this temperature parameter. Figure 5 are due to the very high weights, experienced by surface
+                                                                         points that are close to the input control points, as further analysis
+4 Experiments                                                            shows in Section 4.3. In this section we demonstrate the key beneﬁts of our method,            Quantitative Evaluation. ",cs.GR,C,0.14258766,0.079412766,-0.18660937
+http://arxiv.org/pdf/2201.02374v3,As-Continuous-As-Possible Extrusion Fabrication of Surface Models,"of material may leave noticeable seam lines between parts after
+                                                                             solidifying of materiel. In future work, we would like to study the
+   Limitations and Future work. Regarding the toolpath, improve-             generalization of more complex surface models by considering more
+ment space still exists. ",cs.GR,C,0.35279724,0.08104062,0.12853324
+http://arxiv.org/pdf/2201.02610v1,Embodied Hands: Modeling and Capturing Hands and Bodies Together,"2016; Tzionas and Gall 2015]. Please
+note that all failure cases are included in our dataset [MANO web]           Finally we plan to use SMPL+H registrations to train models
+to spur future work. capturing how hand motion is correlated with body motion. ",cs.GR,B,-0.17074926,0.38531584,0.12600653
+http://arxiv.org/pdf/2201.03446v1,Two Methods for Iso-Surface Extraction from Volumetric Data and Their Comparison,"
+                                                                                                                                                                                  A similar explanation can be made about
+                                                                                                                                                                        the better image results with the second
+                                                                                                                                                                        decomposition: human eye is sensitive to edges and
+                                                                                                                                                                          gradient changes of a surface. 5 VSKHUH UDGLXV
+                                                                                                                                                                                    It is expected that future work will
+         Relative volume error of each sphere when                                                                                                                        elaborate this phenomena more in detail. construction of the 51Sphere is performed
+
+                              Chart 7
+
+GKPO'2000                                                                                                                                                                 8
+Machine Graphics&Vision, No.1/2, Vol.9, pp.149-166, Poland Academy of Sciences, Poland, ISSN 1230-0535, 2000. ",cs.GR,A,0.08719837,-0.21171056,-0.1303342
+http://arxiv.org/pdf/2201.04439v1,Real-Time Style Modelling of Human Locomotion via Feature-Wise Transformations and Local Motion Phases,"The dashed red box in Figure 3 represents calculating
+Preprint, January 2022,                                                                                                                               Ian Mason, Sebastian Starke, and Taku Komura
+
+mean squared error across all predicted features in zˆ 𝑗 and regu-                                       that we are able to resolve; analyse our methodology and, in Sec-
+larised with a dropout rate of 0.3 everywhere [49]. We also find                                         tion 6, motivate future work in style modelling. a bone length loss useful to help reduce bone stretching artifacts. ",cs.GR,B,-0.092683464,0.27769017,-0.061698012
+http://arxiv.org/pdf/2201.06256v1,A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces,"It would be interesting to investigate whether
+                                                                                our minimal-exact-arithmetic approach could be extended to handle
+                                                                                non-simple immersions as well. Other future work includes im-
+                                                                                provements to the algorithm to handle known pathological cases
+                                                                                without the need for refinement and subsequent coarsening, as well
+                                                                                as improved detection mechanisms for such cases. Lastly, Figure 3 illustrates an interesting case which neither our
+                                                                                approach, that of Li and Barbič [2018] nor that of Sacht et al. ",cs.GR,A,-0.026213817,-0.13109942,0.01495558
+http://arxiv.org/pdf/2201.08266v1,Real-time Rendering for Integral Imaging Light Field Displays Based on a Voxel-Pixel Lookup Table,"Pixels in a row have     skipping black voxels to save time, leaving a large room for
+the same X-index; pixels in a column have the same Y-index. future work. Thus, only one X-index must be stored for each row, and one Y-
+index for each column. ",cs.GR,C,0.026140142,-0.062715925,-0.10968392
+http://arxiv.org/pdf/2201.09147v1,MIP-plicits: Level of Detail Factorization of Neural Implicits Sphere Tracing,"(64, 1) ▷ (256, 3) can be used. Remember that the baseline already
+has good performance, since it uses a fast GEMM-based inference           MIP-plicits open paths for several future work options. For exam-
+renderer implemented in CUDA and CUTLASS. ",cs.GR,B,-0.06419694,0.0067443093,-0.2498754
+http://arxiv.org/pdf/2201.09147v2,Neural Implicit Mapping via Nested Neighborhoods,"SDFs, enabling smooth normal fetching for discretized rep-
+resentations such as meshes as well. This work opens paths for several future work options. 7
+Figure 8. ",cs.GR,C,0.19999808,-0.048654772,0.06080994
+http://arxiv.org/pdf/2201.09263v1,Differential Geometry in Neural Implicits,"This function
+relates points with high/medium/low curvatures to the red/white/blue colors. 6 Conclusions and future works
+
+We introduced a neural network framework that exploits the diﬀerentiable properties of neural implicit
+functions and the discrete geometry of triangle meshes to represent them as neural implicit surfaces. The proposed loss functional can consider terms with high order derivatives, such as the alignment
+between the principal directions of curvatures. ",cs.GR,B,0.07933997,-0.23240319,0.30145937
+http://arxiv.org/pdf/2201.09263v2,Differential Geometry in Neural Implicits,"This function
+relates points with high/medium/low curvatures to the red/white/blue colors. 6 Conclusions and future works
+
+We introduced a neural network framework that exploits the diﬀerentiable properties of neural implicit
+functions and the discrete geometry of triangle meshes to represent them as neural implicit surfaces. The proposed loss functional can consider terms with high order derivatives, such as the alignment
+between the principal directions of curvatures. ",cs.GR,B,0.07933997,-0.23240319,0.30145937
+http://arxiv.org/pdf/2201.09263v3,Differential Geometry for Neural Implicit Models,"Running on another computer with an AMD Ryzen 7 5700G processor, 16GiB of
+memory, and an NVIDIA GeForce RTX 2060 with 6GiB of memory, our model took 1.32 seconds to
+process 172974 point samples of the Armadillo mesh. 6 Conclusions and future works
+
+We introduced a neural network framework that exploits the diﬀerentiable properties of neural implicit
+functions and the discrete geometry of point-sampled surfaces to represent them as neural implicit
+surfaces. The proposed loss functional can consider terms with high order derivatives, such as the
+alignment between the principal directions of curvatures. ",cs.GR,B,0.13810074,-0.11045005,0.30789882
+http://arxiv.org/pdf/2201.09263v4,Exploring Differential Geometry in Neural Implicits,"Running on another computer with an AMD Ryzen 7 5700G processor, 16GiB of
+memory, and an NVIDIA GeForce RTX 2060 with 6GiB of memory, our model took 1.32 seconds to
+process 172974 point samples of the Armadillo mesh. 6 Conclusions and future works
+
+We introduced a neural network framework that exploits the diﬀerentiable properties of neural networks
+and the discrete geometry of point-sampled surfaces to represent them as neural surfaces. The proposed
+loss function can consider terms with high order derivatives, such as the alignment between the principal
+directions. ",cs.GR,B,0.12961417,-0.09714617,0.28275818
+http://arxiv.org/pdf/2201.09367v1,Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch,"4, 2010.
+boundary may not completely align with the boundary
+edges of the resulting PQ mesh. This can potentially be                        [18] E. Entem, L. Barthe, M.-P. Cani, F. Cordier, and M. Van De Panne,
+addressed by introducing optional constraints of boundary                            “Modeling 3D animals from a side-view sketch,” Computers &
+edge alignment in a future work. Finally, our approaches can                         Graphics, vol. ",cs.GR,C,0.45737594,-0.067831896,0.17850822
+http://arxiv.org/pdf/2201.09367v2,Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch,"This can potentially be
+mesh simultaneously from a sketch is an attractive feature             addressed by introducing optional constraints of boundary
+compared with other 3D modeling software. The main                     edge alignment in a future work. Fourthly, more ﬁne-grained
+suggestions include: (1) development of plugins to integrate           shape controls such as speciﬁcation of singular vertices or
+our system into existing modeling software; (2) additional             sharp edges will be helpful additions to the system, which
+constraints on the structural properties (i.e., designing PQ           can potentially be achieved by augmenting the training data
+meshes that are also structurally sound); (3) capability to            to include such elements. ",cs.GR,C,0.47473687,-0.06686912,0.31636843
+http://arxiv.org/pdf/2201.09367v3,Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch,"This can potentially be
+mesh simultaneously from a sketch is an attractive feature             addressed by introducing optional constraints of boundary
+compared with other 3D modeling software. The main                     edge alignment in a future work. Fourthly, more ﬁne-grained
+suggestions include: (1) development of plugins to integrate           shape controls such as speciﬁcation of singular vertices or
+our system into existing modeling software; (2) additional             sharp edges will be helpful additions to the system, which
+constraints on the structural properties (i.e., designing PQ           can potentially be achieved by augmenting the training data
+meshes that are also structurally sound); (3) capability to
+design multiple surfaces in a single sketch. ",cs.GR,C,0.45376837,-0.07126862,0.31316411
+http://arxiv.org/pdf/2201.09367v4,Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch,"This can potentially be
+mesh simultaneously from a sketch is an attractive feature             addressed by introducing optional constraints of boundary
+compared with other 3D modeling software. The main                     edge alignment in a future work. Fourthly, more ﬁne-grained
+suggestions include: (1) development of plugins to integrate           shape controls such as speciﬁcation of singular vertices or
+our system into existing modeling software; (2) additional             sharp edges will be helpful additions to the system, which
+constraints on the structural properties (i.e., designing PQ           can potentially be achieved by augmenting the training data
+meshes that are also structurally sound); (3) capability to            to include such elements. ",cs.GR,C,0.47473687,-0.06686912,0.31636843
+http://arxiv.org/pdf/2201.11819v2,Closed-Loop Control of Direct Ink Writing via Reinforcement Learning,"However, large viscosity changes require
+                                                                                                      the training of separate policies. A potential line of future work is
+                            0 Training Slices Evaluation Slices    Training Slices Evaluation Slices  developing a system identi cation module to recognize the material
+                                                                                                      viscosity from the in-situ view and select an appropriate controller. Fig. ",cs.GR,B,0.03742128,0.08418686,0.10101833
+http://arxiv.org/pdf/2201.13168v1,SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation,"2018]. scheme throughout the attention weights computed by the cross                                                     In this work, we explored how learning-based techniques can
+                                                                                                               further assist future workflows of 3D modeling. In a supervised or
+attention layers of 𝑓𝑐 . ",cs.GR,B,-0.06906886,-0.013081547,0.2489667
+http://arxiv.org/pdf/2201.13240v1,Grid-Free Monte Carlo for PDEs with Spatially Varying Coefficients,"Publication date: January 2022.
+expressing our estimators in Sec. 5 in the same way, we believe that                            Grid-Free Monte Carlo for PDEs with Spatially Varying Coefficients • XX:17
+future work in volumetric rendering will be easily transferable to
+our Monte Carlo PDE algorithms as well. Jeremiah U Brackbill and Hans M Ruppel. ",cs.GR,A,0.06838944,-0.23848712,-0.13375233
+http://arxiv.org/pdf/2202.00185v1,ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis,"interior design guidelines into differentiable functions to quantify
+the ergonomic quality of indoor layouts can be a promising topic of       Matthew Fisher, Manolis Savva, Yangyan Li, Pat Hanrahan, and Matthias Nießner. further research. 2015. ",cs.GR,B,-0.0066239582,0.25224623,-0.00647131
+http://arxiv.org/pdf/2202.00185v2,LayoutEnhancer: Generating Good Indoor Layouts from Imperfect Data,"We think that the problem of
+is expected, since we aim to improve the ergonomic qualities of the                                       translating the vast number of ergonomic rules and interior design
+synthesized layouts instead of perfectly recreating the distribution                                      guidelines into differentiable functions can be a promising topic of
+of the dataset. further research [Schwartz 2021]. 5.2 Room-conditioned Layout Synthesis                                                                        While we have demonstrated that our approach of incorporating
+                                                                                                          expert knowledge into the Transformer training process produces
+We use our proposed model and its ablations introduced in the                                             promising results, we think that this is only the first step in com-
+previous section for layout synthesis and evaluate the results in                                         bining data-driven and rule-based learning using state-of-the-art
+terms of both realism and ergonomic loss. ",cs.GR,B,-0.12410191,0.23935376,0.13878886
+http://arxiv.org/pdf/2202.00948v1,Eikonal Fields for Refractive Novel-View Synthesis,"Partial reflection and refraction
+the coherency, we performed a small user study. 73 participants              in continuously varying media is difficult even in forward simula-
+were shown pairs of images, produced by either our method or one             tion, and left for future work. We also first learn the diffuse world,
+of the other methods (selected randomly). ",cs.GR,A,-0.20398082,-0.2781681,-0.20103857
+http://arxiv.org/pdf/2202.00948v2,Eikonal Fields for Refractive Novel-View Synthesis,"Partial reflection and refraction
+the coherency, we performed a small user study. 73 participants              in continuously varying media is difficult even in forward simula-
+were shown pairs of images, produced by either our method or one             tion, and left for future work. We also first learn the diffuse world,
+of the other methods (selected randomly). ",cs.GR,A,-0.20398082,-0.2781681,-0.20103857
+http://arxiv.org/pdf/2202.00948v3,Eikonal Fields for Refractive Novel-View Synthesis,"The eikonal equation
+                                                                                                                                                     deals with refraction and total internal reflection but not separation
+                                           Distance                                                                                                  into partial reflection and refraction. Partial reflection and refrac-
+                                                                                                                                                     tion in continuously varying media is difficult even in forward
+                         OURS  GT                                                                                                                    simulation, and left for future work. We also first learn the diffuse
+                                                                                                                                                     world, followed by the transparent objects in a second pass, where
+                                      IoR                                                                                                            we rely on a user marking the bounding box of the specular object
+                                                                                                                                                     to aid the task. ",cs.GR,A,0.02928709,-0.3738702,-0.16835092
+http://arxiv.org/pdf/2202.02344v2,Differentiable Simulation of Inertial Musculotendons,"the muscle inertia because we assume that the strain is equal along
+the entire length of the musculotendon. For future work, we would                     2014. Real-time simulation of three-dimensional shoulder girdle and arm dynamics. ",cs.GR,B,0.06817883,0.31694257,0.09629336
+http://arxiv.org/pdf/2202.02397v1,Textured Mesh Quality Assessment: Large-Scale Dataset and Deep Learning-based Quality metric,"APSIPA Transactions on Signal and Information Processing 8 (2019),
+for the connectivity, geometry and UV maps). As a future work,               e27. it would be interesting to devise, using our dataset, an analytical
+perceptual rate-distortion model capable of maximizing the visual        E. Alexiou, N. Yang, and T. Ebrahimi. ",cs.GR,A,-0.26800334,-0.1846838,-0.03131088
+http://arxiv.org/pdf/2202.02568v1,Symmetric Volume Maps,"A potential fix would be to
+in the mapped texture and the target. We leave to future work a                  have soft landmark constraints in the optimization. detailed study of our method’s relevance to MRI data. ",cs.GR,A,-0.02510888,-0.12843916,-0.024164075
+http://arxiv.org/pdf/2202.02568v2,Symmetric Volume Maps: Order-Invariant Volumetric Mesh Correspondence with Free Boundary,"However, our experimental results demonstrate the
+arbitrarily selecting a source and a target. We leave to future work         theoretical analysis is relevant, as our computed maps favor isome-
+a detailed study of our method’s relevance to MRI data. tries (det 𝐽ˆ = 0.98 ± 0.02) and do not collapse (Fig. ",cs.GR,A,-0.013989709,-0.05269764,-0.2801268
+http://arxiv.org/pdf/2202.05274v1,Motion Puzzle: Arbitrary Motion Style Transfer by Body Part,"ically plausible if very different styles are applied over the body
+When the user selects a target style and target body part, the system    parts. An important future work to address this problem would be
+                                                                         to add a final step of adjusting the part-stylized motion to improve
+                                                                         the naturalness of the motion from holistic viewpoint. Our framework assumes a single motion as content. ",cs.GR,B,-0.12730639,0.08309798,0.3210731
+http://arxiv.org/pdf/2202.05274v2,Motion Puzzle: Arbitrary Motion Style Transfer by Body Part,"ically plausible if very different styles are applied over the body
+When the user selects a target style and target body part, the system    parts. An important future work to address this problem would be
+                                                                         to add a final step of adjusting the part-stylized motion to improve
+                                                                         the naturalness of the motion from holistic viewpoint. Our framework assumes a single motion as content. ",cs.GR,B,-0.12730639,0.08309798,0.3210731
+http://arxiv.org/pdf/2202.05522v1,Unsupervised HDR Imaging: What Can Be Learned from a Single 8-bit Video?,"This work conﬁrms our hypothesis that
+DRT                                                                SDR videos can be expanded without an external dataset
+from a single SDR video in an effective way, needs to view         and produce reasonably high-quality results that are com-
+moving people/objects and/or view the scene from differ-GT         petitive with fully-supervised methods. In future work, we
+ent point-of-views through camera motion. This is because          would like to generalize our method and apply it to existing
+over-exposed or under-exposed parts of the video may be-           ITMOs for ﬁne-tuning to provide temporal coherency and
+come well-exposed when these parts are not static. ",cs.GR,B,-0.40602827,-0.14163712,0.14175926
+http://arxiv.org/pdf/2202.05628v1,Artemis: Articulated Neural Pets with Appearance and Motion synthesis,"Our ARTEMIS system interactive motion control, real-
+unsolved. In future work we plan to combine the non-rigid tracking            istic animation, and high quality rendering of furry animals, all in
+technique [Xu et al. 2020] to alleviate our reliance of skeletal pa-          real-time. ",cs.GR,B,-0.12797007,0.15158254,0.34086114
+http://arxiv.org/pdf/2202.05628v2,Artemis: Articulated Neural Pets with Appearance and Motion synthesis,"ARTEMIS has the potential to create the neural ani-
+neural animal generation from captured data without the artist’s            mal directly from captured real animal data if some obstacles are
+effort remains unsolved. In future work, we plan to combine the             conquered: it requires high-quality multi-view videos of furry ani-
+non-rigid tracking technique [Xu et al. 2020] to alleviate our reliance     mals with rich fur details while obtaining such videos of real animals
+on skeletal parameters. ",cs.GR,B,-0.19775556,0.054054234,0.4082447
+http://arxiv.org/pdf/2202.05628v3,Artemis: Articulated Neural Pets with Appearance and Motion synthesis,"ARTEMIS has the potential to create the neural ani-
+neural animal generation from captured data without the artist’s              mal directly from captured real animal data if some obstacles are
+effort remains unsolved. In future work, we plan to combine the               conquered: it requires high-quality multi-view videos of furry ani-
+non-rigid tracking technique [Xu et al. 2020] to alleviate our reliance       mals with rich fur details while obtaining such videos of real animals
+on skeletal parameters. ",cs.GR,B,-0.19775556,0.054054234,0.4082447
+http://arxiv.org/pdf/2202.05822v1,CLIPasso: Semantically-Aware Object Sketching,"demonstrate four levels of abstraction on two
+mask out their background. We provide further analysis of                simple inputs — a shoe and a chair (in the absence of their
+our method, extra results, and extended comparison with                  code, the results were taken directly from the paper). We
+other methods in the supplemental ﬁle. ",cs.GR,B,-0.08910737,0.1219899,0.013684247
+http://arxiv.org/pdf/2202.05822v2,CLIPasso: Semantically-Aware Object Sketching,"Levels of Abstraction Comparison — in the top and
+mask out their background. We provide further analysis of                left part are comparisons to Muhammad et al. [30]. ",cs.GR,B,-0.08618276,0.24458852,-0.130555
+http://arxiv.org/pdf/2202.06330v1,Optimal lofted B-spline surface interpolation based on serial closed contours,"Although the proposed conjectures have
+not been proven theoretically, our observation from numerical experiments, applications to the existing algorithms show
+that they are correct and feasible. The future work should be focused on two points, the proof of three conjectures proposed
+in this paper and the discovery of the necessary and sufficient conditions because the conjecture 1-2 just give sufficient
+conditions. We are also working on the proof of these three conjectures when completing this paper. ",cs.GR,C,0.19895263,-0.06124266,-0.20804402
+http://arxiv.org/pdf/2202.10272v1,Computational Pattern Making from 3D Garment Models,"3794–3801. Limitations and future work. Although our approach is quite ro-
+bust, it has some limitations. ",cs.GR,B,0.038190268,0.25582987,-0.30310866
+http://arxiv.org/pdf/2202.12567v1,Sparse Sampling and Completion for Light Transport in VPL-based Rendering,"2006]. As another future work, it is interesting to exploit some
+ber of rows are sampled when reﬁne the lightcut for the slices with     image space features to guide the sampling for the lighting matrix
+complex strong local lighting. factorization, while the pixels are uniformly random sampled in our
+                                                                        current implementation,
+7 Conclusion and Discussion
+                                                                        Acknowledgements
+We have presented an efﬁcient rendering algorithm for the many-
+light problem based upon the idea of lightcut. ",cs.GR,A,-0.1782912,-0.40703732,-0.17467597
+http://arxiv.org/pdf/2202.12567v2,Sparse Sampling and Completion for Light Transport in VPL-based Rendering,"3
+tion to address this issue is to take advantage of the idea in
+multidimensional lightcut [33]. As another future work, it          [3] K. Bala, J. Dorsey, and S. Teller. Radiance interpolants
+is interesting to exploit some image space features to guide             for accelerated bounded-error ray tracing. ",cs.GR,A,-0.078911066,-0.42439288,-0.18193543
+http://arxiv.org/pdf/2202.12670v1,Hex-Mesh Generation and Processing: a Survey,"not only for practitioners in mesh generation but also for the graph
+                                                                              community. Unfortunately, both questions are still unanswered and demand
+further research to understand these geometrical entities at a deeper
+level. For the characterization of hex-meshable fields, in [Liu et al. ",cs.GR,C,0.4270597,-0.11716801,0.07683706
+http://arxiv.org/pdf/2203.08272v1,Active Exploration for Neural Global Illumination of Variable Scenes,"faster path-tracer could also accelerate training. Steve Bako, Thijs Vogels, Brian McWilliams, Mark Meyer, Jan Novák, Alex Harvill,
+   In future work, we believe our Active Exploration approach has             Pradeep Sen, Tony Derose, and Fabrice Rousselle. 2017. ",cs.GR,B,-0.12644145,0.19021256,-0.033198647
+http://arxiv.org/pdf/2203.08496v2,Dynamic Grass Color Scale Display Technique Based on Grass Length for Green Landscape-Friendly Animation Display,"This
+problem can be solved using a high-speed motor with a rotary encoder system. In future work, we are going to develop a
+high-speed grass pixel system to play smooth animations. The grass color scale experiment results of θ = 60◦ and 90◦ showed that the slits of the grass pixel affected the additive
+
+                                                                                                                                                                 14/17
+color mixing of the grass pixel. ",cs.GR,B,-0.22377613,-0.08108975,0.13864003
+http://arxiv.org/pdf/2203.08528v1,Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors,"On the other hand, evaluating CoP accuracy needs
+creating such a dataset requires research on its own, and            a more sophisticated modeling of human feet (rather than
+would have great value for the community. For now, we                a simplified square facet contact) and ground-truth pressure
+can only provide qualitative visualization of torques/GRFs           annotations, which we leave as a future work. For more
+in our supplemental video and Fig. ",cs.GR,B,-0.12267256,0.27452886,-0.009915028
+http://arxiv.org/pdf/2203.08528v2,Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors,"On the other hand, evaluating CoP accuracy needs
+creating such a dataset requires research on its own, and            a more sophisticated modeling of human feet (rather than
+would have great value for the community. For now, we                a simplified square facet contact) and ground-truth pressure
+can only provide qualitative visualization of torques/GRFs           annotations, which we leave as a future work. For more
+in our supplemental video and Fig. ",cs.GR,B,-0.12267256,0.27452886,-0.009915028
+http://arxiv.org/pdf/2203.10988v1,Less Is More: Efficient Networked VR Transformation Handling Using Geometric Algebra,"All methods suggested in this work are already implemented and in-
+corporated in the MAGES SDK framework, which is publicly available on
+ORamaVR’s website [22], to be tested for their performance. Regarding future work, the results of our proposed interpolation algo-
+rithms can be further improved by using optimized C# Geometric Algebra
+bindings to eﬃciently perform complex operations such as dual-quaternion or
+multivector SLERP. Moreover, by using the data logged with the VR Recorder,
+we plan to create (a) an assessment tool that evaluates how the users perform
+on the given tasks,(b) intelligent agents that are able to complete tasks on
+their own and (c) a no-code VR authoring tool, with which the environment
+designers can develop new training modules. ",cs.GR,B,-0.12478259,0.10191102,0.0569897
+http://arxiv.org/pdf/2203.10988v2,Less Is More: Efficient Networked VR Transformation Handling Using Geometric Algebra,"In the case that speciﬁc data is inten-
+tionally omitted to be recorded, for storage eﬃciency purposes, the use of the
+suggested interpolation methods will generate data “close” to the omitted,
+with insigniﬁcant relative error. Regarding future work, the results of our proposed interpolation algo-
+rithms can be further improved by using optimized C# Geometric Algebra
+bindings to eﬃciently perform complex operations such as dual-quaternion or
+multivector SLERP. Moreover, by using the data logged with the VR Recorder,
+we plan to create (a) an assessment tool that evaluates how the users perform
+on the given tasks,(b) intelligent agents that are able to complete tasks on
+their own and (c) a no-code VR authoring tool, with which the environment
+designers can develop new training modules. ",cs.GR,B,-0.13763118,0.12301822,0.05826471
+http://arxiv.org/pdf/2203.11398v1,A Hybrid Lagrangian-Eulerian Model for the Structural Analysis of Multifield Datasets,"tures in regions where existing approaches fail. An interesting avenue for future work concerns the im-
+                                                                                      provement of the performance of this approach. Both a GPU-
+                                                                                      based implementation and a pathline reuse strategy would
+                                                                                      reduce the computational time of our approach. ",cs.GR,B,0.0591379,0.00463167,-0.12068102
+http://arxiv.org/pdf/2203.12671v1,SD2: Slicing and Dicing Scholarly Data for Interactive Evaluation of Academic Performance,"In addition, Cao seems to receive more citations for
+                                     Nan Cao - Huamin Qu                            his data mining papers. (b)                                          We further study the temporal distribution of the cita-
+                                                                                    tions over the publication venues (T2), as shown in Fig-
+                                       Yingcai Wu - Huamin Qu                       ure 5 (c). We can see that Wu’s citations were mostly ob-
+                                                                                    tained for his papers in TVCG, CHI, and TVC, which did not
+                                                                                    change much over the years. ",cs.GR,B,-0.056702886,0.25766006,-0.28324795
+http://arxiv.org/pdf/2203.14939v1,Pupil-aware Holography,"We also             To make for an efficient testbed for the proposed method, instead of
+do not address 3D holograms in this work. Incorporating further                 increasing étendue, which is an active direction that today requires
+aspects of the perception of human visual system into our method                manufacturing, alignment and calibration of diffractive elements,
+and extending to 3D holograms may prove as exciting future work. we use a focusing lens in front of the SLM to achieve a large eyebox. ",cs.GR,A,-0.09927057,-0.21876974,-0.06161793
+http://arxiv.org/pdf/2203.14939v2,Pupil-aware Holography,"(b) & (d) As a result of the partial wavefront sampling
+first step by addressing the display with varying pupil states. Incor-           due to an unknown pupil state, the projected image quality degrades, as a
+porating further aspects of the perception of human visual system                conventional computer-generated holography assumes that all of the wave-
+into our method may prove as exciting future work. front is properly captured. ",cs.GR,A,-0.2418992,-0.2194307,-0.16649395
+http://arxiv.org/pdf/2203.16393v1,Online Motion Style Transfer for Interactive Character Control,"accuracy, the flexibility, and the variety. Finally, Section 6 concludes
+the paper and indicates our future work. We choose NSM as our baseline model, since it has strong capac-
+                                                                          ity and does not consider multiple contacts, which is our case. ",cs.GR,B,0.022126472,0.22101735,-0.20700562
+http://arxiv.org/pdf/2204.01065v1,Forward and backward mapping of image to 2D vector field using fiber bundle color space,"On the basis of the described mappings, the image filter has been proposed that allows us to
+process a color image in a way to exclude completely or partially the achromatic component, and
+this can be done adaptively for each point of the image or taking into account other additional
+information about the image during the transformation. 14
+       The concept of fiber bundle color space in future will allow us to determine the distance
+between two colors and represent the change in the color of a selected point over time as a
+trajectory in the color space and its further analysis using differential geometry methods. Undoubtedly, it will be also interesting to apply the proposed approaches to working with vector
+fields of higher dimensions. ",cs.GR,A,-0.11089612,-0.3638925,0.07541496
+http://arxiv.org/pdf/2204.01117v1,UrbanFlow: Designing Comfortable Outdoor Areas,"Overcoming this limitation by extending our work with a constraint solver is left for future work. In
+general, we consider UrbanFlow as a first step towards the integration of physics-simulations in the design process of
+architects opening up an interesting avenue of future work including applications such as designing public areas in a
+way that noise in minimized. REFERENCES
+
+Mridul Aanjaneya, Chengguizi Han, Ryan Goldade, and Christopher Batty. ",cs.GR,C,0.155976,0.1276288,-0.10809298
+http://arxiv.org/pdf/2204.01823v1,Sensitive vPSA -- Exploring Sensitivity in Visual Parameter Space Analysis,"Our focus is more on the exploratory aspect, and
+introductory example presented with synthetic data. Finally,      we visualize a much broader range of information related to
+a limited discussion of our results and future work can be        sensitivity. found in Section 5. ",cs.GR,B,-0.150879,0.17021489,-0.087432384
+http://arxiv.org/pdf/2204.04455v1,Noise-based Enhancement for Foveated Rendering,"11, we report estimated reduction in sampling-                       experiment (Section 6.1) is a particular example of it. In future work,
+rate’s for our technique over contrast enhancement in Figure 16-                        it would be interesting to look for ways to address this limitation. right. ",cs.GR,A,-0.3055125,-0.1323249,-0.26850474
+http://arxiv.org/pdf/2204.06396v1,Creating good quality meshes from smooth implicit surfaces,"However, the algorithm does not necessarily yield correct
+results. It may be useful future work to provide conditions
+ensuring a good tessellation. Acknowledgements
+
+This project has been supported by the Hungarian Scien-
+tiﬁc Research Fund (OTKA, No. ",cs.GR,C,0.36351413,-0.23002085,-0.10115084
+http://arxiv.org/pdf/2204.06504v1,DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization,"The predicted values’ devi-
+exploration of ensemble simulations. The training data        ation from the ground-truth values suggests mispredicted
+(i.e., visualization images conditioned on visual mappings    spatiotemporal regions for further study. and view parameters) were collected in situ. ",cs.GR,B,-0.23914614,0.12896633,-0.06355536
+http://arxiv.org/pdf/2204.09341v1,OutCast: Outdoor Single-image Relighting with Cast Shadows,"593–609. plicable to all of these in future work. Beyond relighting, handling
+physically based long-range interactions from a single image, our        [BXS∗20a] BI S., XU Z., SRINIVASAN P. P., MILDENHALL B.,
+key technical innovation, might have applications in other graphics         SUNKAVALLI K., HASAN M., HOLD-GEOFFROY Y., KRIEGMAN D. J.,
+tasks such as image material editing and even lead to novel forms           RAMAMOORTHI R.: Neural reﬂectance ﬁelds for appearance acquisition. ",cs.GR,A,-0.34638786,-0.17093013,0.19572529
+http://arxiv.org/pdf/2204.09996v1,Computational Design of Kinesthetic Garments,"sleeves). a foundation for future work in rapidly exploring and optimizing
+Automatic placement of attachments could be integrated into the       for various use cases of active reinforcements that may have high
+method via rope caging [KWP*16] to enable design of custom gar-       impact for the general population. sdf
+ments. ",cs.GR,C,0.089737244,0.37761897,-0.008028576
+http://arxiv.org/pdf/2204.10313v1,Cellular Topology Optimization on Differentiable Voronoi Diagrams,"Incorporating s into the optimization framework can further
+enhance the expressiveness of the current model. We also consider future work to investigate multi-level
+cellular structures, featuring cellular structures at multiple length scales with a parent-child relationship,
+and extend the Voronoi structural representation to other structural optimization problems with diﬀerent
+objectives and physical constraints, motivated by the nature of various insect wings that are driven by
+diﬀerent biological or mechanical models. References
+
+ [1] C. Qi, F. Jiang, S. Yang, Advanced honeycomb designs for improving mechanical properties: A review, Composites Part
+      B: Engineering 227 (2021) 109393. ",cs.GR,C,0.4856836,0.11354564,0.08433445
+http://arxiv.org/pdf/2204.10313v2,Cellular Topology Optimization on Differentiable Voronoi Diagrams,"Incorporating s into the optimization framework can further
+enhance the expressiveness of the current model. We also consider future work to investigate multi-level
+cellular structures, featuring cellular structures at multiple length scales with a parent-child relationship,
+and extend the Voronoi structural representation to other structural optimization problems with diﬀerent
+objectives and physical constraints, motivated by the nature of various insect wings that are driven by
+diﬀerent biological or mechanical models. References
+
+ [1] C. Qi, F. Jiang, S. Yang, Advanced honeycomb designs for improving mechanical properties: A review, Composites Part
+      B: Engineering 227 (2021) 109393. ",cs.GR,C,0.4856836,0.11354564,0.08433445
+http://arxiv.org/pdf/2204.10313v3,Cellular Topology Optimization on Differentiable Voronoi Diagrams,"To make a comparison with the Voronoi structures of insect wings in nature, we plan
+to use our method on shell ﬁnite elements. We also consider future work to investigate multi-level cellular structures, featuring
+cellular structures at multiple length scales with a parent-child relationship, and extend the Voronoi structural representation
+to other structural optimization problems with diﬀerent objectives and physical constraints, motivated by the nature of various
+insect wings that are driven by diﬀerent biological or mechanical models. ACKNOWLEDGEMENTS
+
+This project was supported by Toyota Central R&D Labs. ",cs.GR,C,0.4757932,0.049883567,0.073253885
+http://arxiv.org/pdf/2204.11762v1,MFA-DVR: Direct Volume Rendering of MFA Models,"Other MFA features like noise
+is not needed. It is worth noticing that such prepossessing time is not      reduction can also be explored in future work. included when measuring the rendering time in Figure 12. ",cs.GR,B,-0.24425465,0.037988942,-0.10980983
+http://arxiv.org/pdf/2204.12301v1,Designing Perceptual Puzzles by Differentiating Probabilistic Programs,"2009]. In future work, we thus envision
+mostly the same even if the lighting direction is changed. Indeed, our     posing animation as “inverse inverse simulation,” storytelling as
+model is easily able to infer the expressions in all of these images. ",cs.GR,A,-0.2126047,-0.06644285,0.12297058
+http://arxiv.org/pdf/2204.12797v1,Towards Quantum Ray Tracing,"Secondly, the reuse of neighboring data optimization is not performed for
+shadow rays, therefore false negatives occur more frequently than for primary and specular rays. Two complementary
+solutions are possible: i) extend the gathering of neighboring data to shadow rays, which is planned as future work,
+and ii) allow DirectPass() to perform more than 2 iterations, which is straightforward but would increase simulation
+time. Despite the noise, these results clearly demonstrate that our hybrid approach handles area light sources, while still
+maintaining a quadratic complexity advantage. ",cs.GR,A,-0.08011688,-0.37281194,-0.2968791
+http://arxiv.org/pdf/2205.00108v1,Perceptual Visibility Model for Temporal Contrast Changes in Periphery,"Investigating     sible use case of our model. In our work, we focused on deriving the
+the effect of masking in the experiments and collecting samples           model while leaving the full development of applications that utilize
+for broader range of temporal and spatial frequencies as well as          it for future work. A potential research direction would be towards
+different luminance levels will lead to a more accurate model. ",cs.GR,A,-0.23052305,-0.029409494,-0.31421053
+http://arxiv.org/pdf/2205.00108v2,Perceptual Visibility Model for Temporal Contrast Changes in Periphery,"Finally, each one of our applications is a demonstration of a pos-
+Investigating the effect of masking in the experiments and collecting      sible use case of our model. In our work, we focused on deriving the
+samples for a wider range of temporal and spatial frequencies, as          model while leaving the full development of applications that utilize
+well as different luminance levels, will lead to a more accurate           it for future work. A potential research direction would be towards
+model. ",cs.GR,A,-0.23607132,-0.14893866,-0.302075
+http://arxiv.org/pdf/2205.00307v1,Learning to Get Up,"An exciting direction
+prove motion quality. However, we find that adding an energy cost                 for future work will be to produce controllers that can generalize
+without the strong-to-weak curriculum has minimal effect on the                   well to this broad range of circumstances. get-up motion. ",cs.GR,B,-0.2623963,0.35919476,0.13915081
+http://arxiv.org/pdf/2205.00307v2,Learning to Get Up,"Humans are extremely
+                                                                               adept at finding good solutions to these problems. An exciting
+                                                                               direction for future work will be to produce controllers that can
+                                                                               generalize well to this broad range of circumstances. ACKNOWLEDGMENTS
+
+                                                                               We thank Sheldon Andrews, Anthony Frezzato, and Arsh Tangri
+                                                                               for many useful discussions about the getup problem. ",cs.GR,C,0.09414703,0.28253704,0.020165972
+http://arxiv.org/pdf/2205.00587v1,A Position-Free Path Integral for Homogeneous Slabs and Multiple Scattering on Smith Microfacets,"[DHd16] further simplify this approach by show-
+                                                                           ing the problem is equivalent to transport in a homogeneous half
+   These numerical issues were also noted in earlier works, and            space, with angle-dependent extinction coefﬁcient
+mitigation strategies to reduce the equal-cosine case to gamma dis-
+tributions and/or clamping heuristics have been proposed [BD56;            σsmith(ω) = Λ(ω)|(ω)z|          if (ω)z < 0               (24)
+AKS60; AT64]. Although we do not use the clamping strategy cur-
+rently, it shows promising results, and poses an interesting avenue                        (1 + Λ(−ω))|(ω)z| else,
+for future work. where Λ(ω) is the Smith lambda function [WMLT07; HHdD16]. ",cs.GR,C,0.21413152,-0.06509811,-0.23395064
+http://arxiv.org/pdf/2205.00738v1,Evocube: a Genetic Labeling Framework for Polycube-Maps,"In such cases, the feature-edge does not appear in the polycube and      5. Conclusion and future work
+is most often deteriorated in the resulting hex-mesh, as illustrated in
+Figure 12. For CAD models, this issue could be alleviated in future      We have presented Evocube, a novel evolutionary approach to com-
+work through feature-aware mutations and ﬁtness. ",cs.GR,C,0.34045565,0.09083345,0.12430011
+http://arxiv.org/pdf/2205.00738v2,Evocube: a Genetic Labeling Framework for Polycube-Maps,"Application to 3-D grid generation. Numerical Linear
+future work. Additional mutations are required to further improve     Algebra with Applications 9, 6-7 (2002), 511–526. ",cs.GR,C,0.397762,-0.07719504,-0.096067525
+http://arxiv.org/pdf/2205.00923v1,Recording and replaying psychomotor user actions in VR,"Usually, the data are captured in         alization, while requiring minimal storage space, approximately
+                                       video format [5] and a post process of this high-dimensional data       1MB per minute per user. As the objects which the user interacts
+                                       is required to obtain any further analysis. Since video data is not     with might come into contact or interaction with other objects,
+                                       sufficient for reasons we explain in Section 2, our approach is close   i.e., changing their location or status, we are also recording the
+                                       to Kloiber et al. ",cs.GR,B,-0.35499173,-0.0025516227,-0.0015001437
+http://arxiv.org/pdf/2205.01242v1,Physics-Based Inverse Rendering using Combined Implicit and Explicit Geometries,"We believe that the new level of generality enabled by our
+technique will enable interesting future applications in computer graphics, vision, and computational imaging. 6 Discussion and Conclusion
+
+Limitations and future work. Our inverse-rendering pipeline relies mainly on the image loss (7) and focuses on
+the reconstruction of object shape and appearance under known lighting. ",cs.GR,A_centroid,-0.16807851,-0.37022635,0.09618318
+http://arxiv.org/pdf/2205.01242v2,Physics-Based Inverse Rendering using Combined Implicit and Explicit Geometries,"We thank the anonymous reviewers for their
+                                                                                        constructive feedback. This work was supported in part by NSF
+Limitations and future work. When jointly optimizing shape                              grants 1900783, 1900849, and 1900927. ",cs.GR,C,0.15641537,0.13862452,0.016577605
+http://arxiv.org/pdf/2205.02367v1,Time-multiplexed Neural Holography: A flexible framework for holographic near-eye displays with fast heavily-quantized spatial light modulators,"In the supplement, we show extensive                                       image quality with varying levels of time multiplexing and bit depth,
+evaluations and ablations of 3D multiplane CGH methods for more                                         but analytically deriving this landscape remains an interesting di-
+3D scenes (Figures S3–4 and S10–16). rection for future work to explore. Our algorithms do not run in real
+                                                                                                         Time-multiplexed Neural Holography • 00:7
+
+NH3D-Naive, RGBD, 1 frame         NH3D-Naive, RGBD, 8 frames              Ours, Model-GS, RGBD 8 frames  Ours, Model-GS, Focal Stack, 8 frames
+
+Fig. ",cs.GR,A,-0.16789922,-0.30082712,0.10259873
+http://arxiv.org/pdf/2205.02510v1,Encoding of direct 4D printing of isotropic single-material system for double-curvature and multimodal morphing,"For more complex geometries with multiple Gaussian curvatures, one may consider the
+discretization of various units and connection among adjacent units. Moreover, the current model cannot
+generate a surface with positive Gaussian curvature such as a sphere and pseudosphere, which can be
+future work. Despite the limitation, our method can produce stress-free complex shapes with multi modes
+and shape locking using only a single material printing, which is significant because of its simple
+implementation and potential for broad applications such as biomedical devices, deployable structures,
+intelligent textiles, soft robots, active metamaterials, and pop-up Kirigami structures
+
+   VII. ",cs.GR,C,0.47921348,-0.004296189,0.1489516
+http://arxiv.org/pdf/2205.02540v1,Real-time Controllable Motion Transition for Characters,"We speculate this might be the              RTN            0.3380  0.5197  0.3123    0.3158
+reason for the slightly worse results in NPSS and also why at frame           Our method     0.3306  0.5141  0.3205    0.3085
+5, Interpolation even outperforms both methods. However, since
+neither methods explicitly aim to generalize to different skeletons,                                       Foot skate
+we leave the analysis to future work. 0.160   0.230   0.155     0.121
+                                                                                             2.743   1.844   1.381     2.024
+                                                                                             1.187   1.103   0.640     0.657
+
+                                                                                             0.589   0.571   0.326     0.293
+
+Table 4. ",cs.GR,B,0.055296924,0.21962884,-0.22282009
+http://arxiv.org/pdf/2205.04018v1,Photo-to-Shape Material Transfer for Diverse Structures,"Our image translation network is currently class specific. Thus,
+                                                                               one direction for future work would be to experiment with a class-
+                                                                               independent translation network. Finally, it would be interesting
+                                                                               to combine our material assignment method with large collections
+                                                                               of high-quality textures or texture generation methods, in order to
+                                                                               handle exemplars with more complex textures, such as geometric
+                                                                               patterns. ",cs.GR,B,-0.110482045,-0.18922608,0.25097927
+http://arxiv.org/pdf/2205.04978v1,NeRF-Editing: Geometry Editing of Neural Radiance Fields,"After editing the scene geometry, the correspond-
+                                                                        ing colors can be modiﬁed to make the light and shadow in
+                                                                        the rendering results more natural. In future work, we will
+                                                                        implement our proposed approach in Jittor [24], which is a
+                                                                        fully just-in-time (JIT) compiled deep learning framework. Acknowledgement                                                      [12] Yu Deng, Jiaolong Yang, and Xin Tong. ",cs.GR,A,-0.3158065,-0.32561386,0.21410422
+http://arxiv.org/pdf/2205.07873v1,HDR Lighting Dilation for Dynamic Range Reduction on Virtual Production Stages,"Intersections are avoided by
+HDR Lighting Dilation for Dynamic Range Reduction on                                                                  Conference’17, July 2017, Washington, DC, USA
+Virtual Production Stages
+                                                                          illumination is maintained. In future work, we would like to modify
+back into the original map, forming an LDR result with the same           the technique to address heterogeneous brightness capabilities of
+total light energy. the wall and ceiling panels in a VP stage, and to dilate multispectral
+                                                                          lighting environments [LeGendre et al. ",cs.GR,A,-0.14417844,-0.37261283,-0.340235
+http://arxiv.org/pdf/2205.07873v2,HDR Lighting Dilation for Dynamic Range Reduction on Virtual Production Stages,"2(b) shows these dilated light source regions rendered       illumination is maintained. In future work, we would like to modify
+back into the original map, forming an LDR result with the same            the technique to address heterogeneous brightness capabilities of
+total light energy. the wall and ceiling panels in a VP stage, and to dilate multispectral
+                                                                           lighting environments [LeGendre et al. ",cs.GR,A,-0.15578929,-0.41615766,-0.35477632
+http://arxiv.org/pdf/2205.08028v1,Browser-based Hyperbolic Visualization of Graphs,"Adapting a          net/treebolic2/en/index.html. accessed: 2021-06-06.
+sparse approximation method for graphs in which the pre-processing
+is prohibitively expensive could be a direction for future work. [10] M. Brehmer and T. Munzner. ",cs.GR,C,0.18206313,-0.07797065,-0.11003119
+http://arxiv.org/pdf/2205.10309v1,A Fully Implicit Method for Robust Frictional Contact Handling in Elastic Rods,"Furthermore, we
+showcased convincing frictional results in an imaginary viscous environment where friction is
+non-negligible. For future work, we wish to improve upon the stability and robustness of our friction model. Despite the implicit formulation, the number of iterations necessary to converge starts to in-
+crease as µ increases. ",cs.GR,C,0.24619399,0.21916276,0.1545242
+http://arxiv.org/pdf/2205.10309v2,A Fully Implicit Method for Robust Frictional Contact Handling in Elastic Rods,"Furthermore,
+we showcased visually convincing frictional results in an imaginary viscous environment where
+friction is non-negligible. For future work, we wish to improve upon the stability and robustness of our friction model. Despite the implicit formulation, the number of iterations necessary to converge starts to in-
+crease as µ increases. ",cs.GR,C,0.19033375,0.15000303,0.19620374
+http://arxiv.org/pdf/2205.12183v1,StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning,"Although the mutual learn-          terms of visual quality and consistency. In future work, we
+ing process makes the 2D method (2nd and 3rd columns)              will implement our proposed approach in Jittor [17], which
+iterates towards a more consistent trend, its consistency is       is a fully just-in-time (JIT) compiled deep learning frame-
+not strict enough and encounters ﬂickering issues between          work. long-range views. ",cs.GR,B,-0.3027677,-0.032346606,0.31990123
+http://arxiv.org/pdf/2205.12183v2,StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning,"Although the mutual learn-          terms of visual quality and consistency. In future work, we
+ing process makes the 2D method (2nd and 3rd columns)              will implement our proposed approach in Jittor [17], which
+iterates towards a more consistent trend, its consistency is       is a fully just-in-time (JIT) compiled deep learning frame-
+not strict enough and encounters ﬂickering issues between          work. long-range views. ",cs.GR,B,-0.3027677,-0.032346606,0.31990123
+http://arxiv.org/pdf/2205.13643v1,Differentiable solver for time-dependent deformation problems with contact,"Meshing methods providing this map exist [Jiang
+                                                                             et al. 2020], but their integration in our framework, while trivial
+                        ∇2 𝑗 = 0                                             from a formulation point of view, is an engineering challenge that
+                                                                             we leave as future work. Scale-invariant smoothing. ",cs.GR,C,0.41891086,-0.17267707,0.17171292
+http://arxiv.org/pdf/2205.13643v2,Differentiable solver for time-dependent deformation problems with contact,"Meshing methods providing this map exist [Jiang
+et al. 2020], but their integration in our framework, while trivial
+from a formulation point of view, is an engineering challenge that
+we leave as future work. Reproducibility. ",cs.GR,C_centroid,0.51781607,-0.22395757,0.110851526
+http://arxiv.org/pdf/2205.13727v1,High-Order Incremental Potential Contact for Elastodynamic Simulation on Curved Meshes,"our linear search detecting. 5.3 Extreme coarsening                                                                   We see three major venues for future work: (1) existing curved
+                                                                                      mesh generators are still not as reliable in producing high quality
+   Nut and Bolt. As mentioned in Section 4, our method can be used                    meshes as their linear counterparts: more work is needed in this
+with linear meshes and linear bases. ",cs.GR,C,0.29755616,0.06566235,0.03463709
+http://arxiv.org/pdf/2205.13727v2,High-Order Incremental Potential Contact for Elastodynamic Simulation on Curved Meshes,"As such they do not considered the
+   We propose a method that allows to use high-order basis within        handling of contacts. They do, however, suggest a variant of the
+the IPC framework, thus enabling to resolve the IPC contact model        Mortar method could be future work, but this has known limitation
+at a higher efficiency for elastodynamic problems with complex           as outline above. geometry, i.e. ",cs.GR,C,0.3427386,0.03471691,-0.0815839
+http://arxiv.org/pdf/2205.14313v1,Learning to Use Chopsticks in Diverse Styles,"We have focused on learning visually robust policies with a lim-      ACKNOWLEDGMENTS
+ited number of quantitative tests. We hope our paper will stimulate
+future work on more systematic investigations on factors and vari-       We would like to thank the anonymous reviewers for their con-
+ations that can affect the success rates of chopsticks-based object      structive suggestions and feedback. We also thank Zhiqi Yin, Yujie
+manipulations tasks, such as object shapes and sizes, object weights,    Wang, and Michiel van de Panne for various discussions and help. ",cs.GR,B,-0.13906536,0.31290627,0.15691593
+http://arxiv.org/pdf/2205.14313v2,Learning to Use Chopsticks in Diverse Styles,"We have focused on learning visually robust policies with a lim-
+ited number of quantitative tests. We hope our paper will stimulate      ACKNOWLEDGMENTS
+future work on more systematic investigations on factors and vari-
+ations that can affect the success rates of chopsticks-based object      We would like to thank the anonymous reviewers for their con-
+manipulations tasks, such as object shapes and sizes, object weights,    structive suggestions and feedback. We also thank Zhiqi Yin, Yujie
+material and friction properties of the chopsticks and objects, chop-    Wang, and Michiel van de Panne for various discussions and help. ",cs.GR,B,-0.090563886,0.34407794,0.173771
+http://arxiv.org/pdf/2205.14313v3,Learning to Use Chopsticks in Diverse Gripping Styles,"We have focused on learning visually robust policies with a lim-
+ited number of quantitative tests. We hope our paper will stimulate      ACKNOWLEDGMENTS
+future work on more systematic investigations on factors and vari-
+ations that can affect the success rates of chopsticks-based object      We would like to thank the anonymous reviewers for their con-
+manipulations tasks, such as object shapes and sizes, object weights,    structive suggestions and feedback. We also thank Zhiqi Yin, Yujie
+material and friction properties of the chopsticks and objects, chop-    Wang, and Michiel van de Panne for various discussions and help. ",cs.GR,B,-0.090563886,0.34407794,0.173771
+http://arxiv.org/pdf/2205.15573v1,Text/Speech-Driven Full-Body Animation,"high-quality full-body animation by given text/speech. In the
+Then we build the edges between the two adjacent nodes by        future work, we will focus on the diverse emotions, person-
+calculating the transition cost based on the distances between   alities and interactivity to further enhance the expressiveness
+salient joint positions and movement speeds. A graph edge        of 3D avatar. ",cs.GR,B,-0.10278639,0.17516124,0.24700639
+http://arxiv.org/pdf/2206.02008v1,Hidden Degrees of Freedom in Implicit Vortex Filaments,"of these redundant degrees of freedom to improve the stability of
+                                                                               vortex filament simulations. On the other hand, this grid-based method for re-connecting
+curves will also delete small features when they shrink below the                 We see a number of avenues that can be explored in future work. grid cell size (similar to level set methods for surfaces). ",cs.GR,C,0.379391,-0.08076645,-0.01922495
+http://arxiv.org/pdf/2206.02008v2,Hidden Degrees of Freedom in Implicit Vortex Filaments,"We stress that our prototype implementation is meant as a proof of
+concept, and it has plenty of room for optimization. Our current                    We see a number of avenues that can be explored in future work. implementation employs regular grids for ease of implementation;                 Our current strategy exploits redundancy in the 3D velocity field
+future implementations can make great use of sparse grids, since our             and level set outside the filaments, but we can also incorporate free
+filaments only use a 1-dimensional path through the 3D grid. ",cs.GR,C,0.25756314,-0.14859568,0.07019435
+http://arxiv.org/pdf/2206.02008v3,Hidden Degrees of Freedom in Implicit Vortex Filaments,"for each of the simulations in our paper and accompanying video. We stress that our prototype implementation is meant as a proof of                   We see a number of avenues that can be explored in future work. concept, and it has plenty of room for optimization. ",cs.GR,C,0.08580226,0.029462446,-0.084455624
+http://arxiv.org/pdf/2206.02008v4,Hidden Degrees of Freedom in Implicit Vortex Filaments,"for each of the simulations in our paper and accompanying video. We stress that our prototype implementation is meant as a proof of                   We see a number of avenues that can be explored in future work. concept, and it has plenty of room for optimization. ",cs.GR,C,0.08580226,0.029462446,-0.084455624
+http://arxiv.org/pdf/2206.02008v5,Hidden Degrees of Freedom in Implicit Vortex Filaments,"for each of the simulations in our paper and accompanying video. We stress that our prototype implementation is meant as a proof of                   We see a number of avenues that can be explored in future work. concept, and it has plenty of room for optimization. ",cs.GR,C,0.08580226,0.029462446,-0.084455624
+http://arxiv.org/pdf/2206.03380v1,"Shape, Light & Material Decomposition from Images using Monte Carlo Rendering and Denoising","Similarly, we do not
+handle specular chains (geometry seen through a glass window). For this, we need to integrate multi-
+bounce path tracing, which is a clear avenue for future work, but comes with additional challenges in
+increased noise-levels, visibility gradients through specular chains, and drastically increased iteration
+
+                                                 9
+times. Our renderer is intentionally biased to improve optimization times, but unbiased rendering
+could expect to generate better results for very high sample counts. ",cs.GR,A,-0.03744171,-0.30412328,-0.19967023
+http://arxiv.org/pdf/2206.03380v2,"Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising","Similarly, we do not
+handle specular chains (geometry seen through a glass window). For this, we need to integrate multi-
+bounce path tracing, which is a clear avenue for future work, but comes with additional challenges in
+increased noise-levels, visibility gradients through specular chains, and drastically increased iteration
+times. Our renderer is intentionally biased to improve optimization times, but unbiased rendering
+could expect to generate better results for very high sample counts. ",cs.GR,A,-0.03746389,-0.30159798,-0.20050862
+http://arxiv.org/pdf/2206.05008v1,Subjective Quality Assessment for Images Generated by Computer Graphics,"ﬁeld for CG-IQA. In future work, we would further enlarge
+                                                                  the scale of the database and carry out speciﬁc IQA models
+    2) The CGIs in our database are more diverse in distortion    for CG-IQA problems. types and resolutions. ",cs.GR,B,0.030468713,0.12654094,-0.16097984
+http://arxiv.org/pdf/2206.05085v1,Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction,"ing speed. Our efﬁcient implementation could allow more
+                                        future works to beneﬁt from the loss. plicit representations to reduce training time from hours to
+                                                                                                           minutes per scene. ",cs.GR,B_centroid,-0.47429228,0.06370173,0.2192875
+http://arxiv.org/pdf/2206.05085v2,Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction,"ing speed. Our efﬁcient implementation could allow more
+                                        future works to beneﬁt from the loss. plicit representations to reduce training time from hours to
+                                                                                                           minutes per scene. ",cs.GR,B,-0.47429228,0.06370173,0.2192875
+http://arxiv.org/pdf/2206.05085v3,Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction,"ing speed. Our efﬁcient implementation could allow more
+                                        future works to beneﬁt from the loss. plicit representations to reduce training time from hours to
+                                                                                                           minutes per scene. ",cs.GR,B,-0.47429228,0.06370173,0.2192875
+http://arxiv.org/pdf/2206.05085v4,Improved Direct Voxel Grid Optimization for Radiance Fields Reconstruction,"ing speed. Our efﬁcient implementation could allow more
+                                       future works to beneﬁt from the loss. plicit representations to reduce training time from hours to
+                                                                                                          minutes per scene. ",cs.GR,B,-0.47429228,0.06370173,0.2192875
+http://arxiv.org/pdf/2206.05649v1,"TileGen: Tileable, Controllable Material Generation and Capture","74–90. We hope that future work will increase the resolution and training
+                                                                                           Taesung Park, Ming-Yu Liu, Ting-Chun Wang, and Jun-Yan Zhu. 2019. ",cs.GR,B,-0.19875538,0.32363966,-0.13509423
+http://arxiv.org/pdf/2206.05649v2,"TileGen: Tileable, Controllable Material Generation and Capture","Modeling Surface Appearance
+                                                                                               from a Single Photograph Using Self-Augmented Convolutional Neural Networks. We hope that future work will increase the resolution and training                          ACM Trans. Graph. ",cs.GR,A,-0.12761788,-0.29397103,0.300169
+http://arxiv.org/pdf/2206.06193v1,Differentiable Transient Rendering,"As
+                                                                                                                        expected, when our time-dependent terms disappear, the temporal
+      Scene        Coffee                        Stars             Wavy    Corners                                      boundary in path space vanishes and our differential transient path
+ # spp (interior)     41                           1                 17        85                                       integral converges to its steady-state counterpart. # spp (boundary)       0                           4                 34        85
+                      250                         800               1200     1200                                          Limitations and future work. Several exciting avenues of future
+     # frames          2                           2                  3        1                                        work lie ahead. ",cs.GR,B,-0.008813862,-0.08792757,0.0775391
+http://arxiv.org/pdf/2206.07951v1,Predicting Geometric Errors and Failures in Additive Manufacturing,"42
+    In the present work only part characteristics related to structural robustness
+and detail capture were used for characterizing printability. In future work,
+additional part characteristics such as escape holes and moving/connected parts
+can be investigated and incorporated to the printability framework. References
+
+ [1] M. Livesu, S. Ellero, J. Mart´ınez, S. Lefebvre, M. Attene, From 3D models
+      to 3D prints: an overview of the processing pipeline, Computer Graphics
+      Forum 36 (2). ",cs.GR,C,0.19879854,-0.00908481,0.07873248
+http://arxiv.org/pdf/2206.08698v1,Towards computing complete parameter ranges in parametric modeling,"This is because editing diﬀerent parameters makes the current space of vari-
+able parameters restricted into diﬀerent dimensions, so it could aﬀect the allowable ranges of the subsequent-edited
+parameters. However, although the proposed approach can achieve good performances in multi-parameter editing, it still has
+the following issues to be addressed in future work. First Author et al. ",cs.GR,C,0.13389722,0.11870248,-0.05855493
+http://arxiv.org/pdf/2206.13112v1,A Data-Driven Paradigm for Precomputed Radiance Transfer,"https://unity. and could serve as a baseline for future work in Machine Learning. com/srp/High- Definition- Render- Pipeline
+ACKNOWLEDGMENTS
+                                                                       Jaakko Lehtinen, Matthias Zwicker, Emmanuel Turquin, Janne Kontkanen, Frédo Du-
+The authors thank Eric Heitz, Emmanuel Turquin, and Sebastien
+Largarde for discussions during the early phase of this project. ",cs.GR,B,-0.20730695,-0.16359305,0.06255928
+http://arxiv.org/pdf/2206.13216v1,Clipping and Intersection Algorithms: Short Survey and References,"However, users are urged to consider a limited precision of the ﬂoating-
+point representation[218] and numerical robustness issues to proper handling
+near singular cases in the actual implementations. Surprisingly, during the study and this summary preparation, there are still
+some problems to be explored more deeply, like a robust and eﬃcient intersec-
+tion of triangular meshes; application of triangle-triangle intersection algorithms
+A Survey of Line Clipping Algorithms  9
+
+leads to inconsistencies, ineﬃciency, and unreliability in general Those topics will
+be explored more in future work. Acknowledgments
+
+The author would like to thank colleagues and students at the University of West
+Bohemia in Plzen, VSB-Technical University and Ostrava University in Ostrava
+for their comments and recommendations. ",cs.GR,C,0.35146952,-0.009668617,-0.114076465
+http://arxiv.org/pdf/2206.15236v1,Stochastic Poisson Surface Reconstruction,"costly matrix inversions at test time. We believe applying this in the
+broader GP context to be a promising avenue for future work. Beatriz Trinchão Andrade, Caroline Mazetto Mendes, Jurandir de Oliveira Santos Jr, Olga
+                                                                               Regina Pereira Bellon, and Luciano Silva. ",cs.GR,B,-0.17367692,0.10570292,-0.20593849
+http://arxiv.org/pdf/2206.15236v2,Stochastic Poisson Surface Reconstruction,"We believe applying this in the
+original PSR, we sample the interpolated vector field 𝑉ì efficiently. broader GP context to be a promising avenue for future work. However, unlike other GPIS, we require a global Poisson solve to
+evaluate even a single implicit function 𝑓 mean or variance query. ",cs.GR,C,0.07321893,-0.082981735,-0.15171547
+http://arxiv.org/pdf/2207.01044v1,MatFormer: A Generative Model for Procedural Materials,"We received a score of 1.82 (40% of scores ≥ 3) compared
+   MatFormer (n. order 𝜋b)       0.060    62.8   0.80  1.84                   to 0.35 (10% scores ≥ 3) for the Macro-nodes and 0.48 (0% scores
+  MatFormer (n. order 𝜋rr)       0.046   48.6    1.01  1.34                   ≥ 3) for the Pairwise baselines. This demonstrates the significant
+                                                                              improvement provided by our method, as well as showing that there
+   MatFormer (n. order 𝜋r)                                                    is still room for further research. Most prominent feedback for our
+46:10 • Guerrero et al. ",cs.GR,B,-0.120715216,0.25781694,-0.38565642
+http://arxiv.org/pdf/2207.01044v2,MatFormer: A Generative Model for Procedural Materials,"We received a score of 1.82 (40% of scores ≥ 3) compared
+   MatFormer (n. order 𝜋b)       0.060    62.8   0.80  1.84                   to 0.35 (10% scores ≥ 3) for the Macro-nodes and 0.48 (0% scores
+  MatFormer (n. order 𝜋rr)       0.046   48.6    1.01  1.34                   ≥ 3) for the Pairwise baselines. This demonstrates the significant
+                                                                              improvement provided by our method, as well as showing that there
+   MatFormer (n. order 𝜋r)                                                    is still room for further research. Most prominent feedback for our
+46:10 • Guerrero et al. ",cs.GR,B,-0.120715216,0.25781694,-0.38565642
+http://arxiv.org/pdf/2207.05009v1,A Learned Radiance-Field Representation for Complex Luminaires,"sampling techniques that take advantage of implicit learned repre-         CVPR. 2022 9.
+sentations of the luminaires is a promising avenue for future work. [GUK*17] GUILLÉN, IBÓN, UREÑA, CARLOS, KING, ALAN, et al. ",cs.GR,A,-0.21443215,-0.008798494,-0.1907091
+http://arxiv.org/pdf/2207.05618v1,Htex: Per-Halfedge Texturing for Arbitrary Mesh Topologies,"While Htex is probably too costly to be
+used for an entire video game, we believe it could be used for assets that can benefit from crack-
+free displacement mapping with tessellation shaders. In future work, we would like to combine
+our method with halfedge-based subdivision algorithms [Dupuy and Vanhoey 2021] to render
+Ptex-based assets more faithfully within a unified, halfedge based, framework. ACKNOWLEDGEMENTS
+The T-Rex asset from Figure 1 was modeled by Olivier Roos for Studio Manette. ",cs.GR,A,0.13727903,-0.20192823,0.0030935649
+http://arxiv.org/pdf/2207.07224v1,Efficient Interpolation-based Pathline Tracing with B-spline Curves in Particle Dataset,"Besides
+5.3 Timing                                                                                              the usage for pathline tracing, B-splines can also be applied to data
+                                                                                                        reduction or as a proxy representation for neural network training. We calculate the B-spline ﬁtting time and the interpolation time                                        Our future works will focus on B-spline and neural network repre-
+of 20818 test pathlines. All the experiments are performed on the                                       sentations for the pathlines and their application for feature-driven
+same machine and with a similar implementation optimization. ",cs.GR,B,-0.07886398,0.111447275,0.05742489
+http://arxiv.org/pdf/2207.07224v2,Efficient Interpolation-based Pathline Tracing with B-spline Curves in Particle Dataset,"Besides
+5.3 Timing                                                                                              the usage for pathline tracing, B-splines can also be applied to data
+                                                                                                        reduction or as a proxy representation for neural network training. We calculate the B-spline ﬁtting time and the interpolation time                                        Our future works will focus on B-spline and neural network repre-
+of 20818 test pathlines. All the experiments are performed on the                                       sentations for the pathlines and their application for feature-driven
+same machine and with a similar implementation optimization. ",cs.GR,B,-0.07886398,0.111447275,0.05742489
+http://arxiv.org/pdf/2207.07695v1,An Exact Bitwise Reversible Integrator,"We also showed how
+to use this solver to eﬃciently solve a class of optimization problems using the
+adjoint method. In future work we would like to explore applications in machine learning, e.g. reversible neural networks. ",cs.GR,B,-0.036880195,-0.035146046,0.14136755
+http://arxiv.org/pdf/2207.08346v1,Display of 3D Illuminations using Flying Light Specks,"We quantify both the execution
+{𝜇𝑖𝑗+1} using Simple, i.e., enumerating all possible combinations,                                  time of an algorithm and the total distance of its computed flight
+                                                                                                    paths. The actual execution of the flight paths by FLSs to render an
+sorting, and selecting the one with the shortest distance for its                                   illumination and its latency is a part of our future work. flight path. ",cs.GR,B,-0.012022598,0.014634382,-0.17371833
+http://arxiv.org/pdf/2207.10960v1,Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams),"13 also
+reports scatter plots of the projected variances. For a given axis, it           A natural direction for future work is the extension of our
+is the percentage of the variance of the projected trees (along the          framework to other topological data representations, such as
+axis) over the global variance of the input BDTs (i.e. average of            Reeb graphs or Morse-Smale complexes. ",cs.GR,C,0.107410595,0.10424239,-0.3636829
+http://arxiv.org/pdf/2207.10960v2,Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams),"13 also
+reports scatter plots of the projected variances. For a given axis, it           A natural direction for future work is the extension of our
+is the percentage of the variance of the projected trees (along the          framework to other topological data representations, such as
+axis) over the global variance of the input BDTs (i.e. average of            Reeb graphs or Morse-Smale complexes. ",cs.GR,C,0.107410595,0.10424239,-0.3636829
+http://arxiv.org/pdf/2207.10960v3,Principal Geodesic Analysis of Merge Trees (and Persistence Diagrams),"13 also
+reports scatter plots of the projected variances. For a given axis, it           A natural direction for future work is the extension of our
+is the percentage of the variance of the projected trees (along the          framework to other topological data representations, such as
+axis) over the global variance of the input BDTs (i.e. average of            Reeb graphs or Morse-Smale complexes. ",cs.GR,C,0.107410595,0.10424239,-0.3636829
+http://arxiv.org/pdf/2207.11620v1,Instant Neural Representation for Interactive Volume Rendering,"Therefore, we believe, without further                                                dering strategies are highly ﬂexible, which enables high performance
+optimizations, our in-shader rendering method alone would be useful                                                     and high ﬁdelity rendering for volumetric neural representations. only for generating high-quality renderings once visual explorations are
+done, while for interactive visualization, this method should be coupled                                                   There is still room for future work in this direction. For example,
+with our volume decoding or sample streaming based methods. ",cs.GR,A,-0.16287628,-0.29567212,0.06965807
+http://arxiv.org/pdf/2207.11620v2,Instant Neural Representation for Interactive Volume Rendering,"6, pp. 179–1, 2014.
+stages, and there is much room for future work. For exam-
+ple, our work outlines how online training can be achieved                  [7] L. Szirmay-Kalos, B. To´ th, and M. Magdics, “Free path sampling in
+using the latest technology. ",cs.GR,B,-0.16052285,0.16214623,-0.119076684
+http://arxiv.org/pdf/2207.12011v1,RayPC: Interactive Ray Tracing Meets Parallel Coordinates,"We used the plugin to fulﬁll the ﬁve given tasks and present                                                     the identiﬁcation of plumes or slabs at speciﬁc heights using the
+                                        the results in Section 3 and conclude with a discussion and plans for                                                     parallel coordinates. Third, we randomly select up to 100 000 cells
+                                        future work in Section 4.                                                                                                 and store their scalar information in a ﬁle. This is later used to
+                                                                                                                                                                  draw the lines of the parallel coordinates. ",cs.GR,C,0.21708381,-0.12755157,-0.14225495
+http://arxiv.org/pdf/2208.00949v1,"VolTeMorph: Realtime, Controllable and Generalisable Animation of Volumetric Representations","2020; Yifan et al. 2020], but we leave
+the notions of a point being ‘in front’ or ‘behind’ a certain triangle     this as future work. are uniquely determined by the triangle vertices’ winding order. ",cs.GR,C,0.2641018,0.044014163,-0.03941981
+http://arxiv.org/pdf/2208.01772v1,A Dataset and Benchmark for Mesh Parameterization,"a measure of global injectivity. We cannot be sure which aspects of an artist’s UV map are in-                                 Another avenue of future work is in examining the speciﬁc ap-
+tentional. Our comparison to the hand-generated parameterizations                             plications of the meshes in our dataset. ",cs.GR,A,0.049744442,-0.120396286,-0.06229554
+http://arxiv.org/pdf/2208.02114v1,Solving Inverse PDE Problems using Grid-Free Monte Carlo Estimators,"We
+Y                                                                                   sidestep this point and focus on integrands that are continuous with
+                                                                                    respect to 𝜋. We leave the application of such techniques to PDEs
+Here, Y is typically a sphere around 𝑥 and 𝐾 attenuates the recursive               with discontinuous parameters for future work. contribution of 𝑢. ",cs.GR,C,0.23355988,0.047369435,0.09631967
+http://arxiv.org/pdf/2208.02946v1,Learning to Generate 3D Shapes from a Single Example,"thin structures. We leave it for future work. The tri-plane representation helps reduce the memory and time
+                                                                                  cost. ",cs.GR,C,0.17628364,0.05330429,0.03937616
+http://arxiv.org/pdf/2208.02946v2,Learning to Generate 3D Shapes from a Single Example,"2019] may help the generative model to learn
+thin structures. We leave it for future work. 224:12 • Rundi Wu and Changxi Zheng                                                           ACM transactions on graphics (TOG) 23, 3 (2004), 652–663. ",cs.GR,C,0.1137061,-0.03315723,0.15029916
+http://arxiv.org/pdf/2208.03430v1,PC-Expo: A Metrics-Based Interactive Axes Reordering Method for Parallel Coordinate Displays,"PC-Expo received             that can be improved. Our interviews with the user-study participants
+an average SUS score of 81.5, which is considerably higher than the            pointed out several features and directions for future work. First, adding
+baseline SUS score of 68 for design tools. ",cs.GR,B,-0.119968474,0.39699358,-0.30682385
+http://arxiv.org/pdf/2208.03674v1,"Projective Geometry, Duality and Plucker Coordinates for Geometric Computations with Determinants on GPUs","On the other hand, cases
+when data are given in the 𝑛-dimensional space and hyperplane in 𝑘-dimensional space is searched is solved. In future work the given approach is to be extended to general case, when data are given in the 𝑛-dimensional
+space and hyperplane in 𝑘-dimensional space, where 𝑘 < 𝑛, is searched using geometry algebra approach. ICNAAM 2016, AIP Conf. ",cs.GR,C,0.11963759,-0.06193258,-0.040079765
+http://arxiv.org/pdf/2208.03914v1,Interpretable Disentangled Parametrization of Measured BRDF with $β$-VAE,"We thus reach     References
+a RelAE of 0.028 with our ﬁnal parametrization. Nonetheless, in
+future work, we would like to improve the natural explicitness of    [BHP∗18] BURGESS C. P., HIGGINS I., PAL A., MATTHEY L., WAT-
+our network. Finally, this work is focused on the MERL dataset. ",cs.GR,C,0.16341901,-0.041159727,-0.12807426
+http://arxiv.org/pdf/2208.04729v1,New Geometric Continuity Solution of Parametric Surfaces,"Similar conditions can be derived also
+for other formulations like Bézier, B-Spline etc. In future work similar conditions approach will be explored within
+S-Patch and HS-patch recently introduced. ACKNOWLEDGMENTS
+
+    The author thanks to students and colleagues at the University of West Bohemia, Plzen and Alexej Kolcun,
+Institute of Geonics of the Academy of Sciences, Ostrava University, Ostrava for their critical comments, to Vit
+Ondracka, University of West Bohemia for the experimental implementation. ",cs.GR,C,0.29545128,-0.023784067,-0.0861232
+http://arxiv.org/pdf/2208.05572v1,CreatureShop: Interactive 3D Character Modeling and Texturing from a Single Color Drawing,"Finally, the
+outline and treat the shape as a round shape with no other
+features on it. In future work we hope to exploit perceptual        authors deeply appreciate the assistance of Natalia Linnik
+cues or drawing tactics for the frontal view case, and to
+leverage more intelligent techniques or geometric insights          and her willingness to allow us to feature her fox art. for the latter. ",cs.GR,A,0.064395465,-0.024986176,0.1664734
+http://arxiv.org/pdf/2208.06413v1,Generating Pixel Art Character Sprites using GANs,"Available:
+frequency color noise and very faint inner edges, resulting in              http://ieeexplore.ieee.org/document/8100115/
+unusable images. For future work, one can experiment using the multi-domain          [8] M. Heusel, H. Ramsauer, T. Unterthiner, B. Nessler, and S. Hochreiter,
+architecture of StarGAN [16], as it would allow a single model              “GANs Trained by a Two Time-Scale Update Rule Converge to a
+to learn all the mapping among all available poses instead                  Local Nash Equilibrium,” Advances in Neural Information Processing
+of having one model for each. Another further investigation                 Systems, vol. ",cs.GR,B,-0.2360107,-0.12442081,0.17034003
+http://arxiv.org/pdf/2208.06723v1,Jacobi Set Driven Search for Flexible Fiber Surface Extraction,"Flexible isosurfaces:
+of the ﬁber surface. In future work, we plan to improve the runtime                  Simplifying and displaying scalar topology using the contour tree. of the algorithm via Jacobi set simpliﬁcation and to devise methods                  Computational Geometry, 43(1):42–58, 2010.
+for identifying interesting Jacobi edges, thereby avoiding the need
+for user interaction with the CSP or the projected range space. ",cs.GR,C,0.38362503,-0.20857197,-0.028141383
+http://arxiv.org/pdf/2208.07767v1,Enhancing Dynamic Mode Decomposition Workflow with In-Situ Visualization and Data Compression,"In Section 4 we evaluate our strategies on the aforementioned examples. In Section 5 we present
+our conclusions and future works. 2 Dynamic Mode Decomposition
+
+Dynamic Mode Decomposition (DMD) is a data-driven method that aims to extract coherent structures from spatio-
+temporal data without prior information about the system. ",cs.GR,B,-0.057424612,-0.09660992,-0.040317502
+http://arxiv.org/pdf/2208.08636v1,DualMotion: Global-to-Local Casual Motion Design for Character Animations,"SUS: A ’Quick and Dirty’ Usability Scale. ration on inputs that contain more information is yet another
+future work for more professional users. In Usability Evaluation In Industry, pages 207–212. ",cs.GR,B,-0.1496038,0.45691353,-0.15030986
+http://arxiv.org/pdf/2208.08983v1,3D Anatomical Representations and Analysis: an Application to the Spine,"Indeed, the ROI extension and the values of the HU mean are lower for healthy
+subjects. 5 Discussion and future work
+
+We provide a framework for the patient-speciﬁc characterization of the vertebral spine, which works on 3D surface
+models and permits the evaluation of the health status of each patient by analyzing the spine in terms of anatomical
+components, functional regions and tissue status. In this way, the visualization of the single bone and the whole district
+is improved, and the quantitative analysis relies on the information collected considering every direction in space, which
+is not possible with 2D images. ",cs.GR,A,0.04487232,0.058948368,-0.001704663
+http://arxiv.org/pdf/2208.09706v1,Dual Space Coupling Model Guided Overlap-Free Scatterplot,"We
+markedly reduces the efﬁciency of interactive exploration. The debris                               leave this idea for future work. Another interesting idea is to extend
+(Fig.15 c ) severely disturbs the reading and even leads to a complete                              our algorithms to solve the scalability issues of 3D visualization. ",cs.GR,C,0.06171055,-0.04949481,0.042926516
+http://arxiv.org/pdf/2208.10859v1,Wavelet-Based Fast Decoding of 360° Videos,"In this paper the major
+                                                                              focus was on display speed. In future work such techniques may
+5 DISCUSSION AND LIMITATIONS                                                  be introduced to further reduce the file sizes of our wavelet-based
+                                                                              video codec. We compared our wavelet-based codec against two common video
+codecs and previous work. ",cs.GR,B,-0.37729236,-0.09911618,0.04116496
+http://arxiv.org/pdf/2208.10859v2,Wavelet-Based Fast Decoding of 360-Degree Videos,"In this paper the major
+                                                                         focus was on display speed. In future work such techniques may be
+5 DISCUSSION AND LIMITATIONS                                             introduced to further reduce the ﬁle sizes of wavelet-based video
+                                                                         coding. In the following, we discuss further key points of consideration and
+address limitations of the current implementation                           Reference Data. ",cs.GR,B,-0.39380616,-0.12210107,0.035312437
+http://arxiv.org/pdf/2208.10906v1,DualSmoke: Sketch-Based Smoke Illustration Design with Two-Stage Generative Model,"Note that we had a lower score for inconsistency which may
+                                                                 be caused by the separated design and simulation windows. We plan to implement the integrated simulation window as
+                                                                 part of future work. In terms of the user feedback, one par-
+                                                                 ticipant reported that “I did not understand why the smoke
+                                                                 control is necessary after drawing obstacle”. ",cs.GR,C,0.059032574,0.22498286,-0.095614806
+http://arxiv.org/pdf/2208.12674v1,Automatic Testing and Validation of Level of Detail Reductions Through Supervised Learning,"of a LOD transition. For example, the former can be used
+                                                                       As previously mentioned, we have identiﬁed at least two
+                                                                    interesting future work with this approach. The ﬁrst area of
+                                                                    research is scene optimization, where we envision that this
+                                                                    approach could be used as a method to optimize the distances
+                                                                    that the LOD switched to lower resolution. ",cs.GR,A,-0.15351334,-0.19223022,-0.05072773

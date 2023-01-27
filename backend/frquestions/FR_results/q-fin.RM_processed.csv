@@ -1,0 +1,118 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.06319v1,Multinomial Backtesting of Distortion Risk Measures,"Section 5 applies the method
+to a more complex asset-liability-model. Section 6 concludes and discusses further research. All
+proofs and auxiliary material are collected in an appendix. ",q-fin.RM,B,-0.21730818,-0.0844205,0.040177662
+http://arxiv.org/pdf/2201.06370v1,Model Aggregation for Risk Evaluation and Robust Optimization,"These two sections answer Q4. Finally, advantages and limitations of the MA approach, as well as directions for future work,
+are summarized and discussed in Section 8, which also contains a preliminary discussion on aggre-
+gating multivariate risk models, in contrast to the univariate risk models treated throughout the
+
+    2In addition to the literature on portfolio optimization, robust risk evaluation and optimization also broadly exist
+in other applications of operations research; see Wiesemann et al. (2014), Esfahani and Kuhn (2018), Blanchet et al. ",q-fin.RM,B_centroid,-0.40515357,-0.3901536,-0.42274198
+http://arxiv.org/pdf/2201.06370v2,Model Aggregation for Risk Evaluation and Robust Optimization,"These two sections answer Q4. Finally, advantages and limitations of the MA approach, as well as directions for future work,
+are summarized and discussed in Section 8, which also contains a preliminary discussion on aggre-
+gating multivariate risk models, in contrast to the univariate risk models treated throughout the
+
+    2In addition to the literature on portfolio optimization, robust risk evaluation and optimization also broadly exist
+in other applications of operations research; see Wiesemann et al. (2014), Esfahani and Kuhn (2018), Blanchet et al. ",q-fin.RM,B,-0.40515357,-0.3901536,-0.42274198
+http://arxiv.org/pdf/2202.02273v1,Are all Credit Default Swap Databases equal?,"Second, extant price discovery
+research focused on CDS spreads and/or stock returns should be complemented with
+additional robustness tests in the light of the differences found across databases. Avenues of further research include the analysis of the effect of the discrepancies among
+the different CDS contributors on potential debt decoupling (Hu and Black, 2008) or the
+usefulness of such dispersion as a signaling tool for supervisory monitoring in comparison
+
+                                                                                                        36
+to the usefulness of other financial instruments (Hamalainen, Pop, Hall and Howcroft,
+2012). References
+Acharya, V. and Johnson, T., “Insider Trading in Credit Derivatives”. ",q-fin.RM,A,0.11904246,0.34252927,-0.024347782
+http://arxiv.org/pdf/2202.02276v1,Measuring Systemic Risk: Common Factor Exposures and Tail Dependence Effects,"Looking forward, a comparison of our measures with other measures based on
+alternative asset markets would offer an interesting topic for further investigation. The
+application of our measures for asset pricing, hedging strategies, portfolio
+diversification, and risk management purposes represent other natural directions for
+further research. Appendices
+
+Appendix A
+      We apply the theorem of the law of total variance,
+
+                   Var (Y ) = EX Var (Y | X ) +VarX E (Y | X ) . ",q-fin.RM,A,-0.19562517,0.038706716,0.10869516
+http://arxiv.org/pdf/2202.09970v1,Extremal Dependence in Australian Electricity Markets,"Since
+the calculation of payoﬀs requires the forecast of future spike count in a certain period, the
+persistence or potential recurrence possibility of a price spike would be highly relevant. Therefore, our extremogram analysis is of particular interest in terms of modelling the
+payoﬀ distribution of these types of contracts in future work. The ﬁve regional markets in the NEM are currently linked through six interconnectors. ",q-fin.RM,A,0.23827429,-0.093933806,0.3648717
+http://arxiv.org/pdf/2202.12946v1,A contagion process with self-exciting jumps in credit risk applications,"Although, we have shown by numerical illustrations that the proposed model is
+appropriate to address the clustering of defaults observed in the default events. One of
+the possible future work is to formulate how to calibrate the model parameters using
+real data and perform the parameter estimation. Acknowledgements The ﬁrst author is thankful to Council of Scientiﬁc and In-
+dustrial Research (CSIR), India (award number 09/086 (1207)/2014-EMR-I) for the
+ﬁnancial grant. ",q-fin.RM,C,0.5933367,-0.26585552,0.08781912
+http://arxiv.org/pdf/2203.04053v1,Risk sharing in equity-linked insurance products: Stackelberg equilibrium between an insurer and a reinsurer,"For RRAI = 15 and T = 20 we
+have W EU CI (θR(86.73%), ξI∗, 0, 0) = 287bp. 6 Conclusion and further research
+
+In this paper, we derive and analyze a Stackelberg equilibrium in a Stackelberg game between
+a reinsurer and an insurer, which appears in the context of an equity-linked insurance product
+with a capital guarantee. We assume that the reinsurance is only purchased at the beginning of
+the investment horizon and is not continuously adjusted. ",q-fin.RM,A,-0.20149073,0.114641145,0.4087177
+http://arxiv.org/pdf/2203.15929v1,Sample Recycling for Nested Simulation with Application in Portfolio Risk Measurement,"This almost sure convergence is useful for establishing asymptotic properties of
+
+rs the GNS risk estimator ρmn. To facilitate further analysis in Section 4, we establish two more useful lemmas below. Even
+
+e though we attribute Lemmas 3.3 and 3.4 to Avramidis and Matzinger (2004), our lemmas are
+V extensions of theirs to accommodate the general analysis in this article. ",q-fin.RM,B,-0.08103779,-0.33904594,0.13522166
+http://arxiv.org/pdf/2204.08882v1,Calibrating distribution models from PELVE,"In the most complicated case of a curve constraint, we convert the calibration problem
+                                                   to that of an advanced diﬀerential equation. We further study some technical properties of PELVE
+                                                   by oﬀering a few new results on monotonicity and convergence. Keywords: Value-at-Risk, Expected Shortfall, risk measures, heavy tails, advanced diﬀerential
+                                           equation. ",q-fin.RM,B,-0.055455536,-0.2651969,0.42821956
+http://arxiv.org/pdf/2204.11849v1,Heterogeneous Information Network based Default Analysis on Banking Micro and Small Enterprise Users,"Semi-supervised classification with graph
+cial default prediction for MSEs. As future work, we will continue                            convolutional networks. arXiv. ",q-fin.RM,C,0.7181982,-0.26215923,-0.20448801
+http://arxiv.org/pdf/2204.11849v2,Heterogeneous Information Network based Default Analysis on Banking Micro and Small Enterprise Users,"To reveal such capability, we give a microscopic anal-                cial default prediction for MSEs. As future work, we will continue
+ysis through a set of case studies including three default MSEs from                  to incorporate more credit-related data and further demonstrate the
+the testing data, labeled as C136, C81, C175. Figure 5 shows their                    effectiveness of HINs on the business banking service and finance
+attention values in the instance-level fusion, where path instances                   risk problems, e.g. ",q-fin.RM,C_centroid,0.37562597,0.101140074,-0.354549
+http://arxiv.org/pdf/2205.01524v1,Machine learning techniques in joint default assessment,"17
+         4e-04
+
+         3e-04
+
+density  2e-04
+
+         1e-04
+
+         0e+00
+
+                0  1000  2000  3000  4000  5000  6000
+
+                               S
+
+          Figure 5: Beta binomial pmf estimated with LR (black) and AB (red). 8 Conclusion and further research
+
+The novel contribution of this paper is to empirically analyse the impact of introducing
+ML techniques to include linear and non-linear dependencies among obligors’ charac-
+teristics in the credit risk evaluation of a portfolio. We perform our analysis on a set
+of credit card owners with observable characteristics. ",q-fin.RM,B,-0.06802537,0.022252938,-0.14341892
+http://arxiv.org/pdf/2205.08904v1,Risks and Returns of Uniswap V3 Liquidity Providers,"with lifetimes exceeding 30 days exhibit mean daily returns rang-
+ing from 0% to 0.04%. Thus, while liquidity position’s on Uniswap              To further study the risks associated with providing liquidity,
+V3 experience little to no risks of losing money, the returns are           we also consider the conditional value at risk (CVaR) of the ana-
+generally small. For the four normal pair pools (cf. ",q-fin.RM,A_centroid,-0.020188708,0.37965208,-0.054795034
+http://arxiv.org/pdf/2205.08904v2,Risks and Returns of Uniswap V3 Liquidity Providers,"providers do not appear to be rewarded with high returns. Less than
+                                                                        30% of the liquidity positions in the four pools are rewarded for
+   To further study the risks associated with providing liquidity,
+Risks and Returns of Uniswap V3 Liquidity Providers                                [2] 2022. Balancer. ",q-fin.RM,A,0.025497371,0.56223404,-0.14759544
+http://arxiv.org/pdf/2206.11973v2,Liquidity Risks in Lending Protocols (LPs): Evidence from Aave Protocol,"For the case of DAI, more liquidity risks in Aave can negatively
+relate to market cap and revenue of Compound. Therefore, risks in LPs are infectious, and
+more further study can help to understand cross-LP effects better. Although our findings appear conceptually and empirically robust, they should be interpreted
+with their limitations in mind. ",q-fin.RM,A,-0.1491566,0.42632538,-0.031275146
+http://arxiv.org/pdf/2207.00862v1,Static Hedging of Freight Risk under Model Uncertainty,"The level of dis-
+tortion depends on the level of reliability that the investor allocates to the provided information
+with the special cases corresponding to the barycenter model (fully trust in Q) and the most
+distorted model (no trust in Q) which corresponds to the deep uncertainty case. In this work,
+we focus on the case that the investor is fully conﬁdent regarding the plausibility of the provided
+models and we refer to the other very interesting cases for future work in the subject. 3.2 Optimal static hedging strategies under the model uncertainty frame-
+       work
+
+Let us state in a mathematical formulation the static hedging problem that the investor faces. ",q-fin.RM,A,-0.20021574,-0.07308793,0.3629734
+http://arxiv.org/pdf/2207.10539v1,Estimating value at risk: LSTM vs. GARCH,"Plus, its ability to adapt to changing market
+environments can be checked using this method. While this study concentrates on value-
+at-risk, further risk measures like expected shortfall could be explored in future work. Acknowledgements
+
+The ﬁrst author, Weronika Ormaniec, acknowledges partial support by Project operated
+within MEiN Programme, MNiSW/2019/395/DIR/KH (“Szkola Orlow”), co-ﬁnanced by
+the EU European Social Fund, Operational Program Knowledge Education Development. ",q-fin.RM,B,-0.07116388,0.17652535,-0.13074262

@@ -105,3 +105,10 @@ def train_and_save(df):
     embeddings = get_embeddings(df)
     model = KNN_train(embeddings, df["primary category"], k=1)
     pickle.dump(model, open("../../backend/frquestions/category_analysis/model.pickle", "wb"))
+
+
+
+if __name__ == "__main__":
+    df = data_loader('../../utils/FRDownloader/results/mass_parsing.csv')
+    train, validate, test = split_data(df)
+    test_over_categories(train, validate, 1)
