@@ -10,6 +10,7 @@ import networkx as nx
 import requests
 from django.db.models import QuerySet
 from django.http import HttpRequest, JsonResponse
+from django.views.decorators.csrf import csrf_exempt
 from dotenv import load_dotenv
 from networkx import node_link_graph
 from scholarly import scholarly, Publication, ProxyGenerator
@@ -94,7 +95,7 @@ class ArticleGraph(nx.Graph):
 
     def init_from_schema(self, schema: dict):
         node_graph = node_link_graph(schema)
-        self.add_nodes_from(node_graph.nodes)
+        self.add_nodes_from([(n, attributes) for (n, attributes) in node_graph.nodes.items()])
         self.add_edges_from(node_graph.edges)
 
     def init_from_article(self, core_article: PublicationWithID):
@@ -121,16 +122,17 @@ class ArticleGraph(nx.Graph):
             if core_article.get('citedby_url') is None:
                 return results
             core_article_cites = scholarly.citedby(core_article)
-            counter = 0
-            while counter < article.publication['num_citations'] and len(results) < self.max_articles_per_column:
-                next_publication = next(core_article_cites)
-                if next_publication['bib'].get('title') not in already_used:
-                    article_with_id = add_publication_to_database(publication=next_publication,
-                                                                  cites=db_record_of_publication)
-                    results.append(article_with_id)
+            while len(results) < self.max_articles_per_column:
+                try:
+                    next_publication = next(core_article_cites)
+                    if next_publication['bib'].get('title') not in already_used:
+                        article_with_id = add_publication_to_database(publication=next_publication,
+                                                                      cites=db_record_of_publication)
+                        results.append(article_with_id)
 
-                    counter += 1
-                    already_used.add(next_publication['bib'].get('title'))
+                        already_used.add(next_publication['bib'].get('title'))
+                except StopIteration:
+                    break
 
         return results
 
@@ -158,11 +160,7 @@ class ArticleGraph(nx.Graph):
         return left_edge, min_subset
 
     def create_right_side_of_graph(self):
-
-        pubs_to_expand, edge_subset = self.find_graph_right_edge()
-
-        pub: PublicationWithID
-        for pub in pubs_to_expand:
+        def handle_pub(pub: PublicationWithID):
             core_article_cited_in = self.get_citedby(pub)
             core_article_cited_in = sorted(core_article_cited_in,
                                            key=lambda x: x.publication.get('num_citations', 0), reverse=True)
@@ -171,6 +169,11 @@ class ArticleGraph(nx.Graph):
                                       article.publication,
                                       article_from=pub.idx,
                                       subset=edge_subset + 1)
+
+        pubs_to_expand, edge_subset = self.find_graph_right_edge()
+
+        for publ in pubs_to_expand:
+            handle_pub(publ)
 
         self.trim_subset(edge_subset + 1)
 
@@ -271,30 +274,33 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
     raise RuntimeError('Article not found in Scholar.')
 
 
-def get_graph_as_json(article: PublicationWithID):
-    graph_schema = ArticleGraph(core_article=article)
-    json_graph = nx.node_link_data(graph_schema)
-    json_graph['layout'] = {k: tuple(v) for k, v in nx.multipartite_layout(graph_schema).items()}
+def get_graph_as_json(article: ArticleGraph):
+    json_graph = nx.node_link_data(article)
+    json_graph['layout'] = {k: tuple(v) for k, v in nx.multipartite_layout(article).items()}
 
     return json_graph
 
 
+@csrf_exempt
 def expand_left(request: HttpRequest):
-    authors = request.POST.get('authors').split(',')
-    authors = [unicodedata.normalize('NFKD', a).strip() for a in authors]
-    title = request.GET.get('title')
+    sent_schema = json.loads(request.body.decode('utf-8'))
+    article_graph = ArticleGraph(schema=sent_schema)
+    article_graph.create_left_side_of_graph()
 
-    article = find_article(title, authors)
-    graph_json_schema = get_graph_as_json(article)
+    graph_json_schema = get_graph_as_json(article_graph)
 
     return JsonResponse(graph_json_schema)
 
 
+@csrf_exempt
 def expand_right(request: HttpRequest):
     sent_schema = json.loads(request.body.decode('utf-8'))
-    ArticleGraph(schema=sent_schema)
+    article_graph = ArticleGraph(schema=sent_schema)
+    article_graph.create_right_side_of_graph()
 
-    return JsonResponse(sent_schema)
+    graph_json_schema = get_graph_as_json(article_graph)
+
+    return JsonResponse(graph_json_schema)
 
 
 def index(request: HttpRequest):
@@ -303,6 +309,8 @@ def index(request: HttpRequest):
     title = request.GET.get('title')
 
     article = find_article(title, authors)
-    graph_json_schema = get_graph_as_json(article)
+
+    article_graph = ArticleGraph(core_article=article)
+    graph_json_schema = get_graph_as_json(article_graph)
 
     return JsonResponse(graph_json_schema)
