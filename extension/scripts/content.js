@@ -1,9 +1,10 @@
 const {create_graph_on_scholar_result, create_scatter_on_scholar_result, purge_graph} = require("./graphs");
-const {extract_article_data, extract_pdf_url, show_loader, hide_loader} = require("./utils");
+const {extract_article_data, extract_pdf_url, show_loader, hide_loader, DefaultDict} = require("./utils");
 const {get_graph_layout, get_scatter_layout} = require("./backend_communication");
 const {menu} = require("./menu");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
+let json_storage = [];
 
 function draw_graph_of_connections(graph, i, x) {
     console.log("In draw_graph_of_connections");
@@ -13,18 +14,24 @@ function draw_graph_of_connections(graph, i, x) {
         purge_graph(graph.id);
     } else {
         graph.style.display = "block";
-        var article_data = extract_article_data(pdf_results[i].parentNode);
-        var graph_schema = get_graph_layout(article_data);
-        // TODO add waiting animation
-        show_loader(graph.id);
-        graph_schema.then(function (returned_json) {
-            hide_loader(graph.id);
-            create_graph_on_scholar_result(graph.id, returned_json);
-        }).catch(function (error) {
-            // TODO add action in case of failure.
-            hide_loader(graph.id);
-            console.error(error);
-        });
+        if (json_storage[i] === "NO RECORD")
+        {
+            let article_data = extract_article_data(pdf_results[i].parentNode);
+            let graph_schema = get_graph_layout(article_data);
+            show_loader(graph.id);
+            graph_schema.then(function (returned_json) {
+                hide_loader(graph.id);
+                json_storage[i] = returned_json
+                create_graph_on_scholar_result(graph.id, returned_json);
+            }).catch(function (error) {
+                // TODO add action in case of failure.
+                hide_loader(graph.id);
+                console.error(error);
+            });
+        } else {
+            create_graph_on_scholar_result(graph.id, json_storage[i]);
+        }
+
     }
 }
 
@@ -96,6 +103,8 @@ if (pdf_results) {
         menu.className = "menu";
         menu.id = "menu_" + i;
         menu.style.display = "none";
+
+        json_storage[i] = "NO RECORD"
 
         var connection_graph = document.createElement("button");
         connection_graph.innerHTML = "Connection graph";
