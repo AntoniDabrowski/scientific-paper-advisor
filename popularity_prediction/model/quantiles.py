@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-
+np.random.seed(0)
 
 def hist_citation_count(df=None):
     if type(df)!=pd.core.frame.DataFrame:
@@ -52,6 +52,14 @@ def trim_data_for_quantiles(df):
 
     return pd.concat(list(citation_count.values()))
 
+def map_class(x):
+    if x == 0:
+        return 0
+    elif x<5:
+        return 1
+    elif x<16:
+        return 2
+    return 3
 
 if __name__ == '__main__':
     df = pd.read_csv(open('semanticscholar_results_preprocessed.csv', encoding='UTF-8'))
@@ -62,5 +70,6 @@ if __name__ == '__main__':
     print(np.sum(trimmed_df['citationcount'] < 5) / total)
     print(np.sum(trimmed_df['citationcount'] < 16) / total)
 
-    # quantiles: [0  4 16]
-    trimmed_df.to_csv('semanticscholar_results_to_quantiles.csv')
+    # quantiles: [0 5 16]
+    trimmed_df['category'] = trimmed_df['citationcount'].apply(lambda x: map_class(x))
+    trimmed_df.to_csv('semanticscholar_results_to_quantiles.csv',index=False)
