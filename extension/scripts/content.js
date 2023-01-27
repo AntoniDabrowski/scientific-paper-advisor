@@ -1,5 +1,5 @@
 const {create_graph_on_scholar_result, create_scatter_on_scholar_result, purge_graph} = require("./graphs");
-const {extract_article_data, extract_pdf_url, show_loader, hide_loader, DefaultDict} = require("./utils");
+const {extract_article_data, extract_pdf_url, show_loader, hide_loader} = require("./utils");
 const {get_graph_layout, get_scatter_layout} = require("./backend_communication");
 
 const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")

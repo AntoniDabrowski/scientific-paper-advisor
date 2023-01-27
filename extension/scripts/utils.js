@@ -1,7 +1,8 @@
 class ArticleData {
-    constructor(title, authors) {
+    constructor(title, authors, url) {
         this.title = title;
         this.authors = authors;
+        this.url = url;
     }
 }
 
@@ -36,8 +37,9 @@ function get_author(scholar_result) {
 export function extract_article_data(scholar_result) {
     const title = get_title(scholar_result)
     const author = get_author(scholar_result)
+    const url = extract_pdf_url(scholar_result)
 
-    return new ArticleData(title, author);
+    return new ArticleData(title, author, url);
 }
 
 export function extract_pdf_url(scholar_result) {
@@ -67,6 +69,6 @@ export function show_loader(divid) {
     document.getElementById(divid).classList.add('loader')
 }
 
-export function hide_loader(divid, prev_class) {
+export function hide_loader(divid) {
     document.getElementById(divid).classList.remove('loader')
 }
