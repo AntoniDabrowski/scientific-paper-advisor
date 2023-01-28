@@ -1,0 +1,80 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.02806v1,Parallel Metric-Based Mesh Adaptation in PETSc using ParMmg,"Section 3
+                                       PETSc (Portable, Extensible Toolkit for Scientiﬁc         demonstrates its application to Poisson problems with
+                                       Computing) [3, 4] is a widely used scientiﬁc library,     two diﬀerent choices of RHS. Finally, an outlook on
+                                       written in C, which provides the linear and nonlin-       future work is made in Section 4. 2. ",cs.MS,B,0.59955513,0.18330626,-0.12892455
+http://arxiv.org/pdf/2201.02806v2,Parallel Metric-Based Mesh Adaptation in PETSc using ParMmg,"Section 3
+                                        PETSc (Portable, Extensible Toolkit for Scientiﬁc         demonstrates its application to Poisson problems with
+                                        Computing) [3, 4] is a widely used scientiﬁc library,     two diﬀerent choices of RHS. Finally, an outlook on
+                                        written in C, which provides the linear and nonlin-       future work is made in Section 4. An appendix is
+provided, which includes the commands required to           the Lp normalization techniques introduced by [14],
+reproduce the experimental results. ",cs.MS,B_centroid,0.62219244,0.18629402,-0.10629365
+http://arxiv.org/pdf/2201.02806v3,Parallel Metric-Based Mesh Adaptation in PETSc using ParMmg,"Section 3
+                                        PETSc (Portable, Extensible Toolkit for Scientiﬁc         demonstrates its application to Poisson problems with
+                                        Computing) [3, 4] is a widely used scientiﬁc library,     two diﬀerent choices of RHS. Finally, an outlook on
+                                        written in C, which provides the linear and nonlin-       future work is made in Section 4. An appendix is
+provided, which includes the commands required to           the Lp normalization techniques introduced by [14],
+reproduce the experimental results. ",cs.MS,B,0.62219244,0.18629402,-0.10629365
+http://arxiv.org/pdf/2204.10855v1,ParticLS: Object-oriented software for discrete element methods and peridynamics,"ries 125, 012078 (2008). DOI 10.1088/1742-6596/125/1/
+                                                                       012078
+    In summary, ParticLS provides a platform with an
+intuitive implementation that will assist further study            5. Benning, M., Knoll, F., Sch¨onlieb, C.B., Valkonen,
+of the constitutive laws governing materials prone to                  T.: Preconditioned admm with nonlinear operator con-
+fracture and plastic deformation, speciﬁcally rock and                 straint. ",cs.MS,B,0.033820152,-0.2486172,0.5316552
+http://arxiv.org/pdf/2204.12120v1,Automated Generation of High-Performance Computational Fluid Dynamics Codes,"Quantifying productivity and
+comparing Saiph to other CFD tools is an extremely challenging task because
+each framework targets a diﬀerent level of abstraction and provides diﬀerent
+optimisations. This extended evaluation scapes the scope of the paper and we
+contemplate it as future work. 4.1.5. ",cs.MS,C_centroid,-0.5213636,0.57742685,0.05278189
+http://arxiv.org/pdf/2204.12120v2,Automated Generation of High-Performance Computational Fluid Dynamics Codes,"Quantifying productivity and
+comparing Saiph to other CFD tools is an extremely challenging task because
+each framework targets a diﬀerent level of abstraction and provides diﬀerent
+optimisations. This comprehensive evaluation escapes the scope of the paper,
+and we contemplate it as future work. 4.1.5. ",cs.MS,C,-0.51387644,0.57009995,0.045347854
+http://arxiv.org/pdf/2205.03224v1,parGeMSLR: A Parallel Multilevel Schur Complement Low-Rank Preconditioning and Solution Package for General Sparse Matrices,"apply the low-rank correction term increases linearly with the
+value of k.                                                                         [4] J. W. Ruge, K. St{\”u}ben, Algebraic Multigrid, in: Multigrid Methods,
+                                                                                         Frontiers in Applied Mathematics, Society for Industrial and Applied
+6. Concluding remarks and future work                                                    Mathematics, 1987, pp. 73–130. ",cs.MS,B,0.033310015,-0.30370218,0.43809336
+http://arxiv.org/pdf/2205.12721v1,Accelerating High-Order Mesh Optimization Using Finite Element Partial Assembly on GPUs,"In Section
+4, we present several numerical examples and benchmarks demonstrating the improvement
+in computational eﬃciency due to use of partial assembly on GPU-based architectures in
+comparison to full-assembly on CPUs. Finally, we close with directions for future work in
+Section 5. 3
+2. ",cs.MS,A,-0.24664766,-0.38622868,-0.11478515
+http://arxiv.org/pdf/2205.12721v2,Accelerating High-Order Mesh Optimization Using Finite Element Partial Assembly on GPUs,"In addition, we proposed
+a simple mesh optimization benchmark for the mesh optimization community. 22
+    Many of the approaches in this paper do extend to simplicial meshes, and we plan to
+address that in our future work. Speciﬁcally, the ﬁnite element operator decomposition
+(8), the concept of partial assembly, and all computations at quadrature points do extend
+to simplices. ",cs.MS,A,-0.14264667,-0.401191,0.15685758
+http://arxiv.org/pdf/2207.06803v1,FFTc: An MLIR Dialect for Developing HPC Fast Fourier Transform Libraries,"The workload of the cur-
+rently developed recursive FFT is much larger than DFT. However, we intend to
+use the current solution to showcase the functionality of FFTc and are planning
+to rewrite the computation in sparse form as a future work. The performance
+with optimization ﬂag O3 is better that O2 and O0. ",cs.MS,A,-0.18688656,-0.23566958,-0.52102387
+http://arxiv.org/pdf/2207.06803v2,FFTc: An MLIR Dialect for Developing HPC Fast Fourier Transform Libraries,"add %21 , %20 : complex < f64 >
+               a f f i n e . s t o r e %22 , %2[%a r g 0 , %a r g 1 ] : memref <4 x1xcomplex < f64 >>
+              }
+       }
+
+}
+
+                                 Listing 3: Afﬁne Code Example for FFT.MatMul Operation
+
+Total Execution Time Report                                      to showcase the functionality of FFTc and are planning to
+                                                                 rewrite the computation in sparse form as a future work. The
+Wall Time / Seconds  Name                                        performance with optimization ﬂag O3 is better that O2 and
+                                                                 O0. ",cs.MS,A_centroid,-0.26788077,-0.2896474,-0.47998622
+http://arxiv.org/pdf/2207.09281v1,Proposed Consistent Exception Handling for the BLAS and LAPACK,"The structure of (most) LAPACK algorithms (and certainly the BLAS) is
+simple enough to either do this by hand or perhaps automate it, at least enough to identify those routines that require
+a human expert to analyze them. We leave this for future work. In the meantime, we propose expanding our LAPACK test code to test both termination and error reporting. ",cs.MS,B,-0.012150245,-0.019193977,0.0656957
+http://arxiv.org/pdf/2208.11676v1,SOniCS: Develop intuition on biomechanical systems through interactive error controlled simulations,"Meanwhile, to mitigate this eﬀect, actions have been
+
+                                                  25
+taken by providing detailed documentation and tutorials for this crucial step. In addition, future works aim at improving this stage by directly providing the
+path of the C ﬁle in the Python code to trigger just-in-time compilation for new
+materials. Acknowledgements
+
+This project has received funding from the European Union’s Horizon 2020
+research and innovation programme under the Marie Sklodowska-Curie grant
+agreement No. ",cs.MS,B,-0.019618046,0.18082869,0.16687545

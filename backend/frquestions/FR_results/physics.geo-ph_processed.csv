@@ -1,0 +1,408 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01868v1,Bayesian inference and Markov chain Monte Carlo based estimation of a geoscience model parameter,"In section 4, we present the results from our investigation. In section 5, we
+present conclusions and outlook for future work. 2. ",physics.geo-ph,A,0.1330824,-0.20643413,0.106120504
+http://arxiv.org/pdf/2201.01869v1,Earthquake Nowcasting with Deep Learning,"The current TFT implementation was
+not set up to nowcast all the time intervals covered by the other models and so this model is
+absent in some cells of Table 5 and in the later figures for 2-year and 4-year nowcasts. This is
+not intrinsic to the TFT model and will be addressed in future work using larger memory
+machines to train networks. Normalized Nash Sutcliffe Efficiency NNSE
+
+                                   Science      LSTM        TFT  Science
+                                   Transformer  Validation
+Time Period  LSTM Train TFT Train  Train                    Validation Transformer
+
+ 2 weeks                                                         Validation
+
+             0.903  0.915          0.893        0.868       0.875 0.856
+
+4 weeks 0.895                      0.916        0.867            0.884
+
+8 weeks 0.886                      0.913        0.866            0.881
+
+14 weeks 0.924      0.963          0.919        0.893       0.905 0.881
+26 weeks 0.946   0.956  0.954  0.897  0.892 0.896
+
+52 weeks 0.919   0.957  0.955  0.861  0.871 0.876
+
+104 weeks 0.923         0.937  0.853  0.83
+
+208 weeks 0.935         0.921  0.811  0.77
+
+Table 5. ",physics.geo-ph,A,0.20963389,-0.024933115,0.051297143
+http://arxiv.org/pdf/2201.01871v3,Direct multi-modal inversion of geophysical logs using deep learning,"(2019). The current architecture gave sufficiently good results for this pre-study, but
+                     further hyper-parameter optimization to improve the model performance remains a part of future work. 3.4. ",physics.geo-ph,B,0.29404843,0.04762295,0.01777315
+http://arxiv.org/pdf/2201.03477v1,PCA-MRM model to forecast TEC at middle latitudes,"At the
+first stage the TEC data obtained for a certain time interval L (e.g., previous 20-40 days)
+are decomposed with PCA into several modes each one representing a specific type of
+daily variation (PCs). Only two first modes, which have highest variance fractions and are
+responsible for most of the TEC variability, are used for further analysis [20]. One of the
+advantages of the model is that there is no need for any assumption on the phase and
+amplitude or seasonal/regional features of TEC daily variations: the daily variations of
+correct shapes are extracted automatically by PCA from the input TEC data. ",physics.geo-ph,A,-0.067794695,-0.143732,0.15470266
+http://arxiv.org/pdf/2202.06126v1,On the Use of the Microtremor HVSR for Tracking Velocity Changes: A case study in Campo de Dalías basin (SE Spain),"After observing
+ the relationship between the groundwater levels of the shallower aquifer (AQ1 Fig. 5) and the other
+ MHVSR peak parameters in NBAL and EJDN stations, variations from MHVSR trough in SWBS
+ station are an open question for further research. The cycles of discharge of the aquifers in Campo
+ de Dalías are in no way natural due to the heavy pumping rates for agriculture and urban demands. ",physics.geo-ph,A,-0.26631075,-0.2583664,-0.021379393
+http://arxiv.org/pdf/2202.09607v1,Eötvös balance and earthquake detection,"There are a lot of unanswered
+questions, a clarification requires further observations and modeling. Our further research goal is to reproduce this observation, and also to understand the origin
+and the conditions of the detection. To this end we should explore the environmental,
+geophysical and technological factors that influence the modernized torsion balance. ",physics.geo-ph,A,-0.17100346,-0.07697291,0.114285454
+http://arxiv.org/pdf/2202.11274v1,Forward and inverse modeling of water flow in unsaturated soils with discontinuous hydraulic conductivities using physics-informed neural networks with domain decomposition,"4 of the main text). Therefore, we only
+                                                 used the L-LAAF algorithm in the study for further analysis. 1.3 Finite difference method
+
+                                                 A ﬁnite difference method was implemented on Matlab R2020b to solve the one-dimensional RRE to evaluate the performance
+                                                 of PINNs. ",physics.geo-ph,C,0.30273175,-0.01452636,-0.18250054
+http://arxiv.org/pdf/2203.05021v1,LSTM-driven Forecast of CO2 Injection in Porous Media,"The
+LSTM-based network gave an overall better performance than the feed forward network. As
+a perspective for future work, we will investigate LSTM-based inversion of 1D core ﬂood
+experimental data, i.e., inference of the rock and ﬂuid properties that were considered as
+inputs to the simulated datasets. Future work may also include extensions to two and three
+spatial dimensions. ",physics.geo-ph,B,0.032773368,0.37346184,0.19131872
+http://arxiv.org/pdf/2203.06347v1,Combining Deep Learning with Physics Based Features in Explosion-Earthquake Discrimination,"While this application was to explosion discrimination, we envision a similar
+approach of incorporating physics-based features could be extended to other problems (e.g., noise
+and seismic discriminant in earthquake early warning, landslides classification and so on). Additional work combining physics and data learning is an exciting direction for future work. Adding physics-based features does sacrifice the automated nature of the deep learning, however,
+it leverages prior human knowledge about what features are important and broadly applicable. ",physics.geo-ph,B,0.011945872,0.47763324,0.13050699
+http://arxiv.org/pdf/2203.12351v2,Bayesian Physics-Informed Neural Networks for the Subsurface Tomography based on the Eikonal Equation,"The overthrust model is a 3-D geological model proposed as
+                                                                                 a result of collaboration by over ﬁfty organizations. It is built
+   To further study the noise inﬂuence on the performance                        with erosional truncation and sediment that cover the basement
+of BPINNs, we test the proposed method over the observed                         blocks. The overthrust model includes complex structures
+                                                                                 like reverse faults and converging thrusts. ",physics.geo-ph,B,-0.13846695,0.22399744,-0.23683977
+http://arxiv.org/pdf/2203.13313v1,Deep learning for laboratory earthquake prediction and autoregressive forecasting of fault zone stress,"Here, it is possibly the result of data complexity. This is
+clearly an important question for future work. 5. ",physics.geo-ph,C_centroid,0.6858663,-0.4595705,-0.010157723
+http://arxiv.org/pdf/2203.13313v2,Deep learning for laboratory earthquake prediction and autoregressive forecasting of fault zone stress,"Here, it is possibly the result of data complexity. This is
+clearly an important question for future work. 5. ",physics.geo-ph,C,0.6858663,-0.4595705,-0.010157723
+http://arxiv.org/pdf/2203.13313v3,Deep learning for laboratory earthquake prediction and autoregressive forecasting of fault zone stress,"Here, it is possibly the result of data complexity. This is
+clearly an important question for future work. 21
+5. ",physics.geo-ph,C,0.68663454,-0.46508163,-0.010388833
+http://arxiv.org/pdf/2203.14396v1,Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators,"This can potentially enable uncertainty quantiﬁcation for potential
+plume behaviors in the future for risk management. While these initial results on learned coupled inversion
+are encouraging, more realistic physics phenomena can be considered in future work to numerically model
+the ﬂuid-ﬂow and wave physics more accurately. More robust inversion methods with regularization and
+constraints may also lead to better estimation of the permeability and CO2 concentration. ",physics.geo-ph,B,-0.077432774,0.17704919,0.038052343
+http://arxiv.org/pdf/2203.15905v1,Hydrated Organic Matter: Functional Relationships with the Mass Physical Static and Dynamic Properties of Marine Mud,"This variability drives
+the static and dynamic stress-strain behavior of marine fine-grained mud deposits and
+consolidation processes. Although further research is needed, the authors conclude that only a fraction of the total
+water content is constrained within small clay aggregates that can contain some hydrated OM. Historically, the hydration of the organic matter has not been considered by many disciplines and
+the organic matter on a dry basis has been generally reported as total organic carbon, without
+recognition and quantification of hydrated OM. ",physics.geo-ph,A,-0.278484,-0.15207131,-0.21130714
+http://arxiv.org/pdf/2204.00084v1,Evolution of barchan dune interactions investigated by a downscaled water tunnel experiment: the temporal characteristics and a soliton-like behavior,"The
+results show that such spacing determines the lower limit of soliton vigorousness, and the initial
+dune mass ratio determines the upper limit. In future work, for the characteristic time scale, whether the dune interaction patterns will
+become “stable” at given conditions remains to be explored. On the one hand, one can expand the
+                          manuscript submitted to Journal of Geophysical Research: Earth Surface
+
+space for dune evolution by modifying the experiment, such as lengthening the straight water
+tunnel or adopting an annular water tunnel (where the periodic boundary conditions should be set
+carefully). ",physics.geo-ph,A,-0.2471075,-0.07636485,-0.11472042
+http://arxiv.org/pdf/2204.02029v1,To reduce soil salinity: the role of irrigation and water management in global arid regions across development phases,"Local drip irrigation
+experiments have shown potential for improving water savings, salinity control, and agricultural
+yields. However, further study is necessary to understand the best management techniques in
+transboundary basins. For example, in the Syr and Amu basins, previous water conflicts have
+exacerbated the shrinking of the Aral Sea12. ",physics.geo-ph,A,-0.35850015,-0.10473422,-0.21695736
+http://arxiv.org/pdf/2204.02870v1,Deep Learning-based Small Magnitude Earthquake Detection and Seismic Phase Classification,"and phase identiﬁcation, especially in the case of noisy
+low magnitude earthquake waveforms. The future work will          Mousavi, S.M., Sheng, Y., Zhu, W., Beroza, G.C., 2019. Stanford earth-
+focus on a straightforward hierarchical classiﬁer to reduce          quake dataset (stead): A global data set of seismic signals for ai. ",physics.geo-ph,B,0.053033862,0.32420582,0.3240335
+http://arxiv.org/pdf/2204.09710v3,Complete identification of complex salt geometries from inaccurate migrated subsurface offset gathers using deep learning,"Moreover, we believe that an extension to 3D models
+can better handle the illumination problems that we have in some predictions because the
+structures could be illuminated in diﬀerent directions. Applying the salt inclusion technique proposed in this work to real seismic data requires
+additional studies to deal with some questions. Since real acquisitions in complex areas are
+usually 3D data, one question is the choice of an appropriate CNN architecture to train with
+3D images (C¸ ic¸ek et al., 2016; Wu et al., 2019; Chen et al., 2016; Lee et al., 2021) and that
+19  Deep learning salt detection
+
+can capture the accurate salt inclusions. ",physics.geo-ph,B,-0.10087795,0.46905696,0.20261368
+http://arxiv.org/pdf/2205.06458v1,"Flexible quasi-2D inversion of time-domain AEM data, using a wavelet-based complexity measure","The ﬂexibility of the proposed inversion scheme allows
+for more complex inversion strategies and can produce multiple subsurface realizations that ﬁt the data
+equally well, yet “simple” in Occam’s sense. It will be part of future work to deﬁne criteria for ﬁnding the
+best wavelet basis. For now, the geoscientist will need to trust on expert knowledge, guiding geological
+data, and acknowledge that the only true criterion is based on the data misﬁt. ",physics.geo-ph,B,-0.011604093,0.16459802,0.21487
+http://arxiv.org/pdf/2205.07379v1,Description of seismic sources in underground mines: Dynamic stress fracturing around tunnels and strainbursting,"In reality,
+       damage is not distributed uniformly along the tunnel, and full three-dimensional modelling of this
+       distribution would be preferable. Furthermore, approximation in terms of ellipsoidal cavity expan-
+       sion rather than the elliptical cavity expansion considered in Section 3 may be more appropriate;
+       this requires further exploration in future work. • The proposed model is focused on the case of isolated tunnel in homogeneous stress ﬁeld. ",physics.geo-ph,B,-0.04424185,0.18539405,-0.2555061
+http://arxiv.org/pdf/2205.07559v1,Appropriate reduction of the posterior distribution in fully Bayesian inversions,"drawn in Fig. 1) are affected by the added random noise,
+in the following, we average the results over 10 different data sets and further study the system-
+atic M -dependence of the estimates. Figure 2 displays the measures of misﬁt, DM, TMR and TMS
+(eqs. ",physics.geo-ph,A,0.1662297,-0.17192316,-0.025486976
+http://arxiv.org/pdf/2205.08229v1,A Re-examination of Ellipticity Corrections for Seismic Phases,"The result of this combination is that ellipticity corrections for Mars have a
+similar magnitude to those for Earth. Figure 4 shows the minimum and maximum corrections for seismic phases that either have
+been detected on Mars or could potentially be detected on Mars: P, PP, S, SS (Khan et al.,
+2021), ScS (St¨ahler et al., 2021) have been detected and PcP, Pdiﬀ and Sdiﬀ could potentially
+be detected in future work. These corrections are for a station ﬁxed at the InSight lander
+location (4.50°N, 135.62°E) and with source depths between 0 and 50 km, as this is the range
+of source depths used in previous studies (e.g. ",physics.geo-ph,B,-0.013591882,0.05370479,0.48530704
+http://arxiv.org/pdf/2205.08229v2,A Re-examination of Ellipticity Corrections for Seismic Phases,"The result of this combination is that ellipticity corrections for Mars have a
+
+                          7
+similar magnitude to those for Earth but the travel times on Mars are smaller. Figure 4 shows the minimum and maximum corrections for seismic phases that either have
+
+been detected on Mars or could potentially be detected on Mars: P, PP, S, SS (Khan et al.,
+2021), ScS (St¨ahler et al., 2021) have been detected and PcP, Pdiﬀ and Sdiﬀ could potentially
+be detected in future work. These corrections are for a station ﬁxed at the InSight lander
+location (4.50°N, 135.62°E) and with source depths between 0 and 50 km, as this is the range
+of source depths used in previous studies (e.g. ",physics.geo-ph,B,0.025736637,0.0286115,0.48620218
+http://arxiv.org/pdf/2205.09159v1,Stochastic uncertainty analysis of gravity gradient tensor components and their combinations,"15
+2.1.2. Geometric Rotation
+    To further study the eﬀects of geometry, the outcomes of changing the
+
+coordinate system rotation angle, θ, for a given prism have been measured. This experiment has been visualized in Figure 6, where θ changes about the
+z-axis at regular intervals between 0 and 90 degrees. ",physics.geo-ph,B,-0.03093763,0.043847304,0.14438991
+http://arxiv.org/pdf/2205.10641v3,Potential Global Sequestration of Atmospheric Carbon Dioxide by Semi-Arid Forestation,"The cumulative effects of global semi-arid
+forests could then tend to contribute to lowering global surface temperatures. Clearly, the global
+
+                                                                   4
+          2nd International Conference on Negative CO2 Emissions, June 14-17, 2022, Göteborg, Sweden
+
+climate effects of increased latent heating and water vapor and the albedo effect due to semiarid
+forestation require further study. With regard to the need for sufficient water supply to carry out forestation in areas of limited
+rainfall, Liu et al. ",physics.geo-ph,A,-0.35965914,-0.37406224,-0.035046667
+http://arxiv.org/pdf/2205.12889v1,Critical Analysis of Mediterranean Sea Level Limit Cycles During the Messinian Salinity Crisis,"Proper treatment may have to
+dynamically account for periods when the sill is more like the ocean ﬂoor, instead of the
+bed of a stream. Further, as Coulson, Pico, Austermann, Powell, Moucha, and Mitrovica
+(2019) show, future work must also account for the gravitational and isostatic eﬀects of the
+changing water loads. In conclusion, the proposed model only rarely exhibits limit cycles, and limit cycles re-
+quire parameter values considerably higher than those originally reported. ",physics.geo-ph,A,-0.32493645,-0.12299232,-0.18207824
+http://arxiv.org/pdf/2205.14341v1,"Full waveform inversion by model extension: theory, design and optimization","In addition, the approximate inverse formulation is only valid when the annihilating term
+in equation 6 is null (i.e., for = 0), and when the data residual dobs − f (m) only contains reﬂected energy. In this
+
+paper, we do not propose a solution to this challenge and we leave such investigation for future work. 7.2 Using p˜opt as a quality-control metric
+
+As we saw from the numerical examples in this paper, p˜opt is expensive to compute but it can also be used as a
+quality-control (QC) tool to assess the accuracy of our inverted model. ",physics.geo-ph,B,0.30743277,-0.02209252,-0.14280562
+http://arxiv.org/pdf/2205.15395v1,A hybrid approach to seismic deblending: when physics meets self-supervision,"However, the network architecture and the number of epochs may require tuning
+for different acquisition setups. We hope to address these issues by having an adaptive strategy for
+setting the number epochs in future work. 14
+References
+
+ [1] R. Abma, D. Howe, M. Foster, I. Ahmed, M. Tanis, Q. Zhang, A. Arogunmati, and G. Alexander. ",physics.geo-ph,B,0.24293613,-0.01256324,0.12483512
+http://arxiv.org/pdf/2206.00622v1,Acoustic Full Waveform Inversion with Hamiltonian Monte Carlo Method,"In opposition, large masses mean the particles visit smaller phase space regions producing a sharp image. In a
+future work we plan to generalize our tuning strategy by changing masses for diﬀerent iterations and use others prior
+information about the geological model. Depth (km)0.0 (a) 2 = 0.1           0.0 (b) 2 = 1.0           0.0 (c) 2 = 10                   8
+
+          0.5                        0.5                       0.5                4
+          1.0                        1.0                       1.0            z = 0.5km
+          1.5                        1.5                       1.5
+          2.0 2                4 2.0 2                   4 2.0 2
+          100              z = 0.5km                 z = 0.5km
+                                     100                       100
+
+          50                          50                        50
+
+            0              z = 1.0km  0              z = 1.0km  0             z = 1.0km
+
+          100                         100                       100
+
+          50                          50                        50
+
+            0              z = 1.5km  0              z = 1.5km  0             z = 1.5km
+
+          100                         100                       100
+
+          50                          50                        50
+
+            02             4 02                      4 02                     4
+                                      Velocity (km/s)
+
+FIG. ",physics.geo-ph,B_centroid,-0.026021948,0.146718,0.055815116
+http://arxiv.org/pdf/2206.00622v2,Acoustic Full Waveform Inversion with Hamiltonian Monte Carlo Method,"In opposition, large masses mean the particles visit smaller phase space regions producing a sharp image. In a
+future work we plan to generalize our tuning strategy by changing masses for diﬀerent iterations and use others prior
+information about the geological model. Depth (km)0.0 (a) 2 = 0.1           0.0 (b) 2 = 1.0           0.0 (c) 2 = 10                   8
+
+          0.5                        0.5                       0.5                4
+          1.0                        1.0                       1.0            z = 0.5km
+          1.5                        1.5                       1.5
+          2.0 2                4 2.0 2                   4 2.0 2
+          100              z = 0.5km                 z = 0.5km
+                                     100                       100
+
+          50                          50                        50
+
+            0              z = 1.0km  0              z = 1.0km  0             z = 1.0km
+
+          100                         100                       100
+
+          50                          50                        50
+
+            0              z = 1.5km  0              z = 1.5km  0             z = 1.5km
+
+          100                         100                       100
+
+          50                          50                        50
+
+            02             4 02                      4 02                     4
+                                      Velocity (km/s)
+
+FIG. ",physics.geo-ph,B,-0.026021948,0.146718,0.055815116
+http://arxiv.org/pdf/2206.00766v1,Simulating the 1976 Teton Dam Failure using Geoclaw and HEC-RAS and comparing with Historical Observations,"However, research explores
+the simulation of debris sourced from vegetation, vehicles, or non-buoyant debris (the
+additional parameterized Lagrangian gauges) such as buildings, sand, and rock. The
+Teton Dam failure provides an opportunity for future work in this area, which could
+help forecast dam failure risk and can assess costs as debris removal, improving com-
+munity resilience. Open Research
+
+       The study used open-source software HEC-RAS (USACE, 2019) and GeoClaw
+(Clawpack Development Team, 2021b) for 2D numerical modeling. ",physics.geo-ph,B,-0.29211628,0.20442164,-0.33196992
+http://arxiv.org/pdf/2206.00766v2,Simulating the 1976 Teton Dam Failure using Geoclaw and HEC-RAS and comparing with Historical Observations,"However, research explores
+the simulation of debris sourced from vegetation, vehicles, or non-buoyant debris (the
+additional parameterized Lagrangian gauges) such as buildings, sand, and rock. The
+Teton Dam failure provides an opportunity for future work in this area, which could
+help forecast dam failure risk and can assess costs as debris removal, improving com-
+munity resilience. Open Research
+
+       The study used open-source software HEC-RAS (USACE, 2019) and GeoClaw
+(Clawpack Development Team, 2021b) for 2D numerical modeling. ",physics.geo-ph,B,-0.29211628,0.20442164,-0.33196992
+http://arxiv.org/pdf/2206.02362v1,Full waveform inversion by model extension: practical applications,"In this paper, we propose to select the -value by examining a subset of the TLCIGs extracted from the initial
+p˜opt computed with a few -values. We acknowledge the need for a more automatic approach for the selection of , but
+
+we leave such investigation for future work. Fortunately, we observe that our results are relatively insensitive to the
+
+choice of as long as the proper order of magnitude is determined. ",physics.geo-ph,C,0.32545087,-0.27044794,-0.025865335
+http://arxiv.org/pdf/2206.04519v1,Hankel Spectrum Analysis: A novel signal decomposition method and its geophysical applications,"and whether the phase jump and
+current deep minima of CW intense is related to the earth's internal structure? Our results
+demonstrated that these non-uniqueness CW jumps are worth further study. In the interdecadal or aperiodic scale, we also did another analysis of the earth's oblateness ΔJ2
+variations. ",physics.geo-ph,B,-0.17602971,-0.047078684,0.2409786
+http://arxiv.org/pdf/2206.05502v1,Bayesian regional moment tensor from ocean bottom seismograms recorded in the Lesser Antilles: Implications for regional stress field,"This approach is straightforward as uncertainties become directly
+apparent on the elements. In further examinations, however, this leads to the general de-
+composition analysis for the full tensor to study isotropic changes and CLVD (Compensated
+Linear Vector Dipol) parts as well as the uncertainties in respect to the fault geometry. In this
+study, we employ the approach by Tape and Tape (2015) where the source is represented in a
+geometric framework spanned by ﬁve independent angles that are directly connected to the
+source parameters. ",physics.geo-ph,B,0.097279936,0.077382214,-0.17139688
+http://arxiv.org/pdf/2206.06848v1,The stability of electrostatic charge on suspended particles over long timescales,"(g) Pumice
+from the 1932 eruption of the Quizapu´ volcano (Maule, Chile). cidating charge evolution on particles fundamentally re-                  further study, but can provide insight into the relative
+quires long-term measurements at the grain scale. Such                    inﬂuence of radiation on particles in Earth’s atmosphere. ",physics.geo-ph,A,-0.304059,-0.19990775,0.066441156
+http://arxiv.org/pdf/2206.06848v2,The lifetime of charged dust in the atmosphere,"Relative humidity (RH) decreases
+the half-life (t1/2) of charge decay by roughly a factor of     To approximate the diversity of particles suspended in
+10 at saturation, while particle composition, size (in the   Earth’s atmosphere (from silicate dust to pollen to mi-
+range of 0.5 to 2 mm), and polarity seem to have little ef-  croplastics), we explored the decay of charge on particles
+fect. Asymmetries in the aﬀect of UV radiation requires      of numerous compositions: expanded polystyrene (EPS),
+further study, but can provide insight into the relative     aerogel, toasted amaranth (Peru), and volcanic pumice
+inﬂuence of radiation on particles in Earth’s atmosphere. (Quizapu´, Popocat´epetl, and Kos). ",physics.geo-ph,A,-0.35378945,-0.4105567,0.07181464
+http://arxiv.org/pdf/2206.07933v1,"A phase-field model for quasi-dynamic nucleation, growth, and propagation of rate-and-state faults","Second, we shall limit the fault kinematics
+to a two-dimensional antiplane condition. Extension of the work to the fully dynamic limit and/or more
+complex kinematics will be presented in future work. 2. ",physics.geo-ph,B,0.28407478,0.24575555,-0.43040937
+http://arxiv.org/pdf/2206.07933v2,"A phase-field model for quasi-dynamic nucleation, growth, and propagation of rate-and-state faults","Second, we shall limit the fault kinematics
+to a two-dimensional antiplane condition. Extension of the work to the fully dynamic limit and/or more
+complex kinematics will be presented in future work. 2. ",physics.geo-ph,B,0.28407478,0.24575555,-0.43040937
+http://arxiv.org/pdf/2206.09651v1,On generalized models of earthquake evolution by the example of classical and mirror triads,"There is no doubt in our minds that the jump in n indicates an abrupt change in
+
+the main parameters of the source as a thermodynamic system. These assumptions (explosive
+
+instability and phase transition) deserve further study. In particular, we expect that in the so-called
+
+symmetric triads [16] a second-order phase transition will be observed. ",physics.geo-ph,A,0.040988088,-0.2298787,-0.052538272
+http://arxiv.org/pdf/2206.11479v1,Estimation of the leaf area density distribution of individual trees using high-resolution and multi-return airborne LiDAR data,"Therefore, considering the results of Hosoi et al., the LAD was well-
+calculated by terrestrial LiDAR in the area where the terrestrial incident laser beam condition was
+fine. However, further research is required for the terrestrial LiDAR-based LAD estimation of
+dense trees where most of the terrestrial laser beams are intercepted in each voxel. 4.2 Comparison between airborne LiDAR-derived and terrestrial LiDAR-derived voxel
+distribution
+
+                                                                  13
+Unlike the observation with the high laser beam density by terrestrial LiDAR, voxel size is
+important for airborne LiDAR-based estimation because the spatial resolution is on a 0.1-m scale. ",physics.geo-ph,B,-0.04717247,-0.025122749,0.2316362
+http://arxiv.org/pdf/2206.11479v2,Estimation of the leaf area density distribution of individual trees using high-resolution and multi-return airborne LiDAR data,"Foliage density varies with species, growing conditions, and pruning, which
+affects reflection intensity. An LAD estimation taking into account the reflection intensity is
+left for future work. For the voxels where N was small, the percentage of voxels with overestimated LAD was
+
+                                                               24
+greater for the C. camphora than the Z. serrata. ",physics.geo-ph,B,-0.019779665,-0.23447962,0.2970753
+http://arxiv.org/pdf/2206.12763v1,In-situ study of mineral liberation at the onset of fragmentation of a copper ore using X-ray micro-computed tomography,"First, it relies on an accurate detection of the fracture location, such measurements are
+inherently dependent on the spatial resolution and the contrast level of the tomographic image. In
+this experiment, the voxel size was 9 µm, for future work we plan to use advanced image analysis
+method based on deep learning to improve the precision of our fracture measurements. Another
+difﬁculty is related to the segmentation of the ore image to identify its different fragments. ",physics.geo-ph,B,-0.014218721,0.319075,0.22109213
+http://arxiv.org/pdf/2206.13407v2,Micromechanics of rock damage and its recovery in cyclic loading conditions,"From a kinematic
+point of view, axial tensile cracks originating from this mechanism are not associated to
+additional axial strain and are not expected to produce hysteresis. The model of Dey and
+Wang (1981) relies on a number of simplifying assumptions, and further analysis would
+be needed to determine how shear and tensile cracks are coupled when elastic mismatch
+is signiﬁcant. Nevertheless, while this mechanism is potentially relevant to explain tensile
+cracking in our experiment on Westerly granite, it is insuﬃcient to explain the observed
+hysteresis in stress-strain curves. ",physics.geo-ph,B,-0.1266796,0.110897735,-0.084228456
+http://arxiv.org/pdf/2207.00380v1,Horizontal Layer Constrained Attention Neural Network for Semblance Velocity Picking,"Actually, the HLEDS
+also indicates the importance of spatial information hidden in seismic data. one future work is to combine
+the coherent feature with higher dimension network to optimize the automatic velocity picking strategy. V.  ACKNOWLEDGMENTS
+
+  This work was supported by the National Natural Science Foundation of China under Grant 41974122. ",physics.geo-ph,B,0.13727616,0.41883123,0.30049023
+http://arxiv.org/pdf/2207.03596v1,Verification of a real-time ensemble-based method for updating earth model based on GAN,"The numerical experiments illustrated that the posterior has a predictive
+capability for both MCMC and the faster EnRML method. The future work
+is to integrate the DA developed in this paper with the decision framework
+developed in [8], allowing DSS under a much more complex geological setting. Furthermore, the method can be extended to account for model errors present
+in machine learning approximations in real-time [13]. ",physics.geo-ph,B,0.039818432,0.17446211,-0.058441296
+http://arxiv.org/pdf/2207.09699v1,"Mapping Depth to Bedrock, Shear Stiffness, and Fundamental Site Period at CentrePort, Wellington using Surface Wave Methods: Implications for Local Seismic Site Amplification","It is certainly plausible that the abruptly changing
+T0,H/V values and azimuthal irregularities in the H/V data in the northern region of Aotea Quay indicate
+that irregular subsurface feature(s) exists beneath this area of the port. However, determining what exactly
+the feature(s) may be requires further research. 7
+Development of Shear Wave Velocity Proﬁles
+
+Vs proﬁles were developed for six reference locations where active- and passive-surface wave testing was
+performed (refer to Figures 1 and 2). ",physics.geo-ph,A,-0.1274473,0.115902975,0.058259048
+http://arxiv.org/pdf/2207.11190v1,On the morphodynamics of a wide class of large-scale meandering rivers: Insights gained by coupling LES with sediment-dynamics,"27
+         By analyzing the bed shear stress distribution, trajectories of the sediment particles, and
+sediment transport patterns in these meandering bends, we illustrated that the coupling between
+the flow field and sediment concentration field is imperative for adequate bed morphodynamics
+calculations, and that the bed shear stress distribution alone cannot correctly describe the geometry
+of deformed mobile beds of meandering rivers. Finally, it is important to note that the simplifying assumptions in these simulations could
+be relaxed in future work by incorporating multiple sediment grain sizes, cohesive sediments, and
+deformable riverbanks. We plan to employ these model extensions in future studies. ",physics.geo-ph,B,-0.24853855,0.05184403,-0.39483696
+http://arxiv.org/pdf/2207.12281v1,Stochastic data-driven parameterization of unresolved mesoscale eddies,"It shows that the STO-EOF-P model improves locally the eddy energy almost
+everywhere except in the jet region. A more precise parameterization of the unresolved ﬂow is re-
+quired to explore in future works to improve locally the energy transfers. In summary, the diagnostic results of this section demonstrate that including the unresolved ﬂow
+structure inferred from the data into the proposed random models enable to reproduce on the coarse
+mesh the mean ﬂow of the eddy-resolving simulation. ",physics.geo-ph,B,-0.05846686,0.0037912992,-0.12907308
+http://arxiv.org/pdf/2208.02793v1,Insights from Simple Stochastic Models of Earth's Long-Term Carbon Cycle and Climate,"Our model has only considered one form of stochastic outgassing with a determin-
+istic weathering mechanism that is dependent exclusively on temperature. This is, of course,
+an oversimpliﬁcation (Macdonald et al., 2019; Park et al., 2021; Baum et al., 2022) and
+future work could investigate model equations that incorporate variability in the sink
+term. For example, it would be straightforward to include a randomly varying weather-
+ability factor that is also represented by an Ornstein-Uhlenbeck process, but this term
+need not be stochastic at all. ",physics.geo-ph,A,-0.14896473,-0.25386375,-0.34945336
+http://arxiv.org/pdf/2208.02793v2,Simple Stochastic Modeling of Snowball Probability Throughout Earth History,"Our model has only considered one form of stochastic outgassing with
+a deterministic weathering mechanism that is dependent exclusively on temperature. This
+is, of course, an oversimpliﬁcation (Macdonald et al., 2019; Park et al., 2021; Baum et
+al., 2022) and future work could investigate model equations that incorporate variabil-
+ity in other terms in Eq. 5 such as the planetary albedo and weatherability (e.g., to rep-
+resent the emplacement of highly weatherable materials and changing continental con-
+ﬁguration). ",physics.geo-ph,A,-0.29124457,-0.3505594,-0.22370148
+http://arxiv.org/pdf/2208.06480v1,"Linking Common Multispectral Vegetation Indices to Hyperspectral Mixture Models: Results from 5 nm, 3 m Airborne Imaging Spectroscopy in a Diverse Agricultural Landscape","This is most likely to impact results for EVI, given its use of the visible
+blue band. Moving forward, a comparative analysis of EVI and EVI2 computed from a
+comparably diverse compilation of SuperDove-observed reflectance spectra might provide a
+constraint on effectiveness of atmospheric correction and could be an interesting avenue for
+future work. Conclusions
+
+Using a compilation of 125 subsets from 15 airborne imaging spectroscopy flight lines spanning
+a diverse agricultural mosaic, we simulated 64,000,000 multispectral SuperDove reflectance
+spectra and used them to compute 6 commonly used vegetation indices. ",physics.geo-ph,A,-0.16776365,-0.21988034,0.38315487
+http://arxiv.org/pdf/2208.08183v1,Present-Day Surface Deformation of Sicily Derived From Sentinel-1 InSAR Time-Series,"Recent studies have also shown that the Mediterranean region is prone to multiyear
+groundwater ﬂuctuations in karst environments related to climatic cycles as the Northern
+Atlantic Oscillation that could have an impact on the estimated vertical velocities about ±1
+
+                                                                                                                                             Page 27 sur 42
+                       Journal of Geophysical Research: Solid Earth 10.1029/2021JB023071
+
+mm/yr (Silverii et al., 2016). The processed Sentinel-1 time series are currently too short to
+model these transient deformations, but future works will likely improve the PS mean
+velocity ﬁelds by modeling seasonal and multiyear hydro-climatic signals. The provided East-West and vertical velocity ﬁelds correspond to averaged time series
+from 2015 to 2020. ",physics.geo-ph,A,-0.39430782,-0.012961265,0.08119372
+http://arxiv.org/pdf/2208.08276v1,Wave simulation in non-smooth media by PINN with quadratic neural network and PML condition,"We have shown that the nonlinearity of Laplacian of the NN outputs with respect
+to the inputs has a signiﬁcant eﬀect on the performance of PINN. Since the quadratic
+neurons can improve the accuracy and nonlinearity of the Laplacian, a further study
+for designing a better NN architecture based on the characteristic of the Laplacian
+or derivative should be another interesting perspective. CONCLUSION
+
+We solve the frequency-domain scattered-ﬁeld wave equation for non-smooth velocity
+models with PINN. ",physics.geo-ph,B,0.3939705,0.36568236,-0.1720802
+http://arxiv.org/pdf/2208.08276v2,Wave simulation in non-smooth media by PINN with quadratic neural network and PML condition,"We have shown that the nonlinearity of Laplacian of the NN outputs with respect
+to the inputs has a signiﬁcant eﬀect on the performance of PINN. Since the quadratic
+neurons can improve the accuracy and nonlinearity of the Laplacian, a further study
+for designing a better NN architecture based on the characteristic of the Laplacian
+or derivative should be another interesting perspective. CONCLUSION
+
+We solve the frequency-domain scattered-ﬁeld wave equation for non-smooth velocity
+models with PINN. ",physics.geo-ph,B,0.3939705,0.36568236,-0.1720802
+http://arxiv.org/pdf/2208.09293v1,The planetary theory of solar activity variability: a review,"tum transfer, space weather modulation, etc.) and will
+be addressed in future work. The last two estimates coincide with the 205-year
+                                                                 Suess-de Vries cycle found in radiocarbon records by
+8 The Suess-de Vries cycle (190-                                 Wagner et al. ",physics.geo-ph,A_centroid,-0.22916913,-0.3657964,0.16371205

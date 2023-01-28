@@ -1,0 +1,311 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01136v1,Fibrational linguistics I: first concepts,"6. Conclusion and future work
+
+   The present work takes a ﬁrst stab at deﬁning an abstract categorical theory of
+meaning by making use of ﬁbered categories. There is much more to say on the mat-
+ter. ",math.CT,B,0.18675214,-0.102870606,0.011911694
+http://arxiv.org/pdf/2201.01136v2,Fibrational linguistics: First concepts,"In upcoming
+work [22] we will focus on applications such as vocabulary acquisition and communication. Another clear direction of future work is dropping the requisite of our ﬁbrations to be
+discrete, as allowing more structure in the ﬁbres over words may help capture interesting
+phenomena. In this sense, the comprehensive factorization of [57] can be generalized
+without pain to the factorization of a 2-functor 𝐹 between 2-categories along a canonically
+chosen non-discrete ﬁbration. ",math.CT,B,0.042018272,-0.09987204,0.1221821
+http://arxiv.org/pdf/2201.11738v2,String diagrams for non-strict monoidal categories,"The similarities nevertheless suggest that
+                                          true. However, string diagrams have been used increasingly        our construction may be recoverable from theirs by restrict-
+                                          as a convenient syntax for languages with models in (strict)      ing to the single-tensor case–we leave this to future work. monoidal categories. ",math.CT,B,0.16161215,0.07617962,0.15753543
+http://arxiv.org/pdf/2202.06394v2,The monotone-light factorization for 2-categories via 2-prorders,"4.1), we are driven to present the
+following conjecture about the nature of e.d.m. for n-categories (n≥ 1),
+which may be helpful in related future work. Conjecture: a n-functor is an e.d.m. ",math.CT,B,0.06978551,0.11073336,-0.03668462
+http://arxiv.org/pdf/2202.07069v2,Kantorovich Functors and Characteristic Logics for Behavioural Distances,"This hints at a
+perspective to design heterogeneous modal logics that characterize behavioural
+distance for such functors, with modalities connecting diﬀerent types of formulas
+(e.g. non-expansive vs. unrestricted), which we will pursue in future work. One
+application scenario for such a logic are behavioural distances on probabilistic
+systems involving total variation distance, which may be seen as a composite of
+the usual probabilistic Kantorovich functor and the discretization functor. ",math.CT,A,-0.25880894,-0.2204023,0.17380463
+http://arxiv.org/pdf/2202.07582v1,Monoidal Width,"the corresponding morphism of Cospan(UGraph)∅. The idea behind the mapping from recursive branch de-         Then,  1  ·  bwd (𝐺 )  ≤  mwd(𝑔)  ≤  bwd (𝐺 )  +  1.
+compositions to monoidal decompositions is to take a one-               2
+edge graph for each leaf of the recursive branch decom-
+position and compose them following the structure of the         6 Conclusion and future work
+decomposition tree. We defined monoidal width, a notion of complexity for mor-
+Example 5.16. ",math.CT,C_centroid,-0.103275195,0.5397705,-0.040365763
+http://arxiv.org/pdf/2202.07582v2,"Monoidal Width: Unifying Tree Width, Path Width and Branch Width","Then, 12 ⋅ bwd(G) ≤ mwd(g) ≤ bwd(G) + 1. 5 Conclusion and future work
+
+We deﬁned monoidal width, a notion of complexity for morphisms in monoidal categories. Restricting our attention to graphs, we showed that monoidal width and its variants are
+closely related to existing measures for graphs, namely branch width, tree width and path
+width. ",math.CT,C,-0.06341846,0.58063793,0.17075494
+http://arxiv.org/pdf/2202.12012v1,Strict universes for Grothendieck topoi,"7. Conclusions and future work
+
+We have shown that every Grothendieck topos can be equipped with a cumulative hierarchy
+of universes satisfying (U1–8) assuming suﬃcient universes in the background set theory. This result is important because it extends the Hofmann–Streicher interpretation of
+Martin-Lo¨f type theory in presheaf topoi to arbitrary sheaf topoi. ",math.CT,B,0.56984866,-0.23185304,-0.29259643
+http://arxiv.org/pdf/2202.12012v2,Strict universes for Grothendieck topoi,"7. Conclusions and future work
+
+We have shown that every Grothendieck topos can be equipped with a cumulative hierarchy
+of universes satisfying (U1–8) assuming suﬃcient universes in the background set theory. This result is important because it extends the Hofmann–Streicher interpretation of
+Martin-Lo¨f type theory in presheaf topoi to arbitrary sheaf topoi. ",math.CT,B,0.56984866,-0.23185304,-0.29259643
+http://arxiv.org/pdf/2202.13132v1,"A Synthetic Perspective on $(\infty,1)$-Category Theory: Fibrational and Semantic Aspects","The Leibniz tensor of j and k (or pushout product) is deﬁned as the
+
+following cogap map:
+
+Y   T      Y ×S     Y ×T X × T       Y ×T                     Y ×S
+       :≡                            X ×T
+j⊗k                    j⊗k                                       ·
+
+X   S               X ×S                                                   j⊗k
+
+                                                                                X ×S
+
+    In particular, recall from [RS17, Theorem 4.2], the explicit formula for the pushout
+product of two shape inclusions:
+
+    {t : I | ϕ}     {s : J | χ}      { t, s : I × J | (ϕ ∧ ζ) ∨ (ψ ∧ χ)}
+    {t : I | ψ}                             { t, s : I × J | ψ ∧ ζ}
+                 ⊗               :≡
+
+                    {s : J | ζ}
+
+2.3 Families vs. ﬁbrations
+
+Recall from [Uni13] that in presence of the univalence axiom, there is an equivalence
+between type families and ﬁbrations. Consider the types
+
+       Fib(U) :≡           A → B,    Fam(U) :≡ (B → U)
+
+                    A,B:U                                B:U
+
+        7
+
+      Assuming universes with better structural properties—such as Segalness or directed univalence—would
+be fruitful for further considerations, but this is part of future work. . ",math.CT,B,0.087771386,-0.059816685,-0.054165386
+http://arxiv.org/pdf/2202.13148v1,Gorenstein and duality pair over triangular matrix rings,"Mao [22] constructed a complete duality
+pair DT of T -modules using duality pairs in A-Mod and B-Mod respectively. Based on this
+result, in Section 3, we further study when DT is semi-complete. Then we characterize when a
+left T -module is Gorenstein DT -projective, Gorenstein DT -injective or Gorenstein DT -ﬂat (see
+Theorems 3.4, 3.8 and 3.11). ",math.CT,B,0.05285283,0.091521144,-0.09052579
+http://arxiv.org/pdf/2203.06596v1,Unification of Modal Logic via Topological Categories I,"In fact, the theoretic development in this paper leads to further interesting practical ques-
+tions for modal logic, as we can see when we discuss several examples. We hope these
+will be interesting to working modal logicians, and inspire their future works. UNIFICATION OF MODAL LOGIC VIA TOPOLOGICAL CATEGORIES I  37
+
+Acknowledgement. ",math.CT,B,-0.020226717,-0.23413286,0.0853731
+http://arxiv.org/pdf/2203.09133v1,Geometric morphisms between toposes of monoid actions: factorization systems,"The reason we do not extensively consider
+this factorization system in this paper is exactly the reason illustrated by that ex-
+ample: the intermediate topos in this factorization is rarely a presheaf topos, even
+for an essential geometric morphism between presheaf toposes. We leave deeper
+consideration of entire morphisms to future work. 5.1 The essential case
+
+The following proposition is the dual of Proposition 4.4. ",math.CT,B,0.34626502,-0.026992755,-0.38729936
+http://arxiv.org/pdf/2203.11845v1,Dualities in the complicial model of $\infty$-categories,"In the ﬁfth section, we give two deﬁnitions of Grothendieck ﬁbrations, one more simplicial
+and the other more globular, and we show that they coincide. A more detailed study of these
+ﬁbrations is the subject of a future work. Acknowledgment
+
+The author would like to thank Viktoriya Ozornova and Martina Rovelli for sharing their
+unpublished results, which are essential for sections 3.3 and 4.2. ",math.CT,B,0.37937972,0.044292785,-0.13080426
+http://arxiv.org/pdf/2203.12478v1,Monoidal Reverse Differential Categories,"Thus, alternatively, one could start with a CRDC with such structure, and show that one
+       gets an MRDC. We leave this for future work. • In [15], the authors describe how CDCs can be seen as a type of skew-enriched category, and use this
+       result to demonstrate how every CDC embeds into a CDC associated to an MDC. ",math.CT,B,-0.0070351735,-0.10080978,0.55828786
+http://arxiv.org/pdf/2203.12478v2,Monoidal Reverse Differential Categories,"Thus, alternatively, one could start with a
+     CRDC with such structure, and show that one gets an MRDC. We leave this for future work. • In (Garner and Lemay, 2021), the authors describe how CDCs can be seen as a type of skew-
+     enriched category, and use this result to demonstrate how every CDC embeds into a CDC
+     associated to an MDC. ",math.CT,B,0.014094425,-0.11355819,0.57107043
+http://arxiv.org/pdf/2203.16351v1,Actegories for the Working Amthematician,"an M-action and an N op-action) which interact nicely. These
+deserve the name of diactegories, but we leave their study for future work. 14  MATTEO CAPUCCI AND BRUNO GAVRANOVIĆ
+
+3.1.5. ",math.CT,B,-0.018732648,-0.064827554,0.066437975
+http://arxiv.org/pdf/2204.02284v1,Free gs-monoidal categories and free Markov categories,"In summary, our claims are that deﬁning a generalized causal model as a morphism in a
+free Markov categories is feasible, and that this has a number of attractive features that the
+traditional notion of causal model does not have. We leave more detailed investigations
+of generalized causal models in this sense to future work. One may expect Patterson’s
+work on statistical models in terms of Markov categories on the connections to categorical
+logic [40] to be helpful in this regard. ",math.CT,B,-0.02761076,-0.39901108,0.4040048
+http://arxiv.org/pdf/2204.02284v2,Free gs-monoidal categories and free Markov categories,"In summary, our claims are that deﬁning a generalized causal model as a morphism in a
+free Markov categories is feasible, and that this has a number of attractive features that the
+traditional notion of causal model does not have. We leave more detailed investigations
+of generalized causal models in this sense to future work. One may expect Patterson’s
+work on statistical models in terms of Markov categories on the connections to categorical
+logic [43] to be helpful in this regard. ",math.CT,B,-0.029746553,-0.40053412,0.4039262
+http://arxiv.org/pdf/2204.08351v1,Introducing sheaves over commutative semicartesian quantales,"Soon Ana Luiza Tenório and Hugo Luiz Mariano will give precision to those ideas. To summarize, if Sh(Q) is not a Grothendieck topos, a new research branch is created,
+allowing future works that focus on understanding the generalization of an elementary
+topos, and apply such generalizations in all ﬁelds that use topos and sheaf theory. However,
+if Sh(Q) is a Grothendieck topos, we still may study its cohomology and compare it if
+other cohomology theories. ",math.CT,B,0.4376687,-0.20700563,-0.359114
+http://arxiv.org/pdf/2205.00798v1,$\infty$-type theories,"7 Conclusion and future work
+
+We introduced ∞-type theories as a higher dimensional generalization of type
+theories and as an application proved Kapulkin and Lumsdaine’s conjecture that
+the ∞-category of small left exact ∞-categories is a localization of the category
+of theories over Martin-L¨of type theory with intensional identity types (Kapulkin
+and Lumsdaine 2018). The technique developed in this paper also works for
+the internal language conjecture for locally cartesian closed ∞-categories, but
+further generalization including (higher) inductive types is left as future work. 7.1 Syntax for ∞-type theories
+
+Coherence problems are often solved by syntactic arguments (Curien 1993). ",math.CT,B,0.2032193,-0.093028545,-0.0512736
+http://arxiv.org/pdf/2205.00842v1,Cornering Optics,"The graphical calculus of the free cornering allows one to
+work with these structures more easily. In addition to telling us something about the nature of optics and
+comb diagrams, our results suggest that the free cornering is worthy of further study in its own right. 1 Double Categories and the Free Cornering
+
+In this section we set up the rest of our development by presenting the theory of single object double
+categories and the free cornering of a monoidal category. ",math.CT,B,0.09721637,0.042070292,0.11147733
+http://arxiv.org/pdf/2205.02362v1,The Category of Hypergroups as a Hyper (quasi)Abelian Category,"So a crucial next step is to study which categories of hyper structures have enough
+injectives and if we still guarantee the existence of right derived functors when we have
+hyper (quasi)abelian categories instead of abelian categories. Another course of action for future works is to understand if our notion of hyper pread-
+ditive category can be see as an enriched category, adapting the deﬁnition of enriched
+category. Furthermore, since we have multiple possibilities of morphism between hyper-
+groups, providing distinct properties to the set of morphisms Hom(G, H), it is possible to
+study categories enriched not by one but by multiple categories. ",math.CT,B,0.2774078,0.003446672,0.18174876
+http://arxiv.org/pdf/2205.03906v1,"Dynamic categories, dynamic operads: From deep learning to prediction markets","The map of polynomials → ′ speciﬁes how the positions of can be
+modeled by those of ′ and how the directions of ′ are returned as directions of , while
+the commutor squares describe how the states of S , can be modeled by those of S′ , in
+a way that respects this change of interface. A type of theorem that we hope to instantiate
+
+in future work is of the form “this dynamic structure that we’re interested in can be run by
+
+(has a map to) this other dynamic structure that we already understand well.”
+
+Example 3.9. For a ﬁxed polynomial , there is a terminal dynamic PRO with interface ,
+                                  ! ",math.CT,A_centroid,-0.48874268,-0.212245,-0.3259673
+http://arxiv.org/pdf/2205.03906v2,"Dynamic categories, dynamic operads: From deep learning to prediction markets","The map of polynomials → ′ speciﬁes how the positions of can be
+modeled by those of ′ and how the directions of ′ are returned as directions of , while
+the commutor squares describe how the states of S , can be modeled by those of S′ , in
+a way that respects this change of interface. A type of theorem that we hope to instantiate
+
+in future work is of the form “this dynamic structure that we’re interested in can be run by
+
+(has a map to) this other dynamic structure that we already understand well.”
+
+Example 3.9. For a ﬁxed polynomial , there is a terminal dynamic PRO with interface ,
+                                  ! ",math.CT,A,-0.48874268,-0.212245,-0.3259673
+http://arxiv.org/pdf/2205.03906v3,"Dynamic categories, dynamic operads: From deep learning to prediction markets","The map of polynomials → ′ speciﬁes how the positions of can be modeled
+by those of ′ and how the directions of ′ are returned as directions of , while the commutor
+squares describe how the states of S , can be modeled by those of S′ , in a way that respects
+this change of interface. A type of theorem that we hope to instantiate in future work is of the
+
+     A PRO is the non-symmetric version of a PROP. While all of our examples are in fact symmetric, to keep the
+paper short we do not describe their symmetry operations. ",math.CT,A,-0.4825034,-0.10887745,-0.27145043
+http://arxiv.org/pdf/2205.06651v1,Univalent typoids,"More speciﬁc examples of univalent typoids are expected to be found in [8], where
+with the use of UA a general theorem that “isomorphism implies equality"" is shown for many algebraic
+structures. The implementation of more higher inductive types as appropriate typoids is another topic
+of future work. Acknowledgment
+This work was completed during our visit to CMU and was supported by the EU-project “Computing
+with Inﬁnite Data”. ",math.CT,C,-0.05649471,0.0936435,-0.12735026
+http://arxiv.org/pdf/2205.08916v1,Monoidal Width: Capturing Rank Width,"Then, 12 · rwd(G) ≤ mwd(g) ≤ 2 · rwd(G). 6 Conclusions and future work
+
+We have shown that monoidal width, in a suitable category of graphs composable along “open” edges,
+yields rank width; a well-known measure from the graph theory literature. Our goal with this line of research is to develop a generic, abstract “decomposition theory”. ",math.CT,C,-0.14259341,0.64515793,0.13040413
+http://arxiv.org/pdf/2205.08916v2,Monoidal Width: Capturing Rank Width,"Then,  1  · rwd(G)  ≤   mwd(g)    ≤  2 · rwd(G). 2
+
+6 Conclusions and future work
+
+We have shown that monoidal width, in a suitable category of graphs composable along “open” edges,
+yields rank width; a well-known measure from the graph theory literature. Our goal with this line of research is to develop a generic, abstract “decomposition theory”. ",math.CT,C,-0.13769723,0.6392654,0.13210222
+http://arxiv.org/pdf/2205.12235v1,Enrichment of Algebraic Higher Categories,"Example A.14. While we defer a detailed description of this to future work, a “n-category-
+enriched T -multicategory” is a convenient base of enrichment for when one wants the equations
+between composition operations in an enriched T -algebra to hold only up to coherent (higher)
+isomorphism. When, for instance, there is a category (or n-category) of ﬁxed-boundary t-arrows in
+a T -multicategory rather than a set, it is straightforward to demand that two sides of an equation
+between such t-arrows are merely isomorphic (or equivalent) rather than equal. ",math.CT,B,0.13221991,0.10388075,0.11101991
+http://arxiv.org/pdf/2205.13356v1,Approximating triangulated categories by spaces,"One seems to require some reﬁned
+notion combining the continuous and discrete pieces of the classiﬁcation. A tempting
+direction for future work is to consider spaces with some form of decoration e.g. those
+appearing in [AS16] and [GZ21]. ",math.CT,B,-0.0378588,-0.123553626,0.12281546
+http://arxiv.org/pdf/2205.15240v1,Double Fibrations,"We also
+show that the double Grothendieck construction of [Mye21] is a particular example of our more
+general Grothendieck construction: see Example 3.51. We will not consider here how the theory of double ﬁbrations can be used to further aspect
+(iii), namely double categorical logic, but anticipate this will occur in future work. The paper is laid out as follows:
+
+    • In Section 2, we give the deﬁnition of a double ﬁbration, present some basic examples, and
+       then show how many existing generalizations of the ﬁbration notion can be seen as double
+       ﬁbrations. ",math.CT,B_centroid,0.38327935,-0.054162323,-0.03431154
+http://arxiv.org/pdf/2206.00849v1,$\mathbf{Z}$-Categories I,"18our reason here for picking the strict deﬁnition is that this works aims to synthesize stabilization and
+strict notions of algebra. It seems likely however that the treatment of the notion should hold up well in an
+(∞, 2)-categorical treatment - a topic of future work. Z-CATEGORIES I                            45
+
+Example A.4. ",math.CT,B,0.14344713,-0.02098183,0.11657606
+http://arxiv.org/pdf/2206.01113v1,"Generalized point-free spaces, pointwise","11. Conclusions
+
+   This article is not so much ﬁnished work as an invitation to further research. We have explained how, if one’s mathematics is geometric, then it can be expressed
+in terms of point-free spaces (even generalized ones) and conducted in a pointwise
+manner. ",math.CT,A,-0.1694189,-0.07775947,-0.13084923
+http://arxiv.org/pdf/2206.03294v1,A diagrammatic calculus for categorical quantum protocols,"Such a calculus would be less practical at some points,
+but it could bring some new insight to the subject through the Kirby calculus (see
+[9]) for surgery data. Our plan for a future work is to investigate this 3-dimensional
+calculus. After the introduction of categorical quantum mechanics, it is natural to seek
+for a diﬀerent dagger compact closed categories with biproducts, in order to check
+whether they can sustain quantum protocols, as quantum teleportation. ",math.CT,A,-0.14236006,-0.25363052,0.11967002
+http://arxiv.org/pdf/2206.03868v1,"Open dynamical systems as coalgebras for polynomial functors, with application to predictive processing","Although we have attempted to give a wide overview of
+the applicability of these structures, with a particular focus on the adaptive systems of primary interest
+to the author, we are aware that we have barely scratched the surface of their use and relationships. Here, we brie y list some avenues of current and future work. Our current principal focus is on exploring the connections between these structures and other com-
+positional treatments of dynamical systems. ",math.CT,A,-0.41553527,-0.29996407,-0.10813466
+http://arxiv.org/pdf/2206.04547v1,Value iteration is optic composition,"It is hoped that the Bellman-Jacobi-
+Hamilton equation, a PDE that is the continuous time analogue of the discrete-time Bellman equation,
+will simiarly arise as a ﬁxpoint in this way. Exploring this systematically is important future work. References
+
+ [1] K.J A˚ stro¨m (1965): Optimal control of Markov processes with incomplete state information. ",math.CT,A,-0.44446838,-0.41712886,0.089960344
+http://arxiv.org/pdf/2206.06858v1,Monoidal Kleisli Bicategories and the Arithmetic Product of Coloured Symmetric Sequences,"The only
+non-obvious point is that V being normal duoidal implies Item 4.3(ii); but this latter condition amounts
+to the invertibility of ξ when X1 “ Y1 “ J or X2 “ Y2 “ J, and these follow from the oplax monoidality
+of the unit constraints for b. The notion of normal duoidal category as an enrichment base was central
+to the theory of commuting tensor products developed in [GL16], and in future work, we will see that
+normal oplax monoidal double categories are a suitable setting for a generalisation of that theory. Example 4.5 (Oplax monoidal structure on MatV ). ",math.CT,B,0.114339754,0.3537715,0.088671535
+http://arxiv.org/pdf/2206.06858v2,Monoidal Kleisli Bicategories and the Arithmetic Product of Coloured Symmetric Sequences,"The
+only non-obvious point is that V being normal duoidal implies Deﬁnition 4.3(ii); but this latter condition
+amounts to the invertibility of ξ when X1 “ Y1 “ J or X2 “ Y2 “ J, and these follow from the oplax
+monoidality of the unit constraints for b. The notion of normal duoidal category as an enrichment base
+was central to the theory of commuting tensor products developed in [GL16], and in future work, we
+will see that normal oplax monoidal double categories are a suitable setting for a generalisation of that
+theory. Example 4.5 (Oplax monoidal structure on MatV ). ",math.CT,B,0.11053179,0.36490178,0.08399901
+http://arxiv.org/pdf/2206.09678v1,On the pre- and promonoidal structure of spacetime,"In this way Slice seems to combine both the structures of premonoidal and promonoidal categories. We leave it as future work to make rigorous the associativity and unitality of this structure but we note
+that the representable presheaf at the empty slice Y∅ is likely the unit of a suitably deﬁned structure. Similarly to the intersection case we can study when the presheaves (X Y )(−) are representable:
+
+Theorem 5. ",math.CT,B,0.27557898,0.16802831,-0.07353533
+http://arxiv.org/pdf/2207.05184v1,Diagrammatic presentations of enriched monads and varieties for a subcategory of arities,"Hence,
+the single R-aﬃne space R generates the SF(V )-ary variety ob(R-Aﬀ) over S, by 10.35. Noting that 10.34 involves closure properties for J -ary varieties over S that are related to
+the Birkhoﬀ variety theorem [5], it is natural to ask whether a generalization of the latter
+theorem can be proved in the present general setting, perhaps under additional hypotheses;
+we leave this question for future work. References
+
+[1] J. Ada´mek, M. Dost´al, and J. Velebil, A categorical view of varieties of ordered algebras,
+    Math. ",math.CT,B,0.10252289,0.11660679,-0.24844521
+http://arxiv.org/pdf/2207.06091v1,Structured Decompositions: Structural and Algorithmic Compositionality,"We aspire to obtain a less naïve lifting theorem, one which yields algorithms with
+
+running times comparable to the parameterized complexity state of the art. In particular,
+
+turning our compositional algorithm for      -composition (Lemma 6.6) into an FPT-
+
+time algorithm will require new ideas, and will constitute a major avenue of future work. References
+
+ [1] J. Adamek and J. Rosicky. ",math.CT,C,-0.40386653,0.20987253,-0.1923384
+http://arxiv.org/pdf/2207.06091v2,Structured Decompositions: Structural and Algorithmic Compositionality,"We aspire to obtain a less naïve lifting theorem, one which yields algorithms with
+
+running times comparable to the parameterized complexity state of the art. In particular,
+
+turning our compositional algorithm for      -composition (Lemma 6.5) into an FPT-
+
+time algorithm will require new ideas, and will constitute a major avenue of future work. A Proof of Lemma 4.2
+
+Lemma (Lemma 4.2 restated). ",math.CT,C,-0.39116034,0.22177175,-0.19945139
+http://arxiv.org/pdf/2207.06765v1,Fibrational linguistics: Language acquisition,"In particular, we deﬁned the concept of explanation
+to deﬁne, in turn, vocabulary acquisition by paraphrasis. A clear direction of future work
+is to use Deﬁnition 4.2 as the building block for a more general theory of communication:
+intuitively, speakers communicate in a game-theoretic fashion, exchanging explanations and
+using them to build meanings until they reach some kind of ﬁxed point, at which providing
+further explanations does not result in building further meaning. This broader picture would
+fully capture Wittgenstein’s ideas regarding language games, and we consider it an ambitious
+goal. ",math.CT,B,-0.04304767,-0.25468162,-0.016895413
+http://arxiv.org/pdf/2208.02476v1,Reduced multiplicative tensor product of matrix factorizations,"a matrix factorization of f of
+size 32. 30
+5 Further research directions
+
+We think the following questions that are interesting for further research:
+
+   1. We learned about factorization of polynomials using two n × n matrices (n ≥ 2), it
+       could be interesting to study how polynomials could be factorized using m matrices
+       of size n where (n ≥ 2) and m ≥ 3. ",math.CT,A,-0.42504656,0.093187414,-0.23999655
+http://arxiv.org/pdf/2208.12704v1,On semibiproducts of magmas and semigroups,"The purpose of this paper is to extend the
+                                          study of semibiproducts to the category of semigroups. However,
+                                          it is observed that a further analysis into the category of magmas
+                                          is required in attaining a full comprehension on the subject. In-
+                                          deed, although there is a subclass of magma-actions, that we call
+                                          representable, which classify all semibiproducts of magmas whose
+                                          behaviour is similar to semigroups, it is nevertheless more general
+                                          than the subclass of associative magma-actions. ",math.CT,C,0.040730625,0.12305783,0.016385337

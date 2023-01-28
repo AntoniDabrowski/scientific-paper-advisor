@@ -1,0 +1,607 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00092v1,Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo,"Projection onto the epigraph of a
+nonconvex function is generally nontrivial. Therefore, it is not immediately obvious how
+to replicate the horseshoe prior’s shrinkage property in our framework and presents an
+interesting avenue for future work. The framework of SPMRFs is extended to unevenly spaced grids for k = 0 and k = 1
+in Faulkner and Minin (2018) using methods based on an integrated Wiener processes. ",stat.CO,A,-0.0060760807,0.07808629,-0.08287713
+http://arxiv.org/pdf/2201.00092v2,Bayesian Trend Filtering via Proximal Markov Chain Monte Carlo,"Projection onto the epigraph of a nonconvex
+function is generally nontrivial. Therefore, it is not immediately obvious how to replicate the
+horseshoe prior’s shrinkage property in our framework and presents an interesting avenue for
+future work. The framework of SPMRFs is extended to unevenly spaced grids for k = 0 and k = 1
+in Faulkner and Minin (2018) using methods based on an integrated Wiener processes. ",stat.CO,A,-0.0060760807,0.07808629,-0.08287713
+http://arxiv.org/pdf/2201.00409v1,Global convergence of optimized adaptive importance samplers,"In other words, our guarantees apply when one replaces the SGLD or
+SGHMC with other optimizers, i.e., variance reduced variants (Zou et al., 2019), or tamed Euler
+schemes (Lim et al., 2021) or polygonal schemes (Lim and Sabanis, 2021) which handle even
+more relaxed assumptions and enjoy improved stability. Our future work plans also include a
+separate and comprehensive numerical investigation of several different schemes to assess the
+global optimization performance of these optimizers to be used within the AIS schemes. 12
+Acknowledgements
+
+This work is supported by the Lloyd’s Register Foundation Data Centric Engineering Programme
+and EPSRC Programme Grant EP/R034710/1 (CoSInES). ",stat.CO,C,-0.1641666,-0.16318901,-0.16911954
+http://arxiv.org/pdf/2201.06604v1,A tool set for random number generation on GPUs,"If developers wants to use our package to do
+something that’s not supported in gpuR, for example “sparse” class objects, they would have
+to write OpenCL code to implement it. Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer                  19
+
+(a) parameter 1, simuation 1  (b) parameter 2, simuation 1
+
+(c) parameter 3, simuation 1  (d) parameter 4, simuation 1
+
+(e) parameter 1, simuation 2  (f) parameter 2, simuation 2
+
+(g) parameter 3, simuation 2  (h) parameter 4, simuation 2
+
+Figure 2: Simulated Gaussian random ﬁelds
+20
+
+Some possible future work on clrng package could be: (1) Incorporate other RNGs, for
+example the MRG32k3a, LFSR113, and Philox-4×32-10 generators from clRNG library, and
+compare the R performance between using diﬀerent RNGs on GPU. (2) Create a “sparse”
+matrix class on GPU and use it for simulating Gaussian random ﬁelds with sparse correlation
+structures such as the Gaussian Markov random ﬁelds. ",stat.CO,B,0.2631032,-0.16254948,-0.24290863
+http://arxiv.org/pdf/2201.06604v2,A tool set for random number generation on GPUs in R,"If developers wants to use our package to do
+something that’s not supported in gpuR, for example “sparse” class objects, they would have
+to write OpenCL code to implement it. Ruoyong Xu, Patrick Brown, Pierre L’Ecuyer                  19
+
+(a) parameter 1, simuation 1  (b) parameter 2, simuation 1
+
+(c) parameter 3, simuation 1  (d) parameter 4, simuation 1
+
+(e) parameter 1, simuation 2  (f) parameter 2, simuation 2
+
+(g) parameter 3, simuation 2  (h) parameter 4, simuation 2
+
+Figure 2: Simulated Gaussian random ﬁelds
+20
+
+Some possible future work on clrng package could be: (1) Incorporate other RNGs, for
+example the MRG32k3a, LFSR113, and Philox-4×32-10 generators from clRNG library, and
+compare the R performance between using diﬀerent RNGs on GPU. (2) Create a “sparse”
+matrix class on GPU and use it for simulating Gaussian random ﬁelds with sparse correlation
+structures such as the Gaussian Markov random ﬁelds. ",stat.CO,B,0.2631032,-0.16254948,-0.24290863
+http://arxiv.org/pdf/2201.07796v1,The R package $\texttt{ebmstate}$ for disease progression analysis under empirical Bayes Cox models,"While no signiﬁcant theoretical obstacles are foreseen in this matter, the computer
+implementation for more than a single piecewise constant covariate is likely to be a laborious
+task. We have left it therefore for future work. Supplementary Materials
+
+The ﬁle ‘ESM_1.html’ contains additional simulation results and theoretical demonstrations. ",stat.CO,C,0.009315018,-0.07304835,-0.0811558
+http://arxiv.org/pdf/2201.09722v1,Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data,"2021), non-Markovian dynamics (Streftaris & Gibson 2002),
+non-homogeneous mixing (Severo 1969, Lomeli et al. 2021) as well as time-varying infection
+rates (Kypraios & O’Neill 2018) in future work. We invite readers to consider applications
+of these ideas in other stochastic process models with complex latent spaces that may
+similarly be made navigable through designing tractable, mechanistic proposal processes. ",stat.CO,A,0.09544091,0.45069465,0.039689615
+http://arxiv.org/pdf/2201.09722v2,Uniformly Ergodic Data-Augmented MCMC for Fitting the General Stochastic Epidemic Model to Incidence Data,"2021), non-Markovian dynamics (Streftaris & Gibson 2002),
+non-homogeneous mixing (Severo 1969, Lomeli et al. 2021) as well as time-varying infection
+rates (Kypraios & O’Neill 2018) in future work. We invite readers to consider applications
+of these ideas in other stochastic process models with complex latent spaces that may
+similarly be made navigable through designing tractable, mechanistic proposal processes. ",stat.CO,A,0.09544091,0.45069465,0.039689615
+http://arxiv.org/pdf/2201.09722v3,Exact Inference for Stochastic Epidemic Models via Uniformly Ergodic Block Sampling,"Our data-augmentation framework and the idea of a faithful surrogate proposal can be
+extended to models of increasing realism. It will be fruitful to consider extensions to
+epidemic models accounting for a latency period (e.g., SEIR), under-reporting (Fintzi
+et al., 2017; Morozova et al., 2021), non-homogeneous mixing (Severo, 1969; Lomeli et al.,
+2021) as well as a time-varying infection rate (Kypraios and O’Neill, 2018) in future work. We also invite readers to consider applications of these ideas in other stochastic process
+models with complex latent spaces that may similarly be made navigable through a
+well-designed surrogate proposal process embedded in a M-H algorithm. ",stat.CO,A,0.09041373,0.31589556,0.2056713
+http://arxiv.org/pdf/2201.11354v1,Adaptive exact-approximate sequential Monte Carlo,"An interesting extension to the current work would be to assess the eﬀect of the target
+ESJD, the target ESS and the target variance of the log-likelihood estimator when EASMC
+is used for model selection. Another area of future work is extending the method for
+application to mixed eﬀects models (Botha et al., 2020); for these models, it may be
+possible to obtain signiﬁcant gains in eﬃciency by allowing the number of particles to
+(adaptively) vary between subjects. The new method can also be used as the proposal
+function within importance sampling squared (Tran et al., 2020). ",stat.CO,A,0.023808826,0.17234643,0.25537002
+http://arxiv.org/pdf/2201.11354v2,Automatically adapting the number of state particles in SMC$^2$,"the adaptive particle ﬁlters of Bhadra and Ionides (2016), Crisan and M´ıguez (2018)
+and Lee and Whiteley (2018). Another area of future work is to adapt the number of
+parameter particles (Nθ) for a speciﬁc purpose, e.g. estimation of a particular parameter
+or subset of parameters. ",stat.CO,A,-0.09212296,0.07450832,-0.09730235
+http://arxiv.org/pdf/2202.00180v1,Bootstrap Confidence Regions for Learned Feature Embeddings,"We found that in more complex settings, a parametric bootstrap based
+on a single set of learned features does not reﬂect the degree of uncertainty present when comparing features
+derived from independently trained models. Our results raise several questions for further study. It is natural to ask to what extent similar behaviors
+are exhibited across other data domains, model types, or training regimes. ",stat.CO,A,0.06412986,0.0008385726,0.27814025
+http://arxiv.org/pdf/2202.02264v1,De-Sequentialized Monte Carlo: a parallel-in-time particle smoother,"While the Gaussian approximations recover a lot of practical use cases, their nature makes them
+inadequate to approximate, for example, multi-modal posteriors. Designing proposals with more
+modeling capacity, anf fully utilizing the additional degree of freedom oﬀered by the diﬀerent roles
+of ν and q is an important direction of future work. This could be done, for instance, using direct
+
+                                            21
+gradient methods (Corenﬂos et al., 2021; Naesseth et al., 2018; Maddison et al., 2017; Le et al.,
+2018) or more iterative methods (Guarniero et al., 2017; Heng et al., 2020). ",stat.CO,A,-0.018129744,-0.023672981,0.051202897
+http://arxiv.org/pdf/2202.05683v1,Rare event estimation with sequential directional importance sampling (SDIS),"SDIS with larger 𝑙 gives smaller coefficient of variation
+of the failure probability estimate at the expense of an increase in computational cost; we observe that
+𝑙 = 5 provides a good compromise. To further improve the performance of SDIS, future work lies in
+
+                                23
+determining the parameter 𝜎1 adaptively and exploring more advanced line search algorithms. Another
+possible future direction is the adaptive choice of the number of sampling directions 𝑁0 used to estimate
+the intermediate probabilities. ",stat.CO,C,-0.06459841,-0.0956334,0.1367062
+http://arxiv.org/pdf/2202.09129v1,Efficient computation of the volume of a polytope in high-dimensions using Piecewise Deterministic Markov Processes,"While the im-
+provement to the oracle complexity might not apply, the intersection of linear trajectories with the boundary
+would improve on HMC. On the practical aspect, there are a few improvements that could be made in future work. The most
+obvious one would be to re-use the points sampled at previous phases using importance sampling. ",stat.CO,A,-0.104221776,0.021358443,-0.021424405
+http://arxiv.org/pdf/2202.12063v1,Robust Mediation Analysis: The R Package robmed,"Finally, a graphical
+user interface (GUI) could be beneﬁcial for less proﬁcient R users. Developing such a GUI,
+for instance as a web application based on package shiny (Chang, Cheng, Allaire, Sievert,
+Schloerke, Xie, Allen, McPherson, Dipert, and Borges 2021), is future work. In the meantime,
+we provide the R extension bundle ROBMED for SPSS, which links to the R package robmed
+and allows to use its main functionality through a GUI from within SPSS. ",stat.CO,B,0.8899327,-0.16499391,-0.31712377
+http://arxiv.org/pdf/2202.12063v2,Robust Mediation Analysis: The R Package robmed,"Finally, a graphical
+user interface (GUI) could be beneﬁcial for less proﬁcient R users. Developing such a GUI,
+for instance as a web application based on package shiny (Chang, Cheng, Allaire, Sievert,
+Schloerke, Xie, Allen, McPherson, Dipert, and Borges 2021), is future work. In the meantime,
+we provide the R extension bundle ROBMED (Alfons 2022a) for SPSS (IBM Corp. 2021),
+which links to the R package robmed and allows to use its main functionality through a
+GUI from within SPSS. ",stat.CO,B_centroid,0.8764227,-0.1862489,-0.33566192
+http://arxiv.org/pdf/2202.12063v3,Robust Mediation Analysis: The R Package robmed,"Finally, a graphical user interface
+(GUI) could be beneﬁcial for less proﬁcient R users. Developing such a GUI, for instance
+as a web application based on package shiny (Chang, Cheng, Allaire, Sievert, Schloerke,
+Xie, Allen, McPherson, Dipert, and Borges 2021), is future work. In the meantime, we
+provide the R extension bundle ROBMED (Alfons 2022a) for SPSS (IBM Corp. 2021), which
+links to the R package robmed and allows to use its main functionality through a GUI from
+within SPSS. ",stat.CO,B,0.8764227,-0.1862489,-0.33566192
+http://arxiv.org/pdf/2202.12063v4,Robust Mediation Analysis: The R Package robmed,"Finally, a graphical user interface
+(GUI) could be beneﬁcial for less proﬁcient R users. Developing such a GUI, for instance
+as a web application based on package shiny (Chang, Cheng, Allaire, Sievert, Schloerke,
+Xie, Allen, McPherson, Dipert, and Borges 2021), is future work. In the meantime, we
+provide the R extension bundle ROBMED (Alfons 2022a) for SPSS (IBM Corp. 2021), which
+links to the R package robmed and allows to use its main functionality through a GUI from
+within SPSS. ",stat.CO,B,0.8764227,-0.1862489,-0.33566192
+http://arxiv.org/pdf/2202.13230v1,Metropolis Adjusted Langevin Trajectories: a robust alternative to Hamiltonian Monte Carlo,"Our contributions motivate the study of adaptive tuning solutions for MALT, together with
+further comparisons with HMC and its variations, both from a theoretical and numerical viewpoint. These questions will be investigated in future works. 8. ",stat.CO,A,-0.26493314,-0.09372254,-0.19294356
+http://arxiv.org/pdf/2202.13230v2,Metropolis Adjusted Langevin Trajectories: a robust alternative to Hamiltonian Monte Carlo,"Our contributions motivate the study of adaptive tuning solutions for MALT, together with further
+comparisons with HMC and its variations, both from a theoretical and numerical viewpoint. These
+questions will be investigated in future works. 8. ",stat.CO,A,-0.26493314,-0.09372254,-0.19294356
+http://arxiv.org/pdf/2203.03013v1,Unbiased Estimation using a Class of Diffusion Processes,"If both inequalitie√s were
+true, a straightforward application of the Cauchy-Schwartz inequality would give (l,p)∈N20 ∆l <
+∞, which cannot hold. One possible way to address this could be to increase the rate in N is to
+use Quasi-Monte Carlo estimators, which is something that we leave to future work. It may also
+be possible to sharpen the rate associated to the estimator as it is, in terms of N , using the ideas
+in [2]. ",stat.CO,A,-0.16628966,0.26798594,-0.24456772
+http://arxiv.org/pdf/2203.03013v2,Unbiased Estimation using a Class of Diffusion Processes,"If both inequalitie√s were
+true, a straightforward application of the Cauchy-Schwartz inequality would give (l,p)∈N20 ∆l <
+∞, which cannot hold. One possible way to address this could be to increase the rate in N by using
+Quasi-Monte Carlo estimators, which is something that we leave to future work. It may also be
+possible to sharpen the rate associated to the estimator as it is, in terms of N , using the ideas in
+[2]. ",stat.CO,A,-0.15987635,0.27617243,-0.24729106
+http://arxiv.org/pdf/2203.03437v1,Multilevel Monte Carlo with Surrogate Models for Resource Adequacy Assessment,"The case study shows     [11] F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel,
+the superiority of proposed method compare with hand-tuned                 B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer,
+models in term of speedup. In future work, we will further                 R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D.
+                                                                           Cournapeau, M. Brucher, M. Perrot, and E. Duchesnay,
+                                                                           “Scikit-learn: Machine learning in Python,” Journal of
+                                                                           Machine Learning Research, vol. 12, pp. ",stat.CO,A,-0.1320501,-0.08824861,0.2276136
+http://arxiv.org/pdf/2203.03437v2,Multilevel Monte Carlo with Surrogate Models for Resource Adequacy Assessment,"the superiority of proposed method compared with hand-
+tuned models in term of speedup. In future work, we will           [11] F. Pedregosa, G. Varoquaux, A. Gramfort, et al., “Scikit-
+further analyse the impact of training time on optimal speedup,            learn: Machine learning in Python,” Journal of Machine
+                                                                           Learning Research, vol. 12, pp. ",stat.CO,A,-0.1394592,-0.06121891,0.15482914
+http://arxiv.org/pdf/2203.08389v1,Scalable marginalization of latent variables for correlated data,"We will ex-                        structure, and the total computational cost is O(nDT ) for
+tend the method to all Mat´ern kernels with half-integer                        a system of n particles, D dimensions and T iteration steps. roughness parameters in future work. Denote distance pairs                      For most systems we explored, we found a few hundred it-
+di,j = ||xi − xj||, and there are (n − 1)n/2 unique posi-                       erations in CG achieves satisfying accuracy. ",stat.CO,C,-0.17036754,-0.2846042,-0.11699657
+http://arxiv.org/pdf/2203.09901v1,BCEA: An R Package for Cost-Effectiveness Analysis,"BCEA will continue to be reﬁned and extended where appropriate. BCEA lives inside of a fast
+
+growing ecosystem of packages designed to perform various steps in the wider CEA workﬂow and
+so future work should involve facilitating these tools easily working together and providing the full
+range of capabilities required. Acknowledgements
+
+Dr Heath is funded by Canada Research Chair in Statistical Trial Design; Natural Sciences and
+Engineering Research Council of Canada (award No. ",stat.CO,B,0.3807335,-0.032938942,0.10868808
+http://arxiv.org/pdf/2203.10828v1,Distributed non-disclosive validation of predictive models by a modified ROC-GLM,"We used a straightforward approach for the distributed GLM estimation. However, we acknowledge
+that there may be more efﬁcient approaches, and we will explore this aspect in future work. We implemented an algorithm with R to be used within DataSHIELD. ",stat.CO,A,0.22194374,-0.03540715,0.30636665
+http://arxiv.org/pdf/2203.10828v2,Distributed non-disclosive validation of predictive models by a modified ROC-GLM,"We used a straightforward approach for the distributed GLM estimation. However, we acknowledge
+that there may be more efﬁcient approaches, and we will explore this aspect in future work. We implemented an algorithm with R to be used within DataSHIELD. ",stat.CO,A,0.22194374,-0.03540715,0.30636665
+http://arxiv.org/pdf/2203.11168v1,Feature Selection for Vertex Discriminant Analysis,"In the case of kernel VDA, our proposed methods allow for the simultaneous selection of the support vec-
+tors deﬁning the decision boundaries separating multiple classes. Our future work on VDA will seek to address gaps
+in theory, the caveats of repeated cross validation, and the extension of VDA to clustering problems in analogy with
+SVM-based clustering. References
+
+Alexander, D. H. and K. Lange (2011). ",stat.CO,A,0.062764704,-0.119742945,0.21865216
+http://arxiv.org/pdf/2203.12961v1,Multilevel Bayesin Deep Neural Networks,"Such examples
+could include, Metropolis-Hastings adjusted algorithm, or Hamiltonian Monte Carlo. This examples, and
+others, will be conducted for future work. As eluded to in the numerical experiments, one could consider
+alternative ways in which TNN priors, for a wider range of α ∈ R, could be analyzed where one attains a
+canonical rate of convergence. ",stat.CO,A,0.0183397,0.16287324,-0.0517248
+http://arxiv.org/pdf/2203.12961v2,Multilevel Bayesian Deep Neural Networks,"Such examples
+could include, Metropolis-Hastings adjusted algorithm, or Hamiltonian Monte Carlo. This examples, and
+others, will be conducted for future work. As eluded to in the numerical experiments, one could consider
+alternative ways in which TNN priors, for a wider range of α ∈ R, could be analyzed where one attains a
+canonical rate of convergence. ",stat.CO,A,0.0183397,0.16287324,-0.0517248
+http://arxiv.org/pdf/2203.12961v3,Multilevel Bayesian Deep Neural Networks,"This promotes
+the question, of whether canonical rates, in our setup & framework are possible for non-smooth random
+ﬁelds. This, and related questions, will be considered for future work. 5.2 Classiﬁcation Problem
+
+Following the deﬁnition of the classiﬁcation model (2.2), just as we considered the likelihood (2.5) for the
+regression problem, we consider the likelihood (2.6) for the classiﬁcation problem. ",stat.CO,A,-0.12376134,0.3029638,0.12415874
+http://arxiv.org/pdf/2204.01646v1,A PRticle filter algorithm for nonparametric estimation of multivariate mixing distributions,"Of course, this would require T = Tn to be increasing suﬃciently fast with
+n. Direct extension of the argument used in the proof of Theorem 1 may be possible
+using some naive techniques, e.g., the classical union bound, but, if successful, this would
+require T to be exponentially large with n. Our gut feeling is that such a large number
+of particles would not be necessary, so some important insights are still missing. We save
+this as a topic for future work. A remaining practical challenge is the handling of attrition when the dimension of the
+mixing distribution support is relatively high. ",stat.CO,A,-0.06282175,0.5040441,-0.4591083
+http://arxiv.org/pdf/2204.01646v2,A PRticle filter algorithm for nonparametric estimation of multivariate mixing distributions,"Of course, this would require T = Tn to be increasing suﬃciently fast with
+n. Direct extension of the argument used in the proof of Theorem 1 may be possible
+using some naive techniques, e.g., the classical union bound, but, if successful, this would
+require T to be exponentially large with n. Our gut feeling is that such a large number
+of particles would not be necessary, so some important insights are still missing. We save
+this as a topic for future work. A remaining practical challenge is the handling of attrition when the dimension of the
+mixing distribution support is relatively high. ",stat.CO,A,-0.06282175,0.5040441,-0.4591083
+http://arxiv.org/pdf/2204.01668v1,Scalable Spike-and-Slab,"This can alleviate some concerns linked to burn-in
+and asymptotic variance, but convergence and eﬀective sample size diagnostics [Johnson, 1998,
+Biswas et al., 2019, Vats and Knudson, 2021, Vehtari et al., 2021] remain an important consideration
+particularly in high-dimensional settings. We hope to investigate convergence diagnostics for S3 in
+future work. Acknowledgments. ",stat.CO,A,-0.029734027,0.10940619,-0.09872701
+http://arxiv.org/pdf/2204.01668v2,Scalable Spike-and-Slab,"We
+practice, a number of alternatives are available. This in-                                                                           hope to investigate convergence diagnostics in future work. cludes point-mass spike-and-slab priors (e.g., Mitchell &
+                             Scalable Spike-and-Slab
+
+Acknowledgments. ",stat.CO,A,-0.047505625,0.12347765,0.049805548
+http://arxiv.org/pdf/2204.03248v1,Composite Spatial Monte Carlo Integration Based on Generalized Least Squares,"In section 5, we apply the proposed method to the inverse Ising problem, and then
+demonstrate its performance through numerical experiments. Finally, the summary and future works are
+described in section 6. 2 Ising Model
+
+Consider an undirected graph, G(V, E), consisting of n vertices, where V := {1, 2, · · · , n} is the set of
+vertices and E is the set of undirected edges. ",stat.CO,C,-0.24193802,-0.3859906,-0.14938262
+http://arxiv.org/pdf/2204.03248v2,Composite Spatial Monte Carlo Integration Based on Generalized Least Squares,"In section 5, we apply the proposed method to the inverse Ising problem, and then
+demonstrate its performance through numerical experiments. Finally, the summary and future works are
+described in section 6. 2 Ising Model
+
+Consider an undirected graph, G(V, E), consisting of n vertices, where V := {1, 2, · · · , n} is the set of
+vertices and E is the set of undirected edges. ",stat.CO,C,-0.24193802,-0.38599056,-0.14938256
+http://arxiv.org/pdf/2204.03248v3,Composite Spatial Monte Carlo Integration Based on Generalized Least Squares,"In section 5, we apply the proposed method to the inverse Ising problem, and then
+demonstrate its performance through numerical experiments. Finally, the summary and future works are
+described in section 6. 2 Ising Model
+
+Consider an undirected graph, G(V, E), consisting of n vertices, where V := {1, 2, · · · , n} is the set of
+vertices and E is the set of undirected edges. ",stat.CO,C,-0.24193802,-0.38599056,-0.14938256
+http://arxiv.org/pdf/2204.04808v1,Unbiased Multilevel Monte Carlo methods for intractable distributions: MLMC meets MCMC,"For
+example, the JOA estimator cannot be directly applied even if Ω contains only positive
+numbers – as it is the diﬀerence between two Markov chains. The domain constraint of
+g can be viewed as a limitation of our method, and we hope to report further progress
+on relaxing this constraint in future works. 3.4 Theoretical results
+
+With all the notations as above, we are ready to state our technical assumptions and
+prove the theoretical results. ",stat.CO,A,-0.13953786,0.12730071,-0.083119646
+http://arxiv.org/pdf/2204.05933v1,Sparse Interaction Neighborhood Selection for Markov Random Fields via Reversible Jump and Pseudoposteriors,"25
+    We have used artiﬁcially generated datasets and an application to real data
+in the context of texture synthesis, to evaluate the strengths of our method and
+study how the algorithm behaves under diﬀerent conﬁgurations and concluded
+that our method leads to promising results for selecting sparse interaction struc-
+tures for MRFs. As future work it should be possible to develop new methods for approxi-
+mating the likelihood function (and the posterior distribution as a consequence)
+that can produce good approximations across the varying-dimension spaces, as
+an alternative to the pseudolikelihood. Also, to develop a constant free pro-
+cedure for model selection. ",stat.CO,A,0.10158966,-0.13541494,0.2400401
+http://arxiv.org/pdf/2204.05933v2,Sparse Interaction Neighborhood Selection for Markov Random Fields via Reversible Jump and Pseudoposteriors,"25
+    We have used artiﬁcially generated datasets and an application to real data
+in the context of texture synthesis, to evaluate the strengths of our method and
+study how the algorithm behaves under diﬀerent conﬁgurations and concluded
+that our method leads to promising results for selecting sparse interaction struc-
+tures for MRFs. As future work it should be possible to develop new methods for approxi-
+mating the likelihood function (and the posterior distribution as a consequence)
+that can produce good approximations across the varying-dimension spaces, as
+an alternative to the pseudolikelihood. Also, to develop a constant free pro-
+cedure for model selection. ",stat.CO,A,0.10158966,-0.13541494,0.2400401
+http://arxiv.org/pdf/2204.05933v3,Sparse Interaction Neighborhood Selection for Markov Random Fields via Reversible Jump and Pseudoposteriors,"New methods for approximating the likelihood function (and the posterior
+distribution as a consequence) that can produce good approximations across
+the varying-dimension spaces, as an alternative to the pseudolikelihood would
+be an improvement on the proposed method. However, the biggest challenge to
+be addressed in a future work is the development of a constant free procedure
+for model selection that does not need the speciﬁcation ad hoc of the penalty
+constant α. The reproducible R language code is available as part of the R package
+mrf2dbayes, available in https://github.com/Freguglia/mrf2dbayes. ",stat.CO,A_centroid,0.08477835,-0.015315124,0.2366192
+http://arxiv.org/pdf/2204.08022v1,Randomized Maximum Likelihood via High-Dimensional Bayesian Optimization,"From top to bottom, according to the arrows: ﬁrst HD-BO iteration to collect yn+1 := ynk+1 = arg maxy akn+1(y) from O1(y) ∼ GP,
+then perform f (Rkynk+1) which generates data points yn+1, Om(yn+1) := ynk+1, Om(Rkynk+1) for all m ∈ [M ]; second HD-BO
+iteration to collect yn+2 := ynk+2 = arg maxy akn+2(y) from O2(y) ∼ GP, then perform f (Rkynk+2) which generates data points
+yn+2, Om(yn+2) := ynk+2, Om(Rkynk+2) for all m ∈ [M ]. Algorithm 4 HD-BO-RML with Gaussian priors                         The resulting solution znk = arg maxx∈B pn (x) tries to
+                                                                   achieve a trade-off between high-likelihood and high-prior;
+   N : max possible number of evaluations of f (·);                in this regard, the size of the local optimization box B is
+   de : choice of embedding dimensionality;                        crucial and an important avenue for future work. For the
+   R1, . ",stat.CO,C,-0.097923145,-0.22748056,-0.024132501
+http://arxiv.org/pdf/2204.10793v1,Optimal Scaling for the Proximal Langevin Algorithm in High Dimensions,"8. Closing Comments
+
+There are a number of issues that could be followed up in future work that are of great practical interest:
+
+    • A straightforward, but tedious extension will be to extend Theorem 2.1 to a general class of product
+       measures. • As mentioned in the introduction, we only study the case when the log-target is diﬀerentiable. ",stat.CO,A,0.043400347,0.30470568,-0.10148088
+http://arxiv.org/pdf/2204.12965v1,Scalable particle-based alternatives to EM,"However, this issue was easily mitigated by warm-starting
+our algorithms using a preliminary N = 1 run. We see several interesting lines of future work including (a) the theoretical analysis of the algorithms
+proposed in this paper, (b) the study of variants thereof, and (c) the investigation of other particle-based
+methods obtained by viewing the EM problem ‘jointly over θ and q’ rather than in a coordinate-wise manner. For (a), we believe that [18, 25, 26, 20] might be good jumping-oﬀ points. ",stat.CO,C,-0.3357148,-0.2996711,-0.19319971
+http://arxiv.org/pdf/2204.12965v2,Scalable particle-based alternatives to EM,"4.1). We see several interesting lines of future work including (a) the theoretical analysis of the algorithms
+proposed in this paper, (b) the study of variants thereof, and (c) the investigation of other particle-based
+methods obtained by viewing the EM problem ‘jointly over θ and q’ rather than in a coordinate-wise manner. For (a), we believe that [23, 31, 32, 25] might be good jumping-oﬀ points. ",stat.CO,C,-0.31837577,-0.2905364,-0.15718204
+http://arxiv.org/pdf/2204.12965v3,Scalable particle-based alternatives to EM,"4.1). We see several interesting lines of future work including (a) the theoretical analysis of the algorithms
+proposed in this paper, (b) the study of variants thereof, and (c) the investigation of other particle-based
+methods obtained by viewing the EM problem ‘jointly over θ and q’ rather than in a coordinate-wise manner. For (a), we believe that [23, 31, 32, 25] might be good jumping-oﬀ points. ",stat.CO,C,-0.31837577,-0.2905364,-0.15718204
+http://arxiv.org/pdf/2204.14049v1,Distributed Learning for Principle Eigenspaces without Moment Constraints,"Numerical studies show that the proposed algorithm works comparably with the full sample ECA while
+performs better than distributed PCA when data are heavy-tailed. We also extend the algorithm to learn
+the elliptical factor model in a distributed manner, and the theoretical analysis is more challenging and we
+leave it as future work. It’s also interesting to study the “vertical” division for distributed robust PCA and
+elliptical factor model. ",stat.CO,C,-0.018451888,-0.1804783,0.15007001
+http://arxiv.org/pdf/2205.03686v1,A gentle tutorial on accelerated parameter and confidence interval estimation for hidden Markov models using Template Model Builder,"This may be due to the strong dependence of all elements of the TPM in the same
+row, which is problematic for a proper deﬁnition of the proﬁle likelihood function Lp(γij) difﬁcult (see,
+e.g., Fischer and Lewis, 2021). Therefore, we recommend treating proﬁle CIs for the elements of the
+TPM with care, in particular for models with more than two states, and further research in this direction
+is needed. From an application perspective, the use of TMB allows executing estimation procedures at a signif-
+icantly reduced cost compared to the execution of plain R. Such a performance gain could be of interest
+when repeatedly executing statistical procedures on mobile devices. ",stat.CO,A,0.010226673,0.16026086,0.10454743
+http://arxiv.org/pdf/2205.04806v3,Fixed-point iterations for several dissimilarity measure barycenters in the Gaussian case,"As
+DRKL, a reasonable initial guess would be as in (16) and (15). a future work, we are planning to try to provide theoretical
+                                                                                   convergence guarantees for the proposed FPIs. As discussed in [5], the DSKL barycenters are unique. ",stat.CO,A,-0.15712494,0.061239794,-0.119419724
+http://arxiv.org/pdf/2205.05955v1,Bayesian inference for stochastic oscillatory systems using the phase-corrected Linear Noise Approximation,"We compared several MCMC algorithms for conducting inference and found that
+despite improvements in eﬀective sdosele sizes, the random walk Metropolis and geo-
+metric algorithms struggled to bypass bifurcations in parameter space and hence un-
+derestimate posterior uncertainty in marginal distributions. Our approach using the
+tempered algorithm was able to account for bifurcations in parameter space and also
+highlight alternative parameter combinations consistent with the data that warranted
+further study. Girolami and Calderhead (2011) highlight that extending the manifold
+MALA algorithm to a manifold Hamiltonian Monte Carlo (HMC) algorithm facilitates
+implementation within a parallel tempered algorithm and this may further improve
+the results found here. ",stat.CO,A,0.035958514,0.07571218,0.13596982
+http://arxiv.org/pdf/2205.06364v3,Closed-Form Solution of the Unit Normal Loss Integral in Two-Dimensions,"An R implementation of this method is provided as part of the predtools package
+(https://github.com/resplab/predtools/). Introduction
+Value of Information (VoI) analysis is a set of concepts and methods rooted in decision theory
+that quantifies the expected utility loss due to uncertainty associated with decisions, or the
+expected utility gain by conducting further research. (1) VoI has been applied in decision analysis
+across areas including health technology assessment,(2) environmental risk analysis,(3) and
+clinical prediction modeling. ",stat.CO,B,0.31704894,-0.03992345,0.31680316
+http://arxiv.org/pdf/2205.09059v1,An importance sampling approach for reliable and efficient inference in Bayesian ordinary differential equation models,"In this method the additional system has only
+dimension D, so it theoretically scales better with respect to the number of parameters. However, this method is even harder to conﬁgure, and we leave it for future work. 5
+2.2 Bayesian models with numerical approximations
+
+We consider MCMC inference of models that deﬁne a posterior p(θ | D) ∝ p(D | θ)p(θ),
+where p(D | θ) is the likelihood of data D given parameters θ, and p(θ) is the prior. ",stat.CO,A,-0.0070052026,0.14855582,0.24290273
+http://arxiv.org/pdf/2205.09322v1,Hierarchical Ensemble Kalman Methods with Sparsity-Promoting Generalized Gamma Hyperpriors,"ℓ𝑝-penalties with 𝑟𝛽 > 3/2 could be considered for applications in nonlinear regression and in
+learning dynamical systems from time-averaged data [44]. Finally, this paper focused on ensemble
+Kalman methods for inverse problems; future work will investigate regularization of ensemble
+Kalman filters [41, 17] in data assimilation. Acknowledgments
+
+The authors are thankful to Y. Chen and O. Ghattas for their generous feedback on a previous version
+of this manuscript. ",stat.CO,A,-0.16442065,0.07072033,0.17151694
+http://arxiv.org/pdf/2205.12112v1,Stereographic Markov Chain Monte Carlo,"However, we do not establish
+         quantitative bounds for the mixing time. The mixing time quantitative bounds
+         and its dimension dependence (i.e, the “convergence complexity” [YR17])
+         would be an interesting direction for future work. • Scaling limit for SBPS : we know SBPS is dimension-free for isotropic targets. ",stat.CO,A,-0.20626652,0.3105755,-0.25212854
+http://arxiv.org/pdf/2205.13856v1,Finding Patterns in Visualized Data by Adding Redundant Visual Information,"First, we only tested speciﬁc       To summarize, the adding of ”redundant visual information”
+line charts and with speciﬁc data perturbations, and a wider range     can provide signiﬁcant beneﬁts when analysing patterns in the data,
+of displays and data changes should be studied. Also, additional       and it opens some promising new directions for further research. distance metrics should be studied. ",stat.CO,B,0.26818162,-0.063932694,0.11549752
+http://arxiv.org/pdf/2205.14977v1,Fast Nonlinear Vector Quantile Regression,"The
+approach of NL-VQR allows one to exploit the structure of the domain of X (via a domain-speciﬁc
+model like a CNN or GNN). However, exploiting the structure of Y requires future work. In conclusion, although quantile regression is a very popular tool, vector quantile regression is
+arguably far less known, accessible, and usable in practice due to lack of adequate tools. ",stat.CO,A,0.12699503,-0.055666044,0.15653467
+http://arxiv.org/pdf/2205.14977v2,Fast Nonlinear Vector Quantile Regression,"from the data distribution, is known to converge to the
+global minimum (Hazan (2019), Chapter 3). We refer to Section 5.4 in (Peyré & Cuturi, 2019) (and
+references therein) for further analysis and details regarding the convergence rates of SGD and other
+stochastic optimization methods applied to this problem. Speciﬁcally, stochastic averaged gradient
+(SAG) was shown to have improved convergence rates compared to SGD Genevay et al. ",stat.CO,A,-0.21365924,0.017861089,0.015953287
+http://arxiv.org/pdf/2206.00080v1,Parallel Tempering With a Variational Reference,"However,
+we found that having to tune one HMC sampler for each annealed chain was onerous. We leave the
+problem of adapting several annealed exploration kernels to future work. Slice sampling in contrast
+does not have sensitive tuning parameters that require tuning. ",stat.CO,A,-0.033855006,0.079853214,0.13793829
+http://arxiv.org/pdf/2206.02451v1,Component-wise iterative ensemble Kalman inversion for static Bayesian models with unknown measurement error covariance,"(2018). Another avenue of future work is to investigate how our approach can be incorporated into the IEKI
+method of Duﬃeld and Singh (2021) for general likelihoods. In this case, it may be possible to
+update some of the model parameters with IEKI and some with MCMC, depending on the form of
+the likelihood function. ",stat.CO,A,-0.027436193,0.09000286,0.18611217
+http://arxiv.org/pdf/2206.03034v1,Relaxed Gaussian process interpolation: a goal-oriented approach to Bayesian optimization,"convergence analysis of this algorithm and a numerical benchmark. Finally, Section 6 presents our
+conclusions and perspectives for future work. 2. ",stat.CO,C,-0.32145333,-0.42389786,-0.004631487
+http://arxiv.org/pdf/2206.03034v2,Relaxed Gaussian process interpolation: a goal-oriented approach to Bayesian optimization,"of this algorithm and a numerical benchmark. Finally, Section 6 presents our conclusions and
+perspectives for future work. 2. ",stat.CO,C_centroid,-0.29980826,-0.4804345,0.006426906
+http://arxiv.org/pdf/2206.03050v1,Continuous Hyper-parameter OPtimization (CHOP) in an ensemble Kalman filter,"We then investigate and report the performance of the CHOP workﬂow in
+a series of experiments. Finally, we conclude this study with some technical discussions and possible future works. 2 Problem statement and methodology
+
+2.1 The CHOP problem
+
+We illustrate the main idea behind the CHOP workﬂow in the setting of a sequential data assimilation problem, in which
+an EnKF is adopted with a certain number of hyper-parameters. ",stat.CO,C,-0.10929292,0.010873469,0.0059103286
+http://arxiv.org/pdf/2206.07202v1,Unbiased Estimation using the Underdamped Langevin Dynamics,"Therefore we believe this constitutes to a modiﬁed rate for the single-level
+
+                                                     17
+estimator. Further investigation is needed to verify this, but this is beyond the scope of this work
+and we leave it for future work. Nonetheless, as stated, the unbiased estimator outperforms the
+single estimator for each model example. ",stat.CO,A,-0.091197886,0.09219411,0.13432294
+http://arxiv.org/pdf/2206.09233v1,IID Sampling from Posterior Dirichlet Process Mixtures,"In ﬁne, we remark that although DP mixtures clearly dominate the literature on
+Bayesian nonparametrics, there are various other classes of nonparametric Bayesian
+models as well, for instance, those based on Po´lya trees. In our future work, we intend to
+further generalize our iid sampling procedure to encompass all nonparametric Bayesian
+models. 20
+Bibliography
+
+Antoniak, C. E. (1974). ",stat.CO,A,0.08976578,0.33093184,0.25969556
+http://arxiv.org/pdf/2206.10240v1,Core-elements for Least Squares Estimation,"27
+    In the future, we will extend core-elements to more general applications, such as gen-
+eralized linear models, nonparametric models, kernel methods, etc. More importantly, the
+core-elements approach not only speeds up computation, but also has great applications
+in preserving data privacy and improving communication eﬃciency in federated learning,
+which is also left to our future work. SUPPLEMENTARY MATERIAL
+
+In the Supplementary Material, we provide proofs to the theoretical results stated within
+the manuscript. ",stat.CO,A,0.008545928,0.09698037,0.14388259
+http://arxiv.org/pdf/2206.10240v2,Core-elements for Least Squares Estimation,"In the future, we will extend core-elements to more general applications, such as gen-
+eralized linear models, nonparametric models, kernel methods, etc. More importantly, the
+core-elements approach not only speeds up computation, but also has great applications
+in preserving data privacy and improving communication eﬃciency in federated learning,
+which is also left to our future work. SUPPLEMENTARY MATERIAL
+
+In the Supplementary Material, we provide technical details of the theoretical results stated
+within the manuscript. ",stat.CO,A,0.01889103,0.08039712,0.17692962
+http://arxiv.org/pdf/2206.10521v1,Robustness against data loss with Algebraic Statistics,"In other
+scenarios, the approximation through a rational matrix is essential, but this case is outside
+the scope of the present paper. We conclude with a brief account of future works in the direction of this paper. The anal-
+ysis of the circuits for quantitative continuous factors and approximate algorithms for large
+designs where the circuit basis computation is not actually feasible have been already men-
+tioned in the paper. ",stat.CO,C,-0.078584135,-0.23116486,-0.105254635
+http://arxiv.org/pdf/2206.11410v1,Automatic Zig-Zag sampling in practice,"We tested      Bierkens, 2020, but also it should lead to a choice
+Automatic Zig-Zag and showed it to be compet-           of tmax that is homogeneously optimal for all di-
+itive with HMC: although HMC is often appar-            mensions. Progress in this direction is the focus
+ently more eﬃcient, we found it to be consider-         of our future work. ably less robust when more challenging situations
+are presented and where starting values are far            Lastly, while a supplementary code of this paper
+from the support of the target distribution. ",stat.CO,A,-0.07401251,-0.0053981147,-0.027279362
+http://arxiv.org/pdf/2206.11410v2,Automatic Zig-Zag sampling in practice,"Progress in this direction is the focus        participate is needed. of our future work. All code used to generate re-
+   Lastly, while a supplementary code of this paper      sults and plots is available online at
+is provided and contains useful functions to under-      https://github.com/alicecorbella/ZZpaper. ",stat.CO,B,0.27319902,-0.18219084,-0.117401965
+http://arxiv.org/pdf/2206.13894v1,The split Gibbs sampler revisited: improvements to its algorithmic structure and augmented target distribution,"Section 5 illustrates the proposed
+methodologies with two experiments related to image deblurring and image inpainting, where we report detailed comparisons with
+state-of-the-art algorithms. Conclusions and perspectives for future work are reported in Section 6. 2 Problem statement
+
+2.1 Bayesian inference and imaging inverse problems
+
+Let x ∈ Rd be the image we are interested in estimating and y the available observation related to x by a statistical model with
+
+likelihood function
+
+                     p(y|x) ∝ e−fy(x). ",stat.CO,C,-0.023486454,-0.06941286,0.22835845
+http://arxiv.org/pdf/2207.00663v1,Smooth Pycnophylactic Interpolation Produced by Density-Equalising Map Projections,"However, the density ρ obtained from our algorithm could be used as input to
+Tobler’s (1979b) algorithm, thereby combining the beneﬁts of both methods. The potential advantages of combining the algorithms will be investigated in
+future work. 5 Acknowledgements
+
+This work was supported by the Singapore Ministry of Education (AcRF Tier
+1 Grant IG18PRB104, R-607-000-401-114), a Yale-NUS College research award
+(through grant number A-0000177-00-00), and the Yale-NUS Summer Research
+Programme. ",stat.CO,C,-0.12465082,-0.22156924,0.20694667
+http://arxiv.org/pdf/2207.00976v1,On the complexity of backward smoothing algorithms,"We observe that our procedure can indeed prevent
+degeneracy as T → ∞, provided that some care is taken to build couplings with
+good performance. Finally, Section 6 concludes the paper with ﬁnal practical recommendations and
+further research directions. 1.3. ",stat.CO,A,-0.081067726,0.19683775,-0.30684537
+http://arxiv.org/pdf/2207.02636v1,Gradient-Free Kernel Stein Discrepancy,"It is interesting to observe
+that gradient-free Stein discrepancy leads to a similar performance in both examples, with
+the caveat that stochastic optimisation was more prone to occasional failure when gradient-
+free Stein discrepancy was used. The development of a robust optimisation technique in this
+context requires care and a detailed empirical assessment, and is left as a promising avenue
+for further research. 14
+5 Conclusion
+
+In this paper a gradient-free kernel Stein discrepancy was proposed and studied. ",stat.CO,A,-0.1898614,0.0045192316,0.017910324
+http://arxiv.org/pdf/2207.02636v2,Gradient-Free Kernel Stein Discrepancy,"Although our recommended default settings for gradient-free kernel Stein discrepancy
+were successful in this example, an interesting theoretical question would be to characterise
+an optimal choice of q in this context. This appears to be a challenging problem but we
+hope to address it in future work. In addition, although we focused on Stein importance
+sampling, our methodology oﬀers the possibility to construct gradient-free versions of other
+related algorithms, including the Stein points algorithms of Chen et al. ",stat.CO,A,-0.2319838,-0.014962861,0.00065112766
+http://arxiv.org/pdf/2207.08670v1,Gradient-based data and parameter dimension reduction for Bayesian models: an information theoretic perspective,"Our formulation also generalizes and lends theoretical support to heuristics recently
+considered in specialized settings, for instance in sequential data assimilation (Provost
+et al., 2022). We outline some directions for future work below. Gradient-free methods. ",stat.CO,C,-0.11334388,-0.012519723,0.09869695
+http://arxiv.org/pdf/2207.12395v1,Statistical Inference with Stochastic Gradient Algorithms,"Even if there was not a second equally good mode, a second
+suboptimal mode that persists (though shrinking) at all sample sizes, and is moving farther away as the
+process is re-scaled, could lead to mixing times that do not converge. In future work, we plan to introduce a more rigorous characterization of the correspondence between
+limit of mixing times and the mixing time of the limiting process. In particular, Atchadé [2021] introduces
+the ζ-spectral gap, deﬁned as
+
+SpecGapζ := inf  π[f 2] − f, P f L2(π)
+
+                 π[f 2] − ζ/2                                  (35)
+
+                 f ∈ L2(π), πf = 0, π[f 2] > ζ, f L2(π) < ∞ . ",stat.CO,A,-0.14348912,0.38592246,-0.40320697
+http://arxiv.org/pdf/2207.12395v2,Statistical Inference with Stochastic Gradient Algorithms,"Even if there was not a second equally good mode, a second
+suboptimal mode that persists (though shrinking) at all sample sizes, and is moving farther away as the
+process is re-scaled, could lead to mixing times that do not converge. In future work, we plan to introduce a more rigorous characterization of the correspondence between
+limit of mixing times and the mixing time of the limiting process. In particular, Atchadé [2021] introduces
+the ζ-spectral gap, deﬁned as
+
+SpecGapζ := inf  π[f 2] − f, P f L2(π)
+
+                 π[f 2] − ζ/2                                  (39)
+
+                 f ∈ L2(π), πf = 0, π[f 2] > ζ, f L2(π) < ∞ . ",stat.CO,A,-0.14203732,0.39263326,-0.40643612
+http://arxiv.org/pdf/2208.00048v1,Exponential canonical correlation analysis with orthogonal variation,"Algorithm 1 can be used
+
+for this problem with some adaptation of score updates (Section 3.4), however it’s unclear how to
+
+choose the value of optimal β. It would be of interest to investigate these extensions in future work. Acknowledgements
+
+This work was supported by NSF DMS-1712943 and DMS CAREER-2044823. ",stat.CO,C,-0.19654821,-0.2854363,0.13449323
+http://arxiv.org/pdf/2208.01568v1,Hypothesis tests for multiple responses regression models in R: The htmcglm Package,"We illustrate the package use through some
+examples in section 5. Finally, section 6 presents a discussion and directions for future work
+on the improvement of the htmcglm package. 2. ",stat.CO,B,0.2342294,-0.20037508,-0.1184515
+http://arxiv.org/pdf/2208.02596v1,The periodic zeta covariance function for Gaussian process regression,", which would be useful for inference algorithms, from
+empirical Bayes to Markov chain Monte Carlo. I leave that to future work. A Proofs
+
+Smoothness of the process I consider continuity and di erentiability in the mean-
+square sense (Stein 1999, §2.4). ",stat.CO,A,0.025339618,0.280518,0.09928055
+http://arxiv.org/pdf/2208.04989v1,Gradient Tracking and Stopping for Generalized Coordinate Descent,"Through this comparison we ﬁnd that while the LSQR method fails due to reaching
+the 32 GB memory bound, our method can solve the system utilizing only 195 MB of memory. Our future work will involve improving the practicality of our methodology for solving large-
+scale scientiﬁc problems by examining the eﬀects of the choice of embedding dimension on
+convergence rate and considering parallelization opportunities to reduce runtime. Appendix A. Commutation of Projection Matrices. ",stat.CO,C,-0.105834186,-0.24987999,-0.20441616
+http://arxiv.org/pdf/2208.04989v2,Towards Practical Large-scale Randomized Iterative Least Squares Solvers through Uncertainty Quantification,"Through this comparison we ﬁnd that while the LSQR method fails due to reaching
+the 32 GB memory bound, our method can solve the system utilizing only 195 MB of memory. Our future work will involve improving the practicality of our methodology for solving large-
+scale scientiﬁc problems by examining the eﬀects of the choice of embedding dimension on
+convergence rate and considering parallelization opportunities to reduce runtime. Appendix A. Commutation of Projection Matrices. ",stat.CO,C,-0.105834186,-0.24987999,-0.20441616
+http://arxiv.org/pdf/2208.07252v1,Quantifying uncertain system outputs via the multi-level Monte Carlo method -- distribution and robustness measures,"These
+observations demonstrate the imperative need for an adaptive selection algorithm for the interval Θ. We
+plan to explore this direction in a future work. [0.3, 0.8]
+         [0.4, 0.6]
+    104  [0.48, 0.52]
+
+    103
+
+re
+
+    102
+
+    101
+
+                              101 N0 102
+
+Figure 18: Behaviour of re for diﬀerent hierarchy shapes and interval sizes for Navier Stokes
+problem
+
+7 Conclusions
+
+The aim of this work was to tackle the problem of estimating summary statistics of a random QoI which
+was an output of a complex diﬀerential model with random inputs. ",stat.CO,A,-0.13180466,0.059781514,0.12869442
+http://arxiv.org/pdf/2208.07252v2,Quantifying uncertain system outputs via the multi-level Monte Carlo method -- distribution and robustness measures,"These
+observations demonstrate the imperative need for an adaptive selection algorithm for the interval Θ. We
+plan to explore this direction in a future work. [0.3, 0.8]
+         [0.4, 0.6]
+    104  [0.48, 0.52]
+
+    103
+
+re
+
+    102
+
+    101
+
+                              101 N0 102
+
+Figure 18: Behaviour of re for diﬀerent hierarchy shapes and interval sizes for Navier Stokes
+problem
+
+7 Conclusions
+
+The aim of this work was to tackle the problem of estimating summary statistics of a random QoI which
+was an output of a complex diﬀerential model with random inputs. ",stat.CO,A,-0.13180466,0.059781514,0.12869442
+http://arxiv.org/pdf/2208.07459v1,Nesterov smoothing for sampling without smoothness,"Our convergence rates are better than or on par with existing
+methods if no parameter is hiding dimension dependency. Limitation and future work In this paper, we only consider one class of non-smooth potential
+with max structure (1) for smoothing. It is interesting to explore more structures that can beneﬁt from
+smoothing techniques. ",stat.CO,A,-0.15054016,0.063937776,-0.1237602
+http://arxiv.org/pdf/2208.08966v1,Visualizations for Bayesian Additive Regression Trees,"Rather than having a single value for the
+prediction at the node level, MOTR-BART estimates a linear predictor using the covariates
+that were used as split variables in the relevant tree. A diﬀerent method for measuring
+the importance and interactions could also be investigated for future work, such as DART
+(Linero, 2018), which modiﬁes a BART model by placing a Dirichlet hyper-prior on the
+splitting proportions of the regression tree prior. When using DART, Barbieri and Berger
+(2004) recommend selecting predictor variables from a so-called median probability model
+to conduct variable selection, where the median probability model is deﬁned as a model
+containing variables whose posterior inclusion probability is at least 50%. ",stat.CO,A,0.21013208,0.07567672,0.4696378
+http://arxiv.org/pdf/2208.08966v2,Visualizations for Bayesian Additive Regression Trees,"Rather than
+having a single value for the prediction at the node level, MOTR-BART estimates a
+linear predictor using the covariates that were used as split variables in the relevant
+tree. A diﬀerent method for measuring the importance and interactions could also be
+investigated for future work, such as DART (Linero, 2018), which modiﬁes a BART
+model by placing a Dirichlet hyper-prior on the splitting proportions of the regression
+tree prior. When using DART, Linero (2018) recommend selecting predictor variables
+from a so-called median probability model (Barbieri and Berger, 2004) to conduct vari-
+able selection, where the median probability model is deﬁned as a model containing
+variables whose posterior inclusion probability is at least 50%. ",stat.CO,A,0.20349759,0.07305372,0.47669536
+http://arxiv.org/pdf/2208.12854v1,Solving large-scale MEG/EEG source localization and functional connectivity problems simultaneously using state-space models,"For the latter, a possible criticism is that
+neural mass3,63 or spiking neuronal modeling64 may better represent the nonlinear nature of
+neuronal dynamics. How it may affect the accuracy of solutions, or whether modification of
+backpropagation, SSGD and ALS/HGDALS algorithms can consider nonlinear generative models, are
+attractive ideas that deserve further research. Moreover, it might be interesting to speculate about what to expect if either ALS/HGDALS or any
+other algorithm becomes a proper Oracle method for MEG/EEG signals — as with the MRI algorithm
+for MRI/fMRI signals, which provides accurate pictures of in-vivo brains using radio frequency pulses
+and acquired spin echo signals. ",stat.CO,A,0.075058974,-0.032756932,0.067568995
+http://arxiv.org/pdf/2208.12930v1,Joint distribution properties of Fully Conditional Specification under the normal linear model with normal inverse-gamma priors,"Therefore, we should consider the equivalent prior speciﬁca-
+tion for informative priors under a sequence of conditional and corresponding
+joint models. This additional investigation allows the imputer to perform im-
+putations under FCS even if they only collect the prior joint information for
+the incomplete dataset. For the initial step to evaluate convergence properties of FCS with infor-
+mative priors, it is sensible to focus on the Bayesian normal linear models
+and the typical informative prior: normal inverse-gamma prior. ",stat.CO,A,0.114092745,0.09444047,0.2796189

@@ -1,0 +1,437 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00325v1,Energy exchanges between a two-dimensional front and internal wave modes,"Finally, another important new feature of our quasilinear model is that it can in-
+corporate IW eﬀects on the frontal (‘mean’) ﬂow by adding quasilinear wave-induced
+momentum and buoyancy ﬂuxes. These ‘wave-feedback’ eﬀects on frontogenesis, frontal
+stability, and energy exchanges will be examined in future work. Acknowledgements
+
+   SK and RB were supported by Israeli Science foundation Grant 1736/18. ",physics.ao-ph,C,0.40337688,0.12119036,-0.18417893
+http://arxiv.org/pdf/2201.00325v2,Energy exchanges between a two-dimensional front and internal wave modes,"Finally, another important new feature of our quasilinear model is that it can in-
+corporate IW eﬀects on the frontal (‘mean’) ﬂow by adding quasilinear wave-induced
+momentum and buoyancy ﬂuxes. These ‘wave-feedback’ eﬀects on frontogenesis, frontal
+stability, and energy exchanges will be examined in future work. Acknowledgements
+
+   SK and RB were supported by Israeli Science Foundation Grant 1736/18. ",physics.ao-ph,C,0.40337688,0.12119036,-0.18417893
+http://arxiv.org/pdf/2201.00417v1,Non-local parameterization of atmospheric subgrid processes with neural networks,"(2020)) which may be related to non-locality in the horizontal for propagating
+weather systems. Finally, our focus here is on investigating the potential of non-local in-
+puts for improving the prediction of subgrid processes and understanding the situations in
+which improved prediction occurs, and we leave to future work the important next step of
+implementing and testing a non-local parameterization approach based on ML in climate-
+model simulations. Because the non-local inputs we used are in a close neighborhood, it
+is expected that they could be incorporated in parameterizations to improve simulations
+without greatly increasing computational expense. ",physics.ao-ph,B,-0.15531,-0.25749832,-0.21529981
+http://arxiv.org/pdf/2201.00417v2,Non-local parameterization of atmospheric subgrid processes with neural networks,"(2020)) which may be related to non-locality
+in the horizontal for propagating weather systems. Finally, our focus here is on investigating
+the potential of using non-local inputs (and the related issue of using the local divergence or
+vertical velocity as an input) and understanding the situations in which improved prediction
+occurs, and we leave to future work the important next step of implementing and testing
+such parameterization approaches in climate-model simulations. We note that because the
+non-local inputs we used are in a close neighborhood, it is expected that they could be
+incorporated in parameterizations to improve simulations without greatly increasing com-
+putational expense. ",physics.ao-ph,B,-0.08614049,-0.2963664,-0.23060198
+http://arxiv.org/pdf/2201.09136v1,Seasonality and spatial dependence of meso- and submesoscale ocean currents from along-track satellite altimetry,"C1. We do not completely understand the
+source of the broadening of these peaks, and leave that as a question for future work. We accept grid boxes for which the observed SSH power spectrum, averaged over all months, is
+consistent with 𝑇1,2 = 0. ",physics.ao-ph,B,0.12716265,0.20454809,0.25483924
+http://arxiv.org/pdf/2202.00456v3,"On the Links Between Thermobaricity, Available Potential Energy, Neutral Directions, Buoyancy Forces, Potential Vorticity, and Lateral Stirring in the Ocean","Section 5 summarises
+neutrality of an approximately neutral surface. This has         our results and discusses future work. resulted in the development of incompatible approaches;
+thus, Eden and Willebrand (1999) advocate the use of a
+purely material density variable 𝛾(𝑆, 𝜃), de Szoeke and
+Springer (2000); Stanley (2019b) advocate the use of or-
+thobaric density 𝛾(𝜌, 𝑝), a function of density and pres-
+                                                                                                                   3
+
+2. ",physics.ao-ph,C,0.3336386,0.067244895,0.043241918
+http://arxiv.org/pdf/2202.01897v1,AtmoDist: Self-supervised Representation Learning for Atmospheric Dynamics,"Compared to computer vision,
+many more physical constraints have thereby to be considered. We hence believe that the design and
+validation of novel data augmentations is an important direction for future work. Another currently unexplored research direction is representation learning using (unlabeled) sim-
+ulation data. ",physics.ao-ph,A,-0.3582177,0.42446172,-0.3668757
+http://arxiv.org/pdf/2202.01897v2,AtmoDist: Self-supervised Representation Learning for Atmospheric Dynamics,"Compared to computer
+vision, many more physical constraints have to be considered. We hence believe that the design and
+validation of novel data augmentations is an important direction for future work. Another currently unexplored research direction is representation learning using (unlabeled) sim-
+ulation data. ",physics.ao-ph,A,-0.3623817,0.4183846,-0.37079424
+http://arxiv.org/pdf/2202.04404v1,Variational Stochastic Parameterisations and their Applications to Primitive Equation Models,"In either case, further study is needed in this direction. It will also be necessary to determine in future work whether the eﬀects observed in these stochastic
+parameterisations are dependent on the mesh resolution. As resolution increases we expect the inﬂuence of
+
+                                                                     11
+       Figure 3: Time-average of eddy kinetic energy at depth 16m below the surface. ",physics.ao-ph,C_centroid,0.26179108,0.05383468,-0.12983406
+http://arxiv.org/pdf/2202.04404v2,Variational Stochastic Parameterisations and their Applications to Primitive Equation Models,"Examples of the limiting factors for the
+Primitive Equations are the forcing from the temperature ﬁeld and artiﬁcial viscosity imposed for numerical
+stability. The interplay between numerical eﬀects such as artiﬁcial viscosity and stochastic parameterisation
+is particularly interesting for future work. This is due to diﬀerent numerical viscosity are imposed at diﬀerent
+mesh resolutions to numerical stability which inﬂuences the calibration process. ",physics.ao-ph,C,0.29327488,0.09591587,-0.14233026
+http://arxiv.org/pdf/2202.04444v1,Impacts of climate change on groundwater droughts by means of standardized indices and regional climate models,"temperature and precipitation) instead of
+the meteorological indices. To this end, possible future works may concern the application of
+machine-learning algorithms to better represent the mutual dependences among groundwater
+levels, precipitation and temperature. 35
+5 Conclusions
+In this paper, we investigated the impact of climate change on groundwater drought in northern
+Tuscany (Italy) making use of historical and climate model data and standardized indices. ",physics.ao-ph,B,-0.4385712,-0.1400009,-0.07808798
+http://arxiv.org/pdf/2202.04446v1,Ponderomotive coupling of waves to sea surface currents via horizontal density gradients,"Secondly,
+requiring that 2{pF r2σ2q “ Op1q ensures that the time scale for the wave envelope dynamics matches
+that for the ﬂuid motion. Nonetheless, the two models introduced here merit further study in several directions. For example,
+it remains to: (1) quantify the correlations observed visually; (2) determine their rate of formation; and
+(3) parameterise the model for comparison and analysis of the satellite data on which their derivations
+were based. ",physics.ao-ph,C,0.30424428,0.021360569,0.22181706
+http://arxiv.org/pdf/2202.04446v2,Coupling of waves to sea surface currents via horizontal density gradients,"Secondly,
+requiring that 2{pF r2σ2q “ Op1q ensures that the time scale for the wave envelope dynamics matches
+that for the ﬂuid motion. Nonetheless, the two models introduced here merit further study in several directions. For example,
+it remains to: (1) quantify the correlations observed visually; (2) determine their rate of formation; and
+(3) parameterise the model for comparison and analysis of the satellite data on which their derivations
+were based. ",physics.ao-ph,C,0.30424428,0.021360569,0.22181706
+http://arxiv.org/pdf/2202.06132v1,Spectral actinometry at SMEAR-Estonia,"(2013) stud-       downwelling, and sometimes also upwelling shortwave radia-
+                                                ied the allometry of cells and tissues within leaves, and found     tion, however, a review by Balzarolo et al. (2011) revealed that
+                                                that future work is needed to consider the possible inﬂuence        only 5 out of 40 European EC sites involved in the study had
+                                                of the environment. Many trait allometries shift substantially      hyperspectral radiometers while the majority used multispectral
+                                                due to plasticity across different growing conditions, i.e., dif-   or broadband sensors. ",physics.ao-ph,B,-0.07446465,0.010032526,0.41373062
+http://arxiv.org/pdf/2202.07575v1,Forecasting Global Weather with Graph Neural Networks,"We have also demonstrated that this model can be connected to live, operational forecasts from GFS
+to produce a hybrid physics+ML system that anticipates the output of the physics-based GFS model. We see several directions for future work including: (i) pushing to yet ﬁner spatial resolution, e.g. 0.25
+degrees (we have some concerns that our 1.0-degree training data contains aliased, high-frequency
+information that is essentially impossible for our model to predict); (ii) using adaptive mesh reﬁnement
+to optimize forecast performance given a ﬁxed compute budget; (iii) using this data-driven model to
+cheaply generate large ensembles [Weyn et al., 2021]; (iv) creating a data-driven data assimilation
+model that maps from observations to a grid of variables similar to the grid used in this work; and (v)
+most ambitiously, creating an end-to-end, data-driven forecast system [Schultz et al., 2021] that maps
+from observations to observations with a minimal amount of physical priors imposed. ",physics.ao-ph,B,-0.22340773,-0.054926172,-0.1747581
+http://arxiv.org/pdf/2202.08637v1,Direct observational evidence of an oceanic dual kinetic energy cascade and its seasonality,"The
+solution from this method is shown in Figure 4 and discussed in the main text. In future work
+other regularization methods, like constraints only on smoothness, can be tried in the ﬁtting
+procedure. G Application to a simulation of rotating stratiﬁed turbu-
+     lence
+
+To show the efﬁcacy of the above methodology at detecting the energy injection scales and the
+spectral ﬂux, we ﬁrst apply it to a numerical simulation of rotating stratiﬁed turbulence. ",physics.ao-ph,C,0.30029088,0.12578394,-0.21849686
+http://arxiv.org/pdf/2202.08877v1,Frequency dependence and vertical structure of ocean surface kinetic energy from global high-resolution models and surface drifter observations,"However, the simplest explanation for the vertical structure seen at low-frequencies
+
+                                                               –26–
+                                        manuscript submitted to JGR: Oceans
+
+(Figure 4c) is that it is due to Ekman ﬂows, which exhibit substantial variation over short
+vertical scales (Elipot & Gille, 2009; Lilly & Elipot, 2021). A more thorough explanation of the vertical structure in low-frequency, near-inertial,
+and diurnal ﬂows awaits future work. 5 Summary
+
+       Near-surface ocean kinetic energy (KE) is an important factor in a variety of prob-
+lems, including but not limited to air-sea interaction, pollution transport, and satellite
+mission planning. ",physics.ao-ph,C,0.31441385,-0.06057789,0.11354322
+http://arxiv.org/pdf/2202.08877v2,Frequency dependence of near-surface oceanic kinetic energy from drifter observations and global high-resolution models,"As indicated in Section 2.2, MITgcm LLC4320 had an overly large tidal forcing,
+and lacked the Self-Attraction and Loading (SAL) term, but these eﬀects are not large
+enough to explain the discrepancy between MITgcm LLC4320 and drifter observations
+in the semidiurnal band. In future work, more direct comparisons of HYCOM and drifters,
+in which HYCOM is “seeded” with synthetic drifters, are warranted to investigate more
+comprehensively the biases introduced by the drifter Lagrangian sampling (Zaron & Elipot,
+2021). If the closer agreement between HYCOM and drifters in the semidiurnal band
+holds up under further scrutiny, it would suggest, as in Ansong et al. ",physics.ao-ph,B,0.086884156,0.03171186,0.36515743
+http://arxiv.org/pdf/2202.08956v1,GNN-Surrogate: A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations,"The evaluation for our proposed GNN-Surrogate is broken up                Geometry-level metrics The isothermal layer (ITL) depth
+into three sections: (1) implementation details and performance       reﬂects the local ocean temperature and spatial variability from
+(Section 7.2); (2) quantitative and qualitative analyses comparing    a geometric perspective. In this work, we compute speciﬁc ITL
+our approach with baseline approaches (Section 7.3); (3) parameter    depths and calculated measures of overlap (Jaccard coefﬁcient, JC)
+space exploration case studies and further analysis (Section 7.4). and the mean surface distance of intersection regions to evaluate
+                                                                      the quality of ITL depths. ",physics.ao-ph,A,-0.024576878,0.08938323,0.052790817
+http://arxiv.org/pdf/2202.08956v2,GNN-Surrogate: A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations,"The evaluation for our proposed GNN-Surrogate is broken up                Geometry-level metrics The isothermal layer (ITL) depth
+into three sections: (1) implementation details and performance       reﬂects the local ocean temperature and spatial variability from
+(Section 7.2); (2) quantitative and qualitative analyses comparing    a geometric perspective. In this work, we compute speciﬁc ITL
+our approach with baseline approaches (Section 7.3); (3) parameter    depths and calculated measures of overlap (Jaccard coefﬁcient, JC)
+space exploration case studies and further analysis (Section 7.4). and the mean surface distance of intersection regions to evaluate
+                                                                      the quality of ITL depths. ",physics.ao-ph,A,-0.024576878,0.08938323,0.052790817
+http://arxiv.org/pdf/2202.09967v1,A Deep Learning Model for Forecasting Global Monthly Mean Sea Surface Temperature Anomalies,"For the SST anomaly
+prediction, there are high long-lead skills in the equatorial Paciﬁc and northeast Paciﬁc. In the following, we discuss a few aspects of the model predictions and outline our plans
+for future work. Comparison with other ML ENSO prediction architecture
+
+(Ham, Kim, and Luo 2019) developed a CNN deep learning model, trained with coupled
+climate model outputs, to achieve an 18 month-lead prediction skills for Nino3.4. ",physics.ao-ph,B,-0.26833415,-0.18454885,-0.039075922
+http://arxiv.org/pdf/2202.11214v1,FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators,"Given the noise and uncertainties, predicting precipitation
+extremes is well-known to be a challenging problem, but we believe our model could be improved further by focusing
+more on such ﬁne-scale features. We leave this for future work. 4 Computational Cost of FourCastNet
+
+In comparing the speed of forecast generation between FourCastNet and IFS, we have to deal with the rather difﬁcult
+problem of comparing a forecast computed using a CPU cluster (in the case of the IFS model) and a forecast that
+is computed on a single (or perhaps a few) GPU(s) (FourCastNet). ",physics.ao-ph,B,-0.31729907,-0.291491,-0.1900793
+http://arxiv.org/pdf/2203.01596v1,Translating the internal climate variability from climate variables to hydropower production,"Hydropower estimation shows a contribution of internal variability and model uncertainty
+throughout the year than streamﬂow uncertainty. For further analysis, we performed the percentage change analysis to compare the role of ICV and model uncertainty
+in estimating streamﬂow and hydropower. Figure 6 shows the percentage change of mean monthly streamﬂow and
+hydropower of near-term, mid-term and end-term with respect to historical bias-corrected data for Sardar Sarovar. ",physics.ao-ph,B,-0.25933534,-0.050445788,0.09604034
+http://arxiv.org/pdf/2203.02258v1,Air Quality in the New Delhi Metropolis under COVID-19 Lockdown,"The COVID-19 lockdown brought a rare opportunity for
+researchers to understand the environment much better and thereby attempt to
+inﬂuence the policy makers to implement stricter environment laws. Our future work include the short-term forecasting of pollutant data from
+historical data. We intend to use the popular LSTM-based models [37, 39] to
+learn the underlying pattern of such time-series pollutant data. ",physics.ao-ph,B,-0.282421,-0.056925386,-0.01062132
+http://arxiv.org/pdf/2203.02657v2,Quantifying the Predictability of ENSO Complexity Using a Statistically Accurate Multiscale Stochastic Model and Information Theory,"This
+is also of one the main scopes of this work. Encouragingly, based on the conclusion of this work,
+the Gaussian approximation is shown to be accurate enough in computing the information gain,
+which facilitates the use of more sophisticated models to study the ENSO predictability in the
+future work. Note that the Gaussian approximation is utilized only to compute the information
+measurement, which starts from a speciﬁc initial condition. ",physics.ao-ph,A,-0.26833302,0.2662998,-0.11290206
+http://arxiv.org/pdf/2203.10114v1,Seamless lightning nowcasting with recurrent-convolutional deep learning,"4). Finally, we   paring the occurrence, characteristics and driving forces of
+summarize the results and present ﬁnal conclusions and        thunderstorms on the northern and southern sides reveals
+directions for future work (Sect. 5). ",physics.ao-ph,B,0.06952662,-0.35470963,-0.12033862
+http://arxiv.org/pdf/2203.10114v2,Seamless lightning nowcasting with recurrent-convolutional deep learning,"4). Finally, we      the Alps, and comparing the occurrence, characteristics
+summarize the results and present ﬁnal conclusions and           and driving forces of thunderstorms on the northern and
+directions for future work (Sect. 5). ",physics.ao-ph,B,0.09268024,-0.3618781,-0.16380355
+http://arxiv.org/pdf/2203.10114v3,Seamless lightning nowcasting with recurrent-convolutional deep learning,"4). Finally, we    paring the occurrence, characteristics and driving forces of
+summarize the results and present ﬁnal conclusions and         thunderstorms on the northern and southern sides reveals
+directions for future work (Sect. 5). ",physics.ao-ph,B,0.06952662,-0.35470963,-0.12033862
+http://arxiv.org/pdf/2203.12040v1,Adiabatic lapse rate of real gases,"The other possibility
+for future work consists of including intermolecular interactions and vibrations in other approaches to
+the atmospheric lapse rate, like the so-called “moist” lapse rate. The role of the latter in the relation
+between η and σ2 requires further analysis . Acknowledgments
+
+     Bogar D´ıaz acknowledges support from the CONEX-Plus programme funded by Universidad Car-
+los III de Madrid and the European Union’s Horizon 2020 research and innovation programme under
+the Marie Sklodowska-Curie grant agreement No. ",physics.ao-ph,C,0.26997203,-0.122120574,0.123153135
+http://arxiv.org/pdf/2203.12040v2,Adiabatic lapse rate of real gases,"2 c), η improves as σ2 decreases, sug-  “moist” lapse rate. The role of the latter in the relation
+gesting a possible criterion for the choice of an EOS that  between η and σ2 requires further analysis . accurately reproduces the DALR of Titan. ",physics.ao-ph,C,0.26340204,0.103649735,0.20283003
+http://arxiv.org/pdf/2203.15585v1,"Advanced testing of low, medium and high ECS CMIP6 GCM simulations versus ERA5-T2m","Scafetta, 2021c). Their adop-
+tion would require speciﬁc model integrations over the same areas covered by the data but this exercise is
+left to a future work. The satellite lower tropospheric temperature (TLT) measurements by Microwave Sounding Units (MSUs)
+(Spencer et al., 2017; Mears and Wentz, 2016) were not considered because their trends should be slightly
+scaled down to simulate the surface temperature (Christy et al., 2018; McKitrick and Christy, 2020; Mitchell
+et al., 2020). ",physics.ao-ph,B,-0.031577546,-0.1477513,0.40089428
+http://arxiv.org/pdf/2204.02074v1,Acute sensitivity of global ocean circulation and heat content to eddy energy dissipation time-scale,"Xu et al., 2016; Rai et
+al., 2021). Though the challenges in constraining the uncertainties in the eddy energy
+dissipation time-scale are formidable, the observed/diagnosed eddy energy signature
+can perhaps act as a target towards eﬀorts to constrain the aforementioned unknowns,
+highlighting the potential for further research relating to ocean energetic pathways and
+its consequences for climate evolution (see for example Ruan et al. (2021) for a recent
+review of research relating to ocean eddy energy pathways). ",physics.ao-ph,C,0.21349013,-0.103148475,-0.05671451
+http://arxiv.org/pdf/2204.02379v1,Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks,"This behavior is as expected, as it places
+greater weight on cirrus cloud radiative forcing. Regard-
+less, future work will focus on rigorous validation of the
+cirrus cloud parameterization, which will also include con-
+straining Υ. If cirrus cloud modulation is important, it is
+unlikely to be captured by GCMs, owing to coarse vertical
+resolution and possibly to microphysics parameterizations. ",physics.ao-ph,B,0.09864713,-0.08018194,0.29671025
+http://arxiv.org/pdf/2204.02379v2,Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks,"This behavior is as expected, as it places greater weight on
+cirrus cloud radiative forcing. Regardless, future work will
+focus on rigorous validation of the cirrus cloud parameter-
+ization, which will also include constraining Υ. If cirrus
+cloud modulation is important, it is unlikely to be captured
+by GCMs, owing to coarse vertical resolution and possibly
+to microphysics parameterizations. ",physics.ao-ph,B,0.09733458,-0.031512093,0.30968252
+http://arxiv.org/pdf/2204.04079v1,Assessing the impact of soil moisture-temperature coupling on temperature extremes over the Indian region,"The model simulation also revealed the increase in the
+impact of SM on ExTI in the future climate under the 4K warming scenario over NCI. The possible
+reason for increasing SM influence over NCI could be linked with wetning or drying of land
+surface states, however, further research needs to be carried out to evaluate such effect. The present study also evaluates the seasonal contribution of SM on ExT using PDFs of seasonal
+maxima over the NCI. ",physics.ao-ph,B,-0.15065554,-0.23038322,0.22854757
+http://arxiv.org/pdf/2204.04223v1,Non-hydrostatic modelling of the wave-induced response of moored floating structures,"Although not included in this work, the proposed model could be extended
+
+                                                                     24
+with more accurate representations of mooring lines. For example, with future work the model can be
+coupled to dynamic mooring line models (e.g., Palm et al., 2016; Hall and Goupee, 2015) to provide a more
+sophisticated representation of the mooring line dynamics. The major limitation of the proposed model is the relatively coarse schematisation of the hull of the
+ﬂoating structure due to the use of a single valued function for the vertical ﬂuid boundaries (i.e., the free-
+surface and the hull, see Section 2). ",physics.ao-ph,C,0.130218,0.06619775,-0.29741108
+http://arxiv.org/pdf/2204.05943v1,Rapid Spin Up and Spin Down of Flow Along Slopes,"Thinking of the dynamics in this way, in conjunction with boundary layer theory, is both con-
+ceptually and computationally advantageous. Extended to 3D in future work, this approach allows
+for new insight into the role of the bottom boundary layer in the dynamics of the abyssal circula-
+tion. The theory presented in this paper, however, does not lend itself to making claims about the
+large-scale context, and we do not make any eﬀort to do so. ",physics.ao-ph,C,0.3270004,-0.01461987,-0.35401547
+http://arxiv.org/pdf/2204.05946v1,Coupling Between Abyssal Boundary Layers and the Interior Ocean in the Absence of Along-Slope Variations,"If the transport is constrained to zero, this implies that
+the leading-order interior ﬂow vanishes at the bottom. These results do not generally hold in 3D,
+but we leave this generalization to future work. a. One-dimensional Asymptotics
+
+To begin the formal derivation of the 1D BL equations, we ﬁrst nondimensionalize the 1D equa-
+tions (2)–(5) in order to isolate the key parameters in the problem. ",physics.ao-ph,C,0.4836133,0.19075686,-0.28011084
+http://arxiv.org/pdf/2204.10153v1,Surface waves prediction based on long-range acoustic backscattering in a mid-frequency range,"Training (or calibration) of a model was required prior to its usage for estimations (and at this stage the
+local data was used). The fact, how does the regression model behaves towards various input data, and the correlation analysis
+results as well encourages us for the further study. The signal processing algorithm is going to be reconﬁgured
+for estimating surface state in remote points. ",physics.ao-ph,A_centroid,-0.38565838,0.1536299,-0.09237973
+http://arxiv.org/pdf/2204.10153v2,Surface waves prediction based on long-range acoustic backscattering in a mid-frequency range,"Training (or calibration) of a model was required prior to its usage for estimations (and at this stage the
+local data was used). The fact, how does the regression model behaves towards various input data, and the correlation analysis
+results as well encourages us for the further study. The signal processing algorithm is going to be reconﬁgured
+for estimating surface state in remote points. ",physics.ao-ph,A,-0.38565838,0.1536299,-0.09237973
+http://arxiv.org/pdf/2204.10353v2,Invariants and chaos in the Volterra gyrostat without energy conservation,"Circumscribing the
+possibilities for dynamics when this sum of quadratic coeﬃcients δ is nonzero is an open question. Since
+chaos cannot arise when δ = 0, it might serve naturally as a bifurcation parameter inviting further study. It is also important to consider the origin of nonzero δ in the conservative core of models having these
+structures (e.g. ",physics.ao-ph,C,0.40443778,0.16545056,-0.20874503
+http://arxiv.org/pdf/2204.10659v1,Evaluating the Reliability of Air Temperature from ERA5 Reanalysis Data,"Section V sums
+                                                soumyabrata.dev@ucd.ie). Y. H. Lee is with the School of Electrical          up the conclusions and future work. and Electronic Engineering, Nanyang Technological University, Singapore
+                                                (e-mail: EYHLee@ntu.edu.sg). ",physics.ao-ph,A,0.013096971,0.37651068,0.094482794
+http://arxiv.org/pdf/2205.00202v1,Explainable Artificial Intelligence for Bayesian Neural Networks: Towards trustworthy predictions of ocean dynamics,"Finally, we recommend that for trustworthy explainability results for more complex covariance struc-
+tures, a BNN should be used along with one model-intrinsic XAI technique, like LRP and one model-
+agnostic XAI technique like SHAP, so as to consider both neural network model properties and output
+sensitivity. For an accurate and robust network, we would expect the similarities between the two XAI
+techniques to dominate and the diﬀerences to highlight areas that require further analysis, thus being of
+valuable use to practitioners and might hint at new scientiﬁc hypotheses. Data Availability Statement
+
+The relevant code for the explainable Bayesian THOR framework presented in this work is preserved at
+Clare et al. ",physics.ao-ph,A,-0.20766938,0.22277828,-0.06531828
+http://arxiv.org/pdf/2205.00766v1,A novel approach for deriving the stable boundary layer height and eddy viscosity profiles from the Ekman equations,"In addition, we provide novel derivations for
+                                                          eddy viscosity proﬁles in the SBL. In our future work, we
+                                                          will extend our analytical approach to derive geostrophic
+                                                          drag laws for SBLs. γ1 =    3√2 κ . ",physics.ao-ph,C,0.41181177,-0.0922582,-0.21298654
+http://arxiv.org/pdf/2205.02268v1,Visualization of Model Parameter Sensitivity along Trajectories in Numerical Weather Predictions,"Q1: Do             vective trajectories within the extratropical cyclone ”Vladiana”. We
+similar trends regarding single sensitivities and state variables occur          conclude the paper with a summary of our main contributions and ideas
+across a group of selected trajectories; Q2: Do different sensitivities          for future work. and state variables show similar statistical characteristics across a se-        2 RELATED WORK
+lected trajectory group; Q3: How do sensitivities depend on the time             The workﬂow and techniques we propose are related to multi-parameter
+and location along the trajectories, and how are they related to, e.g.,          and ensemble visualization techniques, as well as feature-based visual-
+surface precipitation and cloud formation; Q4: Do coherent sensitivity           ization in meteorology. ",physics.ao-ph,B,-0.15755856,-0.36530173,-0.05866523
+http://arxiv.org/pdf/2205.04296v1,AODisaggregation: toward global aerosol vertical profiles,"Such addition would be particularly welcome as it would
+allow to predict aerosol vertical proﬁles even at locations where AOD is not observed but vertically resolved predictors
+are. In future work we intend to apply our model to AOD arising from satellite observations and meteorological predictors
+from reanalysis data. Since observations of groundtruth extinction coefﬁcient are not available in 2D satellite products,
+we intend to collocate observations from MODIS 2D AOD product [11] with CALIOP vertical lidar measurements [15]
+to validate the model. ",physics.ao-ph,B,-0.033276632,-0.2887348,0.117755696
+http://arxiv.org/pdf/2205.04296v2,AODisaggregation: toward global aerosol vertical profiles,"Such addition would be particularly welcome as it would
+allow to predict aerosol vertical proﬁles even at locations where AOD is not observed but vertically resolved predictors
+are. In future work we intend to apply our model to AOD arising from satellite observations and meteorological predictors
+from reanalysis data. Since observations of groundtruth extinction coefﬁcient are not available in 2D satellite products,
+we intend to collocate observations from MODIS 2D AOD product [11] with CALIOP vertical lidar measurements [15]
+to validate the model. ",physics.ao-ph,B,-0.033276632,-0.2887348,0.117755696
+http://arxiv.org/pdf/2205.07933v1,Modeling wind-responsive diurnal sea surface temperature for cloud-resolving simulations,"Our model produces agreeing results for the given case study. To further study how diurnal SST warming impacts the atmospheric convection,
+our model can be coupled to cloud-resolving models. Recently, we implemented our
+upper ocean model as an interactive lower boundary condition in the System for At-
+mospheric Modeling (SAM) model. ",physics.ao-ph,B_centroid,0.03663857,-0.33591822,0.047878537
+http://arxiv.org/pdf/2205.07933v2,Modeling wind-responsive diurnal sea surface temperature for cloud-resolving simulations,"Our model produces agreeing results for the given case study, both when assuming
+qv = 15 g kg−1 and 10 g kg−1. To further study how diurnal SST warming impacts the atmospheric convection,
+our model can be coupled to cloud-resolving models. Recently, we implemented our
+upper ocean model as an interactive lower boundary condition in the System for Atmo-
+spheric Modeling (SAM) model (Khairoutdinov & Randall, 2003). ",physics.ao-ph,B,0.099244654,-0.302571,0.07206816
+http://arxiv.org/pdf/2205.14646v1,The role of ecosystem transpiration in creating alternate moisture regimes by influencing atmospheric moisture convergence,"This suggests that dE/dP can appear roughly time-scale invariant at least at characteristic precipitation
+rates. These patterns require further study. 3.2 Ecosystem’s two moisture regimes
+
+Using the dependence P (W ) (Fig. ",physics.ao-ph,B,0.022576008,-0.1999021,0.16706884
+http://arxiv.org/pdf/2205.14646v2,The role of ecosystem transpiration in creating alternate moisture regimes by influencing atmospheric moisture convergence,"25
+With two new tables and three new ﬁgures, we have thoroughly re-structured the presentation of our results aiming at maximum
+clarity and disambiguation. We agree with our reviewers that there are many unsolved questions highlighted by the new
+approach that require further study. At the same time, we are convinced that there is abundant and mature evidence to re-
+consider the prevailing view that any change in the water cycle except the moisture recycling by plants, is abiotic. ",physics.ao-ph,B,-0.08360284,-0.106803544,0.27632308
+http://arxiv.org/pdf/2206.00060v1,Universal Early Warning Signals of Phase Transitions in Climate Systems,"Although the performance statis-
+tics in Fig. B1 are encouraging, considering that the Ising-trained CNN-LSTM
+represents a new and unreﬁned approach to the problem, a proper comparison
+would require considerable ﬁne-tuning of both techniques, which we leave to
+future work. 1.2     2nd-Order Ising Trans. ",physics.ao-ph,A,-0.21284741,0.42603666,-0.012219425
+http://arxiv.org/pdf/2206.00060v2,Universal Early Warning Signals of Phase Transitions in Climate Systems,"2 are encourag-
+approaches to the same Ising model        ing, considering that the Ising-trained
+data set. CNN-LSTM represents a new and
+                                          unreﬁned approach to the problem,
+    Classiﬁcation for the traditional     a proper comparison would require
+indicators was carried out by apply-      considerable ﬁne-tuning of both tech-
+ing a discrimination threshold to the     niques, which we leave to future work. Kendall τ statistic, used as a robust
+proxy for the strength of monotonic
+trends, following the example of [25]. ",physics.ao-ph,A,-0.2570054,0.3800977,-0.0053932276
+http://arxiv.org/pdf/2206.01406v1,Modeling the seasonal variability and the governing factors of Ocean Acidification over the Bay of Bengal region,"The seasonality in SSS
+and SST also aﬀects the sea-surface pH of BoB. As SSS has a signiﬁcant role in modulating the
+seasonality of pH in the BoB region, further analysis on the eﬀect of stratiﬁcation and barrier
+layer over the pH becomes highly important. 17
+3.3. ",physics.ao-ph,B,0.11915966,-0.046542443,0.330827
+http://arxiv.org/pdf/2206.04015v1,Improving trajectory calculations using deep learning inspired single image superresolution,"Here, the problem can be interpreted as increasing the frame rate in a given video clip, with the native
+resolution given by the temporal resolution as made available by numerical weather prediction centres. We are presently working on this problem as well, and the results will be presented in future work. Subsequently, spatial and temporal resolution improvements can be combined to provide a seamless way
+to increase the overall resolution of meteorological ﬁelds for a variety of spatio-temporal interpolation
+problems. ",physics.ao-ph,B,-0.18933386,-0.18398963,-0.13763824
+http://arxiv.org/pdf/2206.06649v1,A Simple Multiscale Intermediate Coupled Stochastic Model for El Niño Diversity and Complexity,"It also involves spatially-extended structures, which allow a better understanding and potentially an
+improved forecast of the spatiotemporal patterns. A few important topics are remained as future work. First, the intraseasonal model adopted here is a one-dimensional
+simple stochastic process, where the spatial structure is prescribed and ﬁxed. ",physics.ao-ph,B,-0.10325088,-0.11230917,-0.34959847
+http://arxiv.org/pdf/2206.14739v1,Non-precipitating shallow cumulus convection is intrinsically unstable to length-scale growth,"At the mesoscales, which are far removed
+from their action on the smallest, resolved scales, their direct eﬀects are small. Nevertheless, their
+inﬂuence in setting the ﬂuxes which drive the model is non-trivial, as we will show in future work. Making these assumptions and applying a mesoscale ﬁlter to the resulting equation results in
+eq. ",physics.ao-ph,C,0.4090978,0.056964695,-0.14478548
+http://arxiv.org/pdf/2207.02191v1,Conditional generation of cloud fields,"We utilize the “clean”
+IR longwave window (Advanced Baseline Imager Band 13)
+                                                                   as well as the unedited, L1b, outputs of new generation of
+                                                                   geostationary satellites. For the rest of this section, we discuss our current and
+                                                                   future work, as well as potential implications and challenges
+                                                                   ahead. We provide the full code for the CGAN model ar-
+                                                                   chitecture and a sample dataset for reproducibility [22]. ",physics.ao-ph,B,-0.15521437,-0.007006217,0.23472032
+http://arxiv.org/pdf/2207.03978v1,2n-Stream Conservative Scattering,"Here we show how to get around this problem. For further analysis we will assume that η0 = 0 and we will ﬁnd 2n independent solutions
+of (50), which we denote by |v1), |v2), |v3), . . ",physics.ao-ph,C,0.29379407,0.20267758,-0.075393245
+http://arxiv.org/pdf/2207.03993v1,Implications of Modeling Seasonal Differences in the Extremal Dependence of Rainfall Maxima,"Furthermore, previous studies have shown that rain gauge networks are typically too
+scarce to resolve convective cells properly [Lengfeld et al., 2019]. Thus, in order to get a better representation of the
+spatial dependence, future work should make use of radar networks to complement rain gauge data. A signiﬁcant
+limitation of our work was the use of the pairwise likelihood instead of the full likelihood of the Brown-Resnick model
+within the Bayesian framework. ",physics.ao-ph,B,-0.3164932,-0.3639085,-0.09224577
+http://arxiv.org/pdf/2207.03993v2,Implications of Modeling Seasonal Differences in the Extremal Dependence of Rainfall Maxima,"Furthermore, previous studies have shown that rain gauge networks are typically too
+scarce to resolve convective cells properly [Lengfeld et al., 2019]. Thus, in order to get a better representation of the
+spatial dependence, future work should make use of radar networks to complement rain gauge data. A signiﬁcant
+limitation of our work was the use of the pairwise likelihood instead of the full likelihood of the Brown-Resnick model
+within the Bayesian framework. ",physics.ao-ph,B,-0.3164932,-0.3639085,-0.09224577
+http://arxiv.org/pdf/2207.06869v1,Respiration driven CO2 pulses dominate Australia's flux variability,"2A). For further analysis,
+we use TM5-4DVAR to assimilate the GOSAT CO2 data together with the ground-based in-situ
+observations (Fig. 2A and 2B). ",physics.ao-ph,B,0.03995661,-0.017574567,0.4713428
+http://arxiv.org/pdf/2207.06869v2,Respiration driven CO2 pulses dominate Australia's flux variability,"2A). For further analysis,
+we use TM5-4DVAR to assimilate the GOSAT CO2 data together with the ground-based in-situ
+observations (Fig. 2A and 2B). ",physics.ao-ph,B,0.03995661,-0.017574567,0.4713428
+http://arxiv.org/pdf/2207.09386v1,Inertia-gravity-wave diffusion by geostrophic turbulence: the impact of flow time dependence,An analogous evaluation of ∗ requires the acceleration spectrum of the geostrophic ﬂow. We leave this computation for future work. 4. ,physics.ao-ph,C,0.34410852,0.026396902,-0.21882737
+http://arxiv.org/pdf/2207.09386v2,Inertia-gravity-wave diffusion by geostrophic turbulence: the impact of flow time dependence,An analogous evaluation of ∗ requires the acceleration spectrum of the geostrophic ﬂow. We leave this computation for future work. 4. ,physics.ao-ph,C,0.34410852,0.026396902,-0.21882737
+http://arxiv.org/pdf/2207.11440v1,The horizontal profile of the atmospheric electric fields as measured during thunderstorms by the network of NaI spectrometers located on the slopes of Mt. Aragats,"7. From the left panel the real-time data and/or stored
+data can be chosen, i.e., count rates and energy releases histograms for the further analysis and
+consequent electronics parameters tuning. Figure 7. ",physics.ao-ph,A,-0.26453626,0.48224527,0.18198563
+http://arxiv.org/pdf/2207.11440v2,The horizontal profile of the atmospheric electric fields as measured during thunderstorms by the network of NaI spectrometers located on the slopes of Mt. Aragats,"7. From the
+left panel the real-time data and/or stored data can be chosen, i.e., count rates and energy releases
+histograms for further analysis and consequent electronics parameters tuning. Figure 7. ",physics.ao-ph,A,-0.27611592,0.47399247,0.17407855
+http://arxiv.org/pdf/2207.14598v1,Climate Change Modelling at Reduced Float Precision with Stochastic Rounding,"Areas of the model which            rounding error using 12 signiﬁcand bits was negligible
+                                                notably improve due to the inclusion of stochastic over       and did not disrupt the long term climatology, whilst
+                                                deterministic rounding are also explored and discussed. model accuracy could be maintained with acceptably
+                                                Whilst further research is necessary to extended these        minor errors emerging at 10 signiﬁcand bits. They also
+                                                results to more complex and higher resolution mod-            brieﬂy consider alternative rounding modes, beyond
+                                                els, they indicate that reduced precision techniques and      the standard deterministic “round-to-nearest”. ",physics.ao-ph,A,-0.11852889,0.2590756,-0.00038226694
+http://arxiv.org/pdf/2207.14679v1,Leveraging data from nearby stations to improve short-term wind speed forecasts,"Because of the small geographical extent of the area
+associated with the KNMI data, we were unable to address this question within the current work. Since one of our main message is that increasing the number of spatial locations we account for as
+input in the prediction is likely to increase the model forecasting performances, in a further study,
+we also plan to utilize the whole 2D velocity ﬁeld as provided by the output of the high-resolution
+
+                                                         19
+numerical weather prediction model. Acknowledgment
+    This work was partially supported by ANR grant SAPHIR project ANR-21-CE04-0014-03. ",physics.ao-ph,B,-0.24951488,-0.31163055,-0.18928832
+http://arxiv.org/pdf/2207.14679v2,Leveraging data from nearby stations to improve short-term wind speed forecasts,"This might be explained by the fact that the model’s largest
+errors are obtained when one observes strong wind conditions. A precise answer to this question
+will be considered in future work. 250
+
+                            200
+
+                            150
+
+                            100
+
+                              50
+
+                               0
+                                    012345678
+                                                     forecast horizon (hour)
+
+Figure 9: For each forecast horizon h from 1 to 7 hours, one has reported the distance D between the studied station
+“Leeuwarden” (270) and the site added as input and which gives the smallest RMSE when the wind comes from the
+South-West. ",physics.ao-ph,B,-0.0038393345,-0.14753357,-0.012903304
+http://arxiv.org/pdf/2208.00971v1,Probabilistic forecasts of extreme heatwaves using convolutional neural networks in a regime of lack of data,"It is however useful, in order to reduce the memory request and the training time by
+about a factor 10. One may wonder if the similar conclusion can be reached for other types of extremes, which could
+be the subject of future work. 25
+
+FIG. ",physics.ao-ph,A,-0.23260686,0.34186754,-0.0447435
+http://arxiv.org/pdf/2208.02383v1,A new paradigm for medium-range severe weather forecasts: probabilistic random forest-based predictions,"However,         FIs for both the Central and East models are markedly
+since these FIs are a summation over all meteorological          smaller than the thermodynamic variable contributions. predictors, it is not clear what aspects of the environment      A full explanation for these FI patterns is reserved for
+prior to a severe weather event are being learned by the         future work, but as an initial assessment, the FIs highlight
+RFs to make day 6 predictions. unique regional and meteorological relationships learned
+                                                                 by the experimental models that were exploited by the
+   To further clarify the day-prior FIs, features and FIs are    RFs to make severe weather predictions. ",physics.ao-ph,B,-0.2170107,-0.34900516,0.04251882
+http://arxiv.org/pdf/2208.05966v1,Enhancing Oceanic Variables Forecast in the Santos Channel by Estimating Model Error with Random Forests,"Finally, Section 6 presents our conclusions and
+                                                and boundary conditions. highlights future work. An alternative to numerical models is to use machine learn-       2 Related Work
+                                                ing (ML) to infer patterns in previous data measured in the
+                                                region of interest and thus provide a forecast based only on         PIML is a relatively recent but already vast ﬁeld of study;
+                                                the interpolation and extrapolation of those patterns observed       review articles such as those by [Willard et al., 2020] and
+                                                in the past. ",physics.ao-ph,B,-0.3343436,-0.039070837,-0.24647695
+http://arxiv.org/pdf/2208.06243v1,Semi-automatic tuning of coupled climate models with multiple intrinsic timescales: lessons learned from the Lorenz96 model,"The non-uniqueness
+of parameters, for a given model code and speciﬁc metrics, is an emergent property of
+GCMs (Hourdin et al., 2022) that must be discussed in the context of CMIP exercises. 5 Conclusion and future work
+
+       We ﬁnd that the L96 system can indeed shed light on certain aspects of the cal-
+ibration of coupled models with two intrinsic timescales, providing lessons for the use
+of HM or other objective calibration methods in GCM development. The key ﬁndings
+of this paper can be summarized as follows. ",physics.ao-ph,B,-0.1065153,0.28244457,0.1471324
+http://arxiv.org/pdf/2208.06243v2,Semi-automatic tuning of coupled climate models with multiple intrinsic timescales: lessons learned from the Lorenz96 model,"The non-uniqueness
+of parameters, for a given model code and speciﬁc metrics, is an emergent property of
+GCMs (Hourdin et al., 2022) that must be discussed in the context of CMIP exercises. 5 Conclusion and future work
+
+       We ﬁnd that the L96 system can indeed shed light on certain aspects of the cal-
+ibration of coupled models with two intrinsic timescales, providing lessons for the use
+of HM or other objective calibration methods in GCM development. The key ﬁndings
+of this paper can be summarized as follows. ",physics.ao-ph,B,-0.1065153,0.28244457,0.1471324
+http://arxiv.org/pdf/2208.08275v1,The role of internal variability in global climate projections of extreme events,"The QDM has an impact on
+the variance partitioning but the effect are non-systematic. This suggests that further analysis would be required to make any
+conclusive statements. We did not perform the QDM globally, because the algorithm is quite computationally expensive. ",physics.ao-ph,A,-0.02422269,0.31088227,0.09344889
+http://arxiv.org/pdf/2208.11766v1,Boundary constraints on the large-scale ocean circulation,"(d) Characterisation of density, potential
+temperature and salinity along the sloping continental boundaries around the Atlantic and
+Antarctic continent, using a boundary mapping algorithm. This chapter summarises the ﬁndings of the thesis in a broader oceanographic context,
+and outlines opportunities for further study. Due to the increasing prevalence of models with
+1/4◦ spatial resolution within the latest GCMs, we draw conclusions for the HadGEM-GC3.1
+1/4◦ model in particular from across the thesis. ",physics.ao-ph,B,0.039758977,-0.07111423,0.041278526
+http://arxiv.org/pdf/2208.13140v1,Revisiting the definition of rapid intensification of tropical cyclones by clustering the initial intensity and inner-core size,"However, the curves for the diﬀerent initial inten-
+sities did not converge until ∆V24 was above the 97th percentile (approximately 40 kt/24h). This discrepancy partially justiﬁes the need for further examination of the statistical RI
+thresholds. Intensiﬁcation is likely strongly inﬂuenced by initial state of the vortex, which are
+reﬂected in part by the initial intensity and size. ",physics.ao-ph,C,0.2308352,0.058974765,-0.014435952

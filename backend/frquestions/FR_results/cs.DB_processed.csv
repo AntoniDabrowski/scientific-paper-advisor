@@ -1,0 +1,1358 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00561v1,Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction,"For creating the work-
+knob tuning. However, while all these directions are interesting,       load, the generator supports three modes: a standard mode where
+they are beyond the scope of this paper and represent avenues of        Select-Project-Aggregate-Join (SPAJ) queries with conjunctive pred-
+future work. icates on numeric and categorical columns similar to the ones used
+                                                                        by Kipf et al. ",cs.DB,C,-0.03793205,0.088671446,0.055529036
+http://arxiv.org/pdf/2201.00618v1,Jekyll RDF: Template-Based Linked Data Publication with Minimized Effort and Maximum Scalability,"As we extended Jekyll for our prototype we can benefit from the big ecosys-
+tem of plugins to enrich the created site. For the future work the performance of
+the generation process can be improved by an incremental build process to reuse
+pages from previous builds. To increase the usability of the presented method
+as a SCMS a set of predefined themes to be used with Jekyll RDF can support
+users, as shown by JOD. ",cs.DB,C,-0.10991292,0.06040226,-0.17593175
+http://arxiv.org/pdf/2201.01209v1,Speech-to-SQL: Towards Speech-driven SQL Query Generation From Natural Language Question,"To further improve the performance, an
+                                                                          advanced rescoring mechanism named L2RS [54, 55], integrated
+speech-to-SQL, over complicated SQL cases are not included and            with BERT [17], is also adopted in the 𝑁 -best rescoring step. We
+we leave them for future work. employ the widely-used metric, Word Error Rate (WER), as the
+                                                                          main indicator for the performance of the constructed ASR model. ",cs.DB,C,-0.084088586,0.056358866,-0.16487531
+http://arxiv.org/pdf/2201.03643v1,Designing a Visual Tool for Property Graph Schema Extraction and Refinement: An Expert Study,"Finally, we found that a simple graph visualization was deemed su cient to explore the
+schema in most cases. Our results may stimulate future work on the design, implementation, and analysis of schema
+extraction tools. The world of graph data management is evolving quickly, and we believe
+that more tools around graph schema are necessary to meet the needs of data engineers,
+data scientists, and knowledge scientists everywhere. ",cs.DB,C,-0.3148688,0.24996975,-0.074349046
+http://arxiv.org/pdf/2201.04166v1,Degree Sequence Bound For Join Cardinality Estimation,"Assume that each 𝒂𝑝 is some (𝑠𝑝, 𝑘𝑝 )-
+   For the second result we will restrict our discussion to the case                                  polynomial, and each 𝐹𝑝 is some (𝑡𝑝, 1)-polynomial, then we show
+when the max tuple multiplicity is 𝐵 (𝑅) = ∞, and describe a simple                                   in Appendix A.6 that 𝒘ˆ is an (𝑠, 𝑘)-polynomial, where 𝑠 = 𝑝 𝑠𝑝 +
+
+formula for approximating the main step of Algorithm 2; we leave                                        𝑝 𝑡𝑝 and 𝑘 = 𝑝 𝑘𝑝 . More generally, we prove the following in
+
+the case 𝐵 (𝑅) < ∞ for future work. In the rest of this section                                       Appendix A.6:
+
+we denote a vector element by 𝐹 (𝑖) rather than 𝐹𝑖 , and set, by                                      7      define   it  as  follows:  if  ∃𝑖  s.t. ",cs.DB,A,0.10245931,-0.04761433,0.44546145
+http://arxiv.org/pdf/2201.04233v1,Finding Your Way Through the Jungle of Big Data Architectures,"html (visited on 11/19/2021). In future work, we want to cover further architecture
+
+paradigms such as Lambda and Kappa architectures, ex-
+
+tend the model to clearly show the dependencies and
+
+shared elements – leading ultimately to a pattern system
+
+similar to the GoF’s software design patterns [11]. This
+
+will involve introducing also other common elements of
+
+pattern templates like “context”, “problem” and “solution”,
+
+which will then provide guidance for choosing the right
+
+architecture paradigms. ",cs.DB,C,-0.11788235,0.1040948,-0.11047767
+http://arxiv.org/pdf/2201.04409v1,Enlightening Flash Storage to Stream Writes by Objects,"We  stream-write-by-time for normal writes. leave such an interesting optimization topic as future work. Read While FlashAlloc aims at reducing WAF by controlling                                                              Jong-Hyeok Park Gihwan Oh Sang-Won Lee
+the placement of writes into different blocks by objects, its read
+operation will proceed exactly same as in the conventional page-         one region grows while the other shrinks. ",cs.DB,B,0.40419883,-0.13305421,-0.16188096
+http://arxiv.org/pdf/2201.04899v1,An outline of multi objective optimization in databases with focus on flexible skyline queries,"This technique
+consists in ranking queries with a particular scoring function which, considering a tuple t consists in the
+count of tuples dominated by t. An optimized algorithm has been provided too. A further study [13] has presented uncertain top-k queries (UTK) in which, instead of avoiding the
+weighted approach, the provided algorithm takes into account the weight uncertainties. The resulting query
+works using the concept of dominance and tries to include in the result set also interesting results within a
+certain range from the combination of weights. ",cs.DB,A,-0.029796738,-0.016406486,0.35459256
+http://arxiv.org/pdf/2201.04905v1,A Formal Category Theoretical Framework for Multi-model Data Transformations,"Informally, the
+natural transformation in the example could be understood so that for each
+object in the relational schema category, we have a mapping that tells how the
+corresponding relational data object in the category Set is mapped to the graph
+data object in the category Set. 5 Conclusions and future work
+
+When the variety and amount of data grows, the need for polystores and multi-
+model databases is urgent. The efficient utilization of the systems requires a pre-
+cise theory of how the systems operate and how they are modeled. ",cs.DB,C,-0.26819018,0.31468785,-0.07756977
+http://arxiv.org/pdf/2201.05021v1,Robustness against Read Committed for Transaction Templates with Functional Constraints,"As argued in Section 2,
+    incorporating functional constraints can detect larger sets of templates to be robust and
+    requires less R-operations to be promoted to U-operations. In future work, we plan to look
+    at lower bounds, restrictions that lower complexity, and consider other referential integrity
+    constraints to further enlarge the modelling power of transaction templates. B. Vandevoort, B. Ketsman, C. Koch, and F. Neven                                                  17
+
+      References
+
+ 1 Atul Adya, Barbara Liskov, and Patrick E. O’Neil. ",cs.DB,C,-0.018439973,0.1060338,0.10241227
+http://arxiv.org/pdf/2201.05021v2,Robustness against Read Committed for Transaction Templates with Functional Constraints,"As argued in Section 2,
+incorporating functional constraints can detect larger sets of templates to be robust and
+requires less R-operations to be promoted to U-operations. In future work, we plan to look
+at lower bounds, restrictions that lower complexity, and consider other referential integrity
+constraints to further enlarge the modelling power of transaction templates. Acknowledgment
+This work is funded by FWO-grant G019921N. ",cs.DB,C,-0.002448067,0.12271987,0.07697986
+http://arxiv.org/pdf/2201.05566v1,Ranked Enumeration of Join Queries with Projections,"Our work considers the class of CQs             when compared to popular open-source RDBMS and specialized
+with arbitrary projections and we are also able to extend the main             graph engines. This work opens up several exciting future work
+result to UCQs, an even broader class of queries. Naturally, our               challenges. ",cs.DB,B,-0.041179337,0.43175545,0.22176297
+http://arxiv.org/pdf/2201.05566v2,Ranked Enumeration of Join Queries with Projections,"A key limitation of these works is that it expects the input         graph engines. This work opens up several exciting future work
+to be materialized, i.e., 𝑄 (𝐷) must already be computed and stored         challenges. The first important problem is to extend our results
+for the algorithm to perform random access. ",cs.DB,B,0.06661366,0.1470165,0.23364563
+http://arxiv.org/pdf/2201.05797v1,Finding Label and Model Errors in Perception Data With Learned Observation Assertions,"We note the density estimators have hyperparameters. We have
+                                                                                       found that default hyperparameters work in all cases we tried, so
+   To fit these feature distributions, Fixy takes as input scalar or                   we defer exploring hyperparameters to future work. vector valued features over OBTs. ",cs.DB,A,-0.042650748,-0.27300185,-0.08609214
+http://arxiv.org/pdf/2201.05929v1,Characterizing Big Data Management,"The process
+affects how to generate, store, and retrieve data, and its presentation and visualization. The difficulties and challenges in the field of engineering and the semantic value that can be
+provided by big data reflect numerous future works in this area. As engineering issues, the
+necessary infrastructure for big data environment and its integration is presented as a fundamental
+aspect. ",cs.DB,C,-0.17319022,0.24609886,-0.31330776
+http://arxiv.org/pdf/2201.06310v1,A survey study of success factors in data science projects,"production, and d) data security and privacy. Comparing the results from the common factor analysis with
+                                                                                                      the authors’ a priori determined weights, it can be observed
+Professionals address to DS methodology                     Yes                  No   Depends on the project                                                                                                                    Factor 1 (Team)  Factor 2 (Data) Factor 3 (Project)
+                                                                                                                                                                        Version control for code, data & models
+Precisely describe stakeholders needs                                                                 4.21 4.40 4.46
+
+Communicating the results to end-users                                                                4.25 4.26 4.47                                                    Team collaboration and coordination
+
+Team collaboration and coordination                                                        3.98 4.04 4.12                                                               Proactive team communication
+
+Develop a strategy to meet project                                                    3.88 4.02 4.10                                                                    Precisely describe stakeholders needs
+                            requirements                                              3.96 4.00 4.04
+                                                                                                                                                                        Identify project potential risks and pitfalls
+    Proactive team communication
+
+         Identify project potential risks and                                        3.77 3.88        4.19    ✱                                                         Harness knowledge for future work
+                                             pitfalls
+                                                                                 3.73 3.74            4.21    ✱                                                         Establishing timelines and deliverables
+ Version control for code, data & models
+
+        Deployment pipeline to production
+
+Understanding each team member skills
+                                           and role
+
+  Establishing timelines and deliverables
+Factor                                                                     3.54
+                                                                                                                                                                Factor
+                                                                                      3.79 3.96               ✱
+
+                                                                                                                                                                        Develop a strategy to meet project requirements
+
+                                                                                3.69 3.75 3.81
+
+                                                                                                                                                                        Deployment pipeline to production
+
+                                                                           3.51       3.82 3.85
+
+                                                                                                                                                                        Define a data lifecycle workflow
+
+Data security and privacy                                                  3.52 3.63        3.91              ✱
+
+                                                                                                                                                                                           Data visualization tools
+
+Define a data lifecycle workflow                                           3.52 3.54 3.82
+
+                                                                                                                                                                        Data security and privacy
+
+Harness knowledge for future work                                          3.49 3.65 3.75
+
+                                                                                                                                                                        Data augmentation or metadata enrichment
+
+Data visualization tools                                    3.51 3.56 3.65
+
+                                                                                                                                                                        Communicating the results to end−users
+
+                                                           3.04 3.10 3.23                                                                                                                                                0.0  0.5                0.0  0.5             0.0  0.5
+Data augmentation or metadata enrichment
+
+                                                       3.0                 3.5                   4.0          4.5                                                       A priori assigned  Factor analysis                                       Normalized loadings
+
+                                                                                     Score
+
+Fig. 4. ",cs.DB,C,-0.19776958,-0.13385662,-0.29064706
+http://arxiv.org/pdf/2201.07103v1,Simplified Algorithms for Order-Based Core Maintenance,"The experiments show that our approach significantly
+                                                                                   outperforms the existing methods. In future work, we can parallelize our approach to run on multi-
+                                                                                   core machines. The key issue is how to implement the parallel
+                                                                                   Order Data Structure efficiently. ",cs.DB,B,0.36282668,0.17195986,-0.082167245
+http://arxiv.org/pdf/2201.07866v1,A Practical Approach of Actions for FAIRification Workflows,"To systematize some of the established actions, we
+experimented and analyzed potential solutions to support FAIRification. The remainder of this paper is organized as follows: Section 2 presents an overview
+of the FAIRification workflow; Section 3 describes the actions established for each step
+of the workflow for the VODAN BR pilot; Section 4 presents support solutions ana-
+lyzed during the study of the steps, aiming at the systematization of the process; Section
+5 presents a discussion about the relevant aspects treated in this work and concludes
+with final comments for future work. 2 FAIRification Workflow
+
+4 https://rd-alliance.org/
+5 https://world-datasystem.org/
+6 https://go-fair.org/wp-content/uploads/2020/03/Data-Together-COVID-19-Statement-FINAL.pdf
+7 https://www.go-fair.org/implementation-networks/overview/vodan/
+8 https://www.go-fair-brasil.org/saude
+9 https://portal.fiocruz.br/en/vodan-brazil
+                                                                                                                  3
+
+The generic workflow proposed in [4] aims to facilitate the FAIRification process com-
+prising three defined phases: pre-FAIRification, FAIRification and post-FAIRification. ",cs.DB,C,-0.018886492,-0.09382324,-0.14865431
+http://arxiv.org/pdf/2201.07944v1,Cost-Effective Algorithms for Average-Case Interactive Graph Search,"Constructing a ﬂexible
+the other hand, as shown in Fig. 3(c), the cost-sensitive greedy       strategy that properly balances the trade-off is an interesting
+algorithm will ﬁrst select node 4 rather than node 3, since            problem, and we leave it as the future work. p(G4)cp((4G) \G4) = 0.25×1 0.75 = 0.1875 while p(G3)cp((3G) \G3) =
+0.5×5 0.5 = 0.05. ",cs.DB,A,0.24391294,-0.15085351,0.4258862
+http://arxiv.org/pdf/2201.07993v1,Serializable HTAP with Abort-/Wait-free Snapshot Read,"In
+systems. Moreover, our approach prevents read-only transactions              Section 7, we conclude this paper with future work. from waiting while executing transactions in real time on OLTP. ",cs.DB,B,0.29827386,0.104761586,-0.22154464
+http://arxiv.org/pdf/2201.07993v2,Serializable HTAP with Abort-/Wait-free Snapshot Read,"In
+systems. Moreover, our approach prevents read-only transactions              Section 7, we conclude this paper with future work. from waiting while executing transactions in real time on OLTP. ",cs.DB,B,0.29827386,0.104761586,-0.22154464
+http://arxiv.org/pdf/2201.10442v2,Serving Deep Learning Models with Deduplication from Relational Databases,"hashmap materialization, asynchronous scheduling, and ahead-of-
+Approach-2. We can also leverage the index to facilitate model                                                                        time query compilation, which we will study in our future works. updates at a fine-grained level. ",cs.DB,B,0.26851445,0.33080208,-0.11609738
+http://arxiv.org/pdf/2201.11524v1,Probabilistic Query Evaluation with Bag Semantics,"To formally argue about the complexity of some natural distributions such as the
+Poisson distribution, irrational probabilities or parameters have to be supported. This
+yields non-trivial complexity theoretic questions that we leave for future work. 6Alternatively, using [19, Theorem 2.2], the statement of Theorem 5.14 also holds if Rep to supports
+  Pλ(0) = 0 and Pλ′ (0) ∈ (0, 1)Q. ",cs.DB,A,-0.04552205,-0.20246609,0.25789338
+http://arxiv.org/pdf/2201.11650v3,Incremental Mining of Frequent Serial Episodes Considering Multiple Occurrences,"In the future,
+we plan to further extend it by considering the condensed representation such
+as maximum patterns and closed patterns in the context of incremental mining. One immediate future work is to extend these results in conjunction with our
+previous works [18,19] for fair pattern mining. A relevant avenue is to investi-
+gate the ubiquitous graph data representation [14,20] with unique challenges for
+example the independent and identically distributed (IID) data distribution. ",cs.DB,A,-0.12215709,-0.0018161573,0.11977564
+http://arxiv.org/pdf/2201.12038v2,A survey on flexible/restricted skyline and their applicability,"3
+                A
+
+2,5
+
+2                     𝜀
+
+1,5                   B
+
+1          B'                           C
+
+0,5
+
+0
+
+     0         0,5       1     1,5         2     2,5
+
+Given the dataset, with 4 tuples the graph shows how the 𝜀 parameter changes the dominance relation
+between the tuples, B’ now dominates A. 3
+
+2,5                                     R2
+
+2              R1
+
+1,5                                              R3
+
+1       𝜀
+
+              A                R4
+0,5
+
+0𝜀
+
+     0           0,5        1      1,5        2       2,5  3
+
+                                                           7
+   In this graph, each section R1-4 is the minimum region that contains a set of tuples and A is the chosen
+tuple to analyse, the grey areas are the regions in which if there is a tuple it will dominate the tuple A.
+It’s easy to see that regions 2 and 3 are dominated by A since their lower-left corner is dominated by A
+instead regions 1 and 4 need a further analysis since it’s possible that a tuple in those regions is in the
+effecting region and so dominating A, in fact, in R4 there will be for sure a tuple that dominates A since
+one of its sides is inside the affecting region and by definition a tuple will be there. 7 Comparison
+
+   We compare the general properties of the 5 showed technics, the 3 properties that will be analysed will
+be:
+
+        • Personalization: if it’s possible to insert user preferences into the operator. ",cs.DB,A,-0.12385215,-0.13915901,0.37964636
+http://arxiv.org/pdf/2201.12038v3,A survey on flexible/restricted skyline and their applicability,"Example 3.1
+
+    3
+                  A
+
+  2,5
+
+2                     𝜀
+
+1,5                   B
+
+1          B'                           C
+
+0,5
+
+0
+
+     0         0,5       1     1,5         2     2,5
+
+Given the dataset, with 4 tuples the graph shows how the 𝜀 parameter changes the dominance relation
+between the tuples, B’ now dominates A. Example 3.2
+
+3
+
+2,5                                     R2
+
+2              R1
+
+1,5                                              R3
+
+1       𝜀
+
+              A                R4
+0,5
+
+0𝜀
+
+     0           0,5        1      1,5        2       2,5  3
+
+                                                           7
+   In this graph, each section R1-4 is the minimum region that contains a set of tuples and A is the chosen
+tuple to analyse, the grey areas are the regions in which if there is a tuple it will dominate the tuple A.
+It’s easy to see that regions 2 and 3 are dominated by A since their lower-left corner is dominated by A
+instead regions 1 and 4 need a further analysis since it’s possible that a tuple in those regions is in the
+effecting region and so dominating A, in fact, in R4 there will be for sure a tuple that dominates A since
+one of its sides is inside the affecting region and by definition a tuple will be there. 7 Comparison
+
+   We compare the general properties of the 5 showed technics, the 3 properties that will be analysed will
+be:
+
+        • Personalization: if it’s possible to insert user preferences into the operator. ",cs.DB,A,-0.13763441,-0.13729078,0.35828328
+http://arxiv.org/pdf/2201.12038v4,A survey on flexible/restricted skyline and their applicability,"Example 3.1
+
+    3
+                  A
+
+  2,5
+
+2                     𝜀
+
+1,5                   B
+
+1          B'                           C
+
+0,5
+
+0
+
+     0         0,5       1     1,5         2     2,5
+
+Given the dataset, with 4 tuples the graph shows how the 𝜀 parameter changes the dominance relation
+between the tuples, B’ now dominates A. Example 3.2
+
+3
+
+2,5                                     R2
+
+2              R1
+
+1,5                                              R3
+
+1       𝜀
+
+              A                R4
+0,5
+
+0𝜀
+
+     0           0,5        1      1,5        2       2,5  3
+
+                                                           7
+   In this graph, each section R1-4 is the minimum region that contains a set of tuples and A is the chosen
+tuple to analyse, the grey areas are the regions in which if there is a tuple it will dominate the tuple A.
+It’s easy to see that regions 2 and 3 are dominated by A since their lower-left corner is dominated by A
+instead regions 1 and 4 need a further analysis since it’s possible that a tuple in those regions is in the
+effecting region and so dominating A, in fact, in R4 there will be for sure a tuple that dominates A since
+one of its sides is inside the affecting region and by definition a tuple will be there. 7 Comparison
+
+   We compare the general properties of the 5 showed techniques, the 3 properties that will be analysed
+will be:
+
+        • Personalization: if it’s possible to insert user preferences into the operator. ",cs.DB,A,-0.13763441,-0.13729078,0.35828328
+http://arxiv.org/pdf/2201.12420v1,Electra: Conditional Generative Model based Predicate-Aware Query Approximation,"While DeepDB is the best-performing client-
+ory footprint. We leave it as a future work to characterize    side technique for queries with 1-2 predicates, ELECTRA is
+the approximation errors, latency and memory footprint for     the best-performing technique for queries with more than
+all ML-based AQP techniques, including ELECTRA, when           3 predicates. Similar to recently proposed mobile computer
+neural-network compression techniques and other forms of       vision systems that keep multiple object classiﬁers or detec-
+regularization are applied. ",cs.DB,B,0.09013006,0.32437757,-0.0010169763
+http://arxiv.org/pdf/2201.12677v1,AIM: An Adaptive and Iterative Mechanism for Differentially Private Synthetic Data,"In Theorem 4 be-
+load, which is exactly the set of marginals the analyst cares about. We provide no guarantees for marginals outside this set, which is            low, we provide expressions that capture the uncertainty of these
+an area for future work. marginals with respect to 𝑝ˆ𝑡−1, the iterates of AIM. ",cs.DB,A,0.009446585,-0.17133239,0.2784928
+http://arxiv.org/pdf/2201.13047v1,Evaluating Persistent Memory Range Indexes: Part Two,"We also discovered for the
+box approach that maintains additional data structures to alleviate    first time that a PM range index can match or even outperform
+NUMA effect for skewed accesses. It is interesting future work to      DRAM-optimized indexes, highlighting the potential of unifying
+evaluate these approaches. PM and DRAM indexing to save implementation effort. ",cs.DB,B,0.29558152,-0.015869446,-0.10266618
+http://arxiv.org/pdf/2201.13047v2,Evaluating Persistent Memory Range Indexes: Part Two [Extended Version],"Throughput (Mop/s)  24                                       18                                                                that are known to perform worse as approaching full space utiliza-
+                                                                                                                               tion, PMem has shown no obvious hardware/software performance
+                    22                                       16                                                                degradation (except due to the characteristics of the workload itself,
+                                                                                                                               e.g., inserts) in our experiments. However, we acknowledge that
+                    20                                       14                                                                these tests are preliminary and further investigation with even
+                                                                                                                               longer experiments would be needed to thoroughly explore this
+                    18                                       12                                                                topic in future work. 161 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 101 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20  C NUMA EXPERIMENTS ON DRAM
+
+                                Minutes                             Minutes                                                    This set of experiments repeats our earlier NUMA experiments in
+                                                                                                                               the main text but were done using DRAM to explore the impact of
+                        (a) Lookup                                  (b) Insert                                                 NUMA effect. ",cs.DB,B,0.4074624,-0.14825867,-0.19692762
+http://arxiv.org/pdf/2201.13302v1,Eris: Measuring discord among multidimensional data sources,"On the other hand, our work     this problem by extending multidimensional relational queries with
+shows how some of the symbolic computation involved in c-tables         symbolic evaluation, and gave two relational implementations of
+can be implemented in-database and it would be interesting to con-      this approach reducing to linear programming or quadratic pro-
+sider whether this approach can be extended to support full c-tables    gramming problems that can be solved by an off-the-shelf QP solver. in future work. We explored the performance of the two approaches via microbench-
+                                                                        marks to assess the scalability in data size and number of variables,
+   We have reduced the concordancy evaluation problem to qua-           illustrated the value of this information using a case study based on
+dratic programming, a well-studied optimization problem. ",cs.DB,C,-0.12242588,0.32084462,0.21392393
+http://arxiv.org/pdf/2202.01000v1,Data Processing Framework for Ship Performance Analysis,"Moreover, the AIS data and noon
+reports lacks some of the critical variables required for ship performance analysis, and they are also susceptible to
+human error, as some of the data variables recorded here are manually logged by the ship’s crew. Nevertheless, all
+three data sources are known to have several problems and should be processed carefully for any further analysis. The data processing framework, presented in the current work, is designed to address and resolve most of the
+problems found in the above three data sources. ",cs.DB,C,-0.09304346,-0.12320396,-0.2225518
+http://arxiv.org/pdf/2202.01546v1,QueryER: A Framework for Fast Analysis-Aware Deduplication over Dirty Data,"aggregation and analytical
+unable to handle such case efficiently. These facts further support                  queries) is an interesting direction for future work. Another direc-
+our motivation and prove that QueryER is well suited for data                        tion is the integration of different blocking and entity matching
+exploration and analysis workflows. ",cs.DB,B,-0.045381855,0.3473435,-0.0771516
+http://arxiv.org/pdf/2202.01550v1,"Multi-Objective Optimization, different approach to query a database","Feasible
+solutions are available thanks to the latest technologies and algorithms. Top-k and Skyline queries are
+starting points for ranking data, further research could focus on different search parameters for Top-k and
+Skyline queries or could even try to find out new methods to query a dataset. References
+
+[1] Akrivi Vlachou, Michalis Vazirgiannis. ",cs.DB,A,0.012892121,0.09913069,0.20074031
+http://arxiv.org/pdf/2202.02359v1,Performance Evaluation of Structured and Semi-Structured Bioinformatics Tools: A Comparative Study,"An advantage of retrieving data in semi-structured form is that it is suitable for
+processing by the user’s own software, perhaps enhanced through the use of programs such as
+Perl and BioPerl. In contrast, the structured data can present difficulties in an integration with
+other data for further analysis. Even if the semi-structured data tools retrieved happens to contain
+a complete set of attributes for all entities, and could therefore be converted into structured data
+set, the possibilities for easier integration with other data remain as an advantage of the semi-
+structured approach. ",cs.DB,C,-0.28815287,0.19180344,-0.24262717
+http://arxiv.org/pdf/2202.04185v1,OSM-tree: A Sortedness-Aware Index,"In the general case, the OSM-buffer              curacy. As future work, we further aim to extend existing learned
+may contain the main sorted section, multiple sorted components             indexes to make them sortedness-aware and relax the assumptions
+of size equal to unsorted_threshold, and a small unsorted sec-              regarding input data. tion. ",cs.DB,B,0.27535903,-0.0149857085,0.018009236
+http://arxiv.org/pdf/2202.04522v1,Constructing and Analyzing the LSM Compaction Design Space,"4.3.2 LSM Tuning. We further study the interplay of LSM tun-
+Write Latency. Write latency is driven by the device bandwidth uti-                         ing and compaction strategies. ",cs.DB,B,0.4897114,-0.053371876,-0.28459132
+http://arxiv.org/pdf/2202.04522v2,Constructing and Analyzing the LSM Compaction Design Space (Updated Version),"4.3.2 LSM Tuning. We further study the interplay of LSM tun-
+Write Latency. Write latency is driven by the device bandwidth uti-                         ing and compaction strategies. ",cs.DB,B,0.4897114,-0.053371876,-0.28459132
+http://arxiv.org/pdf/2202.04625v1,Analyzing Medical Data with Process Mining: a COVID-19 Case Study,"Section 3 reports insights from
+preliminary process mining analysis results. Lastly, Section 4 concludes the paper
+and describes our roadmap for future work. 2 Dataset Description
+
+The dataset subject of our study records information about COVID-19 patients
+monitored in the context of the COVID-19 Aachen Study (COVAS). ",cs.DB,C,-0.16201493,-0.228356,-0.22625262
+http://arxiv.org/pdf/2202.04625v2,Analyzing Medical Data with Process Mining: a COVID-19 Case Study,"Section 3 reports insights from
+preliminary process mining analysis results. Lastly, Section 4 concludes the paper
+and describes our roadmap for future work. 2 Dataset Description
+
+The dataset subject of our study records information about COVID-19 patients
+monitored in the context of the COVID-19 Aachen Study (COVAS). ",cs.DB,C,-0.16201493,-0.228356,-0.22625262
+http://arxiv.org/pdf/2202.05709v1,A Python Tool for Object-Centric Process Mining Comparison,"Through our tool the user can visualize the extracted    the tool. Finally, Section IV concludes the paper and presents
+                                        object-centric event log from process cube operations, export        some future work for the extension of our work. the object-centric event log, discover the state-of-the-art object-
+                                        centric process model for the extracted log, and compare the                      II. ",cs.DB,C,-0.108717844,-0.077828474,-0.22662875
+http://arxiv.org/pdf/2202.05990v1,Distributed D-core Decomposition over Large Directed Graphs,"Both theoretical analysis and empirical eval-
+                                                                                                             uation show the efficiency of our proposed algorithms with fast
+                                                                                                             convergence rates. As for future work, we are interested to study how to further
+                                                                                                             improve the performance of the skyline-coreness-based algorithm,
+                                                                                                             in particular how to accelerate the computation of D-index on
+                                                                                                             each single machine. We are also interested to investigate efficient
+                                                                                                             algorithms of distributed D-core maintenance for dynamic graphs. ",cs.DB,B,0.24543107,0.12603784,0.15150817
+http://arxiv.org/pdf/2202.06021v1,Jarvis: Large-scale Server Monitoring with Adaptive Near-data Processing,"StepWise-Adapt, a novel hybrid                          to allocate the compute budget among competing queries. Running multiple queries is evaluated in Section VI-F. We
+algorithm, lies in the heart of Jarvis’ data-level partitioning                   leave opportunities for better resource allocation strategy and
+                                                                                  operator sharing across queries [47], [48] for future work. approach. ",cs.DB,B,0.18733567,0.24082947,0.087936506
+http://arxiv.org/pdf/2202.08429v1,CHEX: Multiversion Replay with Ordered Checkpoints,"2015. Principles of Dataset
+scenario is part of our future work. Versioning: Exploring the Recreation/Storage Tradeoff. ",cs.DB,C,-0.1587587,-0.010226667,-0.25476855
+http://arxiv.org/pdf/2202.10141v1,Dynamic Relation Repairing for Knowledge Enhancement,"To ensure dynamic repair and validation, we introduce implicit graph constraints, approximate graph
+                                        matching, and linkage prediction based on localized graph patterns. To validate and repair the RDF tuples efﬁciently, we further study
+                                        the cold start problems for graph constraint processing. Experimental results on real datasets demonstrate that our proposed approach
+                                        can capture and repair instances with wrong relation labels dynamically and effectively. ",cs.DB,C,-0.19535288,0.22452569,0.18737507
+http://arxiv.org/pdf/2202.10390v1,Optimizing Recursive Queries with Program Synthesis,"Containment of conjunctive queries on annotated relations. In Database Theory - ICDT 2009, 12th International Conference, St. Petersburg,
+hundreds of rules: we leave that for future work. Russia, March 23-25, 2009, Proceedings (ACM International Conference Proceeding
+                                                                                                  Series, Vol. ",cs.DB,C,-0.28576052,0.29847643,0.18431221
+http://arxiv.org/pdf/2202.10785v1,"Comparing the latest ranking techniques: pros and cons of flexible skylines, regret minimization and skyline ranking queries","It starts selecting the point with the best
+value for the first coordinate and then it starts iterating, adding for every iteration the point that currently
+maximizes the regret ratio to the result set. 2.2 UtilityApprox [7]
+   This algorithm is the result of further research following [6], in fact, it was developed with the enhancing
+
+of interaction: the user is allowed to state his preferred tuple among the ones proposed to him. The main
+idea behind this algorithm is to approximate the utility function of the user minimizing the difference
+between the one of the real user (denoted u) and the one of a virtual user (denoted v). ",cs.DB,A,0.12210043,-0.2792076,0.23330265
+http://arxiv.org/pdf/2202.11160v1,Understanding Queries by Conditional Instances,"Finally, while
+lieve we can mitigate some of the reluctance in this user base with     our model can support queries with the same final aggregate and
+improved interfaces and familiarity. different bodies by removing the aggregate, extending our model to
+                                                                        support arbitrary aggregate queries is another intriguing direction
+6 CONCLUSIONS AND FUTURE WORK                                           of future work. We have defined and studied the problem of compact query char-
+acterization using the coverage of abstract c-instances. ",cs.DB,B,0.035520762,0.39032358,0.09850613
+http://arxiv.org/pdf/2202.12184v1,Consistent data fusion with Parker,"Related Work is discussed in Section 6, while Section 7 presents
+an experimental study against the state of the art. Lastly, Section 8 presents
+the conclusion and an outlook to future work. 2. ",cs.DB,C,-0.026747033,-0.32099545,-0.08749032
+http://arxiv.org/pdf/2202.12184v2,Consistent data fusion with Parker,"Related Work is discussed in Section 6, while Section 7 presents
+an experimental study against the state of the art. Lastly, Section 8 presents
+the conclusion and an outlook to future work. 2. ",cs.DB,C,-0.026747033,-0.32099545,-0.08749032
+http://arxiv.org/pdf/2202.12849v1,Witness Generation for JSON Schema,"The synthetic dataset is derived from                    would be interesting to translate our “laziness” in and-completion,
+the standard schemas provided by JSON Schema Org [4], where                          that is crucial for our results, to some corresponding idea of lazi-
+we derive schemas that are known to be satisfiable or unsatisfiable                  ness in the context of reachability for alternating automata, but we
+                                                                                     leave that for future work. 1This task is already EXPTIME-complete, and we leave the handling of uniqueItems
+for future work, as outlined in Section 10. To the best of our knowledge, the only tool that is currently
+                                                                                     available to check the satisfiability of a schema is the containment
+
+                                                                                  2
+checker described by Habib et al. ",cs.DB,C_centroid,-0.14045171,0.25092167,-0.03712392
+http://arxiv.org/pdf/2202.12849v2,Witness Generation for JSON Schema,"They
+1Even without uniqueItems, this task is already EXPTIME-complete, so we leave the  generate JSON data starting from a schema. These tools, however,
+handling of uniqueItems for future work, as outlined in Section 10.                are based on a trial-and-error approach and cannot detect unsatis-
+                                                                                   fiable schemas. We compare our tool with [16] in our experiments. ",cs.DB,C,-0.11701141,0.17417906,-0.106386065
+http://arxiv.org/pdf/2202.13189v1,Efficient Specialized Spreadsheet Parsing for Data Science,"XML          further reduce the runtime while keeping the memory usage low. Screamer [11] compiles specialized parsers that merge parsing
+and deserialization to avoid expensive data copying and trans-           In future work, we plan to investigate the applicability of
+formation operations. Chiu and Lu [4] propose an intermediate
+representation with a generalized automata approach, through          existing solutions that partially parallelize the decompression of
+which they generate efficient parsers. ",cs.DB,B,0.063928045,0.21706364,-0.18157265
+http://arxiv.org/pdf/2202.13202v1,TaSPM: Targeted Sequential Pattern Mining,"The experimental results are shown and discussed in Section 5. Finally, in Section 6, we
+summarize and look forward to future work. 2 RELATED WORK
+In this section, we discuss sequential pattern mining (SPM) in Section 2.1 and targeted pattern
+querying (TPQ) in Section 2.2. ",cs.DB,A,-0.042720545,0.070635565,0.12664919
+http://arxiv.org/pdf/2202.13511v1,Efficient Massively Parallel Join Optimization for Large Queries,"The X-axis repre-         costs compared to state-of-the-art heuristic techniques. Areas of
+sents the total number of threads used, while the Y-axis represents          future work may include, using our optimization framework for
+the speedup with respect to a single thread execution of the cor-            scenarios with increased optimization search space such as cloud
+responding algorithm. MPDP scales much better compared to DPE. ",cs.DB,B,0.4130519,-0.013573993,-0.06215185
+http://arxiv.org/pdf/2202.13511v2,Efficient Massively Parallel Join Optimization for Large Queries,"The X-axis repre-         costs compared to state-of-the-art heuristic techniques. Areas of
+sents the total number of threads used, while the Y-axis represents          future work may include, using our optimization framework for
+the speedup with respect to a single thread execution of the cor-            scenarios with increased optimization search space such as cloud
+responding algorithm. MPDP scales much better compared to DPE. ",cs.DB,B,0.4130519,-0.013573993,-0.06215185
+http://arxiv.org/pdf/2202.13630v1,Stream Containers for Resource-oriented RDF Stream Processing,"We furthermore provided the formal semantics of the overall system
+and showed that they are equivalent to already existing RSP systems. We already have built a working prototype of our proposed architecture11,
+however as future work, we plan to evaluate its performance compared to already
+existing RSP systems especially in regards to scalability. All in all, we hope that our proposal will help to encourage the RSP com-
+munity to better align their systems to the Web architecture, to create a Web
+of data (streams) where clients can work on the data, process it and create new
+data, all in a resource-oriented way. ",cs.DB,B,0.053906225,0.237133,-0.30732727
+http://arxiv.org/pdf/2203.01079v1,Redefining The Query Optimization Process,"We plan to study brute-force exploration of the
+                         4. Loop-Independent Materialization of     optimization search space in future work. condition-less loop
+                         1. ",cs.DB,A,0.26906604,-0.07431064,0.21802202
+http://arxiv.org/pdf/2203.01877v1,Query Processing on Tensor Computation Runtimes,"We are extending TQP’s optimizer to fill this gap. targeting a common language (or similarly a generic compiler, e.g.,
+MLIR [73]), requires non-trivial engineering effort since each device             Finally, adding support for recursive queries [77, 120, 138] is an
+requires proper tuning [101], algorithms, and data structures (as well         interesting future work, since iterative programs can be efficiently
+as abstractions/dialects in the MLIR case). Conversely, TQP is able            executed on GPUs [71] as long as they fit in the device memory. ",cs.DB,B,0.27766198,0.22661102,0.09835966
+http://arxiv.org/pdf/2203.03469v1,PhD thesis: SQL Comprehension and Synthesis,"To determine the accuracy, we take:
+
+       Accuracy = 180 = 88% (39)
+                        204
+
+   It is worth noting that the decrease in the accuracy was due to some of the narrations being
+outside are out of our JFA training data. In future work, we will improve our JFA to recognise
+more queries by adding more keywords and semantic rules. 9.4.2 Survey Design
+
+The survey was carried out through an online means and feedback was received from 162 partic-
+ipants. ",cs.DB,C,-0.122831255,-0.116760746,-0.09392077
+http://arxiv.org/pdf/2203.03792v1,Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling,"If we
+COUNT, AVG} based on the Horvitz-Thompson estimators                                         can control the sample’s distribution to follow Generalized Ex-
+                                                                                             treme Value (GEV) or Generalized Pareto distribution (GPD),
+[61] as follows, where πi ∈ πA is the visiting probability of                                then we may be able to do the EVT-based estimation. We keep
+each answer uti ∈ SA, and SA+ = {uti ∈ SA : si ≥ τ } is the                                  this as an interesting open problem for future work. set of answers in SA having semantic similarity ≥ τ . ",cs.DB,A,-0.13141389,-0.24715717,0.24451873
+http://arxiv.org/pdf/2203.03792v2,Aggregate Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling,"If we
+COUNT, AVG} based on the Horvitz-Thompson estimators                                         can control the sample’s distribution to follow Generalized Ex-
+                                                                                             treme Value (GEV) or Generalized Pareto distribution (GPD),
+[61] as follows, where πi ∈ πA is the visiting probability of                                then we may be able to do the EVT-based estimation. We keep
+each answer uti ∈ SA, and SA+ = {uti ∈ SA : si ≥ τ } is the                                  this as an interesting open problem for future work. set of answers in SA having semantic similarity ≥ τ . ",cs.DB,A,-0.13141389,-0.24715717,0.24451873
+http://arxiv.org/pdf/2203.05084v1,IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy,"Inter-
+                                                                         ested readers may refer to Sections 5.1 and 5.2, where we provide
+problem, each operator can carry out its own instance of IncShrink,
+
+minimizing the overall computation cost while satisfying desired
+
+privacy and accuracy constraints. Note that optimization details are
+
+beyond the scope of this paper but may be of independent interest
+
+and we leave the design of these techniques to future work. Expanding to multiple servers. ",cs.DB,B,0.24271075,0.031895947,0.10730727
+http://arxiv.org/pdf/2203.05128v1,LlamaTune: Sample-Efficient DBMS Configuration Tuning,"We leave more sophisticated
+of in-memory shared buffers at the granularity of a single page. approaches for selecting this value to future work. Another example is commit_delay, which controls the delay before
+a committed transaction is flushed to disk; this delay can be set at            We run an experiment with YCSB-A, YCSB-B workloads and
+microseconds granularity. ",cs.DB,B,0.34047586,0.040708244,-0.26562053
+http://arxiv.org/pdf/2203.05921v1,Supporting Schema References in Keyword Queries over Relational Databases,"Our
+experiments indicate that Lathe can handle a wider variety of keyword queries while remaining
+highly effective, even for large databases with intricate schemas. Our experience in the development of Lathe raised several ideas for future work. First, one
+important issue in our method is being able to correctly match keywords from the input query to
+the corresponding database elements. ",cs.DB,B,-0.09969449,0.3610583,0.03637464
+http://arxiv.org/pdf/2203.06393v1,G2GML: Graph to Graph Mapping Language for Bridging RDF and Property Graphs,"We
+further propose a graph to graph mapping framework based on the Graph to
+Graph Mapping Language (G2GML). Employing this mapping framework, ac-
+cumulated graph data described in RDF can be converted into PGs, which can
+then be loaded into several graph database engines for further analysis. We
+demonstrate several use cases, where publicly available RDF data is extracted
+and converted to PGs. ",cs.DB,C,-0.25657606,0.34924746,-0.046698242
+http://arxiv.org/pdf/2203.09280v1,Knowledge Graph Embedding Methods for Entity Alignment: An Experimental Review,"Finally, we have shown that RDGCN presents the best eﬀectiveness-eﬃciency
+trade-oﬀ, while MTransE is the most eﬃcient method, but often dominated by
+other methods in terms of eﬀectiveness and RREA(semi) is the most eﬀective
+method, but always dominated by other methods in terms of eﬃciency. As future work, we would like to further investigate the impact of
+non-uniform negative sampling strategies (e.g., Generative Adversarial [43],
+Self-Adversarial [23]). In addition, we would like to extend our testbed of
+datasets, in order to enrich the characteristics of the aligned KGs, e.g., by con-
+sidering symmetrical relations. ",cs.DB,A,0.04763269,-0.16327718,0.12612233
+http://arxiv.org/pdf/2203.09288v1,Efficiently Enumerating Answers to Ontology-Mediated Queries,"7 CONCLUSIONS                                                                        [17] Johann Brault-Baron. De la pertinence de l’énumération : complexité en logiques
+
+As future work, it would be interesting to consider as the ontol-                    propositionnelle et du premier ordre. (On the relevance of enumeration: complexity
+ogy language also description logics with functional roles such
+as ELI F ; there should be a close connection to enumeration of                      of propositional and ﬁrst-order logic). ",cs.DB,C,-0.17042404,0.15329942,0.116180815
+http://arxiv.org/pdf/2203.09390v1,"A Cube Algebra with Comparative Operations: Containment, Overlap, Distance and Usability","Section 2 provides a discussion of the related work. Section 10 provides
+conclusions and open issues for future work. 5
+2 Related Work
+
+2.1 Models for hierarchical multidimensional spaces and
+       cubes
+
+There is an abundance of models for multidimensional hierarchical databases,
+cubes, and OLAP that is very well surveyed in [RA07]. ",cs.DB,C,-0.1680696,0.046682417,0.037090734
+http://arxiv.org/pdf/2203.11208v1,An efficient heuristic approach combining maximal itemsets and area measure for compressing voluminous table constraints,"The results obtained for our method are competitive
+
+                                                                     14
+                                                                                                     A PREPRINT - MARCH 23, 2022
+
+with that obtained for the other selected GAC-based methods of the state-of-the-art except for CT [32] which obtains
+better results in most cases. As future work we will try ﬁnd an efﬁcient solution to ﬁx the value Smin. References
+
+[1] Roger Mohr, Gérald Masini. ",cs.DB,A,0.12635139,-0.37421098,0.21960121
+http://arxiv.org/pdf/2203.12075v1,Non-recursive Approach for Sort-Merge Join Operation,"We concluded that the general tree
+outperforms the sequential tree in case of having a huge number of relations and
+tuples. In our future work, we plan to run the system on multi-core processors
+environment and also plan to expand this methodology to other queries
+operations. Acknowledgments. ",cs.DB,B,0.20494865,0.3076575,0.11304851
+http://arxiv.org/pdf/2203.12368v1,A Framework for Fast Polarity Labelling of Massive Data Streams,"Automatically                             hyperparameters of PLStream in detail. choosing the right size of 𝑇 𝐷𝑊 is important and possible [42],
+and we leave its tuning as a future work due to its considerable                               Impact of Adaptive Batching (𝑏). A larger batch size allows
+complexity. ",cs.DB,B,0.336766,-0.10762854,-0.13429007
+http://arxiv.org/pdf/2203.12860v1,Efficient Answering of Historical What-if Queries,"https://doi.org/10.1145/1807128.1807152
+tal evaluation demonstrates the effectiveness of our approach and
+optimization techniques. In future work, we will explore how to           [14] IBM ILOG Cplex. 2009. ",cs.DB,A,0.12740739,-0.19221199,0.050651535
+http://arxiv.org/pdf/2203.12978v1,Effective Explanations for Entity Resolution Models,"Section 5 presents the experimental
+evaluation that we have conducted. Section 6 discusses concluding remarks and future work. Matching Score Name𝐴𝑏𝑡           Description           Counterfactual explanation        Description𝐵𝑢 𝑦                   Price𝐵𝑢 𝑦
+                                                           𝐴𝑏𝑡              Price𝐴𝑏𝑡 Name𝐵𝑢𝑦
+
+CERTA    0.54  sony bravia theater black  denon 5-disc cd auto changer         sony bravia dav-is50 / b ""dvd player , 5.1 speakers
+               micro system davis50b dcm290 cd-r/rw playback advanced ... NaN  home theater system 1 disc ( s ) progressive scan... NaN
+
+   DiCE  0.34  lg 14 ’ washer and         sony bravia theater black micro      canon pixma mx700  lithium ion ( li-ion )
+               dryerred pedestal ... system davis50b 5.1-channel surround NaN multifunction photo ... 8.4 v dc photo battery        NaN
+
+Fig. ",cs.DB,C,-0.017326528,-0.26713824,-0.19775152
+http://arxiv.org/pdf/2203.12978v2,Effective Explanations for Entity Resolution Models,"Section 5 presents the experimental
+evaluation that we have conducted. Section 6 discusses concluding remarks and future work. Matching Score Name𝐴𝑏𝑡           Description                         Counterfactual explanation    Description𝐵𝑢 𝑦         Price𝐵𝑢 𝑦
+                                                           𝐴𝑏𝑡                            Price𝐴𝑏𝑡 Name𝐵𝑢𝑦
+
+CERTA    0.54  sony bravia theater black  denon 5-disc cd auto changer         sony bravia dav-is50 / b ""dvd player , 5.1 speakers
+               micro system davis50b dcm290 cd-r/rw playback advanced ... NaN  home theater system 1 disc ( s ) progressive scan... NaN
+
+   DiCE  0.34  lg 14 ’ washer and         sony bravia theater black micro      canon pixma mx700            lithium ion ( li-ion )
+               dryerred pedestal ... system davis50b 5.1-channel surround NaN multifunction photo ... 8.4 v dc photo battery        NaN
+
+Fig. ",cs.DB,C,-0.017326528,-0.26713824,-0.19775152
+http://arxiv.org/pdf/2203.14692v1,HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach,"We show that our approach provides query results that
+are rational and account for implicit dependencies in the database. In future work, we plan to add support for multi-attribute updates
+consisting of dependent attributes and also account for database
+constraints and other semantic constraints. Extensions to cyclic
+dependencies of attributes in causal graphs is an intriguing future
+work. ",cs.DB,C,-0.2637801,0.26375234,0.1091998
+http://arxiv.org/pdf/2203.14755v1,"Personalized Graph Summarization: Formulation, Scalable Algorithms, and Applications","The
+                                                                   source code and the data are available at [24] for reproducibility. We leave the analysis of the hardness of Problem 1 and the
+                                                                   design of theoretically sound algorithms for future work. Acknowledgements: This work was supproted by National Research
+                                                                   Foundation of Korea (NRF) grand funded by the Korea government
+                                                                   (MSIT) (No. ",cs.DB,A,0.063134454,-0.20870681,0.3035443
+http://arxiv.org/pdf/2203.16095v1,"OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems","The query lists the
+the above practitioners were among the ﬁrst to adopt the HTAP     total quantity, total amount, average quantity, and average
+solutions [12]. amount for further analysis. The above aggregates are grouped
+   (3) The design of integrity constraints should be relevant to  by their number and listed in ascending order. ",cs.DB,C,-0.122335956,-0.15426092,0.12124628
+http://arxiv.org/pdf/2203.16095v2,"OLxPBench: Real-time, Semantically Consistent, and Domain-specific are Essential in Benchmarking, Designing, and Implementing HTAP Systems","The query lists the
+the above practitioners were among the ﬁrst to adopt the HTAP     total quantity, total amount, average quantity, and average
+solutions [12]. amount for further analysis. The above aggregates are grouped
+   (3) The design of integrity constraints should be relevant to  by their number and listed in ascending order. ",cs.DB,C,-0.122335956,-0.15426092,0.12124628
+http://arxiv.org/pdf/2203.16684v1,DBSP: Automatic Incremental View Maintenance for Rich Query Languages,"However, our deﬁnition of incremental
+
+computation is only concerned with incrementality in the outer-                                                   0      1                 2
+
+most structures. We leave it to future work to explore an appro-                                    −1               −1            −1
+
+priate deﬁnition of incremental computation that operates on the
+
+inner relations. In practice, windowing is usually based on physical timestamps
+                                                                                            attached to stream values rather than logical time. ",cs.DB,B,0.21146256,0.058192935,0.027661968
+http://arxiv.org/pdf/2204.01667v1,Adaptive Merging on Phase Change Memory,"We observe that PAM is about 20% faster than eAM in the databases where search queries
+interleave with data modiﬁcations. For the future work, we plan to make further research on BB+tree
+as a promising candidate for the PCM optimized index type. References
+
+ [1] Idreos S, Kersten ML, Manegold S. Updating a Cracked Database. ",cs.DB,B,0.2564179,0.24216601,0.06467867
+http://arxiv.org/pdf/2204.01667v2,Adaptive Merging on Phase Change Memory,"We observe that PAM is about 20% faster than eAM in the databases where search queries
+1022  W. Macyna, M. Kukowski / Adaptive Merging on Phase Change Memory
+
+interleave with data modiﬁcations. For future work, we plan to make further research on BB+tree as a
+promising candidate for the PCM-optimized index type. References
+
+ [1] Idreos S, Kersten ML, Manegold S. Updating a Cracked Database. ",cs.DB,B,0.35887736,0.2118034,-0.037462167
+http://arxiv.org/pdf/2204.01880v1,Models and Mechanisms for Fairness in Location Data Processing,"The red line is used as the reference point                                    the potential to provide useful building blocks for fairness in other
+representing the percentage of unfairness in the original data, in                                      application domains. In future work, we plan to study more complex
+the absence of fairness mechanisms. types of location-based interaction. ",cs.DB,A,-0.11002137,-0.15422723,-0.0037552323
+http://arxiv.org/pdf/2204.01880v2,Models and Mechanisms for Spatial Data Fairness,"Fairness in machine
+the potential to provide useful building blocks for fairness in other
+application domains. In future work, we plan to study more complex           learning. Nips tutorial 1 (2017), 2.
+types of location-based interaction. ",cs.DB,A,0.06437741,-0.20312352,0.009839151
+http://arxiv.org/pdf/2204.02758v1,Computing expected multiplicities for bag-TIDBs with bounded multiplicities,"use the Chebyschev inequality or other high
+moment based probability bounds on the events we might be interested in. We leave further investigations for future work. G THE KARP-LUBY ESTIMATOR
+
+Computing the marginal probability of a tuple in the output of a set-probabilistic database query has been studied extensively. ",cs.DB,A,-0.02579403,-0.06436087,0.30833054
+http://arxiv.org/pdf/2204.02758v2,Computing expected multiplicities for bag-TIDBs with bounded multiplicities,"use the Chebyschev inequality or other high
+moment based probability bounds on the events we might be interested in. We leave further investigations for future work. F THE KARP-LUBY ESTIMATOR
+
+Computing the marginal probability of a tuple in the output of a set-probabilistic database query has been studied extensively. ",cs.DB,A,-0.020740602,-0.07247121,0.30601674
+http://arxiv.org/pdf/2204.02758v3,Computing expected multiplicities for bag-TIDBs with bounded multiplicities,"use the Chebyschev inequality or other high
+moment based probability bounds on the events we might be interested in. We leave further investigations for future work. F THE KARP-LUBY ESTIMATOR
+
+Computing the marginal probability of a tuple in the output of a set-probabilistic database query has been studied extensively. ",cs.DB,A,-0.020740602,-0.07247121,0.30601674
+http://arxiv.org/pdf/2204.04164v1,Uncertain Case Identifiers in Process Mining: A User Study of the Event-Case Correlation Problem on Click Data,"This substantiates both the
+scientiﬁc value of event-log correlation techniques for user interaction data, and
+the validity of the segmentation method presented in this paper. Many avenues for future work are possible. The most prominent one is the
+need to further validate our technique by lifting it from the scope of a user study
+by means of a quantitative evaluation, to complement the qualitative one showed
+in this paper. ",cs.DB,C,-0.22560126,-0.2584492,-0.06337392
+http://arxiv.org/pdf/2204.05779v1,Towards Polyglot Data Stores -- Overview and Open Research Questions,"This system is the only system which is incorporating adaption into its system design. Triggered
+by estimations of current and future workloads Polypheny-DB should adapt by adding or removing data stores to its
+running system as well as migrate and replicate data to adjust data locality and distribution. At this point, however, it
+must unfortunately still be pointed out that Polypheny-DB has so far only described this function in a vision paper but
+has not implemented it. ",cs.DB,B,0.11936951,0.16800724,-0.2193358
+http://arxiv.org/pdf/2204.08801v1,Generalized Supervised Meta-blocking (technical report),"Then, several weight- and cardinality-        experimental analysis is presented in Section 5, the main works
+based algorithms can be applied. For example, Supervised WNP it                 in the field are discussed in Section 6 and the paper concludes in
+prunes the graph as follows: for each node, all its adjacent edges with         Section 7 along with directions for future work. a weight lower that 0.5 are discarded; for the remaining edges, only
+those with a weight greater than the average on are kept. ",cs.DB,A,0.04870358,-0.1987581,0.27096254
+http://arxiv.org/pdf/2204.09131v1,A Unified Approach for Multi-Scale Synchronous Correlation Search in Big Time Series -- Full Version,"Brieﬁngs in bioinformatics, 15(6):906–918, 2013.
+data size and the number of computing nodes. [16] E. P. de Sousa, C. Traina Jr, A. J. Traina, L. Wu, and
+    In future work, iSYCOS will be extended to capture                  C. Faloutsos. A fast and effective method to ﬁnd
+correlations across spatial dimensions. ",cs.DB,A,-0.009081514,-0.1025451,0.092273265
+http://arxiv.org/pdf/2204.09235v1,JanusAQP: Efficient Partition Tree Maintenance for Dynamic Approximate Query Processing,"In scenarios where the dataset size is medium to large and
+                                                                                           the expected latency is acceptable, the sequential sampler might
+                                                                                           be preferred for a more consistent performance. There might be an
+                                                                                           interesting mid-ground for sampling from Kafka-like systems that
+                                                                                           can offer better efficiency and latency and we plan to investigate in
+                                                                                           a future work. A.0.1 Experiments. ",cs.DB,B,0.30386555,-0.04181635,-0.24056134
+http://arxiv.org/pdf/2204.09235v2,JanusAQP: Efficient Partition Tree Maintenance for Dynamic Approximate Query Processing,"We argue that if each
+the expected latency is acceptable, the sequential sampler might
+be preferred for a more consistent performance. There might be an           stratum has size at least 𝑁𝑖   ≥  16
+interesting mid-ground for sampling from Kafka-like systems that
+can offer better efficiency and latency and we plan to investigate in                                            log 𝑘, then all of them satisfy
+a future work. 𝛼
+
+                                                                            the proportional allocation requirements up to a factor of 2 with
+
+                                                                            probability at least 1 − 1/𝑘. ",cs.DB,B,0.3978524,-0.065074556,-0.0988696
+http://arxiv.org/pdf/2204.09819v1,Extensible Database Simulator for Fast Prototyping In-Database Algorithms,"functions ready before this demo and browse them together with
+the audience at the demo time. If the audience is interested in some            As future work, we plan to implement index and volcano-style
+details, we will make a further explanation to them, like how the            query optimizer in DBSim, since the former is a very useful utility
+functions parse such a literal “[1,2,3,4]” into a Vector. The second         tool in modern databases while the latter is more widely used in
+step is registering the SimSelection Syntax into the registry. ",cs.DB,B,-0.03376832,0.24226238,0.05234061
+http://arxiv.org/pdf/2204.10203v1,Maximizing the Influence of Bichromatic Reverse k Nearest Neighbors in Geo-Social Networks,"We report on an experimental study in Section VII. two integers b and k, MaxInfBRkNN aims to ﬁnd an optimal            Finally, Section VIII concludes this paper and provides sug-
+subset Ps of Pc, such that |Ps| = b and the elements in Ps are      gestions for the future work. highly relevant (i.e., become top-k results) to inﬂuencers who
+can promote POIs effectively online. ",cs.DB,A,0.22775508,-0.13634112,0.37697047
+http://arxiv.org/pdf/2204.10203v2,Maximizing the Influence of Bichromatic Reverse k Nearest Neighbors in Geo-Social Networks,"We report
+b and k, MaxInfBRkNN aims to ﬁnd an optimal subset Ps of            on an experimental study in Section VIII. Finally, Section IX
+Pc, such that |Ps| = b and the elements in Ps are highly            concludes the paper, and provides future work suggestions. relevant (i.e., become top-k results) to inﬂuencers who can
+promote POIs effectively online. ",cs.DB,A,0.0991552,-0.2813033,0.32011312
+http://arxiv.org/pdf/2204.10743v1,An Evaluation of Intra-Transaction Parallelism in Actor-Relational Database Systems,"260–267. An interesting area of future work is to study how asynchronic-
+ity can be exploited by an actor-relational database system in more                     [27] Yandong Mao, Eddie Kohler, and Robert Tappan Morris. 2012. ",cs.DB,B,-0.0037073828,0.14194614,-0.045369025
+http://arxiv.org/pdf/2204.11012v1,BatchHL: Answering Distance Queries on Batch-Dynamic Networks at Scale,"We conduct the experiments for 5 randomly sampled fully                                         and scalability of our approach on 14 real-world networks. For
+dynamic batch updates of varying sizes, i.e., 500 to 10,000 in each                                     future work, we plan to explore the following directions: 1) the ap-
+batch. Figure 6 presents the results. ",cs.DB,B,0.3564238,-0.060011953,-0.060061976
+http://arxiv.org/pdf/2205.01573v1,StreamingHub: Interactive Stream Analysis Workflows,"For any output stream      the utility of StreamingHub for data stream processing, and uncover
+𝑠𝑜 , 𝑓𝑒 is constant, but 𝑓𝜇 varies with time. As 𝑓𝜇 decreases, the flu-  challenges that inspire future work. idity drops. ",cs.DB,B,0.0526561,-0.11496778,-0.20707887
+http://arxiv.org/pdf/2205.01573v2,StreamingHub: Interactive Stream Analysis Workflows,"For any output stream      the utility of StreamingHub for data stream processing, and uncover
+𝑠𝑜 , 𝑓𝑒 is constant, but 𝑓𝜇 varies with time. As 𝑓𝜇 decreases, the flu-  challenges that inspire future work. idity drops. ",cs.DB,B,0.0526561,-0.11496778,-0.20707887
+http://arxiv.org/pdf/2205.03209v1,HumanAL: Calibrating Human Matching Beyond a Single Task,User validation in ontology alignment. there is still room for improvement and future works. One straight-                       In International Semantic Web Conference. ,cs.DB,C,-0.33691323,0.054231867,-0.14320666
+http://arxiv.org/pdf/2205.04224v1,Worst-case Analysis for Interactive Evaluation of Boolean Provenance,"Yet our techniques and analysis may have applications in other do-
+mains as well, such as data cleaning and view maintenance. In future work we
+will further explore such application domains, and will continue characterizing
+the query classes and corresponding classes of Boolean expressions that admit
+eﬃcient interactive evaluation algorithms. Acknowledgements We thank the anonymous reviewers for their insightful
+comments. ",cs.DB,C,-0.15018728,0.20573658,0.11464092
+http://arxiv.org/pdf/2205.05464v1,Raw Filtering of JSON Data on FPGAs,"with the RiotBench Benchmark. Finally, the paper ﬁnishes in        Compared to our raw ﬁlters, this approach enables similar
+Section V with a conclusion and an outlook for future work. tradeoffs between resource consumption and the accuracy of
+                                                                   the ﬁlter. ",cs.DB,B,0.23114786,-0.035915196,-0.07725294
+http://arxiv.org/pdf/2205.05769v1,LSI: A Learned Secondary Index Structure,"We have shown that our approach can compete with
+BTree         2,923               -                    -                  state-of-the-art secondary indexes while being more space efficient. RobinHash     8,192               -                    -                  In future work, we plan to extend LSI into multiple directions. First,
+                                                                          we want to explore indexing data blocks instead of individual tuples
+to the information-theoretic lower bound, however, we would sac-          which will lower the overhead of the permutation vector for low
+rifice lookup time due to the compressed representation. ",cs.DB,B,0.27001536,0.10704377,0.16076663
+http://arxiv.org/pdf/2205.06911v1,Blockaid: Data Access Policy Enforcement for Web Applications,"Blockaid               having the policy guide template generation more directly, a
+is now able to safely allow more queries from the application. path we intend to explore in future work. For example, faced with the formerly non-compliant single
+query from Example 4.3:                                                10 Conclusion
+
+   SELECT Title FROM Events WHERE EId = 5                              Blockaid is a dynamic data-access enforcement system that
+                                                                       supports existing web frameworks. ",cs.DB,C,-0.13823402,0.17808165,-0.110522054
+http://arxiv.org/pdf/2205.06911v2,Blockaid: Data Access Policy Enforcement for Web Applications,"Produc-
+   JOIN Attendances a ON e. EId = a. EId                                             ing maximally general templates might require opening up
+                                                                                     this black box and having the policy guide template generation
+which lists the times of events attended without revealing EId. more directly, a path we plan to explore in future work. False rejections. ",cs.DB,C,-0.16624227,-0.13214082,-0.05041534
+http://arxiv.org/pdf/2205.07627v1,KnowGraph-PM: a Knowledge Graph based Pricing Model for Semiconductors Supply Chains,"135–146, 2002.
+manufacturing ﬁrm and proved that semantic data integration
+enables customer proﬁling aware lead time-based pricing. [10] F. Chen, Z. Drezner, J. K. Ryan, and D. Simchi-Levi, “Quantifying the
+                                                                                    bullwhip effect in a simple supply chain: The impact of forecasting, lead
+   As future work, we aim to integrate into KnowGraph-PM                            times, and information,” Management science, vol. 46, no. ",cs.DB,C,-0.19162926,-0.016081413,-0.21104693
+http://arxiv.org/pdf/2205.08664v1,Journey of Migrating Millions of Queries on The Cloud,"Building synthetic data sets
+No Look Debug of Queries. Identifying the cause of inconsistent          that are disconnected from the production data [6] is an option to
+query results is still challenging because we can see only checksum      isolate the simulation traffic from the production system, but we
+of the query results and query plans, but we can’t directly see          need further study to properly capture input-data specific issues in
+the customer data and query results. To locate where the error is        query engines while following various regulations under privacy
+happening, we need to breakdown queries into tiny pieces. ",cs.DB,C,-0.1238507,0.17096062,-0.19989365
+http://arxiv.org/pdf/2205.09061v1,Rank-based Heuristics for Optimizing the Execution of Product Data Models,"We evaluate the candidate
+techniques in Section 5. Section 6 deals with the related work and we conclude
+in Section 7, where we also brieﬂy discuss limitations and future work. 1The implementation is publicly available from https://github.com/kmvarvou/rank_
+based_heuristics
+
+                                                   3
+                               Figure 1: The PDM mortgage example from [4]
+
+2. ",cs.DB,A,0.1266257,-0.07827082,0.19199748
+http://arxiv.org/pdf/2205.09681v1,Bridging the Gap between Data Integration and ML Systems,"Our vision is that the proposed representations become one of the
+                                                                           first steps towards bridging the recent advances in machine learning
+                                                                           with the well-studied classical data integration field. We hope that
+                                                                           our proposed solution and outlined challenges would inspire more
+                                                                           interesting future work. Bridging the Gap between Data Integration and ML Systems                                          Endowment 3, 1-2 (2010), 484–493. ",cs.DB,A,-0.1849117,-0.038582128,-0.04366419
+http://arxiv.org/pdf/2205.11660v1,A Taxonomy of Schema Changes for NoSQL Databases,"This library to operate on standalone
+Redis instances. It employs a lazy strategy that up-     The future work considered includes: (i) Updating
+dates entries as they are accessed. This solution is     application code that makes use of the retrieved data
+limited to Redis, while our approach is applicable to    as well as handling query rewriting. ",cs.DB,B,-0.017348766,0.23563051,-0.19756663
+http://arxiv.org/pdf/2205.11807v1,NFL: Robust Learned Index via Distribution Transformation,"inference [34] and density estimation [8]. The natural and most
+obvious use of normalizing flows is to perform density estimation,                                                              For the future work, we plan to further investigate the poten-
+which is the same scope of the problem in learned indexes. The                                                               tial of using normalizing flows, including co-design on normaliz-
+key point of normalizing flows is how to design the generators,                                                              ing flows and learned indexes, using normalizing flows on multi-
+in terms of invertible transformation and efficient computations. ",cs.DB,A,0.12654476,-0.2687578,0.045320794
+http://arxiv.org/pdf/2205.13883v1,Efficient Semantic Summary Graphs for Querying Large Knowledge Graphs,"These limitations of our work needs to be addressed in future work. 7 Conclusions and future work
+
+In this paper, we tackled the challenge of RDF graph summarization to optimize query processing. The proposed
+techniques contribute to the portfolio of tools to efﬁciently manage knowledge graphs, which is of signiﬁcant relevance
+given the role of knowledge graphs in knowledge representation. ",cs.DB,C,-0.26872516,0.3281495,0.11628634
+http://arxiv.org/pdf/2205.14269v1,Temporal graph patterns by timed automata,"Extending our framework with path               tervals. Communications of the ACM 26(11), 832–843
+variables is an interesting direction for further research. (1983)
+
+    An important aspect of pattern matching in graphs          2. ",cs.DB,A,-0.1805741,-0.06314485,0.25695
+http://arxiv.org/pdf/2205.14323v1,Multi-agent Databases via Independent Learning,"We present preliminary experimental results from a proof-of-
+                                        buffer pool manager’s page caching decisions. However, with the         concept prototype implementation in Section 3, and in Section 4 we
+                                        replacement of these components by learned ones, it is unclear if and   highlight directions for future work. how these per-component solutions can be integrated into the same
+                                        database and how they can cooperatively yield end-to-end benefits . ",cs.DB,B,0.23752412,0.17243733,-0.19532552
+http://arxiv.org/pdf/2205.14323v2,Multi-agent Databases via Independent Learning,"However, with the          Section 2. We present preliminary experimental results from a proof-
+                                        replacement of these components with learned ones, it is unclear         of-concept prototype implementation in Section 3, and in Section 4
+                                        if and how these per-component solutions can be integrated into          we highlight directions for future work. the same database and how they can cooperatively yield end-to-end
+                                        benefits. ",cs.DB,C,-0.13614763,0.11140766,-0.041106693
+http://arxiv.org/pdf/2205.14323v3,Multi-agent Databases via Independent Learning,"ment of these components with learned ones, it is unclear if and
+   We presented our system and formalized our learning task in                       Query Queue       Optimizer’s State              Scheduler’s State
+Section 2. We present preliminary experimental results from a proof-
+of-concept prototype implementation in Section 3, and in Section 4                  Q1 Q2 … Qn                 Action:
+we highlight directions for future work. Query
+                                                                                                State
+
+                                                                                                               (Qi to execute)        Parsed SQL
+
+2 MADB OVERVIEW                                                                                        Buffer  Reward            Query
+                                                                                                       State   (buffer hit  Execution Plan
+This section describes MADB, a proof-of-concept multi-agent data-                                              ratio)
+base that combines two learned components: a scheduler and an                       Query Scheduler
+optimizer. ",cs.DB,B,0.09717314,0.17593154,-0.0547378
+http://arxiv.org/pdf/2205.15547v1,Discovery of Keys for Graphs [Extended Version],"We present our experimental evaluations in
+Section 5. Finally, we have conclusion and future works in Section 6. 2 Related Works
+
+Keys and Dependencies. ",cs.DB,C,0.082243316,-0.25293356,-0.052253254
+http://arxiv.org/pdf/2206.00136v1,End-to-end Optimization of Machine Learning Prediction Queries,"Apache Spark and SQL Server. Raven’s extensible architecture en-
+                                                                                         [14] Matthias Boehm, Michael Dusenberry, Deron Eriksson, Alexandre V. Evfimievski,
+ables to easily add new optimizations as part of our future work,
+                                                                                         Faraz Makari Manshadi, Niketan Pansare, Berthold Reinwald, Frederick Reiss,
+e.g., to push relational operators to the ML accelerators. Prithviraj Sen, Arvind Surve, and Shirish Tatikonda. ",cs.DB,B,0.17670101,0.339522,-0.07066766
+http://arxiv.org/pdf/2206.00140v1,What Can Database Query Processing Do for Instance-Spanning Constraints?,"Hence, our approach
+is more declarative. At the end of this discussion, we mention a few points for further research. Since there are some algorithms that are used to discover ISC from execution
+logs [35], and these algorithms search for explicit patterns, one could deﬁne
+a common language to report the results of those algorithms and use those
+results to automatically write the SQL queries monitoring each of the reported
+constraints. ",cs.DB,C,-0.06032657,0.10812634,0.031675704
+http://arxiv.org/pdf/2206.00623v1,P4DB -- The Case for In-Network OLTP (Extended Technical Report),"However, this is an orthogonal
+tuples per pipeline. Moreover, there already exist other switch im-         aspect for future work. plementations based on FPGAs and high-bandwidth-memory that
+further alleviate this limitation [23]. ",cs.DB,B,0.31126553,0.015825443,0.046115533
+http://arxiv.org/pdf/2206.01594v1,Federating and querying heterogeneous and distributed Web APIs and triple stores,"These mappings
+are defined as SPARQL construct queries for the SPARQL-MS approach. Third,             Finally, we highlight that an important area of future work will therefore be the
+we considered each Web API function call returning conceptually distinct results       comparison of SPARQL-MS with other commercial and noncommercial OBDA
+as a new data source, consequently, different data accesses were provided. By          approaches over Web APIs such as Stardog5. ",cs.DB,C,-0.18697871,0.3211698,-0.1436276
+http://arxiv.org/pdf/2206.04364v1,Cross-Model Conjunctive Queries over Relation and Tree-structured Data (Extended),"We leave this as the future work to
+continue optimizing CMCQs. 7 Conclusion and future work
+
+In this paper, we studied the problems to ﬁnd the worst-case size bound and op-
+timal algorithm for cross-model conjunctive queries with relation and tree struc-
+tured data. We provide the optimized algorithm, i.e. ",cs.DB,B,0.008085778,0.23030823,0.3336053
+http://arxiv.org/pdf/2206.04853v1,Machop: an End-to-End Generalized Entity Matching Framework,"Therefore, our work is
+6.1 Entity Matching                                                         orthogonal and can be integrated into those frameworks to provide
+                                                                            better text-based matching features. It is a promising future work
+There is a long line of studies about Entity Matching in the data-          to integrate Machop with rich but noisy signals such as user clicks. base community. ",cs.DB,C,-0.104899906,0.056008607,-0.09613613
+http://arxiv.org/pdf/2206.04988v1,"Conjunctive queries with self-joins, towards a fine-grained complexity analysis","Similarly for the techniques providing constant delay
+    algorithms. We leave it for future work. Notice that even if there is symmetry in the picture,
+    the query is not a mirror. ",cs.DB,B,0.2654209,0.19286355,0.12239236
+http://arxiv.org/pdf/2206.04988v2,"Conjunctive Queries With Self-Joins, Towards a Fine-Grained Complexity Analysis","We go through       The techniques developed above for constant delay algorithms or
+all edges outgoing from and all edges incoming to to get a solu-       hardness proofs fail on the full query 14 depicted below, and its
+tion to 11 in constant delay. Altogether, we get a constant delay      classiﬁcation is left for future work. Note that 14 is not a mirror,
+algorithm that outputs all solutions to 11, possibly 3 times. ",cs.DB,B,0.26734927,0.09974284,0.20543946
+http://arxiv.org/pdf/2206.05080v1,Extremal Fitting Problems for Conjunctive Queries,"4, we see improved complex-
+ity bounds when considering UCQs. We leave it to future work to                         https://doi.org/10.5441/002/edbt.2015.11
+explore extremal ﬁtting problems for unions of conjunctive queries
+of bounded treewidth. [8] Raimundo Briceño, Andrei Bulatov, Víctor Dalmau, and Benoît Larose. ",cs.DB,A,-0.049847856,0.14225084,0.4313789
+http://arxiv.org/pdf/2206.05476v1,Sampling-based Estimation of the Number of Distinct Values in Distributed Environment,"In
+costs. In future work, we intend to extend our algorithm to incorpo-                            Discrete Mathematics and Theoretical Computer Science. 137–156. ",cs.DB,A,0.10801862,-0.09437467,0.39887032
+http://arxiv.org/pdf/2206.05778v1,Learning-Based Data Storage [Vision] (Technical Report),"For auxiliary information 𝐷.𝑎𝑢𝑥,
+be applied. We would like to consider other structures (e.g., DNN                                we will record aggregate data or indexes (e.g., hash files, B+-trees,
+vairants) for the learning-based data storage as our future work. or multidimensional indexes like grid or R∗-trees) over attributes,
+
+2.3 DNN-based Data Storage in the                                                                for example, the range, [1, 𝑁 ], of tuple IDs 𝑡𝑖 .𝑖𝑑 for 𝐷𝑁 𝑁 . ",cs.DB,C,-0.17688322,0.11450079,-0.012984326
+http://arxiv.org/pdf/2206.05778v2,Learning-Based Data Storage [Vision] (Technical Report),"In this work, we use the DNN model to train/store multiple input-                             Moreover, to implement 𝐷𝑁 𝑁 or 𝐷𝑁 𝑁 −1, we will use DNN-tree
+and-output pairs, where any classic DNN training algorithm can
+be applied. We would like to consider other structures (e.g., DNN                                structures as discussed later in Section 3 to achieve both high data
+variants) for the learning-based data storage as our future work. capacity and accuracy. ",cs.DB,B,0.035778783,0.06434362,-0.05411634
+http://arxiv.org/pdf/2206.06157v1,Towards Target High-Utility Itemsets,"[13] proposed the transaction-weighted utilization
+a comprehensive analysis of results are presented in Section        (TWU) to solve this issue and an algorithm. This latter ﬁrst
+V. Finally, a conclusion is drawn and future work is discussed      calculates the TWU of all items by scanning the database, and
+in Section VI. then keep candidates that may be HUIs. ",cs.DB,B,0.032447685,-0.10840887,-0.044580877
+http://arxiv.org/pdf/2206.06747v1,Learning from Uncurated Regular Expressions,"We note that after       3.2 Clustering
+PCRE, the next most common regular expression used by regex101
+was from Javascript. Exploring the use of these regular expressions     While our formulation of the semantic type classification above
+is left for future work. However, since our preliminary analysis        requires a ground truth, we also consider the possibility of grouping
+covers more than half of the collected regular expressions, we don’t    values into semantic types without requiring supervision. ",cs.DB,C,-0.30983293,-0.019459942,0.03520698
+http://arxiv.org/pdf/2206.07278v1,Nebula Graph: An open source distributed graph database,"All the logs and show queries can be                   synchronous requests’ latency. Then a new seed is
+sent to ELK frameworks for further analysis. chosen and a new sequence of IS-1 to IS-7 queries
+                                                                 are sent, until all 10k seeds are done. ",cs.DB,B,0.19358963,0.07653769,-0.11208288
+http://arxiv.org/pdf/2206.07375v1,Knowledge4COVID-19: A Semantic-based Approach for Constructing a COVID-19 related Knowledge Graph from Various Sources and Analysing Treatments' Toxicities,"These descriptions encode relevant facts that can be read and understood by humans. However, further analysis is
+required to make them understandable by machines. This DE makes used of data operators for named entity recognition
+to identify entities that correspond to drug related concepts. ",cs.DB,C,-0.4259451,-0.031395443,-0.13169977
+http://arxiv.org/pdf/2206.07375v2,Knowledge4COVID-19: A Semantic-based Approach for Constructing a COVID-19 related Knowledge Graph from Various Sources and Analysing Treatments' Toxicities,"These descriptions encode relevant facts that can be read and understood by humans. However, further analysis is
+required to make them understandable by machines. This DE makes used of data operators for named entity recognition
+to identify entities that correspond to drug related concepts. ",cs.DB,C,-0.4259451,-0.031395443,-0.13169977
+http://arxiv.org/pdf/2206.07428v1,Indexing Temporal Relations for Range-Duration Queries,"to each duration increases by the same scale of the dataset. For
+similar reasons, the performance of RD-INDEX-DT degrades, albeit               A direction of future work is to extend the RD-INDEX to support
+in a much less pronounced way. interval joins [35], thus addressing several needs with a single index. ",cs.DB,B,0.090660766,0.047097124,-0.083119616
+http://arxiv.org/pdf/2206.07504v1,On the complexity of finding set repairs for data-graphs,"In the case of graph databases, some applications can respond either to closed or open
+world semantics, and therefore both types of set-based repairs could be meaningful. In this work,
+we have considered both types of set-based repairs, but we note that we left for future work the
+study of symmetric diﬀerence-based repairs, which were actually studied in (Barcel´o & Fontaine,
+2017). Usually reasoning on symmetric diﬀerence repairs is much harder, and in the case of graphs
+with data the deﬁnition of symmetric diﬀerence is not as direct to formalize as it is in the models
+deﬁned in (Barcel´o & Fontaine, 2017). ",cs.DB,C,-0.2320829,0.25930962,0.095803514
+http://arxiv.org/pdf/2206.08530v1,GDsmith: Detecting Bugs in Graph Database Engines,"ACM, 862–873. https:
+   In future work, we plan to improve our approach to support more
+                                                                                                //doi.org/10.1145/1516360.1516459
+features of the Cypher language and detect more bugs in real-world
+                                                                                          [18] Neo4j. 2022. ",cs.DB,C,-0.09196778,-0.0186501,-0.01735198
+http://arxiv.org/pdf/2206.09336v1,Efficient Checking of Timed Order Compliance Rules over Graph-encoded Event Logs,"We intend to address this limitation in our future work. Other directions for future work are to evaluate these encoding methods on more
+compliance patterns and more event logs. Furthermore, we intend to translate
+several analysis queries against graph-encoded event logs available in the litera-
+ture into queries against these encoding schemes to assess whether there is still
+a performance gain and graph size reduction. ",cs.DB,B,0.0068824915,0.23463482,-0.05371719
+http://arxiv.org/pdf/2206.09758v1,Finding Good Proofs for Answers to Conjunctive Queries Mediated by Lightweight Ontologies (Technical Report),"T ∪ A |= q(a, ι), and n in unary or binary encoding, there
+exists a proof in D(T ∪ A, q(a, ι)) of (tree) size at most n.
+
+6 Conclusion
+
+We started to explore a framework for proofs of answers to conjunctive queries. So far, we only
+considered DLs whose axioms can be formulated as existential rules, but we also want to explore
+more expressive logics in future work. Other interesting research questions include derivers that
+combine TBox and query entailment rules, e.g. ",cs.DB,C,-0.24576649,0.34458753,0.2845692
+http://arxiv.org/pdf/2206.09758v2,Finding Good Proofs for Answers to Conjunctive Queries Mediated by Lightweight Ontologies (Technical Report),"T ∪ A |= q(a, ι), and n in unary or binary encoding, there
+
+exists a proof in D(T ∪ A, q(a, ι)) of (tree) size at most n.
+
+6 Conclusion
+
+We started to explore a framework for proofs of answers to conjunctive queries. So far, we only
+considered DLs whose axioms can be formulated as existential rules, but we also want to explore
+more expressive logics in future work. Other interesting research questions include derivers that
+combine TBox and query entailment rules, e.g. ",cs.DB,C,-0.24576649,0.34458753,0.2845692
+http://arxiv.org/pdf/2206.10009v1,Event-Case Correlation for Process Mining using Probabilistic Optimization,"Also, extending the set of quality measures for correlated event
+logs is an objective that can be pursued in following endeavors. Finally, an
+interesting avenue for future work is to explore the possibility of correlating the
+events solely based on constraints, without prior knowledge of the whole process
+model or by means of declarative process rules [68]. Acknowledgements
+    The work of Claudio Di Ciccio was partly supported by the Italian Ministry
+
+of University and Research (MUR) under grant “Dipartimenti di eccellenza
+2018-2022” of the Department of Computer Science at Sapienza University of
+Rome and by the Sapienza SPECTRA research project. ",cs.DB,C,-0.10848807,-0.13564521,-0.095332384
+http://arxiv.org/pdf/2206.10310v1,Modeling Big Data-based Systems through Ontological Trading,"Section 5 describes some related
+studies. Finally, in Section 6, some conclusions and future work are discussed. TKRSystem framework
+
+      MDE MDA
+
+  M3  CIM                                 PIM                                                   PSM
+  M2
+  M1                                        TKRS Metamodel           Transformation
+CODE                                      (.ecore) [PIM/M2]
+                                                                                     Configuration Metamodel
+                                                                     Transformation    (.ecore) [PSM/M2]
+
+                                          Implementation Repository
+                                                     Metamodel
+
+                                               (.ecore) [PIM/M2]
+
+                                                     TKRS Model                            TKRS Model
+                                                (.xmi) [PIM/M1]                      (.config) [PSM/M1] <<import>>
+
+                                          Implementation Repository                             <<import>>          Configuration Model
+                                                        Model                                                       (.config) [PSM/M1]
+                                                                     Implementation Repository
+                                                 (.xmi) [PIM/M1]                   Model                                     Transformation
+
+                                                                        (.config) [PSM/M1]
+
+                                                                                                                    Code     Code
+                                                                                                                     (.sh)  (.java)
+
+      Figure 1. ",cs.DB,C,0.07983118,-0.12596655,-0.12695591
+http://arxiv.org/pdf/2206.11061v1,An Ontological Approach to Analysing Social Service Provisioning,"Finally, in section 7 we
+evaluate the extension by showing sample SPARQL queries and results generated from a knowledge graph built using
+the Compass extension4. In section 8 we conclude by discussing the evaluation results and discuss the state of the
+ontology and future work. hasContributingStakeholder
+
+                 Organization
+
+                 hasModel                                                                 Characteristic                         ImpactScale
+
+                    Impact Model   hasStakeholder                            hasCharacteristic
+
+                                                   Stakeholder                                                       hasScale
+                                                                                                                       hasDepth
+                 hasProgram                                  forStakeholder                         ImpactReport                 ImpactDepth
+
+                         Program                   Stakeholder  hasImpactReport
+                                                    Outcome
+                  hasService                                                                                         hasDuration
+                                                   hasStakeholderoutcome                            ImpactRisk
+                          Service                                                    hasImpactRisk                                    ImpactDuration
+
+                                   hasOutcome            Outcome
+
+                                   canProduce                   hasIndicator
+
+       act:hasElaboration                      canEnable                                            Indicator
+
+Input  hasInput                    hasOutput       Output                    derivedFrom            hasIndicatorReport
+
+                 Activity
+
+                                                                                                    IndicatorReport
+
+       Figure 1: Common Impact Data Standard Core Classes. ",cs.DB,C,-0.4093734,-0.044267826,-0.16039069
+http://arxiv.org/pdf/2206.11061v2,An Ontological Approach to Analysing Social Service Provisioning,"Finally, in section 7
+we evaluate the extension by showing sample SPARQL queries and results generated from a knowledge graph built
+using the Compass extension4. In section 8 we conclude by discussing the evaluation results and discuss the state of the
+ontology and future work. hasContributingStakeholder
+
+                 Organization
+
+                 hasModel                                                                 Characteristic                         ImpactScale
+
+                    Impact Model   hasStakeholder                            hasCharacteristic
+
+                                                   Stakeholder                                                       hasScale
+                                                                                                                       hasDepth
+                 hasProgram                                  forStakeholder                         ImpactReport                 ImpactDepth
+
+                         Program                   Stakeholder  hasImpactReport
+                                                    Outcome
+                  hasService                                                                                         hasDuration
+                                                   hasStakeholderoutcome                            ImpactRisk
+                          Service                                                    hasImpactRisk                                    ImpactDuration
+
+                                   hasOutcome            Outcome
+
+                                   canProduce                   hasIndicator
+
+       act:hasElaboration                      canEnable                                            Indicator
+
+Input  hasInput                    hasOutput       Output                    derivedFrom            hasIndicatorReport
+
+                 Activity
+
+                                                                                                    IndicatorReport
+
+       Figure 1: Common Impact Data Standard Core Classes. ",cs.DB,C,-0.4093734,-0.044267826,-0.16039069
+http://arxiv.org/pdf/2206.12380v1,VIP Hashing -- Adapting to Skew in Popularity of Data on the Fly (extended version),"Key-           challenging (§5.1, [43]). Possible future work could involve
+value stores designed for disk-based settings, such as Anna [44]   studying other low latency data structures such as bloom
+and Faster [32] incorporate techniques to leverage the skew        ﬁlters [29], to see how cache locality can be improved by
+in popularity by moving hot data to memory. Recent work            adapting to the data. ",cs.DB,B_centroid,0.41868097,0.16949871,-0.19649507
+http://arxiv.org/pdf/2206.12753v1,Spatiotemporal Data Mining: A Survey,"Publication date: August 2018. 1:4  Arun Sharma ,Zhe Jiang and Shashi Shekhar
+
+It summarizes recent trends and suggests future work for the advancement of high-performance
+spatiotemporal data mining. 3 DEFINITIONS AND SOCIETAL IMPORTANCE
+
+This section provides key terms and a taxonomy of spatial and spatiotemporal data and its attributes
+and relationships. ",cs.DB,A,-0.10969518,-0.1452878,-0.14901415
+http://arxiv.org/pdf/2206.12756v1,Towards a Tighter Bound on Possible-Rendezvous Areas: Preliminary Results,"Finally, Section 8 concludes this
+polation methods using shortest path discovery [5, 24]. Other works      work and briefly lists the future work. consider an object’s motion uncertainty via geometric-based meth-
+ods (e.g., space-time prisms [13, 15, 17]) using spatial geo-ellipse     2 PROBLEM FORMULATION
+boundaries constructed via motion parameters (e.g., speed). ",cs.DB,A,0.0022305325,-0.19693138,0.27194935
+http://arxiv.org/pdf/2206.14602v1,Coo: Consistency Check for Transactional Databases,"D               DA                   The distributed
+jects for a more detailed evaluation. We also plan our future work
+to test databases with more random cycles by a larger number of        data anomaly exists if the represented POP graph has a cycle, and
+transactions and objects. it has at least two objects storing at distributed partitions. ",cs.DB,B,0.11253755,0.12888393,-0.033012573
+http://arxiv.org/pdf/2206.14604v1,Mining Seasonal Temporal Patterns in Big Time Series,"Compared to the baseline,
+the approximate A-STPM delivers an order of magnitude speedup
+on large datasets. In future work, we plan to extend STPM to prune
+at the event level to further improve its performance. 13
+REFERENCES                                                                                      [27] ENTSO-E Transparency Platform. ",cs.DB,B,0.24992007,0.023867276,-0.17137545
+http://arxiv.org/pdf/2206.14604v2,Mining Seasonal Temporal Patterns in Big Time Series,"Compared to the baseline, the
+to compute MI once (the computed MIs are used across different                                   approximate A-STPM delivers up to an order of magnitude speedup. 𝑚𝑖𝑛𝑆𝑒𝑎𝑠𝑜𝑛 and 𝑚𝑖𝑛𝐷𝑒𝑛𝑠𝑖𝑡𝑦 thresholds), while the computation of                                   In future work, we plan to extend STPM to prune at the event level
+𝜇 is negligible (in milliseconds using Eq. (8)). ",cs.DB,B,0.35852098,-0.13386527,-0.041720252
+http://arxiv.org/pdf/2207.01269v1,DiffML: End-to-end Differentiable ML Pipelines,"For instance, different        are combined with the model training. Furthermore, we think that
+                                       papers have shown that while automated data cleaning can improve          this paper is only a starting point and more additional research is
+                                       the performance, an unsuitable cleaning method can also signifi-          required to automate other pipeline steps or even explore other
+                                       cantly deteriorate the accuracy of a (downstream) model [15, 20, 21]. directions to enable differentiable ML pipelines beyond the idea of
+                                       The reason behind this deterioration is that the automated indi-          using mixtures. ",cs.DB,C,-0.026791485,-0.14417672,-0.2946385
+http://arxiv.org/pdf/2207.01269v2,DiffML: End-to-end Differentiable ML Pipelines,"Furthermore, we think that
+                                       cantly deteriorate the accuracy of a (downstream) model [15, 20, 21]. this paper is only a starting point and more additional research is
+                                       The reason behind this deterioration is that the automated indi-          required to automate other pipeline steps or even explore other
+                                       vidual techniques often do not target the final accuracy of the ML        directions to enable differentiable ML pipelines beyond the idea of
+                                       model but metrics of the particular task (e.g., the accuracy of the       using mixtures. imputation strategy). ",cs.DB,C,0.028265322,-0.23650652,-0.21514194
+http://arxiv.org/pdf/2207.02746v1,C5: Cloned Concurrency Control that Always Keeps Up,"A  cloned  will commit, and a fundamental gap will again exist. We leave the
+                                                                                                  generalization of our formal framework to optimistic concurrency
+                                                            𝑏                                     control to future work. concurrency control protocol has finite replication lag for workload                                 Third, because the above proof only assumes 0 < 𝑑 ≤ 𝑒, it also
+                                                                                                  applies even if there is primary-specific processing, such as parsing
+𝑊 = (T , 𝐴T ) if there exists some finite 𝐿 such that for all 𝑇 ∈ T ,                             and planning. ",cs.DB,B,0.23764634,0.18463562,-0.08266281
+http://arxiv.org/pdf/2207.02900v1,Are Updatable Learned Indexes Ready?,"This type of updatable learned indexes
+ing with new proposals on handling multi-dimensional data [13,                          requires as input an error threshold to bound the distance of the last-
+15, 30, 43, 46, 54, 60], persistence [33] and string keys [50, 55], we                  mile search; it is adopted by PGM-Index [16], XIndex [52], FITing-
+focus on one-dimensional updatable indexes on numeric data and                          Tree [18] and FINEdex [29]. In case a model’s error margin goes
+anticipate future work to cover the other aspects. beyond the given threshold, the index will carry out adjustment
+                                                                                        such as increasing the granularity of the models [20] or increasing
+   In the rest of this paper, Section 2 provides the necessary back-                    the number of nodes (and hence increasing the number of models
+ground on updatable learned indexes. ",cs.DB,A,0.11080308,-0.022972174,0.11011356
+http://arxiv.org/pdf/2207.02900v2,Are Updatable Learned Indexes Ready?,"Consequently, the                    16, 32, 45, 48, 56, 64], persistence [35] and string keys [52, 57], we
+index often needs a leaf layer that explicitly stores the key-position               focus on one-dimensional updatable indexes on numeric data and
+information, bloating memory usage. anticipate future work to cover the other aspects. In this paper, we examine the end-to-end memory space efficiency                     In the rest of this paper, Section 2 provides the background on
+of learned indexes including their leaf layer with key-position pairs. ",cs.DB,B,0.27605307,0.114835516,-0.0560309
+http://arxiv.org/pdf/2207.03536v1,"Deep Learning to Jointly Schema Match, Impute, and Transform Databases","The procedure of matching between inputs and chimeric
+outputs can be seen as a form of knowledge distillation; we are searching
+over the space of permutations (and discarding some features) for a func-
+tion that approximates the chimeric encoder. Search strategies built into
+the neural network optimization are certainly possible, but we defer this to
+future work. Second, we are the ﬁrst, to our knowledge, to use false discovery rate
+control to deﬁne a cutoﬀ for partial mapping. ",cs.DB,A,-0.0031821467,-0.006562398,0.21040905
+http://arxiv.org/pdf/2207.04122v1,Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation,"It is an            cos(vec(c), vec(c )) as input. By pairing Sherlock/Sato with
+interesting future work to explore how to integrate relevant      the 5 classiﬁcation models, we obtain 2×5=10 baseline vari-
+ﬁne-tuning methods like Rotom with SSL methods such as            ants. Among all the variants, the GBT classiﬁers achieve the
+Sudowoodo. ",cs.DB,B,0.09408775,-0.13915955,0.019409943
+http://arxiv.org/pdf/2207.04122v2,Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation,"It is an            cos(vec(c), vec(c )) as input. By pairing Sherlock/Sato with
+interesting future work to explore how to integrate relevant      the 5 classiﬁcation models, we obtain 2×5=10 baseline vari-
+ﬁne-tuning methods like Rotom with SSL methods such as            ants. Among all the variants, the GBT classiﬁers achieve the
+Sudowoodo. ",cs.DB,B,0.09408775,-0.13915955,0.019409943
+http://arxiv.org/pdf/2207.04439v1,Efficient RDF Streaming for the Edge-Cloud Continuum,"Moreover, this study opens up the possibility         and the consumer. The producer sends a potentially unbounded
+                                        of applying and evaluating the method in real-life scenarios,             sequence of Resource Description Framework (RDF) [6] state-
+                                        which will be the focus of further research. ments (triples or quads) to the consumer over the network. ",cs.DB,C,-0.14807418,-0.07838323,-0.17302783
+http://arxiv.org/pdf/2207.06631v1,Influential Billboard Slot Selection using Pruned Submodularity Graph,"Location Type PS Graph+Greedy Top-k Coverage PS Graph+Random Random
+
+     Beach     84+110+447  64            105    190    120
+      Mall                               209    864    432
+     Bank      191+487+1554 102         5544   10440  6372
+  Bus Stop                              17352  61200  10440
+Train Station  5527+4136+14004 5544     5616   10440  7200
+    Airport                             1656   9360   2196
+               17174+42984+74160 17316
+
+               5497+37605+57600 5652
+
+               1625+7201+12600 1656
+
+ology to obtain the performance guarantee. Our future work on this problem
+will remain concentrated on developing eﬃcient solution methodologies for this
+problem. References
+
+ 1. ",cs.DB,A,0.14792995,-0.17425728,0.28240618
+http://arxiv.org/pdf/2207.07831v1,Utility Driven Job Selection Problem on Road Networks,"Subsequently, we conduct several experiments to evaluate the proposed
+methodologies. Our future work on this problem will concentrate on developing
+more scalable algorithms along with more realistic constraints such as the num-
+ber of people required for completion of a job is more than one, the existence of
+more than one worker in the system and so on. Utility Driven Job Selection Problem on Road Networks  13
+
+References
+
+ 1. ",cs.DB,A,0.11657541,-0.15172043,0.25227517
+http://arxiv.org/pdf/2207.08369v1,PerfCE: Performance Debugging on Databases with Chaos Engineering-Enhanced Causality Analysis,"6.1, we
+                       X1 ∼ Uniform(−1, 1)                                 further illustrate the applicability of incorporating expert
+     no confounder     X2 ∼ Uniform(−1, 1)                                 knowledge to improve the accuracy of PERFCE: we enhance
+                       Y = θ1(X1) + θ2(X2) + ϵ, ϵ ∼ Uniform(−1, 1)         the CPU case’s MAP@R score from 0.11 to 0.27 and the
+             (b)       X1 ∼ Uniform(−1, 1)                                 NDCG score from 0.57 to 0.61. As a practical future work, we
+observable confounder  X2 = θ1(X1) + η, η ∼ Uniform(−1, 1)                 anticipate that PERFCE can be improved by encoding prior
+                       Y = θ2(X1) + θ3(X2) + ϵ, ϵ ∼ Uniform(−1, 1)         knowledge [61] from users to assist in the causal structure
+             (c)       IV ∼ Uniform(−1, 1)                                 learning phase. We leave it for future exploration. ",cs.DB,A,-0.07767942,-0.20580499,0.10826209
+http://arxiv.org/pdf/2207.08757v1,Don't Be a Tattle-Tale: Preventing Leakages through Data Dependencies on Access Control Protected Data,"We also added a FC based on the continuous
+leakage from FC. We leave further exploration of this extended             domain attribute named “tax” which is calculated as a function
+model as future work. “tax = f n(salary, rate)”. ",cs.DB,C,-0.15176736,-0.18893036,-0.09788163
+http://arxiv.org/pdf/2207.08757v2,Preventing Inferences through Data Dependencies on Sensitive Data,"We call this partial
+leakage from FC. We leave further exploration of this extended
+model as future work. 7 EXPERIMENTAL EVALUATION                                              Fig. ",cs.DB,C,0.068426505,-0.28355163,-0.14604291
+http://arxiv.org/pdf/2207.11205v1,Toward a Generic Mapping Language for Transformations between RDF and Data Interchange Formats,"In
+path PX (Line 18). our future work, we are going to extend the language and
+                                                                           algorithm to also allow for JSON and other exchange formats
+   Listing 2 shows the part of the XML output generated for                to be generated from an ontology. Another important aspect
+the ontology shown in Figure 2 and the mapping deﬁnition                   is a sound investigation of the expressivity of the mapping
+given in Listing 1. ",cs.DB,C,-0.35009122,0.09648973,-0.035104807
+http://arxiv.org/pdf/2207.11205v2,Toward a Generic Mapping Language for Transformations between RDF and Data Interchange Formats,"In
+path PX (Line 18). our future work, we are going to extend the language and
+                                                                           algorithm to also allow for JSON and other exchange formats
+   Listing 2 shows the part of the XML output generated for                to be generated from an ontology. Another important aspect
+the ontology shown in Figure 2 and the mapping deﬁnition                   is a sound investigation of the expressivity of the mapping
+given in Listing 1. ",cs.DB,C,-0.35009122,0.09648973,-0.035104807
+http://arxiv.org/pdf/2207.11575v1,Testing the Robustness of Learned Index Structures,"across all poisoning levels. REFERENCES
+
+   For further analysis, we have also calculated the overall mean       [1] Hussam Abu-Libdeh, Deniz Altınbüken, Alex Beutel, Ed H Chi, Lyric Doshi,
+lookup time for the evaluated learned indexes, averaged across all           Tim Kraska, Andy Ly, and Christopher Olston. 2020. ",cs.DB,A,-0.11050573,-0.40612346,-0.031159503
+http://arxiv.org/pdf/2207.11950v1,One-off Negative Sequential Pattern Mining,"Compared with other state-of-the-art algorithms, such as e-NSP (51) and e-RNSP (52),
+       ONP-Miner algorithm is less eﬃcient in mining negative patterns when mining similar
+       number of frequent positive patterns. Therefore, further research is needed to improve the
+       eﬃciency of the algorithm. Acknowledgement
+
+    This work was partly supported by National Natural Science Foundation of China (61976240,
+52077056, 91746209, 62120106008), National Key Research and Development Program of
+China (2016YFB1000901), and Natural Science Foundation of Hebei Province, China (Nos. ",cs.DB,A,-0.043249156,-0.25938162,0.17627065
+http://arxiv.org/pdf/2207.12713v1,Implementing the Comparison-Based External Sort,"Since in PosDB tuple-based representation lacks
+     positions, it is a value sort. Position-based value sort operator may be beneﬁcial for late materialization
+(and therefore interesting for further research), since it sorts key-position pairs
+similar to unclustered (tag) sorting, which is stated [24] to be more eﬃcient on
+SSD if tuples are big enough. However, it is beyond the scope of this paper. ",cs.DB,A,0.024981016,0.029806728,0.15223888
+http://arxiv.org/pdf/2207.12718v1,XInsight: eXplainable Data Analysis Through The Lens of Causality,"We leave integrating XInsight into these scenarios for          in-depth explainability toward EDA. XDA offers either causal or
+future work. non-causal explanations for EDA outcomes, from both quantitative
+                                                                            and qualitative perspectives. ",cs.DB,C,-0.3351468,-0.2219792,-0.19804884
+http://arxiv.org/pdf/2207.12718v2,XInsight: eXplainable Data Analysis Through The Lens of Causality,"Furthermore, when ex-
+plaining changes of whole time series [11], XInsight may be not
+applicable. We leave integrating XInsight into these scenarios for
+future work. 6 RELATED WORK
+
+Data Explanation. ",cs.DB,C,-0.054014377,-0.19786283,-0.3333224
+http://arxiv.org/pdf/2207.12718v3,XInsight: eXplainable Data Analysis Through The Lens of Causality,"Furthermore, when ex-
+                                                                                         plaining changes of whole time series [11], XInsight may be not
+are equally good and successfully identify the ground-truth expla-                       applicable. We leave integrating XInsight into these scenarios for
+                                                                                         future work. nations. ",cs.DB,C,-0.13760406,-0.2165879,-0.2647517
+http://arxiv.org/pdf/2207.13239v1,BrainActivity1: A Framework of EEG Data Collection and Machine Learning Analysis for College Students,"Even though as much detail and trial and error experience we managed to
+include in our guideline, there are chances that individual cases develop distinct
+issues. Our future work includes research/EEG coach-based student study/work
+community, in which they can learn and discuss their experience with non-clinical
+devices collecting EEG-based data and possibly establish solutions to various
+issues after the encounter. 5 Conclusion
+
+This paper investigated the data collection for EEG-based BCI to develop larger
+datasets. ",cs.DB,C,-0.19297832,-0.21241608,-0.2198532
+http://arxiv.org/pdf/2207.14163v1,Towards Specificationless Monitoring of Provenance-Emitting Systems,"Afterwards we outline how to use
+spectral graph theory to detect anomalous provenance data in Section 5. Finally,
+in Section 6 we summarize our work and give an outlook on future work. 2 Related Work
+
+Provenance Early works highlight the importance of provenance to enable audits
+of automated workﬂow systems [17, 29]. ",cs.DB,C,-0.17739579,-0.017444333,-0.03421915
+http://arxiv.org/pdf/2207.14529v1,The Effects of Data Quality on ML-Model Performance,"We recommend not to focus on these                encoding high-dimensional data into a two-dimensional embedded
+two dimensions, when using large training datasets with a few                 space. In future work, it is important to use not only AMI to evaluate
+columns. Consistent representation has impact as soon as the new              the clustering algorithm, but to also consider metrics such as abso-
+representations outweigh the old one. ",cs.DB,A,-0.09475574,-0.14225905,-0.061689615
+http://arxiv.org/pdf/2207.14529v2,The Effects of Data Quality on Machine Learning Performance,"International Journal on Advances in Software 10, 1 (2017), 1–20. [27] Nitin Gupta, Hima Patel, Shazia Afzal, Naveen Panwar, Ruhi Sharma Mit-
+   In future work, it is important to use not only AMI to evaluate the                     tal, Shanmukha C. Guttula, Abhinav Jain, Lokesh Nagalapatti, Sameep Mehta,
+
+clustering algorithm, but to also consider metrics such as absolute                  Sandeep Hans, Pranay Lohia, Aniya Aggarwal, and Diptikalyan Saha. 2021.
+size of overlap of the original and generated data clustering and                    Data Quality Toolkit: Automatic assessment of data quality and remediation
+                                                                                     for machine learning datasets. ",cs.DB,A,-0.11388587,-0.19429636,-0.11565079
+http://arxiv.org/pdf/2207.14529v3,The Effects of Data Quality on Machine Learning Performance,"Journal of Statistics Education 19, 3 (2011),
+                                                                                            null. https://doi.org/10.1080/10691898.2011.11889627
+   In future work, it is important to use not only AMI to evaluate the                [15] NVIDIA Corporation. [n.d.]. ",cs.DB,C,-0.04076567,-0.3909145,-0.104096174
+http://arxiv.org/pdf/2207.14529v4,The Effects of Data Quality on Machine Learning Performance,"experiments. In future work, it is important to use not only AMI
+    Surprisingly, the consistent representation, target ac-  to evaluate the clustering algorithm, but to also con-
+curacy, target class balance and uniqueness dimensions       sider metrics such as absolute size of overlap of the
+had very low impact on the performance of the ma-            original and generated data clustering and average and
+jority of the examined algorithms. In contrast, adding       variance of the cluster sizes in the algorithm output. ",cs.DB,A,0.07481447,-0.3114872,-0.008514124
+http://arxiv.org/pdf/2208.00273v1,Optimizing Differentially-Maintained Recursive Queries on Dynamic Graphs,"iteration for 𝐺𝑘 . For further analysis, we examine our workloads with different          We store the differences in vertex states (i.e., the output of the
+probability of delete batches (0%, 25%, 50%, 75%, 100%). Similar to    aggregation operator) also in a hash table where the keys are vertex
+previous experiments, we ran different queries with 100 batches,       IDs and the value is a list of pairs ⟨𝑖, 𝑠𝑖𝑣⟩ that is sorted by 𝑖, where
+each with 1 edge. ",cs.DB,B,0.24049512,0.16565123,0.19883049
+http://arxiv.org/pdf/2208.01043v1,ASTA: Learning Analytical Semantics over Tables for Intelligent Data Analysis and Visualization,"with field linguistic embeddings. Note that we have not designed
+table-level statistical signatures and leave it as future work. 4.2 Conditional Formatting Recommendation
+
+7For example, creating a bar chart requires an x-axis, while a pie chart does not. ",cs.DB,C,-0.45863315,-0.053627573,0.09281038
+http://arxiv.org/pdf/2208.01043v2,ASTA: Learning Analytical Semantics over Tables for Intelligent Data Analysis and Visualization,"with field linguistic embeddings. Note that we have not designed
+table-level statistical signatures and leave it as future work. 4.2 Conditional Formatting Recommendation
+
+   The following steps are similar to those in conditional formatting                                                             4.2.1 Baselines. ",cs.DB,C,-0.3944964,-0.061313182,0.028573802
+http://arxiv.org/pdf/2208.01163v1,On Shapley Value in Data Assemblage Under Independent Utility,"Our experi-
+                                                                                                                       mental results on real data sets show that our new approach is
+Figure 6: Effect of hyper-parameter 𝛾 (Different Zipfian Pa-                                                           orders of magnitude faster than the conventional approaches. rameter 𝛽 values)
+                                                                                                                          Shapley value computation under independent utility opens
+   When 𝛾 increases, the runtime drops first when 𝛾 is small, and                                                      a new direction for future work. For example, it is interesting to
+
+then increases. ",cs.DB,A_centroid,0.19361493,-0.14085104,0.15757684
+http://arxiv.org/pdf/2208.01644v1,"Data Fusion: Theory, Methods, and Applications","Instead, only carefully pre-processed and aggregated
+data models are delivered to the customers. This monograph is a ﬁrst attempt to integrate the spread-out results from
+diﬀerent domains using the methodology of the well-established classical aggre-
+gation framework, introduce researchers and practitioners to Aggregation 2.0, as
+well as to point out the challenges and interesting directions for further research. It is organized as follows. ",cs.DB,C,-0.15666574,-0.10824922,-0.015496077
+http://arxiv.org/pdf/2208.02697v1,WShEx: A language to describe and validate Wikibase entities,"Improving quality of Knowledge graphs in general, and Wikidata in particu-
+lar, has been the focus of some research like [14, 18, 16]. WShEx: A language to describe and validate Wikibase entities  11
+
+5 Conclusions and future work
+
+WShEx can be used to describe and validate Wikibase graphs using an exten-
+sion of Shape Expressions that handle also qualiﬁers. We consider that WShEx
+schemas are more succint and adapt better to the Wikibase data model. ",cs.DB,C,-0.38323694,0.18605226,-0.09351669
+http://arxiv.org/pdf/2208.04784v1,LinGBM: A Performance Benchmark for Approaches to Build GraphQL Servers (Extended Version),"LinGBM provides every-
+thing needed to design and run experiments with workloads that contain a specific mix of queries
+that is typical in a particular application scenario (where some types of queries are more frequent
+than others). One of our future work tasks is to define and evaluate such workloads for selected
+application scenarios. Another related task will be to extend the benchmark with update operations
+and possible read-write workloads. ",cs.DB,B,0.17799804,0.1794617,-0.2339485
+http://arxiv.org/pdf/2208.04802v1,Integrating connection search in graph queries,"well with the size of the graph. Our future work includes developing adaptive EQL optimization
+5.5.2 Comparison with JEDI on real-world data. JEDI [2] used a                                                                    and execution strategies and applying it to graph exploration for
+set of (unidirectional, label-constrained) SPARQL 1.1 queries over                                                                investigative journalism. ",cs.DB,B,-0.0032351166,0.24727623,0.049863257
+http://arxiv.org/pdf/2208.04927v1,Enabling Efficient and General Subpopulation Analytics in Multidimensional Data Streams,"data cube and optimize operations that are performed only on a
+small subset of dimensions at a time [52, 56, 57, 69, 71]. Hydra opens up avenues for future work. For example, an open
+                                                                            question is how to enable dynamic sketch reconfiguration given
+Data Aggregations: The aggregation-based queries that we dis-               changing workloads or operator goals. ",cs.DB,B,0.16700147,0.1921776,-0.03541415
+http://arxiv.org/pdf/2208.05365v1,Saturation-based Boolean conjunctive query answering and rewriting for the guarded quantification fragments,"For example, we could focus on ontologies that are
+composed by the fragments of the description logic ALCHOI and guarded, loosely
+Saturation-based methods for querying the guarded quantiﬁcation fragments  73
+
+guarded and clique guarded Datalog±, since the number of GF problems in the TPTP
+ﬁrst-order theorem proving benchmark [91] is rather small. Two other interesting questions for future work are: 1) Extend our saturation-
+based procedures to support the tasks of answering and saturation-based rewriting
+BCQs for guarded negation fragments including the guarded negation and the clique-
+guarded negation fragments [11]. This will require equality reasoning which we
+conjecture can be handled by extensions of the procedures presented in this paper
+with paramodulation or superposition. ",cs.DB,C,-0.18191561,0.25104874,0.23713288
+http://arxiv.org/pdf/2208.07779v1,Steps to Knowledge Graphs Quality Assessment,"Furthermore, the develop-
+ment of a KG assessment framework might be, to some extent, semi-automated,
+i.e., implementing the metrics that can be quantitatively measured (which also
+might reduce assessment costs), but it will still be a combination of human-
+machine eﬀorts as necessary. On one hand, since there is no unique solution to assess the status of KGs,
+further research is needed to evaluate the framework in speciﬁc use cases. On the
+other hand, a uniﬁed quality assessment approach would improve the applying
+of quality assessment in KGs and increase the adoption of KGs to worldwide
+application scenarios. ",cs.DB,C,-0.16173926,-0.35462314,-0.17741266
+http://arxiv.org/pdf/2208.08130v1,Knowledge Graph Curation: A Practical Framework,"This can be overcome, to a certain level,
+        if a validation framework uses open corpora (e.g. Wikipedia)               In the following, we point out our future work and open research
+        but its performance lows down. questions. ",cs.DB,C,-0.26989502,-0.07443536,-0.17945054
+http://arxiv.org/pdf/2208.09672v1,Comparing graph data science libraries for querying and analysing datasets: towards data science queries on graphs,"We are deploying data science pipelines on target architectures such
+as the cloud and GPUs provide large-scale computing, memory and storage
+resources to further develop our experiments. There is room for querying and
+exploiting data through data science queries managed by the environment as
+ﬁrst-class citizens for future work. References
+
+1. ",cs.DB,B,0.12250903,0.30254486,-0.22715688
+http://arxiv.org/pdf/2208.09673v1,"Graph analytics workflows enactment on just in time data centres, Position Paper","Section 4 describes the general lines of how to build just in time
+virtual data centres for executing data science workﬂows. Section 5 concludes
+the paper and discusses future work. 2 Related Work
+
+In general, querying techniques can be categorised across two families: (i) the
+ﬁrst concerns querying as we know it in databases and information retrieval;
+(ii) the second, a family where workﬂows, namely Data Science (DS) workﬂows,
+explore and analyse the data to proﬁle them quantitatively either with mod-
+elling, prediction, or recommendation purposes. ",cs.DB,B,-0.04292756,0.23362082,-0.18840937
+http://arxiv.org/pdf/2208.09744v1,A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy,"In                                                                    1082–1090. future work, we plan to extend our work by creating DP-compliant                                                                  [20] Graham Cormode, Cecilia Procopiuc, Divesh Srivastava, Entong Shen, and Ting
+                                                                                                                                        Yu. 2012. ",cs.DB,C,-0.06221349,-0.15047267,-0.052635103
+http://arxiv.org/pdf/2208.09827v1,A Survey on Transactional Stream Processing,"Next, we                      implementation of emerging streaming mining algorithms,
+turn our attention to varying application areas, including                   such as streaming event detection [97]. It thus remains an
+online machine learning/stream mining, mixed batch/stream                    interesting future work to study how those online ML and
+transactional workloads, streaming materialized views, and                   stream mining algorithms can be supported efﬁciently in
+operational stream processing. TSPSs, which bring features, such as elastic scaling, fault
+                                                                             tolerance guarantees, and shared state consistency to users. ",cs.DB,B,0.17996025,0.012383385,-0.20101818
+http://arxiv.org/pdf/2208.12439v1,Temporal Fuzzy Utility Maximization with Remaining Measure,"The
+ﬁnal results show the proposed algorithm has good scalability                                                                                                                     [11] C. Chu, V. S. Tseng, and T. Liang, “An efﬁcient algorithm for mining
+no matter the different data sizes or periods. As a part of                                                                                                                             temporal high utility itemsets from data streams,” Journal of Systems
+future work, we intend to consider further reducing the number                                                                                                                          and Software, vol. 81, no. ",cs.DB,A,0.05771183,-0.060177118,0.014661945
+http://arxiv.org/pdf/2208.12634v1,Wrangler for the Emergency Events Database: A Tool for Geocoding and Analysis of a Global Disaster Dataset,"Users can employ the n_results
+parameter to get the n closest matches to the input location and decide which one
+to use. The unwrap parameter allows users to persist the geocoded data in a nested
+data frame structure, which may be useful when exporting for further analysis, or to
+obtain the geocoded data in unwrapped form, with each latitude and longitude
+assigned in separate fields (lat1, lng1, lat2, lng2, etc.) geocoded_df <- locationized_df %>%
+   geocode(unwrap = FALSE, geonames_username = sample_username)
+
+As seen in Table 3, the geographic coordinates generated by geocoding (in green) are
+considerably more complete than the coordinates provided in the original dataset (in
+blue). ",cs.DB,A,-0.08323102,-0.15235949,0.029754888
+http://arxiv.org/pdf/2208.12928v1,"A scalable pipeline for COVID-19: the case study of Germany, Czechia and Poland","The publicly accessible COVID-19 data
+provided in raw textual format, such as CSV, JSON, and XML are downloaded
+and analysed by the researchers employing either statistical or machine learn-
+ing approaches. However, the data are unwell structured and require heavy
+pre-processing as well as ingestion activities for further analysis. This method is
+inherently ineﬃcient due to identical and manual parallel pre-processing of the
+RKI data (using e.g. ",cs.DB,C,-0.14004213,-0.0882449,-0.279446
+http://arxiv.org/pdf/2208.14210v1,Learned k-NN Distance Estimation,"𝑘-NN density visualization, distance-    is low. The case of high-dimensional data is a future work, because
+    based outlier detection, reverse engineering for density-based         solutions for this case can be totally different1. clustering, and approximate 𝑘-NN search. ",cs.DB,A,-0.066453345,-0.24712169,0.008937813
+http://arxiv.org/pdf/2208.14210v2,Learned k-NN Distance Estimation,"𝑘-NN density visualization, distance-    is low. The case of high-dimensional data is a future work, because
+    based outlier detection, reverse engineering for density-based         solutions for this case can be totally different1. clustering, and approximate 𝑘-NN search. ",cs.DB,A,-0.066453345,-0.24712169,0.008937813
+http://arxiv.org/pdf/2208.14230v1,A Generic Algorithm for Top-K On-Shelf Utility Mining,"The experimental
+analysis and detailed results are provided in Section 5. Finally, the conclusion and discussion of our
+future work are summarized in Section 6. 2 RELATED WORK
+In this section, we review the related work on high utility itemset mining, on-shelf utility mining,
+and top-𝑘 pattern mining. ",cs.DB,A,-0.09820418,-0.19323614,0.13759129

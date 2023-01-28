@@ -1,0 +1,1244 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00958v1,A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography,"Because the signals deduced from
+these estimates are very close to the initial observations, they have almost the same likeli-
+hood from a statistical point of view. It is possible that further research on the forward model
+could reduce the demand for computing resources and make these parameters identiﬁable. With such a forward model, the efﬁciency and accuracy of the proposed approach could be
+further improved. ",stat.AP,C,-0.35351235,0.03426578,-0.22037439
+http://arxiv.org/pdf/2201.00958v2,A Statistical Approach to Estimating Adsorption-Isotherm Parameters in Gradient-Elution Preparative Liquid Chromatography,"Because the signals deduced from
+these estimates are very close to the initial observations, they have almost the same likeli-
+hood from a statistical point of view. It is possible that further research on the forward model
+could reduce the demand for computing resources and make these parameters identiﬁable. With such a forward model, the efﬁciency and accuracy of the proposed approach could be
+further improved. ",stat.AP,C,-0.35351235,0.03426578,-0.22037439
+http://arxiv.org/pdf/2201.01132v1,"A Multivariate Dependence Analysis for Electricity Prices, Demand and Renewable Energy Sources","Interestingly, the panels in Figure 2 show the proﬁles for demand, wind and solar generation
+forecasted over 24 hours, across days of the week and months of the years. These clearly support
+the importance of modelling weekly and monthly seasonality before undertaking further analysis. In
+addition, these emphasize the diﬀerent intra-daily dynamics of demand and RES, which inﬂuence
+the multivariate dependence. ",stat.AP,A,-0.19781804,0.17677006,-0.0032497905
+http://arxiv.org/pdf/2201.01168v1,Application of the Pythagorean Expected Wins Percentage and Cross-Validation Methods in Estimating Team Quality,"These results are consistent across multiple models as shown by the leave-one-out
+cross-validation approach. A future work might consider how the alternative models considered herein compare in alternative
+sports leagues. References
+
+Alcalde, José, and Matthias Dahm. ",stat.AP,A,0.11157101,0.3333243,-0.089318186
+http://arxiv.org/pdf/2201.02810v1,"Evaluation of histological findings with severity grade, to analyze toxicology in-vivo studies","Due to the use of the CRAN packages
+coin, tukeytrend and multcomp, the evaluation of real data is relatively easy. The next future work is simulation for small ni designs with different data conditions up to zero-variance
+in the control. References
+
+ [1] Organisation for Economic Co-operation and Development (OECD). ",stat.AP,A,-0.2323296,0.20975478,0.10561297
+http://arxiv.org/pdf/2201.03464v1,Knots and their effect on the tensile strength of lumber,"The predictive performance of the ﬁtted model is also investigated
+and compared to baseline regression models via cross-validation. We conclude the paper
+in Section 5 with a discussion of the insights gained into the joint strength-reducing eﬀects
+of knots and the implications of this study for future work. 2 Framework for Modelling Lumber Strength
+
+2.1 Model Conceptualization
+
+For a given lumber specimen we will observe a collection of knots with various sizes and
+locations, and this section develops a framework for modelling the impact of the knots
+on tensile strength. ",stat.AP,A,0.003856644,0.31168744,-0.17216702
+http://arxiv.org/pdf/2201.03464v2,Knots and their effect on the tensile strength of lumber,"The predictive performance of the ﬁtted model is also investigated
+
+                                                         3
+and compared to baseline regression models via cross-validation. We conclude the paper
+in Section 5 with a discussion of the insights gained into the joint strength-reducing eﬀects
+of knots and the implications of this study for future work. 2 Framework for Modelling Lumber Strength
+
+2.1 Model Conceptualization
+
+For a given lumber specimen we will observe a collection of knots with various sizes and
+locations, and this section develops a framework for modelling the impact of the knots
+on tensile strength. ",stat.AP,A,0.00868026,0.3106137,-0.17216617
+http://arxiv.org/pdf/2201.05009v1,Bayesian Estimation of Multivariate Hawkes Processes with Inhibition and Sparsity,"Section 6 summarises the posterior inference and Section 7 presents an example on simu-
+lated data using the aforementioned aspects. We ﬁnish with a discussion and comments
+on future work in Section 8. 2 Background
+
+This section considers the M -dimensional Hawkes process and summarises approaches
+for sparse estimation procedures. ",stat.AP,C,-0.1892119,-0.28370047,-0.11292508
+http://arxiv.org/pdf/2201.05249v1,An Empirical Study of Least Squares Ratings for USA Ultimate Frisbee,"The fact
+that least squares can consider all data uniformly is a signiﬁcant advantage. 4 Conclusions and future work
+
+In this paper, we discussed the sport of ultimate frisbee and properties that make it unique
+from a sports rating perspective. We also discussed the current power rating method used
+by USA Ultimate to rate teams based on regular season play. ",stat.AP,A,-0.11875281,0.38555038,0.14399803
+http://arxiv.org/pdf/2201.06332v1,Optimal monitoring location for risk tracking of geotechnical systems: theory and application to tunneling excavation risks,"Simulation results showcase that the optimal
+settlement monitoring grounded in reliability updating theory can be accurately determined. Despite the
+gained computational efficiency, future work can focus on further improving the computational efficiency
+for cases involving complex high-fidelity geotechnical/underground structural models. Acknowledgements
+This research was supported in part by the National Science Foundation of China (NSFC) through awards
+51778337, 51890901 and 52008155, the U.S. National Science Foundation (NSF) through award CMMI-
+2000156, ‘Shuimu Tsinghua Scholar’ Plan by Tsinghua University through award 2020SM006 and Chinese
+Postdoctoral International Exchange Program through award YJ20210126. ",stat.AP,C,-0.17319421,0.1559771,-0.11616771
+http://arxiv.org/pdf/2201.08171v1,Use of Simulation Models for the Development of a Statistical Production Framework for Mobile Network Data with the simutils Package,"(2021)
+(see also ESSnet on Big Data, 2021). There is a lot of work in progress regarding a general improvement of all
+the packages presented as prototypes, leaving for future work the issue of scalability for the application in real
+production conditions. 7
+4.2 Mobile network data simulator
+
+In the context of the European project ESSnet on Big Data, a mobile network data simulator has been developed
+in C++ (Oancea et al., 2019; ESSnet on Big Data, 2021), whose constant evolution is available as open source
+software in github (Oancea, 2021). ",stat.AP,A,-0.1626974,0.12981181,0.33304113
+http://arxiv.org/pdf/2201.09371v1,Probabilistic Learning of Treatment Trees in Cancer,"Models with
+non-Gaussian marginal likelihood and non-binary treatment tree in principle can be deﬁned by considering generative
+tree models based on general diffusion processes [Heaukulani et al., 2014, Knowles and Ghahramani, 2015]. Both
+extensions raise signiﬁcant, non-trivial methodological and computation issues (e.g., deriving tractable likelihoods;
+ﬁnding low-dimensional summary statistics for new parameters) and constitute the foundation for future work. Code and data availability We also provide a general purpose code in R that accompanies this manuscript along with
+all the necessary documentation and datasets required to replicate our results (see https://github.com/bayesrx/
+RxTree). ",stat.AP,C,-0.06160274,-0.38206097,-0.22829674
+http://arxiv.org/pdf/2201.09766v1,Design Strategies and Approximation Methods for High-Performance Computing Variability Management,"In Section 3.4, an HPC variability experiment is introduced and
+real-world comparison results are presented. Section 4 provides conclusions of the compar-
+isons, practical guidelines, and areas for future work. 2 Data Collection and Preparation
+
+We ﬁrst introduce some notation for the HPC data. ",stat.AP,C,-0.105485454,0.074898645,-0.037845265
+http://arxiv.org/pdf/2201.11208v1,OpenEMS: an open-source Package for Two-Stage Stochastic and Robust Optimization for Ambulance Location and Routing with Applications to Austin-Travis County EMS Data,"We also found the ideal locations to add or remove an ambulance to increase or maintain
+performance respectively. There is a lot of avenues for future work. Now that this code is open-source, one could
+simply try some new mathematical program and simulate for new results, for example, the
+distributionally robust optimization (DRO) that is growing in popularity in the operation re-
+search community. ",stat.AP,C,-0.09734665,-0.0040838523,0.13873361
+http://arxiv.org/pdf/2201.11267v1,A Comprehensive Toolbox to Facilitate Quantitative Decision Science in Drug Development: A web-based R shiny application GOahead,"Since parallel computing is enabled for
+the functions behind the GOahead app, the computation time can be shorter when
+more cores are provided. However, this is still one of the areas of improvement we
+look forward to in our future work, to cut down on the simulation times for some of
+these modules. 2.5. ",stat.AP,C,-0.19165105,0.05864112,0.16959971
+http://arxiv.org/pdf/2201.11762v1,An application of Saddlepoint Approximation for period detection of stellar light observations,"These tests are ﬂexible but there are situations where they cannot be used (e.g L1 regression settings). We have some preliminary results for a test based on bootstrap that can be used under any setting that
+will be reported as part of a future work. Finally, the methods could be adjusted to take in to account
+simultaneously measurements from multiple ﬁlters. ",stat.AP,B,0.12544692,0.097842805,-0.15117067
+http://arxiv.org/pdf/2201.11762v2,An application of Saddlepoint Approximation for period detection of stellar light observations,"These tests are ﬂexible but there are situations where they cannot be used (e.g L1 regression settings). We have some preliminary results for a test based on bootstrap that can be used under any setting that
+will be reported as part of a future work. Finally, the methods could be adjusted to take in to account
+simultaneous measurements from multiple ﬁlters. ",stat.AP,B,0.12146719,0.09424819,-0.14466746
+http://arxiv.org/pdf/2201.12401v1,A penalized complexity prior for deep Bayesian transfer learning with application to materials informatics,"Next, our method applies an informative prior on the overall variance pa-
+rameter, but a uniform prior on the distribution of the variance across levels, c.
+If prior information about the transferability of diﬀerent layers is available, it
+could be incorporated in the prior for c. For example, it may be reasonable to
+assume the prior mean of ci increases from the input to the output layer. Lastly,
+another interesting area of future work is to compare the two-stage analysis that
+                              /Bayesian transfer learning                                 17
+
+sequentially analyzes the source then target data with a simultaneous analysis
+of the all data sources. Here we have assumed that building a hierarchical model
+for all data sources is computationally prohibitive, but it would be interesting to
+compare the eﬃciency of these two approaches when possible, especially when
+the source data set is small and thus the parameter estimates are uncertain. ",stat.AP,C,-0.2466569,-0.20542356,-0.21798351
+http://arxiv.org/pdf/2202.02206v1,A Comparison Between Quantile Regression and Linear Regression on Empirical Quantiles for Phenological Analysis in Migratory Response to Climate Change,"Hinkley, D. V. and N. S. Revankar (1977). Estimation of the pareto law from
+  underreported data: a further analysis. Journal of Econometrics 5 (1),
+  1–11. ",stat.AP,A,0.006143667,0.04618701,-0.14262295
+http://arxiv.org/pdf/2202.02206v2,A Comparison Between Quantile Regression and Linear Regression on Empirical Quantiles for Phenological Analysis in Migratory Response to Climate Change,"Hinkley, D. V. and N. S. Revankar (1977). Estimation of the pareto law from
+  underreported data: a further analysis. Journal of Econometrics 5 (1),
+  1–11. ",stat.AP,A,0.006143667,0.04618701,-0.14262295
+http://arxiv.org/pdf/2202.02253v3,Detecting Distributional Differences in Labeled Sequence Data with Application to Tropical Cyclone Satellite Imagery,"Meanwhile, negative LPD or “low chance of RI” (see diagrams
+¢D ¡-¢F ¡for i and ii) tends to occur when TCs already possess a well-deﬁned eye (narrow yellow
+region near the center) or exhibit decaying core convection (dark blue region decreasing in
+size when going from -24 to 0 hours). While such patterns can be directly quantiﬁed and
+studied in future works, this work remains focused on exploration of entire radial proﬁles. Finally, RW-ENP results (panel iii) are not exactly opposite of the RI-ENP results (panel
+ii), meaning that “high chance of RW” patterns might not mirror “low chance of RI” patterns,
+£and vice versa. ",stat.AP,B,-0.06364947,0.08177306,0.002811009
+http://arxiv.org/pdf/2202.02369v1,Statistical Methods for Accommodating Immortal Time: A Selective Review and Comparison,"All the other subjects are classified as control, regardless of their later treatment initiation. Subjects 4 and 8
+experience event before the landmark time and are excluded from further analysis. An example is a cohort study on the effect of statins on AMI recurrence or all-cause mortality for elderly patients who
+were discharged alive with a diagnosis of acute myocardial infarction.37 Statin users and non-users were identified
+based on treatment status within 90 days post-discharge and followed from the end of the exposure time window (i.e.,
+90 days post-discharge) until the occurrence of outcome. ",stat.AP,B,0.34975687,-0.15998839,-0.0775018
+http://arxiv.org/pdf/2202.02923v1,Bayesian calibration of simulation models: A tutorial and an Australian smoking behaviour model,"Data linkage of 45 and Up Study and NSW Registryof Births Deaths and Marriages performed by
+the NSW Ministry of Health’s Centre for Health Record Linkage (CHeReL; www.cherel.org.au). The authors acknowledge the Australian Data Archive for providing the following datasets, and
+declare that those who carried out the original analysis and collection of the data bear no responsibility
+for the further analysis or interpretation of them:
+
+      • National Drug Strategy Household Survey 1995, 1998, 2001, 2004, 2007, 2010, 2013, and
+          2016. • Victorian Drug Strategy Household Survey 1995. ",stat.AP,B,0.49007553,-0.12588944,0.091876216
+http://arxiv.org/pdf/2202.02923v2,Bayesian calibration of simulation models: A tutorial and an Australian smoking behaviour model,"Data linkage of 45 and Up Study and NSW Registryof Births Deaths and Marriages performed by
+the NSW Ministry of Health’s Centre for Health Record Linkage (CHeReL; www.cherel.org.au). The authors acknowledge the Australian Data Archive for providing the following datasets, and
+declare that those who carried out the original analysis and collection of the data bear no responsibility
+for the further analysis or interpretation of them:
+
+      • National Drug Strategy Household Survey 1995, 1998, 2001, 2004, 2007, 2010, 2013, and
+          2016. • Victorian Drug Strategy Household Survey 1995. ",stat.AP,B,0.49007553,-0.12588944,0.091876216
+http://arxiv.org/pdf/2202.03015v1,Data modelling recipes for SARS-CoV-2 wastewater-based epidemiology,"Despite the fact that polynomial regression (and the same
+applies for other machine-learning based methods) gives a better correlation with the
+dependent variable (incidence value), the simple linear regression method is likely the
+superior option for analysis as being both robust and easy to interpret. We will thus use the
+linear regression method for further analysis of the Type 3 dataset (weekly – smoothed). For testing robustness, we apply cross-validation and find here close values for LOOCV as
+compared with the RMSE value for the whole series (see Table 3). ",stat.AP,A,-0.043952215,0.09541041,0.048081897
+http://arxiv.org/pdf/2202.03019v1,A Riemann Manifold Model Framework for Longitudinal Changes in Physical Activity Patterns,"Table “RfH Summary Statistics” in the Supplementary Material lists summary statistics
+of the interventions and other variables. Variables of with more than 5% values missing are
+discarded for further analysis. Medical conditions with less than 5% missing are imputed
+with “no” for the missing values. ",stat.AP,B,0.5154835,-0.19240782,-0.23419459
+http://arxiv.org/pdf/2202.03019v2,A Riemann Manifold Model Framework for Longitudinal Changes in Physical Activity Patterns,"Material lists summary statistics of the interventions
+and other variables. Variables of with more than 5% values missing are discarded for
+further analysis. Medical conditions with less than 5% missing are imputed with “no” for
+the missing values. ",stat.AP,B_centroid,0.54538876,-0.17940569,-0.2377676
+http://arxiv.org/pdf/2202.03019v3,A Riemann Manifold Model Framework for Longitudinal Changes in Physical Activity Patterns,"Material lists summary statistics of the interventions
+and other variables. Variables of with more than 5% values missing are discarded for
+further analysis. Medical conditions with less than 5% missing are imputed with “no” for
+the missing values. ",stat.AP,B,0.54538876,-0.17940569,-0.2377676
+http://arxiv.org/pdf/2202.03773v1,A multivariate pseudo-likelihood approach to estimating directional ocean wave models,"As a result,
+we have an identiﬁability-bias trade off as lowering the threshold frequency introduces more of the noise pro-
+cesses, which tends to result in biasing of β, but raising the threshold makes σr unidentiﬁable. This is a difﬁcult
+problem, and is an important area of further research which we discuss more thoroughly in Section 5. In summary, the parameter estimates converge to sensible values in the majority of sea states where a single
+wind-sea is present. ",stat.AP,C,-0.26171708,-0.0015653372,-0.18617114
+http://arxiv.org/pdf/2202.04152v1,Multi-model Ensemble Analysis with Neural Network Gaussian Processes,"This
+suggests that the NN-GPR approach could be quite powerful in weather prediction, where vast
+quantities of high-frequency training data are available, and predictions only need to be made over
+short time horizons (a few days). In future work, we will explore the scalability of the NN-GPR
+approach to high-frequency weather data and evaluate its competitiveness against leading ﬁnite
+width deep learning approaches. Acknowledgments. ",stat.AP,C,-0.32005358,0.0029878616,0.27220297
+http://arxiv.org/pdf/2202.04152v2,Multi-model Ensemble Analysis with Neural Network Gaussian Processes,"This suggests that the NN-GPR approach could be quite powerful in
+weather prediction, where vast quantities of high-frequency training data are available, and
+predictions only need to be made over short time horizons (a few days). In future work, we
+will explore the scalability of the NN-GPR approach to high-frequency weather data and
+evaluate its competitiveness against leading ﬁnite width deep learning approaches. 18
+
+   Funding. ",stat.AP,C,-0.32099828,0.008078654,0.26682106
+http://arxiv.org/pdf/2202.04152v3,Multi-model Ensemble Analysis with Neural Network Gaussian Processes,"This suggests that the NN-GPR approach could be quite powerful in weather predic-
+tion, where vast quantities of high-frequency training data are available, and predictions only
+need to be made over short time horizons (a few days). In future work, we will explore the
+scalability of the NN-GPR approach to high-frequency weather data and evaluate its compet-
+itiveness against leading ﬁnite-width deep learning approaches. We will also explore methods
+for including explicit spatial and temporal information in the predictions, and non-Gaussian
+likelihoods, such as for extremes. ",stat.AP,C,-0.32664728,-0.09289613,0.19073877
+http://arxiv.org/pdf/2202.04378v1,A Measurement-Based Robust Non-Gaussian Process Emulator Applied to Data-Driven Stochastic Power Flow,"As
+data and the next N ∗ = 60s test points as a validation data. a future work, we will focus on the demonstration of the
+To emphasize the effectiveness of the proposed method in                proposed method on a real-life power distribution system with
+presence of outliers, we add the outliers in the measurements           real voltage phasor measurements. {PG13, PG14, PG24, PG26} as shown in Fig. ",stat.AP,A,-0.11748132,0.14305848,0.0900723
+http://arxiv.org/pdf/2202.04451v1,Constructing synthetic populations in the age of big data,"A more adequate method could
+be non-parametric models like random forest, but exporting such models comes with disclosure risk
+and, therefore, are unfeasible in this context. However, as we experienced that manual model
+selection is time consuming, finding exportable models that automatically include or select important
+interactions would be a nice avenue to explore in further research. Due to the large amount of information, challenges were faced in each model as the fit could always
+be improved. ",stat.AP,A,0.034448862,0.05868193,-0.028781772
+http://arxiv.org/pdf/2202.05124v1,Describing complex disease progression using joint latent class models for multivariate longitudinal markers and clinical endpoints,"This is probably due to the fact that
+α-synuclein is a marker of the pathophysiological process rather than a marker of progression. Although further research is needed to conﬁrm these observations, they illustrate how this statistical
+methodology opens up perspectives in a complex disease such as MSA to improve the understanding
+of pathophysiological processes. The statistical model relies on the assumption of conditional independence between processes, i.e. ",stat.AP,C,0.10953529,-0.1946273,-0.15521401
+http://arxiv.org/pdf/2202.07003v1,Privacy-preserving estimation of an optimal individualized treatment rule : A case study in maximizing time to severe depression-related outcomes,"DWSurv was developed to model the impact of treatment (and covariates) on event times in an uncensored
+population, and therefore adjusts only for the fact of censoring (binary); an interesting avenue of future research
+would be to explore modeling the time to censoring. A further and very important venue for future work is to
+establish whether distributed regression can be used to model adaptive treatment strategies - that is sequences
+of ITRs that account for evolving patient characteristics. The quest for tailored treatment strategies to improve patient outcomes and, in some cases, reduce treatments costs
+requires large datasets to detect what are very often small heterogeneities in treatment eﬀects. ",stat.AP,B,0.2769367,-0.1680306,-0.10611588
+http://arxiv.org/pdf/2202.07451v1,Phenotyping with Positive Unlabelled Learning for Genome-Wide Association Studies,"There are often a greater number of GWAS matches than catalog matches as multiple SNPs in our analysis maybe in LD
+with the reported lead SNP in the catalog. The difference between matched and unmatched SNPs in our analysis may
+represent false positive association or as yet undiscovered genetic associations, further analysis is needed to determine
+the number of likely causal SNPs in this set. Disease Method                                            Total Signiﬁcant SNPS
+                             GWAS of which found matches Catalog of which found matches
+
+    AnchorBERT 1,396 903                    128  44
+
+    Anchor LR 987                 728       128  39
+
+MI  Pheprob                  517  277       128  28
+
+    Threshold-1 512               299       128  29
+
+    Threshold-2 510               270       128  25
+
+    Threshold-3 413               210       128  18
+
+    AnchorBERT 8,763 8,631                  1,758 266
+                                            1,758 254
+    Anchor LR 8,785 8,671                   1,758 247
+                                            1,758 280
+T2D Pheprob                  2,527 2,259    1,758 237
+                                            1,758 200
+    Threshold-1 6,093 6,001
+
+    Threshold-2 2,539 2,452
+
+    Threshold-3 1,259 1,203
+
+    AnchorBERT 10,382 9,967                 393  32
+
+    Anchor LR 9,867 9,448                   393  32
+
+RA  Pheprob                  11,943 11,411  393  32
+
+    Threshold-1 9,884 9,519                 393  32
+
+    Threshold-2 11,877 11,350               393  32
+
+    Threshold-3 10,074 9,593                393  32
+
+    AnchorBERT 155                152       42   3
+
+    Anchor LR 30                  30        42   2
+
+HF  Pheprob                  1    0         42   0
+
+    Threshold-1 0                 0         42   0
+
+    Threshold-2 3                 0         42   0
+
+    Threshold-3 3                 0         42   0
+
+    AnchorBERT 358                69        1    1
+
+    Anchor LR 338                 69        1    1
+
+DM  Pheprob                  298  68        1    1
+
+    Threshold-1 325               70        1    1
+
+    Threshold-2 301               68        1    1
+
+    Threshold-3 286               68        1    1
+
+References
+
+Vibhu Agarwal, Tanya Podchiyska, Juan M Banda, Veena Goel, Tiffany I Leung, Evan P Minty, Timothy E Sweeney,
+   Elsie Gyang, and Nigam H Shah. ",stat.AP,B,0.32806364,-0.16931988,0.089652315
+http://arxiv.org/pdf/2202.07921v1,Comparison on gait characteristics between controlled and free-living conditions in old adults,"This value is also a good choice according to the previous research
+[8], in which bout length is suggested to be larger than 10s or longer for better
+between group diﬀerence of gait characteristics. Another research by Corr`a et
+al [7] also generates gait speed per bout on a interval longer than 15s so as to
+guarantee the accuracy of further analysis. Gait characteristics in this research are derived from video data collected
+with 3D camera as biosensor. ",stat.AP,C,-0.009872172,0.035726316,0.09470479
+http://arxiv.org/pdf/2202.09383v3,A Bayesian Hierarchical Time Series Model for Reconstructing Hydroclimate from Multiple Proxies,"This model does not explore spatial dependencies in the hydroclimate indices and it does not allow
+           for assumptions that individual proxy variation might be controlled by multiple hydroclimate indices
+           at the same time. These would be realistic modelling assumption to make, and we see future work
+           as extending this method to account for these more complex assumptions. However, this model
+          was speciﬁcally developed for eﬃciency and as a ﬁrst step to giving users the ability to reconstruct
+           independent climate indices using multiple proxy sources. ",stat.AP,C,-0.19103572,0.10663133,-0.09512381
+http://arxiv.org/pdf/2202.09485v1,Bayesian inference for link travel time correlation of a bus route,"Although simple, this approach
+ignores the temporal dynamic of the covariance structure—the covariance structure may vary smoothly and
+continuously over time. Our further research is to develop new models to characterize time-varying link
+travel time correlation. Acknowledgements
+
+    This research is supported in part by the Natural Sciences and Engineering Research Council (NSERC)
+of Canada. ",stat.AP,C,-0.19997436,0.081644535,0.014393287
+http://arxiv.org/pdf/2202.09880v3,Pairwise Nonlinear Dependence Analysis of Genomic Data,"Hence, the top 200 most signiﬁcant genes shown in
+the graphs in Figures 6 and 8 may miss some overlapping pairs of genes. Potential future work of
+interest would be to study the impact of this choice. From classical statistical viewpoints, such as those based on sparsity and correlation analysis of
+dependence, this data set has a perhaps surprising amount of nonlinear dependence, as seen from
+the numbers of signiﬁcant gene pairs shown in Figure 4. ",stat.AP,B,0.046964895,-0.064080484,0.095296286
+http://arxiv.org/pdf/2202.09880v4,Pairwise Nonlinear Dependence Analysis of Genomic Data,"Hence, the top 200 most signiﬁcant genes shown in
+the graphs in Figures 6 and 8 may miss some overlapping pairs of genes. Potential future work of
+interest would be to study the impact of this choice. From classical statistical viewpoints, such as those based on sparsity and correlation analysis of
+dependence, this data set has a perhaps surprising amount of nonlinear dependence, as seen from
+the numbers of signiﬁcant gene pairs shown in Figure 4. ",stat.AP,B,0.046964895,-0.064080484,0.095296286
+http://arxiv.org/pdf/2202.10085v1,Bettors' reaction to match dynamics -- Evidence from in-game betting,"Koopmeiners, 2012;
+Green and Zwiebel, 2018; O¨ tting et al., 2020; Mews and O¨ tting, 2022). We thus anticipate
+an uptake of this type of modern statistical modelling tools for further research, in particular
+into the dynamics of live betting markets, but also in other sports settings. Acknowledgements
+
+Marius O¨ tting received support from the Deutsche Forschungsgemeinschaft (Grant 431536450),
+which is gratefully acknowledged. ",stat.AP,A,-0.13655683,0.25272435,-0.09210194
+http://arxiv.org/pdf/2202.12019v1,Functional Classification of Bitcoin Addresses,"Another is to explore notions of depth for classiﬁcation of more heterogeneous data. These
+are interesting proposals for future work. 21
+References
+
+Cuevas, A., M. Febrero, and R. Fraiman (2007). ",stat.AP,C,-0.03559836,-0.058449026,0.30365643
+http://arxiv.org/pdf/2202.12019v2,Functional Classification of Bitcoin Addresses,"Another is to explore notions of depth for classiﬁcation of more heterogeneous
+data. These are interesting proposals for future work. 20
+(a)  (b)
+
+                                                                                      (c)
+
+Figure 13: (a) FPCA of credit curves, min. ",stat.AP,C,-0.044024963,-0.028621554,0.31398538
+http://arxiv.org/pdf/2202.12019v3,Functional Classification of Bitcoin Addresses,"Another is to explore notions of depth for classiﬁcation of more heterogeneous
+data. These are interesting proposals for future work. 20
+(a)  (b)
+
+                                                                                      (c)
+
+Figure 13: (a) FPCA of credit curves, min. ",stat.AP,C,-0.044024963,-0.028621554,0.31398538
+http://arxiv.org/pdf/2202.12272v1,Analyzing whether workplace smoking bans can reduce the probability of smoking,"It was collected over 30 years ago and the data only represents
+the situation in the past. However, since it is hard to find open, free observational data with a sample size
+that is big enough to analyze the relationship between smoking rate and smoking bans, I decided to use this
+dataset for further analysis. Data Summary
+
+This dataset contains information on whether the individuals smoked, whether a smoking ban existed at the
+workplace, and other individual characteristics. ",stat.AP,B,0.30312327,-0.15632337,0.20290068
+http://arxiv.org/pdf/2203.01100v1,Early-warning indicator based on autoregressive moving-average models: Critical Transitions and the Atlantic Meridional Overturning Circulation,"However, the abruptness is likely not as severe as it seems as the CO2 forcing triggers a
+series of events, including sea ice melt and freshwater injection into the model’s subpolar
+gyre, which occur over 2-3 decades28. In any case, further study is required, perhaps with
+additional runs with more gradual CO2 changes. 36
+The Υ indicator for Early Warning
+
+The primary drawback of the Υ indicator is that it is computationally quite expensive,
+at least compared to the autocorrelation and variance, and that, due to its complexity,
+the results can be harder to interpret. ",stat.AP,B,-0.03697883,0.08124799,-0.13553795
+http://arxiv.org/pdf/2203.03588v1,Functional Clustering of Neuronal Signals with FMM Mixture Models,"Section 3 describes
+the datasets analyzed, and Section 4 presents the main results. Finally, in Section 5,
+concluding remarks and future work are discussed. 5
+2 Methods
+
+In the following, let us assume that x1, ..., xn, xi = (xi(t1), ..., xi(tp)) , ∀i ∈ {1, ..., n}, with
+t0 ≤ t1 < t2 < ... < tp ≤ T , are observed signals, also called curves in the paper. ",stat.AP,C,-0.4155739,-0.17950895,0.060150664
+http://arxiv.org/pdf/2203.03588v2,Functional Clustering of Neuronal Signals with FMM Mixture Models,"Section 3 describes
+the datasets analyzed, and Section 4 presents the main results. Finally, in Section 5,
+concluding remarks and future work are discussed. 5
+2 Methods
+
+In the following, let us assume that x1, ..., xn, xi = (xi(t1), ..., xi(tp)) , ∀i ∈ {1, ..., n}, with
+t0 ≤ t1 < t2 < ... < tp ≤ T , are observed signals, also called curves in the paper. ",stat.AP,C,-0.4155739,-0.17950895,0.060150664
+http://arxiv.org/pdf/2203.03588v3,Functional Clustering of Neuronal Signals with FMM Mixture Models,"Section 3 describes
+the datasets analyzed, and Section 4 presents the main results. Finally, in Section 5,
+concluding remarks and future work are discussed. 5
+2 Methods
+
+In the following, let us assume that t = (t1, ..., tp), with t0 ≤ t1 < t2 < ... < tp ≤ T , and
+x1, ..., xn, xi = (xi(t1), ..., xi(tp)), ∀i ∈ {1, ..., n} are the time points and observed signals,
+also called curves. ",stat.AP,C_centroid,-0.4343585,-0.17559266,0.09848772
+http://arxiv.org/pdf/2203.04165v1,On the intrinsic dimensionality of Covid-19 data: a global perspective,"new cases pmp, new deaths pmp), precluding practitioners from considering
+more intuitive datasets like cumulative cases or deaths. It would be valuable to conduct further examination on other factors contributing to
+the complexity (ID) of the Covid-19 data dynamics of a country to better understand
+drivers for complexity in pandemics. While we have identiﬁed that income level, age
+distribution, disease burden, and data quality all play a role in determining the ID of a
+country, developing a more nuanced understanding of these contributing factors would
+provide utility to the broader scientiﬁc community. ",stat.AP,B,0.2925189,-0.11254187,0.09978476
+http://arxiv.org/pdf/2203.04372v1,Average Response Curves for Treatment Time in the Emergency Department,"So while estimates are sensitive
+to modeling assumptions, only the model in the main text did any meaningful adjustment for unmeasured confounding. There are several limitations to consider, which may serve as a basis for future work. Since estimates are sensitive to the
+choice of the model, additional models may need to be tested. ",stat.AP,B,0.18518817,0.20853129,-0.31378627
+http://arxiv.org/pdf/2203.04558v2,Jointly modeling rating responses and times with fuzzy numbers: An application to psychometric data,"Further studies might also include cognitive test-based data, which provide a well-suited
+framework for the joint modeling of responses and times [40]. In a similar way, additional studies
+might also evaluate the extension of fuzzy linear models to cope with the non-negativity of fuzzy
+responses, such as Gamma or Ex-Gaussian fuzzy linear models. Considering the mapping between
+empirical data (i.e., rating responses, response times) and fuzzy numbers, a fully fuzzy solution
+based on fuzzy inferential systems might be used in order to map fuzzy numbers and empirical data. ",stat.AP,A,0.059383973,0.13723412,-0.005391798
+http://arxiv.org/pdf/2203.04558v3,Jointly modeling rating responses and times with fuzzy numbers: An application to psychometric data,"Further studies might also include cognitive test-based data, which provide a well-suited
+framework for the joint modeling of responses and times [40]. In a similar way, additional studies
+might also evaluate the extension of fuzzy linear models to cope with the non-negativity of fuzzy
+responses, such as gamma or ex-Gaussian fuzzy linear models. Considering the mapping between
+empirical data (i.e., rating responses, response times) and fuzzy numbers, a fully fuzzy solution
+based on fuzzy inferential systems might be used in order to map fuzzy numbers and empirical data. ",stat.AP,A,0.059383973,0.13723412,-0.005391798
+http://arxiv.org/pdf/2203.05860v1,Modelling non-stationarity in asymptotically independent extremes,"However, for ease of implementation, we have assumed independence
+in both marginal distributions. Techniques for incorporating temporal dependence with
+quantile regression (Koenker et al., 2017) could be incorporated into our methodology in
+future work. Acknowledgements
+
+This paper is based on work completed while Callum Murphy-Barltrop was part of the
+EPSRC funded STOR-i centre for doctoral training (EP/L015692/1). ",stat.AP,C,-0.01746762,-0.016410254,-0.148866
+http://arxiv.org/pdf/2203.05860v2,Modelling non-stationarity in asymptotically independent extremes,"However, for ease of implementation, we have assumed independence
+in both marginal distributions. Techniques for incorporating temporal dependence with
+quantile regression (Koenker et al., 2017) could be incorporated into our methodology in
+future work. Acknowledgements
+
+This paper is based on work completed while Callum Murphy-Barltrop was part of the
+EPSRC funded STOR-i centre for doctoral training (EP/L015692/1). ",stat.AP,C,-0.01746762,-0.016410254,-0.148866
+http://arxiv.org/pdf/2203.05860v3,Modelling non-stationarity in asymptotically independent extremes,"However, for ease of implementation, we have assumed independence
+in both marginal distributions. Techniques for incorporating temporal dependence with
+quantile regression (Koenker et al., 2017) could be incorporated into our methodology in
+future work. Acknowledgements
+
+This paper is based on work completed while Callum Murphy-Barltrop was part of the
+EPSRC funded STOR-i centre for doctoral training (EP/L015692/1). ",stat.AP,C,-0.01746762,-0.016410254,-0.148866
+http://arxiv.org/pdf/2203.06548v1,Impact of sensor placement in soil water estimation: A real-case study,"Thus, optimally placed sensors can improve the soil moisture
+
+estimation performance for the three-dimensional agro-hydrological system with heterogeneous soil
+
+parameters and initial conditions when the simulated data is used. As a further analysis, we construct the actual and estimated soil water content maps to examine
+
+the performance of state estimation for a large number of states. We also construct the absolute
+
+error maps by computing the absolute error (ek) between the actual soil water content and the
+
+estimated soil water content. ",stat.AP,C,-0.30317557,0.048551023,0.022094369
+http://arxiv.org/pdf/2203.06933v1,Soccer: a quantitative analysis of team resilience and the miracle of Bern,"For the German premier soccer
+league Bundesliga, E = 3.1. With k + l = m and EA + EB = E, equation 1 is provided in a form
+which is more convenient for further analysis:
+
+p(k, l) = m! (EA)k (EB)l Em e−E. ",stat.AP,A,-0.079166844,0.20279838,-0.12037018
+http://arxiv.org/pdf/2203.06933v2,Soccer: a quantitative analysis of team resilience and the miracle of Bern,"Magnitude and compensation of the home advantage
+
+The home advantage reveals itself as an asymmetry in the relative frequencies of goals
+scored at home and at away matches, it has a considerable effect onto results. For
+investigating resilience, the home advantage needs to be quantified first and compensated
+for further analysis. Figure 1 shows the histograms derived from empirical data from 17879
+matches with 54679 goals, consisting of 32976 home goals and 21703 away goals. ",stat.AP,A,0.1451675,0.42645362,0.07059308
+http://arxiv.org/pdf/2203.06933v3,Soccer: a quantitative analysis of team resilience and the miracle of Bern,"Magnitude and compensation of the home advantage
+
+The home advantage reveals itself as an asymmetry in the relative frequencies of goals
+scored at home and at away matches, it has a considerable effect onto results. For
+investigating resilience, the home advantage needs to be quantified first and compensated
+for further analysis. Figure 2 shows the histograms derived from empirical data from 17879
+matches with 54679 goals, consisting of 32976 home goals and 21703 away goals, which
+does yield the expectation value of goals per match E = 3.1. ",stat.AP,A,0.13007686,0.43934494,0.038868308
+http://arxiv.org/pdf/2203.08252v2,Wind energy forecasting with missing values within a fully conditional specification framework,"As a consequence, the problem boils down to estimating the parameters of a model based
+on incomplete observations only. Missing-not-at-random cases could still be handled by the
+proposed UI approach, though requiring more sophisticated techniques at both the model
+estimation and operational forecasting stages, which is left for future work. Speciﬁcally, it
+requires modeling the missingness explicitly when calculating the likelihood at the model
+estimation stage. ",stat.AP,C,-0.029429762,-0.11878462,-0.33368233
+http://arxiv.org/pdf/2203.08489v1,Bayesian Analysis of Formula One Race Results: Disentangling Driver Skill and Constructor Advantage,"This includes a driver ranking for the 2021 season and investiga-
+tion of a counterfactual statement based on the estimated model: would Hamilton in an
+Alfa Romeo beat R¨aikk¨onen in a Mercedes? Last, in Section 5 we place our contributions
+in context, discuss its implications, and provide suggestions for future work. All analy-
+sis scripts and pre-processed data are openly available in the supplementary material at
+https://doi.org/10.5281/zenodo.6358648 (van Kesteren and Bergkamp, 2022). ",stat.AP,A,0.12162115,0.17478064,-0.021427512
+http://arxiv.org/pdf/2203.10416v1,Methodology for Testing and Evaluation of Safety Analytics Approaches,"Doing so
+will invariably result in a signiﬁcant increase in complexity of the simulator, but it would primarily be
+driven by the complexity in generating realistic text. The addition of this aspect could be a potential
+avenue for future work. Similarly, another avenue that could be beneﬁcial to the advancement of
+safety science is to investigate additional safety metrics (other than the proposed metrics of expected
+loss and tail-probability) that can further facilitate meaningful evaluation of diﬀerent SA approaches. ",stat.AP,A,-0.107832335,0.21653958,0.004034644
+http://arxiv.org/pdf/2203.10508v1,Latent class mixed modelling for phenotypic stratification of primary biliary cholangitis patients on first line treatment,"It also shows that the current step-up approach to treatment of PBC disadvantages those in the
+greatest need, particularly patients in Class 4, who are most likely to have an inadequate UDCA
+response and wait the longest to achieve effective treatment. Although the latent class model did not improve the predictive ability for ESLD predictions
+compared to the UK-PBC Risk score, this model can be used to inform future work. This future
+work could focus on exploring the mechanistic differences between subgroups with the aim to
+identifying the processes behind them, such as Class 1 (UDCA responders) compared to Class
+4 (UDCA non-responders). ",stat.AP,B,0.36460918,-0.10830811,-0.06486939
+http://arxiv.org/pdf/2203.10563v1,Application of de-shape synchrosqueezing to estimate gait cadence from a single-sensor accelerometer placed in different body locations,"This suggests that when a subject is climbing stairs, the cadence estimation agreement
+among different locations might be lower. To further study if cadence can be reliably estimated from a single sensor placed in
+different locations, we apply the Bland-Altman plot analysis. See Figures 8 and 9 for a
+comparison. ",stat.AP,C,-0.14922443,0.06525872,0.024601951
+http://arxiv.org/pdf/2203.11771v1,Racial Disparities in the Enforcement of Marijuana Violations in the US,"To help disentangle these factors and more effectively inform policy-makers, more contextual law enforcement data is
+required. In future work, it would be valuable to explore the extent to which disparities can be explained by additional
+factors which are not currently available in the data, such as: frequency of use in public spaces; frequency of carrying
+marijuana on one’s person or in a vehicle; opportunities to keep the use discreet; general exposure to police scrutiny;
+and patterns of police enforcement within the local environment. A better understanding of the mechanisms that give rise to the observed racial disparities is also important in the context
+of data-driven predictive tools that are increasingly deployed within the criminal justice system [17, 3, 29, 52]. ",stat.AP,B,0.33538234,-0.12158312,0.27418143
+http://arxiv.org/pdf/2203.11771v2,Racial Disparities in the Enforcement of Marijuana Violations in the US,"Ideally, we would
+                                                                                    like to examine differences in location and time of use as well as
+AIES’22, August 1–3, 2022, Oxford, United Kingdom                                                                                           Butcher, Robinson, Zilka et al. the frequency at which an individual carries marijuana on their          In future work, it would be valuable to explore the extent to which
+person or in their vehicle. The NSDUH survey data is also subject        disparities can be explained by additional factors which are not
+to respondents’ biases in self-reporting. ",stat.AP,B,0.36552334,-0.094595864,0.26673362
+http://arxiv.org/pdf/2203.11771v3,Racial Disparities in the Enforcement of Marijuana Violations in the US,"Ideally, we would
+                                                                                    like to examine differences in location and time of use as well as
+AIES’22, August 1–3, 2022, Oxford, United Kingdom                                                                                           Butcher, Robinson, Zilka et al. the frequency at which an individual carries marijuana on their          In future work, it would be valuable to explore the extent to which
+person or in their vehicle. The NSDUH survey data is also subject        disparities can be explained by additional factors which are not
+to respondents’ biases in self-reporting. ",stat.AP,B,0.36552334,-0.094595864,0.26673362
+http://arxiv.org/pdf/2203.13390v1,Probabilistic Analysis of Aircraft Using Multi-Fidelity Aerodynamics Databases,"This work is an an
+initial exploration of one potential route, through quantiﬁcation of uncertainties in simulations, their prop-
+agation through certiﬁcation tests, and a statistical, rather than deterministic, analysis of results. There are
+numerous avenues for further research, some of which are outlined in this section. 6.3.1 Uncertainty Quantiﬁcation
+
+For this work, subject matter experts (SME) provide the uncertainties for the AVL simulations and the wind
+tunnel data. ",stat.AP,A,-0.23181614,0.2752274,-0.2605042
+http://arxiv.org/pdf/2203.14251v1,Group pattern detection of longitudinal data using functional statistics,", SG,k]
+to classify the samples and examine the kernels efﬁciency. A further study on the
+classiﬁcation methods is important but is skippped here for space saving because
+the classiﬁcation is not the focus of this paper, although we will explore further in
+next study. 3 Details of Methods
+
+3.1 Approximation into a ﬁnite basis of functions
+
+Assume that each curve yg,d,k(d ∈ {1, . ",stat.AP,C,-0.24475026,-0.09789616,0.116290584
+http://arxiv.org/pdf/2203.14381v1,Bayesian inference for asymptomatic COVID-19 infection rates,"If the assumptions under-
+lying the standard approaches are not met, our proposed methodology will lead to more
+appropriate inferences. From ﬁve review papers we selected for further analysis several studies that have diﬀerent
+features. In each of these cases the objective is to make inference about the asymptomatic
+infection rate. ",stat.AP,C,0.17211586,-0.2594672,-0.1599105
+http://arxiv.org/pdf/2203.14381v2,Bayesian inference for asymptomatic COVID-19 infection rates,"If the assumptions under-
+lying the standard approaches are not met, our proposed methodology will lead to more
+appropriate inferences. From ﬁve review papers we selected for further analysis several studies that have diﬀerent
+features. In each of these cases the objective is to make inference about the asymptomatic
+infection rate. ",stat.AP,C,0.17211586,-0.2594672,-0.1599105
+http://arxiv.org/pdf/2203.15438v1,Anomaly Detection for Compositional Data using VSI MEWMA control chart,"The modiﬁcation of the Markov
+chain approach proposed by12 will be used to compute average time to signal
+(ATS), criteria to access the performance of VSI control charts. The rest of this paper is organized as follows: In Section 2, the modeling
+of CoDa and the suggested isometric log-ratio transformation are introduced;
+
+                                                 2
+the VSI MEWMA-CoDa control chart together with the Markov chain ap-
+proach and optimization procedure to ﬁnd the optimal parameters are given
+in Section 3; in Section 4, the performance of the VSI MEWMA-CoDa chart
+with diﬀerent scenarios are provided; conclusions and some recommenda-
+tions for further researches are given in Section 5. 2 Modeling of Compositional Data
+
+By deﬁnition, a row vector, x = (x1, x2, . ",stat.AP,C,-0.34435385,-0.019966021,-0.008711635
+http://arxiv.org/pdf/2203.15500v1,An Unbiased Symmetric Matrix Estimator for Topology Inference under Partial Observability,"The
+simulations have shown the proposed NIG algorithm enjoys better performance with small sample sizes and sparse
+networks. The future work aims to improve the algorithms by combining the advantages of the biased estimator and
+the proposed unbiased estimator. References
+
+ [1] X. Dong, D. Thanou, M. Rabbat, and P. Frossard, “Learning graphs from data: A signal representation perspec-
+      tive,” IEEE Signal Processing Magazine, vol. ",stat.AP,C,-0.3270136,-0.17594951,0.1900226
+http://arxiv.org/pdf/2203.16602v1,A Shared Parameter Model for Systolic Blood Pressure Accounting for Data Missing Not at Random in the HUNT Study,"Exploring asymptotic properties of the models and validation schemes or how uncertainty,
+biases and predictive performance change with the size of the datasets and missingness
+have been outside the scope of this work. Driven by the results of this case study we ﬁnd the properties of the validation schemes
+an interesting topic of further research. One approach would be to study the models and
+results of this work in the framework of missingness graphs introduced by Mohan and Pearl
+[2021] and the missing at random counterpart models of Molenberghs et al. ",stat.AP,A,0.09170161,0.12968245,-0.14735425
+http://arxiv.org/pdf/2204.00651v1,Bayesian Non-Homogeneous Hidden Markov Model with Variable Selection for Investigating Drivers of Seizure Risk Cycling,"Furthermore, in the ﬁeld
+of seizure forecasting and prediction, in addition to the predicted next risk
+state, the predicted absolute sequence of states may also be of clinical in-
+terest. Evaluation of how well the model performs in prospective on-line
+predictions of seizure risk will be of interest in future work, to determine
+contribution of this model to other seizure forecasting systems. Our approach could be extended to infer the optimal number of states
+K via a sampling scheme that can accommodate posterior distributions of
+varied dimensions, for example reversible jump MCMC, though at the ex-
+pense of an increase in computational cost. ",stat.AP,C,-0.24765436,-0.22278899,-0.17943394
+http://arxiv.org/pdf/2204.03177v1,Bayesian vector autoregressive analysis of macroeconomic and transport influences on urban traffic accidents,"Section 4 introduces the detailed results and discussion. Section 5 gives conclusions
+and directions for future work. 2. ",stat.AP,C,0.0042708013,0.021976067,0.039910845
+http://arxiv.org/pdf/2204.03588v1,Music Influence Modeling Based on Directed Network Model,"Finally, to ﬁnd the revolutionaries, Network Analysis, Semantic Analysis,
+and Random Forest Model are employed. For the future work, more research is needed in the ﬁeld of music. Currently, people are
+becoming more aware of music copyright, yet music cultural appropriation is still very serious. ",stat.AP,A,0.055981226,0.09994495,0.2508552
+http://arxiv.org/pdf/2204.04039v1,Transformation cost spectrum for irregularly sampled time series,"While the cost
+coefﬁcients of operations (1) and (2) directly depend on the associated time series and the TACTS
+timeline, the cost of operation (3) is a free parameter to optimize our metric. Note that this free
+parameter allows us to tweak a suitable and information-preserving time series preprocessing
+method for further analysis without the corruption risk of interpolation methods. The total cost
+of transforming neighboring data segments to each other determines the TACTS point; applying
+this procedure over the entire data generates TACTS for an arbitrarily selected segment size (ω). ",stat.AP,C,-0.30756465,-0.021195045,0.18409592
+http://arxiv.org/pdf/2204.05552v1,The Effects of Dynamic Learning and the Forgetting Process on an Optimizing Modelling for Full-Service Repair Pricing Contracts for Medical Devices,"By varying expected internal failure E éëfint ùû and training frequency lf defined in
+
+previous sections, the changes regarding the mark-up factor, the training frequency and
+unit training cost as well as their effect on FS revenue, FS cost and FS profit, become
+clear in Figures 1, 2, and 3 illustrated below. 3.3.1 Analysis on mark-up factor β
+It is easy to understand that for the OS maintenance model, price and profit should be
+positively related to the price mark-up factor β, since the repair price in cost-plus
+approach determined by But after FS contract together with OS to the repair market are
+
+                                                    25
+introduced, whether β still has the same effect on price, cost and profit becomes
+obscure so that requires further study. To address this, the author set learning rate = 0. ",stat.AP,A,-0.04863228,0.2730494,-0.11396186
+http://arxiv.org/pdf/2204.05863v1,Dementia in England: Quantifying and analysing modifiable risk,"The relationship between the IMD and IMDR appears
+consistent for the top 3 northern CCGs, however, is disrupted in the case of Richmond,
+Redbridge, and Harrow CCGs. NHS CCG       IMDR     Population        IMD    Dementia           Average
+           (Weighted)     (Total)       (2015)                        age
+                                                Prevalence:
+                                        42.000                       42.00
+                                        29.730  Recorded (left)      41.00
+                                        29.570                       41.00
+                                        10.040  Estimated (right)    39.00
+                                        20.240                       36.00
+Blackpool  0.7300      139,195          14.300  5.1  78.5            38.00
+
+Sunderland 0.6900      277,962                  4.3  72.1
+
+Barnsley 0.6800        241,218                  4.2  70.6
+
+Richmond 0.2200        195,846                  4.2  67.7
+
+Redbridge 0.2200       299,249                  4.5  64.7
+
+Harrow 0.2100          248,752                  4.2  65.1
+
+Table 5: Top and bottom CCG statistics
+
+Validation, corroboration and further analysis
+
+In a bid to further understand the index patterns and at the same time gauge the overall
+robustness of the index, the results were contrasted with data on deprivation (IMD),
+recorded dementia prevalence and average age. The spatial patterns observed in
+
+                                                                   24
+Figure 4 (weight and unweighted) are used as the basis of comparison between the
+IMDR and each of the aforementioned factors (shown in Figure 6). ",stat.AP,B,0.25356424,-0.07052782,0.049782448
+http://arxiv.org/pdf/2204.06657v1,A Bayesian Machine Learning Approach for Estimating Heterogeneous Survivor Causal Effects: Applications to a Critical Care Trial,"While theoretically appealing, this extended approach may be over-
+parameterized and lead to semiparametric mixture models that are only weakly identiﬁed in the sense
+that the posterior distributions of SACE and CSACE remain ﬂat around the region of highest density. Given our relatively limited sample size in the ARMA trial, we did not explore this additional extension,
+but the extent to which such an extension is feasible and practically useful can form the future scope of
+further research. 20
+References
+
+Albert, J. H. and Chib, S. (1993). ",stat.AP,C,-0.066481985,-0.24041535,-0.22937495
+http://arxiv.org/pdf/2204.07890v1,Modeling Complex Interactions in a Disrupted Environment: Relational Events in the WTC Response,"Researchers going
+back to the late 1960’s and 1970’s have documented the importance of conversational norms in
+governing social interactions (Schegloﬀ, 1968; Schank, 1977) ; these results show that these humble
+aspects of micro-interaction have important macroscopic consequences, and that those hold even
+in the midst of an unfolding disaster. Future Studies
+
+An obvious question for future work is whether the patterns seen here generalize to other hazard
+communication contexts. While these results appear to be quite robust - with regular patterns
+across networks of diﬀerent size, composition, and task orientation - all networks reﬂect groups
+responding at the same time to the same event using the same technology, and some aspects may
+diﬀer in other settings. ",stat.AP,B,0.16466208,0.07792522,0.19811329
+http://arxiv.org/pdf/2204.08283v2,"Feature-based intermittent demand forecast combinations: bias, accuracy and inventory implications","Based on
+the results of our work, the nine features in FIDE are eﬃcient and can be used as
+the benchmark pool of features for intermittent demand. In further research, we will
+study a standard procedure to select features automatically for the proposed frame-
+work, aiming to achieve both interpretability and computational eﬃciency. Data Availability Statement
+
+The RAF dataset has been used in previous literature (Teunter and Duncan 2009;
+Petropoulos and Kourentzes 2015; Kourentzes and Athanasopoulos 2021) and is avail-
+able upon request. ",stat.AP,A,-0.055612125,0.17734796,0.03888284
+http://arxiv.org/pdf/2204.08620v1,Equity in Resident Crowdsourcing: Measuring Under-reporting without Ground Truth Data,"Furthermore, according to DPR, the primary drivers of inspection decisions
+are the report characteristics, which are included in θ. Nevertheless, an important direction for future work is directly
+addressing this censoring challenge. 6While the exploratory data was used to ﬁlter variables for ultimate analysis, and to develop and ﬁne-tune our
+models, we note that we did not hold out a separate test set at the outset of the project; it was not clear how to
+cluster assign reports to test and train before developing our empirical strategy, and there were initial (ultimately
+resolved) data errors on how reports were tagged to unique incidents. ",stat.AP,B,0.32266825,-0.035730805,-0.019304214
+http://arxiv.org/pdf/2204.10882v1,Cluster Detection Capabilities of the Average Nearest Neighbor Ratio and Ripley's K Function on Areal Data: an Empirical Assessment,"As ESRI Arcgis software
+automatically applies these methods to areal data by mapping units to their centroids, these results
+are particularly concerning for ESRI users. The development of spatial clustering detection
+methods which are better suited for areal data is an excellent area for future work. In the absence
+of such methods, clustering analysis should be applied only to point process data unless the
+reliability of these methods for a particular areal data application can be demonstrated via
+simulation studies. ",stat.AP,C,-0.10449021,-0.09483506,0.35594636
+http://arxiv.org/pdf/2204.10882v2,Cluster Detection Capabilities of the Average Nearest Neighbor Ratio and Ripley's K Function on Areal Data: an Empirical Assessment,"R code which
+
+                                                              14
+performs the areal implementation of both methods is available at
+https://github.com/scwatson812/Areal_ANN_and_Ripleys_K. The integration of the areal
+implementation of these methods into ArcGIS and the development of other spatial clustering
+detection methods which are better suited for areal data is an excellent area for future work. Funding
+SS and AM were partially supported by National Institutes of Health grant NIGMS
+P20GM130420. ",stat.AP,C,-0.08579053,-0.2786715,0.4006383
+http://arxiv.org/pdf/2204.10964v1,Statistical inference of travelers' route choice preferences with system-level data,"We would
+also like to leverage the use of GPS data to have a better prior of the path sets among O-D pairs and to improve the
+estimation of the utility function coefﬁcients. Here the integration of our methodology with the nested recursive logit
+model (Mai et al., 2015) seems a promising avenue for further research. This study chooses trafﬁc ﬂows for the response function of the non-linear least objective functions. ",stat.AP,C,-0.20527591,-0.036612377,0.049579144
+http://arxiv.org/pdf/2204.12001v1,Measuring Discrepancies in Airbnb Guest Acceptance Rates Using Anonymized Demographic Data,"including statistical analysis on large datasets [Martins 2017,
+Aslett 2015, Wu 2012]. Additional types of data, multiple rows of data per user,
+                                                                 and/or high-dimensional data may bring new challenges
+A promising area of future work is to investigate iterations on  requiring new methods, such as those articulated in [Aggarwal
+the system design using FHE to reduce risks and potentially      2005, Fung 2010, Li 2012, Narayanan 2008, Nergiz 2008]. entirely mitigate some vulnerabilities. ",stat.AP,C,-0.071594015,-0.03427241,0.22457123
+http://arxiv.org/pdf/2204.12011v1,Representation-Aware Experimentation: Group Inequality Analysis for A/B Testing and Alerting,"Moreover, we can understand how large-scale projects like our case study change over
+time, understanding the eﬀect not only of individual experiments at one time, but of holdout
+projects and how they change over the months. It is worth noting that group representation is
+one goal for responsible experimentation; equity and fairness can be deﬁned in a myriad of ways,
+and future work should consider diﬀerent ways of quantifying these concepts as they apply to
+large-scale A/B testing and alerting. Ultimately, statistics and methodology like this are key
+for us as we guard against unintended consequences of A/B tests on our platform, leveraging
+statistical and computational tools to advocate for diversity of representation. ",stat.AP,B,0.26562175,0.15298785,0.13409477
+http://arxiv.org/pdf/2204.13182v1,On the Use of Dimension Reduction or Signal Separation Methods for Nitrogen River Pollution Source Identification,"6 A Case Study for Applying PCA, ICA, FA to Identify Nitrogen
+                       Pollution Sources: Sacramento River
+
+After describing overall characteristics of source apportionment of nitrogen pollution and several
+statistical methods used for source separation, in this chapter I will apply these algorithms to a
+real dataset collected by USGS from Sacramento River’s site SACRAMENTO R A FREEPORT
+CA coded with USGS-11447650 (USGS, 2022). This site is chosen as it has relatively high
+number of historical data in terms of diﬀerent variables, and for future works there are ancillary
+data regarding point source pollution, pesticide use nearby, land use, additional water quality
+analyses campaigns, atmospheric deposition data. For now, only one location is chosen to practically eliminate spatial autocorrelation impact. ",stat.AP,C,-0.08430879,-0.09398563,0.20707211
+http://arxiv.org/pdf/2205.00859v1,Bayesian Monitoring of COVID-19 in Sweden,"Another alternative data source is the surveillance of wastewater [56, 57]. Due to the signal’s large relative noise ratio, we did not consider it in this study but left it for future work. Approximate Likelihoods through Linear ﬁltering
+
+We understand the compartment model as a continuous-time Markov chain (CTMC) over an integer lattice counting
+the number of individuals in the diﬀerent compartments. ",stat.AP,C,-0.20827225,-0.38263765,-0.03425147
+http://arxiv.org/pdf/2205.00859v2,Bayesian Monitoring of COVID-19 in Sweden,"Another alternative data source is the surveillance of wastewater [56, 57]. Due to the signal’s large relative noise ratio, we did not consider it in this study but left it for future work. Approximate Likelihoods through Linear ﬁltering
+
+We understand the compartment model as a continuous-time Markov chain (CTMC) over an integer lattice counting
+the number of individuals in the diﬀerent compartments. ",stat.AP,C,-0.20827225,-0.38263765,-0.03425147
+http://arxiv.org/pdf/2205.00859v3,Bayesian Monitoring of COVID-19 in Sweden,"Another alternative data source is the surveillance of wastewater [56, 57]. Due to the signal’s large relative noise ratio, we did not consider it in this study but left it for future work. Approximate Likelihoods through Linear ﬁltering
+
+We understand the compartment model as a continuous-time Markov chain (CTMC) over an integer lattice counting
+the number of individuals in the diﬀerent compartments. ",stat.AP,C,-0.20827225,-0.38263765,-0.03425147
+http://arxiv.org/pdf/2205.00894v1,Modeling and mitigation of occupational safety risks in dynamic industrial environments,"The methodology
+
+                                                                3
+is validated in a simulated environment and demonstrated for its scalability in a real-world setting
+in Section 5. Conclusions and considerations for future work are presented in Section 6. 2. ",stat.AP,A,-0.23843977,0.19123223,0.12574214
+http://arxiv.org/pdf/2205.02936v1,Station-wise statistical joint assessment of wind speed and direction under future climates across the United States,"Second, all the statistical analyses are
+performed pointwise for simplicity, spatiotemporal dependent structures are not considered
+here. In order to assess regional wind ﬁelds and their future predictability it is critical to
+explore their spatiotemporal structures in future work. A Quantile regression method
+
+In this work we model the τ -quantile of wind speed (WS) conditioning on wind direction (WD)
+
+using a quantile regression with periodic B-spline. ",stat.AP,C,-0.20175391,0.06677296,-0.09657112
+http://arxiv.org/pdf/2205.03501v1,PARAFAC2$\times$N: Coupled Decomposition of Multi-modal Data with Drift in N Modes,"A
+major issue with dynamic programmatic solutions is that failure of the software at
+any step can result in misalignment of analytes across multiple samples, or as is more
+
+                                                     2
+commonly observed, splitting misidentiﬁed peaks as separate compounds. In either
+case, further analysis of imperfect peak tables may lead to erroneous conclusions for
+untargeted analyses[15]. There are typically a number of diﬀerent parameters that require optimisation
+using the software currently available[16]. ",stat.AP,C,-0.0988393,-0.087371536,-0.0811432
+http://arxiv.org/pdf/2205.04677v1,Bayesian Reasoning and Evidence Communication,"The forensic expert will
+conduct an analysis chosen based on their training, experience, protocols, or intuition and
+
+                                                         14
+     Figure 1: Bayesian reasoning applied within simple evidence communication model
+
+the considered propositions. This may involve an initial assessment regarding the merits
+of further analysis, which could be applied following practices of Case Analysis and Inter-
+pretation (Cook et al., 1998). Let the examiner’s understanding of the evidence following
+analysis be denoted as ϕB(EB, IB). ",stat.AP,C,0.13005766,-0.12265698,-0.093325004
+http://arxiv.org/pdf/2205.06370v1,Characterizing patterns in police stops by race in Minneapolis from 2016-2021,"Should this be the case, a finding
+such as this one could likely be explained by a systematic reason wherein Indigenous people are
+less likely to have their car searched due to a control variable included in our multivariate analysis. At this stage we do not know exactly why this might be the case, or which variable may be
+responsible, and further research into the topic should be done to understand the phenomenon. While this study has many advantages, it is also important to mention its limitations. ",stat.AP,B,0.3096765,0.0038129166,0.16208667
+http://arxiv.org/pdf/2205.06622v1,What Makes You Hold on to That Old Car? Joint Insights from Machine Learning and Multinomial Logit on Vehicle-level Transaction Decisions,"In future work
+we will integrate a vehicle/technology choice model with a vehicle transaction model in order to
+assess the effectiveness of alternative policies to changing over the vehicle fleet, facilitate rapid
+penetration of desired technologies for transportation decarbonization, or otherwise influence vehicle
+transaction and vehicle choice behavior. While this study demonstrates an innovative use of ML methods to inform the choice model
+building process, additional investigation and advancement of the methodology can be made. First,
+methodology needs to be developed to translate the local interpretation by SHAP values to a more
+straightforward global elasticity quantification similar to the MNL coefficients in a multinomial
+context. ",stat.AP,A,-0.01836041,0.19082639,-0.019346343
+http://arxiv.org/pdf/2205.07356v1,Inference of Stochastic Disease Transmission Models Using Particle-MCMC and a Gradient Based Proposal,"107–113, IET, 1993.
+models, as seen in [15], and to use real data pertinent to disease
+outbreaks. [5] M. S. Arulampalam, S. Maskell, N. Gordon, and T. Clapp, “A tutorial
+                                                                              on particle ﬁlters for online nonlinear/non-gaussian bayesian tracking,”
+   One last direction for future work could involve ingesting                 IEEE Transactions on signal processing, vol. 50, no. ",stat.AP,C,-0.18832186,-0.36656132,-0.04439588
+http://arxiv.org/pdf/2205.08275v1,Calculating LRs for presence of body fluids from mRNA assay data in mixtures,"Overview of conclusion reached for 86 casework traces for (middle column) the n/2
+method currently in use and (right column) the proposed logistic regression model. Discussion/future work
+We have presented a novel way to probabilistically assess the presence or absence of
+forensically relevant body fluids, allowing for the presence of multiple body fluids in a sample. 22
+We constructed and tested the performance of LR systems based on machine learning models
+followed by a calibration step. ",stat.AP,C,0.053932883,-0.26178613,-0.031051151
+http://arxiv.org/pdf/2205.08275v2,Calculating LRs for presence of body fluids from mRNA assay data in mixtures,"Overview of conclusion reached for 86 casework traces for (middle column) the n/2 method
+currently in use and (right column) the proposed logistic regression model. 12 Discussion/future work
+
+We have presented a novel way to probabilistically assess the presence or absence of forensically relevant
+body ﬂuids, allowing for the presence of multiple body ﬂuids in a sample. We constructed and tested
+the performance of LR systems based on machine learning models followed by a calibration step. ",stat.AP,C,0.089083776,-0.25452352,0.0038361233
+http://arxiv.org/pdf/2205.09081v1,Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic,"We will continue to explore this issue in future extensions. In general, in future work we
+would like to investigate ﬂexible yet principled model-building strategies, with an enhanced
+set of country-level variables. Containment                                                                         Sqrt COVID Rate
+
+                           1.4
+
+                           1.2
+
+Exponentiated Coefficient  1.0
+
+                                                                                 Temperature                                     Test Positivity
+                           1.4
+
+                           1.2
+
+                           1.0
+
+                             20−01    20−07    21−01                                            21−07      −01 −01    20−07        21−01              21−07    22−01
+                           20       20       20                                               20         22 020     20           20                 20       20
+                                                                                                       20 2
+
+                                             Covariate Income Level                                    All Income   High Income  Middle/Low Income
+
+FIG 16. ",stat.AP,A,0.004069196,0.2320222,-0.12628435
+http://arxiv.org/pdf/2205.09554v1,Modelling the Daily Electricity Demand of Electric Vessels in Plymouth,"5 Discussion
+
+The approach taken in this paper has been very simplistic, only taking into
+account the average frequency of the diﬀerent types of vessel arrivals in the
+port of Plymouth in each hour and using set proportions of these averages to
+predict the potential electricity demand from the charging of the vessels. To
+create a more accurate model, further analysis should be done to investigate
+how vessel movements could possibly be tied to the weather conditions and
+seasonality, for example adopting a similar approach such as the one taken in
+[1]. Here machine learning techniques such as clustering could be employed
+to identify patterns and seasonal variations in the vessel movement which
+would allow for a greater selection of vessel types to be included in the anal-
+ysis and therefore producing a more robust prediction of the energy demand. ",stat.AP,A,-0.22851518,-0.0038200393,0.13600692
+http://arxiv.org/pdf/2205.09879v1,Prediction for Distributional Outcomes in High-Performance Computing I/O Variability,"Currently, we use SVD and will introduce negative entries in W. Several methods
+
+                                                          25
+for positive matrix factorizations in Hopke (2000) can be studied for decorrelating B. We will
+also perform simulation studies to further study the model estimability to predict w. Last but
+not least, it will be interesting to study how the errors are propagated from I-spline smoothing
+to LMGP modeling in our prediction framework. Acknowledgments
+
+The authors acknowledge Advanced Research Computing at Virginia Tech for providing com-
+putational resources. ",stat.AP,C,-0.16187117,0.026897427,-0.09742719
+http://arxiv.org/pdf/2205.12478v1,Visualising Multilevel Regression and Poststratification: Alternatives to the Current Practice,"This chapter also
+demonstrates how the current practice of MRP visualisation could be improved. The ﬁnal
+chapter, Chapter 4, summarises the ﬁndings and concludes the contribution of this study
+and possible future works. 8
+Chapter 2
+
+Systematic Literature Review
+
+This study is performed using a systematic review method. ",stat.AP,B,0.12376332,-0.06377581,0.12602004
+http://arxiv.org/pdf/2205.13641v1,Gender differences in research grant allocation -- a mixed picture,"On the other hand,
+
+panel diversity in terms of nationalities reduces gender bias against women. This asks for
+
+further research. References
+
+[1] Ceci SJ, Ginther DK, Kahn S, Williams WM (2014) Women in academic science: a changing landscape. ",stat.AP,B,0.30107278,0.26264298,0.16180323
+http://arxiv.org/pdf/2205.14454v2,Low-rank Latent Matrix-factor Prediction Modeling for Generalized High-dimensional Matrix-variate Regression,"Nevertheless, the gap
+is not that large; meanwhile, from the“Small” row cell, we display that LaGMaR may
+outrun CNNs if the sample size is small by instance that a COVID-CT subset containing
+randomly-sampled 120 positive cases and 136 negatives in total. For the future work, we may consider two tracks of extension of LaGMaR considering
+that matrices are indeed 2nd-order tensors. One is to consider supervised learning in-
+cluding higher-order tensor-variate covariate. ",stat.AP,C,-0.08725938,-0.2055305,0.17744045
+http://arxiv.org/pdf/2205.14698v1,Network Vector Autoregressive Model for Dyadic Response Variables,"In addition, for the description of the depen-
+dencies, we simply use the exogenous weight matrix, that is, the dependencies
+between responses are linear and given in advance. In reality, how to describe
+the correlations of dyadic data more accurately worth further study when the
+data may be more complex. Founding Scientiﬁc Research Project of Yunnan Provincial Department of Edu-
+cation (2021J0435). ",stat.AP,C,-0.029961934,0.03029948,0.024808006
+http://arxiv.org/pdf/2206.01355v1,Traffic Count Data Analysis Using Mixtures of Kato--Jones Distributions on the Circle,"However, the interpretation
+of these models is diﬃcult thus far. As future work, it would be interesting to
+consider other methods for model selection based on cross validation or information
+criteria with a restricted parameter space. In addition, further consideration of
+missing factors that generate third and later components may be necessary. ",stat.AP,A,-0.050097454,0.039252736,-0.16041954
+http://arxiv.org/pdf/2206.01362v1,Utility and Disclosure Risk for Differentially Private Synthetic Categorical Data,"Lookong at the results
+for utility from three-way tables, we can see that the results are limited by the utility that can be
+achieved by non-DP synthesis with the same models. 6 Discussion and future work
+
+We have introduced a very simple modiﬁcation of two methods to allow them to produce DP
+synthetic data. The saturated model is useful for non-DP data synthesis, well suited to large
+administrative data bases of count data. ",stat.AP,C,-0.10952855,-0.047791746,0.038383767
+http://arxiv.org/pdf/2206.01362v2,Utility and Disclosure Risk for Differentially Private Synthetic Categorical Data,"When α was adjusted for DP syntheses, its inﬂuence was much less than that of the DP parameter. 6 Discussion and future work
+
+We have introduced a very simple modiﬁcation of two methods to allow them to produce DP
+synthetic data. The saturated model is useful for non-DP data synthesis, well suited to large
+
+17 A count determined by the parameter nprior is distributed equally over the table or margin entries
+   except those deﬁned as structural zeros. ",stat.AP,C,-0.20443445,-0.11471734,-0.08492789
+http://arxiv.org/pdf/2206.01659v2,Accurate collection of reasons for treatment discontinuation to better define estimands in clinical trials,"For example, a patient
+discontinues the study and thus discontinues treatment due to site closure or study early
+termination. Another patient could decide to discontinue the study medication due to lack of
+efficacy and decline further study participation due to scheduling conflicts. Therefore, collecting
+the reasons for treatment discontinuation and study discontinuation separately is a good clinical
+practice. ",stat.AP,B,0.41396278,0.00035689492,-0.049497485
+http://arxiv.org/pdf/2206.01790v1,A Quantitative Simulation-based Modeling Approach for College Counseling Centers,"[3] Nicholas Grubic, Shaylea Badovinac, and Amer M Johri. “Student mental health in the
+       midst of the COVID-19 pandemic: A call for further research and immediate solutions”. In:
+       International Journal of Social Psychiatry 66.5 (2020), pp. ",stat.AP,B,0.39891702,-0.077711895,0.12049359
+http://arxiv.org/pdf/2206.02134v1,Toward Sustainable Transportation: Accelerating Vehicle Electrification with Dynamic Charging Deployment,"In the future, when dynamic charging
+roads become so popular in metropolitan cities that their costs   Battery Level (%)  80
+substantially decrease, this work can also serve as a reference
+for the deployment in suburban and rural areas. In addition,                         70
+several directions of future work can be extended from our
+ﬁndings. For example, the system model can be extended to                            60
+the general PLP so that the results can be applied to cities
+with non grid-like street networks. ",stat.AP,A,-0.18121824,0.20517999,0.22090194
+http://arxiv.org/pdf/2206.03914v1,Spatio-temporal Downscaling Emulator for Regional Climate Models: a Comparative Study,"Furthermore, when adding the elapsed time to run the models, and given that
+Model 1 and Model 2 give very similar predictive performance results, then Model 1 is
+preferred, since it can be run in less than one third of the time that takes to complete
+Model 2. For future work, there are several directions that can be taken. First, more combina-
+tions of RCMs and GCMs can be tested, using the data from NARCCAP. ",stat.AP,A,-0.1506404,0.114295885,-0.121747606
+http://arxiv.org/pdf/2206.04329v1,Damage Identification in Fiber Metal Laminates using Bayesian Analysis with Model Order Reduction,"Following this, relevant numerical experiments
+are conducted and studied in Section 5. Finally, Section 6 discusses the results and
+Section 7 summarizes the key ﬁndings of this research and discusses the potential scope
+for the future work. Damage identiﬁcation in FML using Bayesian Analysis  4
+
+2. ",stat.AP,C,-0.15291852,-0.06863429,-0.065527186
+http://arxiv.org/pdf/2206.04329v2,Damage Identification in Fiber Metal Laminates using Bayesian Analysis with Model Order Reduction,"Following this, relevant numerical experiments are conducted and studied in Section 5. Finally, Section 6 discusses the results and Section 7 summarizes the key ﬁndings of this
+research and discusses the potential scope for future work. 2. ",stat.AP,C,-0.3548454,0.026316091,0.047373183
+http://arxiv.org/pdf/2206.04781v1,Land-Use Filtering for Nonstationary Prediction of Collective Efficacy in an Urban Environment,"This notion is not compatible with the AHDC Study design and, more impor-
+tantly, is arguably not consistent with sociological theory which emphasizes perceptions of
+space among users of the space. In future work, we will use the estimated continuously-indexed spatial collective efﬁcacy
+component processes to examine the relationship between collective efﬁcacy and point-level
+crime data. We will also explore the hypothesis that within-neighborhood variation in collec-
+tive efﬁcacy relates to crime (Weisburd et al., 2016). ",stat.AP,B,0.16615207,-0.0026395256,0.38024002
+http://arxiv.org/pdf/2206.05337v1,Structured variable selection: an application in identifying predictors of major bleeding among hospitalized hypertensive patients using oral anticoagulants for atrial fibrillation,"Examples include “select a
+number (between 0 and the cardinality of the subset) of variables in a subset of candidate
+variables”, and “if a number of variables in a subset of candidate variables is selected, then
+select a number of variables in a (possibly distinct) subset of candidate variables”. Given
+these limitations of the latent overlapping group lasso, future work could focus on the de-
+velopment of more general regularization methods that can respect an arbitrary selection
+rule. Another limitation of the application of the latent overlapping group lasso is that
+post-selection inference has not yet been developed for this method, so that post-selection
+conﬁdence intervals are not currently available. ",stat.AP,C,0.08886817,-0.09478203,0.039602574
+http://arxiv.org/pdf/2206.05875v1,Decomposing ethnic achievement gaps across multiple levels of analysis and for multiple ethnic groups,"Additionally,
+potential equivalences with decomposition techniques that have been proposed for the
+analysis of segregation (e.g. Yamaguchi 2017) merit further analysis but are out of the scope
+of this paper. We showed that the current two-group two-level ethnic achievement gap decomposition
+approaches can be reformulated as a mediation problem. ",stat.AP,B,0.22313528,0.074619904,0.119675316
+http://arxiv.org/pdf/2206.06286v1,Impact of the COVID-19 pandemic on bike-sharing uses in two french towns,"Figure 8
+shows that these two factors have pretty different time proﬁles. It is difﬁcult to explain such differences in
+more detail without further study, but comparisons with university holidays appear to conﬁrm the fact that
+student usage plays a fundamental role in this Toulouse BSS factor proﬁle. In this respect, the performed
+EFA analysis does not bring out a speciﬁc factor for student proﬁle of BSS usage in Toulouse, but it detects
+one such factor for Lyon (Figure 9). ",stat.AP,B,0.19169888,0.18160032,0.09655705
+http://arxiv.org/pdf/2206.06915v1,Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model,"In this case, we
+will consider using a mixture of probabilistic principal component analysis (PCA) to reduce dimensionality. Our further research will utilize the mixture of probabilistic PCA to model the following bus with more
+leading buses to make probabilistic forecasting for bus travel time. Acknowledgements
+
+     This research is supported in part by the Fonds de Recherche du Québec-Société et Culture (FRQSC)
+under the NSFC-FRQSC Research Program on Smart Cities and Big Data, the Canada Foundation for
+Innovation (CFI) John R. Evans Leaders Fund, and the Natural Sciences and Engineering Research Council
+(NSERC) of Canada. ",stat.AP,C,-0.26571906,-0.073155075,0.21495467
+http://arxiv.org/pdf/2206.07380v1,Analysis of the hospital claims data from Germany (years 2013-2018) and derivation of transfer matrices,"Most of the overlaps were between one or two healthcare facilities. Only
+2 611 overlaps were between more than two healthcare facilities (2 577 between
+three, 34 between four), they correspond to 0.79% of all overlaps and they were
+excluded from further analysis. In Table 6 we present results of our analysis of detected overlaps according to
+their location. ",stat.AP,B,0.21779442,-0.12346112,0.20687072
+http://arxiv.org/pdf/2206.07433v1,Particle Filtering and Gaussian Mixtures -- On a Localized Mixture Coefficients Particle Filter (LMCPF) for global NWP,"Of course, it would be desirable to
+develop tools to estimate the real uncertainty adequate for each particle, and to keep all parts of the system consistent. We expect this to lead to much further research and discussions, which are beyond the scope of this work. 4.5 Forecast Quality of the LETKF and LMCPF Experiments
+
+As the last part of the numerical results, we study the quality of longer forecasts based on the analysis cycle of the
+LMCPF with κ = 2.5 and compare it to the LETKF based forecasts in Figure 9 and to forecasts based on the LAPF
+analysis cycle in Figure 10. ",stat.AP,A,-0.27555653,0.17296496,-0.24434525
+http://arxiv.org/pdf/2206.08056v1,Effect of exclusion criteria on the distribution of blood test values,"M.L. Thong, et al., The Asian project for collaborative
+ In other future work, we will simultaneously estimate the
+ shapes of distributions of pairs of laboratory tests. derivation of reference intervals:(1) strategy and major
+
+ 6 Conclusion                                                     results of standardized analytes, Clin Chem Lab Med 51
+
+ We clarified that differences in the shapes of estimated         (2013), 1429-1442.
+ distributions are due to exclusion criteria. ",stat.AP,B,0.16270778,-0.084748834,-0.13917908
+http://arxiv.org/pdf/2206.08501v1,Towards Data Assimilation in Level-Set Wildfire Models Using Bayesian Filtering,"It is possible that this ﬁre did not reach steady state. In future work, we intend to
+improve on the EnKF approach, develop more automatic approaches to ﬁtting the models to the data
+(and testing on other datasets), and investigate using more complex ROS models. 4
+          Towards Data Assimilation in Level-Set Wildﬁre Models Using Bayesian Filtering
+
+Acknowledgements
+
+This work is supported by the Machine Learning and Artiﬁcial Intelligence Future Science Platform
+at CSIRO. ",stat.AP,C,-0.25284293,-0.18029462,-0.17447148
+http://arxiv.org/pdf/2206.08894v1,Scaling multi-species occupancy models to large citizen science datasets,"This means that the model presented should produce good posterior mean estimates of
+the environmental coeﬃcients, even if their variance estimates are likely to be somewhat
+overconﬁdent. In summary, we argue that while a spatial extension would be interesting
+and useful future work, the simpler approach presented here can still produce reasonable
+predictions. In addition to the worldclim climate variables, we included land cover covariates de-
+rived from the National Land Cover Database in its 2016 iteration (Homer et al., 2012). ",stat.AP,C,-0.12141973,-0.0308803,-0.12631436
+http://arxiv.org/pdf/2206.11545v1,Anticipating the cost of drought events in France by super learning,"Section 4 exposes and comments
+on the results we obtain. Section 5 closes the article and discusses directions for future work. 2
+2 Data
+
+The data set we use is obtained by merging several data sets of diﬀerent natures. ",stat.AP,C,-0.12520625,-0.14816809,0.09315734
+http://arxiv.org/pdf/2206.11578v1,Doubly-online changepoint detection for monitoring health status during sports activities,"1
+Keywords: real-time, online Expectation-Maximization, smart watches, sequential Monte
+Carlo
+
+                                                         2
+1 Introduction
+
+Running is one of the most popular and practiced sports worldwide, with almost 60 million
+people having participated in running, jogging, and trail running in 2017 in the United
+States (Statista 2020b). Increasingly more runners use smart watches and devices that
+record their workouts, allowing for performance analysis and the planning of future work-
+outs. Worldwide smart watch shipments volume as estimated by Statista (2020c) were 74
+million units in 2018, 97 million units in 2019, 115 million units in 2020, with an expected
+growth to over 258 million units by 2025. ",stat.AP,A,-0.050391827,0.14587727,0.14958233
+http://arxiv.org/pdf/2206.11745v1,Probabilistic load forecasting for the low voltage network: forecast fusion and daily peaks,"Addition-                               the LV network. Finally, further analysis of the forecasts could
+ally, the general change in skill between cross validation and                             give an understanding as to which nodes are likely to reach their
+testing is worth further investigation at all the levels; ideally                          daily peak at the same time as the more aggregated nodes higher
+more data would be available when learning complex seasonal                                up the network. This information could be valuable for reveal-
+interactions between day of year and time of day which may be                              ing which households or nodes to leverage for peak demand
+leading to overﬁtting. ",stat.AP,A,-0.13099353,0.23620816,0.1151761
+http://arxiv.org/pdf/2206.12179v1,How is model-related uncertainty quantified and reported in different disciplines?,"18
+                   7. Conduct further research into the influence and importance of the different sources of
+                        uncertainty for final results and conclusions across multiple modelling types and contexts. General recommendations:
+
+                   8. ",stat.AP,A,0.18256193,0.38341576,-0.33414114
+http://arxiv.org/pdf/2206.12179v2,How is model-related uncertainty quantified and reported in different disciplines?,"18
+                   7. Conduct further research into the influence and importance of the different sources of
+                        uncertainty for final results and conclusions across multiple modelling types and contexts. General recommendations:
+
+                   8. ",stat.AP,A,0.18256193,0.38341576,-0.33414114
+http://arxiv.org/pdf/2206.12536v1,A gated group sequential design for seamless Phase II/III trial with subpopulation selection,"As described above, there are three possible scenarios in stage 2. Scenario 1: continue to stage 2 in the sub-group S only with the planned sample size in S,
+allocating additional alpha to S, i.e., 𝛼1 = 𝛼2 = 0;
+Scenario 2: continue to stage 2 in the full population F with the planned sample size in F without
+further analysis of S, allowing additional allocation of alpha to F, i.e., 𝛼3 = 𝛼4 = 0;
+Scenario 3: continue to stage 2 in both populations F and S with the planned sample size,
+continuing testing in both populations. In this paper, we propose a gated group sequential design (gGSD) by incorporating the hierarchical
+testing strategy to the group sequential design. ",stat.AP,C,0.076484725,-0.019868346,-0.04487149
+http://arxiv.org/pdf/2206.14605v1,Auditing Ranked Voting Elections with Dirichlet-Tree Models: First Steps,"Another limitation is that our approach
+currently only supports ballot-polling audits. Adapting it to allow other types of
+audits, such as comparison audits, is another important avenue for future work. References
+
+1. ",stat.AP,B,0.15037422,0.13682753,0.17602265
+http://arxiv.org/pdf/2206.14605v2,Auditing Ranked Voting Elections with Dirichlet-Tree Models: First Steps,"Another limitation is that our approach
+currently only supports ballot-polling audits. Adapting it to allow other types of
+audits, such as comparison audits, is another important avenue for future work. References
+
+1. ",stat.AP,B,0.15037422,0.13682753,0.17602265
+http://arxiv.org/pdf/2207.01379v1,On the Non-Gaussianity of Sea Surface Elevations,"In what follows it is pursued a further study in the 31 buoys for which there
+is yet no evidence to reject the null hypothesis of Gaussianity, displayed in (5). This further study consists in applying the random projection test. In applying
+it, the information in Table 5 obtained when applying de Epps and Lobato and
+Velasco tests is used. ",stat.AP,C,-0.1344445,0.046784364,-0.13239777
+http://arxiv.org/pdf/2207.01618v1,Interpolating Location Data with Brownian Motion,"A
+consequence of this could be that the app uses less battery power, making the amount of data per survey
+increase both because the internal software is less likely to shut the app to preserve battery power and
+because respondents are more likely to continue with the survey if it is less of a battery strain. In particular, future work can be done on estimating the diﬀusion coeﬃcient in various cases. For instance,
+empirical data can be used to decide on which variables the diﬀusion coeﬃcient depends. ",stat.AP,B,0.12120055,0.10271763,0.12791215
+http://arxiv.org/pdf/2207.01828v1,Input-State-Parameter-Noise Identification and Virtual Sensing in Dynamical Systems: A Bayesian Expectation-Maximization (BEM) Perspective,"In this study, the random walk model was used to describe the temporal variation of input forces. An appealing direction for further research includes investigating whether substituting this model with
+other stochastic processes, e.g., Gaussian process models [25,46], can improve the results. In this
+case, the EM algorithm can still be employed, offering consistent cross-comparison. ",stat.AP,C,-0.26021785,0.016655235,-0.05854668
+http://arxiv.org/pdf/2207.03466v1,Adaptive Optimal Shrinkage of Singular Values under Colored and Dependent Noise,"Overall, this result is encouraging and showing
+
+that the proposed OS scheme does help in the real world problem. A systematic
+
+and large scale evaluation will be reported in our future work to further conﬁrm
+
+this encouraging result. OS UNDER COLORED AND DEPENDENT NOISE                                19
+
+Figure 5. ",stat.AP,C,-0.25400355,0.071017735,0.18267056
+http://arxiv.org/pdf/2207.03466v2,Optimal shrinkage of singular values under high-dimensional noise with separable covariance structure,"No matter how, overall the result is encouraging and showing that OSIR
+has a potential in the real world problem. A systematic and large scale evaluation
+will be reported in our future work to further conﬁrm this encouraging result. F1 (%)  channels   TRAD [52]        ScreeNot          OSIR
+MAE (ms)      1     67.37 ± 36.43  69.16 ± 35.54   68.33 ± 35.89
+              2     74.73 ± 31.87  73.57 ± 32.66   73.77 ± 33.31
+              3     66.96 ± 34.57  66.72 ± 35.50   66.56 ± 35.45
+              4     75.31 ± 31.21  74.79 ± 32.17  76.82* ± 30.55
+
+              1     11.26 ± 9.59   11.13 ± 9.18     11.45 ± 9.70
+              2      9.17 ± 7.80    9.51 ± 7.61      9.76 ± 8.56
+              3     11.17 ± 8.45   11.85 ± 9.04     11.93 ± 9.14
+              4      8.74 ± 8.23    9.22 ± 8.34      8.81 ± 8.21
+
+Table 4. ",stat.AP,A,-0.04794412,0.16071686,0.099565
+http://arxiv.org/pdf/2207.05671v1,Inferring sources of substandard and falsified products in pharmaceutical supply chains,"Uncertainty due to fundamental unidentiﬁability results from only testing the lower
+echelon of a supply chain. Conﬁrmation of SFP generation at upstream locations is not possible
+without upstream testing; thus the aim is to examine if SFPs were generated at tested locations
+or further upstream, requiring additional investigation. Uncertainty due to testing accuracy comes
+from imperfect testing equipment, human error, and inappropriate use of testing methods (Kovacs
+et al., 2014). ",stat.AP,B,0.06950742,0.33039045,-0.1608734
+http://arxiv.org/pdf/2207.05671v2,Inferring sources of substandard and falsified products in pharmaceutical supply chains,"Uncertainty due to fundamental unidentiﬁability results from only testing the lower
+echelon of a supply chain. Conﬁrmation of SFP generation at upstream locations is not possible
+without upstream testing; thus the aim is to examine if SFPs were generated at tested locations
+or further upstream, requiring additional investigation. Uncertainty due to testing accuracy comes
+from imperfect testing equipment, human error, and inappropriate use of testing methods (Kovacs
+et al., 2014). ",stat.AP,B,0.06950742,0.33039045,-0.1608734
+http://arxiv.org/pdf/2207.07008v1,Scoring Aave Accounts for Creditworthiness,"During training, one
+could create an arbitrary number of examples of varying L; at test time, L
+is provided by the user. We leave both directions to future work. 7 Acknowledgements
+
+We thank Michael Griﬃths, Nathan Matare, and Brandon Rochon for their
+thoughtful feedback and review. ",stat.AP,A,-0.08372642,0.097411245,-0.03814082
+http://arxiv.org/pdf/2207.07565v1,Variance as a predictor of health outcomes: Subject-level trajectories and variability of sex hormones to predict body fat changes in peri- and post-menopausal women,"Although less than 5% of the values in our dataset were missing, analyzing complete case data
+only could still result in biased inference. In the SWAN dataset, individuals can be subject to intermittent missingness
+as well as dropout; these types of missing data patterns could be addressed in future work. Finally, an alternative
+approach could extend the work of [Jiang et al., 2015] in using latent class models to capture the impact of the means
+and variances of multiple longitudinal trajectories on health outcomes. ",stat.AP,B,0.3122517,-0.20992368,-0.064140424
+http://arxiv.org/pdf/2207.07602v1,Composite Scores for Transplant Center Evaluation: A New Individualized Empirical Null Method,"Thus, the ﬁxed-eﬀects approach
+is preferred under our setting. In future work, we extend the individualized empirical null
+to a Bayesian framework. ACKNOWLEDGEMENTS
+
+The authors would like to thank Dr. John D. Kalbﬂeisch for his helpful comments. ",stat.AP,C,-0.08875357,-0.22522928,-0.33676672
+http://arxiv.org/pdf/2207.07602v2,Composite Scores for Transplant Center Evaluation: A New Individualized Empirical Null Method,"Thus, the ﬁxed-eﬀects approach
+is preferred under our setting. In future work, we extend the individualized empirical null
+to a Bayesian framework, which accounts for potential variability in the MLE. ACKNOWLEDGEMENTS
+
+The authors would like to thank Dr. John D. Kalbﬂeisch for his helpful comments. ",stat.AP,C,-0.09676767,-0.14837274,-0.37500653
+http://arxiv.org/pdf/2207.07758v1,Treatment heterogeneity with survival outcomes,"We focused on characterizing the empirical
+performance of metalearners in an RCT setting. An important direction for future work is to extend our tutorial and
+benchmark to the observational study setting where confounding plays a crucial role. In (1.1) we considered treatment
+effects in terms of difference in survival probabilities. ",stat.AP,B,0.30325082,0.124058746,-0.18629387
+http://arxiv.org/pdf/2207.07758v2,Treatment Heterogeneity for Survival Outcomes,"We focused on characterizing the empirical
+performance of metalearners in an RCT setting. An important direction for future work is to extend our tutorial and
+benchmark to the observational study setting where confounding plays a crucial role. In (1) we considered treatment
+effects in terms of difference in survival probabilities. ",stat.AP,B,0.30652523,0.12760863,-0.18159632
+http://arxiv.org/pdf/2207.08321v1,Spatial Autoregressive Model for von-Mises Fisher Distributed Principal Diffusion Directions,"In ADNI data, the longitudinal data analysis may be more
+challenging given the involvement of asynchronous observations, i.e., the neuroimages and
+the covariates are not measured at the same time. As a future work, it is an appealing
+avenue to extend our generalized vMF regression to allow longitudinal analysis. Another important direction will be to analyze the changes in ﬁber orientations among
+the converted subjects. ",stat.AP,C,0.112331,-0.11116187,-0.006906672
+http://arxiv.org/pdf/2207.08321v2,Spatial Autoregressive von-Mises Fisher Regression for Diffusion Tensor Imaging,"For example, the brain images and the other biomarkers are often measured
+asynchronously (Li et al., 2022). In future work, extending our generalized vMF regression
+for such asynchronously collected longitudinal data must be an attractive avenue. Further-
+more, although we only establish the numerical accuracy of the proposed method, we will
+also study the theoretical properties in the future. ",stat.AP,C,-0.049306907,-0.18155137,-0.021864895
+http://arxiv.org/pdf/2207.08649v1,Analyzing trends in precipitation patterns using Hidden Markov model stochastic weather generators,"Unlike other such
+analyses, we will not be as limited by missing data and by the need to determine criteria for re-
+moving years of data or making assumptions about the missing values. However, this future work
+will still suffer from lack of a coherent joint approach to uncertainty in a spatial context. This is
+a long-standing shortcoming of spatio-temporal analyses. ",stat.AP,B,0.085953124,-0.061688557,-0.003640294
+http://arxiv.org/pdf/2207.09288v1,Expert Elicitation and Data Noise Learning for Material Flow Analysis using Bayesian Inference,"4 Discussion and Conclusions
+
+This paper has introduced, adapted, and demonstrated the use of expert elicitation techniques to
+deﬁne proper prior distributions for Bayesian inference in MFA, and illustrated how the noise level
+in collected MFA data may itself be learned from data. Below, we discuss the lessons learned from
+the case study on U.S. steel ﬂows, limitations of these approaches, and future work to advance the
+Bayesian approach in MFA. 4.1 Using Expert Elicitation in MFA
+
+Expert elicitation allows the use of informed priors in MFA and will result in a quick reduction in
+parametric uncertainties when combined with collected data. ",stat.AP,C,-0.06208425,-0.09109032,-0.25970346
+http://arxiv.org/pdf/2207.10138v1,Machine learning and geospatial methods for large-scale mining data,"Section 4 has cross validation results
+comparing those methods on both time and accuracy, including extensions to faciliate (without
+discarding) a large degree of left-censoring in one of the two data sets. Finally, Section 5 concludes
+with a discussion and ideas for future work. 2 Review
+
+We begin by introducing Gaussian process (GP) regression with an eye toward connecting to kriging. ",stat.AP,C,-0.04542083,-0.18620273,-0.11230576
+http://arxiv.org/pdf/2207.10138v2,Traditional kriging versus modern Gaussian processes for large-scale mining data,"Section 4 has cross validation results
+comparing those methods on both time and accuracy, including extensions to faciliate (without
+discarding) a large degree of left-censoring in one of the two data sets. Finally, Section 5 concludes
+with a discussion and ideas for future work. 2 GPs versus kriging
+
+We begin by introducing Gaussian process (GP) regression with an eye toward connecting to kriging. ",stat.AP,C,-0.06889918,-0.12575203,0.020772818
+http://arxiv.org/pdf/2207.10799v1,College Spread of COVID-19 in Ohio,"There are many limitations to the analysis performed and              [4] “College Reopening: The Outlook for In-Person Classes - The New ...”. many opportunities for further study:                                         [Online]. Available: https://www.nytimes.com/2020/08/24/us/college\
+                                                                              -university-reopening-coronavirus.html. ",stat.AP,B,0.40415198,0.06607713,0.12410726
+http://arxiv.org/pdf/2207.11332v1,Comparing baseball players across eras via the novel Full House Model,"More generally, the Full House Model is appropriate for ranking
+lists where the components that are being compared undergo tractable changes in their quality. One interesting avenue for future work is using the Full House Model to era-adjust the rankings of
+memorable people provided by the Pantheon project [Yu et al., 2016]. We can see that great African American and Latin American players sit atop the era-adjusted
+WAR rankings. ",stat.AP,A,0.14879976,0.29469478,0.057536893
+http://arxiv.org/pdf/2207.12111v1,Uncertainty quantification in mechanistic epidemic models via cross-entropy approximate Bayesian computation,"In the update step
+just one but several waves of infection. Due to space        with ABC, the initial knowledge about the model pa-
+limitations, the authors did not include results in this     rameters obtained by CE optimization is incorporated
+sense in the manuscript, but it would be interesting to      into the prior distribution, updated with the aid of the
+test this strategy in future work. available data to produce an informative posterior dis-
+                                                             tribution. ",stat.AP,C,-0.124505475,-0.28241205,-0.29638863
+http://arxiv.org/pdf/2207.13250v2,Spatio-Temporal Wildfire Prediction using Multi-Modal Data,"Such a connection is useful as the
+Frechet distribution belongs to the faimily of generalized extreme value distribution (GEV),
+which has been used to capture the distribution of rare events, such as catastrophes [48]. How to better incorporate such information as priors in the model belongs to future work. 31 ",stat.AP,C,-0.051367715,-0.068242624,-0.09799953
+http://arxiv.org/pdf/2208.01168v1,Using Targeted Maximum Likelihood Estimation to Estimate Treatment Effect with Longitudinal Continuous or Binary Data: A Systematic Evaluation of 28 Diabetes Clinical Trials,"(2022) compared the GLMM and the Multiple Imputation (MI) based approaches
+in the analyses of longitudinal binary outcome dichotomized from an underlying continuous
+variable, where MI-based approaches utilizing the information on the underlying continuous
+variables have been shown to yield more precise estimators than the GLMM. It remains to be
+Using Targeted Maximum Likelihood Estimation to Estimate Treatment Eﬀect with Longitudinal Continuous or Binary Data 15
+
+an interesting topic to evaluate the performance of TMLE against such MI-based approaches
+as a future work. We reported these ﬁndings from a systematic analysis of diabetes randomized clinical
+trials and we encourage the readers and/or sponsors to try out the approaches in diﬀerent
+therapeutic areas. ",stat.AP,B,0.33384523,-0.1571151,-0.23933259
+http://arxiv.org/pdf/2208.01208v1,Communication network dynamics in a large organizational hierarchy,"Gupte et al. (2011) noted that such
+non-linearity could be an interesting direction for future work. This non-linearity also primarily
+explains why the distance-based method from Maiya and Berger-Wolf (2009) fails to reconstruct
+the true organizational hierarchy. ",stat.AP,A,-0.03511049,0.24101883,0.18290257
+http://arxiv.org/pdf/2208.01976v1,Improving radiation dose estimation using the gamma-H2AX biomarker,"Moreover, we chose a model where the parameter uk is equal
+in all four components and from now on it will be denoted as u. It means that for further analysis the
+mixture Poisson model with 4 components was chosen with mean given by
+
+                  λk(d, t) = ck · tu + ak · tvk · d,   k = 1, 2, 3, 4.
+
+    leading to a 16 parameters model. Figure S1 in supplemental material shows the proﬁle of the
+calibration surface. ",stat.AP,C,-0.19001761,-0.087969676,-0.1470224
+http://arxiv.org/pdf/2208.03017v1,Invisible Walls: Exploration of Microclimate Effects on Building Energy Consumption in New York City,"Likewise, a handful of months with        ysis for other coastal cities less practical. For these rea-
+particularly large discrepancies was the cause of signif-     sons, MODIS data was not selected for further analysis. icance diﬀerence between the measurements. ",stat.AP,B,0.14119741,0.068151936,0.003698364
+http://arxiv.org/pdf/2208.03291v1,Comparing Unit Trains versus Manifest Trains for the Risk of Rail Transport of Hazardous Materials -- Part II: Application and Case Study,"Section 4 conducts a sensitivity analysis with various operation speed on mainlines. Section 5
+concludes this case study and discusses possible future work. Since this paper frequently refers to the part I paper (Kang et al., 2022), we do not cite it in the
+following context to avoid redundancy. ",stat.AP,C,-0.19299605,0.1311585,-0.0067642443
+http://arxiv.org/pdf/2208.03492v1,Pitching strategy evaluation via stratified analysis using propensity score,"Second, datasets
+of baseball games are longitudinal in each game and in all games for each team. Although we added the history of performances for batters and pitchers to the
+input features, we need to consider the models including time-varying confounders
+and treatment for future work. In this study, we employed the IPW method that estimates ATE, adjusting the
+distribution, and comparing by groups. ",stat.AP,A,0.07610315,0.053490646,-0.03951764
+http://arxiv.org/pdf/2208.04797v1,Inferring the heritability of bacterial traits in the era of machine learning,"The latter two methods were found to per-
+form well, whereas linear mixed model showed poor correlation with the ground truth
+and typically overestimated heritability to a large degree. Combined with the current
+review, this warrants further research into the topic to facilitate future studies of the
+genetic architecture in bacteria. Availability of data and code
+
+The R code and MA data used in the numerical experiments are available at: https://github.com/tienm
+. ",stat.AP,C,-0.0726823,-0.119883046,-0.08552754
+http://arxiv.org/pdf/2208.05292v1,Determinants of Patent Survival in Emerging Economies: Evidence from Residential Patents in India,"One could also investigate other flexible models like
+survival trees and survival random forest. The future work can be extended to all patents
+(residential and non-residential) in India. References
+Allison, J. R., Lemley, M. A., Moore, K. A., & Trunkey, R. D. (2003). ",stat.AP,A,0.04352959,0.098857634,0.21460128
+http://arxiv.org/pdf/2208.05600v1,Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model,"Future work will incorporate other covariates into the model corresponding to replicate,
+experimental or environmental conditions. Furthermore, in conjunction with data augmentation techniques, the BNR
+model could be applied on a variety of real datasets, as this will be another line of future work. Despite its limitations,
+we view the BNR model as one novel tool that microbiome researchers could utilize to identify key microbiome drivers
+in biological phenotypes of interest given its robustness and accuracy under a variety of real-life conditions. ",stat.AP,C,0.04348778,-0.28054821,-0.06394863
+http://arxiv.org/pdf/2208.05600v2,Identifying microbial drivers in biological phenotypes with a Bayesian Network Regression model,"Future work will incorporate other covariates into the model corresponding to replicate,
+experimental or environmental conditions. Furthermore, in conjunction with data augmentation techniques, the BNR
+model could be applied on a variety of real datasets, as this will be another line of future work. Despite its limitations,
+we view the BNR model as one novel tool that microbiome researchers could utilize to identify key microbiome drivers
+in biological phenotypes of interest given its robustness and accuracy under a variety of real-life conditions. ",stat.AP,C,0.04348778,-0.28054821,-0.06394863
+http://arxiv.org/pdf/2208.05624v1,Causality in Travel Mode Choice Modeling: A Novel Methodology that Combines Causal Discovery and Structural Equation Modeling,"Then, the discussion section examines the modeling results. Lastly, the conclusion section
+presents the conclusions, limitations, and the future work of this study. LITERATURE REVIEW
+Since ancient times, the idea of causality has attracted the attention of researchers, philosophers, and
+theorists (19–22). ",stat.AP,A,0.13057116,0.16124117,-0.15293014
+http://arxiv.org/pdf/2208.07002v1,The effectiveness of using Google Maps Location History data to detect joint activities in social networks,"A potential explanation for this phenomenon is that modern devices
+depend less on GPS data (which one would expect to perform better in open spaces) and use
+additional information from other sources such as Wi-Fi, mobile networks, and device
+sensors (Google, 2021), that might favor detection near or inside buildings to some extent. However, further analysis is necessary to validate this hypothesis. Figure 4: Effect magnitude of variables affecting detection at the individual level given different
+spatiotemporal accuracy thresholds. ",stat.AP,B,-0.013824858,0.09269634,0.3473025
+http://arxiv.org/pdf/2208.07766v1,Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection,"Interestingly,
+these ""ghost"" users were uniformly dispatched among the unassigned traffic buckets. Explanation: After further research, we concluded that the incident was not caused by a flaw in our analytic data
+pipeline, but rather by a malfunction on the experience service side. A tracking application recorded incorrect user ids
+(cookies) at a specific point in the service pool. ",stat.AP,B,0.19066162,-0.13797116,0.32815757
+http://arxiv.org/pdf/2208.07766v2,Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection,"Interestingly,
+these ""ghost"" users were uniformly dispatched among the unassigned traffic buckets. Explanation: After further research, we concluded that the incident was not caused by a flaw in our analytic data
+pipeline, but rather by a malfunction on the experience service side. A tracking application recorded incorrect user ids
+(cookies) at a specific point in the service pool. ",stat.AP,B,0.19066162,-0.13797116,0.32815757
+http://arxiv.org/pdf/2208.07766v3,Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection,"Interestingly,
+these ""ghost"" users were uniformly dispatched among the unassigned traffic buckets. Explanation: After further research, we concluded that the incident was not caused by a flaw in our analytic data
+pipeline, but rather by a malfunction on the experience service side. A tracking application recorded incorrect user ids
+(cookies) at a specific point in the service pool. ",stat.AP,B,0.19066162,-0.13797116,0.32815757
+http://arxiv.org/pdf/2208.07899v1,Predictions of damages from Atlantic tropical cyclones: a hierarchical Bayesian study on extremes,"Details are reported
+in the supplementary materials. These additional studies ensure that the inferences and predictions are not sensitive to the
+choice of the data science model or technology used, but instead reﬂect what the data tells us. Proper diagnostic studies were
+carried out on the Markov Chain Monte Carlo (MCMC) procedures used in our studies, to ensure that the Markov chains show
+strong evidence of convergence, that the parameter set is sufﬁciently explored and the chain is well mixed. ",stat.AP,C,0.04894948,-0.12198686,-0.2604624
+http://arxiv.org/pdf/2208.08598v1,Using Conformal Win Probability to Predict the Winners of the Cancelled 2020 NCAA Basketball Tournaments,"For the application in this paper, we limited our discussion to model (9). Each of the win
+probability methods described in Section 3 can be applied to more complex models, so future work
+could focus on comparing these methods in a more complex setting. One example of a model we
+could assume is
+
+yuvw = µ + θuw − θvw + εuvw,  (13)
+
+where θuw is the strength of team u during week w. (13) is rank deﬁcient, so we could con-
+sider a fused lasso approach (Tibshirani et al. ",stat.AP,A_centroid,-0.08872751,0.2849465,-0.11136064
+http://arxiv.org/pdf/2208.09103v1,Intersection Two-Vehicle Crash Scenario Specification for Automated Vehicle Safety Evaluation Using Sequence Analysis and Bayesian Networks,"However, a more complex
+network would take more effort to interpret. For future work, data sources with more detailed crash sequence
+data would be sought and used to generate more detailed crash characterization. More elaborative Bayesian
+network models, such as dynamic Bayesian network, would be explored for use in modeling crash sequences
+and ODDs for AV test scenario specification. ",stat.AP,C,-0.1195606,-0.028844493,0.017769951
+http://arxiv.org/pdf/2208.10536v1,A Meta-Analysis of Solar Forecasting Based on Skill Score,"A meta-analysis controls for these impacts and
+generates insights that can be applied globally. We recommend future work report at least the SS based on RMSE and a convex combination of
+smart persistence and climatology as the reference model. RMSE enables inter-model comparison with
+the majority of previous studies. ",stat.AP,B,0.20641434,0.13247189,-0.08054455
+http://arxiv.org/pdf/2208.11043v1,Lower and upper bounds of the superposition of renewal processes and extensions,"A possible extension is to assume it
+to be a random variable with its probability distribution supported on a bounded interval. This will be
+investigated in our future work. References
+
+ [1] S. He, Diﬀusion approximation for eﬃciency-driven queues when customers are patient, Operations
+      Research 68 (4) (2020) 1265–1284. ",stat.AP,C,-0.084607996,-0.09199594,0.017121015
+http://arxiv.org/pdf/2208.12530v1,"Microscopic Traffic Models, Accidents, and Insurance Losses","Case studies are presented in Section 4. Section 5 concludes and
+discusses further research challenges. The e-companion contains in Appendix A details on the
+implemented sampling procedure; additional simulation results, not presented in Section 4, are
+documented in Appendix B. ",stat.AP,C,-0.06556054,-0.09095396,-0.023899095

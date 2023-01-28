@@ -1,0 +1,244 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.10409v1,Stochastic dendrites enable online learning in mixed-signal neuromorphic processing systems,"As our circuits show that single neurons can adapt based
+                                                                         on their incoming activity, they represent a valid candidate
+                                                                         for adaptive “edge computing” applications that require online
+                                                                         learning. To this end, future work will include interfacing the
+                                                                         chip with signals that need to be classiﬁed at the edge, such
+                                                                         as biomedical or industrial signals. ACKNOWLEDGMENT
+
+                                                                            The authors would like to thank Junren Chen for support
+                                                                         during the last steps in the chip layout. ",cs.ET,A,-0.28602943,0.063152306,0.18018821
+http://arxiv.org/pdf/2201.12673v1,The Challenges Ahead for Bio-inspired Neuromorphic Event Processors: How Memristors Dynamic Properties Could Revolutionize Machine Learning,"3) show that the addition of noise to the memristor dynamics does not signiﬁcantly affect the classiﬁcation
+accuracy. Even though the results did not suggest any clear effect of device stochasticity on recognition rate, further analysis
+shows that the noise affected both Time-Surface based feature generation [Fig. 5(b)] and cluster assignment [Fig. ",cs.ET,C,-0.32887322,0.049729936,-0.13272585
+http://arxiv.org/pdf/2201.12965v1,Inverse design of photonic devices with strict foundry fabrication constraints,"We expect that optimal hy-                                                                                                                                                         101
+perparameters of the Adam algorithm used to drive our
+optimization are somewhat problem-dependent, and in           Figure 10. Fraction of independent randomly-initialized opti-
+future work it would be interesting to explore various        mization runs achieving the Table I target performance as a
+conﬁgurations. In particular, reducing the learning rate      function of the optimization step, for each component. ",cs.ET,A,-0.08550906,0.124581955,0.5578669
+http://arxiv.org/pdf/2201.12965v2,Inverse design of photonic devices with strict foundry fabrication constraints,"We attribute this to the fact that the
+                                                                            notched square is relatively larger in area, limiting the
+                 10 2                                                       design space accessible to the optimizer and making the
+                                                                            problem more challenging. We expect that optimal hy-
+                 10 3                                                       perparameters of the Adam algorithm used to drive our
+                                                                            optimization are somewhat problem-dependent, and in
+                       0    50            Step  100                150      future work it would be interesting to explore various
+                                                                            conﬁgurations. In particular, reducing the learning rate
+Figure 8. ",cs.ET,A,-0.13382715,0.14914045,0.56059736
+http://arxiv.org/pdf/2202.09551v1,Implementing Boolean Functions with switching lattice networks,"In future efforts, it is possible to make
+
+                                                         62
+the tool efficient to synthesize functions with larger lattices. The implementation of the
+systematic procedure we discussed in chapter 5 is also a good scope for future works. 63
+                                                REFERENCES
+[1] Dubash, M. Moore’s Law is dead, says Gordon Moore. ",cs.ET,C,-0.07457904,-0.26947814,0.0551279
+http://arxiv.org/pdf/2202.09551v2,Implementing Boolean Functions with switching lattice networks,"In future efforts, it is possible to make
+
+                                                          62
+the tool efficient to synthesize functions with larger lattices. The implementation of the
+systematic procedure we discussed in chapter 5 is also a good scope for future works. 63
+                                                 REFERENCES
+[1] Dubash, M. Moore’s Law is dead, says Gordon Moore. ",cs.ET,C,-0.07457904,-0.26947814,0.0551279
+http://arxiv.org/pdf/2202.12409v1,"Internet of Nano, Bio-Nano, Biodegradable and Ingestible Things: A Survey","In this work, we
+   ensuring the conﬁdentiality, integrity and availability of     comprehensively present all emerging nanonetwork paradigms
+   the data stored and circulating on the network is more         in a single survey paper, and we hope that the paper will shed
+   critical than other application areas. The weakness that       light on future works. will arise in this regard may harm individuals and soci-
+   eties by laying the groundwork for negative situations
+   such as data manipulation, theft, espionage and even
+   bioterrorism [49]. ",cs.ET,C,0.10237353,0.1830818,-0.2026828
+http://arxiv.org/pdf/2202.12896v1,Photonic reinforcement learning based on optoelectronic reservoir computing,"The reservoir that
+incorporates past information to train the Q function could perform better on the tasks that require long-term memory. Therefore, the investigation of the memory effect of the reservoir on the performance of reinforcement learning is another
+research topic in future work. To summarize our study, we numerically and experimentally demonstrated the on-line implementation of reinforcement
+learning based on optoelectronic reservoir computing, which consists of a laser diode, a Mach-Zehnder modulator, and a
+fiber delay line. ",cs.ET,A,-0.23269604,0.07523425,0.11515513
+http://arxiv.org/pdf/2203.06147v1,"Memristors, Spintronics and 2D Materials for Future Computing Systems","Memeristive implementations of data-       prerequisite for wide-scale implementation of neuromor-
+intensive tasks would not only eliminate the need to send     phic computing [217]. Furthermore, additional research is
+data to the server, but also ensure low-power operation       required to increase the capability of the proposed devices. and high speed. ",cs.ET,C,-0.355626,0.16571264,-0.2470415
+http://arxiv.org/pdf/2203.06147v2,"Memristive, Spintronic and 2D-Materials-Based Devices to Improve and Complement Computing Hardware","16
+prerequisite for wide-scale implementation of neuromor-       and zirconium-based multilayer TMDs to form high-κ di-
+phic computing [212]. Furthermore, additional research is     electrics HfO2 and ZrO2 [217, 218]. This approach is of
+required to increase the capability of the proposed devices. ",cs.ET,C,-0.30059743,-0.14588735,-0.37113404
+http://arxiv.org/pdf/2203.06147v3,"Memristive, Spintronic, and 2D-Materials-Based Devices to Improve and Complement Computing Hardware","16
+Find published open-access version in Advanced Intelligent Systems, doi:10.1002/aisy.202200068
+
+prerequisite for wide-scale implementation of neuromor-       and zirconium-based multilayer TMDs to form high-κ di-
+phic computing [213]. Furthermore, additional research is     electrics HfO2 and ZrO2 [218, 219]. This approach is of
+required to increase the capability of the proposed devices. ",cs.ET,C_centroid,-0.27905303,-0.1097566,-0.33967522
+http://arxiv.org/pdf/2203.07183v1,QuFI: a Quantum Fault Injector to Measure the Reliability of Qubits and Quantum Circuits,"combinations of the second fault injections. All the explosion
+plots for the remaining cases are publicly available in [35] for        fault injection has a mean QVF of 0.4647 and a standard
+further analysis. deviation of 0.1818. ",cs.ET,C,0.1613774,0.035486944,-0.13301066
+http://arxiv.org/pdf/2203.08303v1,Pinning Fault Mode Modeling for DWM Shifting,"16, Dec. 2019.
+quality at DWM shift points. [14] S. S. P. Parkin, L. Thomas, and S.-H. Yang, “Method and system for
+   In our future work we will study in detail how pinning               measurement of road proﬁle,” April 2014. US Patent 8,687,415 B2. ",cs.ET,B,0.15374286,0.06593014,0.08718057
+http://arxiv.org/pdf/2203.10171v1,Neuromorphic metamaterials for mechanosensing and perceptual associative learning,"For
+simpliﬁcation purposes and to avoid the increased damage that occurs with more highly strained curved sensors (Figure S6), we
+use metasheets with linear sensors to connect to memristors. Curved sensors could be made more practical by using a less brittle
+conductive ﬁlament; this is left to future work. Spatiotemporal Memory– The mechanosensing functionality of our metasheets can be used to encode the transduced distributed
+mechanical inputs into memories. ",cs.ET,C,-0.3468024,-0.11303131,-0.22505848
+http://arxiv.org/pdf/2203.14118v1,Analog Programmable-Photonic Computation,"gates) among anbits formalising the underlying algebra. Thirdly,
+we will design the circuit implementations of these gates using PIP technology and, fourthly,
+we will specify a roadmap to further develop the APC in future works. Finally, a qualitative
+comparison among the main properties of APC, DC, QC and NC is discussed, assessing the
+unique potential and versatility oﬀered by this computing paradigm. ",cs.ET,C,-0.13651554,-0.25523752,-0.06509343
+http://arxiv.org/pdf/2204.01501v1,X-Fault: Impact of Faults on Binary Neural Networks in Memristor-Crossbar Arrays with Logic-in-Memory Computation,"Furthermore, a comparison of two logic families                         is missing?” in 2018 IEEE International Test Conference (ITC), 2018.
+based on their fault resilience is facilitated by introducing
+two novel metrics. In future work, we plan to run extensive                      [10] M. J. Rasch et al., “A ﬂexible and fast PyTorch toolkit for simulating
+simulations with different models and data sets. In addition,                          training and inference on analog crossbar arrays,” in AICAS, 2021.
+we intend to expand the framework by including memristor-
+speciﬁc faults as well as the implementation of other logic                      [11] S. Kannan et al., “Modeling, detection, and diagnosis of faults in
+families. ",cs.ET,C,-0.25592834,0.024859525,-0.21133581
+http://arxiv.org/pdf/2204.02472v1,Equivalence of coupled parametric oscillator dynamics to Lagrange multiplier primal-dual optimization,"CONCLUSION                         important optimization problems and are used as analog
+                                                               co-processors or accelerators alongside standard digital
+   In this paper, we studied the dynamics of coupled para-     chips. We hope this work will instigate further research
+metric oscillator Ising solvers and showed that the system     into the design of physical systems that naturally perform
+exactly performs Lagrange multiplier primal-dual opti-         optimization (physical optimizers) of various ﬂavors for
+mization. The signal oscillator voltages represent the         important applications like machine learning. ",cs.ET,C,-0.12106848,-0.051292434,0.19503823
+http://arxiv.org/pdf/2204.05682v1,A Robust Learning Rule for Soft-Bounded Memristive Synapses Competitive with Supervised Learning in Standard Spiking Neural Networks,"9,
+      p. 1600090, 2016. [9] M. Khalid, “Review on various memristor models, char-
+      acteristics, potential applications, and future works,”
+      Transactions on Electrical and Electronic Materials,
+      vol. 20, no. ",cs.ET,C,-0.34222406,-0.24870735,-0.2626505
+http://arxiv.org/pdf/2204.06764v1,Supplementation of deep neural networks with simplified physics-based features to increase model prediction accuracy,"Finally, infusion of a DNN with physics-based information is shown to have
+the greatest impact on model accuracy when used to predict behavior for data not within
+the scope of the original training sets. The end result is a methodology that shows at least
+modest improvement to DNN model accuracy and generalizability, and one that may be
+improved by further study and hyperparameter tuning. 6
+2. ",cs.ET,A,-0.16485542,0.30826095,0.36351424
+http://arxiv.org/pdf/2204.07503v1,Cryogenic Neuromorphic Hardware,"Since, a full-scale neuromorphic network based on
+number of electrical pulses and the pulse energy can finetune         JJ requires constant current biases with active interconnects,
+the critical current. The energy for a JJ synapse with an elliptical  further research is still necessary for a fully JJ-based efficient
+cross-sectional area of 1.5 × 3.5 μm2 is 3 aJ [63]. Contrary to       and scalable neuromorphic network. ",cs.ET,C,-0.4634586,-0.07808954,-0.017584365
+http://arxiv.org/pdf/2204.07503v2,Cryogenic Neuromorphic Hardware,"However, this is still an evolving
+cryogenic neuromorphic hardware. Some CMOS-based digital            field of research and there is a strong need for further research
+implementations of neuromorphic chips have already been             exploration and scrutiny. fabricated by Intel and IBM[98], [99]. ",cs.ET,C,-0.36814234,-0.014004697,-0.14840478
+http://arxiv.org/pdf/2204.10978v1,All-optical graph representation learning using integrated diffractive photonic computing units,"For example, DGNN
+almost achieves the state-of-the-art performance on Amazon Photo under large scarce training labels, and
+significantly outperforms the electronic GNNs under the scarce label settings. Therefore, including
+nonlinear activation function in DGNN is left for future work as the potential to further enhance the model
+learning capability. Conclusion
+
+In summary, we take the first step to present the optical deep learning architecture, i.e., DGNN, that can
+perform the all-optical graph representation learning over the graph-structured data for the high-accurate
+node- and graph-level classification tasks. ",cs.ET,A,-0.10009426,0.19043097,0.4706535
+http://arxiv.org/pdf/2204.12261v1,Managing Reliability Skew in DNA Storage,"errors than what can be corrected, DnaMapper is still capable of
+                                                                        retrieving useful data of sufficiently high quality. In other words,
+   While the techniques proposed by prior work are a great use          as the noise level increases, the quality of DnaMapper-stored data
+case for our system, they are not open-sourced, and they are quite      gracefully degrades and still provide useful data, but of gradually
+complex, so we leave their integration for future work. In this work,   lower quality. ",cs.ET,A,0.45234436,0.72583044,-0.30144626
+http://arxiv.org/pdf/2204.12261v2,Managing Reliability Skew in DNA Storage,"errors than what can be corrected, DnaMapper is still capable of
+                                                                        retrieving useful data of sufficiently high quality. In other words,
+   While the techniques proposed by prior work are a great use          as the noise level increases, the quality of DnaMapper-stored data
+case for our system, they are not open-sourced, and they are quite      gracefully degrades and still provide useful data, but of gradually
+complex, so we leave their integration for future work. In this work,   lower quality. ",cs.ET,A,0.45234436,0.72583044,-0.30144626
+http://arxiv.org/pdf/2204.12824v1,"Maritime Communications: A Survey on Enabling Technologies, Opportunities, and Challenges","4, the waves may be
+communication between ships and ship to shore. Nevertheless,
+research on hybrid RF/FSO links for maritime networks is still
+in the early stages and needs further research. 7
+
+                 TABLE III: Summary of FSO ﬁeld trials and demonstrations. ",cs.ET,B,0.3992196,-0.23990783,-0.14873265
+http://arxiv.org/pdf/2204.12824v2,"Maritime Communications: A Survey on Enabling Technologies, Opportunities, and Challenges","Nevertheless,         from scattering, the assumption of Rayleigh fading is no
+research on hybrid RF/FSO links for maritime networks is           longer valid. Therefore, ﬁnite-scattering models introduced
+still in the early stages and needs further research. for terrestrial RF communication [51], [52] can be used for
+                                                                   maritime channel modeling. ",cs.ET,B,0.4417186,-0.24765368,-0.07107488
+http://arxiv.org/pdf/2204.13443v1,Analysis of MC Systems Employing Receivers Covered by Heterogeneous Receptors,"By substituting (46) and (22) into (45), we obtain (27). Additionally, as the typical cell membrane is composed of a
+mixture of phospholipids in a ﬂuid phase [40], future work                                       APPENDIX C
+can consider the movement of receptors on the RX surface                                  PROOF OF COROLLARY 6
+and incorporate this phenomenon into MC system design. We note that HMF(t) can be represented as HMF(t) = fr(t)∗
+                                                                  Hs(t). ",cs.ET,C,-0.091530316,-0.21089713,-0.25285184
+http://arxiv.org/pdf/2205.05488v1,"DNA data storage, sequencing data-carrying DNA","This
+is a signiﬁcant result, as we can conclude that we are able to drastically reduce basecaller model size and
+still gain a lower error rate through the use of error correcting codes. 7 Conclusions and future work
+
+DNA data storage is a likely contender to be the next archival storage medium but before this happens a
+number of challenges need to be addressed. One such challenge is the accuracy and computational burden
+of the machine learning models used for basecalling, i.e., during the process of reading the information back. ",cs.ET,A,0.19385347,0.5247337,-0.09540125
+http://arxiv.org/pdf/2205.09103v1,Single-Shot Optical Neural Network,"We can also run wider and deeper DNNs on
+the hardware (i.e., more neurons per hidden layer, a greater number of hidden layers and added
+biases). In future work, we will benchmark our system against other accelerators with standard
+DNNs such as LeNet [59] and AlexNet [1]. We then replaced the CW laser in our experiment with a ﬁltered supercontinuum source
+to calculate the physical limit to throughput of our system. ",cs.ET,A_centroid,-0.2351942,0.18195492,0.37568897
+http://arxiv.org/pdf/2205.12494v1,A Multi-domain Magneto Tunnel Junction for Racetrack Nanowire Strips,"185–190, 2012.
+model which can be used to explore different conﬁgurations
+of fewer or more domains. In our future work we hope to                                                                                                                                                 [5] R. Venkatesan, M. Sharad, K. Roy, and A. Raghunathan, “Dwm-tapestri-
+explore extending the analytical model with impacts from                                                                                                                                                     an energy efﬁcient all-spin cache using domain wall shift based writes,”
+process variation, as well as ways to increase the sense margin. in Proc. ",cs.ET,C,-0.20148976,0.012963405,-0.045921728
+http://arxiv.org/pdf/2205.15045v1,Intelligent optoelectronic processor for orbital angular momentum spectrum measurement,"Vectorial
+counterpart is also feasible65, which could inspire efficient vector structured light detection. In addition to
+azimuthal mode spectrum this work discussed, crafting the POAMS into a radial mode spectrum can be
+relevant future work66. Besides, the POAMS can be recognized as a solution to a regression problem in
+essence, and it could be extended to solve similar problems in other fields which necessities high speed
+and accuracy. ",cs.ET,B,0.46411848,-0.21503747,0.2071585
+http://arxiv.org/pdf/2205.15045v2,Intelligent optoelectronic processor for orbital angular momentum spectrum measurement,"Vectorial counterpart is also feasible66,
+68, which could inspire efficient vector structured light detection. In addition to azimuthal mode
+spectrum this work discussed, crafting the POAMS into a radial mode spectrum can be relevant
+future work72. Besides, the POAMS can be recognized as a solution to a regression problem in
+essence, and it could be extended to solve similar problems in other fields which necessitates high
+speed, accuracy and robustness. ",cs.ET,B_centroid,0.46540263,-0.2064884,0.21585983
+http://arxiv.org/pdf/2206.01471v1,Controlled Signaling and Transmitter Replenishment for MC with Functionalized Nanoparticles,"2022. Channel Responses for the Molecule Release from Spherical
+plication for the design of suitable detectors is left for future work. Homogeneous Matrix Carriers. ",cs.ET,B,0.17206667,-0.21380253,-0.14818749
+http://arxiv.org/pdf/2206.05550v1,Web-Based Platform for Evaluation of Resilient and Transactive Smart-Grids,"Each house is connected through a zip-load
+in Section V. Finally, Section VI concludes the paper and         and a water-heater. One of the net-meter (triplex meter) is
+highlights directions for future work. connected to a solar-inverter pair through another meter which
+                                                                  measures the power generated by solar-panel. ",cs.ET,B,0.19290124,-0.016862037,0.047535837
+http://arxiv.org/pdf/2206.08735v1,A Co-design view of Compute in-Memory with Non-Volatile Elements for Neural Networks,"This is an important (though less appreciated) point to note, since
+enabling the accommodation of non-ideal response in the material greatly opens up the
+candidate possibilities. Consideration of performance in such algorithmic accommodation of
+non-idealities needs further examination. Simulations show that the modified algorithm
+relaxes the required number of programming steps by one order of magnitude and opens up
+the noise tolerance window considerably [57]. ",cs.ET,B,0.11124967,-0.06705001,0.18236643
+http://arxiv.org/pdf/2206.09951v1,Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks,"[5] S. Gasparini, E. Ferlazzo, C. Sueri, V. Cianci, M. Ascoli, S. M.
+                                                                             Cavalli, E. Beghi, V. Belcastro, A. Bianchi, P. Benna, R. Cantello,
+   While our proposed system is not currently competitive                    D. Consoli, F. A. De Falco, G. Di Gennaro, A. Gambardella, G. L.
+in resource-constrained environments, it is intended to be                   Gigli, A. Iudice, A. Labate, R. Michelucci, M. Paciaroni, P. Palumbo,
+used as a reference design for future works implement-                       A. Primavera, F. Sartucci, P. Striano, F. Villani, E. Russo, G. De Sarro,
+ing epileptic seizure detection and prediction systems using                 U. Aguglia, and O. behalf of the Epilepsy Study Group of the Italian
+CMOS and memristors. Using analog Static Random-Access                       Neurological Society, “Hypertension, seizures, and epilepsy: a review
+Memory (SRAM), vertical stacking of crossbars and CMOS                       on pathophysiology and management,” Neurological Sciences, vol. ",cs.ET,C,-0.1964136,0.02887047,-0.25845206
+http://arxiv.org/pdf/2206.13861v1,LiteCON: An All-Photonic Neuromorphic Accelerator for Energy-efficient Deep Learning (Preprint),"We demonstrated that the
+proposed design has the potential to achieve up to 30×, 34×, and 4.5× improvements during training,
+and up to 34×, 40×, and 5.5× during inference, in throughput, energy efficiency, and computational
+efficiency per watt respectively, compared to the state-of-the-art with little reduction in accuracy. Our
+future work will address how LiteCON can be modeled for broader applicability such as other types
+of deep learning models, e.g., deep neural networks (DNNs). REFERENCES
+
+[1] Li, W., Liu, K., Yan, L. et al. ",cs.ET,A,-0.3320582,0.16733411,0.4191247
+http://arxiv.org/pdf/2206.14330v3,Model-Based Approaches to Channel Charting,"The
+results show that their bias and variability vanish asymptotically. A theoretical analysis of these facts is
+beyond the scope of this paper and is left as potential future work. 20
+
+                                                                                     Measure                                                                           Channel                                  PCA                                    SM                                        AE                                                                         LR                            ISQ
+                                                                                       TW                                                                              LOS                                     0.8603                                 0.8272                                   0.8286                                                                     0.9930                         0.9885
+                                                                                                                                                                       QLOS                                    0.8474                                 0.8512                                   0.8574                                                                     0.9089                         0.9092
+                                                                                        CT                                                                             QNLOS                                   0.8502                                 0.8456                                   0.8496                                                                     0.9029                         0.9041
+                                                                                                                                                                       LOS                                     0.9288                                 0.9051                                   0.8932                                                                     0.9968                         0.9940
+                                                                                                                                                                       QLOS                                    0.9223                                 0.9278                                   0.9055                                                                     0.9416                         0.9304
+                                                                                                                                                                       QNLOS                                   0.9237                                 0.9217                                   0.9057                                                                     0.9246                         0.9220
+
+                             Table 3: Performance comparison for TW and CT at k-nearest = 102 for LR and ISQ algorithms in 3D channel. ",cs.ET,B,0.20766896,-0.028678257,-0.008629881
+http://arxiv.org/pdf/2206.14368v1,IMRSim: A Disk Simulator for Interlaced Magnetic Recording Technology,"simulator and product available to the public, which moti-
+                                        vates us to develop an open-source IMR disk simulator to             Figure 1: The different track layouts in HDDs. provide a platform for further research. In the SMR technology, to maximize the data storage den-
+                                           We implement the first public IMR disk simulator, called     sity [8], the tracks overlap like roof tiles to shorten the track
+                                        IMRSim, as a block device driver in the Linux kernel, simu-     gap, as shown in figure 1(b). ",cs.ET,B,0.06085781,0.100011095,-0.28614873
+http://arxiv.org/pdf/2207.05072v1,An On-demand Photonic Ising Machine with Simplified Hamiltonian Calculation by Phase-encoding and Intensity Detection,"Our
+
+OVMM scheme is also appropriate to build such optical resonant cavity, since both the input
+
+and the output mode are the DCS modes. Inspired by these works, we may realize an all-optical
+
+Ising annealer based on the spatial optical resonant cavity in the future work. As mentioned above, our PEIDIA only requires one non-unitary OVMM with proper
+
+pretreatment. ",cs.ET,B,0.4290034,-0.4186024,0.10574032
+http://arxiv.org/pdf/2207.05072v2,An On-demand Photonic Ising Machine with Simplified Hamiltonian Calculation by Phase-encoding and Intensity Detection,"Our OVMM scheme is also
+appropriate to build such optical resonant cavity, since both the input and the output mode are the DCS modes. Inspired by
+these works, we may realize an all-optical Ising annealer based on the spatial optical resonant cavity in the future work. 7
+      As mentioned above, our PEIDIA only requires one non-unitary OVMM with proper pretreatment. ",cs.ET,B,0.43315694,-0.42064282,0.10474549
+http://arxiv.org/pdf/2207.10835v1,Characterizing Coherent Integrated Photonic Neural Networks under Imperfections,"1). As MZIs can only attenuate optical signals, a global         future work. optical ampliﬁcation is necessary on each output to represent
+arbitrary diagonal matrices [22]. ",cs.ET,B,0.27468055,-0.34349397,0.006387656
+http://arxiv.org/pdf/2208.00865v1,iOCR: Informed Optical Character Recognition for Election Ballot Tallies,"Future work would include using a larger number of ballots
+with similar names and testing how other image quality degradation methods
+aﬀect performance. We would like to further study the performance of iOCR to
+other standard OCR algorithms and test it on ballots from a current election. 13
+Acknowledgment
+
+This material is based upon work supported by the National Science Foundation
+Graduate Research Fellowship under Grant No. ",cs.ET,B,0.33906442,0.28094888,-0.030367311

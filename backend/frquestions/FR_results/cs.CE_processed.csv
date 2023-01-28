@@ -1,0 +1,909 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.05278v1,${\tt simwave}$ -- A Finite Difference Simulator for Acoustic Waves Propagation,"-O3). The investigation on more advanced loop optimization strategies
+is beyond of this work’s scope and will be addressed in future work. 6 Comparison with other simulation packages
+simwave implements an explicit solver to simulate the propagation of acoustic waves
+with constant or variable density, based on the ﬁnite-diﬀerence method. ",cs.CE,B,0.2430417,-0.10018243,-0.04854998
+http://arxiv.org/pdf/2201.06958v1,Scalable In Situ Compression of Transient Simulation Data Using Time-Dependent Bases,"After introducing our strategy in the section
+2, we test our method on four diﬀerent compression problems, including the Runge function, incompressible
+turbulent reactive ﬂow, stochastic turbulent reactive ﬂow, and three-dimensional turbulent channel ﬂow in
+section 3. In section 4, we summarize our work and suggest possible future work..
+
+2. Methodology
+
+2.1. ",cs.CE,B,0.08047746,0.14441293,-0.11504261
+http://arxiv.org/pdf/2201.08267v1,Statistical detection of format dialects using the weighted Dowker complex,"Highly dependent messages                  message patterns K that are exhibited in the data. To this
+are often indicative of dialect boundaries, so they could                     end, we can either use Equation (1) (theoretical) based upon
+be candidates for further analysis based upon ﬁle contents. our previous estimates of Mgood and pgood = 0.380, or we can
+Moreover, the sparsity of edges in the upper portion of the                   compute P (K|good) directly by counting how many message
+diagram indicates that most of the message patterns for the                   patterns are exhibited (empirical). ",cs.CE,C,-0.268444,0.03629168,0.060572434
+http://arxiv.org/pdf/2201.10248v1,HoneyTop90: A 90-line MATLAB code for topology optimization using honeycomb tessellation,"Easy and eﬃcient meshgrid generation for tetra-kai-
+decahedron elements, performing ﬁnite element analysis and optimization form a future direction
+for a three-dimensional problem setting. In addition, extensions of code to solve advanced
+design problems with stress and buckling constraints may be one of the prime directions for
+future work. Acknowledgment
+
+The author would like to thank Prof. Anupam Saxena, Indian Institute of Technology Kanpur,
+India, for fruitful discussions and acknowledge ﬁnancial support from the Science & Engineering
+research board, Department of Science and Technology, Government of India under the project
+ﬁle number RJF/2020/000023. ",cs.CE,B,0.60684884,0.19708759,-0.3396557
+http://arxiv.org/pdf/2201.10248v2,HoneyTop90: A 90-line MATLAB code for topology optimization using honeycomb tessellation,"Easy and eﬃ-
+cient meshgrid generation for tetra-kai-decahedron elements, performing ﬁnite element analysis
+and optimization form a future direction for a three-dimensional problem setting. In addition,
+extensions of code to solve advanced design problems with stress and buckling constraints may
+be one of the prime directions for future work. Acknowledgment
+
+The author would like to thank Prof. Anupam Saxena, Indian Institute of Technology Kanpur,
+India, for fruitful discussions and acknowledge ﬁnancial support from the Science & Engineering
+research board, Department of Science and Technology, Government of India under the project
+ﬁle number RJF/2020/000023. ",cs.CE,B,0.5995269,0.20609689,-0.3532934
+http://arxiv.org/pdf/2201.10248v3,HoneyTop90: A 90-line MATLAB code for topology optimization using honeycomb tessellation,"Easy and eﬃ-
+cient meshgrid generation for tetra-kai-decahedron elements, performing ﬁnite element analysis
+and optimization form a future direction for a three-dimensional problem setting. In addition,
+extensions of code to solve advanced design problems with stress and buckling constraints may
+be one of the prime directions for future work. Acknowledgment
+
+The author would like to thank Prof. Anupam Saxena, Indian Institute of Technology Kanpur,
+India, for fruitful discussions and acknowledge ﬁnancial support from the Science & Engineering
+research board, Department of Science and Technology, Government of India under the project
+ﬁle number RJF/2020/000023. ",cs.CE,B,0.5995269,0.20609689,-0.3532934
+http://arxiv.org/pdf/2201.10248v4,HoneyTop90: A 90-line MATLAB code for topology optimization using honeycomb tessellation,"Easy and eﬃcient meshgrid generation for tetra-kai-decahedron elements, performing
+ﬁnite element analysis and optimization form a future direction for a three-dimensional prob-
+lem setting. In addition, extensions of code to solve advanced design problems with stress and
+buckling constraints may be one of the prime directions for future work. Acknowledgment
+
+The author would like to thank Prof. Anupam Saxena, Indian Institute of Technology Kanpur,
+India, for fruitful discussions and acknowledge ﬁnancial support from the Science & Engineering
+
+                                                             17
+research board, Department of Science and Technology, Government of India under the project
+ﬁle number RJF/2020/000023. ",cs.CE,B,0.59976834,0.20381099,-0.30644876
+http://arxiv.org/pdf/2201.10248v5,HoneyTop90: A 90-line MATLAB code for topology optimization using honeycomb tessellation,"Easy and eﬃcient meshgrid generation for tetra-kai-decahedron elements, performing
+ﬁnite element analysis and optimization form a future direction for a three-dimensional prob-
+lem setting. In addition, extensions of code to solve advanced design problems with stress and
+buckling constraints may be one of the prime directions for future work. Acknowledgment
+
+The author would like to thank Prof. Anupam Saxena, Indian Institute of Technology Kanpur,
+India, for fruitful discussions and acknowledge ﬁnancial support from the Science & Engineering
+
+                                                             17
+research board, Department of Science and Technology, Government of India under the project
+ﬁle number RJF/2020/000023. ",cs.CE,B,0.59976834,0.20381099,-0.30644876
+http://arxiv.org/pdf/2201.10374v1,Multiscale modeling of linear elastic heterogeneous structures based on a localized model order reduction approach,"Possibly for a more eﬃcient
+reduction, one would like to group the training data by means of clustering methods and analogously construct several local
+spaces, each tailored speciﬁcally to the displacement state of the respective cluster, for the interior of the structure. Nevertheless, means to include physical states and their variation in the training data is thought to be promising in view of
+the extension of the method to the nonlinear case, which is subject of future work. In contrast to the linear case the choice of the
+correct amplitudes of the boundary data in the oversampling problem or amplitudes of the edge modes when extending these
+into the RVE subdomain poses a great challenge. ",cs.CE,C,0.019828387,-0.22039169,0.12537071
+http://arxiv.org/pdf/2201.10374v2,Multiscale modeling of linear elastic heterogeneous structures via localized model order reduction,"However, for fully localized problems, a reduction might be very challenging,
+such that a hybrid approach in which one can switch back to a FOM for certain subdomains depending on the deformation state
+is envisioned. To this end, the ﬁne scale information contained in the reduced basis functions is needed to develop criteria for the
+transition from a ROM to a FOM which is possible with the proposed framework and planned as future work. ACKNOWLEDGEMENTS
+
+The authors gratefully acknowledge ﬁnancial support by the German Research Foundation (DFG), project number 394350870,
+and by the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme
+(ERC Grant agreement No. ",cs.CE,B,0.057513192,-0.05947612,0.0440861
+http://arxiv.org/pdf/2201.10620v1,Structural importance and evolution: an application to financial transaction networks,"For        crisis, enduring stress in the money markets was observed
+these networks, which all show complex structures with            due to the interdependence of banks, who rationally sought
+both disconnected communities and ‘hub’ nodes, we com-            to protect themselves from infection from other banks by
+pare our measures of node importance to two commonly              hoarding liquidity. Our ﬁndings present us with a novel
+used centrality measures and also to degree, community            insight into the evolutionary behaviour of transaction net-
+label and the number of times a node has appeared his-            works for the capital markets, which we hope will motivate
+torically, demonstrating that our measure is not simply           further research into the links between structural impor-
+acting as a proxy for these key node properties. When             tance, network evolution and how these relate to market
+exploring whether static node importance is able to pre-          stability constraints. ",cs.CE,A,-0.37336034,0.4424594,0.117125295
+http://arxiv.org/pdf/2201.10620v2,Structural importance and evolution: an application to financial transaction networks,"Our ﬁndings present us with a novel
+of complex structures, which makes our methods particu-          insight into the evolutionary behaviour of transaction net-
+larly suited for studying equity transaction networks. For       works for the capital markets, which we hope will motivate
+these networks, which all show complex structures with           further research into the links between structural impor-
+both disconnected communities and ‘hub’ nodes, we com-           tance, network evolution and how these relate to market
+pare our measures of node importance to two commonly             stability constraints. used centrality measures and also to degree, community
+label and the number of times a node has appeared his-           It is worth noting that our measure of structural node im-
+torically, demonstrating that our measure is not simply          portance, mb, is not suitable for use on random networks,
+acting as a proxy for these key node properties. ",cs.CE,A,-0.37052846,0.42892075,0.14120987
+http://arxiv.org/pdf/2201.10620v3,Structural importance and evolution: an application to financial transaction networks,"Our ﬁndings present us with a novel         relation networks [49, 50, 51, 52, 53, 54, 55]. Additional
+insight into the evolutionary behaviour of transaction net-     work could also include considering whether the nodes that
+works for the capital markets, which we hope will motivate      are changing in these networks do so persistently, as this
+further research into the links between structural impor-       would allow us to gain deeper insights into the evolutionary
+tance, network evolution and how these relate to market         behaviour of these networks and also an exploration of the
+stability constraints. resultant structural changes that occur when an important
+                                                                node changes. ",cs.CE,A,-0.30604142,0.35597527,0.13288781
+http://arxiv.org/pdf/2201.11248v1,Electrical Load Forecasting Using Edge Computing and Federated Learning,"The weather ﬂuctuations in this period            1              5                1
+are low, so the seasonal factor can be ignored in this study. The       2             20                1
+data of each client is prepared to be ready for further analysis. 3              5                5
+First, we transform the data to be in a scale between 0 and 1. ",cs.CE,A,-0.27743745,0.13351987,-0.2111656
+http://arxiv.org/pdf/2201.11271v1,Clustered Vehicular Federated Learning: Process and Optimization,"𝑅𝑘,ℎ
+
+   In this article, we propose a cluster-based scheme for FL        results are presented in Section V. At last, conclusions and
+in vehicular networks. The clustering scheme consists of            future work are presented in Section VI. grouping vehicles with common characteristics, not only in
+terms of direction and velocity, but also from a learning                                     II. ",cs.CE,C,-0.14022252,0.0425317,0.11479562
+http://arxiv.org/pdf/2201.11330v1,IMEXLBM 1.0: A Proxy Application based on the Lattice Boltzmann Method for solving Computational Fluid Dynamic problems on GPUs,"Further investigation is required to understand performance. In particular, a
+rooﬂine analysis will help to assess we can do any further analysis to improve
+performance. 19
+                                 40
+
+Mega Lattice Updates per Second  35
+                                                            CPU (MPI)
+
+                                                            GPU (MPI+OpenMP Offloading)
+                                 30
+
+                                 25
+
+                                 20
+
+                                 15
+
+                                 10
+
+                                                  5
+
+                                                  0
+
+                                                     1  2                                4    8
+
+                                                        Number of Processors/Devices
+
+                                                        (a) Mega Lattice Updates per Second. ",cs.CE,B,-0.07445362,0.0858412,-0.13506213
+http://arxiv.org/pdf/2201.12895v1,Road User Position Prediction in Urban Environments via Locally Weighted Learning,"Alternatively, one could partly trim stationary parts of a
+trajectory, hence keeping all of the more interesting parts. Due to the limited amount of data available at locations 3 and 4 and the
+space limitiations of this paper these locations are omitted from further study. It can be veriﬁed that the method in Sec. ",cs.CE,C,-0.049616452,-0.03131493,0.22239959
+http://arxiv.org/pdf/2202.00783v1,"Modeling ventilation in a low-income house in Dhaka, Bangladesh","It is expected that the predictive capability
+of the model can be further improved by obtaining a better understanding
+of the natural ventilation process as a function of the weather conditions. In future work, we will explore the use of CFD to gain this insight and de-
+velop more accurate ventilation models that can be implemented in building
+thermal models. Acknowledgement
+
+    This research was funded by a seed grant from the Stanford Woods Insti-
+tute Environmental Venture Projects program and supported by the Stanford
+Center at the Incheon Global Campus (SCIGC) funded by the Ministry of
+Trade, Industry, and Energy of the Republic of Korea and managed by the
+Incheon Free Economic Zone Authority. ",cs.CE,B,0.04133509,-0.08323915,-0.34421992
+http://arxiv.org/pdf/2202.01451v1,Topology Optimization with Tetra-kai-decahedra and Spheroidal Masks,"7 | CONCLUSION
+
+A novel meshing algorithm for the development of regular tetra-kai-decaherons or truncated octahedrons mesh is
+established for cuboidal domain. The idea can be extended to mesh any geometry using a bounding box algorithm
+and will be explored in future works. The FEM uses truncated octahedron cells as elements for solving linear elasticity
+problem. ",cs.CE,B,0.49557036,0.099616304,-0.06236648
+http://arxiv.org/pdf/2202.04041v2,Physics-informed neural networks for solving parametric magnetostatic problems,"However,
+                                                                             a sufﬁcient degree of convergence has been achieved much
+   The electromagnetic force acting on the I-core is a primary               faster. As future work, we aim to investigate possible stopping
+quantity of interest. Due to symmetry, the force acting along                criteria and various opportunities to accelerate convergence
+the x-direction vanishes, i.e., Fx = 0. ",cs.CE,B,0.11393574,0.16211927,0.18919834
+http://arxiv.org/pdf/2202.04526v1,Soundiation: A multi-functional GUI-based software in evaluation of the acoustophoresis by the acoustic radiation force and torque on arbitrary axisymmetric objects,"The host fluid and particle boundary conditions also remain
+flexible. Some potential functionalities of this software are concluded as: (1) designing
+the non-spherical particle and generating its three-dimensional geometric data, which
+can be conveniently imported to other commercial numerical software (e.g., COMSOL
+Multiphysics) for further research; (2) visualizing the specified plane wavefield or
+piston-like wavefield from a user-customized transducer array; (3) estimating the
+acoustic radiation force and torque exerted on the particle designed in (1), and the
+incident wavefield is specified in (2); (4) predicting and visualizing the time-variant
+dynamic process of the particle designed in (1) under the incident wavefield given in
+(2), i.e., illustrating the time-variant acoustophoretic process of the particle. A brief overview of the software, Soundiation, is described in section 2 (more
+explanations in how to use the software can refer to the user manual given in the
+“Soundiation-Acoustophoresis ./docs/user_manual” folder). ",cs.CE,B,0.12310881,-0.1782237,0.12691706
+http://arxiv.org/pdf/2202.04916v1,Discovering plasticity models without stress data,"The sparse regression enables parsimonious model selection in contrast to an a priori choice of the plasticity
+model such as in the traditional material model calibration techniques. Hence, after having demonstrated EUCLID for
+hyperelasticity31 and for plasticity, we aim at pursuing its extension to the discovery of more general cases of plasticity with
+pressure sensitivity and anisotropy in future work. Further extensions of interest may include other categories of material
+behavior such as visco-elasticity, visco-plasticity, damage and general combinations thereof. ",cs.CE,B,0.12789048,-0.17089751,0.09895846
+http://arxiv.org/pdf/2202.05460v1,Reduced order modeling with Barlow Twins self-supervised learning: Navigating the space between linear and nonlinear solution manifolds,"We have illustrated that as the dimensionality of our parameter space grows, the model requires more training samples, or it
+will suffer by losing its accuracy signiﬁcantly as in Example 4 compared to accurate prediction in Example 3. We speculate
+that an adaptive sampling technique33,54,55, incorporating physical information56,57, or including multimodal unsupervised
+training58 might provide a resolution to this issue in the future work. Besides, as the parameter space grows, the entangle
+among parameters (correlation) could also cause our model’s accuracy to deteriorate (e.g., Example 4). ",cs.CE,C,-0.3041217,-0.39901355,-0.0039086156
+http://arxiv.org/pdf/2202.05460v2,Reduced order modeling for flow and transport problems with Barlow Twins self-supervised learning,"We have illustrated that as the dimensionality of our parameter space grows, the model requires more training samples, or it
+will suffer by losing its accuracy signiﬁcantly as in Example 4 compared to accurate prediction in Example 3. We speculate that
+an adaptive sampling technique57–59, incorporating physical information60,61, or including multimodal unsupervised training62
+might provide a resolution to this issue in the future work. Another gap in data-driven machine learning ROM is that a posteriori
+error is exceptionally challenging to quantify. ",cs.CE,C_centroid,-0.30230767,-0.5332718,-0.0052152686
+http://arxiv.org/pdf/2202.06288v1,A macro modelling continuum approach with embedded discontinuities for the assessment of masonry arch bridges under earthquake loading,"The macroscale models, however, overestimate the peak load of about 15% compared to the
+mesoscale and experimental results. A further study revealed that such discrepancy is associated
+with the contribution of the continuous circumferential mortar joint, which is spread along the
+
+                    21
+entire thickness of the arch in the macroscale description. In fact, a mesoscale simulation for a
+single ring arch with the same geometrical and mechanical characteristics of the analysed two-
+ring masonry arch leads to a peak load very close to that predicted by the proposed macroscale
+model (Figure 7a). ",cs.CE,B,0.103137165,-0.044665318,-0.10741841
+http://arxiv.org/pdf/2202.10558v1,Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty,"In addition to robust design optimization demonstrated in this
+work, we can also combine the proposed hierarchical generative model with reliability-based design optimization to ﬁnd
+designs that are unlikely to fail after fabrication or under operational wear/erosion. Built on our preliminary results, as
+future work, we will 1) perform more tests to quantify GAN-DUF’s performance on different design under uncertainty
+scenarios and 2) use real fabricated designs as training and test data to validate the effectiveness of the GAN-DUF
+framework in a completely realistic scenario. Acknowledgement
+
+This work was supported by the NSF CSSI program (Grant No. ",cs.CE,B,0.03476546,-0.33492243,-0.4420362
+http://arxiv.org/pdf/2202.10558v2,Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty,"In addition to robust design optimization demonstrated in this
+work, we can also combine the proposed hierarchical generative model with reliability-based design optimization to ﬁnd
+designs that are unlikely to fail after fabrication or under operational wear/erosion. Built on our preliminary results, as
+future work, we will 1) perform more tests to quantify GAN-DUF’s performance on different design under uncertainty
+scenarios and 2) use real fabricated designs as training and test data to validate the effectiveness of the GAN-DUF
+framework in a completely realistic scenario. Acknowledgement
+
+This work was supported by the NSF CSSI program (Grant No. ",cs.CE,B,0.03476546,-0.33492243,-0.4420362
+http://arxiv.org/pdf/2202.10558v3,GAN-DUF: Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty,"In addition to robust design optimization demonstrated in this work, we can also combine the proposed
+hierarchical generative model with reliability-based design optimization to ﬁnd designs that are less likely to fail after
+fabrication or under operational wear/erosion. Built on our preliminary results, as future work, we will 1) study the
+sample efﬁciency of GAN-DUF and quantify the minimum data requirement, and 2) use real fabricated designs as
+training and test data to validate the effectiveness of the GAN-DUF framework in a completely realistic scenario. Acknowledgement
+
+This work was supported by the NSF CSSI program (Grant No. ",cs.CE,B,0.033913054,-0.34262586,-0.44335446
+http://arxiv.org/pdf/2202.10558v4,GAN-DUF: Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty,"Further increasing the number of fabricated designs per nominal design to 10 does not lead to a signiﬁcant
+improvement in the approximation accuracy. Our future work will study how GAN-DUF will perform in design under
+uncertainty under sparse samples of fabricated designs. 17
+                                    (a) Airfoil design example (b) Metasurface design example
+
+Figure 12: Sample size study showing how the number of fabricated designs per nominal design affects the approxima-
+tion of fabricated designs’ performance distribution. ",cs.CE,B,0.14311211,-0.26519978,-0.30388927
+http://arxiv.org/pdf/2202.10565v1,T-METASET: Task-Aware Generation of Metamaterial Datasets by Diversity-Based Active Learning,"We argue t-METASET can handle a variety of metamaterial
+datasets in general, by virtue of scalability, modularity, task-aware data customizability, and independence from both
+shape generation heuristics and domain knowledge. The imperative future work is inference-level validation of dataset quality, which aims to shed light on the downstream
+impact of data quality at deployment stage of data-driven models. Among a plethora of data-driven models, we
+are particularly interested in conditional generative models [54, 55], due to their on-the-ﬂy inverse design capability
+expected to be highly sensitive to data quality. ",cs.CE,C,-0.15342039,-0.36282146,-0.21333447
+http://arxiv.org/pdf/2202.10565v2,t-METASET: Tailoring Property Bias of Large-Scale Metamaterial Datasets through Active Learning,"Two workarounds for this case are: (i) employing extended GPs dedicated
+to high-dimensional data [63, 64] or (ii) using other surrogates with more modeling capability (e.g., a moderately sized
+neural network). The imperative future work is inference-level validation of dataset quality, which aims to shed light on the downstream
+impact of data quality at the deployment stage of data-driven models. Among a plethora of such models, we are
+particularly interested in conditional generative models [65, 66] due to their on-the-ﬂy inverse design capability, which
+is expected to be highly sensitive to data quality [67, 68]. ",cs.CE,C,-0.37936962,-0.41487908,-0.17849553
+http://arxiv.org/pdf/2202.10596v1,Constrained multibody kinematics and dynamics in absolute coordinates: a discussion of three approaches to representing rigid body rotation,"Understanding the ﬁrst order variation of           rε. these GCONs relative to changes in the orientation of a body
+draws on the ability to produce the ﬁrst order variation of              In future work, we will investigate how the reported
+two simple quantities: As¯ and AT s, which are used time and        speed gains of rA over the alternative rp or rε solutions
+again in the kinematic constraint equations. The solution of        can be leveraged in other contexts. ",cs.CE,B,0.060909133,0.11172252,0.20171782
+http://arxiv.org/pdf/2202.12704v1,Modeling moving boundary value problems in electrochemical machining,"In Section 5, we present the new methodologies for
+modeling the cathode. In Section 6.1, analytical reference solutions serve to validate the model’s
+accuracy and additional studies regarding the runtime and the choice of the effective material
+parameters are conducted. In Sections 6.2 and 6.3, challenging examples with numerical and
+experimental references are investigated. ",cs.CE,B,0.24778752,0.037204735,-0.15912169
+http://arxiv.org/pdf/2202.13775v1,Learning the nonlinear dynamics of soft mechanical metamaterials with graph networks,"For this reason, we chose GPR as our surrogate model for the edge update functions. To further study the performance of the trained GPR model, we plot the scaled true energy y¯true
+
+                          13
+versus the scaled predicted energy y¯pred. For consistency, the scaling uses training data as the refer-
+ence. ",cs.CE,C,-0.21353862,-0.19341773,0.0030535478
+http://arxiv.org/pdf/2203.00003v1,Interfacing Finite Elements with Deep Neural Operators for Fast Multiscale Modeling of Mechanics Problems,"Here, θ = 0.5 is taken as a ﬁxed relaxation parameter. We further study the convergence of interfacial displacement errors with diﬀerent values of R. In Fig. 13,
+we highlight the results from the N-D coupling method with the black line and the results of R-D/R-N with
+R = 0.25 (best result) in red. ",cs.CE,B,0.2770334,-0.09985087,0.21290642
+http://arxiv.org/pdf/2203.01842v1,Nonlinear Reduced Order Modelling of Soil Structure Interaction Effects via LSTM and Autoencoder Neural Networks,"We then compare the re-
+sults of the ROM to the FOM on a testing dataset and compare the computational
+time. The ﬁnal section gives some concluding remarks and future work. SOIL STRUCTURE INTERACTION PROBLEM
+
+    The SSI problem is of signiﬁcant interest as it exhibits considerable nonlinearity
+in the response and can have signiﬁcant impact on the response of a turbine. ",cs.CE,B,0.1433985,0.0034316143,-0.07681449
+http://arxiv.org/pdf/2203.03508v1,Prior-informed Uncertainty Modelling with Bayesian Polynomial Approximations,"Using this method, a sequential procedure
+can be used to update the posterior as we draw samples from the empirical distribution, also known as sequential
+Monte Carlo. We leave further investigations on this method as future work. 2.5 On experimental design
+
+When forming polynomial approximations of computational models, it is often assumed that the user has control over
+the formation of the training dataset, especially if a non-intrusive approximation approach is taken. ",cs.CE,C,-0.24064705,-0.40799242,-0.025979232
+http://arxiv.org/pdf/2203.03508v2,Prior-informed Uncertainty Modelling with Bayesian Polynomial Approximations,"Using this method, a sequential procedure
+can be used to update the posterior as we draw samples from the empirical distribution, also known as sequential
+Monte Carlo. We leave further investigations on this method as future work. 5
+Prior-informed uncertainty modelling with Bayesian polynomial approximations
+
+2.5 On experimental design
+
+When forming polynomial approximations of computational models, it is often assumed that the user has control over
+the formation of the training dataset, especially if a non-intrusive approximation approach is taken. ",cs.CE,C,-0.26756775,-0.40535966,-0.08599526
+http://arxiv.org/pdf/2203.03822v1,Virtual Displacement based Discontinuity Layout Optimization,"Therefore, this method
+is generally unsuitable for transient analysis. However, VDLO takes
+snapshots of the stress state for further analysis and estimates the
+corresponding factor of safety and failure pattern of the structure at
+that moment, thereby providing a pseudostatic analysis [7]. In this
+
+Copyright © 2022 John Wiley & Sons, Ltd.  Int. ",cs.CE,B,0.264507,-0.037142918,0.08492476
+http://arxiv.org/pdf/2203.04617v1,Fragmentation analysis of a bar with the Lip-field approach,"However, these differences are within the range of
+the differences observed between the different references, so they can be considered as acceptable. SAND2022-0325 O       11
+SAND2022-0325 O  Fragmentation analysis of a bar with the Lip-ﬁeld approach  A PREPRINT
+
+7 Conclusion and future works
+
+This paper presents the ﬁrst dynamic application of the Lip-ﬁeld regularization introduced in [1], to the case of 1D
+dynamic fragmentation. This problem is formulated as an optimization problem, from which we can obtain the clas-
+sical explicit and implicit dynamic time discretizations. ",cs.CE,B,0.18402731,-0.043776453,0.27681616
+http://arxiv.org/pdf/2203.04819v1,Practical Considerations of DER Coordination with Distributed Optimal Power Flow,"6, pp. 2941–2962, Nov. 2017.
+gestion and contention problems is another suggestion for
+further research. This would allow for a better utilization of      [8] S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, “Distributed
+the available communication network resources, by allocating             optimization and statistical learning via the alternating direction method
+these resources and coordinating data transmission according             of multipliers,” Foundations and Trends in Machine Learning, vol. ",cs.CE,A,-0.20940042,0.16025099,-0.0073183887
+http://arxiv.org/pdf/2203.09934v1,Coupling approaches for classical linear elasticity and bond-based peridynamic models,"[29, 1, 2]. This is left for future work. One also notes that
+MSCM could be used as an alternative candidate for the application of boundary conditions in peridynamic problems
+to those presented in [30]. ",cs.CE,B,0.122884065,0.12938869,0.07706337
+http://arxiv.org/pdf/2203.11780v1,On the Modeling and Simulation of Portfolio Allocation Schemes: an Approach based on Network Community Detection,"The beneﬁts of DCCA and
+DPCCA on portfolio allocation thus remain an open            Declarations
+question. This aspect will be future work. Another point
+worthy of mention is that a drawback of the Pearson          S. Ferretti declares that he has no conﬂict of interest. ",cs.CE,A,-0.24804707,0.23070522,0.0049976744
+http://arxiv.org/pdf/2203.16152v1,Spline-Based Space-Time Finite Element Approach for Fluid-Structure Interaction Problems With a Focus on Fully Enclosed Domains,"The presented spline-based FSI solver framework, in combination with an
+RN coupling scheme, is a promising candidate for accurately solving FSI prob-
+lems involving enclosed, fully Dirichlet-bounded and curved domains. Hence,
+based on the current work, further research will focus on applying the NURBS-
+based method to interface-coupled problems in various ﬁelds of application. Future research involving more complex NURBS geometries, including trimmed
+NURBS, is needed. ",cs.CE,B,0.307383,-0.05184395,0.12188004
+http://arxiv.org/pdf/2204.01503v1,A Method for Random Packing of Spheres with Application to Bonding Modeling in Powder Bed 3D Printing Process,"The examples considered above were based on practically determined volume
+fractions, realistically attainable for the general code and the respective distributions. Further de-
+tails regarding the properties of packings generated by the presented code would require additional
+studies that are out of scope of this work, but indeed constitute an interesting possible future work
+direction. The authors realize that the current (open-source) implementation can be further improved
+and generalized, which an interested reader is warmly invited to do. ",cs.CE,B,0.1077206,0.113609165,-0.018158626
+http://arxiv.org/pdf/2204.01837v1,Parallel Power System Restoration,"6. Conclusion and future work
+
+In this work, we attempted to address the computational challenges in the parallel power system
+restoration problem, which is a crucial planning activity in power system resilience. Speciﬁcally,
+we developed a series of models and computational algorithms, including exact solution approach
+that yields an optimal solution for a medium to large power system, and highly eﬃcient bounding
+26                                  Chopra, Qiu, and Shim: Parallel Power System Restoration
+
+                                    April 6, 2022
+
+    (a) IEEE-1354: RT = 24 periods  (b) IEEE-1888: RT = 26 periods
+
+    (c) PEG-1951: RT = 28 periods   (d) PEG-2383: RT = 28 periods
+
+Figure 7 The number of optimal and feasible runs out of total 32 runs for 25 minutes of computational limit
+
+and rounding algorithms that can ﬁnd a high-quality solution for ultra-large scale systems in
+very short times (e.g., minutes). ",cs.CE,B,0.046028186,0.15943648,-0.30057248
+http://arxiv.org/pdf/2204.01837v2,Parallel Power System Restoration,"Conclusion and future work
+
+In this paper, we developed an integer programming formulation along with bounding approaches
+that allow us to solve (within minutes) small and medium sized problems to optimality, while
+obtaining high quality solutions for very large problems. In future work, our goal is to continue
+to speed up the solution approaches while also incorporating other elements of the problem into
+Chopra, Qiu, and Shim: Parallel Power System Restoration                                                            25
+
+August 19, 2022
+
+(a) PEG-1354: RT ≤ 22 periods (TLOW = 20)                 (b) RTE-1888: RT ≤ 23 periods (TLOW = 20)
+
+(c) RTE-1951: RT ≤ 25 periods (TLOW = 22)                 (d) PEG-2383: RT ≤ 24 periods (TLOW = 23)
+
+Figure 8         Results for each of 32 runs (sorted in decreasing order of ﬁnal solution value) for 25 minutes of
+                                                             computational time
+
+our formulation. Our ultimate goal is to develop a practically usable approach for power system
+restoration. ",cs.CE,B,0.034088593,0.20086521,-0.3050429
+http://arxiv.org/pdf/2204.02301v1,A multiphysics modeling approach for in-stent restenosis: Theoretical aspects and finite element implementation,"Furthermore, collagen secretion and close packing of SMCs are all considered to reduce the en-
+tropy of the system. Introducing entropy sinks into the balance of entropy of the system can provide
+thermodynamic restrictions to the evolution as well as direction of growth, and shall therefore be a
+key part of future work on the formulation. Also, stress/stretch driven growth as well as collagen
+remodeling eﬀects are ignored in the current framework, and shall therefore be another signiﬁcant
+aspect to be considered in future developments. ",cs.CE,B,-0.051074155,0.11282425,0.2009592
+http://arxiv.org/pdf/2204.02301v2,A multiphysics modeling approach for in-stent restenosis: Theoretical aspects and finite element implementation,"Furthermore, collagen secretion and close packing of SMCs are all considered to reduce the en-
+tropy of the system. Introducing entropy sinks into the balance of entropy of the system can provide
+thermodynamic restrictions to the evolution as well as direction of growth, and shall therefore be a
+key part of future work on the formulation. Also, stress/stretch driven growth as well as collagen
+remodeling eﬀects are ignored in the current framework, and shall therefore be another signiﬁcant
+aspect to be considered in future developments. ",cs.CE,B,-0.051074155,0.11282425,0.2009592
+http://arxiv.org/pdf/2204.02301v3,A multiphysics modeling approach for in-stent restenosis: Theoretical aspects and finite element implementation,"Furthermore, collagen secretion and close packing of SMCs are all considered to reduce the en-
+tropy of the system. Introducing entropy sinks into the balance of entropy of the system can provide
+thermodynamic restrictions to the evolution as well as direction of growth, and shall therefore be a
+key part of future work on the formulation. Also, stress/stretch driven growth as well as collagen
+remodeling eﬀects are ignored in the current framework, and shall therefore be another signiﬁcant
+aspect to be considered in future developments. ",cs.CE,B,-0.051074155,0.11282425,0.2009592
+http://arxiv.org/pdf/2204.03955v1,Optimizing Coordinative Schedules for Tanker Terminals: An Intelligent Large Spatial-Temporal Data-Driven Approach -- Part 2,"For the paradigm method, weekly rolling horizon is validated and adapted from previous studies. The
+advancement of this paradigm is to further study the data visibility or so called observation window in
+this work, such as 1-week, 2-week and 3-week observations. Based on the experimental results over
+different hyper-parameterized scenarios, the proposed approach achieves remarkable optimal results
+under a quadratic level of computational complexity. ",cs.CE,C,-0.19958165,-0.088475704,-0.11331345
+http://arxiv.org/pdf/2204.06682v1,GM-TOuNN: Graded Multiscale Topology Optimization using Neural Networks,"Numerical experiments are presented in section 3. We conclude with limitations and future work in section 4. 2 Proposed Method
+
+2.1 Problem Speciﬁcation
+
+Consider a design domain with prescribed loads, restraints and a set of microstructural topologies (ﬁg. ",cs.CE,B_centroid,0.41296875,0.09697694,-0.08515693
+http://arxiv.org/pdf/2204.08663v2,Pre-training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding,"Thus, it would be a contribution of         MD trajectory. It also aligns with the previous
+providing a more beneﬁcial pre-training database       analysis that our ProtMD can achieve extraor-
+with a larger size and we leave it for future work to  dinary performance in binding aﬃnity prediction
+produce trajectories of more protein-ligand pairs. via linear-probing. ",cs.CE,C,-0.28373826,-0.20931292,0.31603616
+http://arxiv.org/pdf/2204.08663v3,Pre-training of Equivariant Graph Matching Networks with Conformation Flexibility for Drug Binding,"Thus, it would be a contribution of         MD trajectory. It also aligns with the previous
+providing a more beneﬁcial pre-training database       analysis that our ProtMD can achieve extraor-
+with a larger size and we leave it for future work to  dinary performance in binding aﬃnity prediction
+produce trajectories of more protein-ligand pairs. via linear-probing. ",cs.CE,C,-0.28373826,-0.20931292,0.31603616
+http://arxiv.org/pdf/2204.09748v1,Inferring ice sheet damage models from limited observations using CRIKit: the Constitutive Relation Inference Toolkit,"solvable systems between the parameter initialization and the ﬁnal trained parameters, the ﬁnal results
+are more similar to evolutions of the initial models to ﬁt the data, instead of the best possible solution
+out of all solutions. We leave the proof for the necessary constraints on the neural network for solvability and convergence
+to a future work. 4.3 Loss function
+
+4.3.1 Invariant loss
+
+A standard loss function for regression is an l2 measure of the error. ",cs.CE,C,-0.12635385,-0.22448745,0.021080136
+http://arxiv.org/pdf/2204.10085v2,Forgetting Prevention for Cross-regional Fraud Detection with Heterogeneous Trade Graph,"Graph Neural
+                                                                                                 Networks with Continual Learning for Fake News Detection from Social Media. As for future works, we plan to incorporate more semantic infor-                              ArXiv abs/2007.03316 (2020). mation like social relationships into the model so that the proposed
+model can uncover more mutual interactions from cross-domain                               [15] Yiming Hei, Renyu Yang, Hao Peng, Lihong Wang, Xiaolin Xu, Jianwei Liu, Hong
+knowledge. ",cs.CE,A,-0.29654217,-0.01617071,-0.0118095875
+http://arxiv.org/pdf/2204.12953v1,Market Integration of Excess Heat,"Our analyses could also be extended by adding diﬀerent types of market participants. For
+example, future work could investigate the eﬀect of adding ﬂexible loads to the system. It is
+furthermore likely that future district heating systems will include other excess heat producers that
+are not cooling based, such as energy intensive industries. ",cs.CE,A,-0.24307877,0.2546847,-0.29775143
+http://arxiv.org/pdf/2204.13168v1,Learning Storm Surge with Gradient Boosting,"As this dataset was intended
+for use in coastal risk assessment [19], this ﬁnding is somewhat concerning. However, we leave further investigation of this issue to future work, as it is not
+the focus of the current study. Acknowledgements
+
+    The authors would like to gratefully acknowledge the use of the ADCIRC
+allocation at the Texas Advanced Computing Center at the University of Texas
+
+                                                  11
+at Austin. ",cs.CE,C,-0.33574215,-0.06276974,-0.13591205
+http://arxiv.org/pdf/2204.13508v1,Design of Blockchain-based Travel Rule Compliance System,"Shared personal
+                                                                        information data can be stored and managed securely without
+                                                                        unneeded exposure. In future work, we plan to implement this
+                                                                        system using Corda enterprise distributed ledger system [15]. We also plan to link our system with existing [8–13] travel
+                                                                        rule compliance systems. ",cs.CE,A,-0.21725072,0.34206966,0.08606
+http://arxiv.org/pdf/2204.13821v1,A Neural Network-enhanced Reproducing Kernel Particle Method for Modeling Strain Localization,"Note that Wei and Chen (2018)28 bypassed this issue by using a
+gradient smoothing technique implemented with smooth RK kernel functions to obtain stress
+fields without oscillation. This shows potential of implementing a gradient smoothing technique
+to integrate the NN-enhanced formulation with smooth NN kernel functions, which will be a
+
+                                                       53
+task of future work. Figure 27. ",cs.CE,B,0.22407353,-0.1846812,0.08270074
+http://arxiv.org/pdf/2204.13821v2,A Neural Network-enhanced Reproducing Kernel Particle Method for Modeling Strain Localization,"Note that Wei and Chen (2018)28 bypassed this issue by using a
+gradient smoothing technique implemented with smooth RK kernel functions to obtain stress
+fields without oscillation. This shows potential of implementing a gradient smoothing technique
+
+                                                       54
+to integrate the NN-enhanced formulation with smooth NN kernel functions, which will be a
+task of future work. Figure 27. ",cs.CE,B,0.23950756,-0.16949628,0.07275705
+http://arxiv.org/pdf/2205.00869v1,Topology Analysis of the XRP Network,"Available: https://ﬁtter.readthedocs.io/en/latest
+susceptible to targeted attacks. For future work, we intend to
+evaluate the resilience of the XRP network to random and                          [22] I. de Sola Pool and M. Kochen, “Contacts and inﬂuence,” Social
+targeted attacks, and to identify mitigation strategies. networks, vol. ",cs.CE,A,-0.238687,0.17128316,0.03489398
+http://arxiv.org/pdf/2205.01945v1,Optimal Network Charge for Peer-to-Peer Energy Trading: A Grid Perspective,"3379–3389, 2021.
+work charge is effective in shaping the behaviors of prosumers
+in a P2P market. Some future works along this line include:                   [5] W. Tushar, C. Yuen, H. Mohsenian-Rad, T. Saha, H. V.
+1) designing optimal network charge price considering the                          Poor, and K. L. Wood, “Transforming energy networks
+                                                                                   via peer-to-peer energy trading: The potential of game-
+                                                                                   theoretic approaches,” IEEE Signal Processing Maga-
+                                                                                   zine, vol. 35, no. ",cs.CE,A,-0.26491478,0.5125219,-0.08328387
+http://arxiv.org/pdf/2205.01945v2,Optimal Network Charge for Peer-to-Peer Energy Trading: A Grid Perspective,"90–111, 2018.
+prosumers in the P2P market. Some future works include: 1)                    [6] W. Tushar, T. K. Saha, C. Yuen, T. Morstyn, H. V. Poor,
+designing optimal network charge price considering uncertain                       R. Bean, et al., “Grid inﬂuenced peer-to-peer energy
+supply and demand; 2) using the P2P + network charge as a                          trading,” IEEE Transactions on Smart Grid, vol. 11,
+tool to design demand response mechanism. ",cs.CE,A,-0.19336444,0.51561415,-0.0971265
+http://arxiv.org/pdf/2205.01945v3,Optimal Network Charge for Peer-to-Peer Energy Trading: A Grid Perspective,"In this paper, we have studied the optimal network charge
+with deterministic supply and demand and found that the net-                  [4] Y. Yang, U. Agwan, G. Hu, and C. J. Spanos, “Selling
+work charge is effective in shaping the behaviors of prosumers                     renewable utilization service to consumers via cloud
+in a P2P market. Some future works along this line include:                        energy storage,” arXiv preprint arXiv:2012.14650, 2020. 1) designing optimal network charge price considering the
+                                                                              [5] T. Morstyn, N. Farrell, S. J. Darby, and M. D. McCulloch,
+                                                                                   “Using peer-to-peer energy-trading platforms to incen-
+                                                                                   tivize prosumers to form federated power plants,” Nature
+                                                                                   Energy, vol. ",cs.CE,A,-0.25805938,0.5511852,-0.09884898
+http://arxiv.org/pdf/2205.04550v1,Casting the inverse problem as a database query. The case of personalized tumor growth modeling,"2 and 3 demonstrate the same diﬀerence in real and synthetic data distributions
+for every example used in the study. In a way, in future works probing more com-
+plicated tumor descriptions, such analysis can serve as a measure of plausibility
+of a tumor growth model. 8  Authors Suppressed Due to Excessive Length
+
+          Real                                 Synthetic
+
+          Top-1 Top-5 Top-15 Top-1 Top-5 Top-15
+
+          direct query 100% 100% 100% 100% 100% 100%
+
+          DS64 88.7% 100% 100% 93.5% 100% 100%
+
+          DS32 66.1% 96.7% 100% 78.9% 99.6% 100%
+
+Table 2. ",cs.CE,C,-0.4293682,-0.17440677,0.12858899
+http://arxiv.org/pdf/2205.04550v2,Casting the inverse problem as a database query. The case of personalized tumor growth modeling,"2 and 3 demonstrate the same diﬀerence in real and synthetic data distributions
+for every example used in the study. In a way, in future works probing more com-
+plicated tumor descriptions, such analysis can serve as a measure of plausibility
+of a tumor growth model. 4 Discussion
+
+In Fig. ",cs.CE,C,-0.44542027,-0.22522621,0.132605
+http://arxiv.org/pdf/2205.04550v3,A for-loop is all you need. For solving the inverse problem in the case of personalized tumor growth modeling,"2 and 3 demonstrate the same diﬀerence in real and synthetic data distributions
+for every example used in the study. In a way, in future works probing more com-
+plicated tumor descriptions, such analysis can serve as a measure of plausibility
+of a tumor growth model. 4 Discussion
+
+Here we want to discuss the pros and cons of the proposed method. ",cs.CE,C,-0.40976763,-0.25788265,0.15640697
+http://arxiv.org/pdf/2205.05710v1,A Deep Learning Approach for Predicting Two-dimensional Soil Consolidation Using Physics-Informed Neural Networks (PINN),"How to further improve the computational accuracy is the current
+problem that PINN needs to be improved. 5.3 Outlook and Future Work
+
+      In future work, we will consider various constraints to improve the training
+accuracy of the neural network as much as possible and assess the applicability of this
+proposed deep learning approach using PINN to other engineering geology problems. There are several strategies to improve the accuracy of neural network model
+training results. ",cs.CE,C,-0.07927738,-0.38615507,-0.119122036
+http://arxiv.org/pdf/2205.06949v1,Design optimisation of piezoelectric energy harvesters for bridge infrastructure,"The optimal conﬁguration was achieved from
+the non-event windows due to the study case’s speciﬁc bridge and traﬃc characteristics. The issue that is not delved into in this work, and would be interesting to explore in future works,
+is how the position of the PEH in the bridge aﬀects the harvested energy. On the other hand, it would
+be interesting to extend the optimisation framework to the use of long time windows and compare its
+performance with respect to the use of (short) events in the bridge. ",cs.CE,B,-0.05006372,0.20535119,-0.25636923
+http://arxiv.org/pdf/2205.06949v2,Design optimisation of piezoelectric energy harvesters for bridge infrastructure,"As a result, 1000 optimal
+geometries were obtained. It was observed that all optimal geometries correspond to R = 1, which
+is in agreement with the results in Section 4, hence variable R is omitted from the further analysis. Optimal designs are shown in Figure 15 in L−l −H space and their projections in the L−l and L−H
+planes. ",cs.CE,B,0.2357549,0.036831096,-0.068909675
+http://arxiv.org/pdf/2205.06974v1,On the Joint Optimization of Energy Harvesting and Sensing of Piezoelectric Energy Harvesters: Case Study of a Cable-Stayed Bridge,"In other words, an optimum harvester may not necessarily act
+as an optimum sensor. This ﬁnding motivates future works to more rigorously design and study a
+joint optimization of dual-function PEH devices that are expected to provide both energy harvesting
+and sensing functionality for future self-powered IoT sensors. Acknowledgements
+
+    The authors wish to thank CSIRO’s Digital Productivity business unit, Data61 for providing the
+research data. ",cs.CE,B,-0.022174891,0.15856272,-0.15067951
+http://arxiv.org/pdf/2205.06974v2,On the Joint Optimization of Energy Harvesting and Sensing of Piezoelectric Energy Harvesters: Case Study of a Cable-Stayed Bridge,"223, p. 110891,
+   Although the optimisation framework is a good tool for                                                                   2020.
+understanding the trade-off between the multi-functionalities
+of a PEH, more studies are needed to improve the sensing                                                              [12] P. Peralta-Braz, M. M. Alamdari, R. O. Ruiz, E. Atroshchenko, and
+performance using PEH, e.g., novel NN models. This work                                                                     M. Hassan, “Design optimisation of piezoelectric energy harvesters for
+is the ﬁrst effort to study the impact of a PEH shape on                                                                    bridge infrastructure,” arXiv preprint arXiv:2205.06949, 2022.
+simultaneous energy harvesting and sensing and encourages
+future works in this direction. [13] Y. Zhou, Y. Pei, S. Zhou, Y. Zhao, J. Hu, and W. Yi, “Novel methodology
+                                                                                                                            for identifying the weight of moving vehicles on bridges using structural
+                        ACKNOWLEDGMENTS                                                                                     response pattern extraction and deep learning algorithms,” Measurement,
+                                                                                                                            vol. ",cs.CE,B,0.047084827,-0.02701114,-0.10212435
+http://arxiv.org/pdf/2205.07524v1,A Two-Phase Method for Production Planning and Machine Speed Optimization Problem,"In this work, we generate a Two-Phase heuristic for sequentially ﬂowing felt semi-products in a
+
+                                                               28
+simple three machine ﬂowshop. As a future work, one can consider more complicated ﬂow shop in
+the production environment with multiple product types. 29
+References
+
+Abbasi, M., & Houshmand, M. ((2011)). ",cs.CE,B,-0.028996453,0.19137546,-0.19421458
+http://arxiv.org/pdf/2205.11038v1,Computational Approach of Designing Magnetfree Nonreciprocal Metamaterial,"In Section II, an insight to the mechanism of ﬂoquet
+                                        mode analysis and corresponding analytical approach will be provided, in Section III, the principle
+                                        of ferromagnetic resonance, and in section IV, the design approaches and process ﬂow of our
+                                        nonreciprocal devices will be described. At last in section V our discussion will be mostly focused
+                                        on simulated performance, benchmarking reciprocal and nonreciprocal design, highlighting major
+                                        challenges, limitation, and future works. Received date
+                                        * Corresponding author: Swadesh Poddar (poddarswadesh@gmail.com). ",cs.CE,B,0.27057284,-0.015112778,0.14200799
+http://arxiv.org/pdf/2205.12157v3,Data-Driven Calibration of Multi-Fidelity Multiscale Fracture Models via Latent Map Gaussian Process,"These microscale distributions are spatially
+                                                                   correlated at the macroscale and quantifying their effects on
+                                                                   the macroscale quantities relies on sampling technique [31]
+                                                                   (e.g., based on Markov chain Monte Carlo). We believe our
+                                                                   ROMs provide a unique opportunity for such sampling-
+                                                                   based multiscale uncertainty quantification and plan to
+                                                                   pursue this direction in our future works. The proposed data-driven multi-fidelity damage model
+                                                                   in this paper opens up some interesting future research
+                                                                   directions. ",cs.CE,C,-0.21530661,-0.2755839,0.0265775
+http://arxiv.org/pdf/2205.12263v1,An Artificial Bee Colony optimization-based approach for sizing and composition of Arctic offshore drilling support fleets considering cost-efficiency,"sea ice is rare, and because ice management is pro-
+                                                               vided. Fourth, an additional investigation of the role
+   Future studies are recommended to address the               of logistics factors (e.g. using a ﬂoating storage) on
+limitations of the present approach include the follow-        the eﬃciency and safety of an Arctic oﬀshore support
+ing. ",cs.CE,A,-0.26739505,0.24302337,-0.19221494
+http://arxiv.org/pdf/2205.14148v1,Enhanced physics-informed neural networks for hyperelasticity,"Then, in Section 4, the enhanced
+PINNs are used to solve three-dimensional (3D) examples. Finally, we conclude the paper in Section 5 by stating the
+important results and highlighting possible future work directions. 2 Hyperelasticity
+
+A body made of a isotropic and homogeneous hyperelastic material under ﬁnite deformation is considered. ",cs.CE,B,0.29276395,-0.012733372,0.19301453
+http://arxiv.org/pdf/2206.00460v1,A hybrid-model approach for reducing the performance gap in building energy forecasting,"In this context, whether given information will contribute to
+the model accuracy due to inherent uncertainty needs to be considered and further investigated. For an improvement,
+more cases studies, detailed reﬁnement of the modeling process of ﬁrst-principles models, and data governance are
+worth further research. 6 Conclusion
+
+In this paper, we proposed a hybrid-model approach to demonstrate how domain knowledge via simulation incorporated
+with data-driven methods, especially ML leads to improved predictions. ",cs.CE,C,-0.33810365,-0.28371254,-0.10592076
+http://arxiv.org/pdf/2206.01990v1,"Combining the Morris Method and Multiple Error Metrics to Assess Aquifer Characteristics and Recharge in the Lower Ticino Basin, in Italy","Future models could incorporate a
+more complex hydraulic conductivity field, randomly assign crop type to the fields known to
+cultivate both rice and other crops during different years and apply separate recharge rates to the
+rice fields and irrigation canals/ditches. Since the results show that the model is most sensitive to
+the recharge inputs, future work could couple a transient groundwater flow model with a
+hydrologic model for simulating exchanges between surface and sub-surface flows (e.g.,
+GSFLOW (Markstrom et al., 2008), SWAT-MODFLOW (Bailey et al., 2016), HydroGeoSphere
+(Brunner & Simmons, 2011), Advanced Terrestrial Simulator (Coon et al., 2020)). However, this
+would increase the model complexity, introducing additional modelling parameters and requiring
+more detailed data for model calibration and validation. ",cs.CE,C,-0.1192057,-0.11982772,-0.22980958
+http://arxiv.org/pdf/2206.01990v2,"Combining the Morris Method and Multiple Error Metrics to Assess Aquifer Characteristics and Recharge in the Lower Ticino Basin, in Italy","Future models could incorporate a
+more complex hydraulic conductivity field, randomly assign crop type to the fields known to cultivate
+both rice and other crops during different years and apply separate recharge rates to the rice fields and
+irrigation canals/ditches. Since the results show that the model is most sensitive to the recharge inputs,
+future work could couple a transient groundwater flow model with a hydrologic model for simulating
+exchanges between surface and sub-surface flows (e.g., GSFLOW (Markstrom et al., 2008), SWAT-
+MODFLOW (Bailey et al., 2016), HydroGeoSphere (Brunner & Simmons, 2011), Advanced Terrestrial
+Simulator (Coon et al., 2020)). However, this would increase the model complexity, introducing additional
+modelling parameters and requiring more detailed data for model calibration and validation. ",cs.CE,C,-0.1192057,-0.11982772,-0.22980958
+http://arxiv.org/pdf/2206.05139v1,Finite electro-elasticity with physics-augmented neural networks,"[3]. Thus, in future work we aim to apply the
+physics-augmented machine learning models for macroscopic ﬁnite element simulations of nonlinear
+EAP composites and metamaterials. Furthermore, due to the similar mathematical structure, the
+extension of the model towards electro-magneto-mechanically coupled material behavior [10] should
+be relatively straightforward. ",cs.CE,B,0.2190137,-0.19239536,0.11580189
+http://arxiv.org/pdf/2206.05139v2,Finite electro-elasticity with physics-augmented neural networks,"[3]. Thus, in future work we aim to apply the
+physics-augmented machine learning models for macroscopic ﬁnite element simulations of nonlinear
+EAP composites and metamaterials. Furthermore, due to the similar mathematical structure, the
+extension of the model towards electro-magneto-mechanically coupled material behavior [12] should
+be relatively straightforward. ",cs.CE,B,0.21879625,-0.19134928,0.11523472
+http://arxiv.org/pdf/2206.05169v1,Bayesian calibration of coupled computational mechanics models under uncertainty based on interface deformation,"Instead
+of a single point estimate as in the optimization problem, the posterior distribution returns the
+unique probability density for all inputs in the input space. This allows to answer a plethora of
+additional research questions. A Bayesian, statistical viewpoint does not only provide a power-
+ful mathematical framework for the formulation of the inverse problem but also helps with the
+design and interpretation of very ﬂexible discrepancy measures between simulation output and
+experimental observation. ",cs.CE,C,-0.22669014,-0.24298042,-0.015559442
+http://arxiv.org/pdf/2206.06221v1,A Unified Framework for Dynamic Analysis of Tensegrity Structures with Arbitrary Rigid Bodies and Rigid Bars,"This phenomenon bears notable relationship to the planar Class-2
+                                                                                                     tensegrity mechanism in [39], where the researchers also found the structural
+                                                                                                     stability is lost when reducing cables’ rest lengths. However, further analysis of
+                                                                                                     this instability behavior is beyond the scope of this paper. Figure 10: Schematic drawing of the 2D Class-3 tensegrity tower. ",cs.CE,B,0.23136225,0.25999105,-0.09106743
+http://arxiv.org/pdf/2206.06221v2,A Unified Framework for Dynamic Analysis of Tensegrity Structures with Arbitrary Rigid Bodies and Rigid Bars,"(1) (UN) Undamped and No slacking: f j = κ(l j − µ j) with κ = 100 N m−1;
+This phenomenon bears a notable relationship to the planar Class-2 tensegrity                           (2) (DN) Damped and No slacking: f j = κ(l j − µ j) + ηl˙j with κ = 100 N m−1
+mechanism in [45], where the researchers also found the structural stability
+is lost when reducing cables’ rest lengths. However, further analysis of this                                and η = 0.1 N s m−1;
+instability behavior is beyond the scope of this paper. (3) (US) Undamped and Slacking: if l j − µ j > 0, then f j = κ(l j − µ j) with
+
+Frequency (Hz)  30                                  Mode 5                                                   κ = 100 N m−1, else f j = 0. ",cs.CE,B,0.23039457,0.21853074,0.018783592
+http://arxiv.org/pdf/2206.08370v1,Assessing the wall energy efficiency design under climate change using POD reduced order model,"The discrepancies are signif-
+icant and the choice of the design is aﬀected, particularly for walls with low inertia and small insulation
+length (designs in the top area of the ﬁgure). From this further analysis, one may conclude that this level
+of accuracy in modeling is required to design eﬃcient walls for the buildings that will face climate change. Intending to elaborate reduced-order model to cut the computational cost while keeping a satisfying
+accuracy of the predicted phenomena, a usual approach consists in searching for decomposed solutions. ",cs.CE,B,0.15554965,-0.044192012,-0.28443837
+http://arxiv.org/pdf/2206.08772v1,Parallel Multiphysics Simulation for the Stabilized Optimal Transportation Meshfree (OTM),"Other parallelization approaches exists, such as, OpenMP (for shared memory
+platforms), CUDA and OpenCL (for graphics processing units (GPUs)). Coupling our approach with
+OpenMP is possible and this will be the subject of future work. Development of MPI based software requires carefully thought strategies for data-partitioning and
+data communication. ",cs.CE,B,-0.066060215,0.13161224,-0.009055934
+http://arxiv.org/pdf/2206.08934v1,Experimental determination of Lamb wave dispersion diagrams over large frequency ranges in fiber metal laminates,"parameters from literature [49, 50]. the deviations are pointed out, and will be addressed in future work. Nevertheless, the results provide a profound basis
+for the evaluation of Lamb wave based SHM in FML. ",cs.CE,B,0.14412174,-0.0055045728,-0.099228814
+http://arxiv.org/pdf/2206.08934v2,Experimental determination of Lamb wave dispersion diagrams over large frequency ranges in fiber metal laminates,"Small diﬀerences can be explained by deviations and uncertainties in the material parameters
+used. Explanatory approaches for the deviations are pointed out and will be addressed in future work. Nevertheless,
+the results provide a profound basis for the evaluation of GUW based SHM in FML. ",cs.CE,B,0.06449022,-0.037053682,-0.15375689
+http://arxiv.org/pdf/2206.12408v1,Convexity and Duality in Optimum Real-time Bidding and Related Problems,"ρ,µ,θ≥0 s,R
+
+To this end, we minimize L pointwise over s, which results in the appearance of the Fenchel conjugate [13, Sec 4.2]
+
+that is, minimizing L over s we obtain: Λ (µ) =∆ supq [µq − Λ2nd(q)],
+
+                                     N         M                    M
+
+inf L(s, R, µ, ρ, θ) = ρiCi − λjΛj (µj) +                                     Rij µj − θij − vij ρi . (7)
+s
+                                     i=1       j=1                  j=1 i∈Bj
+
+There is an appealing duality relationship between Λ2nd and Λ2nd(µ), namely that Λ2nd is the integral of W −1 and
+that Λ2nd is the integral of W , see [21] for further analysis of integrated quantile functions. Proposition 3.3 (Fenchel Conjugate — Second Price Case). ",cs.CE,B,-0.10716623,0.15384182,0.10617705
+http://arxiv.org/pdf/2206.12409v1,A hybrid volume-surface integral equation method for rapid electromagnetic simulations in MRI,"5 shows the nor-                                   from the body, and the discretization chosen for the body
+malized average value of the SNR inside the head as a                                       and the coil. In future work, one could also explore other
+function of the RF shield’s diameter. The right axis shows                                  approaches to achieve further acceleration, for example, the
+the corresponding compression factor of Zbf c, computed as the                              use of the Calderón preconditioner [66] to reduce the number
+number of elements of the full matrix divided by the number                                 of iterations of GMRES. ",cs.CE,B,0.21246274,-0.08708461,0.18909642
+http://arxiv.org/pdf/2206.12410v1,A monolithic Finite Element formulation for the hydroelastic analysis of Very Large Floating Structures,"However, the framework would still
+hold for nonlinear potential ﬂow theory and/or nonlinear structural models. For the sake of completeness, in this
+manuscript we focus on a detailed analysis of the formulation for linear problems, keeping its extension to nonlinear
+problems as a future work. The manuscript is organized as follows: in Section 2 we describe the problem setting, with the deﬁnition of the
+governing equations for the ﬂuid, structure in two and three-dimensional cases, as well as the coupling conditions. ",cs.CE,B,0.16305953,0.061654717,0.1982425
+http://arxiv.org/pdf/2206.12411v1,Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization,"The results suggest that different types of landscape are better explored by different kinds
+of methods, such as string-based GA on isomer-type oracles. It is not evident which type of oracle is closest to a
+“true” pharmaceutical design objective, which is likely more complex and challenging to optimize; we leave further
+investigation on oracle landscapes and their inﬂuence on optimization to future work. Hyperparameter reoptimization and multiple runs are required when reporting results. ",cs.CE,C,-0.20280027,-0.093655206,0.08042066
+http://arxiv.org/pdf/2206.12411v2,Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization,"The results suggest that different types of landscape are better explored by different
+kinds of methods, such as string-based GA on isomer-type oracles. It is not evident which type
+of oracle is closest to a “true” pharmaceutical design objective, which is likely more complex and
+challenging to optimize; we leave further investigation on oracle landscapes and their inﬂuence on
+optimization to future work. Hyperparameter reoptimization and multiple runs are required when reporting results. ",cs.CE,C,-0.20280027,-0.093655206,0.08042066
+http://arxiv.org/pdf/2206.12690v1,ECG Classification based on Wasserstein Scalar Curvature,"Meanwhile, WSCEC algorithm can also be
+applied to a variety of signal research such as signal identiﬁcation and Electroencephalo-
+gram (EEG) analysis. How to choose a more reasonable signal embedding way and how to
+further combine with topological data analysis to comprehensively investigate the signal
+from the whole and local to get more eﬃcient algorithms need further research. References
+
+  [1] World Health Qrganization. ",cs.CE,C,-0.0865483,-0.09372145,-0.02037139
+http://arxiv.org/pdf/2206.13445v1,Accurate solutions to time dependent transport problems with a moving mesh and exact uncollided source treatment,"Also for this case, we showed that using a higher order polynomial
+to interpolate the solution and a lower number of mesh subdivisions returned accurate solutions with low
+computational expense compared to a method with a lower order polynomial and more mesh subdivisions. Given the encouraging results from this study, we plan for future work to utilize the moving mesh and
+uncollided ﬂux treatments to solve problems of nonlinear radiative transfer to create novel veriﬁcation-quality
+benchmark solutions. We also suggest that these approaches could be used for other, transport problems
+not amenable to (semi-)analytic solution technique such as neutronics problems with thermal feedback or
+rareﬁed gas dynamics. ",cs.CE,B,0.23120181,0.025347244,-0.013845916
+http://arxiv.org/pdf/2206.13445v2,Accurate solutions to time dependent transport problems with a moving mesh and exact uncollided source treatment,"Additionally, we showed for that the method preforms well
+
+                                                    35
+for scattering ratios not equal to one (c = 1) with tests of the square and Gaussian
+pulse source problems. Given the encouraging results from this study, we plan for future work to utilize
+the moving mesh and uncollided ﬂux treatments to solve problems of nonlinear radia-
+tive transfer to create novel veriﬁcation-quality benchmark solutions. Since there are
+no inherent challenges to applying the Discontinuous Galerkin method (and spectral
+methods in general) to nonlinear problems, we do not anticipate any special dif-
+ﬁculties other than those introduced by the allowance of negative solutions in this
+undertaking. ",cs.CE,B,0.23796447,0.0298138,-0.01395591
+http://arxiv.org/pdf/2206.13627v2,Learning constitutive models from microstructural simulations via a non-intrusive reduced basis method: Extension to geometrical parameterizations,"Due to these advantages, in this work, we learn regression models
+for αn(U¯ , λ, µ) with GPRs. Note that in this work, we do not use the uncertainty measure to adaptively
+enrich the training set, as in [28, 54, 56]; this will be explored in future work. A broad overview and
+theory on GPRs can be found in [34], and is omitted here for brevity. ",cs.CE,C,-0.35949594,-0.20308653,0.077288166
+http://arxiv.org/pdf/2207.00661v1,A Multi-Resolution Approach to Hydraulic Fracture Simulation,"A problem with
+a curved crack trajectory around a stiﬀ inclusion also demonstrates the overall robustness of
+
+                                                         29
+the approach. Several areas for future work present themselves. These include an enhance-
+ment of the algorithm that tracks the phase-ﬁeld crack tip, as well as a generalization to
+three-dimensional problems. ",cs.CE,B,0.21957803,-0.026335724,-0.015744675
+http://arxiv.org/pdf/2207.01045v1,FE${}^\textbf{ANN}$ $-$ An efficient data-driven multiscale approach based on physics-constrained neural networks and automated data mining,"After
+models within multiscale simulations of elastoplastic problems     a discussion of the results, the paper is closed by concluding
+is shown. Furthermore, the RNN-based approach is compared          remarks and an outlook to necessary future work in Sect. 5.
+to full FE2 simulations. ",cs.CE,B,0.33683896,-0.14065409,0.07853579
+http://arxiv.org/pdf/2207.03072v1,Deep energy method in topology optimization applications,"A primary limitation of this work is the need to form element discretization of the domain, and
+using shape function gradients to compute gradients of ﬁeld variables produced by DEM, which
+is in contrast with many previous studies [17, 38, 43] that used a meshless method to solve the
+underlying governing equation. Extension to a meshless formulation using automatic differentia-
+tion of the DEM model will be our future work. We will also explore topology optimization for
+hyperelastic materials undergoing ﬁnite deformation, where Newton-Raphson iterations need to
+be employed in FEM, rendering it rather expensive. ",cs.CE,B,0.36234644,-0.15340927,0.008418536
+http://arxiv.org/pdf/2207.03353v1,Determining parameters in generalized thermomechanics for metamaterials by means of asymptotic homogenization,"2175–2182
+
+[14] K. Matouˇs, M. G. Geers, V. G. Kouznetsova, & A. Gillman (2017) A review of predictive nonlinear
+          theories for multiscale modeling of heterogeneous materials, Journal of Computational Physics,
+          330:pp. 192–220
+
+[15] D. Del Vescovo & I. Giorgio (2014) Dynamic problems for metamaterials: review of existing
+          models and ideas for further research, International Journal of Engineering Science, 80:pp. 153–172
+
+[16] R. D. Mindlin (1965) Second gradient of strain and surface-tension in linear elasticity, Interna-
+          tional Journal of Solids and Structures, 1(4):pp. ",cs.CE,B,0.26649457,-0.051858813,0.18778166
+http://arxiv.org/pdf/2207.05059v1,Optimal Connection Phase Selection of Residential Distributed Energy Resources and its Impact on Aggregated Demand,"Designing a com-
+issues such as over-voltage. The imbalance can be improved        putationally efﬁcient algorithm to consider stochasticity can be
+by proper addition of PV units to an optimal phase, but the       a line for future work. Further studies can investigate the study
+question is how to choose the optimal phase each time the         horizon T , electricity price, and phase-switching cost, as they
+DSO receives a request for a new PV installation. ",cs.CE,A,-0.14176828,0.2958754,-0.24880712
+http://arxiv.org/pdf/2207.07216v1,On the use of graph neural networks and shape-function-based gradient computation in the deep energy method,"For classical FEM-based methods, multiple Newton-Raphson iterations are needed in each design
+iteration to achieve global force convergence, and the process is repeated for many topology opti-
+mization iterations. Using the DEM framework to substitute nonlinear FE simulations similar to
+our previous work [34] might speed up the overall solution process and will be our future work. In addition, we also plan to extend the SF-based GCN-DEM network to unstructured tetrahedral
+meshes to perform simulations in irregular domains to harness the full power of the graph convo-
+lution network. ",cs.CE,B,0.3295942,-0.10390135,-0.013287982
+http://arxiv.org/pdf/2207.09172v1,A Streamline-guided De-Homogenization Approach for Structural Design,"“Generating
+the entire approach can be implemented on the GPU so that                 optimal topologies in structural design using a homog-
+even instant de-homogenization is possible once the contin-
+uous density layout is available. We will consider such an
+implementation in future work, and investigate the possibil-
+
+                                                                 9
+      enization method”. Computer Methods in Applied Me-                 27(1), pp. ",cs.CE,B,0.25116274,0.038406607,-0.03510248
+http://arxiv.org/pdf/2207.09908v1,Integrated Finite Element Neural Network (I-FENN) for non-local continuum damage mechanics,"To the best of the author’s knowledge, current NN applications are always
+limited by a certain set of geometries, boundary conditions, and other model-speciﬁc details. The achievement
+of this network requires further research on the design of the network as well as the pre-processing of the data
+that gets passed to the network, which is beyond the immediate objectives of this study and requires some
+advancements in the design of neural networks by the active research community in this ﬁeld [31, 75, 77]. Therefore, we bound the exploration space in most of the aforementioned parameters and mainly focus on the
+feasibility of integrating PINNs within a nonlinear ﬁnite element analysis, training a single PINN for a single
+combination of meshed geometry and applied load. ",cs.CE,B,0.20156196,-0.25307134,0.076032504
+http://arxiv.org/pdf/2207.09908v2,Integrated Finite Element Neural Network (I-FENN) for non-local continuum damage mechanics,"Consequently, the state-of-the-art implementation of PINNs lacks the desired generalizability. The achievement of this network requires further research on the design of the network as well as the pre-
+processing of the data that gets passed to the network, which is beyond the immediate objectives of this study
+and requires some advancements in the design of neural networks by the active research community in this
+ﬁeld [31, 75, 83]. Therefore, we bound the exploration space in most of the aforementioned parameters and
+mainly focus on the feasibility of integrating PINNs within a nonlinear ﬁnite element analysis, training a single
+PINN for a single combination of meshed geometry and applied load. ",cs.CE,B,0.15840146,-0.260252,0.0835616
+http://arxiv.org/pdf/2207.10432v1,A Wavelet Transform and self-supervised learning-based framework for bearing fault diagnosis with limited labeled data,"Since suﬃcient unlabeled data is needed in this study, the main limitation lies in that the proposed method is not
+suitable for the small sample. In future work, further research should focus on the improved diagnosis approach for
+small-sample learning. Acknowledgements
+
+    It is very grateful for the ﬁnancial supports from the National Major Science and Technology Projects of China
+(No. ",cs.CE,C,-0.3098483,-0.21847692,-0.032239787
+http://arxiv.org/pdf/2207.13696v1,Modelling Equity Transaction Networks as Bursty Processes,"These links introduce a direct channel of contagion between these critical
+nodes in the ﬁnancial system, so in order for our methods to fully capture the macroprudential risks in these systems,
+these links would need to be included. Further to this, we have considered application of Hawkes processes to trade
+executions only, and further research into how the dynamics of the order book inﬂuences the generative processes of
+these executions would be useful to explore in addition to the other potential avenues suggested. Availability of data and materials
+
+All ﬁve datasets studied in this paper were extracted from a dataset of transaction reports collected by the FCA under
+MIFID II regulations. ",cs.CE,A,-0.36656955,0.21609229,0.019366482
+http://arxiv.org/pdf/2207.14291v1,Physics-Informed Neural Networks for Shell Structures,"One can therefore exploit
+PINN-based methods such as the one presented here to serve as a sanity check for FEM to ensure locking-free
+behavior. It would be of interest to further study the convergence behavior of PINNs in the small-thickness limit
+towards an improved understanding of the challenges of training PINNs in a general sense. Besides, fur-
+ther improvements to reduce the computational eﬀorts are necessary to make PINNs competitive with
+well-established FEM techniques. ",cs.CE,B,0.16907567,-0.15314925,0.13463357
+http://arxiv.org/pdf/2207.14292v1,A parallel algorithm for unilateral contact problems,"This means that all the computational resources are being used in an eﬃcient
+way, as there is no waiting or idle time between processors, in particular when the deformable body is
+computing. However, further analysis should be conducted in more case scenarios in order to improve the
+overall computational performance of the proposed algorithm. A further conclusion from this work is that many engineering contact problems involve the contact
+between rigid and deformable bodies such as indentation tests, impact tests, metal forming, tire-road contact
+or even biomechanical applications such as stents in arteries. ",cs.CE,B,0.22255039,-0.03567154,0.17239901
+http://arxiv.org/pdf/2207.14292v2,A parallel algorithm for unilateral contact problems,"An increase in the number of processors involved in the
+localization implies more communications and operations, which could aﬀect the execution time of the localization
+process. How the localization time aﬀects the overall simulation time as the number of processors increase is a key
+issue for further analysis. localization - contact detection
+Figure 22: Local view (zoom in) on the time interval where localization occurs [29]. ",cs.CE,C,-0.18066256,0.0036583692,0.038612954
+http://arxiv.org/pdf/2208.01839v1,Scalable Computational Algorithms for Geo-spatial Covid-19 Spread in High Performance Computing,"More elaborate studies on this aspect is the
+subject of future research. proposed in future works. Note that we have ignored α and µ terms in the formulations
+below since their values are considered to be zero for the current study, although their inclusion is straightforward. ",cs.CE,A,-0.12549429,0.253336,0.2557732
+http://arxiv.org/pdf/2208.02563v1,On the use of Artificial Neural Networks in Topology Optimisation,"(E.g. is the worst-case performance          TO this is beyond the scope of this review, but it is believed
+           presented and is the computational gain fairly repre-     that this could be an interesting path for further research in
+           sented?) the ﬁeld. ",cs.CE,C,-0.13257259,-0.03600502,-0.06358122
+http://arxiv.org/pdf/2208.02606v1,TunaOil: A Tuning Algorithm Strategy for Reservoir Simulation Workloads,"In any case, some ideas could be explored to
+be included in the predictors. Another relevant future work                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   strengthen those results by enhancing the regressor or limiting
+is to evaluate better the importance of each feature used in                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  the impact of a bad conﬁguration. From the ML perspective,
+the Oracle. ",cs.CE,C,-0.3474887,-0.079466574,-0.04697873
+http://arxiv.org/pdf/2208.03149v1,Asymptotically consistent and computationally efficient modeling of short-ranged molecular interactions between curved slender fibers undergoing large 3D deformations,"For the reasons outlined above, the authors decided
+to apply the penalty-based line contact formulation together with the rather long-ranged SSIP law for electrostatic attraction,
+whereas the SSIP/SBIP approach based on the repulsive part of the LJ law will be applied in combination with the short-ranged
+SSIP/SBIP law for vdW adhesion, respectively. Nevertheless, a more detailed analysis of the similarities and diﬀerences of
+existing, macroscopic beam contact formulations and the novel approaches based on molecular steric repulsion is considered an
+interesting aspect of future work in this ﬁeld. 7 REGULARIZATION AND SELECTED FURTHER ASPECTS
+
+This section discusses the numerical regularization scheme as well as further (algorithmic) aspects that are of special importance
+for the application of the novel SBIP approach and the proposed interaction law ̃. ",cs.CE,B,0.36334366,-0.0074345516,0.59057117
+http://arxiv.org/pdf/2208.03149v2,Asymptotically consistent and computationally efficient modeling of short-ranged molecular interactions between curved slender fibers undergoing large 3D deformations,"For the reasons outlined above, the authors decided
+to apply the penalty-based line contact formulation together with the rather long-ranged SSIP law for electrostatic attraction,
+whereas the SSIP/SBIP approach based on the repulsive part of the LJ law will be applied in combination with the short-ranged
+SSIP/SBIP law for vdW adhesion, respectively. Nevertheless, a more detailed analysis of the similarities and diﬀerences of
+existing, macroscopic beam contact formulations and the novel approaches based on molecular steric repulsion is considered an
+interesting aspect of future work in this ﬁeld. 7 REGULARIZATION AND SELECTED FURTHER ASPECTS
+
+This section discusses the numerical regularization scheme as well as further (algorithmic) aspects that are of special importance
+for the application of the novel SBIP approach and the proposed interaction law ̃. ",cs.CE,B,0.36334366,-0.0074345516,0.59057117
+http://arxiv.org/pdf/2208.03149v3,Asymptotically consistent and computationally efficient modeling of short-ranged molecular interactions between curved slender fibers undergoing large 3D deformations,"For the reasons outlined above, the authors decided
+to apply the penalty-based line contact formulation together with the rather long-ranged SSIP law for electrostatic attraction,
+whereas the SSIP/SBIP approach based on the repulsive part of the LJ law will be applied in combination with the short-ranged
+SSIP/SBIP law for vdW adhesion, respectively. Nevertheless, a more detailed analysis of the similarities and diﬀerences of
+existing, macroscopic beam contact formulations and the novel approaches based on molecular steric repulsion is considered an
+interesting aspect of future work in this ﬁeld. 7 REGULARIZATION AND SELECTED FURTHER ASPECTS
+
+This section discusses the numerical regularization scheme as well as further (algorithmic) aspects that are of special importance
+for the application of the novel SBIP approach and the proposed interaction law ̃. ",cs.CE,B,0.36334366,-0.0074345516,0.59057117
+http://arxiv.org/pdf/2208.03149v4,Asymptotically consistent and computationally efficient modeling of short-ranged molecular interactions between curved slender fibers undergoing large 3D deformations,"For the reasons outlined above, the authors decided
+to apply the penalty-based line contact formulation together with the rather long-ranged SSIP law for electrostatic attraction,
+whereas the SSIP/SBIP approach based on the repulsive part of the LJ law will be applied in combination with the short-ranged
+SSIP/SBIP law for vdW adhesion, respectively. Nevertheless, a more detailed analysis of the similarities and diﬀerences of
+existing, macroscopic beam contact formulations and the novel approaches based on molecular steric repulsion is considered an
+interesting aspect of future work in this ﬁeld. 7 REGULARIZATION AND SELECTED FURTHER ASPECTS
+
+This section discusses the numerical regularization scheme as well as further (algorithmic) aspects that are of special importance
+for the application of the novel SBIP approach and the proposed interaction law ̃. ",cs.CE,B,0.36334366,-0.0074345516,0.59057117
+http://arxiv.org/pdf/2208.03318v1,Delta Hedging Liquidity Positions on Automated Market Makers,"https://doi.org/10.48550/ARXIV.2103.12732
+
+   We are excited about delta-neutral liquidity positions and plan                       A EQUATIONS
+to apply the concept to more tasks such as Strategic Liquidity Pro-
+vision [15]. We plan to further research the similarities and uses                       • Note that:
+of traditional derivatives and the economics that Decentralized
+Exchanges present. 𝑖    =      𝑓   =   1            (7)
+
+                                                                                                                   𝑝𝑏;𝑏       𝑝
+
+                                                                                                                               𝑏;𝑏
+
+                                                                                         • Constant Product Formula:
+
+                                                                                                                𝜅 = 𝑎𝑚𝑜𝑢𝑛𝑡𝑎 × 𝑎𝑚𝑜𝑢𝑛𝑡𝑏                (8)
+
+   We provide a repository including an implementation of the                            • Price from Constant Product Formula:
+algorithm:
+https://github.com/adamkhakhar/lp-delta-hedge                                                                      𝑝𝑎;𝑏 =   𝑎𝑚𝑜𝑢𝑛𝑡      𝑏
+
+                                                                                                                                                     (9)
+
+                                                                                                                            𝑎𝑚𝑜𝑢𝑛𝑡𝑎
+
+ACKNOWLEDGMENTS                                                                          • Let 𝛿 represent the price change from 𝑝𝑎𝑖 ;𝑏 to 𝑝𝑎𝑓 ;𝑏 :
+
+We are grateful to Amy Lipkind for their helpful discussions. ",cs.CE,A,-0.22755885,0.47390682,0.1664847
+http://arxiv.org/pdf/2208.03318v2,Delta Hedging Liquidity Positions on Automated Market Makers,"We are excited about delta-neutral liquidity positions and plan
+                                                                        to apply the concept to more tasks such as Strategic Liquidity Pro-
+                                                                        vision [17]. We plan to further research quantitative strategies in
+                                                                        the economics that Decentralized Exchanges present. We provide a repository including an implementation of the
+                                                                        algorithm:
+                                                                        https://github.com/adamkhakhar/lp-delta-hedge
+
+                                                                        ACKNOWLEDGMENTS
+
+                                                                        We are grateful to Ami Lipkind for their helpful discussions. ",cs.CE,A_centroid,-0.34804294,0.5154053,0.11594574
+http://arxiv.org/pdf/2208.03318v3,Delta Hedging Liquidity Positions on Automated Market Makers,"We are excited about delta-neutral liquidity positions and plan
+                                                                        to apply the concept to more tasks such as Strategic Liquidity Pro-
+                                                                        vision [18]. We plan to further research quantitative strategies in
+                                                                        the economics that Decentralized Exchanges present. We provide a repository including an implementation of the
+                                                                        algorithm:
+                                                                        https://github.com/adamkhakhar/lp-delta-hedge
+
+                                                                        ACKNOWLEDGMENTS
+
+                                                                        We are grateful to Ami Lipkind for their helpful discussions. ",cs.CE,A,-0.3471576,0.51512927,0.11523515
+http://arxiv.org/pdf/2208.03680v1,Accelerating Numerical Solvers for Large-Scale Simulation of Dynamical System via NeurVec,"5d). Analysis
+
+In this section we provide further analysis of the performance of NeurVec from three aspects: (1) NeurVec maintains
+the statistic of the solutions from large-scale simulation, which is crucial for constructing reliable models; (2) NeurVec
+learns the leading error term of the numerical solver, which enables a more accurate estimation for each step; and
+(3) we compare the evaluation time and solution error among solver with ﬁne or coarse step size and NeurVec. Ensemble forecast with NeurVec. ",cs.CE,C,-0.098305926,-0.12908012,-0.11901666
+http://arxiv.org/pdf/2208.09434v1,A level-set formulation to simulate diffusive solid/solid phase transformation in polycrystalline metallic materials -- Application to austenite decomposition in steels,"In section 3, a couple of representative illustrations are used to demonstrate
+the potential of the numerical model. Finally, in section 4, we discuss the key remarks of the proposed approach and
+also some perspectives for future work. 2
+                                                                  A PREPRINT
+
+2 Numerical formulation: Diffusive phase transformation modeling
+
+DSSPT modeling at the mesoscopic scale typically involves two governing equations: a diffusion equation that governs
+the partitioning of solute atoms (such as carbon) across different phases, and another governing equation that takes
+care of the resulting interface network migration. ",cs.CE,B,0.15023999,0.06839191,0.13192347
+http://arxiv.org/pdf/2208.10375v1,Simulation-Informed Revenue Extrapolation with Confidence Estimate for Scaleup Companies Using Scarce Time-Series Data,"From the perspective of
+8th practical requirement mentioned in Section 1.                                      investment professionals, SiRE can precisely find the scaleup com-
+                                                                                       panies that have great potential of a revenue uplift in 2 to 5 years. 4.7 Evaluation from the perspective of                                                 The future work include filter ablation study (Section 3.3.1) and ap-
+       investment professionals                                                        plicability to other related metrics such as customer churn, funnel
+                                                                                       size, and conversion rate. From the perspective of PC investment professionals, it is not crit-
+ical to have each extrapolated revenue point close to the ground                       ACKNOWLEDGMENTS
+truth. ",cs.CE,A,-0.41631943,0.19427645,-0.08220421
+http://arxiv.org/pdf/2208.11574v1,Improving on the Markov-Switching Regression Model by the Use of an Adaptive Moving Average,"Second, as already mentioned, the current trading strategy discards two of the four
+discovered regimes as being likely to be unproﬁtable; however, more complex trading strategies, for example using
+derivatives-based hedging, could potentially make use of these regimes. Finally, and most importantly for future work,
+the KAMA+MSR model’s ability to smoothly and accurate distinguish regimes will allow it to be used as a regime
+label generator for machine learning tasks in which the aim is to predict such regimes ex ante. References
+
+ [1] S.M. ",cs.CE,C,-0.3155298,-0.035062056,0.027878555

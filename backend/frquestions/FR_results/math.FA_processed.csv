@@ -1,0 +1,433 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00980v1,Discrete and Continuous Welch Bounds for Banach Spaces with Applications,"In this paper we derive both discrete and continuous Welch bounds
+for Banach spaces. We ask several open problems for further research. 2. ",math.FA,B,0.0001462046,-0.30901444,-0.08358195
+http://arxiv.org/pdf/2201.03793v1,Microlocal properties of seven-dimensional lemon and apple Radon transforms with applications in Compton scattering tomography,"Thus, there
+is a trade of to consider here, i.e., do we want higher Signal to Noise Ratio (SNR) and more
+artifacts, or less SNR with less artifacts? We leave such practical concerns for future work. 5. ",math.FA,A,0.21670645,0.12769681,-0.07235289
+http://arxiv.org/pdf/2201.04175v4,A generalization of the Moreau-Yosida regularization,"In addition, the authors studied the Lions–Lasry regularization for more
+general kernels, i.e.,
+
+   (fλ)µ(u) := sup inf f (w) + 1 g( v − w ) − 1 g( u − v )
+               v∈X w∈X  λ                                    µ
+
+for a convex, monotonically increasing, coercive, and continuously diﬀerentiable function
+h : R+ → R+ with h(0) = 0. However, for non-convex functionals f , none of the previous results duplicate our results,
+and it is subject to future work to reproduce our results for the non-convex case with the
+aid of the previous results for non-convex functionals. We refer the interested reader to
+[Ber10, BTZ11, JTZ14] and the references therein for more results in the non-convex case. ",math.FA,B,-0.05536917,0.08928645,-0.01940584
+http://arxiv.org/pdf/2201.12350v1,Endpoint weak Schatten class estimates and trace formula for commutators of Riesz transforms with multipliers on Heisenberg groups,"For
+
+example, following from [36, Corollary 1.5], one can apply the trace formula (1.2) to give an alternative proof of [22,
+
+(2) in Theorem 1.1]. We highlight that the new approach that we develop opens the door for further study of the endpoint Schatten–
+
+Lorentz class estimates of commutators [A, M f ] in various settings where Fourier analysis is not available (or not as
+eﬀective as that in Rn). Potential developments includes the endpoint Schatten–Lorentz class estimates for commutators
+
+[Rℓ, M f ], where Rℓ is the ℓ−th Riesz transforms on H-type groups or stratiﬁed Lie groups, which will be addressed in
+
+our subsequent papers. ",math.FA,C,0.10545242,0.32281834,0.105610505
+http://arxiv.org/pdf/2201.12350v2,Endpoint weak Schatten class estimates and trace formula for commutators of Riesz transforms with multipliers on Heisenberg groups,"For
+
+example, following from [37, Corollary 1.5], one can apply the trace formula (1.2) to give an alternative proof of [22,
+
+(2) in Theorem 1.1]. We highlight that the new approach that we develop opens the door for further study of the endpoint Schatten–
+
+Lorentz class estimates of commutators [A, M f ] in various settings where Fourier analysis is not available (or not as
+eﬀective as that in Rn). Potential developments includes the endpoint Schatten–Lorentz class estimates for commutators
+
+[Rℓ, M f ], where Rℓ is the ℓ−th Riesz transforms on H-type groups or stratiﬁed Lie groups, which will be addressed in
+
+our subsequent papers. ",math.FA,C_centroid,0.10420485,0.32301623,0.10415695
+http://arxiv.org/pdf/2201.12881v4,Oscillating singular integral operators on graded Lie groups revisited,"Remark 2.15. It can be shown that a Lie group G is graded if and only if there exists
+a diﬀerential Rockland operator on G.
+
+   Next, we record for our further analysis some aspects of the functional calculus for
+Rockland operators. Remark 2.16. ",math.FA,C,-0.058405884,0.1631816,0.14490259
+http://arxiv.org/pdf/2202.00491v1,A Topological Approach to Mapping Space Signatures,"The path signature has recently become a powerful tool in both pure mathematics,
+primarily through the development of rough paths [25], and applied mathematics. The
+wide applicability of the path signature suggests further study into how the mapping
+space signature can provide meaningful generalizations in these two domains. • Can we use the mapping space signature to deﬁne a higher dimensional ana-
+  logue of rough paths? ",math.FA,C,-0.015311805,0.03887008,0.14895514
+http://arxiv.org/pdf/2202.01853v1,Posinormal Composition Operators on $H^2$,"In Sections 5 and 6, respectively, we complete our
+characterization work, handling, in Section 5 the case where ϕ has Denjoy-Wolﬀ point in D and its second
+ﬁxed point outside of D− and then in Section 6 the case where ϕ has Denjoy-Wolﬀ point in D and its second
+ﬁxed point on the unit circle. We conclude with questions for further research in Section 7. The most challenging ﬁxed-point scenario for our characterization work is that of Section 5, in which
+ϕ is assumed to have Denjoy-Wolﬀ point in D and its second ﬁxed point outside of D−. ",math.FA,C,-0.027167905,-0.038014643,0.3119489
+http://arxiv.org/pdf/2202.02536v4,Locally solid convergences and order continuity of positive operators,"We will say that a locally solid convergence η on F is idempotent if for any nets
+(fα)α∈A , (gβ)β∈B ⊂ F+ such that gβ −→ 0F and (fα − gβ)+ −→ 0F , for every β, it follows that
+                         β                   α
+
+fα −→ 0F . Note that the corresponding notion of the product of locally solid convergences
+      α
+
+will be explored in the future works. Idempotent convergences come handy in the following
+
+auxiliary result. ",math.FA,B,0.008328424,-0.07550674,0.002650069
+http://arxiv.org/pdf/2202.03591v1,On some convexity and monotonicity inequalities of Elliott Lieb,"Nonetheless, Theorem 4.5, together with the Araki-Lieb Triangle Inequality, also proved in [6]
+
+and discussed in the next section, were suﬃcient [6] to solve the quantum thermodynamic limit
+
+problem that had motivated the conjecture of Lanford and Robinson in the ﬁrst place. Despite
+
+this, interest in proving the original conjecture remained strong, and the progress of Araki and
+
+Lieb inﬂuenced future work. Hence it is worthwhile to recall the simple proof of Theorem 4.5. ",math.FA,A,0.62219214,-0.35375643,0.11715241
+http://arxiv.org/pdf/2202.03591v2,On some convexity and monotonicity inequalities of Elliott Lieb,"Nonetheless, Theorem 4.5, together with the Araki-Lieb Triangle Inequality, also proved in [6]
+
+and discussed in the next section, were suﬃcient [6] to solve the quantum thermodynamic limit
+
+problem that had motivated the conjecture of Lanford and Robinson in the ﬁrst place. Despite
+
+this, interest in proving the original conjecture remained strong, and the progress of Araki and
+
+Lieb inﬂuenced future work. Hence it is worthwhile to recall the simple proof of Theorem 4.5. ",math.FA,A,0.62219214,-0.35375643,0.11715241
+http://arxiv.org/pdf/2202.03591v3,On some convexity and monotonicity inequalities of Elliott Lieb,"Nonetheless, Theorem 4.5, together with the Araki-Lieb Triangle Inequality, also proved in [6]
+
+and discussed in the next section, were suﬃcient [6] to solve the quantum thermodynamic limit
+
+problem that had motivated the conjecture of Lanford and Robinson in the ﬁrst place. Despite
+
+this, interest in proving the original conjecture remained strong, and the progress of Araki and
+
+Lieb inﬂuenced future work. Hence it is worthwhile to recall the simple proof of Theorem 4.5. ",math.FA,A,0.62219214,-0.35375643,0.11715241
+http://arxiv.org/pdf/2202.03591v4,On some convexity and monotonicity inequalities of Elliott Lieb,"Nonetheless, Theorem 1.18, together with the Araki-Lieb Triangle Inequality,
+
+also proved in [6] and discussed in the next section, were suﬃcient [6] to solve the
+
+quantum thermodynamic limit problem that had motivated the conjecture of Lanford
+
+and Robinson in the ﬁrst place. Despite this, interest in proving the original conjec-
+
+ture remained strong, and the progress of Araki and Lieb inﬂuenced future work. Hence it is worthwhile to recall the simple proof of Theorem 1.18. ",math.FA,A_centroid,0.5980924,-0.33545625,0.094253615
+http://arxiv.org/pdf/2202.04032v2,Exponential stochastic compression of one-dimensional space and 146 percent,"and Corollary 1.2. Very brieﬂy, further analysis can be based on the Stirling asymptotic of
+
+factorials in binomial coeﬃcients in (8), in the same way as in the √known ﬁrst√variants of the
+proof of CLT. The main impact in RHS of (8) is for k ∈ [i/2 − c i, i/2 + c i] with c > 0. ",math.FA,A,0.458322,-0.13427213,-0.246851
+http://arxiv.org/pdf/2202.04032v3,Exponential stochastic compression of one-dimensional space and 146 percent,"The main statements announced in the Abstract follows from (21), (26),
+
+and Corollary 1.2. Very brieﬂy, further analysis can be based on the Stirling asymptotic of
+
+factorials in binomial coeﬃcients in (8), in the same way as in the kno√wn ﬁrst va√riants of
+the proof of CLT. The main impact in RHS of (8) is for k ∈ [i/2 − c i, i/2 + c i] with
+c > 0. ",math.FA,A,0.43282193,-0.16150291,-0.2762315
+http://arxiv.org/pdf/2202.04999v1,On Generalized Powers of Operators,"3. Conclusion
+
+   This new concept should hopefully stimulate further research as re-
+gards many already known results which involve classical powers of
+operators. One is also tempted to deﬁne a similar notion for the class of un-
+bounded operators. ",math.FA,B,-0.30009073,-0.1653547,-0.20118494
+http://arxiv.org/pdf/2202.07338v2,Evolution Equations in Hilbert Spaces via the Lacunae Method,"Apparently, the hypotheses on the representing
+the solution by the Taylor series is equivalent to existing the ﬁxed point of the mentioned operator
+series. We hope that this idea creates a prerequisite for further study in the direction. References
+
+[1] Adams R. A. ",math.FA,A,0.052802972,0.17627496,-0.4449917
+http://arxiv.org/pdf/2202.13697v1,"Metric, Schauder and Operator-Valued Frames","Using the
+property of operator norm we ﬁnally get
+
+                          [d, x] − 1A = [D, X] − 1Mn(C) ≥ sup |λ j − 1| ≥ 1. 1≤ j≤n
+
+    Conclusion and future work : In this appendix we showed that the result of Tao’s
+is valid in more general spaces. One of the future objectives is to improve the bounds
+in Theorem 6.6.12 and Theorem 6.5.8. ",math.FA,B,-0.046096362,-0.35541975,-0.16419794
+http://arxiv.org/pdf/2203.05312v1,Explicit representations for Banach subspaces of Lizorkin distributions,"In particular, this
+enabled us to strengthen results obtained in prior works. As future work, we want to
+use this framework to also study other subspaces and related variational models. 20
+Acknowledgment
+
+The research leading to these results has received funding from the by the European Re-
+search Council (ERC) under European Union’s Horizon 2020 (H2020), Grant Agreement
+- Project No 101020573 FunLearn. ",math.FA,C,0.031456266,0.301672,0.18391427
+http://arxiv.org/pdf/2203.07811v1,Global properties of eigenvalues of parametric rank one perturbations for unstructured and structured matrices II,"In particular, if κ = l−1
+
+then puv(λ) is a constant, nonzero polynomial and the only limit point of
+eigenvalues is inﬁnity. There are, however, some other hidden constraints re-
+
+lating κ and the multiplicities of puv(λ) and their nature needs to be studied
+more intensively in future work. All there comments explain the role of the assumptions in Corollary 3
+
+below. ",math.FA,A,0.056266017,-0.043329306,-0.08140763
+http://arxiv.org/pdf/2203.08662v1,Dense lineability and spaceability in certain subsets of $\ell_{\infty}$,"Open problems. In conclusion of our presentation, we shall highlight some direc-
+tions for possible further research that seem natural in light of the results presented. The ﬁrst natural question is on the necessity of MA for the validity of Theorem 3.8. ",math.FA,B,0.021935506,-0.26223096,0.074058644
+http://arxiv.org/pdf/2203.08662v2,Dense lineability and spaceability in certain subsets of $\ell_{\infty}$,"Further research. In conclusion of our presentation, we shall highlight some di-
+rections for possible further research that seem natural in light of the results presented. Concerning spaceability, we should point out that the two closed subspaces that we con-
+structed in Theorem 4.7 (contained in L(ω) and L(c) respectively) are isometric to c0,
+hence separable. ",math.FA,B,-0.2973605,-0.07609221,0.24836397
+http://arxiv.org/pdf/2203.14670v1,On the third problem of Halmos on Banach spaces,"For exam-
+ple, we do not know that whether every bounded linear operator on a sep-
+arable Hilbert space admits a nontrivial invariant subspace; we do not even
+know if there exists a bounded linear operator on a reﬂexive Banach space
+that does not have a non-trivial invariant subspace. Therefore, mathemati-
+cians have not stopped the pace of further research on these and related
+questions. A problem closely related to the invariant subspace problem is the third
+problem of Halmos [22]. ",math.FA,B,-0.34475386,-0.1660725,0.080882624
+http://arxiv.org/pdf/2203.14670v2,On the third problem of Halmos on Banach spaces,"For example, we do not know
+that whether every bounded linear operator on a separable Hilbert space admits a nontrivial
+invariant subspace; we do not even know if there exists a bounded linear operator on a reﬂexive
+Banach space that does not have a non-trivial invariant subspace. Therefore, mathematicians
+have not stopped the pace of further research on these and related questions. A problem closely related to the invariant subspace problem is the third problem of Halmos
+[22]. ",math.FA,B,-0.31314808,-0.13486497,0.029531965
+http://arxiv.org/pdf/2203.16770v1,BV spaces and the perimeters related to Schrodinger operators with inverse-square potentials and applications to the rank-one theorem,"Accordingly, problems involving Ha rarely obey
+simple perturbation theory. This is one of the reasons why we (and many scholars before us) choose
+
+this particular operator for further study. The ﬁrst aim of this paper is to investigate the class of functions of bounded variation related
+
+to Ha. ",math.FA,B,-0.050710537,0.10162519,-0.23010634
+http://arxiv.org/pdf/2204.07448v1,A Chebyshev type alternation theorem for best approximation by a sum of two algebras,"We proceed with the deﬁnition of lightning bolts with respect to two algebras. These
+objects are essential for our further analysis. Deﬁnition 2.1. ",math.FA,B,0.020991823,-0.027213056,0.12797415
+http://arxiv.org/pdf/2204.11391v1,Minimal isometric dilations and operator models for the polydisc,"Recently Barik, Das, Haria, Sarkar
+in [21] have introduced a large class of n-tuples, n ≥ 3, of commuting contractions denoted by
+Tpn,q(H ) bigger than Ppd,q of commuting contractions and have proved that they dilate to n-tuples
+of explicit commuting isometries. Barik and Das continued further research and have constructed
+isometric dilations and consequently establish von Neumann inequality for commuting contraction
+tuples in class Bnp,q. The positivity assumption is related to Brehmer positivity and motivated by
+the study of isometric dilations of operator tuples in [21]. ",math.FA,C,0.02460189,-0.23727116,0.15668988
+http://arxiv.org/pdf/2204.14124v1,Characterization of modulation spaces by symplectic representations and applications to Schrödinger equations,"Namely, for
+covariant shift-invertible matrices A of the form (16) we prove
+
+(17)  f ∈ M p,q(Rd) ⇔ WA(f, g) ∈ Lp,q(R2d)
+
+with equivalence of norms valid also in the weighted cases for 0 < p, q ≤ ∞
+(Theorem 2.28). A further analysis concerns the covariant case (Wigner perturbations, according
+to the terminology of [10]). If A is covariant of the form (16) then
+
+(18)  WA(f, g) = W (f, g) ∗ σA f, g ∈ S(Rd),
+
+where σA has now the particular form (see Corollary 3.1). ",math.FA,C,0.054888655,0.031269316,0.27353314
+http://arxiv.org/pdf/2204.14124v2,Characterization of modulation spaces by symplectic representations and applications to Schrödinger equations,"Namely, for
+covariant shift-invertible matrices A of the form (16) we prove
+
+(17)  f ∈ M p,q(Rd) ⇔ WA(f, g) ∈ Lp,q(R2d)
+
+with equivalence of norms valid also in the weighted cases for 0 < p, q ≤ ∞
+(Theorem 2.28). A further analysis concerns the covariant case (Wigner perturbations, according
+to the terminology of [12]). If A is covariant of the form (16) then
+
+(18)  WA(f, g) = W (f, g) ∗ σA f, g ∈ S(Rd),
+
+where σA has now the particular form (see Corollary 3.1). ",math.FA,C,0.055239946,0.03262939,0.27292734
+http://arxiv.org/pdf/2204.14176v1,The uncertainty principle for the short-time Fourier transform on finite cyclic groups: cases of equality,"The cases of equality seem
+certainly worthy studying in that framework too, as well as for the other
+discrete uncertainty principles appearing in [19]. While we postpone this
+investigation to a future work, in Section 4 we brieﬂy show that the im-
+plication (a)=⇒(b) in Theorem 1.2 indeed generalizes (easily) to arbitrary
+ﬁnite Abelian groups. We conclude by observing that subgroups (or structured subsets) S ⊂
+ZN ×ZN play also an important role in the construction of orthonormal ba-
+sis of ℓ2(ZN ) of the type {π(j, k)g : (j, k) ∈ S}, for some g ∈ ℓ2(ZN ). ",math.FA,A,0.07503832,-0.11857935,0.093641505
+http://arxiv.org/pdf/2205.00059v1,Fractional Poisson Analysis in Dimension one,"The Wick calculus extends in a straightforward manner from Gaussian
+analysis to the present fractional Poisson analysis. In a future work, we plan to extend these
+results to an inﬁnite dimensional framework. More precisely, the fractional Poisson measure on
+the linear space D′(Rd) = C0∞(Rd), the dual of the nuclear space of Schwartz test functions, or
+on the conﬁguration space ΓRd ⊂ D′(Rd) over Rd. ",math.FA,A,0.19850229,0.31537908,-0.23520982
+http://arxiv.org/pdf/2205.01888v1,The Mazur-Ulam property for a Banach space which satisfies a separation condition,"Note that the Mazur-Ulam property, or even
+the complex Mazur-Ulam property for non-unital C∗-algebras seems to be
+still missing. In this paper we further study the problem on the complex Mazur-Ulam
+property. We introduce a separation condition which is named (∗) for a
+Banach space in section 5. ",math.FA,B,-0.29160804,-0.10185099,0.081574626
+http://arxiv.org/pdf/2205.03397v1,Biorthogonal Approach to Infinite Dimensional Fractional Poisson Measure,"The spaces
+                                                             πσ
+(N )κβ         (N )−βκ
+       π  and         π  are  universal  in  the  sense  that    their  characterization  via  Sπβ -transform  is
+                                                                                                     σ
+σ              σ
+
+independent of the measure πσβ (see Theorem 6.6) as is well known from non Gaussian analysis,
+
+[29, 27]. In a future work we plan to investigate the stochastic counterpart associated to the fPm,
+namely the fractional Poisson process Nλβ in one and inﬁnite dimensions. In particular, their
+representations in terms of known processes as well as possible applications. ",math.FA,C,0.22096066,0.38914666,-0.15692234
+http://arxiv.org/pdf/2205.07645v1,"Dual pairs of operators, harmonic analysis of singular non-atomic measures and Krein-Feller diffusion","We then note that Ito’s lemma applies to W (µ), see (3.94). We further study the
+Markov semigroup ((3.79) and Lemma 3.29) corresponding to W (µ). In our two main results
+
+Lemma 3.24 and Theorem 3.30 below, we identify the selfadjoint extension of KF from section
+2 as the inﬁnitesimal generator for this diﬀusion semigroup, Lemma 3.24. ",math.FA,A,0.16059208,0.095236704,-0.101107046
+http://arxiv.org/pdf/2205.07659v1,Relation between Hardy components for locally supported vector fields on the sphere,"Further details regarding Hardy spaces and the Hardy-Hodge decomposition
+can be found, e.g., in [1, 3, 5, 6, 11], which also consider more general surfaces than the sphere. 1.1 Localized and locally divergence-free vector ﬁelds
+
+Theorem 1.1 discusses localized ﬁelds – ﬁelds that vanish on an open set of S. For the
+further analysis, however, it appears convenient to rephrase this condition solely in terms of
+Hardy components of a ﬁeld. We observe that writing f ∈ L2(S, Rd) in the Hardy-Hodge
+decomposition and assuming that f vanishes on the open set Σ yields f+ + f− = −fdf on Σ. ",math.FA,C,0.060818758,0.2662594,0.212624
+http://arxiv.org/pdf/2205.11142v1,Stability of the scattering transform for deformations with minimal regularity,"Also, from a mathematical perspective, it is natural to wonder whether the
+above results are robust enough to encompass more general operators than Lτ , Fourier
+integral operators being the natural candidates [6]. We postpone the study of these
+problems, that require novel ideas and techniques, to future works. 2. ",math.FA,B,-0.03410351,0.22406852,-0.26897588
+http://arxiv.org/pdf/2205.12807v1,A Quest for Simple and Unified Proofs in Regularity Theory: Perturbation Stability,"4. Concluding remarks
+
+   We brieﬂy discuss possible generalizations and topics for further research:
+1. In [40], non-linear analogues of the properties in Deﬁnition 2.4 are considered. ",math.FA,B,-0.05436107,-0.11905146,0.022316985
+http://arxiv.org/pdf/2205.15497v1,Valdivia's lifting theorem for non-metrizable spaces. Preprint,"5. Concluding remarks
+
+Some implications for further research regarding the application of Val-
+divia’s closed graph theorem and the lifting theorem proved here are
+outlined. Applying Valdivia’s closed graph theorem to spaces that are not bar-
+relled. ",math.FA,B,-0.19024687,-0.30439597,0.27533484
+http://arxiv.org/pdf/2206.02132v1,Local boundary behaviour and the area integral of generalized harmonic functions associated with root systems,"Therefore Theorem 1.3 is deeper than expected, and Theorem
+1.6 and Corollary 1.7 motivate that the adoption of Sa,hu would be also necessary for a non-
+G-invariant u associated to a general reﬂection group G.
+
+    (e) In [20, 21], Hunt and Wheeden studied the local boundary behaviour of usual har-
+monic functions in a bounded Lipschitz domain, and in [22], Jerison and Kenig extended
+6                                                                                   Jiu and Li
+
+the classical results to a larger class of domains named non-tangentially accessible domains. In the Dunkl setting, further researches on boundary behaviour of κ-harmonic functions
+may be considered in a reﬂection-symmetric Lipschitz domain or non-tangentially accessi-
+ble domain. The paper is organized as follows. ",math.FA,C,0.047828805,0.16899186,0.072519116
+http://arxiv.org/pdf/2206.14025v1,Trace Class Properties of Resolvents of Callias Operators,"in [6] showed property (4) holds for an appropriate
+N ∈ N in the one-dimensional case d = 1, if the family A is itself given by perturbations of
+a Dirac operator by a matrix potential, and if one imposes weaker trace-class requirements
+on A than (7), dependent on a parameter (on which the choices for N also depend). The goal of this paper is to present a collection of conditions on the family A for
+general d ∈ N, such that A can be obtained by unbounded, non-commutative and non-
+discrete perturbations of a general self-adjoint model operator A0, such that the associated
+Callias operator D satisﬁes property (4) for a suitable N ∈ N. The necessary requirements
+on the trace-class properties of A will be weaker for larger N. To determine the trace and
+index formula for D in this instance will however be a task for future work. 2
+    Let us present the main result of this paper and review the conditions on the operator
+family A. ",math.FA,B,-0.13365553,0.03186409,-0.25141433
+http://arxiv.org/pdf/2206.14025v2,Trace Class Properties of Resolvents of Callias Operators,"in [6] showed property (4) holds for an appropriate
+N ∈ N in the one-dimensional case d = 1, if the family A is itself given by perturbations of
+a Dirac operator by a matrix potential, and if one imposes weaker trace-class requirements
+on A than (7), dependent on a parameter (on which the choices for N also depend). The goal of this paper is to present a collection of conditions on the family A for
+general d ∈ N, such that A can be obtained by unbounded, non-commutative and non-
+discrete perturbations of a general self-adjoint model operator A0, such that the associated
+Callias operator D satisﬁes property (4) for a suitable N ∈ N. The necessary requirements
+on the trace-class properties of A will be weaker for larger N. To determine the trace and
+index formula for D in this instance will however be a task for future work. 2
+    Let us present the main result of this paper and review the conditions on the operator
+family A. ",math.FA,B,-0.13365553,0.03186409,-0.25141433
+http://arxiv.org/pdf/2207.00917v1,New John--Nirenberg--Campanato-Type Spaces Related to Both Maximal Functions and Their Commutators,"4                                           Pingxu Hu, Jin Tao and Dachun Yang
+
+   In Section 3, we ﬁrst give some basic properties of JN(p,q,s)α(X), including the monotonicity on
+the subindices p, q, and s (see Proposition 3.1 below), the limit behavior as p → ∞ (see Propo-
+
+sition 3.2 and Corollary 3.4 below), and the invariance on the second subindex q (see Proposition
+3.5 below). Moreover, for the case s = 0, P(Qs)(| f |) = | f |Q is closely connected with the maximal
+
+function MQ( f ), and hence we further study the relation between JN(p,q,s)α(X) and maximal func-
+tions. On one hand, the maximal operator is bounded on Lq(X) with q ∈ (1, ∞) but not bounded on
+L1(X). ",math.FA,B,0.03624968,-0.14298964,-0.07893545
+http://arxiv.org/pdf/2207.02684v1,On $\exp(Der(E))$ of nilpotent evolution algebras,"The study of evolution algebras constitutes a new subject
+                                         both in algebra and the theory of dynamical systems. There are many related open
+                                         problems to promote further research in this subject (for more details we refer to [27]). We notice that evolution algebras are not deﬁned by identities, and therefore they do
+                                         not form a variety of non-associative algebras, like Lie, Jordan or alternative algebras. ",math.FA,B,-0.05483046,0.11089695,0.02196794
+http://arxiv.org/pdf/2207.03728v1,"Laguerre BV spaces, Laguerre perimeter and their applications","We point out that, in the proof of (2), the inequality
+
+|∇f (x)|(Ω1) |∇Lα f (x)|(Ω1) holds true. With this in mind, we consider
+
+the subset
+
+(3)         Ω1  =  Ω  \  {x  ∈  Rd    :  ∃i  ∈     1,  ·  ·  ·  ,  d  such  that  √xi  <   1}
+
+                                   +
+
+of Ω which is a reasonable substitute of Ω and whose ﬁgure is given as follows:
+   Our motivation comes not only from the fact that these objects are interest-
+
+ing on their own, but also from the possibility of their potential applications
+in further research concerning the Laguerre operator. Consequently, in Sec-
+tion 3, we want to investigate the Laguerre mean curvature of a set with ﬁnite
+Laguerre perimeter. ",math.FA,C,0.1904826,0.14757034,0.03556468
+http://arxiv.org/pdf/2207.04392v1,Abstract evolution equations with an operator function at the right-hand side,"The interesting fact is that involving a
+non-constant function we are still able to consider a patrial sums of the series on the root vec-
+tors corresponding to some groups of eigenvalues. Secondly, we ﬁnd conditions that guarantee
+convergence of the involved integral construction and formulate a main theorem giving us a tool
+for further study. We consider an analogue of the spectral family having involved the operators
+similar to Riesz projectors (see [2, p.20] ) and using a notion of the convergence in the Abel-Lidskii
+sense. ",math.FA,B,0.02219178,0.16156143,-0.3246769
+http://arxiv.org/pdf/2207.04392v2,Abstract evolution equations with an operator function in the second term,"First of all, we consider statements with the necessary reﬁnement caused by the involved functions,
+here we should note that a particular case corresponding to a power function ϕ was considered
+by Lidskii [16]. Secondly, we ﬁnd conditions that guarantee convergence of the involved integral
+construction and formulate lemmas giving us a tool for further study. We consider an analogue of
+the spectral family having involved the operators similar to Riesz projectors (see [2, p.20] ) and
+using a notion of the convergence in the Abel-Lidskii sense. ",math.FA,B,-0.028497033,0.14791535,-0.31306344
+http://arxiv.org/pdf/2207.08285v1,Stochastic integration in Riemannian manifolds from a functional-analytic point of view,"In particular, we have seen that the Stratonovich
+integral is the natural stochastic instrument in problems with a strong geometric ﬂavour, it allow-
+ing for many diﬀerential-geometric ideas to be transported almost unchanged into the stochastic
+framework. A future work, currently in draft form, will show that the Itoˆ integral is the appropriate
+tool in those problems with a strong probabilistic (or analytic) ﬂavour. None of these two integrals
+is ”better” than the other one, the choice between them being made in connection with the speciﬁcs
+of the problem under study. ",math.FA,A,0.35601524,0.32316917,-0.18599325
+http://arxiv.org/pdf/2207.09001v1,Composition operators on weighted Banach spaces of a tree,"In [3], the weighted Banach spaces on a tree were deﬁned, and the multiplication operators
+                                          studied. In this paper, we wish to further study these weighted Banach spaces, as well as study the
+                                          composition operators on them. The results of this work are compatible with the results found in
+                                          [5], [4], [9], and [6], and as corollaries our results apply to composition operators on L∞. ",math.FA,B,-0.4454856,-0.21578726,0.003210038
+http://arxiv.org/pdf/2207.09001v2,Composition operators on weighted Banach spaces of a tree,"In [3], the weighted Banach spaces on a tree were deﬁned, and the multiplication operators
+                                          studied. In this paper, we wish to further study these weighted Banach spaces, as well as study the
+                                          composition operators on them. The results of this work are compatible with the results found in
+                                          [4], [5], [9], and [6], and as corollaries our results apply to composition operators on L∞. ",math.FA,B,-0.44529897,-0.215797,0.0031904234
+http://arxiv.org/pdf/2207.09926v1,Towards Quaternion Quadratic Phase Fourier Transform,"Third, we investigate some diﬀerent forms of UPs associated with
+Q-QPFT including Heisenberg UP, logarithmic UPs, Hardy’s UP, Beurling’s UP, and
+Donoho-Stark’s UP. In our future works we shall study the short-time quadratic-phase
+Fourier transform in the quaternion setting. Declarations
+
+• Availability of data and materials: The data is provided on the request to the
+  authors. ",math.FA,C,0.18086241,0.26488483,0.08816485
+http://arxiv.org/pdf/2207.10211v1,The differentiation operator on discrete function spaces of a tree,"6 Open Questions
+
+We conclude with open questions which were inspired while developing this manuscript. Our hope
+is that these questions will initiate further research in this area of operator theory. 1. ",math.FA,B_centroid,-0.29857704,-0.0124498205,-0.17072316
+http://arxiv.org/pdf/2207.10211v2,The differentiation operator on discrete function spaces of a tree,"OPEN QUESTIONS
+
+   We conclude with open questions which were inspired while developing this manuscript. Our
+hope is that these questions will initiate further research in this area of operator theory. 1. ",math.FA,B,-0.30075508,-0.005568715,-0.17692395
+http://arxiv.org/pdf/2208.00342v1,Li-Yorke and Expansive Composition Operators on Lorentz Spaces,"For composition operator on diﬀerent function
+
+spaces see [15] and [16] and reference therein. First of all we recall the basic deﬁnitions which will be used for further research. Deﬁnition 1.1. ",math.FA,B,-0.38938951,0.0428305,0.03269335
+http://arxiv.org/pdf/2208.01342v1,Coorbit theory of warped time-frequency systems in $\mathbb{R}^d$,"At this point, we conjecture that the coorbit spaces Co(G( , Φ ), L , ) that are associated to the
+
+warping function Φ constructed here coincide with certain -modulation spaces, for a proper choice of
+the weight and of the parameter . In future work, we will verify this by identifying Co(G( , Φ ), L , )
+
+with certain decomposition spaces, cf. [19, 42], and considering embeddings between the resulting
+
+decomposition spaces and -modulation spaces [51, 41, 55, 30] using the theory developed in [94, 95]. ",math.FA,C,-0.07395677,0.31615132,0.5397303
+http://arxiv.org/pdf/2208.01342v2,Coorbit theory of warped time-frequency systems in $\mathbb{R}^d$,"At this point, we conjecture that the coorbit spaces Co(G( , Φ ), L , ) that are associated to the
+
+warping function Φ constructed here coincide with certain -modulation spaces, for a proper choice of
+the weight and of the parameter . In future work, we will verify this by identifying Co(G( , Φ ), L , )
+
+with certain decomposition spaces, cf. [19, 42], and considering embeddings between the resulting
+
+decomposition spaces and -modulation spaces [51, 41, 55, 30] using the theory developed in [94, 95]. ",math.FA,C,-0.07395677,0.31615132,0.5397303
+http://arxiv.org/pdf/2208.02347v1,Synchronous and asynchronous cyclic contractions,"These new r-cyclic operators are an answer to natural problems and
+they prove to complete the family of cyclic type operators studied in
+the previous literature. They open this way a very wide space for
+further research, in order to extend the already existing results and
+theories referring to cyclic operators, if possible, in the case of r-cyclic
+operators. 2. ",math.FA,B,-0.25787884,-0.15290396,-0.12864873
+http://arxiv.org/pdf/2208.02347v2,Synchronous and asynchronous cyclic contractions on metric spaces,"These new r-cyclic operators are an answer to natural problems and
+they prove to complete the family of cyclic type operators studied in
+the previous literature. They open this way a very wide space for
+further research, in order to extend the already existing results and
+theories referring to cyclic operators, if possible, in the case of r-cyclic
+operators. The Introduction is followed by seven sections:
+
+     2. ",math.FA,B,-0.2557924,-0.14249806,-0.13311446
+http://arxiv.org/pdf/2208.02746v1,Conditional expectation operators on $C(X)$,"In this work, we will give suﬃcient
+                                             conditions for the existence of such operator in the space C(X). In a future work, the
+                                             authors will characterize this type of operators in ﬁnite dimensional spaces with the
+                                             considerable contributions of Professors Kuo and Watson. This work will be divided into three parts. ",math.FA,B,-0.42486465,-0.07161965,-0.15759803
+http://arxiv.org/pdf/2208.06591v1,Resolvent algebra in Fock-Bargmann representation,"It is not clear what an appropriate interpretation of
+“L1(H1/2)” should be in order to develop a quantum harmonic analysis and
+correspondence theory for inﬁnite dimensional phase spaces. This will be a key
+
+issue for our future work. References
+
+ [1] W. Bauer and J. Isralowitz, Compactness characterization of operators in
+      the Toeplitz algebra of the Fock space Fαp, J. Funct. ",math.FA,C,-0.043259043,0.3555301,0.022590687
+http://arxiv.org/pdf/2208.07605v1,$L^p$ sampling numbers for the Fourier-analytic Barron space,"We remark that we derive these lower bounds only for the case where
+the reconstruction error is measured in Lp with p ≥ 2. We leave the case of
+1 ≤ p < 2 as an interesting problem for future work. Before we properly begin, let us deﬁne what we mean by “randomized linear
+reconstruction”. ",math.FA,A,0.26786795,-0.04471285,-0.053109646
+http://arxiv.org/pdf/2208.09149v1,GD1 inverse and 1GD inverse for Hilbert space operators,"• GD1 and 1GD inverses of the sum of operators can be studied. • Investigation of the reverse order law for the class GD1 and 1 GD inverses, for Hilbert space operators
+
+    would be an interesting idea for further research. • It is interesting to study the GD1 and 1GD inverses over the algebraic structure of a ring. ",math.FA,B,-0.15914558,0.06029784,-0.029121162
+http://arxiv.org/pdf/2208.10184v1,"On subspaces of $\ell_\infty$ and extreme contraction in $\mathbb{L}(\mathbb{X}, \ell_{\infty}^n)$","We investigate diﬀerent possiblities of subspaces of the space ℓ∞ in
+
+                                          terms of whether the subspaces are polyhedral or not. We further study ﬁnite-
+
+                                          dimensional subspaces of ℓ∞ which are of the form ℓn∞ form some n ≥ 2. As
+
+                                          an application of the results we compute the number of extreme contractions
+
+                                          for a class of the space of bounded linear operators. ",math.FA,B,-0.32851154,-0.24702007,0.080599084

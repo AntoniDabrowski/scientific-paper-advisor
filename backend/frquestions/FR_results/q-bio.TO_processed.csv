@@ -1,0 +1,138 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.02101v1,Using mathematical modelling to identify data requirements for increased prediction accuracy in radiotherapy,"These new techniques, combined with advanced radiomics approaches, may soon provide
+temporal data of tumour composition with which to parametrise such models. The validation of the approach presented in this
+paper, when applied to analyse such data, is an important avenue for future work. References
+
+ 1. ",q-bio.TO,C_centroid,-0.42351913,-0.08418177,-0.20532969
+http://arxiv.org/pdf/2201.05392v1,A 1D-0D-3D coupled model for simulating blood flow and transport processes in breast tissue,"We compare the fully coupled model to available medical data and the simpliﬁed sub-model. Finally, closing
+remarks are given and an outlook for future work is described in Section 8. 2. ",q-bio.TO,C,-0.1193396,-0.15473855,-0.067018166
+http://arxiv.org/pdf/2201.11584v1,Modelling the effect of vascular status on tumour evolution and outcome after thermal therapy,"Therefore, cell death and the time scales involved strongly depend on the
+speciﬁc vascular scenario used to model thermal therapy. It would be interesting to perform further research
+on more elaborate models of cell death in order to identify new therapeutic protocols better adapted to the
+vascular status of the patient. 6. ",q-bio.TO,C,-0.13647375,0.001869536,0.049959585
+http://arxiv.org/pdf/2202.12406v1,Cardiac Reentry Modeled by Spatiotemporal Chaos in a Coupled Map Lattice,"Another goal in generalizing studies
+about the genesis of cardiac spirals is the modeling of spiral waves in the brain, a very little understood phenomenon
+the appears to be related to seizures and epilepsy [37, 38, 39, 40, 41, 42]. Although this case will not be dealt in this
+paper, we intend to use the insights gained here to model the neural case in a future work, taking advantage of the vast
+neuronal behaviors found in the KTz model. 2
+         Cardiac reentry modeled by spatiotemporal chaos in a coupled map lattice
+
+Despite the simplicity of the KTz model, we generate a bifurcation diagram of the action potential duration (APD)
+similar to the biophysically detailed model and create an analogous simulations of reentry to the ones with reaction-
+diffusion models with conductance-based equations. ",q-bio.TO,C,-0.077065125,-0.63855433,0.5285053
+http://arxiv.org/pdf/2202.12406v2,Cardiac Reentry Modeled by Spatiotemporal Chaos in a Coupled Map Lattice,"Another goal in generalizing studies
+about the genesis of cardiac spirals is the modeling of spiral waves in the brain, a very little understood phenomenon
+the appears to be related to seizures and epilepsy [37, 38, 39, 40, 41, 42]. Although this case will not be dealt in this
+paper, we intend to use the insights gained here to model the neural case in a future work, taking advantage of the vast
+neuronal behaviors found in the KTz model. 2
+         Cardiac reentry modeled by spatiotemporal chaos in a coupled map lattice
+
+Despite the simplicity of the KTz model, we generate a bifurcation diagram of the action potential duration (APD)
+similar to the biophysically detailed model and create an analogous simulations of reentry to the ones with reaction-
+diffusion models with conductance-based equations. ",q-bio.TO,C,-0.077065125,-0.63855433,0.5285053
+http://arxiv.org/pdf/2203.11753v1,Modelling mechanically dominated vasculature development,"Recognising that many alternatives
+are possible, different behaviours may be readily implemented in place of this simple choice in the provided
+implementation, such as having the parent agent proceed unperturbed by the process of division. This also
+includes the clear potential for treating θsplit as an agent-speciﬁc quantity or a random variable, which may
+contribute a further source of heterogeneity in future work. Representing the opposite phenomenon to splitting and termed anastomoses in the context of vasculature,
+the merging or collision of agents, either with other agents or laid trails, is necessary to generate closed
+loops in planar vasculature, with tree-like networks otherwise being the only possibility. ",q-bio.TO,C,-0.115150385,-0.28974634,-0.27590287
+http://arxiv.org/pdf/2203.14967v1,The vagus nerve regulates immunometabolic homeostasis in the ovine fetus near term: impact on terminal ileum,"Effects of vagus nerve manipulation on fetal systemic arterial glucose and insulin levels
+For glucose, we found a treatment effect for both Vx+LPS400 and Vx+LPS800 (Table 1). Since there was no significant
+difference between Vx+LPS400 and Vx+LPS800 insulin or glucose values at the respective time points, we combined
+them into one Vx+LPS group for further analysis in this subsection: there was only one positive pronounced effect for
+treatment in the Vx+LPS group corresponding to a ~30% rise in glucose values throughout the experiment in this group
+(Fig. 3). ",q-bio.TO,B_centroid,0.8813243,-0.02611248,-0.08385902
+http://arxiv.org/pdf/2203.14967v2,The vagus nerve regulates immunometabolic homeostasis in the ovine fetus near term: impact on terminal ileum,"Effects of vagus nerve manipulation on fetal systemic arterial glucose and insulin levels
+
+For glucose, we found a treatment effect for both Vx+LPS400 and Vx+LPS800 (Table 1). Since there was no significant
+difference between Vx+LPS400 and Vx+LPS800 insulin or glucose values at the respective time points, we combined them
+into one Vx+LPS group for further analysis in this subsection: there was only one positive pronounced effect for treatment
+in the Vx+LPS group corresponding to a ~30% rise in glucose values throughout the experiment in this group (Fig. 3). ",q-bio.TO,B,0.8813243,-0.02611248,-0.08385902
+http://arxiv.org/pdf/2203.14967v3,The vagus nerve regulates immunometabolic homeostasis in the ovine fetus near term: impact on terminal ileum,"Effects of vagus nerve manipulation on fetal systemic arterial glucose and insulin levels
+For glucose, we found a treatment effect for both Vx+LPS400 and Vx+LPS800 (Table 1). Since there was no significant
+difference between Vx+LPS400 and Vx+LPS800 insulin or glucose values at the respective time points, we combined them
+into one Vx+LPS group for further analysis in this subsection: there was only one positive pronounced effect for treatment
+in the Vx+LPS group (p<0.001) corresponding to a ~30% rise in glucose values throughout the experiment in this group
+(Fig. 3). ",q-bio.TO,B,0.87878954,-0.027748546,-0.08733767
+http://arxiv.org/pdf/2205.09285v2,Leveraging mid-infrared spectroscopic imaging and deep learning for tissue subtype classification in ovarian cancer,"performance. We will explore this optimization and the effects of
+improved spatial resolution on identifying other tissue subtypes
+in future work involving multi-class segmentation. To our knowledge, this is the ﬁrst large scale analysis of ovar-
+
+                                                                      JournalName,[year],[vol. ",q-bio.TO,C,-0.17908147,0.097996384,-0.40592632
+http://arxiv.org/pdf/2206.03454v1,Current status of antihistamines repurposing for infectious diseases,"table 2) [72]. The inhibition of fungal growth was evaluated in infected RPMI 1640 medium using time-kill
+assays, while additional studies encompassed the cytotoxicity to mammalian cells and the
+capacity of drug combinations to disrupt biofilm (sessile) formation in 96-well plates. They found
+synergistic activity in several combinations of azoles with TERF (n=41) or EBA (n=14). ",q-bio.TO,A,-0.12691945,0.11208364,-0.07610922
+http://arxiv.org/pdf/2206.04989v1,Two-phase model of compressive stress induced on a surrounding hyperelastic medium by an expanding tumour,"Numerical solutions are presented in Section 3
+In Section 4 we derive a simpliﬁed version of the model which we use to investigate how the
+mechanical properties of the hydrogel impact the tumour’s growth dynamics and, in particular,
+to identify a critical value of the hydrogel stiﬀness above which tumour elimination is predicted
+and below which the tumour evolves to a non-trivial steady state. The paper concludes in
+Section 5 where we discuss our ﬁndings and identify possible directions for future work. 2 Model development
+
+We view the tumour and hydrogel as two continuous materials, separated by a dynamic inter-
+face, referred to as the tumour boundary (see Figure 1). ",q-bio.TO,C,-0.43853247,-0.03245084,-0.06843842
+http://arxiv.org/pdf/2206.13818v1,Towards a minimal admissible model of solid tumour spheroid growth,"The Greenspan-inspired
+model used in Figure 1.1, described in subsection 3.1, and labelled ‘1’ in this table robustly generates
+plausible tumour growth curves and possesses a stable steady state of tumour size, but it does not in-
+clude mechanical feedback. Without further analysis, it is unclear if the model would yield physically
+admissible stresses or realistic residual stress proﬁles when cast in a solid mechanical framework. Model  Mechanical   Guaranteed    Canonical      Bounded         Plausible
+   1   feedback on  steady state    growth      solid stress     residual
+                                    curves                    stress proﬁles
+          growth      of radius                       –
+                                                                     –
+
+     2. ",q-bio.TO,C,-0.42057127,-0.10088626,-0.17155707
+http://arxiv.org/pdf/2207.03105v2,Uncertainty-Aware Self-supervised Neural Network for Liver $T_{1ρ}$ Mapping with Relaxation Constraint,"Another limitation is that we do not
+separate the contributions of different sources of data imperfections in modelling the
+uncertainty since these data imperfections are coupled together in acquired images. It is worthy
+of further study to understand the contribution from each source on data uncertainty. In this
+work, we manually draw ROIs to perform the analysis. ",q-bio.TO,C,-0.2215459,-0.042370614,-0.2732758
+http://arxiv.org/pdf/2207.13212v1,"The History, Current Status, Benefits, and Challenges of 3D Printed Organs","If
+they already had an engineered organ implanted, it is nearly impossible to undo the
+transplantation or replace it [8]. To improve these circumstances, more attention and
+development are needed, but the current inadequate tissue preservation system
+restricts further research and investigation. Despite the challenges, the industry is
+valued at $1.82 billion as of 2022 [5]. ",q-bio.TO,A_centroid,-0.091974065,0.70208126,0.3768953
+http://arxiv.org/pdf/2207.13212v2,"The History, Current Status, Benefits, and Challenges of 3D Printed Organs","If
+they already had an engineered organ implanted, it is nearly impossible to undo the
+transplantation or replace it [8]. To improve these circumstances, more attention and
+development are needed, but the current inadequate tissue preservation system
+restricts further research and investigation. Despite the challenges, the industry is
+valued at $1.82 billion as of 2022 [5]. ",q-bio.TO,A,-0.091974065,0.70208126,0.3768953
+http://arxiv.org/pdf/2207.13212v3,"The History, Current Status, Benefits, and Challenges of 3D Printed Organs","While the technology itself sounds plausible, real-life applications have
+been slowly progressed, and it faces several challenges listed above. The most crucial part of
+three-dimensional printing is the need to be further stabilized on using calcium ions during long-
+term in vitro cultures.17 It also needs additional research to ensure that it can be clinically
+approachable. We have previously seen how this field of technology will bring together modern science
+and technology, opening a diversity of advantages to humans.16 Most importantly, it will enable
+patients to receive organ transplantations safe from any types of rejection, leading to increased
+successful surgeries. ",q-bio.TO,A,-0.079283,0.5141153,0.19880816
+http://arxiv.org/pdf/2208.11662v1,"On the topological linkage of intertwined, spatial networks","Note,            detected linkage behavior, as well as the generation of
+                                                                 artifacts (say the creation of multiple connected compo-
+that one may need to call it mutual inductance rate actu-        nents, and broken loops). We shall focus here on the
+                                                                 largest connected component and prune it (remove all
+ally for the analogy’s sake, as it would need to correspond      leaves) before further analysis. In Figure 7 we display
+                                                                 the results for zonation diﬀerentiated linkage. ",q-bio.TO,C,-0.039909665,-0.23769233,-0.2812864
+http://arxiv.org/pdf/2208.11963v1,"SCN 1A /Na V 1.1 channelopathies: Mechanisms in expression systems, animal models, and human iPSC models","Hence, this work introduces the interesting possibility that patient-derived neurons may
+
+                                                                 16
+provide an in vitro system exploitable to predict phenotype severity of SCN1A-positive patients. However, additional studies
+modeling more Nav1.1 mutations are necessary in order to strengthen this direct relationship. Dissecting NaV1.1 function in iPSC-derived cardiomyocytes from Dravet patients. ",q-bio.TO,A,0.05550442,-0.09086114,0.3351962
+http://arxiv.org/pdf/2208.13317v1,Modeling the Mitral Valve,"The
+ﬁrst shows ﬁlling, the second closing, and the third the nearly closed, slightly leaky
+position. 177
+Chapter 6
+
+Conclusions and future work
+
+Using a design-based elasticity approach, we have built a model mitral valve. The
+model incorporates many anatomical details. ",q-bio.TO,C,-0.08481047,-0.082188204,-0.041269757
+http://arxiv.org/pdf/2208.13484v1,Pasture Intake Protects Against Commercial Diet-induced Lipopolysaccharide Production Facilitated by Gut Microbiota through Activating Intestinal Alkaline Phosphatase Enzyme in Meat Geese,"Fresh cecal chyme was collected from the
+
+                                                             3
+cecum using sterile 5-ml centrifuge tubes and then stored at –80 °C for further analysis. The
+cecal tissues were immediately removed, thoroughly washed with phosphate-buffered saline
+(PBS), stored in liquid nitrogen, and then preserved at –80 °C for further analysis. Intestinal
+segments such as cecal tissues were fixed by immersion in 10% buffer neutral formalin. ",q-bio.TO,A,0.026272435,0.34197086,-0.27359563

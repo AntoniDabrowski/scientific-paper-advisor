@@ -1,0 +1,175 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.05906v1,Profitable Strategy Design by Using Deep Reinforcement Learning for Trades on Cryptocurrency Markets,"As we can see, there seems a predictability
+potential in a highly complex system like financ ia l
+markets by means of deep reinforcement learning. For future works, our suggestions include:
+
+    1. Combining fundamental information with
+         technicals to improve the accuracy
+
+    2. ",q-fin.TR,A,0.1985915,-0.3642282,-0.113700405
+http://arxiv.org/pdf/2201.10173v1,Modeling bid and ask price dynamics with an extended Hawkes process and its empirical applications for high-frequency stock market data,"This
+is beyond our scope. Instead we focus on describing the activities at the ultra-high-frequency
+level, so the extension to multiple kernels is left as a future work. IBM, NBBO, Jan 03, 2018                                                         MCD, NBBO, Jan 03, 2018
+
+                                                                                                      6
+
+                        6
+
+                                                                                                      4
+
+                        4
+
+                        2                                                                             2
+
+                        0                                                                             0
+
+                           0   1  2  3                   4    5                                             0     1  2           3          4           5
+
+                                  Theoretical quantiles                                                              Theoretical quantiles
+
+                                  (a) IBM                                                                            (b) MCD
+
+                                  Figure 13: Q-Q plot of residual process of our model
+
+5.3.2 Basic results
+
+    This section reports the basic results obtained by the NBBO. ",q-fin.TR,C,-0.009195146,0.36561808,0.4844964
+http://arxiv.org/pdf/2202.07478v1,Rigorous multi-asset optimal execution with Bayesian learning of the drift,"3.3 The case of a Gaussian prior and quadratic costs
+
+In what follows, we consider a Gaussian prior on the drifts, such that the dynamics of the prices S in the appropriate
+ﬁltration is given by (6) and (9). In order to further study (19), we introduce a second ansatz and now look for a
+solution θ of the form
+
+                                                                             8
+θ (t, q, S) = a (t) + 1 G(t, S)⊺b (t) G(t, S) + G(t, S)⊺c (t) q + 1 q⊺d (t) q + G(t, S)⊺e(t) + q⊺f (t),   (21)
+                   2                                                           2
+
+where a(t) ∈ R, b(t) ∈ Sd(R), c(t) ∈ Md(R), d(t) ∈ Sd(R), e(t) ∈ Rd, and f (t) ∈ Rd.9 The interest in this ansatz is
+justiﬁed in the following proposition:
+
+Proposition 6. Let τ < T . ",q-fin.TR,C,0.054027956,0.44087458,0.04552993
+http://arxiv.org/pdf/2203.11352v1,A General Framework for Impermanent Loss in Automated Market Makers,"An example of this sort of rescaling
+transformation can be found in the Curve V2 whitepaper [Ego21] and we believe that this mechanism also
+shifts Curve V2’s impermanent loss proﬁle to a new proﬁle that is closer to having ERLI. We will work to
+quantify this in future work, and more generally, we are interested in exploring how to extend our framework
+to dynamic AMMs. 8 Acknowledgements
+
+    The authors would like to thank Jamie Irvine for several interesting conversations and for his insight
+regarding a critical lemma in this paper. ",q-fin.TR,A,0.16199471,0.33023703,0.27688712
+http://arxiv.org/pdf/2204.11107v1,Debt-Financed Collateral and Stability Risks in the DeFi Ecosystem,"The Journal of Finance 147, 2 (June 1992), 427–465. sis could be extended and improved through future work in two                         [14] FSB Staff. 2013. ",q-fin.TR,B,-0.20590946,-0.15244856,0.5207587
+http://arxiv.org/pdf/2204.11107v2,Debt-Financed Collateral and Stability Risks in the DeFi Ecosystem,"1–16, December 2013.
+algorithm that grouped Ethereum accounts into user groups,
+and then classiﬁed debt balances across these user groups. Our     [13] FSB-Staff, “Crypto-assets: Work underway, regulatory approaches and
+analysis could be extended and improved through future work              potential gaps,” Financial Stability Board, Policy Documents, May 2019.
+in two primary ways:
+                                                                   [14] FSB Staff, “Decentralised ﬁnancial technologies: Report on ﬁnancial
+   1) Our “ﬁrst-out” heuristic was chosen with time and                  stability, regulatory and governance implications,” Financial Stability
+       technical limitations in mind. Additional analyses could          Board, Policy Documents, June 2019.
+       undertake the resource-intensive task of estimating user
+       balances at every point in time, giving a more accurate     [15] FSB-Staff, “Regulation, Supervision and Oversight of “Global Sta-
+       picture of user balances during a given period. ",q-fin.TR,B,-0.2556098,-0.365895,0.5030359
+http://arxiv.org/pdf/2205.00494v1,Transient impact from the Nash equilibrium of a permanent market impact game,"An interesting question is to analyze whether the discretization of
+this diﬀerent model could be led back to one of the approaches we have analyzed, where
+we might expect to solve a discretization of a Fredholm integral equation. However, this
+further aspect is beyond the scope of this work and we leave it for further research and
+study. References
+
+Almgren, R. and Chriss, N. (2001). ",q-fin.TR,C,0.00050798245,0.51019335,0.13351628
+http://arxiv.org/pdf/2205.08936v1,Market Making via Reinforcement Learning in China Commodity Market,"This
+       can not only reduce the state dimension but separate the prediction task so
+       the evaluation and optimization of the predictiveness can be more focused. We
+       leave it to future work since this study aims at verifying the feasibility of the
+       RL framework in marketing making. 5. ",q-fin.TR,A,0.51281685,-0.15691829,-0.22231567
+http://arxiv.org/pdf/2205.08936v2,Market Making via Reinforcement Learning in China Commodity Market,"This can not only reduce the state dimension but separate
+       the prediction task so the evaluation and optimization of the predictiveness
+       can be more focused. We leave it to future work. 5. ",q-fin.TR,A_centroid,0.7817349,0.0021444056,-0.021299578
+http://arxiv.org/pdf/2205.08936v3,Market Making via Reinforcement Learning in China Commodity Market,"This can not only reduce the state dimension but separate
+       the prediction task so the evaluation and optimization of the predictiveness
+       can be more focused. We leave it to future work. 5. ",q-fin.TR,A,0.7817349,0.0021444056,-0.021299578
+http://arxiv.org/pdf/2205.13423v1,Do price trajectory data increase the efficiency of market impact estimation?,"Although we have shown that the full price trajectory data Sfull is most eﬃcient and adding
+more price points St increases the eﬃciency, there seems to be, based on previous examples, a “diminishing
+return” eﬀect to adding price points, as the increase in eﬃciency tends to decrease in each addition. However, the quantiﬁcation of the such eﬀect or the characterization of eﬃciency for n given points
+requires further research. 3.2.3 Square-root Law: A Special Case
+
+A well-known, widely-used rule-of-thumb to produce pre-trade estimate of cost is the square-root law. ",q-fin.TR,B,-0.2603654,0.0953147,-0.104858264
+http://arxiv.org/pdf/2206.05410v1,Cooperation between Independent Market Makers,"Given these results, including many market makers is not an eﬃcient way to prevent coop-
+erative outcomes. 6 Discussions and future works
+
+This paper formulates the market-making competition as a repeated matrix game. The advan-
+tage of our framework is a multi-agent setting and a ﬂexible relationship between market order
+arrivals and market liquidity. ",q-fin.TR,B,-0.30313462,-0.19793871,-0.35299683
+http://arxiv.org/pdf/2206.07132v1,Dynamics of a Binary Option Market with Exogenous Information and Price Sensitivity,"In this case, since we have shown M -
+array option markets describe a recurrent neural network, investigating how to fit exogenous
+parameters defining the functions φi to build a classifier is an interesting and open question,
+especially considering the recurrent aspect of the neural structure. Finally further analysis
+in the case when the exogenous signal x(t) is non-constant may provide further insight into
+the behavior of these simple options markets. Acknowledgement
+
+   Portions of this work were sponsored by the DARPA SCORE Program under Cooperative
+Agreement W911NF-19-2-0272. ",q-fin.TR,B,0.051301867,-0.08980875,-0.24580424
+http://arxiv.org/pdf/2206.10419v1,Multivariate Quadratic Hawkes Processes -- Part I: Theoretical Analysis,"In fact, as in [18], we ﬁnd that co-jumps (i.e. si-    more reﬁned investigation, in the spirit of [19], and is
+multaneous jumps in the price of diﬀerent assets within      left for future work. In [18], the authors show that multivariate linear
+                                                             Hawkes models with independent realisations of the
+                                                             Poisson process do not satisfactorily reproduce co-
+                                                                                                                        5
+
+jumps. ",q-fin.TR,C_centroid,-0.31202048,0.45691568,-0.32834646
+http://arxiv.org/pdf/2206.10419v2,Multivariate Quadratic Hawkes Processes -- Part I: Theoretical Analysis,"In fact, as in [18], we ﬁnd that co-jumps (i.e. si-    more reﬁned investigation, in the spirit of [19], and is
+multaneous jumps in the price of diﬀerent assets within      left for future work. In [18], the authors show that multivariate linear
+                                                             Hawkes models with independent realisations of the
+                                                             Poisson process do not satisfactorily reproduce co-
+                                                                                                                        5
+
+jumps. ",q-fin.TR,C,-0.31202048,0.45691568,-0.32834646
+http://arxiv.org/pdf/2207.03352v4,Market Making with Scaled Beta Policies,"strategies substantially. This is an easy addition to the code-base
+                                                                                   and will be included in future work. Market Making with Scaled Beta Policies                                                                                       ICAIF ’22, November 2–4, 2022, New York, NY, USA
+
+4 CONCLUSIONS AND FURTHER WORK                                                         [6] Álvaro Cartea, Ryan Donnelly, and Sebastian Jaimungal. ",q-fin.TR,B_centroid,-0.1916162,-0.3177635,-0.026995797
+http://arxiv.org/pdf/2208.00181v1,How Covid mobility restrictions modified the population of investors in Italian stock markets,"Section 6
+studies whether the lockdown and more generally the Covid pandemic has modiﬁed
+the composition of the population of traders of Italian stocks. Finally, in Section 7
+some conclusions are drawn as well as suggestions for some further research. 2 Covid-19 in Italy and its management
+
+As it is well known, Italy was the ﬁrst western country to be severely hit by the Covid-
+19 pandemic and to put in place localized and nationwide restrictions. ",q-fin.TR,B,-0.34567362,-0.19177377,0.21269238
+http://arxiv.org/pdf/2208.07165v1,Deep Reinforcement Learning Approach for Trading Automation in The Stock Market,"We split the data set into two periods, the ﬁrst      by investors. The approach can be improved in future work
+period is to train the agent, the second is used to test the      by having more computational power to run more experiences
+performance of the agent on unseen data (Fig. 5). ",q-fin.TR,B,-0.027878363,-0.38727665,-0.08332731
+http://arxiv.org/pdf/2208.07168v1,AI for trading strategies,"Surprisingly, the ARMA-GARCH model made the best decisions at the 99% level
+but performed worse on average during periods when the market was ""calmer."" One direction for future work will be
+the volatility of stock time series. One difﬁculty in predicting stock markets arises from their non-stationary behavior. ",q-fin.TR,C,-0.12538078,-0.16920638,-0.062343746
+http://arxiv.org/pdf/2208.07232v1,Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction,"Besides, combining two correlation objectives together
+cannot bring further performance gain, indicating that the knowledge in the two
+correlations can be overlapped to some extent. We leave the exploration towards
+better incorporating diﬀerent correlation objectives as future work. 4 Analysis
+
+In this section, we conduct experiments for probing the property of our pro-
+posed framework, by exploring the interplay between the distillation objectives,
+investigating the performance gain under low-resource settings and examining
+the pair-wise relationship with diﬀerent distillation methods. ",q-fin.TR,A,0.21388301,-0.0082244985,0.10029341
+http://arxiv.org/pdf/2208.10434v1,A simple learning agent interacting with an agent-based market model,"This rule
+                                                                 should be changed to give greater heterogeneity to the
+7.3. Limitations and future work                                 agents so that they don’t submit similar orders at simi-
+                                                                 lar times, and they should be programmed to change their
+    The model of Jericevich et al. [34] faced several chal-      orders at a quicker rate. ",q-fin.TR,B,-0.017757284,-0.045863748,0.108952686
+http://arxiv.org/pdf/2208.10434v2,A simple learning agent interacting with an agent-based market model,"7.3. Limitations and future work                                       Looking at the empirical evidence [9] we could generate
+                                                                   price placement as a power-law, and then generate the vol-
+    Here we faced many of the same challenges as those             ume conditional on the price. The conditional distribution
+faced in the model of Jericevich et al. ",q-fin.TR,C,-0.24435252,0.11331637,-0.14696974
+http://arxiv.org/pdf/2208.10434v3,A simple learning agent interacting with an agent-based market model,"A simple Q-learning RL agent needs to observe the state of the environment after taking an action and the lag would
+mean that the eﬀect of their action would only be observed after a large number of iterations, and in the worst case,
+the eﬀect of their actions may not be observed by the agent if the simulation has ended before the update is received. Additionally, the software is designed in such a way that adding more RL agents to the simulation is straightforward in
+order to support future work that will use this software to analyse what eﬀects there may be when adding additional
+learning agents to the model. The current setup means that the market-data listener and the updating of the LOB are not in the same task. ",q-fin.TR,A,0.1607829,-0.054982197,-0.13147368
+http://arxiv.org/pdf/2208.13654v1,High-frequency financial market simulation and flash crash scenarios analysis: an agent-based modelling approach,"Section 5 and Section 6 provide simulation and analysis for the 2010 Flash Crash scenario and mini
+
+                                                                      3
+                                                                                                                       AUGUST 30, 2022
+
+ﬂash crash scenarios, respectively, in the framework of the proposed agent-based ﬁnancial market simulation. Section 7
+concludes and gives directions for future work. 2 Background and Related Work
+
+2.1 Agent-based Financial Market simulation
+
+   An agent-based model (ABM) is a computational simulation driven by the individual decisions of programmed agents
+(Todd et al. ",q-fin.TR,B,-0.30646223,-0.27134612,-0.19608495

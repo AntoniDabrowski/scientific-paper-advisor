@@ -1,0 +1,112 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2202.00662v1,Systemic Risk Models for Disjoint and Overlapping Groups with Equilibrium Strategies,"It is impossible for individuals to stay with correlated
+and uncorrelated individuals at the same time except for the trivial case when all individuals are
+together. 3 Systemic Risk Measure on Overlapping Groups
+
+To further study the systemic risk measure under exponential utility functions, we generalize the
+
+systemic risk allocation for N individuals on disjoint groups in section 2 to the risk allocation for
+
+them on overlapping groups where they can choose multiple groups to allocate their risks. Assuming
+
+there are at most h groups, the weighted risk factors for the nth-individual assigned to multiple
+
+groups are labelled as wn,kXn, k = 1, . ",q-fin.MF,B,0.22418205,-0.271838,-0.35815167
+http://arxiv.org/pdf/2202.07378v1,Computing Black Scholes with Uncertain Volatility-A Machine Learning Approach,"Meanwhile, the mean computation time was decreased by a
+factor of 16.3. A topic that is still open to further research is the convergence of the truncated gPC expansion of the stochastic solution
+to the true solution as the truncation number goes to inﬁnity. If convergence is assumed to hold, it is also possible to
+solve the deterministic system of PDEs for the gPC coefﬁcients with a different numerical technique and apply the
+Bi-Fidelity approach to this solution. ",q-fin.MF,A,-0.02703898,0.1925039,-0.06502231
+http://arxiv.org/pdf/2202.10413v2,Weak approximations and VIX option price expansions in forward variance curve models,"20
+    Theorem 3.1 could be extended to non-smooth payoﬀs, using similar arguments to the proof
+of Theorem 2.2. Leaving this rather long analysis for future work, we prove the current statement
+of Theorem 3.1 for smooth payoﬀs in section 5, while still providing numerical tests for futures,
+call and put payoﬀs in the next section. 3.2 Numerical tests for option price formulas and implied volatilities
+
+Reference prices in the mixed models are still computed as described in Remark 5: in the mixed
+rough Bergomi model, we discretize the VIX2T,j in (3.2) for j ∈ {1, 2} with a rectangle scheme
+and simulate exactly the discretized variable, while in the mixed standard Bergomi model, we
+exploit the Markovian representation in Remark 5 for each term VIX2T,j, j ∈ {1, 2}, and apply
+a two-dimensional deterministic quadrature with respect to the parameter u and to the space
+dimension. ",q-fin.MF,A,-0.34708792,-0.12598115,-0.2686475
+http://arxiv.org/pdf/2202.10414v1,Optimal Execution with Multiplicative Price Impact and Incomplete Information on the Return,"We then solve
+
+the optimal stopping problem by relying on techniques from free-boundary theory (as illustrated
+
+in the monography by Peskir and Shiryaev [53]) and ﬁrst show that the optimal stopping rule is
+
+characterized through a belief-dependent free boundary a(π) for π ∈ (0, 1). However, the coupled dynamics of the underlying processes X0 and Π, as well as the fact that they
+
+are driven by the same Brownian motion, makes a further study of the free boundary and the value
+
+function v not feasible. It is for that reason we proceed by deriving two equivalent representations of
+
+the optimal stopping problem, which allow for a thorough analysis. ",q-fin.MF,A,-0.1789988,0.72241694,0.06050907
+http://arxiv.org/pdf/2202.10414v2,Optimal Execution with Multiplicative Price Impact and Incomplete Information on the Return,"We then solve the optimal stopping
+
+problem by relying on techniques from free-boundary theory (as illustrated in the monography by
+
+Peskir and Shiryaev [58]) and ﬁrst show that the optimal stopping rule is characterized through a
+
+belief-dependent free boundary a(π) for π ∈ (0, 1). However, the coupled dynamics of the underlying processes X0 and Π, as well as the fact that they
+
+are driven by the same Brownian motion, makes a further study of the free boundary and the value
+
+function v not feasible. It is for that reason we proceed by deriving two equivalent representations of
+
+the optimal stopping problem, which allow for a thorough analysis. ",q-fin.MF,A_centroid,-0.17810825,0.7214839,0.06067919
+http://arxiv.org/pdf/2203.05545v1,Optimal times to buy and sell a home,"Additionally, in the
+case of CIR interest rates, we have analyzed the expected time the investor waits before buying as well as the
+expected time the investor waits before selling a home, assuming he follows the optimal buying and selling
+strategies. In future work, we plan to extend our results to include a scenario where the investor repeatedly
+buys and sells homes. 13
+A Expressions for u+ and u–
+
+We solve (5.3) following Carmona and León (2007). ",q-fin.MF,B_centroid,0.71802354,-0.047502603,0.35460722
+http://arxiv.org/pdf/2203.05545v2,Optimal times to buy and sell a home,"Additionally, in the
+case of CIR interest rates, we have analyzed the expected time the investor waits before buying as well as the
+expected time the investor waits before selling a home, assuming he follows the optimal buying and selling
+strategies. In future work, we plan to extend our results to include a scenario where the investor repeatedly
+buys and sells homes. 13
+A Expressions for u+ and u–
+
+We solve (5.3) following Carmona and León (2007). ",q-fin.MF,B,0.71802354,-0.047502603,0.35460722
+http://arxiv.org/pdf/2203.06865v1,Calibration of Derivative Pricing Models: a Multi-Agent Reinforcement Learning Perspective,"and the fact their
+quadratic rough Heston model is written in explicit form. We note the similarity of the VIX case with our Bermudan option example X := max{(St1 −
+k1)+, Et1 [(St2 − k2)+]}, since both are nonlinear functions of i) a Ft1 −measurable term and ii) the
+conditional Ft1 -expectation of a Ft2 −measurable term:
+
+XV IX := c ln St − Et ln St − k + , c := √2(t2 − t1)− 12112
+
+We pose as an open problem, and postpone to future work, to learn the joint SPX-VIX calibration
+problem using RL. 8
+Figure 1: continuum of learnt vanilla smiles from t1 = 21 days to t2 = 51 days. ",q-fin.MF,C_centroid,-0.5273925,-0.36038178,0.44556552
+http://arxiv.org/pdf/2203.06865v2,Calibration of Derivative Pricing Models: a Multi-Agent Reinforcement Learning Perspective,"and the fact their
+quadratic rough Heston model is written in explicit form. We note the similarity of the VIX case with our Bermudan option example X := max{(St1 −
+k1)+, Et1 [(St2 − k2)+]}, since both are nonlinear functions of i) a Ft1 −measurable term and ii) the
+conditional Ft1 -expectation of a Ft2 −measurable term:
+
+XV IX := c ln St − Et ln St − k + , c := √2(t2 − t1)− 12112
+
+We pose as an open problem, and postpone to future work, to learn the joint SPX-VIX calibration
+problem using RL. 8
+Figure 1: continuum of learnt vanilla smiles from t1 = 21 days to t2 = 51 days. ",q-fin.MF,C,-0.5273925,-0.36038178,0.44556552
+http://arxiv.org/pdf/2204.12250v1,Martingale Schrödinger Bridges and Optimal Semistatic Portfolios,"For the present work, we have not been able to transfer as many of those
+techniques. Regarding potential future work, it seems likely that our line of argument can
+be extended to show the existence of optimal portfolios for more general utility
+functions. Generalizations in the structure of the market, for instance also adding
+options with maturity t = 1, are relatively straightforward in the general parts
+whereas replacing our argument for the integrability of the option is nontrivial. ",q-fin.MF,A,-0.0058820467,0.020110227,-0.32698584
+http://arxiv.org/pdf/2206.03742v1,Market-to-book Ratio in Stochastic Portfolio Theory,"It also
+                                          highlights the historic excess returns of small-cap stocks over big-cap stocks, and of value stocks
+                                          (with high book-to-market ratios) over growth stocks (with low book-to-market ratios). Following the work on the three-factor model, there has been additional research by the same
+                                          authors regarding the value factor, i.e., the book-to-market ratio, in the direction of explaining
+                                          the expected returns of stocks. The evolution of book-to-market ratio in terms of past changes
+                                          in book equity and price, is shown to contain independent information about expected cashﬂows
+                                          that can enhance estimates of expected returns Fama and French (2008). ",q-fin.MF,B,0.25689647,-0.2277365,-0.31992936
+http://arxiv.org/pdf/2207.13573v1,Bartlett's Delta revisited: Variance-optimal hedging in the lognormal SABR and in the rough Bergomi model,"The general results of Section 2 on variance-optimal hedging in the ‘dynamic implied-volatilty’
+setting can likely be applied to other models beyond the lognormal SABR/rough Bergomi model,
+whenever a tractable expression for the evolution of implied volatility is available. In particular,
+in future work, we aim to generalize results to the SABR/rough Bergomi model with variable
+β, shedding further light on the stability of Bartlett’s Delta with respect to variations in β, as
+discussed in [HL17]. Figure 3: Densities of pathwise hedging error in the SABR model. ",q-fin.MF,A,-0.12522452,-0.21519074,-0.38279688

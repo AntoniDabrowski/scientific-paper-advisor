@@ -1,0 +1,425 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00744v1,WHOCARES: data-driven WHOle-brain CArdiac signal REgression from highly accelerated simultaneous multi-Slice fMRI acquisitions,"In contrast, the performances of Cardio-RETROICOR are pos-
+itively correlated with BPM irrespective of T R (Figure 4), and understanding
+the reason of such behaviour (and possibly its resolution) is not straightforward. Regarding future work: research should be oriented towards the extension of
+
+                                                  23
+WHOCARES to task-based fMRI, where physiological processes might be mod-
+ulated by the presence of the experimental design (Glasser et al. (2018)) and
+vice-versa. ",physics.med-ph,C,0.11047931,0.257411,0.16639788
+http://arxiv.org/pdf/2201.02278v1,"FLASH Depletion of Oxygen in Tumor and Normal Tissue, and its Likely Consequences","FLASH
+oxygen depletion in subcutaneous tumors in mice was approximately 50% of that observed in
+normal subcutaneous tissue. Although the authors noted the relatively low rate of oxygen depletion
+in tumor may have been due to the presence of necrotic areas within the sampled volume, this and
+related studies warrant substantial additional investigation. If confirmed, a factor of 2 greater
+oxygen depletion rate in normal vs. tumor tissue could result in significant normal tissue protection. ",physics.med-ph,C,0.15048285,0.16531166,-0.33894956
+http://arxiv.org/pdf/2201.06058v1,Perspective: magnetic nanoparticles in theranostic applications,"To
+nanoparticle dynamics. explore the full extent of improvements that can be made us-
+                                                                  ing such aproaches certainly requires additional research us-
+   An approach, similar to the physics-informed neural net-       ing actual measurements and more complex DL techniques. works described above, but only working on a single measure-
+ment, i.e. ",physics.med-ph,B,0.112468116,-0.20141223,0.16501495
+http://arxiv.org/pdf/2201.12815v1,Parametric modelling of needle-tissue interaction using finite element analysis,"In this work, the tissue is assumed to be hyper-elastic material and the material
+property of the tissue are taken from different literature already published. In future work
+inclusion experimental data of tissue could be taken into account. As the tissue properties
+varied from person to person, inclusion of non-linear visco-elastic and hyper-elastic nature of
+the tissue would provide more realistic results. ",physics.med-ph,C,0.04203453,0.33648837,-0.25056344
+http://arxiv.org/pdf/2202.00496v1,What Does FEXI Measure?,"Magnetic resonance
+                                                                      in medicine, 66(2):356–365, 2011. Note that the presently used synthetic media are too
+loose models of biological cells, which suggest an obvi-         [5] Dominik Ludwig, Frederik Bernd Laun, Mark Edward
+ous direction of future work. The discussed geometrical               Ladd, Peter Bachert, and Tristan Anselm Kuder. ",physics.med-ph,C,0.046996325,-0.15556791,-0.16090128
+http://arxiv.org/pdf/2202.00496v2,What Does FEXI Measure?,"of Dapp(tm) for long tm. Note that the presently used synthetic media are too
+           DISCUSSION AND CONCLUSIONS                              loose models of biological cells, which suggests an ob-
+                                                                   vious direction of future work.However, it is not easy
+In this study, we investigated the imprint of diﬀusion-            to refrain from speculative projecting the present results
+mediated exchange on FEXI. We have demonstrated the                on measurements in brain gray matter. ",physics.med-ph,A,0.25644952,-0.13205308,-0.0015193857
+http://arxiv.org/pdf/2202.00650v1,AI-based Medical e-Diagnosis for Fast and Automatic Ventricular Volume Measurement in the Patients with Normal Pressure Hydrocephalus,"So, the automated brain
+image segmentation method is a research hotspot in recent years [16]. More importantly, The
+development of accurate, fast, and easy-to-use ventricular volume segmentation methods is of great
+significance for further research and evaluation of the standardized use of ventricular volume in NPH
+patients [27]. The automatic ventricle segmentation method can overcome the limitations of the manual
+segmentation method [10]. ",physics.med-ph,C,-0.38412628,0.103155956,-0.059734635
+http://arxiv.org/pdf/2202.00869v1,Towards skin-acetone monitors with selective sensitivity: dynamics of PANI-CA films,"For this computer-based analysis and for the rest of the
+manuscript, only 4 out of the 8 strips were analyzed: specimens 1 through 4, collected from films 1 and
+2, exhibited high degrees of non-ideal deformation, twisting laterally out of the video image plane. We
+ignored films exhibiting such out of plane deformation in this study; we will examine them in a future
+study or engineer forming processes to prevent them in future work. 5/15
+   Videos were first cropped and magnified to focus on the filament, cropping out inconsequential
+visual details such as the flask holding the solution. ",physics.med-ph,C,-0.03565437,-0.028293978,-0.15266216
+http://arxiv.org/pdf/2202.01350v1,Cerebral oxygen extraction fraction MRI: techniques and applications,"ASL is known to suffer from low SNR even for
+basal perfusion measurement. The reliability of quantifying changes in CBF due to hypercapnia or
+hyperoxia requires further examination. Additionally, ASL signal may have confounding factors
+such as bolus arrival time, T2∗, and labeling efficiency, which are also expected to alter during the
+physiological challenges.121-124
+
+3.6. ",physics.med-ph,A_centroid,0.28453752,0.20445696,0.12297751
+http://arxiv.org/pdf/2202.02653v1,Millisecond speed deep learning based proton dose calculation with Monte Carlo accuracy,"Future work Besides the possibility to include shape, machine and beam characteristics as additional
+input tokens in the transformer, several extensions can widen its spectrum of applications, such as pre-
+dicting additional quantities, e.g., particle ﬂux, or estimating radiobiological weighted dose – potentially
+including simulating even DNA damage – typically signiﬁcantly slower than pure MC dose calculation. Alternatively, future work adapting DoTA to learn photon physics would facilitate its use in conventional
+
+                                                                   11
+radiotherapy applications or provide CT/CBCT imaging reconstruction techniques with the necessary
+speed for real-time adaptation. Most importantly, DoTA oﬀers great potential to speed up dose calcu-
+lation times in heavy ion treatments with particles such as carbon and helium sharing similar, mostly
+forward scatter physics, whose MC dose calculation often take much longer to simulate all secondary
+particles generated as the beam travels through the patient. ",physics.med-ph,C,0.118586645,-0.26450557,-0.2190361
+http://arxiv.org/pdf/2202.03014v1,US Velocimetry in Participants with Aortoiliac Occlusive Disease,"Feasibility scoring was then
+performed independently as described above. Disagreements were resolved in a
+consensus meeting, and the final score was used for further analysis. Interobserver
+agreement on the feasibility categories was calculated by using the intraclass
+correlation coefficient (SPSS Statistics 27, IBM), which was based on a mean-rating,
+absolute-agreement, two-way, mixed-effects model [16]. ",physics.med-ph,A,0.06677766,0.20462093,0.2200931
+http://arxiv.org/pdf/2202.04953v1,Evaluation of indirect damage and damage saturation effects in dose-response curves of hypofractionated radiotherapy of early-stage NSCLC and brain metastases,"Such heterogeneities
+might affect the significance of the superiority of the LQL model. 13
+Our results should stimulate further research in this area (especially for NSCLC due to the observed
+behaviour with α/β and conflicting reports on the value of this parameter), and may assist with the
+design of optimal radiotherapy treatments for NSCLC and BM, aiming at avoiding over- or under-
+treatment. Dose prescription to such tumours might be reconsidered in the light of the reported
+evidence. ",physics.med-ph,A,0.25698042,-0.024430338,-0.22728705
+http://arxiv.org/pdf/2202.05267v1,On Real-time Image Reconstruction with Neural Networks for MRI-guided Radiotherapy,"Examples of training/validation          CPU-based times here. cost training dynamics and further analysis are included
+in Supplementary Figure 1. The number of trainable parameters required to imple-
+                                                              ment AUTOMAP were signiﬁcant (Table I), reaching up
+                                                              to 2B for the fully-sampled network. ",physics.med-ph,B,-0.13622507,0.06264159,0.4985267
+http://arxiv.org/pdf/2202.05267v2,On Real-time Image Reconstruction with Neural Networks for MRI-guided Radiotherapy,"Examples of training/validation        CPU-based times here. cost training dynamics and further analysis are included
+in Supplementary Figure 1. The number of trainable parameters required to imple-
+                                                            ment AUTOMAP were signiﬁcant (Table I), reaching up
+                                                            to 2B for the fully-sampled network. ",physics.med-ph,B,-0.13622507,0.06264159,0.4985267
+http://arxiv.org/pdf/2202.06556v3,Hybrid in-beam PET- and Compton prompt-gamma imaging aimed at enhanced proton-range verification,"exploring further in this ﬁeld. It is worth to recall, however, that the Compton tech-         In future works we aim at overcoming the main limita-
+nique, despite its limitations in image resolution and de-     tion of the present study, which was the low proton-beam
+tection sensitivity, it shows the inherent advantage of be-    energy of 18 MeV, signiﬁcantly smaller than common clin-
+ing sensitive to the high-energy γ-rays that are both spa-     ical values (100-200 MeV). For this reason the beam on/oﬀ
+tially and temporally directly correlated to the Bragg peak,   lapses used in this work had to be signiﬁcantly large, of
+thus providing a more direct pristine information for ion-     several 100 s and a special target-phantom with several
+range monitoring. ",physics.med-ph,A,0.2806056,-0.3560244,-0.08617175
+http://arxiv.org/pdf/2202.06613v1,Embedded quantitative MRI T1rho mapping using non-linear primal-dual proximal splitting,"This ﬁnding is aligned with the
+ﬁndings of [16]. Testing the proposed embedded model with radial experimental data, in vivo
+data, 3D-data, and parallel imaging data are interesting future works, and our
+hypothesis is that similar results, where the embedded model outperforms the
+CS models, are to be expected. In addition, the embedded T1ρ model could
+be tested with other regularizers, such as total generalized variation [26], which
+balances between minimizing the ﬁrst and second-order diﬀerences of the signal. ",physics.med-ph,B,-0.14380121,-0.009517102,0.18500412
+http://arxiv.org/pdf/2202.07547v1,Nano-scale simulation of neuronal damage by galactic cosmic rays,"Additionally, we observed
+only minor diﬀerences between the dendritic segment hit probabilities calculated with
+GCRSim (1/τGCR = 0.014 Gy) and SimGCRSim (1/τSIM = 0.011 Gy). Whether these
+diﬀerences are signiﬁcant across multiple statistical runs and neuron geometries could
+be explored in a future work. To date, there have been very few published studies exploring the eﬀects of multi-
+ion irradiation on CNS function. ",physics.med-ph,A,0.33819535,-0.18403375,-0.05747965
+http://arxiv.org/pdf/2202.07705v1,SIRS sequence as frequency filter: A simulation and phantom study of spin-lock preparations among composite signals,"Additionally, the SIRS contrast can reconstruct the frequency components of individually measured signals. The detection limit of the sequence in realistic physiological and pathological conditions remains to be addressed
+in future works. These results indicate that the presented technique has the potential to be used for the detection
+and localization of oscillating ﬁelds with frequencies associated with speciﬁc pathologies. ",physics.med-ph,A,0.15218541,-0.032324333,0.08964947
+http://arxiv.org/pdf/2202.09421v1,Parallel inverse-problem solver for time-domain optical tomography with perfect parallel scaling,"Addition-
+activation of a brain region [18, 19, 20, 35], in the brain-      ally, we restrict the presence of tumor inclusions to regions
+imaging problem. Accordingly, in what follows the lower           slightly away from the neck boundary, so as to avoid the
+bound a (x) for a(x) in (49) is set to equal the absorp-          error ampliﬁcation associated with the existence of expo-
+tion value of the background tissue (which is assumed to          nential boundary layers [39] (a full treatment of such near-
+be known a priori), and the corresponding upper bound is          boundary imaging conﬁgurations is left for future work). set to au(x) = 1/cm, which provides a reasonable upper            Accordingly, the value of the absorption coeﬃcient in the
+constraint for the absorption values of the types of tissue       proximity of the boundary is set to the background tissue
+under consideration [36]. ",physics.med-ph,C,0.042681493,-0.12799826,-0.26898426
+http://arxiv.org/pdf/2202.13749v1,Predictive simulation of single-leg landing scenarios for ACL injury risk factors evaluation,"Also, we did
+not assess different population classes that feature varying anthropometric
+data. All these limitations can serve as the foundations for future work to
+improve our current pipeline. Nonetheless, our pipeline clearly showcased
+the promising potential of predictive simulations to evaluate different aspects
+of complicated phenomena, such as the ACL injury. ",physics.med-ph,C,-0.10142454,0.3981027,-0.1158945
+http://arxiv.org/pdf/2202.14001v1,Measurement and analysis of lobar lung deformation after a change of patient position during video-assisted thoracoscopic surgery,"This study has several limitations. First, there is a possible                    In our future work, we will focus in developing a biomechan-
+bias due to partially incorrect lobe segmentations. This may                         ical model of lung deformation for intraoperative guidance in
+be carefully considered as it is well known that the lung ﬁs-                        thoracic surgery, for which the complex deformation patterns
+sures are in many cases incomplete (Heˇrmanova´ et al., 2014),                       revealed in this study will be of great insight. ",physics.med-ph,C,-0.27238768,0.19938745,-0.31636715
+http://arxiv.org/pdf/2202.14001v2,Measurement and Analysis of Lobar Lung Deformation After a Change of Patient Position During Video-Assisted Thoracoscopic Surgery,"any lung deformation compensation strategy for intraoperative                          [6] S. Rouze´, B. de Latour, E. Fle´cher, J. Guihaire, M. Castro, R. Corre,
+guidance during VATS would require addressing the amount                                    P. Haigron, and J.-P. Verhoye, “Small pulmonary nodule localization with
+and complexity of the lung deformation induced by a change of                               cone beam computed tomography during video-assisted thoracic surgery:
+patient position. In our future work, we will focus in develop-                             a feasibility study,” vol. 22, no. ",physics.med-ph,C,-0.24964647,-0.008617092,-0.30886328
+http://arxiv.org/pdf/2203.01828v1,Automatic Non-Invasive Isolation of Respiratory Cycles,"In contrast to the literature, this
+                                                                            number is comparable, as the range of the number of individuals
+                                                                            used for testing similar tasks ranges between none reported, 4, 75,
+                                                                            and 140 participants [10]–[14]. In future work, the algorithm should
+                                                                            be evaluated on a much larger dataset. The algorithm is designed to
+                                                                            work on the thoracic RIP signal, but in theory should also work on
+                                                                            the abdominal RIP signal. ",physics.med-ph,C,-0.073675305,0.4065472,-0.0011756709
+http://arxiv.org/pdf/2203.03576v1,Domain Adaptation of Automated Treatment Planning from Computed Tomography to Magnetic Resonance,"Additionally, PTV-OAR overlap does not fully capture the geometry of the overlap
+region, such as to what degree an OAR wraps around the target. We chose this metric for its
+conceptual and implementational simplicity, but future work should focus on more sophisticated
+heuristics that better characterise the OAR’s position and geometry with respect to the target,
+such as the overlap volume histogram21. Another limitation is our use of whole-organ density overrides on the MR images to permit
+dose calculation. ",physics.med-ph,C,-0.05260279,-0.023374608,-0.20289406
+http://arxiv.org/pdf/2203.04239v1,Power laws prevail in medical ultrasound,"16
+         In any organ there is, of course, an upper and lower limit on the size of structures that might
+contribute to scattering, so that implies an upper and lower limit on the range of applicability of
+equation (1), and similarly for all of the power law parameters that are considered. These limits
+are not well characterized and require further study. For example, Herthum et al. ",physics.med-ph,C,0.2751277,0.05834911,-0.09793723
+http://arxiv.org/pdf/2203.05891v1,A Deep Learning Model with Radiomics Analysis Integration for Glioblastoma Post-Resection Survival Prediction,"In a clinical problem of GBM post-resection short-
+term/long-term survival prediction, results showed that the joint use of radiomics features, deep
+features, and patient-specific clinical features achieved a prediction accuracy of 0.745. The developed
+model possesses great potential in future works with additional data source handling before emerging
+clinical applications. References
+
+1. ",physics.med-ph,C,-0.1742531,0.12988041,-0.10532485
+http://arxiv.org/pdf/2203.06824v1,Low-dose CT reconstruction by self-supervised learning in the projection domain,"The suggested research may lead to the development of a new set
+of LDCT image denoising methods. In our future work, we will investigate the
+mechanism of artifact reduction that was observed in this research, and we will
+apply our method to other artifact reduction tasks in CT and PET scans. Acknowledgements ******
+
+References
+
+ 1. ",physics.med-ph,C,-0.11545944,-0.41850513,-0.118932895
+http://arxiv.org/pdf/2203.09048v1,Hand-held 3D Photoacoustic Imager with GPS,"Furthermore, in-vivo human wrist blood vessel
+imaging shows potential for clinical applications such as peripheral vessel visualization, and
+breast cancer detection. In the future work, fsPAT can be further optimized by employing laser with high repetition
+rate for fast imaging scanning, and multi-wavelength for functional 3D imaging e.g. blood
+oxygen saturation quantification and imaging. ",physics.med-ph,C,-0.017307768,-0.05802536,-0.12840457
+http://arxiv.org/pdf/2203.09999v1,Lens free holographic imaging for urinary tract infection screening,"These
+                                                                                                      results demonstrate that LFI is a promising technology for
+                              250 µm                              0.5                  250 µm         urine tract infection screening. In future work, we aim to
+                                                                    0                  UTI (-)        implement this technology within a ﬂow cell, directly in-line
+                                                                              UTI (-)                 with an in-dwelling catheter to enable urinalysis screening at
+                                                                                                      the bedside in real-time. Further, we aim to study variability
+Fig. ",physics.med-ph,C,-0.06892902,0.01654826,-0.012577627
+http://arxiv.org/pdf/2203.11726v1,AI-enabled Assessment of Cardiac Systolic and Diastolic Function from Echocardiography,"This paper represents an important proof-of-concept, but it has its limita-
+tions. In future work we plan to perform a more thorough validation of our
+framework using data with ground truth annotations throughout the cardiac cy-
+cle. This would enable us to compute errors in the biomarker estimates compared
+to ground truth values. ",physics.med-ph,C,0.01662548,0.3325305,0.12853874
+http://arxiv.org/pdf/2203.11726v2,AI-enabled Assessment of Cardiac Systolic and Diastolic Function from Echocardiography,"Future work will investigate strategies for dealing
+with data with lower frame rates. In addition, in future work we plan to perform
+a more thorough validation of our framework using data with ground truth an-
+notations throughout the cardiac cycle. This would enable us to compute errors
+in the biomarker estimates compared to ground truth values. ",physics.med-ph,C,-0.060175054,0.29666656,0.23485744
+http://arxiv.org/pdf/2203.15989v1,Top-level Design and Simulated Performance of the First Portable CT-MR scanner,"To            relaxation time T2(x, y, z), and spin density ρ(x, y, z), let a
+increase SNR, we employed a scab protocol with a relatively         spin-echo sequence be speciﬁed with repetition time T R and
+large number of repetitions, hence causing the long data            echo time T E, the integrated signal for a pulse with a slice
+acquisition time. Applying advanced deep reconstruction and         selection frequency f is
+processing techniques to improve image quality is beyond the
+scope of this paper, and will be our future work. We expect that    S(kx, ky) = Iw[|f − γB0(x, y, z)|]ρ(x, y, z)
+it will be highly rewarding to employ deep learning techniques
+to mitigate noise and together with super-resolution techniques                 x,y,z
+to maintain image resolution. ",physics.med-ph,B,-0.051109564,-0.43340158,0.22146818
+http://arxiv.org/pdf/2203.16442v1,Reliability and Validity of the Polar V800 Sports Watch for Estimating Vertical Jump Height,"Similar jump
+participants and at a distance of 3 meters and 0.90 meters
+high. Markers were placed on the greater trochanter, fem-        height values were observed in Polar V800 with regards to
+oral epicondyle and lateral malleolus (Tsoukos et al., 2016)
+of each subject as a reference for further analysis using the    force platform and HSC/KS (validity) in SJ and CMJ tests
+Kinovea software. The force platform, the high-speed cam-
+era and the Polar V800 measured the flight times simulta-        (p > 0.05). ",physics.med-ph,A,0.24666753,0.2827111,0.20306654
+http://arxiv.org/pdf/2204.00802v1,Virtual extrapolation technique for retracing line of response of single scattered events in positron emission tomography,"In the present work, we have ignored the problem of mirror symmetry by choosing only
+S (not Sm), because S could be a known scattering point for the simulated PET data. Intuitively, the two mirror symmetric points could be distinguished easily for a non-uniform
+phantom, which is planned for our future work. 2.5.2. ",physics.med-ph,C,-0.012313723,-0.1879246,-0.07697438
+http://arxiv.org/pdf/2204.04266v1,MP-PCA denoising for diffusion MRS data: promises and pitfalls,"This single-shot SNR increase, however, results from a correlation
+with spectra from other shells. Whether this improvement on single shots may benefit other applications
+where averaging multiple spectra is detrimental, such as functional MRS, where it could provide a boost
+in temporal resolution, should be the subject of future work. 4.2 Strategy 1 versus strategy 2
+
+For large heterogeneities across the dataset to be denoised, such as the extreme case of very low and
+very high b-values (in our case 𝑏𝑏 = 0.4 and up to 𝑏𝑏 = 33 𝑚𝑚𝑚𝑚/𝜇𝜇𝑚𝑚2), more leakage from high to low-
+SNR data is expected after denoising, which may bias high b-values concentration estimates. ",physics.med-ph,A,0.1479932,-0.27014446,0.2556411
+http://arxiv.org/pdf/2204.04537v1,Super-Resolved Microbubble Localization in Single-Channel Ultrasound RF Signals Using Deep Learning,"Since model HS0.01 has a slightly higher F1 score than         ttol is necessary to achieve an adequate (F1 > 0.9) detection
+HS0.1 (averaged over the investigated ttol), we select HS0.01        at higher concentrations. In other words, the super-resolution
+for further analysis. performance of the network is lower for high concentrations. ",physics.med-ph,A,0.24598108,-0.109366074,0.33131784
+http://arxiv.org/pdf/2204.08000v2,LRH-Net: A Multi-Level Knowledge Distillation Approach for Low-Resource Heart Network,"This novel approach is compared with an existing high-performance large-scale
+model [28] and a commonly used low-scale model [18] baselines on heterogeneous
+dataset [21]. The source code for the proposed model and all the experiments
+that are done are made public to motivate further research in this ﬁeld 1. Main contributions of this paper are:
+
+ 1. ",physics.med-ph,B,-0.13262805,0.119564116,0.39201355
+http://arxiv.org/pdf/2204.08527v1,A simple mathematical model of cyclic hypoxia and hypofractionated radiotherapy,"(13) and hence, computation
+of P (m, N − m) for m = N , since these probabilities become non-negligible for smaller
+per-fraction doses. These straightforward generalizations will be considered in future work. In closing, let us ask: are there any actionable discoveries here? ",physics.med-ph,A,0.3147346,-0.056034118,-0.07589705
+http://arxiv.org/pdf/2204.09873v1,Gaussian Processes for real-time 3D motion and uncertainty estimation during MR-guided radiotherapy,"Moreover, it
+5.4. Points of improvement and future work                     ﬂagged dynamics during which bulk motion and changes of
+                                                               breathing patterns were performed. This ﬂagging strategy
+   Several aspects of this work could be improved for a clin-  could be used to ensure the safety of the patient by (tem-
+ical application. ",physics.med-ph,C,-0.050649043,0.33129126,-0.1777935
+http://arxiv.org/pdf/2204.10005v1,In-vitro Major Arterial Cardiovascular Simulator to generate Benchmark Data Sets for in-silico Model Validation,"the inﬂuence of arterial stenosis
+within the cardiovascular system and make these data sets             The multivariate statistical data sets include relevant
+available to the research community. Therefore, a Major           meta-information about the experiments and are stored to
+Arterial Cardiovascular Simulator (MACSim) was devel-             a MySQL database for further analysis. In the context of
+oped and extended over the past years, integrating patho-         this study the data set is made available via Matlab ﬁles
+physiological information to improve the understanding            for simple community wide post-processing. ",physics.med-ph,C,-0.10875307,0.54675853,0.050983984
+http://arxiv.org/pdf/2204.10207v1,"Assessment of Natural Radioactivity Concentration and Radiological Risk in Tanjung Enim's Coal Mine, South Sumatra Indonesia","Likewise, oil and gas exploration, thermal                                             contribute to increasing environmental radioactivity and
+power generation, and the natural materials processing                                              potentially disrupting human health around the mine. industry can alter natural radioactivity in different process                                       Therefore, further research is needed on radionuclide’s types
+states. Waste generated by this industry must be handled with                                       and their concentrations in mining minerals. ",physics.med-ph,A,0.35148767,-0.029971588,-0.0671262
+http://arxiv.org/pdf/2204.10252v3,Polynomial Preconditioners for Regularized Linear Inverse Problems,"It is expected that a reasonable prior estimate of the spectrum of an operator A
+derived for a speciﬁc application will signiﬁcantly improve the rate of convergence for that
+application. However, given the large dimensionality of A and the consequent diﬃculty in
+approximating the spectrum of A∗A, estimating a reasonable prior w will involve trial-and-
+error, and is thus left to future work. A limitation of the polynomial preconditioner is with respect to numerical stability. ",physics.med-ph,B,0.038838163,-0.11280799,0.19704238
+http://arxiv.org/pdf/2204.11623v1,A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System,"Nonetheless,
+our model is ﬂexible enough to easily accommodate changes in the cost parameters, which makes our
+model applicable for different economic conditions, and also realistic, as different values can be used for
+different organs. Finally, as our simulation-optimization framework can be used to test different policies
+and conditions on the arrivals of organs and patients, some future work may be undertaken to extend the
+possible policies to test, or also creating a new “gain” function that represents better the trade-offs inherent
+in the transplantation system. ACKNOWLEDGMENTS
+
+We thank the Organ Procurement and Transplantation Network for facilitating private, high-quality data
+over the course of this project. ",physics.med-ph,C,-0.31184623,0.37503913,-0.11547494
+http://arxiv.org/pdf/2204.11623v2,A Simulation-Optimization Framework To Improve The Organ Transplantation Offering System,"Finally, it is notable that our simulation-optimization framework can be used to test different
+policies and conditions on the arrivals of organs and patients. Therefore, it may be worthwhile to undertake
+future work on extending the possible policies to test, or also to create a new “gain” function that better
+represents the trade-offs inherent in the transplantation system (which may be nonlinear). ACKNOWLEDGMENTS
+
+We thank the OPTN and SRTR for facilitating private, high-quality data over the course of this project. ",physics.med-ph,C,-0.3028554,0.3501843,-0.11323345
+http://arxiv.org/pdf/2204.14084v1,FPGA Acceleration of Image Reconstruction for Real-Time Photoacoustic Tomography,"The result shows that our proposed FPGA acceleration method can achieve ~1000 times improvement
+in terms of EER compared with conventional CPU solutions. In future work, we will further optimize and integrate the FPGA
+platform into the PA imaging system for more clinical applications. V. ACKNOWLEDGEMENT
+   This research was funded by National Natural Science Foundation of China (61805139), and United Imaging Intelligence (2019
+×0203-501-02). ",physics.med-ph,C,-0.19295365,-0.14675245,0.017362231
+http://arxiv.org/pdf/2205.00131v1,Motion Compensated Extreme MRI: Multi-Scale Low Rank Reconstructions for Highly Accelerated 3D Dynamic Acquisitions (MoCo-MSLR),"Finally, in its current form, MoCo-MSLR only works for images without contrast dynamics as it relies
+on warping a fixed template. The ability to incorporate motion estimation for high spatiotemporal
+reconstruction of acquisitions with contrast dynamics is an interesting avenue for future work. 6. ",physics.med-ph,B,-0.20200384,-0.28091782,0.052662842
+http://arxiv.org/pdf/2205.01085v1,Suppression of Motion Artifacts Caused by Temporally Recurring Tracer Distributions in Multi-Patch Magnetic Particle Imaging,"We used the
+A. Experiments                                                             signal of the y-channel for further analysis. To recover the motion
+                                                                           frequency ν(ξ, f ) for each patch ξ ∈ {1, . ",physics.med-ph,A,0.21494856,-0.14841308,0.26580292
+http://arxiv.org/pdf/2205.02335v1,Acceleration Strategies for MR-STAT: Achieving High-Resolution Reconstructions on a Desktop PC within 3 minutes,"especially the separable, independent sub-step nonlinear
+problems, on graphics processing units (GPU). This possibility         In this work, we trained small neural network models with
+will be explored in future work. high accuracy for accelerating the MR-STAT reconstructions. ",physics.med-ph,B_centroid,-0.33084935,-0.19029519,0.2215091
+http://arxiv.org/pdf/2205.04038v1,Quasi-Real Time Multi-Frequency 3D Shear Wave Absolute Vibro-Elastography (S-WAVE) System for Prostate,"The ﬁrst is a summary of published results from the           biological phenomena, such as calciﬁcation and edema, which
+Prostatectomy Study. The second contains a preliminary qual-        will be investigated in a further study. Furthermore, as the
+itative comparison of S-WAVE images with registered whole-          patients recruited in this study had early stage cancer, the
+gland biopsy results from the Focal Therapy Study. ",physics.med-ph,C,-0.029637298,-0.00569224,-0.35531786
+http://arxiv.org/pdf/2205.05587v1,Choice of training label matters: how to best use deep learning for quantitative MRI parameter estimation,"When faced with a parameter estimation problem, we no longer need
+to choose between extremes of the bias/variance trade-oﬀ; we can now tune DNN
+parameter estimation performance to the speciﬁc needs of the task at hand. This
+sets the stage for future work, where this tuning constant is optimised as part
+of a computational, task-driven, experimental design framework [6]. References
+
+ 1. ",physics.med-ph,B,-0.09564258,-0.08128064,0.44866297
+http://arxiv.org/pdf/2205.05587v2,Choice of training label matters: how to best use deep learning for quantitative MRI parameter estimation,"There are, however,
+alternatives: convolutional neural network (CNN) methods which map spatially related
+clusters (“patches”) of qMRI signals to corresponding clusters of parameter
+estimates [21–23]. Our MLE training label approach could be incorporated into such
+methods, and we leave it to future work to investigate the effect this would have on
+parameter estimation performance. 5 Conclusions
+
+In this work we draw inspiration from state-of-the-art supervised and self-supervised
+qMRI parameter estimation methods to propose a novel DNN approach which combines
+their respective strengths. ",physics.med-ph,B,-0.15815109,-0.080501154,0.33682352
+http://arxiv.org/pdf/2205.08394v1,Depth resolved pencil beam radiography using AI -- a proof of principle study,"The work
+was limited by simple testing scenarios and without yet integrating complexities or optimizations. The ability to scale performance to the clinic remains unexplored and requires further study. KEYWORDS: Compton scatter; deep learning; tomography; x-ray imaging; pencil beam; dose
+reduction; scatter tomography
+Contents
+
+1. ",physics.med-ph,C,0.012568955,-0.24216639,-0.25513613
+http://arxiv.org/pdf/2205.11188v1,Single Scan Dual-energy Cone-beam CT Using Static Detector Modulation: A Phantom Study,"Larger width,
+e.g., 10-, 15-, and 20-mm grids, causes less data loss but at the expense of degraded sampling performance of anatomical
+structures. There are still some aspects worth further study to boost the clinical practice of the proposed method. Firstly, due to the data
+consistency requirement of deep learning methods, individual patient data acquisition is required for model training of different
+DM-DECT systems in clinical practice (Zhou et al., 2021). ",physics.med-ph,C_centroid,-0.3396818,0.059299037,-0.024575297
+http://arxiv.org/pdf/2206.05618v1,Synthetic PET via Domain Translation of 3D MRI,"by generation of an deep learning prior image that can help
+regularize PET image reconstruction [45]. These applications        [4] C. R. MacFarlane, “Acr accreditation of nuclear medicine and pet
+provide a strong motivation for future work in curating large            imaging departments,” Journal of nuclear medicine technology, vol. 34,
+databases of PET/MRI with multiple MRI contrasts and PET                 no. ",physics.med-ph,C,-0.2517696,-0.3271367,-0.14443766
+http://arxiv.org/pdf/2206.07906v1,Improved Forward Problem Modeling in Magnetic Induction Tomography for Biomedical Applications,"Experimental evaluatio n
+         of the superiority of this technique for various conductivity distribution values would
+         be interesting.  Further follow up research:
+    To increase the chances for MIT to become a medical imaging modality, further researches
+are required. Some suggestions are provided below based on the author’s view:
+
+    1- It seems that the MIT systems in the current form are more sensitive to near the border
+         regions than to the center of the imaging region. ",physics.med-ph,C,0.14461942,-0.2064861,-0.15601486
+http://arxiv.org/pdf/2206.08981v1,Repair kinetics of DSB-foci induced by proton and helium ion microbeams of different energies,"In this work, it was necessary to develop the approach used
+by Gonon et al (2019), since the repair kinetics of foci formed           A comprehensive investigation of these issues is beyond
+in a cluster of tracks deviates from that of isolated ion tracks. the scope of this paper and requires further analysis of not just
+For the mean number of foci at 30 minutes after irradiation, it        foci counts but also other parameters such as the geometry of
+was sufficient (in Gonon et al (2019)) to replace the sum in           foci and cell nuclei, variation of track length, etc. The relevant
+eq. ",physics.med-ph,A,0.3734981,-0.15499458,-0.21984258
+http://arxiv.org/pdf/2206.08981v2,Repair kinetics of DSB-foci induced by proton and helium ion microbeams of different energies,"For the mean number of foci at 30 minutes after irradiation, it
+was sufficient (in Gonon et al (2019)) to replace the sum in              A comprehensive investigation of these issues is beyond
+eq. 3 by the product of the total number of track clusters             the scope of this paper and requires further analysis of not just
+(including “clusters” of just one track) and an average                foci counts but also other parameters such as the geometry of
+probability for observation of a focus at the location of a track. foci and cell nuclei, variation of track length, etc. ",physics.med-ph,A,0.30484205,-0.119994715,-0.16618246
+http://arxiv.org/pdf/2206.15441v1,Classical and learned MR to pseudo-CT mappings for accurate transcranial ultrasound simulation,"The same misalignments are also apparent in
+                  mask            MAE (HU) RMSE (HU)                     the training/validation images. Improving the registration step,
+                                                                         for example, by learning the registration as part of training
+                             tCT  133 ± 46  288 ± 83                     the network [61] or by iterating between training and re-
+                  head zCT        83 ± 26   186 ± 55                     registration of the generated pCT images, will likely improve
+                                  145 ± 35  350 ± 62                     the predictive capabilities of the learned mappings, and will
+                            cCT                                          be the subject of future work. tCT 398 ± 116  528 ± 144                       As discussed in Sec. ",physics.med-ph,C,-0.19210824,0.04688936,0.15455127
+http://arxiv.org/pdf/2206.15441v2,Classical and learned MR to pseudo-CT mappings for accurate transcranial ultrasound simulation,"In the skull, the cCT images                   the predictive capabilities of the learned mappings, and will
+slightly out-perform the tCT images. This is possibly because            be the subject of future work. the additional bone information available to the cCT (but not
+the tCT) outweighs the additional predictive power available                As discussed in Sec. ",physics.med-ph,C,-0.1336896,-0.03557489,-0.051039815
+http://arxiv.org/pdf/2207.00332v1,Task-specific Performance Prediction and Acquisition Optimization for Anisotropic X-ray Dark-field Tomography,"cal function domain, similar to the eye ﬁlters used for
+conventional X-ray tomography applications. Studying          References
+other observer models that may suit the complex nature
+of AXDT even better are subject of future work. [1] Harrison H. Barrett. ",physics.med-ph,C,-0.0836028,-0.28744602,-0.17496312
+http://arxiv.org/pdf/2207.08497v1,Ear-EEG Sensitivity Modelling for Neural and Artifact Sources,"The source-sensor relationship in ear-EEG, for both neural and
+                                                                       ocular artifact sources, has been analysed for the ﬁrst time. The
+Limitations and future work                                            results have provided conclusive evidence for the use of ear-EEG
+                                                                       in applications concerning the monitoring of neural activity origi-
+The ﬁrst limitation of the presented study is the absence of ab-       nating from within the temporal lobes. Further, evidence has been
+solute sensitivity predictions, i.e., predictions of the amplitude of  provided for equal SNR between ear-EEG and scalp EEG in the
+ear-EEG that could be seen in recordings. ",physics.med-ph,A,0.24498308,0.05620879,0.15825406
+http://arxiv.org/pdf/2207.11297v1,Accelerated and Quantitative 3D Semisolid MT/CEST Imaging using a Generative Adversarial Network (GAN-CEST),"This is not surprising, given the base-catalyzed exchange rate of L-arginine, which re-
+sults in small CEST signal amplitudes at low pH due to the slow exchange rate. While
+direct mapping from raw CEST data to pH is very attractive, future work should ex-
+plore methods for obtaining in-vivo ground-truth reference pH data. There is a tradeoff between the level of acceleration (manifested by the number
+of raw MRF images acquired, N) and the parameter quantiﬁcation performance. ",physics.med-ph,A,0.17071941,-0.13782822,0.23589042
+http://arxiv.org/pdf/2207.14761v1,Dual-slope imaging of cerebral hemodynamics with frequency-domain near-infrared spectroscopy,"Then the average
+of the sliding windowed standard deviation (window size of 10 sec) was taken as the noise ampli-
+tude (corrected for power lost at low f from the ﬁlter, assuming white noise). Channels with higher
+noise amplitude than an equivalent of 1 µM of Total-hemoglobin concentration change (∆T ) were
+considered bad and excluded from further analysis. For the ABP oscillations data, even further quality evaluation was conducted. ",physics.med-ph,A,0.29415622,0.0863382,0.20818737
+http://arxiv.org/pdf/2208.00274v1,Convolutional neural network with a hybrid loss function for fully automated segmentation of lymphoma lesions in FDG PET images,"The best segmentation performance of our model was observed using the proposed hybrid loss function that
+incorporates the distribution, region and boundary-based loss functions (Unified Focal loss and Mumford-Shah). Volume-
+aware loss functions can help optimize the training of the segmentation model to extract the small lesions with higher
+performance and decrease the missed small lesion rate, that we will consider it in our future works. We developed and validated a fully-automated pipeline segmenting lymphoma lesions with varied type, size, sites, and
+location from different institutions. ",physics.med-ph,C,-0.501568,-0.07931634,-0.24021442
+http://arxiv.org/pdf/2208.00274v2,Convolutional neural network with a hybrid loss function for fully automated segmentation of lymphoma lesions in FDG PET images,"The best segmentation performance of our model was observed using the proposed hybrid loss function that
+incorporates the distribution, region and boundary-based loss functions (Unified Focal loss and Mumford-Shah). Volume-
+aware loss functions can help optimize the training of the segmentation model to extract the small lesions with higher
+performance and decrease the missed small lesion rate, that we will consider it in our future works. We developed and validated a fully-automated pipeline segmenting lymphoma lesions with varied type, size, sites, and
+location from different institutions. ",physics.med-ph,C,-0.501568,-0.07931634,-0.24021442
+http://arxiv.org/pdf/2208.02014v1,Myasthenia Gravis Diagnosis with Surface-enhanced Raman Spectroscopy,"This statement may be
+an explanation for the enhancement of the peak at 1336 cm−1. A decrease in
+the intensity of the band by 1336 cm−1 for patients with myasthenia gravis
+                          Springer Nature 2021 LATEX template
+
+10 Myasthenia Gravis Diagnosis with Surface-enhanced Raman Spectroscopy
+
+type M may be associated with a decrease in the concentration of toxic sub-
+stances, but this statement requires additional research and can be regarded
+as a working hypothesis for them. 4 Conclusion
+
+The eﬀectiveness of the use of Raman scattering to determine low concen-
+trations of chemical groups included in toxins was shown. ",physics.med-ph,A,0.5293507,0.221568,-0.10689099
+http://arxiv.org/pdf/2208.02014v2,Myasthenia Gravis Diagnosis with Surface-enhanced Raman Spectroscopy,"This statement may be
+an explanation for the enhancement of the peak at 1336 cm−1. A decrease in
+the intensity of the band by 1336 cm−1 for patients with myasthenia gravis
+type M may be associated with a decrease in the concentration of toxic sub-
+stances, but this statement requires additional research and can be regarded
+as a working hypothesis for them. 4 Conclusion
+
+The eﬀectiveness of the use of Raman scattering to determine low concen-
+trations of chemical groups included in toxins was shown. ",physics.med-ph,A,0.5929007,0.23007184,-0.13534296
+http://arxiv.org/pdf/2208.03360v1,Deep Learning for Material Decomposition in Photon-Counting CT,"4(e) and (f). Also, these neural networks
+the training: deep unrolled methods may present more                              were trained with sinogram-domain metrics only, which
+complicated training processes, with occasional undesired                         means that in future work it would be insightful to also
+events, such as vanishing gradients. Different strategies                         consider image-domain quality metrics in the training loss. ",physics.med-ph,B,-0.20414743,-0.22275105,0.28523764
+http://arxiv.org/pdf/2208.05508v1,4D Real-Time GRASP MRI at Sub-Second Temporal Resolution,"This can be performed with simple interpolation or based on low-rank matrix completion,
+assuming that the underlying contrast enhancement is smooth. These hypotheses will be
+evaluated in future works. The proposed 4D real-time MRI method can have more applications beyond those
+demonstrated in this work. ",physics.med-ph,B,-0.3345059,-0.29974648,0.013394723
+http://arxiv.org/pdf/2208.10623v1,Three-dimensional micro-structurally informed in silico myocardium -- towards virtual imaging trials in cardiac diffusion weighted MRI,"More-
+over, inter-sheetlet space in real myocardial tissue is more tor-     Sensitivity analysis of cDTI parameters or simulated diﬀu-
+tuous than its in-silico counterpart, which results in λ2 reduc-   sion signal to microstructure parameters listed in Table 3, along
+tion. Appendix Appendix B illustrates the eﬀect of adding the      with incorporating non-CM compartments into the present
+above-mentioned obstacles in ECS on eigenvalues over simple        phantom, will be the subject of future works. Moreover, the
+                                                                   proposed micro-scale numerical phantom can be integrated into
+phantoms. ",physics.med-ph,C,0.04457353,0.086979136,-0.10639796
+http://arxiv.org/pdf/2208.11482v1,A Vector Fitting approach for the automated estimation of lumped boundary conditions of 1D circulation models,"In this work, the Vector Fitting method has been tested only on 1D models of the cardiovascular
+system. The possibility to extend the proposed approach to three-dimensional models will be
+investigated in future works. TIME-DOMAIN VECTOR FITTING FOR BOUNDARY CONDITIONS ESTIMATION  23
+
+                                           5. ",physics.med-ph,C,-0.2557661,0.28400016,0.07706677
+http://arxiv.org/pdf/2208.12076v1,Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity,"By implementing flyscans, the acquisition of three-modal CT images
+with a few tens of µm resolution may become possible within minutes. Indeed, the translation of our
+method from the synchrotron to a laboratory environment will be another key focus of our future work. Methods
+Experimental setup. ",physics.med-ph,C,-0.13046794,-0.33761606,-0.09183099
+http://arxiv.org/pdf/2208.12958v1,Assessment of Biomechanical Properties for Corneal Post Refractive Surgery,"Chapter 6 | Conclusion and Future Work:concludes the work and highlights the
+important points. It introduces the proposed future work that can be performed to
+enhance the results obtained in this research. 11
+Chapter 2 | Medical Background and Literature Review
+
+Chapter 2 | Medical Background and
+Literature Review
+
+   2.1. ",physics.med-ph,C,0.10608448,0.37691694,-0.10996405
