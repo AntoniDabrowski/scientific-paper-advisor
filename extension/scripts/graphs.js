@@ -6,8 +6,14 @@ function create_text_for_graph(nodes) {
 
     for (let i = 0; i < nodes.length; i++) {
         let node_dict = nodes[i]
+        let num_citatios_string = ""
+        if (node_dict['predicted'] === true){
+            num_citatios_string = `Predicted popularity metric ${node_dict['num_publications']}`
+        } else {
+            num_citatios_string = `#citations: ${node_dict['num_publications']}`
+        }
         result.push(`<a href="${node_dict['url']}">${node_dict['title']}</a>` +
-            `<br>Authors: ${node_dict['authors']}<br>#citations: ${node_dict['num_publications']}`)
+            `<br>Authors: ${node_dict['authors']}<br>` + num_citatios_string)
         // TODO: Move reference to url to the node, rather than its hover
         // TODO: Hovers by default has part '<extra>something</extra>', where 'something' will be display next to hover, we don't want that
     }

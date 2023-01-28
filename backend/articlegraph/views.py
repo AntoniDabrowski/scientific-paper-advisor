@@ -4,7 +4,7 @@ import multiprocessing
 import os
 import tempfile
 import unicodedata
-from multiprocessing import Pool, Manager, Process
+from multiprocessing import Process
 from pathlib import Path
 from typing import List, Dict
 
@@ -20,8 +20,10 @@ from science_parse_api.api import parse_pdf
 from unidecode import unidecode
 
 from .models import ScholarlyPublication, CitationReferences
+from .popularity_prediction.model import predict
 
 load_dotenv()
+
 
 pg = ProxyGenerator()
 success = pg.ScraperAPI(os.getenv('SCRAPERAPI_KEY'))
@@ -215,7 +217,6 @@ class ArticleGraph(nx.Graph):
 
         for pub in pubs_to_expand:
             pdf_url = pub.publication.get('eprint_url')
-
             if pdf_url is None:
                 continue
 
@@ -237,11 +238,23 @@ class ArticleGraph(nx.Graph):
     def add_article_node(self, idx, article: Publication, subset: int, article_from=None, lock=None):
         if lock is not None:
             lock.acquire()
+
+        pub_year = article['bib']['pub_year']
+        num_citations = article['num_citations']
+        title = article['bib']['title']
+        predicted = False
+
+        if isinstance(pub_year,int) and pub_year >= YEAR_THRESHOLD and num_citations <= CITATION_THRESHOLD:
+            abstract = article['bib'].get('abstract', "NONE")
+            num_citations = predict(title, abstract)
+            predicted = True
+
         self.add_node(idx,
                       title=article['bib']['title'],
                       authors=article['bib']['author'],
-                      num_publications=article['num_citations'],
+                      num_publications=num_citations,
                       url=article.get('pub_url'),
+                      predicted=predicted,
                       subset=subset)
         if article_from is not None:
             self.add_edge(idx, article_from)
