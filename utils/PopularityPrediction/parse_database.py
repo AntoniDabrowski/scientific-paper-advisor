@@ -10,10 +10,13 @@ from typing import List
 
 import numpy as np
 import pandas as pd
+from dotenv import load_dotenv
 from semanticscholar import SemanticScholar
 from tqdm import tqdm
 
-sch = SemanticScholar(api_key="mS4BRJlnio5xzZlVPQLID3wHIciImI898MGXrRQg")
+load_dotenv()
+
+sch = SemanticScholar(api_key=os.getenv('SCHOLAR_KEY'))
 MAX_CHUNK_SIZE = 100
 
 parser = argparse.ArgumentParser(description="Tool for collecting the further research suggestions "
