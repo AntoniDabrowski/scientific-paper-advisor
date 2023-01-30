@@ -1,20 +1,23 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from lexical_features import character_level, sentence_level, POS_frequency
+from lexical_features import character_level, sentence_level, POS_frequency, CSS_vector
 from semantic_features import dense_embedding_df
 
 def process_title(title):
     vec_1, labels_1 = character_level(title)
     vec_2, labels_2 = POS_frequency(title)
-    return vec_1 + vec_2, labels_1 + labels_2
+    vec_3, labels_3 = CSS_vector(title)
+    return vec_1 + vec_2 + vec_3, labels_1 + labels_2 + labels_3
 
 
 def process_abstract(abstract):
     vec_1, labels_1 = character_level(abstract)
     vec_2, labels_2 = sentence_level(abstract)
     vec_3, labels_3 = POS_frequency(abstract)
-    return vec_1 + vec_2 + vec_3, labels_1 + labels_2 + labels_3
+    vec_4, labels_4 = CSS_vector(abstract)
+    return vec_1 + vec_2 + vec_3 + vec_4, \
+           labels_1 + labels_2 + labels_3 + labels_4
 
 
 def process_authors(authors):

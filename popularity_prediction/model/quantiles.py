@@ -19,7 +19,7 @@ def compute_quantiles(df=None):
         df = pd.read_csv(open('semanticscholar_results.csv', encoding='UTF-8'))
     citations = df["citationcount"].dropna().tolist()
     # l = np.linspace(0, 0.95, 1000)
-    l = [0.25,0.5,0.75]
+    l = [0.25,0.5,0.9]
     quantiles = np.quantile(citations, l)
     print(quantiles.astype(int))
     # plt.scatter(l, quantiles)
@@ -64,12 +64,15 @@ def map_class(x):
 if __name__ == '__main__':
     df = pd.read_csv(open('semanticscholar_results_preprocessed.csv', encoding='UTF-8'))
     trimmed_df = trim_data_for_quantiles(df)
-    compute_quantiles(trimmed_df)
-    total = trimmed_df.shape[0]
-    print(np.sum(trimmed_df['citationcount'] == 0) / total)
-    print(np.sum(trimmed_df['citationcount'] < 5) / total)
-    print(np.sum(trimmed_df['citationcount'] < 16) / total)
+    hist_citation_count(trimmed_df)
 
-    # quantiles: [0 5 16]
-    trimmed_df['category'] = trimmed_df['citationcount'].apply(lambda x: map_class(x))
-    trimmed_df.to_csv('semanticscholar_results_to_quantiles.csv',index=False)
+
+    # compute_quantiles(trimmed_df)
+    # total = trimmed_df.shape[0]
+    # print(np.sum(trimmed_df['citationcount'] == 0) / total)
+    # print(np.sum(trimmed_df['citationcount'] < 5) / total)
+    # print(np.sum(trimmed_df['citationcount'] < 16) / total)
+    #
+    # # quantiles: [0 5 16]
+    # trimmed_df['category'] = trimmed_df['citationcount'].apply(lambda x: map_class(x))
+    # trimmed_df.to_csv('semanticscholar_results_to_quantiles.csv',index=False)

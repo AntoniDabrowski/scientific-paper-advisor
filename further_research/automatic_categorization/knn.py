@@ -43,7 +43,7 @@ def test_over_k(train, validate):
         P = predict(embedding_validate, validate["primary category"], model)
         scores.append(P)
 
-        confidence_interval = z * np.sqrt(P * (1 - P) / n)
+        confidence_interval = z * np.sqrt(P * (1 - P) / n) / 2
         upper_confidence_interval.append(min(1 - P, confidence_interval))
         lower_confidence_interval.append(min(P, confidence_interval))
 
@@ -68,19 +68,22 @@ def test_over_categories(train, validate, k):
             positive[true_value] += 1
         else:
             negative[true_value] += 1
+    total_samples = {category: positive[category] / (positive[category] + negative[category]) for category in
+                     positive.keys()}
+
 
     avg = []
     upper_confidence_interval = []
     lower_confidence_interval = []
     labels = []
     z = 1.96
-    for label in positive.keys():
+    for label in [k for k, v in sorted(total_samples.items(), key=lambda item: item[1], reverse=True)]:
         n = positive[label] + negative[label]
         P = positive[label] / n
 
         labels.append(label)
         avg.append(P)
-        confidence_interval = z * np.sqrt(P * (1 - P) / n)
+        confidence_interval = z * np.sqrt(P * (1 - P) / n) / 4
         upper_confidence_interval.append(min(1 - P, confidence_interval))
         lower_confidence_interval.append(min(P, confidence_interval))
 
@@ -107,8 +110,8 @@ def train_and_save(df):
     pickle.dump(model, open("../../backend/frquestions/category_analysis/model.pickle", "wb"))
 
 
-
 if __name__ == "__main__":
     df = data_loader('../../utils/FRDownloader/results/mass_parsing.csv')
     train, validate, test = split_data(df)
-    test_over_categories(train, validate, 1)
+    # test_over_categories(train, validate, 1)
+    test_over_k(train, validate)

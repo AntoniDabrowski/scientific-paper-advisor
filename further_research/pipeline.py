@@ -1,24 +1,33 @@
 from data_loader import load_data, prepare_chunks
 from doc2vec import doc2vec
 from clustering import k_centroids
-from dimensionality_reduction import dimensionality_reduction
+from dimensionality_reduction import dimensionality_reduction, PCA_vs_TSNE
 from sentence_transformers import SentenceTransformer
 import pandas as pd
 import pickle
 from tqdm.auto import tqdm
+from os import listdir
+from os.path import isfile, join
+import json
+
+mypath_input = '../utils/FRDownloader/results'
+mypath_output = '../utils/FRDownloader'
 
 
 def pipeline(path, embedding_model='sentence transformer', alg='PCA', cut_outliers=False, show_plot=False,
-             plot_name=''):
+             plot_name='', dim=3, test=False):
     df, docs = load_data(path)
     if df.shape[0] < 3:
         return None
     article_ids, embeddings = doc2vec(docs, model=embedding_model)
     labels = k_centroids(embeddings, k=3)
-    reduced_vectors, labels, model = dimensionality_reduction(embeddings, labels, docs, alg=alg,
-                                                              cut_outliers=cut_outliers, show_plot=show_plot,
-                                                              plot_name=plot_name)
-    return reduced_vectors, labels, df, model
+    if test:
+        PCA_vs_TSNE(embeddings, labels, docs, plot_name=plot_name)
+    else:
+        reduced_vectors, labels, model = dimensionality_reduction(embeddings, labels, docs, alg=alg,
+                                                                  cut_outliers=cut_outliers, show_plot=show_plot,
+                                                                  plot_name=plot_name, dim=dim)
+        return reduced_vectors, labels, df, model
 
 
 def pipeline_all_results(path):
@@ -130,12 +139,25 @@ def pipeline_all_results(path):
     # result.to_csv(f'../utils/FRDownloader/all_results/extended_search_list_processed_AB.csv', index=False)
 
 
-if __name__ == "__main__":
-    # pipeline('./sample_data/training_data.cs.AI.csv',
-    #          embedding_model='sentence transformer',
-    #          alg='PCA', cut_outliers=False)
+def get_all_files():
+    all_files = [f for f in listdir(mypath_input) if
+                 isfile(join(mypath_input, f)) and f not in ['mass_parsing.csv', 'mass_parsing.csv.processed.pickle']]
+    return all_files
 
-    pipeline_all_results('../utils/FRDownloader/all_results/extended_search_list.csv')
+
+if __name__ == "__main__":
+    maps = json.load(open('../extension/scripts/categories.json'))
+    for i, file in tqdm(enumerate(get_all_files())):
+        f = file.split('.')
+        if maps.get(f'{f[0]}.{f[1]}',"") not in ["Optimization and Control","Robotics","Machine Learning"]:
+            continue
+        try:
+            pipeline(f'{mypath_input}/{file}',
+                     embedding_model='sentence transformer',
+                     alg='PCA', cut_outliers=False, show_plot=True, plot_name=maps[f'{f[0]}.{f[1]}'], dim=2, test=True)
+        except:
+            pass
+    # pipeline_all_results('../utils/FRDownloader/all_results/extended_search_list.csv')
     # Currently following categories has too few samples to perform on them clusterization
     # FR: q-bio.SC
     # FR: cs.GL
