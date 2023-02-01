@@ -1,7 +1,10 @@
 import copy
+import json
+import multiprocessing
 import os
 import tempfile
 import unicodedata
+from multiprocessing import Process
 from pathlib import Path
 from typing import List, Dict
 
@@ -9,14 +12,18 @@ import networkx as nx
 import requests
 from django.db.models import QuerySet
 from django.http import HttpRequest, JsonResponse
+from django.views.decorators.csrf import csrf_exempt
 from dotenv import load_dotenv
+from networkx import node_link_graph
 from scholarly import scholarly, Publication, ProxyGenerator
 from science_parse_api.api import parse_pdf
 from unidecode import unidecode
 
 from .models import ScholarlyPublication, CitationReferences
+from .popularity_prediction.model import predict
 
 load_dotenv()
+
 
 pg = ProxyGenerator()
 success = pg.ScraperAPI(os.getenv('SCRAPERAPI_KEY'))
@@ -25,9 +32,20 @@ scholarly.use_proxy(pg)
 
 
 class PublicationWithID:
-    def __init__(self, idx: int, publication: Publication):
-        self.idx = idx
-        self.publication = publication
+    def __init__(self, pk=None, idx: int = None, publication: Publication = None):
+        if pk is not None:
+            self.from_pk(pk)
+        elif idx is not None and publication is not None:
+            self.idx = idx
+            self.publication = publication
+        else:
+            raise ValueError
+
+    def from_pk(self, pk):
+        record = ScholarlyPublication.objects.get(pk=pk)
+
+        self.idx = record.pk
+        self.publication = record.publication
 
 
 def add_publication_to_database(publication: Publication, cites: ScholarlyPublication = None):
@@ -67,28 +85,28 @@ def parse_article_pdf(pdf_url):
 
 
 class ArticleGraph(nx.Graph):
-    def __init__(self, core_article: PublicationWithID, max_articles_per_column: int = 5, **attr):
+    def __init__(self, core_article: PublicationWithID = None, schema=None, max_articles_per_column: int = 5, **attr):
         super().__init__(**attr)
-        self.core_article = core_article
+        self.core_article = None
         self.max_articles_per_column = max_articles_per_column
+
+        if schema is not None:
+            self.init_from_schema(schema)
+        elif core_article is not None:
+            self.init_from_article(core_article)
+        else:
+            raise RuntimeError
+
+    def init_from_schema(self, schema: dict):
+        node_graph = node_link_graph(schema)
+        self.add_nodes_from([(n, attributes) for (n, attributes) in node_graph.nodes.items()])
+        self.add_edges_from(node_graph.edges)
+
+    def init_from_article(self, core_article: PublicationWithID):
+        self.core_article = core_article
         self.add_article_node(self.core_article.idx, self.core_article.publication, subset=0)
-        self.create_right_side_of_graph(origin_article=self.core_article)
-        self.create_left_side_of_graph(origin_article=self.core_article)
-
-        copy_nodes = copy.deepcopy(self.nodes(data='subset'))
-        for idx, s in copy_nodes:
-            if s == 1:
-                publication = self.get_publication_from_idx(idx)
-                self.create_right_side_of_graph(publication)
-
-        nodes_in_second_layer = [n for n in self.nodes(data='num_publications') if self.nodes[n[0]]['subset'] == 2]
-        nodes_in_second_layer = sorted(nodes_in_second_layer, key=lambda x: x[1])[:self.max_articles_per_column]
-        nodes_in_second_layer_idx = [x[0] for x in nodes_in_second_layer]
-
-        copy_nodes = copy.deepcopy(self.nodes)
-        for n in copy_nodes:
-            if copy_nodes[n]['subset'] == 2 and n not in nodes_in_second_layer_idx:
-                self.remove_node(n)
+        self.create_right_side_of_graph()
+        self.create_left_side_of_graph()
 
     def get_citedby(self, article: PublicationWithID) -> List[PublicationWithID]:
         already_used = set()
@@ -99,7 +117,7 @@ class ArticleGraph(nx.Graph):
         results = []
         for result in query_set_publications:
             citing_pub = ScholarlyPublication.objects.get(pk=result['article_id_id'])
-            results.append(PublicationWithID(citing_pub.id, citing_pub.publication))
+            results.append(PublicationWithID(idx=citing_pub.id, publication=citing_pub.publication))
 
         already_used.update([r.publication['bib'].get('title') for r in results])
 
@@ -108,28 +126,76 @@ class ArticleGraph(nx.Graph):
             if core_article.get('citedby_url') is None:
                 return results
             core_article_cites = scholarly.citedby(core_article)
-            counter = 0
-            while counter < article.publication['num_citations'] and len(results) < self.max_articles_per_column:
-                next_publication = next(core_article_cites)
-                if next_publication['bib'].get('title') not in already_used:
-                    article_with_id = add_publication_to_database(publication=next_publication,
-                                                                  cites=db_record_of_publication)
-                    results.append(article_with_id)
+            while len(results) < self.max_articles_per_column:
+                try:
+                    next_publication = next(core_article_cites)
+                    if next_publication['bib'].get('title') not in already_used:
+                        article_with_id = add_publication_to_database(publication=next_publication,
+                                                                      cites=db_record_of_publication)
+                        results.append(article_with_id)
 
-                    counter += 1
-                    already_used.add(next_publication['bib'].get('title'))
+                        already_used.add(next_publication['bib'].get('title'))
+                except StopIteration:
+                    break
 
         return results
 
-    def create_right_side_of_graph(self, origin_article: PublicationWithID):
-        core_article_cited_in = self.get_citedby(origin_article)
-        core_article_cited_in = sorted(core_article_cited_in,
-                                       key=lambda x: x.publication.get('num_citations', 0), reverse=True)
-        for article in core_article_cited_in:
-            self.add_article_node(article.idx,
-                                  article.publication,
-                                  article_from=origin_article.idx,
-                                  subset=self.nodes[origin_article.idx]['subset'] + 1)
+    def trim_subset(self, target_subset):
+        nodes_in_second_layer = [n for n in self.nodes(data='num_publications')
+                                 if self.nodes[n[0]]['subset'] == target_subset]
+        nodes_in_second_layer = sorted(nodes_in_second_layer, key=lambda x: x[1])[:self.max_articles_per_column]
+        nodes_in_second_layer_idx = [x[0] for x in nodes_in_second_layer]
+
+        copy_nodes = copy.deepcopy(self.nodes)
+        for n in copy_nodes:
+            if self.nodes[n]['subset'] == target_subset and n not in nodes_in_second_layer_idx:
+                self.remove_node(n)
+
+    def find_graph_right_edge(self) -> (List[PublicationWithID], int):
+        max_subset = max([data for _, data in self.nodes(data='subset')])
+        right_edge = [nid for nid, data in self.nodes(data='subset') if data == max_subset]
+
+        return right_edge, max_subset
+
+    def find_graph_left_edge(self) -> (List[PublicationWithID], int):
+        min_subset = min([data for _, data in self.nodes(data='subset')])
+        left_edge = [PublicationWithID(pk=nid) for nid, data in self.nodes(data='subset') if data == min_subset]
+
+        return left_edge, min_subset
+
+    def create_right_side_of_graph(self):
+        def handle_pub(pub_idx: int, queue: multiprocessing.Queue):
+            pub = PublicationWithID(pk=pub_idx)
+            core_article_cited_in = self.get_citedby(pub)
+            core_article_cited_in = sorted(core_article_cited_in,
+                                           key=lambda x: x.publication.get('num_citations', 0), reverse=True)
+            queue.put((pub_idx, core_article_cited_in))
+
+        pubs_to_expand, edge_subset = self.find_graph_right_edge()
+
+        queue = multiprocessing.Queue()
+        process_list = []
+        for publ in pubs_to_expand:
+            p = Process(target=handle_pub, args=(publ, queue))
+            p.start()
+            process_list.append(p)
+
+        for p in process_list:
+            p.join()
+
+        while True:
+            try:
+                pubidx, plist = queue.get(block=False)
+                for article in plist:
+                    self.add_article_node(article.idx,
+                                          article.publication,
+                                          article_from=pubidx,
+                                          subset=edge_subset + 1)
+
+            except:
+                break
+
+        self.trim_subset(edge_subset + 1)
 
     def articles_from_references(self, references: List[Dict]) -> List[PublicationWithID]:
         results = []
@@ -146,30 +212,57 @@ class ArticleGraph(nx.Graph):
 
         return results
 
-    def create_left_side_of_graph(self, origin_article: PublicationWithID):
-        parsed_pdf = parse_article_pdf(origin_article.publication['eprint_url'])
-        references = parsed_pdf['references']
+    def create_left_side_of_graph(self):
+        pubs_to_expand, edge_subset = self.find_graph_left_edge()
 
-        articles = self.articles_from_references(references)
-        for article in articles:
-            self.add_article_node(article.idx,
-                                  article.publication,
-                                  article_from=origin_article.idx,
-                                  subset=self.nodes[origin_article.idx]['subset'] - 1)
+        for pub in pubs_to_expand:
+            pdf_url = pub.publication.get('eprint_url')
+            if pdf_url is None:
+                continue
 
-    def add_article_node(self, idx, article: Publication, subset: int, article_from=None):
+            parsed_pdf = parse_article_pdf(pdf_url)
+            references = parsed_pdf.get('references')
+
+            if references is None:
+                continue
+
+            articles = self.articles_from_references(references)
+            for article in articles:
+                self.add_article_node(article.idx,
+                                      article.publication,
+                                      article_from=pub.idx,
+                                      subset=edge_subset - 1)
+
+        self.trim_subset(edge_subset + 1)
+
+    def add_article_node(self, idx, article: Publication, subset: int, article_from=None, lock=None):
+        if lock is not None:
+            lock.acquire()
+
+        pub_year = article['bib']['pub_year']
+        num_citations = article['num_citations']
+        title = article['bib']['title']
+        predicted = False
+
+        if isinstance(pub_year,int) and pub_year >= YEAR_THRESHOLD and num_citations <= CITATION_THRESHOLD:
+            abstract = article['bib'].get('abstract', "NONE")
+            num_citations = predict(title, abstract)
+            predicted = True
+
         self.add_node(idx,
                       title=article['bib']['title'],
                       authors=article['bib']['author'],
-                      num_publications=article['num_citations'],
+                      num_publications=num_citations,
                       url=article.get('pub_url'),
+                      predicted=predicted,
                       subset=subset)
         if article_from is not None:
             self.add_edge(idx, article_from)
+        if lock is not None:
+            lock.release()
 
     def get_publication_from_idx(self, idx) -> PublicationWithID:
-        publ = ScholarlyPublication.objects.get(pk=idx)
-        return PublicationWithID(publ.pk, publ.publication)
+        return PublicationWithID(pk=idx)
 
 
 def articles_match(publication_dict, authors, title):
@@ -199,7 +292,7 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
         if isinstance(db_records, QuerySet):
             raise RuntimeError('Database contain more than one result with this title and authors.')
         else:
-            return PublicationWithID(db_records.pk, publication=db_records.publication)
+            return PublicationWithID(idx=db_records.pk, publication=db_records.publication)
     else:
         # query need to reflect what we put into the Google Scholar search bar.
         print("Looking for article {} in scholarly.".format(title))
@@ -216,12 +309,33 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
     raise RuntimeError('Article not found in Scholar.')
 
 
-def get_graph_as_json(article: PublicationWithID):
-    graph_schema = ArticleGraph(article)
-    json_graph = nx.node_link_data(graph_schema)
-    json_graph['layout'] = {k: tuple(v) for k, v in nx.multipartite_layout(graph_schema).items()}
+def get_graph_as_json(article: ArticleGraph):
+    json_graph = nx.node_link_data(article)
+    json_graph['layout'] = {k: tuple(v) for k, v in nx.multipartite_layout(article).items()}
 
     return json_graph
+
+
+@csrf_exempt
+def expand_left(request: HttpRequest):
+    sent_schema = json.loads(request.body.decode('utf-8'))
+    article_graph = ArticleGraph(schema=sent_schema)
+    article_graph.create_left_side_of_graph()
+
+    graph_json_schema = get_graph_as_json(article_graph)
+
+    return JsonResponse(graph_json_schema)
+
+
+@csrf_exempt
+def expand_right(request: HttpRequest):
+    sent_schema = json.loads(request.body.decode('utf-8'))
+    article_graph = ArticleGraph(schema=sent_schema)
+    article_graph.create_right_side_of_graph()
+
+    graph_json_schema = get_graph_as_json(article_graph)
+
+    return JsonResponse(graph_json_schema)
 
 
 def index(request: HttpRequest):
@@ -230,6 +344,8 @@ def index(request: HttpRequest):
     title = request.GET.get('title')
 
     article = find_article(title, authors)
-    graph_json_schema = get_graph_as_json(article)
+
+    article_graph = ArticleGraph(core_article=article)
+    graph_json_schema = get_graph_as_json(article_graph)
 
     return JsonResponse(graph_json_schema)

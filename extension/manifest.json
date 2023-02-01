@@ -15,7 +15,8 @@
   "content_scripts": [
     {
       "css": [
-        "css/loader.css"
+        "css/loader.css",
+        "css/graph_buttons.css"
       ],
       "js": [
         "dist/content.js"

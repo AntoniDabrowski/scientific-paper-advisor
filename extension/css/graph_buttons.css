@@ -1,0 +1,6 @@
+.btn + .btn {
+  margin-left: 2%; // added space between the two buttons
+}
+.btn {
+  width: 49%; // so that the div takes available width
+}
