@@ -126,6 +126,8 @@ if (pdf_results) {
         create_graph.className = "collapsible";
         create_graph.classList.add("projectbutton")
         create_graph.textContent = 'SPA';
+        create_graph.title = "Scientific Papers Advisor - puts the search result in the context " +
+            "of its references and uses in the later works."
 
         // Graph display
         var graph_menu = document.createElement("div");
@@ -144,6 +146,8 @@ if (pdf_results) {
         left_button.className = 'projectbutton'
         left_button.classList.add('doublebutton')
         left_button.id = "left_button_" + i;
+        left_button.title = "This option adds new column at the left side of the graph." +
+            "Articles in that column are the representatives of publications referenced in the previous left most column."
         graph_buttons.appendChild(left_button)
 
         var right_button = document.createElement("button");
@@ -151,6 +155,8 @@ if (pdf_results) {
         right_button.className = 'projectbutton'
         right_button.classList.add('doublebutton')
         right_button.id = "right_button_" + i;
+        right_button.title = "This option adds next generation to the graph," +
+            "articles citing the publications from the current right most column."
         graph_buttons.appendChild(right_button)
 
         graph_menu.appendChild(graph);
@@ -177,6 +183,9 @@ if (pdf_results) {
         left_button_scatter.className = 'projectbutton';
         left_button_scatter.classList.add('doublebutton');
         left_button_scatter.id = "left_button_scatter_" + i;
+        left_button_scatter.title="Shows suggestions for additional study contained " +
+            "in the recent articles from the same category as the search result." +
+            "Split into clusters based on similarity. Each cluster has a representative deemed most relevant."
         scatter_buttons.appendChild(left_button_scatter);
 
         var right_button_scatter = document.createElement("button");
@@ -184,6 +193,9 @@ if (pdf_results) {
         right_button_scatter.className = 'projectbutton';
         right_button_scatter.classList.add('doublebutton');
         right_button_scatter.id = "right_button_scatter_" + i;
+        right_button_scatter.title = "Shows abstracts of the recent articles " +
+            "from the same category as the search result." +
+            "Split into clusters based on similarity. Each cluster has a representative deemed most relevant."
         scatter_buttons.appendChild(right_button_scatter);
 
         scatter_menu.appendChild(scatter);
@@ -205,6 +217,8 @@ if (pdf_results) {
                 draw_scatter_plot(scatter_menu, i, this, scatter_data);
             }
         };
+        scatter_plot.title="Switch to the graph showing interesting data about " +
+            "the scientific category your search result belongs to."
         menu.appendChild(scatter_plot);
 
         json_storage[i] = "NO RECORD"
@@ -219,6 +233,7 @@ if (pdf_results) {
                 draw_graph_of_connections(graph_menu, i, this);
             }
         };
+        connection_graph.title="Switch to the graph showing citation context of your search result."
         menu.appendChild(connection_graph);
 
 
