@@ -1,0 +1,20 @@
+A tool for easier exploration of Google Scholar archives. It shows how a particular research article occurs in its domain by displaying a graph of its citation connotations and by mapping it on a linguistic similarity plane with other related publications.
+
+
+➤ How it works?
+It sends to our server the research paper that you are about to read. Next, we are collecting all the information about publications connected with it by citations and domain. Then we display it to show you the contexts in which this article occurs.
+
+➤ Category Field
+It is the first plot that you will see after pressing the extension button. It creates points in 3D space that are representing your article and others from its domain. The similarity is measured in two ways. The default mode displays future directions of study in the current category. You can also compare those publications based on their titles and abstracts, which may show you more papers similar to the current one.
+
+➤ Connection Graph
+The majority of scientific papers are based on the accomplishments of other researchers. It is reflected in bibliographies which are showing the influence of one publication on others. Those relations enable the creation of a directed graph from the oldest papers to the latest ones.
+
+Our extension reveals some parts of this huge Connection Graph by displaying connotations of the currently analyzed record. You can easily track how this particular scientific domain has developed and expanded over the years by moving forward and backward in time from your chosen publication.
+
+➤ Is it too slow? Well, let's see…
+The first plot renders almost instantly even tho it requires running a complex transformer model for text analysis. The graph of connections might seem like a waste of time. But let’s see the numbers. If one publication on average cites 30 others and is cited by 30, then in a default view we have to scrape from the web 60 often not-so-small articles. On deeper levels, the problem grows exponentially more complex. We also have to decide which research papers are worth mentioning, as the graph is too small to contain all the information. If you are still concerned, think about a time of doing it manually 😉
+
+
+Questions? Feedback?
+Write to us: dabrowskiantoni.official@gmail.com
