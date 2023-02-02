@@ -40,32 +40,41 @@ function draw_graph_of_connections(graph_menu, i, x) {
     }
 }
 
-function draw_scatter_plot(scatter, i, x) {
+function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) {
     console.log("In draw_scatter_plot");
     x.classList.toggle("active");
-    if (scatter.style.display === "block") {
+
+    let scatter = scatter_menu.children[0]
+    let buttons_menu = scatter_menu.children[1]
+
+    if (scatter_menu.style.display === "block" && not_internal) {
+        scatter_menu.style.display = "none";
+        buttons_menu.style.display = "none";
         scatter.style.display = "none";
         purge_graph(scatter.id);
     } else {
-        scatter.style.display = "block";
+        scatter_menu.style.display = "block";
         var article_data = extract_pdf_url(pdf_results[i]);
-        console.log("article_data: ", article_data);
-        var graph_schema = get_scatter_layout(article_data)
-        console.log("graph_schema: ", graph_schema);
-        // TODO add waiting animation
-        show_loader(scatter.id);
+
+        var graph_schema = get_scatter_layout(article_data);
+
         graph_schema.then(function (returned_json) {
             hide_loader(scatter.id);
-            create_scatter_on_scholar_result(scatter, returned_json);
+            scatter.style.display = "block";
+            create_scatter_on_scholar_result(scatter, returned_json, scatter_data);
+            buttons_menu.style.display = "block";
         }).catch(function (error) {
-            // TODO add action in case of failure.
+            scatter_menu.style.display = "none";
+            buttons_menu.style.display = "none";
+            scatter.style.display = "none";
             hide_loader(scatter.id);
             console.error(error);
         });
     }
 }
 
-function handle_menu(menu, graph_menu, scatter, i, x) {
+
+function handle_menu(menu, graph_menu, scatter_menu, i, x, scatter_data) {
     console.log("In handle_menu");
     x.classList.toggle("active");
 
@@ -75,10 +84,10 @@ function handle_menu(menu, graph_menu, scatter, i, x) {
         menu.style.display = "block";
     }
 
-    if (graph_menu.style.display === "none" && scatter.style.display === "none") {
-        draw_scatter_plot(scatter, i, x);
-    } else if (scatter.style.display === "block") {
-        draw_scatter_plot(scatter, i, x);
+    if (graph_menu.style.display === "none" && scatter_menu.style.display === "none") {
+        draw_scatter_plot(scatter_menu, i, x, scatter_data);
+    } else if (scatter_menu.style.display === "block") {
+        draw_scatter_plot(scatter_menu, i, x, scatter_data);
     } else {
         draw_graph_of_connections(graph_menu, i, x);
     }
@@ -136,6 +145,7 @@ if (pdf_results) {
         create_graph.classList.add("projectbutton")
         create_graph.textContent = 'SPA';
 
+        // Graph display
         var graph_menu = document.createElement("div");
         graph_menu.className = "content";
         graph_menu.id = "graph_menu_" + i;
@@ -161,18 +171,57 @@ if (pdf_results) {
         right_button.id = "right_button_" + i;
         graph_buttons.appendChild(right_button)
 
-        graph_menu.appendChild(graph)
-        graph_menu.appendChild(graph_buttons)
+        graph_menu.appendChild(graph);
+        graph_menu.appendChild(graph_buttons);
+
+
+        // Scatter display
+        let scatter_data = 'further_research';
+
+        var scatter_menu = document.createElement("div");
+        scatter_menu.className = "content";
+        scatter_menu.id = "scatter_menu_" + i;
+        scatter_menu.style.display = "none";
+
+        var scatter_buttons = document.createElement("div");
+        scatter_buttons.id = "scatter_buttons_" + i;
 
         var scatter = document.createElement("div");
         scatter.id = "scatter_" + i;
         scatter.style.display = "none";
+
+        var left_button_scatter = document.createElement("button");
+        left_button_scatter.textContent = 'Further research';
+        left_button_scatter.className = 'btn';
+        left_button_scatter.id = "left_button_scatter_" + i;
+        scatter_buttons.appendChild(left_button_scatter);
+
+        var right_button_scatter = document.createElement("button");
+        right_button_scatter.textContent = 'Abstract';
+        right_button_scatter.className = 'btn';
+        right_button_scatter.id = "right_button_scatter_" + i;
+        scatter_buttons.appendChild(right_button_scatter);
+
+        scatter_menu.appendChild(scatter);
+        scatter_menu.appendChild(scatter_buttons);
 
         // Menu container and buttons
         var menu = document.createElement("div");
         menu.className = "menu";
         menu.id = "menu_" + i;
         menu.style.display = "none";
+
+        var scatter_plot = document.createElement("button");
+        scatter_plot.innerHTML = "Scatter plot";
+        scatter_plot.className = 'projectbutton';
+        scatter_plot.classList.add('doublebutton');
+        scatter_plot.onclick = function () {
+            if (scatter_menu.style.display === "none") {
+                graph_menu.style.display = "none"
+                draw_scatter_plot(scatter_menu, i, this, scatter_data);
+            }
+        };
+        menu.appendChild(scatter_plot);
 
         json_storage[i] = "NO RECORD"
 
@@ -183,27 +232,15 @@ if (pdf_results) {
         connection_graph.onclick = function () {
             console.debug(graph_menu)
             if (graph_menu.style.display === "none") {
-                scatter.style.display = "none"
+                scatter_menu.style.display = "none"
                 draw_graph_of_connections(graph_menu, i, this);
             }
         };
         menu.appendChild(connection_graph);
 
 
-        var scatter_plot = document.createElement("button");
-        scatter_plot.innerHTML = "Scatter plot";
-        scatter_plot.className = 'projectbutton';
-        scatter_plot.classList.add('doublebutton')
-        scatter_plot.onclick = function () {
-            if (scatter.style.display === "none") {
-                graph_menu.style.display = "none"
-                draw_scatter_plot(scatter, i, this);
-            }
-        };
-        menu.appendChild(scatter_plot);
-
         create_graph.addEventListener("click", function () {
-            handle_menu(menu, graph_menu, scatter, i, this);
+            handle_menu(menu, graph_menu, scatter_menu, i, this, scatter_data);
         });
 
         left_button.addEventListener("click", function () {
@@ -214,6 +251,16 @@ if (pdf_results) {
             expand_graph_right(graph_menu, i);
         });
 
+        left_button_scatter.addEventListener("click", function () {
+            scatter_data = 'further_research';
+            draw_scatter_plot(scatter_menu, i, this, scatter_data, not_internal=false);
+        });
+
+        right_button_scatter.addEventListener("click", function () {
+            scatter_data = 'abstract';
+            draw_scatter_plot(scatter_menu, i, this, scatter_data, not_internal=false);
+        });
+
         let links_of_result;
         let search_result_box;
 
@@ -222,7 +269,7 @@ if (pdf_results) {
         search_result_box = pdf_results[i].parentNode;
         links_of_result = search_result_box.getElementsByClassName('gs_fl');
         links_of_result[1].insertAdjacentElement('afterend', graph_menu);
-        links_of_result[1].insertAdjacentElement('afterend', scatter);
+        links_of_result[1].insertAdjacentElement('afterend', scatter_menu);
         links_of_result[1].insertAdjacentElement('afterend', menu);
     };
 
