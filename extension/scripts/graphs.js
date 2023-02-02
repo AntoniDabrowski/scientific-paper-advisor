@@ -14,8 +14,6 @@ function create_text_for_graph(nodes) {
         }
         result.push(`${node_dict['title']}` +
             `<br>Authors: ${node_dict['authors']}<br>` + num_citatios_string)
-        // TODO: Move reference to url to the node, rather than its hover
-        // TODO: Hovers by default has part '<extra>something</extra>', where 'something' will be display next to hover, we don't want that
     }
 
     return result;
@@ -73,7 +71,8 @@ function prepare_article_markers(layout, nodes) {
             sizemode: 'diameter',
             color: '#6bbda2',
             opacity: 1
-        }
+        },
+        hovertemplate: `%{text}<extra></extra>`
     };
 }
 
