@@ -133,7 +133,8 @@ if (pdf_results) {
     var _loop = function _loop(i) {
         var create_graph = document.createElement("button");
         create_graph.className = "collapsible";
-        create_graph.textContent = 'project button';
+        create_graph.classList.add("projectbutton")
+        create_graph.textContent = 'SPA';
 
         var graph_menu = document.createElement("div");
         graph_menu.className = "content";
@@ -148,13 +149,15 @@ if (pdf_results) {
 
         var left_button = document.createElement("button");
         left_button.textContent = 'left button';
-        left_button.className = 'btn'
+        left_button.className = 'projectbutton'
+        left_button.classList.add('doublebutton')
         left_button.id = "left_button_" + i;
         graph_buttons.appendChild(left_button)
 
         var right_button = document.createElement("button");
         right_button.textContent = 'right button';
-        right_button.className = 'btn'
+        right_button.className = 'projectbutton'
+        right_button.classList.add('doublebutton')
         right_button.id = "right_button_" + i;
         graph_buttons.appendChild(right_button)
 
@@ -175,7 +178,8 @@ if (pdf_results) {
 
         var connection_graph = document.createElement("button");
         connection_graph.innerHTML = "Connection graph";
-        connection_graph.className = 'btn';
+        connection_graph.className = 'projectbutton';
+        connection_graph.classList.add('doublebutton')
         connection_graph.onclick = function () {
             console.debug(graph_menu)
             if (graph_menu.style.display === "none") {
@@ -188,7 +192,8 @@ if (pdf_results) {
 
         var scatter_plot = document.createElement("button");
         scatter_plot.innerHTML = "Scatter plot";
-        scatter_plot.className = 'btn';
+        scatter_plot.className = 'projectbutton';
+        scatter_plot.classList.add('doublebutton')
         scatter_plot.onclick = function () {
             if (scatter.style.display === "none") {
                 graph_menu.style.display = "none"
