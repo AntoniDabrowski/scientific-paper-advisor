@@ -1,6 +1,12 @@
-.btn + .btn {
+.projectbutton {
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  background-color: #4d90fe;
+}
+
+.doublebutton + .doublebutton {
   margin-left: 2%; // added space between the two buttons
 }
-.btn {
+.doublebutton {
   width: 49%; // so that the div takes available width
 }

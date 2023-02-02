@@ -6,7 +6,6 @@ const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
 let json_storage = [];
 
 function draw_graph_of_connections(graph_menu, i, x) {
-    console.log("In draw_graph_of_connections");
     x.classList.toggle("active");
     let graph = graph_menu.children[0]
     let buttons_menu = graph_menu.children[1]
@@ -41,7 +40,6 @@ function draw_graph_of_connections(graph_menu, i, x) {
 }
 
 function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) {
-    console.log("In draw_scatter_plot");
     x.classList.toggle("active");
 
     let scatter = scatter_menu.children[0]
@@ -49,14 +47,12 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
 
     if (scatter_menu.style.display === "block" && not_internal) {
         scatter_menu.style.display = "none";
-        buttons_menu.style.display = "none";
-        scatter.style.display = "none";
         purge_graph(scatter.id);
     } else {
         scatter_menu.style.display = "block";
         var article_data = extract_pdf_url(pdf_results[i]);
-
         var graph_schema = get_scatter_layout(article_data);
+        show_loader(scatter.id)
 
         graph_schema.then(function (returned_json) {
             hide_loader(scatter.id);
@@ -65,8 +61,6 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
             buttons_menu.style.display = "block";
         }).catch(function (error) {
             scatter_menu.style.display = "none";
-            buttons_menu.style.display = "none";
-            scatter.style.display = "none";
             hide_loader(scatter.id);
             console.error(error);
         });
@@ -75,7 +69,6 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
 
 
 function handle_menu(menu, graph_menu, scatter_menu, i, x, scatter_data) {
-    console.log("In handle_menu");
     x.classList.toggle("active");
 
     if (menu.style.display === "block") {
@@ -97,19 +90,13 @@ function handle_menu(menu, graph_menu, scatter_menu, i, x, scatter_data) {
 function expand_graph_left(graph_menu, i) {
     if (json_storage[i] !== "NO RECORD") {
         let graph = graph_menu.children[0]
-        //let buttons_menu = graph_menu.children[1]
-
         let schema_promise = update_schema_left(json_storage[i])
 
         schema_promise.then(function (returned_json) {
-            //hide_loader(graph.id);
             json_storage[i] = returned_json
             create_graph_on_scholar_result(graph.id, returned_json);
-            //buttons_menu.style.display = "block";
         }).catch(function (error) {
             // TODO add action in case of failure.
-            //buttons_menu.style.display = "none";
-            //hide_loader(graph.id);
             console.error(error);
         });
 
@@ -119,19 +106,14 @@ function expand_graph_left(graph_menu, i) {
 function expand_graph_right(graph_menu, i) {
     if (json_storage[i] !== "NO RECORD") {
         let graph = graph_menu.children[0]
-        //let buttons_menu = graph_menu.children[1]
 
         let schema_promise = update_schema_right(json_storage[i])
 
         schema_promise.then(function (returned_json) {
-            //hide_loader(graph.id);
             json_storage[i] = returned_json
             create_graph_on_scholar_result(graph.id, returned_json);
-            //buttons_menu.style.display = "block";
         }).catch(function (error) {
             // TODO add action in case of failure.
-            //buttons_menu.style.display = "none";
-            //hide_loader(graph.id);
             console.error(error);
         });
 
@@ -142,7 +124,8 @@ if (pdf_results) {
     var _loop = function _loop(i) {
         var create_graph = document.createElement("button");
         create_graph.className = "collapsible";
-        create_graph.textContent = 'project button';
+        create_graph.classList.add("projectbutton")
+        create_graph.textContent = 'SPA';
 
         // Graph display
         var graph_menu = document.createElement("div");
@@ -157,14 +140,16 @@ if (pdf_results) {
         graph.id = "graph_" + i;
 
         var left_button = document.createElement("button");
-        left_button.textContent = 'left button';
-        left_button.className = 'btn'
+        left_button.textContent = 'Expand left side';
+        left_button.className = 'projectbutton'
+        left_button.classList.add('doublebutton')
         left_button.id = "left_button_" + i;
         graph_buttons.appendChild(left_button)
 
         var right_button = document.createElement("button");
-        right_button.textContent = 'right button';
-        right_button.className = 'btn'
+        right_button.textContent = 'Expand right side';
+        right_button.className = 'projectbutton'
+        right_button.classList.add('doublebutton')
         right_button.id = "right_button_" + i;
         graph_buttons.appendChild(right_button)
 
@@ -189,13 +174,15 @@ if (pdf_results) {
 
         var left_button_scatter = document.createElement("button");
         left_button_scatter.textContent = 'Further research';
-        left_button_scatter.className = 'btn';
+        left_button_scatter.className = 'projectbutton';
+        left_button_scatter.classList.add('doublebutton');
         left_button_scatter.id = "left_button_scatter_" + i;
         scatter_buttons.appendChild(left_button_scatter);
 
         var right_button_scatter = document.createElement("button");
         right_button_scatter.textContent = 'Abstract';
-        right_button_scatter.className = 'btn';
+        right_button_scatter.className = 'projectbutton';
+        right_button_scatter.classList.add('doublebutton');
         right_button_scatter.id = "right_button_scatter_" + i;
         scatter_buttons.appendChild(right_button_scatter);
 
@@ -209,8 +196,9 @@ if (pdf_results) {
         menu.style.display = "none";
 
         var scatter_plot = document.createElement("button");
-        scatter_plot.innerHTML = "Scatter plot";
-        scatter_plot.className = 'btn';
+        scatter_plot.textContent = "Scatter plot";
+        scatter_plot.className = 'projectbutton';
+        scatter_plot.classList.add('doublebutton');
         scatter_plot.onclick = function () {
             if (scatter_menu.style.display === "none") {
                 graph_menu.style.display = "none"
@@ -222,10 +210,10 @@ if (pdf_results) {
         json_storage[i] = "NO RECORD"
 
         var connection_graph = document.createElement("button");
-        connection_graph.innerHTML = "Connection graph";
-        connection_graph.className = 'btn';
+        connection_graph.textContent = "Connection graph";
+        connection_graph.className = 'projectbutton';
+        connection_graph.classList.add('doublebutton')
         connection_graph.onclick = function () {
-            console.debug(graph_menu)
             if (graph_menu.style.display === "none") {
                 scatter_menu.style.display = "none"
                 draw_graph_of_connections(graph_menu, i, this);

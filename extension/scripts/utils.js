@@ -29,7 +29,6 @@ function get_author(scholar_result) {
     authors_line = authors_line.replace('…','')
     // Handling accents
     authors_line = authors_line.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
-    console.log(authors_line)
     return authors_line.split(',');
 }
 
@@ -57,7 +56,6 @@ const request = (url, params = {}, method = 'GET') => {
     } else {
         options.body = JSON.stringify(params);
     }
-    console.log(url);
     return fetch(url, options).then(response => response.json());
 };
 

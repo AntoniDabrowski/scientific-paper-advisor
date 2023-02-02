@@ -4,6 +4,7 @@ import multiprocessing
 import os
 import tempfile
 import unicodedata
+from datetime import date, timedelta
 from multiprocessing import Process
 from pathlib import Path
 from typing import List, Dict
@@ -19,11 +20,10 @@ from scholarly import scholarly, Publication, ProxyGenerator
 from science_parse_api.api import parse_pdf
 from unidecode import unidecode
 
-from .models import ScholarlyPublication, CitationReferences
+from .models import ScholarlyPublication, CitationReferences, FailedPublicationGrab
 from .popularity_prediction.model import predict
 
 load_dotenv()
-
 
 pg = ProxyGenerator()
 success = pg.ScraperAPI(os.getenv('SCRAPERAPI_KEY'))
@@ -244,7 +244,8 @@ class ArticleGraph(nx.Graph):
         title = article['bib']['title']
         predicted = False
 
-        if isinstance(pub_year,int) and pub_year >= YEAR_THRESHOLD and num_citations <= CITATION_THRESHOLD:
+        if isinstance(pub_year, int) and pub_year >= int(os.getenv('YEAR_THRESHOLD')) \
+                and num_citations <= int(os.getenv('CITATION_THRESHOLD')):
             abstract = article['bib'].get('abstract', "NONE")
             num_citations = predict(title, abstract)
             predicted = True
@@ -285,6 +286,8 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
     authors_mash = "".join([unidecode(a).lower() for a in authors])
     title = title.lower()
 
+    timeout_failed_search = date.today() - timedelta(days=int(os.getenv('TIMEOUT_OF_FAILED_SEARCH_IN_DAYS')))
+
     if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
         # Publication found. Get from the database
         print("Record for publication {} retrieved from the database.".format(title))
@@ -293,19 +296,32 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
             raise RuntimeError('Database contain more than one result with this title and authors.')
         else:
             return PublicationWithID(idx=db_records.pk, publication=db_records.publication)
+    elif FailedPublicationGrab.objects.filter(title=title,
+                                              authors=authors_mash,
+                                              attemptdate__gte=timeout_failed_search).exists():
+        # We already looked for this article and failed
+        raise RuntimeError('Article {} is recorded in the database as a failed searched.'.format(title))
     else:
         # query need to reflect what we put into the Google Scholar search bar.
         print("Looking for article {} in scholarly.".format(title))
         query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
         publication_generator = scholarly.search_pubs(query=query)
 
+        counter = 0
         for publication in publication_generator:
             # Use api to find an article with matching title and authors list.
             if publication['bib'].get('title', 'NOT FOUND').lower() == title.lower():
                 # Save article to db for reuse.
                 return add_publication_to_database(publication=publication)
 
+            add_publication_to_database(publication=publication)  # Save any found articles
+
+            counter += 1
+            if counter == os.getenv('LIMIT_OF_ARTICLES_TO_SEARCH_THROUGH'):
+                break
+
     # Matching article wasn't found.
+    FailedPublicationGrab.objects.update_or_create(title=title, authors=authors_mash)  # Record failed search attempt
     raise RuntimeError('Article not found in Scholar.')
 
 
