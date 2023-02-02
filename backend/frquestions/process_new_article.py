@@ -51,7 +51,9 @@ def split_into_sentences(text):
 
 
 def contain_phrase(sentence):
-    return any([True for phrase in ['further research', 'further study'] if phrase in sentence])
+    FURTHER_RESEARCH_PHRASES = ['further research', 'further study', 'future work', 'additional research',
+                                'further analysis', 'further examination', 'additional investigation', 'additional studies']
+    return any([True for phrase in FURTHER_RESEARCH_PHRASES if phrase in sentence])
 
 
 def parse_hovers(docs):
@@ -179,8 +181,8 @@ def handle_from_pdf(record, url, SentenceTransformer_loaded):
 
     # handling further research clustering
     if further_research_section:
-        if len(further_research_section) > 1500:
-            further_research_section = further_research_section[:1500] + '...'
+        if len(further_research_section) > 1000:
+            further_research_section = further_research_section[:1000] + '...'
         model = get_model(category, 'further research')
         embedding = SentenceTransformer_loaded.encode([further_research_section])
         _x, _y, _z = model.transform(embedding)[0]
@@ -212,8 +214,8 @@ def handle_from_pdf(record, url, SentenceTransformer_loaded):
 
     # handling abstract clustering
     if abstract:
-        if len(abstract) > 1500:
-            abstract = abstract[:1500] + '...'
+        if len(abstract) > 1000:
+            abstract = abstract[:1000] + '...'
 
         model = get_model(category, 'abstract')
         embedding = SentenceTransformer_loaded.encode([abstract])
@@ -225,7 +227,7 @@ def handle_from_pdf(record, url, SentenceTransformer_loaded):
                                 'z': [str(_z)],
                                 'text': [f'<b>{title}</b><br>{hover}'],
                                 'url': [url],
-                                'title': 'CURRENT',
+                                'title': category,
                                 'color': 'black'}
 
         AB_ProcessedPDF.objects.create(url=url,
@@ -263,7 +265,7 @@ def handle_from_db(url):
                              'z': [str(FR_record.z)],
                              'text': [f'<b>{FR_record.title}</b><br>{FR_record.hover}'],
                              'url': [url],
-                             'title': 'CURRENT',
+                             'title': category,
                              'color': 'black'}
 
     if AB_record.x is not None and AB_record.y is not None and AB_record.z is not None:
@@ -272,7 +274,7 @@ def handle_from_db(url):
                              'z': [str(AB_record.z)],
                              'text': [f'<b>{AB_record.title}</b><br>{AB_record.hover}'],
                              'url': [url],
-                             'title': 'CURRENT',
+                             'title': category,
                              'color': 'black'}
 
     return {'further_research': traces_FR, 'abstract': traces_AB}
