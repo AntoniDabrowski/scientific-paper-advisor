@@ -195,7 +195,7 @@ if (pdf_results) {
         right_button_scatter.id = "right_button_scatter_" + i;
         right_button_scatter.title = "Shows abstracts of the recent articles " +
             "from the same category as the search result." +
-            "Splitted into clusters based on similarity. Each cluster has a representative deemed most relevant."
+            "Split into clusters based on similarity. Each cluster has a representative deemed most relevant."
         scatter_buttons.appendChild(right_button_scatter);
 
         scatter_menu.appendChild(scatter);
