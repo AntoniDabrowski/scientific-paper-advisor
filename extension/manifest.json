@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Scientific paper advisor",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Add the reading time to Chrome Extension documentation articles",
 
   "icons": {
@@ -26,5 +26,9 @@
         "file:///C:/Users/ctroska/Downloads/genetic%20algorithm%20-%20Google%20Scholar.html"
       ]
     }
-  ]
+  ],
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["storage"]
 }
