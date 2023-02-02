@@ -5,7 +5,7 @@ import pandas as pd
 import re
 
 from frquestions.category_analysis.model import predict_category
-from frquestions.models import ProcessedPDF, FromArxivFR
+from frquestions.models import FR_ProcessedPDF, AB_ProcessedPDF
 
 
 def split_into_sentences(text):
@@ -51,7 +51,9 @@ def split_into_sentences(text):
 
 
 def contain_phrase(sentence):
-    return any([True for phrase in ['further research', 'further study'] if phrase in sentence])
+    FURTHER_RESEARCH_PHRASES = ['further research', 'further study', 'future work', 'additional research',
+                                'further analysis', 'further examination', 'additional investigation', 'additional studies']
+    return any([True for phrase in FURTHER_RESEARCH_PHRASES if phrase in sentence])
 
 
 def parse_hovers(docs):
@@ -66,7 +68,7 @@ def parse_hovers(docs):
                 current_line = ""
             current_line += ' ' + word
         if current_line:
-            new_doc += current_line + '<br>'
+            new_doc += current_line
         hovers.append(new_doc)
     return hovers
 
@@ -85,25 +87,33 @@ def extract_FR(section):
 def handle_PDF_response(response):
     title = response.get("title", "")
     abstract = response.get("abstractText", "")
-    for section in response.get('sections',[]):
+    for section in response.get('sections', []):
         for text in section.values():
             if contain_phrase(text):
                 return title, abstract, extract_FR(text)
     return title, abstract, ""
 
 
-def get_model(category):
-    mypath_input = './frquestions/FR_models'
+def get_model(category, part):
+    if part == 'further research':
+        mypath_input = './frquestions/FR_models'
+    elif part == 'abstract':
+        mypath_input = './frquestions/AB_models'
     for f in listdir(mypath_input):
         if category == f[:len(category)]:
             return pickle.load(open(join(mypath_input, f), 'rb'))
 
 
-def get_csv(category):
-    mypath_input = './frquestions/FR_results'
+def get_csv(category, part):
+    if part == 'further research':
+        mypath_input = './frquestions/FR_results'
+    elif part == 'abstract':
+        mypath_input = './frquestions/AB_results'
+
     for f in listdir(mypath_input):
         if category == f[:len(category)]:
             return pd.read_csv(join(mypath_input, f))
+
 
 def get_empty_traces(category):
     empty_cluster = lambda color: {"x": [], "y": [], "z": [], "text": [], "url": [], "title": category,
@@ -117,13 +127,15 @@ def get_empty_traces(category):
               "C_centroid": empty_cluster('blue')}
     return traces
 
-def prepare_data_from_csv(category):
-    df = get_csv(category)
+
+def prepare_data_from_csv(category, part):
+    df = get_csv(category, part)
     x, y, z = df['x'].tolist(), df['y'].tolist(), df['z'].tolist()
     cluster = df['label'].tolist()
     urls = df['url'].tolist()
     titles = df['title'].tolist()
-    hovers = df['further research'].tolist()
+    titles = parse_hovers(titles)
+    hovers = df[part].tolist()
     hovers = parse_hovers(hovers)
 
     traces = get_empty_traces(category)
@@ -136,6 +148,7 @@ def prepare_data_from_csv(category):
         traces[_cluster]['url'].append(_url)
 
     return traces
+
 
 def prepare_data_from_db(category):
     records = FromArxivFR.objects.filter(category=category)
@@ -153,67 +166,115 @@ def prepare_data_from_db(category):
     return traces
 
 
-
-def handle_from_pdf(record, url, SentenceTransformer_loaded, from_db=False):
+def handle_from_pdf(record, url, SentenceTransformer_loaded):
     if not record:
         return {}
 
     title, abstract, further_research_section = handle_PDF_response(record)
     category = predict_category(f'{title}.\n{abstract}', SentenceTransformer_loaded)
 
-    if from_db:
-        traces = prepare_data_from_db(category)
-    else:
-        traces = prepare_data_from_csv(category)
+    traces_FR = prepare_data_from_csv(category, 'further research')
+    traces_AB = prepare_data_from_csv(category, 'abstract')
 
+    if title:
+        title = parse_hovers([title])[0]
+
+    # handling further research clustering
     if further_research_section:
-        model = get_model(category)
+        if len(further_research_section) > 1000:
+            further_research_section = further_research_section[:1000] + '...'
+        model = get_model(category, 'further research')
         embedding = SentenceTransformer_loaded.encode([further_research_section])
         _x, _y, _z = model.transform(embedding)[0]
 
         hover = parse_hovers([further_research_section])[0]
+        traces_FR['CURRENT'] = {'x': [str(_x)],
+                                'y': [str(_y)],
+                                'z': [str(_z)],
+                                'text': [f'<b>{title}</b><br>{hover}'],
+                                'url': [url],
+                                'title': 'CURRENT',
+                                'color': 'black'}
 
-        traces['CURRENT'] = {'x': [str(_x)],
-                             'y': [str(_y)],
-                             'z': [str(_z)],
-                             'text': [f'<b>{title}</b><br>{hover}'],
-                             'url': [url],
-                             'title': 'CURRENT',
-                             'color': 'black'}
-
-        ProcessedPDF.objects.create(url=url,
-                                    x=_x,
-                                    y=_y,
-                                    z=_z,
-                                    title=title,
-                                    category=category,
-                                    hover=hover[0])
+        FR_ProcessedPDF.objects.create(url=url,
+                                       x=_x,
+                                       y=_y,
+                                       z=_z,
+                                       title=title,
+                                       category=category,
+                                       hover=hover)
     else:
-        ProcessedPDF.objects.create(url=url,
-                                    x=None,
-                                    y=None,
-                                    z=None,
-                                    title=title,
-                                    category=category,
-                                    hover="")
-    return traces
+        FR_ProcessedPDF.objects.create(url=url,
+                                       x=None,
+                                       y=None,
+                                       z=None,
+                                       title=title,
+                                       category=category,
+                                       hover="")
 
+    # handling abstract clustering
+    if abstract:
+        if len(abstract) > 1000:
+            abstract = abstract[:1000] + '...'
 
+        model = get_model(category, 'abstract')
+        embedding = SentenceTransformer_loaded.encode([abstract])
+        _x, _y, _z = model.transform(embedding)[0]
+
+        hover = parse_hovers([abstract])[0]
+        traces_AB['CURRENT'] = {'x': [str(_x)],
+                                'y': [str(_y)],
+                                'z': [str(_z)],
+                                'text': [f'<b>{title}</b><br>{hover}'],
+                                'url': [url],
+                                'title': category,
+                                'color': 'black'}
+
+        AB_ProcessedPDF.objects.create(url=url,
+                                       x=_x,
+                                       y=_y,
+                                       z=_z,
+                                       title=title,
+                                       category=category,
+                                       hover=hover)
+    else:
+        AB_ProcessedPDF.objects.create(url=url,
+                                       x=None,
+                                       y=None,
+                                       z=None,
+                                       title=title,
+                                       category=category,
+                                       hover="")
+
+    return {'further_research': traces_FR, 'abstract': traces_AB}
 
 
 def handle_from_db(url):
-    record = ProcessedPDF.objects.get(url=url)
-    category = record.category
+    FR_record = FR_ProcessedPDF.objects.get(url=url)
+    AB_record = AB_ProcessedPDF.objects.get(url=url)
 
-    traces = prepare_data_from_csv(category)
+    category = FR_record.category
 
-    if record.x is not None and record.y is not None and record.z is not None:
-        traces['CURRENT'] = {'x': [str(record.x)],
-                             'y': [str(record.y)],
-                             'z': [str(record.z)],
-                             'text': [f'<b>{record.title}</b><br>{record.hover}'],
+    traces_FR = prepare_data_from_csv(category, 'further research')
+    traces_AB = prepare_data_from_csv(category, 'abstract')
+
+
+    if FR_record.x is not None and FR_record.y is not None and FR_record.z is not None:
+        traces_FR['CURRENT'] = {'x': [str(FR_record.x)],
+                             'y': [str(FR_record.y)],
+                             'z': [str(FR_record.z)],
+                             'text': [f'<b>{FR_record.title}</b><br>{FR_record.hover}'],
                              'url': [url],
-                             'title': 'CURRENT',
+                             'title': category,
                              'color': 'black'}
 
-    return traces
+    if AB_record.x is not None and AB_record.y is not None and AB_record.z is not None:
+        traces_AB['CURRENT'] = {'x': [str(AB_record.x)],
+                             'y': [str(AB_record.y)],
+                             'z': [str(AB_record.z)],
+                             'text': [f'<b>{AB_record.title}</b><br>{AB_record.hover}'],
+                             'url': [url],
+                             'title': category,
+                             'color': 'black'}
+
+    return {'further_research': traces_FR, 'abstract': traces_AB}

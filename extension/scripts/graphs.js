@@ -82,64 +82,140 @@ export function create_graph_on_scholar_result(divid, json) {
     // TODO: After user clicks on node, the related PDF should pop-up
 }
 
-export function create_scatter_on_scholar_result(scatter, json) {
-    var data = [];
+export function create_scatter_on_scholar_result(scatter, json, scatter_data) {
     var title = "";
-    var colorway = [];
-    Object.entries(json).forEach(entry => {
-        const [key, value] = entry;
-        var join_arr = [];
-        for (var i=0; i<value.text.length; i++)
-            join_arr[i] = [value.text[i], value.url[i]];
-        var trace = {
-            x: value.x,
-            y: value.y,
-            z: value.z,
-            type: 'scatter3d',
-            text: value.text,
-            name: key,
-            mode: 'markers',
-            marker: { size: 4 },
-            customdata: join_arr,
-            hovertemplate: '%{customdata[0]}<extra></extra>'
+    let name_map = {"A": "Cluster A",
+                    "B": "Cluster B",
+                    "C": "Cluster C",
+                    "A_centroid": "Centroid of cluster A",
+                    "B_centroid": "Centroid of cluster B",
+                    "C_centroid": "Centroid of cluster C",
+                    "CURRENT": "Representation of current paper"}
+    if (scatter_data == 'further_research')
+    {
+        // Further research data parsing
+        var data_FR = [];
+        var colorway_FR = [];
+
+        Object.entries(json['further_research']).forEach(entry => {
+            const [key, value] = entry;
+            var join_arr = [];
+            for (var i=0; i<value.text.length; i++)
+                join_arr[i] = [value.text[i], value.url[i]];
+            var trace = {
+                x: value.x,
+                y: value.y,
+                z: value.z,
+                type: 'scatter3d',
+                text: value.text,
+                name: name_map[key],
+                mode: 'markers',
+                marker: { size: 4 },
+                customdata: join_arr,
+                hovertemplate: '%{customdata[0]}<extra></extra>'
+            };
+            colorway_FR.push(value.color);
+            data_FR.push(trace);
+            title = value.title;
+        });
+
+
+        var layout_FR = {
+            title: 'Further research clustering - ' + categories[title],
+            hoverlabel: { align:'left' },
+            colorway: colorway_FR,
+            width: 1000,
+            margin: {
+                l: 0,
+                r: 0,
+                b: 30,
+                t: 30,
+                pad: 0
+            },
+            xaxis: {
+                title: 'x',
+                showgrid: false,
+                zeroline: false
+            },
+            yaxis: {
+                title: 'y',
+                showline: false
+            },
+            zaxis: {
+                title: 'z',
+                showline: false
+            }
         };
-        colorway.push(value.color);
-        data.push(trace);
-        title = value.title;
-    });
-
-    var layout = {
-        title: 'Further research clustering - ' + categories[title],
-        hoverlabel: { align:'left' },
-        colorway: colorway,
-        width: 1000,
-        margin: {
-            l: 0,
-            r: 0,
-            b: 0,
-            t: 30,
-            pad: 0
-        },
-        xaxis: {
-            title: 'x',
-            showgrid: false,
-            zeroline: false
-        },
-        yaxis: {
-            title: 'y',
-            showline: false
-        },
-        zaxis: {
-            title: 'z',
-            showline: false
-        }
-    };
-    Plotly.newPlot(scatter.id, data, layout);
-
-    // Opens PDF related to the clicked point
-    scatter.on('plotly_click', function(data){
+        Plotly.newPlot(scatter.id, data_FR, layout_FR);
+        // Opens PDF related to the clicked point
+        scatter.on('plotly_click', function(data){
         window.open(data['points'][0]['customdata'][1]);
-    });
+        });
+        console.log('Scatter: further research');
+    }
+    else {
+        // Abstract data parsing
+        var data_AB = [];
+        var colorway_AB = [];
+
+        Object.entries(json['abstract']).forEach(entry => {
+            const [key, value] = entry;
+            var join_arr = [];
+            for (var i=0; i<value.text.length; i++)
+                join_arr[i] = [value.text[i], value.url[i]];
+            var trace = {
+                x: value.x,
+                y: value.y,
+                z: value.z,
+                type: 'scatter3d',
+                text: value.text,
+                name: name_map[key],
+                mode: 'markers',
+                marker: { size: 4 },
+                customdata: join_arr,
+                hovertemplate: '%{customdata[0]}<extra></extra>'
+            };
+            colorway_AB.push(value.color);
+            data_AB.push(trace);
+            title = value.title;
+
+
+        });
+
+        var layout_AB = {
+            title: 'Abstract clustering - ' + categories[title],
+            hoverlabel: { align:'left' },
+            colorway: colorway_AB,
+            width: 1000,
+            margin: {
+                l: 0,
+                r: 0,
+                b: 30,
+                t: 30,
+                pad: 0
+            },
+            xaxis: {
+                title: 'x',
+                showgrid: false,
+                zeroline: false
+            },
+            yaxis: {
+                title: 'y',
+                showline: false
+            },
+            zaxis: {
+                title: 'z',
+                showline: false
+            }
+        };
+        Plotly.newPlot(scatter.id, data_AB, layout_AB);
+
+        // Opens PDF related to the clicked point
+        scatter.on('plotly_click', function(data){
+        window.open(data['points'][0]['customdata'][1]);
+        });
+        console.log('Scatter: abstract');
+    }
 }
 
 export function purge_graph(divid) {
