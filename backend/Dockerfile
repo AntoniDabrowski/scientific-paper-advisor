@@ -26,4 +26,4 @@ COPY . $DockerHOME
 # port where the Django app runs
 EXPOSE 8000
 # start server
-CMD python manage.py makemigrations && python manage.py migrate && gunicorn spaserver.wsgi --bind 0.0.0.0:8000 --timeout 120 --workers 5
+CMD python manage.py makemigrations && python manage.py migrate && gunicorn spaserver.wsgi
