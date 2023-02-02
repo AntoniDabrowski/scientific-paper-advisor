@@ -192,13 +192,15 @@ if (pdf_results) {
 
         var left_button_scatter = document.createElement("button");
         left_button_scatter.textContent = 'Further research';
-        left_button_scatter.className = 'btn';
+        left_button_scatter.className = 'projectbutton';
+        left_button_scatter.classList.add('doublebutton');
         left_button_scatter.id = "left_button_scatter_" + i;
         scatter_buttons.appendChild(left_button_scatter);
 
         var right_button_scatter = document.createElement("button");
         right_button_scatter.textContent = 'Abstract';
-        right_button_scatter.className = 'btn';
+        right_button_scatter.className = 'projectbutton';
+        right_button_scatter.add('doublebutton');
         right_button_scatter.id = "right_button_scatter_" + i;
         scatter_buttons.appendChild(right_button_scatter);
 
@@ -212,7 +214,7 @@ if (pdf_results) {
         menu.style.display = "none";
 
         var scatter_plot = document.createElement("button");
-        scatter_plot.innerHTML = "Scatter plot";
+        scatter_plot.textContent = "Scatter plot";
         scatter_plot.className = 'projectbutton';
         scatter_plot.classList.add('doublebutton');
         scatter_plot.onclick = function () {
@@ -226,7 +228,7 @@ if (pdf_results) {
         json_storage[i] = "NO RECORD"
 
         var connection_graph = document.createElement("button");
-        connection_graph.innerHTML = "Connection graph";
+        connection_graph.textContent = "Connection graph";
         connection_graph.className = 'projectbutton';
         connection_graph.classList.add('doublebutton')
         connection_graph.onclick = function () {

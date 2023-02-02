@@ -1,3 +1,6 @@
+const {create_edges_between_articles} = require("./graphs");
+
+
 var Plotly = require('plotly.js-strict-dist')
 
 function create_text_for_graph(nodes) {
@@ -10,17 +13,6 @@ function create_text_for_graph(nodes) {
     }
 
     return result;
-}
-
-function create_edges_between_articles(links, layout) {
-    let results = []
-    for (let i = 0; i < links.length; i++) {
-        results.push({
-            x: [layout[links[i]['source']][0], layout[links[i]['target']][0]],
-            y: [layout[links[i]['source']][1], layout[links[i]['target']][1]]
-        })
-    }
-    return results;
 }
 
 function prepare_article_markers(layout, nodes) {
