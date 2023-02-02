@@ -12,7 +12,7 @@ function create_text_for_graph(nodes) {
         } else {
             num_citatios_string = `#citations: ${node_dict['num_publications']}`
         }
-        result.push(`<a href="${node_dict['url']}">${node_dict['title']}</a>` +
+        result.push(`${node_dict['title']}` +
             `<br>Authors: ${node_dict['authors']}<br>` + num_citatios_string)
         // TODO: Move reference to url to the node, rather than its hover
         // TODO: Hovers by default has part '<extra>something</extra>', where 'something' will be display next to hover, we don't want that
@@ -36,6 +36,16 @@ export function create_edges_between_articles(links, layout) {
     return results;
 }
 
+function extract_urls_from_node_dicts(nodes) {
+    let nodes_urls = []
+    for (let i = 0; i < nodes.length; i++) {
+        let node_dict = nodes[i]
+        nodes_urls.push(node_dict['url'])
+    }
+
+    return nodes_urls;
+}
+
 function prepare_article_markers(layout, nodes) {
     let x = [];
     let y = [];
@@ -50,12 +60,14 @@ function prepare_article_markers(layout, nodes) {
     }
 
     const text = create_text_for_graph(nodes);
+    const nodes_urls = extract_urls_from_node_dicts(nodes)
 
     return {
         x: x,
         y: y,
         text: text,
         mode: 'markers',
+        customdata: nodes_urls,
         marker: {
             size: point_size,
             sizemode: 'diameter',
@@ -83,7 +95,10 @@ export function create_graph_on_scholar_result(divid, json) {
 
     const graph_data = citation_edges.concat([articles_markers])
     Plotly.newPlot(divid, graph_data, layout)
-    // TODO: After user clicks on node, the related PDF should pop-up
+    let graph_div_elem = document.getElementById(divid)
+    graph_div_elem.on('plotly_click', function (data) {
+        window.open(data['points'][0]['customdata']);
+    });
 }
 
 export function create_scatter_on_scholar_result(scatter, json, scatter_data) {
