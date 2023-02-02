@@ -1,7 +1,6 @@
 window.onload = function() {
     chrome.storage.local.get(["HOST_IP"]).then((result) => {
         const myIP = document.getElementById("myIP");
-        console.log(result);
         if (result) {
             myIP.value = result["HOST_IP"];
         }
@@ -58,18 +57,7 @@ local_button.addEventListener('click', function(){
 const custom_button = document.getElementById("custom_button");
 custom_button.addEventListener('click', function(){
     const myIP = document.getElementById("myIP");
-    myIP.value = custom_button.value;
+    if (myIP.value == "34.118.92.99" || myIP.value == "127.0.0.1") {
+        myIP.value = custom_button.value;
+    }
 });
-
-//function handleClick(myRadio) {
-//    const myIP = document.getElementById("myIP");
-//    console.log("Current: ",myIP.value);
-//    console.log("New: ", myRadio.value);
-//    myIP.value = myRadio.value;
-//};
-
-//// Communication with backend
-//chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
-//    const myIP = document.getElementById("myIP");
-//    sendResponse(myIP.value);
-//});
