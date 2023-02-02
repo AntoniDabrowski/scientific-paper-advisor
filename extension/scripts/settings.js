@@ -1,4 +1,5 @@
-export let BACKEND_SERVER_URL = 'https://34.118.92.99:8000';
+export let PROTOCOL = 'https://'
+export let BACKEND_SERVER_URL = `${PROTOCOL}34.118.92.99:8000`;
 
 export let FURTHER_RESEARCH_ENDPOINT = `${BACKEND_SERVER_URL}/frquestions/pdfparser`;
 export let ARTICLE_GRAPH_ENDPOINT = `${BACKEND_SERVER_URL}/articlegraph`;
@@ -6,7 +7,7 @@ export let ARTICLE_GRAPH_LEFT_EXPAND = `${ARTICLE_GRAPH_ENDPOINT}/expandleft`;
 export let ARTICLE_GRAPH_RIGHT_EXPAND = `${ARTICLE_GRAPH_ENDPOINT}/expandright`;
 
 function update_endpoints(IP){
-    BACKEND_SERVER_URL = 'https://' + IP + ':8000';
+    BACKEND_SERVER_URL = PROTOCOL + IP + ':8000';
     FURTHER_RESEARCH_ENDPOINT = `${BACKEND_SERVER_URL}/frquestions/pdfparser`;
     ARTICLE_GRAPH_ENDPOINT = `${BACKEND_SERVER_URL}/articlegraph`;
     ARTICLE_GRAPH_LEFT_EXPAND = `${ARTICLE_GRAPH_ENDPOINT}/expandleft`;
