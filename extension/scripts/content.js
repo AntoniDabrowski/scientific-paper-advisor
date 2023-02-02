@@ -184,7 +184,7 @@ if (pdf_results) {
         left_button_scatter.classList.add('doublebutton');
         left_button_scatter.id = "left_button_scatter_" + i;
         left_button_scatter.title="Shows suggestions for additional study contained " +
-            "in the recentarticles from the same category as the search result." +
+            "in the recent articles from the same category as the search result." +
             "Splitted into clusters based on similarity. Each cluster has a representative deemed most relevant."
         scatter_buttons.appendChild(left_button_scatter);
 
