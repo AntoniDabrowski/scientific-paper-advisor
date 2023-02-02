@@ -26,7 +26,11 @@ export function create_edges_between_articles(links, layout) {
     for (let i = 0; i < links.length; i++) {
         results.push({
             x: [layout[links[i]['source']][0], layout[links[i]['target']][0]],
-            y: [layout[links[i]['source']][1], layout[links[i]['target']][1]]
+            y: [layout[links[i]['source']][1], layout[links[i]['target']][1]],
+            mode: 'lines',
+            line: {
+                color: '#acb0af'
+            }
         })
     }
     return results;
@@ -41,7 +45,7 @@ function prepare_article_markers(layout, nodes) {
         y.push(layout[key][1])
     }
     for (let i = 0; i < nodes.length; i++) {
-        let size = Math.max((Math.log(nodes[i]['num_publications']) + 1) * 100, 100)
+        let size = Math.min(Math.max((Math.log(nodes[i]['num_publications']) + 1) * 5, 10), 40)
         point_size.push(size)
     }
 
@@ -54,14 +58,14 @@ function prepare_article_markers(layout, nodes) {
         mode: 'markers',
         marker: {
             size: point_size,
-            sizemode: 'area'
+            sizemode: 'diameter',
+            color: '#6bbda2',
+            opacity: 1
         }
     };
 }
 
 export function create_graph_on_scholar_result(divid, json) {
-    console.debug(json)
-
     const articles_markers = prepare_article_markers(json.layout, json.nodes)
     const citation_edges = create_edges_between_articles(json.links, json.layout)
     const layout = {
@@ -77,7 +81,7 @@ export function create_graph_on_scholar_result(divid, json) {
         }
     }
 
-    const graph_data = [citation_edges].concat(articles_markers)
+    const graph_data = citation_edges.concat([articles_markers])
     Plotly.newPlot(divid, graph_data, layout)
     // TODO: After user clicks on node, the related PDF should pop-up
 }

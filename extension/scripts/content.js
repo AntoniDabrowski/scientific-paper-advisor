@@ -6,7 +6,6 @@ const pdf_results = document.getElementsByClassName("gs_ggs gs_fl")
 let json_storage = [];
 
 function draw_graph_of_connections(graph_menu, i, x) {
-    console.log("In draw_graph_of_connections");
     x.classList.toggle("active");
     let graph = graph_menu.children[0]
     let buttons_menu = graph_menu.children[1]
@@ -41,7 +40,6 @@ function draw_graph_of_connections(graph_menu, i, x) {
 }
 
 function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) {
-    console.log("In draw_scatter_plot");
     x.classList.toggle("active");
 
     let scatter = scatter_menu.children[0]
@@ -75,7 +73,6 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
 
 
 function handle_menu(menu, graph_menu, scatter_menu, i, x, scatter_data) {
-    console.log("In handle_menu");
     x.classList.toggle("active");
 
     if (menu.style.display === "block") {
@@ -158,14 +155,14 @@ if (pdf_results) {
         graph.id = "graph_" + i;
 
         var left_button = document.createElement("button");
-        left_button.textContent = 'left button';
+        left_button.textContent = 'Expand left side';
         left_button.className = 'projectbutton'
         left_button.classList.add('doublebutton')
         left_button.id = "left_button_" + i;
         graph_buttons.appendChild(left_button)
 
         var right_button = document.createElement("button");
-        right_button.textContent = 'right button';
+        right_button.textContent = 'Expand right side';
         right_button.className = 'projectbutton'
         right_button.classList.add('doublebutton')
         right_button.id = "right_button_" + i;
@@ -200,7 +197,7 @@ if (pdf_results) {
         var right_button_scatter = document.createElement("button");
         right_button_scatter.textContent = 'Abstract';
         right_button_scatter.className = 'projectbutton';
-        right_button_scatter.add('doublebutton');
+        right_button_scatter.classList.add('doublebutton');
         right_button_scatter.id = "right_button_scatter_" + i;
         scatter_buttons.appendChild(right_button_scatter);
 
@@ -232,7 +229,6 @@ if (pdf_results) {
         connection_graph.className = 'projectbutton';
         connection_graph.classList.add('doublebutton')
         connection_graph.onclick = function () {
-            console.debug(graph_menu)
             if (graph_menu.style.display === "none") {
                 scatter_menu.style.display = "none"
                 draw_graph_of_connections(graph_menu, i, this);
