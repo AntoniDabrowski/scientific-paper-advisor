@@ -171,7 +171,6 @@ export function create_scatter_on_scholar_result(scatter, json, scatter_data) {
         scatter.on('plotly_click', function (data) {
             window.open(data['points'][0]['customdata'][1]);
         });
-        console.log('Scatter: further research');
     } else {
         // Abstract data parsing
         var data_AB = [];
@@ -233,7 +232,6 @@ export function create_scatter_on_scholar_result(scatter, json, scatter_data) {
         scatter.on('plotly_click', function (data) {
             window.open(data['points'][0]['customdata'][1]);
         });
-        console.log('Scatter: abstract');
     }
 }
 

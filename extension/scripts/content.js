@@ -47,14 +47,12 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
 
     if (scatter_menu.style.display === "block" && not_internal) {
         scatter_menu.style.display = "none";
-        buttons_menu.style.display = "none";
-        scatter.style.display = "none";
         purge_graph(scatter.id);
     } else {
         scatter_menu.style.display = "block";
         var article_data = extract_pdf_url(pdf_results[i]);
-
         var graph_schema = get_scatter_layout(article_data);
+        show_loader(scatter.id)
 
         graph_schema.then(function (returned_json) {
             hide_loader(scatter.id);
@@ -63,8 +61,6 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
             buttons_menu.style.display = "block";
         }).catch(function (error) {
             scatter_menu.style.display = "none";
-            buttons_menu.style.display = "none";
-            scatter.style.display = "none";
             hide_loader(scatter.id);
             console.error(error);
         });
@@ -94,19 +90,13 @@ function handle_menu(menu, graph_menu, scatter_menu, i, x, scatter_data) {
 function expand_graph_left(graph_menu, i) {
     if (json_storage[i] !== "NO RECORD") {
         let graph = graph_menu.children[0]
-        //let buttons_menu = graph_menu.children[1]
-
         let schema_promise = update_schema_left(json_storage[i])
 
         schema_promise.then(function (returned_json) {
-            //hide_loader(graph.id);
             json_storage[i] = returned_json
             create_graph_on_scholar_result(graph.id, returned_json);
-            //buttons_menu.style.display = "block";
         }).catch(function (error) {
             // TODO add action in case of failure.
-            //buttons_menu.style.display = "none";
-            //hide_loader(graph.id);
             console.error(error);
         });
 
@@ -116,19 +106,14 @@ function expand_graph_left(graph_menu, i) {
 function expand_graph_right(graph_menu, i) {
     if (json_storage[i] !== "NO RECORD") {
         let graph = graph_menu.children[0]
-        //let buttons_menu = graph_menu.children[1]
 
         let schema_promise = update_schema_right(json_storage[i])
 
         schema_promise.then(function (returned_json) {
-            //hide_loader(graph.id);
             json_storage[i] = returned_json
             create_graph_on_scholar_result(graph.id, returned_json);
-            //buttons_menu.style.display = "block";
         }).catch(function (error) {
             // TODO add action in case of failure.
-            //buttons_menu.style.display = "none";
-            //hide_loader(graph.id);
             console.error(error);
         });
 
