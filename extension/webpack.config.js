@@ -7,4 +7,7 @@ module.exports = {
         filename: 'content.js',
         path: path.resolve(__dirname, 'dist'),
     },
+    experiments: {
+        topLevelAwait: true
+    }
 };
