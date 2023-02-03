@@ -4,8 +4,8 @@ from os.path import join
 import pandas as pd
 import re
 
-from frquestions.category_analysis.model import predict_category
-from frquestions.models import FR_ProcessedPDF, AB_ProcessedPDF
+from .category_analysis.model import predict_category
+from .models import FR_ProcessedPDF, AB_ProcessedPDF
 
 
 def split_into_sentences(text):

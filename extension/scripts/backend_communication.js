@@ -1,4 +1,4 @@
-import {get, post} from "./utils";
+import {get} from "./utils";
 import {
     ARTICLE_GRAPH_ENDPOINT,
     ARTICLE_GRAPH_LEFT_EXPAND,
