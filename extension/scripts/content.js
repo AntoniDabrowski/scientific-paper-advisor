@@ -49,16 +49,17 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
         scatter_menu.style.display = "none";
         purge_graph(scatter.id);
     } else {
-        scatter_menu.style.display = "block";
         var article_data = extract_pdf_url(pdf_results[i]);
         var graph_schema = get_scatter_layout(article_data);
+        scatter.style.display = "block";
+        buttons_menu.style.display = "none";
         show_loader(scatter.id)
 
         graph_schema.then(function (returned_json) {
             hide_loader(scatter.id);
-            scatter.style.display = "block";
-            create_scatter_on_scholar_result(scatter, returned_json, scatter_data);
+            scatter_menu.style.display = "block";
             buttons_menu.style.display = "block";
+            create_scatter_on_scholar_result(scatter, returned_json, scatter_data);
         }).catch(function (error) {
             scatter_menu.style.display = "none";
             hide_loader(scatter.id);
@@ -214,6 +215,7 @@ if (pdf_results) {
         scatter_plot.onclick = function () {
             if (scatter_menu.style.display === "none") {
                 graph_menu.style.display = "none"
+                purge_graph(scatter.id);
                 draw_scatter_plot(scatter_menu, i, this, scatter_data);
             }
         };
@@ -251,11 +253,13 @@ if (pdf_results) {
 
         left_button_scatter.addEventListener("click", function () {
             scatter_data = 'further_research';
+            purge_graph(scatter.id);
             draw_scatter_plot(scatter_menu, i, this, scatter_data, not_internal=false);
         });
 
         right_button_scatter.addEventListener("click", function () {
             scatter_data = 'abstract';
+            purge_graph(scatter.id);
             draw_scatter_plot(scatter_menu, i, this, scatter_data, not_internal=false);
         });
 
