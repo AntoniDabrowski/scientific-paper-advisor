@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h3>Choose host</h3>
+    <h4>Choose host</h4>
     <input type="text" id="myIP" placeholder="Enter IP adress" value="34.118.92.99">
     <button id="btn">Save</button>
 
@@ -17,6 +17,17 @@
     <div>
       <input type="radio" id="custom_button" name="ip_radio_buttons" value="">
       <label for="custom_button">Custom</label>
+    </div>
+
+    <h4>Choose protocol</h4>
+    <div>
+      <input type="radio" id="http" name="protocol_radio_buttons" value="http://">
+      <label for="http">Http</label>
+    </div>
+
+    <div>
+      <input type="radio" id="https" name="protocol_radio_buttons" value="https://">
+      <label for="https">Https</label>
     </div>
 
     <script src="popup.js"></script>
