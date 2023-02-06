@@ -7,8 +7,6 @@ from sklearn.neural_network import MLPClassifier
 
 from popularity_prediction.data.quantiles import map_class
 
-np.random.seed(0)
-
 
 def train_model_LinearRegression(X, Y, save=True):
     # 25.01%
@@ -26,19 +24,12 @@ def train_model_RidgeRegression(X, Y, save=True):
     return model
 
 
-def train_model_MLPClassifier(X, Y, layers, max_iter=100, save=True, verbose=True):
-    # 32.33% side info [50,30,4]
-    # xx.xx% lexical [50,30,4]
-    # 35.84% semantic [200,50,4]
-    # xx.xx% side info, lexical [50,30,4]
-    # xx.xx% side info, semantic [200,50,4]
-    # xx.xx% lexical, semantic [200,50,4]
-    # xx.xx% side info, lexical, semantic [200,50,4]
+def train_model_MLPClassifier(X, Y, layers, max_iter=100, save=True, verbose=True, output_name=""):
     layers = [X.shape[1]] + layers
     model = MLPClassifier(random_state=1, max_iter=max_iter, hidden_layer_sizes=layers, verbose=verbose)
     model.fit(X, Y)
     if save:
-        pickle.dump(model, open('pretrained_models/pp_MLPClassifier_4.pickle', 'wb'))
+        pickle.dump(model, open(f'pretrained_models/pp_MLPClassifier_{output_name}.pickle', 'wb'))
     return model
 
 
@@ -101,32 +92,42 @@ def load_data(proportion=0.75, lexical=True, semantic=True, side_info=True):
 
 if __name__ == '__main__':
     print('Loading data')
-    x_train, x_test, y_train, y_test = load_data(lexical=False, semantic=False, side_info=True)
-    # model = pickle.load(open('pretrained_models/pp_MLPClassifier_4.pickle', 'rb'))
-    # print(model.predict([x_test[0]]))
+    datasets = [[1, 0, 0],
+                [0, 1, 0],
+                [0, 0, 1],
+                [0, 1, 1],
+                [1, 0, 1],
+                [1, 1, 0],
+                [1, 1, 1]]
 
-    # model = train_model_LinearRegression(x_train, y_train)
-    # model = train_model_RidgeRegression(x_train, y_train)
+    for lexical, semantic, side_info in datasets:
+        x_train, x_test, y_train, y_test = load_data(lexical=lexical, semantic=semantic, side_info=side_info)
 
-    # layers = [300,100,30]
-    layers = [[70, 40, 20],
-              [40, 40, 40, 40],
-              [40, 40, 40, 40, 40],
-              [100,80,60,40,20],
-              [200,160,120,80,40],
-              [300,150,100,50,25],
-              [250,250,125],
-              [80,120,140,160,140,120,80],
-              [20,20,20,20,20,20,20,20,20,20],
-              [500,400,300,150,50],
-              [300,300,300],
-              [700,700,700],
-              [900,500,200,100,50],
-              [1000,800,700,600,500,400,300,200,100,50,20]]
-    for layer in layers:
-        try:
-            max_iter = 200
-            model = train_model_MLPClassifier(x_train, y_train, layer, max_iter, verbose=False, save=False)
-            print(str(accuracy(model, x_test, y_test))[:7],layer)
-        except:
-            print(layer, 'ERROR')
+        # model = train_model_LinearRegression(x_train, y_train)
+        # model = train_model_RidgeRegression(x_train, y_train)
+        layers = [[70, 40, 20],
+                  [40, 40, 40, 40],
+                  [40, 40, 40, 40, 40],
+                  [100, 80, 60, 40, 20],
+                  [200, 160, 120, 80, 40],
+                  [300, 150, 100, 50, 25],
+                  [250, 250, 125],
+                  [80, 120, 140, 160, 140, 120, 80],
+                  [20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+                  [500, 400, 300, 150, 50],
+                  [700, 700, 700],
+                  [900, 500, 200, 100, 50],
+                  [1000, 800, 700, 600, 500, 400, 300, 200, 100, 50, 20],
+                  [300, 300, 300]]
+
+        for layer in layers:
+            try:
+                max_iter = 2000
+                datasets_notation = f'{lexical}{semantic}{side_info}'
+                model = train_model_MLPClassifier(x_train, y_train, layer, max_iter, verbose=True, save=False,
+                                                  output_name=datasets_notation)
+                test_acc = str(accuracy(model, x_test, y_test))[:7]
+                train_acc = str(accuracy(model, x_train, y_train))[:7]
+                print(f"DATA: {datasets_notation}, TRAIN ACC: {train_acc}, TEST ACC: {test_acc}, LAYER: {layer}")
+            except:
+                print(layer, 'ERROR')

@@ -1,9 +1,6 @@
 import numpy as np
 import pandas as pd
-import string
-from nltk import pos_tag, word_tokenize, sent_tokenize
 import pickle
-import json
 from collections import defaultdict as dd
 from tqdm.auto import tqdm
 import matplotlib.pyplot as plt
@@ -58,8 +55,102 @@ def journal_value(journals, citation_count):
     pickle.dump([journal for journal, _ in journals][:200], open('../submodules/top_journals.pickle', 'wb'))
 
 
+def authors_affiliations_distribution(authors, citation_count):
+    ranking_authors = dd(list)
+    ranking_affiliations = dd(list)
+    for authors, citations in tqdm(zip(authors.tolist(), citation_count.tolist())):
+        try:
+            authors = eval(authors)
+        except:
+            print(authors)
+        for author in authors:
+            if 'name' in author:
+                ranking_authors[author['name']].append(citations)
+            if 'affiliations' and author['affiliations']:
+                for aff in author['affiliations']:
+                    ranking_affiliations[aff].append(citations)
+
+    show_distribution(ranking_authors)
+    show_distribution(ranking_affiliations)
+
+
+def map_class(x):
+    if x == 0:
+        return 0
+    elif x < 5:
+        return 1
+    elif x < 16:
+        return 2
+    return 3
+
+
+def show_distribution(ranking):
+    # print(len(ranking))
+    # print(len([item for item in ranking.values() if len(item) > 1]))
+    l = []
+    for citation_list in ranking.values():
+        if len(citation_list)>1:
+            class_count = dd(int)
+            total = 0
+            for element in citation_list:
+                class_count[map_class(element)] += 1
+                total += 1
+            l.append(100*max(class_count.values())/total)
+    print(np.mean(l))
+
+
+    if True:
+        return None
+
+    means = []
+    stds = []
+    distribution_1 = np.array(
+        [np.std(citations) for citations in ranking.values() if
+         len(citations) > 1 and map_class(np.mean(citations)) == 1])
+    distribution_2 = np.array(
+        [np.mean(citations) for citations in ranking.values() if
+         len(citations) > 1 and map_class(np.mean(citations)) == 1])
+    means.append(np.mean(distribution_1))
+    stds.append(np.mean(distribution_2))
+
+    distribution_1 = np.array(
+        [np.std(citations) for citations in ranking.values() if
+         len(citations) > 1 and map_class(np.mean(citations)) == 2])
+    distribution_2 = np.array(
+        [np.mean(citations) for citations in ranking.values() if
+         len(citations) > 1 and map_class(np.mean(citations)) == 2])
+    means.append(np.mean(distribution_1))
+    stds.append(np.mean(distribution_2))
+
+    distribution_1 = np.array(
+        [np.std(citations) for citations in ranking.values() if
+         len(citations) > 1 and map_class(np.mean(citations)) == 3])
+    distribution_2 = np.array(
+        [np.mean(citations) for citations in ranking.values() if
+         len(citations) > 1 and map_class(np.mean(citations)) == 3])
+    means.append(np.mean(distribution_1))
+    stds.append(np.mean(distribution_2))
+
+    # print(distribution.shape)
+    #
+    # val = distribution[0, :].argsort()
+    # distribution = distribution[val]
+    # print(distribution.shape)
+    means = np.array(means)
+    stds = np.array(stds)
+    plt.errorbar([1,2,3], means,
+                 yerr=stds,
+                 fmt='o', color='k')
+    plt.title('sss')
+    plt.xlabel('Class')
+    plt.ylabel('Citation count')
+    plt.xticks([1,2,3], ["I","II","III"])
+    plt.show()
+
+
 if __name__ == '__main__':
     df = pd.read_csv(open('../data/edition_2/semanticscholar_results2_quantiles.csv', encoding='UTF-8'))
+    authors_affiliations_distribution(df['authors'], df['citationcount'])
 
     # plt.hist(auth_ranking.values())
     # plt.yscale('log')
