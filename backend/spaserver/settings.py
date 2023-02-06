@@ -130,3 +130,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "https://scholar.google.com",
 ]
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://scholar.google.com",
+]
+

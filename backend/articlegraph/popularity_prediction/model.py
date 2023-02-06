@@ -1,10 +1,24 @@
 import pickle
-import numpy as np
 import string
-from nltk import pos_tag, word_tokenize, sent_tokenize
 from collections import defaultdict as dd
 
-popularity_prediction_model = pickle.load(open('pp_MLPClassifier_4.pickle', 'rb'))
+import nltk
+import numpy as np
+from nltk import pos_tag, word_tokenize, sent_tokenize
+
+
+def prepare_nltk():
+    try:
+        nltk.data.find('punkt')
+        nltk.data.find('averaged_perceptron_tagger')
+    except LookupError:
+        nltk.download('punkt')
+        nltk.download('averaged_perceptron_tagger')
+
+
+prepare_nltk()
+
+popularity_prediction_model = pickle.load(open('articlegraph/popularity_prediction/pp_MLPClassifier_4.pickle', 'rb'))
 
 
 def character_level(text):
