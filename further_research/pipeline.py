@@ -149,7 +149,7 @@ if __name__ == "__main__":
     maps = json.load(open('../extension/scripts/categories.json'))
     for i, file in tqdm(enumerate(get_all_files())):
         f = file.split('.')
-        if maps.get(f'{f[0]}.{f[1]}',"") not in ["Optimization and Control","Robotics","Machine Learning"]:
+        if maps.get(f'{f[0]}.{f[1]}', "") not in ["Optimization and Control", "Robotics", "Machine Learning"]:
             continue
         try:
             pipeline(f'{mypath_input}/{file}',
