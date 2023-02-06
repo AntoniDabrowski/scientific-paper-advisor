@@ -1,0 +1,137 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.03905v1,Performance of Load Balancers with Bounded Maximum Queue Length in case of Non-Exponential Job Sizes,"This
+entails that servers may suddenly receive many jobs in a short time period when their queue length
+is updated. Interesting future work would be to adapt these policies to avoid such behavior. The policies considered were studied in the context of a single dispatcher. ",cs.PF,A,0.38045454,0.022479877,0.040199883
+http://arxiv.org/pdf/2201.05884v1,Calipers: A Criticality-aware Framework for Modeling Processor Performance,"In future work, we plan to explore graph pattern matching to automatically detect acceleration
+opportunities. Moreover, modeling multiple cores/threads by applying appropriate costs and orders
+for shared memory accesses is another aspect for future work. Calipers: A Criticality-aware Framework for Modeling Processor Performance  21
+
+REFERENCES
+
+ [1] [n.d.]. ",cs.PF,C,-0.1530053,-0.11441085,0.15668108
+http://arxiv.org/pdf/2201.08182v1,Optimization of Traffic Control in MMAP[k]/PH[k]/S Catastrophic Queueing Model with PH Retrial Times and Preemptive Repeat Policy,"An optimization problem has been formulated to evaluate the behaviour
+of the system in Section 6. Finally, the underlying model is concluded with the insight for the future works in
+Section 7. 2 Model Description
+
+2.1 Details and Assumptions
+
+The presented study introduce with a MMAP[k]/PH[k]/S catastrophic model with PH distributed retrial times. ",cs.PF,A,0.19143301,0.3117551,-0.15737012
+http://arxiv.org/pdf/2202.08381v1,Improving Performance Bounds for Weighted Round-Robin Schedulers under Constrained Cross-Traffic,"In a numerical evaluation, we observed that
+the improvement is not only substantial, but persistent across diﬀerent experiments investigating
+the impact of several factors. For future work, the extension to other round-robin schedulers and proving the bandwidth-
+sharing property for stair functions are interesting research challenges. Furthermore, motivated by
+the promising results, it will be very interesting to investigate systematically the heuristic optimiza-
+tion of the new leftover service curves for round-robin schedulers. ",cs.PF,A_centroid,0.60121596,-0.030799102,0.31992915
+http://arxiv.org/pdf/2202.08381v2,Improving Performance Bounds for Weighted Round-Robin Schedulers under Constrained Cross-Traffic,"In a numerical evaluation, we observed that
+the improvement is not only substantial, but persistent across diﬀerent experiments investigating
+the impact of several factors. For future work, the extension to other round-robin schedulers and proving the bandwidth-
+sharing property for stair functions are interesting research challenges. Furthermore, motivated by
+the promising results, it will be very interesting to investigate systematically the heuristic optimiza-
+tion of the new leftover service curves for round-robin schedulers. ",cs.PF,A,0.60121596,-0.030799102,0.31992915
+http://arxiv.org/pdf/2202.08381v3,Improving Performance Bounds for Weighted Round-Robin Schedulers under Constrained Cross-Traffic,"In a numerical evaluation, we observed that
+the improvement is not only substantial, but persistent across diﬀerent experiments investigating
+the impact of several factors. For future work, the extension to other round-robin schedulers and proving the bandwidth-
+sharing property for stair functions are interesting research challenges. Furthermore, motivated by
+the promising results, it will be very interesting to investigate systematically the heuristic optimiza-
+tion of the new leftover service curves for round-robin schedulers. ",cs.PF,A,0.60121596,-0.030799102,0.31992915
+http://arxiv.org/pdf/2202.10045v1,Analysis of Two-Station Polling Queues with Setups using Continuous Time Markov Chain,"The simulation ran for
+approximately 10 minutes for each of the experimental settings. To further study how our proposed approach performs against simpler models, we compared our
+approach with a simple decomposition approach. This simple decomposition approach looks at the
+system as two independent polling station. ",cs.PF,A,0.22752002,-0.10331699,-0.15100765
+http://arxiv.org/pdf/2202.11575v2,Shisha: Online scheduling of CNN pipelines on heterogeneous architectures,"The results also show that Shisha scales well with larger
+networks and computing platforms. In future work, we will look at more generic
+tensor expressions [25] and the eﬀect on seed parameters of high-level algebraic
+transformations [30]. Acknowledgment
+
+This work has received funding from the EU Horizon 2020 Programme un-
+der grant agreement No 957269 (EVEREST), from the AI competence center
+ScaDS.AI Dresden/Leipzig (01IS18026A-D), PRIDE from Swedish Foundation
+for Strategic Research with reference number CHI19-0048 and eProcessor from
+the European High-Performance Computing Joint Undertaking (JU) under grant
+agreement No 956702. ",cs.PF,C,-0.31972474,0.21521787,0.05247419
+http://arxiv.org/pdf/2203.13969v1,Preventing Outages under Coordinated Cyber-Physical Attack with Secured PMUs,"The results are given in Fig. 3, where                                              work lays the foundation for tackling a number of further
+the bar denotes the mean and the error bar denotes the                                                 questions in future work, e.g., how to characterize the optimal
+minimum/maximum. In Fig. ",cs.PF,B,0.039667614,0.5129547,-0.41147625
+http://arxiv.org/pdf/2204.03394v1,Towards Comparing Performance of Algorithms in Hardware and Software,"Section IV evaluates the performance and resource
+                                          Index Terms—time consumption, FPGA, Rasperry Pi, embed-                   utilization of our experiment. Section VI concludes the paper
+                                       ded systems, multi-purpose computers                                         and provides an outlook towards future work. I. ",cs.PF,C_centroid,-0.25745627,-0.28855404,-0.10198079
+http://arxiv.org/pdf/2204.03394v2,Towards Comparing Performance of Algorithms in Hardware and Software,"I. INTRODUCTION                                    Section VI concludes the paper and provides an outlook for
+                                                                                                                     future work. Using FPGAs is known to improve the performance when
+                                        programmed in the hardware specifying languages such as                                        II. ",cs.PF,C,-0.37870985,-0.1260789,-0.13927089
+http://arxiv.org/pdf/2204.04643v1,A Palm Calculus Approach to the Distribution of the Age of Information,"Further, we show the impact of the arrival and service rates               j=1(λ + jµ)                 i=0
+on the age CDF and its quantiles. We leave the extension of
+this model to multi-stage queueing networks to future work. =      kλk−1µ(λ − µ)Γ λ+µµ           +µ
+
+                            IX. ",cs.PF,A,0.4375257,-0.06593569,0.027504958
+http://arxiv.org/pdf/2204.08516v1,LwHBench: A low-level hardware component benchmark and dataset for Single Board Computers,"will continue being executed in the current devices, generating                        Available: https://doi.org/10.5281/zenodo.3974220
+more data in order to analyze new use cases such as device
+and component aging. Finally, as further research line, it                       [17] D. Hawthorne, M. Kapralos, R. W. Blaine, and S. J. Matthews,
+is planned to integrate the benchmarking application with                              “Evaluating cryptographic performance of Raspberry Pi clusters,” in
+federated learning techniques, so the data is processed directly                       2020 IEEE High Performance Extreme Computing Conference (HPEC),
+in the device according to the use case, without requiring to                          2020, pp. 1–9. ",cs.PF,C,-0.20953508,-0.27523595,-0.119965166
+http://arxiv.org/pdf/2204.08516v2,LwHBench: A low-level hardware component benchmark and dataset for Single Board Computers,"As conclusions wrap up, the previous contributions intend to advance state of the art regarding system and device
+management, as it enables new solutions that, based on low-level hardware benchmarking and ML/DL techniques,
+improve the control over the devices deployed in modern networking environments, such as 5G-based industries. As future work, it is planned to adapt the benchmarking application to other SBC models in order to collect data
+from them and perform more in-depth experiments regarding single-device identiﬁcation and performance impact of
+temperature and device aging. Moreover, the benchmarking application will continue being executed in the current
+devices, generating more data in order to analyze new use cases such as device and component aging. ",cs.PF,C,-0.057393894,-0.44131806,-0.14690253
+http://arxiv.org/pdf/2204.11321v1,Multimedia Services Placement Algorithm for Cloud-Fog Hierarchical Environments,"[1] R. Immich, L. Villas, L. Bittencourt, E. Madeira, Multi-tier edge-
+7. Conclusions and future work                                           to-cloud architecture for adaptive video delivery, in: 2019 7th
+                                                                         International Conference on Future Internet of Things and Cloud
+    The constant communication technology’s advancements                 (FiCloud), 2019, pp. 23–30. ",cs.PF,C,0.043270286,-0.4434619,-0.18805392
+http://arxiv.org/pdf/2206.14286v1,TPU-KNN: K Nearest Neighbor Search at Peak FLOP/s,"Since our method scores all the
+pair-wise distances, our method is immune from the curse of high dimensionality. 7 Discussion and future work
+
+We limit our experiments and discussion to single-chip accelerator K-NN performance of dense
+vectors. Accelerators performance on sparse vectors follow a completely different paradigm due
+to random memory access. ",cs.PF,C,-0.56270486,0.053591587,0.55573905
+http://arxiv.org/pdf/2206.14286v2,TPU-KNN: K Nearest Neighbor Search at Peak FLOP/s,"Since our method scores all the
+pair-wise distances, our method is immune from the curse of high dimensionality. 7 Discussion and future work
+
+We limit our experiments and discussion to single-chip accelerator K-NN performance of dense
+vectors. Accelerators performance on sparse vectors follow a completely different paradigm due
+to random memory access. ",cs.PF,C,-0.56270486,0.053591587,0.55573905
+http://arxiv.org/pdf/2206.14505v1,Rate Lifting for Stochastic Process Algebra: Exploiting Structural Properties,"As future work, we are planning to develop
+improved implementation strategies for the algorithm. Another important point
+Rate Lifting for SPA  17
+
+for future work is to characterise a priori the set of problem instances for which
+a solution to the rate lifting problem exists. References
+
+ 1. ",cs.PF,A,0.006439493,0.40788522,0.07623313
+http://arxiv.org/pdf/2207.01730v1,Service Modeling and Delay Analysis of Packet Delivery over a Wireless Link,"Section VI presents the       ity between ultra-low power devices in wireless personal area
+stochastic performance bounds and validations for general
+trafﬁc arrival. Finally, we conclude the paper with summary
+and future work in Section VII. II. ",cs.PF,A,0.07183444,-0.13953693,-0.12649187
+http://arxiv.org/pdf/2207.02070v1,FLOPs as a Discriminant for Dense Linear Algebra Algorithms,"The results of the experiments are presented in
+a challenging problem [23, 28] (even more so for sequences of                       Section 4. Finally, conclusions and future work are described in
+                                                                                    Section 5.
+kernel calls [29]) we are forced to make educated guesses based on
+                                                                                    2 RELATED WORK
+proxies related to the execution time. A simple and natural strategy
+                                                                                    Before the introduction of CPU caches, the cost of a numerical
+is to select one of the cheapest algorithms, i.e., an algorithm with                algorithm was effectively proportional to the FLOP count — op-
+                                                                                    timising execution time meant minimising FLOP count. ",cs.PF,C,-0.13919958,0.07098867,0.12593363
+http://arxiv.org/pdf/2207.03983v1,Tackling Heterogeneous Traffic in Multi-access Systems via Erasure Coded Servers,"offered by coding. In future work, we can determine the optimal         [12] Google. 2022. ",cs.PF,B_centroid,-0.13474016,0.49026525,-0.18792775
+http://arxiv.org/pdf/2207.03983v2,Tackling Heterogeneous Traffic in Multi-access Systems via Erasure Coded Servers,"NIPS
+offered by coding. In future work, we can determine the optimal               Tutorial (July 2015). choice of 𝑟 and strategies to group the 𝑘 job types into the 𝑟 sub-
+systems. ",cs.PF,B,-0.004251154,0.45826983,-0.29698515
+http://arxiv.org/pdf/2207.04594v1,IaaS Procurement by Simulated Annealing,"The results of a preliminary study are given in Section 4 using the Apache Spark distributed
+application and CloudLab. The paper concludes with a brief discussion of future work in Section 5. 2 Background
+
+2.1 Apache Spark
+
+                                            Figure 1: Apache Spark Architecture
+    Apache Spark [29,35] (or Spark) is an open source computing engine used for large-scale data process-
+ing applications. ",cs.PF,C,-0.11120646,-0.3183455,-0.1459806
+http://arxiv.org/pdf/2207.06515v1,Automated Cause Analysis of Latency Outliers Using System-Level Dependency Graphs,"Additionally,            wide causal proﬁler for multicore systems,” Software:
+having an automated process removes the potential for human                Practice and Experience, 2020.
+error in the analysis. For future work, we would like to extend
+our approach by reducing the graph embedding size while still         [7] T. Inagaki, Y. Ueda, T. Nakaike, and M. Ohara, “Proﬁle-
+retaining the level of accuracy (or potentially increasing it). By         based detection of layered bottlenecks,” in Proceedings
+reducing the dimension of the vectors, we can train the models             of the 2019 ACM/SPEC International Conference on
+faster while increasing the number of dependency graphs. ",cs.PF,C,-0.2435387,0.1009851,0.022659207
+http://arxiv.org/pdf/2208.00682v1,Eficiency of REST and gRPC realizing communication tasks in microservice-based ecosystems,"Originally, various types of software performance testing methods [25-28], including:
+load testing, stress testing, endurance testing, spike testing, volume testing, have been
+considered. Upon further analysis of the context (large-scale, distributed, message driven
+ecosystems, e.g. IoT deployments) a combination of several test types has been chosen. ",cs.PF,C,-0.06762236,-0.28939202,-0.39953917

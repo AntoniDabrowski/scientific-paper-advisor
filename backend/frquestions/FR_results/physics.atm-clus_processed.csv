@@ -1,0 +1,58 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.07085v1,"Characterization of the Magnetism and Conformation of Single Porphyrin Molecules Adsorbed on Surfaces, and Artificial Graphene Nanoflakes","For the future outlook of my research works, I will mainly continue my study on the properties
+of both porphyrin molecules and artificial graphene nanoflakes. Firstly, the magnetic properties
+of porphyrin molecules are still open to further research works. For example, the magnetic
+moment contributed by the center metalated atom can be influenced by the some factors in
+experiments. ",physics.atm-clus,A_centroid,0.75814307,0.069451414,0.12790547
+http://arxiv.org/pdf/2201.07085v2,"Characterization of the Magnetism and Conformation of Single Porphyrin Molecules Adsorbed on Surfaces, and Artificial Graphene Nanoflakes","For the future outlook of my research works, I will mainly continue my study on the
+properties of both porphyrin molecules and artificial graphene nanoflakes. Firstly, the
+magnetic properties of porphyrin molecules are still open to further research works. For
+example, the magnetic moment contributed by the center metalated atom can be
+influenced by the some factors in experiments. ",physics.atm-clus,A,0.75814307,0.069451414,0.12790547
+http://arxiv.org/pdf/2203.01905v1,Time-resolved Ultrafast Interatomic Coulombic Decay in Superexcited Sodium-doped Helium Nanodroplets,"At delays between 0 and 1 ps (XUV ﬁrst, UV second), excited He droplets relax into the
+metastable 1s2s 1, 3S atomic states giving rise to the two peaks at 1.6 eV and 2.4 eV by 1+2’
+photoionization. For further analysis of the low-energy part of the TRPES, we refer to our
+recent paper on the relaxation dynamics of superexcited He droplets.32 In this phase, ICD
+begins to outcompete photoionization and ICD electrons reappear. The time constant of
+ICD can be determined from the reappearance time following depletion.41 For every pump-
+
+                                                          8
+Figure 5: Electron yield of the two most dominant channels displayed in ﬁgure 4 ﬁtted with
+the extended ﬁt model including an oscillatory term to account for the oscillation of the
+bubble around the excited He atom. ",physics.atm-clus,C,-0.18843862,-0.19978827,0.011341445
+http://arxiv.org/pdf/2205.04154v1,Diffraction imaging of light induced dynamics in xenon-doped helium nanodroplets,"Instead, it could be fruitful to
+analyze the whole data set by using an automated approach for pattern recognition,
+e.g., a neural network, as has been previously used for classiﬁcation of static diﬀraction
+patterns [61]. In particular, developing an unsupervised network that can identify classes
+of characteristic patterns for speciﬁc delays as an unbiased assistant to the human
+researcher would be an interesting prospect for future work. In combination with an
+automated forward-ﬁtting routine enabling a quantitative 3D shape retrieval, e.g., based
+Diﬀraction imaging of light induced dynamics in xenon-doped helium nanodroplets 17
+
+on a set of orthogonal functions and an eﬃcient and fast MSFT algorithm [53], the
+temporal evolution of the droplet shapes after NIR irradiation could be ﬁnally revealed. ",physics.atm-clus,B_centroid,-0.2757231,0.66388905,-0.06361814
+http://arxiv.org/pdf/2205.04154v2,Diffraction imaging of light induced dynamics in xenon-doped helium nanodroplets,"Instead, it could be fruitful to analyze the whole data
+set by using an automated approach for pattern recognition, e.g., a neural network,
+as has been previously used for classiﬁcation of static diﬀraction patterns [63]. In
+particular, developing an unsupervised network that can identify classes of characteristic
+patterns for speciﬁc delays as an unbiased assistant to the human researcher would be an
+interesting prospect for future work. In combination with an automated forward-ﬁtting
+routine enabling a quantitative 3D shape retrieval, e.g., based on a set of orthogonal
+functions and an eﬃcient and fast MSFT algorithm [55], the temporal evolution of the
+droplet shapes after NIR irradiation could be ﬁnally revealed. ",physics.atm-clus,B,-0.39857918,0.6489202,-0.08049618
+http://arxiv.org/pdf/2205.09997v1,Unexpected dipole instabilities in small molecules after ultrafast XUV irradiation,"The eﬀect persists. It                                 0.2
+is thus likely to be genuine, at least at TDLDA level, and
+deserves a further analysis. 0.1
+
+   In Fig. ",physics.atm-clus,C,-0.42656714,-0.3862809,0.7789511
+http://arxiv.org/pdf/2205.13664v1,Predicting Molecule Size Distribution in Hydrocarbon Pyrolysis using Random Graph Theory,"MD simulations, resulting in the poor predictions by the
+RGT and RGS models. Improvements to the random                                        Phase one of each MD simulation started at 111 K
+graph models to take into account these issues will be                             and 1013 hPa and ramped up to the desired pressure
+investigated in future work. of 40 GPa and the desired temperature that ranged be-
+                                                                                   tween 3200 K and 5000 K. The ramping up was spanned
+   Finally, we would like to remark that RGS gives distri-                         over 24 ps with a timestep duration of 0.12 fs. ",physics.atm-clus,C_centroid,-0.2532392,-0.56063527,-0.40977776
+http://arxiv.org/pdf/2205.13664v2,Predicting Molecule Size Distribution in Hydrocarbon Pyrolysis using Random Graph Theory,"Moreover, two MD
+the random graph approaches, particularly for the largest   simulations were run for each set of conditions. Equi-
+molecules, will be performed in future work. Our method     librium was deﬁned as the time where the most numer-
+could be applied to other systems where the size distri-    ous small molecules of the system (CH4, H2, C2H6 and
+bution is of interest. ",physics.atm-clus,C,0.02626119,-0.30500782,-0.49221143

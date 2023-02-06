@@ -1,0 +1,279 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.07895v1,European Strategy for Particle Physics -- Accelerator R&D Roadmap,"The analysis and planning have
+been conducted by ﬁve expert panels, with membership from the European and international ﬁeld. The
+panels have in turn consulted with a wide cross-section of the accelerator physics and particle physics
+communities, and relied upon their input and views for the identiﬁcation, prioritisation and organisation
+of the future work plan. 255
+    9. ",physics.acc-ph,A,-0.22236654,-0.43852687,-0.06959748
+http://arxiv.org/pdf/2201.07895v2,European Strategy for Particle Physics -- Accelerator R&D Roadmap,"The analysis and planning have
+been conducted by ﬁve expert panels, with membership from the European and international ﬁeld. The
+panels have in turn consulted with a wide cross-section of the accelerator physics and particle physics
+communities, and relied upon their input and views for the identiﬁcation, prioritisation and organisation
+of the future work plan. 253
+    9. ",physics.acc-ph,A_centroid,-0.2171915,-0.44135302,-0.08085208
+http://arxiv.org/pdf/2201.07895v3,European Strategy for Particle Physics -- Accelerator R&D Roadmap,"The analysis and planning have
+been conducted by ﬁve expert panels, with membership from the European and international ﬁeld. The
+panels have in turn consulted with a wide cross-section of the accelerator physics and particle physics
+communities, and relied upon their input and views for the identiﬁcation, prioritisation and organisation
+of the future work plan. 253
+    9. ",physics.acc-ph,A,-0.2171915,-0.44135302,-0.08085208
+http://arxiv.org/pdf/2201.08097v1,"Calculations of neutron fluxes and isotope conversion rates in a thorium-fuelled MYRRHA reactor, using GEANT4 and MCNPX, Nuclear Engineering and Design","Minor actinide production is decreased by a factor of ∼ 100 when using
+thorium based in place of uranium based fuels. 7 Conclusions and future work
+
+       1. The reactor geometry has been successfully implemented using GEANT4. ",physics.acc-ph,B,0.06130258,0.030998182,0.16815911
+http://arxiv.org/pdf/2201.09655v1,Multiple scattering of channeled and non-channeled positively charged particles in bent monocrystalline silicon,"This suggests the presence of oscillations similar to those observed in [24]. The problem touched upon here requires further study. C. Multiple scattering in the channeling range
+
+   Figs. ",physics.acc-ph,C_centroid,0.25549775,0.61311895,-0.11126672
+http://arxiv.org/pdf/2201.09655v2,Multiple scattering of channeled and non-channeled positively charged particles in bent monocrystalline silicon,"This suggests the presence of oscillations similar to those observed in [24]. The problem touched upon here requires further study. C. Multiple scattering in the channeling range
+
+   Figs. ",physics.acc-ph,C,0.25549775,0.61311895,-0.11126672
+http://arxiv.org/pdf/2201.12012v1,High Frequency Structure Design and RF Stability Analysis of A 4-Vane Radio Frequency Quadrupole with Pi-Mode Stabilizer Loops (PISLs),"In an ideal RFQ, we will have Ci = C and Li = L, by defining the cutoff frequency = 1 ∕ √ . For
+further analysis of Eq. (3) and (4), we can consider a slice quadrant of a 4-vane RFQ structure. ",physics.acc-ph,B,0.044302,0.29284874,0.12638274
+http://arxiv.org/pdf/2202.05610v1,Explainable Machine Learning for Breakdown Prediction in High Gradient RF Cavities,"trend data in section IV
+and event data in section V. With explainable-AI, we
+state that a pressure rise are the ﬁrst signs of a break-
+down, and validate it empirically. The strengths and the
+limitations of our methodology are discussed, together
+with an outlook for possible future work in section VI. Finally, we conclude our research in section VII. ",physics.acc-ph,A,-0.44007123,0.37176448,0.2518888
+http://arxiv.org/pdf/2202.05610v2,Explainable Machine Learning for Breakdown Prediction in High Gradient RF Cavities,"V. With
+explainable AI, we state that a pressure rise is the first sign of
+a breakdown and validate it empirically. The strengths and
+the limitations of our methodology are discussed, together
+with an outlook for possible future work in Sec. VI. ",physics.acc-ph,A,-0.4952197,0.19706383,0.30150697
+http://arxiv.org/pdf/2202.07709v1,PIC Simulations of One-side Multipactor on Dielectric,"Fermi National Accelerator Laboratory                                                                                        12
+PIC simulations of one-side multipactor on dielectric  Gennady Romanov
+
+                                                    Summary
+
+    This work is to summarize the results of PIC simulations of one-side multipactor on dielectric and to accumulate
+the observations of the features of the process, some of which are banal, some are not understood in full yet. Therefore,
+the following list of the observations is rather a list of suppositions that require further study and verifications than
+something conclusive. • At any DC field there is always a synchronous secondary electron with appropriate initial velocity due to
+continuous PDF. ",physics.acc-ph,B,0.06393092,-0.047969487,-0.2561291
+http://arxiv.org/pdf/2203.01605v1,Design of the AWAKE Run 2c transfer lines using numerical optimizers,"This method could be adapted for use with
+perform compared to the resolution scaling. The BPMs         the Run 2c seeding electron line and even developed into
+with the largest horizontal jitters also demonstrate the     an application to give real-time predictions of the rela-
+poorest horizontal predictions, requiring further study. tive alignment between the proton and electron beams. ",physics.acc-ph,A,-0.13337414,-0.029943932,-0.104435846
+http://arxiv.org/pdf/2203.03811v1,Considerations for a TeV Collider Based On Dielectric Laser Accelerators,"3(b). The physics of the beam recombination mechanism at the IP requires further study, but for the
+purposes of Table 1 we assume a linear emittance scaling with number of parallel beamlines. In
+these examples, DLA meets the desired luminosity, and with a small (few percent) beamstrahlung
+energy loss. ",physics.acc-ph,C,0.030391274,0.15750292,-0.31628326
+http://arxiv.org/pdf/2203.04391v1,Adaptive Machine Learning for Time-Varying Systems: Towards 6D Phase Space Diagnostics of Short Intense Charged Particle Beams,"A broad overview of recent developments and the state of the art in adaptive controls and
+machine learning for particle accelerators can be found in the proceedings of the 2019 Advanced Control
+Methods for Particle Accelerators (ACM4PA) workshop18. In future work, the goal is to develop coupled
+adaptive ML-based controls and ML-based online diagnostics19 that can utilize recently developed model-
+independent methods for the optimal control of unknown systems, such as accelerators and their beams20,
+based on virtual diagnostics. The use of virtual diagnostics to guide automatic LPS control was recently
+studied in simulation for FACET-II21. ",physics.acc-ph,A,-0.49571005,-0.19900241,0.11722413
+http://arxiv.org/pdf/2203.04391v2,Adaptive Machine Learning for Time-Varying Systems: Towards 6D Phase Space Diagnostics of Short Intense Charged Particle Beams,"A broad overview of recent developments and the state of the art in adaptive controls and
+
+machine learning for particle accelerators can be found in the proceedings of the 2019 Advanced Control
+Methods for Particle Accelerators (ACM4PA) workshop18. In future work, the goal is to develop coupled
+adaptive ML-based controls and ML-based online diagnostics19 that can utilize recently developed model-
+independent methods for the optimal control of unknown systems, such as accelerators and their beams20,
+
+based on virtual diagnostics. The use of virtual diagnostics to guide automatic LPS control was recently
+studied in simulation for FACET-II21. ",physics.acc-ph,A,-0.49571005,-0.19900241,0.11722413
+http://arxiv.org/pdf/2203.06864v1,Beam dynamics challenges in linear colliders based on laser-plasma accelerators,"Hollow
+plasma channels [6, 36], to remove the defocusing background ions, have been considered for
+positron acceleration; however hollow plasma channels are subject to severe transverse instabilities
+[37]. Plasma columns [11], which generate an extended accelerating and focusing region for
+positrons in the wakeﬁeld, have recently been proposed and look promising, and further analysis
+is in progress [38]. High eﬃciency positron acceleration, comparable to electron acceleration,
+remains a challenge. ",physics.acc-ph,B,0.114461094,0.018998465,-0.21237779
+http://arxiv.org/pdf/2203.07622v1,The International Linear Collider: Report to Snowmass 2021,"ILC PHYSICS MEASUREMENTS AT 250 GEV
+
+HL-LHC. Many new and interesting channels deserve further study. Higgs exotic decays of H → XX →
+4f where the intermediate resonant particle X mass is below 10 GeV is one of these channels. ",physics.acc-ph,A,-0.002313925,-0.049002003,-0.1666908
+http://arxiv.org/pdf/2203.07622v2,The International Linear Collider: Report to Snowmass 2021,"Channels with electrons, muons, and photons, which are
+relatively clean objects at the LHC, can take advantage of the higher statistics available from the
+HL-LHC. Many new and interesting channels deserve further study. Higgs exotic decays of H → XX →
+4f where the intermediate resonant particle X mass is below 10 GeV is one of these channels. ",physics.acc-ph,B,0.06980496,-0.004063517,-0.15043199
+http://arxiv.org/pdf/2203.08033v1,A Muon Collider Facility for Physics Discovery,"Additionally, the effect of radiation in the target
+region on the superconducting materials (LTS and HTS) and insulators is an important parameter. As
+the target solenoid design matures, additional studies may be required taking into account the magnet
+arrangement, conductor design and estimates of radiation levels. In order to realise such tests, facilities
+having both instantaneous power and integrated protons on target equivalent to the proton beam param-
+eters assumed for this study are desirable. ",physics.acc-ph,B,0.102651194,-0.1333135,-0.07768035
+http://arxiv.org/pdf/2203.08981v1,Laser-Driven Structure-Based Accelerators,"[54]. The
+physics of the beam recombination mechanism at the IP requires further study, but for the purposes of
+Table 1 we assume a linear emittance scaling with number of parallel beamlines. In these examples,
+desired luminosity appears feasible and with a small (few percent) beamstrahlung energy loss. ",physics.acc-ph,C,0.05337511,0.1348617,-0.34947854
+http://arxiv.org/pdf/2203.09010v1,"Solving Critical Problems of the Muon Collider Higgs Factory: Optics, Magnets and their Protection, Detector Backgrounds","4. Conclusions and future work
+    Storage ring arc lattice, IR design, and superconducting magnets for the Higgs Factory
+
+Muon Collider have been analyzed. All the magnets provide have to provide high operating
+gradient and magnetic field in a large aperture to accommodate the large size of muon beams as
+well as the cooling system to intercept the large heat deposition from the showers induced by
+decay electrons. ",physics.acc-ph,B,0.16870579,-0.21521735,-0.21555878
+http://arxiv.org/pdf/2203.09076v1,C$^3$ Demonstration Research and Development Plan,"39
+    The UCLA infrastructure and its goals, as described above, are highly synergistic with the goals
+of the C3 project. This synergy is incorporated into proposals for future work, particulaly aimed
+at an NSF STC, to jointly pursue UC-XFELs and advanced accelerators for HEP, such a C3. 4.2.4 CERF-NM and LEDA building at LANL
+
+Los Alamos National Laboratory currently serves as the pioneer in developing the US C-band high
+gradient testing program. ",physics.acc-ph,B,-0.0021903636,-0.31259978,0.071926504
+http://arxiv.org/pdf/2203.09076v2,C$^3$ Demonstration Research and Development Plan,"The UCLA infrastructure and its goals, as described above, are highly synergistic with the goals
+of the C3 project. This synergy is incorporated into proposals for future work, particularly aimed
+at an NSF STC, to jointly pursue UC-XFELs and advanced accelerators for HEP, such a C3 . 4.2.4 CERF-NM and LEDA building at LANL
+
+Los Alamos National Laboratory currently serves as the pioneer in developing the US C-band high
+gradient testing program. ",physics.acc-ph,B,-0.0043250155,-0.32247517,0.07622166
+http://arxiv.org/pdf/2203.09186v1,The CLIC project,"Future
+work in the area of sustainability will be synergetic with any future large accelerator study. In particular
+there are clear plans for future work with ILC regarding sustainability and power/energy optimisation. In summary, the CLIC studies foreseen overlap in many areas with challenges for other Higgs-
+factories or other accelerators, especially with the R&D topics related to high gradient and high efﬁciency
+RF systems. ",physics.acc-ph,A,-0.14862852,-0.3881693,-0.15072843
+http://arxiv.org/pdf/2203.09186v2,The CLIC project,"Future work in the area of sustainability
+will be synergetic with any future large accelerator study. In particular there are clear plans for future work
+with ILC regarding sustainability and power/energy optimisation. In summary, the CLIC studies foreseen overlap in many areas with challenges for other Higgs-factories or
+other accelerators, especially with the R&D topics related to high gradient and high eﬃciency RF systems. ",physics.acc-ph,A,-0.15986142,-0.3959918,-0.15674989
+http://arxiv.org/pdf/2203.09718v1,An Impartial Perspective for Superconducting Nb3Sn coated Copper RF Cavities for Future Linear Accelerators,"The chamber was set up with a movable target sputter deposition that
+facilitates achieving uniform conformal coatings on inner surfaces of SRF cavities. Assuming availability of funding, the
+goal of future work will be the refinement of the coating process, coating of the actual elliptical 1.3 GHz SRF cavity, and
+the high gradient testing of this cavity. LANL work was sponsored internally through Los Alamos National Laboratory Directed Research and Development
+Mission Foundations Research (LDRD MFR) program. ",physics.acc-ph,B_centroid,0.5606346,-0.2677916,0.5149482
+http://arxiv.org/pdf/2203.09718v2,An Impartial Perspective for Superconducting Nb3Sn coated Copper RF Cavities for Future Linear Accelerators,"The chamber was set up with a movable target sputter deposition that
+facilitates achieving uniform conformal coatings on inner surfaces of SRF cavities. Assuming availability of funding, the
+goal of future work will be the refinement of the coating process, coating of the actual elliptical 1.3 GHz SRF cavity, and
+the high gradient testing of this cavity. LANL work was sponsored internally through Los Alamos National Laboratory Directed Research and Development
+Mission Foundations Research (LDRD MFR) program. ",physics.acc-ph,B,0.5606346,-0.2677916,0.5149482
+http://arxiv.org/pdf/2203.09718v3,An Impartial Perspective for Superconducting Nb3Sn coated Copper RF Cavities for Future Accelerators,"The chamber was set up with a movable target sputter deposition that
+facilitates achieving uniform conformal coatings on inner surfaces of SRF cavities. Assuming availability of funding, the
+goal of future work will be the refinement of the coating process, coating of the actual elliptical 1.3 GHz SRF cavity, and
+the high gradient testing of this cavity. LANL work was sponsored internally through Los Alamos National Laboratory Directed Research and Development
+Mission Foundations Research (LDRD MFR) program. ",physics.acc-ph,B,0.5606346,-0.2677916,0.5149482
+http://arxiv.org/pdf/2203.09718v4,An Impartial Perspective for Superconducting Nb3Sn coated Copper RF Cavities for Future Accelerators,"The chamber was set up with a movable target sputter deposition that
+facilitates achieving uniform conformal coatings on inner surfaces of SRF cavities. Assuming availability of funding, the
+goal of future work will be the refinement of the coating process, coating of the actual elliptical 1.3 GHz SRF cavity, and
+the high gradient testing of this cavity. LANL work was sponsored internally through Los Alamos National Laboratory Directed Research and Development
+Mission Foundations Research (LDRD MFR) program. ",physics.acc-ph,B,0.5606346,-0.2677916,0.5149482
+http://arxiv.org/pdf/2203.11623v1,PetaVolts per meter Plasmonics: Snowmass21 White Paper,"Besides the FACET-II eﬀort there are currently several ongoing collaborative eﬀorts to realize the potential of
+PV/m plasmonics by synergistically working with the plasma acceleration community. The quality and ultrashort
+nature of plasma accelerated beams can help further study plasmonic accelerators. In view of the promise of PV/m plasmonics, in the future it may be a possible approach to request for a dedicated
+facility to study non-collider physics through directly access to test of HEP frontiers. ",physics.acc-ph,A,-0.0675602,-0.2138717,-0.18536437
+http://arxiv.org/pdf/2203.13985v1,A Strategic Approach to Advance Magnet Technology for Next Generation Colliders,"8. The designs are not yet
+comparable since they do not meet all the speciﬁcations, but they provide a ﬁrst idea of the
+overall coil features, and they constitute a starting point for further analysis. Statement 11: 20 T accelerator dipoles may be within reach
+
+     Judicious magnet design, incorporating concepts such as stress management and
+     optimized pre-stressing, indicates 20 T dipole ﬁelds may be achievable with exist-
+     ing superconducting materials in a variety of magnet conﬁgurations. ",physics.acc-ph,B,0.03821531,-0.21865782,0.02691612
+http://arxiv.org/pdf/2204.01937v1,$^{22}$Na Activation Level Measurements of Fused Silica Rods in the LHC Target Absorber for Neutrals (TAN) Compared to FLUKA Simulations,"This ap-
+produced with the following settings:                        plies also to our region of interest [20, 21]. Here we aim to
+                                                             provide an additional investigation, looking at the 22Na
+    1. p+p - 2016 optics (-180 µrad crossing angle) and      activity in BRAN rod samples. Because of the cylindrical
+       integrated luminosity (38.5 fb−1). ",physics.acc-ph,C,0.32213104,0.3163628,0.020684736
+http://arxiv.org/pdf/2204.01937v2,$^{22}$Na Activation Level Measurements of Fused Silica Rods in the LHC Target Absorber for Neutrals (TAN) Compared to FLUKA Simulations,"This ap-
+produced with the following settings:                        plies also to our region of interest [20, 21]. Here we aim to
+                                                             provide an additional investigation, looking at the 22Na
+    1. p+p - 2016 optics (-180 µrad crossing angle) and      activity in BRAN rod samples. Because of the cylindrical
+       integrated luminosity (38.5 fb−1). ",physics.acc-ph,C,0.32213104,0.3163628,0.020684736
+http://arxiv.org/pdf/2204.08303v2,Four-dimensional emittance measurement at the Spallation Neutron Source,"Investigation into the eﬀect of        mized if these lines are evenly distributed around the ellipse. But this argument
+beam halo on emittance measurements in the RTBT is left as future work. is less clear in a 4D reconstruction: the measurements of { xx , yy , xy } deﬁne
+                                                                                  a set of surfaces that bound an ellipsoid in 4D phase space at the reconstruction
+    4Each data point corresponds to a separate beam pulse, so the measurement     location, and it is not entirely clear how to ”evenly distribute” these surfaces
+relies on pulse-to-pulse stability. ",physics.acc-ph,C,0.084586605,0.24955802,-0.010643477
+http://arxiv.org/pdf/2205.01784v1,Online Charge Measurement for Petawatt Laser-Driven Ion Acceleration,"This could be achieved by com-
+                                                                        bining the measurement with simulations of the ICT response
+                                                                        by including the ICT circuit architecture. This will be investi-
+                                                                        gated in a future work. FIG. ",physics.acc-ph,A,-0.2949017,0.25517097,0.14498387
+http://arxiv.org/pdf/2205.13632v1,Operation of Cs-Sb-O activated GaAs in a high voltage DC electron gun at high average current,"conditions. Since the work function increased less due to the robust
+NEA layer, the ﬁnal QE at 780 nm was greater than that          For future work, characterizing spectral response dur-
+of the standard activated GaAs. ing the beam operation can help understand the nature of
+                                                             spectral dependence of lifetime improvements. ",physics.acc-ph,B,0.15694816,0.13750848,0.012562827
+http://arxiv.org/pdf/2205.15801v1,Longitudinal single-bunch instabilities driven by coherent undulator radiation in the cavity modulator of a steady-state microbunching storage ring,"The eﬀects of the
+cavity mirrors typically include the ﬁeld dissipation and the frequency ﬁltering. These are important eﬀects to the
+microbunch dynamics; however we leave these comprehensive investigations in our future work, primarily because the
+cavity mirror design depends on the choice of the material, the geometry and other laser-optics aspects. To focus on
+the multi-turn instability mechanism in this paper, we assume that the cavity mirrors are ideal devices, i.e., no ﬁeld
+dissipation and the reﬂectance is wavelength-independent. ",physics.acc-ph,B,0.2022697,0.22418723,0.06543689
+http://arxiv.org/pdf/2206.02965v1,Towards a compact all optical terahertz-driven electron source at Tsinghua University,"We are now working on the preliminary experimental
+demonstration of prototype THz-driven electron gun and other beam line components. More
+works will be reported in future works. Funding. ",physics.acc-ph,B,0.16411366,-0.17374274,-0.28433275
+http://arxiv.org/pdf/2206.02965v2,Towards a compact all optical terahertz-driven electron source at Tsinghua University,"We are now working on the preliminary experimental
+demonstration of prototype THz-driven electron gun and other beam line components. More
+works will be reported in future works. Funding. ",physics.acc-ph,B,0.16411366,-0.17374274,-0.28433275
+http://arxiv.org/pdf/2206.03882v1,Comparison of Multiobjective Optimization Methods for the LCLS-II Photoinjector,"Additionally, one may be able to further improve results
+by penalizing other uninteresting regions of the Pareto front. In future work, then, one might consider interactive
+multiobjective optimization algorithms, which integrate a decision-maker’s updated preferences into the optimization
+loop [24]. 6 Code Implementations
+
+This section details the code implementation and resources used. ",physics.acc-ph,A,-0.51552856,0.10791583,0.34610444
+http://arxiv.org/pdf/2206.03882v2,Comparison of Multiobjective Optimization Methods for the LCLS-II Photoinjector,"Additionally, one may be able to further improve results
+by penalizing other uninteresting regions of the Pareto front. In future work, then, one might consider interactive
+multiobjective optimization algorithms, which integrate a decision-maker’s updated preferences into the optimization
+loop [26]. 6 Code Implementations
+
+This section details the code implementation and resources used. ",physics.acc-ph,A,-0.5167419,0.10718972,0.3448643
+http://arxiv.org/pdf/2206.04626v1,Beam-based RF Station Fault Identification at the Linac Coherent Light Source,"The
+quire extension of the dataset to include RF phase diag-   proposed algorithm will give operators a higher degree of
+nostics or non-dispersive BPMs. We leave the problem of    conﬁdence that RF station faults are being detected and
+identifying RF station performance changes solely from     the responsible station identiﬁed, and provides RF tech-
+BPM data to future work. nicians with a detailed history of faults to guide repairs. ",physics.acc-ph,A,-0.16979472,0.22195266,0.25914228
+http://arxiv.org/pdf/2206.04626v2,Beam-based RF Station Fault Identification at the SLAC Linac Coherent Light Source,"Random splits of the dataset do not exhibit this same
+discrepancy. The practical problem of dealing with data
+drift in the RF station anomaly dataset, such as anomaly
+fraction, is deferred to a future work. 15
+
+[1] M. Fazio, G. Laramore, S. Pillai, A. Badruzzaman,                  abs/2110.12006 (2021), 2110.12006. ",physics.acc-ph,C,-0.15272793,0.44786662,0.11105324
+http://arxiv.org/pdf/2206.05001v1,Wakefield assisted bunch compression in storage rings,"INTRODUCTION                          In this paper we investigate the use of Cherenkov
+                                                                                                              waveguides in storage rings. While it is well known
+                                                    Beyond the production of X-rays in storage rings, ter-    that introducing impedances can modify the equilibrium
+                                                 ahertz (THz) and mid-infrared (MIR) radiation genera-        bunch length [16–18], here we further study this feature
+                                                 tion has been widely explored, especially in the context of  to longitudinally squeeze the equilibrium bunch length
+                                                 coherent synchrotron radiation. Early observations indi-     by adiabatically increasing the wakeﬁeld amplitude in a
+                                                 cated that by driving a machine toward the microwave in-     corrugated planar structure. ",physics.acc-ph,C,0.23992762,0.09154585,-0.21633565
+http://arxiv.org/pdf/2207.02095v1,The Development of Energy-Recovery Linacs,"This is possible thanks to
+the very small emittance of the muons and the lack of interaction between muon beams and electron
+beams. Beam optics could rely on RF focusing eﬀective both on muons and electrons, as further
+analysed in a future work. Linac acceleration of muons would allow to bring them up rapidly to the
+TeV kinetic energy range requested by muon collider physics, just in a few passes (each twin-linac
+pass is 400 GeV energy gain) through the twin-linac system, using proper muon recirculation arcs. ",physics.acc-ph,B,0.1286266,-0.026647452,-0.41107574
+http://arxiv.org/pdf/2207.02095v2,The Development of Energy-Recovery Linacs,"This is possible thanks to
+the very small emittance of the muons and the lack of interaction between muon beams and electron
+beams. Beam optics could rely on RF focusing eﬀective both on muons and electrons, as further
+analysed in a future work. Linac acceleration of muons would allow to bring them up rapidly to the
+TeV kinetic energy range requested by muon collider physics, just in a few passes (each twin-linac
+pass is 400 GeV energy gain) through the twin-linac system, using proper muon recirculation arcs. ",physics.acc-ph,B,0.1286266,-0.026647452,-0.41107574
+http://arxiv.org/pdf/2207.03601v1,Investigations on the multi-sector hard X-Band Structures,"The ﬁt of the longitudinal shunt impedance Rsh depen-
+dence as a function of the quadrants number is instead          Figure 12 illustrates the form factor Rsh/Q of the op-
+quadratic: Rsh −0.04511n2–0.5589n + 138.                     erating mode as function of the gap regions by ignor-
+                                                             ing the beam transit time. The ﬁt of the form factor
+   With the structure made up of 8 sectors, the total qual-  as a function of the number of sectors is also quadratic:
+ity factor reduction is estimated to be of about 0.3 %       Rsh/Q −4.269n2 + 0.5093n + 13010.
+while the longitudinal shunt impedance reduction Rsh
+of the operating mode is of about 0.6 %, both absolutely        As additional investigation, we estimated the electric
+negligible. Both Q and Rsh variations are physically con-    and modiﬁed Poynting vector ﬁeld proﬁles along the edge
+sistent, and they are in agreement with the well known       close to the structure cut. ",physics.acc-ph,B,0.22149277,0.20410985,0.046812616
+http://arxiv.org/pdf/2208.03973v1,An analytical backtracking method for electron beam longitudinal phase space shaping,"Given target ﬁnal and initial phase spaces
+exponentially modiﬁed gaussian distribution, shifted in        it may be possible to use this backtracking method to
+the head direction, similar to the results of [53, 58]. solve directly for an accelerator conﬁguration, however
+                                                               we leave this for further study. Furthermore, combining
+                         V. CONCLUSION                         this backtracking solution with current machine learn-
+                                                               ing techniques may be advantageous for swiftly ﬁnding a
+   The analytical approach to backtracking outlined in         suitable initial phase space and accelerator conﬁguration. ",physics.acc-ph,A,-0.30604285,-0.06034328,0.031038344
+http://arxiv.org/pdf/2208.07267v1,Predicting Beam Transmission Using 2-Dimensional Phase Space Projections Of Hadron Accelerators,"with simulations and then transferred to a machine. Finally, this work assumes no accelerator knowledge, but
+                                                                 further research will involve incorporating physics into the
+                                                                 model. Some ways this could be done is by encoding con-
+                                                                 straints in the loss function during model training or by
+                                                                 incorporating domain knowledge by including the transfer
+                                                                 matrices in the calculation as a prior. ",physics.acc-ph,A,-0.3506176,-0.2053648,-0.031727705
+http://arxiv.org/pdf/2208.08935v1,Data-driven modeling of beam loss in the LHC,"For the losses, the log-transformation is partially motivated by the fact
+that losses normalized by intensity are produced from the particle count data. For the
+convenience of further analysis, we assume that the log losses are Gaussian. Alterna-
+tively, one could follow the Generalized Linear Model approach, assuming the Poisson
+distribution of the count data, e.g. ",physics.acc-ph,A,-0.37729084,0.39129907,0.09760875
+http://arxiv.org/pdf/2208.11091v1,Full characterization of few-cycle superradiant pulses generated from a free-electron laser oscillator,"This large energy
+change can induce transverse expansion of the electron beam in the latter part of the
+undulator and disturb the FEL interaction in the subpulses. Three-dimensional FEL
+simulations with unaveraged codes [46] remain a future work. Methods
+Parameters and setup of KU-FEL
+
+   The experiments were carried out using the mid-infrared FEL oscillator at the
+KU-FEL facility [32]. ",physics.acc-ph,B,0.1357221,0.027045935,-0.20831582
+http://arxiv.org/pdf/2208.12342v1,Adiabatic Focusing of a Long Proton Bunch in Plasma,"The
+transition to the global defocusing effect depends on the growth of SM. In AWAKE, experiments
+are ongoing to further study the adiabatic focusing of the long p+ bunch in plasma. References
+
+ [1] P. Chen et al., Phys. ",physics.acc-ph,C,0.0139971115,0.25981572,-0.16463694

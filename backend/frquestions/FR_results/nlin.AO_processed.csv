@@ -1,0 +1,270 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.02071v1,Simplicial cascades are orchestrated by the multidimensional geometry of neuronal complexes,"In particular, simplicial cascades allow for the modeling of “multidimen-
+sional cascades” in which the states of individuals inﬂuence the states of groups, and vice versa, and such interactions cannot
+be appropriately represented by graph-based models. Herein, the states of higher-dimensional simplicies are immediately deter-
+mined by vertices’ states, and it would be interesting in future work to explore more complicated dependencies such as allowing
+time lags between when a vertex becomes active and when its adjacent higher-dimensional simplices subsequently become
+active. By studying STM cascades over “noisy geometric complexes”—a family of spatially embedded simplicial complexes that
+contain both short- and long-range k-simplices—our work reveals the interplay between higher-order dynamical nonlinearity
+and the multidimensional geometry of simplicial complexes to be a promising direction for research into how complex systems
+                                                                                                                                                       12
+
+organize the spatio-temporal patterns of cascade dynamics. ",nlin.AO,C,0.5202501,-0.28961968,-0.14293213
+http://arxiv.org/pdf/2201.02071v2,Simplicial cascades are orchestrated by the multidimensional geometry of neuronal complexes,"In particular, simplicial cascades allow for the modeling of “multidimensional cascades” in which
+the states of individuals inﬂuence the states of groups, and vice versa, and such interactions cannot be appropriately represented
+by graph-based modeling. Herein, the dynamical states of higher-dimensional simplicies are inherited by their associated ver-
+tices’ states, and it would be interesting in future work to explore more complicated dependencies such as allowing time lags
+between when a vertex becomes active and when its adjacent higher-dimensional simplices subsequently become active. Such
+multidimensional models remain an exciting open avenue for research. ",nlin.AO,C_centroid,0.59158015,-0.264304,-0.047019422
+http://arxiv.org/pdf/2201.02071v3,Simplicial cascades are orchestrated by the multidimensional geometry of neuronal complexes,"In particular, simplicial cascades allow for the modeling of “multidimensional cascades” in which
+the states of individuals inﬂuence the states of groups, and vice versa, and such interactions cannot be appropriately represented
+by graph-based modeling. Herein, the dynamical states of higher-dimensional simplices are inherited by their associated ver-
+tices’ states, and it would be interesting in future work to explore more complicated dependencies such as allowing time lags
+between when a vertex becomes active and when its adjacent higher-dimensional simplices subsequently become active. Such
+multidimensional models remain an exciting open avenue for research. ",nlin.AO,C,0.59171104,-0.26221037,-0.05815191
+http://arxiv.org/pdf/2201.06161v1,Coupled metronomes on a moving platform with Coulomb friction,"The force of friction must be independent of speed to yield a
+                                                                  linear decay of the platform’s oscillation amplitude. When the
+   We leave the analysis of the stability and bifurcations of     platform is moving, this force of kinetic friction is described
+the antiphase state to future work, along with a full bifurca-    by the Coulomb force law discussed in Section II,
+tion analysis of all other aspects of the slow ﬂow. We suspect
+that much remains to be discovered here, especially in light of           F¯ = −µ¯ Mg sign(x¯ ),          (18)
+what we see in experiments with real metronomes, to which
+we now turn. ",nlin.AO,A,-0.24579695,-0.02660597,0.17968857
+http://arxiv.org/pdf/2201.06161v2,Coupled metronomes on a moving platform with Coulomb friction,"In        imation. Next, we carry out the calculations that allow us to
+future work, it would be interesting to solve for the in-phase     compute the force of friction from these experiments. solution and analyze its linear stability and bifurcations. ",nlin.AO,A,-0.19606495,-0.0063691325,0.1122129
+http://arxiv.org/pdf/2201.07675v1,Emergent noise-aided logic through synchronization,"1 and 2 using the Euler-Maruyama      (I1, I2, η1, η2) and collect high throughput voltage data
+method. For the bistable potential, we use the simple        (V1, V2) for further analysis. All signal generation and
+cubic function F (xi) = 4(xi − 5x3i ). ",nlin.AO,B,-0.18446761,0.110747196,-0.30236804
+http://arxiv.org/pdf/2201.09914v1,Tiered synchronization in coupled oscillator populations with interaction delays and higher-order interactions,"Moreover, taking real an imaginary parts, we
+natural frequencies and time delays are distributed via a   obtain
+Lorentzian distribution and an exponential distribution,
+respectively. While these choices were made in order to     cos(φ(2) − 2ψ) = √ 1             ,                  (A11)
+facilitate analytical treatment of the system, speciﬁcally                       1 + 4T 2Ω2                     (A12)
+aiding in the derivation of the low dimensional dynamics,
+it remains to be seen whether diﬀerent choices of natural   sin(φ(2) − 2ψ) = √ −2T Ω ,
+frequency distributions and/or interaction delays quali-                             1 + 4T 2Ω2
+tatively change the macroscopic dynamics, a task left for
+future work. which can be used along with Eqs. ",nlin.AO,B,-0.18106362,-0.095126554,-0.09233132
+http://arxiv.org/pdf/2201.09914v2,Tiered synchronization in coupled oscillator populations with interaction delays and higher-order interactions,"Bifurca-
+
+tion curves indicate Hopf and saddle-node bifurcations,
+
+labeled accordingly. In fact, the pair of saddle-node bi-
+
+furcations are born at a codimension-two point, indicated
+                                                                                                         8
+
+facilitate analytical treatment of the system, speciﬁcally  obtain
+aiding in the derivation of the low dimensional dynamics,
+it remains to be seen whether diﬀerent choices of natural           cos(φ(2) − 2ψ) = √ 1  ,              (A11)
+frequency distributions and/or interaction delays quali-            1 + 4T 2Ω2                           (A12)
+tatively change the macroscopic dynamics, a task left for
+future work. sin(φ(2) − 2ψ) = √ −2T Ω ,
+                                                                                             1 + 4T 2Ω2
+
+ACKNOWLEDGMENTS                                             which can be used along with Eqs. ",nlin.AO,B,-0.2122738,-0.29135644,-0.035443112
+http://arxiv.org/pdf/2202.05499v1,Targeted influence maximization in complex networks,"In contrast, Δ 1 can potentially select local hubs that are close to target nodes. Further
+
+analyses are needed to test this hypothesis in future works. R.Zhang et al. ",nlin.AO,C,0.22005925,0.093723536,-0.04731316
+http://arxiv.org/pdf/2202.08707v2,Synchronization induced by directed higher-order interactions,"An attempt in this direction has been made for oriented simplicial complexes [39], where it is highlighted
+that a simplex and its boundary can have either concordant or opposite orientation. The deﬁnition and the study of directed
+simplicial complexes are beyond the purpose of the present paper, and thus left as future work. Directed higher-order interactions can change stability behavior
+
+   Using the above introduced approach, we now illustrate the eﬀect of the higher-order directionality on synchronization by
+using a paradigmatic example of chaotic oscillator, i.e., the Ro¨ssler system [48]. ",nlin.AO,C,0.32727492,-0.38693297,-0.033470828
+http://arxiv.org/pdf/2202.10807v1,Symmetry breaking yields chimeras in two small populations of Kuramoto-type oscillators,"This happens                                                                                                  16
+either  when  one   of  the  equalities                   π  ,              is  vio-
+                                                αs  =  ±  2     αn  =    0             tions [30, 52, 53]. For future work, it would be interesting
+lated or when the parameter A leaves the interval [A∗, 1/A∗]:                          to investigate how our ﬁndings extend to the dynamic behav-
+If A reaches the bifurcation value A∗ or 1/A∗ (Fig. 8(c)), the                         ior of such larger system sizes, particularly regarding invariant
+conservative region collapses onto the one-dimensional hete-                           subspaces and how they are affected by the symmetry break-
+roclinic cycle (between two saddles that belong to ψ1 = 0 or                           ing mechanism leading to weak chimera states. ",nlin.AO,B,-0.28400457,-0.29266942,0.26528737
+http://arxiv.org/pdf/2202.10807v2,Symmetry breaking yields chimeras in two small populations of Kuramoto-type oscillators,"This happens                                                                                                  16
+either  when  one   of  the  equalities                   π  ,              is  vio-
+                                                αs  =  ±  2     αn  =    0             tions [30, 52, 53]. For future work, it would be interesting
+lated or when the parameter A leaves the interval [A∗, 1/A∗]:                          to investigate how our ﬁndings extend to the dynamic behav-
+If A reaches the bifurcation value A∗ or 1/A∗ (Fig. 8(c)), the                         ior of such larger system sizes, particularly regarding invariant
+conservative region collapses onto the one-dimensional hete-                           subspaces and how they are affected by the symmetry break-
+roclinic cycle (between two saddles that belong to ψ1 = 0 or                           ing mechanism leading to weak chimera states. ",nlin.AO,B,-0.28400457,-0.29266942,0.26528737
+http://arxiv.org/pdf/2203.00339v1,Synchronization in the Kuramoto model in presence of stochastic resetting,"In such a state, a macroscopic
+                                         the simple protocol of stochastic resetting, a theme of ac-     number of oscillator phases evolve in time while maintaining
+                                         tive research in the arena of modern statistical physics, be-   a constant phase difference among them. The original model
+                                         sides providing a genesis for future work on emergence of       that involves a bunch of coupled limit-cycle oscillators deﬁned
+                                         intriguing stationary states when purely deterministic dy-      by their phases is premised on a number of assumptions in-
+                                         namics is juxtaposed with the stochastic dynamics of re-        cluding that there is weak coupling among the oscillators, that
+                                         setting in many-body nonlinear dynamical systems. everyone is coupled to everyone else with equal strength, and
+                                                                                                         that the interaction between any pair of oscillators depends si-
+                                            Keywords: Spontaneous synchronization, Kuramoto              nusoidally on the difference of the phases among them1. ",nlin.AO,B,-0.07521649,-0.25257897,0.13672331
+http://arxiv.org/pdf/2203.00339v2,Synchronization in the Kuramoto model in presence of stochastic resetting,"1. In this regard, a more detailed investigation is required,
+st√reng√th of the bare Kuramoto model Kc is given by Kc =          which is planned for future work. 2 2/ π ≈ 1.59582. ",nlin.AO,B,-0.22677433,0.18823369,-0.14750129
+http://arxiv.org/pdf/2203.01663v1,Estimating asymptotic phase and amplitude functions of limit-cycle oscillators from time series data,"(a) Evolution of the phase diﬀerences for the case with                                                           der to evaluate its accuracy. Our future work is to apply
+periodic input obtained from the estimated PSF and ASF                                                                   the method to real-world observed data such as ECGs [7]. (red solid), for the case with input obtained from true PSF                                                              To this end, we plan to further develop a method of pre-
+and ASF (green dotted), and for the case without amplitude                                                               processing for the time series to mitigate the eﬀect of
+suppression (blue dashed). ",nlin.AO,B,-0.3509431,0.0139749395,-0.22405353
+http://arxiv.org/pdf/2203.03060v2,Do higher-order interactions promote synchronization?,"Our results suggest that simplicial complexes
+and hypergraphs cannot always be used interchangeably                   (Springer, 2022). and future work on higher-order interactions should con-           [9] M. T. Schaub and S. Segarra, Flow smoothing and de-
+sider the inﬂuence of the chosen representation when in-
+terpreting their results. noising: Graph signal processing in the edge-space, in
+                                                                        2018 IEEE Global Conference on Signal and Information
+   Do the lessons obtained here for phase oscillators carry             Processing (GlobalSIP) (IEEE, 2018) pp. ",nlin.AO,C,0.4151107,-0.30507958,-0.24857879
+http://arxiv.org/pdf/2203.05473v1,Scale-free behavioral cascades and effective leadership in schooling fish,"∞
+   Different venues of future research stem from the results                t =1(1 − Q)Qt
+presented here. From an empirical perspective, it would be in-                                                             (A3)
+teresting to further study the nature of the avalanches observed
+in real schools, and to correlate them with other physical prop-   where we consider that avalanches have a minimal duration
+erties measured in similar systems [42, 43], as well as with
+other measures of leadership devised in other contexts of col-     of one frame. That is, in the uncorrelated null model, the
+lective motion [38]. ",nlin.AO,A,0.037084453,0.30575505,0.16495785
+http://arxiv.org/pdf/2203.05473v2,Scale-free behavioral cascades and effective leadership in schooling fish,"(4). Interestingly,       teresting to further study the nature of the avalanches observed
+the exponents D and z appear to be rather detail independent,       in real schools, and to correlate them with other physical prop-
+taking the approximate values D 2 and z 1/2 for any                 erties measured in similar systems [43, 44], as well as with
+value of η and ϕth, which would indicate that avalanches in         other measures of leadership devised in other contexts of col-
+this model are compact [29]. lective motion [38]. ",nlin.AO,A_centroid,-0.037699733,0.2445328,0.064242706
+http://arxiv.org/pdf/2203.10191v1,Sync and swarm: solvable model of non-identical swarmalators,"The rate of con-       state). If you think of vit as a heterogeneous ﬁeld acting
+vergence is however quite slow, so more exhaustive nu-          on the couplings, then what has happened is oscillators
+merics are needed which we leave for future work. have been (exactly) tuned to the ﬁeld frequency vi. ",nlin.AO,B,-0.1559044,-0.099722385,0.16313927
+http://arxiv.org/pdf/2203.10191v2,Sync and swarm: solvable model of non-identical swarmalators,"Note, the erratic red dots correspond to an unsteady state in which W± oscillate. We intend to explore this state and its bifurcations (we suspect it is a SNIC) as well as the other states of the model
+in future work. The Mathematica notebook containing this analysis is available at [? ",nlin.AO,A,-0.17815718,-0.13869506,0.10907939
+http://arxiv.org/pdf/2203.12237v1,Disassortative mixing of bounded rationality in socio-ecological systems,"Finally, in section VI we discuss our results,  which is a very strong assumption. summarise our conclusions and point some directions for
+future work. A. Prisoner’s dilemma game
+
+                        II. ",nlin.AO,C,0.19600719,0.2660995,0.6215888
+http://arxiv.org/pdf/2203.12237v2,Disassortative mixing of boundedly-rational players in socio-ecological systems,"Finally, in section VI we discuss our results,  which is a very strong assumption. summarise our conclusions and point some directions for
+future work. A. Prisoner’s dilemma game
+
+                        II. ",nlin.AO,C,0.19600719,0.2660995,0.6215888
+http://arxiv.org/pdf/2203.16839v1,Graphop Mean-Field Limits and Synchronization for the Stochastic Kuramoto Model,"Journal of Theoretical
+retical and practical limitations of heterogeneous mean-ﬁeld         Biology, 16(1):15–42, 1967. VFPEs remains a challenging problem for future work. 12Hidetsugu Sakaguchi and Yoshiki Kuramoto. ",nlin.AO,C,0.081765294,0.2613504,-0.056928083
+http://arxiv.org/pdf/2203.16839v2,Graphop Mean-Field Limits and Synchronization for the Stochastic Kuramoto Model,"Thus, the Lorentzian graph represents an     mean-ﬁeld description will eventually not be of much use as it
+interesting coupling topology that demarcates a possible class   is also high-dimensional. In summary, to fully determine the
+of graphs for which — at least for certain values of µ —         theoretical and practical limitations of heterogeneous mean-
+our mean-ﬁeld description and prediction for the incoherence-    ﬁeld VFPEs remains a challenging problem for future work. coherence transition for the ﬁnite-size representation break
+down. ",nlin.AO,B,0.13250503,-0.07423237,-0.19759169
+http://arxiv.org/pdf/2204.01912v1,Phase dynamics of noise-induced coherent oscillations in excitable systems,"Also, more accurate results would be obtained by considering higher-order approximations [37, 38]. More details will be reported in our future works. Acknowledgments.- J.Z. ",nlin.AO,B,-0.3040565,0.21991247,-0.31502616
+http://arxiv.org/pdf/2204.01912v2,Phase dynamics of noise-induced coherent oscillations in excitable systems,"Moreover, despite that the considered SISR oscillator has only one-dimensional slow dynamics, the present approach
+can also be extended to systems with higher-dimensional slow dynamics as long as the oscillation is coherent. More
+details will be reported in our future works. Acknowledgments.- We thank the anonymous reviewers for valuable and insightful comments. ",nlin.AO,A,-0.11508167,-0.2587515,-0.05325038
+http://arxiv.org/pdf/2204.04335v1,Measuring and improving community resilience: a Fuzzy Logic approach,"Section 5 presents a demonstrative example to demonstrate
+and verify the proposed resilience estimation model. Finally, conclusions are drawn in Section 6 together with
+the proposed future work. 2 PEOPLES Framework
+
+PEOPLES is a multi-layered framework developed at the Multidisciplinary Center of Earthquake Engineering
+Research (MCEER) that aims to identify different resilience characteristics of a community at different scales
+(spatial and temporal) and assess possible responses of a community by taking into account the
+interdependence between community levels [5]. ",nlin.AO,C,0.2816369,0.44631714,0.22971581
+http://arxiv.org/pdf/2204.08577v1,Swarmalators on a ring with distributed couplings,"Still, this negative result is
+useful. It tells us that Kj is not the mechanism behind             Opportunities for future work include adding delayed
+the non-stationarity in the splintered phase wave. Our          interactions, external forcing, or heterogeneous natural
+next work will investigate if Ki-type couplings (where the      frequencies. ",nlin.AO,B,-0.08747018,0.024166653,0.028039824
+http://arxiv.org/pdf/2204.08577v2,Swarmalators on a ring with distributed couplings,"2. Mixed Gaussian: h(K) = pN (K1, σ|K) + (1 −
+       p)N (K2, σ|K)                                             Opportunities for future work include adding delayed
+                                                             interactions, external forcing, or heterogeneous natural
+    3. Triple delta: h(K) = p1δ(K − K1) + p2δ(K − K2) +      frequencies. ",nlin.AO,B,-0.006604042,0.18267089,-0.16665673
+http://arxiv.org/pdf/2205.09814v1,Emergent Microrobotic Oscillators via Asymmetry-Induced Order,"2c),                 ing induced via symmetry-breaking. While we ﬁnd that the
+the heterogeneous DL system exhibits a stable long-term                system’s invariance to particle number holds up to N = 11,
+self-oscillation with a period of 14.2s, owing to the broken           we leave the study of larger particle systems for future work
+permutation symmetry. (Extended Data Figs. ",nlin.AO,B,-0.1333901,-0.11541207,0.17983806
+http://arxiv.org/pdf/2205.09814v2,Emergent Microrobotic Oscillators via Asymmetry-Induced Order,"via symmetry-breaking. While we ﬁnd that the system’s in-              Ru (Au): H2O2 + 2H+ + 2e− −→ 2H2O  (3)
+variance to particle number holds up to N = 11, we leave the
+study of larger particle systems for future work (Supplement-          Overall: 2H2O2 −→ 2H2O + O2. ary Figs. ",nlin.AO,B,-0.23010156,0.053648904,0.14195542
+http://arxiv.org/pdf/2205.09996v2,Fokker-Planck modeling of many-agent systems in swarm manufacturing: asymptotic analysis and numerical results,"A numerical approximation of the underlying Fokker-Planck
+equation in one and two dimensions allows to verify that convergence to the stationary solution
+holds at a certain polynomial rate, thus conﬁrming the theoretical analysis. Several extensions
+of the present approach, which include weaker drift functions and dynamics on manifolds, are
+currently under study and will be presented in future works. Acknowledgements
+
+This work has been written within the activities of the GNFM group of INdAM (National Insti-
+tute of High Mathematics). ",nlin.AO,B,-0.25037393,0.06109184,-0.30592346
+http://arxiv.org/pdf/2206.01481v1,Periodic orbits in the Ott-Antonsen manifold,"Moreover, recalling one of the recent applications
+of the Ott-Antonsen method to networks of quadratic integrate-and-ﬁre neurons [37, 38, 55],
+we expect that our method can also be adapted for such systems as well. We plan to report on
+these issues in future work. Acknowledgments
+
+This work was supported by the Deutsche Forschungsgemeinschaft under Grant OM 99/2-2. ",nlin.AO,B,-0.008112606,0.10897972,-0.35710597
+http://arxiv.org/pdf/2206.05663v1,Synchronization based model for turbulent thermoacoustic systems,"We note that, in general,
+a large number of possible forms of nonlinear terms can be selected. A robust method for
+identifying and optimizing the nonlinear terms will be focus of our future work. 3 Experimental Details
+
+We primarily use the experimental data from Pawar et al. ",nlin.AO,B,-0.112975195,0.1867548,-0.3257435
+http://arxiv.org/pdf/2206.07942v2,Noise-tuned bursting in a Hedgehog burster,"in Parkinson’s disease and epilepsy), the control of bursting patterns on a single neuron and the ensembles
+related to the contents investigated in this paper is of great interest. These open problems will be our future works. CONFLICT OF INTEREST STATEMENT
+
+   The authors declare that the research was conducted in the absence of any commercial or ﬁnancial relationships
+that could be construed as a potential conﬂict of interest. ",nlin.AO,A,-0.009233832,0.06778836,-0.122669324
+http://arxiv.org/pdf/2206.09823v1,Multi-criteria optimization and automated network restructuring to mitigate construction projects delays on-the-run,"However, these can also be functions of each other so that for each mitigation measure curves
+         can be determined that represent the relation between an increased mitigating capacity and its
+         effect on the project criteria. • As this model is constructed as an alternative perspective on the Mitigation Controller it would be
+          of interest to further research whether the original Mitigation Controller and this development can
+          be combined into one risk mitigation computer tool. Activity crashing and network compacting can
+          then be combined in the most optimal mitigation strategy to mitigate delays. ",nlin.AO,C,0.10350664,0.41588655,0.084655136
+http://arxiv.org/pdf/2206.10315v1,Critical drift in a neuro-inspired adaptive network,"The parameters are set to N = 105, l = 10−3, g = 10−6
+
+and η = 1/(100N ). The exact parameter values have little eﬀect on the amount of increase in the mean degree during the
+
+drift; for further analysis on their eﬀect, see SI I and II. The yellow dashed line in (b) shows  k  ∗         static  shown  in  Fig. ",nlin.AO,B,-0.2977817,0.15784238,-0.20343697
+http://arxiv.org/pdf/2206.13160v1,Community Formation in Wealth-Mediated Thermodynamic Strategy Evolution,"If λ(ϵ, δ) = Ω, then there is a single monoculture community. In future work we will attempt to determine the structure of λ(ϵ, δ) and to understand why
+a natural community emerges at all, since it is not immediately clear that this should be so
+from the model structure. C. Effects of A Linear Temperature Increase
+
+   Because all payoffs in the general RPS games considered here are non-negative, there is
+an overall trend for the vertex bank values to increase linearly with time. ",nlin.AO,C,0.24619466,0.10012243,0.18159515
+http://arxiv.org/pdf/2207.02530v1,"Topology, Vorticity and Limit Cycle in a Stabilized Kuramoto-Sivashinsky Equation","This results in limit cycles [15] and an unusual
+inverse Einstein relation [16] near local minima. Further study, extension and use of the
+ideas and methods in this work seem to be worth further study. ACKNOWLEDGMENTS
+
+   This work was supported in part by the National Natural Science Foundation of China
+No. ",nlin.AO,B,-0.26208517,0.0013137902,-0.1745229
+http://arxiv.org/pdf/2207.02939v2,Heterogeneous nucleation in finite size adaptive dynamical networks,"Second, we assume a
+phase conﬁgurations lead to high coupling strengths, the     set of collective coordinates ϑµ(t), fµ(t) and κµν(t) that
+exact nature of the ﬁnite size eﬀects might change. The      describe the temporal dependency of the phases and the
+examination of these eﬀects is beyond the scope of this      coupling as follows
+work and is an opportunity for future work. The re-
+sults for the positive value β = 0.25π is presented in       φi(t) ≈ φ˜µi (t) = ϑµ(t)(ωi − Ωµ) + fµ(t),  (S3)
+Figs. ",nlin.AO,B_centroid,-0.2801519,-0.34571403,0.05887729
+http://arxiv.org/pdf/2207.14786v1,"Mathematical modeling of the Chilean riots of 2019, an epidemiological non-local approach","Section III will show some empirical observations
+from the ﬁrst days of Santiago’s riots, followed by some de-                                           |rk − r j| −δ
+tails on the numerical simulations, the extension of the model                         Wk j ∼ 1 +
+to include the effects of the subway network, and the main re-
+sults. Finally, in Section IV a discussion and analysis of the                                            d0
+main results are presented, with comparisons to other models      or
+and perspectives for future work. |rk−r j |
+II. ",nlin.AO,C,0.06410877,0.32585967,0.2094197
+http://arxiv.org/pdf/2208.00660v1,Experimental validation of a model for a self-adaptive beam-slider system,"Minor deviations are attributed to the system’s sensitivity to inevitable
+                                         uncertainties, in particular with regard to the friction coeﬃcient and the linear natural frequency. It is
+                                         thus concluded that the proposed model is well-suited for further analysis of its intriguing dynamics and for
+                                         model-based optimization for technical applications such as energy harvesting. Keywords: Non-smooth dynamics, geometric nonlinearity, self-adaption, model updating, multiple scales
+
+                                         1. ",nlin.AO,A,-0.18835989,0.21656446,-0.20505062
+http://arxiv.org/pdf/2208.00909v1,Synchronization of phase oscillators on complex hypergraphs,"random hypergraphs. Exploring the limitations and possible
+                                                                    extensions of our method for simplicial complexes is an inter-
+   The main limitations of our study are the requirement for        esting problem left for future work. hypergraphs to be produced by the generative model of Sec. ",nlin.AO,C,0.5548519,0.02518311,-0.2240379
+http://arxiv.org/pdf/2208.00909v2,Synchronization of phase oscillators on complex hypergraphs,"cently noted that synchronization properties in the strongly
+             Fig.3(b)                                                 synchronized regime differ between simplicial complexes and
+            Incoherent                                                random hypergraphs. Exploring the limitations and possible
+                                                                      extensions of our method for simplicial complexes is an inter-
+            Fig.3(a)                                                  esting problem left for future work. FIG. ",nlin.AO,C,0.40903023,-0.23055634,-0.10519818
+http://arxiv.org/pdf/2208.12173v1,Compositional Active Inference II: Polynomial Dynamics. Approximate Inference Doctrines,"In fact, Proposition 4.20 implies that it factors further, as
+
+               GausspK pPFdqq ãÑ G Ý∇Ñ DiﬀHierGausspK pPFdqq ÝHÝNÝaÝivÝeÑk HierNGausspK pPFdqq
+where ∇ : G Ñ DiﬀHierGausspK pPFdqq takes an externally parameterized statistical game and returns a
+di erential system that performs gradient descent on its loss function with respect to its parameterization. We leave the precise exhibition of this factorisation for future work. 4.4 The Hebb-Laplace doctrine
+
+The Laplace doctrine constructs dynamical systems that produce progressively better posterior approxima-
+tions given a xed forwards channel, but natural adaptive systems do more than this: they also re ne the
+
+                                              28
+forwards channels themselves, in order to produce better predictions. ",nlin.AO,C,0.060741983,0.2497756,0.0024350397
+http://arxiv.org/pdf/2208.12792v1,A Model of Mass Extinction Accounting for Species's Differential Evolutionary Response to a Catastrophic Climate Change,"some
+zooplankton species. That should become another focus of future work. References
+
+ [1] J Alroy, et al. ",nlin.AO,C,0.3193095,0.22491327,-0.08422106
+http://arxiv.org/pdf/2208.13280v1,Effect of mobility on synchronization of nonlocally coupled oscillators with a phase lag,"However, the precise mechanism of
+coupling due to the phase lag. Firstly, for α < 0.5, we          their formation is not clear and is left for future work. showed that the mobility enlarges the basins of attraction
+of twisted states with small |q|, including the fully syn-                            ACKNOWLEDGMENTS
+chronized state, by destabilizing the twisted states with
+large |q|. ",nlin.AO,B,-0.22529323,-0.39535117,0.22809935
+http://arxiv.org/pdf/2208.13280v2,Effect of mobility on synchronization of nonlocally coupled oscillators with a phase lag,"However, the precise mechanism of
+coupling due to the phase lag. Firstly, for α < 0.5, we          their formation is not clear and is left for future work. showed that the mobility enlarges the basins of attraction
+of twisted states with small |q|, including the fully syn-                            ACKNOWLEDGMENTS
+chronized state, by destabilizing the twisted states with
+large |q|. ",nlin.AO,B,-0.22529323,-0.39535117,0.22809935

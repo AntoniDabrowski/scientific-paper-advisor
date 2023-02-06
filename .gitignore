@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+/node_modules/
+/dist/
+/extension/dist/content.js
+/extension/dist/content.js.LICENSE.txt
+/extension/node_modules/
+/backend/geckodriver.log

@@ -1,0 +1,2179 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00773v1,"Spectral minimal partitions, nodal deficiency and the Dirichlet-to-Neumann map: the generic case","In particular, the set Σ may contain self intersections, in
+which case it is not smooth. Generalizing the above results to this case is signiﬁcantly more involved, and will be addressed in a
+future work [5]. Here we mention some of the diﬃculties that arise. ",math.AP,A,0.038909376,0.3213132,0.070371926
+http://arxiv.org/pdf/2201.00773v2,"Spectral minimal partitions, nodal deficiency and the Dirichlet-to-Neumann map: the generic case","In particular, the set Σ may contain self intersections, in
+which case it is not smooth. Generalizing the above results to this case is signiﬁcantly more involved, and will be addressed in a
+
+future work [5]. Here we mention some of the diﬃculties that arise. ",math.AP,A,0.038909376,0.3213132,0.070371926
+http://arxiv.org/pdf/2201.00773v3,Stability of spectral partitions and the Dirichlet-to-Neumann map,"In particular, the set Σ may contain self intersections, in
+which case it is not smooth. STABILITY OF SPECTRAL PARTITIONS AND THE DIRICHLET-TO-NEUMANN MAP  7
+
+Generalizing the above results to this case is signiﬁcantly more involved, and will be addressed in
+a future work [6]. Some diﬃculties of dealing with non-generic partitions were explored in a recent
+series of papers on quantum graphs [21, 22, 23]. ",math.AP,A,-0.037085276,0.31140614,-0.00996651
+http://arxiv.org/pdf/2201.01137v1,Quasilinearization Methods for Nonlocal Fully-Nonlinear Parabolic Systems,"Under some regularity assumptions on the coeﬃcients, the inhomogeneous term f ,
+
+and the initial data g, the nonlocal linear PDE (2.2) is well-posed and the behaviours
+
+of its solutions are controlled by a Schauder-type estimate. These claims, proved in
+
+[13] and recapped below, establishes a foundation for the further analysis of nonlocal
+
+fully-nonlinear systems in the next section. Theorem 2.4. ",math.AP,C,0.21419945,-0.22159916,-0.13566706
+http://arxiv.org/pdf/2201.01200v1,The spatially homogeneous Hopf bifurcation induced jointly by memory and general delays in a diffusive system,"554  It is also worth mentioning that in this paper, we assume that the memory delay is equal to the general
+
+     delay, but diﬀerent memory delay and general delay are more real. By considering this point, a more
+
+556 reasonable revision of (1.3) would be
+           ∂u(∂xt, t) = d11∆u(x, t) + f (u(x, t), v(x, t), u(x, t − σ), v(x, t − σ)) ,
+           ∂v(∂xt, t) = d22∆v(x, t) − d21 (v(x, t)ux(x, t − τ ))x + g (u(x, t), v(x, t), u(x, t − σ), v(x, t − σ)) ,
+
+     which needs further research, where σ > 0 is the general delay appears in the reaction term, and τ = σ or
+
+558 τ = σ.
+
+     Acknowledgments
+
+560  The author is grateful to the anonymous referees for their useful suggestions which improve the contents
+
+     of this article. 562 Declarations
+
+     This research did not involve human participants and animals. ",math.AP,B,-0.30304074,-0.21013932,-0.21070445
+http://arxiv.org/pdf/2201.01200v2,The spatially homogeneous Hopf bifurcation induced jointly by memory and general delays in a diffusive system,"In this paper, we assume that the memory delay and the general delay are the same. It is worth
+
+598 mentioning that when the memory delay and the general delay are diﬀerent, i.e.,
+           ∂u(∂xt, t) = d11∆u(x, t) + f (u(x, t), v(x, t), u(x, t − σ), v(x, t − σ)) ,
+           ∂v(∂xt, t) = d22∆v(x, t) − d21 (v(x, t)ux(x, t − τ ))x + g (u(x, t), v(x, t), u(x, t − σ), v(x, t − σ)) ,
+
+     which needs further research, where σ > 0 is the general delay, and τ = σ or τ = σ. 600 Acknowledgments
+
+          The author is grateful to the anonymous referees for their useful suggestions which improve the contents
+602 of this article. ",math.AP,B,-0.118180305,-0.19543022,-0.14134115
+http://arxiv.org/pdf/2201.01200v3,The spatially homogeneous Hopf bifurcation induced jointly by memory and general delays in a diffusive system,"In this paper, we assume that the memory delay and the general delay are the same. It is worth
+
+598 mentioning that when the memory delay and the general delay are diﬀerent, i.e.,
+           ∂u(∂xt, t) = d11∆u(x, t) + f (u(x, t), v(x, t), u(x, t − σ), v(x, t − σ)) ,
+           ∂v(∂xt, t) = d22∆v(x, t) − d21 (v(x, t)ux(x, t − τ ))x + g (u(x, t), v(x, t), u(x, t − σ), v(x, t − σ)) ,
+
+     which needs further research, where σ > 0 is the general delay, and τ = σ or τ = σ. 600 Acknowledgments
+
+          The author is grateful to the anonymous referees for their useful suggestions which improve the contents
+602 of this article. ",math.AP,B,-0.118180305,-0.19543022,-0.14134115
+http://arxiv.org/pdf/2201.01600v1,Maximal estimates for fractional Schrödinger equations in scaling critical magnetic fields,"But the
+result is far to be sharp in the most interesting and challenging Schr¨odinger case,
+
+that is, α = 2. We will continue investigating the problem in future work. Remark 1.4. ",math.AP,A,-0.049301744,0.18337855,-0.055420123
+http://arxiv.org/pdf/2201.01611v1,BGK model for multi-component gases near a global Maxwellian,"Then partial dissipation estimates (1.4) and (1.5) complement each other to give rise to the
+following multi-component dissipation estimate for L:
+
+       L(f1, f2), (f1, f2) L2   ≤ −(n10 + n20)  max{δ, ω}      (I − P1, I − P2)(f1, f2)                   2
+              x,v                                                                                         L2
+(1.6)                                                                                                        x,v
+
+                                     + min {(1 − δ), (1 − ω)}  (I − P )(f1, f2)        2          . L2
+                                                                                       x,v
+
+   The dissipation estimate (1.6), together with further analysis on the degeneracy part
+through the standard micro-macro decomposition, provides the following full coercivity de-
+pending on the interchange rates:
+
+       L(∂α(f1, f2)), ∂α(f1, f2) L2 ≤ −η min {(1 − δ), (1 − ω)}                        (∂α(f1, f2)   2       . x,v                       L2
+                                                                                                      x,v
+
+                                                                                |α|≤N
+
+Due to the presence of the momentum interchange rate δ and the energy interchange rate ω
+between diﬀerent components in the dissipation estimate, we see that the larger interchange
+rate (when δ and ω are close to zero) leads to the stronger dissipation, and therefore, the
+faster convergence to the global equilibrium:
+
+              ∂α(f1(t), f2(t))  2    ≤ e−η min{(1−δ),(1−ω)}t                    ∂α(f1(0), f2(0))  2       . ",math.AP,B,-0.075525574,-0.02917985,-0.0029483624
+http://arxiv.org/pdf/2201.01949v2,Unbounded-energy solutions to the fluid+disk system and long-time behavior for large initial data,"With the above computations, we can extend
+A−1/2Pdiv by density into a mapping (L2(F0))2×2 → L2. For the further analysis, we need to analyze the relations
+that exists then between A1/2S(τ )[A−1/2Pdiv] and S(τ )Pdiv when τ > 0. This is the content of the next corollary
+
+Corollary 2.10. ",math.AP,A,0.005385394,0.28122061,-0.045845866
+http://arxiv.org/pdf/2201.01974v1,Characterizations of diffusion matrices in homogenization of elliptic equations in nondivergence-form,"Next to
+these four aforementioned major results, we have further analyzed various aspects
+regarding type-ε2 and type-ε diﬀusion matrices, which we will not recall here for the
+
+sake of brevity. The following list of questions provides a series of open problems for future work:
+
+Question 5.1. For n ∈ N and α ∈ (0, 1], we deﬁne the set Mαn ⊂ C0,α(Tn; S+n) by
+Mαn := {A ∈ C0,α(Tn; S+n) : tr(A) ≡ 1}. ",math.AP,A,-0.006200187,0.46843955,-0.013533015
+http://arxiv.org/pdf/2201.01974v2,Characterizations of diffusion matrices in homogenization of elliptic equations in nondivergence-form,"Next to
+
+these four aforementioned major results, we have further analyzed various aspects
+
+regarding type-ε2 and type-ε diﬀusion matrices, which we will not recall here for the
+
+sake of brevity. The following list of questions provides a series of open problems for future work:
+
+Question 5.1. For n ∈ N and α ∈ (0, 1), we deﬁne the set Mαn ⊂ C0,α(Tn; S+n) by
+Mαn := {A ∈ C0,α(Tn; S+n) : tr(A) ≡ 1}. ",math.AP,A,-0.012973418,0.47066453,-0.008167533
+http://arxiv.org/pdf/2201.02681v1,Existence of solutions for a bi-species kinetic model of a cylindrical Langmuir probe,"The obtained sequence is then proved to converge towards
+a solution of the original problem. The qualitative properties of the solution and its numerical
+simulation will be the purpose of a future work. 1. ",math.AP,B,-0.2598548,-0.22478658,0.2557519
+http://arxiv.org/pdf/2201.02681v2,Existence of solutions for a bi-species kinetic model of a cylindrical Langmuir probe,"The obtained sequence is then proved to converge towards
+a solution of the original problem. The qualitative description of the solution and its numerical
+simulation will be the purpose of a future work. 1. ",math.AP,B,-0.27316844,-0.22223061,0.24806939
+http://arxiv.org/pdf/2201.02681v3,Existence of solutions for a bi-species kinetic model of a cylindrical Langmuir probe,"The obtained sequence is then proved to converge towards
+a solution of the original problem. The qualitative description of the solution and its numerical
+simulation will be the purpose of a future work. 1. ",math.AP,B,-0.27316844,-0.22223061,0.24806939
+http://arxiv.org/pdf/2201.03140v1,Propagation of singularities and Fredholm analysis of the time-dependent Schrödinger equation,"The reason for this is that (choosing the + sign
+
+arbitrarily) the M+ module is elliptic at R−, in eﬀect raising the spatial regularity
+weight at R− by one order, thus raising it above the threshold value of −1/2, while
+not aﬀecting the regularity at R+. Being able to take a constant spatial order is
+advantageous when proving multiplicative properties, as has been explained in [12],
+
+and will be important in our planned future work on the nonlinear Schr¨odinger
+
+equation. Moreover, the consideration of module regularity spaces enables us to prove a
+precise scattering result in terms of natural spaces Wk(Rn) of incoming/outgoing
+data of solutions to P u = 0. ",math.AP,A,0.09715879,0.1096301,-0.07302879
+http://arxiv.org/pdf/2201.04085v2,A stochastic Benjamin-Bona-Mahony type equation,"However, this does not aﬀect
+the proof below anyhow, so we continue to stick to the original formulation (1.1). In future works
+
+we are planning to extend it to γj being either Fourier multipliers or space-dependent coeﬃcients. 2. ",math.AP,A,0.17264733,0.3538264,-0.20998451
+http://arxiv.org/pdf/2201.04389v1,Sharp estimates for the spreading speeds of the Lotka-Volterra competition-diffusion system: the strong-weak type,"Remark 1.5 Theorem 1.4 shows the sharp estimate on the long-time behavior of the solution reported
+
+in statement (2) of Proposition 1.2 when the ""nonlocal pulling"" phenomenon does not occur, i.e.,
+C = c∗. The case that C = c∗∗ is more challenging, and will be discussed in our future work. Next, we recall some useful known results and establish some asymptotic estimates of the traveling
+wave for later use. ",math.AP,B,-0.044400044,-0.1543504,-0.08590959
+http://arxiv.org/pdf/2201.04710v1,Scattering for focusing supercritical wave equations in odd dimensions,"In a broad manner, the failure of Theorem 1.1 along with
+
+the proﬁle decomposition result above leads to a minimizing sequence of non-scattering solutions to (1.1)
+in L∞ t (H˙ sp × H˙ sp−1) norm. Through further analysis, a critical solution uC which possesses additional
+compactness properties may be extracted. The continuity property of λ(t) on [0, T+(uC )) follows from the
+continuity of uC (t) on [0, T+(uC )) in H˙ sp × H˙ sp−1. ",math.AP,A,0.21952698,0.070903584,-0.22422765
+http://arxiv.org/pdf/2201.04710v2,Scattering for focusing supercritical wave equations in odd dimensions,"In a broad manner, the failure of Theorem 1.1 along with
+the proﬁle decomposition result above leads to a minimizing sequence of non-scattering solutions to (1.1)
+in L∞ t (H˙ sp × H˙ sp−1) norm. Through further analysis, a critical solution uC which possesses additional
+compactness properties may be extracted. The continuity property of λ(t) on [0, T+(uC )) follows from the
+continuity of uC (t) on [0, T+(uC )) in H˙ sp × H˙ sp−1. ",math.AP,A,0.21952698,0.070903584,-0.22422765
+http://arxiv.org/pdf/2201.04743v1,A Green's function for the source-free Maxwell equations on $AdS^5 \times \mathbb{S}^2 \times \mathbb{S}^3$,"The reason why we did not use
+this work lies in the fact that, even if we restricted our analysis to a geodesically normal domain, we
+do not want to introduce such potential forms because of possible extensions to the entire non-globally
+hyperbolic manifold M = AdS5 × S2 × S3. Finally, for future work, we are interested in obtaining a representation of the solution of the Maxwell
+equations on AdS5 × S2 × S3 similar to the one given in [23] because we would like to generalize this result
+to the AdS5 × Y p,q solutions of type IIB supergravity discovered in [17], where Y p,q is a certain irregular
+cohomogeneity one Sasaki-Einstein structure on S2 × S3, for which the representation of the solution of
+the Klein-Gordon equation in terms of a Green’s function is given in [12]. If we could use the procedure
+coming from [12, 23] on AdS5 × S2 × S3 we would then need to obtain a spectral representation of the
+Hodge Laplacian on Y p,q in order to adapt our result on the manifold AdS5 × Y p,q. ",math.AP,B,0.048852317,-0.012733167,0.18945768
+http://arxiv.org/pdf/2201.05109v1,Uniqueness of solutions to nonlinear Schrödinger equations from their zeros,"We believe that a method similar to that of [22], coupled with the Poincar´e
+inequality trick from before, should lead to an improved version of that result. As this
+                                           UNIQUENESS FROM ZEROS                                              7
+
+would already escape the scope of this manuscript, we plan to revisit this question in a
+future work. Second, if one additionally imposes the condition that the solutions to (2.8) are radial,
+then much more can be said about the structure of zeros. ",math.AP,C,0.10109593,0.09463453,0.15181246
+http://arxiv.org/pdf/2201.05600v1,Epochs of regularity for wild Hölder-continuous solutions of the Hypodissipative Navier-Stokes System,"The second question of interest
+is to determine whether the construction can be adapted to construct solutions that
+obey some form of energy inequality. Both questions lead to natural problems that
+we hope to consider in future works. Outline of the Paper. ",math.AP,A,0.029456593,0.049088955,-0.15773818
+http://arxiv.org/pdf/2201.05881v1,Some Lq(R)-norm decay estimates for two Cauchy systems of type Rao-Nakra sandwich beam with a frictional damping or an infinite memory,"On the other hand, we think that similar results can be obtained with a control subject to a
+thermal eﬀect like Fourier law, Cattaneo law and Gurtin-Pipkin law. These kinds of controls deserve to
+be treated and we aspire to do it in a future work. Acknowledgment. ",math.AP,B,-0.16575022,-0.12607247,0.015843946
+http://arxiv.org/pdf/2201.05924v1,Local Martingale Solutions and Pathwise Uniqueness for the Three-dimensional Stochastic Inviscid Primitive Equations,"The existence of pathwise solutions
+still remains open, since the nonlinear estimates in the analytic function space are not as good as the
+horizontal viscosity case in Sobolev spaces. We shall leave it as future work. Acknowledgments
+
+   R.H. was partially supported by the NSF grant DMS-1953035, the Faculty Career Development Award,
+the Research Assistance Program Award, and the Early Career Faculty Acceleration funding at University
+of California, Santa Barbara. ",math.AP,C,0.32699102,-0.30435288,-0.03531035
+http://arxiv.org/pdf/2201.06443v1,Stability of Bernstein type theorem for the minimal surface equation,"Here we would like to interpret the Edelen-Wang’s theorem from the view
+                                          of partial diﬀerential equations, and the situation can be divided into two
+                                          cases:
+
+                                                 • If the unbounded convex domain Ω Rn is not a half space, the
+                                                    Edelen-Wang’s theorem can be understood as the existence and
+                                                    uniqueness for solutions of the minimal surface equation in Ω with
+                                                    a linear boundary value. • If the unbounded convex domain Ω Rn is a half space, the unique-
+                                                    ness fails but all solutions form a one-parameter family, whose graphs
+                                                    form a foliation of Ω × R.
+
+                                             This interpretation motivates us to further study the stability of the
+                                          Edelen-Wang’s theorem. We are going to show that the existence, unique-
+                                          ness and foliation structure are preserved even if the linear boundary value
+                                          is perturbed by a bounded and uniformly continuous function. ",math.AP,C,0.31349108,-0.07360702,0.060669035
+http://arxiv.org/pdf/2201.06482v1,Asymptotic behavior of nonlocal bistable reaction-diffusion equations,"1
+
+(ii) In region R2, there are two sharp thresholds between extinction and stagnation on the one
+
+     hand and between stagnation and propagation on the other hand, that is 0 <             ∗  <  ∗  <   ∞;
+                                                                                            0     1
+
+(iii) In region R3, there is a sharp threshold between stagnation and propagation, that is 0 =               ∗
+                                                                                                             0
+
+     and 0 <   ∗  <  ∞;
+               1
+
+(iv) In region R4, there is a sharp threshold between extinction and stagnation, that is 0 <             ∗   <
+                                                                                                         0
+
+     +∞ and    ∗  =  ∞;
+               1
+
+(v) In region R5, there is always stagnation, that is 0 =     ∗  and   ∗  =  ∞. 0        1
+
+Proving such a conjecture is a major open problem that we leave for future work. We note that [21]
+
+has proved Conjecture 5.3(i) when the kernel is compactly supported, and in a sub-region of R1,
+namely the sub-region above the curve d = 1−a3+a2 which corresponds to the region where g > 0
+(indicated by the dashed blue lin in Figure 12). ",math.AP,A,-0.07462567,0.22471407,-0.06322868
+http://arxiv.org/pdf/2201.06490v1,"Energy transfer, weak resonance, and Fermi's golden rule in Hamiltonian nonlinear Klein-Gordon equations","Deﬁne γ −Re(b(534)). To further study the asymptotic behavior of
+A, we introduce the following two ODE type estimates. Theorem 5.1. ",math.AP,A,0.06279389,0.008140378,-0.27669144
+http://arxiv.org/pdf/2201.06780v1,Self-similar blow-up profile for the Boussinesq equations via a physics-informed neural network,"The framework is shown to be
+both robust and readily adaptable. In future work, we aim to use our numerically computed approximate self-similar solution of (1.1)
+in a computer assisted proof of ﬁnite-time singularity formation from smooth ﬁnite energy initial data
+for both the Boussinesq equation and Euler equations with cylindrical boundary. Let pU0, Θ0, λ0q be
+an approximate solution of (1.3) up to some small right-hand-side δ0. ",math.AP,B,0.012462732,-0.2848122,0.15559748
+http://arxiv.org/pdf/2201.06780v2,Asymptotic self-similar blow up profile for 3-D Euler via physics-informed neural networks,"The framework is shown to be
+both robust and readily adaptable. In future work, we aim to use our numerically computed approximate self-similar solution of (1.1)
+in a computer assisted proof of ﬁnite-time singularity formation from smooth ﬁnite energy initial data
+for both the Boussinesq equation and Euler equations with cylindrical boundary. Let pU0, Θ0, λ0q be
+an approximate solution of (1.4) up to some small right-hand-side δ0. ",math.AP,B,0.011293216,-0.2834718,0.15534693
+http://arxiv.org/pdf/2201.07094v1,Fractional derivatives and time-fractional ordinary differential equations in $L^p$-space,"We do not discuss time-fractional partial diﬀerential equations at all. The related
+topics should be studied also in future works for p ≥ 1. We remark that the case p = 2 is
+relatively satisfactorily argued already in e.g., [6], [15]. ",math.AP,C,0.10176331,-0.017424155,-0.19656116
+http://arxiv.org/pdf/2201.07608v1,Justification of a nonlinear sixth-order thin-film equation as the reduced model for a fluid -- structure interaction problem,"In linear models [4, 5] we were able to obtain error estimates
+for approximate solutions in strong norms, and it is our next aim to extend these results to
+the nonlinear framework of this paper. This will be the subject of our future work. Appendix A.
+
+A.1. ",math.AP,A,0.06565522,0.09009375,-0.08511786
+http://arxiv.org/pdf/2201.07764v2,Hamiltonian formulation of the stochastic surface wave problem,"The purpose pursued
+would be to reinterpret classical models enriched with a noise component. Another future work of interest will
+concern the development of stochastic representations of nonlinear Shallow Water theories for coastal waves[1]. A Stochastic equations
+
+A.1 Change of variables
+
+A stochastic Hamiltonian evolutionary system in variable X is a system of partial diﬀerential equations of the
+
+form
+
+                                       dX = J X ∇X H dt + JjX ∇X H ◦ dWj,
+
+                                                             j
+
+                                                                                                                               20
+where structure maps JX , JjX do not depend on X. ",math.AP,B,-0.23148681,-0.1603173,-0.043827266
+http://arxiv.org/pdf/2201.08114v1,Standing waves on quantum graphs,"The condition (3.10) assures strict positivity of L+ on L2c. Nothing can be said on stability of
+                                             d      2 = 0.
+standing waves without further analysis if  dω  Φω
+
+Remark 3.6. The number of negative eigenvalues of L+ is called the Morse index of the
+linearization. ",math.AP,A,0.06305265,0.11180737,0.00852794
+http://arxiv.org/pdf/2201.08189v1,Sharp resolvent estimate for the Baouendi-Grushin operator and applications,"In our setting, in the subelliptic regime the vertical ﬂow plays the role of subprincipal (selfadjoint)
+perturbation, and the pseudo-spectrum appears since this vertical ﬂow is transversal to the level sets of
+the damping term. We omit a further study on the precise localization of the spectrum of the damped-
+wave Baouendi-Grushin operator since this is irrelevant for the sharp resolvent estimate (1.7). We
+refer to [23] for a discussion of this non-selfadjoint phenomenon and for references to one dimensional
+examples. ",math.AP,A,0.039031543,0.10012385,0.04775723
+http://arxiv.org/pdf/2201.08189v2,Sharp resolvent estimate for the Baouendi-Grushin operator and applications,"In our setting, in the subelliptic regime the vertical ﬂow plays the role of the ﬂow generated by the
+subprincipal (selfadjoint) perturbation, and the pseudo-spectrum appears since this vertical ﬂow is
+transversal to the level sets of the damping term. We omit a further study on the precise localization
+of the spectrum of the damped-wave Baouendi-Grushin operator since this is irrelevant for the sharp
+resolvent estimate (1.7). We refer to [25] for a discussion of this non-selfadjoint phenomenon and for
+references to one dimensional examples. ",math.AP,A,0.04231894,0.10024778,0.045303088
+http://arxiv.org/pdf/2201.08192v1,Self-adjointness for the MIT bag model on an unbounded cone,"eiφ∂θ + i cot θeiφ∂φ                          i∂φ
+
+Finally, the spin-orbit differential expression is given by
+
+(3.23)                            K = I4 + S 0 ,
+                                                0S
+
+where I4 is the identity matrix in C4. For further analysis we introduce also the matrix-valued function
+
+                         0                    0                    cos θ       e−iφ sin θ
+               3 xj  0                        0                  eiφ sin θ      − cos θ  . (3.24)  αr := αj r =  cos θ             e−iφ sin θ
+                                           − cos θ                    0              0
+        j=1                    eiφ sin θ                              0              0
+
+        4. ",math.AP,B,-0.20742631,0.049495827,0.1332267
+http://arxiv.org/pdf/2201.08769v1,Fractional calculus and time-fractional differential equations: revisit and construction of a theory,"k = 0, 1, ..., m − 1,
+
+    In this section, we pick up ﬁve topics and apply the results in Sections 2 - 4. We postpone
+
+general and complete descriptions to a future work. Moreover, we are limited to the following
+
+A:
+
+                            d                 d
+
+                −Av(x) = ∂j(aij(x)∂jv(x)) + bj(x)∂j v + c(x)v, x ∈ Ω                    (6.4)
+
+                       j=1                    j=1
+
+for v ∈ D(A) := H2(Ω) ∩ H01(Ω) with
+
+    aij = aji ∈ C1(Ω), bj ∈ C1(Ω) for 1 ≤ i, j ≤ d, c ∈ C1(Ω), ≤ 0 on Ω. ",math.AP,C,0.18517879,-0.0026255976,0.032969736
+http://arxiv.org/pdf/2201.08793v1,A new functional space related to Riesz fractional gradients in bounded domains,"in ΩB,δ. We leave for a future work the issue of whether H0s,p,δ(Ω−δ) actually coincides with the
+set of u ∈ Hs,p,δ(Ω−δ) such that u = 0 a.e. in Ωδ \ Ω−δ, so that H0s,p,δ(Ω−δ) can be regarded as a
+volumetric-type condition. ",math.AP,C,0.2288335,0.118073985,-0.0017090999
+http://arxiv.org/pdf/2201.08793v2,Nonlocal gradients in bounded domains motivated by Continuum Mechanics: Fundamental Theorem of Calculus and embeddings,"in ΩB,δ. We leave for a future work the issue of whether H0s,p,δ(Ω−δ) actually coincides with the
+set of u ∈ Hs,p,δ(Ω−δ) such that u = 0 a.e. in Ωδ \ Ω−δ, so that H0s,p,δ(Ω−δ) can be regarded as a
+volumetric-type condition. ",math.AP,C,0.2288335,0.118073985,-0.0017090999
+http://arxiv.org/pdf/2201.08971v2,Boundary localization of transmission eigenfunctions in spherically stratified media,"More intriguingly, the geometric properties have been used to pro-
+duce super-resolution imaging schemes for inverse acoustic and electromagnetic scattering
+problems [15, 25], artiﬁcial mirage [21], and pseudo surface plasmon resonance [21]. In this paper, we further study the boundary concentration of the transmission eigen-
+functions and extend the related studies in [15, 16] to more general setups. Speciﬁcally,
+in [15, 16], the theoretical justiﬁcations are mainly concerned with the case that σ ≡ 1, n
+is constant and Ω is smooth and convex, though the general case with variable medium
+parameter n and non-convex and non-smooth Ω is numerically investigated. ",math.AP,C,0.06744088,0.022520062,0.3347291
+http://arxiv.org/pdf/2201.09150v1,PDE guidance for cognitive animal movement,"Hence,  the  existence  of  a  strong  solution  belonging  to  W  2  ,1  (QT  )  where
+                                                                                                               2
+QT = Ω × (0, T ) for a smooth, bounded domain Ω and T > 0 ﬁxed follows from a mere L2(QT ) estimate on
+
+the solution u. We leave further details of this solution method for future work. To conclude, the well-posedness of any model featuring a Gaussian kernel enjoys well-posedness due to
+
+the regularity of the kernel. ",math.AP,C,0.2853657,-0.073275775,-0.1259715
+http://arxiv.org/pdf/2201.09780v1,"Well-posedness, ill-posedness, and traveling waves for models of pulsatile flow in viscoelastic vessels","We have considered applying one-
+dimensional bifurcation theorems with two-dimensional kernels such as [17],
+[18], but have found that the conditions of these theorems are not satisﬁed
+by our system. Considering a genuinely two-dimensional bifurcation will be
+the subject of future work. Additionally, there are other models of ﬂuid ﬂow in viscoelastic vessels,
+such as the work of [8]. ",math.AP,B,-0.028463563,-0.23308298,0.08893306
+http://arxiv.org/pdf/2201.10195v1,Small Solitons and Multi-Solitons in Generalized Davey-Stewartson System,"From [8, 26, 12], the
+
+instability of solitons for (1.1) has gotten a comprehensive study. And from [25, 27],
+
+further study to stability of solitons for (1.1) becomes an interesting topic. In this
+
+paper we develop some new technologyies to study stability of solitons for (1.1). ",math.AP,B,-0.116989255,-0.07232456,-0.13807297
+http://arxiv.org/pdf/2201.10367v1,Characterisation for Exponential Stability of port-Hamiltonian Systems,"We emphasise that as
+the strategy above uses existence and boundedness of the resolvent of the generator on the imaginary
+axis it might be possible, invoking results such as [1, 4], to show algebraic decay for certain set-ups. Whether at all these set-ups exists and how they maybe characterised will be addressed in future work. References
+
+[1] W. Arendt and C. J. K. Batty. ",math.AP,A,-0.10869291,0.21836668,-0.061431125
+http://arxiv.org/pdf/2201.10696v1,A model for the spread of fire blight during bloom,"What are the costs versus beneﬁts of certain IPM strategies
+for the control of ﬁre blight in large-scale production settings? This lack of knowledge suggests
+a need for future work in ﬁre blight modelling and in the ﬁeld of optimal control for agricultural
+diseases. 5.2 Modelling ﬁre blight in a spatial setting
+
+In the ﬁrst ﬁre blight disease model [24], the authors assumed that pollinators move between trees
+in an orchard with equal probability, i.e, that the pollinator is just as likely to cross the entire
+orchard in the search for food as it is to travel to the neighbouring tree. ",math.AP,B,-0.34313107,-0.022206977,-0.060676593
+http://arxiv.org/pdf/2201.10926v1,On the range of the planar $X$-ray transform on the Fourier lattice of the torus,"For a complex valued f , since RepXf q “ XpRepf qq and ImpXf q “ XpImpf qq, Theorem 2.1
+and Corollary 2.1 apply to Repf q and to Impf q, respectively. The feasibility of the constraints (2.17) to data enhancement is subject to future work. 3. ",math.AP,A,-0.09374912,0.36297232,0.03920758
+http://arxiv.org/pdf/2201.11721v1,Conformal Structure of Autonomous Leray-Lions Equations in the Plane and Linearisation by Hodograph Transform,"where h : D → Q1 is holomorphic. To use these methods to actually deduce regularity of the
+p-orthotropic Laplacian is something that will be done in future work. 21
+
+Acknowledgements
+
+Erik Duse was supported by the Knut and Alice Wallenberg Foundation grant KAW 2015.0270. ",math.AP,C,0.2854111,0.026784338,0.030941714
+http://arxiv.org/pdf/2201.11721v2,Conformal Structure of Autonomous Leray-Lions Equations in the Plane and Linearisation by Hodograph Transform,"where h : D → Q1 is holomorphic. To use these methods to actually deduce regularity of the
+p-orthotropic Laplacian is something that will be done in future work. 6 Counterexample
+
+In section 4, when we consider the reduction to a C-quasilinear equation we consider solutions η
+of the algebraic equation
+
+                                            ν(z) + η(z) + ν(z)η(z)2 = 0. ",math.AP,C,0.36087933,-0.02227639,-0.015742265
+http://arxiv.org/pdf/2201.12244v1,Data Assimilation using Time-Delay Nudging in the Presence of Gaussian Noise,"In the present paper we take δ = 1 and
+focus on the regular 9 × 9 grid with N = 81 while noting when the points xi do not lie on
+such a grid that convergence of the approximating solution to the free-running solution can
+be more erratic. Further study of this case is planned for a future work. 15
+Figure 1: The left shows the Voronoi tessellation resulting from 81
+points arranged in a rectangular grid; the right illustrates the same
+same number of points chosen at random. ",math.AP,B,-0.13274704,-0.024570053,0.31020486
+http://arxiv.org/pdf/2201.12422v1,Existence and Stability of Localized Patterns in the Population Models with Large Advection and Strong Allee Effect,"Moreover, one can ﬁnd from (1.15) that as χ → ∞, the “inner regions” will shrink to zero exponen-
+tially. It is natural to further study the large time behavior of the nontrivial steady states established
+by Theorem 1.1. Our next results are devoted to investigate the linearized eigenvalue problem of (1.1)
+around the spiky solutions in (1.15), which are summarized as:
+
+Theorem 1.2. ",math.AP,A,0.06070636,-0.014159438,-0.08099845
+http://arxiv.org/pdf/2201.12422v2,Existence and Stability of Localized Patterns in the Population Models with Large Advection and Strong Allee Effect,"Moreover, one can ﬁnd from (1.15) that as χ → ∞, the “inner regions” will shrink to zero exponen-
+tially. It is natural to further study the large time behavior of the nontrivial steady states established
+by Theorem 1.1. Our next results are devoted to investigate the linearized eigenvalue problem of (1.1)
+around the spiky solutions in (1.15), which are summarized as:
+
+Theorem 1.2. ",math.AP,A,0.06070636,-0.014159438,-0.08099845
+http://arxiv.org/pdf/2201.12742v3,Nonlinear Asymptomatic Stability of Gravitational Hydrostatic Equilibrium for Viscous White Dwarfs with Symmetric Perturbations,"Instability result of Euler-Poisson
+equations for polytropes with γ = 4/3 was identiﬁed in [10], since a small perturbation can
+cause part of the mass to go oﬀ to inﬁnity. For Euler-Possion equations modelling polytropic
+stars with p(ρ) = ργ, a class of global expanding solutions was constructed in [20] for γ = 4/3
+and in [21] for other values of γ, and the continued gravitational collapse was demonstrated
+in [19] for 1 < γ < 4/3 , (see also further study in [23]) , and the Larson-Penston self-similar
+gravitational collapse was proved in [19] for γ = 1. The global existence of weak spherically
+symmetric solutions in multi-dimensions was proved in [6] for certain range of γ. ",math.AP,B,-0.04484414,-0.07807198,-0.037224185
+http://arxiv.org/pdf/2201.12742v4,Nonlinear Asymptotic Stability of Gravitational Hydrostatic Equilibrium for Viscous White Dwarfs with Symmetric Perturbations,"Instability result of Euler-Poisson
+equations for polytropes with γ = 4/3 was identiﬁed in [10], since a small perturbation can
+cause part of the mass to go oﬀ to inﬁnity. For Euler-Possion equations modelling polytropic
+stars with p(ρ) = ργ, a class of global expanding solutions was constructed in [20] for γ = 4/3
+and in [21] for other values of γ, and the continued gravitational collapse was demonstrated
+in [19] for 1 < γ < 4/3 , (see also further study in [23]) , and the Larson-Penston self-similar
+gravitational collapse was proved in [19] for γ = 1. The global existence of weak spherically
+symmetric solutions in multi-dimensions was proved in [6] for certain range of γ. ",math.AP,B,-0.04484414,-0.07807198,-0.037224185
+http://arxiv.org/pdf/2201.13193v1,Mathematical analysis of a thermodynamically consistent reduced model for iron corrosion,"Since oxygen vacancies are not
+considered in our simpliﬁed setting, the boundaries are ﬁxed throughout this paper. The derivation
+of a thermodynamically consistent counterpart to the full DPCM model will be the purpose of a
+future work. 1.2. ",math.AP,B,-0.1974124,-0.16006264,0.097015485
+http://arxiv.org/pdf/2201.13281v1,Geometric convergence in fractional Laplacian regularization,"Roughly speaking, compared to a
+more standard L2 situation, these assumptions mean that we force a stronger matching
+of observation and solution. Whether geometric results such as those proved here are
+possible without departing from a fully Hilbert space framework could be an interesting
+question for future work. 1.1 Some notation
+
+Within this article we work extensively with subsets of Rd. ",math.AP,A,0.001155857,0.3147274,-0.00014856824
+http://arxiv.org/pdf/2201.13281v2,Convergence of level sets in fractional Laplacian regularization,"Roughly speaking, compared to a
+more standard L2 situation, these assumptions mean that we force a stronger matching
+of observation and solution. Whether geometric results such as those proved here are
+possible without departing from a fully Hilbert space framework could be an interesting
+question for future work. 1.1 Some notation
+
+Within this article we work extensively with subsets of Rd. ",math.AP,A,0.001155857,0.3147274,-0.00014856824
+http://arxiv.org/pdf/2201.13339v1,The $L^{\infty}$ estimates for parabolic complex Monge-Ampere and Hessian equations,"Here the function h(t) is so chosen in order to satisfy the volume compatibility condition:
+
+                 h′(t) ω0n = eF (t,·)ω0n. M         M
+
+We plan to investigate the convergence question as t → ∞ in future works, but for now,
+
+we will only ﬁx 0 < T < ∞ and derive estimates on [0, T ] × M . We will establish the following result regarding the parabolic complex Monge-Ampere
+equation, which can be seen as a parabolic analogue of Kolodziej’s C0 estimate:
+
+Theorem 1.1. ",math.AP,C,0.2723163,-0.17159906,-0.10739893
+http://arxiv.org/pdf/2201.13436v1,Uniform asymptotic stability for convection-reaction-diffusion equations in the inviscid limit towards Riemann shocks,"Outline and perspectives. The most natural nontrivial extensions of Theorems 1/2 that
+we have chosen to leave for future work concern on one hand the parabolic regularization by
+quasilinear terms and on the other hand planar Riemann shocks in higher spatial dimensions
+(see [DR20, Theorem 3.4] for the hyperbolic case). We expect many parts of the present analysis
+to be directly relevant in quasilinear or multiD cases but we also believe that their treatments
+would also require suﬃciently many new arguments to deserve a separate treatment. ",math.AP,C,0.21966964,0.035175484,0.042143084
+http://arxiv.org/pdf/2201.13452v1,Asymptotic Analysis for a Nonlinear Reaction-Diffusion System Modeling an Infectious Disease,"These results show that the mathematical
+model is well-deﬁned and can be used by other researchers to conduct the ﬁeld study. The
+theoretical results obtained in this paper lays a solid foundation for other scientists in related
+ﬁelds to further study more constructive qualitative properties of the solutions. The study
+will provide scientists a deeper understanding of the dynamics of the interaction between
+bacteria and susceptible, infected and recovered species. ",math.AP,B,-0.31595084,-0.25958604,-0.038918406
+http://arxiv.org/pdf/2202.00098v1,Greedy search of optimal approximate solutions,"Moreover, it can be easily checked in that
+case the functional J is nonnegative, obtaining its minimum for v˜ = 0. Such
+case is a trivial one, which we exclude from further analysis. For the target f ∈ Y whose norm is larger than ε, the functional J attains
+negative values and its minimum is the point v˜ diﬀer from 0. ",math.AP,A,0.15408807,0.20328912,-0.062314425
+http://arxiv.org/pdf/2202.00098v2,Greedy search of optimal approximate solutions,"As the functional J is diﬀerentiable apart from the origin, its diﬀerential
+at v˜ equals zero, which results in the Euler-Lagrange equation (2.6). The case f Y ≤ ε is a trivial one, which we exclude from further analysis. In the non-trivial case ( f Y ≤ ε) the Euler-Lagrange equation implies that
+u˜ = L∗v˜ is an eligible solution to the problem (2.2) which brings the system
+to the boundary of the target ball around f . ",math.AP,C,0.21305573,-0.09867364,0.009957882
+http://arxiv.org/pdf/2202.00511v1,A few results on permittivity variations in electromagnetic cavities,"Incidentally, we mention that this paper is a ﬁrst step towards understanding the
+behavior of Maxwell eigenvalues upon permittivities variations. In particular the
+authors plan to investigate issues related to the optimization of Maxwell eigenvalues
+with respect to ε in a future work. After the present introduction the paper is organized as follows: Section 2 is a
+
+                                                 3
+section of preliminaries containing notation, the functional setting and basic results
+about the eigenvalue problem. ",math.AP,A,0.072735816,0.14397778,0.12591636
+http://arxiv.org/pdf/2202.00511v2,A few results on permittivity variations in electromagnetic cavities,"Incidentally, we mention that this paper is a ﬁrst step towards understanding the
+behavior of Maxwell eigenvalues upon permittivities variations. In particular the
+authors plan to investigate issues related to the optimization of Maxwell eigenvalues
+with respect to ε in a future work. After the present introduction the paper is organized as follows: Section 2 is a
+
+                                                 3
+section of preliminaries containing notation, the functional setting and basic results
+about the eigenvalue problem. ",math.AP,A,0.072735816,0.14397778,0.12591636
+http://arxiv.org/pdf/2202.00511v3,A few results on permittivity variations in electromagnetic cavities,"Note that if we lower the regularity assumptions, for example requiring Ω just of
+Lipschitz class, there is no guarantee to obtain the same perturbation results. The
+authors plan to address this issue in future works. We recall here a known formula for the divergence of the matrix-vector product
+εv with ε ∈ E and v ∈ H1(Ω)3 that we will exploit extensively throughout the paper:
+
+   div(εv) = tr(εDv) + div ε · v a.e. ",math.AP,A,0.14327179,0.1506162,0.024165686
+http://arxiv.org/pdf/2202.00644v1,Effective medium theory for second-gradient nonlinear elasticity with chirality,"We will not address other type of scaling here. Rather we will leave their
+treatment to future work. We close this paragraph by noting that if no confusion arises, henceforth, we will omit the
+∗ notation for the sake of simplicity and expediency of presentation. ",math.AP,A,-0.29195672,0.32354486,0.041465875
+http://arxiv.org/pdf/2202.00760v1,Exact boundary controllability and exact boundary synchronization for a coupled system of wave equations with coupled Robin boundary controls,"To study the exact boundary controllability and the exact boundary synchronization for a
+
+coupled system of wave equations with coupled Robin boundary controls, most of diﬃculties come
+from the complicated form of boundary conditions. To deeply study the non-exact boundary
+controllability and the necessity of the conditions of Cp-compatibility for the exact synchronization
+by p-groups, we have to further study the regularity of solutions to Robin problem, then these
+problems can be obtained on some special domains by a method of compact perturbation, based
+on the improved regularity results. 2 Regularity of solutions with Neumann boundary condi-
+     tions
+
+Similarly to the problem of wave equations with Neumann boundary conditions, a problem with
+
+Robin boundary conditions no longer enjoys the hidden regularity as in the case with Dirichlet
+
+boundary conditions. ",math.AP,C,0.21874475,-0.16014183,0.035922475
+http://arxiv.org/pdf/2202.01754v2,Bifurcation analysis for axisymmetric capillary water waves with vorticity and swirl,"Finally, in Section 6 we close the paper by investigating global bifurcations; see Theorem 6.2. Since we require the radius r to be a graph of the longitudinal position z along the water surface,
+our theoretical framework, in contrast to [37], does not allow for overhanging waves, and we leave it
+to further research to include this possibility. This would clearly be a desirable extension in view of
+the numerical results in [29, 33]. ",math.AP,B,-0.08331247,-0.23053445,0.20468464
+http://arxiv.org/pdf/2202.02678v1,The Existence of Dyon Solutions for Generalized Weinberg-Salam Model,"Dirac’s monopole lives in the classical Maxwell ﬁeld theory for electromagnetism
+and carries inﬁnite energy [34]. By further studying Maxwell’s equation, Schwinger extended
+Dirac’s idea of magnetic monopole [12], and discovered and deﬁned a new kind of particle like
+solution that carries both electric charge and magnetic charge, which is called dyon [27]. Dyon
+has a lot of important applications in high-temperature superconductivity, quantum Hall
+eﬀect and superﬂuids [8]. ",math.AP,B,0.01827582,-0.013666866,-0.007711024
+http://arxiv.org/pdf/2202.02678v2,The Existence of Dyon Solutions for Generalized Weinberg-Salam Model,"Dirac’s monopole lives in the classical Maxwell ﬁeld theory for electromagnetism
+and carries inﬁnite energy [34]. By further studying Maxwell’s equation, Schwinger extended
+Dirac’s idea of magnetic monopole [12], and discovered and deﬁned a new kind of particle like
+solution that carries both electric charge and magnetic charge, which is called dyon [27]. Dyon
+has a lot of important applications in high-temperature superconductivity, quantum Hall
+eﬀect and superﬂuids [8]. ",math.AP,B,0.01827582,-0.013666866,-0.007711024
+http://arxiv.org/pdf/2202.02712v1,Zero-viscosity Limit for Boussinesq Equations with Vertical Viscosity and Navier Boundary in the Half Plane,"From now on, Ω is taken as R2+ for simplicity in our paper. As for the C1
+bounded domain in R2, we leave this case in our further study concerning the zero-viscosity limit
+of Boussinesq equations with partial dissipation. Therefore, in this section, we will present the
+uniform estimates for α ∈ R in the half plane. ",math.AP,C,0.3261127,-0.19781503,-0.08377692
+http://arxiv.org/pdf/2202.03475v1,Nonlinear structural stability and linear dynamic instability of transonic steady-states to a hydrodynamic model for semiconductors,"For unipolar hydrodynamic model of semiconductor device represented by
+
+                                                     Euler-Poisson equations, when the doping proﬁle is supersonic, the existence of steady tran-
+                                                     sonic shock solutions and C∞-smooth steady transonic solutions for Euler-Poisson Equa-
+                                                     tions were established in [27] and [41], respectively. In this paper we further study the
+                                                     nonlinear structural stability and the linear dynamic instability of these steady transonic
+                                                     solutions. When the C1-smooth transonic steady-states pass through the sonic line, they
+                                                     produce singularities for the system, and cause some essential diﬃculty in the proof of
+                                                     structural stability. ",math.AP,B,0.0024494445,-0.22217974,-0.02301862
+http://arxiv.org/pdf/2202.03878v1,$H^{1+α}$ estimates for the fully nonlinear parabolic thin obstacle problem,"Second, we also consider nonsymmetric
+solutions u with operators not necessarily satisfying any symmetry assumption, and prove
+H1+α regularity for such solutions. In future work, we plan to extend the results of Ros-
+Oton and Serra (2017) who treated free boundary regularity for the fully nonlinear elliptic
+operators to the parabolic case. Given a domain D in Rn+1 with an n-dimensional surface S inside, the parabolic thin
+obstacle problem involves a function u : D → R, an obstacle ϕ : S → R, a Dirichlet
+boundary condition given by u0 : ∂pD → R, and a second order elliptic operator L,
+
+ Lu − ∂tu = 0     in D \ {(x, t) ∈ S : u(x, t) = ϕ(x, t)}
+                  in D
+                   on S
+  Lu − ∂tu  ≤  0  on ∂pD. ",math.AP,C,0.47822386,-0.14551759,0.048658326
+http://arxiv.org/pdf/2202.04168v1,Hopf bifurcations in the full SKT model and where to find them,"A
+Hopf bifurcation point is detected, yet the time-periodic solution originated seems to be unstable. Thanks to its interplay between linearised analysis, weakly nonlinear analysis and numerical
+continuation, this work constitute a step forward in the analytical understanding of the bifur-
+cation structure of the SKT system, it points out new interesting aspects and opens several
+diﬀerent questions that can be addressed in future works. First of all, a stronger characterisation of the doubly degenerate point at the critical value is
+needed at this point. ",math.AP,B,-0.2745715,-0.20570214,0.05506635
+http://arxiv.org/pdf/2202.04505v1,Growth of Sobolev norms in quasi integrable quantum systems,"In Section
+9.3 we will prove that the Aj’s are pseudodiﬀerential operators, so that we
+can apply Theorem 2.16 and deduce that the estimate (2.10) holds for the
+solutions of the equation (4.3) on a compact, simply connected Lie group. We also point out that it would be interesting to study growth of Sobolev
+norms on homogeneous spaces; we leave this for future work. 5 Application 3: Several quantum particles
+     on a Zoll manifold or a Lie Group
+
+Let (M, g) be a Zoll manifold or a compact, simply connected Lie group2,
+
+and consider a system composed by n quantum particles on M which interact
+
+through a potential possibly depending on the velocity and also depending
+
+on time (external forcing). ",math.AP,A,0.16559225,0.063658305,-0.20034167
+http://arxiv.org/pdf/2202.05051v1,Partial regularity for degenerate parabolic systems with non-standard growth and discontinuous coefficients,"(6.9)
+
+At this stage, we see that the hypotheses of Lemma B.2 are fulﬁlled and we can apply
+
+Lemma B.2 with w = v. Therefore, we conclude the existence of an A-caloric map f ∈
+C∞(Q̺/8, RN ) satisfying
+
+      − f 2 + |D f |2 dz + − γp0−2                        f p0 + |D f |p0 dz ≤ c(n, γ2, ν, L)         (6.10)
+      Q̺/8 ̺/8                                           ̺/8
+                                     Q̺/8
+
+and                                  v− f        2 dz + γp0−2  v− f  p0
+
+                             −                                         dz ≤ ε. (6.11)
+                             Q̺/8 ̺/8                          ̺/8
+
+We have established the existence of the A-caloric map, and now we further study its decay
+estimate. To start with, we set θ˜ = 2 21 γ2+2θ. ",math.AP,A_centroid,-0.016784713,0.24186817,-0.27400234
+http://arxiv.org/pdf/2202.05585v1,On regular solutions for three-dimensional full compressible Navier-Stokes equations with degenerate viscosities and far field vacuum,"Based on the conclusions obtained in Theorem 1.1 and [24], there is a natural
+
+question that whether the conclusion obtained in [24] can be applied to the degenerate
+
+system considered here? Due to strong degeneracy near the vacuum in (1.1)2−(1.1)3,
+such questions are not easy and will be discussed in the future work Xin-Zhu [44]. Remark 1.5. ",math.AP,B,-0.12047104,0.1338751,-0.07815465
+http://arxiv.org/pdf/2202.05969v1,Global tangentially analytical solutions of the 3D axially symmetric Prandtl equations,"8                                X. Pan and C. J. Xu
+
+Remark 2.7. Here we only consider the the axially symmetric Prandtl equation, extensions of The-
+orem 2.3 to the axially symmetric MHD boundary layer system and in the tangential Gevrey spaces
+will be considered in our future work. For a function f (t, x, y, z) and 1 ≤ p, q ≤ +∞, deﬁne
+
+                                 +∞                                        q/ p           1/q
+
+   f (t) LhpLqz :=                     | f (t, x, y, z)|pdxdy dz . ",math.AP,C,0.28255594,-0.07918768,0.13986474
+http://arxiv.org/pdf/2202.06739v1,Local recovery of a piecewise constant anisotropic conductivity in EIT on domains with exposed corners,"• Using other decompositions for Ω such as one with pentagons. For all of these, we need to have a fundamental solution or a singular solution with
+a local pointwise estimate from below for its gradient, which will be our future works
+and opened to anybody who is interested in this issue. 25
+Acknowledgments
+
+The ﬁrst author was supported by the Simons Foundation under the MATH + X pro-
+gram, the National Science Foundation under grant DMS-2108175, and the corporate
+members of the Geo-Mathematical Imaging Group at Rice University. ",math.AP,C,0.16740464,0.0012240484,0.37609774
+http://arxiv.org/pdf/2202.06739v2,Local recovery of a piecewise constant anisotropic conductivity in EIT on domains with exposed corners,"• Using other decompositions for Ω such as one with pentagons. For all of these, we need to have a fundamental solution or a singular solution with
+a local pointwise estimate from below for its gradient, which will be our future works
+and opened to anybody who is interested in this issue. 26
+Acknowledgments
+
+The ﬁrst author was supported by the Simons Foundation under the MATH + X pro-
+gram, the National Science Foundation under grant DMS-2108175, and the corporate
+members of the Geo-Mathematical Imaging Group at Rice University. ",math.AP,C,0.16961601,0.003379047,0.37453598
+http://arxiv.org/pdf/2202.07112v1,Global solutions to a haptotaxis system with a potentially degenerate diffusion tensor in two and three dimensions,"We now begin by translating the baseline estimates given in Lemma 3.2 to our newly deﬁned function a as
+we will henceforth focus on (a, w) as our central object of analysis for quite some time. We will further for
+the foreseeable future work under the assumption that Tmax < ∞ as this is exactly the case we want to rule
+out by leading this assumption to a contradiction with the blow-up criterion. Corollary 3.3. ",math.AP,A,0.07372528,0.1632221,-0.1411038
+http://arxiv.org/pdf/2202.08179v1,The Helmholtz problem in slowly varying waveguides at locally resonant frequencies,"Indeed, for a locally resonant
+frequency, the wave ﬁeld in a perturbed waveguide is very diﬀerent from the
+one in a regular waveguide, even if the width h is close to a constant function. This should provide a very high sensibility inversion method to reconstruct the
+width of the waveguide, and will be done in a future work. Appendix A. ",math.AP,A,0.11324551,0.05581002,0.24619278
+http://arxiv.org/pdf/2202.08584v1,Well-balanced Central Scheme for the System of MHD Equations with Gravitational source term,"All our computations are done on a Cartesian grid in 2D. A triangular mesh can be
+considered in future work. 7 Funding
+
+The authors would like to acknowledge the National Council for Scientiﬁc Research of Lebanon (CNRS-L) for granting
+a doctoral fellowship to Farah Kanbar. ",math.AP,B,-0.20464103,0.031291828,0.54217416
+http://arxiv.org/pdf/2202.08653v2,Convex monotone semigroups and their generators with respect to $Γ$-convergence,"Under the assumption that I(t) is globally Lipschitz
+continuous one can show that LI+ ⊂ LS+ and if, in addition,
+
+                              I(t)f ≤ S(t)f for all t ≥ 0 and f ∈ Cκ,
+
+we obtain the equality LI+ = LS+. For further research, it would be desirable to ﬁnd
+general conditions that do not involve inequalities between I and J, but still guarantee
+the equality LI+ = LS+. Theorem 4.6. ",math.AP,A,0.11402097,0.20739652,-0.24125203
+http://arxiv.org/pdf/2202.09237v1,Global Minimizers of a Large Class of Anisotropic Attractive-Repulsive Interaction Energies in 2D,"As a consequence, the unique steady state of (4.3) is given by the parameters pa, b, ηq for the
+
+energy minimizer. The analysis of wellposedness and long time behavior of this ODE system is left as
+
+future work. Remark 4.4. ",math.AP,B,-0.07156515,-0.20365295,-0.1756613
+http://arxiv.org/pdf/2202.09237v2,Global Minimizers of a Large Class of Anisotropic Attractive-Repulsive Interaction Energies in 2D,"As a consequence, the unique steady state of (4.3) is given by the parameters pa, b, ηq for the
+
+energy minimizer. The analysis of wellposedness and long time behavior of this ODE system is left as
+
+future work. Remark 4.4. ",math.AP,B,-0.07156515,-0.20365295,-0.1756613
+http://arxiv.org/pdf/2202.09411v1,Minimizing travelling waves for the Gross-Pitaevskii equation on $\mathbb{R} \times \mathbb{T}$,"Note that, when 0 < λ < λp, Theorem 1 makes no claim about the existence of minimizers for
+Iλ(p), it only asserts that potential candidates must be truly two-dimensional. The fact that
+minimizers do exist in such cases will be the object of a future work. Note also that our arguments do not prevent the possible existence of a truly two-dimensional
+minimizer for λ = λp. ",math.AP,A,0.028064892,0.23802865,-0.052119482
+http://arxiv.org/pdf/2202.11304v1,On the global well-posedness and decay of a free boundary problem of the Navier-Stokes equation in unbounded domains,"However, in the half-space and without taking account of surface
+
+tension, similar results in the Lp-Lq framework have not been shown because
+
+of the noncompactness of the boundary ∂Ω. The analysis in Lp-Lq framework
+                                                                         n
+seems  more convenient         than         that   in  L  1  -  B˙  −1+  p   framework to  address the      lower
+                                                                    p,1
+
+derivative terms when we show the global well-posedness in other domains such
+
+as cylinder, which remain as subject for further study. This is the key motivation
+
+of this paper. ",math.AP,C,0.34327674,-0.11207703,0.14675744
+http://arxiv.org/pdf/2202.11318v1,A comparison estimate for singular $p$-Laplace equations and its consequences,"For the rest of this section, we will present some selected consequences of Theorem 1.2. More consequences of Theorem 1.2 will be presented elsewhere in our future work. First, we have a Poincar´e type inequality with low integrability and with a ‘correction’
+
+term. ",math.AP,A,0.115462184,0.33028412,-0.22522786
+http://arxiv.org/pdf/2202.11318v2,A comparison estimate for singular $p$-Laplace equations and its consequences,"For the rest of this section, we will present some selected consequences of Theorem 1.2. More consequences of Theorem 1.2 will be presented elsewhere in our future work. First, we have a Poincar´e type inequality with low integrability and with a ‘correction’
+term. ",math.AP,A,0.115462184,0.33028412,-0.22522786
+http://arxiv.org/pdf/2202.11362v1,Local well-posedness and global existence for the Popowicz system,"Besides, we studied the global existence with diﬀerent initial
+
+values of Popowicz systems for the ﬁrst time. As the interacting system of C-H and D-P equations,
+
+Popowicz system has many properties worthy of further study, such as blow-up of solutions [10],
+
+existence of weak solutions [13], global conservation weak solutions [3], dynamic behavior of solitons
+
+[31] and ill-posedness [20], which will be studied in our future work. Acknowledgments This work was This work was partially supported by NNSFC (Nos. ",math.AP,B,0.051667526,-0.263941,-0.23025686
+http://arxiv.org/pdf/2202.11565v1,On the Hölder regularity for obstacle problems to porous medium type equations,"It would be interesting to obtain regularity up to the boundary when suitable
+boundary values are prescribed. However, this is a topic for further research, since
+diﬀerent techniques are required. Acknowledgments. ",math.AP,C,0.35553756,-0.017532218,0.18630251
+http://arxiv.org/pdf/2202.11565v2,On the Hölder regularity for obstacle problems to porous medium type equations,"It would be interesting to obtain regularity up to the boundary when suitable
+boundary values are prescribed. However, this is a topic for further research, since
+diﬀerent techniques are required. Acknowledgments. ",math.AP,C,0.35553756,-0.017532218,0.18630251
+http://arxiv.org/pdf/2202.12056v1,Reconstructing anisotropic conductivities on two-dimensional Riemannian manifolds from power densities,"Our main result generalizes the reconstruction method
+for the 2-dimensional Euclidean setting to 2-dimensional compact Riemannian manifolds
+with genus 0. The result is presented in a way that opens for further research questions in
+the setting of Riemannian manifolds with higher genus and possibly in higher dimensions. The approach applies to other similar inverse problems with internal data, in particular the
+reconstruction problem for anisotropic conductivities from current densities, c.f. ",math.AP,C,0.19935931,0.018534854,0.38619503
+http://arxiv.org/pdf/2202.12056v2,Reconstructing anisotropic conductivities on two-dimensional Riemannian manifolds from power densities,"Our main result generalizes the reconstruction method
+for the 2-dimensional Euclidean setting to 2-dimensional compact Riemannian manifolds
+with genus 0. The result is presented in a way that opens for further research questions in
+the setting of Riemannian manifolds with higher genus and possibly in higher dimensions. The approach applies to other similar inverse problems with internal data, in particular the
+reconstruction problem for anisotropic conductivities from current densities, c.f. ",math.AP,C,0.19935931,0.018534854,0.38619503
+http://arxiv.org/pdf/2202.12101v1,The first Grushin eigenvalue on cartesian product domains,"It looks like that the behavior of the ﬁrst eigenvalue of a domain, as s → +∞, is
+
+determined by the length of the longest segment parallel to the x1-axis contained
+in Ω ∩ {|x1| < 1}, which is 2 in the case of B(0, 1), B(0, 2) and of any rectangle
+Ω1 × Ω2 with |Ω1| ≥ 2, and is 2π−1/2 for B(0, π−1/2). We will consider these issues
+from an analytical point of view in future works. At any rate, we are left with the
+
+following
+
+   Question. ",math.AP,A,0.0799181,0.108960435,0.11691317
+http://arxiv.org/pdf/2202.12370v1,Conductivity reconstruction from power density data in limited view,"This might not be the optimal way of handling noise in
+the limited view setting. For future work, one could consider an alternative way to ensure
+positive deﬁniteness of the added noise-matrix: For each random generated noise matrix E one
+can obtain E by projecting E to the convex cone of positive deﬁnite matrices. This can be
+accomplished by solving an optimization problem. ",math.AP,A,-0.30122584,0.32496488,0.1578334
+http://arxiv.org/pdf/2202.12370v2,Conductivity reconstruction from power density data in limited view,"This might not be the optimal way of handling noise in the limited view setting. For
+
+future work, one could consider an alternative way to ensure positive deﬁniteness of the added
+
+noise-matrix: For each random generated noise matrix E one can obtain E by projecting E to the
+
+convex cone of positive deﬁnite matrices. This can be accomplished by solving an optimization
+
+problem. ",math.AP,A,-0.30122584,0.32496488,0.1578334
+http://arxiv.org/pdf/2202.12461v1,Diffusion equations with general nonlocal time and space derivatives,"In addition, the existence result for the IBVP of the nonlocal diﬀusion
+equation was obtained. In the future work, we will consider the existence for a more general
+class of functions and the optimal estimation for the large time behaviour of
+solutions. Acknowledgements
+
+    The authors would like to thank the referees for their valuable advices for
+the improvement of this paper. ",math.AP,B,0.039630912,-0.2543024,-0.2653182
+http://arxiv.org/pdf/2202.12554v1,Global well-posedness of shock front solutions to one-dimensional piston problem for combustion Euler flows,"5. L1-stability for the entropy solutions to (IBVP )
+
+    In this section, we will further study the L1-stability of entropy solutions U to (IBVP ). Suppose               that   Uε        =     (U  e  ,  ε  ,  Y  ε  )  and  Vε  =    (V e,ε, Y2ε)  with  U e,ε  =   (ρ  ε  ,  uε1  ,  p  ε  )⊤  and  V e,ε  =
+                                                                1                                                      1                1
+    ε     uε2         ε  )⊤
+(ρ  2  ,       ,   p  2      are    two          ε-approximate             solutions   corresponding    to     the     initial-boundary             data
+
+(U  ε  ,  u  ε  )     and    (V  ε  ,  v  ε  ),  respectively. ",math.AP,B,-0.047388084,-0.08993623,-0.17176045
+http://arxiv.org/pdf/2202.12554v2,Global well-posedness of shock front solutions to one-dimensional piston problem for combustion Euler flows,"5. L1-stability for the entropy solutions to (IBVP )
+
+    In this section, we will further study the L1-stability of entropy solutions U to (IBVP ). Suppose               that   Uε        =     (U  e  ,  ε  ,  Y  ε  )  and  Vε  =    (V e,ε, Y2ε)  with  U e,ε  =   (ρ  ε  ,  uε1  ,  p  ε  )⊤  and  V e,ε  =
+                                                                1                                                      1                1
+    ε     uε2         ε  )⊤
+(ρ  2  ,       ,   p  2      are    two          ε-approximate             solutions   corresponding    to     the     initial-boundary             data
+
+(U  ε  ,  u  ε  )     and    (V  ε  ,  v  ε  ),  respectively. ",math.AP,B,-0.047388084,-0.08993623,-0.17176045
+http://arxiv.org/pdf/2202.12927v1,A blob method method for inhomogeneous diffusion with applications to multi-agent control and sampling,"The expectation is that
+the computational eﬀort would decrease for a compactly supported molliﬁer: indeed, if supp ζε ⊂⊂ BRε(0),
+then f (Xi, Xj) would vanish for |Xi −Xj| > 2Rε. However, rigorously proving that the computational eﬀort
+indeed decreases to O(mN ), where m represented the average number of particles lying within the radius of
+a given molliﬁer, would require careful estimates on the repulsive forces between the particles and is left for
+future work. Nevertheless, even for a strictly positive molliﬁer, we are able to achieve good computational
+speed in practice by using the following techniques. ",math.AP,B,-0.14396155,0.04295667,-0.02571711
+http://arxiv.org/pdf/2202.12927v2,A blob method for inhomogeneous diffusion with applications to multi-agent control and sampling,"The expectation is that
+the computational eﬀort would decrease for a compactly supported molliﬁer: indeed, if supp ζε ⊂⊂ BRε(0),
+then f (Xi, Xj) would vanish for |Xi −Xj| > 2Rε. However, rigorously proving that the computational eﬀort
+indeed decreases to O(mN ), where m represented the average number of particles lying within the radius of
+a given molliﬁer, would require careful estimates on the repulsive forces between the particles and is left for
+future work. Nevertheless, even for a strictly positive molliﬁer, we are able to achieve good computational
+speed in practice by using the following techniques. ",math.AP,B,-0.14396155,0.04295667,-0.02571711
+http://arxiv.org/pdf/2203.00058v1,Singular solutions of the r-Camassa-Holm equation,"Since the limit only ensures a solution in Wr1, we would lose the
+property of solving the r-CH equation, but solving the integrate equation (20) is still possible (since all of the
+
+smooth solutions also solve it). All these questions and crowds of other related questions that may come easily to
+
+mind will be left open for future work. 16
+Acknowledgements
+
+We would like to thank our friends and colleagues who have generously oﬀered their attention, thoughts and
+encouragement in the course of this work during the time of COVID-19. ",math.AP,B,-0.13072184,-0.33296263,-0.074022084
+http://arxiv.org/pdf/2203.00058v2,The r-Camassa-Holm equation: smooth and singular solutions,"Since the limit only ensures a solution in W1,r, we would lose the
+property of solving the r-CH equation, but solving the integrate equation (25) is still possible (since all of the
+smooth solutions also solve it). All these questions and crowds of other related questions that may come easily to
+mind will be left open for future work. Acknowledgements. ",math.AP,B,-0.094352,-0.31358415,-0.06543476
+http://arxiv.org/pdf/2203.00167v1,Nonlocal diffusion models with consistent local and fractional limits,"(2.45)
+
+    Ω                     Ωc
+
+     Remark 2.14. Rigorous proofs of the nonlocal Green’s identities and their con-
+nections to the local and fractional analog in their full generality depend on the char-
+acterization of the trace spaces and we will leave this to future works, though we note
+some related works in the fractional case [42] and recent works on the nonlocal trace
+theorems in [37]. 3. ",math.AP,A,0.13053997,0.3292414,-0.07521478
+http://arxiv.org/pdf/2203.00167v2,Nonlocal diffusion models with consistent local and fractional limits,"(2.45)
+
+    Ω                     Ωc
+
+     Remark 2.14. Rigorous proofs of the nonlocal Green’s identities and their con-
+nections to the local and fractional analog in their full generality depend on the char-
+acterization of the trace spaces and we will leave this to future works, though we note
+some related works in the fractional case [42] and recent works on the nonlocal trace
+theorems in [37]. 3. ",math.AP,A,0.13053997,0.3292414,-0.07521478
+http://arxiv.org/pdf/2203.00167v3,Nonlocal diffusion models with consistent local and fractional limits,"(2.46)
+
+Ω                                           Ωc
+
+     Remark 2.16. Rigorous proofs of the nonlocal Green’s identities and their con-
+nections to the local and fractional analog in their full generality depend on the char-
+acterization of the trace spaces, and we will leave the discussions to future works,
+though we note some related works in the fractional case [43] and recent works on the
+nonlocal trace theorems in [38]. 12     DU AND TIAN AND ZHOU
+
+     3. ",math.AP,A,0.12689255,0.32094193,-0.075766355
+http://arxiv.org/pdf/2203.00380v1,Global-in-$x$ stability of Prandtl layer expansions for steady magnetodynamics flows over a moving plate,"(4) Note that the assumption of suﬃciently small mismatch (measured by δ)
+on the moving boundary will play a key role in our analysis, which is inspired by
+the series of works [16, 17, 18]. And in this paper, the no moving boundary case
+(ub = 0) has not been investigated yet, this interesting and challenging problem
+will be left to our future work. (5) In this paper, the boundary condition for magnetic ﬁeld is the insulating
+boundary condition (1.3) for the technical reasons in dealing with the estimates
+for the remainders. ",math.AP,C,0.24389827,-0.14781967,0.1497629
+http://arxiv.org/pdf/2203.00380v2,Global-in-$x$ stability of Prandtl layer expansions for steady magnetodynamics flows over a moving plate,"(4) Note that the assumption of suﬃciently small mismatch (measured by δ)
+on the moving boundary will play a key role in our analysis, which is inspired by
+the series of works [16, 17, 18]. And in this paper, the no moving boundary case
+(ub = 0) has not been investigated yet, this interesting and challenging problem
+will be left to our future work. (5) In this paper, the boundary condition for magnetic ﬁeld is the insulating
+boundary condition (1.3) for the technical reasons in dealing with the estimates
+for the remainders. ",math.AP,C,0.24389827,-0.14781967,0.1497629
+http://arxiv.org/pdf/2203.00380v3,Global-in-$x$ stability of Prandtl layer expansions for steady magnetohydrodynamics flows over a moving plate,"(4) Note that the assumption of suﬃciently small mismatch (measured by δ)
+on the moving boundary will play a key role in our analysis, which is inspired by
+the series of works [16, 17, 18]. And in this paper, the no moving boundary case
+(ub = 0) has not been investigated yet, this interesting and challenging problem
+will be left to our future work. (5) In this paper, the boundary condition for magnetic ﬁeld is the insulating
+boundary condition (1.3) for the technical reasons in dealing with the estimates
+for the remainders. ",math.AP,C,0.24389827,-0.14781967,0.1497629
+http://arxiv.org/pdf/2203.01202v1,Remarks on the Large data global solutions of $3D$ RVP system and $3D$ RVM system,"We also reveal some properties shared commonly by the RVP system and the sRVM system, e.g., the estimate (3.23)
+in Lemma 3.1. We hope that it can shine some light on the further study of the large data problem of the RVP system
+(1.4). Moreover, as a toy model for the RVM system (1.1), the framework of proving global existence used in this paper is
+same as the framework used in a more complicated study of the RVM system [17]. ",math.AP,A,-0.11745881,0.15389702,-0.2499045
+http://arxiv.org/pdf/2203.01328v1,Semilinear elliptic Schrödinger equations involving singular potentials and source terms,"We will point out below that the above values are critical
+               N −1
+exponents for the existence of a solution to (1.15). Moreover, by performing further analysis,
+
+we are able to provide necessary and suﬃcient conditions in terms of estimates of the Green
+
+kernel and Martin kernel, as well as in terms of appropriate capacities. We ﬁrst consider (1.15) with σν = 0. ",math.AP,A,0.060923684,0.0996457,-0.21159457
+http://arxiv.org/pdf/2203.01328v2,Semilinear elliptic Schrödinger equations involving singular potentials and source terms,"We   will  point  out  below             that       the  exponents  NN++γ−γ 2 ,    N −α−                                              and  N +1  are  critical  exponents
+                                                                                 N −α −2                                                   N −1
+                                                                                 −
+
+for the existence of a solution to (1.15). Moreover, by performing further analysis, we are
+
+able to provide necessary and suﬃcient conditions in terms of estimates of the Green kernel
+
+and Martin kernel, as well as in terms of appropriate capacities. We ﬁrst consider (1.15) with σν = 0. ",math.AP,A,-0.0024727718,0.16905864,-0.22315846
+http://arxiv.org/pdf/2203.02075v1,Active exterior cloaking for the 2D Helmholtz equation with complex wavenumbers and application to thermal cloaking,"The time domain problem for the heat equation is
+then considered in section 4. We conclude with some future work and perspectives
+in section 5. 2. ",math.AP,C,0.16474353,-0.24748436,-0.16691758
+http://arxiv.org/pdf/2203.03155v1,Riemann problem for constant flow with single-point heating source,"Besides, the constructed solutions can be used to
+evaluate the existing numerical methods for source terms, such as [11–13]. The uniqueness of the self-similar solutions under the double CRPs frame for arbitrary
+initial conditions is an open question, which is the goal of our future work. In addition, future
+work should focous on the heating addition of unsteady ﬂow, in which the transition of the
+three structures proposed in this paper may occur. ",math.AP,B,-0.14100792,-0.3075834,0.19449936
+http://arxiv.org/pdf/2203.03277v1,Rectification of a deep water model for surface gravity waves,"We believe our strategy can be adapted to
+the whole hierarchy of systems with arbitrary order put forward by Craig and Sulem in [11], which
+would provide a robust and eﬃcient method to approximate solutions to the water waves system
+with arbitrary accuracy. We leave this topic for a further study. 8                                      V. Duchˆene & B. Melinand                    March 8, 2022
+
+1.5 Outline
+
+Let us now describe the remaining content of this paper. ",math.AP,B,-0.18339743,-0.18917432,0.23677056
+http://arxiv.org/pdf/2203.03482v1,"Borderline Lipschitz regularity for bounded minimizers of functionals with (p,q)-growth","From (4.2), we have
+
+        ˆB g1(|∇u|)|∇2u|2(v − k)+η4 dx + ˆB |∇(v − k)+|2η4 dx ≤ (r −Cρ)2 ˆB gg12((||∇∇uu||)) (v − k)2+η2 dx                                        (5.3)
+                                                                                                   ˆ
+
+                                                                                          +CL2 |f |2|η|4 dx,
+
+                                                                                                                                                B
+
+We estimate the ﬁrst term appearing on the right hand side of (5.3) by
+
+     1  ˆ g2(|∇u|) (v − k)2 η2 dx =          1       ˆ
+
+(r − ρ)2 B g1(|∇u|)              +           (r − ρ)2 B  (1  +  (ε2   +  |∇u|2)  q−p  )(v  −  k)2+  η2  dx
+                                                                                   2
+
+                                                                9
+                                                         1      ˆ                                  1     ˆ
+                                                                   (v − k)2 η2 dx +
+                                             =      (r − ρ)2 B                +            (r − ρ)2 B         (ε2   +     |∇u|2)          q−p     (v  −    k)2+  η2  dx. (5.4)
+                                                                                                                                            2
+
+The ﬁrst term on the right hand side of (5.4) is in the correct form and does not require further analysis. For the
+
+second term on the right hand side of (5.4), we expand to get
+
+          1         ˆ                                                        1       ˆ
+
+          (r − ρ)2 B    (ε2   +  |∇u|2)  q−p    (v   −  k)2 +  η2  dx  =  (r − ρ)2 B       ε2(ε2   +  |∇u|2)     q−p−2    (v       −  k)2      +  η2  dx
+                                           2                                                                          2
+
+                                                                                 1      ˆ
+
+                                                                          +  (r − ρ)2 B    |∇u|2(ε2        +   |∇u|2)        q−p−2          (v    −   k)2+  η2  dx        (5.5)
+                                                                                                                                  2
+
+The ﬁrst term in (5.5) is estimated as
+
+             1ˆ                                                                         1       ˆ
+         (r − ρ)2 B
+                       ε2(ε2 +   |∇u|2)      q−p−2   (v  −  k )2+ η 2  dx    ≤    (r − ρ)2 B          ε2(ε2   +  |∇u|2)         q−p−2        v2   χ{v>k} η 2     dx
+       we have used    Ho¨lder                    2                                                                                  2
+
+                                                                                        1       ˆ
+
+                                                                             =                        ε2(ε2   +  |∇u   |  2  )  q  +  p−  2    χ{v>k} η2      dx
+                                                                                                                                      2
+                                                                                  (r − ρ)2 B
+                                                                                        C          ˆ
+                                                                             ≤                         vαχ{v>k} + 1 dx ,
+                                                                                  (r − ρ)2 B
+                                                                             pα ≥ 1 using the choice of α from (5.2). ",math.AP,B,-0.0855632,-0.1239343,0.079213016
+http://arxiv.org/pdf/2203.03500v1,Almost sure local well-posedness for cubic nonlinear Schrodinger equation with higher order operators,"A possible explanation
+is that our framework (using anisotropic norms) is well adapted when s ≤ d + 1
+
+                                                                                                        2
+whereas the framework of [BOP15, SSW21] (using the spaces U p and V p) is better
+suited for s > d+2 1 . We also plan to investigate this point in a future work. We remark that our assumptions on the operator P allow for sign changing
+symbol, for example if P = ∆2 ± ∆. ",math.AP,A,0.088999644,0.32755303,0.06713613
+http://arxiv.org/pdf/2203.04078v1,Pressure live loads and the variational derivation of linear elasticity,"MORA AND F. RIVA
+
+a suitable neighborhood of Ω. How to extend our analysis to less regular pressure loads is an
+interesting question that we plan to consider in a future work. Finally, in [21] it is proved that, in the case of dead loads, the set R of optimal rotations is
+a submanifold of SO(n) and, as a consequence, one can p√rove that the distance of the approx-
+imating rotations Rε in (1.3) from R is at most of order ε. ",math.AP,C,0.11663144,0.12852421,0.32675672
+http://arxiv.org/pdf/2203.04078v2,Pressure live loads and the variational derivation of linear elasticity,"How
+4                                        M.G. MORA AND F. RIVA
+
+to extend our analysis to less regular pressure loads is an interesting question that we plan to
+consider in a future work. Finally, in [22] it is proved that, in the case of dead loads, the set R of optimal rotations is
+a submanifold of SO(n) and, as a consequence, one can p√rove that the distance of the approx-
+imating rotations Rε in (1.3) from R is at most of order ε. ",math.AP,C,0.044484332,0.1313984,0.35300434
+http://arxiv.org/pdf/2203.04856v1,Regularizing effects of the entropy functional in optimal transport and planning problems,"In the
+
+same spirit, the results could be extended to a compact Riemannian manifold without boundary, although
+this requires to use Bochner’s formula to handle the gradient estimates in the Riemannian setting. We will
+
+exploit this case in future work. 7 Appendix: existence of solutions to the elliptic problem
+
+Here we show the existence of solutions to problem (3.4) where, for simplicity, we ﬁx ε = 1, T = 1. ",math.AP,C,0.47690964,-0.10750236,0.085968524
+http://arxiv.org/pdf/2203.04856v2,Regularizing effects of the entropy functional in optimal transport and planning problems,"In the
+
+same spirit, the results could be extended to a compact Riemannian manifold without boundary, although
+this requires to use Bochner’s formula to handle the gradient estimates in the Riemannian setting. We will
+
+exploit this case in future work. 7 Appendix: existence of solutions to the elliptic problem
+
+Here we show the existence of solutions to problem (3.4) where, for simplicity, we ﬁx ε = 1, T = 1. ",math.AP,C,0.47690964,-0.10750236,0.085968524
+http://arxiv.org/pdf/2203.04919v1,Eigenvalue spacing for 1D singular Schrödinger operators,"This
+
+also explains the two cases. Proving such a uniform expansion will be a topic of
+
+future work and is not required to the proof of the results contained here. Let (V, E) be in V × K and Gh(· ; E) be deﬁned as before. ",math.AP,A,-0.1156653,0.31481105,0.08882865
+http://arxiv.org/pdf/2203.05094v1,Mathematical modelling of transport phenomena in compressible multicomponent flows,"2.1.1. Equations for the primitive variables
+    In this section, we derive some equations for some primitive variables, which are to be used for further analysis. We introduce the material derivative related to the phase velocity uk and the interfacial velocity uI,
+
+DgΦ ∂Φ
+DΦ = ∂t + ug · ∇Φ, g = k, I. ",math.AP,B,-0.024542226,-0.17360926,0.016997874
+http://arxiv.org/pdf/2203.05435v1,Cosh gradient systems and tilting,"Another choice, resembling some features of the upwind scheme in the zero-viscosity limit, is
+
+the Metropolis-Hastings interpolation given in Example 6.5.4 by θ(a, b) := min{a, b}, leading
+
+the kinetic relation
+
+                      D2R∗xy(ρ; Ξ) = πx2κxy ux 1(0,∞)(Ξ) − uy 1(0,∞(−Ξ) . We leave a more systematic study of these and further choices to future work. 7 Reduction of two-terminal networks
+
+7.1 Setting and deﬁnition of gradient system
+
+The purpose of this section is to investigate networks of the type of Example A, in a limit in
+which the network ‘collapses’ because nearly all of the jump rates converge to ∞. ",math.AP,B,-0.2295343,-0.15794247,0.07037359
+http://arxiv.org/pdf/2203.05435v2,Cosh gradient systems and tilting,"Another choice, resembling some features of the upwind scheme in the zero-viscosity limit, is
+
+the Metropolis-Hastings interpolation given in Example 6.5.4 by θ(a, b) := min{a, b}, leading
+
+the kinetic relation
+
+                      D2R∗xy(ρ; Ξ) = πx2κxy ux 1(0,∞)(Ξ) − uy 1(0,∞)(−Ξ) . We leave a more systematic study of these and further choices to future work. 110                              7 REDUCTION OF TWO-TERMINAL NETWORKS
+
+7 Reduction of two-terminal networks
+
+7.1 Setting and deﬁnition of gradient system
+
+The purpose of this section is to investigate networks of the type of Example A, in a limit in
+which the network ‘collapses’ because nearly all of the jump rates converge to ∞. ",math.AP,B,-0.22903378,-0.1569907,0.08658108
+http://arxiv.org/pdf/2203.06930v2,Parametrix construction and numerical approximation of resonances of azimuthal harmonics of the charged Klein-Gordon operator on general cosmological slowly accelerating and rotating charged black hole type spacetimes,"[CCDHJ] on De Sitter-Reissner-Nordstr¨om spacetimes and, more recently, [HX1] on De
+Sitter and [HX2] on De Sitter-Schwarzschild spacetimes); to our knowledge, the approach in the present
+paper provides for the very ﬁrst time a scheme with an explicit estimate of the numerical error for a very
+large class of cosmological spacetimes. We will only present this scheme and derive the numerical error
+in a purely theoretical point of view; we plan to explicitly apply it in a future work. 1.2. ",math.AP,B,-0.15321015,0.09574959,0.14827463
+http://arxiv.org/pdf/2203.06930v3,Parametrix construction and numerical approximation of resonances of azimuthal harmonics of the charged Klein-Gordon operator on general cosmological slowly accelerating and rotating charged black hole type spacetimes,"[CCDHJ] on De Sitter-Reissner-Nordstr¨om spacetimes and, more recently, [HX1] on De
+Sitter and [HX2] on De Sitter-Schwarzschild spacetimes); to our knowledge, the approach in the present
+paper provides for the very ﬁrst time a scheme with an explicit estimate of the numerical error for a very
+                                                                                                                                             3
+
+large class of cosmological spacetimes. We will only present this scheme and derive the numerical error
+in a purely theoretical point of view; we plan to explicitly apply it in a future work. 1.2. ",math.AP,B,-0.15886399,0.09513238,0.16469067
+http://arxiv.org/pdf/2203.07164v1,Inverse moving point source problem for the wave equation,"In this case the
+reconstruction requires measurement of the ﬁeld at 2d well chosen points where d is
+the dimension of the space. We plan in the future works to numerically implement
+the method, and to recover simultaneously the intensity of the point source. The present work has been realized as part of Multi-Ondes projects receiving ﬁnancial
+supports from ANR-France
+
+References
+
+ [1] Ammari, H., Bao, G., & Fleming, J. L. (2002). ",math.AP,B,-0.075704195,0.12097426,0.5393717
+http://arxiv.org/pdf/2203.07200v1,A nonlocal model describing tumor angiogenesis,"This is also the case for a number of diﬀerent initial data that we also
+considered. Based on this we are tempted to say that the solution is probably globally deﬁned
+regardless of the size of the initial data, however, the proof of this claim is left for a future work. Figure 4. a) p(t) L∞ as a function of time. ",math.AP,B,-0.15476164,-0.13360178,-0.29188293
+http://arxiv.org/pdf/2203.07249v1,The mean-field limit for particle systems with uniform full-rank constraints,"Nonetheless, our results are still restricted a particular class of particle systems
+with uniform, full-rank constraints. We see two main directions for further study. First, with view towards possible applications, it would be desirable to extend our
+results to cases which cover more general constraints. ",math.AP,B,-0.19462721,0.0836442,-0.006581461
+http://arxiv.org/pdf/2203.09814v1,Limiting measures and energy growth for sequences of solutions to Taubes's Seiberg-Witten equations,"Finally,
+in Section 6 we show that the vector ﬁeld X cannot be ergodic provided that the
+energy growth is linear. We also include Appendix A with an additional result that
+can be useful for future work in the subject. Concretely, we reinterpret the con-
+centration properties of solutions to the Seiberg–Witten equations using Sullivan’s
+theory of currents, thus implying as a particular consequence the reﬁnement stated
+in Remark 1.4. ",math.AP,A,0.03831528,0.039143886,-0.13585033
+http://arxiv.org/pdf/2203.10000v1,Highly Adaptive and Automated Tetrahedral Mesh Generator for Multi-Compartment Human Head Model with Deep Brain Structures in EEG,"NeuroImage
+acceleration as a way to speed up the labeling            44(2), 399–410 (2009)
+process. [3] Braess, D.: Finite Elements: The-
+    Our future work will include further tests with       ory, Fast Solvers, and Applications in
+experimental data as well as methodological and           Solid Mechanics. Cambridge Univer-
+computational considerations, e.g., possibilities to      sity Press, Cambridge (2007). ",math.AP,B,-0.3056593,-0.035774656,0.31381845
+http://arxiv.org/pdf/2203.10355v1,Natural annihilators and operators of constant rank over $\mathbb{C}$,"14] for operators of maximal rank. Whereas we believe that our approach might also apply to other, slightly more gen-
+eral scenarios and since our focus here is more on displaying consequences of the
+constant rank conditions in the exemplary case of n = 2, we shall defer the discussion
+to higher dimensions to future work. References
+
+ [1] Adams, R.A.; Fournier, J.A. ",math.AP,A,-0.008505369,0.40051544,0.1049231
+http://arxiv.org/pdf/2203.10756v1,On the Cauchy problem for the cutoff Boltzmann equation with small initial data,"The
+main result, Proposition 2.4, is indeed included in [10]. To be self-contained, we
+will review the main strategy of the proof which is needed for the further analysis. First we recall the Strichartz estimates for the kinetic transport equation,
+
+(2.1)   ∂tu(t, x, v) + v · ∇xu(t, x, v) = F (t, x, v), (t, x, v) ∈ (0, ∞) × RN × RN ,
+        u(0, x, v) = u0(x, v). ",math.AP,C,0.14607269,-0.1048605,-0.21120314
+http://arxiv.org/pdf/2203.10758v2,Small-time global approximate controllability for incompressible MHD with coupled Navier slip boundary conditions,"However, our arguments in this direction appear not to extend easily to more
+general domains. The second possible option mentioned above is not investigated
+in this article, but might be interesting for further research. Another possibility for
+treating general domains without having ∇ could involve a weaker form of Lemma 3.5
+for = 3 combined with arguments from [12] for the case where Γc does not intersect
+each connected component of Γ. ",math.AP,C,0.22637874,0.11961396,0.07716656
+http://arxiv.org/pdf/2203.11285v1,A new approach to constrained total variation solvation models and the study of solute-solvent interface profiles,"Numerical simulations show that the solvation energies calculated from our new model match the
+experimental data very well. For the future work, we will provide a complete proof for the continuous dependence of the solvation free
+energy on the surfaces Ωm and Ωs in a suitable topology. Numerically, based on the derived elliptic system,
+we intend to further improve the accuracy and eﬃciency of the solvation energy prediction via reﬁned pa-
+rameterization schemes. ",math.AP,B,-0.107959524,-0.1571481,0.21799052
+http://arxiv.org/pdf/2203.12143v1,On the global dynamics of Yang-Mills-Higgs equations,"However, the decay estimates for the components α and DLφ in the interior
+region {|x| ≤ t + 1} are not sharp. Based on these rough estimates, we will derive the sharp decay estimates
+in our future work. We emphasize here that we do not have restrictions on the size of the E2M,γ1 or q0. ",math.AP,A,-0.02823155,0.1503615,-0.1533
+http://arxiv.org/pdf/2203.12225v1,Transverse Spectral Instabilities in Konopelchenko-Dubrovsky Equation,"48
+   For a given ∆, we summarize all the collisions based on Lemma 3.3 in Table 1. Depending
+
+upon the investigation of diﬀerent type of instabilities, we split our further analysis into
+
+following subsections. TRANSVERSE SPECTRAL INSTABILITY IN KD                                      9
+
+          ∆                            tn, n ` ∆u
+
+          1                                      none
+
+          2                            {-1,1}
+
+          ě 3 t´1, ∆ ´ 1u, t´2, ∆ ´ 2u, . ",math.AP,B,-0.18111314,0.09305105,-0.0006988887
+http://arxiv.org/pdf/2203.12225v2,Transverse Spectral Instabilities in Konopelchenko-Dubrovsky Equation,"We split the study of invertibility of Qa,b1,b2pµ, γq into periodic (L2pTq) and non-periodic
+perturbations (L2pRq or CbpRq). In further study, we assume b1 “ b2 “ 0. For nonzero
+b1 and b2, one may explore in like manner. ",math.AP,B,-0.18788572,0.10081871,-0.016732292
+http://arxiv.org/pdf/2203.12422v1,Exact and numerical solutions of the Riemann problem for a conservative model of compressible two-phase flows,"Some examples of exact solutions and
+corresponding numerical results are presented in Section 7. The paper closes with some
+concluding remarks and an outlook to future work in Section 8. 2 Conservative barotropic SHTC model for compressible
+    two-phase ﬂows
+
+2.1 Multi-dimensional case
+
+The PDE system for compressible barotropic two-phase ﬂows was discussed in Romenski
+et al. ",math.AP,B,-0.019675441,-0.34782678,0.13856107
+http://arxiv.org/pdf/2203.12790v1,On large solutions for fractional Hamilton-Jacobi equations,"For the case
+p = 2s it was neither possible to construct large solutions by approximation
+as p → 2s− (s ﬁxed). The local setting suggest to search for large solutions
+with logarithmic proﬁle, but we leave that analysis for a future work. 5. ",math.AP,B,-0.06444457,-0.005477161,-0.10994607
+http://arxiv.org/pdf/2203.13099v1,Multi-species viscous models for tissue growth: incompressible limit and qualitative behaviour,"The case of a velocity
+that is not in a gradient form, and in the case of a single species, has not been made rigorous yet. We
+pursue this aim in a future work. 8 Appendix : Derivation of the transmission problem
+
+This section is devoted to the derivation of the transmission problems in R2. ",math.AP,B,-0.16711265,-0.16924015,0.0043577715
+http://arxiv.org/pdf/2203.13742v1,An inverse boundary value problem for isotropic nonautonomous heat flows,"If,
+
+                                       Cρ1,a1 = Cρ2,a2 ,
+
+then, there exists a family of diﬀeomorphisms Ft : Ω → Ω smoothly depend-
+ing on t ∈ [0, T ] that ﬁx the boundary, such that (1.9) holds. We will leave the study of inverse problems for nonautonomous heat ﬂows
+in anisotropic media of dimension n 3 to a future work. 6                              ALI FEIZMOHAMMADI
+
+1.4. ",math.AP,C_centroid,0.35045636,-0.118012935,0.11858099
+http://arxiv.org/pdf/2203.14491v1,A Nonlocal Stokes system with volume constraints,"As the nonlocal horizon paramter δ approaches 0, the solution of
+the nonlocal system converges to the solution of the original Stoke equation, assuming
+that the solution to the latter is suﬃciently smooth. In terms of future work, one may examine the convergence with minimal regularity
+assumptions on the local systems. It is also interesting to consider the numerical
+discretizations. ",math.AP,C,0.15770304,-0.2598349,0.14855693
+http://arxiv.org/pdf/2203.14491v2,A nonlocal Stokes system with volume constraints,"As the nonlocal horizon paramter δ approaches 0, the solution of
+the nonlocal system converges to the solution of the original Stoke equation, assuming
+that the solution to the latter is suﬃciently smooth. In terms of future work, one may examine the convergence with minimal regularity
+assumptions on the local systems. It is also interesting to consider the numerical
+discretizations. ",math.AP,C,0.15770304,-0.2598349,0.14855693
+http://arxiv.org/pdf/2203.14648v1,Renormalization and a-priori bounds for Leray self-similar solutions to the generalized mild Navier-Stokes equations,"γ
+     u(x, t) = (T − t) γ U
+
+The Bakhtin-Dinaburg-Sinai-Li renormalization operator can be viewed as a Picard-
+Lindelo¨ﬀ integral operator for Leray self-similar solutions in the Fourier space. In this paper we further study this renormalization for the d-dimensional gener-
+alized mild Navier-Stokes system with the goal of understanding its applicability to
+the problem of existence of Leray solutions for some d and γ. Some strong regularity results are known for the system (4). ",math.AP,C,0.22567265,-0.100678384,-0.07168606
+http://arxiv.org/pdf/2203.14648v2,Renormalization and a-priori bounds for Leray self-similar solutions to the generalized mild Navier-Stokes equations,"γ
+     u(x, t) = (T − t) γ U
+
+The Bakhtin-Dinaburg-Sinai-Li renormalization operator can be viewed as a Picard-
+Lindelo¨ﬀ integral operator for Leray self-similar solutions in the Fourier space. In this paper we further study this renormalization for the d-dimensional gener-
+alized mild Navier-Stokes system with the goal of understanding its applicability to
+the problem of existence of Leray solutions for some d and γ. Some strong regularity results are known for the system (4). ",math.AP,C,0.22567265,-0.100678384,-0.07168606
+http://arxiv.org/pdf/2203.14648v3,Renormalization and a-priori bounds for Leray self-similar solutions to the generalized mild Navier-Stokes equations,"γ
+     u(x, t) = (T − t) γ U
+
+The Bakhtin-Dinaburg-Sinai-Li renormalization operator can be viewed as a Picard-
+Lindelo¨ﬀ integral operator for Leray self-similar solutions in the Fourier space. In this paper we further study this renormalization for the d-dimensional gener-
+alized mild Navier-Stokes system with the goal of understanding its applicability to
+the problem of existence of Leray solutions for some d and γ. Some strong regularity results are known for the system (4). ",math.AP,C,0.22567265,-0.100678384,-0.07168606
+http://arxiv.org/pdf/2203.15284v1,"A review on a general multi-species BGK model: modelling, theory and numerics","Therefore these models can be used as a basis for more
+extended models like ES-BGK models or BGK models with velocity dependent
+collision frequency. As a future work the Chapman-Enskog expansion of such
+models can be computed. Then the transport coeﬃcients of all these models can
+be compared and eventually extended to match all parameters in the macroscopic
+equations. ",math.AP,B,-0.331186,-0.16776592,-0.036396258
+http://arxiv.org/pdf/2203.15711v1,Two kinetic models for non-instantaneous binary alignment collisions,"We claim, however, that for relatively short collision durations it is a valid
+approximation to restrict to binary interactions. A further investigation of this question will
+be the subject of future work. Extended models with more than two collision partners might
+be a fruitful approach to the problem of kinetic modeling of higher order chemical reactions. ",math.AP,B,-0.46555996,-0.16798957,-0.055029087
+http://arxiv.org/pdf/2203.15747v1,A new approach to the mean-field limit of Vlasov-Fokker-Planck equations,"This applies to any chaotic initial data in
+dimension d = 2 and for initial data with more restrictive energy bound
+in any dimension d ≥ 3. We are expecting to extend this derivation
+in a future work to any chaotic initial data in any dimension d ≥ 2 by
+decomposing appropriately the initial data. The paper is structured as follows: We start in Section 2 with the
+notations and main results. ",math.AP,B,-0.23779303,0.04758964,-0.022347566
+http://arxiv.org/pdf/2203.15747v2,A new approach to the mean-field limit of Vlasov-Fokker-Planck equations,"This applies to any chaotic initial data in
+dimension d = 2 and for initial data with more restrictive energy bound
+in any dimension d ≥ 3. We are expecting to extend this derivation
+in a future work to any chaotic initial data in any dimension d ≥ 2 by
+decomposing appropriately the initial data. The paper is structured as follows: We start in Section 2 with the
+notations and main results. ",math.AP,B,-0.23779303,0.04758964,-0.022347566
+http://arxiv.org/pdf/2203.16661v1,A Liouville's theorem for some Monge-Ampère type equations,"Third, our approach is center-point free since the symmetry of solutions
+can be deduced from the rigidity of the isoperimetric inequality. Last, the mass
+quantity works for Hessian equations, which will be the focus of our future work. Naturally, one of our next goals is to consider the dimension 4 case of the fol-
+lowing conjecture for k-Hessian equations, which is well known among experts in
+the ﬁeld:
+A LIOUVILLE’S THEOREM FOR SOME MONGE-AMPÈRE TYPE EQUATIONS  6
+
+Conjecture 1.5. ",math.AP,C,0.2057969,0.04644625,0.0735641
+http://arxiv.org/pdf/2203.16661v2,A Liouville's theorem for some Monge-Ampère type equations,"Third, our approach is center-point free since the symmetry of solutions
+can be deduced from the rigidity of the isoperimetric inequality. Last, the mass
+quantity works for Hessian equations, which will be the focus of our future work. Naturally, one of our next goals is to consider the dimension 4 case of the fol-
+lowing conjecture for k-Hessian equations, which is well known among experts in
+the ﬁeld:
+A LIOUVILLE’S THEOREM FOR SOME MONGE-AMPÈRE TYPE EQUATIONS  6
+
+Conjecture 1.5. ",math.AP,C,0.2057969,0.04644625,0.0735641
+http://arxiv.org/pdf/2203.16815v1,The Wiener criterion for nonlocal Dirichlet problems,"The sufficient condition for the regularity of a boundary point
+
+   We are ready to prove the suﬃcient condition for a regular boundary point with respect to
+
+L. As mentioned in Section 1, we focus on the case p ∈ (1, n/s]. We mainly follow the ideas
+
+of [20, 23], but further analysis is required to treat the tail term. Let us ﬁx a boundary point x0 ∈ ∂Ω. ",math.AP,C,0.49166933,0.08202154,-0.0037923027
+http://arxiv.org/pdf/2203.16999v1,Traveling vortex pairs for 2D Boussinesq equations,"Remark 2.13. With the above results in hand, one can further study the shape of the
+free boundary {x ∈ D | ψε(x) = 0} by the standard scaling techniques (see [8, 38]). The vortex core will be approximately a disk. ",math.AP,C,0.20534098,-0.08141934,0.24463247
+http://arxiv.org/pdf/2204.01149v1,Singular limit for the compressible Navier--Stokes equations with the hard sphere pressure law on expanding domains,"2            2
+
+Then there exists a ﬁnite–energy weak solution (ρ, u) to (1) in the sense of Deﬁnition 2.1. More-
+over, if (r, U ) ∈ C1(QT ) × C1([0, T ]; C2(Ω)d) with U = 0 on (0, T ) × ∂Ω satisﬁes
+
+                                                          0 < inf r ≤ sup r < ρ¯
+
+                                                                    QT           QT
+
+    1In fact for Ω ⊂ R2, W 1,2(Ω) is embedded into Lq(Ω) for any q ∈ [1, ∞) but the better integrability will not
+bring any beneﬁts in further analysis. For the sake of clarity we will not distinguish between the 2d and 3d case. ",math.AP,C,0.2479199,-0.13620596,-0.090860106
+http://arxiv.org/pdf/2204.01170v1,The inviscid limit of viscous Burgers at nondegenerate shock formation,"with strictly convex ux. We leave the fascinating second stage of shock
+formation [𝑡∗, 𝑡∗ + 𝜏] to future work. . ",math.AP,B,-0.14783221,-0.03717266,0.1176911
+http://arxiv.org/pdf/2204.01306v1,Swarm gradient dynamics for global optimization: the density case,"One
+                          γ
+
+easily checks that the assumptions of Theorem 3 are satisﬁed, hence the result. 4.2 A stochastic view on the dynamics: particles swarm optimization
+
+In this last section, we sketch a possible discrete approach of the swarm gradient dynamics; it
+will be properly developed in future works. It relies on the diﬀusion process associated with
+the evolution equation
+
+                             ∀ t ≥ 0, d ρ = div(ρ(βt∇U + ∇ϕ′(ρ))). ",math.AP,B,-0.25493807,-0.030946834,-0.21833791
+http://arxiv.org/pdf/2204.01394v1,Propagation of moments and sharp convergence rate for inhomogeneous non-cutoff Boltzmann equation with soft potentials,"In fact, the problem can be reduced to
+consider the perturbation theory for the rescaled Boltzmann equation by rescaling the collision operator Q
+in a proper way. We leave it as a future work. 1.5. ",math.AP,B,-0.20622188,-0.11611288,-0.095311
+http://arxiv.org/pdf/2204.01398v1,A Variational Approach For Price Formation Models In One Dimension,"One challenge
+is the dependence of the variational problem formulation on the supply, requiring the dis-
+cretization of time, state variables, and the common noise. We plan to investigate this case
+in future works. References
+
+ [1] Y. Achdou, F. Camilli, and I. Capuzzo-Dolcetta. ",math.AP,B,-0.14945501,-0.07516743,-0.15882353
+http://arxiv.org/pdf/2204.01951v1,Reduced models for electron magnetohydrodynamics: well-posedness and singularity formation,"In another
+
+direction, since BJx is more singular than JBx, we conjecture that there exists
+
+initial data such that solutions of (1.8) with appropriate α blows up in ﬁnite time. These questions will be addressed in future work. 1.3. ",math.AP,B,-0.08868316,-0.018444076,-0.16505378
+http://arxiv.org/pdf/2204.01951v2,Reduced models for electron magnetohydrodynamics: well-posedness and singularity formation,"In another
+
+direction, since BJx is more singular than JBx, we conjecture that there exists
+
+initial data such that solutions of (1.8) with appropriate α blows up in ﬁnite time. These questions will be addressed in future work. 1.3. ",math.AP,B,-0.08868316,-0.018444076,-0.16505378
+http://arxiv.org/pdf/2204.02375v3,Boundary null-controllability of 1d linearized compressible Navier-Stokes system by one control force,"As per our observation, the spectral analysis of the
+          associated adjoint operator is beyond comprehension. This can be studied as a future work. Appendix A. ",math.AP,A,-0.0311618,0.3354428,-0.00432316
+http://arxiv.org/pdf/2204.03824v1,Stability of Multi-dimensional Nonlinear Piezoelectric Beam with Viscoelastic Infinite Memory,"Based on the previous results on weakly
+
+coupled PDEs systems and single second order systems with memories, it is reasonable to predict
+
+that the coupling and memory properties can simultaneously aﬀect the stability of the system
+
+ abstract
+
+(5.69). Thus, in a future work, we shall identify how the choices of α and β determine the decay
+
+                                                     abstract
+
+rates of the solutions to system (5.69). Statements and Declarations. ",math.AP,B,-0.14181879,-0.19203144,-0.25552025
+http://arxiv.org/pdf/2204.03824v2,Stability of Multi-dimensional Nonlinear Piezoelectric Beam with Viscoelastic Infinite Memory,"Based on the previous results on weakly coupled PDEs systems
+
+and single second order systems with memories, it is reasonable to predict that the coupling and
+
+memory properties can simultaneously aﬀect the stability of the system (5.1). Thus, in a future work,
+
+we shall identify how the choices of α and β determine the decay rates of the solutions to system (5.1). Acknowledgement
+
+The authors would like to appreciate the AE and referees for their helpful and valuable comments and
+suggestions. ",math.AP,B,-0.1732908,-0.209261,-0.24062772
+http://arxiv.org/pdf/2204.03926v1,Volcano effect in chemotactic aggregation and an extended Keller-Segel mode,"(1) (although the stiﬀ chemotactic response, such as those considered in the previous
+studies [5, 23, 22] are more realistic in general). The asymptotic analysis for the stiﬀ chemotactic response
+with a ﬁnite tumbling duration should be an important future work. Hereafter, we write the nondimensional quantities without ” ˆ ” for simplicity unless otherwise stated. ",math.AP,B,-0.3046193,-0.09596494,-0.1442167
+http://arxiv.org/pdf/2204.03926v2,Numerical study of the volcano e ect in chemotactic aggregation based on a kinetic transport equation with non-instantaneous tumbling,"(1) (although the stiﬀ chemotactic response, such as those considered in the previous
+studies [22,24,23] are more realistic in general). The asymptotic analysis for the stiﬀ chemotactic response
+with the ﬁnite tumbling duration should be an important future work. Hereafter, we write the nondimensional quantities without ” ˆ ” for simplicity unless otherwise stated. ",math.AP,B,-0.3099687,-0.09312039,-0.13575608
+http://arxiv.org/pdf/2204.04146v1,Concentration in Lotka-Volterra parabolic equations: an asymptotic-preserving scheme,"A natural continuation of this work would be the study of an asymptotic-preserving scheme for integral
+Lotka-Volterra equations. This question will be adressed in a future work. References
+
+ [1] L. Almeida, B. Perthame, and X. Ruan. ",math.AP,B,-0.024885282,-0.07357487,-0.11739361
+http://arxiv.org/pdf/2204.05420v1,On the Dirichlet problem for Lagrangian phase equation with critical and supercritical phase,"Recall    that  the    singular   solutions     um  in    [39]     satisfy  um   ∈  C  1,      1  ,  but
+                                                                                                                   2m−1
+
+um ∈/ C1,δ for any δ > 2m1−1 , where m = 2, 3, · · · . The question whether one can
+improve the Lipschitz regularity in Theorem 1.5 to C1 remains for further study. Interior      C2  estimate        for   equation      (1.2)  with   |Θ|  ≥  (  n  −  2  )  π  was  obtained    via  works
+                                                                                           2
+of Warren and Yuan [41, 42] and Wang and Yuan [40]. ",math.AP,C,0.33759242,-0.0038348825,0.0040997933
+http://arxiv.org/pdf/2204.06416v1,Illposedness of $C^{2}$ vortex patches,"In forthcoming work, we plan to prove ill-posedness results for
+α-SQG patches using ideas related to this paper. We think that curvature/arc-
+length equations can be useful for further analysis of singular scenarios in this
+setting. 1.3. ",math.AP,C,0.15802899,0.10836565,0.19573638
+http://arxiv.org/pdf/2204.06548v1,Dynamic Programming of Stochastic Burgers Equation Driven by Levy Noise,"However, boundedness of the derivative of the transition semigroup demands
+the ﬁniteness of exponential moments of the stochastic Burgers equation. We have stated
+this exponential estimate which will be proved in the future work. Then the solution for
+the HJB equation is obtained in a space of smooth functions having weighted exponential
+growth by compactness arguments. ",math.AP,A,0.006472037,-0.08155002,-0.44356352
+http://arxiv.org/pdf/2204.06548v2,Dynamic Programming of Stochastic Burgers Equation Driven by Levy Noise,"However, boundedness of the derivative of the transition semigroup demands
+the ﬁniteness of exponential moments of the stochastic Burgers equation. We have stated
+this exponential estimate which will be proved in the future work. Then the solution for
+the HJB equation is obtained in a space of smooth functions having weighted exponential
+growth by compactness arguments. ",math.AP,A,0.006472037,-0.08155002,-0.44356352
+http://arxiv.org/pdf/2204.06636v1,Characterizations of fractional Sobolev--Poincaré and (localized) Hardy inequalities,"(1.4) for a domain Ω in Rn. This paper aims to extend further research on this topic
+
+in fractional Sobolev spaces. For this, let us introduce the fractional Sobolev space. ",math.AP,C,0.34560886,0.095989764,-0.12816018
+http://arxiv.org/pdf/2204.06636v2,Characterizations of fractional Sobolev--Poincaré and (localized) Hardy inequalities,"Necessary and suﬃcient conditions are provided for pointwise Hardy inequalities in [20]
+
+                                          and see [21] for weighted case. This paper aims to extend further research on this topic in fractional
+
+                                          Sobolev spaces. Department of Mathematics, Indian Institute of Science Education and Research, Dr. Homi Bhabha
+                                          road, Pune–411008, India. ",math.AP,C,0.3474552,0.09534551,-0.15500644
+http://arxiv.org/pdf/2204.06920v1,Traveling waves with continuous profile for hyperbolic Keller-Segel equation,"Now concerning the traveling speed, we observe numerically that sharp traveling waves are slower
+than continuous traveling waves. The question of the minimal speed is left for future works. Appendix
+
+A Upwind method applied to the numerical scheme
+
+In Section 5, we use the following system of PDE to run the numerical simulations
+
+                                                                                                                                         t ∈ (0, T ], x ∈ [−K, K],
+           ∂tu(t, x) = χ∂x (u(t, x)∂xp(t, x)) + u(t, x)(1 − u(t, x)),
+
+           p(t, x) − σ2∂xxp(t, x) = u(t, x), t ∈ (0, T ], x ∈ [−K, K],                                                                                                           (A.1)
+              ∂xp(t, −K) = ∂xp(t, +K) = 0, t ∈ (0, T ],
+
+with
+                                             u(t, x) = u0(x) ∈ L∞ + ([−K, K], R) . ",math.AP,B,-0.02374335,-0.34500057,0.046702553
+http://arxiv.org/pdf/2204.06920v2,Traveling waves with continuous profile for hyperbolic Keller-Segel equation,"Now concerning the traveling speed, we observe numerically that sharp traveling waves are slower
+than continuous traveling waves. The question of the minimal speed is left for future works. Appendix
+
+A Upwind method applied to the numerical scheme
+
+In Section 5, we use the following system of PDE to run the numerical simulations
+
+                                                                                                                                         t ∈ (0, T ], x ∈ [−K, K],
+           ∂tu(t, x) = χ∂x (u(t, x)∂xp(t, x)) + u(t, x)(1 − u(t, x)),
+
+           p(t, x) − σ2∂xxp(t, x) = u(t, x), t ∈ (0, T ], x ∈ [−K, K],                                                                                                           (A.1)
+              ∂xp(t, −K) = ∂xp(t, +K) = 0, t ∈ (0, T ],
+
+with
+                                             u(t, x) = u0(x) ∈ L∞ + ([−K, K], R) . ",math.AP,B,-0.02374335,-0.34500057,0.046702553
+http://arxiv.org/pdf/2204.06920v3,Traveling waves with continuous profile for hyperbolic Keller-Segel equation,"Now concerning the traveling speed, we observe numerically that sharp traveling waves are slower
+than continuous traveling waves. The question of the minimal speed is left for future works. 6 Application to wound healing
+
+    The wound healing assay is used in a range of disciplines to study the coordinated movement of a cell
+population. ",math.AP,B,-0.2786283,-0.08321309,0.10435049
+http://arxiv.org/pdf/2204.09253v1,Homogenization with quasistatic Tresca's friction law: qualitative and quantitative results,"Another alternative model of Coulomb’s friction law is the so-called normal com-
+pliance model [32, 47], which in some sense is friendly to mathematical analysis. Hence, it is natural to consider the homogenization with normal compliance contact
+laws which will be our future work. REFERENCES
+
+ [1] G. Allaire, Homogenization and two-scale convergence, SIAM Journal on Mathematical
+            Analysis, 23 (1992), pp. ",math.AP,B,-0.15654628,-0.04624401,0.1476437
+http://arxiv.org/pdf/2204.10051v1,Bunching instability and asymptotic properties in epitaxial growth with elasticity effects: continuum model,"Since
+our aim here is to present a general strategy to derive a continuum model
+from a discrete one, we are not going to pursuit the least regularity as-
+sumption. The validation and properties of the new continuum model on a
+generic vicinal surface, which may or may not satisﬁes Assumption 1, will
+be left to the following sections and future works. The following proposition provides our asymptotic expansion techniques,
+which is an extension of the derivation in [1]. ",math.AP,B,-0.05578498,0.09071281,0.2396377
+http://arxiv.org/pdf/2204.10071v1,Large-amplitude steady gravity water waves with general vorticity and critical layers,"Note that the above condition reduces to λ2 < gh in the irrotational case and to the
+subcriticality condition λ−2g − λ−1γ > 1/h in the case of constant vorticity γ. For a further analysis of the dispersion relation we refer to [35, 36]. Transversality condition As for the transversality condition, we state here a theorem
+of [51], which was proved in the case of nonzero surface tension, but, together with its
+proof, is also valid in the case of zero surface tension. ",math.AP,C,0.11218126,-0.08280695,0.15407996
+http://arxiv.org/pdf/2204.10517v1,Asymptotic Analysis of a General Multi-Structured Population Model,"We have that G(x) is the time it takes to
+grow from the smallest possible size, xm to size x, therefore a∗ would be
+a∗ = G(X1(−a, x1) + ∆L) − a. In future work, we will apply this model, and the methods used to ﬁnd an
+asymptotic solution, to investigate the eﬀect of aging on carboxysome produc-
+tivity by changing the growth rate of cells to be carboxysome age-dependent. Changing the model in this way, or expanding it to include competition
+between cells, will introduce further complexity and nonlinearity to our model
+equations. ",math.AP,B,-0.3954866,-0.029897284,-0.15062046
+http://arxiv.org/pdf/2204.10573v1,Energy estimates and hypocoercivity analysis for a multi-phase Navier-Stokes-Vlasov-Fokker-Planck system with uncertainty,"Plugging (2.7) into (2.1), one obtains the following system for the perturbation (u˜, {f˜i}Ni=1):
+
+                         1 u˜ ·  ∇ f˜ − iv f˜      − i1/3 u˜ · v√µ =                     1  − i |v|2 f˜ + 3 f˜ + θ¯∆ f˜ ,
+(f˜ ) + v · ∇ (f˜ ) +
+ i t        x i i2/3ǫ                 v i 2θ¯ i      θ¯ǫ            i i2/3ǫ θ¯ 4 i 2 i i v i
+
+u˜ + u˜ · ∇ u˜ + ∇ p˜ − ∆ u˜ + κ u˜ N i1/3 + κ u˜ N i1/3 √µ f˜ dv − κ N i1/3 v√µ f˜ dv = 0,
+t       x             x  xǫ                        ǫ                             ii         ǫ                            ii
+                                                                     R3                                    R3
+                                       i=1           i=1                                      i=1
+
+
+∇x · u˜ = 0,
+
+                                                                                                                              (2.8)
+
+with the initial data
+
+                          u˜|t=0 = u˜0,  f˜i = f˜i,0,                 √µif˜i,0 dvdx = 0,
+
+                                              t=0             T3 R3
+
+                                                       6
+and                                 N
+
+                                                          √
+                           u˜0dx +                     iv µifi,0 dvdx = 0, ∇x · u˜0 = 0,
+
+                       T3           i=1 T3 R3
+
+which show that the ﬂuctuations of the initial data, (u˜0, {f˜i,0}Ni=1), do not aﬀect the total momen-
+
+tum and mass, and the perturbation of the ﬂuid velocity is divergence free. Rigorous proofs of existence-uniqueness for this kinetic-ﬂuid multi-phase ﬂow model (2.8) with
+
+distinct particle sizes near equilibrium will be investigated in future work. This paper focuses on
+
+the energy estimate and hypocoercivity analysis for such multi-phase systems with uncertainties. ",math.AP,B,-0.2016401,-0.28474545,0.18267465
+http://arxiv.org/pdf/2204.10620v1,A Birman-Schwinger Principle in General Relativity: Linearly Stable Shells of Collisionless Matter Surrounding a Black Hole,"One should compare this result with the characterization of ker(T )⊥ in Proposi-
+tion 5.1 (d). For further analysis it is essential to characterize the image of B which we do
+next. A useful tool for this is the existence of a right-inverse of B.
+
+Deﬁnition 5.7. ",math.AP,A,-0.07114945,0.3051855,-0.037368894
+http://arxiv.org/pdf/2204.10699v2,The subharmonic bifurcation of Stokes waves on vorticity flow,"As a result one could not guarantee that the limit conﬁguration will have
+a ﬁnite depth ﬂow. In further analysis we need certain smoothness properties of extreme waves, which was the
+subject of the study in the paper [26] (see also a short presentation of the results in [25]). In
+previous papers (see [45, 43, 44]) it was prove that the extreme wave is C1 from both sides of
+the stagnation point. ",math.AP,C,0.105158485,-0.038320877,0.15464269
+http://arxiv.org/pdf/2204.10699v3,The subharmonic bifurcation of Stokes waves on vorticity flow,"As a result one could not guarantee that the limit conﬁguration will have
+a ﬁnite depth ﬂow. In further analysis we need certain smoothness properties of extreme waves, which was the
+subject of the study in the paper [26] (see also a short presentation of the results in [25]). In
+previous papers (see Varvaruca [46], Varvaruca & Weiss [44, 45]) it was prove that the extreme
+wave is C1 from both sides of the stagnation point. ",math.AP,C,0.08563277,-0.04285446,0.16019759
+http://arxiv.org/pdf/2204.10699v4,The subharmonic bifurcation of Stokes waves on vorticity flow,"This is important
+to guarantee that an extreme periodic wave will appear as the limit conﬁguration for the branch. In further analysis we need certain smoothness properties of extreme waves, which was the
+subject of the study in the paper [26] (see also a short presentation of the results in [25]). In
+previous papers (see Varvaruca [46], Varvaruca & Weiss [44, 45]) it was prove that the extreme
+wave is C1 from both sides of the stagnation point. ",math.AP,B,0.038758457,-0.0404066,0.0512363
+http://arxiv.org/pdf/2204.11016v1,Existence of Vortices for Nonlinear Schrödinger Equations,"In partic-
+ular, in [23], Yang and Zhang gave two types of results on the existence of optical vortices
+in a bounded domain in R2. Inspired by their results, Carlo Greco did a further research
+in [8], which involves two cases of the optical vortices model: the self-focusing cubic nonlin-
+earity, and the competing quintic and cubic nonlinearity. Their work motivates our math-
+ematical analysis. ",math.AP,B,0.025685646,-0.016862903,0.22859949
+http://arxiv.org/pdf/2204.11290v1,Periodic Lp estimates by R-boundedness: Applications to the Navier-Stokes equations,"Moreover, in order to handle the nonlinear terms, we consider spaces of functions
+with additional pointwise spatial decay, and a large part of Section 5 is concerned with the asymptotic
+properties of solutions. Since this analysis of the exterior-domain problem is already quite extensive,
+the even more involved case of the Navier-Stokes ﬂow inside a periodically moving exterior domain is
+postponed to a future work. 2 Notation and preliminaries
+
+2.1 General notation
+
+Let N, Z, R and C denote the set of all natural numbers, integers, and real and complex numbers,
+
+respectively. ",math.AP,C,0.24159741,-0.14660852,0.0805577
+http://arxiv.org/pdf/2204.11365v1,Singular structures in solutions to the Monge-Ampère equation with point masses,"The extension of the main result in [19]
+                                          to higher dimensions, stated as a conjecture (Conjecture 1.4 in that paper), was
+                                          hindered by the lack of a well-developed regularity theory for the obstacle problem
+                                          considered in that work. The purpose of this paper is to prove Conjecture 1.4 from
+                                          [19] using a simpliﬁed approach which avoids the use of delicate free boundary reg-
+                                          ularity results, to analyze the stability of the singular structures appearing in these
+                                          examples, and to suggest further research directions motivated by the connections
+                                          of our examples to the aforementioned areas. Our main result is:
+
+                                          Theorem 1.1. ",math.AP,C,0.2651472,0.15221226,0.22543071
+http://arxiv.org/pdf/2204.12866v1,Fractional one-sided measure theoretic second-order elliptic operators and applications to stochastic partial differential equations,"Note that our d-dimensional diﬀerential operator −∆W,V, can be seen as an
+operator depending on W and V. If one considers W and V as probability distribution
+functions, the case we considered means that we assumed the jointly distribution to the
+product (which would mean they are the distribution of independent random variables). We can also have the following question
+
+    “Is it possible consider generalized second order operators by considering formal
+derivatives with respect an Borel measure on Td not necessarily given by the product
+
+                                                 measure?.”
+Finally, turning our attention to the W -Brownian motion BW , and pointing that, the
+jumps of BW is subordinated to the jumps of W and expecting that this model of
+stochastic process can be useful in future works related to stocks in the ﬁnancial market
+one nice question about future models related to this object is
+“By embedding BW on a random environment, in such a manner that the functions V
+
+    and W are random, thus making the jump sites random, is there a choice of the
+random environment such that the (unconditional) ﬁnite dimensional distributions of
+
+                                        BW are still Gaussian?”
+
+                                                      80
+Bibliography
+
+ [1] Arzt, P. (2015) Measure theoretic trigonometric functions. J. Fractal Geom. ",math.AP,A,-0.09939558,0.09592879,-0.18931547
+http://arxiv.org/pdf/2204.14158v1,Optimal regularity for degenerate Kolmogorov equations with rough coefficients,"The study of the fundamental
+solution and its regularity properties is a crucial step in tackling the martingale problem for the corresponding
+stochastic equations, particularly for well-posedness and pathwise uniqueness problems. These issues will be
+addressed in a future work. 1.1 Main assumptions
+
+Throughout the paper, A + Y veriﬁes the following two structural
+
+Assumption 1.1 (Coercivity on Rd). ",math.AP,C,0.11284222,-0.12213653,-0.19795993
+http://arxiv.org/pdf/2205.00994v1,Non-zero constraints in elliptic PDE with random boundary values and applications to hybrid inverse problems,"Indeed, in general, the probability that all the boundary conditions are
+          not suitably chosen will be positive. It would be interesting to investigate
+          whether the random choice of the boundary values could be modiﬁed to
+          improve upon the number of solutions, possibly in combination with the
+          approach based on the Whitney embedding theorem introduced in [9]: we
+          leave this for future work. The proof of this result is presented in Section 4, and is based on the two following
+steps:
+
+     (1) Letting ϕi ∼ ν i.i.d. ",math.AP,C,0.23766291,-0.11916519,0.12221518
+http://arxiv.org/pdf/2205.00994v2,Non-zero constraints in elliptic PDE with random boundary values and applications to hybrid inverse problems,"Indeed, in general, the probability that all the boundary conditions are
+          not suitably chosen will be positive. It would be interesting to investigate
+          whether the random choice of the boundary values could be modiﬁed to
+          improve upon the number of solutions, possibly in combination with the
+          approach based on the Whitney embedding theorem introduced in [9]: we
+          leave this for future work. The proof of this result is presented in Section 4, and is based on the two following
+steps:
+
+     (1) Letting ϕi ∼ ν i.i.d. ",math.AP,C,0.23766291,-0.11916519,0.12221518
+http://arxiv.org/pdf/2205.02566v1,Stability of the steady states in multidimensional reaction diffusion systems arising in combustion theory,"But then in this new space the nonlinearity will lose the local
+
+Lipschitz property needed to see the well-poseness of (1.8). To gain it back, as
+in [9, 10, 11, 13], we will pass to the intersection space Hk(Rd)2 ∩ Hαk(Rd)2, and
+perform further analysis there. Remark 2.2. ",math.AP,A,0.10920128,0.19687612,0.012217486
+http://arxiv.org/pdf/2205.03179v1,Long-time Asymptotic Behavior of the coupled dispersive AB system in Low Regularity Spaces,"21 −∞∞ βAA∗∗B dx
+                  1 ∞ A∗At dx
+   0           t  2 −∞ βB
+
+   The reﬂection coeﬃcient is described below, which is usually deﬁned as
+
+                                          r(k) = s12(k) ,                                                          (2.12)
+                                                   s11(k)
+
+using the ﬁrst two properties in proposition 3, we have
+
+                                          1 + |r(k)|2 =           1
+                                                                        . |s11(k)|2
+
+In order to deal with our future work, we assume that the initial data meets the following assumptions. Assume 4. ",math.AP,A,-0.10112107,0.19360182,-0.11419882
+http://arxiv.org/pdf/2205.03893v1,Invariant Gibbs measures for the three dimensional cubic nonlinear wave equation,"those leading to renormalizations) while in the Schr¨odinger case all terms
+are treated equally and satisfy the same uniform bound. Nevertheless, we believe that it is possible to
+establish a wave (or heat) version of the theory in [DNY20] that also takes into account renormalizations,
+which would be needed in the further study of random data wave equations. Bilinear operator estimates: As said above, most parts of our proof can be done by utilizing the (linear)
+operator norms of tensors in the same way as in [DNY20]. ",math.AP,A,0.051100686,0.19119847,-0.15088484
+http://arxiv.org/pdf/2205.03893v2,Invariant Gibbs measures for the three dimensional cubic nonlinear wave equation,"those leading to renormalizations) while in the Schr¨odinger case all terms
+are treated equally and satisfy the same uniform bound. Nevertheless, we believe that it is possible to
+establish a wave (or heat) version of the theory in [DNY20] that also takes into account renormalizations,
+which would be needed in the further study of random data wave equations. Bilinear operator estimates: As said above, most parts of our proof can be done by utilizing the (linear)
+operator norms of tensors in the same way as in [DNY20]. ",math.AP,A,0.051100686,0.19119847,-0.15088484
+http://arxiv.org/pdf/2205.04922v1,On the stabilizing effect of swimming in an active suspension,"One can obtain an explicit formula for LK(iτ ) by sending σ → 0+. We leave its analysis to future work. 15
+
+              3. ",math.AP,A,-0.2501153,0.2323433,-0.03827507
+http://arxiv.org/pdf/2205.05316v1,Convergence of solutions to a convective Cahn-Hilliard type equation of the sixth order in case of small deposition rates,"Therefore,  for  the  operators        Lδ         ,  Lδ         ,  we  have
+                                             δ,i           δ,i
+                                       u1 u2
+
+                                                     Lδ                w  =  Lδ      δ,i w =  τsLδδ,i  w.
+                                                           δ,i
+                                                                   u2           τs u1            u1
+
+In this way, we may think of the family of linearisations around a given family generated by the action of
+the shift operator on a given member uδ,i as being itself also generated by the action of the shift operator
+                        Lδ
+on  the  linearisation        δ,i  of  the  representative. u1
+    In our further analysis we will need information about the kernel of Lδi . We notice that the projections
+onto the eigenspaces of Lδi depend continuously on δ. ",math.AP,A,0.03921663,0.32520032,-0.03844724
+http://arxiv.org/pdf/2205.05534v1,A Hamilton-Jacobi Approach to Evolution of Dispersal,"See Section 6 for an explicit example of α so that (H1) can be explicitly veriﬁed1. We
+leave the general case for future work. The following uniqueness result, which seems to be of independent interest, plays a critical
+role in characterizing the solution trajectories of (1.6). ",math.AP,B,-0.03234242,-0.044806037,-0.24480337
+http://arxiv.org/pdf/2205.06467v1,Extinction of multiple shocks in the modular Burgers equation,"Postprocessing data analysis suggests a precise scaling law of the ﬁnite-time
+extinction which agrees with the nonlinear equation for the interface position. These
+results open a road for future work to prove the ﬁnite-time extinction and the scaling law
+analytically. We note that although the ﬁnite-diﬀerence method is rather elementary, it allows us to
+capture the main feature of the dynamics of the modular Burgers equation (1.1), where
+the linear equations between interfaces are coupled together by the nonlinear interface
+equations. ",math.AP,B,-0.2760194,-0.25720033,-0.04723047
+http://arxiv.org/pdf/2205.06467v2,Extinction of multiple shocks in the modular Burgers equation,"We have speciﬁed precise scaling laws for the ﬁnite-time extinction based on numerical
+simulations with the central diﬀerence method, which is well-adapted to deal with the
+nonlinear interface equations. These results open a road for future work to establish ﬁnite-time extinction of shocks
+and associated scaling laws analytically for general initial data with multiple interfaces. We anticipate that all initial data with ﬁnitely many interfaces evolve in ﬁnite time to
+shock waves with a single interface or to linear waves without interfaces (depending on
+the boundary conditions). ",math.AP,B,-0.26776493,-0.3016019,0.08938974
+http://arxiv.org/pdf/2205.06541v1,"Phase-field approximation of a vectorial, geometrically nonlinear cohesive fracture energy","[CFI16, Theorem 7.4]). We expect these
+ﬁndings to have a natural generalization to the current vectorial setting, this
+requires additional technical ingredients that will be the object of future work
+[CFI22]. Let us now brieﬂy discuss some aspects of the proof of Theorem 2.1. ",math.AP,A,0.034226637,0.3589229,-0.006333367
+http://arxiv.org/pdf/2205.06587v1,A dynamic approach to heterogeneous elastic wires,"Geometrically, the angle function θ in Theorem 1.3 describes a closed curve for each
+ﬁxed time t, and hence there exists a smooth family of closed planar curves with
+density ρ that evolve in time decreasing the energy in (1.1). We plan to address
+further geometric and analytic properties of the ﬂow in a future work. This article is structured as follows. ",math.AP,B,0.018633757,0.04511761,-0.01914334
+http://arxiv.org/pdf/2205.07200v1,The Dirichlet problem for Hessian quotient equations on exterior domains,"Actually, in [31, Theorem 1.3], Li and Lu
+
+proved that when l = 0 and k = n, there is a sharp constant c∗ such that problem
+(1.9) admits a viscosity solution if and only if c ≥ c∗. It would be interesting to see
+whether such a sharp charaterization result holds for equation (1.1) with general
+
+0 ≤ l < k ≤ n and will be left to study in our future work. Appendix A. ",math.AP,C,0.20990923,-0.08123486,-0.020808693
+http://arxiv.org/pdf/2205.08921v1,Optimal control problems of nonlocal interaction equations,"Among the others we expect that this task could be performed on one hand using the
+combination of the two variational formulations (the J.K.O.-scheme and the optimisation problem for
+the cost functional), on the other hand through a deterministic reconstructions of the densities starting
+from (1.1). We leave these topics for future works. ACKNOWLEDGMENTS
+
+   SF acknowledges the support from the 04ATE2021-grant ""Mathematical models for social inno-
+vations: vehicular and pedestrian traﬃc, opinion formation and seismology"" of the University of
+L’Aquila. ",math.AP,B,-0.31095958,0.08866216,0.043236412
+http://arxiv.org/pdf/2205.09558v1,Live load matrix recovery from scattering data in linear elasticity,"Numerical experiments show that the sequences provided by the constructed algo-
+rithms converge rapidly to the matrix Q (for more details see Section 6). The study
+of this convergence from an analytical point of view is very interesting, but also
+hard, so we leave it for future work. Note that the convergence of the algorithms to
+the matrix load Q would provide, in particular, uniqueness of the inverse scattering
+problem with the associated scattering data, i.e backscattering or ﬁxed angle. ",math.AP,B,-0.27827603,0.1372475,0.22406998
+http://arxiv.org/pdf/2205.10261v1,"Sharp estimates for screened Vlasov-Poisson system around Penrose-stable equilibria in $\mathbb{R}^d $, $ d\geq3. $","Remark 3.7 To obtain the results of this paper, we just use these estimate with γ = 0, 1. But we would like
+to give the estimate for all γ ≥ 0 which will be used in our future work. Proof. ",math.AP,A,0.0047104238,0.28174707,-0.15192842
+http://arxiv.org/pdf/2205.10261v2,"Sharp estimates for screened Vlasov-Poisson system around Penrose-stable equilibria in $\mathbb{R}^d $, $ d\geq3. $","Remark 3.7 To obtain the results of this paper, we use these estimates with γ = 0, 1. But we would like to
+give the estimate for all γ ≥ 0, which will be used in our future work. Proof. ",math.AP,A,0.045473132,0.28612843,-0.15339935
+http://arxiv.org/pdf/2205.10521v1,A stochastic Allen-Cahn-Navier-Stokes system with singular potential,"However, if the potential is given
+by (1.1), then no global Lipschitz continuity can be achieved unless one can prove that the solution stays
+uniformly away from the pure phases, but this is not straightforward in the stochastic case (see [11] for
+the single stochastic Allen–Cahn equation). Besides the existence and uniqueness of solutions, there are still a number of issues to investigate,
+which will be object of future work. For example, regularity properties of the solution and existence of
+analytically-strong solutions are open issues. ",math.AP,B,0.060906306,-0.25755167,-0.24319106
+http://arxiv.org/pdf/2205.10521v2,A stochastic Allen-Cahn-Navier-Stokes system with singular potential,"However, if the potential is given
+by (1.1), then no global Lipschitz continuity can be achieved unless one can prove that the solution stays
+uniformly away from the pure phases, but this is not straightforward in the stochastic case (see [11] for
+the single stochastic Allen–Cahn equation). Besides the existence and uniqueness of solutions, there are still a number of issues to investigate,
+which will be object of future work. For example, regularity properties of the solution and existence of
+analytically-strong solutions are open issues. ",math.AP,B,0.060906373,-0.25755164,-0.24319105
+http://arxiv.org/pdf/2205.11040v1,Global boundedness and asymptotic behavior of time-space fractional nonlocal reaction-diffusion equation,"In
+the process of blow-up of TSFNRDE, this paper uses the method of the proof
+of [blow-up, [43]]. However, in addition to the existence and blow-up of time-
+space fractional diﬀusion equation mentioned above, we also further study
+the global boundedness and asymptotic behavior of solution for TSFNRDE. The outline of this paper is as follows.The global boundedness for the
+solution of TSFNRDE is analyzed in section 2: First, we introduce the exis-
+tence and uniqueness of solutions of TSFNRDE with homogeneous Dirichlet
+boundary condition by Appendix A.2. ",math.AP,C,0.17859827,-0.17269994,-0.25576758
+http://arxiv.org/pdf/2205.14291v1,Boundary pointwise regularity and Liouville theorems for fully nonlinear equations on cones,"The boundary pointwise regularity also holds for general do-
+mains with corners, such as Lipschitz domains. The general cases:
+
+   F (D2u, Du, u, x) = f in Ω;
+
+   u=g                                                    on ∂Ω
+
+will be treated in a future work. If F is the Laplace operator, αω can be expressed explicitly as
+
+           1  (n − 2)2 + 4λ1(ω) − (n − 2) ,                                               (1.5)
+   αω = 2
+
+where λ1(ω) the ﬁrst eigenvalue of the Dirichlet problem for the spherical
+Laplacian in ω (see [Ancona(2012)] for example). ",math.AP,C,0.4711973,-0.09249284,0.13980296
+http://arxiv.org/pdf/2205.15259v1,"Passivity, Port-Hamiltonian Formulation and Solution Estimates for a Coupled Magneto-Quasistatic System","Consider now the space
+
+    X0(curl = 0, Ω , ΩC) = {A ∈ X0(curl, Ω , ΩC ) : ∇ × A = 0}           (35)
+
+which is a closed subspace of both X(Ω , ΩC ) and X0(curl, Ω , ΩC ) with respect to
+the respective norms. The following lemma is essential for our further analysis. Lemma 5.3. ",math.AP,C,0.34821713,0.14508867,0.020854846
+http://arxiv.org/pdf/2205.15719v1,Existence and non-degeneracy of positive multi-bubbling solutions to critical elliptic systems of Hamiltonian type,"Therefore, we require that the smaller exponent p should
+
+not be too small ( larger than NN−+21 ). We expect that the condition (P) is almost sharp in the
+                                                                                                        N +1
+present  results,   although        other        problems  involving        the     case     p   ≤      N −2  would        be  considered  in
+
+our future work. Before introducing the non-degeneracy result, we outline the main idea in the proof of
+Theorem 1.1. ",math.AP,A,-0.118946224,0.29708084,-0.11291799
+http://arxiv.org/pdf/2206.01296v1,"On stability and instability of $C^{1,α}$ singular solutions to the 3D Euler and 2D Boussinesq equations","The vanishing order can be relaxed to
+|v| |x|2+δ for any δ > 0, and the stability result similar to that in Theorem 6 holds. To further study the instability of the blowup proﬁle U¯ (2.11) to (2.5), we consider the
+
+following ansatz of the linearized solution (2.12) and the rescaled growth factor Λp(t) similar to
+that for the 3D Euler equations in [35]
+
+                               1       x          β = 1,      Λp(v, t) = ||V (t)||Lp . (2.14)        v(t, x) = 1 − t V ( (1 − t)β , t),        2                    ||V0||Lp
+                                                           EULER STABILITY                                                          9
+
+Since   the  blowup    exponent           1    is   factored           out,  Λp  can   be  seen  as  measuring      the  relative   linear
+                                         1−t
+instability between V and the background proﬁle U¯ (2.11), while λp (2.13) measures the absolute
+
+linear instability. ",math.AP,B,-0.108110905,-0.052332878,-0.030049194
+http://arxiv.org/pdf/2206.01572v1,Stable solutions to semilinear elliptic equations for operators with variable coefficients,"The actual regularity of the boundary that is needed is under
+current investigation. Moreover, our methods will also be useful in a future work where we treat the case
+of the Laplacian with non-homogeneous boundary conditions. Recall that the previous
+papers [6] and [4] require strongly that the solutions vanish on the boundary. ",math.AP,C,0.5034676,-0.21961156,0.113103695
+http://arxiv.org/pdf/2206.02108v1,Uniqueness of orders and parameters in multi-term time-fractional diffusion equations by inexact data,"By reviewing the proof, we immediately see that our arguments also work for multi-term time-fractional wave equa-
+tions, that is, (1.3) and (3.1) with
+
+                              2 > α1 > α2 > · · · > αm > 0, 2 > β1 > β2 > · · · > βm′ > 0,
+                                    ∂tu = 0 if α1 > 1, ∂tv = 0 if β1 > 1 in Ω × {0}. However, since the forward theory for multi-term time-fractional wave equations (especially with a non-symmetric
+elliptic part) is not well established for the moment, we postpone this generalization as a future work. Meanwhile,
+other possible future topics include the case of x-dependent parameters qj(x), rj(x). ",math.AP,A,0.09194653,-0.03167802,-0.19090046
+http://arxiv.org/pdf/2206.02155v3,A Riemann-Hilbert approach to existence of global solutions to the Fokas-Lenells equation on the line,"Due to H3,3(R) ֒→ H3(R) ∩ H2,1(R), our present work ensures the strictness of our
+previuos work on long-time asymptotic behavior of the FL equation [21]. Based on
+the results obtained this paper together with Backlund transformation, we will futher
+prove the global existence for the FL equation in the case when the initial datum
+includes a ﬁnite number of solitons in our future work. Acknowledgements
+    This work is supported by the National Natural Science Foundation of China
+
+(Grant No. ",math.AP,B,-0.02383409,-0.18729019,-0.16706087
+http://arxiv.org/pdf/2206.02720v1,Continuum limit for the Ablowitz--Ladik system,"This in turn leads
+to a wholly diﬀerent mKdV-like dynamics with a diﬀerent characteristic time scale. Initial data with signiﬁcant excitation near the inﬂection points will be treated in
+future work. As the (AL) dynamics are nonlinear, the Fourier support of a solution is not
+preserved in time; one fully expects excitations to spread from the initial data to
+neighborhoods of the inﬂection points. ",math.AP,B_centroid,-0.152892,-0.28370845,-0.06304516
+http://arxiv.org/pdf/2206.04358v1,The logarithmic Bramson correction for Fisher-KPP equations on the lattice $\mathbb{Z}$,"We expect that our logarithmic expan-
+sion could be reﬁned along the lines of [27, 28] with convergence to a single traveling front solution. We leave it for a future work. Outline. ",math.AP,B,-0.16252498,-0.100018024,0.049682762
+http://arxiv.org/pdf/2206.05157v1,Ground-state representation for fractional Laplacian on half-line,"It turns out that the critical value of κ for which the perturbed density
+
+is ﬁnite coincides with the best constant in the Hardy inequality (13). We point out that Theorem 1.1 may be the starting point for further study of Schr¨odinger per-
+turbation of pD by the potential κx−α. Here, we may expect that like in [3] and [11] the best
+constant κ1/2 in Hardy inequality (34) is also critical in the sense that for κ > κ1/2 we will have
+instantaneous blow-up of the perturbed heat kernel p˜. ",math.AP,A,0.05683436,0.043723762,-0.1790795
+http://arxiv.org/pdf/2206.05164v1,On Scaling Laws for Multi-Well Nucleation Problems without Gauge Invariances,"In this situation
+it is however not expected that this is necessarily reﬂected in the nucleation scaling law. We
+postpone more detailed results on this to future work. 1.3. ",math.AP,B,-0.44390112,0.087233305,0.05876583
+http://arxiv.org/pdf/2206.05574v1,Restriction of eigenfunctions to totally geodesic submanifolds,"The question of when (1.6) is
+
+dense is reminiscent of the Helton clustering theorem; it appears that the remainder term
+Rψ1 ,H is maximal only when the diﬀerence spectrum (1.6) fails to be dense. We leave these
+questions to future work. In this article we assume that ψˆ ∈ C0∞ and Suppψˆ ⊂ (−r0, r0). ",math.AP,A,0.026934313,0.4269172,-0.056148365
+http://arxiv.org/pdf/2206.06415v2,Dynamics and steady state of squirmer motion in liquid crystal,"This causes diﬃculty in the analysis of
+
+the time-dependent problem. Hence in this paper, we will only present a short time existence
+
+result and leave the long time behavior to future work. 2.2 Steady state PDE system
+
+    In this work, we are also interested in the steady translational motion of the squirmer
+in the liquid crystal. ",math.AP,B,-0.02680864,-0.30065536,-0.18497904
+http://arxiv.org/pdf/2206.06671v1,Multi-Scale Modeling and Simulation of Transport Processes in an Elastically Deformable Perforated Medium,"the eﬀect of respiratory movement when investigating
+transport processes on the cellular level in the lung or related problems. The present model has to be understood as a starting point for further research
+in diﬀerent directions. As a ﬁrst generalization, it is reasonable to expand
+the model by including also an inﬂuence of the diﬀusing substance on the
+elastic properties of the solid, leading to a fully coupled system. ",math.AP,B,-0.22347781,-0.24882314,0.04679205
+http://arxiv.org/pdf/2206.06972v1,Dilating blow-up time: A generalized solution of the NNLIF neuron model and its global well-posedness,"Then we can reduce the PDE problem to an integral equation for M (s), the boundary ﬂux, which is an
+analogy of the ﬁring rate in the free boundary formulation. In this way, with further analysis, the global well-posedness
+for the equivalent free boundary problem is established in Section 3.2. This proof strategy closely follows [13]. ",math.AP,C,0.33361435,-0.20766145,-0.090560436
+http://arxiv.org/pdf/2206.07398v1,Detecting minimum energy states and multi-stability in nonlocal advection-diffusion models for interacting species,"As well as revealing complex multi-stable structures in examples of these
+systems, our study opens the door to various questions regarding the bifurca-
+tion structure, the eﬀect of nonlocality, and the structure of the attractor. We
+believe these will lead to yet more signiﬁcant, but highly fruitful, future work. Springer Nature 2022 LATEX template
+
+                     Energy minima in nonlocal advection-diﬀusion models 37
+
+Declarations
+
+Author contributions. ",math.AP,B,-0.2925412,-0.13800544,0.10851327
+http://arxiv.org/pdf/2206.07398v2,Detecting minimum energy states and multi-stability in nonlocal advection-diffusion models for interacting species,"As well as revealing complex multi-stable structures in examples of these
+            Springer Nature 2022 LATEX template
+
+            Energy minima in nonlocal advection-diﬀusion models 39
+
+systems, our study opens the door to various questions regarding the bifurca-
+tion structure, the eﬀect of nonlocality, and the structure of the attractor. We
+believe these will lead to yet more signiﬁcant, but highly fruitful, future work. Declarations
+
+Competing interests. ",math.AP,B,-0.28925365,-0.088162646,0.10079994
+http://arxiv.org/pdf/2206.07589v1,A rigorous derivation of the Hamiltonian structure for the Vlasov equation,"In other words, the diagram in Figure 1 commutes in terms of geometric
+structure. We plan to investigate this direction in future work. Figure 1. ",math.AP,A,-0.27278382,0.29298708,0.20987095
+http://arxiv.org/pdf/2206.08156v1,Center stable manifold for ground states of nonlinear Schrödinger equations with internal modes,"On the other hand, in this paper,
+our aim is to consider generic ground states and our aim is to show the the asymptotic stability on
+the center-stable manifold under generic assumptions such as (H2)-(H4). Numerically verifying the
+assumption such as (H2)-(H4) for speciﬁc examples would be an interesting future work. This paper is organized as follows. ",math.AP,A,-0.001994796,0.09648894,-0.01139405
+http://arxiv.org/pdf/2206.08246v1,Weak solutions of Mullins-Sekerka flow as a Hilbert space gradient flow,"A natural question arising from the present work is whether solutions of the
+Cahn–Hilliard equation converge subsequentially to weak solutions of the Mullins–
+Sekerka ﬂow in our sense, which would improve the seminal result of Chen [14] that
+relies on a (much) weaker formulation of the Mullins–Sekerka ﬂow. An investigation
+of this question will be the subject of a future work. 1.2. ",math.AP,B,0.020692982,-0.20695327,-0.09740677
+http://arxiv.org/pdf/2206.09439v1,Semiclassical propagation along curved domain walls,"The dispersive estimate of Theorem 2.6 with a wavepacket
+                          1
+amplitude  of  order  t−  2  therefore  holds  at  best  only  for          short  times  (until  the  wavepacket
+
+reaches one end point of [xR, xL]). We postpone the analysis of such turning points to future work and concentrate here
+
+on wavepackets with suﬃciently high ‘energy’ so that (ix) holds. This is then case when
+
+(vii)-(viii) hold, which themselves hold for the Dirac equation when assumption (vii)D
+
+in section 3.5 below holds. ",math.AP,A,0.07496669,0.054225963,-0.15194382
+http://arxiv.org/pdf/2206.09794v1,Global existence for reaction-diffusion systems on multiple domains,"If we apply the weak formulation in Deﬁnition 2.1 to u5 and u6 with the test
+function ϕ = 1, and sum the results, then clearly
+
+                                      ˆ ∞ˆ
+                                                      u6(t, x)dxdt < ∞. 0 Omega3
+
+It is possible to use this and further analysis to prove u6(t, ·) ∞,Ω3 → 0 as t → ∞. We leave
+the details and further asymptotic analysis to the interested reader. ",math.AP,C,0.16499783,0.009730568,-0.21100375
+http://arxiv.org/pdf/2206.10208v1,Simultaneous recovery of attenuation and source density in SPECT,"We have shown that
+even when we consider cancelling cases joint recovery of a and f is possible. The
+exact cause of the unique recovery is something which needs further research. References
+
+ [1] H. Attouch, J. Bolte, P. Redont, and A. Soubeyran. ",math.AP,B,-0.17587227,0.09626463,0.03285724
+http://arxiv.org/pdf/2206.11039v2,Global existence and optimal decay rate of weak solutions to the co-rotation Hooke dumbbell model,"Global existence of system (1.3) with standard energy estimations in (3.1) is an
+interesting problem. However, the technique in this paper fails to solve this problem and we would get
+further research in the furture. 5 Optimal decay rate
+
+Proof of Theorem 1.6 :
+By density argument, we assume that (u, g) is smooth solution of system (1.3). ",math.AP,B,0.035430185,-0.08099446,-0.26725405
+http://arxiv.org/pdf/2206.11628v1,Degenerate fractional Kirchhoff-type system with magnetic fields and upper critical growth,"Vast
+literature on nonlocal operators and on their applications exists, we refer the interested reader to
+[1, 7, 17, 32, 46]. In order to further research this type of question by variational methods, many
+scholars have established the basic properties of fractional Sobolev spaces - for this the reader is referred
+to [6, 33, 35]. First, we make a quick overview of the literature on the magnetic Schro¨dinger equation. ",math.AP,C,0.26955077,0.009249762,-0.08256665
+http://arxiv.org/pdf/2206.12537v1,Hamilton-Jacobi equations with monotone nonlinearities on convex cones,"In this paper, we show that there is no need to impose any boundary condition on ∂C, due
+                                          to the monotonicity of the nonlinearity and the initial condition. The solutions are required to
+
+                                          satisfy the equation in the viscosity sense only on the interior of R+ × C. Moreover, only the values
+                                          of H on C matter, and thus the solution does not depend on how H is modiﬁed outside C. Aside
+                                          from the well-posedness, we also prove several useful properties of the solution that were needed
+
+                                          in the aforementioned works and will be needed in future works. The main idea behind the irrelevance of the boundary is from [7, 12]. ",math.AP,C,0.29573655,-0.30609813,-0.013315532
+http://arxiv.org/pdf/2206.12537v2,Hamilton-Jacobi equations with monotone nonlinearities on convex cones,"In this paper, we show that there is no need to impose any boundary condition on ∂C, due
+                                         to the monotonicity of the nonlinearity and the initial condition. The solutions are required to
+
+                                         satisfy the equation in the viscosity sense only on the interior of R+ × C. Moreover, only the values
+                                         of H on C matter, and thus the solution does not depend on how H is modiﬁed outside C. Aside
+                                         from the well-posedness, we also prove several useful properties of the solution that were needed
+
+                                         in the aforementioned works and will be needed in future works. The main idea behind the irrelevance of the boundary is from [10, 19]. ",math.AP,C,0.29463187,-0.31631583,-0.021886962
+http://arxiv.org/pdf/2206.12666v1,Global regularity of 2D generalized incompressible magnetohydrodynamic equations,"On the other hand, at the moment it is also not clear whether Theorem
+1.1 holds true when the power one half of (1.4) is replaced by τ with τ > 12. We will
+investigate these problems further in our future work. Remark 1.3. ",math.AP,A,-0.06691556,0.29622933,-0.15911476
+http://arxiv.org/pdf/2206.13471v1,Global well-posedness for the thermodynamically refined passively transported nonlinear moisture dynamics with phase changes,"To
+overcome this problem, we introduced the new unknowns Q = qv +qr and H = T −L(qc+qr)
+in [15], where we recall that L was assumed to be constant there. Due to the challenge here
+of treating the additional terms arising from the reﬁned thermodynamics, we stick to the
+case corresponding β = 1 here and leave the more general case β ∈ (0, 1] for future work. Throughout this paper, we use C to denote a general positive constant which may be
+diﬀerent at diﬀerent places. ",math.AP,B,-0.090428784,-0.037628554,-0.21637404
+http://arxiv.org/pdf/2206.15411v1,An Iterative Energy Estimate for Degenerate Einstein model of Brownian motion,"Zeldovich (see [5]), it was shown that under speciﬁc initial and boundary conditions
+
+there exists a self-similar solution of the equation (1.2), which exhibits ﬁnite speed of prop-
+
+agation. Evidently, the Einstein operator LE in (3.7) is in nondivergent form that is based
+ITERATIVE ENERGY ESTIMATE - DEGENERATE EINSTEIN BROWNIAN MODEL  3
+
+on the thought experiment, which allows to interpret the results on observable data in term
+of the length of free jumps, and then adjust parameters τ and ϕ of the model to execute
+further analysis. In this paper, we will follows Einstein approach but will use technique for
+divergent equation. ",math.AP,B,-0.1467497,-0.24951467,-0.15245599
+http://arxiv.org/pdf/2207.00441v1,Global Existence of Classical Solutions to Full Compressible Navier-Stokes System with Large Oscillations and Vacuum in 3D Bounded Domains,"Then,
+the ﬁrst observation is that the average of the pressure P is uniformly bounded with
+positive lower and upper bounds (see (3.11)) by both “weaker” basic energy estimate
+(1.37) and Jensen’s inequality (see Lemma 2.2). Combining this with the fact that the
+quantity P plays a similar role as θ (see (3.22)) implies that we can replace θ¯ by P¯
+whose positive lower and upper bounds play an important role in further analysis. Next, the second diﬃculty lies in the estimation on the energy-like term A2(T )
+(see (3.2)) which includes the key bounds on the L2(Ω × (0, T ))-norm of the spatial
+derivatives of both the velocity and the temperature. ",math.AP,C,0.033859186,0.017742503,-0.13554673
+http://arxiv.org/pdf/2207.00853v1,Generalized gradient structures for measure-valued population dynamics and their large-population limit,"However, there exist possible extensions and decompositions of variational structures for jump
+processes that do not assume detailed balance or even complex balance, see for example [KJZ18] for
+an overview. Therefore, in future work, the authors plan to generalize the variational methods outlined
+here to more general evolutions. Acknowledgments. ",math.AP,B,-0.2896366,-0.1253601,0.014365669
+http://arxiv.org/pdf/2207.00853v2,Generalized gradient structures for measure-valued population dynamics and their large-population limit,"However, there exist possible extensions and decompositions of variational structures for jump
+processes that do not assume detailed balance or even complex balance, see for example [KJZ18] for
+an overview. Therefore, in future work, the authors plan to generalize the variational methods outlined
+here to more general evolutions. Acknowledgments. ",math.AP,B,-0.2896366,-0.1253601,0.014365669
+http://arxiv.org/pdf/2207.01397v1,First-order mean-field games on networks and Wardrop equilibrium,"The lack of monotonicity for these MFG
+models makes it possible that new phenomena arise, such as multiple equilibria
+or instability. We believe these to be relevant questions for further research. 2 Wardrop equilibrium model on networks
+
+We consider a steady-state model of agents traveling through a network with
+ﬂow-dependent travel costs on the edges. ",math.AP,B,-0.3206907,-0.13366881,-0.10814886
+http://arxiv.org/pdf/2207.01517v1,Impulsive Fractional Dynamic Equation with Non-local Initial Condition on Time Scales,"Also we dis-
+cussed fractional dynamic equation by the Caputo nabla derivative involving instantaneous
+impulses with non local initial condition. The discussion of the stability of the solution of
+the Equation (1.1) will be our future work. The theory of impulsive fractional dynamic
+equation has a potential application on the ﬁled of mathematical analysis, moreover it has
+a wide application in physics, ﬁeld of engineering, economics, etc. ",math.AP,B,-0.06226627,-0.26268905,-0.21947435
+http://arxiv.org/pdf/2207.01859v1,The field-road diffusion model: fundamental solution and asymptotic behavior,"Such a nonlinearity serves a model for the so-called Allee eﬀect [4],
+
+roughly meaning that the per capita growth rate of the population is not maximal at small
+
+density. We plan to address such issues in a future work. 2 Main results
+
+Let N ≥ 2 be an integer. ",math.AP,B,-0.24906139,0.11210502,-0.19923076
+http://arxiv.org/pdf/2207.02511v1,Semi-discrete modeling of systems of wedge disclinations and edge dislocations via the Airy stress function method,"A possible remedy
+to the unphysical behavior and inconsistency with experimental observations is the smoothen-
+ing of mechanical strains and stresses by introducing an additional length scale proportional to
+the disclination core. As the analysis contained in this paper focuses mainly on singular limits
+for disclination dipoles and dislocations, we ignore regularization of non-singular functionals for
+isolated disclinations, leaving these issues to future work. With Section 3 we begin our investigation of systems of disclination dipoles which we then
+conclude in Section 4. ",math.AP,B,0.025048964,0.0145378895,0.3185495
+http://arxiv.org/pdf/2207.02623v1,The anisotropic Calderón problem at large fixed frequency on manifolds with invertible ray transform,"H1(M )                             H 1 (M
+
+In the derivation above, because both r1 and r2 follow the same estimate with respect to
+
+λ and δ, we don’t distinguish them by simply represent both of them as r. Absorbing the
+λ−a p L2(M) term by the left-hand-side, we ﬁnally obtain
+
+(1 − λ−a) p L2(M1) ≤ C Λλq+p − Λλq H1/2(∂M )→H−1/2(∂M )
+
+                                  ×(  v  2       +  v H1(M ) r H1(M ) +  r 2H1(M)),    (7.5)
+                                         H1(M )
+
+The L2 norm of v and r have been investigated in Propositions 6.1 and 6.2. To obtain their
+H1 norm, we need to analyze their gradients, which shall give certain growth of order λb1δb2
+
+for certain b1, b2 ∈ R. We defer this to future works. Remark 7.2. ",math.AP,A,0.07334617,0.14680216,-0.08274675
+http://arxiv.org/pdf/2207.03371v1,Linear vs. nonlinear speed selection of the front propagation into unstable states,"Thus, it should be impossible to
+     have an explicitly expression. (3) Our approach may work on the classiﬁcation of pulled front, pushed front and pulled-pushed
+     transition front for more general monotone systems, which leaves as our future work. Corollary 1.7 The condition (1.9) for linear determinacy is not optimal. ",math.AP,A,-0.24540192,0.17823824,0.02661889
+http://arxiv.org/pdf/2207.03542v1,Emergence of biological transportation networks as a self-regulated process,"A generic example is represented by neural (brain) tissue in animals and humans. However, a quick inspection of equation (1.14), or its straightforward modiﬁcation accounting
+for the presence of the metabolic term in (1.15), reveals that, due to lack of a minimum principle,
+it does not guarantee preservation of positive (semi)deﬁnitness of the tensor D. In a future work,
+we shall examine the well-posedness of the system in the case of small sources S = S(x) and/or
+small time t. Another option, inspired by [1, 2, 11, 20, 21], is to make the ansatz
+
+                                D = rI + m ⊗ m,                                        (1.16)
+
+where r = r(x) ≥ r0 > 0 is the background permeability of the medium and the vector ﬁeld
+m = m(t, x) ∈ Rd describes the local conductance of the network structure. Note that D taking
+the form (1.16) has the eigenvalues r(x) + |m|2 with eigenvector m, and r(x) with eigenvec-
+
+tors orthogonal to m. Thus, it represents conduction along the direction m with conductivity
+r(x) + |m|2, while the conduction in directions perpendicular to m is due to the background
+
+permeability. ",math.AP,B,-0.12810989,-0.02662932,0.05026031
+http://arxiv.org/pdf/2207.03806v1,Vlasov Equations on Directed Hypergraph Measures,"It will be challenging while
+exciting to study the case e.g., where the hypergraph measure is a limit of the sequence of
+hypergraphs of unbounded cardinalities. We leave both questions to future work. Alternatively, one can also derive parallel results using Deﬁnition 2.10. ",math.AP,A,-0.15337062,0.33648074,0.0757288
+http://arxiv.org/pdf/2207.04727v1,Agro-ecological control of a pest-host system: Preventing spreading,"A natural perspective is then
+the probabilistic study of the expected harvest. However this is way outside the
+scope of this paper, and we leave it for future work. In particular, a more precise
+knowledge of the law of this random initial condition is necessary. ",math.AP,B,-0.3931818,-0.07662476,-0.17438033
+http://arxiv.org/pdf/2207.04727v2,Agro-ecological control of a pest-host system: preventing spreading,"A natural perspective is then
+20             AGRO-ECOLOGICAL CONTROL: PREVENTING SPREADING
+
+the probabilistic study of the expected harvest. However this is way outside the
+scope of this paper, and we leave it for future work. In particular, a more precise
+knowledge of the law of this random initial condition is necessary. ",math.AP,B,-0.36471978,-0.07916884,-0.22308816
+http://arxiv.org/pdf/2207.05367v1,Uniform convergence for linear elastostatic systems with periodic high contrast inclusions,"The downward arrow on the left corresponds to
+homogenization of high contrast inclusions before taking the limit κ → κ∞, and it seems a more
+diﬃcult task to establish uniform in κ quantitative homogenization results. We aim to address
+this problem in future works; see [32], however, for related considerations. The lower arrow in the
+diagram is somehow easier and can be treated by the method of this paper; and this convergence
+can be viewed as a continuity property of the homogenized coeﬃcients with respect to the high
+contrast parameter κ. ",math.AP,A,0.047041245,0.30620757,-0.036351226
+http://arxiv.org/pdf/2207.05398v1,Inverse medium scattering problems with Kalman filter techniques,"We observe that the error of EKF (or initialization) decreases faster than that of
+KFL (or update) when we appropriately choose the regularization parameter; however,
+EKF (or initialization) is more sensitive to the choice of regularization parameter α
+and standard deviation σ than KFL (or update), that is, EKF-initialization converges
+fastest and KFL-update is robustest to parameters. Conclusions and future works
+
+In this paper, we proposed two reconstruction algorithms called the Kalman Filter
+Levenberg-Marquardt (KFL) and iterative Extended Kalman Filter (EKF) that are cat-
+egorized as iterative optimization methods for the inverse medium scattering problem. 14
+We numerically observed that the error of EKF decreases faster when the regularization
+parameter is appropriately chosen, whereas, EKF is more sensitive to the regularization
+parameter and the noise than the KFL. ",math.AP,B,-0.20408453,0.06753883,0.18596596
+http://arxiv.org/pdf/2207.05625v1,Nonlinear wave interactions in geochemical modeling,"However, these calculations are
+not suﬃcient to elucidate the issue of structural stability of the solutions. This
+issue will be studied in future work. 8 Conclusion
+
+In this paper the eigenvalue analysis of a system of n + 1 conservation laws is
+performed. ",math.AP,B,-0.1935158,-0.1665861,0.03238594
+http://arxiv.org/pdf/2207.05625v2,Nonlinear wave interactions in geochemical modeling,"However, these calculations are
+not suﬃcient to elucidate the issue of structural stability of the solutions. This
+issue will be studied in future work. 8 Conclusion
+
+In this paper the eigenvalue analysis of a system of n + 1 conservation laws is
+performed. ",math.AP,B,-0.1935158,-0.1665861,0.03238594
+http://arxiv.org/pdf/2207.05821v1,Some unconditional regularity results for the isentropic Euler equations with $γ= 3$,"We expect one might be able to show a similar result here, and even prove the analogous statement
+that J is codimension 1 rectiﬁable. However, even the Liouville theorem appears to be much more subtle
+than that for the multidimensional scalar case and these problems are left for future work. 1.3. ",math.AP,A,0.23644039,0.25714564,0.01054465
+http://arxiv.org/pdf/2207.05821v2,Unconditional regularity and trace results for the isentropic Euler equations with $γ= 3$,"However, such a result relies upon on the notion of blow-ups at single
+points, which are surprisingly diﬀerent from the notion of blow-ups along Lipschitz curves considered here. Since such an analysis would take us too far aﬁeld, these problems are left for future work. 1.4. ",math.AP,C,0.16832377,-0.017285323,0.06221822
+http://arxiv.org/pdf/2207.06125v1,Traveling waves for a Fisher-type reaction-diffusion equation with a flux in divergence form,"Furthermore, the viscos-
+ity approximations that appear are uniformly elliptical, in which case everything
+seems to work ﬁne. It would appear that the Bertsch-Dal Passo condition (40) prevents this situa-
+tion; but this question will be analyzed in future works. Consider a(u, s) = D(u)φ(s) as in Example 4. ",math.AP,C,0.20479801,-0.1823538,0.17477527
+http://arxiv.org/pdf/2207.06134v1,Geometric analysis of fast-slow PDEs with fold singularities,"While resonances are also observed in the singularly perturbed planar fold [23], the resonant terms di er,
+which is due to us formulating the governing equations in chart 𝐾3 in terms of 𝜀31/3. Furthermore, the higher
+dimensionality of (101), as compared to the equivalent system in their chart 𝐾3, allows for a richer resonance
+
+structure which may be worth exploring in future work. 29
+       e entry section Σi3n,𝑘0 in chart 𝐾3, which is obtained by transformation of the exit section Σo2,u𝑘t0 from 𝐾2, is
+given by
+
+                                      Σi3n,𝑘0 = {(𝑟3, 𝑣1,3, 𝑢𝑘,3, 𝑣𝑘,3, 𝜇3) : 𝜀3 = 𝛿 },                           (102)
+
+where we consider the set of initial conditions
+
+𝑅3 = {(𝑟3, 𝑣1,3, 𝑢𝑘,3, 𝑣𝑘,3, 𝜀3) | 𝑟3 ∈ [0, 𝜌], 𝑣1,3 ∈ [−𝛽, 𝛽], |𝑢𝑘,3| ≤ 𝐶𝑢𝑘,3, |𝑣𝑘,3| ≤ 𝐶𝑣𝑘,3, and 𝜀3 = 𝛿 } ⊂ Σi3n,𝑘0 . ",math.AP,B,-0.06702254,0.027563186,0.18104449
+http://arxiv.org/pdf/2207.06728v1,"$ W^{σ,p}$ A Priori Estimates for Fully Nonlinear Integro-Differential Equations","Hence we obtain an improved constant C˜ = C˜(n, λ, Λ, p) > 0 in
+
+Theorem 3.1 such that      − inf u ≤ C˜σ f + p
+
+                           B1           σ − n/p       L (B1)
+
+for u as in Theorem 3.1. On the other hand, in the case of n = 2, a more detailed
+
+discussion is needed to improve the ABP maximum principle, which we will conduct in
+
+the future work. Let us ﬁrst, construct an approximating equation and its solution, that will be used in
+the proof of Theorem 3.1. ",math.AP,A,0.19744422,0.16389196,-0.1484547
+http://arxiv.org/pdf/2207.07473v1,Approximation Theory of Total Variation Minimization for Data Completion,"Finally, we further connect our error
+analysis to the approximation of data with a sparse gradient and the approximation of underlying two
+dimensional BV functions. For the future work, we plan to establish an approximation from the data on
+the graph via a graph total variation (e.g. [45]). ",math.AP,A,-0.080983244,0.114172354,0.16515172
+http://arxiv.org/pdf/2207.07548v1,Global existence and singularity formation for the generalized Constantin-Lax-Majda equation with dissipation: The real line vs. periodic domains,"A re-
+lated question for the problem on the real line is whether there exists a value
+of σ greater than 2 for which one can guarantee global existence for small data. These questions are left for future work. 9 Acknowledgements
+
+D.M.A. ",math.AP,A,-0.11566734,0.22389221,-0.13512349
+http://arxiv.org/pdf/2207.07702v1,Traveling wave solutions to the inclined or periodic free boundary incompressible Navier-Stokes equations,"By Lemma 2.2,
+there are conﬁgurations of Σ for which Xs(Σ; R) = Hs(Σ; R), in which case we know Xs(Σ; R) is an algebra for
+s > dim Σ/2. In general, though, we only know that Hs(Σ; R) → Xs(Σ; R), so further analysis is required to show
+that Xs(Σ; R) is an algebra. Fortunately, we are able to establish this in Theorem 1.1, which is proved later in
+
+Section 2.2. ",math.AP,A,-0.09774917,0.44823238,-0.15030473
+http://arxiv.org/pdf/2207.07702v2,Traveling wave solutions to the inclined or periodic free boundary incompressible Navier-Stokes equations,"By Lemma 2.2,
+there are conﬁgurations of Σ for which Xs(Σ; R) = Hs(Σ; R), in which case we know Xs(Σ; R) is an algebra for
+s > dim Σ/2. In general, though, we only know that Hs(Σ; R) → Xs(Σ; R), so further analysis is required to show
+that Xs(Σ; R) is an algebra. Fortunately, we are able to establish this in Theorem 1.1, which is proved later in
+
+Section 2.2. ",math.AP,A,-0.09774917,0.44823238,-0.15030473
+http://arxiv.org/pdf/2207.10161v1,Continuum Limit of 2D Fractional Nonlinear Schrödinger Equation,"It is of interest to compare the sharp
+
+decay   rate  of  σ0  =  3  to  that  in  the  discrete         classical       Schr¨odinger    equation      (σ0    =  23 )  and  the   discrete      wave
+                         4
+equation (σ0 = 23 ) at the cost of the best constants blowing up as α → 1+, 2−. As for future work, it is of
+
+interest to extend to the case of mixed fractional derivatives [4] where (3.2) in dimension two, is replaced by
+
+an appropriate discrete analog of
+
+                                                                ∂2        α1               ∂2  α2
+                                                                           2                    2
+                                                           − ∂x2 + − ∂x2 . 1                       2
+
+    By numerical and asymptotic techniques, we will explore the conditions of highly-localized states in the
+discrete models that may relate to ﬁnite-time blow-up solutions in the continuum limit. ",math.AP,B,-0.069078214,-0.09647639,-0.19829328
+http://arxiv.org/pdf/2207.12363v1,Self-similar spirals for the generalized surface quasi-geostrophic equations,"As a ﬁrst step towards the ﬁnite time singularity direction, this paper
+
+aims to construct self-similar solutions, which will have inﬁnite energy. We leave for future work
+
+the transformation of the aforementioned self-similar solutions into ﬁnite energy ones that may
+
+develop a ﬁnite time singularity. 1.1. ",math.AP,B,-0.019286621,-0.15873565,-0.017464245
+http://arxiv.org/pdf/2207.12719v1,Unification of the mathematical model of elastic perfectly plastic solids: a convex analysis approach,"In particular, C is unbounded. The extension to materials not complying with (31) will be
+the subject of future work. MODEL OF ELASTIC PERFECTLY PLASTIC SOLIDS: A CONVEX ANALYSIS APPROACH       7
+
+   This indiﬀerence assumption has a direct implication on the normal and the tangent
+cones. ",math.AP,C,0.05910849,0.025518645,0.13627195
+http://arxiv.org/pdf/2207.12952v1,Mode analysis for the linearized Einstein equations on the Kerr metric : the large $\mathfrak{a}$ case,"In the small a case they
+could be eliminated by constraint dumping, see sections 9 and 10 of [HHV]. We postpone
+the analysis of these generalized modes in the large a case to future work. Remark 7.7. ",math.AP,A,-0.19897076,0.21072325,0.06161026
+http://arxiv.org/pdf/2207.13437v1,Construction of multi-bubble blow-up solutions to the $L^2$-critical half-wave equation,"In fact, due to
+the presence of the strong interaction, we cannot improve the bound to
+
+                             1      L2   =   O(|t|2)  and        Rn(t) L2 = O(|t|3). D 2 Rn(t)
+
+This important fact brings challenge to the further study of the uniqueness problem of the multi-
+bubble solutions. According  to  Theorem    5.1,  {un(t0)}  are   uniformly     bounded      in     H  1   +δ  (R),    thus  there  exists  u0  ∈
+                                                                                        2
+
+H 21 +δ(R) such that for any s ∈ [0, 12 + δ],
+
+                             un(t0) ⇀ u0, weakly in Hs(R), as n → ∞. ",math.AP,C,0.0930787,-0.065751255,-0.120087236
+http://arxiv.org/pdf/2207.14505v2,Existence of quasi-static crack evolution for atomistic systems,"5. Conclusion and future work
+
+   In this paper, we have developed a mathematically sound framework for the evolutionary
+description of brittle fracture on the atomistic level. The proposed model features an energy
+that comprises a memory variable for each pair interaction accounting for the irreversibility of
+the fracture process. ",math.AP,B,-0.36932713,-0.057575714,-0.12593776
+http://arxiv.org/pdf/2207.14613v1,Stability and reconstruction of a special type of anisotropic conductivity in magneto-acoustic tomography with magnetic induction,"It will
+also be interesting to investigate more precisely to what extent the regularity
+assumptions considered in this paper are needed for the convergence of the
+reconstruction algorithm in practice; and the related question of when one needs
+to actually regularize the iterates by invoking the projections into the convex
+set S˜. These questions are the subject of future work. Acknowledgments
+
+The research conducted by N. Donlon and R. Gaburro in this publication was
+funded by the Irish Research Council under the Grant number: GOIPG/2021/527. ",math.AP,A,-0.085443005,0.20434871,0.2759625
+http://arxiv.org/pdf/2207.14764v1,Measure solutions to a kinetic Cucker-Smale model with singular and matrix-valued communication,"The a priori condition is signiﬁcant only as far as uniqueness
+
+is concerned. The possibility of existence of solutions f to the alignment system (1.3) that satisfy
+
+Deﬁnition 2.2 but do not originate from solutions µ in the sense of Deﬁnition 2.6 is uncertain
+
+and requires further study. In such a case the novel conditions (1.8) and (1.9) with negative
+
+exponent seem to play the key role. ",math.AP,B,-0.083000064,0.08253311,-0.08409568
+http://arxiv.org/pdf/2208.00415v1,Partial boundary regularity for the Navier-Stokes equations in irregular domains,"While we expect that methods similarly
+
+to those developed here can also be applied to study Navier–Stokes equations in moving domains (this
+20  DOMINIC BREIT
+
+is already highly non-trivial and requires some additional research), it is not clear if the regularity from
+(66) will be suﬃcient. Some further analysis is required. Compliance with Ethical Standards
+
+Conﬂict of Interest. ",math.AP,C,0.11893907,-0.24855033,0.24213657
+http://arxiv.org/pdf/2208.00415v2,Partial boundary regularity for the Navier-Stokes equations in irregular domains,"While we expect that methods similarly
+
+to those developed here can also be applied to study Navier–Stokes equations in moving domains (this
+
+is already highly non-trivial and requires some additional research), it is not clear if the regularity from
+
+(85) will be suﬃcient. Some further analysis is required. Compliance with Ethical Standards
+
+Conﬂict of Interest. ",math.AP,C,0.13831528,-0.2307165,0.25897762
+http://arxiv.org/pdf/2208.00445v1,Propagation properties in a multi-species SIR reaction-diffusion system,"However, these can be rather intricate
+to compute. We do not plan here to give a complete picture of the qualitative
+properties of the model, we leave it for further study, but we will nevertheless show
+three properties who shed light on some aspects of the system (1.3). First, we shall see that, when several strains can propagate, then the basic repro-
+duction number of each strain does not indicate which one can propagate. ",math.AP,B,-0.3141478,-0.00045036804,0.13898478
+http://arxiv.org/pdf/2208.00456v1,Uniform far-field asymptotics of the two-layered Green function in 2D and application to wave scattering in a two-layered medium,"Moreover, it
+is interesting to study the uniform far-ﬁeld asymptotics of the Green function
+with the background medium consisting of more than two layers. This is more
+challenging and will be considered as a future work. Acknowledgement
+
+This work was partially supported by Beijing Natural Science Foundation
+Z210001, NNSF of China grants 11961141007, 61520106004 and 11871466,
+Microsoft Research of Asia, and Youth Innovation Promotion Association
+CAS. ",math.AP,B,-0.08582932,-0.045229767,0.11474975
+http://arxiv.org/pdf/2208.00541v1,On the reconstruction of unknown driving forces from low-mode observations in the 2D Navier-Stokes Equations,"On the other hand, the analysis performed here inherently takes into account “worst-case”
+scenarios that may saturate various inequalities that were used, but which may occur rarely in reality. This
+direction will be explored in future work. Secondly, the choice of Fourier modes as the form of observations is chosen due to its conceptual and analyt-
+ical convenience. ",math.AP,A,-0.050218586,0.16173832,0.1108219
+http://arxiv.org/pdf/2208.00624v1,Sharp non-uniqueness of weak solutions to 3D magnetohydrodynamic equations,"Main results. The main interest of this paper is to further study the non-uniqueness problem for
+MHD in the following two aspects:
+
+       • Sharp non-uniqueness of weak solutions to MHD (1.1) in the spaces Lγt L∞ x , 1 ≤ γ < 2, which
+          approach the endpoint space L2t L∞ x with respect to the critical LPS condition. • Non-uniqueness of weak solutions to MHD type equations (see (1.5) below) in the highly viscous and
+          resistive regime, particularly, beyond the Lions exponent. ",math.AP,C,0.24602696,-0.14584777,-0.10846791
+http://arxiv.org/pdf/2208.01374v1,Existence and weak-strong uniqueness for global weak solutions for the viscoelastic phase separation model in three space dimensions,"• The separation principle might be obtained by reﬁning the higher entropy estimate in [8]
+         to the used type of mobility. However, this is part of further research. Proof. ",math.AP,B,-0.21596959,-0.03571079,-0.031233216
+http://arxiv.org/pdf/2208.01505v1,Terrace solutions for non-Lipschitz multistable nonlinearities,"We conjecture that the solution of the Cauchy
+problem converges, for a large class of initial data, to such a terrace solution. This will be
+adressed in a future work [7], and it would be a new result even in the bistable case where the
+terrace contains a single traveling wave. This would be consistent with the case of a smooth
+reaction function [4, 6, 8], where some piecewise (or local) convergence of the solution toward
+each of the traveling waves of the propagating terrace was shown. ",math.AP,B,-0.09352178,-0.24974644,0.017737318
+http://arxiv.org/pdf/2208.01586v1,"Two-dimensional Ferronematics, Canonical Harmonic Maps and Minimal Connections","Similarly, there may be non energy-
+minimising critical points with non-orientable and orientable nematic defects, whose locations
+are not minimisers but critical points of the modiﬁed renormalised energy in Theorem 2.1. We
+defer these interesting questions to future work. 6 Conclusions
+
+We study a simpliﬁed model for ferronematics in two-dimensional domains, with Dirichlet bound-
+ary conditions, building on previous work in [14]. ",math.AP,A,0.07063058,0.18641187,0.10344811
+http://arxiv.org/pdf/2208.01945v1,Well-Posedness of a Stochastic Parametrically-Forced Nonlinear Schrödinger Equation,"5. Concluding Remarks
+
+   The well-posedness of the stochastic parametrically-forced NLS equation provides a
+foundation for further research on the eﬀect of noise on the parametrically-forced NLS
+equation. One obvious topic of interest is the stability of solitary wave solutions, in
+particular for the application to optic ﬁbers, where signals are encoded in travelling waves. ",math.AP,B,-0.10379465,-0.1834605,-0.15302522
+http://arxiv.org/pdf/2208.02880v2,"Quantitative steepness, semi-FKPP reactions, and pushmi-pullyu fronts","t
+
+    Interestingly, it seems that analyzing the equations for w and wrcl yields sharp bounds for con-
+vergence rates of u to the traveling wave by using the heuristic ideas outlined above. We plan to
+explore this in a future work. A note on the relationship between the present work and [2]. ",math.AP,B,-0.07253214,-0.12015454,0.1662669
+http://arxiv.org/pdf/2208.03350v1,Well-posedness and applications of classical elastohydrodynamics for a swimming filament,"In Appendix A, we validate the method (90)–(93) against a direct discretization of the classical
+expression (81). A more thorough comparison of diﬀerent numerical implementations of ﬁber
+inextensibility is the intended subject of future work. 4.3. ",math.AP,B,-0.17600434,0.058005124,0.28111428
+http://arxiv.org/pdf/2208.03350v2,Well-posedness and applications of classical elastohydrodynamics for a swimming filament,"In Appendix A, we validate the method (90)–(93) against a direct discretization of the classical
+expression (81). A more thorough comparison of diﬀerent numerical implementations of ﬁber
+inextensibility is the intended subject of future work. 4.3. ",math.AP,B,-0.17600434,0.058005124,0.28111428
+http://arxiv.org/pdf/2208.03546v1,Entropy dissipation estimates for the Boltzmann equation without cut-off,"Their analysis
+
+applies when Φ is bounded below which, strictly speaking, is only the case when γ = 0. For
+
+γ < 0, some further analysis in [1] leads to local estimates restricted to bounded values of
+
+v. For other works on entropy dissipation estimates and their applications, see for instance
+
+[20, 2, 6, 8, 17] and the references therein. In [12, 13], Gressmann and Strain introduce a metric
+
+which captures the anisotropic structure of the Boltzmann operator. ",math.AP,A,0.08477983,0.13554163,-0.18434605
+http://arxiv.org/pdf/2208.03546v2,Entropy dissipation estimates for the Boltzmann equation without cut-off,"Their analysis applies when
+
+Φ is bounded below which, strictly speaking, is only the case when γ = 0. For γ < 0, some further analysis in
+
+[1] leads to local estimates restricted to bounded values of v. For other works on entropy dissipation estimates
+
+and their applications, see for instance [20, 2, 6, 8, 17] and the references therein. In [12, 13], Gressmann and
+
+Strain introduce a metric which captures the anisotropic structure of the Boltzmann operator. ",math.AP,A,0.08477983,0.13554163,-0.18434605
+http://arxiv.org/pdf/2208.03612v1,Some geometric inequalities related to Liouville equation,"Some unsolved problems and remarks
+
+   In this section, we present some unsolved problems related to the results proved in this
+paper. Much further research can be done as a continuation of this paper. The following question is on conformal diameter corresponding to solutions to (0.1). ",math.AP,C,0.20273504,0.08028251,0.14005134
+http://arxiv.org/pdf/2208.04421v2,Bounds on heat transfer by incompressible flows between balanced sources and sinks,"To improve the result, one should use unsteady test functions
+
+ξ(x, t) following theorem 2.1. This leads to a bound with an additional term C |∇∆−1∂tξ|2 in the denominator, the
+
+implications of which we leave to future work. Proof. ",math.AP,C,0.15756348,-0.28748792,-0.09531632
+http://arxiv.org/pdf/2208.04606v1,Comparison principles for the linear and semiliniar time-fractional diffusion equations with the Robin boundary condition,"The proof of Theorem 4.2
+is completed. 27
+    Finally, let us mention one direction for further research in connection with the results
+formulated and proved in this sections. In order to remove the negativity condition posed
+on the coeﬃcient c = c(x, t) in Theorem 4.2 (ii), one needs a unique existence result
+for solutions to the initial-boundary value problems of type (2.4) with non-zero Robin
+boundary condition similar to the one formulated in Theorem 2.1. ",math.AP,C,0.29476368,-0.11824937,-0.23697853
+http://arxiv.org/pdf/2208.05812v1,Asymptotic expansion for convection-dominated transport in a thin graph-like junction,"In particular, we outline the fundamentally diﬀerent limit problems that
+occur for the two diﬀerent ﬂow regimes (two inlets, one outlet or (one inlet, two outlets) and relate them to
+the aforementioned studies on pure network models. Prospects for further research are given. 4                                TARAS MEL’NYK & CHRISTIAN ROHDE
+
+                                                      2. ",math.AP,B,-0.23120984,-0.046557274,0.047687873
+http://arxiv.org/pdf/2208.09794v1,The Dirichlet problem for prescribed curvature equations of $p$-convex hypersurfaces,"In this paper, we are focused on the Dirichlet problem of homogeneous boundary
+data. We shall return to the non-homogeneous boundary case in future work. Now,
+we recall the p-convex cones introduced by Harvey and Lawson [25]. ",math.AP,C,0.26072744,0.04487132,0.17110479
+http://arxiv.org/pdf/2208.10416v1,Approximation Theory of Wavelet Frame Based Image Restoration,"In addition, thanks to the underlying multiresolution analysis
+Approximation Theory of Wavelet Frame Based Image Restoration  24
+
+structure, we further connect the error analysis in the discrete setting to the approximation of underlying
+
+function where the discrete data comes from. For the future works, we plan to study an approximation
+
+property of wavelet frame based image restoration from partial Fourier samples, where A = F (the unitary
+discrete Fourier transform) satisﬁes F ∞ = |Ω|1/2 and σmin(F) = σmax(F) = 1 in our framework. We may
+also plan to establish an approximation of tight frame based missing data restoration on the graph [33], and
+
+the multiresolution approximation of functions on the manifold [35]. ",math.AP,A,-0.009774942,0.19982839,0.2718671
+http://arxiv.org/pdf/2208.10850v1,The Riemann problem for a two-phase mixture hyperbolic system with phase function and multi-component equation of state,"In Section 5 we give some
+interesting examples that may serve as benchmarks for numerical schemes. Finally, we
+draw some conclusions and give an outlook on future work. 2 The model
+
+Let us consider a mixture of N components. ",math.AP,B,-0.16433631,0.09017545,0.24918216
+http://arxiv.org/pdf/2208.11240v1,On the NLS approximation for the nonlinear Klein-Gordon equation,"Unfortunately,
+
+the energy conservation law does not seem to control this procedure straightforwardly. Therefore, it will be left to our future work. 1.1. ",math.AP,B,-0.34853503,-0.109381944,0.07775104
+http://arxiv.org/pdf/2208.11862v1,A General and Unified Method to prove the Existence of Normalized Solutions and some applications,"When f is autonomous and satisﬁes some conditions, (6.1) admits at most one
+positive solution in Wr1a,pd(RN ), see, e.g., [15, 46, 59, 63]. And it is a future work to provide
+non-autonomous cases. 6.2 p-laplace equations in a ball
+
+Consider                                 −∆pu = λu + f (|x|, u), x ∈ BR,
+                                                      u|∂BR = 0,
+                                                                                                                                   (6.4)
+
+where BR = {x ∈ RN : |x| < R}, N ≥ 2, ∆pu = div(|∇u|p−2∇u), p > 1. ",math.AP,C,0.2838645,-0.19246444,-0.11042902
+http://arxiv.org/pdf/2208.12337v1,Multibubble blow-up analysis for the Brezis-Nirenberg problem in three dimensions,"On the other hand, for multiple blow-up in (2.7), we are not aware of a formula
+   analogous to (2.5) for ρa(x0) = 0, not even when a ≡ 0. We believe that our
+   methods can yield such a formula, but we leave this question to future work. Such
+   belief may be justiﬁed by the results in [13], where L∞ single-blow-up asymptotics
+   are obtained for both (1.1) and (2.7) when φa(x0) = 0 by arguments very similar
+   to each other, which are however diﬀerent from the ones employed here. ",math.AP,B,-0.11474112,0.017467856,0.04749263
+http://arxiv.org/pdf/2208.12337v2,Multibubble blow-up analysis for the Brezis-Nirenberg problem in three dimensions,"On the other hand, for multiple blow-up in (2.7), we are not aware of a formula
+   analogous to (2.5) for ρa(x0) = 0, not even when a ≡ 0. We believe that our
+   methods can yield such a formula, but we leave this question to future work. Such
+   belief may be justiﬁed by the results in [14], where L∞ single-blow-up asymptotics
+   are obtained for both (1.1) and (2.7) when φa(x0) = 0 by arguments very similar
+   to each other, which are however diﬀerent from the ones employed here. ",math.AP,B,-0.11382161,0.017855002,0.046104558
+http://arxiv.org/pdf/2208.14335v1,Optimisation of total population in logistic model with nonlocal dispersals and heterogeneous environments,"This remains unknown for local models. We will return to these problems
+in future work. This paper is organized as follows. ",math.AP,B,-0.21253009,0.07964381,0.09488484

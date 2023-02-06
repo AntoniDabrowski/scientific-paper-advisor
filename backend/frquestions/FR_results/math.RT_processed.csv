@@ -1,0 +1,434 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01146v1,A triangular system for local character expansions of Iwahori-spherical representations of general linear groups,"Thus,
+Theorem 1.1 follows from a computation of the triangular basis transition matrix, which
+is a combinatorial exercise handled in Section 2.1. We hope that our result may be extended in future work into a more general un-
+derstanding of the elusive links between Harish-Chandra–Howe character distributions,
+Iwahori–Hecke algebra representation theory and invariants arising from degenerate Whit-
+taker models. In that context we mention a related work of Ciubotaru–Mason-Brown–
+Okada [CMBO21] on the role of Arthur packets in the description of the wavefront set for
+Iwahori-spherical representations. ",math.RT,B,-0.24851191,-0.138719,-0.08120954
+http://arxiv.org/pdf/2201.01998v2,"Cellularity for weighted KLRW algebras of types $B$, $A^{(2)}$, $D^{(2)}$","(b) The construction of the middle is then crucial. This part in noncanonical, although mostly dictated
+      by Remark 4A.1 and we hope to explain a more general approach in future work. Note that
+      additional dots might be necessary to prevent basis elements being annihilated by (3A.3) and to
+      have the analog of Lemma 5C.18. ",math.RT,C,0.027971275,0.20039433,0.054363787
+http://arxiv.org/pdf/2201.03347v1,Homotopy reductions of dg morphism spaces between Rouquier complexes,"Those CW complex and their combinatorics are somehow reminiscent of the
+associahedron
+
+    The homotopy category of the Hecke category is also used in [1] as a modular
+replacement for the mixed derived category of sheaves on the (aﬃne) ﬂag variety. In future work we will apply these same techniques to study morphism spaces
+between objects in this category that correspond to Wakimoto sheaves in the A˜1
+case. These lift the lattice part of the aﬃne Hecke algebra and the understanding
+of their subcategory is a ﬁrst step towards a Bernstein presentation of the aﬃne
+Hecke category. ",math.RT,B,-0.05833283,0.002806943,0.3194626
+http://arxiv.org/pdf/2201.04930v1,Reduction Theorems for Generalised Block Fusion Systems,"This theorem is very useful, since
+
+Bonnaf´e, Dat and Rouquier prove in [2] that the fusion system of an arbitrary block
+of XF is equivalent to the fusion system of a block of NF covering a unipotent block
+of GF in many cases. Thus, Theorem 1.6 will likely ﬁnd applications in future work
+
+concering Conjectures 1.1 and 1.2. In the next section we recall some deﬁnitions and results about fusion systems,
+
+in particular also block fusion systems and generalised block fusion systems. ",math.RT,A,-0.11988343,0.30089736,0.18403384
+http://arxiv.org/pdf/2201.06870v1,RoCK blocks for double covers of symmetric groups and quiver Hecke superalgebras,"However, in the hope of being useful to future study in the area, we prove that the
+derived equivalences in Proposition 5.2.21(ii) give rise to splendid derived equiva-
+lences between blocks. In particular, this will be helpful for any future work on the
+strengthening of Brou´e’s conjecture for double covers from a derived equivalence to
+a splendid derived equivalence. Let G be a ﬁnite group and b a block idempotent of FG with corresponding
+defect group Q ≤ G. A source idempotent of FGb is a primitive idempotent i ∈
+(FGb)Q such that BrQ(i) = 0. ",math.RT,C,0.1000085,0.4743669,0.42816624
+http://arxiv.org/pdf/2201.06870v2,RoCK blocks for double covers of symmetric groups and quiver Hecke superalgebras,"However, in the hope of being useful to future study in the area, we prove that the
+derived equivalences in Proposition 5.2.21(ii) give rise to splendid derived equiva-
+lences between blocks. In particular, this will be helpful for any future work on the
+strengthening of Brou´e’s conjecture for double covers from a derived equivalence to
+a splendid derived equivalence. Let G be a ﬁnite group and b a block idempotent of FG with corresponding
+defect group Q ≤ G. A source idempotent of FGb is a primitive idempotent i ∈
+(FGb)Q such that BrQ(i) = 0. ",math.RT,C,0.1000085,0.4743669,0.42816624
+http://arxiv.org/pdf/2201.06870v3,RoCK blocks for double covers of symmetric groups and quiver Hecke superalgebras,"However, in the hope of being useful to future study in the area, we prove that the
+derived equivalences in Proposition 5.2.21(ii) give rise to splendid derived equiva-
+lences between blocks. In particular, this will be helpful for any future work on the
+strengthening of Brou´e’s conjecture for double covers from a derived equivalence to
+a splendid derived equivalence. Let G be a ﬁnite group and b a block idempotent of FG with corresponding
+defect group Q ≤ G. A source idempotent of FGb is a primitive idempotent i ∈
+(FGb)Q such that BrQ(i) = 0. ",math.RT,C,0.1000085,0.4743669,0.42816624
+http://arxiv.org/pdf/2201.06870v4,RoCK blocks for double covers of symmetric groups and quiver Hecke superalgebras,"However, in the hope of being useful to future study in the area, we prove that the
+derived equivalences in Proposition 5.2.21(ii) give rise to splendid derived equiva-
+lences between blocks. In particular, this will be helpful for any future work on the
+strengthening of Brou´e’s conjecture for double covers from a derived equivalence to
+a splendid derived equivalence. Let G be a ﬁnite group and b a block idempotent of FG with corresponding
+defect group Q ≤ G. A source idempotent of FGb is a primitive idempotent i ∈
+(FGb)Q such that BrQ(i) = 0. ",math.RT,C,0.1000085,0.4743669,0.42816624
+http://arxiv.org/pdf/2202.03098v4,Mock theta functions and characters of N=3 superconformal modules,"Corollary 8.1. When m = 4, the modiﬁed character and supercharacter
+
+    (±)
+
+chH(Λ[K(4),1])(τ, z) are holomorphic functions of (τ, z) ∈ C+ × C.
+
+                                                        (+)
+
+    The modiﬁed character chH(Λ[K(4),0])(τ, z) cannot be obtained by the argu-
+ment in this section, but further analysis via another approach suggests the
+following:
+
+                                       (+)
+
+Conjecture 8.1. chH(Λ[K(4),0])(τ, z) will be written in the form
+
+     (+)                                 1               C1(τ )ϑ01(τ, z)2 + C2(τ )ϑ10(τ, z)2
+chH(Λ[K(4),0])(τ, z) = η( τ2 )η(2τ )                                                                       (8.3)
+
+where  Ci(τ )  are      holomorphic      functions       in   τ  ∈  C+  satisfying        C1  (−  1  )  =  − C2(τ ). τ
+
+9 Honest characters in the case m = 4
+
+For m ∈ N and s ∈ 12 Z, we deﬁne the functions P [m,s](τ, z) and Q[m,s](τ, z) as
+follows:
+
+           P [m,s](τ, z)      :=         Φ  [  m  ,  s]  2τ,  z+ τ,     z− τ,  0                           (9.1a)
+                                               2                                                           (9.1b)
+                                                                    2     2
+
+           Q[m,s](τ, z)       :=         Φ  [  m  ,  s]  2τ,  z + τ − 1,  z − τ + 1,                 0
+                                               2
+                                                                    22         22
+                                                                                                                                                                         34
+
+Lemma 9.1. ",math.RT,A,-0.27564526,0.06348795,-0.2737766
+http://arxiv.org/pdf/2202.08271v1,Modular Products and Modules for Finite Groups,"In particular, we are motivated to ask: Can the twisted Siegel theta lift,
+
+reg               (τ, v+)Fˇ(τ ) dτ1dτ2 ,        (1.4.3)
+
+   Θ(m)
+          D1 ,r1  τ2
+F
+
+that is studied in [BO10], be lifted to the level of G-modules too? We oﬀer this question as a
+focus for future work. 1.5 Overview
+
+The structure of this paper is as follows. ",math.RT,C,-0.023271646,-0.06695298,-0.053973343
+http://arxiv.org/pdf/2202.08277v1,Two New Avatars of Moonshine for the Thompson Group,"We note that the discussion of § 5 of [DHR22a] provides evidence that the TSM construction
+we present here may be generalized so as to invert the application of SQ to the penumbral
+Thompson moonshine module W˘ (−3,1) (and in fact, invert its application to any of the modules
+of penumbral moonshine), and it is on the strength of this that we include an arrow from right
+to left in the bottom of Figure 1. However, we leave the details of this to future work. Two New Avatars of Moonshine for the Thompson Group                                                   13
+
+1.8 Two Questions
+
+Probably the most important question arising from this work is the elucidation of the algebraic
+structures and physical notions that underpin the avatars of Thompson moonshine represented
+in Figure 1. ",math.RT,B,-0.16123088,-0.14431122,0.056825444
+http://arxiv.org/pdf/2202.10192v1,convex characteristics of quaternionic positive definite functions on abelian groups,"So we are
+
+forced to ﬁnd another way to achieve our aims. And we leave the further discussion
+
+on the above approach to the possible future work. We now turn to the ﬁst main question for the group of integers: ‘how to char-
+
+acterize the extreme boundary of the convex set of normalized quaternion-valued
+
+positive deﬁnite functions’. ",math.RT,A,-0.34786484,0.12083369,-0.19875422
+http://arxiv.org/pdf/2202.12022v1,Diagram supermodules for $0$-Hecke-Clifford algebras,"8. Future directions
+
+   We conclude with some directions for future work on diagram modules. 8.1. ",math.RT,C,0.0185301,-0.0764439,0.23730035
+http://arxiv.org/pdf/2203.02137v1,Product structure and regularity theorem for totally nonnegative flag varieties,"The J-total positivity for the full ﬂag variety of any Kac-Moody group will also be applied
+to the study of the total positivity in many other spaces, such as the double ﬂag varieties, the
+Bott-Samelson varieties, the double Bruhat cells and the wonderful compactiﬁcations. This will
+be done in future works. 1.5. ",math.RT,C,-0.059408046,0.061455965,0.09664931
+http://arxiv.org/pdf/2203.03530v1,A geometric model for blocks of Frobenius kernels,"Note that in [ABBGM] the authors provide a third incarnation of the same
+
+category, in terms of perverse sheaves on a semi-inﬁnite aﬃne ﬂag variety. It is likely
+
+that a similar description can be obtained in our setting of positive-characteristic
+
+coeﬃcients; this question will be the subject of future work. 1.5. ",math.RT,C,-0.060801227,0.043165106,0.2585021
+http://arxiv.org/pdf/2203.04190v1,Centres of centralizers of nilpotent elements in Lie superalgebras $\mathfrak{sl}(m|n)$ or $\mathfrak{osp}(m|2n)$,"In this paper, we deal with Lie superalgebras sl(m|n) and osp(m|2n), while the other
+                                         deals with exceptional Lie superalgebras D(2, 1; α), G(3) and F (4). Research on the centralizer and the centre of centralizer of nilpotent elements in simple Lie algebras
+                                         has been developed over the years since Springer [20] considered the centralizer Gu of a unipotent
+                                         element u in a simple algebraic group G. For G is of exceptional type, further study of Gu was carried
+                                         out in [2], [21], [18], [19], [12] and[13]. A description of the structure of the centralizer ge of nilpotent
+                                         elements in classical Lie algebras can be found in Jantzen’s monograph, [8]. ",math.RT,B,-0.07408498,-0.27793717,0.011645336
+http://arxiv.org/pdf/2203.06698v1,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C_centroid,0.6833805,-0.08760844,-0.12703861
+http://arxiv.org/pdf/2203.06698v2,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C,0.6833805,-0.08760844,-0.12703861
+http://arxiv.org/pdf/2203.06698v3,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C,0.6833806,-0.08760838,-0.12703863
+http://arxiv.org/pdf/2203.06698v4,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C,0.6833806,-0.08760838,-0.12703863
+http://arxiv.org/pdf/2203.06698v5,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C,0.6833805,-0.08760844,-0.12703861
+http://arxiv.org/pdf/2203.06698v6,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C,0.6833806,-0.08760838,-0.12703863
+http://arxiv.org/pdf/2203.06698v7,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C,0.6833806,-0.08760838,-0.12703863
+http://arxiv.org/pdf/2203.06698v8,Regularity and stable ranges of FI-modules,"In fact the generation in
+degrees ≤ δk for non-compact manifolds (see Theorem 4.8 and Theorem 4.10) is used
+as an input for Theorem G through the puncture resolution [MW20, Section 3]. I
+intend to treat the existence and consequences of such extra structures on FI-modules
+in more detail in future work. 17
+1.3.3 Congruence subgroups
+
+For every ring R, the assignment n → GLn(R) deﬁnes an FI-group, for which we write
+GL•(R). ",math.RT,C,0.68559724,-0.085353725,-0.1259223
+http://arxiv.org/pdf/2203.08976v1,Infinite rank Hermitian Lattices and Loop Groups,"with
+real groups. The adelic picture will be presented in a future work. 4.1. ",math.RT,B,-0.0067960583,-0.045596063,0.1766573
+http://arxiv.org/pdf/2203.09007v1,A categorification of the Lusztig--Vogan module,"We suspect that the main results of this paper remain
+true for disconnected K, but to prove them one would need to alter the present
+arguments. We intend to explore this further in future work. Choose a maximal torus TK in K, and let WK := NK (TK )/TK be the Weyl
+group of (K, TK ). ",math.RT,C,0.04612388,-0.0030998327,0.12302384
+http://arxiv.org/pdf/2203.09007v2,A categorification of the Lusztig--Vogan module,"We suspect that the main results of this paper remain
+true for disconnected K, but to prove them one would need to alter the present
+arguments. We intend to explore this further in future work. Choose a maximal torus TK in K, and let WK := NK (TK )/TK be the Weyl
+group of (K, TK ). ",math.RT,C,0.04612388,-0.0030998327,0.12302384
+http://arxiv.org/pdf/2203.11563v1,"Gentle algebras arising from surfaces with orbifold points of order 3, Part I: scattering diagrams","11. Final considerations and future work
+
+   The τ -tilting complex of a ﬁnite-dimensional algebra A over an algebraically closed ﬁeld arose from
+the seminal work of Adachi–Iyama–Reiten [AIR14] as the abstract simplicial complex of τ -rigid pairs. Later on, Demonet–Iyama–Jasso [DIJ19] gave a concrete geometric realization of the τ -tilting complex
+as a simplicial fan, and made the observation that the rays of this τ -tilting fan are precisely the rays
+spanned by the g-vectors of the indecomposable τ -rigid pairs of A. ",math.RT,B,-0.19232164,-0.21876115,0.17627676
+http://arxiv.org/pdf/2203.11563v2,"Gentle algebras arising from surfaces with orbifold points of order 3, Part I: scattering diagrams","12. Final considerations and future work
+
+   The τ -tilting complex of a ﬁnite-dimensional algebra A over an algebraically closed ﬁeld arose from
+the seminal work of Adachi–Iyama–Reiten [AIR14] as the abstract simplicial complex of τ -rigid pairs. Later on, Demonet–Iyama–Jasso [DIJ19] gave a concrete geometric realization of the τ -tilting complex
+as a simplicial fan, and made the observation that the rays of this τ -tilting fan are precisely the rays
+spanned by the g-vectors of the indecomposable τ -rigid pairs of A. ",math.RT,B,-0.19217925,-0.22345093,0.17503664
+http://arxiv.org/pdf/2203.12429v1,Lie algebra actions on module categories for truncated shifted Yangians,"This equivalence is
+far from unique; it depends on several choices, and at the moment it is not clear how to tweak
+all the choices involved to assure that we obtain the equivalence induced by the isomorphism
+of [KN18]. This is a question we will return to in future work. 1.5. ",math.RT,C,0.014970925,0.1711287,0.16494852
+http://arxiv.org/pdf/2203.14422v1,Principal Specialization of Monomial Symmetric Polynomials and Group Determinants of Cyclic Groups,"We give proofs of main theorems and some remarks in Section 4. Finally, we
+mention some future works related to some non-vanishing properties of mλ(ζ(n,k)) and the
+numbers of terms of the group determinant. 2 A generating function of mλ(ζ(n,k)) and a reduction
+     formula
+
+First we mention the dual Cauchy kernel formula [10, Chapter I (4.2′)]. ",math.RT,A,-0.08394558,0.063491546,-0.21852434
+http://arxiv.org/pdf/2203.15139v1,On Generalized blob algebras: Vertical idempotent truncations and Gelfand-Tsetlin subalgebras,"In this
+article we obtained not semisimple examples where the relation still works. This opens the following question, that we expect, to be answered in future works:
+
+    Given i ∈ Iem, an arbitrary κ−blob possible residue sequence:
+
+Q: Is the dimension of the Gelfand-Tsetlin subalgebra of Bm(i) equal to the number of (one-column)
+       standard tableaux with residue sequence i? References
+
+[1] A. Bj¨orner, F. Brenti, Cobinatorics of Coxeter Groups, Graduate Text in Mathematics, Springer
+     Science+Business Media, Inc. 2005. ",math.RT,C,-0.043388426,0.09242363,-0.063411854
+http://arxiv.org/pdf/2203.15139v2,On Generalized blob algebras: Vertical idempotent truncations and Gelfand-Tsetlin subalgebras,"In this
+article we obtained not semisimple examples where the relation still works. This opens the following question, that we expect, to be answered in future works:
+
+    Given i ∈ Iem, an arbitrary κ−blob possible residue sequence:
+
+Q: Is the dimension of the Gelfand-Tsetlin subalgebra of Bm(i) equal to the number of (one-column)
+       standard tableaux with residue sequence i? 39
+References
+
+[1] A. Bjo¨rner, F. Brenti, Cobinatorics of Coxeter Groups, Graduate Text in Mathematics, Springer
+     Science+Business Media, Inc. 2005. ",math.RT,C,-0.043036573,0.09094474,-0.06546596
+http://arxiv.org/pdf/2204.00775v1,"Class Numbers, Cyclic Simple Groups and Arithmetic","the introduction to [47]) to repre-
+sentations of the Mathieu group M11 in [8], and establish M23-based interdependencies between
+the arithmetic-geometric invariants of elliptic curves of diﬀerent (coprime) levels in [9]. We conclude by highlighting three problems for future work. The ﬁrst of these is the classi-
+ﬁcation of optimal modules for other ﬁnite groups. ",math.RT,A,-0.033199593,0.14090925,-0.15282628
+http://arxiv.org/pdf/2204.04123v1,Generalized Schur-Weyl dualities for quantum affine symmetric pairs and orientifold KLR algebras,"Preliminary computations in rank one conﬁrm this expectation. The properties of θF
+
+will be further explored in future work. ▽
+
+         References
+
+[AR95]   J. Abad, M. Rios, Non-diagonal solutions to reﬂection equations in su(n) spin chains,
+[ATL19]  Phys. ",math.RT,A,-0.28711382,0.102041185,-0.30028203
+http://arxiv.org/pdf/2204.04123v2,Generalized Schur-Weyl dualities for quantum affine symmetric pairs and orientifold KLR algebras,"6.3.1). In Section 7, we further study the K-
+matrix operators for oKLR algebra corresponding to the quiver A∞ with no framing
+and no ﬁxed point and provide explicit formulae for modules associated to segments. In Section 8, we construct an isomorphism `a la Brundan-Kleshchev-Rouquier (BKR)
+between suitable completions of oKLR algebras and aﬃne Hecke algebras of type C
+(Thm. ",math.RT,B,-0.06771709,-0.13580588,0.04133065
+http://arxiv.org/pdf/2204.04526v1,Oligomorphic groups and tensor categories,"One can give a combinatorial rule for how to
+
+multiply strings. We think this could be an interesting algebra for further study. Next, let M = C(R) and consider End(M⊗n). ",math.RT,B,-0.27768737,-0.23110719,-0.10817568
+http://arxiv.org/pdf/2204.05048v1,On the Duflo-Serganova functor for the queer Lie superalgebra,"Outlook for higher rank elements. One of the central unanswered questions that
+we leave to future work is the computation of composition factors and multiplicities of
+DSx(L(λ)) for x of rank bigger than 1. In particular it is of interest to understand to what
+extent a version of the (generalized) Kac-Wakimoto conjecture, proven in [26] for Kac-
+Moody Lie superalgebras, holds for qn. ",math.RT,C,-0.06401943,-0.028296778,-0.1530449
+http://arxiv.org/pdf/2204.05048v2,On the Duflo-Serganova functor for the queer Lie superalgebra,"Outlook for higher rank elements. One of the central unanswered questions
+that we leave to future work is the computation of composition factors and multiplicities
+of DSx(L(λ)) for x of rank bigger than 1. Unlike in the Kac-Moody cases, where one only
+has to look at those x with [x, x] = 0 (see Remark 1.2.1), for qn (as previously mentioned)
+we may obtain very diﬀerent results for elements in gs1s lying in distinct G0 = GL(n)-orbits
+(see Section 3.1 for a description of these orbits). ",math.RT,C,-0.019375997,0.008172538,-0.12264084
+http://arxiv.org/pdf/2204.10118v1,Regular Functions on the K-Nilpotent Cone,"In fact, this map arises as the ‘associated
+graded’ of a map from representations of G (regarded as a real group) to representations of
+GR (see Remark 3.0.8 for more details). We will pursue this point in future work. 1.1. ",math.RT,B,0.015333787,-0.25361487,0.18987805
+http://arxiv.org/pdf/2204.13053v1,"Genuine pro-$p$ Iwahori--Hecke algebras, Gelfand--Graev representations, and some applications","For SL2, we essentially realized this by
+using Lemma 6.7. We hope to return to this problem in a future work. 7. ",math.RT,C,-0.022216216,0.1629032,0.04614295
+http://arxiv.org/pdf/2205.07046v1,How to superize $\mathfrak{gl}(\infty)$,"Completely
+                                                    diﬀerent new types of super versions of gl(∞) are introduced in this paper: these are Lie
+                                                    superalgebras of supermatrices inﬁnite in all directions with non-zero elements of each matrix
+                                                    occupying a region around the main diagonal bounded by certain curves, not straight ligns. Several open questions related with further study of the Lie superalgebras introduced and
+                                                    with their possible applications to dynamical systems, such as KdV, are formulated. §1. ",math.RT,B,-0.16756785,-0.1842363,-0.19833681
+http://arxiv.org/pdf/2205.13986v2,On strict polynomial functors with bounded domain,"We also
+                                          introduce in Section 3 a certain duality, which is closely related to the monoidal duality
+
+                                                                                                  1
+for GLn-modules, though it seems not to have any counterpart for Pd. We think of our
+work as the starting point for a systematic study of functor categories in “the unstable
+case” and we hope to develop our investigations in future works. Now we brieﬂy describe the contents of the article. ",math.RT,B,-0.09383461,-0.14732395,0.25496423
+http://arxiv.org/pdf/2205.15487v1,Multi-layer quivers and higher slice algebras,"The representation theory of Λ and Γ are related to the morphism
+categories Morn(Λ) and Morn(Γ) (see [33, 10]). We leave further study of the representation theory of multi-layer quivers and
+algebras in the future. 7. ",math.RT,B,-0.20199123,-0.35156792,0.18763158
+http://arxiv.org/pdf/2206.00175v1,The coarse quotient for affine Weyl groups and pseudo-reflection groups,"This restricted parabolic induction functor can also
+
+be used to better understand character D-modules on G, and was used to prove a conjecture of Braverman
+
+and Kazhdan on the acyclicity of ρ-Bessel sheaves on reductive groups, see [Che22] and [Che21]. In future work [Gan22], we will argue that t∗ W˜ aﬀ plays an analogous role in the study of D(N \G/N )
+
+as t∗ W plays in the study of D(B\G/B), see Section 1.3.1. Theorem 1.14. ",math.RT,C,0.053837176,-0.1133163,-0.005875388
+http://arxiv.org/pdf/2206.00183v1,Certain complex representations of $SL_2(\bar{\mathbb{F}}_q)$,"However the representation M he constructed in [3] is not in the
+category C (SL2(F¯q)). Therefore, for general reductive algebraic group G,
+the category C (G) may be a good category for further study. Acknowledgements. ",math.RT,B,-0.11578062,-0.3427536,0.20355053
+http://arxiv.org/pdf/2206.00183v2,Certain complex representations of $SL_2(\bar{\mathbb{F}}_q)$,"However the representation M he constructed in [3] is not in the
+category C (SL2(F¯q)). Therefore, for general reductive algebraic group G,
+the category C (G) may be a good category for further study. Acknowledgements. ",math.RT,B,-0.11578062,-0.3427536,0.20355053
+http://arxiv.org/pdf/2206.02939v1,The Farahat-Higman Algebra of Centralizers of Symmetric Group Algebras,"over R as opposed
+to its ﬁeld of fractions Q(t)). The hope is that this will allow FHm to remain open as a tool for investigating
+the modular representations of Zn,m in future work. The structure of the paper is as follows: Section 2 proves some technical results regarding the cardinalities
+of certain orbits. ",math.RT,A,-0.09095214,0.16076343,-0.3494727
+http://arxiv.org/pdf/2206.05667v1,The Degenerate Principal Series Representations of Exceptional Groups of Type $E_8$ over $p$-adic Fields,"In order to answer the above questions, we use the algorithm described in [HSa, Section 3]
+and [HSb, Section 3]. This provides an answer to both questions for almost all pairs (P, Ω)
+For the remaining cases, not determined by the algorithm, further study is performed in
+Section 4. This project uses a script implemented in the Sagemath environment [TheYY]. ",math.RT,A,-0.32068646,0.29500514,-0.21997273
+http://arxiv.org/pdf/2206.09035v3,Homological Mirror Symmetry for the universal centralizers,"Alternatively, one can use microlocal sheaf theory on the
+Lagrangian skeleton, but we don’t know how to realize this by a “geometric”
+correspondence without appealing to the main theorem. We defer the study
+for a future work. Further desired results along this line would be to show
+that the restriction functors for sector inclusions are naturally symmetric
+monoidal, and there are natural compatibilities between compositions of
+restrictions as symmetric monoidal functors. ",math.RT,C,0.0070238234,-0.006485493,0.13545373
+http://arxiv.org/pdf/2206.09394v1,Clifford's theorem for orbit categories,"He replaced the action of the
+group Γ by the Grothendieck construction [2]. We are not yet able to generalise Theorem 5.9 in this
+direction ut we intend to do so in future work. Acknowledgement: I wish to thank Javad Assadollahi for having invited me to the CIMPA UI IPM
+Isfahan school and conference on representations of algebras in April 2019 in Isfahan, Iran and to
+Hideto Asashiba with whom I had the chance to discuss topics on his lecture [2]. ",math.RT,B_centroid,0.011809432,-0.2230444,0.18223734
+http://arxiv.org/pdf/2207.00638v1,On rationality of $\mathbb{C}$-graded vertex algebras and applications to Weyl vertex algebras under conformal flow,"6. Summary of applications and future work
+
+       In this work, we classiﬁed the C-graded conformal structures associated to the Weyl vertex
+algebra. Moreover, we showed that a large family of this vertex algebras admit a unique irreducible
+“admissible” module in the appropriate sense. ",math.RT,B,-0.047926757,-0.26378652,0.0010382992
+http://arxiv.org/pdf/2207.04644v1,Mock theta functions and characters of N=3 superconformal modules III,"The characters of N=3 superconformal modules are obtained in [13] but we need to have
+                                          more information about them for our study on the branching of tensor product representations. For this sake, in section 4, we make further analysis on the numerators of N=3 characters. Making use of the results obtained in section 4, we discuss about the products of N=3 characters
+                                          in section 5. ",math.RT,B,-0.23758024,-0.2662056,-0.19555977
+http://arxiv.org/pdf/2207.04644v2,Mock theta functions and characters of N=3 superconformal modules III,"The characters of N=3 superconformal modules are obtained in [13] but we need to have
+                                          more information about them for our study on the branching of tensor product representations. For this sake, in section 4, we make further analysis on the numerators of N=3 characters. Making use of the results obtained in section 4, we discuss about the products of N=3 characters
+                                          in section 5. ",math.RT,B,-0.23758024,-0.2662056,-0.19555977
+http://arxiv.org/pdf/2207.04700v1,Arithmetic Wavefront Sets and Generic $L$-packets,"It will be interesting and important to understand
+the F -rational structure of the whole wavefront set WFa(ϕ, χ, q). This is completely given in
+Theorem 7.14 and Theorem 9.2 when F = R.
+
+   When F is non-archimedean, we are able to verify both Conjectures 5.9 and 5.11 for some
+families of cases in this paper (Section 5.5 and Section B) and will leave the general situation
+of those conjectures and the problem on the relevant F -rational structures for our future work. 5.3. ",math.RT,A,-0.09807339,0.26867664,-0.086946234
+http://arxiv.org/pdf/2207.04700v2,Arithmetic Wavefront Sets and Generic $L$-packets,"The
+main contribution of this paper is to set up the theory on the arithmetic side, which can be
+completely proved for the archimedean case. The non-archimedean case remains to be done,
+which will be considered in our future work. Meanwhile, it is possible to extend our theory
+from generic L-parameters to more general local L-parameters, which is the case through
+our calculation of some special cases. ",math.RT,A,-0.21080528,0.29381245,-0.23683557
+http://arxiv.org/pdf/2207.11663v1,Computation of weighted Bergman inner products on bounded symmetric domains and Parseval--Plancherel-type formulas under subgroups,"When p+ = C, it is proved in [31, Theorem 9.1] by the F-method that HomG(Oλ(D) ⊗ˆ
+Oµ(D), Oλ+µ+2k(D)) is precisely 2-dimensional if (λ, µ) ∈ Z1k,,1d, and precisely 1-dimensional
+otherwise. For general p+, we need further study to determine the precise dimension of
+this space. Also, for (λ, µ) ∈ Zrk,,rd ∪ Zrk,,1d ∪ Z1k,,rd, we can consider an analogue of [31,
+                                                                                                               n     Z≥2
+Theorem        9.2]      as    follows. ",math.RT,A,-0.1091101,0.4708298,-0.2967081
+http://arxiv.org/pdf/2207.11663v2,Computation of weighted Bergman inner products on bounded symmetric domains and Parseval--Plancherel-type formulas under subgroups,"When p+ = C, it is proved in [33, Theorem 9.1] by the F-method that HomG(Oλ(D) ⊗ˆ
+Oµ(D), Oλ+µ+2k(D)) is precisely 2-dimensional if (λ, µ) ∈ Z1k,,1d, and precisely 1-dimensional
+otherwise. For general p+, we need further study to determine the precise dimension of
+this space. Also, for (λ, µ) ∈ Zrk,,rd ∪ Zrk,,1d ∪ Z1k,,rd, we can consider an analogue of [33,
+                                                                                                               n     Z≥2
+Theorem        9.2]      as    follows. ",math.RT,A_centroid,-0.11322937,0.4708651,-0.3026377
+http://arxiv.org/pdf/2207.11663v3,Computation of weighted Bergman inner products on bounded symmetric domains and Parseval--Plancherel-type formulas under subgroups,"When p+ = C, it is proved in [33, Theorem 9.1] by the F-method that HomG(Oλ(D) ⊗ˆ
+Oµ(D), Oλ+µ+2k(D)) is precisely 2-dimensional if (λ, µ) ∈ Z1k,,1d, and precisely 1-dimensional
+otherwise. For general p+, we need further study to determine the precise dimension of
+this space. Also, for (λ, µ) ∈ Zrk,,rd ∪ Zrk,,1d ∪ Z1k,,rd, we can consider an analogue of [33,
+                                                                                                               n     Z≥2
+Theorem        9.2]      as    follows. ",math.RT,A,-0.11322937,0.4708651,-0.3026377
+http://arxiv.org/pdf/2207.12818v1,"A new regularized Siegel-Weil type formula, part I","Similarly, we can write theta representations
+corresponding to τ , self-dual and cuspidal, on split orthogonal groups, general lin-
+
+ear groups and also on higher covers of all the groups above, and outline a similar
+
+program. We will deal with these in future works. 11
+   We ﬁnish this introduction with two facts that we need on the representations
+
+Θ∆(τ,m). ",math.RT,B,-0.19050205,-0.25165826,0.016762521
+http://arxiv.org/pdf/2207.13484v1,Equal rank local theta correspondence as a strong Morita equivalence,"To extend the above transfer formula beyond these ideals, various convergence issues in the theory
+of operators on Hilbert C∗-modules need to be addressed. This is subject of further research. Investigations on the question of how characters of representations relate, if at all, under the
+theta correspondence go back to the late 1980s. ",math.RT,B,-0.2932462,-0.25113976,-0.12403087
+http://arxiv.org/pdf/2207.13484v2,Equal rank local theta correspondence as a strong Morita equivalence,"To extend the above transfer formula beyond these ideals, various convergence issues in the theory
+of operators on Hilbert C∗-modules need to be addressed. This is subject of further research. Investigations on the question of how characters of representations relate, if at all, under the
+theta correspondence go back to the late 1980s. ",math.RT,B,-0.2932462,-0.25113976,-0.12403087
+http://arxiv.org/pdf/2208.01665v1,K-theory Soergel Bimodules,"We are hence in the funny situation of having
+4  K-THEORY SOERGEL BIMODULES
+
+a categoriﬁcation of a categoriﬁcation of the Weyl group! We will explore the
+implications in a future work. 1.6.2. ",math.RT,B,-0.1161164,-0.22708079,0.16189755
+http://arxiv.org/pdf/2208.02308v1,Fourier-Jacobi models of Deligne-Lusztig characters and depth zero local descent for unitary groups,"The approach of this paper was ﬁrst used in [LMNW], a work in progress, to study the
+depth zero local descent for p-adic special orthogonal groups in the sense of [JNQ], where the
+upshot was to extend the descent method beyond the supercuspidal case and thereby give more
+examples for the non-tempered Gan-Gross-Prasad conjecture. In future works, we also hope to
+extend the current paper and [LMNW] to representations of positive depth. 1.3. ",math.RT,C,-0.0034110285,0.081024036,-0.13982444
+http://arxiv.org/pdf/2208.05689v2,Implementations of homological blocks by VOA-modules I,"ǫN−3                  η(q)
+
+    m≥0           ǫ0 ,...,ǫN −3 ∈{±1}
+
+   By considering an appropriate linear combination with respect to the parameter
+λ in the right hand side of (43), we obtain [MTer, Deﬁnition 2.1]. 4. future works
+
+      • From the expression of the homological blocks of plumbed homology spheres
+         in [Mur, Proposition 4.2], the author expects that the techniques in this
+         paper will be generalized to plumbed homology spheres. Namely, let us
+         consider the lattice VOA and its irreducible modules associated with the
+         rank S × rank g lattice, whose inner product is deﬁned by S (see [Mur, Sec-
+         tion 2.2]) and g, and apply H0(G×B?) ",math.RT,C,0.03549201,0.046827316,-0.012659454
+http://arxiv.org/pdf/2208.05813v1,"Stiefel-Whitney Classes of Representations of $\text{SL}(2,q)$","(Here 1 is the identity matrix.) In future work, these two theorems will be applied to determine SWCs of other
+ﬁnite groups of Lie type. The case of q even is quite diﬀerent. ",math.RT,B,-0.10339786,-0.01898268,0.061073937
+http://arxiv.org/pdf/2208.09866v1,Ghost distributions on supersymmetric spaces II: basic classical superalgebras,"We obtain only two families of special pairs, namely (gl(m|2n), osp(m|2n))
+and (osp(2|2n), osp(1|2s) × osp(1|2n − 2s)). Nevertheless these spaces are of interest to
+understand and their extra structure warrants a further study. Set Aut(g, g0) to be those automorphisms of g which ﬁx g0 pointwise. ",math.RT,B,-0.110430285,-0.027703036,0.042439617

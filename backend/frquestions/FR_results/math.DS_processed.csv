@@ -1,0 +1,1300 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00152v1,On structure theorems and non-saturated examples,"It is known that
+                                                   the maximal d-step pro-nilfactor of Nd(X ) is Nd(Xd), where Xd is the maximal d-step
+                                                   pro-nilfactor of X. In this paper, we further study the structure of Nd(X ). We show that the maximal distal
+                                                   factor of Nd(X ) is Nd(Xdis) with Xdis being the maximal distal factor of X , and prove that
+                                                   as minimal systems (Nd(X ), Gd(T )) has the same structure theorem as (X , T ). ",math.DS,C,0.1717658,-0.10028706,-0.068861745
+http://arxiv.org/pdf/2201.02355v1,Projective Embedding of Dynamical Systems: uniform mean field equations,"Since maxima can be turned into saddle points, gener-
+ically there cannot be no “barriers” when the target system is a gradient descent. However, as we will show formally in future works, in order to obtain the rumbling
+transitions, one has to go beyond the uniform mean ﬁeld approximation and study a
+more general type of projector. Clearly, the projective embedding studied in this paper can be employed in a variety
+of dynamical systems, including all sort of gradient-based dynamics, with applicability
+to machine learning and neural networks. ",math.DS,B,-0.20623942,-0.041325387,-0.119214125
+http://arxiv.org/pdf/2201.02702v1,"An Improved Mathematical Model of Sepsis: Modeling, Bifurcation Analysis, and Optimal Control Study for Complex Nonlinear Infectious Disease System","As the healthcare field
+develops, the mathematical study and optimal control research of sepsis will continue to grow. To better express sepsis
+via mathematical model, and propose more effective optimization algorithm for providing the optimal control strategy
+to improve quality of clinic therapy or reduce the mortality of sepsis, are both our further research directions. Reference
+
+1. ",math.DS,B,-0.36093006,-0.2185086,-0.32241935
+http://arxiv.org/pdf/2201.04745v1,Furstenberg Theory of Mixed Random-Quasiperiodic Cocycles,"Moreover, we also establish the uniform convergence to the Lya-
+                                          punov exponent of the expected value (in the random component) of
+                                          the geometric averages of the iterates of the cocycle. Together with
+                                          the aforementioned results of Furstenberg’s theory, this forms the basis
+
+                                                                                                     1
+2  A. CAI, P. DUARTE, AND S. KLEIN
+
+for the study of the statistical properties of the iterates of such mixed
+cocycles, which will be considered in a future work. A relevant example of mixed random-quasiperiodic cocycle arises
+
+from considering certain discrete Schro¨dinger operators, which repre-
+
+sent an important motivation for this work. ",math.DS,C,0.15340088,-0.096894525,0.36491185
+http://arxiv.org/pdf/2201.04745v2,Furstenberg Theory of Mixed Random-Quasiperiodic Cocycles,"Moreover, we also establish the uniform convergence to the Lya-
+punov exponent of the expected value (in the random component) of
+the geometric averages of the iterates of the cocycle. Together with
+the aforementioned results of Furstenberg’s theory, this forms the basis
+for the study of the statistical properties of the iterates of such mixed
+cocycles, which will be considered in a future work. A relevant example of mixed random-quasiperiodic cocycle arises
+
+from considering certain discrete Schro¨dinger operators, which repre-
+
+sent an important motivation for this work. ",math.DS,C,0.14058624,-0.10752655,0.37501097
+http://arxiv.org/pdf/2201.05321v1,On global behavior of a some SIR epidemic model based on the Poincaré compactification,"Also, this method is not immediately applicable to non-polynomial vector
+ﬁelds in 2D system (for instance, see [3]). Since these problems are technical issues, their
+resolution will be future works. Acknowledgments
+
+The author was partially supported by JSPS KAKENHI Grant Number JP21J20035. ",math.DS,B,0.04751535,0.028111348,-0.3663664
+http://arxiv.org/pdf/2201.06590v1,Control of port-Hamiltonian differential-algebraic systems and applications,"Another research area is the perturbation theory for the
+problems and the error analysis of the relevant numerical methods. As we have seen, also the area of optimal control for pHDAE systems requires a lot
+of further research. This concerns, in particular, the optimal use of the structure for
+nonlinear systems, the choice of an appropriate cost functional, and also structure-preserving
+numerical methods in particular for large-scale problems. ",math.DS,B,-0.31246987,0.106358476,-0.28292975
+http://arxiv.org/pdf/2201.06996v1,Discrete Geometric Singular Perturbation Theory,"A detailed treatment of the codimension-1 singularities, i.e. the fast-slow fold,
+
+ﬂip/period-doubling and Neimark-Sacker/torus singularities, in the low dimensional setting using
+
+DGSPT in combination with adaptations of the geometric blow-up technique constitutes very recent,
+
+ongoing and future work. 7 Acknowledgements
+
+SJ and CK acknowledge funding from the SFB/TRR 109 Discretization and Geometry in Dynamics
+grant. ",math.DS,A,0.17006639,0.4143439,-0.13290048
+http://arxiv.org/pdf/2201.06996v2,Discrete Geometric Singular Perturbation Theory,"A detailed treatment of the codimension-1 singularities, i.e. the fast-slow fold,
+
+ﬂip/period-doubling and Neimark-Sacker/torus singularities, in the low dimensional setting using
+
+                                                    52
+                          Discrete Geometric Singular Perturbation Theory
+
+DGSPT in combination with adaptations of the geometric blow-up technique constitutes very recent,
+ongoing and future work. 7 Acknowledgements
+
+SJ and CK acknowledge funding from the SFB/TRR 109 Discretization and Geometry in Dynamics
+grant. ",math.DS,A,0.15644789,0.41792515,-0.11564721
+http://arxiv.org/pdf/2201.06996v3,Discrete Geometric Singular Perturbation Theory,"A detailed treatment of the codimension-1 singularities, i.e. the fast-slow fold,
+
+ﬂip/period-doubling and Neimark-Sacker/torus singularities, in the low dimensional setting using
+
+                                                    52
+            Discrete Geometric Singular Perturbation Theory
+
+DGSPT in combination with adaptations of the geometric blow-up technique constitutes very recent,
+ongoing and future work. 7 Acknowledgements
+
+SJ and CK acknowledge funding from the SFB/TRR 109 Discretization and Geometry in Dynamics
+grant. ",math.DS,A,0.15644789,0.41792515,-0.11564721
+http://arxiv.org/pdf/2201.07953v1,Shape-morphing reduced-order models for nonlinear Schrodinger equations,"These
+observations demonstrate the superiority of RONS for reduced-order modeling
+of nonlinear dispersive waves. For future work, we would like to explore more general cases where RONS
+and the reduced Lagrangian approach coincide. We have provided suﬃcient
+conditions in Corollary 1, but determining necessary conditions for when the
+two methods coincide would likely be insightful and grant a deeper understand-
+ing of both modeling approaches. ",math.DS,B,-0.18177506,0.03666096,-0.2831104
+http://arxiv.org/pdf/2201.07953v2,Shape-morphing reduced-order models for nonlinear Schrodinger equations,"For both NLS and MNLS, the RONS reduced-            reduced-order modeling of nonlinear dispersive waves. order models correctly predict whether initial condi-
+tions will lead to focusing or defocusing waves and ap-        For future work, we would like to explore more gen-
+proximately capture the amplitude and time of the wave     eral cases where RONS and the reduced Lagrangian ap-
+peaks. Additionally, reduced solutions from RONS per-      proach coincide. ",math.DS,B,-0.20999554,0.07540589,-0.22817782
+http://arxiv.org/pdf/2201.08428v3,Reaction Network Motifs for Static and Dynamic Absolute Concentration Robustness,"For instance, a surprising possibility revealed from the study of small motifs was that of weak
+dynamic ACR, where every trajectory monotonically approaches a hyperplane while simultaneously
+failing to converge (see Figure 3(b)). In future work, we study dynamic ACR in more complex, biochemically realistic systems such as
+bacterial two-component signaling systems, a class that encompasses several thousands of systems
+[1, 6, 2, 7, 24, 25]. Moreover, we study consequences of dynamic ACR. ",math.DS,B,-0.14416718,0.07192828,0.19832602
+http://arxiv.org/pdf/2201.08942v1,Dynamic Modeling Of Spherical Variable-Shape Wave Energy Converters,"While radiation fores are important to model for accurate simulation of a given WEC, the focus of this study is
+
+the dynamic modeling of a VSB WEC, and the comparison between the VSB and FSB; for the purpose of this study
+
+the radiation forces can be neglected. In future work, the radiation forces will be included. Hence, here the generalized
+
+hydro force is the summation of the generalized excitation and the generalized hydrostatic force (or buoyant force). ",math.DS,B,-0.1963562,-0.02730014,-0.35818774
+http://arxiv.org/pdf/2201.08942v2,Dynamic Modeling Of Spherical Variable-Shape Wave Energy Converters,"increase in the harvested energy of a VSB WEC compared to
+a FSB WEC. The VSWEC0 harvests 59% more energy with                    For future work, one-way and two-way FSI investigations
+reference to the FSB WEC; the VSWEC and the VBWECπ/2                are required to examine the hydrodynamic performance of
+harvested 57% and 22.8% more energy, respectively. The              the VSB WECs in realistic regular and irregular waves en-
+discussion of the effect of material properties on the VSB          vironment; in these FSI model, the developed dynamic model
+WEC is beyond the scope of the current article; however, it is      would be coupled with a ﬂuid solver (e.g., OpenFoam, Nemoh,
+worth noting that several values of the modulus of elasticity       WAMIT) such that at every time step the deformed geometry
+were tested, and it is observed that the softer the buoy material,  is exported to the ﬂuid solver where the pressure distribution
+the more energy is harvested from the waves. ",math.DS,B,-0.1807082,-0.045405574,-0.3172535
+http://arxiv.org/pdf/2201.09219v1,Permutation Binary Neural Networks: Analysis of Periodic Orbits and Its Applications,"Using the tools, all the 6-dimensionl PBNNs have been analyzed and
+typical MBPOs are conﬁrmed experimentally. In our future works, we should con-
+sider various problems including the following. 1. ",math.DS,B,-0.02783811,-0.05496168,-0.18156701
+http://arxiv.org/pdf/2201.11256v2,Structural sensitivity in the functional responses of predator-prey models,"Using a diﬀerent distribution can change the shape and depth of potential wells,
+and thus produce diﬀerent stability properties (Sharma et al., 2015). We do not, however, study other stochastic
+distributions here and leave this investigation for future work. White noise is widely used in studies of stochastic models (van der Bolt et al., 2018). ",math.DS,B,-0.19781327,-0.28107145,-0.010182002
+http://arxiv.org/pdf/2201.13105v1,Splitting reactions preserves nondegenerate behaviours in chemical reaction networks,"In a related direction, the
+techniques of perturbation theory permit us to make claims on the inheritance of nondegenerate local
+bifurcations when we enlarge CRNs. These themes will be explored in future work. Theorem 2 also suggests extensions to the algorithmic work in [6]. ",math.DS,A,-0.078281865,0.35516644,0.13910025
+http://arxiv.org/pdf/2202.00223v1,Characterizing Oscillations in Heterogeneous Populations of Coordinators and Anticoordinators,"1511, pp. 3875–3886, 2008.
+dynamics to data remain as future work. [12] D. Lee, “Game theory and neural basis of social decision making,”
+                               APPENDIX                                               Nature neuroscience, vol. ",math.DS,B,-0.3148138,-0.21977921,0.16654165
+http://arxiv.org/pdf/2202.00223v2,Characterizing Oscillations in Heterogeneous Populations of Coordinators and Anticoordinators,"130–156, 1998.
+desired outcome where the oscillations are settled or modi-
+ﬁed. Designing the control algorithms as well as ﬁtting the         [11] J. Barreiro-Gomez and H. Tembine, “Constrained evolutionary games
+dynamics to data remain as future work. by using a mixture of imitation dynamics,” Automatica, vol. ",math.DS,B,-0.38770157,-0.08325951,0.031990297
+http://arxiv.org/pdf/2202.00603v1,Lyapunov Functions and Stability Analysis of Fractional-Order Systems,"All the other parameters are
+assumed to be positive constants. The authors of [28] ﬁrst analyzed the global stability of the disease-free equilibrium and dis-
+cussed the stability of the endemic equilibrium but only when F (S) = S. However, they mentioned
+that they can not use the estimation (11) in Lemma 2.9 to establish global stability in the general
+case and kept this problem as an open question, for future work. In addition, we note that function F (S(t)) G (I(t)) does not cover all the incidence functions
+                                                      SI
+
+existing in the literature, e.g., 1 + α1S + α2I + α3SI , α1, α2, α3 ≥ 0 [17, 18], where we can not
+separate the variables S and I. ",math.DS,B,-0.0759565,-0.03494215,-0.0037089437
+http://arxiv.org/pdf/2202.00924v1,Designing Social Distancing Policies for the COVID-19 Pandemic: A probabilistic model predictive control approach,"Finally, one could extend the
+proposed framework by extended as a network of regions and interventions (see [15]. This is an important aspect that
+we aim to tackle in a future work. Acknowledgments
+
+The work was supported by the Ministero dell’Università e della Ricerca through the program of Fondo Integrativo
+Speciale per la Ricerca (FISR).Program: FISR2020IP-02893. ",math.DS,B,-0.13069531,-0.17413205,-0.13043942
+http://arxiv.org/pdf/2202.01662v1,The hyperbolic umbilic singularity in fast-slow systems,"In the singular limit ε = 0, the fast- and slow subsystem (2.3),(2.2) are combined by con-
+catenation of trajectories: At singularities of S0 one allows to concatenate fast and slow
+trajectory segments. This singular limit analysis is usually the guiding starting point for
+further analysis. This is the content of section 3 and 4 in this article. ",math.DS,A,0.025113555,0.20552449,-0.055210873
+http://arxiv.org/pdf/2202.01742v1,Mean field limits of co-evolutionary heterogeneous networks,", N . We leave these questions for
+future work but stress that enlarging the class of co-evolutionary network models is certainly
+highly desirable for potential applications. A second remaining key challenge is to study if the absolute continuity of the MFL
+holds/fails in general. ",math.DS,B,-0.16448385,-0.27103597,0.10047572
+http://arxiv.org/pdf/2202.02066v1,Parabolic carpets,"While we do not consider negative q in this paper (as is often the
+case), in this short section we show that the behaviour of the Lq-spectrum as q → −∞ for
+
+quasi-Bernoulli measures on parabolic Cantor sets is very diﬀerent from the hyperbolic case. In some sense this motivates further study of the Lq-spectrum in the parabolic setting. Given
+
+a Borel probability measure ν supported on compact set X let
+
+                      Dν(−∞) = lim inf sup  log ν(B(x, r))      . ",math.DS,C,0.30401725,-0.3199246,0.1614193
+http://arxiv.org/pdf/2202.03478v1,Studying the mixed transmission in a community with age heterogeneity: COVID-19 as a case study,"Moreover, data show that currently, vaccines oﬀer a much lower protection eﬃcacy for even fully
+vaccinated individuals. Our model can be extended to study the invasion of the new variant, which leaves as
+future work. Acknowledgement
+
+    XW is grateful for funding from the NSERC of Canada (RGPIN-2020-06825 and DGECR-2020-00369). ",math.DS,B,-0.058326144,-0.17201562,-0.17621762
+http://arxiv.org/pdf/2202.04782v1,"Heterogeneous Mixed Populations of Coordinating, Anticoordinating, and Imitating Individuals","Particularly, the
+wandering conformists will inﬁnitely often all simultaneously cooperate and inﬁnitely
+often all simultaneously defect, when the solution trajectory enters the invariant set. The wandering nonconformists are less harmonious and seem to be the key in ﬁnding
+the extremum number of cooperators in the minimal invariant set, which in turn may
+lead to an explicit formulation of the set and is left as future work. Acknowledgments. ",math.DS,C,0.105961904,0.059547476,0.19027594
+http://arxiv.org/pdf/2202.05027v1,Blowup analysis of a hysteresis model based upon singular perturbations,"One possible explanation is that there is actually a curve in
+the ( , α)-plane along which saddle-node limit cycles “touch” or “grazes” the foliation
+of points, described by F in the singular limit and bounded by α1 = 1 from above, due
+to the twist and return to S ,α away from the canard. An analysis of such a bifurcation
+scenario is interesting in its own right and in future work we aim to describe this in a
+simpler setting. BLOWUP ANALYSIS OF A HYSTERESIS MODEL BASED UPON SINGULAR PERTURBATIONS49
+
+                                              References
+
+ [1] Regularization of sliding global bifurcations derived from the local fold singularity of Filippov
+      systems. ",math.DS,A,-0.14642367,0.4702494,0.110751785
+http://arxiv.org/pdf/2202.05027v2,Blowup analysis of a hysteresis model based upon singular perturbations,"One possible explanation is that there is actually a curve in
+the ( , α)-plane along which saddle-node limit cycles “touch” or “grazes” the foliation
+of points, described by F in the singular limit and bounded by α1 = 1 from above, due
+to the twist and return to S ,α away from the canard. An analysis of such a bifurcation
+scenario is interesting in its own right and in future work we aim to describe this in a
+simpler setting. BLOWUP ANALYSIS OF A HYSTERESIS MODEL BASED UPON SINGULAR PERTURBATIONS49
+
+                                              References
+
+ [1] C. Bonet and T. M. Seara. ",math.DS,A,-0.1310296,0.47571334,0.10157435
+http://arxiv.org/pdf/2202.05073v1,Computer Validation of Neural Network Dynamics: A First Case Study,"The major obsta-
+3                                                 cle in this context is not a primarily a con-
+                                                  ceptual one but a computational obstacle as
+2.5                                               the dynamical system for the weights grows
+                                                  quadratically in the dimension of the nodes. 2                                                 Second, we aim to validate in future work even
+                                                  more complex structures beyond periodic or-
+1.5                                               bits and also tackle more global bifurcation
+                                                  curves. In these cases, also conceptual chal-
+1                                                 lenges can take center stage. ",math.DS,A,-0.15010658,0.22189528,0.033927903
+http://arxiv.org/pdf/2202.07022v1,"Recurrent Neural Networks for Dynamical Systems: Applications to Ordinary Differential Equations, Collective Motion, and Hydrological Modeling","Such an ANN-based denoising method
+can be integrated into multi-object tracking methods to       Streamﬂow modeling is a sophisticated task in the ﬁeld
+generate trustworthy results. As future work, we are       of hydrology due to its high volatility and frequent spikes. planning to use RNN’s denoised trajectories for the sub-   GR4J is a popular tool for streamﬂow modeling since
+                                                           it has shown trustworthy streamﬂow modeling perfor-
+Recurrent Neural Networks for Dynamical Systems: Applications to Ordinary Diﬀerential Equations, Collective Motion, and Hydrological Modeling 13
+
+      2.2                                                   the Army Research Oﬃce (No. ",math.DS,B,-0.36848518,-0.11131574,-0.14038287
+http://arxiv.org/pdf/2202.09501v1,The Adaptive Spectral Koopman Method for Dynamical Systems,"Furthermore, tunable parameters r and γ aﬀect the accuracy
+as they are related to eigenfunction approximations and the adaptivity criterion. Numerical anal-
+ysis based on the spectrum theorem as well as the spectral method is required to systematically
+understand the convergence and the impact of all parameters on the performance of ASK, which
+will be included in our future work. Regarding the computational complexity, as indicated in section 4.7, ASK’s eﬃciency decreases
+(compared with Runge-Kutta) as the system dimension increases since the tensor product rule is
+applied to construct high-dimensional collocation points. ",math.DS,B,-0.16069221,0.06727032,-0.25893348
+http://arxiv.org/pdf/2202.09501v2,The Adaptive Spectral Koopman Method for Dynamical Systems,"Furthermore, tunable parameters r and γ aﬀect the accuracy as
+they are related to eigenfunction approximations and the adaptivity criterion. Numerical analysis
+based on the spectrum theorem as well as the spectral method is required to systematically under-
+stand the convergence and the impact of all parameters on the performance of ASK, which will be
+included in our future work. Regarding the computational complexity, as indicated in section 4.2, ASK can be more eﬃcient
+than conventional ODE solvers when evaluating f is costly. ",math.DS,B,-0.25117287,0.11435109,-0.32231504
+http://arxiv.org/pdf/2202.09567v1,"Resilience of critical structures, infrastructures and communities","As a result of this lack of data, the
+recovery and resilience functions are equal in both cases. It is suggested that additional studies be
+conducted to associate repair times and replacement costs to medical fragility curves to better
+estimate indirect losses contribution related to healthcare facilities equipment. 76
+Figure 2.51  Median repair costs for BI-IMRF comparing the Yao/Tu and ATC 63
+             methods for five hazard levels: 2%, 5%, 10%, 20%, and 50% probabilities
+             of exceedance in 50 years. ",math.DS,B,-0.15778887,-0.23301071,-0.08405416
+http://arxiv.org/pdf/2202.12027v1,Mixed-mode oscillations in coupled FitzHugh-Nagumo oscillators: blowup analysis of cusped singularities,"11D). In future work, it would be interesting to study the cusped singularities in
+a general setting without a symmetry. We already have some partial results
+in this direction. ",math.DS,A,0.29932466,0.29215527,-0.13698718
+http://arxiv.org/pdf/2202.12027v2,Mixed-mode oscillations in coupled FitzHugh-Nagumo oscillators: blowup analysis of cusped singularities,"In line with our ﬁndings, the number of SAOs does not change upon
+this passage. Within this context, it would also be interesting in future work
+to study the secondary canards and the role of a strong canard. Similarly, the cusped saddle-node becomes co-dimension two without the
+symmetry. ",math.DS,A,0.12584901,0.13677113,-0.0034683556
+http://arxiv.org/pdf/2202.12188v1,Euler integral as a source of chaos in the three-body problem,"This is the main result of the paper. – In Section 7 we discuss how we control numerical errors, draw some conclusions and foresee
+       possible future works. 4The planetary (1 + n)–body problem consists of the Newtonian attraction of 1 + n masses m0, . ",math.DS,B,-0.050450094,0.15115345,-0.2181494
+http://arxiv.org/pdf/2202.13104v1,"Effects of interconnections among corruption, institutional punishment, and economic factors for the evolution of cooperation","Our work may unveil more quantitative effects of interconnections among
+corruption, institutional punishment, and economic factors for the evolution of cooperation from
+theoretical perspective. In the future work, we can thus consider different types of institutional incentive strategies
+such as institutional reward and the combination of punishment and reward. These incentives
+have been proved to be effective in solving social dilemmas [57, 58] and regulating technology
+safety [59, 60]. ",math.DS,B,-0.15506113,-0.18649572,-0.030040096
+http://arxiv.org/pdf/2202.13104v2,"Effects of interconnections among corruption, institutional punishment, and economic factors for the evolution of cooperation","Our work may unveil more quantitative effects of interconnections among
+corruption, institutional punishment, and economic factors for the evolution of
+cooperation from theoretical perspective. In the future work, we can thus consider different types of institutional incen-
+tive strategies such as institutional reward and the combination of punishment and
+reward. These incentives have been proved to be effective in solving social dilem-
+mas [57, 58] and regulating technology safety [59, 60]. ",math.DS,B,-0.16658029,-0.1701833,-0.04275557
+http://arxiv.org/pdf/2202.13138v1,Numerical bifurcation analysis of improved denatured Morris-Lecar neuron model,"In the present study, we have considered analysis of a single neuron, however, neurons are
+interconnected through chemical and electrical synapes. Hence, the analysis of ring network
+of neurons under electromagnetic induction will be a subject of future work. References
+
+ [1] G. F. Ayala, M. R. Dichter, J. Gumnit, H. Matsumoto, and W. A. Spencer, “Genesis
+      of epileptic interictal spikes. ",math.DS,B,-0.18547587,-0.15642634,0.031475898
+http://arxiv.org/pdf/2202.13326v1,Computer-assisted proofs of Hopf bubbles and degenerate Hopf bifurcations,"It is therefore necessary to specify the codomain of (40) a bit more carefully. We will not elaborate on this subtlety here; the ramiﬁcations of this will be the topic of some
+of our future work. However, in the case of ordinary diﬀerential equations, there is no major
+complication. ",math.DS,A,0.017084759,0.081113264,-0.15371469
+http://arxiv.org/pdf/2202.13329v1,Global martingale and pathwise solutions and infinite regularity of invariant measures for a stochastic modified Swift-Hohenberg equation,"To this end, we ﬁrst conﬁrm the unique existence of global pathwise
+solutions, and by Yamada-Wannabe theorem, we are also required to provide the existence of martingale solutions
+in advance. With a further study, we also obtain the global existence of martingale solutions. In our situation, the concept of global martingale solution is stronger a bit than that in a previous work [37], and
+we use a new method to obtain this kind of global martingale solutions. ",math.DS,C,0.1271482,-0.27470464,0.080763444
+http://arxiv.org/pdf/2203.00921v1,New criterions on nonexistence of periodic orbits of planar dynamical systems and their applications,"But we cannot ﬁnd examples with zero or one parabolic sector in Sδ(O),
+and also cannot prove that Sδ(O) must have exactly two parabolic sectors. This will remain for
+further study. 6                               H. CHEN ET AL. ",math.DS,C,0.24207436,0.02941465,-0.0053960546
+http://arxiv.org/pdf/2203.01802v1,Shortest Minkowski billiard trajectories on convex bodies,"The necessary aspects
+which one has to consider for the adjustment to the Minkowski setting are indicated
+in Section 7.1 for two dimensions. We leave the detailed execution of these adjustments to further research. 7.3. ",math.DS,C,0.2833234,-0.02996182,-0.2589814
+http://arxiv.org/pdf/2203.02043v1,Viterbo's conjecture as a worm problem,"Following this line of thought, would lead to the question
+whether it is possible to deduce Viterbo’s conjecture from systolic inequalities for
+Finsler geodesics. However, we leave these questions for further research. Proof of Proposition 5.3. ",math.DS,C,0.51800704,-0.04236387,-0.14979964
+http://arxiv.org/pdf/2203.02294v2,Classification of equality cases of Viterbo's conjecture for Lagrangian products in $\mathbb{R}^4$ and symplectomorphisms to the Euclidean ball,"Following this line of thought, would lead to the question whether it is possible to
+deduce Viterbo’s conjecture from systolic inequalities for Finsler geodesics. However,
+we leave these questions for further research. 3. ",math.DS,C,0.49066186,-0.024489017,-0.146004
+http://arxiv.org/pdf/2203.02294v3,Viterbo's conjecture for Lagrangian products in $\mathbb{R}^4$ and symplectomorphisms to the Euclidean ball,"Following this line of thought, would lead to the question whether it is possible to
+deduce Viterbo’s conjecture from systolic inequalities for Finsler geodesics. However,
+we leave these questions for further research. 3. ",math.DS,C,0.49066186,-0.024489017,-0.146004
+http://arxiv.org/pdf/2203.02294v4,Viterbo's conjecture for Lagrangian products in $\mathbb{R}^4$ and symplectomorphisms to the Euclidean ball,"Following this line of thought, would lead to the question whether it is possible to
+deduce Viterbo’s conjecture from systolic inequalities for Finsler geodesics. However,
+we leave these questions for further research. 3. ",math.DS,C,0.49066186,-0.024489017,-0.146004
+http://arxiv.org/pdf/2203.02294v5,Viterbo's conjecture for Lagrangian products in $\mathbb{R}^4$ and symplectomorphisms to the Euclidean ball,"Following this line of thought, would lead to the question whether it is possible to
+deduce Viterbo’s conjecture from systolic inequalities for Finsler geodesics. However,
+we leave these questions for further research. 12                                  DANIEL RUDOLF
+
+           3. ",math.DS,C,0.4807762,-0.031435408,-0.15202157
+http://arxiv.org/pdf/2203.02948v1,Geometric singular perturbation analysis of the multiple-timescale Hodgkin-Huxley equations,"2, where slow segments with and without SAOs alternate “below”, we suggest that it
+would be worth investigating whether chaotic dynamics is equally possible in that regime, since our
+analysis shows that, ultimately, these two regimes are not fundamentally diﬀerent, as claimed in
+[4]. A more systematic analysis of the mechanisms that are responsible for chaotic behaviour in (2),
+and the potential relation thereof to Shilnikov-type homoclinic phenomena or to period-doubling
+bifurcations of small-amplitude periodic orbits within the framework of three-timescale GSPT, for
+both h slow and n slow, is left for future work. Acknowledgements
+
+The authors would like to thank Martin Krupa and Martin Wechselberger for insightful discussions
+and constructive feedback. ",math.DS,A,-0.08275273,0.3993808,0.3858841
+http://arxiv.org/pdf/2203.02948v2,Geometric singular perturbation analysis of the multiple-timescale Hodgkin-Huxley equations,"12, where slow segments with and without SAOs alternate “below”, we suggest
+that it would be worth investigating whether chaotic dynamics is equally possible in that regime,
+since our analysis shows that, ultimately, the two regimes are not fundamentally diﬀerent, as
+claimed in [6] – an observation which has also been made by Rubin and Wechselberger [23, 24]. A more systematic analysis of the mechanisms that are responsible for chaotic behaviour in (2),
+and the potential relation thereof to Shilnikov-type homoclinic phenomena or to period-doubling
+bifurcations of small-amplitude periodic orbits within the framework of three-timescale GSPT, for
+both h slow and n slow, is left for future work. Acknowledgements
+
+The content of this work was part of the ﬁrst author’s PhD thesis, completed between 2018 and
+2021 at the University of Edinburgh [15]. ",math.DS,A,-0.09800774,0.36081675,0.39265794
+http://arxiv.org/pdf/2203.02978v1,Robustness of Exponential Stability of a Class of Switched Linear Systems with State Delays,"Two examples are given to illustrate the obtained results. Finally, in Conclusion we summarize the main contribution of the paper and give some remarks on future work. 2 PRELIMINARIES
+
+For matrices = ( ) and = ( ) in ℝ × , we write ≥ and ≫ iﬀ ≥ and > for ∈ , ∈ , respectively. ",math.DS,C,0.24124059,-0.26786107,-0.004853878
+http://arxiv.org/pdf/2203.04498v1,Estimating Phase from Observed Trajectories Using the Temporal 1-Form,"Since U
+same, but requires additional care in deﬁning func-        is forward invariant, the same argument as in the
+tion spaces (since K is an arbitrary compact subset        ﬁnal paragraph of the proof of Theorem 1 (using
+of X). We defer a careful treatment to future work. Lemmas 2 and 3) then implies that β = dφ|U , as
+                                                           desired. ",math.DS,C,0.4234262,-0.14997916,-0.12692131
+http://arxiv.org/pdf/2203.04609v1,Application of Lie Group-based Neural Network Method to Nonlinear Dynamical Systems,"Note that
+                the idea used in this paper is a specific form of the Lie group method for the solution
+                expression of the first-order ODEs rather that its reduction ability for a DEs (It can
+                not reduce an IVP of a DEs). This is an innovative thinking and may provide some
+                inspiration for further research on this issue. The rest of present article is arranged as following. ",math.DS,B,-0.08000454,0.10855445,-0.31063384
+http://arxiv.org/pdf/2203.04808v1,Time-variant Nonlinear Participation Factors Considering Resonances in Power Systems,"With the increasing of t, due to the decaying terms,           demonstrated the performances of the new PFs in ranking
+the TNPF becomes closer and closer to the linear PF, which                 generators by their participations in power system oscillations
+coincides with the fact that for a stable system, the system will          energized by a large disturbance. Our future work will apply the
+become more and more linear after the fault. There is no                   proposed TNPF to power system stability monitoring and
+resonance mode near 0.59 Hz, so the P2kpd(t) for 0.59 Hz is                control under large disturbances when nonlinearities in power
+almost zero. ",math.DS,B,-0.17145681,0.017478405,-0.063946545
+http://arxiv.org/pdf/2203.04943v1,Assouad type dimensions of parabolic Julia sets,"On the other hand, if the Julia set contains an irrationally indiﬀerent
+                                         ﬁxed point (a Cremer point), then we show that its Assouad dimension is 2. The distinctive behaviour of the Assouad dimension of parabolic Julia sets invites further analysis
+                                         of the Assouad type dimensions. We derive formulae for the Assouad and lower dimension as well as the
+
+                                                                                                           1
+Assouad and lower spectra, both of the Julia set itself and the associated h-conformal measure. ",math.DS,C,0.3761353,0.03384277,0.056364223
+http://arxiv.org/pdf/2203.05018v1,Application of neural-network hybrid models in estimating the infection functions of nonlinear epidemic models,"This work provides exciting new sights into the capabilities of hybrid neural networks in handling non-
+linear problems via nonlinear ordinary diﬀerential equations. In a future work, we plan to focus on more
+complex but more widely used stochastic and partial diﬀerential equations. Such follow-on studies will
+extend the range of the application of hybrid models while enabling them to solve complex econometric,
+computational ﬂuid mechanic, and computational chemistry problems. ",math.DS,B,-0.36978117,-0.1480269,-0.091399536
+http://arxiv.org/pdf/2203.05666v1,On solutions to the continuum version of the Kuramoto model with identical oscillators,"Let
+t → ∞. Our results open the door to considerable future work. The solution characterization suggests both a numerical algo-    E := {t : t0 < t ≤ t1, y(t) − y+(t) ≥ 0} ,  (A1)
+rithm for solving the model. ",math.DS,B,-0.10301184,-0.0761008,-0.15222457
+http://arxiv.org/pdf/2203.08369v1,Wave propagation for a discrete diffusive vaccination epidemic model with bilinear incidence,"In addition, as we know, numerical simulation can help us to see the inﬂuence of model
+parameters on the qualitative analysis of TWS. However, the topic of the present paper is focus
+on the mathematical theory analysis for the model, and we leave numerical simulation as our
+future work to ﬁt some speciﬁc diseases. Acknowledgements
+
+    The authors would like to thank Professor Shigui Ruan from University of Miami for his
+suggestions. ",math.DS,B,-0.23438393,-0.16035037,-0.083969936
+http://arxiv.org/pdf/2203.08724v1,Time series analysis and modelling of the freezing of gait phenomenon,"It could lead to the development of
+intervention strategies involving patient-speciﬁc phase information that could deliver
+beneﬁts. Therefore, a potentially very important direction for future work is to sys-
+tematically determine preferred transition phases by analysing transitions into FE not
+just in stepping but also in the case of walking and freezing. In principle the method
+permits one to construct an empirical transition matrix from several time series by
+merging the box counts in (4.8). ",math.DS,B,-0.4129349,-0.13140109,0.111191034
+http://arxiv.org/pdf/2203.08724v2,Time series analysis and modelling of the freezing of gait phenomenon,"It could lead to the development of
+intervention strategies involving patient-speciﬁc phase information that could deliver
+beneﬁts. Therefore, a potentially very important direction for future work is to sys-
+tematically determine preferred transition phases by analysing transitions into FE not
+just in stepping but also in the case of walking and freezing. In principle the method
+permits one to construct an empirical transition matrix from several time series by
+merging the box counts in (4.8). ",math.DS,B,-0.4129349,-0.13140109,0.111191034
+http://arxiv.org/pdf/2203.08724v3,Time series analysis and modelling of the freezing of gait phenomenon,"It could lead to the development of intervention
+strategies such as early warnings of FE based on patient-speciﬁc phase information. Therefore, a potentially very important direction for future work is to systematically
+determine preferred transition phases by analysing transitions into FE not just in
+stepping but also in the case of walking and freezing. In principle the method permits
+one to construct an empirical transition matrix from several time series by merging
+the box counts in (4.8). ",math.DS,B,-0.42673948,-0.13785258,0.072335176
+http://arxiv.org/pdf/2203.08724v4,Time series analysis and modelling of the freezing of gait phenomenon,"It could lead to the development of intervention
+strategies such as early warnings of FE based on patient-speciﬁc phase information. Therefore, a potentially very important direction for future work is to systematically
+determine preferred transition phases by analysing transitions into FE not just in
+stepping but also in the case of walking and freezing. In principle the method permits
+one to construct an empirical transition matrix from several time series by merging
+the box counts in (4.8). ",math.DS,B,-0.42673948,-0.13785258,0.072335176
+http://arxiv.org/pdf/2203.09146v1,Resonances and Phase Locking Phenomena for Foliation Preserving Torus Maps,"In the case of higher dimensional invariant manifolds, there are similar obstructions
+to regularity depending on what is the dynamics inside of the manifold (it could have
+invariant manifolds of further codimension). This requires further study. 2.2. ",math.DS,C,0.24185517,0.0943322,-0.06853543
+http://arxiv.org/pdf/2203.09363v1,Approximate localised dihedral patterns near a Turing instability,"In order to establish this existence
+
+and persistence of the localised states found in the ﬁnite-mode truncation in full planar planar RD systems
+
+one could potentially apply similar computer-assisted proofs to [63, 64] that are initialised with our ﬁnite
+
+mode solutions. Extending these ﬁnite mode solutions to true solutions of RD systems is an important area
+
+of future work that we hope to report on in a follow-up investigation. Although we have focused on parameter values in a neighbourhood of a Turing instability, numerical in-
+vestigations have revealed that localised dihedral patterns can further be found bifurcating from curves of
+localised solutions away from the Turing point. ",math.DS,A,0.045883205,0.23580536,0.05236789
+http://arxiv.org/pdf/2203.10340v2,Equilibrium Validation for Triblock Copolymers via Inverse Norm Bounds for Fourth-Order Elliptic Operators,"The above list is not meant to be exhaustive, but rather to justify the extra eﬀort which is
+necessary to study the linear operator deﬁned in (3) and (4). For the sake of keeping the
+current paper from becoming too long, we will address these applications in future work. The remainder of the paper is organized as follows. ",math.DS,C,0.20089157,-0.15814927,-0.14489989
+http://arxiv.org/pdf/2203.10817v2,Distributed hybrid observer with prescribed convergence rate for a linear plant subject to disturbances using multi-hop decomposition,"The extension of the proposed al-                IEEE Conference on Decision and Control, pages 5492–5498, 2007.
+gorithm to aperiodic/asynchronous communications, time-
+varying connection graphs or nonlinear plant dynamics are         [2] R. Carli, A. Chiuso, L. Schenato, and S. Zampieri. Distributed Kalman
+interesting directions for future work. Another interesting            ﬁltering based on consensus strategies. ",math.DS,B,-0.3457834,-0.21532314,0.09080889
+http://arxiv.org/pdf/2203.10817v3,Distributed Hybrid Observer With Prescribed Convergence Rate for a Linear Plant Using Multi-Hop Decomposition,"The extension of the proposed al-                IEEE Conference on Decision and Control, pages 5492–5498, 2007.
+gorithm to aperiodic/asynchronous communications, time-
+varying connection graphs or nonlinear plant dynamics are         [2] R. Carli, A. Chiuso, L. Schenato, and S. Zampieri. Distributed Kalman
+interesting directions for future work. Another interesting            ﬁltering based on consensus strategies. ",math.DS,B,-0.3457834,-0.21532314,0.09080889
+http://arxiv.org/pdf/2203.11346v1,Spatially Localized Structures in Lattice Dynamical Systems,"Our numerical computations indicate that the width of these isolas
+shrinks very rapidly as d increases: the isolas seem to disappear at around d = 0.11 when they collapse onto
+themselves. The reason for this collapse is unknown and remains the subject of future work, but it should be
+noted that such states have no anologue in the continuum setting (5.17) and therefore we would not expect
+that these bifurcation curves persist for all d > 0. As pointed out at the beginning of §5.2, the results of this manuscript can be applied to understand the
+bifurcation structure of homoclinic orbits which spend a long time near a periodic orbit of any period. ",math.DS,A,0.008793402,0.5138447,0.29702097
+http://arxiv.org/pdf/2203.12746v1,Sufficient Conditions for Robust Probabilistic Reach-Avoid-Stay Specifications using Stochastic Lyapunov-Barrier Functions,"and |µ(t + τ ) − µ(t)| ≤ 0.01τ for any τ > 0. We deﬁne
+                                                                             For future work, compared to the rough estimation of
+X0 = {(Φe(µ(0)), Ψe(µ(0)))}; Γ to be the ball that centered               ‘probabilistic domain of satisfactions’ given Lyapunov-like
+                                                                          functions, it would be necessary to consider accurate eval-
+at γ = (0.4519, 0.6513) with radius r = 0.013, i.e. Γ =                   uation of laws and investigate formal methods in providing
+                                                                          more reliable schemes on ﬁnding the probabilistic winning
+γ + rB; the unsafe set U = {(x, y) : h1 ≤ 0} ∩ {(x, y) :                  sets (from which the speciﬁcations are satisﬁed). ",math.DS,B_centroid,-0.059250943,-0.2622978,0.0641039
+http://arxiv.org/pdf/2203.12746v2,Sufficient Conditions for Robust Probabilistic Reach-Avoid-Stay Specifications using Stochastic Lyapunov-Barrier Functions,"110, 2017. For future work, compared to the rough estimation of                       [22] Jun Liu. Converse barrier functions via Lyapunov functions. ",math.DS,B,-0.048586078,-0.09623354,-0.02697013
+http://arxiv.org/pdf/2203.12938v1,Projective Integrable Mechanical Billiards,"Note that somehow in contrast to the conformal transformation used in [19],
+this projective method can be directly applied to the case of higher dimensional
+problems, and will always provide two ﬁrst integrals for the Lagrange problems. We shall not discuss these higher dimensional problems in this article and will
+leave it for future works. Restricting to dimension 2 raises the question of
+whether some of the integrable systems can be indeed also related by conformal
+transformations. ",math.DS,C,0.237064,0.061515093,-0.24597426
+http://arxiv.org/pdf/2203.14006v1,Continuity scaling: A rigorous framework for detecting and quantifying causality accurately,"The computational
+                                                                              Iut (εu) = {τ ∈ N distLu (u(t + 1), u(τ )) < εu,                               (8)
+complexity of the algorithm is O(T 2Nε), which is rela-
+tively smaller than the CCM method, whose computa-                                                                                       |t + 1 − τ | > E},
+tional complexity is O(T 2 log T ). where, numerically, εu alters its value successively from the set
+   Limitations and future works. Nevertheless, there                    {εu,j }j=1,··· ,N , and the threshold E is a positive number chosen
+are still some limitations in the presently proposed frame-             to avoid the situation where the nearest neighboring points are
+work. ",math.DS,B,-0.04719223,-0.038763598,-0.15964854
+http://arxiv.org/pdf/2203.14174v1,Almost-periodic ground state of the non-self-adjoint Jacobi operator and its applications,"see [55, 29, 54] and the references therein. A steady state is a function u = u(n) satisfying (1.12) which is independent of time t.
+
+Notice that in the previous work, before the further study, (1.12) was supposed to have
+
+the monostable property, that is, (1.12) has a unique positive steady state. Moreover,
+
+this steady state is stable. ",math.DS,B,-0.10353394,-0.088297166,0.15083252
+http://arxiv.org/pdf/2203.14705v1,Walking droplets as a damped-driven system,"The paper also lays the foundational structure upon which the more diﬃcult prob-
+lem of characterizing the energy gain and loss in the full hydrodynamic-kinematic
+system can be constructed. This future work would involve detailed measurements
+and calculations of the interaction between the droplet and the wave, and also the
+nonlinear drag due to the intermediate Reynold’s number of the air in the pres-
+ence of the droplet. Indeed there are many more physical considerations in the full
+hydrodynamic-kinematic case, but it is evident that the underlying dynamics remain
+the same. ",math.DS,B,-0.13559526,0.025257599,-0.2480512
+http://arxiv.org/pdf/2203.14705v2,Walking droplets as a damped-driven system,"Thus
+damped-driven systems motivate this study of the droplet system in terms of a uni-
+versal description of a simple gain and loss dynamics and its associated 1-D mapping
+that we construct explicitly. There are many other damped-driven systems for which
+this is also the case (bio-locomotion, ﬂutter instabilities, ground-eﬀects for airfoils,
+etc) and these models will be considered in greater detail in future work. 5 Conclusion
+
+Damped-driven systems pervade the engineering, physical, and biological sciences. ",math.DS,B,-0.26452518,-0.074090056,-0.09593968
+http://arxiv.org/pdf/2203.16019v1,Geometry of transit orbits in the periodically-perturbed restricted three-body problem,"For
+instance, quasi-periodic Lagrange manifolds in systems with two or more perturbations of incommensurate period will
+generate hyperbolic structures controlling transit (Go´mez et al., 2003; Bihan et al., 2017; Jorba et al., 2020). Another possibility for further study involves combining periodic perturbations with general non-conservative
+(e.g., dissipative, solar sail) eﬀects (Bartsch et al., 2008; Zhong & Ross, 2020). Our approach is applicable to the
+geometry of transition dynamics in other periodically-perturbed (or driven) systems governed by Hamiltonian dy-
+namics, including chemical systems, ship dynamics, solid state physics, and structural systems (Zhong & Ross, 2021;
+Naik & Ross, 2017; Bartsch et al., 2008; Wu & McCue, 2008). ",math.DS,A,-0.10499023,0.24221438,0.091851965
+http://arxiv.org/pdf/2203.16188v1,From Pandemic to a New Normal: Strategies to Optimise Governmental Interventions in Indonesia Based on an SVEIQHR-Type Mathematical Model,"This is conﬁrmed quantitatively in our second stage
+
+                                                                                   5
+(subsection 3.2) via sensitivity analysis, from which we conclude that the optimal intervention
+strategy is to implement social restrictions in the case of R0 < 1, and, if a lockdown is un-
+desirable, vaccinations using high-eﬃcacy vaccines in the case of R0 > 1. These conclusions
+are reasserted in section 4, where we also describe a number of ways in which the model (1)
+could be modiﬁed for further research. 2. ",math.DS,B,-0.20668657,-0.26480573,-0.119667806
+http://arxiv.org/pdf/2203.16283v1,Uniform solvability for families of linear systems on time scales,"There, we discuss how a linear system on a time scale
+can be represented as a system of ordinary diﬀerential equations (and also, how
+the concept of hyperbolicity can be translated into the language of time scale
+dynamics). Finally, in Section 5, we formulate the structural stability conjecture
+which will be the main objective of further research. In a nutshell, we follow the main idea of the quoted papers by V. A. Pliss. ",math.DS,B,-0.0059834644,0.08360549,0.10345046
+http://arxiv.org/pdf/2204.00373v1,The Hutchinson-Barnsley theory for generalized iterated function systems by means of infinite iterated function systems,"For practical purposes one can choose
+              1               1+α
+βk  =  σk  =  k  then  εk  =    k  →  0. We  presented  a  pseudocode                                                           here,  but  the  implementation        of    an       actual
+
+algorithm would be the subject of a future work employing the discrete algorithm from [dCOS21] for the
+
+step (8) and making a comparison with the classical iteration for GIFS. 4.3 Approximate Chaos Game Theorem and Ergodic theorem for GIFS
+
+Another natural question is if there exists some natural chaos game theorem or ergodic theorem for
+the induced IIFS which could approximate, in a reasonable way, the attractor and integrals w.r.t. ",math.DS,B,-0.01501518,-0.035821255,0.15670845
+http://arxiv.org/pdf/2204.00848v1,Stability of heteroclinic cycles: a new approach,"Another question is the relation between
+the µ3, µ4, µ5 value with some linear combination of the eigenvalues of Dfµ
+at the equilibria. These questions are deferred for future work. Acknowledgements
+
+   The authors are grateful to Pedro Duarte for the suggestion of the pro-
+jective map deﬁned in Section 5.10 during the ﬁrst author’s PhD period. ",math.DS,C,0.11742066,-0.020971801,-0.009433631
+http://arxiv.org/pdf/2204.02740v1,Dynamics of N-spot rings with oscillatory tails in a three-component reaction-diffusion system,"Rotating N-spot rings. In this subsection, we construct rotating ring solution to the reduced
+ODE system (2.29) for further analysis. By abuse of notation, we seek a solution to (2.29) with the form of
+a rotating ring as follows
+
+(4.17)                      pk = r0ei(ω0t+θk),                  2πk  k = 1, . ",math.DS,A,0.093189806,0.35737574,-0.06754343
+http://arxiv.org/pdf/2204.02740v2,Dynamics of N-spot rings with oscillatory tails in a three-component reaction-diffusion system,"Rotating N-spot rings. In this subsection, we construct rotating ring solution to the reduced
+ODE system (2.29) for further analysis. By abuse of notation, we seek a solution to (2.29) with the form of
+a rotating ring as follows
+
+(4.17)                      pk = r0ei(ω0t+θk),                    2πk  k = 1, . ",math.DS,A,0.093189806,0.35737574,-0.06754343
+http://arxiv.org/pdf/2204.02951v1,Koopman-based spectral clustering of directed and time-evolving graphs,"Additionally, the prob-
+ability leakage—i.e., the amount of information escaping the clusters—could be used as
+a quality measure. This would allow for a systematic comparison of diﬀerent clustering
+techniques, which will be considered in future work. The next steps include analyzing the properties of the forward-backward Laplacian in
+detail and applying these methods to complex time-evolving graphs such as social networks
+in order to identify, for example, groups of users sharing similar behavioral patterns. ",math.DS,B,-0.1735401,-0.2367295,0.07826771
+http://arxiv.org/pdf/2204.02951v2,Koopman-based spectral clustering of directed and time-evolving graphs,"Additionally, the prob-
+ability leakage—i.e., the amount of information escaping the clusters—could be used as
+a quality measure. This would allow for a systematic comparison of diﬀerent clustering
+techniques, which will be considered in future work. The next steps include analyzing the properties of the forward-backward Laplacian in
+detail and applying these methods to complex time-evolving graphs such as social networks
+in order to identify, for example, groups of users sharing similar behavioral patterns. ",math.DS,B,-0.1735401,-0.2367295,0.07826771
+http://arxiv.org/pdf/2204.03150v1,Analytic Investigation for Spatio-temporal Patterns Propagation in Spiking Neural Networks,"One step further,
+we have not included the complex interactions like brain manifold structure
+in the random ﬁeld here, as developed in Ref. [56], which is our future work
+and such a theoretical framework should be a valuable tool for investigating
+the varied dynamics of the spike patterns observed in experiments. Acknowledgments
+
+This work is jointly supported by the National Key R&D Program of China
+(No. ",math.DS,B,-0.15161648,-0.12291597,0.19641298
+http://arxiv.org/pdf/2204.03194v1,Equidistribution of non-uniformly stretching translates of shrinking smooth curves and weighted Dirichlet approximation,"So we choose a probability measure ν˜ on B such that
+
+                 µ=                   bλF dν˜(b). (4.26)
+
+                                 b∈B
+
+    Our further analysis is based on the following algebraic observation. Lemma 4.5. ",math.DS,C,0.33571404,-0.48328292,0.11807355
+http://arxiv.org/pdf/2204.03194v2,Equidistribution of non-uniformly stretching translates of shrinking smooth curves and weighted Dirichlet approximation,"So we choose a probability measure ν˜ on B such that
+
+                 µ=                   bλF dν˜(b). (4.26)
+
+                                 b∈B
+
+    Our further analysis is based on the following algebraic observation. Lemma 4.5. ",math.DS,C,0.33571404,-0.48328292,0.11807355
+http://arxiv.org/pdf/2204.04434v1,On Turing-Turing bifurcation of partial functional differential equations and its induced superposition patterns,"It is worth noting that, bifurcation set and phase portraits of normal form (3.13) might be incomplete,
+which indicates that system (3.4) might admit other complex superposition patterns. And, complete bifurcation set
+and the corresponding phase portraits require further analysis. Acknowledgements
+
+   The authors are supported by the National Natural Science Foundation of China (No.11871176) and the Funda-
+mental Research Funds for the Central Universities (FRFCU5630103121). ",math.DS,A,-0.213233,0.27279177,0.28128856
+http://arxiv.org/pdf/2204.06321v1,A Case Study on Identifying Bifurcation and Chaos with CROCKER Plots,"Even though the CROCKER
+plots are unstable because of the instability of Betti numbers [21, 7], the L1 norm of further reﬁned partitions of
+the ε parameter might be able to mitigate the damage. This is beyond the scope of this paper, and will be an
+interesting direction for future work. Funding
+The research of the ﬁrst author was supported by a grant program (BI˙DEB 2214-A:1059B142000135) from
+TU¨ BI˙TAK, Scientiﬁc and Technological Research Council of Turkey. ",math.DS,A,0.12770881,0.15148437,-0.011010326
+http://arxiv.org/pdf/2204.06413v1,Indistinguishable asymptotic pairs and multidimensional Sturmian configurations,"Appendix A. Indistinguishable pairs on countable groups
+
+As mentioned in Section 2, the results in the ﬁrst part of that section can be stated and proven in the
+
+context of an arbitrary countable group Γ. At this moment we do not have any interesting application
+
+in this context, but in order to avoid senseless repetition in potential future work, we provide proofs
+
+of those statements in this appendix. Let Σ be a ﬁnite set which we call alphabet and Γ a countable group. ",math.DS,C,0.22607645,-0.29075807,0.16438124
+http://arxiv.org/pdf/2204.06743v1,Learning high-order spatial discretisations of PDEs with symmetry-preserving iterative algorithms,"The proofs of this section hold for periodic boundary conditions for u(t, x)
+on X. We expect further research to establish self-adjointness for other
+common boundary conditions for u(t, x) on X, such as Dirichlet and Neumann. 3 Prove high-order consistency in 1D space
+
+Section 2.2 establishes the in-principle existence and emergence of an exact
+discrete closure to the dynamics of pdes in the class (1), a closure that also
+preserves self-adjointness (Section 2.4). ",math.DS,C,0.093272045,-0.04428332,-0.015999526
+http://arxiv.org/pdf/2204.07516v1,Substitutions on compact alphabets,"Notable studies in this direction include those by Queﬀelec [27], Ferenczi [13], Priebe-Frank
+                                          and Sadun [16], and Durand, Ormes and Petite [10]. The aim of this work is both to establish
+                                          a framework for further study and to better understand in which ways the inﬁnite-alphabet
+                                          landscape diﬀers from the familiar world of ﬁnite alphabets. One novelty of our approach is the
+                                          incorporation of techniques from the theory of positive operators on Banach lattices. ",math.DS,C,0.23689237,-0.2990128,0.058418468
+http://arxiv.org/pdf/2204.07516v2,Substitutions on compact alphabets,"Notable
+                                         studies in this direction include those by Queﬀelec [29], Ferenczi [13], Frank and Sadun [16],
+                                         and Durand, Ormes and Petite [10]. The aim of this work is both to establish a framework for
+                                         further study and to better understand in which ways the inﬁnite alphabet landscape diﬀers
+                                         from the familiar world of ﬁnite alphabets. One novelty of our approach is the incorporation of
+                                         techniques from the theory of positive operators on Banach lattices. ",math.DS,C,0.21762979,-0.28806108,0.064371884
+http://arxiv.org/pdf/2204.08728v1,Towards Brin's conjecture on frame flow ergodicity: new progress and perspectives,"OPEN QUESTIONS
+
+   In order to improve Theorem 1.2, it is clear that a deeper algebraic understanding of
+the curvature term QkE appearing in the right-hand side of the twisted Pestov identity
+is missing. This is probably the main challenge for future work and numerical experi-
+ments might help studying this term more accurately. We list below some other open
+questions related to frame ﬂow ergodicity:
+
+       • Exponential mixing for the frame ﬂow: Using representation theory, exponen-
+          tial mixing was proved by Moore [Moo87] on hyperbolic manifolds, and re-
+          proved recently in dimension n = 3 by Guillarmou-Küster [GK21] using semi-
+          classical analysis. ",math.DS,C,0.29021856,0.0691807,0.11523889
+http://arxiv.org/pdf/2204.08728v2,Towards Brin's conjecture on frame flow ergodicity: new progress and perspectives,"OPEN QUESTIONS
+
+   In order to improve Theorem 1.2, it is clear that a deeper algebraic understanding of
+the curvature term QkE appearing in the right-hand side of the twisted Pestov identity
+is missing. This is probably the main challenge for future work and numerical experi-
+ments might help studying this term more accurately. We list below some other open
+questions related to frame ﬂow ergodicity:
+
+       • Exponential mixing for the frame ﬂow: Using representation theory, exponen-
+          tial mixing was proved by Moore [Moo87] on hyperbolic manifolds, and re-
+          proved recently in dimension n = 3 by Guillarmou-Küster [GK21] using semi-
+          classical analysis. ",math.DS,C,0.29021856,0.0691807,0.11523889
+http://arxiv.org/pdf/2204.08812v1,The number of relative equilibria in the PCR4PB,"This can of course be massively
+reduced by a ﬁner pre-splitting in parameter space, combined with a simple script for parallel
+execution. 8 Conclusions and future work
+
+We have demonstrated a novel way to account for all relative equilibria in the planar, circular,
+restricted 4-body problem, and used it to give a new proof of the results by Barros and Leandro
+(Theorem 6). The novely of our approach is that it does not rely upon any algebraic considerations;
+it is purely analytic. ",math.DS,A,0.04718882,0.1959438,-0.20356116
+http://arxiv.org/pdf/2204.10295v1,Zeros of the electric field around a charged knot,"We                  would follow if the holes were round enough (neither too
+suspect that this stronger construction is always possible            elongated nor too non-convex), but this is what remains
+too, but we have not proven that yet. For now, we outline             to be properly formulated and proven in future work. the main ideas behind the weaker construction, which
+proceeds in three steps. ",math.DS,C,0.350962,0.04639091,-0.2673274
+http://arxiv.org/pdf/2204.10295v2,Zeros of the electric field around a charged knot,"We                  would follow if the holes were round enough (neither too
+suspect that this stronger construction is always possible            elongated nor too non-convex), but this is what remains
+too, but we have not proven that yet. For now, we outline             to be properly formulated and proven in future work. the main ideas behind the weaker construction, which
+proceeds in three steps. ",math.DS,C,0.350962,0.04639091,-0.2673274
+http://arxiv.org/pdf/2204.10295v3,Zeros of the electric field around a charged knot,"if the holes were round enough (neither too elongated nor
+                                                                      too non-convex), but this is what remains to be properly
+   First, we ﬂatten K into a plane curve. The result-                 formulated and proven in future work. ing curve crosses itself and bounds a number of planar
+regions that we call holes (more properly, “holes” are                   As we have tried to show in this Letter, electrostatic
+bounded connected components in the planar comple-                    knot theory opens up many new directions for explo-
+ment of the ﬂattened knot). ",math.DS,A,0.28440297,0.20344086,-0.20450231
+http://arxiv.org/pdf/2204.10295v4,"Exploring the electric field around a loop of static charge: Rectangles, stadiums, ellipses, and knots","We sus-
+decreasing γ to 0, and watch the zeros coalesce. pect the uniqueness of the zero in each hole would follow
+
+   Our plausibility argument for 2c+1 as an upper bound
+on Z is based on the following observation: For any knot
+K, we can always construct an embedding of K that has
+if the holes were round enough (neither too elongated nor                                                                                  8
+too non-convex), but this is what remains to be properly
+formulated and proven in future work. may be of experimental interest in those settings [53–55]. ",math.DS,A,0.41763753,0.1918762,-0.09574115
+http://arxiv.org/pdf/2204.10295v5,"Exploring the electric field around a loop of static charge: Rectangles, stadiums, ellipses, and knots","We sus-
+decreasing γ to 0, and watch the zeros coalesce. pect the uniqueness of the zero in each hole would follow
+                                                                      if the holes were round enough (neither too elongated nor
+   Our plausibility argument for 2c+1 as an upper bound               too non-convex), but this is what remains to be properly
+on Z is based on the following observation: For any knot              formulated and proven in future work. K, we can always construct an embedding of K that has
+at least 2c + 1 zeros in its electric ﬁeld. ",math.DS,A,0.42029005,0.19453369,-0.11245273
+http://arxiv.org/pdf/2204.12110v1,Stability and Bifurcation Analysis of a Fractional Order Delay Differential Equation Involving Cubic Nonlinearity,"We provided the bifurcation diagram and the values of maximum
+Lyapunov exponents to conﬁrm the chaos in this system. The stability of x∗3 can be done as a future work. 7. ",math.DS,A,-0.15311937,0.22568268,0.2730703
+http://arxiv.org/pdf/2204.12437v1,On the Equilibria and Bifurcations of a Rotating Double Pendulum,"Thus three non-trival bifurcations would be expected in the
+   corresponding bifurcations plots. This detail must be analyzed in future work. 20
+
+second equation is a quadratic in Ω. ",math.DS,A,-0.218483,0.4803431,0.12807213
+http://arxiv.org/pdf/2204.12437v2,On the Equilibria and Bifurcations of a Rotating Double Pendulum,"Thus three non-trival bifurcations would be expected in the
+   corresponding bifurcations plots. This detail must be analyzed in future work. 20
+
+second equation is a quadratic in Ω. ",math.DS,A,-0.218483,0.4803431,0.12807213
+http://arxiv.org/pdf/2204.13739v1,Global analysis of regulatory network dynamics: equilibria and saddle-node bifurcations,"We conclude the paper with three examples which demonstrate eﬀectiveness of our strategy
+to bifurcation analysis. These examples include further analysis of the Toggle Switch example
+as well as a 54 parameter model of the Epithelial-Mesenchymal Transition (EMT) network
+which is of practical importance. In this example, the high parameter dimension makes it
+essentially impossible to predict the number of stable equilibria or observe a saddle-node
+bifurcation by randomly choosing parameters. ",math.DS,A,-0.3416448,0.1925222,0.24374855
+http://arxiv.org/pdf/2205.00960v1,On the solution manifold of a differential equation with a delay which has a zero,"For another part it was helpful to have in mind an idea
+of Krisztin [2] which yields graph representations of solution manifolds from
+bounds on extended derivatives as in property (e), compare the proof of Lemma
+1 in [3]. The assumption that d has a single zero is for simplicity and may be relaxed
+in future work. 2 Preliminaries
+
+Diﬀerentiable maps are always deﬁned on open subsets of Banach spaces or
+Banach manifolds. ",math.DS,C,0.22557922,-0.03213261,-0.19519204
+http://arxiv.org/pdf/2205.01043v1,The $L^q$ spectrum of self-affine measures on sponges,"A clear advantage of our approach is that it works for both positive and negative
+q equally well, moreover, the separation condition is weaker than the one considered in [42]. We give further analysis by providing suﬃcient conditions under which the variational formula
+translates into a closed form expression, see Corollary 2.3. This then implies that T (νµ, q) also
+has a closed form for all q ≤ 0, see Corollary 3.5. ",math.DS,C,0.22564678,-0.22397348,-0.062983066
+http://arxiv.org/pdf/2205.01043v2,The $L^q$ spectrum of self-affine measures on sponges,"Nevertheless, the dominant type which gives the value of P (ϕ)
+
+can be thought of as the ‘equilibrium state’ of the system. Getting a better understanding of
+when Pσ∗ ∈ Qσ seems a subtle issue and is a natural direction for further study. Question 2.4. ",math.DS,C,0.09077995,-0.126657,0.21291566
+http://arxiv.org/pdf/2205.02082v1,Persistence in Complex Systems,"soil moisture persistence with increasing aridity can be explained by the fact that the atmo-
+spheric demand for water is more intense in arid climates. For both relations, however, there
+is substantial unexplained variance that is likely due to vegetation eﬀects and that should
+be subject of further research. This case study illustrates how the temporal autocorrelation
+of time series and their e-folding time can be used to characterize the persistence of vari-
+ables such as the surface soil moisture under the assumption that they can be modeled as a
+stochastic, red noise process. ",math.DS,B,-0.24786517,-0.103733,0.07956514
+http://arxiv.org/pdf/2205.03734v1,Approximating linear response of physical chaos,"We showed that when the Lyapunov spectrum collapses, which typically hap-
+pens when the system moves from a non-chaotic to chaotic regime, the stable
+term alone is not enough. Our future work shall investigate how likely this
+scenario is in real-world engineering applications. If this is a rare event, further
+developments of well-established shadowing methods would not be necessary. ",math.DS,B,-0.21796083,0.046515927,0.13285556
+http://arxiv.org/pdf/2205.03801v1,Directional stable sets and mean Li-Yorke chaos in positive directional entropy systems,"Directional entropy tuples for a measure. In order to further study systems with positive entropy, entropy pairs for Z-t.d.s. were introduced by Blanchard [1]. ",math.DS,C,0.09958058,-0.46881002,0.20979004
+http://arxiv.org/pdf/2205.03801v2,Directional stable sets and mean Li-Yorke chaos in positive directional entropy systems,"Directional entropy tuples for a measure. In order to further study systems with positive entropy, entropy pairs for Z-t.d.s. were introduced by Blanchard [1]. ",math.DS,C,0.09958058,-0.46881002,0.20979004
+http://arxiv.org/pdf/2205.03801v3,Directional stable sets and mean Li-Yorke chaos in positive directional entropy systems,"Directional entropy tuples for a measure. In order to further study systems with positive entropy, entropy pairs for Z-t.d.s. were introduced by Blanchard [1]. ",math.DS,C,0.09958058,-0.46881002,0.20979004
+http://arxiv.org/pdf/2205.03801v4,Directional stable sets and mean Li-Yorke chaos in positive directional entropy systems,"Directional entropy tuples for a measure. In order to further study systems with positive entropy, entropy pairs for Z-t.d.s. were introduced by Blanchard [2]. ",math.DS,C,0.09793157,-0.46772534,0.2097052
+http://arxiv.org/pdf/2205.05948v1,Combinatorics of the paths towards synchronization,"Furthermore,
+for unbalanced initial conditions, the order in the diﬀerences between coordi-
+nates is not preserved by the ﬂow. The description of the full transition diagram
+for the Laplacian ﬂow over KN,N , would be the subject of future work. Finally we would like to emphasize that these synchronizing sequences can be
+seen as partitioning the basin of attraction of a given attractor (here the fully
+synchronized state). ",math.DS,A,-0.06518048,0.12784143,0.26724976
+http://arxiv.org/pdf/2205.12561v1,General asymptotic perturbation theory in transfer operators,"Furthermore, we apply the behaviour of the Gibbs measure
+associated with the dimension of the limit set of a perturbed graph directed Markov
+system to these results (Theorem 3.11). This result shall be important in a future work
+for the multifractal analysis of such a system using the asymptotic analysis. On the other
+hand, in the study of the perturbed Gibbs measure, Theorem 3.7 enables the perturbed
+potential ϕ(ǫ, ·) such that the spectral gap of the Ruelle operator ϕ(ǫ, ·) vanishes (Section
+3.4 for example). ",math.DS,C,0.10489558,-0.20014834,0.2741336
+http://arxiv.org/pdf/2205.13240v1,Grazing bifurcations and transitions between periodic states of the PP04 model for the glacial cycle,"A ﬁrst-order global model of late
+      cenozoic climatic change ii. further analysis based on a simpliﬁcation of co
+      2 dynamics. Climate Dynamics, 5(4):201–210, 1991. ",math.DS,A,-0.18638647,0.083962105,0.04798595
+http://arxiv.org/pdf/2205.13844v1,Emergence of phase-locked states for a deterministic and stochastic Winfree model with inertia,"Indeed, choosing the noise suﬃciently small, the lower estimate for
+the probability of pathwise phase-locking can be made arbitrarily large in (0, 1). In future works, it
+will be interesting to ﬁnd out whether this is an intrinsic phenomenon of the model or whether reﬁned
+techniques reveal a certain synchronization by noise eﬀect for the Winfree model with inertia, possibly
+for other types of multiplicative noise. References
+
+ [1] J. ",math.DS,B,-0.16156675,-0.085574135,0.21684101
+http://arxiv.org/pdf/2206.00984v1,Asymptotic convergence of heterogeneous first-order aggregation models: from the sphere to the unitary group,"In fact, we have assumed that the natural frequency has
+the degree of freedom 1. One of the future work is dedicated to generalizing this issue. References
+
+[1] Choi, S.-H. and Ha, S.-Y. ",math.DS,C,0.073595904,-0.123866715,0.08310525
+http://arxiv.org/pdf/2206.01747v1,A field equation for induction-transduction of activation-deactivation probability on measurable space,"induction-transduction through co-prime integers. Some future work include studying the existence,
+uniqueness, and stability of solutions to the ITAD equations; exploring the physical signiﬁcance of
+the given mechanisms and others; developing estimators for the parameters given measurements;
+and so on. In regard to identiﬁcation, ideas from stochastic epidemiology may be helpful, e.g.,
+dynamic survival analysis (Di Lauro et al., 2022). ",math.DS,B,-0.15221518,-0.22608879,0.07154651
+http://arxiv.org/pdf/2206.03849v1,Long-term Averages of the Stochastic Logistic Map,"Thus, it
+
+                                                                     16
+makes sense to conjecture that as we increase the period, the direction of the inequality switches back and
+forth, at least through the period doubling range of λ. We hope to explore this direction in future work. 6 Appendix
+
+This Appendix contains the proof of the main result of the paper, Theorem 4.2. ",math.DS,C,0.26464087,-0.07431789,0.027465064
+http://arxiv.org/pdf/2206.04442v1,"Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus","On the more numerical side, we have that the parameter is quite large to clearly
+see this eﬀect, however lowering would imply to further increase the working precision, leading
+to problems with the time performance of the CPU. Since our present work has a theoretical
+
+                                                        31
+Figure 4: Critical manifold for n=3 and f (x) = (x − 1)2(x + 1)2
+
+focus, we do not dive deeper in the numerical analysis of these delicate systems, leaving the
+
+problem of highly accurate simulations for future works. However, there is another detail to take
+
+into account: in ﬁgure 5 we have canard solutions that cross three transcritical points on the
+
+consensus space without leaving the repelling intermediate section (light blue and pink curves);
+
+here the question is: where should we expect the canards to leave the consensus manifold? ",math.DS,A,-0.01511075,0.26769596,-0.10964787
+http://arxiv.org/pdf/2206.04861v1,Detecting bifurcations in dynamical systems with CROCKER plots,"3, we give speciﬁcs of the method, and
+show the results with full details on the Lorenz and R¨ossler systems, with further results shown for a
+longer list of example dynamical systems. Finally, we discuss conclusions, limitations, and future work
+in Sec. 4. ",math.DS,A,0.026334211,0.14811122,0.017931476
+http://arxiv.org/pdf/2206.04861v2,Detecting bifurcations in dynamical systems with CROCKER plots,"Then there is a persistence diagram D which
+stant, the only thing that matters for analysis is whether the      contains α∗ as a bar, has the same number of bars as D, and
+exponent is zero or non-zero, thus showing that the automated       satisﬁes
+parameter choices (in particular, k) we have made are reason-
+able. It will be interesting to see in future work how much         W1(D, D0/ ) = W1(D˜ , D0/ ) and BD(s) = BD˜ (s). dependence there is on the results of the correlation between
+the TDA results and those using different choices of k.             Proof. ",math.DS,B,0.024713643,-0.17065138,-0.100308225
+http://arxiv.org/pdf/2206.05563v1,Integrability and adapted complex structures to smooth vector fields on the plane,"The saddle node X(x, y) = x2 ∂∂x − λy ∂∂y determines the word HP H at 0; a global ﬂow box exists on
+   the plane minus a ray {(x, 0) | 0 ≤ x}, here ρX becomes the real part of a holomorphic vector ﬁeld. The converse of Corollary 1 is the goal of a future work. INTEGRABILITY AND COMPLEX STRUCTURES  17
+
+                                                      REFERENCES
+
+ [1] L. V. Ahlfors, Complex Analysis Third Ed. ",math.DS,C,0.16727105,0.06438707,-0.20353718
+http://arxiv.org/pdf/2206.05769v1,A generalized initial value problem for ODE's,"This new result and formulation open the road to reconsider smooth
+controller’s in the cases where Brockett’s condition forbid such designs but,
+at the same time, open the necessity for new theorems and methods to
+establish the existence of smooth controllers for asymptotic stability in the
+case of generalised initial value problem. 5
+    As a future work, more complex models using ODE’s will be analysed us-
+ing these ideas in order to provide more examples were initial value mapping
+is useful providing asymptotic stability. 0.4 Acknowledgments
+
+The authors would like to acknowledge Universidad Tecnol´ogica Nacional,
+Facultad Regional Bah´ıa Blanca. ",math.DS,B,-0.1569834,0.14386381,-0.10413328
+http://arxiv.org/pdf/2206.05955v1,Arithmetic quantum unique ergodicity for products of hyperbolic $2$- and $3$-manifolds,"This result is essentially contained in [14] (on some level already in [1]) except that
+[14] assumes that G is R-split, which is the not the case for SL2(C). In fact all that is
+needed there is that the centralizer Tv at some inﬁnite place Gv is a torus, and even weaker
+hypotheses sufﬁces (which the author plan to addressed in future work). 3.1.1. ",math.DS,C,0.2734167,-0.04040418,-0.023686534
+http://arxiv.org/pdf/2206.06536v1,On Learning the Dynamical Response of Nonlinear Control Systems with Deep Operator Networks,"We validated our framework using three continuous control
+tasks. In our future work, we aim to extend the proposed framework to (1) reduced-order, (2)
+stochastic, and (3) networked control systems. From an application perspective, our goal is to
+use the proposed DeepONet framework for model-based reinforcement learning. ",math.DS,B,-0.33163443,-0.25403306,-0.16459532
+http://arxiv.org/pdf/2206.07016v1,Dynamical behavior of a colony migration system: Do colony size and quorum threshold affect collective-decision?,"Therefore, it is interesting to propose a colony migration
+model with two or several potential sites to investigate the dynamic mechanism underlying nest-selection
+behavior, the eﬀects of distances or qualities on the outcome of migration, and the impact of colony size on
+the duration of collective decision-making. We keep these consideration for our future work. Acknowledgments
+
+      We have no conﬂict of interest to declare. ",math.DS,B,-0.25959492,-0.25421578,0.031145094
+http://arxiv.org/pdf/2206.08295v1,Non-uniformly hyperbolic endomorphisms,"It is remarkable that the corresponding question for endomorphisms has not been
+addressed before, but this can be explained by the surplus of additional diﬃculties
+that the non-invertible case presents, leading to a much less developed theory than its
+corresponding invertible counterpart. The aim of this paper is to make a contribution to
+the ergodic theory of non-invertible endomorphisms of T2, and present interesting new
+phenomena that perhaps will motivate additional research. In contrast to the case of diﬀeomorphisms, we will establish the existence of C1 ro-
+bust NUH endomorphisms in T2, without essentially any topological obstruction. ",math.DS,C,0.3057297,0.0101254815,0.20418894
+http://arxiv.org/pdf/2206.08295v2,Non-uniformly hyperbolic endomorphisms,"It is remarkable that the corresponding question for endomorphisms has not been
+addressed before, but this can be explained by the surplus of additional diﬃculties
+that the non-invertible case presents, leading to a much less developed theory than its
+corresponding invertible counterpart. The aim of this paper is to make a contribution to
+the ergodic theory of non-invertible endomorphisms of T2, and present interesting new
+phenomena that perhaps will motivate additional research. In contrast to the case of diﬀeomorphisms, we will establish the existence of C1 ro-
+bust NUH endomorphisms in T2, without essentially any topological obstruction. ",math.DS,C,0.3057295,0.010125402,0.204189
+http://arxiv.org/pdf/2206.08630v1,Globally Resonant Homoclinic Tangencies,"Performing
+nonlinear coordinate changes numerically and automating it for eﬃcient computation
+CHAPTER 6. CONCLUSIONS AND OPEN PROBLEMS                                                           92
+
+is a challenging task which remains for future work. 6.2 Conclusion
+
+In this thesis we have addressed a new phenomenon of the coexistence of inﬁnitely many
+
+asymptotically stable single-round periodic solutions and the mechanism associated to
+
+it in discrete two-dimensional maps. ",math.DS,A,0.06830482,0.3831864,0.08633966
+http://arxiv.org/pdf/2206.09955v1,The Sparse-Grid-Based Adaptive Spectral Koopman Method,"Moreover, we only used level-1 sparse grid method in SASK
+to obtain good results in the illustrative examples. In our future work, we will further investigate
+the selection of adaptivity paramters and the requirement on the accuracy level of the sparse grid
+method. A Sparse grid illustration
+
+Figure 12 is an illustration of sparse grids and their full grid counterparts. ",math.DS,B,-0.11404138,-0.049097665,-0.3703012
+http://arxiv.org/pdf/2206.10002v1,The $μ$-neutral fractional multi-delayed differential equations,"The next possible further work can be devoted to study asymptotic stability, exponential stability, ﬁnite
+time stability, and also Lyapunov type stability of the µ-neutral Caputo fractional multi-delayed diﬀerential
+equations with noncommutative coeﬃcient matrices as well as its relative controllability and iterative learning
+controllability. Another possible direction for additional studies is to extend our system (4) to µ-fractional
+functional evolution equations and all possibilities as noted just above can be questioned once again for this
+new system. 12
+References
+
+[1] M. Abbaszadeh, M. Dehghan, M. A. Zaky, A. S. Hendy, “Interpolating stabilized element free Galerkin
+    method for neutral delay fractional damped diﬀusion-wave equation.” J. Funct. ",math.DS,B,-0.1718869,0.049186297,-0.10820408
+http://arxiv.org/pdf/2206.11230v1,Dimension reduction of dynamics on modular and heterogeneous directed networks,"For example,       structure under the chosen partition can be used to predict how
+in a system modeling an ecological dynamics, our observables         accurate the reduced dynamics will be. Elucidating these and
+reﬂect the overall abundance of diﬀerent groups of species, so by    other issues will require additional research in the coming years. studying the reduced system we can infer which species groups
+could go extinct as a parameter is perturbed. ",math.DS,B,-0.31799227,-0.045253735,-0.02601561
+http://arxiv.org/pdf/2206.12031v1,Computing connecting orbits to infinity associated with a homoclinic flip bifurcation,"Section 5 then explains
+how this set-up can also be used to ﬁnd connecting orbits from a saddle periodic orbit to inﬁnity. In the ﬁnal
+Section 6 we draw conclusions and point to some directions for further research. 2 Codimension-two orbit ﬂip bifurcation of inward-twisted type
+     Cin
+
+A homoclinic ﬂip bifurcation of case C is the global bifurcation of the lowest codimension that involves a real
+
+saddle equilibrium (its eigenvalues relevant to the bifurcation are all real) and gives rise to chaotic dynamics. ",math.DS,A_centroid,-0.032504253,0.48411626,0.2357217
+http://arxiv.org/pdf/2206.12269v1,"Data-driven reduced order models using invariant foliations, manifolds and autoencoders","We have shown that the high-dimensional function required
+to represent an encoder can be represented by polynomials with sparse tensor coeﬃcients,
+which signiﬁcantly reduces the computational and memory costs. Sparse tensors are also
+amenable to further analysis, such as singular value decomposition [25], which gives way to
+mathematical interpretations of the decoder U . The low dimensional map S is also amenable
+to normal form transformations, which can be used to extract information such as instant-
+aneous frequencies and damping ratios. ",math.DS,B,-0.04593184,-0.11031404,-0.20979635
+http://arxiv.org/pdf/2206.12350v1,Flatness Analysis for the Sampled-data Model of a Single Mast Stacker Crane,"Flatness and
+from formulating and solving an optimization problem,            submersivity of discrete-time dynamical systems. IEEE
+subject to further research could be the design of discrete-     Control Systems Letters, 4(2), 337–342. time ﬂatness-based tracking controllers based on an exact
+linearization as proposed in Kolar et al. ",math.DS,B,-0.14831302,-0.028417658,-0.18582557
+http://arxiv.org/pdf/2206.13379v1,A fuzzy derivative model approach to time-series prediction,"Finally,                  aggregations ( ) of Aji (xi), as explained in (2). conclusions are drawn and some directions for future work
+are outline in Section 6. Aj(xj) = 1 for xj = x¯j = (x¯j1, . ",math.DS,C,0.12720387,-0.1641717,-0.01067789
+http://arxiv.org/pdf/2206.13840v1,Breakdown of heteroclinic connections in the analytic Hopf-Zero singularity: Rigorous computation of the Stokes constant,"It also plays an important role in the breakdown of small amplitude breathers
+for the Klein-Gordon equation (albeit in an inﬁnite dimensional setting), see
+[SK87, GGSZ21]. We plan to provide a computer assisted proof of the Stokes
+constant to guarantee the non-existence of small breathers in given Klein-Gordon
+equations in a future work. 3
+    In this paper, we provide a method to compute the Stokes constant associ-
+ated to the breakdown of the one-dimensional heteroclinic connection in analytic
+unfoldings of the conservative Hopf-zero singularity. ",math.DS,A,0.22044593,0.28796726,-0.20063908
+http://arxiv.org/pdf/2206.14878v1,Arnold diffusion in a model of dissipative system,"Applying a Shadowing Lemma type
+of results similar to those in [Zgl09, GT17, GdlLMS20, CG], we will be able to show
+that there exist true orbits zptq of (1.1) such that zp0q ă I1 and zpT q ą I2. We leave
+the technical details for a future work. In practical applications one can pass from pseudo-orbits to true orbits by applying
+small controls; for example, in the case of artiﬁcial satellites perturbed by atmospheric
+drag, the small controls can be satellite maneuvers. ",math.DS,A,0.14907306,0.10754358,0.024483688
+http://arxiv.org/pdf/2206.14878v2,Arnold diffusion in a model of dissipative system,"Applying a Shadowing Lemma type
+of results similar to those in [Zgl09, GT17b, GdlLMS20, CG], we will be able to show
+that there exist true orbits zptq of (1.1) such that zp0q ă I1 and zpT q ą I2. We leave
+the technical details for a future work. The above pseudo-orbits are such that the end-point of one is δpεq-close to the
+starting-point of the next one, where δpεq “ Opεq. ",math.DS,A,0.26889014,0.17767107,0.17409143
+http://arxiv.org/pdf/2207.00252v1,A dynamical systems approach to WKB-methods: The simple turning point,"5. Discussion and future work
+
+   In this paper, we have presented a novel dynamical systems oriented approach
+to problems traditionally treated by WKB-methods or other methods based on
+formal or rigorous asymptotic expansions. In our main result, Theorem 3.1, we
+provide a description of solutions within W u in diﬀerent domains that cover a full
+neighborhood of the turning point for all 0 < 1. ",math.DS,B,-0.07579629,0.10578062,-0.12807652
+http://arxiv.org/pdf/2207.00252v2,A dynamical systems approach to WKB-methods: The simple turning point,"5. Discussion and future work
+
+    In this paper, we have presented a novel dynamical systems oriented approach
+
+to problems traditionally treated by WKB-methods or other methods based on
+
+formal or rigorous asymptotic expansions. In our main result, Theorem 3.1, we
+
+provide a description of solutions within W u in diﬀerent domains that cover a full
+
+neighborhood of the turning point for all 0 < 1. ",math.DS,B,-0.07579629,0.10578062,-0.12807652
+http://arxiv.org/pdf/2207.00602v1,Synchronization and random attractors for reaction jump processes,"This fact is also mirrored by the respective stationary distribu-
+tions of the one- and two-point motion, as illustrated in Figures 9 and 10. A proof of the associated structure of the random attractor is much more
+involved than in the simple birth-death case and will be left for future work. 5 Conclusion
+
+We have introduced the phenomenon of (partial) time-shifted synchronization
+for reaction jump processes, using their description via the augmented and em-
+bedded Markov chain whose properties as a random dynamical system can be
+speciﬁed through the structure of the corresponding random attractor. ",math.DS,B,-0.19546667,-0.097125426,0.36438727
+http://arxiv.org/pdf/2207.00875v1,The dud canard: Existence of strong canard cycles in $\mathbb R^3$,"In Section 4, we complete the proof of the theorem. Finally, in Section 5
+we conclude the paper through a discussion of the results and potential future work. 2 Existence of small periodic orbits
+
+In the scaling chart ¯ = 1, applying (7) to ((3), ˙ = 0) gives
+
+                           x˙ 2 = y2 − (µ + 1)z2 + r2F2(x2, y2, z2, r2, µ),
+                           y˙2 = 21 µ + r2a1y2 + r2a2z2 + r22G2(x2, y2, z2, r2, µ), (9)
+                           z˙2 = x2 + z22 + r2z2H2(x2, y2, z2, r2, µ),
+
+and r˙2 = 0. ",math.DS,A,0.28352433,0.32679987,0.19103807
+http://arxiv.org/pdf/2207.00875v2,The dud canard: Existence of strong canard cycles in $\mathbb R^3$,"In Section 4, we complete the proof of the theorem. Finally, in Section 5 we conclude the
+paper through a discussion of the results and potential future work. 2. ",math.DS,C_centroid,0.43557063,-0.14397112,-0.036059063
+http://arxiv.org/pdf/2207.01961v1,Neimark-Sacker bifurcation and stability analysis in a discrete phytoplankton-zooplankton system with Holling type II functional response,"Finally, we have given an example with
+numerical simulation illustrating our results and an attracting invariant closed curve bifurcates
+from the ﬁxed point E2. One aspect of our future work is focused to study the global dynamics
+of the nonlinear model (1.4). 16  S.K. ",math.DS,A,-0.16427997,0.44764405,0.18851201
+http://arxiv.org/pdf/2207.03222v1,COVID-19 adaptive humoral immunity models: weakly neutralizing versus antibody-disease enhancement scenarios,"In summary, our results seem to support a picture where ADE presence
+is primary correlated with important target cell destruction while loss in neu-
+tralization capacity is correlated with both higher antibody count (leading to
+inﬂammation) and larger target cell destruction. 5.1 Limitations and future work
+
+As any other, our model contains of course several limitations. First, we consid-
+ered all infected cells to support viral replication, including ADE-infected cells. ",math.DS,B,-0.10761268,-0.19459511,-0.040032864
+http://arxiv.org/pdf/2207.03230v1,Complex oscillatory dynamics in a three-timescale El Niño Southern Oscillation model,"We remark that, similarly to the regime where (c, k) ∈ V3, the above analysis is valid only for
+a = O(1): when a 1, the three-timescale separation where x is fast, y is intermediate, and z is
+slow, as described here, breaks down in accordance with Remark 4. An in-depth study of that case
+is again included in plans for future work. Moreover, as in the regime where (c, k) ∈ V2, we observe that there exists a value ap = ap(c, k)
+which distinguishes between trajectories that feature plateaus from those that do not; speciﬁcally,
+(5) features oscillation with plateaus above for 0 < a ap, whereas plateauless trajectories are
+observed for a ap and a = O(1). ",math.DS,A,-0.060905002,0.10494037,0.09702325
+http://arxiv.org/pdf/2207.03967v1,Geometric blow-up of a dynamic Turing instability in the Swift-Hohenberg equation,"In order to prove that a hard onset of
+patterned states occurs near v = ρin we would also need to provide a lower bound on the norm of Ψ(·, T ). Such an approach has been successfully applied in the context of scalar reaction-diﬀusion problems in
+[44, 67], but the analysis for equation (4) is left for future work. As in classical modulation theory, rigorous bounds for the error associated to the approximation are
+necessary in order to relate the dynamics of the approximation Ψ and solutions to the SH problem (4). ",math.DS,B,0.0051014666,0.0004757624,-0.012570579
+http://arxiv.org/pdf/2207.03967v2,Geometric blow-up of a dynamic Turing instability in the Swift-Hohenberg equation,"In order to prove that a hard onset of
+patterned states occurs near v = ρin we would also need to provide a lower bound on the norm of Ψ(·, T ). Such an approach has been successfully applied in the context of scalar reaction-diﬀusion problems in
+[44, 67], but the analysis for equation (4) is left for future work. As in classical modulation theory, rigorous bounds for the error associated to the approximation are
+necessary in order to relate the dynamics of the approximation Ψ and solutions to the SH problem (4). ",math.DS,B,0.0051014666,0.0004757624,-0.012570579
+http://arxiv.org/pdf/2207.04309v1,On the use of dynamic mode decomposition for time-series forecasting of ships maneuvering in waves,"Results are
+presented for the course keeping of a free-running naval destroyer (5415M) in irregular stern-quartering waves, using
+unsteady Reynolds-averaged Navier-Stokes (URANS) computations [36] and the free-running KRISO Container Ship
+(KCS), using experimental data from the University of Iowa IIHR wave basin [37], focusing on starboard turning circle
+in regular waves. 2
+                                                                               A PREPRINT - JULY 12, 2022
+
+The remainder of the paper is organized as follows: Section 2 presents the DMD formulation, a brief description of the
+test cases is given in Section 3, DMD and statistical analysis details are provided in Section 4, Section 5 presents the
+numerical results, and ﬁnally, conclusions and possible extension for future work are discussed in Section 6. 2 Dynamic Mode Decomposition
+
+Consider a dynamical system described as
+                                                             dx = f (x, t; µ), (1)
+                                                             dt
+
+where x(t) ∈ Rn represents the system’s state at time t, µ contains the parameters of the system, and f (·) represents
+its dynamics. ",math.DS,B,-0.20319274,0.122489855,-0.3479448
+http://arxiv.org/pdf/2207.04309v2,On the use of dynamic mode decomposition for time-series forecasting of ships operating in waves,"Results are presented and discussed for
+the course keeping of a free-running naval destroyer (5415M) in irregular stern-quartering waves, using unsteady
+Reynolds-averaged Navier-Stokes (URANS) computations [36] data and the free-running KRISO Container Ship
+(KCS), using experimental data from the University of Iowa IIHR wave basin [37], focusing on starboard turning circle
+in regular waves. 2
+                                                                               A PREPRINT - AUGUST 2, 2022
+
+The remainder of the paper is organized as follows: Section 2 presents the DMD formulation, a brief description of the
+test cases is given in Section 3, DMD and statistical analysis details are provided in Section 4, Section 5 presents the
+numerical results, and ﬁnally, conclusions and possible extension for future work are discussed in Section 6. 2 Dynamic Mode Decomposition
+
+Consider a dynamical system described as
+                                                             dx = f (x, t; µ), (1)
+                                                             dt
+
+where x(t) ∈ Rn represents the system’s state at time t, µ contains the parameters of the system, and f (·) represents
+its dynamics. ",math.DS,B,-0.20734888,0.12883589,-0.34588352
+http://arxiv.org/pdf/2207.04309v3,On the use of dynamic mode decomposition for time-series forecasting of ships operating in waves,"After this time horizon, the prediction is no
+longer accurate and the methodology needs further improvements. Methodological advancements that will be subject of future work include DMD with time-delay embedding [18] and
+multi-resolution DMD [22]. Finally, the combination of DMD with artiﬁcial NN approaches [5] is expected to overcome
+
+                                                                     16
+                                                                       A PREPRINT - NOVEMBER 8, 2022
+
+                                             1.0
+                                                                                                                   Mode 1,2
+
+                                             0.5
+
+Magnitude of the eigenvector components [−]  0.0
+                                             01..80
+
+                                                                                                                   Mode 3,4
+
+                                             0.5
+
+                                             0.0
+                                             01..60
+
+                                                                                                                   Mode 5,6
+
+                                             0.5
+
+                                             00..40
+                                             1.0
+
+                                                                                                                   Mode 7,8
+
+                                             0.5
+
+                                             00..20
+                                             1.0
+
+                                                                                                                  Mode 9,10
+
+                                             0.5
+
+                                             0.0       y 0.2z  u 0.4v  w R0o.6ll Pitch Dr0if.t8 hrust orqu1e.0
+                                                0.0 x                                            TT
+
+Figure 19: The eigenvector components of all modes sorted by frequency (in ascending order) for the KCS test case. ",math.DS,B,-0.18693021,0.14949447,-0.23679054
+http://arxiv.org/pdf/2207.04971v1,The smallest bimolecular mass action reaction networks admitting Andronov-Hopf bifurcation,"Finally, we can combine the approach taken in this paper with theory on the inheritance of non-
+degenerate behaviours in CRNs summarised in [36] to make claims about larger networks with the
+potential for Hopf bifurcation. We mention just two of many possible results we can obtain from
+this process, and defer further analysis to future work. 26 THE SMALLEST BIMOLECULAR MASS ACTION CRNS ADMITTING ANDRONOV-HOPF BIFURCATION
+
+(1) Using the theory developed in [15] (see Remark 6 in in [15]), we ﬁnd that, up to isomorphism,
+     264 bimolecular (4, 4, 3) CRNs, falling into 198 dynamically non-equivalent classes admit non-
+     degenerate Hopf bifurcation simply because they include one of the bimolecular (3, 4, 3) CRNs
+     which admits Hopf bifurcation as a subnetwork in a natural sense. ",math.DS,A,-0.06404851,0.32213736,0.32333335
+http://arxiv.org/pdf/2207.04971v2,The smallest bimolecular mass action reaction networks admitting Andronov-Hopf bifurcation,"26 THE SMALLEST BIMOLECULAR MASS ACTION CRNS ADMITTING ANDRONOV–HOPF BIFURCATION
+
+Finally, we can combine the approach taken in this paper with theory on the inheritance of non-
+degenerate behaviours in CRNs summarised in [40] to make claims about larger networks with the
+potential for Hopf bifurcation. We mention just two of many possible results we can obtain from
+this process, and defer further analysis to future work. (1) Using the theory developed in [15] (see Remark 6 in [15]), we ﬁnd that, up to isomorphism,
+     264 bimolecular (4, 4, 3) CRNs, falling into 198 dynamically non-equivalent classes admit non-
+     degenerate Hopf bifurcation simply because they include one of the bimolecular (3, 4, 3) CRNs
+     which admits Hopf bifurcation as a subnetwork in a natural sense. ",math.DS,A,-0.039956376,0.32628846,0.31019157
+http://arxiv.org/pdf/2207.07353v1,A category-theoretic proof of the ergodic decomposition theorem,"In this work we focus on the strict approach. A Markov-categorical formalism
+to treat morphisms up to almost-sure equality exists [7, Deﬁnition 13.8], and it
+may open an interesting new approach, which for now we leave to future work. Outline. ",math.DS,C,0.15433514,-0.38097507,0.15870118
+http://arxiv.org/pdf/2207.07353v2,A category-theoretic proof of the ergodic decomposition theorem,"In this work we focus on the strict approach. A Markov-categorical formalism
+to treat morphisms up to almost-sure equality exists [7, Deﬁnition 13.8], and it
+may open an interesting new approach, which for now we leave to future work. Outline. ",math.DS,C,0.15433514,-0.38097507,0.15870118
+http://arxiv.org/pdf/2207.07398v1,Revisiting the dynamic of Q-deformed logistic maps,"6. Conclusions and future work
+
+    In this paper, we extended the work of [20] and, following the outline
+of [8], analyzed the q-deformed logistic map under a q-deformation, which
+displays worse properties than that of [8]. As a result, we obtain that when
+several q-deformations are applied, the order in which we iterate them plays
+a role in bringing chaotic dynamics. ",math.DS,A,0.111951694,0.08811217,0.21244353
+http://arxiv.org/pdf/2207.08085v1,Quasi-compactness of transfer operators for topological Markov shifts with holes,"In the inﬁnite state
+case, however, the assumption that the unperturbed system possesses Gibbs measures
+imposes a restriction on the transition matrix M. To avoid restriction in M, we need an
+additional condition for ϕ and this is the summability (1.1). We shall apply our results to
+inﬁnite-state Markov systems with holes in a future work. In this paper, we demonstrate
+convergence of the topological pressure and the Gibbs measure of perturbed potential in
+our open system setting (Section 6.2). ",math.DS,C,0.058769755,-0.21875802,0.1812101
+http://arxiv.org/pdf/2207.09406v1,A Level Set Kalman Filter Approach to Estimate the Circadian Phase and its Uncertainty from Wearable Data,"This novel approach to ﬁltering problems can be
+applied to solve the chemical Langevin equation, a diﬀusion approximation of the chemical master equation
+describing stochastic dynamics of chemical systems [50]. It would be interesting in future work to compare its
+performance with existing methods such as the system size expansion [56] and moment closure approximations
+[19]. Our LSKF-based ﬁltering approach also has broad applicability in biological studies. ",math.DS,B,-0.33562583,-0.171296,0.014903443
+http://arxiv.org/pdf/2207.10251v1,Border-collision bifurcations from stable fixed points to any number of coexisting chaotic attractors,"Then in §8 we take Cartesian products of intervals to obtain
+boxes, where unions of the boxes form trapping regions for the n-dimensional maps. In §9
+we use Burnside’s lemma and combinatorical arguments to derive an explicit formula for
+the number of trapping regions that result from this construction as a function of n and
+k. We believe that each trapping region contains a unique attractor for suﬃciently small
+perturbations, but a proof of this remains for future work. In the case n = 2 we can obtain
+any number of trapping regions. ",math.DS,C,0.21736991,0.052141953,0.15256268
+http://arxiv.org/pdf/2207.11507v2,Notes on Resonant and Synchronized States in Complex Networks,"It adds to the already vast literature on the subject some
+                                                             contributions of immediate interpretation, such as an explicit
+                                                             expression of the average synchronization time that encodes
+                                                             information about the general topology of the network or
+                                                             the expressions of the resonance frequencies of the entire
+                                                             network as a function of the eigenvalues of the Laplacian
+                                                             matrix. Possible and interesting extensions for future works
+                                                             may be the following: a study of the phenomenon of
+                                                             beats on networks, performed by assigning different values
+                                                             of the coupling coefﬁcients to different groups of nodes,
+                                                             starting for example from the case of a bipartite network
+                                                             with two distinct values on the two clusters; or designating
+                                                             network learning routines that, by acting on the coupling
+                                                             parameters, allow to reduce synchronization times, up to
+                                                             an optimal value, or adaptive mechanisms whereby the
+                                                             oscillators can modify their mass or frequency to yield global
+                                                             cooperative behaviours; or, ﬁnally, the introduction of non-
+                                                             local interactions through generalizations of the Laplacian
+                                                             and the introduction of an external stress factor acting on
+                                                             the network, in order to analyse its effects on resonance and
+                                                             synchronization outcomes. (b)               Appendix A: Mathematical Properties and Polar
+                                                             Decomposition of the G matrices
+                                            (c)
+                                                                We propose here some interesting theoretical results about
+FIG. ",math.DS,B,-0.29122275,-0.051823366,0.07079354
+http://arxiv.org/pdf/2207.13547v1,Pulse-adding of Temporal Dissipative Solitons: Resonant Homoclinic Points and the Orbit Flip of Case B with Delay,"This work has primarily focussed on the existence of TDS, leaving the stability analysis as an interesting
+avenue for future research [65]. Homoclinic bifurcations have been studied extensively in ODEs [25, 52], and
+future work will be dedicated to studying the relationship between TDSs and homoclinic bifurcations further. Candidates include orbit ﬂip/inclination ﬂip bifurcations of case C, which give rise to n-homoclinic orbits
+[23, 26, 28]. ",math.DS,A,-0.11971387,0.46693835,0.14432177
+http://arxiv.org/pdf/2207.13854v1,Cascades of Global Bifurcations and Chaos near a Homoclinic Flip Bifurcation: A Case Study,"22, because
+it fullﬁls the eigenvalue conditions of case C. Preliminary work suggest that it also fullﬁls the necessary
+geometry condition for case C. On the other hand, our bifurcation analysis clearly identiﬁes the point B∗I as
+an inclination ﬂip bifurcation of case B. Further analysis of this codimension-two point is beyond the scope
+of this paper, and left for future work. 37
+       (a)
+
+µ∗ (b)
+       Q  2 Γt  [  2Γ     ]                      PDΓt
+          0            o     C3I                             Γ
+                                   5                         Q0t [Γo]
+                                   CI C7
+                                        I                                              40
+
+                                           CC−2Γa            PD4Γt
+
+0.007           Ho[Γo, Γt]                                      Ht[Γo, 8Γt]
+          Ho[Γo, 3Γt]
+          Ho[Γo, 5Γt]                                                  Ht[Γo, 6Γt]     30
+
+                                                                       PD2Γt
+
+0.002 Ho[Γo, 7Γt]                          Ht[Γo, 4Γt]                                               20
+                                                                                    F∗
+
+                                           Ht[Γo, 2Γt]                                              10
+                                                                                       C2I
+
+                                   2Ht
+
+                             0.95                       1.2                         α
+
+Figure 23: Comparison of a theoretical and numerical inclination ﬂip bubble. ",math.DS,A,0.034672476,0.41628972,-0.016037188
+http://arxiv.org/pdf/2208.01361v1,Geometric Blow-up for Folded Limit Cycle Manifolds in Three Time-Scale Systems,"near a non-hyperbolic ﬂip/period-doubling
+type cycle in three time-scale systems of the form (4). These and other related problems are left for
+future work. 28
+Acknowledgements
+
+SJ, SVK and CK acknowledge funding from the SFB/TRR 109 Discretization and Geometry in Dynamics
+grant. ",math.DS,A,0.023023108,0.33719736,0.11499799
+http://arxiv.org/pdf/2208.01980v1,A Comprehensive and Detailed Within-Host Modeling Study involving crucial Bio markers and Optimal Drug regimen for Lepra Type-I Reaction : A Deterministic Approach,"The scatter plots enables the graphical detection of the non-linearities, non-monotonicities between
+model input (parameter) and output (variables). If the trend is non-linear then rank correlation
+coeﬃcient such as Partial Rank Correlation Coeﬃcient (PRCC) , Spearman’s Rank Correlation
+Coeﬃcient (SRCC) will be used for further sensitivity analysis where as if the trend is non-monotonic,
+method based on decomposition of model output variance such as Sobol’s method will be the best
+choice for further analysis. 6.1 LHS and Scatter plots
+
+           As an initial step to LHS we select the following parameters listed in Table 4 having possible
+uncertainty in their values and consider them for the process of sampling. ",math.DS,B,-0.29658204,-0.061273575,-0.12779328
+http://arxiv.org/pdf/2208.02085v1,Abundance of infinite switching,"For λ ∈ ]0, λ0]\∆λ (λ0 small), we guess that the non-wandering set of Lebesgue almost all
+solutions of (3.1) has zero topological entropy. We defer the formal proof of this conjecture
+for a future work. References
+
+ [1] V. Afraimovich, I. Tristan, R. Huerta, M. Rabinovich, Winnerless competition principle and prediction
+      of the transient dynamics in a Lotka-Volterra model, Chaos 18(4) 043103, 2008. ",math.DS,C,0.2056888,-0.123269975,0.3693292
+http://arxiv.org/pdf/2208.02085v2,Abundance of infinite switching,"For λ ∈ ]0, λ0]\∆λ (λ0 small), we guess that the non-wandering set of Lebesgue almost all
+solutions of (3.1) has zero topological entropy. We defer the formal proof of this conjecture
+for a future work. References
+
+ [1] V. Afraimovich, I. Tristan, R. Huerta, M. Rabinovich, Winnerless competition principle and prediction
+      of the transient dynamics in a Lotka-Volterra model, Chaos 18(4) 043103, 2008. ",math.DS,C,0.2056888,-0.123269975,0.3693292
+http://arxiv.org/pdf/2208.03390v1,Quantum Mechanics for Closure of Dynamical Systems,"Here, a challenge
+         QUANTUM MECHANICS FOR CLOSURE OF DYNAMICAL SYSTEMS             39
+
+would be how to handle sequential two-way interactions between the classical and
+quantum computational systems representing the resolved and unresolved dynamics,
+respectively. We believe that addressing this and other related problems would be
+fruitful areas for future work. Appendix A. ",math.DS,B,-0.061881956,0.04336876,0.098121025
+http://arxiv.org/pdf/2208.03533v1,Pattern alternations induced by nonlocal interactions,"[7]), but here we restrict the pattern formation for σ ≤ 1.5. A
+detailed study of the pattern formation of the considered nonlocal model (2) for higher values of σ is one of
+the important issues for future work. Figure 5: (Color online) Turing and temporal-Hopf bifurcation curves for the local and nonlocal models. ",math.DS,A,-0.15955496,0.111692995,0.35384172
+http://arxiv.org/pdf/2208.04577v1,Novel slow-fast behaviour in an oscillator driven by a frequency-switching force,"Similar to proving assumption 1,
+this would be a lengthy but straightforward application of well established
+methods, one that we avoid here. The precise results of such matching will not aﬀect the qualitative fea-
+tures of the ﬂow that we identify in this section, so we will formulate our
+main results that follow only qualitatively, leaving more rigorous statements
+to perhaps be formulated in future work. For this section we again return to the coordinate system (x, y, u) rather
+than using v = xu. ",math.DS,C,0.32246768,-0.12930247,-0.1316996
+http://arxiv.org/pdf/2208.05349v2,Matrix cocycles in the learning of dynamical systems,"Alternatively, optimization methods in learning dynamics could be modiﬁed to enforce additional
+constraints to satisfy Assumption 3. These are interesting directions of future work. 2.2 Paradigm II : Delay coordinates. ",math.DS,B,-0.22986616,-0.11875409,-0.2087023
+http://arxiv.org/pdf/2208.05349v3,Learning theory for dynamical systems,"Alternatively, optimization methods in learning dynamics could be modiﬁed to enforce additional
+constraints to satisfy Assumption 3. These are interesting directions of future work. 2.2 Paradigm II : Delay coordinates. ",math.DS,B,-0.22986616,-0.11875409,-0.2087023
+http://arxiv.org/pdf/2208.06759v1,On variational principles of metric mean dimension on subset in Feldman-Katok metric,"1
+2        KUNMEI GAO, RUIFENG ZHANG
+
+Li[3] study the entropy in the Feldman-Katok metric and obatined an entropy for-
+mulae. Recently, Nie and Huang [22] further study the restricted sensitivity and
+entropy in FK metirc and obtained conditional entropy formulae. Mean dimension was ﬁrst introduced by Gromov[8] in 1999. ",math.DS,C,0.148093,-0.4240837,0.048469756
+http://arxiv.org/pdf/2208.07286v1,Smooth Models for Certain Fibered Partially Hyperbolic Systems,"Without this assumption, we would be able to the
+conjugacy h : B → B between f and A, and we would be able to construct a smooth F -
+bundle M over B that is isomorphic to the original F -bundle M.7 However, the structure
+group of M would only be Diﬀ∞(F ), not Isom(F ). Finding a way to lift A : B → B to a partially hyperbolic diﬀeomorphism g : M → M
+without requiring that the structure group of M be Isom(F ) is a question for further research. 7. ",math.DS,B,0.08487141,-0.030938096,-0.15494199
+http://arxiv.org/pdf/2208.07286v2,Smooth Models for Certain Fibered Partially Hyperbolic Systems,"Without this assumption, we would be able to the
+conjugacy h : B → B between f and A, and we would be able to construct a smooth F -
+bundle M over B that is isomorphic to the original F -bundle M.7 However, the structure
+group of M would only be Diﬀ∞(F ), not Isom(F ). Finding a way to lift A : B → B to a partially hyperbolic diﬀeomorphism g : M → M
+without requiring that the structure group of M be Isom(F ) is a question for further research. 7. ",math.DS,B,0.08487141,-0.030938096,-0.15494199
+http://arxiv.org/pdf/2208.07543v1,On parameter identifiability in network-based epidemic models,"With more and more mobility data becoming available as well as data from
+contact surveys means that contact networks can be characterised suﬃciently in order to produce
+meaningful estimates from complex models. In terms of future work, we believe that there is value in carrying out a systematic search over the
+parameter space to identify areas where the unidentiﬁability is the most signiﬁcant. Our preliminary
+analysis shows that this is both model and parameter dependent. ",math.DS,B,-0.17421393,-0.19606614,-0.02741179
+http://arxiv.org/pdf/2208.09995v1,A Necessary and Sufficient Condition for Complete phase synchronization of high-dimensional nonidentical Kuramoto oscillators,"Under the topology of strongly connected digraphs, a necessary and
+suﬃcient condition for complete phase synchronization has been proposed. In our
+future work, we will focus on weakening the graph condition and strengthening the
+synchronization results. References
+
+ [1] I. D. Couzin, “Synchronization: the key to eﬀective communication in animal collectives,” Trends
+         in cognitive sciences, vol. ",math.DS,B,-0.19082321,-0.10773572,0.29250658
+http://arxiv.org/pdf/2208.10173v1,Fractal codimension of nilpotent contact points in two-dimensional slow-fast systems,"We believe that dimB CS = 2 when
+X˜ has inﬁnite fractal codimension. This is a topic of further study. 4. ",math.DS,C,0.2691034,-0.0384513,-0.05777962
+http://arxiv.org/pdf/2208.10691v1,A fixed-time inverse-free dynamical system for solving the system of absolute value equations,"[7, 19, 24, 27, 28]
+and the references therein. In this paper, we focus on further studying the continuous solution schemes for solving the
+AVEs (1.1). We brieﬂy introduce some existing works in the following. ",math.DS,B,0.078449674,-0.11576631,-0.1905109
+http://arxiv.org/pdf/2208.11559v1,Entry-exit functions in fast-slow systems with intersecting eigenvalues,"We postulate that our construction can be extended to such
+systems, by careful consideration of each intersection of the eigenvalues along the corresponding
+critical manifold. We leave a potential classiﬁcation and extension of entry-exit formulae in analogy
+to those derived in Theorem 1 in higher dimensions, as well as the investigation of alternatives to
+the polar coordinate transformation performed here, for future work. Acknowledgements
+
+The authors would like to thank Stephen Schecter for insightful discussions and relevant recom-
+mendations. ",math.DS,A,0.23722227,0.16032676,-0.005574772
+http://arxiv.org/pdf/2208.11685v1,Analysis of point-contact models of the bounce of a hard spinning ball on a compliant frictional surface,"One of the most challenging tasks of the modelling will thus be to solve that problem
+in the initial condition space. That is, given the data, future work will be aimed at identifying the lower
+dimensional divide of the space which will identify the initial condition that will lead to the bounce with slip
+only and those that will enter gripping at some point. The aim of identifying such key features is to allow for more precise modelling of the compliant surface,
+in particular in the game of golf. ",math.DS,B,-0.21050987,-0.0067524714,-0.32128364
+http://arxiv.org/pdf/2208.13167v1,Large amplitude radially symmetric spots and gaps in a dryland ecosystem model,"This is related to the challenges which arise in the existence analysis in §3 due to the
+nonlinear reduced ﬂow on the slow manifold M+δ . Another natural line of further research is investigating whether the present insights obtained on speciﬁc model
+
+                                       33
+5         3
+
+          2.5                                                                                                           0
+                                                                                                                     -0.05
+          2                                                                                                           -0.1
+                                                                                                                     -0.15
+0         1.5
+
+          1
+
+          0.5                                                                                                        -0.2
+
+-5        0 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 -0.25 -15 -10 -5 0
+-5  0  5
+                                                                                                                             5  10  15
+
+5         3
+
+                                                                                                                     0
+
+          2.5                                                                                                        -0.02
+
+                                                                                                                     -0.04
+
+          2                                                                                                          -0.06
+
+0         1.5                                                                                                        -0.08
+                                                                                                                      -0.1
+
+                                                                                                                -0.12
+          1
+
+                                                                                                                -0.14
+
+                                                                                                    0.5 -0.16
+                                                                                                                                                                                                            -0.18
+
+-5-5 0 5 0 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 -0.2 -15 -10 -5 0 5 10 15
+
+10        3
+
+                                                                                                                     0
+
+                                                                                                           2.5       -0.001
+                                                                                                                     -0.002
+5                                                                                                                    -0.003
+
+                                                                                                             2
+
+0         1.5                                                                                                        -0.004
+                                                                                                                     -0.005
+
+                                                                                                              1      -0.006
+                                                                                                                     -0.007
+-5
+
+          0.5                                                                                                        -0.008
+
+                                                                                                                     -0.009
+
+-10-10 -5 0 5 10 0 0 1 2 3 4 5 6 7 8 9 10 -0.01-15 -10 -5 0 5 10 15
+
+10        3
+
+                                                                                                                     0
+
+                                                                                                           2.5       -0.001
+                                                                                                                     -0.002
+5                                                                                                                    -0.003
+
+                                                                                                             2
+
+0         1.5                                                                                                        -0.004
+                                                                                                                     -0.005
+
+                                                                                                              1      -0.006
+                                                                                                                     -0.007
+-5
+
+          0.5                                                                                                        -0.008
+
+                                                                                                                     -0.009
+
+-10-10 -5 0 5 10 0 0 1 2 3 4 5 6 7 8 9 10 -0.01-15 -10 -5 0 5 10 15
+
+Figure 9: Radially symmetric solutions obtained for the parameter values b = 1.0, m = 0.5, δ = 0.05 for diﬀerent
+values of a. From top to bottom: spot (a = 2.55), gap (= 2.765), ring (a = 2.538), and target pattern (a = 2.78). ",math.DS,A,0.063504115,0.15577519,-0.09494162

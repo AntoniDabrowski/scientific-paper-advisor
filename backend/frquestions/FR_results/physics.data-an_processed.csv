@@ -1,0 +1,201 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.07586v1,RAMANMETRIX: a delightful way to analyze Raman spectra,"In the
+shown example, two out of 8 possible filters are enabled. As a result, only spectra that have correlation with the average
+pretreated (calibrated) spectrum above 0.9 and the background intensity below 2000 will be used in further analysis. The filtered-
+out spectra are marked as “Failed quality spectra” in subsequent mean spectra plots (Figure 10). ",physics.data-an,A,-0.02091453,-0.21684358,-0.04016689
+http://arxiv.org/pdf/2202.08488v1,Adaptive Model Refinement Approach for Bayesian Uncertainty Quantification in Turbulence Model,"The 90% credible interval considering posterior uncertainty and
+model error overlaps with the experimental data. However, the experimental data cannot be covered only by perturbing
+the coefficients of the SST model, which indicates the necessity for further analysis of uncertainties arising from other
+sources. Although the effectiveness and efficiency of the proposed approach are convincing, the time cost of multiple
+inferences is considerable. ",physics.data-an,C,-0.036519453,0.3164152,0.07873039
+http://arxiv.org/pdf/2203.00330v1,Machine Learning for Particle Flow Reconstruction at CMS,"However, for MET, we observe a misreconstructed
+high-MET tail that is most prominent for the QCD sample not used in training. This could
+potentially be attributed to limited training statistics for high-energy neutral particles, which
+are correspondingly not well reconstructed by the MLPF algorithm in the current iteration and
+require further study. We report the computational performance of the model on a single stream on a single GPU
+in ﬁg. ",physics.data-an,C,-0.04048885,-0.0871467,-0.03743366
+http://arxiv.org/pdf/2203.02831v1,The detection matrix as a model-agnostic tool to estimate the number of degrees of freedom in mechanical systems and engineering structures,"ses regarding the applicability of the detection matrix. Third,
+                                                                 numerical results presented thus far only entail isostatic sys-
+   We analytically demonstrated that the approach never over-    tems, thereby calling for further research on hyperstatic en-
+estimates the number of DOFs and yields exact inferences un-     gineering structures, bending-dominated frames, and random
+der broad conditions on the quality and quantity of measure-     beam lattices. ments for linear dynamics without noise. ",physics.data-an,B,0.013657253,-0.16405927,0.12442754
+http://arxiv.org/pdf/2203.05391v1,A Note on A Priori Forecasting and Simplicity Bias in Time Series,"The methods we describe are general and can apply to
+other prediction systems. In future work it would be interesting to combine universal prediction methods like
+SB with other machine learning methods to predict time series (eg [46] where one would be interested in why
+this sort of methods is eﬃcient), potentially aiding or improving the predictions (see also early [47, 48] and
+recent [49, 50] studies on Kolmogorov complexity connections to machine learning). An important direction
+may be to use the SB bound as a prior in the Bayesian sense, as Hutter has described [51, 52], and even in a
+general theory of learning [52]. ",physics.data-an,C,-0.14758301,0.036734708,-0.47851682
+http://arxiv.org/pdf/2203.05391v2,A Note on A Priori Forecasting and Simplicity Bias in Time Series,"The methods we describe are general and can apply to
+other prediction systems. In future work it would be interesting to combine universal prediction methods like
+SB with other machine learning methods to predict time series (e.g. [51] where one would be interested in why
+this sort of method is eﬃcient), potentially aiding or improving prediction (see also early [52, 53] and recent
+[54–56] studies on Kolmogorov complexity connections to machine learning). ",physics.data-an,C,-0.103635594,0.004031891,-0.5682664
+http://arxiv.org/pdf/2203.12107v1,Permutation Jensen-Shannon distance: A versatile and fast symbolic tool for complex time series analysis,"Actually, noise-induced chaos has already
+total of 41 values of r) and noise levels σ between 0.0005         been conﬁrmed for some of the bifurcation parameter val-
+and 0.002 with step ∆σ = 0.0005 (giving a total of 40              ues our analysis highlights, namely r = 3.63, r = 3.74
+values of σ) are ordinally contrasted against their noise-         and r = 3.83 [74]. Although further research is needed
+free counterparts via the PJSD. More precisely, average            to conﬁrm the chaotic nature of the noisy realizations, we
+                                                                                                                                                             9
+
+       10-3                                                             10-3                                                      emphasize that the idea of implementing ordinal related
+                                                            0.3                                                              0.6  tools as a way of assessing the irreversibility of a time se-
+                                                                                                                                  ries is not new and has been recently explored by Zanin et
+0.5                                                              0.5                                                              al. ",physics.data-an,C,-0.003175887,0.018145163,-0.05320092
+http://arxiv.org/pdf/2203.16457v1,TSUBASA: Climate Network Construction on Historical and Real-Time Data,"relations suffices in scenarios such as stock market data [23]. For
+This line of work considers threshold queries for similarity search      future work, we plan to extend our problem definition to unaligned
+in time-series databases and often involve calculating a function        time-series, develop a pairwise correlation pruning algorithm based
+over two or more streams and reporting when the threshold is             on a threshold, and consider further optimization of the parallel
+crossed. Time-series similarity search problems in the community         TSUBASA by fine-tuning. ",physics.data-an,B,0.06274213,-0.21047223,-0.36469942
+http://arxiv.org/pdf/2204.03264v1,Deficit hawks: robust new physics searches with unknown backgrounds,"We will use a signed likelihood
+gion is known to be free of unknown background. Sec-          ratio:
+tion IV discusses potential objections and limitations,
+and section V concludes with a summary and sugges-            t(s) = u(s) · sign(µ(sˆ) − µ(s)),       (3)
+tions for further research. The appendices prove some
+properties of likelihood ratios used in the text (A), dis-    which is positive for excesses (µ(sˆ) > µ(s)) and nega-
+cuss computational costs and ways to reduce it (B), and       tive for deﬁcits. ",physics.data-an,A,-0.10604565,-0.19573274,0.06072344
+http://arxiv.org/pdf/2204.03264v2,Deficit hawks: robust new physics searches with unknown backgrounds,"Sec-            If s controls a signal strength, it is useful to distinguish
+tion IV discusses potential objections and limitations,      excesses and deﬁcits. We will use a signed likelihood
+and section V concludes with a summary and sugges-           ratio:
+tions for further research. The appendices prove some
+properties of likelihood ratios used in the text (A), dis-   t(s) = u(s) · sign(µ(sˆ) − µ(s)),                 (3)
+cuss computational costs and ways to reduce it (B), and
+show performance tests for additional background sce-        which is positive for excesses (µ(sˆ) > µ(s)) and negative
+narios (C). ",physics.data-an,A,-0.05594208,-0.17884137,0.12408024
+http://arxiv.org/pdf/2204.09043v1,RNTuple performance: Status and Outlook,"A number of important features
+are scheduled for 2022: schema evolution, on-demand addition of new columns to the model,
+complete support for vertical/horizontal data combinations, and merging without uncompressing
+pages, only to name a few. As a future work, we also plan to compare the performance achieved
+by the RNTuple and HDF5 DAOS connectors. Acknowledgments
+This work beneﬁted from support by the CERN Strategic R&D programme on Technologies for
+Future Experiments (CERN-OPEN-2018-06). ",physics.data-an,C,0.021860693,-0.057908364,-0.3889453
+http://arxiv.org/pdf/2204.12883v1,20 years of ordinal patterns: Perspectives and challenges,"ﬁers. Therefore, additional research is needed in order to
+                                                                 better understand how to detect and quantify similarities,
+   Uncovering similarities between neurons and                   and also signiﬁcant diﬀerences, in the values of the ordinal
+lasers. – While neurons and lasers are, at ﬁrst sight, re-       probabilities. ",physics.data-an,B,0.06700365,-0.15862119,-0.20787027
+http://arxiv.org/pdf/2205.03611v1,Bayesian estimation of correlation functions,"We leave these eﬀects and their corrections—
+that after increasing n, the precision of ΛAk does not in-  which we expect to be marginally relevant, as Sec. V
+crease for each k, the fact that we have more k values      suggests—as the object of future works. let us perform a more precise ﬁt to the continuous spec-
+trum. ",physics.data-an,A,-0.2442239,-0.28566337,0.1489281
+http://arxiv.org/pdf/2205.03611v2,Bayesian estimation of correlation functions,"One could con-          The explanation is, again, in the global properties of
+sider ﬁtting parametric models to the more-variable es-       the estimating distributions, that is, their relations for
+timating functions such as P (skφk) and similar, instead      diﬀerent frequencies k. While it is true that looking at a
+of the marginals. Nevertheless, we leave investigations of    single k, one can conclude nothing about sBk C , the fact
+parametric estimation as outlined in this subsection for      that all the estimated phases φk are the same in the given
+future works. example makes it obvious that B and C are correlated. ",physics.data-an,A,-0.24286939,-0.08999242,0.012902199
+http://arxiv.org/pdf/2205.05067v2,Augmented Transition Path Theory for Sequences of Events,"For the numerical examples that we consider
+                                                                                          (78)  in the present paper, we evaluate integrals of the form in (3)
+                                                                                                using a ﬁnite diﬀerence approximation, which we detail in Ap-
+We can then combine (74), (77), and (78) using (70):                                            pendix A; more complex systems can be treated by extending
+                                                                                                the approach in refs. 16 and 17, which we leave for future work. 𝜅 (𝑌𝑡:𝑡+Δ | 𝑋𝑡:𝑡+Δ) = [1{0}×{0} (𝑌𝑡:𝑡+Δ)                                                     In terms of the ﬁnite diﬀerence approximation, the algorithm
+                                                                                                for evaluating these statistics is as follows:
+                                       + 1(𝐷×{1})×(𝐷×{1}) ( 𝑍𝑡:𝑡+Δ)
+                                                                                                1. ",physics.data-an,A,-0.25325403,-0.24355504,0.30935967
+http://arxiv.org/pdf/2205.07786v1,"Improving Bayesian radiological profiling of waste drums using Dirichlet priors, Gaussian process priors, and hierarchical modeling","Furthermore,
+the computational times involved by our proposed approach are on the order of a few hours, say about 2, to provide
+uncertainty estimates for all variables of interest. This might prevent our approach to be applied for routine analyses
+and future work will focus on speeding up the inference. With respect to uncertainty in the efﬁciencies, our study uses
+the same stylized drum modeling approach as proposed by Laloy et al. ",physics.data-an,C_centroid,-0.15730484,0.71132743,0.11742008
+http://arxiv.org/pdf/2205.07786v2,"Improving Bayesian radiological profiling of waste drums using Dirichlet priors, Gaussian process priors, and hierarchical modeling","Furthermore,
+the computational times involved by our proposed approach are on the order of a few hours, say about 2, to provide
+uncertainty estimates for all variables of interest. This might prevent our approach to be applied for routine analyses
+and future work will focus on speeding up the inference. With respect to uncertainty in the efﬁciencies, our study uses
+the same stylized drum modeling approach as proposed by Laloy et al. ",physics.data-an,C,-0.15730484,0.71132743,0.11742008
+http://arxiv.org/pdf/2205.07786v3,"Improving Bayesian radiological profiling of waste drums using Dirichlet priors, Gaussian process priors, and hierarchical modeling","Furthermore,
+the computational times involved by our proposed approach are on the order of a few hours, say about 2, to provide
+uncertainty estimates for all variables of interest. This might prevent our approach to be applied for routine analyses
+and future work will focus on speeding up the inference. With respect to uncertainty in the efﬁciencies, our study uses
+the same stylized drum modeling approach as proposed by Laloy et al. ",physics.data-an,C,-0.15730484,0.71132743,0.11742008
+http://arxiv.org/pdf/2205.07786v4,"Improving Bayesian radiological profiling of waste drums using Dirichlet priors, Gaussian process priors, and hierarchical modeling","Furthermore,
+the computational times involved by our proposed approach are on the order of a few hours, say about 2, to provide
+uncertainty estimates for all variables of interest. This might prevent our approach to be applied for routine analyses
+and future work will focus on speeding up the inference. With respect to uncertainty in the efﬁciencies, our study uses
+the same stylized drum modeling approach as proposed by Laloy et al. ",physics.data-an,C,-0.15730484,0.71132743,0.11742008
+http://arxiv.org/pdf/2205.07879v1,"How accurate can combined measurements be -- experiment, simulation, and theory","We can, however, hardly judge currently if
+the rice-truck scale experiment could be successful. Therefore future work is
+clearly indicated to investigate the limits of the Gauß-Markov theorem for
+combined weighing schemes. With a very simple set-up, we gained impressive results to document that
+weighing uncertainties limited by the scale’s reading precision can be drasti-
+cally reduced by magnitudes of order. ",physics.data-an,C,-0.16774535,0.10207899,-0.12564772
+http://arxiv.org/pdf/2205.10508v1,A Review on the Optimal Fingerprinting Approach in Climate Change Studies,"The residual consistency test (RCT) proposed by AT99 is a valid test for
+checking on the agreement between the covariances (C˜ N vs CN ) of the two
+worlds as shown in 2.3, which means that a proper control of the probability
+of the type I error (rejecting when the underlying covariance matrix of the null
+simulation does match CN of the physical world) can be realized. As mentioned
+in Remarks 11 and 12, its control on the probability of the type II error (not
+rejecting when the covariances of the two worlds are actually diﬀerent) need
+further study. Moreover, we outline the connection between the ”optimal ﬁngerprinting”
+approach and the Feasible Generalized Least Square, which we hope would
+connect the ﬁeld of climate change studies and the statistical approach for
+conducting generalized least square regression. ",physics.data-an,C,-0.2038253,0.10231447,-0.09259584
+http://arxiv.org/pdf/2205.15303v1,Information entropy and temperature of the binary Markov chains,"In the end of this Section, we apply our ap-
+proach to deﬁne the information temperature for some                                                   r=1
+literary texts. The last Section V contains conclusion and
+discussion of the prospects for the further researches. where we use the concise notation aN1 = a1, a2, ..., aN . ",physics.data-an,A,0.0035729548,-0.24173161,-0.14030743
+http://arxiv.org/pdf/2206.06349v1,Recurrence flow measure of nonlinear dependence,"The
+recurrence ﬂow eﬀectively pinpoints uniform and non-uniform embedding delays in
+multi-dimensional nonlinear systems. It, thus, bares high potential to be used in a
+recurrence based embedding algorithm which will be the focus of future work. Com-
+pared to existing nonlinear dependence measures, it oﬀers several advantages: (i) it
+is not based on a binning procedure and does not suﬀer from the curse of dimension-
+ality (such as the mutual information), (ii) it is able to detect non-uniform delays in
+Will be inserted by the editor                                        13
+
+high-dimensional multi-scale data, (iii) it performs relatively well in the presence of
+observational noise, and, (iv) for the considered examples, it yields well interpretable,
+unambiguous maxima in the delay selection procedure (unlike, e.g., the continuity
+statistic). ",physics.data-an,C,-0.017877439,-0.08889374,-0.20114355
+http://arxiv.org/pdf/2206.09064v1,A machine learning photon detection algorithm for coherent X-ray ultrafast fluctuation analysis,"Such structural uncertainties in deep learning models cannot be
+
+accounted for by any extant approach, including the procedure used in this investigation. However,
+
+this indicates a need for more reﬁnement on the present approach (for instance, more ﬁne grained
+
+optimization of the model architecture, etc) and will be explored more fully in future work. Another interesting avenue is to look at the median predicted photon map and the predicted
+
+standard deviation map to examine where the neural networks lack consensus. ",physics.data-an,C,-0.090083614,0.065297365,-0.16764033
+http://arxiv.org/pdf/2207.01350v1,Cover Your Bases: Asymptotic Distributions of the Profile Likelihood Ratio When Constraining Effective Field Theories in High-Energy Physics,"We successfully solve this distribution, but are forced to include a numerical step
+which is computationally-ineﬃcient compared with the other cases studied. We note the following opportunities for future work:
+
+    • It would be highly desirable to derive the asymptotic distribution of qctrue when proﬁling
+       arbitrary numbers of EFT parameters. • We can study how the two-parameter solutions are aﬀected when we introduce non-zero
+       interference terms ti,j between the contributions of EFT coeﬃcients ci and cj. ",physics.data-an,A_centroid,-0.3699898,-0.32077366,0.5996517
+http://arxiv.org/pdf/2207.01350v2,Cover Your Bases: Asymptotic Distributions of the Profile Likelihood Ratio When Constraining Effective Field Theories in High-Energy Physics,"We successfully solve this distribution, but are forced to include a numerical step
+which is computationally-ineﬃcient compared with the other cases studied. We note the following opportunities for future work:
+
+    • It would be highly desirable to derive the asymptotic distribution of qctrue when proﬁling
+       arbitrary numbers of EFT parameters. • We can study how the two-parameter solutions are aﬀected when we introduce non-zero
+       interference terms ti,j between the contributions of EFT coeﬃcients ci and cj. ",physics.data-an,A,-0.3699898,-0.32077366,0.5996517
+http://arxiv.org/pdf/2207.10637v1,Efficient Bayesian estimation of a non-Markovian Langevin model driven by correlated noise,"This situation might apply to quite a few applications. Another interesting question for further research is whether an eﬃcient
+calculation of the posterior of the general HLE model could be possible as
+well. This would facilitate an improvement of MAP estimation via global
+optimization techniques. ",physics.data-an,A,-0.14353776,-0.050470512,-0.1104494
+http://arxiv.org/pdf/2207.10710v3,Interpretable Boosted Decision Tree Analysis for the Majorana Demonstrator,"Furthermore, the interpretability       gain a more nuanced understanding of the detector per-
+study leverages the additional classiﬁcation power to re-     formance. Our future work involves using more powerful
+veal the importance of new background categories. This        and versatile machine learning models such as recurrent
+eventually led to the implementation of a high AvsE cut       neural network (RNN). ",physics.data-an,B,0.093696356,-0.19422674,-0.53713715
+http://arxiv.org/pdf/2207.12117v1,Measuring the attenuation length of muon number in the air shower with muon detectors of 3/4 LHAASO array,"Hits from MDs and EDs in a time window of ±5 µs around the event trigger
+time are collected and built into one event. Only the ED and MD hits within [-30,50] ns of the
+shower front plane are selected for further analysis work. An event trigger is generated if the hit
+multiplicity in the time window of 200 ns exceeds a preset multiplicity threshold. ",physics.data-an,B_centroid,0.82702667,0.016509548,0.17616019
+http://arxiv.org/pdf/2207.12117v2,Measuring the attenuation length of muon number in the air shower with muon detectors of 3/4 LHAASO array,"Hits from MDs and EDs in a time window of ±5 µs around the event trigger
+time are collected and built into one event. Only the ED and MD hits within [-30,50] ns of the
+shower front plane are selected for further analysis work. An event trigger is generated if the hit
+multiplicity in the time window of 200 ns exceeds a preset multiplicity threshold. ",physics.data-an,B,0.82702667,0.016509548,0.17616019
+http://arxiv.org/pdf/2207.12117v3,Measuring the attenuation length of muon number in the air shower with muon detectors of 3/4 LHAASO array,"Hits from MDs and EDs in a time window of ±5 µs around the event trigger
+time are collected and built into one event. Only the ED and MD hits within [-30,50] ns of the
+shower front plane are selected for further analysis work. An event trigger is generated if the hit
+multiplicity in the time window of 200 ns exceeds a preset multiplicity threshold. ",physics.data-an,B,0.82702667,0.016509548,0.17616019
+http://arxiv.org/pdf/2207.12117v4,Measuring the attenuation length of muon number in the air shower with muon detectors of 3/4 LHAASO array,"Hits from MDs and EDs in a time window of ±5 µs around the event trigger
+time are collected and built into one event. Only the ED and MD hits within [-30,50] ns of the
+shower front plane are selected for further analysis work. An event trigger is generated if the hit
+multiplicity in the time window of 200 ns exceeds a preset multiplicity threshold. ",physics.data-an,B,0.82702667,0.016509548,0.17616019
+http://arxiv.org/pdf/2208.01486v1,Stochastic interpolation of sparsely sampled time series by a superstatistical random process and its synthesis in Fourier and wavelet space,"Such a result could
+be used to derive conditions on the discretization of ξ-space given a speciﬁc temporal resolution, such
+that the resulting approximated process u(t, ξ(t)) is suﬃciently regular. A prospect for future work is the generalization of the superstatistical model to mixture distribu-
+tions other than the log-normal model, for example an (inverse) χ2 model [48], the log-Poisson model
+by She and Leveque [49] or the Yakhot model [50]. In this context, it has been shown recently that
+the scaling of structure functions implies a particular Kramers-Moyal expansion [51]. ",physics.data-an,A,-0.28267416,-0.18149306,0.13073294
+http://arxiv.org/pdf/2208.04651v1,Sensitivity of principal components to changes in the presence of non-stationarity,"In our example with the light bulb these three values together describe the color of the state. For further analysis,
+
+we standardize each state separately to mean zero and standard deviation one and denote standardization with a hat. This results in µˆ(0s) = 0 and σˆ0(s) = 1. ",physics.data-an,A,-0.041044272,-0.2691666,0.15051225

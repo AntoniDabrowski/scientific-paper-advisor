@@ -1,0 +1,28 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2203.09615v2,Canvas: Isolated and Adaptive Swapping for Multi-Applications on Remote Memory,"out the execution, which can lead to an order-of-magnitude
+However, the focus of this paper is to ensure isolation and            increase in remote memory usage. future work could incorporate max-min fair allocation to im-
+prove resource utilization. Our key insight is: we should trade off space for time if
+                                                                       an application has much available swap space, but time for
+5 Isolation-Enabled Swap Optimizations                                 space when its space limit is about to be reached. ",cs.OS,B_centroid,-0.16332181,-0.28567636,-0.3670315
+http://arxiv.org/pdf/2203.10225v2,No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing,"to MITOSIS. Thus, we left it as our future work. RDMA-based remote paging and RDMA multicast. ",cs.OS,C_centroid,0.62290853,-0.39035,-0.1758452
+http://arxiv.org/pdf/2204.06066v1,Finding and Analyzing Crash-Consistency Bugs in Persistent-Memory File Systems,"For         FLYTRAP does not require modifying the ﬁle system im-
+                                        instance, one of our ﬁndings is that many of the bugs are           plementation, and is compatible with all PM ﬁle systems
+                                        due to logic errors, rather than errors in using ﬂushes or          that implement the POSIX interface. To choose workloads
+                                        fences; this has important applications for future work on          to test, we couple FLYTRAP with a modiﬁed version of the
+                                        testing PM ﬁle systems. Another key ﬁnding is that many             ACE [38] workload generator and the Syzkaller [7] gray-box
+                                        bugs arise from attempts to improve efﬁciency by perform-           fuzzer. ",cs.OS,B,-0.6163708,-0.03722047,-0.21878569
+http://arxiv.org/pdf/2206.01547v1,Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices,"Zone Append: A New Way of Writing
+   While we mainly focus on the block-level performance                    to Zoned Storage. February 2020.
+of ZNS devices, we additionally provide our unsuccessful
+experiments and pitfalls to avoid, and furthermore propose            [6] Matias Bjørling, Abutalib Aghayev, Hans Holmberg,
+numerous future work ideas to evaluate ZNS device integra-                 Aravind Ramesh, Damien Le Moal, Gregory R. Ganger,
+tion further and extend the guidelines provided in this work. and George Amvrosiadis. ",cs.OS,A_centroid,0.29327267,0.36056376,0.115853116
+http://arxiv.org/pdf/2206.13367v1,Multilevel Bidirectional Cache Filter,"Using the same framework with a simpler internal
+contrary, in SYSTOR1 and CDN1, the differences are much              cache, such as FIFO [18], or advanced ones like ARC [30],
+smaller, and there is no clear split between the groups. There       is left for future work and could provide additional beneﬁt. is also no notable impact if we measure the latency with or          We also believe that combing improvements such an adap-
+without writes. ",cs.OS,A,0.032936566,0.6303731,-0.04853674
+http://arxiv.org/pdf/2207.07688v1,3PO: Programmed Far-Memory Prefetching for Oblivious Applications,"special minor page faults, such as those due to copy-on-write         The reason for this is that 3PO assumes that at runtime, Linux
+resulting from a call to mmap. This could be done by detecting        will not evict any page in a microset between when the page
+a minor page fault on a page that has its 3PO bit set and is          is first and last accessed as part of that microset; if a page
+already marked as present, and then executing the regular             was evicted during this interval, it would not be prefetched
+Linux page-fault handler; we leave this to future work. before its next access and would incur a major page fault. ",cs.OS,B,-0.16942534,-0.27768978,0.6943461

@@ -1,0 +1,776 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01247v1,Value Functions Factorization with Latent State Information Sharing in Decentralized Multi-Agent Policy Gradients,"We further analyze the key factors contributing to the performance in our
+framework by a set of ablation studies. In future works, we plan to focus on expand-
+ing the proposed method to a continuous action space with different policy gradient
+methods. References
+
+[1] Alemi, A. ",cs.MA,B,-0.11529407,-0.115842625,0.23086315
+http://arxiv.org/pdf/2201.04126v1,A Negotiating Strategy for a Hybrid Goal Function in Multilateral Negotiation,"58  Alon Stern et al. We see several interesting extension of this work to be carried out in future work. Among these
+we emphasize the need to evaluate our strategy with non-linear utility functions and non-linear
+tradeoﬀ functions (which should not change much in terms of agent design, but requires further
+evaluation), extending the design to support settings where the agent has partial information about
+its own utility function, and domains with an extremely large solution space. ",cs.MA,C,-0.110612616,0.11289884,-0.016763425
+http://arxiv.org/pdf/2201.04944v1,Peer-to-Peer Energy Trading in a Microgrid Leveraged by Smart Contracts,"These cost analyses would provide an insight into whether
+blockchain technologies are effective in integrating necessary components to constitute a micro-
+market setup. Last, we reﬂect on the assumptions made, the challenges yet to be addressed, and
+point out directions for future work in these emerging applications. Organization. ",cs.MA,A,0.27354813,0.30965608,-0.1840154
+http://arxiv.org/pdf/2201.04962v1,Distributed Cooperative Multi-Agent Reinforcement Learning with Directed Coordination Graph,"The
+
+                       -10                                                                 algorithm was applied to a distributed resource allocation
+
+             W( k, *)  -20                                                                 problem. For our future work we would like to investigate
+
+                       -30                                                                 how to reduce the number of required communication links
+
+                              Centralized, one-point                                       using graph-theoretic reduction techniques. -40    Distributed, one-point                                                                   REFERENCES
+
+                              Centralized, two-point                                        [1] S. Kar, J. M. Moura, and H. V. Poor, “QD-learning: A collaborative
+                                                                                                 distributed strategy for multi-agent reinforcement learning through
+                              Distributed, two-point                                             consensus + innovations,” IEEE Transactions on Signal Processing,
+                                                                                                 vol. ",cs.MA,B,-0.026865952,-0.3632716,-0.15638466
+http://arxiv.org/pdf/2201.06619v1,Planning Not to Talk: Multiagent Systems that are Robust to Communication Loss,"While the
+ing through the valley without colliding. By contrast, 𝜋𝑀𝐷 results                   policy synthesis algorithm directly operates on the joint state space,
+in agent 𝑅1 navigating through the top valley while 𝑅0 takes the                     future work will aim to use abstractions of the joint state-action
+bottom valley. Intuitively, by navigating through separate valleys,                  space to scale the policy synthesis to larger problems. ",cs.MA,B,-0.16058914,-0.09567282,-0.023340452
+http://arxiv.org/pdf/2201.07305v1,Proportional Ranking in Primary Elections: A Case Study,"Nevertheless, our unique dataset provides a
+rare opportunity to investigate the matter in question. In future work, we plan
+to seek additional primaries data, potentially from other countries, in order to
+
+                                                  18
+further strengthen, and hopefully generalize, our results. Speciﬁcally, primaries
+data from parties of diﬀerent ideological, social, and cultural societies may pro-
+vide additional insights. ",cs.MA,C,0.006374076,0.24710464,-0.015085313
+http://arxiv.org/pdf/2201.08227v1,Multi-agent Covering Option Discovery based on Kronecker Product of Factor Graphs,"More precisely, the Laplacian spectrum of the factor graphs
+Then, in Line 10 of Algorithm 1, we split each joint state into a       can be estimated using neural networks, and then leveraged by
+list of individual states. For example, after getting a pair of joint   our proposed algorithm to ﬁnd the Fiedler vector of the joint
+states (smin, smax), we convert them into ((s1min, · · · , snmin),      state transition graph, which will be considered as future work. (s1max, · · · , snmax)), so that we can connect (smin, smax) in
+the joint state space by connecting each (simin, simax) in the          D. Adopting Multi-agent Options in MARL
+corresponding individual state space. ",cs.MA,B,-0.13936849,-0.24159232,-0.2311165
+http://arxiv.org/pdf/2201.08227v2,Learning Multi-agent Options for Tabular Reinforcement Learning using Factor Graphs,"More precisely, the Laplacian spectrum of the factor graphs
+on individual agents’ state spaces, so that we can enjoy the           can be estimated using neural networks, and then leveraged by
+                                                                       our proposed algorithm to ﬁnd the Fiedler vector of the joint
+ease of decomposition. state transition graph, which will be considered as future work. In the following sections, we will formalize our algorithm
+
+– Multi-agent Covering Option Discovery through Kronecker
+
+Product of Factor Graphs, and show empirically the signiﬁcant
+
+performance improvement brought by integrating multi-agent
+
+options in MARL. ",cs.MA,B,-0.1146065,-0.1961166,-0.16973114
+http://arxiv.org/pdf/2201.09467v1,CTRMs: Learning to Construct Cooperative Timed Roadmaps for Multi-agent Path Planning in Continuous Spaces,"Improving the overall
+better than when the number of samples for the baseline methods           performances by replacing the multi-agent path planner from PP is
+is limited. This is primarily because our approach learns where to        a promising direction for future work. sample vertices from the solution paths of MAPP demonstrations. ",cs.MA,B_centroid,-0.063335344,-0.31762868,0.03461687
+http://arxiv.org/pdf/2201.12891v1,Learning Collective Action under Risk Diversity,"While all agents are equally wealthy in our scenario, we do
+
+intend to examine mixtures of heterogeneities in future works, such as the combination of wealth
+
+inequality with risk diversity. With that in mind, to better compare our results with future works, we
+
+decide to also adopt a log-utility function. The payoffs of the game are expressed as the difference
+
+in the log of agents’ wealth before and after a game was played. ",cs.MA,C,-0.032351457,0.3428653,0.048906922
+http://arxiv.org/pdf/2202.00941v1,CTMSTOU driven markets: simulated environment for regime-awareness in trading policies,"the executed quantity of order oi and Pi its price. In the          We hope this work will encourage further research in the
+                                                                 direction of regime detection in ﬁnancial markets and the
+case of a buy execution parent order, we aim to minimize         study of regime-awareness impact on policies to achieve ﬁ-
+                                                                 nancial tasks. this quantity. ",cs.MA,C,0.063269146,0.45428377,-0.097455055
+http://arxiv.org/pdf/2202.00941v2,CTMSTOU driven markets: simulated environment for regime-awareness in trading policies,"the executed quantity of order oi and Pi its price. In the          We hope this work will encourage further research in the
+                                                                 direction of regime detection in ﬁnancial markets and the
+case of a buy execution parent order, we aim to minimize         study of regime-awareness impact on policies to achieve ﬁ-
+                                                                 nancial tasks. this quantity. ",cs.MA,C,0.063269146,0.45428377,-0.097455055
+http://arxiv.org/pdf/2202.01691v1,Modeling Bounded Rationality in Multi-Agent Simulations Using Rationally Inattentive Reinforcement Learning,"Real-world PA experiments have shown that bounded
+rationality is key to explaining marked deviations between equilibria reached by human participants
+and theoretical predictions (Erlei & Schenk-Mathes, 2017). Prior work considered bounded ratio-
+nality assumptions but found it to be analytically difﬁcult (Mirrlees, 1976) and further research in
+this direction is sparse. We show that RIRL allows us to analyze generalized PA problems that are
+analytically intractable, such as a sequential PA problem with multiple Agents and heterogeneous in-
+formation channels. ",cs.MA,C,-0.109227955,0.16166177,0.020742478
+http://arxiv.org/pdf/2202.01691v2,Solving Dynamic Principal-Agent Problems with a Rationally Inattentive Principal,"This
+relates to research questions around how humans acquire new information and how they use it to
+update their beliefs and ultimately their behaviors. As such, we believe applications and extensions of reinforcement learning hold promise in advanc-
+ing understanding bounded rationality and economic interactions at large, and are a highly promising
+direction for future work. Limitations. ",cs.MA,C,-0.28214717,0.20112981,0.19895732
+http://arxiv.org/pdf/2202.04382v2,Leveraging Experience in Lifelong Multi-Agent Pathfinding,"rameter , which will be explained shortly) [Line 7]. Given       Comparing different alternatives and providing a princpiled
+the new solution plan Pqi and replaning rate h, the query        way of choosing is left for future work. and the counter are updated as before [Line 8] and this inner
+loop is repeated. ",cs.MA,A,0.27539843,0.024160884,-0.019389752
+http://arxiv.org/pdf/2202.05619v11,Sovereign Cryptocurrencies: Foundation for Grassroots Cryptoeconomy,"Dissemination will occur only on a need-to-know basis: An agent needs to
+know only coins that precede coins that are transferred to it. Many optimizations
+are possible and are a subject of future work; here we will consider one simple
+optimizations: We assume that sovereigns are not double-spending their own
+currency, and hence treat new coins as if they have no preceding coins. As SC is a subset of NT, it can also be provided with a supermajority-based
+equivocation-resilient implementation by the blocklace protocol stack. ",cs.MA,C,0.12741858,0.16234946,-0.18420422
+http://arxiv.org/pdf/2202.05619v12,Sovereign Cryptocurrencies: Foundation for a Grassroots Cryptoeconomy,"An agent needs to know only coins that precede coins that
+are transferred to it. Many optimizations are possible and are       2) A ‘fork’, namely two different multisig NFTs with a
+a subject of future work; here we will consider one simple               shared initial history, may arise even if signatories are not
+optimizations: We assume that sovereigns are not double-                 equivocating, simply due to the asynchronous nature of the
+spending their own currency, and hence treat new coins as                distributed system. Such forks may be benign, where the
+if they have no preceding coins. ",cs.MA,C,0.023261642,0.1492091,-0.21272747
+http://arxiv.org/pdf/2202.07741v1,Disentangling Successor Features for Coordination in Multi-agent Reinforcement Learning,"We implement
+our approach in a CTDE architecture and demonstrate that it shows improved training time and
+performance over alternatives in several multi-agent environments. For future work, we suggest exploring learning SF disentanglements that account for speciﬁc agent
+types. While our results suggest such heterogeneity is not required, further developments may be able
+to leverage agent-speciﬁc disentanglements to identify potential roles or specializations for a given
+task. ",cs.MA,B,-0.3271402,-0.21909699,-0.07980496
+http://arxiv.org/pdf/2202.09422v1,Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games,"While the actor-critic updates converge asymp-
+totically both with and without actor consensus, obtaining their convergence rates require non-trivial
+ﬁnite-time analysis that remains an open problem. Here, we empirically compare the actor-critic up-
+dates in Equations (1)(2) with and without actor consensus on a toy example of homogeneous MG,
+leaving the ﬁnite-time analysis for future work. The toy example. ",cs.MA,B,-0.20242772,0.11130168,0.044895608
+http://arxiv.org/pdf/2202.09422v2,Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games,"While the actor-critic updates converge asymp-
+totically both with and without actor consensus, obtaining their convergence rates require non-trivial
+ﬁnite-time analysis that remains an open problem. Here, we empirically compare the actor-critic up-
+dates in Equations (1)(2) with and without actor consensus on a toy example of homogeneous MG,
+leaving the ﬁnite-time analysis for future work. The toy example. ",cs.MA,B,-0.20242772,0.11130168,0.044895608
+http://arxiv.org/pdf/2202.10450v1,"A Survey of Ad Hoc Teamwork: Definitions, Methods, and Open Problems","However, to date there is no
+                                        veloping agents capable of cooperating on the ﬂy with other      comprehensive survey on AHT. We seek to address this lim-
+                                        agents without prior coordination (an intricate concept which    itation and help foster further research in AHT. we elaborate on in section 3). ",cs.MA,B,-0.043091,-0.0731893,-0.255692
+http://arxiv.org/pdf/2202.10450v2,A Survey of Ad Hoc Teamwork Research,"Thus, this challenge poses a series of challenging
+AHT problems where the learner need to adapt to new incoming teammates based on a
+highly limited amount of interaction experience. Another important issue that can be addressed by future work is benchmarking
+current AHT approaches by providing systematic comparison between them. Existing
+works in AHT often forgo comparison against other approaches designed to solve the
+same variation of AHT problems, which makes it hard to identify state-of-the-art ap-
+proaches in the ﬁeld. ",cs.MA,B,-0.06994673,-0.2795784,0.20686482
+http://arxiv.org/pdf/2202.10450v3,A Survey of Ad Hoc Teamwork Research,"challenge poses a series of challenging AHT problems where the learner need to adapt
+to new incoming teammates based on a highly limited amount of interaction experience. Another important issue that can be addressed by future work is benchmarking
+current AHT approaches by providing systematic comparison between them. Existing
+works in AHT often forgo comparison against other approaches designed to solve the
+same variation of AHT problems, which makes it hard to identify state-of-the-art ap-
+proaches in the ﬁeld. ",cs.MA,B,-0.066440016,-0.26486436,0.2334449
+http://arxiv.org/pdf/2202.11149v3,Incorporating social norms into a configurable agent-based model of the decision to perform commuting behaviour,"Each of these neighbourhoods has a number of parameters, given in Table 3. The support-
+
+iveness value describes how much a given neighbourhood supports a given transport mode and,
+
+if parameterised in future works, could be taken as a proxy for features such as the number of
+Table 3. Neighbourhood-level variables in the model. ",cs.MA,A,0.15608785,0.09984751,0.027152456
+http://arxiv.org/pdf/2202.11188v1,"SIPOMDPLite-Net: Lightweight, Self-Interested Learning and Planning in POSGs with Sparse Interactions","Moreover,
+empirical results indicate that the NN policy generalizes well
+to unseen, larger, and more sophisticated tasks, showing solid
+transfer capabilities. The future work includes meta-learning the recurrence
+number K and learning the interaction indicator function by
+the network itself instead of being given as prior knowledge. References                                                       [Tamar et al., 2016] Tamar, A., WU, Y., Thomas, G., Levine,
+                                                                    S., and Abbeel, P. (2016). ",cs.MA,B,-0.273368,0.009569139,0.057181746
+http://arxiv.org/pdf/2202.11460v1,Evacuation trials from a double-deck electric train unit: Experimental data and sensitivity analysis,"The inﬂuence of crowd heterogeneity (presence of passengers with limitations) is even more evident
+from sensitivity analysis conducted for the third phase of simulations, in which the ratio of agents of
+the types with limitations (“Children”, “Carrying a toddler”, “Seniors”, and “With disabilities”, ranged
+from 0% to 60%. The key message we can draw from this analysis is that further research must take
+the presence of passengers with movement limitations into account, especially in regard to situations
+involving non-standard exit types. The performed analysis indicates that a non-standard exit path during a railcar evacuation is an
+important factor inﬂuencing the evacuation time, particularly when the railcar is occupied by a het-
+erogeneous population of passengers with respect to their movement abilities. ",cs.MA,A,0.16598022,0.1125091,0.21926424
+http://arxiv.org/pdf/2202.12861v1,Hierarchical Control for Multi-Agent Autonomous Racing,"MCTS-LQNG considered                                                               nents. Other future work should also introduce additional
+trajectories that could result in overtakes when opponents                                                          high-level and low-level planners and investigate policy-
+made mistakes from any part of the track. However, to                                                               switching hierarchical controllers where we switch between
+overtake, Fixed-LQNG had to rely on opponents making
+mistakes that were not along its ﬁxed trajectory. ",cs.MA,B,-0.034322035,-0.100570954,0.21931785
+http://arxiv.org/pdf/2202.12861v2,Hierarchical Control for Multi-Agent Autonomous Racing,"MCTS-LQNG considered                                                               nents. Other future work should also introduce additional
+trajectories that could result in overtakes when opponents                                                          high-level and low-level planners and investigate policy-
+made mistakes from any part of the track. However, to                                                               switching hierarchical controllers where we switch between
+overtake, Fixed-LQNG had to rely on opponents making
+mistakes that were not along its ﬁxed trajectory. ",cs.MA,B,-0.034322035,-0.100570954,0.21931785
+http://arxiv.org/pdf/2202.13410v1,Investigating the Role of Pedestrian Groups in Shared Spaces through Simulation Modeling,"However, as we
+have not calibrate these parameters with a signiﬁcant amount of real interaction
+scenarios, we do not present these parameters values in this paper. As part of
+our future work, we will focus on automated calibration and validation of these
+parameters. More details regarding these modules, game solving, interaction
+categorization and modeling can be found in [9]. ",cs.MA,B,-0.03960698,-0.115682885,0.16928723
+http://arxiv.org/pdf/2202.13419v1,On Intercultural Transferability and Calibration of Heterogeneous Shared Space Motion Models,"estimation process, reducing the value of the view ranged
+VR and safety distance Dmin ( by performing a sensitivity                            Acknowledgements
+analysis similar the one in [20]), and skipping Istopping. Cali-
+brating the model parameters, including new parameters M          This research has been supported by the German Research
+and N, for the DUT dataset is part of our future work. Foundation (DFG) through the Research Training Group
+                                                                  SocialCars (GRK 1931). ",cs.MA,A,0.18014777,-0.036137067,0.4150542
+http://arxiv.org/pdf/2203.00086v1,Pippi: Practical Protocol Instantiation,"As
+divorced people may have joint custody of their children and may      the foregoing examples demonstrate, Pippi supports both discov-
+thus function together in a MAS, albeit not the same MAS as when      ery and role binding and thus enables the realization of arbitrary
+they were married. Such ideas merit further study. applications as a peer-peer system. ",cs.MA,C,-0.021024909,0.14106514,-0.26153165
+http://arxiv.org/pdf/2203.01500v1,The Dynamics of Q-learning in Population Games: a Physics-Inspired Continuity Equation Model,"neous populations, but also potentially guide parameter tuning for
+the more general heterogeneous populations. In particular, the last        We believe that our CEM is an important step towards more
+insight suggests a cause of the phenomena that we observed in the       general models; as future work, it would be interesting to consider
+second plot of Figure 2: the high Boltzmann temperature. To vali-       stateful population games, variants of Q-learning, and population
+date this, we decreased the temperature parameter in agent-based        games with multiple populations (e.g., with different kinds of agents
+simulations. ",cs.MA,C,-0.25512087,0.037004035,0.15416805
+http://arxiv.org/pdf/2203.02576v2,Machine Learning Simulates Agent-Based Model Towards Policy,"Moreover, we envision a study that uses dimensionality reduction tech-
+niques to summarize a larger number of output indicators to better reﬂect
+policymakers preferences. Along with a more comprehensive output indicator,
+future work should take advantage of the possibilities of mixing simultaneous
+policy instruments, and those from diﬀerent domains, such as housing policy
+and social welfare. References
+
+ [1] Stone, D.: Understanding the transfer of policy failure: bricolage, experi-
+      mentalism and translation. ",cs.MA,C,-0.11079255,0.24250495,0.035322808
+http://arxiv.org/pdf/2203.06679v1,A smart electric bike for smart cities,"Use cases are introduced and implemented in
+Chapter 5 Open Loop Applications and Chapter 6 Closed Loop Applications. Chapter
+7 summarises the achievements of the project and outlines areas for future work. 1.3 Objectives
+
+The objectives of the project can be split in two parts which are listed below. ",cs.MA,A,0.2584404,0.01865373,-0.11079311
+http://arxiv.org/pdf/2203.08553v2,PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration,"Due to the space limitation,
+                                                                                                          these ablation experiments are put in Appendix E.
+
+                                                                                                          5.4. Necessity of Du-PCB (RQ3)
+
+                                                                                                          To address RQ3, we consider whether the positive and nega-
+                                                                                                          tive buffers in Du-PCB can be replaced with a normal replay
+PMIC: Improving Multi-Agent Reinforcement Learning with Progressive Mutual Information Collaboration
+
+                       &RRSHUDWLYH1DYLJDWLRQ                   other hand, extending PMIC with advanced techniques, like
+                                                                hybrid action space (Li et al., 2021), evolutionary RL (Shen
+                                                             et al., 2020), or prior human knowledge (Zhang et al., 2020),
+                                                                is worth further study. 
+                                                                Acknowledgements
+/
+                                                                The work is supported by the National Natural Science
+/  5HZDUG                                                    Foundation of China (Grant Nos. ",cs.MA,B,-0.32949984,-0.122901745,0.012834276
+http://arxiv.org/pdf/2203.09565v1,Strategic Maneuver and Disruption with Reinforcement Learning Approaches for Multi-Agent Coordination,"In obvious cases, it is desirable to send fully autonomous MAS into
+high risk situations (i.e., where expected causality rates are high), however, it is insufﬁcient to simply
+expect that a MAS will be capable of achieving the Mission in the absence of human oversight or
+intervention due to current technological limitations. Therefore, in future work, it is expected that a
+robust set of engagement scenarios will be identiﬁed. Finally, this line of work will lead to the eventual
+integration of semi/fully-autonomous MAS for coordinated strategic maneuver and disruption where
+possible. ",cs.MA,B,-0.0059315376,-0.025234934,0.035508532
+http://arxiv.org/pdf/2203.11658v1,A Decentralised Multi-Agent Reinforcement Learning Approach for the Same-Day Delivery Problem,"This is one of the main reason the MIP model is used as a
+benchmark solution instead of directly comparing results to other SDD papers. Comparison of the DQN
+with anticipatory models described earlier are left for future works. The mathematical model for the MIP is now presented:
+Sets:
+V: Current vehicle location, V = {0}
+P: Pickup location (depot location, associated with orders that are not in transit)
+D: Delivery locations representing all orders that are not in transit
+A: Delivery locations representing the orders that are accepted by driver, but not in transit
+T: Delivery locations representing orders that are accepted by driver, but in transit
+R: Return location (depot location, used for final return)
+N: Set of all nodes/locations in the graph, 𝑁 = 𝑉 ∪ 𝑃 ∪ 𝐷 ∪ 𝐴 ∪ 𝑇 ∪ 𝑅
+
+                                                               8
+Ngu, Parada, Escribano Macias, and Angeloudis
+
+E: Set of all edges, 𝐸 = {(𝑖, 𝑗), ∀ 𝑖, 𝑗 ∈ 𝑁}
+
+Decision variables:
+
+𝑥𝑖𝑗: Binary variable, 1 if vehicle uses the arc from node 𝑖 to 𝑗, 0 otherwise; 𝑖, 𝑗 ∈ 𝑁
+
+𝑦𝑖: Binary variable, 1 if the order 𝑖 is accepted, 0 otherwise; 𝑖 ∈ 𝐷
+𝐵𝑖: Auxillary variable to track the time as of node 𝑖; 𝑖 ∈ 𝑁
+
+Parameters:
+n: number of orders available to pick up, n = |D|
+cij: Symmetric Manhattan distance matrix between node i and j; (𝑖, 𝑗) ∈ 𝐸
+li: Remaining time to deliver order i, 𝑖 ∈ 𝐷 ∪ 𝑇
+m: Travel cost per mile
+ri: Reward for orders associated with deliveries that are not in transit, D
+M: A big real number
+t: time to travel one mile
+d: A constant service time spent on accept, pick up and drop off
+
+Model:                             ∀𝑖 ∈ 𝐷                                                ￼￼￼ (3)
+max ∑𝑖∈𝐷 𝑟𝑖𝑦𝑖 − 𝑚 ∑(𝑖,𝑗)∈𝐸 𝑐𝑖𝑗𝑥𝑖𝑗  ∀𝑖 ∈ 𝑇
+                                                                                                  (4)
+Subject to:                        ∀𝑖 ∈ 𝑃∪𝐷∪𝑇                                                     (5)
+∑𝑖∈𝑉 ∑𝑗∈𝑁 𝑥𝑖𝑗 = 1                  ∀𝑖 ∈ 𝐴                                                         (6)
+∑𝑖∈𝑃 ∑𝑗∈𝑁 𝑥𝑖𝑗 = 1                  ∀ 𝑖, 𝑗 ∈ 𝑁                                                     (7)
+∑𝑗∈𝑁 𝑥𝑖𝑗 = 𝑦𝑖                      ∀ 𝑖 ∈ 𝑃, 𝑗 ∈ 𝐷                                                 (8)
+∑𝑗∈𝑁 𝑥𝑖𝑗 = 1                                                                                      (9)
+∑𝑖∈𝑁\𝑅 ∑𝑗∈𝑅 𝑥𝑖𝑗 = 1                ∀ 𝑖, 𝑗 ∈ 𝑁                                                     (10)
+∑𝑗∈𝑁\𝑅 𝑥𝑗𝑖 − ∑𝑗∈𝑁 𝑥𝑖𝑗 = 0                                                                         (11)
+                                                                                                  (12)
+𝑦𝑖 = 1                                                                                            (13)
+𝐵𝑖 + 𝑑 + 𝑐𝑖𝑗𝑡 − 𝑀(1 − 𝑥𝑖𝑗) ≤ 𝐵𝑗                                                                   (14)
+                                                                                                  (15)
+𝐵𝑖 + 𝑐𝑖𝑗𝑡 − 𝑀(1 − 𝑦𝑗) ≤ 𝐵𝑗
+𝑑 ∑𝑖∈𝐷\𝐴 𝑦𝑖 = 𝐵0
+
+𝐵𝑖 ≤ 𝑙𝑖
+𝑥𝑖𝑗, 𝑦𝑖 ∈ {0,1}
+
+         Constraints 4 to 7 restrict the flow of vehicles. ",cs.MA,B,0.25315297,-0.14686964,0.027894966
+http://arxiv.org/pdf/2203.12832v1,Heterogeneous Ground-Air Autonomous Vehicle Networking in Austere Environments: Practical Implementation of a Mesh Network in the DARPA Subterranean Challenge,"As 802.11 is ubiquitous, our
+the Challenge. Finally, we present a detailed analysis of the    system could be used in a wide range of applications and
+performance of our prize-winning system at the ﬁnal event,       mobile vehicles, including search and rescue, agriculture, and
+with potential directions for future work. self-deploying mesh networks. ",cs.MA,B,0.3031031,-0.33678713,0.032965913
+http://arxiv.org/pdf/2203.13395v1,Using Reinforcement Learning to Study Platform Economies under Market Shocks,"An empirical study indeed
+shows that low proﬁt-margin restaurants which did not ﬁnd platform services to be economical pre-
+pandemic, turned to these platforms in order to survive [29]. A further study by UberEats from
+February through May 2020 shows that restaurants that used delivery platforms saw ”signiﬁcant
+and economically meaningful” increases in orders, which may have kept some restaurants alive [22]. On the other hand, as an increasing number of customers turns to adopt platforms due to the
+higher oﬀ-platform transaction costs, platforms possess larger market power, and thus have driven
+up the on-platform service and commission fees. ",cs.MA,A,0.32290506,0.43853384,-0.03475583
+http://arxiv.org/pdf/2203.13692v1,Bisimulations for Verifying Strategic Abilities with an Application to the ThreeBallot Voting Protocol,"We suspect that the upper bound is tight, as we do not see how any of
+the quantiﬁer alternations, included in the above QBF translation, could be
+collapsed. For the moment, however, we only show the following, and leave
+the question of the exact complexity for future work. Theorem 11. ",cs.MA,B,0.24170291,-0.055472597,-0.17055734
+http://arxiv.org/pdf/2203.16960v1,Multi-Agent Spatial Predictive Control with Application to Drone Flocking (Extended Version),"Our experiments therefore also     the hardware. As future work, we plan to evaluate SPC on
+show that SPC is resilient to the additional delay introduced by    other robotic control & planning problems, and to conduct
+radio transmission of position updates and set-point messages. a demonstration of SPC in (outdoor) settings that lack an
+Our controller, however, could be ported to run directly on         absolute localization system (GPS-denied environments). ",cs.MA,B,0.17202948,-0.25300846,0.06651296
+http://arxiv.org/pdf/2204.00272v1,Fusing Interpretable Knowledge of Neural Network Learning Agents For Swarm-Guidance,"This is                      [22] K. L. Clarkson, “More output-sensitive geometric algorithms,” in Pro-
+                                                                                     ceedings 35th Annual Symposium on Foundations of Computer Science. the focus of our future work in this area, where we will                             IEEE, 1994, pp. 695–702. ",cs.MA,B,0.28525433,-0.3233177,0.012766799
+http://arxiv.org/pdf/2204.01544v1,Automated generalisation of buildings using CartAGen platform,"The results are delineated and discussed in section 4. Finally, the conclusions
+are drawn and the scope for future work are discussed in section 5. 2. ",cs.MA,A,0.092312,0.087012745,-0.13108873
+http://arxiv.org/pdf/2204.02267v1,Multi-Agent Distributed Reinforcement Learning for Making Decentralized Offloading Decisions,"and edge computing site, and one remote computing site
+                                                                                    (extention to multiple ACA units and computing sites is left
+We use the actor-critic algorithm [42] for RL (Alg.2). The                          to future work). The edge and remote sites have different
+                                                                                    resource proﬁles. ",cs.MA,B,-0.079633355,-0.24532741,-0.08642061
+http://arxiv.org/pdf/2204.03361v1,Robust Event-Driven Interactions in Cooperative Multi-Agent Learning,"The computation of the values Γ𝛼 (x) and the learning of the SVR models for Γˆ𝛼𝜃∗ (x) introduced significant conserva-
+tiveness with respect to the theoretical bounds. A possible improvement for future work could be to compute the true
+values Γ𝛼 (x) through a Monte-Carlo based approach by simulating MDP trajectories. This would yield a much more
+accurate representation of how “far"" agents can deviate without communicating, and the guarantees could be modified
+to include the possibility that the values Γ𝛼 (x) are correct up to a certain probability. ",cs.MA,B,-0.018889356,-0.07475576,0.13312772
+http://arxiv.org/pdf/2204.03361v2,Robust Event-Driven Interactions in Cooperative Multi-Agent Learning,"The computation of the values Γ𝛼 (x) and the learning of the SVR models for Γˆ𝛼𝜃∗ (x) introduced significant conser-
+vativeness with respect to the theoretical bounds. A possible improvement for future work could be to compute the
+true values Γ𝛼 (x) through a Monte-Carlo based approach by sampling MDP trajectories. This would yield a much
+more accurate representation of how “far” agents can deviate without communicating, and the guarantees could be
+modified to include the possibility that the values Γ𝛼 (x) are correct up to a certain probability. ",cs.MA,B,-0.04535447,-0.071678326,0.13035515
+http://arxiv.org/pdf/2204.04910v1,A-DRIVE: Autonomous Deadlock Detection and Recovery at Road Intersections for Connected and Automated Vehicles,"are not the bottleneck. In future work, we will consider the                    [19] A. Bhat, S. Aoki, and R. Rajkumar, “Tools and methodologies for
+priority assignment that accounts for the space constraints of                        autonomous driving systems,” PROCEEDINGS OF THE IEEE, vol. 106,
+passing places and evacuation spaces. ",cs.MA,B,0.31072646,-0.27396196,0.10563886
+http://arxiv.org/pdf/2204.08270v1,Lane-Free Crossing of CAVs through Intersections as a Minimum-Time Optimal Control Problem,"of O(e0.13N ) in terms of number of crossing CAVs N . The
+future work of this study is to reduce the computational              [11] Pan, X., Chen, B., Evangelou, S.A., Timotheou, S., 2020. Opti-
+time by decentralising the proposed strategy. ",cs.MA,B,0.21139026,-0.1064923,0.04977865
+http://arxiv.org/pdf/2204.09418v2,Mingling Foresight with Imagination: Model-Based Cooperative Multi-Agent Reinforcement Learning,"In our future research, we
+intend to concentrate on how to choose the appropriate rollout horizon. The issue is an intriguing one
+which could be usefully explored in further research. 9
+References
+
+ [1] Zaheer Abbas, Samuel Sokota, Erin Talvitie, and Martha White. ",cs.MA,A_centroid,0.26387078,0.17083344,0.13706027
+http://arxiv.org/pdf/2204.09418v3,Mingling Foresight with Imagination: Model-Based Cooperative Multi-Agent Reinforcement Learning,"In our future research, we
+intend to concentrate on how to choose the appropriate rollout horizon. The issue is an intriguing one
+which could be usefully explored in further research. Acknowledgments and Disclosure of Funding
+
+The work is supported by the National Defence Foundation Reinforcement Fund. ",cs.MA,A,0.16368933,0.16802312,0.15018986
+http://arxiv.org/pdf/2204.10740v1,Embracing AWKWARD! Real-time Adjustment of Reactive Planning Using Social Norms,"In the penultimate section, we look
+at related work done in normative agents, comparing and contrasting those ar-
+chitectures with our own. Finally, we summarise our contributions and identify
+future work. 2 Background
+
+2.1 Behaviour Oriented Design
+
+BOD is a BBAI approach that uses hierarchical representations of an agent’s
+priorities [13]. ",cs.MA,C_centroid,-0.32781565,0.2152214,-0.20583981
+http://arxiv.org/pdf/2204.10740v2,Embracing AWKWARD! Real-time Adjustment of Reactive Plans Using Social Norms,"In the penultimate section, we look
+at related work done in normative agents, comparing and contrasting those ar-
+chitectures with our own. Finally, we summarise our contributions and identify
+future work. 2 Background
+
+2.1 Behaviour Oriented Design
+
+BOD is a BBAI approach that uses hierarchical representations of an agent’s
+priorities [13]. ",cs.MA,C,-0.32781565,0.2152214,-0.20583981
+http://arxiv.org/pdf/2204.10740v3,Embracing AWKWARD! Real-time Adjustment of Reactive Plans Using Social Norms,"In the penultimate section, we look
+at related work done in normative agents, comparing and contrasting those ar-
+chitectures with our own. Finally, we summarise our contributions and identify
+future work. 2 Background
+
+2.1 Behaviour Oriented Design
+
+BOD is a BBAI approach that uses hierarchical representations of an agent’s
+priorities [13]. ",cs.MA,C,-0.32781565,0.2152214,-0.20583981
+http://arxiv.org/pdf/2204.12982v1,On the role of population heterogeneity in emergent communication,"Fourth, although heterogeneous populations recover
+a sociolinguistic result, the average scores remain below the best emergent protocol. We leave for
+future work how heterogeneous populations may be leveraged to structure further the language (e.g. more complex tasks, larger population). ",cs.MA,C,-0.18988016,0.05380129,-0.030028058
+http://arxiv.org/pdf/2204.14076v1,Dynamic Noises of Multi-Agent Environments Can Improve Generalization: Agent-based Models meets Reinforcement Learning,"By doing so, we
+show that an RL agent obtains a signiﬁcant improvement in the average reward and an ability to
+generalize across different ABM-based environments whose epidemic parameters correspond to
+distinct pandemic regimes. Our work present an empirical evidence about the relationship between
+ABM-based environments and RL generalization, thereby calling for the need to further investigate
+this relationship in future work. 2 THE ABM-BASED RL ENVIRONMENT: THE SIR MODEL AS A STUDY CASE
+
+2.1 THE ODE-BASED SIR DYNAMICS
+
+The spread of a disease can be modelled using the well-known SIR model Kermack & McKendrick
+(1927). ",cs.MA,C,-0.12934224,0.18017188,0.14784586
+http://arxiv.org/pdf/2205.00979v1,Real-Time BDI Agents: a model and its implementation,"This limitation is only for the sake of sim-
+plicity of the prototype implementation. Indeed, noth-
+ing prevents invoking the planner to generate partial
+sub-goal plans (this is left for future work). ",cs.MA,B,0.065527365,-0.035430517,-0.06156445
+http://arxiv.org/pdf/2205.01423v1,"Autonomy and Intelligence in the Computing Continuum: Challenges, Enablers, and Future Directions for Orchestration","is speciﬁcally tailored
+possible model functions, i.e., model the uncertainty in the        for supervised classiﬁcation models, but they show that the
+parameters for the task. approach is applicable to supervised regression; application to
+                                                                    reinforcement learning is left as future work. Another deﬁciency in MAML is that it only learns an
+initialization; updating relies on SGD where the learning rate         In general, FSL methods have many open issues that hinder
+is manually set. ",cs.MA,B,-0.131058,-0.10182964,0.3257208
+http://arxiv.org/pdf/2205.02428v2,ActorRL: A Novel Multi-level Receptive Fields Adversary Reinforcement Learning for Automoumous Intersection Management,"By adjusting
+reward mechanism, adversarial learning between actors can guide vehicle ﬁnd a balance between collision-avoidance
+and fast-crossing. The experiment is conducted in a single intersection and the proposed model performs well in AIM
+of single intersection, then future work can be extended to more scenarios like multi-intersection control. And the
+multi-level RL mechanism can be further applied in more domains. ",cs.MA,B,-0.15155059,-0.19132614,0.34096208
+http://arxiv.org/pdf/2205.02428v3,HARL: A Novel Hierachical Adversary Reinforcement Learning for Automoumous Intersection Management,"By adjusting
+reward mechanism, adversarial learning between actors can guide vehicle ﬁnd a balance between collision-avoidance
+and fast-crossing. The experiment is conducted in a single intersection and the proposed model performs well in AIM
+of single intersection, then future work can be extended to more scenarios like multi-intersection control. And the
+multi-level RL mechanism can be further applied in more domains. ",cs.MA,B,-0.15155059,-0.19132614,0.34096208
+http://arxiv.org/pdf/2205.02704v1,Utility-Based Context-Aware Multi-Agent Recommendation System for Energy Efficiency in Residential Buildings,"We apply the system to the real-world
+data, analyze its performance and discuss the results in section 4. Section 5 elaborates on strengths and weaknesses and
+discusses future work, whereas section 6 concludes this paper. 1.1 General Framework for Device Usage Recommendations for Load Shifting
+
+We start by proposing an abstract characterization of the task of making device usage recommendations for load
+shifting. ",cs.MA,A,0.32637566,-0.003525136,0.05703945
+http://arxiv.org/pdf/2205.03289v1,Learning to Cooperate with Completely Unknown Teammates,"Hence, the ad hoc agent
+quickly adapts to completely unknown teammates, exhibiting close-to-optimal
+behavior from the start. As future work, other transfer learning methods may
+be explored, such as transferring knowledge from multiple sources [3], meaning
+multiple teams would be a source of transferred knowledge. References
+
+ 1. ",cs.MA,B,-0.339095,-0.16630873,0.037776805
+http://arxiv.org/pdf/2205.04319v1,Competition and Cooperation of Autonomous Ridepooling Services: Game-Based Simulation of a Broker Concept,"It will be interesting
+to evaluate whether users beneﬁt from competition as trade-offs are likely: users likely experience cheaper fares from
+competitive pricing, but might also suffer from lower service quality due to reduced ridepooling efﬁciency resulting
+from market fragmentation. Moreover, future work could also include studies with more than 2 operators. Asymmetric
+service design or even strongly asymmetric initial conditions can hint at whether the AMOD market will steer towards
+monopolies or a shared market with broker platforms. ",cs.MA,A,0.27807555,0.3520648,0.005849976
+http://arxiv.org/pdf/2205.04461v1,Concepts and Algorithms for Agent-based Decentralized and Integrated Scheduling of Production and Auxiliary Processes,"Conceptual Overview
+8
+receives orders through a web service interface, from the                    With 𝑇𝑇𝑂𝑂𝑂𝑂,𝑛𝑛 being the duration of the operation i on
+database or (for test purposes) generates random orders                      resource n, 𝑇𝑇𝑆𝑆,𝑂𝑂𝑂𝑂,𝑛𝑛 being the setup duration for operation
+according to a given distribution. There is also a Database                  i on resource n and 𝑇𝑇𝑇𝑇𝑖𝑖+1,𝑛𝑛 indicating the time
+Agent to enter the schedules in a database for further analysis              increment (TI) that is required to add or substract from
+(like GANTT-chart creation) or utilization by an ERP-system,                 the setup of the operation i+1 of resource n. This change
+an MES or a simulation. is required as the starting state for operation i+1 is
+                                                                             changed to the endstate of the new operation I (see
+   Before the negotiation scheme and the algorithms are                      Section VI). ",cs.MA,C,0.19499916,0.20379597,-0.25863928
+http://arxiv.org/pdf/2205.04461v2,Concepts and Algorithms for Agent-based Decentralized and Integrated Scheduling of Production and Auxiliary Processes,"The Customer Interface Agent either
+receives orders through a web service interface, from the                            𝑃𝑃𝑃𝑃𝑖𝑖,𝑛𝑛 = 𝑇𝑇𝑂𝑂𝑂𝑂,𝑛𝑛 + 𝑇𝑇𝑆𝑆,𝑂𝑂𝑂𝑂,𝑛𝑛 + 𝑇𝑇𝑇𝑇𝑛𝑛+1,𝑛𝑛
+database or (for test purposes) generates random orders                 With 𝑇𝑇𝑂𝑂𝑂𝑂,𝑛𝑛 being the duration of the operation i on
+according to a given distribution. There is also a Database             resource n, 𝑇𝑇𝑆𝑆,𝑂𝑂𝑂𝑂,𝑛𝑛 being the setup duration for operation
+Agent to enter the schedules in a database for further analysis         i on resource n and 𝑇𝑇𝑇𝑇𝑖𝑖+1,𝑛𝑛 indicating the time
+(like GANTT-chart creation) or utilization by an ERP-system,            increment (TI) that is required to add or substract from
+an MES or a simulation. the setup of the operation i+1 of resource n. This change
+                                                                        is required as the starting state for operation i+1 is
+   Before the negotiation scheme and the algorithms are                 changed to the endstate of the new operation I (see
+described in detail, a short summary of the architectural               Section VI). ",cs.MA,C,0.14073282,0.17947045,-0.26891303
+http://arxiv.org/pdf/2205.04538v1,A Realistic Cyclist Model for SUMO Based on the SimRa Dataset,"0.2
+                                                                               Aside from that, other possible inﬂuence factors include
+      0.0                                                                   the amount and velocity of trafﬁc (higher numbers of cars or
+                                                                            faster cars can be expected to lead to more indirect turns),
+           20  40            60  80  100  120                               gender and age group distributions of cyclists in the respective
+                                                                            intersections, as well as weather and light conditions or the
+           Duration of crossing the intersection in seconds                 grade of the street. In future work, we plan to explore these
+                                                                            possible inﬂuence factors, focusing on the intersection design
+Figure 10. ECDFs of the measured durations for crossing the scenario        which we deem to have the strongest impact. ",cs.MA,A,0.34731126,0.045530207,0.30629843
+http://arxiv.org/pdf/2205.04718v1,Integrating Parcel Deliveries into a Ride-Pooling Service -- An Agent-Based Simulation Study,"The evaluations have shown that the Moderate RPP Integration performs consistently worse than the Full
+RPP Integration: Signiﬁcantly fewer parcels can be served while the experience for passengers does not deterio-
+rate much applying the Full RPP Integration. Therefore, only full integration is considered for further analysis. Additionally, the threshold parameter will be ﬁxed to τth = 0.8, the value where a ﬁrst notable decline in served
+parcels can be observed for the CDPA strategy. ",cs.MA,A,0.41382235,0.1971653,0.12627433
+http://arxiv.org/pdf/2205.05034v1,Environmental Sensing Options for Robot Teams: A Computational Complexity Perspective,"In Section 4, we discuss the overall implications of our results for
+our simpliﬁed problems and real-world robotics, and propose a metaphor for thinking
+about comparative computational complexity analyses. Finally, our conclusions and
+directions for future work are given in Section 5. 2 Formalizing Scalar-ﬁeld Sensing for Distributed
+     Construction
+
+In this section, we ﬁrst describe the basic entities in our models (given previously
+in [16, 18]) of distributed construction relative to visual and scalar-ﬁeld sensing —
+namely, environments, structures, individual robots and robot teams. ",cs.MA,B,0.0474233,-0.33020473,-0.19089718
+http://arxiv.org/pdf/2205.08996v2,A general framework for optimising cost-effectiveness of pandemic response under partial intervention measures,"(see Appendix: Table 4)), vaccination efﬁcacies, and the clinical burden rates (recovery distribution and fatality rate, see
+Appendix A: Recovery and Fatality). This is a subject of future work. Importantly, the proposed framework can enable
+a comprehensive evaluation of the role played by two key thresholds (WTP and SDmax), offering insights into the
+interplay between individual human behaviour and the emergent social dynamics during pandemics. ",cs.MA,A,0.027801897,0.21976054,0.27119738
+http://arxiv.org/pdf/2205.10259v1,Random Coordinate Descent for Resource Allocation in Open Multi-Agent Systems,"agents and block updates at each iteration [36], such that the
+103                              104
+                                                                                                               optimization is performed along more than one edge. Finally,
+                                                                               103
+102                                                                                                            a possible varying size of the system is an interesting direction
+
+                                 102                                                                           for future work, where agents could join and leave the network
+
+101                                                                                                            independently of the current state of the system. 101                                                Random Case                                             REFERENCES
+
+                                                                                    Adversarial Case            [1] T. Ibaraki and N. Katoh, Resource Allocation Problems: Algorithmic
+                                                                                                                     Approaches. ",cs.MA,B,0.010024736,-0.14178409,-0.15256523
+http://arxiv.org/pdf/2205.11163v1,Learning to Advise and Learning from Advice in Cooperative Multi-Agent Reinforcement Learning,"level coordination, we examine its cost terms that reﬂect
+                                                                 9
+
+                                                                 and complex multi-agent task, the structure of meso-level
+                                                                 coordination is limited relatively. As a future work, we will
+                                                                 verify LALA in other tasks to reveal more inspiring results. In addition, the experimental results imply the potential of de-
+                                                                 veloping a more powerful GCN and discriminator to promote
+                                                                 meso-level coordination, which is worthy of further studies. ",cs.MA,C,-0.24889371,-0.09002102,-0.22688109
+http://arxiv.org/pdf/2205.12503v1,Maximising the Influence of Temporary Participants in Opinion Formation,"The insights may aid organisations and individuals to
+make better strategic choices when facing a limited resource to maximise their inﬂuence. direction
+for future work is to investigate the case of multiple external agents. References
+
+ [1] Vincenzo Auletta, Diodato Ferraioli, Valeria Fionda, and Gianluigi Greco. ",cs.MA,C,-0.2859118,0.3500876,-0.25916427
+http://arxiv.org/pdf/2205.12503v2,Maximising the Influence of Temporary Participants in Opinion Formation,"The insights may aid organisations and individuals to
+make better strategic choices when facing a limited resource to maximise their inﬂuence. Direction
+for future work is to investigate the case of multiple external agents. References
+
+ [1] Vincenzo Auletta, Diodato Ferraioli, Valeria Fionda, and Gianluigi Greco. ",cs.MA,C,-0.2859118,0.3500876,-0.25916427
+http://arxiv.org/pdf/2205.12504v1,Deadlock-Free Method for Multi-Agent Pickup and Delivery Problem Using Priority Inheritance with Temporary Priority,3. We will address this limitation as our future work. 6. ,cs.MA,A,0.20725727,0.05477427,-0.1871837
+http://arxiv.org/pdf/2205.12880v1,Trust-based Consensus in Multi-Agent Reinforcement Learning Systems,"Possible extensions include sending additional information within messages, recommending trust
+scores to others, considering the history of interactions and evaluating semi-decentralized solutions
+with coordinating agents. Potential future work includes simulating other failure models, additional
+network topologies (e.g., Erdo˝s-Rényi and Barabási-Albert models [3, 25]), local aggregation mecha-
+nisms (e.g., majority function, uniform symmetric gossip [12]) and establishing a connection with
+deep learning work such as Das et al. [22], Rangwala and Williams [43], [50] and message passing
+neural networks [29]. ",cs.MA,B,-0.15375578,-0.053905558,-0.18688321
+http://arxiv.org/pdf/2205.13718v1,Off-Beat Multi-Agent Reinforcement Learning,"We leave it to
+future work for investigating off-beat actions in frameworks like Markov Game [26] and MMDP [7]. We are also interested in ﬁnding the merit of our method in real-world problem in our future work,
+such as scheduling [29] with off-beat settings. References
+
+ [1] C. Amato, G. Konidaris, L. P. Kaelbling, and J. P. How. ",cs.MA,B,0.07940383,-0.18287338,0.13225983
+http://arxiv.org/pdf/2205.13718v2,Off-Beat Multi-Agent Reinforcement Learning,"We leave it to
+future work for investigating off-beat actions in frameworks like Markov Game [26] and MMDP [7]. We are also interested in ﬁnding the merit of our method in real-world problem in our future work,
+such as scheduling [29] with off-beat settings. References
+
+ [1] C. Amato, G. Konidaris, L. P. Kaelbling, and J. P. How. ",cs.MA,B,0.07940383,-0.18287338,0.13225983
+http://arxiv.org/pdf/2205.15859v1,Learning Generalizable Risk-Sensitive Policies to Coordinate in Decentralized Multi-Agent General-Sum Games,"The risk-seeking bonus in GRSP is estimated using WT distorted
+expectation and its risk-sensitive level is a hyperparameter that can not dynamically change throughout
+training. Developing a method that can adjust agents’ risk-sensitive levels dynamically by utilizing
+their observation, rewards, or opponents’ information is the direction of our future work. References
+
+ [1] Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A Rusu, Joel Veness, Marc G
+      Bellemare, Alex Graves, Martin Riedmiller, Andreas K Fidjeland, Georg Ostrovski, et al. ",cs.MA,B,-0.18940711,0.1551646,0.48920316
+http://arxiv.org/pdf/2205.15859v2,Learning Generalizable Risk-Sensitive Policies to Coordinate in Decentralized Multi-Agent General-Sum Games,"The risk-seeking bonus in GRSP is estimated using WT distorted
+expectation and its risk-sensitive level is a hyperparameter that can not dynamically change throughout
+training. Developing a method that can adjust agents’ risk-sensitive levels dynamically by utilizing
+their observation, rewards, or opponents’ information is the direction of our future work. References
+
+ [1] Jakob Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, and Shimon Whiteson. ",cs.MA,B,-0.18668914,0.15477729,0.49246794
+http://arxiv.org/pdf/2206.00233v1,DM$^2$: Distributed Multi-Agent Reinforcement Learning for Distribution Matching,"For instance, the
+current theoretical analysis is limited to the tabular case. Empirical success in continuous, partially
+observable settings indicates that future work may be able to extend the analysis to the continuous
+case. Future work should also consider whether demonstrations sampled from expert policies with
+other properties, such as those trained with reward signals corresponding to different tasks, could
+be beneﬁcial for distributed learning. ",cs.MA,B,-0.21835849,-0.07027382,0.112248756
+http://arxiv.org/pdf/2206.00587v1,A Geometry-Sensitive Quorum Sensing Algorithm for the Best-of-N Site Selection Problem,"Future work could explore if actual ants
+do the same and use this information to create more accurate models. Lastly, while our model is hard to analyze without making simpliﬁcations
+(because it involves agents physically moving in space), future work could try
+to develop analytical bounds. One method we envision is simplifying the chance
+of each site being discovered to a ﬁxed probability and trying to model agent
+population ﬂow between the diﬀerent model states, similar to [16], which does
+this for candidate sites all with an equal chance of discovery. ",cs.MA,B,-0.040807948,-0.06521436,-0.006731771
+http://arxiv.org/pdf/2206.00597v1,Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency,"One way to greatly reduce run-time would be to         [6] D. Chang, D. Shelar, and S. Amin, “DER allocation and line repair
+have a method to disqualify some amount of partitions at each          scheduling for storm-induced failures in distribution networks,” in IEEE
+step, in a way that a branch-and-bound method would. Doing             International Conference on Communications, Control, and Computing
+so would lend itself to improved scalability since the majority        Technologies for Smart Grids, 2018.
+of the computational complexity of our proposed algorithm
+arises from the number of possible partitions of a graph, and     [7] T. C. Walsh, A. Spaulding, and D. Cerrai, “Predicting outage restoration
+is a natural direction for future work. in advance of storms impact,” 2022, under review. ",cs.MA,B,0.45584723,-0.19256239,-0.15882042
+http://arxiv.org/pdf/2206.00597v2,Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency,"One way to greatly reduce run-time would be to         [6] D. Chang, D. Shelar, and S. Amin, “DER allocation and line repair
+have a method to disqualify some amount of partitions at each          scheduling for storm-induced failures in distribution networks,” in IEEE
+step, in a way that a branch-and-bound method would. Doing             International Conference on Communications, Control, and Computing
+so would lend itself to improved scalability since the majority        Technologies for Smart Grids, 2018.
+of the computational complexity of our proposed algorithm
+arises from the number of possible partitions of a graph, and     [7] T. C. Walsh, A. Spaulding, and D. Cerrai, “Predicting outage restoration
+is a natural direction for future work. in advance of storms impact,” 2022, under review. ",cs.MA,B,0.45584723,-0.19256239,-0.15882042
+http://arxiv.org/pdf/2206.00597v3,Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency,"5: Line plot of population lacking service over time for    number of possible partitions of a graph, and thus is a natural
+one set of target locations in Champaign. direction for future work. this problem as a novel Minimum Weighted Latency Problem
+for m agents (m-MWLP). ",cs.MA,B,0.24586296,-0.14599927,-0.14121062
+http://arxiv.org/pdf/2206.02196v1,Machine learning applications for electricity market agent-based models: A systematic literature review,"This, therefore, highlights a wide range of areas in  in research undertaken into different topics. For instance, a small
+which the research community can focus on in future work. amount of papers carried out work on the forecasting of carbon
+                                                                      emissions, electricity grid control or bilateral trading. ",cs.MA,A,0.10733852,0.17788956,-0.06930606
+http://arxiv.org/pdf/2206.03085v1,A Route Network Planning Method for Urban Air Delivery,"From the city residents’ perspective, less areas would be aﬀected by this new type of aerial operations. One direction of future work is to further reduce computational time while ensuring the optimality of the solution
+and the fairness between diﬀerent routes. Distributed planning is a promising direction to explore. ",cs.MA,B,0.25294885,-0.36546475,-0.072086
+http://arxiv.org/pdf/2206.03085v2,A Route Network Planning Method for Urban Air Delivery,"From the city residents’ perspective, less areas would be aﬀected by this new type of aerial operations. One direction of future work is to further reduce computational time while ensuring the optimality of the solution
+and the fairness between diﬀerent routes. Distributed planning is a promising direction to explore. ",cs.MA,B,0.25294885,-0.36546475,-0.072086
+http://arxiv.org/pdf/2206.03253v1,"About Digital Twins, agents, and multiagent systems: a cross-fertilisation journey","Also reference [12] promotes the idea that through a MAS a
+set of DTs can create a network named as “asset ﬂeet”, essentially enabling DTs
+to obtain information about events that have not aﬀected them yet, as a away
+to improve their individual knowledge of the environment. Another review in
+favour of a synergistic exploitation of MAS and DTs, while recognising the need
+for further research along this line, argues that agents and MAS are good ex-
+amples of how autonomous decision-making can be modelled and implemented
+based on digital representations of physical entities [17]—as DTs are. Another literature review [28], explicitly targeting the supply chain business
+domain, sums up well how MAS and DTs are currently mostly exploited in
+synergy (emphasis added)—also outside of the supply chain domain:
+
+     “Since supply chains are now building with increasingly complex and col-
+     laborative interdependencies, Agent-Based Models are an extremely use-
+     ful tool when representing such relationships [. ",cs.MA,C,-0.16635433,0.16099173,-0.20704395
+http://arxiv.org/pdf/2206.05339v1,Characterizing Properties and Trade-offs of Centralized Delegation Mechanisms in Liquid Democracy,"We
+        one allowable delegation which satisfies the constraints and             will focus exclusively 1-PE here, but use this more general
+        objective of the mechanism. I.e., there is a many-to-one map-            definition in case it is relevant for future work. We are not
+        ping from preference graphs to delegations. ",cs.MA,B,0.039427876,-0.10292488,-0.29336956
+http://arxiv.org/pdf/2206.05568v1,Bounded strategic reasoning explains crisis emergence in multi-agent market games,"Various approaches have been proposed to consider price changes as a result of attendance ﬂuctuations
+[60, 40, 43]. For future work, it may be instructive to incorporate price changes into the analysis presented
+here, e.g., with the introduction of a market-maker. In addition, while we have examined entrance into a single
+market, it would be insightful to explore such ﬁndings in a generalised multiple market setting, where agents
+not only need to decide whether or not to enter, but also which market to enter (if any) in a congestion style
+game. ",cs.MA,A,0.20359525,0.3614626,0.07890792
+http://arxiv.org/pdf/2206.06758v1,Universally Expressive Communication in Multi-Agent Reinforcement Learning,"This suggests that a more complete
+picture of the relationship between communication expressivity and downstream performance on
+relevant tasks remains an open question for future research. Furthermore, insights into GNN architec-
+tures can be leveraged in GDNs, which opens many promising avenues for future work in MARL
+communication. 9
+References
+
+ [1] Ralph Abboud, Ismail Ilkan Ceylan, Martin Grohe, and Thomas Lukasiewicz. ",cs.MA,B,-0.086068,-0.10203293,-0.13292368
+http://arxiv.org/pdf/2206.06758v2,Universally Expressive Communication in Multi-Agent Reinforcement Learning,"This suggests that a more complete
+picture of the relationship between communication expressivity and downstream performance on
+relevant tasks remains an open question for future research. Furthermore, insights into GNN architec-
+tures can be leveraged in GDNs, which opens many promising avenues for future work in MARL
+communication. 10
+References
+
+ [1] Ralph Abboud, Ismail Ilkan Ceylan, Martin Grohe, and Thomas Lukasiewicz. ",cs.MA,B,-0.08617364,-0.10101508,-0.13300301
+http://arxiv.org/pdf/2206.07099v1,Resource-Mediated Consensus Formation,"2019. The evolution of
+   In future work we plan to introduce agents that have memory                                     polarization in the legislative branch of government. Journal of the Royal Society
+and that are able to adapt their strategies as the game proceeds. ",cs.MA,C,-0.28782868,0.20749539,-0.110919245
+http://arxiv.org/pdf/2206.08468v1,Belief-Desire-Intention (BDI) Multi-agent System for Cloud Marketplace Negotiation,"The author further intends
+to examine the third important aspect of the multi-agent system that is nego-
+tiation and study the feasibility of having self-competing agents negotiate with
+each other and decide who gets to negotiate with the opponent agent from the
+cloud marketplace ﬁrst. Furthermore, another part of the future work would be
+to design a protocol to facilitate the multi-agent communication for an enterprise
+using methodologies like Law Governed Interaction [16]. 6 Conclusion
+
+The paper showcased a BDI agents-based multi-agent system for cloud mar-
+ketplace negotiation that enables multi-party, multi-issue negotiation for cloud
+resources. ",cs.MA,C,-0.035785392,0.11832911,-0.38553512
+http://arxiv.org/pdf/2206.09590v1,From Multi-agent to Multi-robot: A Scalable Training and Evaluation Platform for Multi-robot Reinforcement Learning,"abs/1606.01540,
+and discuss several challenges in multi-robot reinforcement                           2016.
+learning research. Moreover, We plan to open-source the
+realistic simulation environments and design of our platform                    [16] M. Hoffman, B. Shahriari, J. Aslanides, G. Barth-Maron, F. Behbahani,
+to encourage further research on multi-robot reinforcement                            T. Norman, A. Abdolmaleki, A. Cassirer, F. Yang, K. Baumli et al.,
+learning. “Acme: A research framework for distributed reinforcement learning,”
+                                                                                      CoRR, vol. ",cs.MA,B,-0.28097332,-0.2435183,0.11381818
+http://arxiv.org/pdf/2206.09889v1,Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world,"Additionally, when constructing the environment, we remove all pedestrians and cyclists from
+the scene. Future versions of the benchmark will consider joint learning of pedestrians, cyclists, and
+vehicles but for NocturneV1 we only consider vehicles as appropriate modeling of pedestrian and
+cyclist dynamics is left for future work. Egocentric data collection
+
+The Waymo dataset that forms the basis of the ﬁrst version of Nocturne is collected by driving a
+sensor-equipped car and recording the trajectories of all visible vehicles. ",cs.MA,B,0.012848645,-0.18327746,0.30331546
+http://arxiv.org/pdf/2206.12330v1,Toward multi-target self-organizing pursuit in a partially observable Markov game,"Finally, all dis-      Section 5. Finally, the conclusions, limitations, and future work
+tributed multi-agent coordination in the three subtasks should          are given in Section 6.
+be accomplished without interagent communications. 2. ",cs.MA,C,-0.13620642,-0.10245688,-0.4259873
+http://arxiv.org/pdf/2206.12330v2,Toward multi-target self-organizing pursuit in a partially observable Markov game,"For example, FSC2 satisﬁes the mass capture based pur-                           methods more. In future work, more complex self-organizing
+suit in [19]. In FSC2, when pursuers surround the target or even                       patterns are expected to emerge that are not simply due to ho-
+before the target cannot move, the mass center of pursuers will                        mogeneous agents, and the distributed implicit multi-agent co-
+match that of the target. ",cs.MA,C,-0.18724406,-0.08763841,-0.05453142
+http://arxiv.org/pdf/2207.00725v1,Metacognitive Decision Making Framework for Multi-UAV Target Search Without Communication,"distribution for level 1 search and Brownian distribution for
+level 2 search. For further analysis, a combination of LS (level     B1: Effect of number of UAVs. 1) and BS (level 2) is used for the case of ﬁxed targets and      The search technique is simulated for a different number of
+dynamic targets and the US (for both level 1 and level 2) is      UAVs (nu) that are involved in the search mission with 10
+used for the case of sudden pop-up targets with step lengths      initially ﬁxed targets (ni). ",cs.MA,A,0.17282778,0.050149996,0.15365432
+http://arxiv.org/pdf/2207.01010v1,Government Intervention in Catastrophe Insurance Markets: A Reinforcement Learning Approach,"We make this assumption because dependence structures between
+behavioral biases were seldom modelled in literature and is out of the scope of this work. Modelling
+dependencies between behavioral biases can be an idea for future work on this research. A ﬁnal attribute we gave the individual agent is its catastrophe risk perception at time t, αti. ",cs.MA,C,-0.17463654,0.4091574,0.14668235
+http://arxiv.org/pdf/2207.01017v1,"""Y'all are just too sensitive"": A computational ethics approach to understanding how prejudice against marginalized communities becomes epistemic belief","This is an acceptable result
+for a ﬁrst prototype, but the behavior should be analyzed and reﬁned in future research. The impact of the noise parameter requires further examination. With the low
+negative threshold and positive threshold used in this paper, the potential negative
+reactors have a much higher chance of being pushed above negative threshold than a
+potential positive reactor has of being pulled below positive threshold. ",cs.MA,A,0.22486016,0.2118226,0.081853986
+http://arxiv.org/pdf/2207.02107v1,EasyABM: a lightweight and easy to use heterogeneous agent-based modelling tool written in Julia,"Plot of magnetisation vs time for the Ising model. shown in Fig 7.
+
+df = get_nodes_avg_props(model ,
+    node -> node.spin ,
+    labels =["" magnetisation""],
+    plot_result = true)
+
+3 Conclusions and future work
+
+We have introduced a new Julia framework for agents based modelling and explained its
+workﬂow with examples of 2D, 3D and graph based models. Some of the notable features of
+EasyABM we have tried to emphasise are -
+
+    • Fully function based approach. ",cs.MA,B,0.020870546,-0.08733017,-0.10933706
+http://arxiv.org/pdf/2207.02249v1,Learning Task Embeddings for Teamwork Adaptation in Multi-Agent Reinforcement Learning,"This assumption limits the settings in which MATE can be
+applied, and could be addressed using network architectures leveraging attention [Vaswani et al.,
+2017]. Lastly, future work should evaluate the feasibility of learning a mixture of task embeddings
+and centrally encoding joint information for centralised embeddings in tasks with many agents to
+investigate the scalability of our proposed approach. References
+
+Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, and Marc G Bellemare. ",cs.MA,B,-0.36306208,-0.14654803,-0.096699655
+http://arxiv.org/pdf/2207.03460v1,A Model-based Multi-agent Framework to Enable an Agile Response to Supply Chain Disruptions,"502–
+nodes lead to different performance outcome. We will in-               517, 2021.
+vestigate nodes’ attributes that result in these differences in
+future work. Future work may also include the analysis of         [7] S. Torabi, M. Baghersad, and S. Mansouri, “Resilient supplier se-
+the effects of network topology on response performance,               lection and order allocation under operational and disruption risks,”
+and the design of an optimization framework for selecting              Transportation Research Part E: Logistics and Transportation Review,
+response strategies. ",cs.MA,A,0.3463769,0.04122841,-0.07735334
+http://arxiv.org/pdf/2207.03945v1,High Performance Simulation for Scalable Multi-Agent Reinforcement Learning,"It does however       and tag. We note that extending the range and complexity
+rely on users to implement the training environment (or        of example environments is a priority for future work. providing a pre-existing environment). ",cs.MA,B,-0.090490736,-0.05873559,0.0719575
+http://arxiv.org/pdf/2207.05683v1,Policy Diagnosis via Measuring Role Diversity in Cooperative Multi-agent RL,"In this way, the
+gorithms and training strategies is largely dependent on                                        policy optimization can beneﬁt from the shared experience
+the role diversity. As a brief conclusion, we give three                                        buffer with samples from all different agents, providing a
+following insights for guiding future works and helping pol-                                    higher data efﬁciency. However, it has also been noted in
+icy diagnosis to avoid using improper training strategies:                                      recent works that parameter sharing is not always a good
+scenarios with large action-based role diversity prefer no                                      choice [8, 35, 51]. ",cs.MA,C,-0.3683946,0.032276645,0.1271939
+http://arxiv.org/pdf/2207.06392v1,Relationship Design for Socially Desirable Behavior in Static Games,"The usage of the two methods should be determined
+                                   Entropy-Nash GD
+                                                                               based on the particular game setting in different problems. 2  log10(t) = 0.295n − 2.91
+                                                                                  Despite these encouraging results, there is ample room for
+                           0
+                                                                               future work. In this work, we focus on static games, limiting
+                    −2
+                              2 4 6 8 10 12 14 16 18                           the applicability of the methods from sequential decision-
+                                             Number of players, n
+                                                                               making needed scenarios. ",cs.MA,B,0.057436243,-0.01606183,0.072393216
+http://arxiv.org/pdf/2207.08860v1,Optimizing Indoor Navigation Policies For Spatial Distancing,"During the simulation, the environment is initially empty, and        Alternative behaviors could be implemented so that a probability
+the agents start entering and conduct their shopping behaviors by        of agents not following the policy may be useful. In future work,
+visiting each target item shown in their shopping lists. When the        extending our framework with more robust agent-environment
+occupancy load is reached, no more agents are allowed to enter,          interaction could consider likely sources of disease spread, such
+until any agent in the scene finishes the checkout behavior and          as contaminated surfaces, requiring agents to physically interact
+                                                                         with objects (e.g., picking up a box of cereal on a grocery shelf or
+                                                                         opening the refrigerator door). ",cs.MA,C,-0.0030499068,0.15139249,0.025224699
+http://arxiv.org/pdf/2207.09300v1,Few-Shot Teamwork,"Alternative forms of
+complex target task. For each of the M source tasks, Tm, the      the source–target relationship assumption could be explored
+team Pm trains for NS training steps using learning algorithm     in future work. LS, generating a joint task policy πm, and optionally other
+data or functions derived from the training process, such as      3 Differences Between the Two FST Framings
+a buffer of source stage experiences, which might be useful
+during the adjustment stage. ",cs.MA,B,-0.21912576,-0.1100896,0.11360974
+http://arxiv.org/pdf/2207.09708v1,RV4JaCa -- Runtime Verification for Multi-Agent Systems,"In this sense, RV allows us to
+avoid unexpected and probably inappropriate system behaviour. As future work, we plan to further extend RV4JaCa to more than interaction protocols. For instance,
+it would be relevant to check the agents’ state of mind as well. ",cs.MA,C,-0.032675426,-0.0072053857,-0.11541212
+http://arxiv.org/pdf/2207.11143v2,Towards Global Optimality in Cooperative MARL with Sequential Transformation,"Only in 6h_vs_8z, T-PPO-Distillation performs worse than T-PPO,
+demonstrating that correlation learned by T-PPO might be overly dependent on the sequential
+transformation even though we have added several normalization items. Although this phenomenon
+rarely occurs and depends on one special task, we will study this limitation in future work. 5.2.1 Advantage of Sequential Transformation Framework in SMAC
+
+In this section, we will further analyze the local                  Figure 4: Illustration of 3h_vs_1b1z3h. ",cs.MA,A,0.13027589,0.0670635,-0.06891293
+http://arxiv.org/pdf/2207.13396v1,A Geometric Approach to Passive Localisation,"However, there
+are cases when the sensors’ movement is restricted, and the sensor still reaches a marginally better
+localisation. For future work, an interesting idea would be to study this problem in temporal graphs as the
+sensors move and may get out of communication range. In addition, it would be interesting to study
+the decision-making mechanisms presented in this paper in a distributed rather than a centralised
+environment. ",cs.MA,B,0.08267774,-0.19396695,-0.11551771
+http://arxiv.org/pdf/2208.00737v1,e-Genia3 An AgentSpeak extension for empathic agents,"In Section 5 a default design for all the processes described
+                                       in Section 4 is presented. Finally, the main conclusions and some future works are presented in Section 6. 1
+2 Related work
+
+For years, the area of aﬀective computing [51] has been working to design models to understand and simulate non-rational
+behaviors such as aﬀective behaviors [39, 50, 73]. ",cs.MA,C,0.037629765,-0.049334187,-0.15787295
+http://arxiv.org/pdf/2208.01285v1,Evaluating Inter-Operator Cooperation Scenarios to Save Radio Access Network Energy,"Recall that when E is close to 1.0, each of the N
+3-agent game  4-agent game                                           A limitation of this work is that the QoS provided during
+                                                                  the cooperation is not taken into account, which could lead to
+8-agent game  10-agent game                                       tensions among SPs in case of low QoS. As a consequence,
+                                                                  future work should also integrate QoS. Fig. ",cs.MA,C,-0.044502884,0.070943825,-0.19681534
+http://arxiv.org/pdf/2208.01682v1,Heterogeneous-Agent Mirror Learning: A Continuum of Solutions to Cooperative MARL,"We are fully aware that none of these two methods exploits the entire abundance of the HAML
+framework—they do not possess HADFs or neighbourhood operators, as oppose to HATRPO or
+HAPPO. Thus, we speculate that the range of opportunities for HAML algorithm design is yet to be
+discovered with more future work. Nevertheless, we begin this search from these two straightforward
+methods, and analyse their performance in the next section. ",cs.MA,B,0.27412713,-0.34829623,-0.12860504
+http://arxiv.org/pdf/2208.02901v1,Learning the Trading Algorithm in Simulated Markets with Non-stationary Continuum Bandits,"661–
+consider a trending market in which the supply and demand                          670.
+range changes linearly with time and has less volatility and
+a market in which the supply and demand range does not                       [13] W. Chu, L. Li, L. Reyzin, and R. Schapire, “Contextual bandits with
+change with time but has greater volatility. In future works,                      linear payoff functions,” in Proceedings of the Fourteenth International
+we will consider more complex market dynamics, as well as                          Conference on Artiﬁcial Intelligence and Statistics. JMLR Workshop
+asymmetric and even time-varying supply and demand curves,                         and Conference Proceedings, 2011, pp. ",cs.MA,A,0.20258616,0.3512903,0.25258482
+http://arxiv.org/pdf/2208.02901v2,Learning the Trading Algorithm in Simulated Markets with Non-stationary Continuum Bandits,"661–
+consider a trending market in which the supply and demand                          670.
+range changes linearly with time and has less volatility and
+a market in which the supply and demand range does not                       [13] W. Chu, L. Li, L. Reyzin, and R. Schapire, “Contextual bandits with
+change with time but has greater volatility. In future works,                      linear payoff functions,” in Proceedings of the Fourteenth International
+we will consider more complex market dynamics, as well as                          Conference on Artiﬁcial Intelligence and Statistics. JMLR Workshop
+asymmetric and even time-varying supply and demand curves,                         and Conference Proceedings, 2011, pp. ",cs.MA,A,0.20258616,0.3512903,0.25258482
+http://arxiv.org/pdf/2208.04237v1,Multi-Agent Reinforcement Learning for Long-Term Network Resource Allocation through Auction: a V2X Application,"In this paper, we ﬁx the hyperparameters of the algorithm for the simulation, such as penalty costs
+related to backoﬀ decisions and lost bids, each agent’s preferences of long and short-term objectives, etc. A meta-learning algorithm that learns the best hyperparameters is left to future work. Besides, we assume
+there is no “malicious” agent with the goal to reduce social welfare or attack the system. ",cs.MA,B,-0.15491676,0.06965913,0.22094972
+http://arxiv.org/pdf/2208.05414v1,Diversifying Message Aggregation in Multi-Agent Communication via Normalized Tensor Nuclear Norm Regularization,"To better ex-      NTNNR may not achieve signiﬁcant performance improve-
+plain why our regularizer performs well, we further visualize     ments in these cases. In future work, we plan to quantify the
+the ﬁnal trained strategies in Figure 9. In this 3s5z map, three  diversity upper bound for multi-agent systems. ",cs.MA,B,-0.20103216,-0.29098684,-0.14129521
+http://arxiv.org/pdf/2208.05414v2,Diversifying Message Aggregation in Multi-Agent Communication via Normalized Tensor Nuclear Norm Regularization,"To better ex-      NTNNR may not achieve signiﬁcant performance improve-
+plain why our regularizer performs well, we further visualize     ments in these cases. In future work, we plan to quantify the
+the ﬁnal trained strategies in Figure 9. In this 3s5z map, three  diversity upper bound for multi-agent systems. ",cs.MA,B,-0.20103216,-0.29098684,-0.14129521
+http://arxiv.org/pdf/2208.07094v1,Fair Division meets Vehicle Routing: Fairness for Drivers with Monotone Profits,"We will also consider VRP settings with time windows and ordering constraints,
+and study the impact fairness has on the total delay in such settings. Non-monotone
+preferences are also left for future work. Finally, we will measure through simulations
+the quality of routing in fair assignments. ",cs.MA,A,0.3695249,-0.086780414,0.04953996
+http://arxiv.org/pdf/2208.07185v2,A Multi-Criteria Metaheuristic Algorithm for Distributed Optimization of Electric Energy Storage,"itself. However, in future work, it has to be shown that the
+approach scales as expected. [8] Paul Hendrik Tiemann, Astrid Bensmann, Volker Stuke,
+                                                                         and Richard Hanke-Rauschenbach. ",cs.MA,C,-0.15034539,0.142182,0.07906622
+http://arxiv.org/pdf/2208.10676v1,Entropy Enhanced Multi-Agent Coordination Based on Hierarchical Graph Learning for Continuous Action Space,"Meanwhile, our method
+also shows scalability and transferability in various scale multi-agent systems. As a future work, we
+will investigate more intelligent exploration in MARL and try to improve the training strategy with
+adaptive temperature parameter. References
+
+ [1] Kai Arulkumaran, Antoine Cully, and Julian Togelius. ",cs.MA,B,-0.31064045,-0.25094503,0.07261549

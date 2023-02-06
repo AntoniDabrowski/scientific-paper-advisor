@@ -1,0 +1,88 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2202.10013v2,Some remarks on anti-topological spaces,"7. Conclusion and future work
+
+   In this paper we interpreted some of the basic topological notions in
+anti-topological setting. In this way we extended the initial research
+presented in [14]. ",math.GN,B,0.13418491,0.03919719,-0.35935104
+http://arxiv.org/pdf/2202.10278v1,A categorical review of complete regularity,"Taking X to be discrete, one obtains the (endofunctor of a) monad UAb on Ab, for
+which the category UAb-Spa(Ab) needs to be investigated. Since, by a well-known,
+but non-trivial, result of harmonic analysis, a homomorphism f : X → Y of locally
+compact abelian (lca) groups is continuous, as soon as χf is continuous for all (char-
+acters) χ ∈ TopAb(Y, T), we conjecture that all lca groups lie in UAb-CFSpa(Ab),
+but must leave any elaboration of this conjecture for future work. 5 External properties of complete regularity
+
+Continuing to work in a category C equipped with a monad T , under the same general
+assumptions as in Section 4, we have the diagram
+
+            p  B
+
+T -ASpa(C)     ⊥ 0 T -CSpa(C)
+❑❑❑❑❑
+               J         ssss
+
+U ❑❑❑❑❑ sssssV
+               ❑% C yss
+
+where U, V are forgetful functors and J is a full embedding with reﬂector B, the ex-
+istence of which is guaranteed by Theorem 4.7. ",math.GN,A_centroid,0.1888915,0.24654138,0.392111
+http://arxiv.org/pdf/2204.02079v1,Quotient spaces with strong subgyrogroups,"Shortly afterwards,
+Cai, Lin and He in [19] proved that every topological gyrogroup is a rectiﬁable space, which implies that the
+equivalence between the axioms of ﬁrst-countable and metrizability in a Hausdorﬀ topological gyrogroup. By
+further researches of the classical Mo¨bius gyrogroups, Einstein gyrogroups, and Proper Velocity gyrogroups,
+Bao and Lin [8] found that each of them has an open neighborhood base at the identity element 0 such
+that all elements of the base are invariant under the groupoid automorphisms with standard topology. Therefore, they posed the concept of strongly topological gyrogroups and showed that every feathered
+strongly topological gyrogroup is paracompact. ",math.GN,B,-0.42404896,-0.031782944,0.005368162
+http://arxiv.org/pdf/2204.02882v5,Meager composants of tree-like continua,"We suspect that most of these statements are also true in the context of homogeneity. In
+the Appendix at the end of the paper, we will begin investigating meager composants of
+homogeneous continua, and pose some questions for further research
+
+                                   2. Definitions and basic notions
+
+   A continuum X is tree-like if for every ε > 0 there is an acyclic graph T (a tree) and
+a mapping f : X → T such that diam(f −1{t}) < ε for each t ∈ T . ",math.GN,A,0.27436227,0.3986558,-0.3468846
+http://arxiv.org/pdf/2204.07941v1,"Spaces of Real Functions, Covers and Dense Subsets","It was
+a great honor for me to work together. I hope that his scientiﬁc ideas will be
+continued in further research by mathematicians working in this ﬁeld. References
+
+[BeLe] Beer G. and Levi S., Strong uniform continuity, J. ",math.GN,A,0.17785989,0.71714914,-0.17535849
+http://arxiv.org/pdf/2204.12329v1,A supplement on feathered gyrogroups,"Moreover, we mainly research some weakly ﬁrst-countable properties in feathered strongly topological gy-
+                                          rogroups. Indeed, for further study on Mo¨bius gyrogroups, Bao and Lin posed the concept of strongly
+                                          topological gyrogroups and showed that a strongly topological gyrogroup G is feathered if and only if it
+
+                                              ⋆This research was supported by the National Natural Science Foundation of China (Nos. 12071199, 11661057), the Natural
+                                          Science Foundation of Jiangxi Province, China (No. ",math.GN,B_centroid,-0.48907787,-0.15326375,0.04051697
+http://arxiv.org/pdf/2204.12329v2,A supplement on feathered gyrogroups,"Moreover, we mainly research some weakly ﬁrst-countable properties in feathered strongly topological gy-
+                                         rogroups. Indeed, for further study on Mo¨bius gyrogroups, Bao and Lin posed the concept of strongly
+                                         topological gyrogroups and showed that a strongly topological gyrogroup G is feathered if and only if it
+
+                                             ⋆This research was supported by the National Natural Science Foundation of China (Nos. 12071199, 11661057), the Natural
+                                         Science Foundation of Jiangxi Province, China (No. ",math.GN,B,-0.48907787,-0.15326375,0.04051697
+http://arxiv.org/pdf/2205.01511v1,On $P\mathcal{M}$-factorizable topological groups,"Moreover, it was proved in [10, Theorem 3.2] that a topological group is R-factorizable if
+                                         and only if it is M-factorazible and ω-narrow. By the further research of R-factorizable topological groups, L. Peng and Y. Liu introduced the concept
+                                         of P R-factorizable topological groups, that is, a topological group G is called P R-factorizable if for every
+
+                                             ⋆This research was supported by the National Natural Science Foundation of China (Nos. 12071199, 11661057), the Natural
+                                         Science Foundation of Jiangxi Province, China (No. ",math.GN,B,-0.32678068,-0.13705605,-0.090848036
+http://arxiv.org/pdf/2205.01511v2,On some kinds of factorizable topological groups,"Moreover, it was proved in [10, Theorem 3.2] that a topological group is R-factorizable if
+                                          and only if it is M-factorazible and ω-narrow. By further researches of R-factorizable topological groups, L. Peng and Y. Liu introduced the concept
+                                          of P R-factorizable topological groups, that is, a topological group G is called P R-factorizable if for every
+                                          continuous real-valued function f on G, there exists a perfect homomorphism π : G → H onto a second-
+                                          countable topological group H such that f = g ◦ π, for some continuous real-valued function g on H.
+                                          They gave the characterizations of P R-factorizable topological groups in [3, Theorem 2.6]. In particular,
+
+                                              ⋆This research was supported by the National Natural Science Foundation of China (Nos. ",math.GN,B,-0.31608534,-0.08524461,-0.09724485
+http://arxiv.org/pdf/2207.14738v1,Relatively Anosov representations via flows II: examples,"This example shows that there is value in studying bundles associated to general
+weak cusp spaces and not just the Groves–Manning cusp spaces. In future work
+we will further explore how to select the “best” weak cusp spaces to study a given
+relatively Anosov representation. We can relax the condition in Proposition 1.7 to only assuming that the repre-
+sentation extends on each peripheral subgroup. ",math.GN,A,0.18755007,0.19471803,0.6728491
+http://arxiv.org/pdf/2208.07691v1,Maximal Soft Topologies,"With the help of a simple extension
+of a soft topology, we have found that any soft connected topology relativised with a maximal
+soft connected is also maximal. As part of future work, the following tasks are expected to be completed:
+    • Diﬀerent soft point theories can be applied to all the results presented in this paper. • Recall that a soft topology I on Z with the property Γ is Γ-maximal if any soft topology
+ﬁner than I does not have the property Γ. ",math.GN,C_centroid,0.5411111,-0.5178252,-0.04083755
+http://arxiv.org/pdf/2208.07691v2,Soft Maximal Topologies,"With the help of a simple extension
+of a soft topology, we have found that any soft connected topology relativised with a maximal
+soft connected is also maximal. As part of future work, the following tasks are expected to be completed:
+    • Diﬀerent soft point theories can be applied to all the results presented in this paper. • Recall that a soft topology I on Z with the property Γ is Γ-maximal if any soft topology
+ﬁner than I does not have the property Γ. ",math.GN,C,0.5411111,-0.5178252,-0.04083755

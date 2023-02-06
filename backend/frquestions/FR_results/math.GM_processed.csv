@@ -1,0 +1,64 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.09738v1,An Invitation to Higher Arity Science,"A synthesis of these
+ideas is beautifully captured in the work of N. Baas on higher topological structures [Baa16]. Although we postpone discussing any concrete ternary topological structures for future work, we would
+like to remark that topology oﬀers a highly developed toolkit of concepts and mathematical theories
+that may aid in the systematic investigation of higher arity. Particularly, the theory of simplicial
+complexes and topological manifolds [Lee10] provides some useful notions to begin a systematic
+enquiry into ternary sequentiality. ",math.GM,C,-0.38949174,-0.3724144,0.71515083
+http://arxiv.org/pdf/2204.03069v1,Generalized level measure based on a family of conditional aggregation operators,"Clearly,
+
+Lµ ⊆ LCµ ⊆ LSµ, where LCµ is the set of Choquet integrable functions. A detailed study and
+
+practical consequences are left for the future work. Acknowledgement
+
+   This work was supported by the Slovak Research and Development Agency under the contract
+No. ",math.GM,C_centroid,-0.48670018,-0.32283574,-0.100450486
+http://arxiv.org/pdf/2204.11624v1,On the smallest open Diophantine equations,"Given a polynomial Diophantine equation, decide whether its solution set is ﬁnite, and if so, list
+all the solutions. Note that proving that the solution set is inﬁnite completely solves Problem 4.1, and no further analysis is
+required. In Section 2, we have completed the analysis of all equations of size H ≤ 12, so we may move to
+H = 13. ",math.GM,A_centroid,-0.38254398,0.9083892,0.11629851
+http://arxiv.org/pdf/2205.10125v1,Some neighborhood-related fuzzy covering-based rough set models and their applications for decision making,"7. Conclusion and future work
+
+    In order to extend the traditional covering based rough set to the fuzzy environment and give a diﬀerent gener-
+alization from [9], we have deﬁned four original overlap function-based fuzzy operators. In addition, we also give
+two types of neighborhood-related fuzzy covering-based rough set models which are based on fuzzy neighborhood
+operators given in [9] and the new ones deﬁned in the above text. ",math.GM,B,0.09740415,-0.18102929,-0.36172685
+http://arxiv.org/pdf/2206.02567v1,A Monotonous Intuitionistic Fuzzy TOPSIS Method with Linear Orders under Two Novel Admissible Distance Measures,"(19),     methods to illustrate the efﬁciency of our TOPSIS method. In
+(21), and (23): C1 = 0.6311, C2 = 0.5552, C3 = 0.5058,
+C4 = 0.3980, C5 = 0.5307.                                          the future, we will further study the general construction of
+
+   Step 4: (Rank the alternative) Because C1 > C2 > C5 >           linear orders and admissible distance/similarity measures for
+C3 > C4, the preference order of the alternatives Ai (i =
+1, 2, 3, 4, 5) is: A1 ≻ A2 ≻ A5 ≻ A3 ≻ A4. IFVs, which is very important for building more effective IF
+
+   Repeating Steps 1–2, by applying Eqs. ",math.GM,B,0.4861157,0.11973682,0.15274034
+http://arxiv.org/pdf/2206.02567v2,A Monotonous Intuitionistic Fuzzy TOPSIS Method under General Linear Orders via Admissible Distance Measures,"corresponding linear order, this may cause inaccurate decision-
+  1                                                                                                     A1    1                                                                                                     A1
+0.9                                                                                                     A2  0.9                                                                                                     A2  making results in some cases. In the future, therefore, we
+0.8                                                                                                     A3  0.8                                                                                                     A3
+0.7                                                                                                     A4  0.7                                                                                                     A4  will further study the general construction of linear orders and
+0.6                                                                                                     A5  0.6                                                                                                     A5
+0.5                                                                                                         0.5                                                                                                         admissible distance/similarity measures for IFVs, which will
+0.4    100 200 300 400 500 600 700 800 900 1000                                                             0.4    100 200 300 400 500 600 700 800 900 1000
+0.3                                                                                                         0.3                                                                                                         be useful for building more effective IF TOPSIS methods. 0.2                                                                                                         0.2
+0.1                                                                                                         0.1                                                                                                                                      REFERENCES
+
+  0                                                                                                           0                                                                                                          [1] L. A. Zadeh, “Fuzzy sets,” Inf. ",math.GM,B_centroid,0.58092743,-0.032384656,-0.008852515
+http://arxiv.org/pdf/2206.02567v3,A Monotonous Intuitionistic Fuzzy TOPSIS Method under General Linear Orders via Admissible Distance Measures,"corresponding linear order, this may cause inaccurate decision-
+  1                                                                                                     A1    1                                                                                                     A1
+0.9                                                                                                     A2  0.9                                                                                                     A2  making results in some cases. In the future, therefore, we
+0.8                                                                                                     A3  0.8                                                                                                     A3
+0.7                                                                                                     A4  0.7                                                                                                     A4  will further study the general construction of linear orders and
+0.6                                                                                                     A5  0.6                                                                                                     A5
+0.5                                                                                                         0.5                                                                                                         admissible distance/similarity measures for IFVs, which will
+0.4    100 200 300 400 500 600 700 800 900 1000                                                             0.4    100 200 300 400 500 600 700 800 900 1000
+0.3                                                                                                         0.3                                                                                                         be useful for building more effective IF TOPSIS methods. 0.2                                                                                                         0.2
+0.1                                                                                                         0.1                                                                                                                                      REFERENCES
+
+  0                                                                                                           0                                                                                                          [1] L. A. Zadeh, “Fuzzy sets,” Inf. ",math.GM,B,0.58092743,-0.032384656,-0.008852515
+http://arxiv.org/pdf/2206.13094v1,Convolution theorems for the free metaplectic transformation and its application,"Finally, we discuss multiplicative ﬁlters in the FMT
+domain. In future work, we will consider the sampling theorem of MFT in optics
+and signal processing. References
+
+   [1] Z. C. Zhang, New Wigner distribution and ambiguity function based on
+       the generalized translation in the linear canonical transform domain. ",math.GM,C,-0.4866389,-0.087077186,-0.50430727

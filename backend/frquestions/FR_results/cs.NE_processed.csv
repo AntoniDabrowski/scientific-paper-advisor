@@ -1,0 +1,1691 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00042v2,Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments,"As such, dendrite mediated contextual integration
+and gating may be a more general phenomenon of biological neural systems. Modeling other neuron types is an
+interesting area for future work. 5.2 Comparison to Other Multi-Task RL Systems
+
+Many techniques in multi-task RL make manual changes to the network structure or learning scheme in order to
+account for the learning of new tasks. ",cs.NE,C,0.34579927,0.026165973,0.18598142
+http://arxiv.org/pdf/2201.00563v1,Using Fitness Dependent Optimizer for Training Multi-layer Perceptron,"outperform other models in terms of convergence speed
+and avoiding convergence to local optima. The high                   For future work, this technique can be employed for
+exploration of the FDO algorithm produces high local             other datasets in different fields. The applications of this
+optima avoidance. ",cs.NE,A,-0.0827717,-0.24257532,-0.07764472
+http://arxiv.org/pdf/2201.02119v1,"An Opinion Mining of Text in COVID-19 Issues along with Comparative Study in ML, BERT & RNN","In figure-9, the word cloud is a mental health condition during the Covid-19 situation
+where the most significant words of this topic are mentioned and the words collect
+from our dataset showed in the word cloud. 5 Conclusion and future work
+
+From this experiment, the proposed model can predict the sentiment of a Bangla sen-
+tence whether it’s depressed or not. This model is proposed on only 443 data which was
+collected by Google form. ",cs.NE,B,0.10923524,0.19018571,0.13245818
+http://arxiv.org/pdf/2201.02262v1,A unified software/hardware scalable architecture for brain-inspired computing based on self-organizing neural models,"3) Online learning, acting and spiking neural networks: The ability to process signals and act in real time is an important
+feature of living systems that we have not discussed in this work. In future work, we will address aspects of our architecture
+that will allow it to develop into a full-ﬂedged online acting agent. Some previously cited works [41]–[44] show a signiﬁcant
+potential for the development of self-organizing maps as a method for robots to navigate the surrounding space. ",cs.NE,C,0.3129101,0.0058726687,0.23615688
+http://arxiv.org/pdf/2201.04286v1,Evolutionary Action Selection for Gradient-based Policy Learning,"Especially in the Humanoid environment, the                                                       tions. As future work, we can integrate the idea of Quality-
+learning curve rises fastest at 300000 to 400000 timesteps                                                    Diversity (QD) (Cully et al., 2015; Pugh et al., 2016), which
+while the Q value growth is also greatest, which reveals                                                      not only evolve high-quality actions but also evolve diverse
+that the performance improvement does come from EAS. In                                                       actions to deal with the environment with deceptive rewards. ",cs.NE,B,0.06844445,0.008160733,0.29875374
+http://arxiv.org/pdf/2201.04286v2,Evolutionary Action Selection for Gradient-based Policy Learning,"Especially in the Humanoid environment, the                                                       tions. As future work, we can integrate the idea of Quality-
+learning curve rises fastest at 300000 to 400000 timesteps                                                    Diversity (QD) (Cully et al., 2015; Pugh et al., 2016), which
+while the Q value growth is also greatest, which reveals                                                      not only evolve high-quality actions but also evolve diverse
+that the performance improvement does come from EAS. In                                                       actions to deal with the environment with deceptive rewards. ",cs.NE,B,0.06844445,0.008160733,0.29875374
+http://arxiv.org/pdf/2201.04286v3,Evolutionary Action Selection for Gradient-based Policy Learning,"Deep
+to address several interesting open questions. As future work, we                               q-learning from demonstrations. In Thirty-second AAAI conference on artificial
+can integrate the idea of Quality-Diversity (QD) [10, 47], which                                intelligence. ",cs.NE,B,0.11799401,-0.02530626,0.39142227
+http://arxiv.org/pdf/2201.04286v4,Evolutionary Action Selection for Gradient-based Policy Learning,"We believe that our
+work can trigger follow-up studies to address several interesting open questions. In future work, we
+can integrate the idea of Quality-Diversity (QD) [8, 32], which not only evolve high-quality actions
+but also evolve diverse actions to deal with the environment with deceptive rewards. References
+
+ [1] David Ackley. ",cs.NE,B,-0.010063518,0.20571181,0.45754606
+http://arxiv.org/pdf/2201.04361v1,Evolutionary Optimization for Proactive and Dynamic Computing Resource Allocation in Open Radio Access Network,"Experimental studies are presented in Section 5. Section 6 summarizes this paper and gives an outlook of
+the future work. 2. ",cs.NE,B,0.037671313,0.42545047,0.01829448
+http://arxiv.org/pdf/2201.06877v1,Frequent Itemset-driven Search for Finding Minimum Node Separators in Complex Networks,"As
+and f (S). The former was original proposed in [21], i.e.,           future work, the following two potential research directions
+                                                                     can be pursued. To further improve FIS, it is worth studying
+T                                                                    some advanced population management strategies to reinforce
+                                                                     population diversity and improve the search. ",cs.NE,B,-0.23067826,0.115302235,0.32870537
+http://arxiv.org/pdf/2201.06993v1,FPGA-optimized Hardware acceleration for Spiking Neural Networks,"focused on a speciﬁc dataset, the MNIST. The future work
+consists of generalizing the structure to apply it to other                      [15] Lina Abdul Kadir, Michael Stacey, and Richard Barrett-Jolley. datasets. ",cs.NE,C,0.1894288,0.01757469,0.055422824
+http://arxiv.org/pdf/2201.06993v2,Spiker: an FPGA-optimized Hardware acceleration for Spiking Neural Networks,"a competitive energy consumption and a limited impact on
+the accuracy. This sets a good starting point for future work,                    [10] Filipp Akopyan et al. “Truenorth: Design and tool ﬂow of a 65 mw
+which aims to improve the structure of the network itself, in                             1 million neuron programmable neurosynaptic chip”. ",cs.NE,C,0.3515662,-0.0677571,-0.21550804
+http://arxiv.org/pdf/2201.06993v3,Spiker: an FPGA-optimized Hardware acceleration for Spiking Neural Networks,"146–158. ISSN: 0925-2312.
+starting point for future work, in which different and deeper
+network structures will be considered. The main goal will be                   [12] De Ma et al. ",cs.NE,C,0.12668121,0.12788124,-0.11606695
+http://arxiv.org/pdf/2201.07208v1,Enhanced Self-Organizing Map Solution for the Traveling Salesman Problem,"Secondly, we combined two different modiﬁcations to the benchmark technique,
+leading to consistent route length results. For future work, we suggest additional improve-
+ments, mainly considering the stochastic aspects of the method, and advanced techniques
+to choose the best hyperparameters, which may bring better results to the SOM algorithm. References
+
+Brocki, Ł. and Korzˇinek, D. (2007). ",cs.NE,A,-0.18030268,-0.06932349,-0.30049652
+http://arxiv.org/pdf/2201.07211v1,Human-Level Control through Directly-Trained Deep Spiking Q-Networks,"[Online]. Available: https://doi.org/10.24963/ijcai.2021/240
+in-depth, we could continue to improve it in the future work. Moreover, based on the present work, and in order to better                      [14] V. Mnih, K. Kavukcuoglu, D. Silver, A. Graves, I. Antonoglou, D. Wier-
+stimulate the potential of SNNs, we plan to conduct further                            stra, and M. Riedmiller, “Playing Atari with Deep Reinforcement
+research on actual neuromorphic hardware in the future. ",cs.NE,C,0.43595827,-0.03423616,0.12233929
+http://arxiv.org/pdf/2201.07211v2,Human-Level Control through Directly-Trained Deep Spiking Q-Networks,"7782, pp. 350–354, 2019.
+
+in-depth, we could continue to improve it in the future work. [21] M. Hessel, J. Modayil, H. van Hasselt, T. Schaul, G. Ostrovski, W. Dab-
+Moreover, based on the present work, and in order to better                                                               ney, D. Horgan, B. Piot, M. Azar, and D. Silver, “Rainbow: Combining
+stimulate the potential of SNNs, we plan to conduct further                                                               improvements in deep reinforcement learning,” Proceedings of the AAAI
+research on actual neuromorphic hardware in the future. ",cs.NE,C_centroid,0.51267713,-0.07196885,0.11380836
+http://arxiv.org/pdf/2201.07602v1,Including STDP to eligibility propagation in multi-layer recurrent spiking neural networks,"Finally, the eﬀect of stacking multiple layers was also examined in
+combination with the ALIF, STDP-ALIF, and Izhikevich neuron model,
+and did not appear to improve the learning performance in this task. Possible future work on this topic includes research on the eﬀects of
+more elaborate weight initialization methods, variable hyperparameters
+for individual neurons, diﬀerent static or dynamic connectivity graphs,
+and synaptic delays. The scientiﬁc gain of this research is that the link between STDP and
+e-prop was more closely examined than in previous literature, and that
+the inclusion of STDP in e-prop can lead to a more accurate or eﬃcient
+learning performance. ",cs.NE,C,0.33465284,-0.04001741,0.022288378
+http://arxiv.org/pdf/2201.09359v1,Imposing Connectome-Derived Topology on an Echo State Network,"In the “Results and Discussion”          The recurrent reservoir dynamics (as previously speciﬁed in
+section, we will identify the best selected models (from          [2]) can be described by the following:
+hyperparameter optimization) and present and discuss the
+performance of these models. Finally, in the “Conclusion”         x˜(n) = tanh Win[1; u(n)] + Wx(n − 1)  (1)
+section we will summarize the results, present the project
+limitations, and highlight directions for future work. x(n) = (1 − α)x(n − 1) + αx˜(n)        (2)
+
+                         II. ",cs.NE,A,0.05677766,0.041144066,-0.023333015
+http://arxiv.org/pdf/2201.10037v1,Diversity Enhancement via Magnitude,", n} is called scattered if d(x, y) > log(n − 1)     inform clustering algorithms. We leave this for future work. for all x = y (see, e.g., Deﬁnition 2.12 of [23]). ",cs.NE,A,-0.13807344,0.11281276,-0.10024415
+http://arxiv.org/pdf/2201.10316v1,Niching-based Evolutionary Diversity Optimization for the Traveling Salesperson Problem,"The low 2 scores, compared to those of PD, might indicate
+the small size of the feasible region each cluster occupies, compared to the one the optimal solution occupies. For further analysis, we inspect the average evaluations until the 2-stage approach stops improving diversity. These are
+reported in Table 3, along with the average termination times of the ﬁrst stage, NMA. ",cs.NE,A,-0.34100062,0.020868255,-0.094712034
+http://arxiv.org/pdf/2201.10316v2,Niching-based Evolutionary Diversity Optimization for the Traveling Salesperson Problem,"The low 2 scores, compared to those of PD, might indicate
+the small size of the feasible region each cluster occupies, compared to the one the optimal solution occupies. For further analysis, we inspect the average evaluations until the 2-stage approach stops improving diversity. These are
+reported in Table 3, along with the average termination times of the ﬁrst stage, NMA. ",cs.NE,A,-0.34100047,0.020868279,-0.09471196
+http://arxiv.org/pdf/2201.10355v1,Neural Architecture Search for Spiking Neural Networks,"able for SNNs where spikes convey information through
+                                                                                multiple timesteps. We hope our work fosters future work on
+5.6. Analysis on Timesteps                                                      searching better SNN-friendly architecture. ",cs.NE,C,0.33904493,-0.041176423,-0.12434192
+http://arxiv.org/pdf/2201.10355v2,Neural Architecture Search for Spiking Neural Networks,"International Journal of Computer Vision,
+By achieving better performance than the previous works,                                113(1):54–66, 2015.
+we demonstrate that a new type of architecture is more suit-
+able for SNNs where spikes convey information through                            [10] Boyu Chen, Peixia Li, Baopu Li, Chen Lin, Chuming Li,
+multiple timesteps. We hope our work fosters future work on                             Ming Sun, Junjie Yan, and Wanli Ouyang. Bn-nas: Neural
+searching better SNN-friendly architecture. ",cs.NE,C,0.4997929,-0.16425596,-0.034695864
+http://arxiv.org/pdf/2201.10355v3,Neural Architecture Search for Spiking Neural Networks,"8. By using this early stage
+information, there is a possibility of applying an evolutionary algorithm [70] to
+SNN searching in future works. 5.3 Experimental Analysis
+
+Observations from Searched Cells. ",cs.NE,C,0.18751574,-0.108407125,0.08617718
+http://arxiv.org/pdf/2201.10623v1,A comprehensive review and evaluation on text predictive and entertainment systems,"Open research problems and challenges are discussed in section 6. Finally,
+concluding points and future works of this paper are outlined in section 7. 2. ",cs.NE,B,-0.18307918,0.26262963,0.101355396
+http://arxiv.org/pdf/2201.11422v2,Fast Moving Natural Evolution Strategy for High-Dimensional Problems,"NES is efﬁcient even in high-dimensional multimodal problems. Further investigations in this direction are left for future work. Note that λ is set to be an even number to use the antithetic
+sampling method. ",cs.NE,B,-0.05897472,0.14120802,-0.10273498
+http://arxiv.org/pdf/2201.11527v1,On the Mitigation of Read Disturbances in Neuromorphic Inference Hardware,"9) to a very large value for the non-
+resistance drift. Our future work will involve designing a run-time framework                              critical synapses. This allows the convex optimizer to eliminate
+to evaluate spike count of synapses based on the model input and enable                                    them from the critical path of determining the reprogramming
+remapping of the synaptic connections to further reduce the system overhead. ",cs.NE,C,0.15935838,0.07148904,-0.17938258
+http://arxiv.org/pdf/2201.11726v1,Search Trajectories Networks of Multiobjective Evolutionary Algorithms,"The experimental setup and results are presented in Sections 5 and 6,
+respectively. Finally, Section 7 outlines our main ﬁndings and suggestions for
+future work. 2 Related Work
+
+Most visualization approaches in the literature for multiobjective optimization
+focus entirely on the objective space, completely ignoring the decision space. ",cs.NE,A,-0.2710153,-0.1910629,0.104016416
+http://arxiv.org/pdf/2201.11726v2,Search Trajectories Networks of Multiobjective Evolutionary Algorithms,"The experimental setup and results are presented in Sections 5 and 6,
+respectively. Finally, Section 7 outlines our main ﬁndings and suggestions for
+future work. 2 Related Work
+
+Most visualization approaches in the literature for multiobjective optimization
+focus entirely on the objective space, completely ignoring the decision space. ",cs.NE,A,-0.2710153,-0.1910629,0.104016416
+http://arxiv.org/pdf/2201.11726v3,Search Trajectories Networks of Multiobjective Evolutionary Algorithms,"The experimental setup and results are presented in Sections 5 and 6,
+respectively. Finally, Section 7 outlines our main ﬁndings and suggestions for
+future work. 2 Related Work
+
+Most visualization approaches in the literature for multiobjective optimization
+focus entirely on the objective space, completely ignoring the decision space. ",cs.NE,A,-0.2710153,-0.1910629,0.104016416
+http://arxiv.org/pdf/2201.12135v1,Multi-objective learner performance-based behavior algorithm with five multi-objective real-world engineering problems,"In general, the proposed multiobjective algorithm is a suitable technique
+to provide Pareto optimal solutions for various multiobjective optimization problems. For future works, several research directions can be recommended. Firstly, the authors recommend utilizing the
+proposed technique to optimize different problems and compare the results with other multiobjective heuristic
+techniques. ",cs.NE,A,-0.41282302,-0.29264018,0.069682375
+http://arxiv.org/pdf/2201.12158v1,Stagnation Detection meets Fast Mutation,"This has the
+advantage that it is clear that the eﬀects revealed in our analysis are truly
+caused by our stagnation detection approach. Given that there is now quite
+some work studying stagnation detection in isolation, for future work it would
+be interesting to see how well stagnation detection (ideally in the combination
+with heavy-tailed mutation as proposed in this work) can be integrated into
+more complex evolutionary algorithms. Acknowledgement
+
+Amirhossein Rajabi was supported by a research grant by the Danish Council
+for Independent Research (DFF-FNU 8021-00260B) and a travel grant from
+the Otto Mønsted foundation. ",cs.NE,B,-0.20522666,0.12219105,0.15113711
+http://arxiv.org/pdf/2201.12158v2,Stagnation Detection Meets Fast Mutation,"This has the
+advantage that it is clear that the eﬀects revealed in our analysis are truly
+caused by our stagnation detection approach. Given that there is now quite
+some work studying stagnation detection in isolation, for future work it would
+be interesting to see how well stagnation detection (ideally in the combination
+with heavy-tailed mutation as proposed in this work) can be integrated into
+more complex evolutionary algorithms. Acknowledgement
+
+This work was supported by a public grant as part of the Investissements
+d’avenir project, reference ANR-11-LABX-0056-LMH, LabEx LMH and a
+research grant by the Danish Council for Independent Research (DFF-FNU
+8021-00260B) as well as a travel grant from the Otto Mønsted foundation. ",cs.NE,B,-0.19034141,0.15016077,0.11281037
+http://arxiv.org/pdf/2201.12738v1,AutoSNN: Towards Energy-Efficient Spiking Neural Networks,"ternational Joint Conference on Neural Networks, 2015. We anticipate that this study will inspire further research
+into automatic design of energy-efﬁcient SNN architectures. Ding, M., Lian, X., Yang, L., Wang, P., Jin, X., Lu, Z.,
+                                                                  and Luo, P. Hr-nas: Searching efﬁcient high-resolution
+References                                                        neural architectures with lightweight transformers. ",cs.NE,C,0.39147425,-0.19124809,-0.12898439
+http://arxiv.org/pdf/2201.12738v2,AutoSNN: Towards Energy-Efficient Spiking Neural Networks,"Our results highlighted the importance of architectural
+We construct two search spaces, where the macro architectures      conﬁgurations in the SNN domain. We anticipate that this
+have eight TBD blocks as described in TABLE VI; both of            study will inspire further research into automatic design of
+them include 390,625 architectures (58). One is the SNN 3-         energy-efﬁcient SNN architectures. ",cs.NE,C,0.22200936,-0.16255257,-0.12109876
+http://arxiv.org/pdf/2201.12738v3,AutoSNN: Towards Energy-Efficient Spiking Neural Networks,"Our results highlighted the importance     Davies, M., Wild, A., Orchard, G., Sandamirskaya, Y.,
+of architectural conﬁgurations in the SNN domain. We               Guerra, G. A. F., Joshi, P., Plank, P., and Risbud, S. R.
+anticipate that this study will inspire further research into      Advancing neuromorphic computing with loihi: A survey
+automatic design of energy-efﬁcient SNN architectures. of results and outlook. ",cs.NE,C,0.38922524,-0.09380579,-0.058394983
+http://arxiv.org/pdf/2202.01144v1,An Adiabatic Capacitive Artificial Neuron with RRAM-based Threshold Detection for Energy-Efficient Neuromorphic Computing,"4); a technique
+reminiscent of ”maximum-power point tracking” systems in               1) Operating timings: frequency and reset duty cycle: To
+solar power cells [37]. This will be the subject of future work. begin, we investigate how the different operation timings affect
+                                                                    energy-efﬁciency. ",cs.NE,B,-0.07744453,0.21323627,-0.31489933
+http://arxiv.org/pdf/2202.01144v2,An Adiabatic Capacitive Artificial Neuron with RRAM-based Threshold Detection for Energy-Efficient Neuromorphic Computing,"on temperature than a pair at 1k and 1Meg). This requires
+dedicated analysis and is the scope of our future work. [7] T. Yu, S. Joshi, V. Rangan, and G. Cauwenberghs, “Subthreshold MOS
+                                                                          dynamic translinear neural and synaptic conductance,” in Proc. ",cs.NE,C,0.29039305,0.27117956,-0.06403229
+http://arxiv.org/pdf/2202.01258v1,Accelerated Quality-Diversity for Robotics through Massive Parallelism,"We leave other variants and         parallel rigid body simulations. By leveraging a GPU/TPU, utilizing
+enhancements of QD algorithms like CVT-MAP-Elites [53] and                 this simulator allows us to massively parallelize the evaluations in
+learnt behavioural descriptors [10] for future work; we expect these       the QD loop which is the major bottleneck of QD algorithms. This
+variants to only improve performance on tasks, and benefit from            allows for higher throughput of evaluations each time. ",cs.NE,A,0.092674464,-0.08353456,0.09805116
+http://arxiv.org/pdf/2202.01258v2,Accelerated Quality-Diversity for Robotics through Massive Parallelism,"We use MAP-Elites to study and show how QD algorithms can be scaled through parallelization. We
+leave other variants and enhancements of QD algorithms which use learned descriptors [12, 52] and
+different optimization strategies such as policy gradients [51, 54, 67] and evolutionary strategies [9,
+27] for future work; we expect these variants to only improve performance on tasks, and beneﬁt from
+the same contributions and insights of this work. 4 Leveraging Hardware Acceleration for Population-based Methods
+
+In population-based methods, new solutions are the result of older solutions that have undergone
+variations throughout an iterative process as described in Algo. ",cs.NE,A,-0.086559534,-0.26840034,0.14134744
+http://arxiv.org/pdf/2202.01258v3,Accelerated Quality-Diversity through Massive Parallelism,"We use MAP-Elites to study and show how QD algorithms can be scaled through parallelization. We
+leave other variants and enhancements of QD algorithms which use learned descriptors [12, 52] and
+different optimization strategies such as policy gradients [51, 54, 67] and evolutionary strategies [9,
+27] for future work; we expect these variants to only improve performance on tasks, and beneﬁt from
+the same contributions and insights of this work. 4 Leveraging Hardware Acceleration for Population-based Methods
+
+In population-based methods, new solutions are the result of older solutions that have undergone
+variations throughout an iterative process as described in Algo. ",cs.NE,A,-0.086559534,-0.26840034,0.14134744
+http://arxiv.org/pdf/2202.01961v1,Quality-diversity for aesthetic evolution,"While our results are currently limited to this single system, there are good
+reasons to believe that QD-search can be a valuable tool for artists and designers
+working with generative evolutionary systems. For future work we plan on testing
+the value of QD-search on more complex generative systems and on non-visual
+phenotypes such as sound synthesizers. The 2D layout of the QD-search also
+allows for interaction with the human designer, for example to clear certain
+cells and re-evolve the model for a speciﬁc diversity measure, or to click on an
+empty cell to direct the system to search for phenotypes with speciﬁc diversity
+measures. ",cs.NE,B,-0.024328843,-0.03145519,0.35547096
+http://arxiv.org/pdf/2202.02077v1,Exploring the Feature Space of TSP Instances Using Quality Diversity,"The results show impressively the
+capability of the QD approach in covering a much wider range of feature combinations – and thus producing much
+more instances in a single, less wasteful run – while competing or even outperforming the classical approaches with
+respect to objective scores. These results motivate a broad avenue of future work. Here, we only name a few of our
+most promising ideas:
+
+        • A straight forward step is to evolve instances for more than two features. ",cs.NE,A,-0.09092369,-0.29260194,0.22672024
+http://arxiv.org/pdf/2202.02077v2,Exploring the Feature Space of TSP Instances Using Quality Diversity,"The results show impressively the capability of the QD
+approach in covering a wide range of feature combinations – and thus producing much more instances in a single, less
+wasteful run – while competing or even outperforming the classical approaches with respect to objective scores. These
+results motivate a broad avenue of future work. Here, we only name a few of our most promising ideas: application to
+> 2 features and other domains, introducing selection bias towards border regions, or storing multiple instances per
+box. ",cs.NE,A,-0.110716246,-0.30223584,0.13410905
+http://arxiv.org/pdf/2202.02078v1,Heed the Noise in Performance Evaluations in Neural Architecture Search,"However,
+such that the area under the KDE curve is 1.                                                                                      we believe that further studying noise in network performance eval-
+                                                                                                                                  uation with more advanced NAS techniques, including approaches
+Table 1. Comparison of the best found architectures to al-                                                                        based on supernetworks, is an interesting topic for further research. ternative Unet-like architectures. ",cs.NE,C,0.04000744,-0.057122562,-0.33676717
+http://arxiv.org/pdf/2202.02078v2,Heed the Noise in Performance Evaluations in Neural Architecture Search,"Further-
+Architecture              Prostate, Dice  ACDC, Dice                                                                              more, we observe that even without partial training (for a fewer
+ResNet-18-Unet                 0.690          0.893                                                                               number of epochs) network performance scores are quite noisy, and
+EfficientNet-b0-Unet           0.703          0.885                                                                               using partial training can only aggravate this problem. However,
+EfficientNet-b7-Unet           0.707          0.895                                                                               we believe that further studying noise in network performance eval-
+nnUnet                         0.699          0.897                                                                               uation with more advanced NAS techniques, including approaches
+Ours, Setup-1Fold (best)       0.723          0.894                                                                               based on supernetworks, is an interesting topic for further research. Ours, Setup-CV (best)          0.723          0.896
+Ours, Setup-3CV (best)         0.726          0.897                                                                               7 CONCLUSION
+
+find better networks than the alternatives. ",cs.NE,C,0.15684518,-0.08131691,-0.31402975
+http://arxiv.org/pdf/2202.03005v1,B2EA: An Evolutionary Algorithm Assisted by Two Bayesian Optimization Modules for Neural Architecture Search,"Parallelization is a
+models, we can expect increasing diversity to be helpful and                                    fundamental technique for speeding up a search, and inte-
+B2EA uses both GP and RF (see the results in Figure S4). grating parallelization techniques with B2EA remains as a
+                                                                                                future work. Modeling cost of BO models: Some of the BO models
+can have prohibitively high modeling costs when |H| is
+large. ",cs.NE,A,-0.13467816,-0.08817239,-0.09572365
+http://arxiv.org/pdf/2202.03005v2,B2EA: An Evolutionary Algorithm Assisted by Two Bayesian Optimization Modules for Neural Architecture Search,"We have adopted a conservative multi-ﬁdelity technique,
+but less conservative multi-ﬁdelity techniques are desired as long as robustness can be maintained. Parallelization is a fundamental technique for speeding up a search, and integrating parallelization
+techniques with B2EA remains as a future work. 8 Acknowledgements
+
+This work was supported by an NRF grant (MSIT) under Grant NRF-2020R1A2C2007139, an
+ETRI grant [21ZR1100, A Study of Hyper-Connected Thinking Internet Technology by autonomous
+connecting, controlling and evolving ways], and an IITP grant (MSIT) [NO.2021-0-01343, Artiﬁcial
+Intelligence Graduate School Program (Seoul National University)]. ",cs.NE,A,-0.097050294,-0.06636845,0.04883237
+http://arxiv.org/pdf/2202.03429v1,VNE Strategy based on Chaotic Hybrid Flower Pollination Algorithm Considering Multi-criteria Decision Making,"Applied Soft Computing 38, 453–468 (2016)
+mance in many aspects. Pandey, H.M., Chaudhary, A., Mehrotra, D., Kendall, G.: Main-
+                                                                                  taining regularity and generalization in data using the minimum
+    In future work, we will make efforts to solve the VNE 14.                     description length principle and genetic algorithm: Case of gram-
+problem in some complex cases, and comprehensively con-                           matical inference. Swarm and Evolutionary Computation 31, 11–
+sider the divisibility of nodes and links and information se- 15. ",cs.NE,B,-0.17409661,-0.06924536,0.02547932
+http://arxiv.org/pdf/2202.03844v1,EvoPruneDeepTL: An Evolutionary Pruning Model for Transfer Learning based Deep Neural Networks,"In Section 5, we show and discuss the EvoPruneDeepTL’s results of the
+   experiments of pruning, feature selection and against eﬃcient CNN pruning methods of the literature. Finally, Section 6 draws the main conclusions stemming from our work, and outlines future work departing
+   from our ﬁndings. 2. ",cs.NE,C,0.17566317,-0.14558832,0.09174867
+http://arxiv.org/pdf/2202.04557v1,Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models,"However, performance may be increased by ﬁrst feeding the
+raw queries through a set of preprocessing steps or, alternatively, an encoder network trained to produce a useful latent
+representation of the input, and then performing associative memory on the latent representations. This naturally leads
+to a hierarchical scheme for associative memories models, which will be explored in future work. In terms of the separation function, it is clear that for exact retrieval, the max function is simply the best option, as
+it removes any interference between different stored memories. ",cs.NE,C,0.1835792,-0.18067864,-0.042164557
+http://arxiv.org/pdf/2202.04557v2,Universal Hopfield Networks: A General Framework for Single-Shot Associative Memory Models,"This paper, however, has
+suggested that other similarity functions such as Euclidean and Manhattan distance are also highly competitive with
+the dot-product similarity and may lead to comparable or superior results when used in transformer self-attention. Preliminary results (Appendix F) suggest that the Manhattan and Euclidean distance similarity functions are competitive
+with dot product attention in small-scale transformer networks, despite transformer architectures being optimized for the
+dot product, and suggest that investigating transformer performance more thoroughly with different similarity functions
+may be an important avenue for future work. 7 Code Availability
+
+Code to reproduce all the experiments and ﬁgures reported in this paper is freely available at: https://github. ",cs.NE,C,0.1393442,-0.029734971,-0.18076167
+http://arxiv.org/pdf/2202.05698v1,Self-adjusting optimization algorithm for solving the setunion knapsack problem,"In Section 4, the experimental results are
+compared with the state-of-the-art swarm intelligence algorithms for solving SUKP. Finally, the conclusions of this work are presented and future work is discussed in
+Section 5. 2 Two self-adjusting repair and optimization operators
+
+      In previous studies on SUKP, no one considered the changes in the relative
+characteristics of item and element during the loading process. ",cs.NE,A,-0.2469815,-0.13628623,-0.020232651
+http://arxiv.org/pdf/2202.06948v1,Towards Best Practice of Interpreting Deep Learning Models for EEG-based Brain Computer Interfaces,"wise evaluation and present the results along with the               4(b). We leave further investigation on this topic to future work
+interpretation. To keep the consistency of the paper, we use the     and avoid using such cases for illustration in this paper. ",cs.NE,B,-0.099159904,0.44370615,0.019449716
+http://arxiv.org/pdf/2202.06948v2,Towards Best Practice of Interpreting Deep Learning Models for EEG-based Brain Computer Interfaces,"The               4(b). We leave further investigation on this topic to future work
+channels of CP3 and CP1 play important roles for the                 and avoid using such cases for illustration in this paper. prediction. ",cs.NE,B,0.04544875,0.46931246,0.13434575
+http://arxiv.org/pdf/2202.07132v1,Memory via Temporal Delays in weightless Spiking Neural Network,"The first line contains           In our model, the loss of precision due to time
+the MNIST image ground truth, and the second line the neuron      quantization was hard to estimate precisely, since
+classification depicted from the neuron delay values              every attempt with a different maximum TTFS
+                                                                  encoding value for the delays needs a complete
+         The confusion matrix (see Figure 7)                      reconfiguration of the other parameters. This needs
+highlights the need for an inhibition of the excess               further examination. white pixels. ",cs.NE,C,0.41106352,0.11214663,-0.041197248
+http://arxiv.org/pdf/2202.08079v1,Modeling Strong Physically Unclonable Functions with Metaheuristics,"What is more, there is a correlation between
+the performance on the training and test sets: if the performance on the
+training set is good, it will also be good for the test set. For future work, we plan to investigate other than ﬂoating-point encodings
+and systematically evaluate the performance of various metaheuristics for the
+reliability attack. Finally, we considered here two well-known examples of
+strong PUFs, but the related works have many more, e.g., interpose PUFs [20]. ",cs.NE,B,-0.15842427,-0.018454988,-0.12899138
+http://arxiv.org/pdf/2202.08221v1,Evolutionary Construction of Perfectly Balanced Boolean Functions,"For example, it could be interesting to apply partially
+balanced crossover operators such as the “tip the balance” strategy proposed
+in [11]. Additionally, we believe it would be interesting to explore whether
+it is possible to evolve secondary constructions of WPB Boolean functions
+for future work. While EAs can evolve such Boolean function, we see a
+problem with scalability due to the computation cost of calculating the Walsh-
+Hadamard spectrum with a naive approach. ",cs.NE,B,-0.102484494,0.075659,-0.00047447532
+http://arxiv.org/pdf/2202.09679v1,Simple Genetic Operators are Universal Approximators of Probability Distributions (and other Advantages of Expressive Encodings),"adaptation and make intractable problems tractable. We believe
+                                                                          expressivity provides a productive perspective for further research
+   To highlight the mechanisms that make expressive encodings             on many aspects of evolutionary computation. powerful, the test domains were idealized to contain two comple-
+mentary targets. ",cs.NE,B_centroid,-0.18479764,0.052732907,0.39374316
+http://arxiv.org/pdf/2202.09679v2,Simple Genetic Operators are Universal Approximators of Probability Distributions (and other Advantages of Expressive Encodings),"[28] Alexander Gajewski, Jeff Clune, Kenneth O Stanley, and Joel Lehman. 2019.
+expressivity provides a productive perspective for further research
+                                                                                                 Evolvability ES: scalable and direct optimization of evolvability. In Proceedings of
+on many aspects of evolutionary computation. ",cs.NE,B,-0.3336851,0.03471379,0.31575412
+http://arxiv.org/pdf/2202.09679v3,Simple Genetic Operators are Universal Approximators of Probability Distributions (and other Advantages of Expressive Encodings),We believe                                   (2017). expressivity provides a productive perspective for further research                        [25] Chelsea Finn and Sergey Levine. 2017. ,cs.NE,B,0.030324854,0.38176262,0.26596317
+http://arxiv.org/pdf/2202.09679v4,Simple Genetic Operators are Universal Approximators of Probability Distributions (and other Advantages of Expressive Encodings),We believe                                   (2017). expressivity provides a productive perspective for further research                        [25] Chelsea Finn and Sergey Levine. 2017. ,cs.NE,B,0.030324854,0.38176262,0.26596317
+http://arxiv.org/pdf/2202.12187v1,SonOpt: Sonifying Bi-objective Population-Based Optimization Algorithms,"In particular, the community could do with a better understanding of algo-
+rithms when applied to many-objective optimization problems. Further avenues
+of future work include a Python-based version of SonOpt (as opposed to using
+Max/MSP) to improve usability and increase uptake; incorporation of diﬀer-
+ent/additional soniﬁcation paths (e.g. hypervolume contributions of solutions);
+sonifying behavioural diﬀerences across multiple algorithms simultaneously; and
+enhancing the perceptibility of SonOpt’s output to make SonOpt even more
+accessible. ",cs.NE,A,-0.26276845,-0.2532633,0.040625397
+http://arxiv.org/pdf/2202.12650v1,Time-coded Spiking Fourier Transform in Neuromorphic Hardware,"Moreover,
+the implementation of the proposed model and other SNNs is restrained by the contemporary absence of commercial
+neuromorphic chips. By means of this paper we aim to stimulate further research on the application of time-based SNNs for signal process-
+ing. The S-FT can serve as the initial stage for larger processing pipelines, providing input for higher-level operations
+performed by other time-based SNNs, such as object detection, tracking, or classiﬁcation. ",cs.NE,C,0.53498626,-0.1194684,-0.14768068
+http://arxiv.org/pdf/2202.12650v2,Time-coded Spiking Fourier Transform in Neuromorphic Hardware,"Moreover,
+the implementation of the proposed model and other SNNs is restrained by the contemporary absence of commercial
+neuromorphic chips. By means of this paper we aim to stimulate further research on the application of time-based SNNs for signal process-
+ing. The S-FT can serve as the initial stage for larger processing pipelines, providing input for higher-level operations
+performed by other time-based SNNs, such as object detection, tracking, or classiﬁcation. ",cs.NE,C,0.53498626,-0.1194684,-0.14768068
+http://arxiv.org/pdf/2202.13822v1,Exploring hyper-parameter spaces of neuroscience models on high performance computers with Learning to Learn,"Vice versa, making the ﬁtness function too lax may lead to an
+overly exploratory behavior that doesn’t exhibit any exploitation. Speciﬁcally regarding our presented use cases, future work will include multi-objective optimization to decouple
+the objectives from a speciﬁc ﬁtness function and optimize the ﬁtness functions in interchangeable steps. The L2L
+framework already supports multi-objective optimization since it can handle several ﬁtness values. ",cs.NE,A,-0.24535593,-0.24148309,0.060513463
+http://arxiv.org/pdf/2203.00528v1,On genetic programming representations and fitness functions for interpretable dimensionality reduction,"Some recent works in GP such as [28, 32] suggest
+that better performance is only achievable when the population
+size is of tens of thousands or more. In light of this, future work on
+understanding the potential of GP for DR should include an analysis
+of the effect of important parameter settings. Moreover, future
+work should also include more baselines and loss functions in the
+comparison, including, e.g., the recenly introduced PaCMAP [34]. ",cs.NE,A,-0.23326802,0.016069228,-0.020990163
+http://arxiv.org/pdf/2203.00528v2,On genetic programming representations and fitness functions for interpretable dimensionality reduction,"Some recent works in GP such as [28, 32] suggest
+that better performance is only achievable when the population
+size is of tens of thousands or more. In light of this, future work on
+understanding the potential of GP for DR should include an analysis
+of the effect of important parameter settings. Moreover, future
+work should also include more baselines and loss functions in the
+comparison, including, e.g., the recenly introduced PaCMAP [34]. ",cs.NE,A,-0.23326802,0.016069228,-0.020990163
+http://arxiv.org/pdf/2203.00868v1,An Instance Space Analysis of Constrained Multi-Objective Optimization Problems,"234–246, 2021. Thus, we will investigate in future work where real-world                                                         [15] A. Vodopija, T. Tusˇar, and B. Filipicˇ, “Characterization of constrained
+problems fall within the instance space. continuous multiobjective optimization problems: A feature space per-
+                                                                                                                        spective,” 2021, https://arxiv.org/abs/2109.04564. ",cs.NE,A,-0.2634511,-0.21150964,0.06714525
+http://arxiv.org/pdf/2203.01544v1,Rethinking the role of normalization and residual blocks for spiking neural networks,"Section 5 presents the experimental results. Finally, Section 6 presents the conclusion and future works. 2
+2 Related Works
+
+2.1 Spiking Neuron
+
+SNN consists of spiking neurons that model the behavior of biological neurons and handle the ﬁring
+timing of the spikes. ",cs.NE,C,0.52013445,0.12351244,-0.013467559
+http://arxiv.org/pdf/2203.02540v1,Evolving symbolic density functionals,"In this work we used up to 50 workers, but it can
+easily be scaled up to leverage more computing power to deal with a larger search space for
+more demanding problems. Possible future workstreams include developing highly accurate
+empirical XC functionals for a family of systems, pursuing the universal functional with
+the attempts to include more exact conditions, and constructing accurate kinetic energy
+functionals for large scale systems in orbital-free DFT. Could SyFES or it successors replace human in the development of functionals? ",cs.NE,B,-0.026950868,0.10833304,-0.10398263
+http://arxiv.org/pdf/2203.02540v2,Evolving symbolic density functionals,"In this work we used up to 50 workers, but it can
+easily be scaled up to leverage more computing power to deal with a larger search space for
+more demanding problems. Possible future workstreams include developing highly accurate
+empirical XC functionals for a family of systems, pursuing the universal functional with
+the attempts to include more exact conditions, and constructing accurate kinetic energy
+functionals for large scale systems in orbital-free DFT. Could SyFES or it successors replace human in the development of functionals? ",cs.NE,B,-0.026950868,0.10833304,-0.10398263
+http://arxiv.org/pdf/2203.02540v3,Evolving symbolic density functionals,"In this work we used up to 50 workers, but it can
+easily be scaled up to leverage more computing power to deal with a larger search space for
+more demanding problems. Possible future workstreams include developing highly accurate
+empirical XC functionals for a family of systems, pursuing the universal functional with
+the attempts to include more exact conditions, and constructing accurate kinetic energy
+functionals for large scale systems in orbital-free DFT. Could SyFES or it successors replace human in the development of functionals? ",cs.NE,B,-0.026950868,0.10833304,-0.10398263
+http://arxiv.org/pdf/2203.02540v4,Evolving symbolic density functionals,"In this work we used up to 50 workers, but it can easily be scaled up to
+leverage more computing power to deal with a larger search space for more demanding prob-
+lems. We conclude with a list of promising future workstreams: 1. Better dataset. ",cs.NE,B,-0.04423116,-0.020753678,-0.25750956
+http://arxiv.org/pdf/2203.02540v5,Evolving symbolic density functionals,"In this work we used up to 50 workers, but it can easily be scaled up to
+leverage more computing power to deal with a larger search space for more demanding prob-
+lems. We conclude with a list of promising future workstreams: 1. Better dataset. ",cs.NE,B,-0.04423116,-0.020753678,-0.25750956
+http://arxiv.org/pdf/2203.02693v1,Better Approximation Guarantees for the NSGA-II by Using the Current Crowding Distance,"We are also optimistic that for the OneMinMax, MEI can also be transferred to
+the hypervolume and inverted generational distance. Due to the limited space, we
+will omit it and leave as our near future work. Lemma 4. ",cs.NE,B,-0.0063740415,0.25183168,0.052930977
+http://arxiv.org/pdf/2203.02693v2,Better Approximation Guarantees for the NSGA-II by Using the Current Crowding Distance,"We are also optimistic that for the OneMinMax, MEI can also be transferred to
+the hypervolume and inverted generational distance. Due to the limited space, we
+will omit it and leave as our near future work. Lemma 4. ",cs.NE,B,-0.0063740415,0.25183168,0.052930977
+http://arxiv.org/pdf/2203.04368v1,Deep Learning Neural Networks for Emotion Classification from Text: Enhanced Leaky Rectified Linear Unit Activation and Weighted Loss,"The discussion is presented in Section 5. Finally, we conclude this paper in Section 6, which summarizes contributions and limitations and suggests
+directions for future work. 2. ",cs.NE,B,-0.033004433,0.39601776,-0.009408157
+http://arxiv.org/pdf/2203.05970v1,Solving Multi-Structured Problems by Introducing Linkage Kernels into GOMEA,"An alternative scheme to perform                                                      linkage structures, especially at the problem length and the number
+global recombination, or an adaptation of FI that takes into account                                                  of underlying problem structures increases. As this may well occur
+locality as well, may therefore be of interest for future work. in complex real-world problems, we believe that we have provided
+                                                                                                                      a valuable and novel contribution to the body of work on MBEAs,
+   LK-GOMEA, the new variant of GOMEA evaluated in this work,                                                         moving the boundaries of the current state-of-the-art. ",cs.NE,B,-0.26385814,0.088659555,-0.06716004
+http://arxiv.org/pdf/2203.07006v1,Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions,"699-716, May
+ease of porting across technologies. Combined with local           2014
+spike triggered oscillators [19,20], this is a good direction for
+future work to combine the energy efficiency of event-driven       [8] E. Painkras et al., ""SpiNNaker: A 1-W 18-Core System-on-
+systems with the convenience of synchronous digital design. Chip for Massively-Parallel Neural Network Simulation,"" in
+Lastly, SNNs are supposed to be energy-efficient due to their      IEEE Journal of Solid-State Circuits, vol. ",cs.NE,C,0.38317847,-0.0003421679,-0.22788212
+http://arxiv.org/pdf/2203.08680v1,GPU-Accelerated Parallel Gene-pool Optimal Mixing in a Gray-Box Optimization Setting,"Similar to how graph coloring
+are obtained much later in terms of time due to the need to, every                                                                  is applied to find independent sets for the application of parallel
+generation, estimate a large mutual information matrix and, based                                                                   GOMEA, this can be done to parallelize (I)LS to create a hybrid
+on this, create an LT. Results on instance g55 show that the added                                                                  parallel GOMEA, which is an interesting direction for future work. value of learning an LT during search may come even later in the
+search process, as within our time limit it led to the worst results. ",cs.NE,A,-0.1338619,-0.08248395,-0.03344247
+http://arxiv.org/pdf/2203.08808v1,Neural-Network-Directed Genetic Programmer for Discovery of Governing Equations,"We ﬁnd that using ConVAE and BMC to inform the genetic programming leads to improvement in the recovery of
+the ground-truth expression. In future work, given the observation that hyperparameters may produce performance
+variation, a neural network may be designed to learn optimized values based on speciﬁc applications. We demonstrate an application of the framework in a theoretical account of ligand-receptor interactions with
+immediate relevance to transcription factor binding to regulatory DNA sequence. ",cs.NE,C,0.12824766,-0.17114294,0.16854814
+http://arxiv.org/pdf/2203.09227v1,Non-Elitist Selection among Survivor Configurations can Improve the Performance of Irace,"Nevertheless, we believe effectively generating                    Configurations can Improve the Performance of Irace"". Link blinded for double-
+diverse configurations can be beneficial and shall be studied for                      blind reviewing, Feb. 2022.
+future work. [2] Babić, D., and Hu, A. J. ",cs.NE,A,-0.0757322,0.0131722875,0.016627204
+http://arxiv.org/pdf/2203.09227v2,Non-Elitist Selection among Survivor Configurations can Improve the Performance of Irace,"Also, we
+did not modify the procedure of sampling new conﬁgurations. Nevertheless, we
+believe eﬀectively generating diverse conﬁgurations can be beneﬁcial and shall
+be studied for future work. Apart from boosting the performance of irace via
+focusing more on diversity, we can ﬁnd a diverse portfolio of well-performing al-
+gorithm conﬁgurations while keeping the beneﬁts of the iterated racing approach,
+by changing the objective of the tuning from ﬁnding the best performing conﬁg-
+uration to ﬁnd a diverse portfolio of well-performing algorithm conﬁgurations. ",cs.NE,A,-0.20726946,-0.2297931,0.10615763
+http://arxiv.org/pdf/2203.09227v3,Non-Elitist Selection Can Improve the Performance of Irace,"In addition,
+we did not modify the procedure of sampling new conﬁgurations. Nevertheless,
+we believe eﬀectively generating diverse conﬁgurations can be beneﬁcial and shall
+be studied for future work. Apart from boosting the performance of irace via focusing more on diversity,
+we can ﬁnd a diverse portfolio of well-performing algorithm conﬁgurations while
+keeping the beneﬁts of the iterated racing approach, by changing the objective
+of the tuning from ﬁnding the best performing conﬁguration to ﬁnd a diverse
+portfolio of well-performing algorithm conﬁgurations. ",cs.NE,A,-0.21909684,-0.25375128,0.087035954
+http://arxiv.org/pdf/2203.10152v1,Automated Materials Spectroscopy Analysis using Genetic Algorithms,"We selected the paths that contribute
+more than a user-selectable, pre-deﬁned cut oﬀ percentage of these areas (e.g.,
+1%). In this manner, we obtain a list of signiﬁcant paths for further analysis. Fig. ",cs.NE,B,-0.10040002,0.16539016,0.05778525
+http://arxiv.org/pdf/2203.10670v1,Fully Convolutional Fractional Scaling,"FCFS allow to train the kerenel weights and adjust
+them both in shape and values to the particular task. We aim to
+invest more effort in this direction in future work. Fig. ",cs.NE,C,0.11528309,-0.065814845,0.118917115
+http://arxiv.org/pdf/2203.11022v1,Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential,"Also, future work should consider investigating the proposed learning rule for
+multi-layer feed-forward networks and advanced network topologies like Convolutional Neural
+Networks (CNNs) (Lee et al., 2018; Kheradpisheh et al., 2018) and Recurrent Neural Networks
+(RNNs) (Gilson, 2010). Finally, using this unsupervised learning rule in conjunction with gradient-
+based supervised learning is an appealing aspect to be explored in future works. This is a provisional file, not the final typeset article 14
+                                                               Voltage-Dependent Synaptic Plasticity (VDSP)
+
+Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest. ",cs.NE,C,0.5031055,-0.12080536,0.15368289
+http://arxiv.org/pdf/2203.11022v2,Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential,"Also, future work should consider investigating the proposed learning rule for
+multi-layer feed-forward networks and advanced network topologies like Convolutional Neural
+Networks (CNNs) (Lee et al., 2018; Kheradpisheh et al., 2018) and Recurrent Neural Networks
+(RNNs) (Gilson, 2010). Finally, using this unsupervised learning rule in conjunction with gradient-
+based supervised learning is an appealing aspect to be explored in future works. Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest. ",cs.NE,C,0.48897356,-0.28154075,0.107021704
+http://arxiv.org/pdf/2203.11022v3,Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential,"Also, future work should consider investigating the proposed learning rule for
+multi-layer feed-forward networks and advanced network topologies like Convolutional Neural
+Networks (CNNs) (Lee et al., 2018; Kheradpisheh et al., 2018) and Recurrent Neural Networks
+(RNNs) (Gilson, 2010). Finally, using this unsupervised learning rule in conjunction with gradient-
+based supervised learning is an appealing aspect to be explored in future works. Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest. ",cs.NE,C,0.48897356,-0.28154075,0.107021704
+http://arxiv.org/pdf/2203.11022v4,Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential,"Also, future work should consider investigating the proposed learning rule for
+multi-layer feed-forward networks and advanced network topologies like Convolutional Neural
+Networks (CNNs) (Lee et al., 2018; Kheradpisheh et al., 2018) and Recurrent Neural Networks
+(RNNs) (Gilson, 2010). Finally, using this unsupervised learning rule in conjunction with gradient-
+based supervised learning is an appealing aspect to be explored in future works. Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest. ",cs.NE,C,0.48897356,-0.28154075,0.107021704
+http://arxiv.org/pdf/2203.11022v5,Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential,"Also, future work should consider investigating the proposed learning rule for
+multi-layer feed-forward networks and advanced network topologies like Convolutional Neural
+Networks (CNNs) (Lee et al., 2018; Kheradpisheh et al., 2018) and Recurrent Neural Networks
+(RNNs) (Gilson, 2010). Finally, using this unsupervised learning rule in conjunction with gradient-
+based supervised learning is an appealing aspect to be explored in future works. Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest. ",cs.NE,C,0.48897356,-0.28154075,0.107021704
+http://arxiv.org/pdf/2203.11022v6,Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential,"Also, future work should consider investigating the proposed learning rule for
+multi-layer feed-forward networks and advanced network topologies like Convolutional Neural
+Networks (CNNs) (Lee et al., 2018; Kheradpisheh et al., 2018) and Recurrent Neural Networks
+(RNNs) (Gilson, 2010). Finally, using this unsupervised learning rule in conjunction with gradient-
+based supervised learning is an appealing aspect to be explored in future works. Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest. ",cs.NE,C,0.48897356,-0.28154075,0.107021704
+http://arxiv.org/pdf/2203.11102v1,A Scalable Approach to Modeling on Accelerated Neuromorphic Hardware,"Currently, the logical neuron is only exposed in the logical abstraction layer. In future work, it will
+be integrated in the PyNN API of the BSS-2 system. This will – for instance – allow to easily deﬁne
+populations of multi-compartmental neurons and connections between them. ",cs.NE,C,0.34761974,0.046203636,0.1092264
+http://arxiv.org/pdf/2203.11315v1,Landscape Analysis for Surrogate Models in the Evolutionary Black-Box Context,"Then, we present our set of new landscape features
+based on the CMA-ES state variables. Afterwards, we investigate the properties of landscape
+features in the context of the training set selection methods and select the most convenient
+features for further research. Finally, we analyse relationships between the selected features
+and measured errors of the surrogate models with various settings. ",cs.NE,A,0.011217639,-0.1590063,0.13214609
+http://arxiv.org/pdf/2203.11315v2,Landscape Analysis for Surrogate Models in the Evolutionary Black-Box Context,"Then, we present our set of new land-
+scape features based on the CMA-ES state variables. Afterwards, we investigate the
+properties of landscape features in the context of the training set selection methods and
+select the most convenient features for further research. Finally, we analyse relation-
+ships between the selected features and measured errors of the surrogate models with
+various settings. ",cs.NE,A,-0.0057895035,-0.14140898,0.12760644
+http://arxiv.org/pdf/2203.12091v1,FxP-QNet: A Post-Training Quantizer for the Design of Mixed Low-Precision DNNs with Dynamic Fixed-Point Representation,"FxP-QNet requires no retraining or ﬁne-tuning and does
+not require ﬂoating-point scaling, as well. For instance,           Evaluating the presented technique on other deep learning
+FxP-QNet is 1.68ˆ better in increasing the compression           architectures such as recurrent neural networks (RNNs) and
+rate as compared to MXQN [80] with only a 0.93% higher           Transformer models is an interesting future work. Moreover,
+top-5 accuracy degradation. ",cs.NE,C,0.33479705,-0.21719888,-0.15755104
+http://arxiv.org/pdf/2203.12138v1,A Search-Based Framework for Automatic Generation of Testing Environments for Cyber-Physical Systems,"9. Conclusions and future work
+
+8. Threats to validity                                               In this paper we presented the design of AmbieGen, a
+                                                                 framework for generating virtual environments for testing
+    We now discuss potential threats to the validity of the      autonomous cyber-physical systems. ",cs.NE,B,-0.11322494,0.16882575,0.11493243
+http://arxiv.org/pdf/2203.12434v1,Collaborative Self Organizing Map with DeepNNs for Fake Task Prevention in Mobile Crowdsensing,"Finally, concluding
+                                        utilities as high as possible during MCS campaign. Malicious               remarks and future work are presented in Section VI. tasks can be designed in an intelligent way to consume the
+
+                                           The authors are with the School of Electrical Engineering and Computer
+                                        Science at the University of Ottawa, Ottawa, ON, K1N 6N5, Canada. ",cs.NE,B,-0.08773002,0.11977032,-0.08621225
+http://arxiv.org/pdf/2203.12622v1,Are Evolutionary Algorithms Safe Optimizers?,"Moreover, there is a lack of ac-         safe GP algorithm, respectively). Although safe optimization was
+                                        ceptable guidelines on how to benchmark different algorithms for         first considered by the EC community in 2009 [10] and 2011 [1], we
+                                        SafeOPs, an area where the EC community has significant expe-            are not aware of any further research on this topic. In comparison,
+                                        rience in. ",cs.NE,A,-0.37027383,-0.2348049,-0.24484244
+http://arxiv.org/pdf/2203.12622v2,Are Evolutionary Algorithms Safe Optimizers?,"Although safe opti-
+                                       SafeOPs, an area where the EC community has significant expe-                       mization was first considered by the EC community in 2009 [13]
+                                       rience in. Driven by the need for more efficient algorithms and                     and 2011 [1, 2], we are not aware of any further research on this
+                                       benchmark guidelines for SafeOPs, the objective of this paper is                    topic. In comparison, the machine learning community has actively
+                                       to reignite the interest of the EC community in this problem class. ",cs.NE,A,-0.116535015,-0.31733194,-0.14969912
+http://arxiv.org/pdf/2203.12675v1,MMES: Mixture Model based Evolution Strategy for Large-Scale Optimization,"section is to derive an efﬁcient method that samples solutions
+approximately obey Pa while allowing m to be arbitrarily                   C. Approximation Property of FMS
+large. We show how Pm approximates Pa. Before further analysis,
+B. Working Procedure of FMS                                                we specify the parameters of Pi as follows:
+
+   The proposed FMS method ﬁrstly generates a random                                     γ = 1 − (1 − ca)m,
+vector i = (i1, · · · , il)T ∈ {1, · · · , m}l with the probability                      αk = γ1 ca(1 − ca)m−k, k = 1, · · · , m. (6)
+distribution
+                                                                           This setting leads to a nice theoretic property:
+Pi : p(ij = k) = αk, j ∈ {1, · · · , l}, k ∈ {1, · · · , m}
+                                                                           Theorem 1. ",cs.NE,B,-0.243608,0.27788436,-0.13149722
+http://arxiv.org/pdf/2203.12853v1,Direct evaluation of progression or regression of disease burden in brain metastatic disease with Deep Neuroevolution,"Regarding our application of DNE to progression versus regression classi-
+ﬁcation, we note that we studied only those two categories. Future work will
+include the category of “no signiﬁcant change.” Additionally, the current study
+was performed on 2D slices, and future work will be generalized to the full 3D
+volumes. We also anticipate the integration of DNE with deep reinforcement learning
+(DRL). ",cs.NE,C,0.3291584,-0.014051611,0.21179983
+http://arxiv.org/pdf/2203.13190v1,GEMA: An open-source Python library for self-organizing-maps,"Finally, the map can be saved to use in the future by
+loading it. In future works, the new implementation will be done. For example, other concepts defined by Kohonen
+like Neural Gas or Growing Gas. ",cs.NE,C,0.21591187,0.0436095,0.014791116
+http://arxiv.org/pdf/2203.13194v1,Temporal Heterogeneity Improves Speed and Convergence in Genetic Algorithms,"In this paper we showed that
+temporal heterogeneity helps problems with integer coding,         [6] Germinal Cocho, Jorge Flores, Carlos Gershenson, Carlos Pineda, and
+such as N -queens and TSP. As a future work, we will                    Sergio Sa´nchez. Rank diversity of languages: Generic behavior in
+evaluate the potential beneﬁts of temporal heterogeneity in             computational linguistics. ",cs.NE,B,-0.10711914,0.14867061,0.08812101
+http://arxiv.org/pdf/2203.13202v1,Multi Expression Programming for solving classification problems,"The idea of encoding multiple solutions in a chromosome is appealing, but it has its own drawbacks: more
+eﬃcient exploration of the training set can lead to overﬁtting, which in turn lead to poorer generalization
+capabilities on new data (the test set). This is why, future work should be focused on just that: how to create
+a balance between eﬃcient exploration and generalization. Future work will be focused on implementing more strategies for classiﬁcation in MEP. ",cs.NE,B,-0.08773202,-0.05762827,0.258102
+http://arxiv.org/pdf/2203.13447v1,Component-wise Analysis of Automatically Designed Multiobjective Algorithms on Constrained Problems,"Finally, Section 7 outlines our main findings,    5: Else, all solutions are updated. limitations and suggestions for future work. 6: Generate candidates from the updated solutions and their
+
+2 RELATED WORK                                                              neighbors. ",cs.NE,B,-0.059345774,0.20746088,0.06668346
+http://arxiv.org/pdf/2203.13447v2,Component-wise Analysis of Automatically Designed Multiobjective Algorithms on Constrained Problems,"Finally, Section 7 outlines our main findings,  transversed. Therefore, we use these STN models as one of our
+limitations and suggestions for future work. tools to discriminate the behavioural differences of MOEAs. ",cs.NE,B,0.09539046,0.36001724,0.08037233
+http://arxiv.org/pdf/2203.13447v3,Component-wise Analysis of Automatically Designed Multiobjective Algorithms on Constrained Problems,"Finally, Section 7 outlines our main findings,  transversed. Therefore, we use these STN models as one of our
+limitations and suggestions for future work. tools to discriminate the behavioural differences of MOEAs. ",cs.NE,B,0.09539046,0.36001724,0.08037233
+http://arxiv.org/pdf/2203.13447v4,Component-wise Analysis of Automatically Designed Multiobjective Algorithms on Constrained Problems,"Finally, Section 7 outlines our main findings,  transversed. Therefore, we use these STN models as one of our
+limitations and suggestions for future work. tools to discriminate the behavioural differences of MOEAs. ",cs.NE,B,0.09539046,0.36001724,0.08037233
+http://arxiv.org/pdf/2203.13447v5,Component-wise Analysis of Automatically Designed Multiobjective Algorithms on Constrained Problems,"Finally, Section 7 outlines our main findings,  transversed. Therefore, we use these STN models as one of our
+limitations and suggestions for future work. tools to discriminate the behavioural differences of MOEAs. ",cs.NE,B,0.09539046,0.36001724,0.08037233
+http://arxiv.org/pdf/2203.13447v6,Component-wise Analysis of Automatically Designed Multiobjective Algorithms on Constrained Problems,"Finally, Section 7 outlines our main findings,  transversed. Therefore, we use these STN models as one of our
+limitations and suggestions for future work. tools to discriminate the behavioural differences of MOEAs. ",cs.NE,B,0.09539046,0.36001724,0.08037233
+http://arxiv.org/pdf/2203.13542v1,EnHDC: Ensemble Learning for Brain-Inspired Hyperdimensional Computing,"Shear er: highly-efﬁcient
+this potential research direction. Our future work will consider        hyperdimensional computing by software-hardware enabled multifold
+using a cascading method and more sophisticated ensemble                approximation. In Proceedings of the ACM/IEEE International Sympo-
+learning algorithms such as boosting. ",cs.NE,A,-0.013925541,-0.19621406,-0.13618869
+http://arxiv.org/pdf/2203.13877v1,Focused Jump-and-Repair Constraint Handling for Fixed-Parameter Tractable Graph Problems,"However, we point out that the repair operation is the only problem-speciﬁc component needed by
+the (1+1) EAjk+r apart from the ﬁtness function, and we are conﬁdent that the general framework we
+have presented will make it easier for designing repair operators on other parameterized problems. Several directions for future work remain open. So far, lower bounds are missing on FPT
+evolutionary algorithms for VertexCover. ",cs.NE,B,-0.21118365,-0.015613148,-0.0816163
+http://arxiv.org/pdf/2203.14290v1,Novel ensemble collaboration method for dynamic scheduling problems,"The obtained results are comparable or even better in several
+5.2 Results                                                              cases when compared to ensembles proposed in [29] and [31]. How-
+                                                                         ever, we leave further comparisons between the different ensemble
+Table 3 shows the results for three selected ensemble sizes using        collaboration methods and deeper analyses for future work, as the
+the EDR-S method. The results show that there is little difference       main objective of this paper was to focus on the proposed collabo-
+between ensembles created using the SEC method with different            ration method. ",cs.NE,A,-0.10462639,-0.06342164,-0.009462073
+http://arxiv.org/pdf/2203.15162v1,A Distribution Evolutionary Algorithm for Graph Coloring,"Numerical results indicate that exploitation
+ability of DEA-PPM is a bit weaker than that of HEAD, RLS and PLSCOL,
+which results in its a bit worse performance on DSJC1000.1, ﬂat300.28.0. Thus,
+our future work will try to further improve local exploitation of distribution
+evolutionary algorithms, and develop general DEA-PPM for a variety of com-
+binatorial optimization problems. 18
+Acknowledgements
+
+    This research was supported in part by the Fundamental Research Funds
+for the Central Universities (WUT: 2020IB006), in part by the National Nature
+Science Foundation of China (No.61763010) and in part by the Natural Science
+Foundation of Guangxi (No.2021GXNSFAA075011). ",cs.NE,A,-0.32815975,-0.045073356,0.0023376755
+http://arxiv.org/pdf/2203.15162v2,A Distribution Evolutionary Algorithm for Graph Coloring,"However, DEA-PPM achieves
+overall outperformance on benchmark problems with vertex numbers greater
+than 500, because its enhanced global exploration improves the ability to es-
+cape from absorption of local optimal solutions, and the iterative vertex removal
+strategy also reduces sizes of the graphs to be colored. To further improve the
+eﬃciency of DEA-PPM, our future work will focus on adaptive regulation of
+population sizes, and the local exploitation is anticipated to be enhanced by
+utilizing the mathematical characteristics of graph instances. Meanwhile, we
+will also try to develop a general framework of DEA-PPM to address a variety
+of combinatorial optimization problems. ",cs.NE,A,-0.28272825,-0.101200886,-0.05072625
+http://arxiv.org/pdf/2203.15172v1,Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning,"We also demonstrate a curriculum learning approach that      trained on real terrain heightmap data with identical resolution to
+simultaneously supports both direct and indirect representations,       the humanoid in simulation. The original data was in pointcloud
+opening up future work in mixed-generator curricula. format obtained from the OpenTopography website. ",cs.NE,C,0.23986813,-0.027769659,0.22945793
+http://arxiv.org/pdf/2203.15776v1,Efficiently Evolving Swarm Behaviors Using Grammatical Evolution With PPA-style Behavior Trees,"Future work should explore BeTr -GEESE agents could rapidly adapt to changing conditions, pro-
+vided that the grammar has a sufﬁciently rich set of execution nodes and primitive behaviors. Ad-
+ditionally, future work should explore genetic algorithm hyper-parameter settings that might enable
+BeTr -GEESE to evolve complex, resilient behaviors more efﬁciently. A PRIMITIVE BEHAVIORS
+
+Spatial Behaviors. ",cs.NE,B,-0.10748015,0.041870337,0.34300393
+http://arxiv.org/pdf/2204.00049v1,AKF-SR: Adaptive Kalman Filtering-based Successor Representation,"A number of studies have investigated to develop estimation algorithms in terms of the original
+system matrices [56, 57]. As future work, we plan to apply matrix-based ﬁltering algorithms for estimation of the SR
+weight matrix in order to extend the proposed AKF-SR framework to more complex RL tasks with high-dimensional
+states in an efﬁcient manner. References
+
+ [1] S. Spanò, G.C. ",cs.NE,A,-0.06304523,-0.016313087,-0.24111395
+http://arxiv.org/pdf/2204.00592v1,Fashion Style Generation: Evolutionary Search with Gaussian Mixture Models in the Latent Space,"However, to further investigate that claim, we need to ﬁnd
+out whether our model is suﬃcient to capture styles. As part of our future work,
+further insight into the implementation and its parameters would show if they
+optimally support this goal. The diﬀerence in perception could also be because computational networks
+are not able to capture subtle diﬀerences in styles (yet) [25]. ",cs.NE,C,0.20752528,0.075286545,0.104038015
+http://arxiv.org/pdf/2204.00592v2,Fashion Style Generation: Evolutionary Search with Gaussian Mixture Models in the Latent Space,"However, to further investigate that claim, we need to ﬁnd
+out whether our model is suﬃcient to capture styles. As part of our future work,
+further insight into the implementation and its parameters would show if they
+optimally support this goal. The diﬀerence in perception could also be because computational networks
+are not able to capture subtle diﬀerences in styles (yet) [25]. ",cs.NE,C,0.20752528,0.075286545,0.104038015
+http://arxiv.org/pdf/2204.00757v1,A neural network based heading and position control system of a ship,"In the
+heading should be as small as possible. future work, the performance of the proposed controller
+                                                             may be investigated under external disturbances. 3. ",cs.NE,B,-0.05377174,0.3140493,-0.12602589
+http://arxiv.org/pdf/2204.00998v1,AutoOpt: A Methodological Framework of Automatically Designing Metaheuristics for Optimization Problems,"The ﬁrst way is relaxing the problems and solving          relaxation and math programming) are desirable, which will
+them by integer programming, etc. This way suffers from          be the future work. the inaccuracy occurred by problem relaxation. ",cs.NE,B,-0.20952378,0.09732113,0.12216476
+http://arxiv.org/pdf/2204.00998v2,AutoOpt: A Methodological Framework of Automatically Designing Metaheuristics for Optimization Problems,"Further comparisons with other
+metaheuristics and exact methods (i.e., these with problem          [5] D. H. Wolpert and W. G. Macready, “No free lunch theorems for
+relaxation and math programming) are desirable, which will               optimization,” IEEE Transactions on Evolutionary Computation, vol. 1,
+be the future work. no. ",cs.NE,A,-0.46631312,-0.1797429,0.10802111
+http://arxiv.org/pdf/2204.00998v3,AutoOpt: A Methodological Framework of Automatically Designing Metaheuristics for Optimization Problems,"These results present preliminary evidence of AutoOpt’s eﬃciency in designing metaheuris-
+tic for optimization problems. Further comparisons with other metaheuristics and exact
+methods (i.e., these with problem relaxation and math programming) are desirable, which
+will be the future work. 4. ",cs.NE,A,-0.35738462,-0.13956854,0.05286555
+http://arxiv.org/pdf/2204.00998v4,AutoOpt: A Methodological Framework of Automatically Designing Metaheuristics for Optimization Problems,"These results present preliminary evidence of AutoOpt’s eﬃciency in designing metaheuris-
+tic for optimization problems. Further comparisons with other metaheuristics and exact
+methods (i.e., these with problem relaxation and math programming) are desirable, which
+will be the future work. 9
+Table 1: Average ﬁtness values among 30 runs of the algorithm designed by AutoOpt, i.e.,
+            alg1, and the discrete GA on each instance of probl1. ",cs.NE,A,-0.37996513,-0.16852808,-0.0187365
+http://arxiv.org/pdf/2204.01662v1,Evolving Neural Selection with Adaptive Regularization,"Fi-       neural evolution methods to co-evolve network variants and net-
+nally, we conclude by summarizing the results and listing directions     work architectures at the same time. for future work. 3 METHODS
+2 RELATED WORK
+                                                                         In this section, we introduce the Adaptive Neural Selection (ANS)
+Within the broader context of machine learning research, this pa-        framework. ",cs.NE,C,0.087166004,-0.21126513,0.24105877
+http://arxiv.org/pdf/2204.02179v1,Towards Power-Efficient Design of Myoelectric Controller based on Evolutionary Computation,"822–835, 2018.
+microcontrollers for real-time hand prosthesis control [42]. [22] P. Kaufmann, K. Glette, T. Gruber, M. Platzner, J. Torresen, and B. Sick,
+Furthermore, the future work will be devoted to the exploration                         “Classiﬁcation of electromyographic signals: Comparing evolvable hard-
+                                                                                        ware to conventional classiﬁers,” IEEE Transactions on Evolutionary
+of various other types of Pareto-based multi-objective ensem-                           Computation, vol. 17, no. ",cs.NE,A,0.020623334,-0.04222634,0.19207485
+http://arxiv.org/pdf/2204.02183v1,Optimising Communication Overhead in Federated Learning Using NSGA-II,"brute-force). As for future work, we aim at
+testing our proposal using physically distributed devices and larger benchmarks. Acknowledgments
+
+This research is partially funded by the Universidad de M´alaga, Consejer´ıa de
+Econom´ıa y Conocimiento de la Junta de Andaluc´ıa and FEDER under grant
+number UMA18-FEDERJA-003 (PRECOG); under grant PID 2020-116727RB-
+I00 (HUmove) funded by MCIN/AEI/ 10.13039/501100011033; and TAILOR
+ICT-48 Network (No 952215) funded by EU Horizon 2020 research and innova-
+tion programme. ",cs.NE,C,0.056694165,0.055320904,-0.35383862
+http://arxiv.org/pdf/2204.02638v1,Monotone Improvement of Information-Geometric Optimization Algorithms with a Surrogate Function,"Suppose Assumption 3.4 holds. Let
+                                                                                          We end this paper by stating the limitations and describing pos-
+       =                     2 −1            − 1 2 − 2 −1                              sible future works. First, the optimality of our theoretical results is
+                         2 −1 −1             −1 + −2 −1 . ",cs.NE,B,-0.13848263,0.35468617,-0.09423145
+http://arxiv.org/pdf/2204.03297v1,A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks,"obtain a high-quality seed set with a lower computational cost. [11] K. Rahimkhani, A. Aleahmad, M. Rahgozar, and A. Moeini, “A fast
+   Because of the broad application of IM, the following topics             algorithm for finding most influential people based on the linear threshold
+deserve further research. Firstly, it is still worthwhile to explore        model,” Expert Systems with Applications, vol. ",cs.NE,A,-0.09100932,-0.03493964,0.030631263
+http://arxiv.org/pdf/2204.03297v2,A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks,"(1) and Eq. (2), we have,
+
+   Because of the broad application of IM, the following topics                                                     1− r2 * (t ) t
+deserve further research. Firstly, it is still worthwhile to                    ps (x,t)  ps (x, 0)                                s, j                    ,x :  s              (  x  )            '  . ",cs.NE,B,-0.044683345,0.48609653,-0.025870869
+http://arxiv.org/pdf/2204.03297v3,A Multi-Transformation Evolutionary Framework for Influence Maximization in Social Networks,"(1) and Eq. (2), we have,
+
+   Because of the broad application potential of IM, the                                                                                                    1− r2 * (t ) t
+following topics deserve further research. First, it is still                                                           ps (x, t)  ps (x, 0)                           s, j                    ,  x          :          (  x  )      '  . ",cs.NE,B,0.0047053727,0.47475022,-0.02976245
+http://arxiv.org/pdf/2204.03743v1,Automatic inference of fault tree models via multi-objective evolutionary algorithms,"optimum. We believe that further research is needed
+                                                              to better quantify this type of complexity. Fig. ",cs.NE,A,-0.30716482,0.00033909827,-0.2042357
+http://arxiv.org/pdf/2204.04105v1,Improving LSHADE by means of a pre-screening mechanism,"measures are cost-free in terms of FFEs (no auxiliary evaluations
+are required). The future work concerns further analysis and development of
+                                                                         deactivation conditions of the meta-model (extending the remarks
+   The results obtained for the same set of 4 functions are presented    presented at the end of section 5). in Figure 5. ",cs.NE,B,-0.14952374,0.18435732,-0.006367527
+http://arxiv.org/pdf/2204.04105v2,Improving LSHADE by means of a pre-screening mechanism,"fitted. The second criterion was Kendall’s 𝜏 ∈ [0, 1], measuring the                  The future work concerns further analysis and development of
+                                                                                   deactivation conditions of the meta-model (extending the remarks
+rank   correlation  between    𝑔  fitness  function  values  𝑓  (𝑢 𝑔,𝑏𝑒𝑠𝑡  )  and  presented at the end of section 5). 𝑁                                                     ACKNOWLEDGMENTS
+
+                                                                𝑖                  Studies were funded by BIOTECHMED-1 project granted by War-
+                                                                                   saw University of Technology under the program Excellence Initia-
+their  respective   meta-models     estimates   𝑠𝑢𝑟𝑟  (𝑢𝑔,𝑏𝑒𝑠𝑡 ). ",cs.NE,B,-0.18781137,0.2039764,0.2020466
+http://arxiv.org/pdf/2204.04140v1,Reproducibility and Baseline Reporting for Dynamic Multi-objective Benchmark Problems,"2007. Dynamic
+eration in future works. Secondly we have evaluated the maximal                Multi-Objective Optimization and Decision-Making Using Modified NSGA-II:
+performance of typical MOEAs not designed for DMOPs within the                 A Case Study on Hydro-Thermal Power Scheduling. ",cs.NE,A,-0.35919523,-0.18601683,-0.09868782
+http://arxiv.org/pdf/2204.04431v1,A Spiking Neural Network Structure Implementing Reinforcement Learning,"Since the SNN proposed has no features explicitly depending on the RL task solved, it is reasonable
+to hope that the approach developed in this study will be applicable to wide range of RL tasks. It should
+be confirmed in further research works. Particularly, the next stages of this research project should
+include:
+
+     application of the approach described to the standard RL benchmarks – to compare it with the
+         state-of-the-art methods;
+
+     extension of my approach to the RL tasks where memory should be a necessary element. ",cs.NE,C,0.32471597,-0.16977212,-0.23889108
+http://arxiv.org/pdf/2204.04666v2,Energy-Sensitive Trajectory Design and Restoration Areas Allocation for UAV-Enabled Grassland Restoration,"This model not only considers the limited battery energy and
+load capacity of UAV, but also considers the restored cost of diﬀerent degraded areas. Moveover, further analysis
+found that the maximization of restoration areas problem under the above-considered constraints arises two conﬂict
+objectives, namely the shortest ﬂight path and the optimal areas allocation. In fact, the maximization of restoration
+areas is essentially a composite of a trajectory design problem and an areas allocation problem that are closely
+coupled. ",cs.NE,A,-0.23602787,-0.07960451,0.02223696
+http://arxiv.org/pdf/2204.04904v1,The Compact Genetic Algorithm Struggles on Cliff Functions,"We conjecture that the worst-case view is too pessimistic here as the real dynamics are unlikely to rapidly
+switch between regimes where the drift is noticeably positive and noticeably negative. Providing rigorous arguments
+remains a challenge for future work. 4.3 Empirical Evidence
+
+                                                K = log n                                                         K = log n
+
+10                                              K = n√0.45      1                                                 K = n√0.45
+
+                                                K= n                                                              K= n
+
+8                                               K = n0.75 0.8                                                     K = n0.75
+
+                                                K =n                                                              K =n
+
+6                                               minimum 0.6
+
+4                                                               0.4
+
+2                                                               0.2
+
+0 0 200 400 600                                                 0 100 200 300 400 500 600 700
+
+Figure  2:  Variance      n  100√nK  +  100K 2  iterations,  averaged  over  100  runs,   n   increasing  n  and  different  values
+
+                      after                                                              for
+
+of K. The black line indicates the minimum variance of 1 − 1/n. ",cs.NE,B,-0.10543807,0.28517,-0.21757363
+http://arxiv.org/pdf/2204.06397v1,Trajectory-based Algorithm Selection with Warm-starting,"This can of course also happen the other way
+    MLSL 271 178 152 143 172 197                                                                            around, i.e., an algorithm may appear to be much better than
+                                                                                                            its “typical” performance. While we think that the overall
+                                                                                                  100       large number of runs considered in our work helps to average
+                100 200 300 500 700 900                                                                     out such unwanted outlier effects, a more robust experimental
+                                                                                                            setup should be considered for future work. A2 Budget
+                                                                                                               In addition to this, we should note that the used warm-
+Fig. ",cs.NE,A,-0.22379555,0.012495771,-0.3043067
+http://arxiv.org/pdf/2204.06397v2,Trajectory-based Algorithm Selection with Warm-starting,"While we think that the overall                                               performance. Since our experimental pipeline makes use of a
+large number of runs considered in our work helps to average                                             relatively small number of samples to determine the algorithm
+out such unwanted outlier effects, a more robust experimental                                            to switch to, without considering any algorithm-speciﬁc state
+setup should be considered for future work. features, it highlights the potential of the overall approach. ",cs.NE,A,-0.14921169,-0.053243946,-0.27842015
+http://arxiv.org/pdf/2204.06765v1,High-performance Evolutionary Algorithms for Online Neuron Control,"Two out of fourteen (2/14) ex-                    sic GA algorithm both in vivo and in silico, becoming the preferred
+periments did not result in a significant increase in firing rate                 algorithm for conducting activation maximization. of the neuron for either optimizer (per criterion 𝑃 < 0.001, for
+t-test between firing rates in first two and last two generation),                3 THE ANALYSIS OF CMA EVOLUTION
+which we excluded from the further analysis. From the 12 exper-
+iments where at least one optimizer increased the firing rate, we                 Why did CMA-type algorithms perform so well? ",cs.NE,A,-0.049174674,-0.081007004,-0.14733532
+http://arxiv.org/pdf/2204.06901v1,RankNEAT: Outperforming Stochastic Gradient Search in Preference Learning Tasks,"We could explore different           footage. Comparing the performance of neuroevolution against
+ways of comparing the two methods in future work, as well as            stochastic gradient descent, which is the standard optimization
+perform a more thorough tuning process for the other hyperpa-           method for PL, we observe that neuroevolution can overcome is-
+rameters. In particular, parameters such as the survival threshold,     sues of overfitting. ",cs.NE,A,0.061278477,-0.21871915,0.045118276
+http://arxiv.org/pdf/2204.07066v1,EvoSTS Forecasting: Evolutionary Sparse Time-Series Forecasting,"Each child undergoes a training step and       results, section V concludes the paper by going over the
+                                        adjusts their weights on the same data. Due to stochastic back-     important and discussing future work in this area of research. propagation, the set of children has a variety of weights with
+                                        different levels of performance. ",cs.NE,B,0.057864144,0.051802717,0.17505686
+http://arxiv.org/pdf/2204.07410v1,Initialisation and Grammar Design in Grammar-Guided Evolutionary Computation,"Clearly, the parameter space of CFG-GP is not as fully-understood
+Fitness  5000
+         4000                                                                                             as it could be, so future work should develop a better understanding
+         3000               10       20                   30      40                       50
+         2000                                                                                             of how the parameters of CFG-GP impact its behaviour. Likewise,
+         1000                                          G
+                                                                                                          there would be significant benefit from future work developing
+              0                 Depth 17, Mut Depth 4         No Depth Limit, Mut Depth 4
+                      0                                                                                   new methods for grammar design that emphasise more effective
+
+                    Method                                                                                expression of the problem being searched rather than focusing on
+
+                                Depth 17, Auto Mut Depth      No Depth Limit, Auto Mut Depth              distorting the grammar to fit the chosen representation. Figure 11: Effect of depth limiting and mutation depth on                                                 REFERENCES
+the Shape problem. ",cs.NE,B,-0.15220433,0.017322391,0.14406127
+http://arxiv.org/pdf/2204.07431v1,The Importance of Landscape Features for Performance Prediction of Modular CMA-ES Variants,"5 CONCLUSIONS AND FUTURE WORK                                                 should be activated and with which values in order to find similar
+                                                                              modular CMA-ES configuration (to mimic the behavior of the other
+In this study, we have investigated the impact of the landscape               algorithms through the modular CMA-ES). This is a direction we
+features on the performance of two modules involved in modu-                  plan to explore in our future work. lar CMA-ES, elitism, and step-size-adaptation. ",cs.NE,A,-0.19160363,-0.08329276,-0.10885723
+http://arxiv.org/pdf/2204.07475v1,Kernel similarity matching with Hebbian neural networks,"If we could show
+that the objective were concave in L, it can be gradient descent ascent with smaller learning rates
+for W, q would indeed converge to a saddle point (Lin et al., 2020; Seung, 2019). However, this
+question will have to be left for future work. Empirically it is sometimes observed that qi quickly shrinks to a small value early in training, which
+subsequently leads to small gradients for w. The rescaling of the wi updates provides an adaptive
+learning rate that appeared to improve training times in practice. ",cs.NE,A,0.046626396,-0.06755224,-0.0499837
+http://arxiv.org/pdf/2204.07637v1,Towards a Stronger Theory for Permutation-based Evolutionary Algorithms,"way to transform benchmarks for pseudo-Boolean optimization
+
+into permutation-based problems. We are sure that future work on       5.1 Deﬁnition of the Problem
+
+permutation-based EAs will detect the need for benchmarks which        The classic L     O benchmark on bit-strings was deﬁned by
+
+cannot be constructed in this way, but we are conﬁdent that our        Rudolph [43] as an example for a unimodal function that is harder
+
+approach sets a good basis for a powerful sets of benchmarks for       for typical EAs than O M , but still unimodal. The L
+
+permutation-based EAs. ",cs.NE,A,-0.2487043,-0.18393433,-0.21904263
+http://arxiv.org/pdf/2204.07637v2,Towards a Stronger Theory for Permutation-based Evolutionary Algorithms,"way to transform benchmarks for pseudo-Boolean optimization
+
+into permutation-based problems. We are sure that future work on       5.1 Deﬁnition of the Problem
+
+permutation-based EAs will detect the need for benchmarks which        The classic L     O benchmark on bit-strings was deﬁned by
+
+cannot be constructed in this way, but we are conﬁdent that our        Rudolph [43] as an example for a unimodal function that is harder
+
+approach sets a good basis for a powerful sets of benchmarks for       for typical EAs than O M , but still unimodal. The L
+
+permutation-based EAs. ",cs.NE,A,-0.2487043,-0.18393433,-0.21904263
+http://arxiv.org/pdf/2204.08985v1,Co-evolutionary Probabilistic Structured Grammatical Evolution,"We     proposed method. see that GE and PGE start with worse fitness compared to SGE and
+Co-PSGE, and maintain throughout the evolutionary process, with           As future work it will be interesting to study different metrics,
+Co-PSGE showing statistically significant differences with a large     such as locality and redundancy of Co-PSGE, in order to be able
+                                                                       to analyze the impact that mutated grammars have on the repre-
+                                                                       sentation of individuals and compare it with the results of GE and
+                                                                       SGE. Another line of work will be to analyze the evolution of the
+                                                                       grammars by initializing them with different probabilities for each
+                                                                       individual, but also test different grammars, following the work
+                                                                       of Nicolau et al. ",cs.NE,B,-0.16175658,0.15703854,0.26382536
+http://arxiv.org/pdf/2204.09483v1,Per-run Algorithm Selection with Warm-starting using Trajectory-based Features,"The
+trajectories from 1 to 24 correspond to the BBOB suite, and the trajectories
+starting from 25 to 44 correspond to the YABBOB suite. It is important to
+recall here that the YABBOB problems F31, F33, F36 and F45 were omitted
+from further analysis due to missing values. This ﬁgure shows that the BBOB
+trajectories are not correlated (the white square portion of the lower left part
+of the heatmap), which conﬁrms high diversity in the training trajectory portfo-
+lio. ",cs.NE,B,-0.0630381,0.10490234,0.0682406
+http://arxiv.org/pdf/2204.09483v2,Per-run Algorithm Selection with Warm-starting using Trajectory-based Features,"We discuss the main results on two benchmark collections in Sections 4 and 5,
+respectively. Finally, Section 6 gives several possible avenues for future work. Data and Code Availability. ",cs.NE,A,-0.16148949,-0.039994963,-0.41802698
+http://arxiv.org/pdf/2204.10756v1,Reference Vector Adaptation and Mating Selection Strategy via Adaptive Resonance Theory-based Clustering for Many-objective Optimization,"In this paper, we compare the search performance of                      We will focus on developing a method for analyzing search
+algorithms in 5-, 8-, 10-, 15-, and 20-objective test problems. results in MaOPs as one of our future works. One possible
+Considering the experimental results for each number of                  approach is mapping the population into feature space using
+objectives, we can see a trend in the relative change in                 some modiﬁed indicators from high-dimensional objective
+search performance for changes in the number of objectives. ",cs.NE,A,-0.4148041,-0.25208837,0.13087851
+http://arxiv.org/pdf/2204.10756v2,Reference Vector Adaptation and Mating Selection Strategy via Adaptive Resonance Theory-based Clustering for Many-objective Optimization,"In this paper, we compare the search performance of                      We will focus on developing a method for analyzing search
+algorithms in 5-, 8-, 10-, 15-, and 20-objective test problems. results in MaOPs as one of our future works. One possible
+Considering the experimental results for each number of                  approach is mapping the population into feature space using
+objectives, we can see a trend in the relative change in                 some modiﬁed indicators from high-dimensional objective
+search performance for changes in the number of objectives. ",cs.NE,A,-0.4148041,-0.25208837,0.13087851
+http://arxiv.org/pdf/2204.10890v1,A New Lagrangian Problem Crossover: A Systematic Review and Meta-Analysis of Crossover Standerds,"As a result, it has been suggested that researchers from other disciplines
+adopt it as a standard technique. In future works, the researcher can evaluate LPX by compared with other standardized crossover
+techniques based on binary form, real-code form, or order-coded problem methods crossover. From another perspective, the researcher will improve a novel evolutionary metaheuristic
+algorithm based on LPX through single-objective optimization or multi-objective optimization. ",cs.NE,A_centroid,-0.47670436,-0.2181234,0.18587837
+http://arxiv.org/pdf/2204.10890v2,A New Lagrangian Problem Crossover: A Systematic Review and Meta-Analysis of Crossover Standards,"As a result, it has been suggested that researchers from other disciplines
+adopt it as a standard technique. In future works, the researcher can evaluate LPX by compared with other standardized crossover
+techniques based on binary form, real-code form, or order-coded problem methods crossover. From another perspective, the researcher will improve a novel evolutionary metaheuristic
+algorithm based on LPX through single-objective optimization or multi-objective optimization. ",cs.NE,A,-0.47670436,-0.2181234,0.18587837
+http://arxiv.org/pdf/2204.10890v3,A New Lagrangian Problem Crossover: A Systematic Review and Meta-Analysis of Crossover Standards,"As a result, it has been suggested that researchers from other disciplines adopt it as a
+standard technique. In future works, the researcher can evaluate LPX by compared with other standardized crossover
+techniques based on binary form, real-code form, or order-coded problem methods crossover. From another perspective, the researcher will improve a novel evolutionary metaheuristic
+algorithm based on LPX through single-objective optimization or multi-objective optimization. ",cs.NE,A,-0.47670436,-0.2181234,0.18587837
+http://arxiv.org/pdf/2204.11162v1,MAP-Elites based Hyper-Heuristic for the Resource Constrained Project Scheduling Problem,"that run and to be subsequently evaluated on the test set. From
+                                                                               these 31 rules we select a sub-set of rules for further analysis
+ Grid size   Coverage (%)                                                      and comparison with MTS. We pick 3 rules from GPHH and
+                  66.4                                                         each of the MEHH variants. ",cs.NE,B,-0.27395207,0.14379235,-0.19231473
+http://arxiv.org/pdf/2204.11575v1,Deep Reinforcement Learning for Orienteering Problems Based on Decomposition,"EXPERIMENTAL SETUP                                             TABLE II
+                                                                      HYPERPARAMETER CONFIGURATIONS
+   All experiments are conducted on a PC with an AMD 8-
+Core R7-5800H CPU @3.2 GHz, 16 GB of RAM and a                                        DRL   Value                     EA      Value
+single RTX 3060 GPU. The code is written in Python 3.8                Hyperparameters         10       Hyperparameters         100
+and will be made open access later for the convenience of                                                                       60
+experimental reproduction and further research. Additionally,            No. ",cs.NE,A,-0.08766131,-0.04462641,-0.34186912
+http://arxiv.org/pdf/2204.12297v1,Brain Tumor Detection and Classification Using a New Evolutionary Convolutional Neural Network,"As a result, medical image analysis has turn out to be an
+
+                                                             1
+exciting subject matter with a significant role in current clinical applications. Early brain tumour
+diagnosis is a difficult undertaking that serves as impetus for additional research. Stroke lesions and cerebral tumours are difficult situations in medical imaging because their precise
+recognition has a significant impact on clinical diagnosis. ",cs.NE,C,0.14277509,-0.00666594,-0.017969297
+http://arxiv.org/pdf/2204.12585v1,Surrogate Assisted Evolutionary Multi-objective Optimisation applied to a Pressure Swing Adsorption system,"The second
+the Random Forest algorithm detailed in Section 3.1.5        metric was the mean revenue for the elite population
+was selected for the PSA optimisation for both purity and    evaluated by both the simulation and surrogate model. recovery and was selected for further analysis. The details  CPS-2’s performance for the surrogate assisted mode was
+of the hyper-parameters can be found in Section 3.1.5.       illustrated by comparing the system’s deterministic and
+                                                             stochastic version. ",cs.NE,A,-0.2977788,-0.04251986,-0.029351806
+http://arxiv.org/pdf/2204.12770v1,Run Time Analysis for Random Local Search on Generalized Majority Functions,"57–72, 2020. Possible future work includes deriving a lower bound for
+RLS on HASMAJORITY, as well as analyzing the expected                       [4] J. Garnier, L. Kallel, and M. Schoenauer, “Rigorous hitting times for
+run time of more algorithms on HASMAJORITY, such as the                           binary mutations,” Evol. Comput., vol. ",cs.NE,B,-0.23366883,0.14110494,-0.34853297
+http://arxiv.org/pdf/2204.12770v2,Run Time Analysis for Random Local Search on Generalized Majority Functions,"It remains an interesting open problem to derive
+difference in run time between = 1 and = ln n , which                                            tighter bounds for such a setting. is most likely due to the former starting with a solution of
+more than 5000 = n/2√1s, whereas the latter starts at a                                             Further possible future work includes deriving a lower
+position almost at n/2 − n. This highlights the impact of the                                    bound for RLS on HASMAJORITY, as well as analyzing the
+initialization on the run time. Interestingly, the cas√e = n/2                                   expected run time of more algorithms on HASMAJORITY,
+also starts with a rather bad solution of about n/2− n/2 1s but                                  such as the (1 + 1) EA, RLSk, or non-elitist EAs. ",cs.NE,B,-0.22872882,0.14009811,-0.43834615
+http://arxiv.org/pdf/2204.12770v3,Run Time Analysis for Random Local Search on Generalized Majority Functions,"Figure 6 depicts our results. Note that there is a huge                                          Further possible future work includes deriving a lower
+difference in run time between = 1 and = ln n , which                                            bound for RLS on HASMAJORITY, as well as analyzing the
+is most likely due to the former starting with a solution of                                     expected run time of more algorithms on HASMAJORITY,
+more than 5000 = n/2√1s, whereas the latter starts at a                                          such as the (1 + 1) EA, RLS , or non-elitist EAs. Any such
+position almost at n/2 − n. This highlights the impact of the                                    bound translates almost directly into a bound for MAJORITY. ",cs.NE,B,-0.18741241,0.18867412,-0.41880035
+http://arxiv.org/pdf/2204.13190v1,Online Distributed Evolutionary Optimization of Time Division Multiple Access Protocols,"In Section 3,
+we present the experimental setup, while the numerical results are discussed in Section 4. Finally, in Section 5 we draw the conclusions and hint at future works. 4
+2 Methods
+
+2.1 Problem settings
+
+The network, illustrated in Figure 1, can be represented as a graph G = (V, E) consisting
+of a set of nodes V , and undirected edges E ⊂ V × V which represent the possibility of
+communication between the nodes [66]. ",cs.NE,B,-0.042225316,0.2673194,-0.24333012
+http://arxiv.org/pdf/2204.13460v1,Derivation of Learning Rules for Coupled Principal Component Analysis in a Lagrange-Newton Framework,"We therefore had to repeat the stability analysis with a perturbation approach
+which correctly indicates a saddle point. In future work we will attempt to apply the Lagrange-Newton framework to symmetric rules as
+we have studied before (Mo¨ller, 2020b,c). 40
+References
+
+J. Baker. ",cs.NE,B,-0.10087494,0.21283776,-0.06647044
+http://arxiv.org/pdf/2204.13750v2,A First Runtime Analysis of the NSGA-II on a Multimodal Problem,"A brief experimental analysis
+
+                                                    sec:exp
+
+              can be found in Section 5. The last section contains a conclusion and some
+
+              directions for future works. 2 State of the Art
+
+sec:previous
+
+              The mathematical runtime analysis of evolutionary algorithms is a small,
+
+              but established research area. ",cs.NE,B,-0.31404525,0.03779526,0.101439565
+http://arxiv.org/pdf/2204.13750v3,A First Runtime Analysis of the NSGA-II on a Multimodal Problem,"A brief experimental analysis
+
+                                                    sec:exp
+
+              can be found in Section 5. The last section contains a conclusion and some
+
+              directions for future works. 2 State of the Art
+
+sec:previous
+
+              The mathematical runtime analysis of evolutionary algorithms is a small,
+
+              but established research area. ",cs.NE,B,-0.31404525,0.03779526,0.101439565
+http://arxiv.org/pdf/2204.13839v1,A suite of diagnostic metrics for characterizing selection schemes,"For the purposes of this study, we focus
+on a selection scheme’s ability to iteratively traverse a search space. In future work,
+we will investigate the effect of crossover on how selection schemes steer populations
+through search spaces. 3.1 Selection Schemes
+
+In this work, we diagnose the following six selection schemes. ",cs.NE,A,-0.33249217,-0.08249664,0.242841
+http://arxiv.org/pdf/2204.13839v2,A suite of diagnostic metrics for characterizing selection schemes,"For the purposes of this study, we focus
+on a selection scheme’s ability to iteratively traverse a search space. In future work,
+we will investigate the effect of crossover on how selection schemes steer populations
+through search spaces. 3.1 Selection Schemes
+
+In this work, we diagnose the following six selection schemes. ",cs.NE,A,-0.33249217,-0.08249664,0.242841
+http://arxiv.org/pdf/2204.13991v1,Physical Deep Learning with Biologically Plausible Training Method,"Thus, it may be useful for the
+fast and robust inverse design of physical systems, including D2NNs. Further investigation remains as
+future work. Fig. ",cs.NE,C,0.2612479,-0.058498994,-0.14343163
+http://arxiv.org/pdf/2204.14008v1,Biologically-inspired neuronal adaptation improves learning in neural networks,"Thus, adaptation could be seen as a new
+activation regularization method, similar to the commonly used dropout method [30], which is also
+an activation regularization. In future work we plan to implement neuronal adaptation in models trained only with BP. Regularization effect of adaptation may help to improve training networks with BP. ",cs.NE,C,0.3897307,-0.11067127,0.113772884
+http://arxiv.org/pdf/2205.00459v1,Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation,"To effectively train SNNs       tion. This fact hurts the energy efficiency of SNNs when
+with low latency, we further study the representation error         using the conversion method. Furthermore, the conversion
+due to the SNN-to-mapping approximation, and propose to             method is not suitable for neuromorphic data. ",cs.NE,C,0.50880647,-0.12419116,-0.15343282
+http://arxiv.org/pdf/2205.00671v1,Jack and Masters of All Trades: One-Pass Learning of a Set of Model Sets from Foundation Models,"One of these is the consid-      additional insights gleaned. Finally, in Section VI we discuss
+erable energy cost incurred by a single development cycle in      potential directions for future work and conclude the paper. deep learning [20]. ",cs.NE,C,0.1602008,-0.050913252,-0.006255811
+http://arxiv.org/pdf/2205.00671v2,Jack and Masters of All Trades: One-Pass Learning of a Set of Model Sets from Foundation AI Models,"One of these is the consid-      additional insights gleaned. Finally, in Section VI we discuss
+erable energy cost incurred by a single development cycle in      potential directions for future work and conclude the paper. deep learning [20]. ",cs.NE,C,0.1602008,-0.050913252,-0.006255811
+http://arxiv.org/pdf/2205.01626v1,Automated Learning of Interpretable Models with Quantified Uncertainty,"Additionally, the proposed method was shown to
+increase interpretability, improve robustness to noise, and reduce overﬁtting when compared to a
+non-Bayesian GPSR implementation. A number of open issues are left to future work. First, in the examples presented, an additive
+Gaussian noise assumption was made. ",cs.NE,A,-0.021328308,0.023827244,-0.14280733
+http://arxiv.org/pdf/2205.01681v1,Growing Isotropic Neural Cellular Automata,"Niklasson, E., Mordvintsev, A., and Randazzo, E. (2021a). Asyn-
+            Conclusion and future work                                       chronicity in neural cellular automata. volume ALIFE 2021:
+                                                                             The 2021 Conference on Artiﬁcial Life of ALIFE 2021: The
+In this work we demonstrated the capability of fully                         2021 Conference on Artiﬁcial Life. ",cs.NE,C,0.23055537,0.15855306,0.2698868
+http://arxiv.org/pdf/2205.01681v2,Growing Isotropic Neural Cellular Automata,"parts. Recently, it was also demonstrated that neural mod-
+els relying on a diffusion operation for communication are                     Conclusion and future work
+effectively discretization agnostic (Sharp et al., 2022). In
+this work, we demonstrate that IsoNCA can be effectively           In this work we demonstrated the capability of fully
+transferred from a regular square grid to a non-regular one. ",cs.NE,C,0.28996506,0.050473936,0.0093092825
+http://arxiv.org/pdf/2205.01681v3,Growing Isotropic Neural Cellular Automata,"parts. Recently, it was also demonstrated that neural mod-
+els relying on a diffusion operation for communication are                     Conclusion and future work
+effectively discretization agnostic (Sharp et al., 2022). In
+this work, we demonstrate that IsoNCA can be effectively           In this work we demonstrated the capability of fully
+transferred from a regular square grid to a non-regular one. ",cs.NE,C,0.28996506,0.050473936,0.0093092825
+http://arxiv.org/pdf/2205.02916v1,Reconfigurable Heterogeneous Parallel Island Models,"V present related work
+                                       icy required by HePIMs, reconﬁgurable HePIMs exchange
+before Sec. VI that concludes and discussed future work. Here, we introduce reconﬁgurable heterogeneous PIMs. ",cs.NE,B,0.043436326,0.19551633,0.06859315
+http://arxiv.org/pdf/2205.03670v1,Automated Algorithm Selection for Radar Network Configuration,"Our paper is concluded in Sec. 7
+with directions for future work. For rotating radars, the staring angle is not needed and we there-
+                                                                             fore have three parameters to tune. ",cs.NE,A,-0.048898093,0.120817415,-0.13512595
+http://arxiv.org/pdf/2205.04792v1,Neural Networks with Different Initialization Methods for Depression Detection,"Also, since the models learn the internal relationship
+between physical patterns and depression, we may also investigate what exactly
+the patterns that the model has learned, and which pattern and indicator is the
+most signiﬁcant contributor to depression. They remain open questions to be
+answered in our future work. References
+
+1. ",cs.NE,B,0.15916711,0.3484441,0.25943822
+http://arxiv.org/pdf/2205.05053v1,A High Throughput Generative Vector Autoregression Model for Stochastic Synapses,"(A)
+shows a cross-section of the cell, and (B) shows a zoom-in of the resistive memory between metalization
+layers M4 and M5. The measured current array was smoothed with a moving average ﬁlter to improve the quality of the raw
+data before further analysis. An adaptive rectangular window size was used in order to preserve current
+steps in the signal, with the maximum window size of 25 samples gradually reducing to a minimum of 3
+samples at the pre-detected locations of SET transitions of each cycle. ",cs.NE,C,0.16179818,0.13722762,-0.273947
+http://arxiv.org/pdf/2205.06770v1,A heuristic to determine the initial gravitational constant of the GSA,"The results indicate
+that the GSA-NGC produces a major improvement in the ﬁnal solutions and
+a major reduction in the number of iterations and of premature convergences
+when compared to the GSA, GSAN and FVGGSA. As future work, we propose the study of the possible dependencies between
+diﬀerent parameters of GSA, the analysis of the GSA-NGC heuristic in other
+versions of the GSA and in other evolutionary algorithms, as well as the pos-
+sibility of using an adaptable α value, in order to control the variation of the
+gravity. Acknowledgments
+
+This research was supported by CAPES, Brazil. ",cs.NE,A,-0.33530527,-0.041521087,-0.0070613027
+http://arxiv.org/pdf/2205.06771v1,Empowered Neural Cellular Automata,"Uncovering these information signatures by means of simulation
+                                                                         suggest potential mechanisms by which biological cells communi-
+                                                                         cate and coordinate behavior. Much future work remains to better
+Empowered Neural Cellular Automata                           GECCO’22, July 9–13, Boston, MA, USA
+
+                                                             Figure 8: Loss over evolutionary time for a CA with grid res-
+                                                             olution 50x50 (double that used in Figure 3) and a square
+                                                             target shape. Figure 7: Loss over evolutionary time for four different     understand the relationship between empowerment and NCA sig-
+shapes: biped (top), circle (middle-top), triangle (middle-  naling dynamics including decomposing highly-empowered NCAs
+bottom), and circular biped (bottom). ",cs.NE,B,0.09937509,0.1904116,0.27774686
+http://arxiv.org/pdf/2205.07292v1,A Computational Framework of Cortical Microcircuits Approximates Sign-concordant Random Backpropagation,"within a same layer, more complex cooperation within a
+                                                                 group of Pyr, PV, and SOM cells within a same layer may
+3.4. Inhibitory Backward Path                                    exist, and the rules to form such connections appears to be
+                                                                 intriguing for future works. We ﬁnd several hints regarding how may PV cells back-
+propagates their errors backwards, and conclude them as          4. ",cs.NE,B,0.16929734,0.36410835,0.104572624
+http://arxiv.org/pdf/2205.07292v2,A Computational Framework of Cortical Microcircuits Approximates Sign-concordant Random Backpropagation,"Hebbian PV             Pyr                  Tunable exc/inh
+           𝑖        ""        ""                                                synapses
+
+(a) Independent PV  (b) Pyr-PV paired (c) Pyr-PV paired  (d) General Hebbian  Top-down errors
+   disinhibition     Pyr backwards no SOM backwards          learning rule
+                                                                              Fixed & strong
+                                                                              exc/inh synapses
+
+                    Figure 4: Inhibitory backward microcircuits
+
+We modestly suspect that all the three microcircuits may co-exist in a layer to propagate PV cells error
+backwards. Worth to note, the second and third microcircuits only consider one-on-one cooperation
+between Pyr cells and PV cells within a same layer, more complex cooperation within a group of Pyr,
+PV, and SOM cells within a same layer may exist, and the rules to form such connections appears to
+be intriguing for future works. 4 Learning Rules
+
+4.1 General Hebbian Learning Rule
+
+The most fundamental version of Hebbian rule calculates the correlation between pre- and post-
+synaptic signals, the higher the correlation, the more the synapse is strengthened. ",cs.NE,C,0.30083096,0.27030015,0.08741206
+http://arxiv.org/pdf/2205.07292v3,A Computational Framework of Cortical Microcircuits Approximates Sign-concordant Random Backpropagation,"Hebbian PV             Pyr                  Tunable exc/inh
+           𝑖        ""        ""                                                synapses
+
+(a) Independent PV  (b) Pyr-PV paired (c) Pyr-PV paired  (d) General Hebbian  Top-down errors
+   disinhibition     Pyr backwards no SOM backwards          learning rule
+                                                                              Fixed & strong
+                                                                              exc/inh synapses
+
+                    Figure 4: Inhibitory backward microcircuits
+
+We modestly suspect that all the three microcircuits may co-exist in a layer to propagate PV cells error
+backwards. Worth to note, the second and third microcircuits only consider one-on-one cooperation
+between Pyr cells and PV cells within a same layer, more complex cooperation within a group of Pyr,
+PV, and SOM cells within a same layer may exist, and the rules to form such connections appears to
+be intriguing for future works. 4 Learning Rules
+
+4.1 General Hebbian Learning Rule
+
+The most fundamental version of Hebbian rule calculates the correlation between pre- and post-
+synaptic signals, the higher the correlation, the more the synapse is strengthened. ",cs.NE,C,0.30083096,0.27030015,0.08741206
+http://arxiv.org/pdf/2205.07654v1,Hyperdimensional computing encoding for feature selection on the use case of epileptic seizure detection,"Three approaches were tested
+and led to a signiﬁcant reduction of features, while keeping or even signiﬁcantly improving
+the performance compared to using all the features. Overall, we expect that this work can
+serve as inspiration for further research and novel ideas in the direction of feature exploration,
+feature and prediction interpretability, and channel selection. References
+
+Fatemeh Asgarinejad, Anthony Thomas, and Tajana Rosing. ",cs.NE,A,0.09564689,-0.20298104,0.07845029
+http://arxiv.org/pdf/2205.07812v1,Heat Source Layout Optimization Using Automatic Deep Learning Surrogate Model and Multimodal Neighborhood Search Algorithm,"In
+the second case with diﬀerent intensity, our algorithm could ﬁnd the layout
+                          Springer Nature 2021 LATEX template
+
+                                                                            Article Title 31
+
+scheme, the maximum temperature of which could reach 328.89k, farther lower
+than 333.51k than previous NSLO. For future work, other NAS methods could be combined to search for the
+better deep learning surrogate in more complex engineering problem such as
+heat source layout design with diﬀerent shapes. In addtion, the optimization
+algorithm with the assistance of surrogate needs to be further testiﬁed. ",cs.NE,A,0.08142768,-0.2574552,-0.16307929
+http://arxiv.org/pdf/2205.08335v1,Explanation-Guided Fairness Testing through Genetic Algorithm,"Explanation-Guided Fairness Testing through Genetic Algorithm                                                         ICSE ’22, May 21–29, 2022, Pittsburgh, PA, USA
+
+features might affect our seed sample quality. To mitigate this threat,     In summary, compared with these approaches, our ExpGA is a
+our future work will explore more interpretable methods. lightweight model-agnostic individual fairness testing method, able
+Retraining to Improve Model Fairness: In RQ3, we test the                to handle diverse and large-scale scenarios. ",cs.NE,B,-0.18214247,-0.045287646,0.06432074
+http://arxiv.org/pdf/2205.09751v1,Taylor Genetic Programming for Symbolic Regression,"In a high-dimensional dataset, a low order Taylor polynomial ob-
+tifying the variable separability and the odd/even function, Tay-                                                                tained from the dataset only represents the dataset’s local features,
+                                                                                                                                 not global features. So, our future work will involve investigating
+lorGP requires that the Taylor polynomial can not contain some                                                                   how to utilize many low-order Taylor polynomials to represent
+                                                                                                                                 global features in high-dimensional datasets. order terms, i.e., the coefficients in these order terms must be zero. ",cs.NE,A,0.036964122,-0.05847928,-0.1172684
+http://arxiv.org/pdf/2205.10052v1,Balancing Exploration and Exploitation for Solving Large-scale Multiobjective Optimization via Attention Mechanism,"The
+experimental results validate that our algorithm has an ad-      [2] C. Pizzuti and A. Socievole, “Multiobjective optimization and local
+vantage in performance compared with state-of-the-art large-          merge for clustering attributed graphs,” IEEE Transactions on Cyber-
+scale MOEAs. In our future work, other machine learning               netics, vol. 50, no. ",cs.NE,A,-0.11162892,-0.23896506,-0.0014870232
+http://arxiv.org/pdf/2205.10113v1,Evolutionary Multi-Armed Bandits with Genetic Thompson Sampling,"We report the
+two parents. This would be left for future work to explore.) cumulative rewards of each agent over the learning iterations;
+                                                                   and (4) a real-world application of the epidemic control. ",cs.NE,B,0.023661628,0.15442389,0.39674175
+http://arxiv.org/pdf/2205.10116v1,Evolving SimGANs to Improve Abnormal Electrocardiogram Classification,"The
+this work is included in Section 4. We share our code online for       database has annotations for heartbeat class information verified
+further research and experimentation. 1                                by independent experts. ",cs.NE,B,0.029667016,0.25797895,-0.014672928
+http://arxiv.org/pdf/2205.10685v1,Probabilistic Structured Grammatical Evolution,"have some information regarding some problems, we can alter
+the probabilities of the grammar by introducing some known         [10] M. Nicolau, “Automatic grammar complexity reduction in grammatical
+biases. As future work it will be interesting to analyze the             evolution,” in GECCO 2004 Workshop Proceedings, R. Poli, S. Cagnoni,
+average ﬁtness of sample populations created with a previously           M. Keijzer, E. Costa, F. Pereira, G. Raidl, S. C. Upton, D. Goldberg,
+evolved grammar and also to analyze the ﬁtness evolution                 H. Lipson, E. de Jong, J. Koza, H. Suzuki, H. Sawai, I. Parmee,
+over multiple generations. Another line of work that will be             M. Pelikan, K. Sastry, D. Thierens, W. Stolzmann, P. L. Lanzi, S. W.
+interesting to analyze is to test the algorithm behavior with            Wilson, M. O’Neill, C. Ryan, T. Yu, J. F. Miller, I. Garibay, G. Holiﬁeld,
+the probabilities of grammars initialized randomly, or with              A. S. Wu, T. Riopka, M. M. Meysenburg, A. W. Wright, N. Richter, J. H.
+different types of grammars, similar to the study done by                Moore, M. D. Ritchie, L. Davis, R. Roy, and M. Jakiela, Eds., Seattle,
+Nicolau et al. ",cs.NE,B,-0.18786469,0.12952699,0.1029259
+http://arxiv.org/pdf/2205.11387v1,Robust Constrained Multi-objective Evolutionary Algorithm based on Polynomial Chaos Expansion for Trajectory Optimization,"The robust and
+                                                                                  conservative objective surfaces and trajectories are observed
+                                                                                  by limiting the standard deviation of the objectives over the
+                                                                                  uncertainty. For future work, means to further accelerate the compu-
+                                                                                  tational cost of the trajectory ensemble of the PCE should
+                                                                                  be considered, following research such as GPU paralleliza-
+                                                                                  tion [39], efﬁcient sparse grid quadrature method [21], or
+                                                                                  the Kriging method [44]; the introduction of multi-ﬁdelity
+                                                                                  methods is critical when increasing the dimension of the
+                                                                                  uncertainty. Furthermore, we expect that the proposed method
+                                                                                  will be applied not only to the other aerospace vehicles
+                                                                                  such as spacecraft rendezvous or Mars aircraft bust also to
+                                                                                  various engineering problems such as robotics or trafﬁc ﬂows,
+                                                                                  leveraging the generality of the problem formulation. ",cs.NE,A,-0.19959825,-0.12600772,-0.14546528
+http://arxiv.org/pdf/2205.13440v1,The Neuro-Symbolic Brain,"That is, P (kaS > 1) is close to one
+and 1−c2c2 P (kaT > 1) is less than one if we want the number of neurons to ﬁre not part of the output prime attractor to
+
+                                           28
+                                                    The Neuro-Symbolic Brain
+
+be less than the number of neurons part of it. Now it is not clear how small this number should be and would require
+further study as it depends on the efﬁciency of the recurrent network to recover the prime attractor given noisy input. As  an  example  assume  that  c1  =  c2  =    30   and   that  the  number    of  connections    per  neuron  serving   the  connection  is
+                                             10000
+                                                                       1
+3000 which   means   that  θ  =  9. ",cs.NE,C,0.16658072,0.25192034,-0.022008257
+http://arxiv.org/pdf/2205.13948v1,Evolution as a Service: A Privacy-Preserving Genetic Algorithm for Combinatorial Optimization,"Experimental
+                                            25              E n c ry p tio n                                              evaluations on four TSPs (i.e., gr48, KroA100, eil101, and
+                                                                                                                          KroB200) show that there is no signiﬁcant difference between
+       C P U R u n n in g T im e (S e c .) PEG A 2                                                       PEGA and conventional GA. Also, given encrypted TSPs,
+                                                                                                                          PEGA with k-tournament selection operator can produce one
+                                            20              PEG A 1                                                       potential solution around 3 s. For future work, we will extend
+                                                                                                                          the idea of EaaS to other algorithms, such as particle swarm
+                                            15                                                                            optimization (PSO), ant colony optimization (ACO). 10                                                                                                         REFERENCES
+
+                                            5                                                                              [1] G. Naseri and M. A. Koffas, “Application of combinatorial optimization
+                                                                                                                                strategies in synthetic biology,” Nature Communications, vol. ",cs.NE,A,-0.37181902,-0.034175325,0.03535088
+http://arxiv.org/pdf/2205.14606v1,A General Multiple Data Augmentation Based Framework for Training Deep Neural Networks,"Experiments of training several representative DNNs
+                    18.0 18.7 18.5 18.4 18.7                            on some popular image classification benchmarks demon-
+                    17.5                                                strate the superiority of the proposed training method in com-
+                                                                        parison with several existing single-DA and multi-DA based
+                               -1 0 1 2 3                               methods. # Shared blocks
+                                                                           Our future work includes but is not limited to evaluation of
+  Fig. 3. ",cs.NE,C,0.30401427,-0.19006278,-0.09299547
+http://arxiv.org/pdf/2205.15286v1,Accelerating spiking neural network training,"Lastly, due to the single-spike-per-neuron assumption, the FastSNN is able to predict
+the F-MNIST and N-MNIST datasets with a signiﬁcant reduction in spike counts compared to the
+standard SNN (F-MNIST: 83.32% and N-MNIST: 95.68% spike reduction), which could further
+improve upon the energy requirements when deploying SNNs on neuromorphic hardware [29, 53]. Limitations and future work A scaling constraint of the FastSNN model is the backward pass,
+which drastically slows down for larger unit numbers and simulation lengths. A solution to overcom-
+ing this problem would be through the inclusion of sparse spiking gradient descent [32], which has
+been shown to accelerate the backward pass up to ×150 fold over the backward pass of standard
+SNN training. ",cs.NE,C,0.4747569,-0.17331545,-0.23561391
+http://arxiv.org/pdf/2205.15311v1,Biological Evolution and Genetic Algorithms: Exploring the Space of Abstract Tile Self-Assembly,"The observation of genetic drift, however, strongly
+depends on the correlation between a particular gene and its phenototypic expression. Whether it is possible to deﬁne a
+gene-interpretation for Johnston’s model that allows for strong correlations between genotypes and phenotypes is a key
+question for further research. Kolmogorov complexity K(sb) is deﬁned as the shortest program size written in a language
+L which can output a bitstring sb. ",cs.NE,B,-0.15559259,0.16164313,0.07678016
+http://arxiv.org/pdf/2205.15884v1,An Effective and Efficient Evolutionary Algorithm for Many-Objective Optimization,"The experimental results are presented in Section 4. Finally, the conclusion and
+future work are given in Section 5. 2
+2 Background
+
+2.1 Concepts and Terminology
+
+Mathematically, a minimization MaOP with m objectives and d decision variables can be deﬁned as
+follows:
+
+              minimize  F (x) = (f1(x), f2(x), . ",cs.NE,A,-0.22203419,0.107663155,0.07818487
+http://arxiv.org/pdf/2205.15884v2,An Effective and Efficient Evolutionary Algorithm for Many-Objective Optimization,"The experimental results are presented in Section 4. Finally, the conclusion and
+future work are given in Section 5. 2 Background
+
+2.1 Concepts and Terminology
+
+Mathematically, a minimization MaOP with m objectives and d decision variables can be deﬁned as
+follows:
+
+              minimize  F (x) = (f1(x), f2(x), . ",cs.NE,A,-0.21840207,0.109244004,0.078758344
+http://arxiv.org/pdf/2206.00164v1,A Theoretical Framework for Inference Learning,"This suggests using IL
+with large mini-batches is approximated by the case of training with single data points. We leave it to
+future work to analyze differences in the behavior of IL in the case of small versus large mini-batches
+in more detail. Our analyses considers the version of IL that uses local predictions computed pn+1 = Wnf (hˆn)
+at hidden layers and p1 = W0hˆ0 at the input layer. ",cs.NE,C,0.19387868,-0.12375332,-0.1271438
+http://arxiv.org/pdf/2206.00823v1,Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules,"Bottom panels show this leads to a slight improvement in generalization gap (vertical lines
+denote distribution mean). However, it is important to note that this strategy does not correct the problem; the
+gap still exists compared to BPTT, suggesting room for further research. Plotting conventions follow that of the
+previous ﬁgures. ",cs.NE,B,-0.04796477,0.31768274,-0.08899588
+http://arxiv.org/pdf/2206.00823v2,Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules,"Bottom panels show this leads to a
+slight improvement in generalization gap (vertical lines denote distribution mean). However, it is
+important to note that this strategy does not correct the problem; the gap still exists compared to
+BPTT, suggesting room for further research. Plotting conventions follow that of the previous ﬁgures. ",cs.NE,B,-0.04796477,0.31768274,-0.08899588
+http://arxiv.org/pdf/2206.01820v1,A Robust Backpropagation-Free Framework for Images,"Our proposed
+method, which also falls into the class of deep learning algorithms, has a signiﬁcant carbon footprint which inadvertently
+has major potential climate impacts. As part of future work, we intend to run our algorithm through energy tracking tools
+[45] that can provide a detailed carbon impact summary generated by our framework. D Asset Usage
+
+We build our codebase on top of TensorFlow 2.0 for fundamental functionality. ",cs.NE,C,0.29088274,-0.20615774,-0.1279168
+http://arxiv.org/pdf/2206.02716v1,Stacked unsupervised learning with a network architecture found by supervised meta-learning,"In future work, it will be important to investigate more complex datasets or tasks. Following the
+more common scenario for meta-learning, future work should train an unsupervised algorithm on a
+distribution of tasks, and test transfer to some held-out distribution. We have done some preliminary
+experiments with the CIFAR-10 dataset. ",cs.NE,C,0.14403144,-0.21222523,0.090130135
+http://arxiv.org/pdf/2206.03179v1,TSFEDL: A Python Library for Time Series Spatio-Temporal Feature Extraction and Prediction using Deep Learning (with Appendices on Detailed Network Architectures and Experimental Cases of Study),"Section 4 describes the quality standards of the code developing
+process. Section 5 summarises the conclusions of this paper and the future work. A includes the detailed
+description of the networks included in the framework. ",cs.NE,B,-0.053997435,0.19879863,-0.1966376
+http://arxiv.org/pdf/2206.03179v2,TSFEDL: A Python Library for Time Series Spatio-Temporal Feature Extraction and Prediction using Deep Learning (with Appendices on Detailed Network Architectures and Experimental Cases of Study),"Section 4 describes the quality standards of the code developing
+process. Section 5 summarises the conclusions of this paper and the future work. A includes the detailed
+description of the networks included in the framework. ",cs.NE,B,-0.053997435,0.19879863,-0.1966376
+http://arxiv.org/pdf/2206.03957v1,Construction of a spike-based memory using neural-like logic gates based on Spiking Neural Networks on SpiNNaker,"The blocks presented in this work are available in
+sPyBlocks, which is a public repository that could be very         [10] D. Reverter Valeiras, G. Orchard, S.-H. Ieng, R. B. Benosman,
+useful for neuromorphic engineers when completing neuro-                 Neuromorphic event-based 3d pose estimation, Frontiers in neu-
+morphic applications, which may require certain complex                  roscience 9 (2016) 522.
+functionalities and for which there was no SNN-based so-
+lution. [11] P. U. Diehl, B. U. Pedroni, A. Cassidy, P. Merolla, E. Neftci,
+                                                                         G. Zarrella, Truehappiness: Neuromorphic emotion recognition
+   On the other hand, some important points that are still               on truenorth, in: 2016 international joint conference on neural
+open and the future work to be done using the tools pro-                 networks (ijcnn), IEEE, 2016, pp. 4278–4285. ",cs.NE,C,0.4437506,-0.036519554,0.018921517
+http://arxiv.org/pdf/2206.04016v1,SYNERgy between SYNaptic consolidation and Experience Replay for general continual learning,"We believe that SC can further improve the performance of CLS-ER and provides an interesting research avenue for
+employing SC in a multiple semantic memories setup. 13
+Accepted at 1st Conference on Lifelong Learning Agents, 2022
+
+D CHARACTERISTICS ANALYSIS
+
+To further study the characteristics of the model, we compare the task probabilities and calibration of the models
+trained on different datasets with varying memory budgets. D.1 MODEL CALIBRATION
+
+Figures S2 and S3 provides the reliability plots and ECE of the different models trained on S-CIFAR-10 and S-
+TinyImageNet respectively with varying memory buffer sizes. ",cs.NE,C,0.17240582,-0.12760709,-0.03821262
+http://arxiv.org/pdf/2206.04168v1,Incremental Recursive Ranking Grouping for Large Scale Global Optimization,"shows that CCs may choose different component optimiz-
+ers depending on the component size and the existence of                                        REFERENCES
+separable variables. Another promising future work direction
+is adjusting the ǫsti value during the IRRG run and further         [1] J.-R. Jian, Z.-H. Zhan, and J. Zhang, “Large-scale evolutionary opti-
+improvements in the procedure of automatic ǫ estimation. mization: a survey and experimental comparative study,” Int. ",cs.NE,A,-0.26936933,-0.13992012,-0.15126428
+http://arxiv.org/pdf/2206.04168v2,Incremental Recursive Ranking Grouping for Large Scale Global Optimization,"The situation is opposite        separable variables. Another promising future work direction
+for f14. Finally, for f12, which contains neither conforming nor   is adjusting the ǫsti value during the IRRG run and further
+contradicting subproblems, both variable grouping ways seem        improvements in the procedure of automatic ǫ estimation. ",cs.NE,A,-0.1987488,0.066533156,-0.17595558
+http://arxiv.org/pdf/2206.04924v1,A bio-inspired implementation of a sparse-learning spike-based hippocampus memory model,"Finally, the memory models proposed in [11] are not able
+to work correctly with non-orthogonal patterns and cannot             The limitations of the model, the characteristics of the
+combine phases of learning and recalling of memories, which        biological model of the hippocampus on which the proposed
+are characteristics of the model presented in this work. More-     memory is based and the intrinsic capabilities of SNNs open
+over, in the mentioned work, only the CA3 network with             a research line for future work exploring these aspects. To
+oscillating behaviour was implemented, whereas, in the present     test the effectiveness of the proposed model, it could be
+work, all hippocampal layers are modelled, although with           implemented on other hardware platforms, such as Loihi and,
+a deterministic and regulated behaviour. ",cs.NE,C,0.47039127,0.06317009,0.03505534
+http://arxiv.org/pdf/2206.05056v1,On Neural Architecture Inductive Biases for Relational Tasks,"This is a challenging problem as the encoder has to learn to
+ignore spurious features for a given rule, which is crucial especially when combined with multiple
+rules at play. We believe that understanding these settings and distilling a key set of inductive biases
+that may make artiﬁcial systems succeed in these complex domains is an important future work. 9
+Acknowledgments and Disclosure of Funding
+
+The authors would like to thank Mike Mozer, Matthew Jones, Jonathan Cohen and Taylor Webb for
+insightful discussions. ",cs.NE,C,0.15138026,0.016431132,0.09667423
+http://arxiv.org/pdf/2206.05694v1,RL-EA: A Reinforcement Learning-Based Evolutionary Algorithm Framework for Electromagnetic Detection Satellite Scheduling Problem,"From the perspective of problem scale, the QGA algorithm has a good performance
+on large-scale problems, but its time advantage is not obvious in small-scale problems due
+to its Q-value evaluation and selection mechanism. How to make reinforcement learning
+perform the same or better eﬀect with fewer evaluations is worth further research. Overall,
+the RL-EA algorithm proposed in this paper can solve the EDSSP problem very well and
+has a good application prospect. ",cs.NE,A,-0.13091317,-0.21643317,0.09278057
+http://arxiv.org/pdf/2206.05743v1,Evolutionary Multi-Task Injection Testing on Web Application Firewalls,"To mitigate evaluation bias, we repeat each experiment run 10 times. Nonetheless, we do agree that additional subject WAFs are useful for future work. 6 Related Works
+
+Over the past decade, several white-box, static and model-based approaches have been proposed on
+testing injection vulnerability based on speciﬁc syntax, mainly target exclusively for SQLi. ",cs.NE,B,-0.17863931,0.10309812,-0.093841456
+http://arxiv.org/pdf/2206.06903v1,A Local Optima Network Analysis of the Feedforward Neural Architecture Space,"trainable neural networks,” arXiv preprint arXiv:1803.03635, 2018. One line of extension for future work is to investigate         [9] K. M. Malan and A. P. Engelbrecht, “A survey of techniques for
+larger FFNN architecture spaces more representative of real-            characterising ﬁtness landscapes and some possible ways forward,”
+world tasks. Larger models are likely to improve overall                Information Sciences, vol. ",cs.NE,C,0.3775242,-0.17019847,-0.00559769
+http://arxiv.org/pdf/2206.06940v1,Generating Exact Optimal Designs via Particle Swarm Optimization: Assessing Efficacy and Efficiency via Case Study,"For S = 10 particles (a) illustration of the global communication topology used in Basic PSO, and
+(b) illustration of the random local communication topology with 2 links per particle used in SPSO2007. and have been demonstrated to balance swarm exploration while promoting conver-
+gence, therefore, these quantities do not require further study if the optimization
+problem resides in the standard Euclidean geometry. These values guarantee that the
+swarm will eventually settle down to a consensus point for the solution to the opti-
+mization. ",cs.NE,A,-0.27478892,0.12117904,-0.030980863
+http://arxiv.org/pdf/2206.08896v1,Evolution through Large Models,"We speculate that unconditional local optima are simpler and easier to learn
+using RL methods, such that the models “gravitate” towards them when such so-
+lutions exist. However, in future work, the invention pipeline could be deployed
+in more complex, open-ended processes where unconditional solutions should
+be rendered insuﬃcient. In such settings, it is conceivable that the pipeline will
+output conditional inventors that have a deeper understanding of the domain
+structure, as such solutions will allow the inventors to achieve signiﬁcantly higher
+rewards in the domain, negating the concern regarding unconditional solutions. ",cs.NE,B,-0.06761038,-0.01068559,0.060921583
+http://arxiv.org/pdf/2206.09483v1,An Analysis of the Admissibility of the Objective Functions Applied in Evolutionary Multi-objective Clustering,"Thus, our study helps the
+understanding of the concept of admissibility to support the better choice of the
+objective functions, considering the diﬀerent roles that the objective function
+can perform in the evolutionary multi-objective optimization. For future work, we consider that real-life datasets should be analyzed to
+expand the admissibility analysis of the objective functions. In this paper, we
+only used artiﬁcial datasets to make it possible to analyze the data structures in
+the datasets and correlate them with the clustering criteria and the initialization
+strategy. ",cs.NE,A,-0.3175434,-0.25416675,0.20767829
+http://arxiv.org/pdf/2206.10226v1,Fluctuation-driven initialization for spiking neural network training,"However, this
+eﬀect did not generalize to deep CSNNs. Thus initializing Dalian networks in the ﬂuctuation-
+driven regime is beneﬁcial for their training and it will be interesting future work to study
+whether and how these ﬁndings generalize to larger datasets. 13
+a        Readout        b  c  One hidden layer
+
+   Exc. ",cs.NE,C,0.41971034,-0.04234535,0.009450855
+http://arxiv.org/pdf/2206.10464v1,Hybridization of evolutionary algorithm and deep reinforcement learning for multi-objective orienteering optimization,"All experiments in this study are conducted on a single RTX
+                                                                   3060 GPU. The code is written in Python 3.8 and will be open
+   3) Training Method: In this study, the REINFORCE al-            access once the paper was accepted for the convenience of
+gorithm [33] is used as a RL method to train the DYPN              experimental reproduction and further research. All competitor
+model. ",cs.NE,A,0.060436156,-0.028303074,-0.121465236
+http://arxiv.org/pdf/2206.10974v1,The Influence of Local Search over Genetic Algorithms with Balanced Representations,"Section 4 presents the experimental evaluation of our approach, discussing the experi-
+mental settings adopted and the obtained results. Finally, Section 5 concludes the paper
+by summarizing the main ﬁndings and pointing out directions for further research on
+the topic. 2 Background
+
+In this section, we ﬁrst describe the three balanced crossover operators introduced
+
+in [6], which we will use in our investigation. ",cs.NE,B,-0.0600548,0.21029098,0.15119293
+http://arxiv.org/pdf/2206.11505v1,Evolutionary Time-Use Optimization for Improving Children's Health Outcomes,"The results of the optimization experiments are described in Section 4. Conclusions
+and avenues for future work are presented in Section 5. 1.1 Data Description
+
+This study uses data from a large population-based child cohort to illustrate the real-world application of a novel
+time-use optimisation procedure. ",cs.NE,A,-0.28106296,-0.18334849,0.18233204
+http://arxiv.org/pdf/2206.12706v1,Binary and Multinomial Classification through Evolutionary Symbolic Regression,"independent runs was only 0.35. This might well be improved in
+future work if we take into account more dataset attributes. The          [2] Tianqi Chen and Carlos Guestrin. ",cs.NE,A,-0.069676764,0.07228142,-0.20333049
+http://arxiv.org/pdf/2206.12906v1,Towards KAB2S: Learning Key Knowledge from Single-Objective Problems to Multi-Objective Problem,"[9] Chang PC, Huang WH, Wu JL, Cheng TCE (2013) A block mining and
+7. Conclusion and future work                                                    recombination enhanced genetic algorithm for the permutation flow-
+                                                                                 shop scheduling problem. Inter J of Prod Econ
+    Considering major national needs within China’s context,
+our framework ETO_PFSP attempts to avoid scheduling                        [10] Huang L, Feng L, Wang HD, Hou Y, Liu K, Chen C (2020) A
+production operations from scratch, not only contributing to                     preliminary study of improving evolutionary multi-objective
+“China’s industrial upgrading and transformation”[2][16], but                    optimization via knowledge transfer from single-objective problems. ",cs.NE,A,-0.3209734,-0.25007838,0.15083413
+http://arxiv.org/pdf/2206.13366v1,Centralized and Decentralized Control in Modular Robots and Their Effect on Morphology,"Even
+mize further by adding non-periodic movements. so, in future work the same controller approaches could be
+                                                              tested with diversity enhancing methods to investigate what
+   Because we had the same morphology mutation rate for       different control behaviors arise. the sine and copy controllers, we could expect similar mor-
+phological diversity from these. ",cs.NE,B,-0.101196945,0.1603337,0.29236615
+http://arxiv.org/pdf/2206.14048v1,Short-Term Plasticity Neurons Learning to Learn and Forget,"We
+performed normalization per neuron, although similar performance was observed for global normalization and could be
+further explored. Additional learnable norm scaling is left for future work. To conﬁrm weight normalization did not provide
+an inherent training improvement for all models (but only for STPN due to the previously cited reasons), we trained all
+baselines in ART and Maze with equivalent non-parametric weight normalization schemes, and ﬁnd neither proﬁciency or
+efﬁciency are improved for other baselines. ",cs.NE,C,0.35915804,-0.15990295,0.06415877
+http://arxiv.org/pdf/2206.14135v1,Towards Explainable Metaheuristic: Mining Surrogate Fitness Models for Importance of Variables,"This  where the simple problem definition means that the explanations
+cheaper model, surrogate [10, 22, 23, 40], also represents an explicit  can be compared against known expectations, and gives a starting
+model of the population. We propose mining this model to capture        point for further research in this area for real-world problems. The
+the sensitivity of the fitness function to the problem variables. ",cs.NE,B,-0.23005152,0.028728725,0.28513652
+http://arxiv.org/pdf/2207.00708v1,Parameter efficient dendritic-tree neurons outperform perceptrons,"However, the theoretical reduction in the
+                                                                  number of operations and parameters still holds. For applica-
+5  16 0.4 0.98 ± 0.02 0.74 ± 0.06                                 bility, future work should focus on optimizing the practical
+                                                                  computations by taking advantage of the tree structure. 6  11 0.1 0.96 ± 0.06 0.67 ± 0.07
+                                                                  Model Tuning: Our current experiments involve naively
+Table 8. ",cs.NE,A,-0.22763813,0.051094852,-0.21680866
+http://arxiv.org/pdf/2207.00987v1,Architecture Augmentation for Performance Predictor Based on Graph Isomorphism,"If the Euclidean distance between any two
+and the results are presented in Section IV. Finally, the          pixels changes after the augmentation, the augmented image
+conclusion and future work are shown in Section V.                 will also be invalid. To the best of our knowledge, this is the
+                                                                   ﬁrst work focusing on augmenting DNN architectures. ",cs.NE,C,0.31418163,-0.039696064,-0.08352866
+http://arxiv.org/pdf/2207.01114v1,Evaluating Error Bound for Physics-Informed Neural Networks on Linear Dynamical Systems,"In Section 5, we show experimental results that verify our proposed method. Finally,
+we conclusively summarize our work and provide direction for future work in Sections 6 and 7. 2 Background
+
+Neural networks were ﬁrst introduced as universal function approximators that learn nonlinear mappings for supervised
+learning tasks [2]. ",cs.NE,C,0.32843632,-0.11800566,0.064121224
+http://arxiv.org/pdf/2207.02727v1,An Unsupervised Spiking Neural Network Inspired By Biologically Plausible Learning Rules and Connections,"While
+FashionMNIST is more complex, and it is difﬁcult to distinguish the similar objects such as Shirt and
+T-Shirt. In future work, we will consider introducing more biologically plausible rules to improve the
+performance of our model. (a)
+
+(b)  (c)
+
+                                                                 (d)
+
+Figure 6: The weight visualization of the convolutional layer and the fully connected layer of our
+model on MNIST and FashionMNIST dataset. ",cs.NE,C,0.29811358,0.028318917,0.1378839
+http://arxiv.org/pdf/2207.02907v1,Exploring Generative Adversarial Networks for Text-to-Image Generation with Evolution Strategies,"211–252, 2015.
+standalone CMA-ES and Adam approaches. In future work, we intend to evaluate the results using other
+generative models such as VQGAN. Furthermore, we will
+explore new ﬁtness functions based on the distances of the
+samples given the distribution maps calculated through the
+evaluation method. ",cs.NE,C,0.16528797,0.019559242,0.024547178
+http://arxiv.org/pdf/2207.03577v1,Automatic Synthesis of Neurons for Recurrent Neural Nets,"Thus, the number of datasets that can be processed may be somewhat limited by available
+computational resources. Here are some possibilities for future work. 1. ",cs.NE,A,-0.019486185,-0.1266978,-0.16147783
+http://arxiv.org/pdf/2207.04045v1,Runtime Analysis for Permutation-based Evolutionary Algorithms,"From a broader perspective, this work conﬁrms what is known from em-
+pirical and applied research, namely that it is not immediately obvious how
+to transfer expertise in evolutionary computation for bit-string representa-
+tions to permutation-based optimization. In this light, this work suggests
+as interesting future work to investigate how some recently discussed ques-
+tions can be answered in the permutation world. We ﬁnd the following three
+particular topics most interesting and timely. ",cs.NE,B,-0.17829382,-0.15013473,0.052585714
+http://arxiv.org/pdf/2207.04046v1,Optimal Pattern synthesis of linear antenna array using Ant Hill Colonization Optimization algorithm(AHCOA),"The AHCOA showed high performance in these antenna challeng-
+ing radiation synthesis. For future work we are going to exploit more nature based algorithms in antenna
+synthesis and improve the AHCOA further in solving more engineering problems. Acknowledgement: I would like to express my gratitude to Indian institute of tech-
+nology Goa for their support and guidance in this research and Chandigarh University
+for allowing us to pursue and conduct research on this topic. ",cs.NE,B,-0.20145565,0.039563864,-0.110915124
+http://arxiv.org/pdf/2207.04046v3,Optimal Pattern synthesis of linear antenna array using Ant Hill Colonization Optimization algorithm(AHCOA),"The AHCOA showed high performance in these antenna challeng-
+ing radiation synthesis. For future work we are going to exploit more nature based algorithms in antenna
+synthesis and improve the AHCOA further in solving more engineering problems. References
+
+ 1. ",cs.NE,B,-0.2048829,0.011318296,-0.13446763
+http://arxiv.org/pdf/2207.04046v5,Optimal Pattern synthesis of linear antenna array using Ant Hill Colonization Optimization algorithm(AHCOA),"The AHCOA showed high performance in these antenna challeng-
+ing radiation synthesis. For future work we are going to exploit more nature based algorithms in antenna
+synthesis and improve the AHCOA further in solving more engineering problems. References
+
+ 1. ",cs.NE,B,-0.2048829,0.011318296,-0.13446763
+http://arxiv.org/pdf/2207.04047v1,A Framework Based on Generational and Environmental Response Strategies for Dynamic Multi-objective Optimization,"In fact, a suitable step size can help the generational response mech-
+605 anism ﬁnd the optimal solutions faster and greatly reduce the consumption of
+     computing resources. Therefore, how to adjust the step size of the generational
+     response strategy is also one of our future work. In addition, it is worth noting that DMOPs we used is with deterministic
+     changes. ",cs.NE,B,-0.21735609,0.124182135,-0.08443022
+http://arxiv.org/pdf/2207.04730v1,Multimodal Multi-objective Optimization: Comparative Study of the State-of-the-Art,"obtaining all global and local optimal solutions can help DMs                        1064–1078, 2021.
+understand the implicit properties. Therefore, future works
+include applying MMEAs to more real-world problems. In                         [11] Q. ",cs.NE,A,-0.25201,0.11932644,-0.04022211
+http://arxiv.org/pdf/2207.04820v1,Assessing Ranking and Effectiveness of Evolutionary Algorithm Hyperparameters Using Global Sensitivity Analysis Methodologies,"This framework can
+further analyze the sensitivity and inﬂuence of adaptive and dynamically tuneable hyperparam-
+eters for future work. Furthermore, since diﬀerent hyperparameters sampling methods showed
+varied ranking, this work can further study the inﬂuence of the sampling method or sensitivity
+
+                                                             29
+Morris LHS  1.0        GD                   IGD                  HV
+            0.8
+            0.6     Morris LHS           Morris LHS           Morris LHS
+            0.4       Morris
+Morris      0.2         0.5
+            0.0       Sobol Si
+                                         Morris               Morris
+            1.0
+Sobol STi   0.8
+            0.6
+            0.4                 1.0 0.0    0.5       1.0 0.0    0.5       1.0
+            0.2                   XDI    Sobol Si      PMDI   Sobol Si
+            0.0                          P[PM]                                    N
+                                                                Mode
+            1.0
+            0.8
+            0.6
+            0.4
+            0.2
+            0.0
+
+               0.0
+
+                    P[X]
+
+Fig. 9: MOEA/D hyperparameters sensitivity analysis. ",cs.NE,A,-0.17160094,0.07178963,-0.29833487
+http://arxiv.org/pdf/2207.04874v1,Hebbian Continual Representation Learning,"A number          networks without losing desired properties for the CL. of clusters for MNIST and Omniglot is 10 and 50,            We leave this research question for future work. respectively. ",cs.NE,B,0.078320734,0.17865752,-0.13223688
+http://arxiv.org/pdf/2207.04881v1,Simple and complex spiking neurons: perspectives and analysis in a simple STDP scenario,"Collectively, our results show that accurately selecting the neuron model employed
+in an NM pipeline improves its performance, and that this selection should be driven by considering the complexity
+of the spatio-temporal features that the layer in the network will have to understand. Furthermore, it highlights that
+further research aimed at unveiling the role of the dynamics of neuron models in deep hierarchical learning would be
+highly beneﬁcial to close the gap between conventional DL approaches and SNNs. Other future studies could consist
+of analysing further relationships between the neuron models and other components of the learning pipeline, such as
+the neural network architecture, and the learning rule. ",cs.NE,C,0.53302026,-0.15519124,-0.018115867
+http://arxiv.org/pdf/2207.04886v1,Bio-inspired Machine Learning: programmed death and replication,"Although our analytical results are robust, the numerical results are only preliminary
+and a lot more numerical testing is needed in order to conﬁrm the computational advantages
+of the proposed algorithms. Moreover, so far we have analyzed the discrete transformations
+that correspond to only two biological phenomena, programmed death and replication, and
+there are many other important biological [9] and physical [14] phenomena that can be
+analyzed in a similar manner which we leave for future work. Acknowledgments. ",cs.NE,B,-0.2166682,0.25650266,-0.025841175
+http://arxiv.org/pdf/2207.05135v1,FreeREA: Training-Free Evolution-based Architecture Search,"We
+tested our solution on two popular benchmarks for NAS of tiny models, and
+we demonstrated how our approach outperforms State of the Art methods for
+the constraint-free case. We also performed, for the ﬁrst time in a training-
+free method, experiments in a constrained scenario, setting a very competitive
+baseline for future works. In conclusion, this paper advances the State of the Art with the following
+contributions:
+
+ 1. an optimised combination of training-free metrics for models ranking, that
+     can completely substitute the training phase in NAS algorithms;
+FreeREA: Training-Free Evolution-based Architecture Search  3
+
+2. a custom evolutionist search algorithm that fully exploits the ranking strat-
+   egy to identify very accurate models in few minutes of search;
+
+3. a number of experiments to demonstrate how training-free methods can eﬀec-
+   tively replace training-based NAS approaches, even in hardware-constrained
+   scenarios. ",cs.NE,A,-0.04220037,-0.34130198,-0.05760467
+http://arxiv.org/pdf/2207.05451v1,Adversarial Robustness Assessment of NeuroEvolution Approaches,"NSGA-Net models appears to be much higher, especially in
+The discrepancies in the relative robustness of the models       the case of L2-bounded perturbations. This shows that the
+between the two distance metrics demands further analysis. choice of data pre-processing should not be neglected when
+Namely, it would be of interest to understand what aspect of     designing networks under scenarios where adversarial attacks
+the DENSER model makes it more L2-robust and why it does         may be of concern. ",cs.NE,C,0.1313519,0.0189594,-0.16020262
+http://arxiv.org/pdf/2207.05561v1,Brain-inspired Graph Spiking Neural Networks for Commonsense Knowledge Representation and Reasoning,"The human cerebral cortex has clear regional
+divisions for the representation of diﬀerent concepts and knowledge, forming the
+semantic map[15]. In future work, how to combine the knowledge representation
+
+                                                  16
+completed by KRR-GSNN with the semantic map in the brain discovered by
+neuroscientists will be the key issue. FUNDING
+
+    This work was supported by the new generation of artiﬁcial intelligence major
+project of the Ministry of Science and Technology of the People’s Republic of
+China (Grant No. ",cs.NE,C,0.36713383,-0.018145915,0.21389079
+http://arxiv.org/pdf/2207.07073v1,Efficient spike encoding algorithms for neuromorphic speech recognition,"depth of 32 bits, our resulting BCR would instead be on the order
+While achieving the No Encoding classification accuracy (97%), they                                 of 0.19.
+only use 7% and 4% spike densities respectively. Efficient Spike Encoding Algorithms for Neuromorphic Speech Recognition                                                           ICONS 2022, July 27–29, 2022, Knoxville, TN, USA
+
+6.3 Specific Encoding Method Characteristics                                            6.4 Dependence on datasets, on the classifier
+      and Constraints                                                                          and future work
+
+Each spike encoding method has characteristics and constraints                          We provided a comparison of spike encoding algorithms using the
+that are important to consider when interpreting the results and                        standard TIDIGTS speech classification dataset consisting of clean,
+selecting a desired method. isolated speech signals. ",cs.NE,C,0.29949325,-0.1020498,-0.15774007
+http://arxiv.org/pdf/2207.07976v1,Hyperparameter Tuning in Echo State Networks,"Narrowing        linear steps throughout their whole domain. To address the issue,
+the search space or reducing the required computational resources       we have transformed the search space of some parameters accord-
+is left for future work. ing to their needs. ",cs.NE,B,-0.19451612,0.023366299,0.034527194
+http://arxiv.org/pdf/2207.08148v1,Improving Deep Neural Network Random Initialization Through Neuronal Rewiring,"Furthermore,
+we believe that the organization of the weights is an important aspect of random initialization that should be further
+investigated. Considering our ﬁndings, one interesting direction for future works is to explore other Network Science
+measures and tools. The proposed PA rewiring method can also be explored in different ways, for instance by using
+different levels of rewiring (instead of rewiring the whole layer), and/or applying it heterogeneously in different layers. ",cs.NE,B,0.030485686,0.10763298,-0.15853146
+http://arxiv.org/pdf/2207.08327v1,Large-scale matrix optimization based multi microgrid topology design with a constrained differential evolution algorithm,"can be easily extended to solve other large-scale BMOPs,                          [14] W. Li, T. Zhang, R. Wang, B. Wang, Y. Song, and X. Li, “A knee-
+                                                                                        point driven multi-objective evolutionary algorithm for ﬂexible job
+which is also one of our future works. shop scheduling,” in 2019 IEEE Symposium Series on Computational
+                                                                                        Intelligence (SSCI). ",cs.NE,A,-0.36799884,-0.29686773,0.13067546
+http://arxiv.org/pdf/2207.10334v1,Efficient Search of Multiple Neural Architectures with Different Complexities via Importance Sampling,"Most NAS methods use ﬁxed training hyperparameters, despite their impact
+on the performance. A possible future work could be developing a method for
+the joint optimization of both the architecture and training parameters, further
+improving the NAS performance. Acknowledgments This work was partially supported by NEDO (JPNP18002),
+JSPS KAKENHI Grant Number JP20H04240, and JST PRESTO Grant Num-
+ber JPMJPR2133. ",cs.NE,A,0.05059167,-0.2402507,-0.2553003
+http://arxiv.org/pdf/2207.13075v1,Harmony Search: Current Studies and Uses on Healthcare Systems,"However, other further
+efforts were possible, including the following:
+
+    1) Investigation into how to prevent being trapped in a local solution, since the majority of
+         suggested HS had this issue;
+
+    2) Use HS to solve dynamic issues;
+    3) Create and evaluate methods for an ensemble of HS operators;
+    4) Propose a novel adaptive approach for parameter updating in the HS;
+    5) Address more real-world issues, such as the traveling salesman dilemma and time series
+
+         forecasting;
+    6) Use HS to tackle difficulties with machine learning;
+    7) Investigate how well HS performs when confronted with confined issues;
+    8) Analyze the impact of hybridizing HS with additional EAs. For additional research in the future, HS can be hybridized with several algorithms for healthcare
+problems to further validate its efficiency, such as the backtracking search optimization algorithm
+[94–96], the variants of evolutionary clustering algorithm star [97–100], chaotic sine cosine firefly
+algorithm [101], shuffled frog leaping algorithm [102] and hybrid artificial intelligence algorithms
+[103]. Furthermore, HS can be applied to more complex and real-world applications to explore more
+deeply the advantages and drawbacks of the algorithm or improve its efficiencies, such as engineering
+application problems [101], wind speed prediction [104–110], traffic flow prediction [111],
+laboratory management [112], e-organization and e-government services [113], online analytical
+processing [114], web science [115], and the Semantic Web ontology learning [116]. ",cs.NE,A,-0.15785837,-0.25368524,0.1347637
+http://arxiv.org/pdf/2208.00398v1,Ultra-low Latency Adaptive Local Binary Spiking Neural Network with Accuracy Loss Estimator,"The ﬁrst convolutional layer acts as an                                  There is an interesting phenomenon that FLNBSNN and
+encoding layer and network structures for Fashion-MNIST,                                ALBSNN both select the ﬁrst and sixth layer as non-
+CIFAR-10, and CIFAR-100 datasets are shown in Table 1.                                  binarized layers for the CIFAR-10 and CIFAR-100 datasets,
+Between the convolution calculation and the activation func-                            but ALBSNN obtains a better accuracy. After further study,
+tion, batch-normalization(BN)(Ioffe and Szegedy 2015) is                                we ﬁnd ALBSNN does not always select the ﬁrst and sixth
+applied. All convolution operations used in the experiment                              layers as non-binarized layers. ",cs.NE,C,0.36332893,-0.11941872,-0.14778605
+http://arxiv.org/pdf/2208.00555v1,Evo* 2022 -- Late-Breaking Abstracts Volume,"Diﬀer-
+
+ences between row bots against column ones. 4 Conclusions and future work
+
+This work presents a preliminary study on the application of diﬀerent schemes
+of Genetic Algorithms to optimize agents designed to combat in a 1 vs 1 ﬁghting
+videogame. The results, even if they are not extraordinary, show some improve-
+ments over a very good starting agent. ",cs.NE,A,-0.17896944,-0.09395452,0.20036387
+http://arxiv.org/pdf/2208.01204v1,Making a Spiking Net Work: Robust brain-like unsupervised machine learning,"As
+neurons. per the previous point, we leave detailed investigation
+                                                                               of this characteristic of STUNNs for future work. An important concept in STUNNs ties together the closely
+related ideas of 1. sparse excitatory and inhibitory connections        It should be clear that STUNNs are more suitable for learning
+contributing to transient departures from perfect balance; 2. a      scenarios where conventional GD for DNNs is limited by
+distribution of properties like firing rates and constant inputs to  power, computational resource usage, training time, data
+each neuron and; 3. the subsampling of the input space that is a     collection and/or labelling requirements, lack of explainability
+consequence of the previous two ideas. ",cs.NE,C,0.48693043,-0.0020056348,0.056110725
+http://arxiv.org/pdf/2208.01204v2,Making a Spiking Net Work: Robust brain-like unsupervised machine learning,"decision boundaries are often counter-intuitive [44]
+                                                                               rendering them difficult to interpret and prone to
+   An important concept in STUNNs ties together the closely                    subtle and difficult-to-detect adversarial attacks. We
+related ideas of 1. sparse excitatory and inhibitory connections               leave detailed investigation of this characteristic of
+contributing to transient departures from perfect balance; 2. a                STUNNs for future work. distribution of properties like firing rates and constant inputs to
+each neuron and; 3. the subsampling of the input space that is a        It should be clear that STUNNs are more suitable for learning
+consequence of the previous two ideas. ",cs.NE,C,0.42991772,0.01899219,0.09093653
+http://arxiv.org/pdf/2208.01416v1,Replacing Backpropagation with Biological Plausible Top-down Credit Assignment in Deep Neural Networks Training,"Our ﬁndings also suggest that
+the biological plausible top-down learning framework is a potential mechanism
+underlying how the brain learns. In future work, we will further study the eﬀectiveness of our top-down learning
+framework on neural network with diﬀerent structures and dynamics. We can also
+apply the top-down framework to more diﬀerent scenarios, and to help extremely
+large, or unconventional networks achieve good performance. ",cs.NE,C,0.4130509,-0.08323698,0.18727624
+http://arxiv.org/pdf/2208.02400v1,Evolutionary bagged ensemble learning,"complexity will be O(I × N × T ). To be scalable for larger
+datasets, future works should focus on methods to reduce the                          [8] L. Breiman, Bagging predictors, Mach. Learn. ",cs.NE,A,-0.029847832,-0.11869215,-0.19257694
+http://arxiv.org/pdf/2208.02400v2,Evolutionary bagging for ensemble learning,"To be scalable for larger                   IEEE Access 8 (2020) 104603–104618. datasets, future works should focus on methods to reduce the
+computational requirement of EvoBagging by either optimising             [7] Q. Gu, Y.-S. Ding, T.-L. Zhang, An ensemble classiﬁer based prediction
+with fewer iterations or approximating the ﬁtness score without               of g-protein-coupled receptor classes in low homology, Neurocomputing
+a full evaluation of all bags. 154 (2015). ",cs.NE,A,0.054879013,-0.10704613,0.06677522
+http://arxiv.org/pdf/2208.02400v3,Evolutionary bagging for ensemble learning,"The results have also shown
+accurate results using single objective optimization when com-         that EvoBagging can maintain good performance on both class
+pared to other methods from the literature. In future works,           balanced and imbalanced datasets. The design choices for
+given more complicated problems, we can approach the pro-              EvoBagging components, such as crossover, mutation, and gen-
+posed framework using a multi-objective optimization ap-               eration gap-based selection have demonstrated their relevance
+proach since they have shown to be promising in ensemble               by providing improved performance accuracy. ",cs.NE,A,-0.38455033,-0.28710425,0.072013274
+http://arxiv.org/pdf/2208.02423v1,Adaptive Latent Factor Analysis via Generalized Momentum-Incorporated Particle Swarm Optimization,"The GM-PSO algorithm we proposed integrates the idea of momentum algorithm into the standard
+PSO, realizes the adaptation of multiple hyper-parameters of the SGD-based LFA model, shares the same hyper-parametric
+learning mechanism to reduce time complexity and computational efficiency, and achieves better prediction accuracy for the
+missing value of HDI matrix. In future work, we aim to extend the GM-PSO algorithm to other models, such as the protein complex
+detection model [5, 43], tensor decomposition model [32, 44, 45], and so on. REFERENCES
+
+[1] X. Luo, Y. Yuan, M. C. Zhou, Z. G. Liu, and M. S. Shang, “Non-Negative Latent Factor Model Based on β-Divergence for Recommender Systems,” IEEE
+      Trans. ",cs.NE,A,-0.006381076,-0.10507322,-0.040883992
+http://arxiv.org/pdf/2208.02576v1,Neuro-symbolic computing with spiking neural networks,"2), alternative spike-based                                3, 9 (2021), 823–835. embedding schemes can be devised in future work that leverage
+gradient-based optimization in SNNs – similarly to how a variety                           [13] Kathleen E Hamilton, Neena Imam, and Travis S Humble. 2017. ",cs.NE,C,0.39195788,-0.21478707,-0.09574886
+http://arxiv.org/pdf/2208.04321v1,Neural Architecture Search as Multiobjective Optimization Benchmarks: Problem Formulation and Performance Assessment,"Additionally, without an explicit nor-
+
+                                                                               malization mechanism, the decomposition-based algorithms
+
+                                                                               (i.e., MOEA/D and RVEA) perform substantially worse than
+
+                                                                               the others. For further analysis, we plot the nondominated
+
+                                                                               solutions achieved by each algorithm in the median run on
+
+                                                                               two typical test instances in Fig. 13a and Fig. ",cs.NE,A,-0.36081544,-0.043755893,-0.2965337
+http://arxiv.org/pdf/2208.06900v1,Convolutional Spiking Neural Networks for Detecting Anticipatory Brain Potentials Using Electroencephalogram,"The details of this study and its results can be found
+sequential forward-ﬂoating search method to deﬁne a feature         in Section V. Finally, concluding remarks and a discussion on
+set from powers of frequency points across 16 EEG channels. future work are included in Section VI. These features were then used as input to a regularized linear
+discriminant analysis (RLDA) classiﬁer to determine braking                                      III. ",cs.NE,A,0.05227269,0.006505206,0.016145874
+http://arxiv.org/pdf/2208.07468v1,Encoding Integers and Rationals on Neuromorphic Computers using Virtual Neuron,"47–63, 2019.
+identity activation function. In our future work, we would
+                                                                                [23] P. Date, Combinatorial neural network training algorithm for neuromor-
+like to explore general-purpose neuromorphic algorithms and                           phic computing. Rensselaer Polytechnic Institute, 2019.
+
+applications using virtual neurons. ",cs.NE,C,0.33716643,-0.069509014,0.098239034
+http://arxiv.org/pdf/2208.08759v1,The First Mathematical Proof That Crossover Gives Super-Constant Performance Gains For the NSGA-II,"As our experiments have shown,
+such solutions often contribute to successful crossovers. As a second direction for further research, we note that we did not prove
+any lower bounds, so we have not estimate on how far our runtime guarantees
+are from the truth. Clearly, proving lower bounds for a crossover-based algo-
+rithm is challenging as it requires a detailed understanding of the population
+dynamics and of the typical diversity observed in the population. ",cs.NE,B,-0.2401582,0.08510019,0.0682301
+http://arxiv.org/pdf/2208.10362v1,Massively Parallel Universal Linear Transformations using a Wavelength-Multiplexed Diffractive Optical Network,"We separated these input-output complex field pairs into three individual sets for training,
+validation and testing, each containing 55,000, 5,000 and 10,000 samples, respectively. By
+increasing the size of these training datasets to e.g., >100,000 input-output pairs of randomly
+generated complex fields, it is possible to further improve the transformation accuracy of the
+trained broadband diffractive networks; since this does not change the general conclusions of this
+work, it is left as future work. More details on the generation of the training and testing data can
+be found in the Methods section. ",cs.NE,C,0.15907335,-0.0221865,-0.09257872
+http://arxiv.org/pdf/2208.10364v1,Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks,"2018. Spiking Deep Neural Networks:
+driven model that focuses on discrete-time temporal graphs,      Engineered and Biological Approaches to Object Recogni-
+in future work we aim to study the event-driven SNNs to          tion. capture structural and dynamic properties on continuous-
+time temporal graphs at a ﬁne-grained level. ",cs.NE,C,0.50860006,-0.02298991,0.012867812
+http://arxiv.org/pdf/2208.10364v2,Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks,"Experiments on three real-world datasets
+tiveness of threshold decay strategy, we cownduct temporal        show that SpikeNet outperforms the recent state-of-the-art
+node classiﬁcation on DBLP and Tmall by varying the val-          methods in most cases. Through further analysis of these re-
+ues of τth and γ as {1.0, 0.9, 0.8, 0.7, 0.6} and {0., 0.1, 0.2,  sults, we also show that SpikeNet provides better trade-offs
+0.3, 0.4}, respectively. The experiments are repeated 5 times     between performance and computational costs particularly
+and the average results are shown in Figure 6. ",cs.NE,C,0.16713072,0.047381178,-0.3011581
+http://arxiv.org/pdf/2208.10719v1,Lexicase Selection at Scale,"While not intuitive, we suppose that both         number of evaluations might be large. For future work, we look
+easier and harder cases may result in increased filtering pressure      forward to the exploration of better ways to extract the incremental
+compared to average cases. A possible explanation is that the benefit   information about the relationship between population and training
+of weighted shuffling may actually come from the behavior of            data, in order to improve the algorithm in terms of both efficiency
+focusing on some set of cases (no matter easy or hard ones), which      and performance. ",cs.NE,A,-0.15984634,-0.14419532,0.022369286
+http://arxiv.org/pdf/2208.10881v1,A multiplicity-preserving crossover operator on graphs. Extended version,"NASA Advanced Supercomputing (NAS) Division. https://www.nas.nasa.gov/assets/pdf/techreports/2000/nas- 00- 018.pdf
+   With regards to future work, we intend to implement secure                             [15] Annegret Habel and Karl-Heinz Pennemann. 2009. ",cs.NE,B,0.08711776,0.10510754,-0.27269125
+http://arxiv.org/pdf/2208.11066v1,Enhanced Opposition Differential Evolution Algorithm for Multimodal Optimization,"However, in our experiments, we have
+achieved better results for problems having a moderate number of global
+optima, but it still needs to improve on highly multimodal functions. Hence,
+we aim to improve EODE in our future work and test it on highly multimodal
+problems. 6 Acknowledgement
+
+The authors would like to thank Xin Lin and Wenjian Luo for providing source
+code of [24] that provided some helpful insights into the design and working
+of the proposed algorithm. ",cs.NE,A,-0.083071455,-0.08039984,-0.1789388
+http://arxiv.org/pdf/2208.11167v1,Evolutionary Quantum Architecture Search for Parametrized Quantum Circuits,"To illustrate the             One limitation to our work is that the experiments are conducted
+above points, we first apply EQAS-PQC to two classical RL bench-         using a simulation backend for quantum circuits. For future work,
+mark environments and obtained the best performing architectures,        we expect to extend our work to use real quantum computers and
+and then conduct two analysis on the resulting architectures. add more objectives to the consideration of evolutionary, such as
+                                                                         quantum noise and hardware efficiency. ",cs.NE,B,-0.033155594,0.15578884,-0.16507575
+http://arxiv.org/pdf/2208.11188v1,On Fitness Landscape Analysis of Permutation Problems: From Distance Metrics to Mutation Operator Selection,"Although Uniform Scramble was not            limits on the distance proﬁles of permutation
+    among the top-performing for any problem class,           neighborhood operators. In: Proc Int Conf
+    it has a tunable parameter that will be explored in       on Bioinspired Information and Communica-
+    future work, or it may be useful to give a stagnated      tions Technologies, pp 28–35, https://doi.org/
+    search a kick (e.g., it is disruptive). 10.4108/icst.bict.2014.257872
+
+        All of the distance metrics are imple-             Cicirello VA (2016) The permutation in a haystack
+    mented in the open-source JavaPermutationTools            problem and the calculus of search landscapes. ",cs.NE,A,-0.2537126,-0.049570013,-0.07313877
+http://arxiv.org/pdf/2208.11262v1,Differential evolution variants for Searching D- and A-optimal designs,"Among the compared algorithms, simulation experiments on 12 statistical mod-
+els reveal that LSHADE achieves the best performance on the D- and A-optimal
+problems. In the future work, we will aims at designing a better evolutionary algo-
+rithm for E-optimal design. Next we will construct the diﬀerent types of op-
+timal design criteria as the multi-objective optimal design problem and design
+the multi-objective evolutionary algorithm to trade oﬀ multi-objective optimal
+design problem. ",cs.NE,A,-0.41832316,-0.2009385,0.033957403
+http://arxiv.org/pdf/2208.12758v1,Quality Diversity Evolutionary Learning of Decision Trees,"Moreover, while both EAs produced models with low complexity,
+hence good interpretability, in the Mountain Car environment ME found that
+one action is not necessary to solve the task. In future works, we will extend this study to more recent variants of ME,
+such as those proposed in [45,46], and to more challenging RL tasks. Moreover,
+we will investigate the scalability of ME w.r.t. ",cs.NE,B,-0.04839103,0.05885031,0.033269867
+http://arxiv.org/pdf/2208.13415v1,Cooperative coevolutionary hybrid NSGA-II with Linkage Measurement Minimization for Large-scale Multi-objective optimization,"Eq (15) is the original link-                             15  return E
+
+age measurement function of our proposal [37]. Meanwhile,                                  16 end
+
+our further research notice that this linkage measurement                                  17 Ft ← Evaluate(Ptn, S)
+                                                                                           18 E ← bestIndividual(Ptn, E)
+function often contains multiple optima especially in separable
+
+functions and partially separable function. Therefore, we can                              19  (Optimization)
+
+attach a reasonable penalty to lead the direction of optimiza-                             20 while not stop criterion do
+
+tion. ",cs.NE,B,-0.17141263,0.11433546,-0.03460014
+http://arxiv.org/pdf/2208.13589v1,Evolving the MCTS Upper Confidence Bounds for Trees Using a Semantic-inspired Evolutionary Algorithm in the Game of Carcassonne,"BACKGROUND
+have been achieved. Section IX draws some conclusions and
+discusses future work. A. ",cs.NE,B,0.06752011,0.35606483,0.07477647
+http://arxiv.org/pdf/2208.13723v2,Bayesian Continual Learning via Spiking Neural Networks,"An implementation based on digital hardware would
+need to store the real-valued parameters of the parameter vector distribution, and to sample from the distribution using auxiliary
+circuitry, which incurs energy and memory overheads. Alternatively, one could leverage the inherent stochasticity of analog
+hardware for sampling [75], a line of research that we reserve for future work. AUTHOR CONTRIBUTIONS
+
+   OS ﬁrst proposed to train SNNs via Bayesian learning, HJ derived the rule for binary synapses, and NS extended it to
+real-valued synapses. ",cs.NE,C,0.34971744,-0.072883114,-0.11566076

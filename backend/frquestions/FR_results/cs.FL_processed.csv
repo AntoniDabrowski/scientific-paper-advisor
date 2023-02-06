@@ -1,0 +1,291 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00549v1,Efficient enumeration algorithms for annotated grammars,"In data complexity, this improves over the result of [29] for unambiguous extraction
+grammars, whose preprocessing time is O(92k ⋅ H 2 ⋅ s 5), i.e., our data complexity is
+cubic instead of quintic. We leave to future work a study of enumeration results for
+restricted classes of extraction grammars via Theorems 3 and 8. 7. ",cs.FL,C,0.1330157,0.21301487,0.36091843
+http://arxiv.org/pdf/2201.00549v2,Efficient Enumeration Algorithms for Annotated Grammars,"In data complexity, this improves over the result of [30] for unambiguous extraction
+grammars, whose preprocessing time is O(92k ⋅ H 2 ⋅ s 5), i.e., our data complexity is
+cubic instead of quintic. We leave to future work a study of enumeration results for
+restricted classes of extraction grammars via Theorems 3 and 8. 7. ",cs.FL,C,0.13230014,0.21610144,0.36013386
+http://arxiv.org/pdf/2201.01670v1,Finite-Word Hyperlanguages,"Just as Bu¨chi automata can express LTL, such a model can express the
+entire logic of HyperLTL [13]. As future work, we plan on studying non-regular hyperlanguages (e.g., context-
+free), and object hyperlanguages (e.g., trees). Another direction is designing learning
+algorithms for hyperlanguages, by exploiting known canonical forms for the underly-
+ing models, and basing on existing learning algorithms for them. ",cs.FL,C,0.123231106,-0.009177847,-0.31393772
+http://arxiv.org/pdf/2201.05075v1,"Completely reachable automata: an interplay between automata, graphs, and trees","7. FURTHER WORK
+
+   The results of the present paper suggest several directions for further research. Here we
+brieﬂy outline two such directions; many further open problem about completely reachable
+automata can be found in the ﬁnal sections of [7, 8]. ",cs.FL,C,0.25362778,-0.06565009,-0.13653374
+http://arxiv.org/pdf/2201.09825v2,Supported Sets -- A New Foundation For Nominal Sets And Automata,"Supported sets have a
+functor for name binding, which even lifts to the abstraction functor in nominal sets. It
+remains for future work whether a similar name binding functor can be found for other data
+alphabets, most notably for the total order symmetry on Q, and whether multiple atoms can
+be bound simultaneously, as it is possible in nominal sets [10]. It can be conjectured that
+such generalizations are not possible on the level of supported sets. ",cs.FL,A,0.058492187,-0.15185022,0.17820597
+http://arxiv.org/pdf/2202.04340v1,Efficient Construction of Reversible Transducers from Regular Transducer Expressions,"9 Conclusion
+
+We conclude with some interesting avenues for future work. An immediate future work is
+to adapt our parser-evaluator construction to work for SDRTE. We believe that this can
+be done with some eﬀort, preserving our complexity bounds. ",cs.FL,C,0.16353476,0.045713693,0.20603833
+http://arxiv.org/pdf/2202.05701v1,Minimality Notions via Factorization Systems and Examples,"The tree unravelling of an automaton is an instance of minimization for a non-proper
+factorization system. It remains for future work to relate the eﬃcient algorithmic approaches to the mini-
+mization tasks: reachability is computed by breadth-ﬁrst search [WMKD19, BKR19] and
+observability is computed by partition reﬁnement algorithms [KK14, WDMS20, DMSW17]. Even though their run-time complexity diﬀers – reachability is usually linear, whereas
+partition reﬁnement algorithms are quasilinear or slower – they have striking similarities. ",cs.FL,C,0.17751497,0.46002665,-0.20275265
+http://arxiv.org/pdf/2202.05701v2,Minimality Notions via Factorization Systems and Examples,"The tree unravelling of an automaton is an instance of minimization for a non-proper
+factorization system. It remains for future work to relate the eﬃcient algorithmic approaches to the mini-
+mization tasks: reachability is computed by breadth-ﬁrst search [WMKD19, BKR19] and
+observability is computed by partition reﬁnement algorithms [KK14, WDMS20, DMSW17]. Even though their run-time complexity diﬀers – reachability is usually linear, whereas
+partition reﬁnement algorithms are quasilinear or slower – they have striking similarities. ",cs.FL,C,0.17751497,0.46002665,-0.20275265
+http://arxiv.org/pdf/2202.05701v3,Minimality Notions via Factorization Systems and Examples,"The tree unravelling of an automaton is an instance of minimization for a non-proper
+factorization system. It remains for future work to relate the eﬃcient algorithmic approaches to the mini-
+mization tasks: reachability is computed by breadth-ﬁrst search [WMKD19, BKR19] and
+observability is computed by partition reﬁnement algorithms [KK14, WDMS20, DMSW17]. Even though their run-time complexity diﬀers – reachability is usually linear, whereas
+partition reﬁnement algorithms are quasilinear or slower – they have striking similarities. ",cs.FL,C,0.17751497,0.46002665,-0.20275265
+http://arxiv.org/pdf/2203.03404v1,Weakness Makes Muller Delay Games Hard,"Thus,
+the succinctness of weak Muller conditions (encoded by formulas) yields an exponential
+increase in comparison to both safety and parity conditions. There are two immediate directions for further research: Try to lift our results to (strong)
+Muller conditions and to strengthen the lower bounds by proving them for less succinct
+representations of F.
+
+   Recall that our lower bounds for weak Muller conditions rely on gadgets comparing n-bit
+strings for some ﬁxed n. This is possible for a ﬁxed number of comparisons by having one
+gadget for each string to be compared and then using the formula deﬁning F to implement
+the actual comparison. A natural way to lift, say the bad j-pair lower bound game is to just
+play this game inﬁnitely often. ",cs.FL,B,0.011914004,-0.070451364,0.5154446
+http://arxiv.org/pdf/2203.03404v2,Weak Muller Conditions Make Delay Games Hard,"Thus, the succinctness of weak Muller
+conditions (encoded by formulas) yields an exponential increase in comparison to both safety and parity
+conditions. There are two immediate directions for further research: Try to lift our results to (standard) Muller
+conditions and to strengthen the lower bounds by proving them for less succinct representations of F.
+
+   Recall that our lower bounds for weak Muller conditions rely on gadgets comparing n-bit strings for
+some ﬁxed n. This is possible for a ﬁxed number of comparisons by having one gadget for each string
+to be compared and then using the formula deﬁning F to implement the actual comparison. A natural
+way to lift, say, the bad j-pair lower bound game is to just play this game inﬁnitely often. ",cs.FL,B_centroid,0.012989299,-0.059995443,0.51334226
+http://arxiv.org/pdf/2203.03943v1,mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity,"While we suppose one approach could be used to derive
+the result obtained by the other, we do believe the originality of our pioneering ICC-based
+approach may inspire new and original directions in static program analysis. 6 Conclusion: limitations, strengths and future work
+
+This work attempts to illustrate the usefulness and applicability of ICC results, but also the
+need to reﬁne and adapt them. We showed that the mwp-ﬂow analysis as originally described
+cannot scale to programs in a real programming language: while the considered analysis
+is deﬁnitely powerful and elegant, its mathematical nature let some costly operations go
+unchecked. ",cs.FL,B,-0.07194361,0.018006561,0.12683068
+http://arxiv.org/pdf/2203.10193v1,Between SC and LOGDCFL: Families of Languages Accepted by Logarithmic-Space Deterministic Auxiliary Depth-k Storage Automata,"Since we have discussed in this work
+       no closure property of kSDA. We expect that a further study on closure properties will reveal a
+       diﬀerent feature of kSDA. 5. ",cs.FL,A,0.007573342,-0.30304468,0.13312533
+http://arxiv.org/pdf/2203.13173v1,Zone extrapolations in parametric timed automata,"Considering the diﬃculty of pa-
+rameter synthesis for timed models, we consider it a non-trivial and promising
+step. 7.2 Future works
+
+We now discuss future works. A main limitation of our implementation in IMITATOR (discussed in Sec-
+
+tion 6) is that it only handles convex parametric zones. ",cs.FL,A,-0.26999867,-0.18786845,-0.04790277
+http://arxiv.org/pdf/2203.13247v1,Exemplifying parametric timed specifications over signals with bounded behavior,"A more eﬃcient way
+of handling these issues could be to only add the clock when reconstructing the
+symbolic run. This is future work. C.2 Reconstructing predecessors
+
+Algorithm 6 computes a predecessor, and simply computes a discrete predeces-
+sor: by ﬁrst ﬁring backwards the transition (line 1) using the dedicated function
+exhibitPredDisc, and second by canceling time elapsing, i. e., computing a val-
+uation from which another transition can be ﬁred backwards (line 2) using the
+dedicated function exhibitPredCont. ",cs.FL,A,-0.090287335,0.105509706,0.10680626
+http://arxiv.org/pdf/2203.14614v3,Sublinear-Time Probabilistic Cellular Automata,"LLT∪∩ is properly contained in LTT. Some relations between the classes are still open (see Figure 4) and are left as a topic for
+future work. Proof. ",cs.FL,A,-0.09931637,-0.28016728,0.12993073
+http://arxiv.org/pdf/2204.01603v1,Looking for winning strategies in two-player games on Petri nets with partial observability,"This makes our model suitable to represent distributed system, where different
+components may be physically distant from each other. In future works we plan to exploit even more
+the concurrent structure of the net, by looking for strategies directly on the unfolding. In Sec. ",cs.FL,A,-0.40961242,-0.15606427,-0.19690298
+http://arxiv.org/pdf/2204.06736v1,On the Expressive Power of the Normal Form for Branching-Time Temporal Logics,"In §7 we give an example of the syntactical
+representation of a small Bu¨chi tree automaton in BNF. Finally, in §8, we provide concluding remarks
+and discuss future work. 2 Tree Structure Notation
+
+In this section we introduce main concepts of tree structures that are needed for the deﬁnition of Bu¨chi
+Automata and BNF. ",cs.FL,C,0.2535013,0.0061673727,-0.071901
+http://arxiv.org/pdf/2204.12368v1,Coalgebraic Partition Refinement For All Functors,"In particular, the algorithm can compute monotone bisimilarity in monotone
+    neighbourhood frames. It remains for future work to turn our model implementation into
+    full tool and to also implement and evaluate more complicated functors such as that for
+    monotone neighbourhood frames. Along the theoretical axis, the limit of supported system equivalence notions needs to be
+    pushed further. ",cs.FL,A_centroid,-0.16309851,0.06640471,-0.0230681
+http://arxiv.org/pdf/2204.12368v2,Coalgebraic Partition Refinement For All Functors,"Coalgebraically, this corresponds to changing the base category of the
+    functor from Set to, for example, the Eilenberg-Moore [32] or Kleisli [15] category of a
+    monad. It remains for future work, to adapt the reﬁnement algorithm ideas directly to
+    system equivalences beyond coalgebraic semantics. Up-to techniques provide another successful line of research for deciding bisimilarity. ",cs.FL,A,-0.08468532,0.13187078,0.054542057
+http://arxiv.org/pdf/2204.12368v3,Fast Coalgebraic Bisimilarity Minimization,"Section 6: Benchmark results showing our algorithm outperforms earlier work. Section 7: Conclusion and future work. 2 FAST COALGEBRAIC BISIMILARITY MINIMIZATION IN A NUTSHELL
+
+This section presents the key ideas of our fast coalgebraic minimization algorithm. ",cs.FL,B,-0.26690245,0.42660528,0.17056528
+http://arxiv.org/pdf/2204.14153v1,Guarded Kleene Algebra with Tests: Automata Learning,"Not all classes admit a canonical minimal acceptor, for instance, learning non-deterministic
+models is a challenge [9,6,41,40]. 9 Discussion and future work
+
+We have presented GL∗, an algorithm for learning the GKAT automaton representation of a black-box, by
+observing its behaviour via queries to an oracle. We have shown that for every normal GKAT automaton
+there exists a unique size-minimal normal automaton, accepting the same language: its minimization. ",cs.FL,C_centroid,0.27242154,0.10125901,-0.4232877
+http://arxiv.org/pdf/2204.14153v2,Guarded Kleene Algebra with Tests: Automata Learning,"Not all classes admit
+a canonical minimal acceptor, for instance, learning non-deterministic models is a challenge [10,6,44,43]. 9 Discussion and future work
+
+We have presented GL∗, an algorithm for learning the GKAT automaton representation of a black-box, by
+observing its behaviour via queries to an oracle. We have shown that for every normal GKAT automaton
+there exists a unique size-minimal normal automaton, accepting the same language: its minimization. ",cs.FL,C,0.2705029,0.100436285,-0.42380142
+http://arxiv.org/pdf/2204.14153v3,Guarded Kleene Algebra with Tests: Automata Learning,"Not all classes admit
+a canonical minimal acceptor, for instance, learning non-deterministic models is a challenge [9,5,39,38]. 9 Discussion and future work
+
+We have presented GL∗, an algorithm for learning the GKAT automaton representation of a black-box, by
+observing its behaviour via queries to an oracle. We have shown that for every normal GKAT automaton
+there exists a unique size-minimal normal automaton, accepting the same language: its minimization. ",cs.FL,C,0.2719837,0.099118836,-0.4239648
+http://arxiv.org/pdf/2205.01952v1,A Generic Solution to Register-bounded Synthesis with an Application to Discrete Orders,"A simple complexity analysis (Remark 18)
+yields a doubly exponential decision procedure for register-bounded synthesis over these
+domains. Systematising this complexity analysis calls for a notion of polynomial reduction
+between data domains, that we leave for future work. There are other challenging future research directions: ﬁrst, universal automata, as argued
+in the introduction, are well suited for synthesis, and have been show in the register-free
+setting to be amenable to synthesis procedures which are feasible in practice [26, 31, 17, 4]. ",cs.FL,A,0.010622795,0.05383148,0.010118781
+http://arxiv.org/pdf/2205.04600v1,Parsing Expression GLL,"In addition to supporting the fundamental ordered-choice
+and lookahead operators of PEG, PEGLL also includes support for repetition
+operators as syntactic sugar, and also for CFG-style unordered choice using a
+duplication approach to track whether any of the unordered alternates have
+matched. An Apache-licenced implementation of PEGLL is available on GitHub1; this
+implementation passes the research team’s internal correctness tests, but perfor-
+mance testing is left to future work. In addition to measuring and optimizing
+the performance of the PEGLL algorithm, a straightforward piece of future
+work would be to expand the expressivity of PEGLL’s operator set; parenthe-
+sized subexpressions would be a natural expansion, as would more variants on
+the repetition operators – in particular, non-greedy variants could be imple-
+mented by using unordered choice instead of ordered choice in the generated
+nonterminals. ",cs.FL,A,0.014066311,0.22729814,0.24175271
+http://arxiv.org/pdf/2205.04600v2,Parsing Expression GLL,"In addition to supporting the fundamental ordered-choice
+and lookahead operators of PEG, PEGLL also includes support for repetition
+operators as syntactic sugar, and also for CFG-style unordered choice using a
+duplication approach to track whether any of the unordered alternates have
+matched. An Apache-licenced implementation of PEGLL is available on GitHub1; this
+implementation passes the research team’s internal correctness tests, but perfor-
+mance testing is left to future work. In addition to measuring and optimizing
+the performance of the PEGLL algorithm, a straightforward piece of future
+work would be to expand the expressivity of PEGLL’s operator set; parenthe-
+sized subexpressions would be a natural expansion, as would more variants on
+the repetition operators – in particular, non-greedy variants could be imple-
+mented by using unordered choice instead of ordered choice in the generated
+nonterminals. ",cs.FL,A,0.014066311,0.22729814,0.24175271
+http://arxiv.org/pdf/2205.07480v1,Formal Analysis of FreeRTOS Scheduler on ARM Cortex-M4 Cores,"fects the FreeRTOS scheduler. Another future work is to
+                                                                        model the ofﬁcial distribution of FreeRTOS symmetric multi-
+   As for other veriﬁed real-time kernels, de Oliveira et al. [16]      processing [27] and consider the effect of memory model. ",cs.FL,A,-0.55362344,-0.29531264,-0.13395888
+http://arxiv.org/pdf/2205.07480v2,Analyzing FreeRTOS Scheduling Behaviors with the Spin Model Checker,"fects the FreeRTOS scheduler. Another future work is to
+                                                                        model the ofﬁcial distribution of FreeRTOS symmetric multi-
+   As for other veriﬁed real-time kernels, de Oliveira et al. [16]      processing [27] and consider the effect of memory model. ",cs.FL,A,-0.55362344,-0.29531264,-0.13395888
+http://arxiv.org/pdf/2205.12823v1,Real-time Visualization of Stream-based Monitoring Data,"We believe that our “monitoring-
+oriented” visualization approach provides a signiﬁcant step towards meaningful
+visualizations that exploit the wealth of information available within the moni-
+tor. In future work, it might even be possible to integrate explicit visualization
+operators into monitoring languages like RTLola, and thus largely automate
+the visualization process presented in this paper. Real-time Visualization of Stream-based Monitoring Data      9
+
+References
+
+1. ",cs.FL,A,-0.344949,-0.107784,-0.075170375
+http://arxiv.org/pdf/2206.01398v1,A closer look at TDFA,"Multi-pass TDFA are better suited to JIT determinization than TDFA with register actions. 7 Future work
+
+    One very useful direction of future work is to ﬁnd deterministic points in a RE. Often shifting a tag by a ﬁxed
+number of characters in a concatenation subexpression can reduce its degree of nondeterminism (the maximum
+number of registers in a single TDFA state needed to track all parallel versions of the same tag). ",cs.FL,A,-0.12733588,-0.10844478,0.10700054
+http://arxiv.org/pdf/2206.05100v1,State complexity of the star of a Boolean operation,"The alphabetic simplicity
+is not necessarily a constant but depends on state complexities of the input languages. Although
+in his thesis, Edwin Hamel-de-le Court [17] has shown that, alphabetic simplicity for star of
+symmetrical diﬀerence is bounded by 17, we prefer to defer this study to a future work in which
+we will develop diﬀerent tools and concepts related to the notion of alphabetic simplicity. We have investigated the computation of state complexity with respect to complete determin-
+istic automata. ",cs.FL,C,0.24912262,0.076340914,0.019088063
+http://arxiv.org/pdf/2206.06594v1,Computing Real Numbers with Large-Population Protocols Having a Continuum of Equilibria,"If an input CRN converges exponentially fast to a number α, we
+
+desire the translated LPP also converges (exponentially) fast. We would need a
+
+thorough stochastic analysis along this line in future work. The deﬁnition of GPAC/CRN-computable numbers and LPP-computable
+
+numbers have a major diﬀerence: We can trace a real number by a set of
+
+variables in an LPP, rather than one, as in a GPAC/CRN. ",cs.FL,B,-0.20718816,-0.021657053,0.13738151
+http://arxiv.org/pdf/2206.06722v1,Specification sketching for Linear Temporal Logic,"Our experimental evaluation has shown that
+our algorithms can eﬀectively complete sketches consisting of diﬀerent types of
+missing information. A natural direction for future work is to lift the idea of speciﬁcation sketching
+to other speciﬁcation languages, such as Signal Temporal Logic (STL) [26], the
+Property Speciﬁcation Language (PSL) [12], or Computation Tree Logic (CTL) [8]. We also plan to investigate how speciﬁcation sketching can be applied to visual
+speciﬁcations, including UML (high-level) message sequence charts [17]. ",cs.FL,A,-0.14632307,0.010174238,-0.08247837
+http://arxiv.org/pdf/2206.09619v1,Analyzing Büchi Automata with Graph Neural Networks,"In particular, it is noteworthy that the prediction was also success-
+ful when the test automata were signiﬁcantly larger than the automata used for training,
+demonstrating a strong generalization capability of the proposed GNN-based approach. There are several promising lines of research for future work. First with respect to
+the GNN architecture. ",cs.FL,C,0.08021702,0.0022006445,-0.31129718
+http://arxiv.org/pdf/2206.13739v1,Divide-and-Conquer Determinization of Büchi Automata based on SCC Decomposition,"For complementing NACs, we just adapt the
+slice-based complementation [21] of general NBAs. We leave the details of this
+divide-and-conquer complementation construction for NBAs as future work. Acknowledgements. ",cs.FL,A,-0.06195458,-0.09472807,0.08395829
+http://arxiv.org/pdf/2207.00526v1,Regular Monoidal Languages,"The
+construction above then gives the obvious transition functions required for each generator. 8 Conclusion and future work
+
+The most immediate open question is to determine necessary and sufficient conditions for
+determinizability: causal closure is a promising candidate. Furthermore we would like to
+understand the relation between convexity and Theorem 59. ",cs.FL,B,-0.10898616,-0.36997858,0.17739479
+http://arxiv.org/pdf/2207.01870v1,Timed Alignments,"Hence
+       • −→ −→            −→ −→          −→ −→                        it can be solved in polynomial average running time, but
+                                                                      this approach does have theoretically exponential worst time
+                   [0,1]          [2,2]          [1,1]                complexity. This bound is not necessarily tight, but either
+                                                                      improving it or proving its tightness are left for future work. Now for this N , let the observed trace σ = (3, 4, 5) ∈ L(N ). ",cs.FL,B,-0.05527443,0.16197863,0.34732443
+http://arxiv.org/pdf/2207.04885v1,Global Cellular Automata GCA -- A Massively Parallel Computing Model,"We distinguish three types. The properties of these model types
+is a subject of further research. • With simple control. ",cs.FL,A,-0.24540475,-0.30562025,-0.14808226
+http://arxiv.org/pdf/2207.05495v1,An Improved Algorithm for Finding the Shortest Synchronizing Words,"It can also be adapted to, e.g, non-careful settings [6],
+mortal words [32], or subset synchronization [46]. For future work, we plan to use this new algorithmic tool to perform more extensive
+experiments concerning reset thresholds, especially with larger automata and with a larger
+alphabet. Finally, it can be used to experimentally verify or extend the current veriﬁcation
+range of certain conjectures. ",cs.FL,C,0.16634376,0.07212317,0.10733558
+http://arxiv.org/pdf/2207.07694v1,Parikh Automata over Infinite Words,"However, let us mention that the lack of closure properties severely
+limits to chances for a natural fragment of MSO being equivalent to Parikh automata on inﬁnite words. Let us conclude with the following problem for further research: If a Parikh automaton with, say safety
+acceptance, accepts an ω-regular language, is there then an equivalent safety automaton? Stated diﬀerently,
+does Parikhness allow to accept more ω-regular languages? ",cs.FL,C,0.5568067,-0.41828012,0.011669449
+http://arxiv.org/pdf/2207.07694v2,Parikh Automata over Infinite Words,"However, let us mention that the lack of closure properties severely
+limits the chances for a natural fragment of MSO being equivalent to Parikh automata on inﬁnite words. Let us conclude with the following problem for further research: If a Parikh automaton with, say safety
+acceptance, accepts an ω-regular language, is there then an equivalent ω-regular safety automaton? Stated
+diﬀerently, does Parikhness allow to accept more ω-regular languages? ",cs.FL,C,0.5629815,-0.41958937,0.019322101
+http://arxiv.org/pdf/2207.07694v3,Parikh Automata over Infinite Words,"However, let us mention that the lack of closure properties severely
+limits the chances for a natural fragment of MSO being equivalent to Parikh automata on inﬁnite words. Let us conclude with the following problem for further research: If a Parikh automaton with, say safety
+acceptance, accepts an ω-regular language, is there then an equivalent ω-regular safety automaton? Stated
+diﬀerently, does Parikhness allow to accept more ω-regular languages? ",cs.FL,C,0.5629815,-0.41958937,0.019322101
+http://arxiv.org/pdf/2207.10534v1,"Assume, Guarantee or Repair -- A Regular Framework for Non Regular Properties (full version)","This may happen also in the case of semantic repair, in which inﬁnitely many
+new constraints are learned and the repair process does not terminate. As future work,
+we intend to incorporate invariant generation, according to reoccurring error traces, in
+order to help the convergence of the semantic repair process. References
+
+ 1. ",cs.FL,A,0.10014684,-0.07913529,0.08136736
+http://arxiv.org/pdf/2207.11965v1,Machine-checked executable semantics of Stateflow,"The formal semantics can be used as a foundation for proving correctness of model
+transformations from Stateﬂow to other formal models. Hence, for future work, we will
+consider integrating this work into our model-based design framework on modelling,
+veriﬁcation and code generation of embedded systems, from Simulink/Stateﬂow and
+20  S. Yi et al. AADL combined graphical models to HCSP formal models, and to implementations in
+SystemC or other low-level programming languages. ",cs.FL,A,-0.13890836,-0.24016005,-0.30968124
+http://arxiv.org/pdf/2207.13549v1,FORQ-based Language Inclusion Formal Testing,"We  conclude  from  the  above  deﬁnition
+
+          ∼  a                                ∼  ε
+that T˜A = {ε(b)ω, a(b)ω}, hence that T˜A ⊆ L(B) which contradicts (†) since
+
+L(A) L(B). 9 Conclusion and future work
+
+We presented a novel approach to tackle in practice the language inclusion prob-
+lem between Bu¨chi automata. Our antichain heuristics is driven by the notion
+of FORQs that extends the notion of family of right congruences introduced
+in the nineties by Maler and Staiger [29]. ",cs.FL,C,0.36953172,-0.1440689,-0.03163081
+http://arxiv.org/pdf/2207.14108v1,Short Synchronizing Words for Random Automata,"For this class, the constant 1 is indeed sharp. The study of general w-trees is of independent interest and is left as future work (however we believe that
+this will not lead to any improvement on our main results). We conclude the introduction with some perspectives of our work, especially after the introduction of w-
+trees. ",cs.FL,A,-0.0039792247,0.12475568,0.16678677
+http://arxiv.org/pdf/2208.00412v1,Active Learning of One-Clock Timed Automata using Constraint Solving,"This takes advantage of the
+ability of SMT to solve large constraint systems efﬁciently, allowing the algorithm to
+scale up to much larger timed automata models. 16  Runqing Xu, Jie An, and Bohua Zhan
+
+    In future work, we wish to consider extension of the algorithm to learning timed
+automata with multiple clocks as well as the non-determinstic case. We wish to also
+consider incorporating ideas from algorithms such as TTT in order to improve efﬁ-
+ciency, in particular reducing the number of membership queries. ",cs.FL,C,0.11383252,0.14442879,-0.21416685
+http://arxiv.org/pdf/2208.05131v1,Synthesizing Transducers from Complex Specifications,"ASTRA is a more general framework that incorpo-       ducer to work on the given inputs. We leave these directions
+rates new speciﬁcation mechanisms, e.g., input-output types     for future work. and distances, and uses them all together. ",cs.FL,A,-0.36806518,0.028663184,-0.26975673
+http://arxiv.org/pdf/2208.05131v2,Synthesizing Transducers from Complex Specifications,"ASTRA is a more general framework that incorpo-       ducer to work on the given inputs. We leave these directions
+rates new speciﬁcation mechanisms, e.g., input-output types     for future work. and distances, and uses them all together. ",cs.FL,A,-0.36806518,0.028663184,-0.26975673
+http://arxiv.org/pdf/2208.06383v1,Synthesis of Parametric Hybrid Automata from Time Series,"The algorithm is polynomial and scales to
+thousands of data points, but it also works with scarce data. We see several directions for future work. The choice of the discrete structure
+in the ﬁrst phase is important. ",cs.FL,A,-0.2843817,0.3896531,0.095417835
+http://arxiv.org/pdf/2208.08319v1,Active Learning for Deterministic Bottom-up Nominal Tree Automata,"The algorithm can deal with any data symmetry
+that admits least support, not restricted to the equality symmetry and/or the
+total order symmetry. Implementation and possible applications of the proposed learning algorithm
+are left as future work. For implementation, a concrete data structure for support
+representations of orbit ﬁnite sets in an observation table should be determined. ",cs.FL,A,-0.27444568,0.14623317,-0.073380664

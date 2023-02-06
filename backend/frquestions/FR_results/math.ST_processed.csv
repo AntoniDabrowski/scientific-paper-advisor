@@ -1,0 +1,1485 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01074v1,Gaussian Process Regression in the Flat Limit,"11. There are ways of tapering the matched
+approximation to prevent divergence, but we leave the details for future work. Finally, in the introduction we described the ﬂat limit in terms of the family of ﬁts, seen as a
+parametric curve (parameterised by γ). ",math.ST,C,-0.25345194,0.011401663,0.15042788
+http://arxiv.org/pdf/2201.01074v2,Gaussian Process Regression in the Flat Limit,"11. There are ways of tapering the matched
+approximation to prevent divergence, but we leave the details for future work. Finally, in the introduction we described the ﬂat limit in terms of the family of ﬁts, seen as a
+parametric curve (parameterised by γ). ",math.ST,C,-0.25345194,0.011401663,0.15042788
+http://arxiv.org/pdf/2201.04092v1,Topology-based goodness-of-fit tests for sliced spatial data,"We stress that the present work is to be considered only
+as the ﬁrst step towards using the tools from TDA to develop statistical tests for slice-based datasets. We discuss now possible avenues for further research. First, motivated by the shape of the speciﬁc dataset, we established the asymptotic normality for
+domains that are largein the x- and y-direction but are ﬁxed in the z-direction. ",math.ST,B,0.2957734,-0.13918762,-0.026421912
+http://arxiv.org/pdf/2201.04457v1,Half-Trek Criterion for Identifiability of Latent Variable Models,"The question is how to
+identify eﬀects between observed variables in this case, or, even more, what can be
+said in terms of identifying causal eﬀects between latent variables. A diﬀerent task for future work is to derive a non-trivial necessary condition
+for rational identiﬁability in the form of an eﬃcient graphical criterion. A starting
+point would be to study the Jacobian matrix of the parametrization ϕGL in order
+to better understand the dimension of the model. ",math.ST,A,0.12117109,-0.14427829,-0.024485156
+http://arxiv.org/pdf/2201.04457v2,Half-Trek Criterion for Identifiability of Latent Variable Models,"In Lemma 2.5 we gave a simple necessary condition for the parametrization map to be
+generically ﬁnite-to-one. In future work, we hope to obtain more powerful necessary condi-
+tions for generic identiﬁability in the form of efﬁcient graphical criteria. This will amount to
+studying the Jacobian matrix of the parametrization ϕGL , taking into account the algebraic
+geometry of the cone of latent covariance matrices. ",math.ST,A,-0.020350387,-0.066472396,-0.06931703
+http://arxiv.org/pdf/2201.06169v1,On Well-posedness and Minimax Optimal Rates of Nonparametric Q-function Estimation in Off-policy Evaluation,"(2021). We leave details to future work. 22
+A Notation
+
+Unless speciﬁed, for any transition tuple (S, A, S′), the probability density of (S, A) is ∼ dπb
+and the probability density of S′ given (S, A) is q. ",math.ST,B,-0.053869776,0.0101627465,0.4912085
+http://arxiv.org/pdf/2201.06169v2,On Well-posedness and Minimax Optimal Rates of Nonparametric Q-function Estimation in Off-policy Evaluation,"(2021). We leave details to future work. 22
+A Notation
+
+Unless speciﬁed, for any transition tuple (S, A, S′), the probability density of (S, A) is ∼ dπb
+and the probability density of S′ given (S, A) is q. ",math.ST,B,-0.053869776,0.0101627465,0.4912085
+http://arxiv.org/pdf/2201.06169v3,On Well-posedness and Minimax Optimal Rates of Nonparametric Q-function Estimation in Off-policy Evaluation,"(2021). We leave details to future work. 22
+A Notation
+
+Unless speciﬁed, for any transition tuple (S, A, S′), the probability density of (S, A) is ∼ dπb
+and the probability density of S′ given (S, A) is q. ",math.ST,B,-0.053869776,0.0101627465,0.4912085
+http://arxiv.org/pdf/2201.06277v1,Risk bounds for PU learning under Selected At Random assumption,"As a future perspective, it would be interesting to study how some assumptions made
+on the propensity could be relaxed. In particular, future work could assess whether or not
+the theoretical guaranties proved in this paper still hold when the propensity is estimated. Likewise, we may wonder if these results could be extended if the lower bound on the
+propensity only holds with high probability. ",math.ST,A,0.11969356,-0.048758395,0.21532498
+http://arxiv.org/pdf/2201.07329v1,On the minimax rate of the Gaussian sequence model under bounded convex constraints,"It will be interesting if this connection is studied more closely — in
+particular if there exist suﬃcient conditions for K under which the two estimators are suﬃciently
+close. Furthermore, throughout the paper we assumed that the model is well-speciﬁed, i.e., that
+µ ∈ K. In future work we would like to see whether the techniques proposed here can capture the
+misspeciﬁed case. Finally an exciting question that remains is whether knowledge of σ2 is necessary
+for the unbounded sets case. ",math.ST,C,-0.19113481,0.036055766,-0.017880648
+http://arxiv.org/pdf/2201.07329v2,On the minimax rate of the Gaussian sequence model under bounded convex constraints,"It will be interesting if this connection is studied more closely — in
+particular if there exist suﬃcient conditions for K under which the two estimators are suﬃciently
+close. Furthermore, throughout the paper we assumed that the model is well-speciﬁed, i.e., that
+µ ∈ K. In future work we would like to see whether the techniques proposed here can capture the
+misspeciﬁed case. Finally an exciting question that remains is whether knowledge of σ2 is necessary
+for the unbounded sets case. ",math.ST,C,-0.19113481,0.036055766,-0.017880648
+http://arxiv.org/pdf/2201.07329v3,On the minimax rate of the Gaussian sequence model under bounded convex constraints,"It will be interesting if this connection is studied more closely — in
+
+                                                               22
+particular if there exist suﬃcient conditions for K under which the two estimators are suﬃciently
+close. Furthermore, throughout the paper we assumed that the model is well-speciﬁed, i.e., that
+µ ∈ K. In future work we would like to see whether the techniques proposed here can capture the
+misspeciﬁed case. Finally an exciting question that remains is whether knowledge of σ2 is necessary
+for the unbounded sets case. ",math.ST,C,-0.19032708,0.026503567,-0.01975748
+http://arxiv.org/pdf/2201.07329v4,On the minimax rate of the Gaussian sequence model under bounded convex constraints,"It will be interesting if this connection is studied more closely — in
+particular if there exist suﬃcient conditions for K under which the two estimators are suﬃciently
+close. Furthermore, throughout the paper we assumed that the model is well-speciﬁed, i.e., that
+µ ∈ K. In future work we would like to see whether the techniques proposed here can capture the
+misspeciﬁed case. Another interesting open question is whether one can borrow ideas from this
+analysis to study the minimax risk under diﬀerent loss functions, such as ℓp norms e.g. ",math.ST,C_centroid,-0.3662005,-0.074072614,-0.17801422
+http://arxiv.org/pdf/2201.07329v5,On the minimax rate of the Gaussian sequence model under bounded convex constraints,"It will be interesting if this connection is studied more closely — in
+particular if there exist suﬃcient conditions for K under which the two estimators are suﬃciently
+close. Furthermore, throughout the paper we assumed that the model is well-speciﬁed, i.e., that
+µ ∈ K. In future work we would like to see whether the techniques proposed here can capture the
+misspeciﬁed case. Another interesting open question is whether one can borrow ideas from this
+analysis to study the minimax risk under diﬀerent loss functions, such as ℓp norms e.g. ",math.ST,C,-0.3662005,-0.074072614,-0.17801422
+http://arxiv.org/pdf/2201.07401v1,Multiway Spherical Clustering via Degree-Corrected Tensor Block Models,"Nevertheless, our bound (14) is already tighter than the pervious work (Ke et al., 2019). The
+investigation of the gap between upper bound p− K/2 and the lower bound p−K/2 for Bernoulli
+tensors will be left as future work. Extension for general dTBMs. ",math.ST,C,-0.1954966,0.13058986,-0.10458514
+http://arxiv.org/pdf/2201.07543v1,Error analysis for a statistical finite element method,"For ν = 1/2 and ν = 3/2 the
+convergence rate of the statFEM appears to be slightly faster than we have been able to prove (for ν = 7/2,
+
+  = 1, and σ2 = 100 it may be that nFE and n are not sufﬁciently large for the correct convergence rate
+to manifest). It is clear that analysis of the effect of estimation of the hyperparameters σ and should be
+included in any future work. = 1/2 — σ2 = 120
+
+        ν = 1/2 — nFE = 2048               ν = 3/2 — nFE = 2048          ν = 5/2 — nFE = 2048           ν = 7/2 — nFE = 2048
+
+10−1                               10−1                          10−1                          10−1
+
+10−2                               10−2                          10−2
+
+                                                                                               10−2
+
+10−3                               10−3
+
+                                                                 10−3
+
+10−4                               10−4                                                        10−3
+
+    100  101     102  103          100      101     102  103         100  101     102  103     100   101        102  103
+
+              n                                  n                             n                             n
+
+10−1 ν = 1/2  — nFE = 4096         10−1 ν = 3/2  — nFE = 4096    10−1 ν = 5/2  — nFE = 4096    10−1 ν = 7/2  — nFE = 4096
+
+10−2          StatFEM L2-error     10−2                          10−2
+               Mate´rn L2-error
+              Theoretical L2-rate
+
+                                                                                               10−2
+
+10−3                               10−3
+
+                                                                 10−3
+
+10−4                               10−4                                                        10−3
+
+    100  101  102     103          100      101  102     103         100  101  102     103     100   101     102     103
+
+              n                                  n                             n                             n
+
+                                                         = 1 — σ2 = 100
+
+        ν = 1/2 — nFE = 2048       10−1 ν = 3/2  — nFE = 2048            ν = 5/2 — nFE = 2048           ν = 7/2 — nFE = 2048
+
+10−1                                                             10−1                          10−1
+
+10−2                               10−2                          10−2
+10−3                               10−3
+                                                                                               10−2
+
+10−4100  101     102  103          100      101     102  103     10−3100  101     102  103     100   101        102  103
+
+              n                                  n                             n                             n
+
+10−1 ν = 1/2  — nFE = 4096         10−1 ν = 3/2  — nFE = 4096    10−1 ν = 5/2  — nFE = 4096    10−1 ν = 7/2  — nFE = 4096
+
+10−2          StatFEM L2-error     10−2
+               Mate´rn L2-error
+              Theoretical L2-rate
+
+                                                                 10−2
+
+10−3                               10−3                                                        10−2
+
+10−4                               10−4                          10−3
+
+    100  101  102     103              100  101  102     103         100  101  102     103     100   101     102     103
+
+              n                                  n                             n                             n
+
+Figure 4: L2-approximation errors predicted by Theorem 4.4 (where it is assumed that the second term is
+negligible) and their empirical approximations over 100 noise realisations for the Poisson’s equation (5.1)
+with the true source term (5.2). ",math.ST,C,0.0100430325,0.04972084,-0.007139128
+http://arxiv.org/pdf/2201.08349v1,Heavy-tailed Sampling via Transformed Unadjusted Langevin Algorithm,"Remark 4. We leave a detailed study of obtaining convergence results for the underdamped
+Langevin dynamics and its discretization as future work. 5. ",math.ST,C,-0.25455528,-0.23070258,0.10336011
+http://arxiv.org/pdf/2201.08518v1,Optimal variance-reduced stochastic approximation in Banach spaces,"While we
+are providing more instance-dependent guarantees, their results apply to Markov decision
+processes with actions. It is therefore an important direction of future work to extend our
+instance-dependent bounds to the case of average-cost MDPs. 5 Proofs
+
+This section is devoted to the proofs of our main results—namely, Theorems 1, 2 and 3—along
+with the associated corollaries. ",math.ST,B,-0.15253079,0.20544651,0.04691627
+http://arxiv.org/pdf/2201.08518v2,Optimal variance-reduced stochastic approximation in Banach spaces,"In Appendix G.1, we show that the
+
+Bellman operator associated with the optimal value estimation problem of an MDP in the
+
+discounted setting satisﬁes the local linearity assumption (A4). Consequently, an argument
+similar to Corollary 4 yields an upper bound on the estimation error θn −θ∗ ∞ which matches
+the instance dependent lower bound (up to logarithmic terms) from the paper [Kha+21] for
+large n.5 Finally, it is an important direction of future work to investigate whether the local
+
+linearity assumption (A4) holds when |U2| > 1. E Some Concentration Inequalities in Banach Spaces
+
+Our analysis makes use of some concentration inequalities for Banach-space-valued random
+variables, which we state and prove here. ",math.ST,C,-0.37132362,0.12502797,-0.03792587
+http://arxiv.org/pdf/2201.09040v1,Optimal Estimation and Computational Limit of Low-rank Gaussian Mixtures,"It therefore indicates another possibility: there
+might exist some method that can reliably estimate the multiple low-rank components without the
+prerequisite of meaningful clustering. We leave this for future works. 18
+References
+
+https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS1083. ",math.ST,B,0.2174227,-0.056957837,-0.369659
+http://arxiv.org/pdf/2201.09200v1,Asymptotics for Outlier Hypothesis Testing,paper. Such investigations will be pursued in future work. C. Large Deviations                                                                           IV. ,math.ST,A,0.19726288,-0.08044478,0.33285612
+http://arxiv.org/pdf/2201.09200v2,Asymptotics for Outlier Hypothesis Testing,"characterize the exponent tradeoff of all three kinds of error
+                                                                    probabilities, beyond the degenerate “corner-point” case in this
+C. Large Deviations                                                 paper. Such investigations will be pursued in future work. We next characterize the tradeoff between the false reject                                 IV. ",math.ST,C,-0.12339985,0.08521468,0.25076663
+http://arxiv.org/pdf/2201.09200v3,Asymptotics for Outlier Hypothesis Testing,"It would be worthwhile to investigate tests that can fully
+                                                                                  characterize the exponent tradeoff of all three kinds of error
+                                                                                  probabilities, beyond the degenerate “corner-point” case in
+                                                                                  this paper. Such investigations will be pursued in future work. then for any tuple of nominal and anomalous distributions                                                   IV. ",math.ST,C,0.015254261,-0.07163087,0.24038145
+http://arxiv.org/pdf/2201.12500v1,Analysis of two-component Gibbs samplers using the theory of two projections,"See Section 11 of B¨ottcher and
+Spitkovsky (2010) for a review. Whether it is possible to extend results in this work to the
+n ≥ 3 case is a subject for future work. See Greenwood et al. ",math.ST,A,0.18324888,0.33652973,0.066865034
+http://arxiv.org/pdf/2201.12500v2,Analysis of two-component Gibbs samplers using the theory of two projections,"See Section 11 of B¨ottcher and
+Spitkovsky (2010) for a review. Whether it is possible to extend results in this work to the
+n ≥ 3 case is a subject for future work. See Greenwood et al. ",math.ST,A,0.18324888,0.33652973,0.066865034
+http://arxiv.org/pdf/2201.12500v3,Analysis of two-component Gibbs samplers using the theory of two projections,"See Section 11 of B¨ottcher and Spitkovsky (2010) for a review. Whether
+it is possible to extend results in this work to the n ≥ 3 case is a subject for future work. See
+Greenwood et al. ",math.ST,A,0.18324888,0.33652973,0.066865034
+http://arxiv.org/pdf/2201.12537v1,"Weighted residual empirical processes, martingale transformations and model checking for regressions","Thus we conjecture that the classic residual bootstrap is still valid when
+the dimension of the parameter vector diverges. This is beyond the scope of this paper and
+deserves further research. 22
+Table 1: Empirical sizes and powers of T CvMnd and T CvMn for H11 with diﬀerent bandwidths. ",math.ST,C,-0.08856175,0.017843455,-0.15697339
+http://arxiv.org/pdf/2202.00488v1,Cross Validation for Rare Events,"2013, where the variance of the K-fold CV is shown to be K-times smaller than
+that of the empirical risk. A lead for further research would be to consider such wider classes
+of algorithms, for which various stability hypotheses replace advantageously the assumption
+of ﬁnite VC dimension (see e.g. Kearns and Ron 1999; Bousquet and Elisseeﬀ 2001, 2002). ",math.ST,B,0.01355963,-0.01880069,-0.24707305
+http://arxiv.org/pdf/2202.00629v1,Bayesian inference and prediction for mean-mixtures of normal distributions,"Example 3.3. It is interesting to further study the above posterior distributions for the particular
+cases where the mixing density (i.e., V or K) of the MMN model is of the form
+
+                                        g(k) ∝ e−c1k2/2−c2k I(0,∞)(k),                         (3.22)
+
+with c1 > 0, c2 ∈ R or c1 = 0, c2 > 0. Several of these distributions were presented in Example 2.1,
+but we recall that the cases c1 > 0 for instance, which correspond to truncated normal distributions
+on (0, ∞), lead to skew-normal densities (2.4) for c2 = 0. ",math.ST,C,-0.15731332,-0.28689045,0.22511177
+http://arxiv.org/pdf/2202.01250v1,Catoni-style confidence sequences for heavy-tailed mean estimation,"[2021] only considers bounded rewards, our work provides the
+theoretical tools to handle a far wider range of instances. Besides the issue of drifting means we mentioned in Section 8.2, we also expect future work
+to address the problem of multivariate and potentially high-dimensional data, and continuous-
+time processes. The online algorithm for approaching the Catoni-style interval (32) can also
+be studied. ",math.ST,B,0.12859038,-0.03738578,-0.093661934
+http://arxiv.org/pdf/2202.01250v2,Catoni-style confidence sequences for heavy-tailed mean estimation,"[2021] only considers bounded rewards, our work provides the theoretical tools to handle
+a far wider range of instances. Besides the issue of drifting means we mentioned in Section 8.2, we also expect future work
+to address the problem of multivariate and potentially high-dimensional data, and continuous-
+time processes. The online algorithm for approaching the Catoni-style interval (32) can also
+be studied. ",math.ST,B,0.12859038,-0.03738578,-0.093661934
+http://arxiv.org/pdf/2202.01250v3,Catoni-style confidence sequences for heavy-tailed mean estimation,"[2021] only considers bounded rewards, our work provides the theoretical tools to handle
+a far wider range of instances. Besides the issues of drifting means we mentioned in Section 9.4, the search for an all-
+encompassing LIL lower bound we mentioned in Section 7, we also expect future work to address
+the problem of multivariate or matrix extensions. The study by Catoni and Giulini [2017], we
+speculate, can be a starting point. ",math.ST,B_centroid,0.0170122,0.017394133,-0.18021256
+http://arxiv.org/pdf/2202.01283v1,Multivariate nonparametric regression by least squares Jacobi polynomials approximations,"The results of these simulations indicate that the proposed estimator is com-
+petitive with some of popular multivariate regression estimators from the literature, such as the smoothing
+kernel estimator, see for example [25]. Finally, we should mention that due to the its fairly heavy computa-
+tional load, the estimator we have proposed in this work is rather adapted for small values of the dimension
+d. Its extension/adaptation to the case of moderate or large values of d, will be the subject of a future work. 22
+                 Kruskal-Wallis, p < 2.2e-16                                            50                                                                                                                                                                                                                                 type
+                                                                                                                                                                                                                                                                                                                                     MCF
+50                                                                                                Kruskal-Wallis, p < 2.2e-16                                                                                                                                                                                                        SUM
+40                                                                                                                                                                                                                                                                                                                                   U937
+30                                                                                      40
+20                                                                                                                                                                                                                                                                                                                   type
+10                                                                                      30                                                                                                                                                                                                                                  MCF
+M5realmV                                            type                                                                                                                                                                                                                                                                    SUM
+                                MCF                                                                                                                                                                                                                                                                                         U937
+                                                                           SUMMCF
+                                                                                                                      U937SUM
+                                                           U937
+                                                                                                                                                   M5imagmV
+                                                                                                                                                                                                                         MCF20
+                                                                                                                                                                                                                                                                    SUM
+                                                                                                                                                                                                                                                                                                               U93710
+
+                                              type                                                                                       type
+                                                                                           Kruskal-Wallis, p < 2.2e-16
+10.0  Kruskal-Wallis, p < 2.2e-16                                              15
+
+7.5
+
+                                                    type
+M1realmV
+                                   MCF                    MCF   10
+                                                                             SUM
+                                                                                                                       U937SUM
+
+                                                                                                                                            M1imagmV5.0U937
+                                                                                                                                                                                                                 MCF
+                                                                                                                                                                                                                                                            SUM5
+                                                                                                                                                                                                                                                                                                      U937
+2.5
+
+                                              type                     type
+
+Figure 1: Boxplot of the four electrical parameters; 5 Mega Hertz and 1 Mega Hertz, real and imaginary. ",math.ST,C,0.18969408,-0.25979096,-0.025453255
+http://arxiv.org/pdf/2202.02464v1,One-Nearest-Neighbor Search is All You Need for Minimax Optimal Regression and Classification,"We also removed the logarithmic factors by the distance-selective aggregation and exhibited some
+level of performance boost in experimental results; it is an open question whether the logarithmic factor is
+fundamental for the vanilla (M, k)-NN rules or can be removed by a tighter analysis. As supported by both
+theoretical guarantees and empirical supports, we believe that the (M, k)-NN rules, especially for k = 1, can
+be widely deployed in practical systems and deserve further study including an optimally weighted version of
+the classiﬁer as studied in (Duan et al., 2020). We conclude with remarks on a seeming connection between the proposed distance-selective aggregation
+and the k-NN based outlier detection methods. ",math.ST,B,0.12237894,0.1049903,-0.28103563
+http://arxiv.org/pdf/2202.02464v2,One-Nearest-Neighbor Search is All You Need for Minimax Optimal Regression and Classification,"We also
+removed the logarithmic factors by the distance-selective aggregation and exhibited some level of performance
+boost in experimental results; it is an open question whether the logarithmic factor is fundamental for the
+vanilla (M, k)-NN rules or can be removed by a tighter analysis. As supported by both theoretical guarantees
+and empirical supports, we believe that the (M, k)-NN rules, especially for k = 1, can be widely deployed
+in practical systems and deserve further study including an optimally weighted version of the classiﬁer as
+studied in (Duan et al., 2020). It would be also interesting if the current divide-and-conquer framework
+can be modiﬁed to be universally consistent for any general metric space, whenever such a consistent rule
+exists (Hanneke et al., 2020; Gy¨orﬁ & Weiss, 2021). ",math.ST,B,0.07297129,0.2304789,-0.16673067
+http://arxiv.org/pdf/2202.02862v1,Asymptotic behavior of the forecast-assimilation process with unstable dynamics,"F, two simple linear models to illus-
+trate the fact that stabilization property of the FA process does not require the observation of all
+degrees of freedom, but only that of the unstable one. In future work, we aim to apply the results
+to realistic models, for example models that cover numerical approximations of geophysical ﬂuid
+dynamics equations. e. Stabilization results in the DA literature. ",math.ST,C,-0.03274999,-0.12756748,0.00412562
+http://arxiv.org/pdf/2202.02890v1,Rates of convergence for nonparametric estimation of singular distributions using generative adversarial networks,"This result would be an important step-stone toward a more advanced theory that can
+take into account fundamental properties of state-of-the-art GANs. We conclude the paper with some
+possible directions for future work. Firstly, reducing the gap between the upper and lower bounds of the convergence rate obtained in
+this paper would be necessary. ",math.ST,C,-0.22239509,0.1353189,-0.045809597
+http://arxiv.org/pdf/2202.04415v1,Towards Empirical Process Theory for Vector-Valued Functions: Metric Entropy of Smooth Function Classes,"Now ﬁnish the proof by taking logarithms of both sides. So for empirical risk minimisation problems with appropriate loss functions, it does make sense to consider the en-
+tropy of vector-valued function classes G, while it remains as future work to investigate the use of the Rademacher
+complexity of G.
+
+                                                                 36 ",math.ST,C,-0.31354448,0.097637735,-0.11139416
+http://arxiv.org/pdf/2202.04415v2,Towards Empirical Process Theory for Vector-Valued Functions: Metric Entropy of Smooth Function Classes,"Now ﬁnish the proof by taking logarithms of both sides. So for empirical risk minimisation problems with appropriate loss functions, it does make sense to consider the en-
+tropy of vector-valued function classes G, while it remains as future work to investigate the use of the Rademacher
+complexity of G.
+
+                                                                 37 ",math.ST,C,-0.32076526,0.09617382,-0.10107992
+http://arxiv.org/pdf/2202.05214v1,Towards a Theory of Non-Log-Concave Sampling: First-Order Stationarity Guarantees for Langevin Monte Carlo,"Although our focus was to work under the minimal assumption of smoothness, surprisingly our analysis
+yielded new results for sampling from targets satisfying a Poincar´e inequality, and moreover our results attain
+state-of-the-art dimension dependence for these settings for LMC. We believe there are many intriguing directions for future work, and we list a few to conclude. 1. ",math.ST,B,-0.14024432,-0.07164917,-0.104754396
+http://arxiv.org/pdf/2202.05823v1,Consistent Bayesian community recovery in multilayer networks,"More-
+over, our analysis is limited to stochastic block models with two communities. Gen-
+eralizing the results for K > 2 communities, with K possibly unknown, is left for
+future work. Another interesting research direction would be to further examine
+community detection in networks that vary over time. ",math.ST,B,0.30692145,-0.119411804,-0.016607184
+http://arxiv.org/pdf/2202.06188v1,Testing the number of common factors by bootstrap in high-dimensional factor models,"When wt1 is close to
+wt2, it’s possible to ﬁnd better limit than λ0 in Lemma 2, by regarding that W has multiple
+eigenvalues. We leave this as future work. 8. ",math.ST,C,-0.14409707,0.19457027,-0.042284302
+http://arxiv.org/pdf/2202.06188v2,Testing the number of common factors by bootstrapped sample covariance matrix in high-dimensional factor models,"It’s also of interest to consider the sample correlation
+matrix instead of covariance matrix after bootstrap using similar techniques in Bao (2019),
+which usually possesses scale invariant property. We leave these as future works. 9. ",math.ST,B,0.11357312,-0.2579084,-0.13732168
+http://arxiv.org/pdf/2202.06400v1,Misspecification Analysis of High-Dimensional Random Effects Models for Estimation of Signal-to-Noise Ratios,"Calculation
+                                                                                                    ε
+and analysis of Taylor expansion of ∗∗(σε2, γ) around (σ02, γ0) is needed, and replacing the
+
+standard Hanson-Wright inequality with the uniform version in the leave-one-out analysis
+
+still requires novel ideas and meticulous analysis. Nevertheless, we leave this asymptotic
+
+analysis of MLE in the case of misspeciﬁcation for future work. Acknowledgment
+
+X. Li and X. Hu are partially supported by the NSF via the Career Award DMS-1848575. ",math.ST,C,-0.29811275,0.15042412,0.060505234
+http://arxiv.org/pdf/2202.06825v1,Robust Estimation of Discrete Distributions under Local Differential Privacy,"It would be interesting to explore if polynomial
+algorithms could achieve the optimal bound without this extra factor. We do not consider the adaptation to
+unknown contamination and leave it for future work. It would also be interesting to explore what happens
+if the contamination occurs before the privacy rather than after, like in Li et al. ",math.ST,B,0.20012975,0.33674055,-0.2376556
+http://arxiv.org/pdf/2202.06825v2,Robust Estimation of Discrete Distributions under Local Differential Privacy,"It would be interesting to explore if polynomial
+algorithms could achieve the optimal bound without this extra factor. We do not consider the adaptation to
+unknown contamination and leave it for future work. It would also be interesting to explore what happens
+if the contamination occurs before the privacy rather than after, like in Li et al. ",math.ST,B,0.20012975,0.33674055,-0.2376556
+http://arxiv.org/pdf/2202.08832v1,Universality of empirical risk minimization,"We assume the activation function σ to be four times diﬀerentiable with bounded derivatives and to
+
+satisfy E[σ′(G)] = 0, E[Gσ′(G)] = 0, for G ∼ N (0, 1). These conditions yield some mathematical simpliﬁ-
+
+cations and we defer relaxing them to future work. Further, we focus on m = m(n), d = d(n) ∈ Z>0, and
+limn→∞ m(n)/d(n) = γ for some ﬁxed γ ∈ (0, ∞). ",math.ST,C,-0.32843536,0.12546521,0.27994594
+http://arxiv.org/pdf/2202.08832v2,Universality of empirical risk minimization,"We assume the activation function σ to be four times diﬀerentiable with bounded derivatives and
+
+to satisfy E[σ (G)] = 0, E[Gσ (G)] = 0, for G ∼ N (0, 1). These conditions yield some mathematical
+simpliﬁcations and we defer relaxing them to future work. Further, we focus on m = m(n), d =
+d(n) ∈ Z>0, and limn→∞ m(n)/d(n) = γ for some ﬁxed γ ∈ (0, ∞). ",math.ST,C,-0.33449736,0.106575444,0.26996484
+http://arxiv.org/pdf/2202.09030v1,Minimax Rate of Distribution Estimation on Unknown Submanifold under Adversarial Losses,"Apart from the Hölder class, some other function spaces, such as Sobolev
+class and reproducing kernel Hilbert space may also be considered for the discriminator
+class when deﬁning the adversarial loss, which we leave for future research. Moreover, the
+rate-optimal procedure developed in this study is mainly for the theoretical purpose of
+proving a minimax upper bound, and a modiﬁcation towards it to make it computationally
+feasible may also be left to our future work. References
+
+Theory of Function Spaces III. ",math.ST,B,-0.20809847,0.17045155,-0.22097895
+http://arxiv.org/pdf/2202.10913v1,Distributed Sparse Multicategory Discriminant Analysis,"It is possible to extend
+                                                                the current framework to deal with heavy-tailed data
+                                                                or data with adversarial contamination. We leave this
+                                                                to future work. In this subsection, we compare the dmSLDA method                References
+with other distributed classiﬁers in the literature. ",math.ST,B,0.091290385,-0.0085590165,-0.22944638
+http://arxiv.org/pdf/2202.12679v1,Shapley effect estimation in reliability-oriented sensitivity analysis with correlated inputs by importance sampling,"Nevertheless, recent
+projection methods, as described in [51] for example, could improve the estimation of the
+target Shapley eﬀects when the dimension increases. Another interesting perspective for future work is to inspect if it is possible to go deeper
+into the theoretical analysis of the inﬂuence of the IS auxiliary distribution on the Pick-Freeze
+estimator done in Subsection 3.3.1. More precisely, one can explore if there is a better IS
+auxiliary distribution than gopt to estimate the target closed Sobol index T-VEu by Pick-
+Freeze, and then improve the corresponding sampling procedure. ",math.ST,C,-0.086119376,-0.0622048,-0.09767844
+http://arxiv.org/pdf/2202.12725v1,An Improvement on the Hotelling $T^2$ Test Using the Ledoit-Wolf Nonlinear Shrinkage Estimator,"In this section, we show performance that is con-
+sistent with average-case dominance over BS96, CQ10, and
+LAPPW20, under the model that the difference in population
+means of the two samples is drawn uniformly from the sphere. 1                                                                           lished by ﬁnding conditions under which (9) and (10) hold,
+
+0.8                                                                         which we intend to investigate in future work. 0.6                                                                                                 ACKNOWLEDGMENTS
+
+0.4                                                                            This work was supported by the United States Air Force
+
+0.2                                                                         Sensors Directorate, AFOSR grant 19RYCOR036, ARO grant
+
+0     10-2  10-1                                                            W911NF-15-1-0479, and the DoD SMART Scholarship SEED
+10-3
+                                                                            grant. ",math.ST,B,0.15964763,0.009205639,-0.10381317
+http://arxiv.org/pdf/2202.12725v2,An Improvement on the Hotelling $T^2$ Test Using the Ledoit-Wolf Nonlinear Shrinkage Estimator,"Although           We conjecture that a more rigorous foundation for this theory
+this estimator is not technically the same as LAPPW20, we          can be established by ﬁnding conditions under which (10) and
+refer to it henceforth as LAPPW20 since we can calculate it        strengthenings of (8) hold, which we intend to investigate in
+and its performance is an upper bound for LAPPW20’s. future work. IV. ",math.ST,C,-0.24292825,0.016631836,-0.006501599
+http://arxiv.org/pdf/2202.13423v1,Strong Consistency for a Class of Adaptive Clustering Procedures,"Hence, our results
+providing strong consistency under an adaptive choice of k according to the elbow
+method, are novel. We believe that it would be interesting to dedicate future work
+to studying strong consistency under an adaptice choice of k according to, say, the
+gap statistic [28] or the silhouette statistic. Another aspect of clustering procedures which is relevant to the present work
+is the notion of stability, which is known, at least at the level of some formal
+similarities, to be closely related to the notion of continuity. ",math.ST,B,0.15654768,0.0460551,-0.14322138
+http://arxiv.org/pdf/2202.14011v1,Classification Under Partial Reject Options,". , N − 1 repre-
+                                                  sent a partial rejection, where some hypotheses are excluded from
+                                                  further analysis. We introduce a general framework of reward functions
+                                                  with a set-valued argument and derive the corresponding optimal Bayes
+                                                  classiﬁers, for a homogeneous block of hypotheses and for when hypo-
+                                                  theses are partitioned into blocks, where ambiguity within and between
+                                                  blocks are of diﬀerent severity. ",math.ST,B,0.014533064,0.1735578,-0.014309768
+http://arxiv.org/pdf/2203.00081v1,Asymptotic Normality of Gini Correlation in High Dimension with Applications to the K-sample Problem,"Only GLP rejects the equality with p-value 0.0389, while the other four methods with large
+p-values support the equality assumption that makes the data mining challenge competition
+valid. 6 Conclusions and future work
+
+The categorical Gini correlation is an alternative to the distance correlation to measure the cor-
+relation between a p-variate numeric variable X and a categorical variable Y . But the Gini one
+has nice presentation and better interpretation. ",math.ST,A,0.3116092,0.03442562,-0.011204325
+http://arxiv.org/pdf/2203.00500v1,Tight bounds for augmented KL divergence in terms of augmented total variation distance,"In particular, they show that given two
+probability measures P, Q on the same Euclidean space such that dT V (P, Q) = δ ≥ 0, then
+
+                           δ+2−γ  γ−2−δ            γ+2−δ  γ+2−δ
+L(δ) = min                        log γ − 2 + δ +         log γ + 2 + δ . γ∈[δ−2,2−δ]  4                       4
+
+We will generalize this value to the augmented counterpart in future work. Acknowledgements
+
+   We would like to thank Insup Lee for inspiring this project and helpful discussions. ",math.ST,C,-0.17852291,0.028929988,0.1189972
+http://arxiv.org/pdf/2203.00837v1,Minimax rates for heterogeneous causal effect estimation,"This quantiﬁes how
+the CATE can be viewed as a regression/functional hybrid. 28
+    There are numerous important avenues left for future work. We detail a few brieﬂy here. ",math.ST,A,0.14850366,-0.054693643,0.13848001
+http://arxiv.org/pdf/2203.01487v1,Logarithmic Voronoi Cells for Gaussian Models,"These include linear
+concentration models such as Gaussian models on undirected graphs as well as Gaussian
+models on DAGs. The spectrahedra we have identiﬁed deserve further study. The case of bivariate correlation models is quite interesting since they provide the ﬁrst small
+instance where logarithmic Voronoi cells need not have to be semi-algebraic. ",math.ST,B,0.2955067,-0.4239068,0.0033221552
+http://arxiv.org/pdf/2203.01487v2,Logarithmic Voronoi Cells for Gaussian Models,"These include linear
+concentration models such as Gaussian models on undirected graphs as well as Gaussian
+models on DAGs. The spectrahedra we have identiﬁed deserve further study. The case of bivariate correlation models is quite interesting since they provide the ﬁrst small
+instance where logarithmic Voronoi cells need not have to be semi-algebraic. ",math.ST,B,0.2955067,-0.4239068,0.0033221552
+http://arxiv.org/pdf/2203.01487v3,Logarithmic Voronoi Cells for Gaussian Models,"These include linear
+concentration models such as Gaussian models on undirected graphs as well as Gaussian
+models on DAGs. The spectrahedra we have identiﬁed deserve further study. The case of bivariate correlation models is quite interesting since they provide the ﬁrst small
+instance where logarithmic Voronoi cells need not have to be semi-algebraic. ",math.ST,B,0.2955067,-0.4239068,0.0033221552
+http://arxiv.org/pdf/2203.01487v4,Logarithmic Voronoi Cells for Gaussian Models,"These include linear
+concentration models such as Gaussian models on undirected graphs as well as Gaussian
+models on DAGs. The spectrahedra we have identiﬁed deserve further study. The case of bivariate correlation models is quite interesting since they provide the ﬁrst small
+instance where logarithmic Voronoi cells need not have to be semi-algebraic. ",math.ST,B,0.2955067,-0.4239068,0.0033221552
+http://arxiv.org/pdf/2203.04154v1,Asymptotic normality in linear regression with approximately sparse structure,"In our paper we
+
+approach the problem following an observation by Gaunt (2013), that the distribution of product of Gaussian
+
+random variables admits a variance-gamma distribution, resulting in a set of attractive properties. In addition
+
+to the 2-norm statistic, we ﬁnd that the obtained results can be easily extended towards alternative forms
+
+of the statistic, e.g., by using a diﬀerent norm, which would reduce the problem to manipulating variance-
+
+gamma distribution, thus suggesting possible further research cases and useful extensions. Additionally, we examine a speciﬁc case of parameter β by considering βj = j−1, j ≥ 1. ",math.ST,C,-0.15625006,-0.25718474,0.16146791
+http://arxiv.org/pdf/2203.04369v1,Element-wise Estimation Error of Generalized Fused Lasso,"We hope and expect
+that our main strategy of “reduction to one piece” can be applied to establish a nonasymp-
+totic elementwise error bound for these more involved settings as well. We leave this for
+future work. 21
+                                            Zhang and Chatterjee
+
+7. ",math.ST,C,-0.11622448,0.26097816,-0.1140047
+http://arxiv.org/pdf/2203.04369v2,Element-wise Estimation Error of Generalized Fused Lasso,"We hope and expect
+that our main strategy of “reduction to one piece” can be applied to establish a nonasymp-
+totic elementwise error bound for these more involved settings as well. We leave this for
+future work. 21
+                                            Zhang and Chatterjee
+
+7. ",math.ST,C,-0.11622448,0.26097816,-0.1140047
+http://arxiv.org/pdf/2203.06221v1,Some Notes on the Similarity of Priority Vectors Derived by the Eigenvalue Method and the Geometric Mean Method,"On the one hand, this restrictiveness limits the practical applica-
+bility of the obtained academic results; on the other, it suggests the that better criteria,
+applicable in more cases, may be determined. The search for such criteria will be the
+subject of further research by the authors. 6. ",math.ST,A,0.30639973,0.24134554,0.11145459
+http://arxiv.org/pdf/2203.06221v2,Some Notes on the Similarity of Priority Vectors Derived by the Eigenvalue Method and the Geometric Mean Method,"This restrictiveness limits the
+practical applicability of the obtained academic results; on the other, it suggests the
+that better criteria, applicable in more cases, may be determined. The search for such
+criteria will be the subject of further research by the authors. Acknowledgements
+
+Jiří Mazurek was supported by the Czech Grant Agency (GACR) no. ",math.ST,A_centroid,0.37607455,0.15533246,0.115788296
+http://arxiv.org/pdf/2203.08505v1,Tail inference using extreme U-statistics,"Since the estimator Un3,∗ is
+also a function of the entire sample, it is an open question whether the estimator
+Un3,∗ is the uniformly minimum variance unbiased estimator (UMVUE) for γ of
+the GP(γ) distribution. Because the family of GP(γ) with γ ∈ R is not in the
+
+exponential class this question is left to further research. Finally, note that a U-statistic may also be calculated based on all exceedances
+
+over a high threshold. ",math.ST,C,-0.13611025,-0.030575775,0.15507603
+http://arxiv.org/pdf/2203.10262v1,Perturbation Analysis of Randomized SVD and its Applications to High-dimensional Statistics,"This approach yields a perturbation expansion for
+Uˆ gW − U that includes auxiliary terms of the form EgX 2→∞ where X ∈ On×k˜ does
+not depend on E, and we leveraged Assumption 2 and Proposition 3.2 to bound these terms. We leave the problem of how to adapt other techniques (such as leave-one-out analysis) to
+control the row-wise ﬂuctuations of Uˆ g for future work. The row-wise ﬂuctuation for Uˆ g in Theorem 3.2 also yields an entrywise concentration
+bound for M˜ − M where M˜ is the low-rank approximation of Mˆ as obtained from Algorithm
+
+1. ",math.ST,C,-0.31806427,0.15945971,-0.21893008
+http://arxiv.org/pdf/2203.10262v2,Perturbation Analysis of Randomized SVD and its Applications to High-dimensional Statistics,"This ap-
+proach yields a perturbation expansion for Uˆ gW − U that includes auxiliary terms of the
+form EgX 2→∞ where X ∈ On×k˜ does not depend on E, and we leveraged Assumption 2
+and Proposition 3.2 to bound these terms. We leave the problem of adapting other techniques
+(such as leave-one-out analysis) to control the row-wise deviation of Uˆ g for future work. The row-wise ﬂuctuation for Uˆ g in Theorem 3.3 also yields an entrywise concentration
+bound for Uˆ gUˆ g Mˆ − M. In particular we have the following result. ",math.ST,C,-0.37673363,0.15953271,0.012824982
+http://arxiv.org/pdf/2203.10405v1,IID Time Series Testing,"4.2. Results and further research. We provide p-values in the four tables on the next
+page. ",math.ST,A,0.20193407,0.07358366,0.15722406
+http://arxiv.org/pdf/2203.12086v4,Pattern recovery by SLOPE,"Similarly as fused LASSO is useful to recover the set {i : βi+1 = βi} (see e.g. [14, 19, 23, 24],
+SLOPE can be useful to identify the set {i : |β|(i) > |β|(i+1)} however recovering this set is
+a perspective for a future work. In Appendix D, based on above numerical experiments, we
+only provide a testing procedure for
+
+               H0 : |{i : |β|(i) > |β|(i+1)}| = 0 vs H1 : |{i : |β|(i) > |β|(i+1)}| ≥ 1. ",math.ST,B,0.12347436,0.14961244,-0.34993902
+http://arxiv.org/pdf/2203.12572v1,Post-selection inference for e-value based confidence intervals,"Consequently, this is a worst
+case scenario where each CI has no probability of covering its respective parameter. Thus, the lack
+of post-selection validity for the CIs provides a challenge to their usage in modern settings where
+the scientist has the computational resources to perform experiments that gather data on a massive
+number of parameters, but ultimately wants to only focus on a small subset of these parameters for
+further analysis or testing. The challenge of this post-selection setting is not just to correct for the
+multiplicity of the parameters, but also to account for the bias introduced by the selection rule. ",math.ST,A,0.43848526,0.11777271,-0.042057365
+http://arxiv.org/pdf/2203.12572v2,Post-selection inference for e-value based confidence intervals,"Consequently, this is a worst
+case scenario where each CI has no probability of covering its respective parameter. Thus, the lack
+of post-selection validity for the CIs provides a challenge to their usage in modern settings where
+the scientist has the computational resources to perform experiments that gather data on a massive
+number of parameters, but ultimately wants to only focus on a small subset of these parameters for
+further analysis or testing. The challenge of this post-selection setting is not just to correct for the
+multiplicity of the parameters, but also to account for the bias introduced by the selection rule. ",math.ST,A,0.43848526,0.11777271,-0.042057365
+http://arxiv.org/pdf/2203.12572v3,Post-selection inference for e-value based confidence intervals,"[21] have shown that e-CIs are nearly
+admissible. Hence, further study of e-CIs would improve the utility of the e-BY procedure. Acknowledgements We would like to thank Umashanthi Pavalanathan and Luke Sonnet for
+insightful discussions about the application of post-selection inference to A/B testing and their help
+in gathering and releasing the data from Twitter used in our experiments. ",math.ST,A,0.43790138,0.088085614,0.07806592
+http://arxiv.org/pdf/2203.14248v1,Invariance principle and CLT for the spiked eigenvalues of large-dimensional Fisher matrices and applications,"In the case of Assumption 4’, a par-
+
+tial invariance principle theorem may be required in the calculation of Remark 2.1, which
+only replaces U∗2X, V2∗Y by U∗2W and V2∗Z as column to column, respectively, but keeps
+U∗1X, V1∗Y unchanged. Due to space constraints, we opt to omit the details of the partial in-
+variance principle theorem here, and these can be further reﬁned in future work. This remark
+
+is used in the simulations of Case I under non-Gaussian assumptions. ",math.ST,C,-0.18649982,-0.17349362,-0.089451104
+http://arxiv.org/pdf/2203.15075v1,A Comparison of Hamming Errors of Representative Variable Selection Methods,"Weinstein et al. (2020) proposes a promising approach, where they use
+cross-validation to select λ and FDR control by knockoff to select t. We leave it for future work to
+study the phase diagrams with data-driven tuning parameters. Discussion of the two iterative algorithms. ",math.ST,B,0.1974184,0.084614016,-0.1814047
+http://arxiv.org/pdf/2203.15736v1,Exact Community Recovery in Correlated Stochastic Block Models,"Finally, we conjecture that the
+   threshold for community detection decreases in the case of multiple correlated SBMs, com-
+   pared to a single SBM. Understanding all of these regimes quantitatively is an important
+   direction for future work. • General correlated stochastic block models. ",math.ST,B,0.25593716,-0.23476408,-0.0391056
+http://arxiv.org/pdf/2203.16977v2,Test comparison for Sobol Indices over nested sets of variables,"A rigorous way to achieve asymptotically exact multiple tests might be
+
+                                                                   11
+       achievable from deriving a joint limit distribution of the empirical processes associated to diﬀerent
+       inputs sets u. While this question has not been discussed in this paper, it may be investigated in a
+       future work. One-dimensional analysis. ",math.ST,C,-0.04554158,-0.030397393,0.084617466
+http://arxiv.org/pdf/2204.02726v1,Adaptive warped kernel estimation for nonparametric regression with circular responses,"Once again no rates of convergence were obtained. Hence, in a future work, a ﬁrst task would be to obtain
+convergence rates and then investigate adaptation issue. References
+
+ [1] M. Alonso-Pena and R. Crujeiras. ",math.ST,C,-0.09984024,0.008457601,-0.022210417
+http://arxiv.org/pdf/2204.03285v1,Fast estimation of Kendall's Tau and conditional Kendall's Tau matrices under structural assumptions,"Furthermore, we have seen that the block, the diagonal
+and the random estimators have very similar asymptotic variances, whereas that of the row estimator was
+diﬀerent. The former depend on the auxiliary quantity U , while the latter depends on S. In each example
+that has been studied, we saw that the U -asymptotic variances were lower than the S-asymptotic variances,
+but a formal characterization of the set of copulas to which this applies is left for future work. Under light
+assumptions, we have shown that U -asymptotic variances are equal, and that it is approached fastest by
+the block estimator, followed by the diagonal estimator and then the random estimator. ",math.ST,C,-0.16905886,-0.24549095,0.04854708
+http://arxiv.org/pdf/2204.05792v1,High-dimensional nonconvex lasso-type $M$-estimators,"Indeed, they assume that
+there exists a > 0 such that f ′(t) > a for all t ∈ R. This is incompatible with our assumption
+that f is bounded. 5 Conclusion
+
+Some additional research directions are of interest. First, we could examine the variable
+selection properties of θ. ",math.ST,A,-0.009219177,0.30405608,0.15988311
+http://arxiv.org/pdf/2204.05792v2,High-dimensional nonconvex lasso-type $M$-estimators,"Indeed, they assume that
+there exists a > 0 such that f ′(t) > a for all t ∈ R. This is incompatible with our assumption
+that f is bounded. 5 Conclusion
+
+Some additional research directions are of interest. First, we could examine the variable
+selection properties of θ. ",math.ST,A,-0.009219177,0.30405608,0.15988311
+http://arxiv.org/pdf/2204.08369v1,Benign Overfitting in Time Series Linear Model with Over-Parameterization,"Further, the Gaussianity also plays
+a critical role in reducing the correlation of data to handle the bias term. In the over-parameterized
+setting, avoiding Gaussianity is important for future work. R
+
+Adler, R. J. and Taylor, J. E. (2007) Random Fields and Geometry, Springer, New York. ",math.ST,B,0.1306718,-0.26962554,-0.03976316
+http://arxiv.org/pdf/2204.09790v1,Wrapped Distributions on homogeneous Riemannian manifolds,"Then
+                             || fV M(z | 0, κ) − fWN(z|0, σ2) ||L∞([−π,+π))→ 0, as κ → +∞. For future work, similar asymptotics propositions involving Reimannian Normal distribution (i.e. from
+[42]) and Wrapped Normal distribution, since it follows a Normal distribution after the mapping to euclidean
+plane, can be extracted. ",math.ST,C,-0.28605682,-0.15492779,0.21629497
+http://arxiv.org/pdf/2204.10373v1,Distributed Nonparametric Estimation under Communication Constraints,"f ∈B2r2(L)
+
+4. Concluding remarks and future work
+
+In this paper we have studied the problem of nonparametric estimation in a distributed set-
+ting under communication constraints. We introduced the bit adjusted sample size (BASS),
+which characterizes the eﬃcient information content in a distributed setting taking the com-
+munication constraint into account. ",math.ST,B,-0.03861036,0.08701767,-0.08170994
+http://arxiv.org/pdf/2204.10425v1,Spectrum of inner-product kernel matrices in the polynomial regime and multiple descent phenomenon in kernel ridge regression,"entries, which implies the pointwise version of Theorem 3 for
+
+  = 1 (this was already proved in [BMR21] for more general covariates distributions). It is a
+signiﬁcant challenge to extend [AEK+14] to our setting, with non-independent entries in the rows
+of Y , and we leave it for future work. Acknowledgements
+
+This work was supported by NSF through award DMS-2031883 and the Simons Foundation through
+Award 814639 for the Collaboration on the Theoretical Foundations of Deep Learning. ",math.ST,B,-0.1453292,-0.12970729,-0.14180559
+http://arxiv.org/pdf/2204.10488v1,The Equivariance Criterion in a Linear Model for Fixed-X Cases,"The latter three scenarios refer to random-X cases, which will be another future topic. For a linear model with a non-normal distribution, we will refer to extensions of the current
+results to the generalized linear model, which will be a future work. The challenges start
+from the invariant transformations. ",math.ST,A,0.18667154,-0.23502758,0.15340933
+http://arxiv.org/pdf/2204.11240v1,"On Stute's representation for a class of smooth, possibly data-adaptive empirical copula processes","As expected, the faster the spread of the smoothing distributions decreases, the better the order of the approxima-
+tion: from (2.1), we obtain that the order is O(n−1/6) if Condition 2.1 holds with γ = 1, while it becomes equal to the
+
+one in (1.4) for the usual empirical copula process if Condition 2.1 holds with γ > 5/4. In future work, Theorem 2.2 will be used to establish the asymptotics of certain open-end sequential change-point
+detection procedures based on Cnν in (1.5) for monitoring changes in the copula of multivariate obseravtions. 3. ",math.ST,B,-0.03306725,-0.24227105,0.07151251
+http://arxiv.org/pdf/2204.13034v1,Minimax Robust Quickest Change Detection using Wasserstein Ambiguity Sets,"If we have no access to historical data in post-change
+mance of a stopping time T . One is the average run length          regime beforehand, we may consider construing the post-
+                                                                    change ambiguity sets adaptively with sequential observations,
+(ARL) used to measure the average time between consecutive          and the detailed discussion will be left for future work. false alarms, deﬁned as Eµ∞[T ]. ",math.ST,B,0.16343355,0.022079095,0.12450194
+http://arxiv.org/pdf/2204.13858v1,One-Way Matching of Datasets with Low Rank Signals,"1.1 One-way matching as estimation
+
+In this paper, we further restrict our attention to the simpliﬁed case of m = n and so both
+dimensions of X and Y agree. As we shall see, investigation in this special case is already
+challenging and we leave theoretical study of the general case n ≤ m for future work. When m = n, we could specialize the foregoing general model to
+
+                                X = UDV        + σxNx,                 (1.1)
+                             Π Y = UDV         + σyNy. ",math.ST,B,-0.062173553,-0.036835235,-0.08762435
+http://arxiv.org/pdf/2204.13858v2,One-Way Matching of Datasets with Low Rank Signals,"1.1 One-way matching as estimation
+
+In this paper, we further restrict our attention to the simpliﬁed case of m = n and so both
+dimensions of X and Y agree. As we shall see, investigation in this special case is already
+challenging and we leave theoretical study of the general case n ≤ m for future work. In
+motivating single cell data examples, such an assumption is not overly restrictive if the two
+datasets are obtained on homogeneous samples from identical or comparable cell populations as
+we could ﬁrst aggregate similar cells (or downsample) within respective datasets to align sample
+sizes before matching. ",math.ST,B,0.16738327,0.007032795,-0.11154507
+http://arxiv.org/pdf/2205.00043v1,Tail Adversarial Stability for Regularly Varying Linear Processes and their Extensions,"See, for instance, Section 3 of Liu and Lin (2009). The veriﬁcation of the TAS
+condition for these models requires nontrivial extensions and is left for future works. 5 The Max-Linear Extension: A Revisit
+
+In this section, we revisit the max-linear extension that replaces the additive structure
+in (5) by its maximal counterpart. ",math.ST,A,0.058815353,0.08504929,-0.09011802
+http://arxiv.org/pdf/2205.00139v1,Nonlinear Least Squares Estimator for Discretely Observed Reflected Stochastic Processes,"Numerical results show that the NLSE works well with diﬀerent settings. Some further researches may include providing the other estimators for the
+reﬂected stochastic processes and investigating the statistical inference for the
+other reﬂected diﬀusions. References
+
+  [1] Amemiya, T., 1973. ",math.ST,C,-0.027779706,-0.25894213,-0.010496054
+http://arxiv.org/pdf/2205.00336v1,A nonparametric regression approach to asymptotically optimal estimation of normal means,"Bounding the ratio is
+more meaningful in settings where the optimal separable estimator may perform very well, such as when
+θ is sparse and R(d∗; θ) already tends quickly toward zero. Studying the ratio optimality of our dˆ would
+be an interesting direction for future work, and simulations in Section 5 already show that our estimator is
+comparable to the nonparametric empirical Bayes methods when estimating sparse θ. 4 Removing Constraints with Biased Risk Minimization
+
+In this section we explore whether monotonicity alone, rather than monotonicity plus our total variation
+constraint, is suﬃcient for developing an asymptotically optimal estimator. ",math.ST,C,-0.20961644,-0.09166455,-0.21208787
+http://arxiv.org/pdf/2205.01022v1,Asymptotic Normality for Plug-in Estimators of Generalized Shannon's Entropy,"The proposed asymptotic
+properties in this article directly provide asymptotic normality for the plug-in estimator
+of GMI when the real underlying GMI is not 0. The asymptotic behavior for the plug-in
+estimator of GMI when the real underlying GMI is 0 remains an open question, which we
+will address in future work. 5 Proofs
+
+The proofs require several lemmas. ",math.ST,C,-0.23433119,-0.084679276,0.15113005
+http://arxiv.org/pdf/2205.01092v1,Drift parameter estimation for nonlinear reflected stochastic differential equations,"A simulation study is presented
+to show that our estimators are adequate for practical use. Some further researches may include providing the other estimators for the
+reﬂected stochastic processes and investigating the statistical inference for the
+other reﬂected diﬀusions. References
+
+  [1] Amemiya, T., 1973. ",math.ST,C,0.08391387,-0.36095345,0.09187188
+http://arxiv.org/pdf/2205.03647v1,Training-conditional coverage for distribution-free predictive inference,"This
+suggests that assuming stability of A could potentially be suﬃcient to ensure training-
+conditional coverage for these methods. We leave this open question for future work. Acknowledgements
+
+R.F.B. ",math.ST,B,0.050991997,0.107103005,-0.18196838
+http://arxiv.org/pdf/2205.03880v1,Optimal Change-point Testing for High-dimensional Linear Models with Temporal Dependence,"If b
+is a suﬃciently small constant, we have
+
+                                     lim inf inf sup E0(ψ) + EP (1 − ψ) → 1,
+
+                                                   n,p→∞ ψ P ∈P1(b)
+
+where P1(b) denotes the class of distributions satisfying Ha(b), E0(ψ) gives the type-I error of ψ
+under H0 and EP (1 − ψ) gives the power of ψ when the observations are generated according to P.
+
+3 QF-CUSUM under Temporal Dependence
+
+In practice, temporal dependence is the norm rather than exception for sequentially observed data. Thus, in this section, we further study the behavior of the QF-CUSUM test Tn(t) under the context
+
+of temporal dependence. Speciﬁcally, we follow the β-mixing framework in Wong et al. ",math.ST,C,-0.10732545,-0.049470656,0.29966223
+http://arxiv.org/pdf/2205.05080v1,The multivariate ARMA/CARMA transformation relation,"That is, as stated in G´omez (2019),
+for p large enough, the VAR(p) model approaches a VARMA(p, q) model. A rigorous proof
+of this statement for MCAR/MCARMA processes is a topic for further research. The
+argument for assuming this to hold for MCAR/MCARMA processes as well, is that the
+direct transformation relation between VARMA/MCARMA processes (see Theorem 1) is
+derived by introducing no structural changes going from the discretized MCARMA process
+to the VARMA process. ",math.ST,A,0.12767506,-0.16988526,0.12268933
+http://arxiv.org/pdf/2205.05341v1,A zero-estimator approach for estimating the signal level in a high-dimensional model-free setting,"Our simulations demonstrate
+that our approach can be generalized to improve other estimators as well. We suggest the following directions for future work. One natural extension is to relax the
+assumption of known covariate distribution to allow for a more general setting. ",math.ST,C,0.06089819,-0.41498846,-0.049012683
+http://arxiv.org/pdf/2205.06163v1,Gaussian Whittle-Matérn fields on metric graphs,"It might be possible to remove the sink in the variance for vertices with degree greater than
+two, seen in Figure 2, by adjusting the precision matrix in a similar way as in Corollary 4. However, we leave investigations of such adjusted boundary conditions for future work. 6. ",math.ST,C,-0.020020984,-0.0068185646,-0.12543055
+http://arxiv.org/pdf/2205.07144v1,Network change point localisation under local differential privacy,"Therefore, we expect that allowing interaction within networks cannot improve the signal to
+noise ratio condition, while interaction across time points requires novel methodology that can
+handle temporal dependence, account for the decay of privacy and is suitable for the task of
+change point localisation. We leave that as our future work. References
+
+ [1] Acharya, J., Canonne, C. L. and Tyagi, H. [2020], ‘Inference under information constraints
+      i: Lower bounds from chi-square contraction’, IEEE Transactions on Information Theory
+      66(12), 7835–7855. ",math.ST,B,-0.010558328,0.00264748,-0.055402085
+http://arxiv.org/pdf/2205.07144v2,Network change point localisation under local differential privacy,"Since different entries in our network model follow
+different distributions, we therefore expect that allowing interaction within networks cannot improve
+the signal to noise ratio condition, while interaction across time points requires novel methodology
+that can handle temporal dependence, account for the decay of privacy and is suitable for the task of
+change point localisation. We leave that as our future work. Acknowledgements and Disclosure of Funding
+
+The authors would like to thank Harry Giles for helpful discussion and suggesting the idea behind
+the proof of Theorem 3. ",math.ST,B,-0.009493547,-0.013011273,0.008743096
+http://arxiv.org/pdf/2205.07937v2,Mean-Field Nonparametric Estimation of Interacting Particle Systems,"(2011) and the convergence rate remains optimal as O(n−1/2). A
+       rigorous analysis in nonparametric setting is open and we leave it as the future work. 5. ",math.ST,C,-0.18847439,0.03633798,-0.027212456
+http://arxiv.org/pdf/2205.08010v1,The e-value and the Full Bayesian Significance Test: Logical Properties and Philosophical Consequences,"Na¨ıve adaptations of complexity mea-
+sures artiﬁcially borrowed from other areas often fail to capture relevant aspects of the legal environ-
+ment. Although this topic of further research can potentially beneﬁt of the all the sophisticated technical
+developments and approaches to complexity theory already mentioned, it also requires a healthy dose
+of critical thinking applied to the human condition in daily life, yet another area of interest of Walter’s
+research group, see [37]. Acknowledgments
+
+The authors take this opportunity to thank Prof. Walter Carnielli for, along the years, inviting, wel-
+coming and stimulating investigations, discussions and interactions at the borders or areas of overlap
+between logic, probability, statistics, formal methods in science, philosophy of science and general
+philosophy. ",math.ST,A,0.33708435,0.35425118,0.30301687
+http://arxiv.org/pdf/2205.08010v2,The e-value and the Full Bayesian Significance Test: Logical Properties and Philosophical Consequences,"Na¨ıve
+adaptations of complexity measures artiﬁcially borrowed from other areas often fail to capture relevant
+aspects of the legal environment. Although this topic of further research can potentially beneﬁt from all the sophisticated technical
+developments and approaches to complexity theory already mentioned, it also requires a healthy dose
+
+                                                            15
+of critical thinking applied to the human condition in daily life, yet another area of interest of Walter’s
+research group, see [38]. Acknowledgments
+
+The authors take this opportunity to thank Prof. Walter Carnielli for, along the years, inviting, wel-
+coming, and stimulating investigations, discussions, and interactions at the borders or areas of overlap
+between logic, probability, statistics, formal methods in science, philosophy of science and general
+philosophy. ",math.ST,A,0.3534823,0.35396498,0.33912528
+http://arxiv.org/pdf/2205.08010v3,The e-value and the Full Bayesian Significance Test: Logical Properties and Philosophical Consequences,"Na¨ıve
+adaptations of complexity measures artiﬁcially borrowed from other areas often fail to capture relevant
+aspects of the legal environment. Although this topic of further research can potentially beneﬁt from all the sophisticated technical
+developments and approaches to complexity theory already mentioned, it also requires a healthy dose
+
+                                                            15
+of critical thinking applied to the human condition in daily life, yet another area of interest of Walter’s
+research group, see [124]. Acknowledgments
+
+The authors take this opportunity to thank Prof. Walter Carnielli for, along the years, inviting, wel-
+coming, and stimulating investigations, discussions, and interactions at the borders or areas of overlap
+between logic, probability, statistics, formal methods in science, philosophy of science and general
+philosophy. ",math.ST,A,0.35144222,0.3537494,0.3415386
+http://arxiv.org/pdf/2205.08010v4,The e-value and the Full Bayesian Significance Test: Logical Properties and Philosophical Consequences,"Na¨ıve
+adaptations of complexity measures artiﬁcially borrowed from other areas often fail to capture relevant
+aspects of the legal environment. Although this topic of further research can potentially beneﬁt from all the sophisticated technical
+
+                                                            15
+developments and approaches to complexity theory already mentioned, it also requires a healthy dose
+of critical thinking applied to the human condition in daily life, yet another area of interest of Walter’s
+research group, see [125]. Acknowledgments
+
+The authors take this opportunity to thank Prof. Walter Carnielli for, along the years, inviting, wel-
+coming, and stimulating investigations, discussions, and interactions at the borders or areas of overlap
+between logic, probability, statistics, formal methods in science, philosophy of science and general
+philosophy. ",math.ST,A,0.34732094,0.3544841,0.34006307
+http://arxiv.org/pdf/2205.09633v1,Deep Generative Survival Analysis: Nonparametric Estimation of Conditional Survival Function,"We have focused on estimating the conditional hazards and survival functions for con-
+structing prediction intervals of survival times. Several problems deserve further study in
+the future. For example, it would be interesting to study ways for estimating treatment ef-
+fects by including a semiparametric component in the proposed framework. ",math.ST,B,0.09335228,-0.17522037,-0.05745091
+http://arxiv.org/pdf/2205.09727v1,The Franz-Parisi Criterion and Computational Trade-offs in High Dimensional Statistics,"This argument makes use of the rotational invariance of Gaussian measure,
+and we unfortunately do not know how to generalize it beyond the Gaussian additive model. We leave this as
+an open problem for future work. As mentioned above, one particularly natural choice of β is the Bayesian temperature λ (which corresponds
+to sampling from the posterior distribution). ",math.ST,C,-0.1281744,-0.26658192,0.113923125
+http://arxiv.org/pdf/2205.09727v2,The Franz-Parisi Criterion and Computational Trade-offs in High Dimensional Statistics,"This argument makes use of the rotational invariance of Gaussian measure,
+and we unfortunately do not know how to generalize it beyond the Gaussian additive model. We leave this as
+an open problem for future work. 5We note that depending on the temperature, a free energy barrier may arise due to entropy, not necessarily due to an
+increase of the Hamiltonian. ",math.ST,C,-0.20269729,-0.12295875,0.10217423
+http://arxiv.org/pdf/2205.10198v1,"A New Central Limit Theorem for the Augmented IPW Estimator: Variance Inflation, Cross-Fit Covariance and Beyond","We emphasize
+   that these existing comparisons do not translate directly to our proportional asymptotics
+   regime—in fact, pinning down “efﬁcient” estimators in our context remains an outstanding
+   question. We defer this direction to future work, and adopt the following perspective here. The AIPW is one of the most widely used ATE estimators in practice—can its ﬂuctuations
+   be characterized via the classical asymptotic variance when we are neither in a classical
+   setting, nor in the ultra-high-dimensional regime with sparsity? ",math.ST,C,-0.16643469,-0.18132028,0.032473005
+http://arxiv.org/pdf/2205.10198v2,"A New Central Limit Theorem for the Augmented IPW Estimator: Variance Inflation, Cross-Fit Covariance and Beyond","We emphasize
+22
+
+   that these existing comparisons do not translate directly to our proportional asymptotics
+   regime—in fact, pinning down “efﬁcient"" estimators in our context remains an outstanding
+   question. We defer this direction to future work, and adopt the following perspective here. The AIPW is one of the most widely used ATE estimators in practice—can its ﬂuctuations
+   be characterized via the classical asymptotic variance when we are neither in a classical
+   setting, nor in the ultra-high-dimensional regime with sparsity? ",math.ST,C,-0.15169634,-0.15707193,0.038818207
+http://arxiv.org/pdf/2205.10198v3,"A New Central Limit Theorem for the Augmented IPW Estimator: Variance Inflation, Cross-Fit Covariance and Beyond","We emphasize
+22
+
+   that these existing comparisons do not translate directly to our proportional asymptotics
+   regime—in fact, pinning down “efﬁcient"" estimators in our context remains an outstanding
+   question. We defer this direction to future work, and adopt the following perspective here. The AIPW is one of the most widely used ATE estimators in practice—can its ﬂuctuations
+   be characterized via the classical asymptotic variance when we are neither in a classical
+   setting, nor in the ultra-high-dimensional regime with sparsity? ",math.ST,C,-0.15169634,-0.15707193,0.038818207
+http://arxiv.org/pdf/2205.12104v1,Minimax Optimal Clustering of Bipartite Graphs with a Generalized Power Method,"As can
+be seen from Figure 1d, the performance of Spec decreases faster than GPM when K increases. 8 Conclusion and future work
+
+In this work, we proposed an algorithm based on the GPM to cluster the rows of bipartite graphs in the high-
+dimensional regime where n2 n1 log n1. We analyzed our algorithm under a relatively general BiSBM,
+that incorporates as a special case the model with K = L = 2 studied recently by Ndaoud et al. ",math.ST,B,0.20650901,0.024049468,-0.27201405
+http://arxiv.org/pdf/2205.12937v1,Mitigating multiple descents: A model-agnostic framework for risk monotonization,"On the other hand, Rpfr8q could also be similarly analyzed using
+deterministic representations and the theory of U -statistics. We leave this for future work. Other variants of boosting. ",math.ST,B,0.088495284,-0.012868457,-0.18571451
+http://arxiv.org/pdf/2205.13840v1,Adapting to arbitrary quadratic loss via singular value shrinkage,"The generalized Bayes estimator with respect to this prior is minimax under the matrix
+quadratic loss and has qualitatively the same behavior with the Efron–Morris estimator [21]. It is an interesting future work to investigate Bayesian inference in multivariate Gaussian
+sequence models with respect to such singular value shrinkage priors, including uncertainty
+quantiﬁcation. A Proof of Proposition 4.1
+
+Proof. ",math.ST,C,-0.16195494,-0.2612912,-0.13551793
+http://arxiv.org/pdf/2205.15717v1,Estimating a density near an unknown manifold: a Bayesian nonparametric approach,"δ small). Obtaining
+optimal procedures in the regime of small δ, or even in the singular regime of δ = 0, could be the
+object of future works. One solution could be to resort to more intricate mixtures, using for instance
+Fisher-Gaussian kernels as in Mukhopadhyay et al. ",math.ST,B,-0.062093325,-0.15482046,-0.13079141
+http://arxiv.org/pdf/2206.01454v2,Indirect Active Learning,"Finally, we illustrated
+how how behaviors of these algorithms change with parameters of a synthetic data-generating process and
+demonstrated beneﬁts of two-stage active learning in an epidemiological forecasting application. Besides closing the gap between our active upper and lower bounds, several interesting directions remain
+for future work. First, we focused here on a local nonparametric problem of estimating f (x0) at a single
+point x0. ",math.ST,B,0.14215766,-0.12836675,-0.16885355
+http://arxiv.org/pdf/2206.02012v1,Concentration of the missing mass in metric spaces,"The generation of candidate subsequences could be further accelerated
+as they have to satisfy r < d (xi, xj) ≤ 2r. In any case the computation of h (x, r), or a good upper
+bound thereof, remains an interesting problem for further research. 2.3 The Good-Turing estimator
+
+For the remainder of this section we take the radius r as ﬁxed and omit it from all expressions unless
+explicitly speciﬁed otherwise. ",math.ST,B,-0.034194954,0.37827146,0.00895413
+http://arxiv.org/pdf/2206.02012v2,Concentration of the missing mass in metric spaces,"The generation of candidate subsequences could be further accelerated
+as they have to satisfy r < d (xi, xj) ≤ 2r. In any case the computation of h (x, r), or a good upper
+bound thereof, remains an interesting problem for further research. 5
+2.3 The Good-Turing estimator
+
+For the remainder of this section we take the radius r as ﬁxed and omit it from all expressions unless
+explicitly speciﬁed otherwise. ",math.ST,B,-0.04061611,0.38164255,0.0033953637
+http://arxiv.org/pdf/2206.02012v3,Concentration of the missing mass in metric spaces,"In this case an
+efﬁcient algorithm is given in [24]. In any case the computation of h (x, r), or a good upper bound
+thereof, remains an interesting problem for further research. 7
+3 Applications
+
+Since h (x) = 1 in the discrete case, many of the applications of the discrete case are covered by
+Theorem 2.6, albeit with larger constants. ",math.ST,B,-0.019414887,0.46772563,-0.12703264
+http://arxiv.org/pdf/2206.02012v4,Concentration of the missing mass in metric spaces,"In this case an
+efﬁcient algorithm is given in [24]. In any case the computation of h (x, r), or a good upper bound
+thereof, remains an interesting problem for further research. 7
+3 Applications
+
+Since h (x) = 1 in the discrete case, many of the applications of the discrete case are covered by
+Theorem 2.7, albeit with larger constants. ",math.ST,B,-0.022823244,0.46925688,-0.12704788
+http://arxiv.org/pdf/2206.02348v1,Finite-Sample Maximum Likelihood Estimation of Location,"As such, our proof of Theorem 1.3 involves delicate
+and non-standard bounding techniques which may be of independent interest. The proof techniques
+are currently slightly ad-hoc, and for future work, we hope to improve on these techniques to make
+them more general and more usable. 7 Experimental Results
+
+In this section, we give experimental evidence supporting our proposed algorithmic theory. ",math.ST,B,0.023313949,0.526161,-0.19760752
+http://arxiv.org/pdf/2206.02348v2,Finite-Sample Maximum Likelihood Estimation of Location,"As such, our proof of Theorem 1.3 involves delicate
+and non-standard bounding techniques which may be of independent interest. The proof techniques
+are currently slightly ad-hoc, and for future work, we hope to improve on these techniques to make
+them more general and more usable. 7 Experimental Results
+
+In this section, we give experimental evidence supporting our proposed algorithmic theory. ",math.ST,B,0.023313949,0.526161,-0.19760752
+http://arxiv.org/pdf/2206.02455v1,Mean Estimation in High-Dimensional Binary Markov Gaussian Mixture Models,"Originally, a bound of this order was established
+in [Wu and Zhou, 2019, proof of Lemma 27] on the KL divergence, by splitting the ﬁrst coordinate
+(which is assumed, w.l.o.g., to contain the signal) and the other d − 1 coordinates, using the chain
+rule, and then bounding each of the two KL terms with the corresponding chi-square divergence. Here we provide a direct upper bound on the chi-square divergence, which does not rely on splitting
+between the coordinates of the mean vector, and which might be of independent use in future works. Lemma 14. ",math.ST,C,-0.4174914,-0.014396937,0.009488779
+http://arxiv.org/pdf/2206.02455v2,Mean Estimation in High-Dimensional Binary Markov Gaussian Mixture Models,"Originally, a bound of this order was established
+in [Wu and Zhou, 2019, proof of Lemma 27] on the KL divergence, by splitting the ﬁrst coordinate
+(which is assumed, w.l.o.g., to contain the signal) and the other d − 1 coordinates, using the chain
+rule, and then bounding each of the two KL terms with the corresponding chi-square divergence. Here we provide a direct upper bound on the chi-square divergence, which does not rely on splitting
+between the coordinates of the mean vector, and which might be of independent use in future works. Lemma 14. ",math.ST,C,-0.4174914,-0.014396937,0.009488779
+http://arxiv.org/pdf/2206.02455v3,Mean Estimation in High-Dimensional Binary Markov Gaussian Mixture Models,"Originally, a bound of this order was established
+in [Wu and Zhou, 2019, proof of Lemma 27] on the KL divergence, by splitting the ﬁrst coordinate
+(which is assumed, w.l.o.g., to contain the signal) and the other d − 1 coordinates, using the chain
+rule, and then bounding each of the two KL terms with the corresponding chi-square divergence. Here we provide a direct upper bound on the chi-square divergence, which does not rely on splitting
+between the coordinates of the mean vector, and which might be of independent use in future works. Lemma 15. ",math.ST,C,-0.4169423,-0.014360618,0.009182876
+http://arxiv.org/pdf/2206.03166v1,A novel statistical approach for two-sample testing based on the overlap coefficient,"One limitation is that we are currently unable to rapidly perform the OVL-2 if m = n or
+the OVL-q if q ≥ 3. To overcome this, we should explore the possibility of expanding fast and
+exact algorithms for the OVL-q, or should investigate the asymptotic distribution of ρq,m,n
+(as m, n → ∞) to approximate the OVL-q in future works. The treatment of ties (which may
+
+occur in Ω \ Ω if F0 or F1 is practically discontinuous) is also an important topic of research. ",math.ST,B,0.027677389,0.13949706,-0.056311347
+http://arxiv.org/pdf/2206.04306v1,Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA,"We surmise
+that Theorem 3.1 will continue to hold for Uˆ W − U in this setting while theoretical results
+for Vˆ (i) and Rˆ (i) can be derived following the ideas presented in our proof of Theorem 3.3. We leave the formal derivations and statements of these results for future work. We now discuss the relationship between our results and those for multi-layer SBMs; recall
+that multilayer SBMs are special cases of multilayer GRDPGs where P(i) = ZB(i)Z . ",math.ST,B,-0.2125874,0.14989808,-0.06788121
+http://arxiv.org/pdf/2206.04306v2,Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA,"We surmise
+that Theorem 3.1 will continue to hold for Uˆ W − U in this setting while theoretical results
+for Vˆ (i) and Rˆ (i) can be derived following the ideas presented in our proof of Theorem 3.3. We leave the formal derivations and statements of these results for future work. We now discuss the relationship between our results and those for multi-layer SBMs; recall
+that multilayer SBMs are special cases of multilayer GRDPGs where P(i) = ZB(i)Z . ",math.ST,B,-0.2125874,0.14989808,-0.06788121
+http://arxiv.org/pdf/2206.05126v1,Quasi-Likelihood Analysis of Fractional Brownian Motion with Constant Drift under High-Frequency Observations,"Therefore, Theorem 3.5 (2) implies that the
+asymptotic distribution of the QWLE does not depend on the drift term, at least, when
+{µt}t∈[0,1] is constant. We will investigate asymptotic properties of the QWLE when
+{µt}t∈[0,1] is not constant in the future work. 4 Proof of Theorem 3.5
+
+4.1 Preliminary Lemma
+
+Before proving Theorem 3.5, we prepare the following lemma. ",math.ST,C,-0.3240465,-0.035513427,0.36332792
+http://arxiv.org/pdf/2206.05227v1,Log-concave density estimation in undirected graphical models,"Remark 8.2. The fact that FG F˜G does not exclude the possibility that the MLE over F˜G
+belongs to FG, a question that could be addressed in future work. Related work. ",math.ST,C,-0.2005127,0.092497855,0.1647498
+http://arxiv.org/pdf/2206.05829v1,A non-graphical representation of conditional independence via the neighbourhood lattice,"Extending these results to non-Gaussian models is possible by appealing to recent
+work on nonparametric CI testing [AC19; Can+18; NBW20; SP18], which is an ongoing area
+of research. We leave such details for future work. The following deﬁnition will be useful in the sequel: Let t0 be the size of the largest (relative)
+Markov boundary in I, i.e. ",math.ST,C,0.071531326,-0.13042568,0.18404561
+http://arxiv.org/pdf/2206.06140v1,Inference for change-plane regression,"Further-
+more, with the limiting distributions being established, valid inferences on the change-plane
+and regression parameters were developed using the parametric bootstrap. 42
+
+   There are a number of interesting directions for future work. Primary among them are
+extensions of the present results to multiple change-plane models [11], shared regression
+slope models, and kernel change-plane models. ",math.ST,B,0.18647389,-0.3444187,-0.04174246
+http://arxiv.org/pdf/2206.06491v1,On the Computational Complexity of Metropolis-Adjusted Langevin Algorithms for Bayesian Posterior Sampling,"A
+variant of MALA that includes a preconditioning matrix was also considered. While our analysis for
+the preconditioned MALA suggests an adaptive MALA with a data-driven preconditioning matrix may
+be preferable, its rigorous theoretical analysis may leave as our future work. When applying our main
+result to Bayesian inference, we mainly considered the Gibbs posterior, while similar analysis may carry
+over to other types of Bayesian pseudo-posterior, such as Bayesian empirical likelihood (Lazar, 2003),
+and we leave this for future research. ",math.ST,B,0.13018025,-0.15952943,-0.14928687
+http://arxiv.org/pdf/2206.06643v1,Weibull or not Weibull?,"The latter
+outperform the hitherto best known methods for some alternatives, while providing solid power performances in most
+cases. We close this article by pointing out open and related problems for further research. If we replace the estimators
+
+(λn, kn) by the unknown parameters (λ, k) in the deﬁnition of Tn in (4) and minimize with respect to the parameter
+space, we obtain new estimators
+
+               ∞1 n 1           Xj k                     1 − e−tXn,j  − t n e−tXj 2w(t)dt,
+(λn, kn) = argmin(λ,k) 0 n Xj k λ − k + 1                                n j=1
+                           j=1
+
+of minimum distance type for the parameters of W (λ0, k0), whenever X1, . ",math.ST,C,-0.10838792,0.06103335,-0.21861486
+http://arxiv.org/pdf/2206.06998v4,"On quantiles, continuity and robustness","From Theorem 3.7 we have convergence in ﬁnite-dimensional
+distributions. The full convergence in distribution requires tightness and we would need
+to focus on speciﬁc spaces; we leave this question to further research. However, there are
+cases where the convergence in ﬁnite-dimensional distributions implies the convergence in
+distributions. ",math.ST,C,-0.19123983,-0.17931461,0.122897506
+http://arxiv.org/pdf/2206.07256v1,Noise Covariance Estimation in Multi-Task High-dimensional Linear Models,"naive     0.3  mm                             0.3     naive     0.30          mm            0.30
+
+          0.2                                 0.2               0.25                        0.25
+
+          0.1                                 0.1               0.20                        0.20
+
+          0.0                                 0.0               0.15                        0.15
+
+          0.1                                 0.1               0.10                        0.10
+
+          0.2                                 0.2               0.05                        0.05
+
+proposed  0.3  oracle                         0.3     proposed  0.00          oracle        0.00
+
+          0.3                                 0.3               0.30                        0.30
+
+          0.2                                 0.2               0.25                        0.25
+
+          0.1                                 0.1               0.20                        0.20
+
+          0.0                                 0.0               0.15                        0.15
+
+          0.1                                 0.1               0.10                        0.10
+
+          0.2                                 0.2               0.05                        0.05
+
+                                         0.3  0.3               0.00                        0.00
+
+(a) Heatmap of bias for each entry                    (b) Heatmap of standard deviation for each entry
+
+Figure 2: Heatmaps for estimation of full rank S with n = 1000 over 100 repetitions. 5 Limitations and future work
+
+One limitation of the proposed estimator S is that its construction necessitates the knowledge of Σ. Let us ﬁrst mention that the estimator n−1 (IT − A/n)−1F        F of Tr(S) +  Σ1/2(B − B∗)  2           in
+                                                                                            F
+Theorem 3.4 does not require knowing Σ. ",math.ST,B,0.17841563,-0.029346082,-0.117694825
+http://arxiv.org/pdf/2206.07424v1,Local Identifiability of Deep ReLU Neural Networks: the Theory,"The dimensions of α(X, θ) are sensibly larger, with |P| columns and n lines, and typically |P| >> n.
+
+However it may have some sparsity properties, as its entries consist in products of activation indicators
+(with possibly one input xiv0 ), any one of them being zero causing many entries to vanish. The question
+of the efﬁcient computation of RA still needs to be explored and is left as open for future work. 6 Conclusion
+
+This paper is the ﬁrst to characterize local identiﬁability for deep ReLU networks for any given ﬁnite
+sample, with testable conditions. ",math.ST,B,-0.024479413,0.16339973,-0.27870697
+http://arxiv.org/pdf/2206.07424v2,Local Identifiability of Deep ReLU Neural Networks: the Theory,"The dimensions of α(X, θ) are sensibly larger, with |P| columns and n lines, and typically |P| >> n.
+
+However it may have some sparsity properties, as its entries consist in products of activation indicators
+(with possibly one input xiv0 ), any one of them being zero causing many entries to vanish. The question
+of the efﬁcient computation of RA still needs to be explored and is left as open for future work. 6 Conclusion
+
+This paper is the ﬁrst to characterize local identiﬁability for deep ReLU networks for any given
+ﬁnite sample, with testable conditions. ",math.ST,B,-0.024479413,0.16339973,-0.27870697
+http://arxiv.org/pdf/2206.07936v1,Universality of regularized regression estimators in high dimensions,"rows
+
+satisfying the condition (3.15) or the slightly stronger condition (3.16). We leave
+
+this to a future work. 3.6. ",math.ST,A,0.15222906,0.21665993,-0.083994284
+http://arxiv.org/pdf/2206.07936v2,Universality of regularized regression estimators in high dimensions,"rows satisfying the condition (3.15) or the
+slightly stronger condition (3.16). We leave this to a future work. 24                                       Q. HAN AND Y. SHEN
+
+         Ridge risk curves                                            Lasso risk curves
+
+      0.90                                                                  1.00
+
+0.85
+Normalized squared risk                  Design & noise                                                                                                          Design & noise
+                                                                                                Normalized squared risk
+                                         Theory                                                                          0.95                                         Theory
+
+                                                                                 Gaussian                                                                             Gaussian
+0.80                                                                                                                                                                  Isotropic
+
+                                                                                 Isotropic
+
+                                         T−2.5                                                                                                                        T−2.5
+
+0.75                                     T−3                                                                                                                          T−3
+
+                                         T−3.5 0.90                                                                                                                   T−3.5
+
+0.70
+
+      2  3                  4   5                                                                                              2        3            4      5
+
+                 Lambda                                                                                                                    Lambda
+
+         (a) Ridge risk curves                                                                                                    (b) Lasso risk curves
+
+         Figure 1. ",math.ST,B,0.05062019,-0.08918236,-0.23570171
+http://arxiv.org/pdf/2206.08756v1,"Tensor-on-Tensor Regression: Riemannian Optimization, Over-parameterization, Statistical-computational Gap, and Their Interplay","However, initialization with a small enough magnitude and the factorization formulation seem to be
+critical there. Due to the space limit, we leave a thorough comparison of these two popular approaches
+for over-parameterized tensor-on-tensor regression problems as future work. 6 Technical Contributions
+
+We develop several technical tools to establish the theoretical results in this paper. ",math.ST,C,-0.060676783,-0.11306917,-0.35581094
+http://arxiv.org/pdf/2206.08756v2,"Tensor-on-Tensor Regression: Riemannian Optimization, Over-parameterization, Statistical-computational Gap, and Their Interplay","However, initialization with a small enough magnitude and the factorization formulation seem to be
+critical there. Due to the space limit, we leave a thorough comparison of these two popular approaches
+for over-parameterized tensor-on-tensor regression problems as future work. 19
+6 Technical Contributions
+
+We develop several technical tools to establish the theoretical results in this paper. ",math.ST,C,-0.06387041,-0.10898358,-0.35316446
+http://arxiv.org/pdf/2206.09908v1,Learning Optimal Flows for Non-Equilibrium Importance Sampling,"In order to explore other applications, it
+will be interesting to investigate how to best parametrize b (e.g., less parameters and non-stiﬀ energy
+landscape with respect to these parameters) and how to best initiate the training procedure. The
+answers to these questions are probably model speciﬁc and are left for future work. A
+
+   We would like to thank Prof. Jonathan Weare and Prof. Fang-Hua Lin for helpful discussions. ",math.ST,B,0.22413638,-0.030215193,-0.26816118
+http://arxiv.org/pdf/2206.09908v2,Learning Optimal Flows for Non-Equilibrium Importance Sampling,"It would
+also be interesting to ask whether we can improve the performance of NEIS by optimizing certain
+parameters in the base density 𝜌0 in concert with b. The answers to these questions are probably
+model speciﬁc and are left for future work. A
+
+   We would like to thank Jonathan Weare and Fang-Hua Lin for helpful discussions, and the
+anonymous referees for their useful comments and suggestions. ",math.ST,B,0.16826981,0.008820398,-0.021446252
+http://arxiv.org/pdf/2206.11546v1,Minimax Optimal Fair Regression under Linear Model,"Moreover, our results do not clarify the dependency on the minimax error
+against σX and U . Clarifying the minimax error against σX and U is also our crucial future work. Acknowledgement
+
+This work was partly supported by KAKENHI (Grants-in-Aid for scientiﬁc research) Grant Numbers
+JP20K19750 and Japan science and technology agency (JST), CREST JPMJCR21D3. ",math.ST,C,-0.15463135,0.046826124,-0.18871582
+http://arxiv.org/pdf/2206.11546v2,Minimax Optimal Fair Regression under Linear Model,"Moreover, our results do not clarify the dependency on the minimax error
+against σX and U . Clarifying the minimax error against σX and U is also our crucial future work. Acknowledgement
+
+This work was partly supported by KAKENHI (Grants-in-Aid for scientiﬁc research) Grant Numbers
+JP20K19750 and Japan science and technology agency (JST), CREST JPMJCR21D3. ",math.ST,C,-0.15463135,0.046826124,-0.18871582
+http://arxiv.org/pdf/2206.11727v1,Sequential Detection of Common Change in High-dimensional Data Stream,"(2021). Theoretical results for detecting the dispersion
+change in multivariate case will be communicated in a future work. 7 Appendix: Proof of Theorem 5
+
+We only give the main steps. ",math.ST,B,0.020022042,-0.29491526,0.012080314
+http://arxiv.org/pdf/2206.13472v1,On the sample complexity of entropic optimal transport,"While the exact dependence of our results in η can be easily extracted from our proofs, we have
+
+made no attempt to optimize it since we think of η as a constant of order 1 throughout. We leave
+
+to future work the interesting direction of improving the dependence of our statistical results on η. 2. ",math.ST,C,-0.08773734,0.05977586,0.07180536
+http://arxiv.org/pdf/2206.13898v1,Orthogonal decomposition of multivariate densities in Bayes spaces and its connection with copulas,"As an illustration of the insights provided by this reduction, it is shown that the
+only non-trivial terms in the orthogonal decomposition of the multivariate Gaussian
+copula are those which correspond to the main eﬀects and two-way interactions. Conclusions and perspectives for future work can be found in Section 6. 2
+2. ",math.ST,C,-0.05006753,-0.2943304,0.023060068
+http://arxiv.org/pdf/2206.14449v1,Hypothesis Testing for Differentially Private Linear Regression,"We have provided formal statements for the DP F -statistic in the asymptotic regime. We leave to
+future work the task of theoretically analyzing the procedures in the non-asymptotic regime. Experimental evaluation is done on simulated data for the Opportunity Atlas tool, UCI datasets,
+and on synthetic datasets of varying distributions on the independent variable (normal, exponential,
+and uniform). ",math.ST,C,0.09690581,-0.19852026,0.24421287
+http://arxiv.org/pdf/2207.00120v1,Joint Sequential Detection and Isolation for Dependent Data Streams,"Moreover, we can extend the
+results of the current work to the case that the distribution of each unit under each hypothesis
+belongs to a parametric family, working similarly to [35, Section 6]. Finally, there are many open questions and directions for further research, such as a more
+precise description of the optimal performance, the proof of stronger optimality properties,
+asymptotic regimes where the number of sources also goes to inﬁnity as the error probabilities
+vanish, modeling the data streams using spatial models, e.g., a Markov random ﬁeld, where
+the special underlying dependence can lead to further insights, closed-form expressions for
+the thresholds that are less conservative than the ones we obtain in this work, more efﬁcient
+design of subsystems, etc. Finally, another direction of interest is to allow for the sampling
+to be terminated at a different time in each data stream, as in [4, 7, 29]. ",math.ST,B,0.09122291,-0.083489105,-0.11856799
+http://arxiv.org/pdf/2207.00180v1,Asymptotically efficient estimation for diffusion processes with nonsynchronous observations,"Moreover, approximating the true likelihood function
+by the quasi-likelihood function is much more diﬃcult problem when we show local asymtotic normality
+and asymptotic eﬃciency of the estimators. Therefore, we left asymptotic theory under general random
+drift and diﬀusion coeﬃcients as a future work. The rest of this paper is organized as follows. ",math.ST,C,-0.27275538,-0.24456128,0.19187011
+http://arxiv.org/pdf/2207.00640v1,Maximum a posteriori estimators in $\ell^p$ are well-defined for diagonal Gaussian priors,"Further, remarkably, while
+
+Condition 2.7 (C1)—(C4) are stated in terms of the prior measure µ, the conclusions
+are drawn for MAP estimators of µy, with Assumption 2.1 providing the sufﬁcient
+
+conditions for comparability between prior and posterior in order to make this
+
+possible. ♦
+
+2.2 A framework for proving existence of MAP estimators
+
+While we use the proof strategy described above to prove Theorems 2.4 and 2.5,
+it paves the way for further research. Note that Theorem 2.8 is applicable to any
+separable Banach space, so this approach can be followed to prove Conjecture 2.3
+for other classes of Banach spaces. ",math.ST,C,-0.27580613,0.088583544,-0.006301921
+http://arxiv.org/pdf/2207.00640v2,Maximum a posteriori estimators in $\ell^p$ are well-defined for diagonal Gaussian priors,"Further, remarkably, while
+
+Condition 2.7 (C1)—(C4) are stated in terms of the prior measure µ, the conclusions
+are drawn for MAP estimators of µy, with Assumption 2.1 providing the sufﬁcient
+
+conditions for comparability between prior and posterior in order to make this
+
+possible. ♦
+
+                                9
+2.2 A framework for proving existence of MAP estimators
+
+While we use the proof strategy described above to prove Theorems 2.4 and 2.5,
+it paves the way for further research. Note that Theorem 2.8 is applicable to any
+separable Banach space, so this approach can be followed to prove Conjecture 2.3
+for other classes of Banach spaces. ",math.ST,C,-0.27274498,0.09173913,-0.0006265864
+http://arxiv.org/pdf/2207.00786v1,Universal local linear kernel estimators in nonparametric regression,"we obtain the representation
+
+                fn,h(t) = f (t) + f (t)I(δn > c∗h) + rn,h(f, t) + νn,h(t),                 (34)
+
+where
+
+                                                      n
+
+       rn,h(f, t) = I(δn ≤ c∗h) βn,i(t)(f (zn:i) − f (t))Kh(t − zn:i)∆zni,
+
+                                                    i=1
+                                                                             n
+
+                          νn,h(t) = I(δn ≤ c∗h) βn,i(t)Kh(t − zn:i)∆zniεni. i=1
+
+We emphasize that, in view of the properties of the density Kh(·), the domain of summation in
+the last two sums as well as in all sums deﬁning the quantities wnj(t) from (4) coincides with the
+set An,h(t) = {i : |t − zn:i| ≤ h, 1 ≤ i ≤ n}, which is a crucial point for further analysis. Lemma 1. ",math.ST,C,-0.21079159,0.14367644,0.259819
+http://arxiv.org/pdf/2207.00926v1,Asymptotic Uncertainty of False Discovery Proportion,"We refer to Zhuo et al. (2020) as an example of the recent
+works on dependent t-tests and leave the relevant investigation to our future work. SUPPLEMENTARY MATERIALS
+
+The supplementary materials contain technical details for the theorems in Section 3. ",math.ST,A,0.0558111,0.12114972,0.2341688
+http://arxiv.org/pdf/2207.01455v1,Dynamic Ranking and Translation Synchronization,"Experiment results on both synthetic data and real data sets
+were presented. Some interesting directions for future work are as follows. 1. ",math.ST,B,0.4700739,-0.1446639,-0.013411576
+http://arxiv.org/pdf/2207.01455v2,Dynamic Ranking and Translation Synchronization,"Experiment results on both synthetic data and real data sets
+were presented. Some interesting directions for future work are as follows. 1. ",math.ST,B,0.4700739,-0.1446639,-0.013411576
+http://arxiv.org/pdf/2207.01602v1,Minimax Optimal Deep Neural Network Classifiers Under Smooth Decision Boundary,"Similarly, this work only considers the 0-1 loss, which is also out of theoretical interest rather than
+practical relevance since it’s the most natural and fundamental classiﬁcation loss. For future work, it is
+intriguing to study how DNN classiﬁers perform under popular surrogate losses such as hinge loss or cross-
+entropy. Our numerical experiments conducted using cross-entropy indicate similar results may also hold for
+empirical surrogate loss minimizers. ",math.ST,B,-0.090692356,0.02154718,-0.29282457
+http://arxiv.org/pdf/2207.03652v1,Private independence testing across two parties,"6 Limitations and future work
+
+That said, universality results on power analysis of distance covariance based tests are being formu-
+lated by various groups in recent preprints such as Han and Shen [2021]. A further analysis of our test
+from this viewpoint is needed as part of future work. Although, we used the privacy mechanism for
+covariance given in Blocki et al. ",math.ST,A,0.28117353,-0.0036106561,0.04176948
+http://arxiv.org/pdf/2207.03926v1,On the Universality of Random Persistence Diagrams,"As suggested by Conjecture 3.1, the value of B depends
+on d, T , k, but is otherwise independent of S. Figure 6 also suggests a linear relationship between B and the
+sampling dimension (d). A thorough investigation of this relationship remains a future work. 3.00
+                       Rips/1
+
+          2.75                 Rips/2
+
+                               ech/1
+
+                               ech/2
+
+          2.50                 ech/3
+
+          2.25
+
+       B  2.00
+
+          1.75
+
+          1.50
+
+          1.25
+
+          1.00
+
+                2.0                    2.5  3.0  3.5  4.0  4.5  5.0
+                                                 dim
+
+       Figure 6. ",math.ST,B,0.11164274,0.005203413,0.052663658
+http://arxiv.org/pdf/2207.04600v1,Optimal Clustering by Lloyd Algorithm for Low-Rank Mixture Model,"Moreover, the techniques for
+proving Theorem 7 are likely sub-optimal since the sub-Gaussian constant σsg is usually not sharp
+enough to characterize a Bernoulli random variable. We leave this to future works. 9 Numerical Experiments and Real Data Applications
+
+9.1 Numerical Experiments
+
+This section presents the empirical performance of lr-Lloyd’s algorithm (Algorithm 1) and its re-
+laxed variant under weak SNR (Algorithm 3) referred to as the rlr-Lloyd’s algorithm. ",math.ST,B,-0.07762143,0.060483977,-0.15190542
+http://arxiv.org/pdf/2207.05740v1,The d-separation criterion in Categorical Probability,"The generalized causal model (C)
+
+is a pure bloom without inputs. For a further analysis of (C) regarding
+
+d-separation, see Example 29(i). In all three examples, we have Σ = G and
+assume type to be the identity map for simplicity. ",math.ST,A,0.23048851,-0.030092787,0.20181802
+http://arxiv.org/pdf/2207.05740v2,The d-separation criterion in Categorical Probability,"The generalized causal model (c)
+
+    is a pure bloom without inputs. For a further analysis of (c) regarding d-
+
+    separation, see Example 36(i). In all three examples, we have Σ = G and
+
+    assume type to be the identity map for simplicity. ",math.ST,A,0.23302186,-0.026453335,0.20106123
+http://arxiv.org/pdf/2207.07075v1,Adversarial Sign-Corrupted Isotonic Regression,"It would also be interesting to see if the moment matching technique could
+be extended subgaussian error terms. We leave these exciting directions for future work. 7 Acknowledgments
+
+We would like to thank Arun Kumar Kuchibhotla, Alex Reinhart, Alessandro Rinaldo, Larry
+Wasserman from the Carnegie Mellon University (CMU) Department of Statistics & Data
+Science, and Yang Ning from the Cornell Department of Statistics & Data Science. ",math.ST,C,-0.025534324,-0.2009713,-0.01535057
+http://arxiv.org/pdf/2207.08074v1,Mean field Variational Inference via Wasserstein Gradient Flow,"Note that in the situation where Zn is
+
+continuous, we may also apply a one-step discreteized Wasserstein gradient ﬂow to update qZn
+
+rather than exactly minimize DKL(qθ ⊗ qZn πn) over qZb; the resulting algorithm then becomes
+
+coordinate descent over the space of all factorized probability distributions. We leave the formal
+
+study of this case into a future work. 3.2 Computation via discretized Wasserstein gradient ﬂow
+
+The perspective in the previous subsection of viewing the parameter update step as minimizing
+a KL divergence functional over P2r(Θ) leads to a new computational framework, which we call
+mean-ﬁeld Wasserstein gradient ﬂow (MF-WGF), of implementing the MF inference for Bayesian
+
+latent variable models. ",math.ST,C,-0.07539049,-0.20902452,-0.16085872
+http://arxiv.org/pdf/2207.09861v1,Asymptotic theory in network models with covariates and a growing number of node parameters,"Theorems 2 and 3
+require stronger assumptions than consistency, but this is a widely-observed phenomenon
+in existing literature (Yan et al., 2016a, 2019; Zhang et al., 2021). Whether it is possible
+to establish consistency and asymptotic normality under even weaker conditions will be
+an interesting future work. For cleanness, in this work, we assume that maxi,j zij ∞ < c is universally bounded. ",math.ST,C,-0.1311918,0.21566193,0.1359064
+http://arxiv.org/pdf/2207.10239v2,Fixed-domain Posterior Contraction Rates for Spatial Gaussian Process Model with Nugget,"(2021) when ν is assumed to be
+known. It requires further study whether we can include ν as part of the unknown parameters
+in the current Bayesian framework, and establish the posterior contraction for ν based on the
+new estimators in Loh (2015) and Loh et al. (2021). ",math.ST,C,-0.061947856,-0.11706564,0.005820824
+http://arxiv.org/pdf/2207.10301v2,Bayesian Sparse Gaussian Mixture Model in High Dimensions,"Our
+approach works well in both simulation and the real-world applications. There still exist challenges that need further research. One interesting extension is to
+consider scenarios where the cluster-speciﬁc covariance matrices have some structures, such
+as sparsity structures (Cai et al., 2016) or spiked structures (Johnstone and Lu, 2009). ",math.ST,B,0.18333027,-0.25485384,-0.2796601
+http://arxiv.org/pdf/2207.10464v1,Rate-optimal estimation of mixed semimartingales,"[4, 5, 15, 28]). We
+
+shall leave it to future work to examine this direction of research. The remaining paper is organized as follows. ",math.ST,A,0.35543615,0.107014894,0.2703352
+http://arxiv.org/pdf/2207.11888v1,Minimax Rates for High-dimensional Double Sparse Structure over $\ell_q$-balls,"We show that our
+proposed method achieves optimality in the minimax sense. The fully adaptive version of
+our method is not explored in this paper, and we leave it as future work. A Appendix
+
+    In the appendix, we provide additional lemmas and proofs that have been omitted from
+the main text. ",math.ST,B,-0.18076801,0.16653731,-0.36427754
+http://arxiv.org/pdf/2207.12638v1,Variance estimation in graphs with the fused lasso,"Constructing higher order
+versions of total variation is challenging in the case of estimating the mean in general graph-structured
+problems, and we expect it to be even more challenging for the variance case. Therefore, we leave this for
+future work. Acknowledgement
+
+We thank Daren Wang for bringing up the problem to our attention and for engaging in estimulating conver-
+sations. ",math.ST,C,-0.1344881,-0.08498898,-0.09266223
+http://arxiv.org/pdf/2207.12638v2,Variance estimation in graphs with the fused lasso,"Constructing higher order
+versions of total variation is challenging in the case of estimating the mean in general graph-structured
+problems, and we expect it to be even more challenging for the variance case. Therefore, we leave this for
+future work. Acknowledgement
+
+We thank Daren Wang for bringing up the problem to our attention and for engaging in estimulating conver-
+sations. ",math.ST,C,-0.1344881,-0.08498898,-0.09266223
+http://arxiv.org/pdf/2207.13442v1,Informational properties of the family of cubic rank transmuted distributions,"Some properties are discussed. We further study harmonic mean divergence and chi-square divergence. In Section 3, we
+study Shannon entropy of CRT distribution. ",math.ST,C,-0.19260515,-0.10145996,0.26133254
+http://arxiv.org/pdf/2207.13442v2,Informational properties of the family of cubic rank transmuted distributions,"Some properties are discussed. We further study harmonic mean divergence and chi-square divergence. In Section 3, we
+study Shannon entropy of CRT distribution. ",math.ST,C,-0.19260521,-0.101459995,0.2613326
+http://arxiv.org/pdf/2207.14692v1,Risk aggregation with FGM copulas,"Section 8 discusses TVaR-based
+risk allocation when the marginals are mixed Erlang rvs. In Section 9, we discuss the results and
+present some openings to further research. 2 Preliminaries
+
+We begin by introducing general notation. ",math.ST,C,-0.060240712,-0.20958488,0.09207226
+http://arxiv.org/pdf/2208.00105v1,Bias Formulas for Violations of Proximal Identification Assumptions,"[4] establish a similar proximal identiﬁcation result for the existence and
+identiﬁcation of a treatment confounding bridge function q(Z, A, X) that leverages
+the NCO variable W (and an assumption analogous to completeness Assumption 7)
+instead. Due to the higher complexity of P(A=a1|U,X) relative to E[Y |U, A, X] in our
+chosen LSEMs, we delegate sensitivity analysis involving the treatment confounding
+bridge function to future work. Assuming the outcome confounding bridge function h(W, A, X) exists and is iden-
+tiﬁable as a solution to (12), [16, 9] provide a practical approach for estimating the
+proximal g-formula using the generalized method of moments (GMM). ",math.ST,C,-0.09999263,0.074575365,0.046551283
+http://arxiv.org/pdf/2208.00105v2,Bias Formulas for Violations of Proximal Identification Assumptions,"[3] establish a similar proximal identiﬁcation result for the existence and
+identiﬁcation of a treatment confounding bridge function q(Z, A, X) that leverages
+the NCO variable W (and an assumption analogous to completeness Assumption 7)
+instead. Due to the higher complexity of P(A=a1|U,X) relative to E[Y |U, A, X] in our
+chosen LSEMs, we delegate sensitivity analysis involving the treatment confounding
+bridge function to future work. Assuming the outcome confounding bridge function h(W, A, X) exists and is iden-
+tiﬁable as a solution to (12), [16, 8] provide a practical approach for estimating the
+proximal g-formula using the generalized method of moments (GMM). ",math.ST,C,-0.100997314,0.07495548,0.045871112
+http://arxiv.org/pdf/2208.00251v1,Confidence regions for the location of peaks of a smooth random field,"This is
+
+complicated and independence between these diﬀerent derivatives does not hold as both
+
+contain terms involving the derivatives of the ﬁelds themselves, so it would not be possible
+
+to extend Theorem 1 to this setting (see Section 4 of the Supplementary Material for
+
+theoretical expansions of the ﬁrst and second derivatives of Cohen’s d). Extending to this
+
+setting is thus beyond our scope and is left to future work. It may also be of interest to develop non-parametric bootstrap style conﬁdence regions. ",math.ST,C,-0.2174828,0.0735318,0.054866187
+http://arxiv.org/pdf/2208.00727v1,On the impact of serial dependence on penalized regression methods,"(a) |tobls| > 1.96                T          φ = 0.0  φ = 0.3  φ = 0.6  φ = 0.9  φ = 0.95
+(b) |tnb w| > 1.96                50           5.96     8.00    17.16    47.58     56.12
+(c) |tcbo| > 1.96                100           5.38     7.44    18.00    50.54     60.36
+(d) |tdbr| > 1.96                250           6.06     7.20    18.26    51.16     64.90
+(e) |tub −ols| > 1.96           1000           4.94     7.28    17.72    51.82     66.48
+                                10000          5.12     7.08    19.00    53.62     65.76
+                                  50           7.32     9.36    16.48    41.82     50.58
+                                 100           6.96     7.58    12.48    36.36     47.72
+                                 250           6.96     6.08     9.34    29.00     43.62
+                                1000           5.00     5.24     7.36    18.88     31.72
+                                10000          5.32     4.68     6.08     9.48     17.00
+                                  50           6.58     6.76     7.16     8.24     8.42
+                                 100           5.78     5.60     5.92     5.86     6.28
+                                 250           6.16     4.76     5.42     4.52     5.04
+                                1000           5.00     5.06     4.74     5.02     5.20
+                                10000          5.22     5.14     4.80     4.86     5.56
+                                  50           5.88     5.94     6.16     6.12     5.52
+                                 100           5.36     5.16     5.30     5.04     5.52
+                                 250           5.86     4.62     5.14     4.56     4.86
+                                1000           4.86     5.02     4.84     4.88     5.12
+                                10000          5.22     5.10     4.82     4.86     5.58
+                                  50           6.08     6.48     5.58     6.08     5.06
+                                 100           5.36     5.40     5.34     4.84     5.26
+                                 250           6.02     4.66     5.10     4.52     4.70
+                                1000           4.94     5.00     4.78     4.96     5.16
+                                10000          5.12     5.16     4.86     4.84     5.54
+
+Table 6: Percentage of t-statistics over 1.96 in absolute value obtained on 1000 Monte Carlo replications. As a further analysis, the following Proposition shows that the variability of the limiting distribution
+of tobls depends only on the degree of serial dependence of the processes. Proposition 4 Let So2ls =  σe2               , where σ2 is the estimated variance of the residual of model
+
+                           Tt=1 (x1t −x1 )2           e
+
+                                                      43
+(18). ",math.ST,A,0.28051314,0.026995797,0.118217625
+http://arxiv.org/pdf/2208.00727v2,On the impact of serial dependence on penalized regression methods,"Table 4: Percentage of t-statistics over 1.96 in absolute value obtained on 1000 Monte Carlo replications. T φ = 0.0 φ = 0.3 φ = 0.6 φ = 0.9 φ = 0.95
+
+                      50     5.96      8.00  17.16  47.58  56.12
+
+                      100    5.38      7.44  18.00  50.54  60.36
+
+(a) |tobls| > 1.96    250    6.06      7.20  18.26  51.16  64.90
+
+                      1000   4.94      7.28  17.72  51.82  66.48
+
+                      10000  5.12      7.08  19.00  53.62  65.76
+
+                      50     7.32      9.36  16.48  41.82  50.58
+
+                      100    6.96      7.58  12.48  36.36  47.72
+
+(b) |tnb w| > 1.96    250    6.96      6.08  9.34   29.00  43.62
+
+                      1000   5.00      5.24  7.36   18.88  31.72
+
+                      10000  5.32      4.68  6.08   9.48   17.00
+
+                      50     6.58      6.76  7.16   8.24   8.42
+
+                      100    5.78      5.60  5.92   5.86   6.28
+
+(c) |tcbo| > 1.96     250    6.16      4.76  5.42   4.52   5.04
+
+                      1000   5.00      5.06  4.74   5.02   5.20
+
+                      10000  5.22      5.14  4.80   4.86   5.56
+
+                      50     5.88      5.94  6.16   6.12   5.52
+
+                      100    5.36      5.16  5.30   5.04   5.52
+
+(d) |tdbr| > 1.96     250    5.86      4.62  5.14   4.56   4.86
+
+                      1000   4.86      5.02  4.84   4.88   5.12
+
+                      10000  5.22      5.10  4.82   4.86   5.58
+
+                      50     6.08      6.48  5.58   6.08   5.06
+
+                      100    5.36      5.40  5.34   4.84   5.26
+
+(e) |tbu−ols| > 1.96  250    6.02      4.66  5.10   4.52   4.70
+
+                      1000   4.94      5.00  4.78   4.96   5.16
+
+                      10000  5.12      5.16  4.86   4.84   5.54
+
+                                   42
+As a further analysis, the following Proposition shows that the variability of the limiting distribution
+of tobls depends only on the degree of serial dependence of the processes. Proposition G.1 Let So2ls =        σe2         , where σ2 is the estimated variance of the residual of
+model (24). ",math.ST,A,0.3105306,-0.101713166,0.21970484
+http://arxiv.org/pdf/2208.00926v1,Graphical Representations for Algebraic Constraints of Linear Structural Equations Models,"Improved algorithms might also avoid some of the spurious factors which are sometimes
+produced by our current algorithm. Another important direction for future work is to deﬁne a graphical separation criterion
+along the lines of d-separation and t-separation (Sullivant et al., 2010), which, given a
+mixed graph and a graphical constraint, allows us to decide whether that constraint holds
+in the graph’s model. Such a criterion may build on the restricted trek separation criterion of
+Drton et al. ",math.ST,B,0.2904204,0.13572301,-0.1945817
+http://arxiv.org/pdf/2208.01365v1,Concentration inequalities for correlated network-valued processes with applications to community estimation and changepoint analysis,"In this paper, we only focus on the problems of changepoint
+and community estimation. Exploration of the rest of the applications is left for future work. We now discuss the main contribution of this paper. ",math.ST,B,0.25008532,-0.117575206,-0.044140574
+http://arxiv.org/pdf/2208.01914v1,Network homophily via multi-dimensional extensions of Cantelli's inequality,"We
+
+have shown that γpGq, encodes the covariance structure of the random outcome of the random coloring
+
+model and reﬂects the dispersion of the degree distribution of G. If G is a network with over-dispersed
+
+degree distribution, such as a scale-free network, then γpGq is nonpositive. This phenomenon becomes
+
+interesting and deserves further research, in light of the results of [16], where the authors show that
+
+homophily aﬀects the curvature of the degree distribution under the preferential attachment evolutionary
+
+mechanism. Recall from Section 1 that what we have so far understood by homophily is actually what we have
+
+called edge density homophily, which is obtained by considering the density of the edges of a graph as a
+
+measure of correlation between the coloring f and the network G. Other notions of homophily are possible
+
+by choosing a diﬀerent correlation measure. ",math.ST,B,0.11562509,-0.11709367,0.1919426
+http://arxiv.org/pdf/2208.04245v1,Differentially Private Fréchet Mean on the Manifold of Symmetric Positive Definite (SPD) Matrices,"One limitation of our work
+is that the proposed mechanism is restricted to one manifold with one speciﬁc metric. While
+the log-Euclidean metric is one of the most important metrics on the SPD manifold, future work
+should investigate how to build a Gaussian mechanism that works on any complete Riemannian
+manifold. We could deﬁne such as a mechanism using a Riemannian Gaussian distribution derived
+in Pennec (2006). ",math.ST,B,-0.077064976,-0.28446877,-0.02887655
+http://arxiv.org/pdf/2208.06294v1,Toric and non-toric Bayesian networks,"Moreover, we show in Theorem
+4.4 that for the two ideals to be equal it is necessary that G does not contain
+an induced cycle of length greater than three. In Section 5 we state three open problems, hoping to inspire further research on
+commutative algebra of Bayesian networks. 2 Preliminaries
+
+2.1 Staged trees
+
+Consider a directed tree T = (V, E) with a distinguished root, such that every
+edge is directed away from the root. ",math.ST,A,0.20608537,0.2228941,0.13093126
+http://arxiv.org/pdf/2208.07116v1,Some characterizations of continuous symmetric distributions based on extropy of record values,"As a result, the equality is true in C since the standard normal distribution is
+symmetric and all of the established theorems in the previous section are true for
+the standard normal distribution. 5 Conclusion and future work
+
+Our purpose of this study was to investigate and provide some new characteris-
+tics and results of continuous symmetric distribution based on extropy. For Similar
+characteristics results for continuous symmetric distribution based on entropy, see
+Ahmadi (2021). ",math.ST,C,-0.12848762,-0.12643597,0.38239872
+http://arxiv.org/pdf/2208.07438v1,Archimedes Meets Privacy: On Privately Estimating Quantiles in High Dimensions Under Minimal Assumptions,"A straightforward adaption of our differentially private projection oracle can lead to a differentially private
+
+sampler from arbitrary log-concave measures supported on the ﬂoating body. The sample complexity would
+now need to also depend, polynomially, on the Lipschitz constant of ϕ; we leave the exact dependence on it
+
+for future work. We chose to state and prove Corollary 5 for the uniform measure on FqpDq. ",math.ST,C,-0.16148542,0.08135796,0.123824805
+http://arxiv.org/pdf/2208.07610v1,"E-Statistics, Group Invariance and Anytime Valid Testing","These results can be extended to the case that d = 2
+with arbitrary n by the work of Shalaevskii (1971). As future work, it may be interesting to
+investigate whether amenity can be more generally replaced by a weaker condition, and/or
+
+whether a counterexample to Theorem 4.2 for non-amenable groups can be given. 9.2. ",math.ST,A,0.106282584,0.2082979,0.19031475
+http://arxiv.org/pdf/2208.08564v1,Privacy Aware Experimentation over Sensitive Groups: A General Chi Square Approach,"Depending on the number of post-hoc tests to be
+conducted, it may still be beneﬁcial to privatize the full contingency table and run statistical tests
+directly on it. We see this as an interesting direction of future work. A limitation of this work is that if a new group is to be added to a set of existing groups,
+increasing the total number of groups from g to g , then it is not clear how to take samples that
+are privatized over the smaller set of g groups. ",math.ST,A,0.44835344,0.09029347,0.11262077
+http://arxiv.org/pdf/2208.08925v1,Efficiency of nonparametric e-tests,"In practical application we
+should use (5) with C given by, e.g., (6). 5 Conclusion
+
+There are many possible directions of further research, including:
+
+                                               8
+    • Our notion of e-power is crude in that it depends only on the expectation
+       of log E, as explained in Remark 3.1. This crudeness is inherited by our
+       deﬁnition of the ARE of e-tests. ",math.ST,A,0.123235404,0.2111985,0.28965998
+http://arxiv.org/pdf/2208.09157v1,Consistent Bayesian Information Criterion Based on a Mixture Prior for Possibly High-Dimensional Multivariate Linear Regression Models,"From this theoretical perspective, we insist that the information criteria we provide in this paper
+should be favorable to existing model selection methods like the GIC even though their performances are
+similar. We complete this paper with some discussion on its limitations and possible directions of further research. 14
+First, we cannot apply our proof of consistency to non-normal models as they stand, although the basic idea
+of the derivation of our information criteria remains valid. ",math.ST,A,0.22819342,-0.08599913,-0.07125194
+http://arxiv.org/pdf/2208.09897v1,Multiple Descent in the Multiple Random Feature Model,"By showing that MRFMs with K types of random features may exhibit (K + 1)-
+fold descent, we demonstrate that risk curves with a speciﬁc number of descent generally exist in
+random feature based regression. An immediate future work direction is to study ridgeless regression where λ = 0. Moreover, our
+result can help future studies on the advantages and disadvantages of overﬁtting by quantitatively
+comparing the risks achieved by over-parameterized/under-parameterized models with diﬀerent
+regularization levels. ",math.ST,C,-0.009639179,-0.21480563,-0.23993146
+http://arxiv.org/pdf/2208.09897v2,Multiple Descent in the Multiple Random Feature Model,"By showing that
+MRFMs with K types of random features may exhibit (K + 1)-fold descent, we demonstrate that
+risk curves with a speciﬁc number of descent generally exist in random feature based regression. An immediate future work direction is to study ridgeless regression where λ = 0. Moreover, our
+result can help future studies on the advantages and disadvantages of overﬁtting by quantitatively
+comparing the risks achieved by over-parameterized/under-parameterized models with diﬀerent
+regularization levels. ",math.ST,C,-0.009639179,-0.21480563,-0.23993146
+http://arxiv.org/pdf/2208.10158v2,A general framework to quantify deviations from structural assumptions in the analysis of nonstationary function-valued processes,"This simpliﬁes the asymptotic derivations but the authors believe that this can be
+relaxed using a blocking technique as for example given in [2]. We leave the details for future work. 3.5.4. ",math.ST,C,-0.36144632,0.090341836,0.13253519
+http://arxiv.org/pdf/2208.11592v1,Outlier Robust and Sparse Estimation of Linear Regression Coefficients,"The relationships between computational
+complexity and similar quadratic dependencies have been unraveled in [58, 24, 23]. We leave
+the analysis in our situation for future work. We note that [46, 12, 11] considered a simpler
+case in which only noise is contaminated by outliers, with computationally tractable estimators. ",math.ST,B,0.121547654,0.060537763,-0.12884787
+http://arxiv.org/pdf/2208.12501v1,Geostatistics for large datasets on Riemannian manifolds: a matrix-free approach,"Inspired by the recent advances in Machine Learning and Deep Learning, another line of research is
+how to maximize the log-likelihood using stochastic gradient algorithms. We believe that the “matrix-free ” approach is thus a very promising tool for the analysis of envi-
+ronmental dataset that will be tested in future work, including in a spatio-temporal setting. Other
+directions for future research include 3D extensions and the modeling of non-stationary anisotropies
+
+                                                                15
+on spheres and on manifolds in general. ",math.ST,B,0.026693128,-0.29895565,-0.24330863
+http://arxiv.org/pdf/2208.12773v1,"A scattering transform for graphs based on heat semigroups, with an application for the detection of anomalies in positive time series with underlying periodicities","The outcome of the
+experiments indicate that the norm estimates we derived could be reﬁned
+with a more localized treatment in order to isolate shorter time intervals in
+which the traﬃc pattern deviates from the expected values. This will be
+pursued in future work. A SCATTERING TRANSFORM FOR GRAPHS BASED ON HEAT SEMIGROUPS 15
+
+                                        References
+
+ [1] J. And´en and S. Mallat. ",math.ST,B,-0.03447797,-0.09311779,0.06470819

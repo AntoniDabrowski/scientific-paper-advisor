@@ -1,0 +1,1010 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.01620v1,Diffraction of strongly interacting molecular Bose-Einstein condensate from standing wave light pulses,"The
+integrated proﬁles showing the momentum mode occupations are plotted in a time carpet
+over the pulse time to provide an overview of the diﬀraction process in momentum space
+(Figure 3(left)). For further analysis, we remove the background from the dual-component
+ﬁtting, time carpets can then be presented clearly with the momentum mode populations
+normalized to the total condensed population (Figure 3(middle)). The time evolution of the 0h¯k, ±2¯hk, and ±4h¯k populations are shown together with the
+theoretical results given by the Bessel functions (Figure 3(right)). ",cond-mat.quant-gas,A,0.12474036,-0.16711906,0.18578568
+http://arxiv.org/pdf/2201.01620v2,Diffraction of strongly interacting molecular Bose-Einstein condensate from standing wave light pulses,"The
+integrated proﬁles showing the momentum mode occupations are plotted in a time carpet
+over the pulse time to provide an overview of the diﬀraction process in momentum space
+(Figure 3(left)). For further analysis, we remove the background from the dual-component
+ﬁtting, time carpets can then be presented clearly with the momentum mode populations
+normalized to the total condensed population (Figure 3(middle)). The time evolution of the 0h¯k, ±2¯hk, and ±4h¯k populations are shown together with the
+theoretical results given by the Bessel functions (Figure 3(right)). ",cond-mat.quant-gas,A,0.12474036,-0.16711906,0.18578568
+http://arxiv.org/pdf/2201.02672v1,Dipolar physics: A review of experiments with magnetic quantum gases,"momentum excitation modes thanks to its privileged dy-
+namical softening to imaginary energies, indicative of an      In dDFGs, the DDI competes with the Fermi energy,
+unstable roton mode. By further studying the peak posi-              . 2 kF2
+tion and the time evolution of its population, the authors     EF =           The ﬁgure of merit is given by the ratio
+demonstrated the characteristic scalings krot ∼ 1/ℓz and             2m
+ωrot ∝ (a − a∗)1/2 for the unstable regime (a < a∗); see       nS2d2/EF, corresponding to the ratio η = Edip/Ek also
+Fig. ",cond-mat.quant-gas,A,0.17756175,-0.08488311,0.006623381
+http://arxiv.org/pdf/2201.02672v2,Dipolar physics: A review of experiments with magnetic quantum gases,"Based on a Bo-
+                             -5                                                                                       goliubov picture relevant for the short-time dynamics,
+                                                                                                                      this was interpreted as the coherent population of ﬁnite-
+                                 -8 -4 0 4 8                                                                          momentum excitation modes thanks to its privileged dy-
+                                        ky(µm-1)                                                                      namical softening to imaginary energies, indicative of an
+                                                                                                                      unstable roton mode. By further studying the peak posi-
+                              0c                                                                                      tion and the time evolution of its population, the authors
+                                                                                                                      demonstrated the characteristic scalings krot ∼ 1/ℓz and
+                             100                                                                                      ωrot ∝ (a − a∗)1/2 for the unstable regime (a < a∗); see
+                                                                                                                      Fig. 19(b-c). ",cond-mat.quant-gas,A,0.07396519,-0.1907961,0.17586847
+http://arxiv.org/pdf/2201.04132v1,The dipolar Bose-Hubbard model,"For the generic case of variable density, the transitions are described by a coupled array of dilute Bose gasses, with
+Lagrangian
+
+L=           ψλ† ∂τ ψλ + 21m |(i∇x − ϕ)ψλ|2 − µ|ψλ|2           + Vλ,λ |ψλ|2|ψλ |2
+
+          λ                                                        λ,λ
+
+                                                                                                               (A6)
+
++  (Pλ,aψλ† −ˆaψλ2 ψλ† +ˆa +                            Qλ,a,bψλ† ψλ+ˆaψ† ˆψλ+bˆ + h.c. + L0,ϕ,
+
+                                                                                      λ+ˆa+b
+
+             λ a=x                            b=a=x
+
+where again λ indexes coordinates transverse to xˆ. The coupling to ϕ appears to complicate the analysis of the ﬁxed
+point slightly, and we defer a detailed RG analysis to future work. Appendix B: Eﬀective dipole action
+
+   In this appendix we derive an eﬀective action for the dipole ﬁelds Da which is valid in the Mott insulating phases,
+and which allows us to map out at a mean-ﬁeld level the transitions from the Mott insulators into the dipole condensed
+phases. ",cond-mat.quant-gas,C,-0.14537188,0.37798122,0.18599842
+http://arxiv.org/pdf/2201.04132v2,The dipolar Bose-Hubbard model,"For the generic case of variable density, the transitions are described by a coupled array of dilute Bose gasses, with
+Lagrangian
+
+L=                    ψλ† ∂τ ψλ + 21m |(i∇x − ϕ)ψλ|2 − µ|ψλ|2           + Vλ,λ |ψλ|2|ψλ |2
+
+          λ                                                                 λ,λ
+
+                                                                                                                (A6)
+
++  (Pλ,aψλ† −ˆaψλ2 ψλ† +ˆa +                                           Qλ,a,bψλ† ψλ+ˆaψ† ˆψλ+bˆ + h.c. + L0,ϕ,
+
+                                                                                                     λ+ˆa+b
+
+                      λ a=x                   b=a=x
+
+where again λ indexes coordinates transverse to xˆ. The coupling to ϕ appears to complicate the analysis of the ﬁxed
+point slightly, and we defer a detailed RG analysis to future work. 13 If either of ˆa, bˆ are equal to xˆ, they can be replaced with a∂x,
+    and the cosine can then be Taylor expanded—the resulting term
+    then simply makes a contribution to the Mp term. ",cond-mat.quant-gas,C,-0.023583371,0.33930987,0.20418347
+http://arxiv.org/pdf/2201.04132v3,The dipolar Bose-Hubbard model,"For the generic case of variable density, the transitions are described by a coupled array of dilute Bose gasses, with
+Lagrangian
+
+       L=           ψλ† ∂τ ψλ + 21m |(i∇x − ϕ)ψλ|2 − µ|ψλ|2           + Vλ,λ |ψλ|2|ψλ |2
+
+                 λ                                                        λ,λ
+
+                                                                                                                      (A6)
+
+       +  (Pλ,aψλ† −ˆaψλ2 ψλ† +ˆa +                        Qλ,a,bψλ† ψλ+ˆaψ† ˆψλ+bˆ + h.c. + L0,ϕ,
+
+                                                                                         λ+ˆa+b
+
+                    λ a=x                            b=a=x
+
+where again λ indexes coordinates transverse to xˆ. The coupling to ϕ appears to complicate the analysis of the ﬁxed
+point slightly, and we defer a detailed RG analysis to future work. Appendix B: Eﬀective dipole action
+
+   In this appendix we derive an eﬀective action for the dipole ﬁelds Da which is valid in the Mott insulating phases,
+and which allows us to map out at a mean-ﬁeld level the transitions from the Mott insulators into the dipole condensed
+phases. ",cond-mat.quant-gas,C,-0.14537188,0.37798122,0.18599842
+http://arxiv.org/pdf/2201.04295v1,Strongly interacting impurities in a dilute Bose condensate,"(98). This        questions for future work. solution can also be obtained from the Gross-Pitaevskii
+equation if one notes that it corresponds to the density                          ACKNOWLEDGMENTS
+of bosons being n ∼ N/R3 ∼ ν/λ, and that results
+in the nonlinear term in the Gross-Pitaevskii equation          We acknowledge inspiring and insightful discussion
+λ |ψ|2 ψ ∼ νψ, thus turning Gross-Pitaevskii equation        with G. E. Astrakharchik, J. Levinsen, and M. Parish. ",cond-mat.quant-gas,B,0.07929713,0.2784859,0.16680881
+http://arxiv.org/pdf/2201.04544v2,Rapid generation of all-optical $^{39}$K Bose-Einstein condensates using a low-field Feshbach resonance,"(Fig. 7b) For each measurement we stati-        suitability for further analysis and performance extrapo-
+cally load the dipole trap from the molasses in the desired  lation. 11
+
+FIG. ",cond-mat.quant-gas,B,0.19656779,-0.0041378643,-0.12231718
+http://arxiv.org/pdf/2201.05466v1,Bond order via cavity-mediated interactions,"interference [26, 50]. The extension of these dynamics to
+                                                                 global interactions is non-trivial and will be subject of
+as in the cases of SF and SS phases of the Bose-Hubbard          future works. model with short-range interactions. ",cond-mat.quant-gas,C_centroid,-0.35078996,0.021511829,0.036059305
+http://arxiv.org/pdf/2201.05466v2,Bond order via cavity-mediated interactions,"The extension of these dynamics to   of the derivation of Eq. (A3) starting from the full atom-
+global interactions is non-trivial and will be subject of   photon master equation (that accounts for cavity losses)
+future works. have been reported and discussed in [13, 33, 36, 38], see
+                                                            also Ref. ",cond-mat.quant-gas,C,-0.016888395,-0.042950448,0.1843405
+http://arxiv.org/pdf/2201.08728v1,Fine structure of the stripe phase in ring-shaped Bose-Einstein condensates with spin-orbital-angular-momentum coupling,"Nevertheless, some analyti-
+                                                                          cal treatment is possible within the variational approach. 50          -10                                                 10        But ﬁrst, for the convenience of further analysis we in-
+                                                                          troduce instead of nonlinear parameters g and gab new
+      0                                                                   parameters G1 = (g + gab)/8π and G2 = (g − gab)/8π. The energy functional (9) is then rewritten in an equiv-
+      -200       -100        0         100                          200   alent form
+
+FIG. ",cond-mat.quant-gas,B,0.31323898,0.14228868,0.14940614
+http://arxiv.org/pdf/2201.08754v1,Probing the degree of coherence through the full 1D-3D dimensional crossover,"We vary the current in the atom chip and         of the set. The thermal component of the gas is then
+PCB wires to create a number of traps with varying as-      ﬁtted to each image to obtain the temperature [36–38],
+pect ratio κ = ω⊥/ωz, with ﬁnal trapping frequencies in     and is then removed before further analysis. Next, each
+the range ω⊥/2π = (570 − 1380) Hz transversely, and         column density image is integrated along the remaining
+ωz/2π = (15 − 34) Hz axially. ",cond-mat.quant-gas,B,-0.03194241,0.084877655,-0.3329655
+http://arxiv.org/pdf/2201.08852v1,Coupled Hydrodynamics in Dipole-Conserving Quantum Systems,"KN1254/2-1, BMBF
+the subdiﬀusive charge mode. It is an interesting ques-        EQUAHUMO, the European Research Council (ERC)
+tion for future work to determine whether this dynamical       under the European Union’s Horizon 2020 research and
+crossover has an impact on the value of the subdiﬀusion        innovation programme (grant agreement No. 851161), as
+constant D˜n. ",cond-mat.quant-gas,A,0.18689537,-0.07480124,-0.2042687
+http://arxiv.org/pdf/2201.08852v2,Coupled Hydrodynamics in Dipole-Conserving Quantum Systems,"coarse-grained charge dynamics is still governed by an
+                                                              emergent hydrodynamic description equivalent to the
+            V. DISCUSSION AND OUTLOOK                         hydrodynamics of dipole-moment conserving systems,
+                                                              leading to a subdiﬀusive mode with z = 4 [34, 35]. It
+   We have studied the emergent, coupled hydrodynamics        is an interesting question for future work to determine
+of charge and energy in a system of dipole-conserving lat-    whether this dynamical crossover has an impact on
+tice bosons at inﬁnite temperature. We have conﬁrmed          the value of the subdiﬀusion constant D˜nn. ",cond-mat.quant-gas,C,0.043038532,0.21188393,0.030356921
+http://arxiv.org/pdf/2202.00562v1,Observation of Light-Induced Dipole-Dipole Forces in Ultracold Atomic Gases,"But since such a rigorous simulation would add substan-
+                                                                                   tial numerical cost with little additional insight for the
+3. Step 2 returns a wave function ψ(t1, x, y, z) on                                present experiment, this endeavour is postponed for the
+   a 3d grid with an approximately Gaussian trans-                                 future work. verse density of width σ(t1, z). ",cond-mat.quant-gas,A,0.17052074,-0.13650844,0.11886792
+http://arxiv.org/pdf/2202.03222v1,Mean-field vs RPA calculation of the energy of an impurity immersed in a spin 1/2 superfluid,"between the two isotopes due to Andreev-Bashkin’s eﬀect
+                                                             [41] that was predicted ﬁrst in nuclear physics and has
+                                 2 dµ 0                      recently been the focus of several theoterical studies in
+                                                             the context of ultracold gases [42–44]. The study of the
+   Consequently, if the beyond-mean-ﬁeld relative fre-       interplay between these two eﬀects is beyond the scope
+quency correction β is small, we can write it as the sum     of this article and will be addressed in future work. of the contributions of the second-order term in g in
+the ground-state energy and in the eﬀective mass respec-                                Acknowledgments
+tively:
+                                                                We thank Matthieu Pierce for early contributions to
+              δω/ω − δω(1)/ω (2) (2)             (42)        this work as well as F´elix Werner, Hadrien Kurkjian,
+                            ≈ βGS + βm∗                      Christophe Salomon, Georg Bruun, and Ragheed Al-
+                   δω(1)/ω                                   hyder for stimulating discussions. ",cond-mat.quant-gas,B,0.048069093,0.27427512,-0.06740879
+http://arxiv.org/pdf/2202.06011v1,Generalization of the Kutta-Joukowski theorem for the hydrodynamic forces acting on a quantized vortex,"(20). Calculations of the complete expression of the force is left for future work. The same approach can be also followed to predict the hydrodynamic forces
+acting on a vortex in systems described by more complicated hydrodynamic equa-
+tions, such as the A phase of superﬂuid helium-3 (see, e.g., Ref. ",cond-mat.quant-gas,B,0.05986977,0.09527798,0.19138542
+http://arxiv.org/pdf/2202.09092v1,Quantum-limited thermometry of a Fermi gas with a charged spin particle,"Such in-    in Sec. VI we recapitulate our ﬁndings and provide an
+                                                     teresting many-body quantum physics, however, requires        outlook for future work. a Fermi gas to reach very low temperatures, i.e., on the
+                                                     order of a few percentage of the Fermi temperature. ",cond-mat.quant-gas,C,-0.26780412,0.1012548,-0.3602113
+http://arxiv.org/pdf/2202.09092v2,Quantum-limited thermometry of a Fermi gas with a charged spin particle,"Such in-    in Sec. VI we recapitulate our ﬁndings and provide an
+                                                     teresting many-body quantum physics, however, requires        outlook for future work. a Fermi gas to reach very low temperatures, i.e., on the
+                                                     order of a few percentage of the Fermi temperature. ",cond-mat.quant-gas,C,-0.26780412,0.1012548,-0.3602113
+http://arxiv.org/pdf/2202.10441v1,Curved and expanding spacetime geometries in Bose-Einstein condensates,"The latter was recently
+                                                             observed experimentally in [56] within a homogeneous
+                       1                          (93)       two-dimensional Bose-Einstein condensate after quench-
+            Sk(t) = + Nk + ∆Nk(t),                           ing the time-dependent coupling λ(t) to negative values
+                      2                                      and back. We leave a similar analysis within the FLRW
+                                                             universe paradigm for future work. as the momentum space representation of the rescaled
+density contrast two-point correlation function. ",cond-mat.quant-gas,C,-0.3006606,0.16389982,0.13937126
+http://arxiv.org/pdf/2202.10441v2,Curved and expanding spacetime geometries in Bose-Einstein condensates,"The latter was recently
+                                                             observed experimentally in [56] within a homogeneous
+                       1                          (93)       two-dimensional Bose-Einstein condensate after quench-
+            Sk(t) = + Nk + ∆Nk(t),                           ing the time-dependent coupling λ(t) to negative values
+                      2                                      and back. We leave a similar analysis within the FLRW
+                                                             universe paradigm for future work. as the momentum space representation of the rescaled
+density contrast two-point correlation function. ",cond-mat.quant-gas,C,-0.3006606,0.16389982,0.13937126
+http://arxiv.org/pdf/2202.10609v1,Phase-space stochastic quantum hydrodynamics for interacting Bose gases,"As a fore-
+      = −∇                            δρ                                                       shadow of Section III C below, we mention that keeping
+∂t                        2         m                                                          these second order terms corresponds to a description
+                                                                                               which goes beyond the Bogoliubov treatment of interact-
+            2     1 δρ 2√              1 1 2 δρ                                                ing Bose gases. Again, we leave this open as an interest-
+                                                                                               ing direction to pursue in future work. − 2m2      −  2 ρ3/2   ∇     ρ0 + 2 √ρ0 ∇    √ρ0
+                                                                                                  Proceeding further and truncating down to linear or-
+                       0                                                                       der, we arrive at
+
+                    2
+
+       3 δρ            ∇2√ρ0 − 1 δρ ∇2 δρ
+    +                             4 ρ30/2       ρ30/2
+
+       8 ρ05/4
+
+                              2            
+
+      11       ∇2      δρ                    
+    −√                           + O(δρ3)
+       8 ρ0            ρ30/4                                                                         ∂δρ                                         g
+                                                                                                    ∂t = −∇ · [ρ0δv + v0δρ] + −i ρ0 (ξ1 + iξ2), (31)
+
+                                  1                                                                  ∂δv                               g            2        2 δρ
+                              + 2m i g (ξ1 − iξ2) , (29)
+                                                                                                     ∂t     = −∇       (v0  ·  δv)  +     δρ  −  4m2√ρ0   ∇     √ρ0
+                                                                                                                                       m
+
+∂δS                               (∇δS)2 − g δρ                                                                        2 δρ 2√                1
+      = − (∇S0 · ∇δS) −
+∂t     m                      2m                                                                                 +             ∇       ρ0 + 2m   i g (ξ1 − iξ2) ,
+                                                                                                                    4m2 ρ3/2                                         (32)
+                 1  δρ    ∇2√ρ0 +   11           δρ                                                                         0
+               −                      √    ∇2   √
+    +  2m 2 ρ30/2                   2 ρ0               ρ0
+
+                    2                                                                             ∂δS                                     g               ∇2     δρ
+                                                                                                            = − (∇S0 · ∇δS) − δρ +                     √        √
+       3 δρ            ∇2√ρ0 − 1 δρ ∇2 δρ                                                            ∂t             m                            4m ρ0             ρ0
+    +
+                                  4 ρ30/2       ρ30/2                                                            −     δρ ∇2√ρ0 − 1               g                  (33)
+       8 ρ05/4                                                                                                                                   i (ξ1 − iξ2). ",cond-mat.quant-gas,B,0.2157264,0.47669935,0.25149316
+http://arxiv.org/pdf/2202.10609v2,Phase-space stochastic quantum hydrodynamics for interacting Bose gases,"As a fore-                                δρ
+shadow of Section III C below, we mention that keeping                                            = √ρ0e−iS0        δρ                   , (35)
+these second order terms corresponds to a description                                      − iδS                         − iδS
+which goes beyond the Bogoliubov treatment of interact-                               2ρ0
+ing Bose gases. Again, we leave this open as an interest-                                                           2ρ0
+ing direction to pursue in future work. which correspond to δρ = Ψ∗0δψ + Ψ0δψ˜ and δS =
+   Proceeding further and truncating down to linear or-
+der, we arrive at                                                     1  δψ  −  δψ˜   , the LSQHD equations become
+
+                                                                                   ∗
+                                                                      2i Ψ0 Ψ0
+
+                                                                         ∂δψ(r, t) i    2
+                                                                                     =
+                                                                         ∂t               ∇2 − Vext(r, t) − 2g|Ψ0|2 δψ(r, t)
+                                                                                        2m
+
+                                                                                      − i gΨ20δψ˜(r, t) + −i g Ψ0 ξ1(r, t), (36)
+
+∂δρ                                  g                                   ∂δψ˜∂(tr, t) = − i 2m2 ∇2 − Vext(r, t) − 2g|Ψ0|2 δψ˜(r, t)
+∂t = −∇ · [ρ0δv + v0δρ] + −i ρ0 (ξ1 + iξ2), (31)                                        + i g(Ψ∗0)2δψ(r, t) + i g Ψ∗0 ξ2(r, t), (37)
+
+∂δv                        g            2        2 δρ
+
+∂t   = −∇  (v0  ·  δv)  +     δρ  −  4m2√ρ0   ∇     √ρ0
+                           m
+
+           2 δρ 2√                1                                   where Ψ0(r, t) is the mean-ﬁeld order parameter that
+     +             ∇       ρ0 + 2m   i g (ξ1 − iξ2) ,                 evolves according to the GPE (22). ",cond-mat.quant-gas,B,0.13994235,0.48991948,0.3145601
+http://arxiv.org/pdf/2202.10609v3,Phase-space stochastic quantum hydrodynamics for interacting Bose gases,"As                               δρ
+a foreshadow of Section III C below, we mention that                                              = √ρ0e−iS0        δρ                   , (35)
+keeping these second order terms corresponds to a de-                                      − iδS                         − iδS
+scription which goes beyond the Bogoliubov treatment                                  2ρ0
+of interacting Bose gases. Again, we leave this open as                                                             2ρ0
+an interesting direction to pursue in future work. which correspond to δρ = Ψ∗0δψ + Ψ0δψ˜ and δS =
+   Proceeding further and truncating down to linear or-
+der, we arrive at                                                     1  δψ  −  δψ˜   , the LSQHD equations become
+
+                                                                                   ∗
+                                                                      2i Ψ0 Ψ0
+
+                                                                         ∂δψ(r, t) i    2
+                                                                                     =
+                                                                         ∂t               ∇2 − Vext(r, t) − 2g|Ψ0|2 δψ(r, t)
+                                                                                        2m
+
+                                                                                      − i gΨ20δψ˜(r, t) + −i g Ψ0 ξ1(r, t), (36)
+
+∂δρ                                  g                                   ∂δψ˜∂(tr, t) = − i 2m2 ∇2 − Vext(r, t) − 2g|Ψ0|2 δψ˜(r, t)
+∂t = −∇ · [ρ0δv + v0δρ] + −i ρ0 (ξ1 + iξ2), (31)                                        + i g(Ψ∗0)2δψ(r, t) + i g Ψ∗0 ξ2(r, t), (37)
+
+∂δv                        g            2        2 δρ
+
+∂t   = −∇  (v0  ·  δv)  +     δρ  −  4m2√ρ0   ∇     √ρ0
+                           m
+
+           2 δρ 2√                1                                   where Ψ0(r, t) is the mean-ﬁeld order parameter that
+     +             ∇       ρ0 + 2m   i g (ξ1 − iξ2) ,                 evolves according to the GPE (22). ",cond-mat.quant-gas,B,0.11769688,0.5008386,0.30613774
+http://arxiv.org/pdf/2202.10924v1,Surface waves and bulk Ruderman mode of a bosonic superfluid vortex crystal in the lowest Landau level,"radius of the circular droplet. The physics of the high-frequency chiral surface waves de-
+   The frequency of the surface waves is ﬁxed by the coupling       serves further study. Can one write down an effective edge
+g , which is the only energy scale in the LLL approxima-            theory of the outer layer that captures the essential features
+tion. ",cond-mat.quant-gas,A,0.2744155,-0.018514665,0.010756429
+http://arxiv.org/pdf/2202.10924v2,Surface waves and bulk Ruderman mode of a bosonic superfluid vortex crystal in the lowest Landau level,"It is reassuring      tion for future investigations. that for many values of Nv our numerical microscopic results
+have reasonable agreement with the predictions of the leading-         The physics of the high-frequency chiral surface waves de-
+order low-energy effective theory of quadratically-dispersing       serves further study. Can one write down an effective edge
+                                                                    theory of the outer layer that captures the essential features
+                                                                    of the waves? ",cond-mat.quant-gas,A,0.18033189,-0.16828999,0.07201928
+http://arxiv.org/pdf/2202.11013v1,Weakly interacting Bose gases with generalized uncertainty principle: Effects of quantum gravity,"CONCLUSIONS                        uniﬁcation of quantum theory and general relativity with
+                                                               a BEC. In our future work, we aim to investigate QG
+   We studied QG eﬀects due to the GUP on the prop-            eﬀects in dipolar BEC using our HFB model. Ultracold
+erties of weakly interacting homogeneous Bose gases            atoms with dipole-dipole interactions [58] which have
+at both zero and ﬁnite temperatures using the self-            the same form as the quantum gravitational interactions
+consistent TDHFB theory. ",cond-mat.quant-gas,C,-0.24264625,0.25513652,0.10617556
+http://arxiv.org/pdf/2202.11071v1,Cold atoms in low dimensions -- a laboratory for quantum dynamics,"It might even pave the way to prepare novel metastable states
+with unseen properties or even functionalities. Let us ﬁnally indicate a number of further research directions for many of the systems
+discussed in the review. This is by no means an exhaustive list of topics, but merely a
+selection mainly based on our own interests. ",cond-mat.quant-gas,C,-0.0877161,-0.110431686,-0.17987078
+http://arxiv.org/pdf/2203.01211v1,Multi-Quantum Dark Solitons in One-Dimensional Bose Gas,"However, classical solitons universally
+                                                                appear in classical systems, and quantum solitons are
+                 8                    30  40      50     60     also expected to appear in a variety of quantum inte-
+                 6                                              grable systems. In future works, we will generalize the
+                 4                                              construction of multi-quantum solitons in the LL model
+                                                                for general quantum integrable systems, and develop a
+                    Shift                                       theoretical formulation of quantum solitons. 2                                                 The authors thank Tetsuo Deguchi for useful com-
+                                                                ments. ",cond-mat.quant-gas,C,-0.10789318,-0.08718793,0.19185923
+http://arxiv.org/pdf/2203.01313v1,Universal transport in periodically driven systems without long-lived quasiparticles,"The interband equilibration rate is extracted from
+                                                                           the slope of the period-averaged excitation density, in a. To track the system’s evolution towards a high entropy
+
+density state, we calculated the average von-Neumann
+
+entropy density of the system’s one-body reduced density
+
+matrix
+
+S(t¯) = −Tr  dk                <     <  >  >
+                        (−iG ) log(−iG ) + (iG ) log(iG ) ,
+             2π
+
+                                                                      (8)  gate in future work. where G¯> = −iG¯∆ + G¯< and the Green’s functions are
+
+evaluated at equal times t = t = t¯, see Fig. ",cond-mat.quant-gas,B,0.06343218,-0.056700323,-0.053526968
+http://arxiv.org/pdf/2203.02768v1,Mediated interactions between ions in quantum degenerate gases,"118, 263201 (2017). [16] K. S. Kleinbach, F. Engel, T. Dieterle, R. Lo¨w, T. Pfau,
+   Our results motivate future work in several directions. and F. Meinert, Physical review letters 120, 193401
+Throughout, we have assumed that the bound states of                                 (2018). ",cond-mat.quant-gas,C,0.05064059,-0.12909622,-0.20790553
+http://arxiv.org/pdf/2203.02768v2,Mediated interactions between ions in quantum degenerate gases,"the control and precision of hybrid ion-atom systems can
+be used to probe these mediated interactions systemati-        [10] A. Ha¨rter, A. Kru¨kow, A. Brunner, W. Schnitzler,
+cally and in new regimes. S. Schmid, and J. H. Denschlag, Physical review letters
+   Our results motivate future work in several directions. It would be interesting to explore the eﬀects of populat-      109, 123201 (2012). ",cond-mat.quant-gas,C,-0.037627734,-0.04786182,-0.20724876
+http://arxiv.org/pdf/2203.02921v1,Superfluidity of a Raman spin-orbit-coupled Bose gas at finite temperature,"Indeed, near the transition point
+more involved. We will consider these two interesting         we ﬁnd the very similar non-monotonic dependence as in
+issues in future works. the superﬂuid fraction. ",cond-mat.quant-gas,C,0.019427016,0.09857747,0.003746977
+http://arxiv.org/pdf/2203.07366v1,Schrieffer-Wolff Transformations for Experiments: Dynamically Suppressing Virtual Doublon-Hole Excitations in a Fermi-Hubbard Simulator,"The
+model eigenstates are to Fermi-Hubbard eigenstates after      generalization to complex non-equilibrium initial states
+the Schrieﬀer-Wolﬀ transformation. Since the Schrieﬀer-       remains to be explored in future work. Wolﬀ transformation is perturbation theory to order
+(t/U ) on an operator level, F3 is expected to deviate           The proposed protocol can also be applied in a larger
+away from unity for any ﬁnite t/U . ",cond-mat.quant-gas,C,-0.07269855,-0.12513298,-0.04265511
+http://arxiv.org/pdf/2203.07366v2,Schrieffer-Wolff Transformations for Experiments: Dynamically Suppressing Virtual Doublon-Hole Excitations in a Fermi-Hubbard Simulator,"Uˆroapmt p |Ψn and the corresponding t − J − 3s eigen-      The generalization to complex non-equilibrium ini-
+state (Fig. 4(b), orange triangles) is also above 80%       tial states remains to be explored in future work. for these low-energy eigenstates. ",cond-mat.quant-gas,B,0.061847188,-0.068562,0.013857916
+http://arxiv.org/pdf/2203.08837v1,First and second sound in a dilute Bose gas across the BKT transition,"The two sound modes and their coupling can aﬀect
+excitation show excellent agreement, the results of the      the dynamics, such as the propagation of deterministic
+driven response show a systematic deviation, compared        vortex colliders [40]. Our results enable the further study
+to the DSF results, due to nonlinear response. If the        of these phenomena, as they provide an in-depth insight
+probing strength is small, the driven response recovers      into the key probing techniques of the ﬁeld. ",cond-mat.quant-gas,A,0.10713972,-0.18501276,0.16345224
+http://arxiv.org/pdf/2203.09442v1,Anomalous localization and multifractality in a kicked quasicrystal,"here, potentially allowing the study of other phenomena
+                                                                   unattainable with local Hamiltonians, such as potentially
+   We have used apodized Floquet engineering techniques            robust error-correcting quantum codes [33]. A ﬁnal in-
+to physically realize the kicked AAH model and observe             triguing possibility for future work is the realization of
+transport signatures of multifractal states. These results         fractal states in solid-state materials using pump-probe
+                                                                   Floquet engineering [34]. ",cond-mat.quant-gas,C,-0.19300044,-0.18603165,-0.07601672
+http://arxiv.org/pdf/2203.09442v2,Anomalous localization and multifractality in a kicked quasicrystal,"as robust error-correcting quantum codes [36]. A ﬁnal        of related fractal states in Floquet-engineered solids or
+intriguing possibility for future work is the realization    solid-state heterostructures [37]. [1] D’Alessio, L., Kafri, Y., Polkovnikov, A. ",cond-mat.quant-gas,C,-0.24237558,-0.15648054,-0.089270644
+http://arxiv.org/pdf/2203.09514v3,Emergence of isotropy and dynamic scaling in 2D wave turbulence in a homogeneous Bose gas,"1(c). The spatially-uniform driving
+                                                    associated with vortex turbulence in 2D Bose gases [13, 14],      force, F = F0 sin(ωFt), with ωF = c π/L, where c = µ/m
+                                                    and opens possibilities for further research, ranging from the    is the speed of sound, resonantly injects energy into a longest-
+                                                    interplay of wave and vortex turbulence [15] to quantum sim-      wavelength phonon mode, with wavevector kF = (π/L, 0). ulation of processes believed to have taken place in the early    Our energy-injection scale is thus set by the system size,
+                                                    universe [16]. ",cond-mat.quant-gas,C,-0.1150776,-0.036245197,0.18714455
+http://arxiv.org/pdf/2203.11104v1,Collision Dynamics of Bose-Einstein Condensates,"More work is
+needed to identify the boundaries and characteristics of                                                                                 7
+these phases. In future work, we plan to continue work-
+ing towards that eﬀort, as well as expanding the current                       VII. ACKNOWLEDGEMENTS
+capabilities of our SSM to tackle systems in 2- and 3-
+dimensions for the study of new phases resulting from              The research was carried out in part at the Jet Propul-
+rotational degrees of freedom, and more exotic conden-          sion Laboratory, California Institute of Technology, un-
+sate geometries. ",cond-mat.quant-gas,A,0.10479879,-0.047051378,-0.076603875
+http://arxiv.org/pdf/2203.11657v1,Kondo Effect in a Spin-3/2 Fermi Gas,"3,
+we give a derivation of impurity resistance and Kondo ground state energy of the system. At last, a brief conclusion and an outlook on promising future work are made. II. ",cond-mat.quant-gas,B,0.1426371,0.14121985,-0.10448197
+http://arxiv.org/pdf/2203.13255v1,Fluctuation-dissipation relation for a Bose-Einstein condensate of photons,"(1); here we use only X as a ﬁt parameter, while
+                                                                                                        the molecule number M and ∆ are ﬁxed. Each measurement
+                                                                                                        thus yields four-fold information {g(2)(0), n , ∆, X}, from
+                                                                                                        which only the data closest to the target value X = 1.535·106
+                                                                                                        are retained for further analysis. Note that we have also
+                                                                                                        examined other target values of X, but ﬁnd better statistics
+                                                                                                        at the selected one (see also Fig. ",cond-mat.quant-gas,B,0.18169883,0.044461165,-0.3069397
+http://arxiv.org/pdf/2203.15023v1,A two-dimensional programmable tweezer array of fermions,"Future work will focus on increasing the         [6] A. Omran, H. Levine, A. Keesling, G. Semeghini, T. T.
+system size of the tunnel-coupled arrays. A natural                Wang, S. Ebadi, H. Bernien, A. S. Zibrov, H. Pichler,
+target for future work will be few-leg ladder systems. S. Choi, et al., Science 365, 570 (2019). ",cond-mat.quant-gas,A,0.116784856,-0.13566077,-0.24872157
+http://arxiv.org/pdf/2203.16299v1,Analytical theory of enhanced Bose-Einstein condensation in thin films,"As currently we do not have a mathematically
+does not aﬀect the DOS. The g( ) is therefore the usual            rigorous proof for this limit, we should defer its detailed
+DOS for the Bose gas:                                              discussion to future work. V (2m)3/2 1/2
+                   g( ) = (2π)2¯h3 . ",cond-mat.quant-gas,B,-0.047983766,0.38160184,0.0032670703
+http://arxiv.org/pdf/2203.16913v1,Classical and Quantum Gases on a Semiregular Mesh,"We have shown that
+hysteresis, which would occur with any MC algorithm with local updates, can be cured by
+making an entropic sampling. In this respect, it would be intriguing to examine whether
+anything similar to the concept of nucleation barrier [55, 56] applies for this model (but we
+leave this for future work). A variation on the theme of the present model is one where the occupancy of sites is
+unrestricted. ",cond-mat.quant-gas,B,0.18477763,-0.18056792,-0.3019672
+http://arxiv.org/pdf/2204.00246v1,Fluctuation assisted collapses of Bose-Einstein condensates,"state, although the calculation for atom number of the
+                                                                collapsed condensate do not appear to have much diﬀer-
+                                                                ence. As our future works, we shall revisit the d-wave
+                                                                collapse of dipolar condensates [35] and study the dy-
+                                                                namical formation of quantum droplets in both dipolar
+                                                                and binary condensates [36, 37]. We would also like to point out that deferred collapse                            ACKNOWLEDGMENTS
+found here is stimulated by the ﬂuctuations which is com-
+pletely diﬀerent from the delayed collapse previously pre-         This work was supported by the National Key Re-
+dicted by Biasi et al. ",cond-mat.quant-gas,C,-0.16689202,0.051525183,0.10298225
+http://arxiv.org/pdf/2204.01356v1,Dominant Andreev Reflection through Nonlinear Radio-Frequency Transport,"Since the tunneling process is
+
+                                                                              momentum-conserved, the hole is reﬂected with exactly
+
+                                                                              the opposite momentum to the incident particle (hole),
+
+                                                                              which ensures that the same information is teleported to
+the reﬂected one. To further study this topic, we may                                                                                   5
+prepare two hyperﬁne states in the normal side, for ex-
+ample, |3 and |4 with two Rabi couplings: Ω↑,3 and              [9] Y. Asano, Andreev Reﬂection in Superconducting Junc-
+Ω↓,4. In this case, we can consider an incident particle at          tions (Springer, 2021). ",cond-mat.quant-gas,B,-0.02501411,-0.0037123174,-0.06273804
+http://arxiv.org/pdf/2204.01356v2,Dominant Andreev Reflection through Nonlinear Radio-Frequency Transport,"Since the tunneling process is
+
+                                                                              momentum-conserved, the hole is reﬂected with exactly
+
+                                                                              the opposite momentum to the incident particle (hole),
+
+                                                                              which ensures that the same information is teleported to
+the reﬂected one. To further study this topic, we may                                                                                   5
+prepare two hyperﬁne states in the normal side, for ex-
+ample, |3 and |4 with two Rabi couplings: Ω↑,3 and              [9] Y. Asano, Andreev Reﬂection in Superconducting Junc-
+Ω↓,4. In this case, we can consider an incident particle at          tions (Springer, 2021). ",cond-mat.quant-gas,B,-0.02501411,-0.0037123174,-0.06273804
+http://arxiv.org/pdf/2204.01424v2,Life and death of the Bose polaron,"Theoretically, this was shown to closely follow the transition
+                                                                       from the universal to the weak coupling regime at weak inter-
+                            V. CONCLUSION                              actions, and approaching ∼ tn in the unitary limit. A similar
+                                                                       analysis of the phase velocity at various repulsive interaction
+   To summarize, we have provided a detailed investigation of          strengths based on further interferometric investigations will
+interferometric and spectroscopic measurements of the Bose             be the topic of future work. polaron. ",cond-mat.quant-gas,C,-0.23002884,0.16466135,0.11404803
+http://arxiv.org/pdf/2204.01745v1,Prominent quantum many-body scars in a truncated Schwinger model,"Understanding the source
+and proximity to the thermal value make it impossible to      of these diﬀerences between the two models would be an
+draw any strong conclusions. interesting goal for future works, as it requires the in-
+                                                              vestigation of the graph structures beyond the dominant
+   Nonetheless, the contrast between the two models is        subgraphs. stark. ",cond-mat.quant-gas,A,0.31583154,0.09019583,-0.37277335
+http://arxiv.org/pdf/2204.01745v2,Prominent quantum many-body scars in a truncated Schwinger model,"Understanding the source
+and proximity to the thermal value make it impossible to      of these diﬀerences between the two models would be an
+draw any strong conclusions. interesting goal for future works, as it requires the in-
+                                                              vestigation of the graph structures beyond the dominant
+   Nonetheless, the contrast between the two models is        subgraphs. stark. ",cond-mat.quant-gas,A,0.31583154,0.09019583,-0.37277335
+http://arxiv.org/pdf/2204.03612v1,Topologically protected vortex knots and links,"It would be interesting to obtain similar classiﬁcations for physically relevant groups
+other than the quaternion group Q8. In future work, we aim to use numerical simulations
+to investigate the dynamics of the structures proposed in this article to verify their stability
+properties and provide insight how they can be prepared and observed in experiments. ∗ toni.annala@aalto.ﬁ
+ 1 Thomson, W. On vortex atoms. ",cond-mat.quant-gas,C,-0.09072095,-0.17701901,0.22858894
+http://arxiv.org/pdf/2204.03644v1,On the Stability of the Repulsive Fermi Gas with Contact Interactions,"mass-imbalanced mixtures [65–69], and molecules [70, 71]. A future work could leverage uniform Fermi gases to explore
+   Finally, our measurement of K3 provides an important in-         the regime b kin, where K3 ∝ kina6 should no longer
+gredient for assessing the limits of equilibrium for a strongly     hold, and at low temperature many-body pairing mechanisms
+                                                                    are expected to take over [19, 20]. To access the shorter time
+interacting repulsive Fermi gas. ",cond-mat.quant-gas,B,-0.10255014,0.23323542,-0.3511801
+http://arxiv.org/pdf/2204.03906v1,Superexchange liquefaction of strongly correlated lattice dipolar bosons,"For weak dipolar at-
+                                                              traction, the speed of sound decreases above half-ﬁlling
+explore further the character of this liquid phase in a       and reaches zero at unit ﬁlling, signaling the transition
+                                                              to a MI state. As the dipolar strength increases, a liq-
+future work. uid state forms, and the sound velocity also vanishes at
+                                                              spinodal density ns ≤ 1. ",cond-mat.quant-gas,A,0.029972626,-0.11031115,0.07815839
+http://arxiv.org/pdf/2204.05386v1,Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate,"The inter-    Civita symbol. In this form of the Lagrangian density
+esting case of closed boundary conditions, where mag-         the term −E · A˙ is the desired symplectic form for the
+netic degrees of freedom appear even in one dimension,        gauge ﬁeld that will allow us to rewrite the Lagrangian in
+will be the subject of future work. Finally, we derive the    canonical form (see next section), and we have omitted
+                                                              the total derivative ∇ A0E because it does not con-
+                                                              tribute to the action. ",cond-mat.quant-gas,B,0.39766344,0.19876108,0.27638486
+http://arxiv.org/pdf/2204.05386v2,Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate,"Thus, we
+quanta attached to each of them. Chern-Simons theory         expect the chiral BF theory to play a role model in the
+                                                                                                           3
+
+quantum simulation of topological gauge theories with ul-     will be the subject of future work. Finally, we derive the
+tracold atoms, similar to the one played by the Schwinger     equations of motion of the matter and gauge ﬁelds for
+model in the quantum simulation of dynamical lattice          the chiral BF theory, highlighting the analogies to the
+gauge theories. ",cond-mat.quant-gas,C,-0.19629225,-0.012985362,0.014418418
+http://arxiv.org/pdf/2204.05386v3,Encoding a one-dimensional topological gauge theory in a Raman-coupled Bose-Einstein condensate,"Thus, we
+quanta attached to each of them. Chern-Simons theory         expect the chiral BF theory to play a role model in the
+                                                                                                           3
+
+quantum simulation of topological gauge theories with ul-     netic degrees of freedom appear even in one dimension,
+tracold atoms, similar to the one played by the Schwinger     will be the subject of future work. Finally, we derive the
+model in the quantum simulation of dynamical lattice          equations of motion of the matter and gauge ﬁelds for
+gauge theories. ",cond-mat.quant-gas,C,-0.18823421,-0.013752578,0.050066337
+http://arxiv.org/pdf/2204.05641v1,Dynamical hadron formation in long-range interacting quantum spin chains,"6. Detailed quantitative modeling of experimental proto-
+
+cols is beyond the scope of this work and will form the basis
+
+of future work. VII. ",cond-mat.quant-gas,A,0.19693041,-0.06980742,-0.32004702
+http://arxiv.org/pdf/2204.05658v1,Gradient corrections to the local density approximation in the one-dimensional Bose gas,"As mentioned in the introduction, heavier cal-
+this way one can in principle construct the function α(γ)   culations are required to numerically compute β and we
+as shown in Fig.(2). For the three system sizes used to     choose to deal with this part in future works. However
+perform the calculation we see that for each values of γ    the coeﬃcient α remains suﬃcient to improve the LDA
+the function α converges to the same value. ",cond-mat.quant-gas,B,0.3460415,-0.018062279,-0.11965329
+http://arxiv.org/pdf/2204.05658v2,Gradient corrections to the local density approximation in the one-dimensional Bose gas,"[40–43]. We leave this as an exciting                                                                           (A3)
+perspective for future work. For the DMRG calculation we use a ferromagnetic
+                                                               Hamiltonian so we perform a π−rotation in the x − y
+                                                               plane. ",cond-mat.quant-gas,B,0.12495616,0.005405294,0.050387904
+http://arxiv.org/pdf/2204.06421v1,Resonant dynamics of strongly interacting SU($n$) fermionic atoms in a synthetic flux ladder,"However,   supported by the AFOSR grants FA9550-18-1-0319
+we delegate the study of such systems to future work. and FA9550-19-1-0275, by the NSF JILA-PFC PHY-
+                                                        1734006, QLCI-OMA -2016244, by the U.S. Depart-
+   Another avenue for future work is the study of       ment of Energy, Oﬃce of Science, National Quan-
+                                                        tum Information Science Research Centers Quantum
+                                                        Systems Accelerator, and by NIST. ∗ mikhail.mamaev@colorado.edu                              ter Zoller, Eugene Demler, Mikhail D Lukin, and
+[1] Patrick A Lee, Naoto Nagaosa, and Xiao-Gang             AM Rey. ",cond-mat.quant-gas,C,-0.104514495,-0.24727835,-0.08684759
+http://arxiv.org/pdf/2204.06421v2,Resonant dynamics of strongly interacting SU($n$) fermionic atoms in a synthetic flux ladder,"However,
+liﬁc spectra of resonances that manifest on shorter           we delegate the study of such systems to future work. timescales (set by the tunneling rate) because of the
+presence of more types of energetically favourable               Another avenue for future work is the study of
+processes. The resonances exhibit kinetically con-            these systems in higher spatial dimensions. ",cond-mat.quant-gas,A,0.05400319,-0.1937159,-0.057220727
+http://arxiv.org/pdf/2204.06456v1,Non-equilibrium dynamics of fluctuations in an ultra-cold atomic mixture,"in [32, 33] and out of equilibrium [34, 35]. An exciting       [7] A. Lukin, M. Rispoli, R. Schittko, M. E. Tai, A. M. Kauf-
+prospect for future work is the controlled investigation            man, S. Choi, V. Khemani, J. L´eonard, and M. Greiner,
+of correlation functions in cold-atom gauge ﬁeld theories. Science 364, 256 (2019). ",cond-mat.quant-gas,C,-0.18497068,0.092415005,-0.059157774
+http://arxiv.org/pdf/2204.06984v1,Repulsive Fermi and Bose Polarons in Quantum Gases,"Indeed, as illustrated in Fig. 7, different state-of-
+the-art calculations give inconsistent results for the spectral       Similarly, the operator in the case of the Bose polaron has
+function in the case of the Fermi polaron, clearly indicating      the form [85]
+the need for future work. In particular, we see that the theo-
+ries even disagree on the shape of the repulsive polaron peak                                   cˆ0(t)  α0(t) cˆ0 + αq(t) ˆb†qcˆq + αk(t) ˆbkcˆ−k
+at unitary, as well as yielding different results for the peak
+position and width. ",cond-mat.quant-gas,A,-0.06102501,0.006283041,0.13477989
+http://arxiv.org/pdf/2204.07147v1,Floquet-heating-induced non-equilibrium Bose condensation in an open optical lattice,"8, 13756 (2017). well as the regime of stronger system-bath coupling in            [21] K. Wintersperger, C. Braun, F. N. U¨ nal, A. Eckardt,
+future work. M. Di Liberto, N. Goldman, I. Bloch, and M. Aidels-
+                                                                        burger, Nat. ",cond-mat.quant-gas,C,0.11641745,0.10800601,-0.26807785
+http://arxiv.org/pdf/2204.07739v1,Quantum phase diagram for two species hardcore bosons in one dimensional optical lattice with resonantly driven Rabi frequency,"In-
+1D lattice with time periodically modulated Rabi oscilla-     terplay of J0 and J1 with a ﬁxed unit of U¯ = 1 leads to
+                                                              three BKT transition lines and a tricritical BKT point,
+                                                              positions of which can be captured by crossings of repre-
+sentative excited states following the level spectroscopic                                                                             8
+technique. Many future works could be done based on
+the eﬀective model. For example, it is worthy of study-       the odd and even terms are decoupled. ",cond-mat.quant-gas,C,-0.071663946,-0.1581898,-0.084253594
+http://arxiv.org/pdf/2204.07739v2,Quantum phase diagram for two species hardcore bosons in one-dimensional optical lattices with the resonantly driven Rabi frequency,"In details, ∆c, ∆n and D are obtained           spectroscopic technique. under OBC for L = 50 (red), 100 (orange), 150 (green) and
+                                                                           Many future works could be done based on the eﬀective
+200 (blue) respectively. However, ρs is calculated under PBC            model. ",cond-mat.quant-gas,B,0.21251172,0.074592,-0.17827462
+http://arxiv.org/pdf/2204.10062v1,"Reply to Comments on ""Universal and Non-Universal Correction Terms of Bose Gases in Dilute Region: A Quantum Monte Carlo Study""","Jpn. have to leave it for a future work. Here, we present the im-     5) S. Tan, Phys. ",cond-mat.quant-gas,B,0.38486943,-0.06355837,-0.21117306
+http://arxiv.org/pdf/2204.10120v1,Phase transition dimensionality crossover from two to three dimensions in a trapped ultracold atomic Bose gas,"Although the densities exhibit up to 20%    experimental observation Bose-Einstein condensation in
+variation, it is important to highlight that the dominant   quasi-dimensional trapping geometries [18, 72–75]. This
+dependence of Tc on Λ for small values of Λ is not a con-   work motivates further research and insights on questions
+sequence of the changing density. To this aim, we have      related, for instance, to vortex topology in response to di-
+added two further ad hoc simulation points, spanning the    mensional quenches and to the nature of linear and non-
+density extrema in (a) and observe no noticeable change     linear collective excitations of the gas in the dimensional
+(within our uncertainties) to the numerically-extracted     crossover. ",cond-mat.quant-gas,C,-0.25171387,0.2210851,0.1873847
+http://arxiv.org/pdf/2204.10960v1,Inducing spin-order with an impurity: phase diagram of the magnetic Bose polaron,"(10) as the solution of the        Recall that in the un-trapped case using the Lee-Low-
+magnetic polaron dressing cloud, an analysis that will be        Pines transformation leads to a similar form to Eq. (11)
+addressed in a future work. for the dressing cloud of the Bose polaron [44, 66, 67]. ",cond-mat.quant-gas,A,0.057536386,0.117693745,0.054135237
+http://arxiv.org/pdf/2204.13718v1,Driving quantum many-body scars,"In both
+                                                                 cases the largest eigenvalue stays close to 1.
+diverge at lower frequencies, which is at odds with the
+numerics that shows the existence of long-lived subhar-
+monic response at frequencies ω ∼ 1. We leave the in-
+teresting question how to adapt the BCH expansion to
+describe this non-perturbative regime for future work. Appendix D: A diﬀerent way of visualising the
+                      Hilbert space trajectory
+
+   In the main text, we analyzed the trajectory of a driven
+QMBS system in the Hilbert space by evaluating the av-
+
+1 Maksym Serbyn, Dmitry A Abanin, and Zlatko Papi´c,               system,” Phys. ",cond-mat.quant-gas,A,0.0750507,-0.2515842,0.1830022
+http://arxiv.org/pdf/2204.13718v2,Driving quantum many-body scars in the PXP model,"There are
+monic response at frequencies ω ∼ 1. We leave the in-                    no revivals from the polarized state in the bare PXP
+teresting question how to adapt the BCH expansion to                     model, so the trajectory at later times ends up in the
+describe this non-perturbative regime for future work. region where all three eigenvalues are of approximately                                                                                19
+equal magnitudes, implying thermalization. ",cond-mat.quant-gas,A,0.06348498,-0.08397085,0.02254396
+http://arxiv.org/pdf/2204.14144v1,Splitting of topological charge pumping in an interacting two-component fermionic Rice-Mele Hubbard model,"How exactly the breakdown of quantized pumping         reach of validity of the present perturbative treatment. due to gapless spin excitations behaves as a function of
+system size and which time scales are relevant is an open        We perform a canonical transformation similar to the
+question and demands further research. With regards to        one that transforms the Hubbard model at half ﬁlling
+the interpretations of the experiment by Walter et al.,       to a Heisenberg model. ",cond-mat.quant-gas,C,-0.16503906,-0.30371732,-0.055822987
+http://arxiv.org/pdf/2204.14144v2,Splitting of topological charge pumping in an interacting two-component fermionic Rice-Mele Hubbard model,"The SDI phase is out of the
+system size and which time scales are relevant is an open     reach of validity of the present perturbative treatment. question and demands further research. With regards to
+the interpretations of the experiment by Walter et al.,          We perform a canonical transformation similar to the
+one should also stress that their system conﬁnes particles    one that transforms the Hubbard model at half ﬁlling
+in a harmonic trap and, as a consequence, arbitrarily         to a Heisenberg model. ",cond-mat.quant-gas,C,-0.08907306,-0.20495787,-0.008136751
+http://arxiv.org/pdf/2204.14144v3,Splitting of topological charge pumping in an interacting two-component fermionic Rice-Mele Hubbard model,"However, the staggered ﬁeld      excitations behaves as a function of system size and which
+leads to an additional non-zero quantized spin-pumping. time scales are relevant is an open question and demands
+                                                                further research. With regards to the interpretation of the
+   For IHZ, quantization holds for the ﬁrst couple of pump      experiment by Walter et al., one should also stress that
+cycles for experimentally relevant time scales in a ﬁnite sys-  their system conﬁnes particles in a harmonic trap and, as
+tem, despite the twofold-degenerate ground-state. ",cond-mat.quant-gas,C,-0.11153114,-0.27684683,0.07669591
+http://arxiv.org/pdf/2205.02015v1,Dynamical excitation processes and correlations of three-body two-dimensional mixtures,"In this sense, the investigation
+of possible smearing eﬀects of the identiﬁed peak struc-         The last term of Eq. (A1) stands for the three (two)
+tures building upon the time-averaged contacts for large      pairwise s-wave contact interactions among the particles
+w > aho is a compelling perspective for further research. in a BBX (FFX) system. ",cond-mat.quant-gas,A,0.09545499,-0.08420403,-0.08658092
+http://arxiv.org/pdf/2205.02015v2,Dynamical excitation processes and correlations of three-body two-dimensional mixtures,"Moreover, temper-
+LLH  1          −421                                            ature eﬀects are expected to mitigate few-body correla-
+                                                                tions as shown in [41, 95]. In this sense, the investigation
+HHL  1          1578                                            of possible smearing eﬀects of the identiﬁed peak struc-
+                                                                tures building upon the time-averaged contacts for large
+Table I. Mapping of the 2D BX, FX and BB post-quench            w > aho is a compelling perspective for further research. scattering lengths to their 3D counterparts (in atomic units
+with a0 denoting the Bohr radius) for both LLH and HHL se-         In addition, an interesting question that arises for fu-
+tups. ",cond-mat.quant-gas,A,0.080846176,-0.02010073,-0.21715386
+http://arxiv.org/pdf/2205.06492v1,Thermalization of interacting quasi-one-dimensional systems,"Understand-
+a thermal state, allowing us to linearize the Boltzmann       ing the origin of this gapless spectrum—and whether it
+equation about the thermal state. The process of ther-        is generic—is an interesting question for future work. malization is then determined by the spectrum of the
+resulting linear operator Q0 [50]. ",cond-mat.quant-gas,A,0.14448906,-0.057340015,-0.037227947
+http://arxiv.org/pdf/2205.06492v2,Thermalization of interacting quasi-one-dimensional systems,"Understand-
+a thermal state, allowing us to linearize the Boltzmann       ing the origin of this gapless spectrum—and whether it
+equation about the thermal state. The process of ther-        is generic—is an interesting question for future work. malization is then determined by the spectrum of the
+resulting linear operator Q0 [51]. ",cond-mat.quant-gas,A,0.1471093,-0.05156935,-0.033295553
+http://arxiv.org/pdf/2205.07551v1,Dynamical emergence of a Kosterlitz-Thouless transition in a disordered Bose gas following a quench,"An analysis of the dy-
+                                                                 namical exponents governing the approach to equilibrium
+To test Eq. (6) in the presence of disorder, we have             would be an interesting challenge for future work. NC acknowledges the Agence Nationale de la
+Recherche (grant ANR-19-CE30-0028-01 CONFOCAL)                                                                                                5
+for ﬁnancial support, and discussions with Andrea de
+Luca and Fabien Alet. ",cond-mat.quant-gas,B,0.1023545,0.06751316,-0.07034617
+http://arxiv.org/pdf/2205.07919v1,Discrete time crystals enforced by Floquet-Bloch scars,"chanics and thermodynamics, Adv Phys 65, 239 (2016). [56] G. Semeghini, H. Levine, A. Keesling, S. Ebadi, T. T. Wang,
+[50] Due to limited sizes accessible here, we would postpone a more           D. Bluvstein, R. Verresen, H. Pichler, M. Kalinowski, R. Sama-
+      comprehensive examination of criticality to future work and             jdar, A. Omran, S. Sachdev, A. Vishwanath, M. Greiner,
+      only take λ0 as a reference scar vanishing point. V. Vuletic´, and M. D. Lukin, Probing topological spin liquids on
+[51] A. W. Sandvik, A. Avella, and F. Mancini, Computational stud-            a programmable quantum simulator, Science 374, 1242 (2021). ",cond-mat.quant-gas,C,-0.14901486,-0.04441356,0.055351295
+http://arxiv.org/pdf/2205.07919v2,Discrete time crystals enforced by Floquet-Bloch scars,"[50] L. D’Alessio, Y. Kafri, A. Polkovnikov, and M. Rigol, From
+      quantum chaos and eigenstate thermalization to statistical me-
+      chanics and thermodynamics, Adv Phys 65, 239 (2016). [51] Due to limited sizes accessible here, we would postpone a more
+      comprehensive examination of criticality to future work and
+      only take λ0 as a reference scar vanishing point. [52] A. W. Sandvik, A. Avella, and F. Mancini, Computational stud-
+      ies of quantum spin systems, in AIP Conference Proceedings
+      (AIP, 2010). ",cond-mat.quant-gas,C,-0.13034664,-0.1592098,0.039578237
+http://arxiv.org/pdf/2205.08541v1,Quantum simulation of $\mathbb{Z}_2$ lattice gauge theories with dynamical matter from two-body interactions in $(2+1)$D,"2b. Here, the pure matter theory can no longer be      is a promising candidate to further study QDMs due to
+mapped on the classical 3D Ising model. Hence, we in-       its versatility and its inherent protection by the LPG
+troduce the term quantum-Z2 matter, which emphasizes        term and the phase diagram of Hamiltonian (4) remains
+the matter’s Z2 symmetry group but points out that a        to be explored
+mapping to a known classical model is lacking. ",cond-mat.quant-gas,C,-0.19556248,-0.05568961,0.04751089
+http://arxiv.org/pdf/2205.09857v1,Lattice polarons across the superfluid to Mott insulator transition,"In this region, it is expected that the mo-
+tion of a mobile impurity is diﬀusive due to the almost            ∗ Corresponding author: colussiv@gmail.com
+free-particle nature of the bath [37]. The time-dependent        [1] C. Franchini, M. Reticcioli, M. Setvin, and U. Diebold,
+description of this phenomenon is left for future work. Eventually, the mobile impurity is so strongly renor-                 Nature Reviews Materials 6, 560 (2021). ",cond-mat.quant-gas,A,0.17586035,0.010638496,-0.1233194
+http://arxiv.org/pdf/2205.10465v1,Thermal Conductivity of an Ultracold Paramagnetic Bose Gas,"A comprehensive ﬂuid description will of course re-
+                                                                  quire the transport tensor of viscosity to also be de-
+                                                                  rived. The analytic techniques presented here permit
+                                                                  this derivation, which will be a subject of future work. Another possible extension of this work is to include
+                                                                  quantum statistical eﬀects in computing the transport
+                                                                  coeﬃcients, as done in Refs. ",cond-mat.quant-gas,B,0.18711483,0.17472476,0.15511131
+http://arxiv.org/pdf/2205.11094v1,Controllable Production of Degenerate Fermi Gases of $^6$Li Atoms in the 2D-3D Crossover,"116, 045303 (2016). the ultracold Fermi gas in the 2D-3D crossover and promote
+further research on the relationship between many-body inter-       [9] K. Fenech, P. Dyke, T. Peppler, M. G. Lingham, S. Hoinka, H.
+action and the dimensionality of the system. Hu, and C. J. Vale, Thermodynamics of an Attractive 2D Fermi
+                                                                         Gas, Phys. ",cond-mat.quant-gas,C,-0.16719097,0.24499942,-0.21077083
+http://arxiv.org/pdf/2205.11732v1,Universal scattering phase shift in the presence of spin-orbit coupling,"INTRODUCTION                      able breakthroughs [24–31]. Owing to the high control-
+                                                                                                                 lability of cold atoms in interatomic interaction, purity,
+                                                        Owing to their versatility, ultracold atomic gases pro-  and geometry [3, 32–35], SO-coupled cold atoms have
+                                                     vide ideal platform on which to study fascinating quan-     became a manifold platform for further researching and
+                                                     tum many-body phenomena in a highly controllable and        understanding of novel phenomena in condensed-matter
+                                                     tunable way [1–3]. As a building block of interacting       physics, such as topological insulators and superconduc-
+                                                     many-body systems, the two-body problem is of funda-        tors [36–38]. ",cond-mat.quant-gas,C,-0.2829854,0.09481879,-0.15501867
+http://arxiv.org/pdf/2205.11958v1,Two trapped particles interacting by a finite-ranged two-body potential in two spatial dimensions,"(Λ − 1)2 . |m| + i
+
+                                                                                                                (A3)
+this results will be useful in the further study of problems in the main text with the original
+parameters. 31
+Appendix B: Calculation of constant cnr,m. ",cond-mat.quant-gas,B,0.33546183,-0.113658786,0.12833273
+http://arxiv.org/pdf/2205.11997v1,Optimal temperature estimation in polariton Bose-Einstein Condensate,"Due to that the QFI
+                                                            becomes less and less dependent on the total number of
+                                                            the polaritons, too strong incoherent pumping is a waste
+                                                            of energy. Whether the periodic coherent modulation
+                                                            and nonlinearity can be used to enhancing the estimation
+                                                            precision of low tempearature deserves further study. Acknowledgements.-This research was supported by
+                                                            the National Natural Science Foundation of China under
+                                                            Grant No. ",cond-mat.quant-gas,A,0.03328976,-0.40047085,0.03298434
+http://arxiv.org/pdf/2205.12970v2,Tunable transport in the mass-imbalanced Fermi-Hubbard model,"Generalizations of
+mental Hubbard parameters can be precisely estimated,                                                       the technique to multicomponent mixtures and bosonic
+the temperature of the initial state is much more chal-                                                     systems are in principle straightforward and a promising
+lenging to characterize. Hence, we treat it as a ﬁtting pa-                                                 route for future work. ACKNOWLEDGMENTS                                                                                                          10
+
+   We thank Oscar Bettermann, Immanuel Bloch, Jo-                      free dispersion σ(k) = −2tσ cos(k). ",cond-mat.quant-gas,C,-0.11247131,-0.020357076,-0.12799427
+http://arxiv.org/pdf/2205.13865v1,Defining a critical temperature of a crossover from BEC to the normal phase in anisotropic quantum magnets,"We have also found optimized values of coupling constants, U , γ and γ for TlCuCl3, which
+are the strengths of the contact triplon-triplon interaction, exchange anisotropy and DM
+interactions, respectively. These parameters may be used to further study of the physical
+properties of this material. We have shown that, for the crossover phase transition the heat capacity is smeared, while,
+the number ﬂuctuation, which is proportional to the magnetization has a maximum. ",cond-mat.quant-gas,B,0.23763552,0.21114062,-0.19628446
+http://arxiv.org/pdf/2205.15826v2,Phonon decay in 1D atomic Bose quasicondensates via Beliaev-Landau damping,"We relegate
+  erated by the parametric resonance considered in the second set   the analysis of the inﬂuence of the correlation on the decay to a
+  of simulations. Yet, we achieve a quantitative agreement with     future work dedicated to the dynamics of entanglement in this
+                                                                    context. 15
+
+the relevant interactions to be between the peak and the thermal population, and not of the peak on itself, we insert
+nk = ntkh + δnk in Eq. ",cond-mat.quant-gas,C,-0.12429692,-0.14070731,-0.038863167
+http://arxiv.org/pdf/2206.00652v1,Ultracold Gas of Dipolar NaCs Ground State Molecules,"tions in quantum simulation and quantum information. We will investigate the nature of the loss processes in NaCs
+in future work. This will be of critical interest given the                   We are grateful to Eberhard Tiemann for providing a
+plethora of open questions regarding the formation of col-                 coupled-channel calculation for the Feshbach state and Kang-
+lision complexes and loss processes in ultracold molecular                 Kuen Ni and her group for fruitful discussions. ",cond-mat.quant-gas,C,-0.045782477,0.021072611,-0.16754523
+http://arxiv.org/pdf/2206.01048v1,Universal van der Waals force between heavy polarons in superfluids,"These extensions may lead to diﬀerent uni-
+between impurities based on the Galilean invariant super-           versal behavior for the impurity problem; we leave these
+ﬂuid EFT. We ﬁnd that the exchange of two superﬂuid                 for future work. phonons leads to the relativistic van der Waals poten-
+tial V (r) ∼ 1/r7 at zero temperature. ",cond-mat.quant-gas,C,0.022953456,0.18394,0.025412507
+http://arxiv.org/pdf/2206.01048v2,Universal van der Waals force between heavy polarons in superfluids,"dipolar interaction between the medium and impurity, or
+                                                                    the distinct symmetry broken phases of a spinor BEC as
+   Discussion and outlook.—In this Letter, we have clar-            a medium. These extensions may lead to diﬀerent uni-
+iﬁed the universal long-range behavior of the potential             versal behavior for the impurity problem; we leave these
+between impurities based on the Galilean invariant super-           for future work. ﬂuid EFT. ",cond-mat.quant-gas,C,-0.046062153,0.11613068,0.07727844
+http://arxiv.org/pdf/2206.01048v3,Universal van der Waals Force Between Heavy Polarons in Superfluids,"These
+tial V (r) ∼ 1/r7 at zero temperature. We also ﬁnd that        extensions may lead to diﬀerent universal behavior for
+at ﬁnite temperature T > 0 it leads to the nonrelativis-       the impurity problem; we leave these for future work. tic van der Waals potential V (r) ∼ T /r6 at larger dis-
+tances r cs/T , while the potential acquires a Coulomb-           The authors thank G. Bighin, M. Drescher, S. Endo,
+type correction ∆VT (r) ∼ T 6/r at intermediate distances
+ξ r cs/T . ",cond-mat.quant-gas,B,0.12763152,0.1995452,-0.07305247
+http://arxiv.org/pdf/2206.02317v3,Fermi spin polaron and dissipative Fermi-polaron Rabi dynamics,"(44)
+ﬁeld type decoupling of a correlation function that in-
+volves four ﬁeld operators, which could be accurate for      We will consider the calculation of this correlation func-
+the short-time evolution. We have compared our theo-         tion in future works, with which we may recover the vari-
+retical predictions on Rabi oscillations with the experi-    ational results presented in Ref. [24]. ",cond-mat.quant-gas,A,0.13338163,-0.21141303,0.1595081
+http://arxiv.org/pdf/2206.05768v1,Correlated dynamics of collective droplet excitations in a one-dimensional harmonic trap,"V]. We conclude
+Additionally, in order to explicate the role of correla-     oﬀering also perspectives for future work in Sec. VI. ",cond-mat.quant-gas,A,0.35780284,-0.01569739,-0.020757917
+http://arxiv.org/pdf/2206.06837v1,A dynamical theory for one-dimensional fermions with strong two-body losses: universal non-Hermitian Zeno physics and spin-charge separation,"or are directly in contact, is an open and very intriguing        [11] E. Haller, M. Rabie, M. J. Mark, J. G. Danzl, R. Hart,
+question, left for future work. K. Lauber, G. Pupillo, and H.-C. Na¨gerl, Three-body
+                                                                        correlation functions and recombination rates for bosons
+   Note added — Recently, we became aware of an ex-                     in three dimensions and one dimension, Phys. ",cond-mat.quant-gas,C,-0.030538859,0.022385502,-0.18645376
+http://arxiv.org/pdf/2206.06837v2,A dynamical theory for one-dimensional fermions with strong two-body losses: universal non-Hermitian Zeno physics and spin-charge separation,"We leave this
+(MF) and a quantum-Zeno (QZ) one. study for future work. In Fig. ",cond-mat.quant-gas,A,-0.07154838,-0.2114824,0.11700501
+http://arxiv.org/pdf/2206.07168v1,Mode switching dynamics in organic polariton lasing,"in Fig. 9(a-c), for instance when the pump strength is
+                                                                             increased from 1.30 to 1.50 Γ↑/Γ↓, the gain spectrum
+   We can further study how the gain aﬀects diﬀerent                         moves from 0.78–0.82 eV to 0.84–0.86 eV. The photo-
+cavity modes by considering Gk(ν). ",cond-mat.quant-gas,A,0.31321338,-0.19349812,0.04907086
+http://arxiv.org/pdf/2206.07168v2,Mode switching dynamics in organic polariton lasing,"the highest occupation. We can further study how the gain aﬀects diﬀerent
+   The time evolution of the mode occupations for strong       cavity modes by considering Gk(ν). The momentum-
+coupling is presented in Fig. ",cond-mat.quant-gas,A,0.14518644,-0.24156778,0.21513075
+http://arxiv.org/pdf/2206.09088v1,Comparative study for two-terminal transport through a lossy one-dimensional quantum wire,"In addition,
+                                                             microscopic understanding of dissipation eﬀects for in-
+the expressions above are consistent with ones obtained      ternal mesoscopic transport systems [57] could also be
+in the previous sections. In this case, we also obtain the   an interesting future work. relation,
+                                                                                   ACKNOWLEDGMENT
+         T (ω) + R(ω) + L(ω) = 1,             (107)
+                                                                The author thanks T. Esslinger, P. Fabritius, T. Gia-
+with reﬂectance R = |rL|2 = |rR|2. ",cond-mat.quant-gas,B_centroid,0.217489,0.21566354,0.16249259
+http://arxiv.org/pdf/2206.09088v2,Comparative study for two-terminal transport through a lossy one-dimensional quantum wire,"[14, 48, 49]. We also note      ternal mesoscopic transport systems [60] could also be
+that by using the following energy current operator:          an interesting future work. IˆE,j (τ )= dω dω ei(ω−ω )τ ω + ω + µ                                               ACKNOWLEDGMENT
+                   2π                   2
+                                                                 The author thanks T. Esslinger, P. Fabritius, T. Gia-
+×[aˆ†j(ω)aˆj(ω ) − ˆb†j(ω)ˆbj(ω)],         (117)              marchi, M.-Z. ",cond-mat.quant-gas,B,0.17051381,0.09101405,0.122438096
+http://arxiv.org/pdf/2206.09088v3,Comparative study for two-terminal transport through a lossy one-dimensional quantum wire,"[14, 48, 49]. We also note      ternal mesoscopic transport systems [60] could also be
+that by using the following energy current operator:          an interesting future work. IˆE,j (τ )= dω dω ei(ω−ω )τ ω + ω + µ                                               ACKNOWLEDGMENT
+                   2π                   2
+                                                                 The author thanks T. Esslinger, P. Fabritius, T. Gia-
+×[aˆ†j(ω)aˆj(ω ) − ˆb†j(ω)ˆbj(ω)],         (117)              marchi, M.-Z. ",cond-mat.quant-gas,B,0.17051381,0.09101405,0.122438096
+http://arxiv.org/pdf/2206.09212v1,Fermi-Polaron in a driven-dissipative background medium,"Our model can be implemented in recent ex-
+                                                                periments [47–50], and the results in this work can help
+                                                                us to ﬁnd appropriate setups in dissipative cold atom
+                                                                experiments to observe clear-cut polaron signals. Based on the technical methods used in this work,
+                                                                we can further study the experimental realizable system,
+                                                                e.g., the exciton-polariton system in quantum wells em-
+                                                                bedded in an optical micro cavity. The leakage of photons
+                                                                from the cavity and the decay of exciton via radiative
+                                                                and non-radiative processes make the platform a natural
+                                                                open quantum system [61–63]. ",cond-mat.quant-gas,C,-0.22296248,-0.13635667,-0.011445552
+http://arxiv.org/pdf/2206.10563v1,Experimental verification of the area law of mutual information in quantum field theory,"nelling rates, between J = 2π × 0.1 Hz (dashed lines) and
+2π × 1 Hz (solid lines). The inset shows the theoretical pre-                            Another promising direction for future work is to go
+dictions for SA (left axis) and I(A : AC) (right axis) for three                      beyond quadratic models and detect entanglement in an
+diﬀerent values of N , for J = 2π × 0.4 Hz without considering                        interacting model. It has already been demonstrated that
+the eﬀect of ﬁnite optical resolution (see SM). ",cond-mat.quant-gas,C,-0.15271266,-0.38536924,-0.023949027
+http://arxiv.org/pdf/2206.12211v1,Acoustic oscillations in cigar-shaped logarithmic Bose-Einstein condensate in the Thomas-Fermi approximation,"This reﬂects the fact that for a       the above-mentioned set of approximations. The study
+harmonic conﬁning potential, an increase in the number            of nonlinear and shock-wave eﬀects in one-dimensional
+of particles per unit length results in the expansion of the      quantum Bose liquids under more general conditions will
+condensate lump in the radial direction; thereby leading          be the subject of future work. to a less rapid increase of the total potential energy than
+would be the case for conﬁnement by rigid walls. ",cond-mat.quant-gas,C,-0.10650048,0.16754304,0.20008066
+http://arxiv.org/pdf/2206.12265v1,Observation of vortices and vortex stripes in a dipolar Bose-Einstein condensate,"which the dark spots within the condensate correspond          Although such an approach gives very good agreement
+to the cores of individual vortices. The vertical images       between theory and experiments, future works on a pre-
+are taken with a short TOF of 3 ms and a pulse duration        cise determination of as, similar to the one achieved with
+of 3-4 µs. For the data in Fig. ",cond-mat.quant-gas,A,0.21134314,-0.06267027,0.011022551
+http://arxiv.org/pdf/2206.12599v1,Role of the effective range in the density-induced BEC-BCS crossover,"Eventually,
+in the high-density regime (kFr ∼> π) where the zero-momentum Hartree approximation
+breaks down, the sound velocity increases again towards the ideal-gas result √13vF because
+the interaction eﬀect is highly suppressed by the form factor and the HF self-energy shrinks
+in the momentum space. For future work, it is important to include ﬂuctuation eﬀects beyond the mean-ﬁeld ap-
+proximation. In particular, the density and spin ﬂuctuations can be important in the high-
+density regime of neutron matter with realistic nucleon-nucleon interactions [11]. ",cond-mat.quant-gas,C,-0.012609571,0.08423466,-0.09656529
+http://arxiv.org/pdf/2206.12599v2,Role of the effective range in the density-induced BEC-BCS crossover,"Moreover, the ﬁnite-range eﬀect on the high-momentum tail of the
+distribution function and its relation to the nuclear contact has been discussed. For future work, it is important to include ﬂuctuation eﬀects beyond the mean-ﬁeld ap-
+proximation. In particular, the density and spin ﬂuctuations can be important in the high-
+density regime of neutron matter with realistic nucleon-nucleon interactions [11]. ",cond-mat.quant-gas,C,-0.02816484,0.08848504,-0.13929978
+http://arxiv.org/pdf/2206.14500v1,Systematic solitary waves from their linear limits in two-component Bose-Einstein condensates with unequal dispersion coefficients,"It is clear that these waves are not identi-
+ones obtained earlier [29]. Particularly, the lowest-lying series  cal, however, future work should examine in detail whether it
+corresponds to the well-known dark-anti-dark waves, the next       is possible to distinguish these states in a straightforward man-
+                                                                   ner because these waveforms are quite complex and cannot
+                                                                         8
+
+(a)                                                                 (b)
+
+FIG. 4: Dynamical instability of the most unstable mode of states S02 (a) and S12 (b) at µ1 = 16 and µ1 = 10.3, respectively. ",cond-mat.quant-gas,A,0.1591031,-0.2549579,0.062006745
+http://arxiv.org/pdf/2206.14543v1,Novel phases in rotating Bose condensed gas: vortices and quantum correlation,"The many-body ground         von Neumann entropy and CPD, analyzed in the present
+states were obtained using exact diagonalization method      work are all measurable quantities and hence experimen-
+within subspaces of total angular momenta in the regime      tally relevant. In future work we would like to investi-
+with 0 ≤ Lz ≤ 5N , which goes beyond the mean-ﬁeld ap-       gate the eﬀect of ﬁnite-range Gaussian interaction on the
+proximation. By minimizing the energy of system in the       quantum mechanical stability of the angular momentum
+co-rotating frame at zero-temperature, ﬁrst, we have dis-    states and discuss how the range of interaction can be
+cussed the rotational critical angular velocity associated   used as a probe to further explore the internal structure
+with the quantized total angular momentum introduced         of vortex states. ",cond-mat.quant-gas,C,-0.11421874,-0.10098665,0.12836634
+http://arxiv.org/pdf/2207.00209v1,Frequency beating and damping of breathing oscillations of a harmonically trapped one-dimensional quasicondensate,"Under-
+of the bulk component using the results of Ref. [54], and        standing this discrepancy warrants a further study, which
+found that it is at last 3–4 times larger than the numer-        could perhaps be accomplished by generalising the GNZ
+ical value of Γ1 extracted from the c-ﬁeld simulations. formalism to 1D systems, wherein the evolution of the
+The discrepancy could be due to the breakdown of the             entire c-ﬁeld would be coupled to a quantum Boltzmann
+assumption in the Landau theory of damping that the              equation. ",cond-mat.quant-gas,B,0.0776382,0.08623814,-0.009148577
+http://arxiv.org/pdf/2207.00209v2,Frequency beating and damping of breathing oscillations of a harmonically trapped one-dimensional quasicondensate,"In Landau damping, a low-energy             the breathing mode excitations studied in this work are
+collective excitation of energy ωB1 and a thermal ex-          in the opposite weakly collisional regime. Overall, our
+citation of energy Ei are annihilated (created) and an-        ﬁnding call for a further study beyond the classical ﬁeld
+other thermal excitation of energy Ej is created (anni-        approximation, which could perhaps be accomplished by
+hilated). Within the c-ﬁeld approach employed in our           generalising the GNZ formalism to 1D systems, wherein
+numerical simulations, this damping mechanism is im-           the evolution of the entire c-ﬁeld would be coupled to a
+plicitly present through the interaction term in the GPE       quantum Boltzmann equation. ",cond-mat.quant-gas,C,-0.05441935,0.034861498,0.08465723
+http://arxiv.org/pdf/2207.01153v1,New trends in quantum integrability: Recent experiments with ultracold atoms,"Studying quantum transport and conductivity of
+                                                                 1D many-body systems in the frame work of the GHD
+                                                                 and Bethe ansatz still remain an open challenge. (b) Quantum many-body entanglement: The ob-
+                                                                 servation of spin-charge separation phenomenon [56, 103]
+                                                                 open the possibility to further study novel spin states
+                                                                 and fractional quasiparticles in 1D ultracold atoms. The
+                                                                 experiment [103] remarkably provides a conclusive ob-
+servation of the spin-charge separated Luttinger liquids                                                                            23
+with a notion of the nonlinear Luttinger liquid. ",cond-mat.quant-gas,C,-0.30937243,0.02090598,-0.1007577
+http://arxiv.org/pdf/2207.01153v2,New trends in quantum integrability: Recent experiments with ultracold atoms,"(b) Quantum many-body entanglement: The ob-                12121004. The authors thank Angela Foerster, H Pu,
+servation of spin-charge separation phenomenon [58, 96]       Hui Hu, Xia-Ji Liu, Zhen-Sheng Yuan, Shi-Guo Peng,
+open the possibility to further study novel spin states       Sheng Wang for helpful discussions. They thank Randy
+and fractional quasiparticles in 1D ultracold atoms. ",cond-mat.quant-gas,C,-0.3596958,-0.016904876,-0.10538588
+http://arxiv.org/pdf/2207.01153v3,New trends in quantum integrability: Recent experiments with ultracold atoms,"(b) Quantum many-body entanglement: The ob-                12121004. The authors thank Angela Foerster, H Pu,
+servation of spin-charge separation phenomenon [58, 96]       Hui Hu, Xia-Ji Liu, Zhen-Sheng Yuan, Shi-Guo Peng,
+open the possibility to further study novel spin states       Sheng Wang for helpful discussions. They thank Randy
+and fractional quasiparticles in 1D ultracold atoms. ",cond-mat.quant-gas,C,-0.3596958,-0.016904876,-0.10538588
+http://arxiv.org/pdf/2207.02602v1,Basis for time crystal phenomena in ultra-cold atoms bouncing on an oscillating mirror,"For example, proper choice of the Fourier
+components fk (20) allows one to introduce disorder in the crystalline structure in (25)
+or create a crystal with nontrivial topological properties [10]. Quantum analysis of these
+phenomena is left for future work. 3.2. ",cond-mat.quant-gas,C,-0.23253381,-0.14805122,-0.069016784
+http://arxiv.org/pdf/2207.03407v1,Observation of low-field Feshbach resonances between $^{161}$Dy and $^{40}$K,"We have also presented a proof-of-principle demonstra-
+tion of the creation of Feshbach molecules by sweeping
+across the resonance, which indicates a high eﬃciency
+of the process. Our near-future work will be dedicated
+to identify the optimum conditions for molecule cre-
+ation, the investigation of collisions processes involving
+the molecules, and to reach the necessary phase-space
+densities for molecular Bose-Einstein condensation. This
+will be an important step towards our general goal to
+realize novel superﬂuid states in fermionic mixtures of
+ultracold atoms. ",cond-mat.quant-gas,C,-0.36232838,0.28897595,-0.12705548
+http://arxiv.org/pdf/2207.03407v2,Observation of low-field Feshbach resonances between $^{161}$Dy and $^{40}$K,"The ﬁve resonances can all        of the process. Our near-future work will be dedicated
+be classiﬁed as narrow (closed-channel dominated) res-         to identifying the optimum conditions for molecule cre-
+onances [1], but for some of them the universal range,         ation, the investigation of collisional processes involving
+where the physics of broad resonances is recovered, is         the molecules, and to reaching the necessary phase-space
+wide enough to be conveniently addressable in experi-          densities for molecular Bose-Einstein condensation. This
+ments. ",cond-mat.quant-gas,C,-0.2364071,0.21718976,-0.039637577
+http://arxiv.org/pdf/2207.03407v3,Observation of low-field Feshbach resonances between $^{161}$Dy and $^{40}$K,"The ﬁve resonances can all        across the resonance, which indicates a high eﬃciency
+be classiﬁed as narrow (closed-channel dominated) res-         of the process. Our near-future work will be dedicated
+onances [1], but for some of them the universal range,         to identifying the optimum conditions for molecule cre-
+                                                               ation, the investigation of collisional processes involving
+                                                               the molecules, and to reaching the necessary phase-space
+                                                               densities for molecular Bose-Einstein condensation. This
+                                                               will be an important step towards our general goal to
+                                                               realize novel superﬂuid states in fermionic mixtures of
+                                                               ultracold atoms. ",cond-mat.quant-gas,C,-0.34838855,0.3123305,-0.079258084
+http://arxiv.org/pdf/2207.03811v1,Multi-frequency optical lattice for dynamic lattice-geometry control,"Finally, the                                                     geometry phase for the 2D lattice obtained with beams
+                                                                                                             of wavevectors k1, k2, k3, φg,2 is the geometry phase
+                                                                                                                                                 6
+
+(a) V13(r)                            V46(r)                     suitable basis transformation within this 3D parameter
+
+y                                                                space might be appropriate to develop an understand-
+       x
+                                                                 ing of the tunable geometry of the particular 3D lattice
+(b)
+                                                                 under study. z = 0    z = λ/6    z = λ/3             An overview of all possible geometries obtainable is
+                             z = λ/3  (c)
+                                                                 left for future work, because the parameter space is huge:
+
+                                                                 with an appropriate choice of beam wavevectors, all 14
+
+                                                                 3D Bravais lattices can be realized [54], and also multi-
+
+                                                                 atomic bases such as the diamond lattice [13, 55]. As an
+
+Potential (arb.units)                                            example, we present here a geometry characterized by
+
+                                                                 three local minima in the unit cell which could be real-
+
+                                                                 ized in our setup by, e.g., adding a fourth beam pointing
+
+                                                                 in  z  direction,  with     wavevector     k4     =   2π  zˆ,  with     vector  zˆ
+                                                                                                                       λ
+                                                                 perpendicular to the xy plane (Fig. ",cond-mat.quant-gas,C,-0.089135244,-0.12579128,0.0018334256
+http://arxiv.org/pdf/2207.04395v1,Universal description of dissipative Tomonaga-Luttinger liquids with SU($N$) spin symmetry: Exact spectrum and critical exponents,"As ultracold mixtures with
+                                                                        SU(N )×SU(N ) symmetry have been realized [136], it is of
+                                                                        interest to extend our theory to more general multicomponent
+                                                                        systems beyond SU(N ) symmetry. Our results in this paper
+                                                                        will certainly stimulate further study on multicomponent ex-
+                                                                        tension of dissipative TL liquids in open quantum systems
+                                                                        [32, 36, 37, 125, 137–143]. ACKNOWLEDGMENTS
+
+                                                                           This work was supported by KAKENHI (Grants No. ",cond-mat.quant-gas,C,-0.14809388,0.13461374,0.063108176
+http://arxiv.org/pdf/2207.08131v1,Singularities in the Loschmidt echo of quenched topological superconductors,"Exploring this could be
+   Solving these new equations of motion is an interest-      the subject of further research. ing problem by itself, which will be left as a subject for
+future work. Here we would just like to see whether they         Given the wave function |Ψ(t) calculated using the
+are compatible with the singularities in Z that we found      standard approach of Eqs. ",cond-mat.quant-gas,A,0.17222743,-0.12868226,0.39403814
+http://arxiv.org/pdf/2207.09328v1,Probing site-resolved correlations in a spin system of ultracold molecules,"We do not detect the molecules in |↓ , so our
+position of molecule i measured in units of the lattice                                                     current measurements do not distinguish between that
+constant alat, and θ is the angle between the quanti-                                                       state and an empty site, although this may be achieved in
+zation axis and the vector a. The quantum average                                                           future work with bilayer techniques used for spin-resolved
+ . accounts for the ﬁnite size of the molecule center-                                                      imaging in atomic microscopes [44, 45]. ",cond-mat.quant-gas,C,-0.21106902,-0.17880452,-0.19930592
+http://arxiv.org/pdf/2207.09720v1,Vortex-lattice structures in rotating Bose-Fermi superfluid mixtures,"σ(η) is the ﬁtting function that
+
+is a Pade´-type parametrization of the experimental data [64] for a two-component Fermi gas
+
+                                                 5
+at zero temperature in the BCS-BEC crossover. To obtain a further analysis, we treat the
+
+equation of state by a polytropic approximation [65, 66]
+
+                          µ(nf ) = µ0( nf )γ                                           (3a)
+                                           n0                                          (3b)
+
+               0   nf ∂µ                    23 σ(η0) − 2η50 σ′(η0) + η1052 σ′′(η0)
+           γ ≡ γ(η ) = ( µ ∂nf )|η=η0 =                                             ,
+                                            σ(η0) − η0 σ′(η0)
+                                                           5
+
+where γ is an eﬀective polytropic index. The reference particle number density n0 =
+
+(2mf ǫ0f )3/2/(3π2 3) is taken to be the density of the noninteracting Fermi gas at trap center,
+with the Fermi energy ǫ0f = ( kf0)2/(2mf ) = (3Nf ωf2⊥ωfz)1/3, and the reference chemical
+potential is µ0 = ǫ0f [σ(η0) − (η0/5)∂σ(η0)/∂η0] with η0 = 1/(kf0af ) and kf0 = (3π2n0)1/3 [66]. ",cond-mat.quant-gas,B,-0.0042348853,0.28490293,-0.116763666
+http://arxiv.org/pdf/2207.11301v1,PIGSFLI: A Path Integral Ground State Monte Carlo Algorithm for Entanglement of Lattice Bosons,"While we have
+only studied these quantities in small systems, they demonstrate proof-of-principle calculations
+that can be straightforwardly extended to uncover the ﬁnite size scaling of this experimentally
+important entanglement measure. Further development of this algorithm can be pursued in future work, including incorporating
+optimizations such as the “ratio method” [18, 111] that have been previously utilized to improve
+sampling statistics in larger systems by building up the entanglement from a ratio of estimators for
+smaller spatial subregions. The addition of different lattice connectivities or moving to extended
+range Bose-Hubbard models (both hopping and interactions) presents no fundamental algorithmic
+challenge and will allow for the measurement of entanglement in the ground states of a large
+class of interacting lattice Hamiltonians. ",cond-mat.quant-gas,C,-0.37355965,-0.09363343,-0.1678302
+http://arxiv.org/pdf/2207.11301v2,PIGSFLI: A Path Integral Ground State Monte Carlo Algorithm for Entanglement of Lattice Bosons,"While we have
+only studied these quantities in small systems, they demonstrate proof-of-principle calculations
+that can be straightforwardly extended to uncover the ﬁnite size scaling of this experimentally
+important entanglement measure. Further development of this algorithm can be pursued in future work, including incorporating
+optimizations such as the “ratio method” [22, 116] that have been previously utilized to improve
+sampling statistics in larger systems by building up the entanglement from a ratio of estimators for
+smaller spatial subregions. The addition of different lattice connectivities or moving to extended
+range Bose-Hubbard models (both hopping and interactions) presents no fundamental algorithmic
+challenge and will allow for the measurement of entanglement in the ground states of a large
+class of interacting lattice Hamiltonians. ",cond-mat.quant-gas,C,-0.3724097,-0.09467487,-0.1680232
+http://arxiv.org/pdf/2208.00212v1,Excitation Spectra of one-dimensional spin-1/2 Fermi gas with an attraction,"Here the gapped length-n string excitations manifest a ferromagnetic coupling in the unpaired Fermi sea, i.e., magnon
+excitations. Building on our results obtained, we expect to further study dynamical correlation functions for the charge-charge
+separation theory of FFLO states. According to the linear response theory [47], one can measure the spectra of
+                                                                    18
+
+(a) Dressed energies (left) and distribution functions (right) for  (b) Spectra of one n-string (left) and two length-1 strings (right)
+                                      n = 1, 2, 3
+
+FIG. ",cond-mat.quant-gas,C,-0.058844548,-0.090483084,-0.12737073
+http://arxiv.org/pdf/2208.00212v2,Excitation Spectra of one-dimensional spin-1/2 Fermi gas with an attraction,"Here the gapped length-n string excitations manifest a ferromagnetic coupling in the unpaired Fermi sea, i.e., magnon
+excitations. Building on our results obtained, we expect to further study dynamical correlation functions for the charge-charge
+separation theory of FFLO states. According to the linear response theory [47], one can measure the spectra of
+pairing and depairing in the system by imposing a perturbation onto the system and observing their linear responses. ",cond-mat.quant-gas,C,-0.08479619,-0.101404615,-0.088811144
+http://arxiv.org/pdf/2208.01251v1,Excitation spectrum and momentum distribution of the extended Bose-Hubbard model,"These quantities have
+observed in quantum Monte Carlo simulations [30]. This     been calculated at zero temperature, so calculations at ﬁ-
+peak indicates the coexistence of superﬂuid and solid or-  nite temperatures should be the subject of further study. der. ",cond-mat.quant-gas,C,-0.15447858,0.13402519,-0.20431133
+http://arxiv.org/pdf/2208.01409v1,Quantum fluctuations beyond in the Gutzwiller approximation in the Bose-Hubbard model,"After determining
+the damping rate of the amplitude mode for diﬀerent dimensions near the quantum critical point
+corresponding to the Mott tips, we compare our results with exact predictions deriving from ﬁeld
+theory [46] and discuss the possible experimental implications of our ﬁndings. The ﬁnal chapter Conclusions and perspectives contains a review of the main results of this thesis
+work and discusses future directions for further research in this ﬁeld and possible experimental im-
+plementations. The original results derived in this thesis are entirely presented in Chapters 4-7. ",cond-mat.quant-gas,A_centroid,0.04206718,-0.26400352,0.19208255
+http://arxiv.org/pdf/2208.01409v2,Quantum fluctuations beyond the Gutzwiller approximation: the Bose-Hubbard model case,"After determining
+the damping rate of the amplitude mode for diﬀerent dimensions near the quantum critical point
+corresponding to the Mott tips, we compare our results with exact predictions deriving from ﬁeld
+theory [46] and discuss the possible experimental implications of our ﬁndings. The ﬁnal chapter Conclusions and perspectives contains a review of the main results of this thesis
+work and discusses future directions for further research in this ﬁeld and possible experimental im-
+plementations. The original results derived in this thesis are entirely presented in Chapters 4-7. ",cond-mat.quant-gas,A,0.04206718,-0.26400352,0.19208255
+http://arxiv.org/pdf/2208.01409v3,Quantum fluctuations beyond the Gutzwiller approximation in the Bose-Hubbard model,"After determining
+the damping rate of the amplitude mode for diﬀerent dimensions near the quantum critical point
+corresponding to the Mott tips, we compare our results with exact predictions deriving from ﬁeld
+theory [46] and discuss the possible experimental implications of our ﬁndings. The ﬁnal chapter Conclusions and perspectives contains a review of the main results of this thesis
+work and discusses future directions for further research in this ﬁeld and possible experimental im-
+plementations. The original results derived in this thesis are entirely presented in Chapters 4-7. ",cond-mat.quant-gas,A,0.04206718,-0.26400352,0.19208255
+http://arxiv.org/pdf/2208.02096v1,Mapping atomic trapping in an optical superlattice onto the libration of a planar rotor in electric fields,"Therefore, the present
+study can be viewed as a proposal for a quantum simulator of a planar rotor subject to
+external ﬁelds. In future work, the available analytic solutions will be used to develop analytic
+dynamical models of the trapping of atoms in an optical superlattice. We note that ultracold atoms in optical lattices are generally studied via the
+properties of the Mathieu equation that the time-independent Schro¨dinger equation
+for a simple 1D optical lattice ∝ cos2(kx) [18] reduces to. ",cond-mat.quant-gas,C,-0.38475376,-0.12761144,0.2614302
+http://arxiv.org/pdf/2208.02096v2,Mapping atomic trapping in an optical superlattice onto the libration of a planar rotor in electric fields,"Therefore, the present
+study can be viewed as a proposal for a quantum simulator of a planar rotor subject to
+external ﬁelds. In future work, the available analytic solutions will be used to develop analytic
+dynamical models of the trapping of atoms in an optical superlattice. We note that ultracold atoms in optical lattices are generally studied via the
+properties of the Mathieu equation that the time-independent Schro¨dinger equation
+for a simple 1D optical lattice ∝ cos2(kx) [18] reduces to. ",cond-mat.quant-gas,C,-0.38475376,-0.12761144,0.2614302
+http://arxiv.org/pdf/2208.02096v3,Mapping atomic trapping in an optical superlattice onto the libration of a planar rotor in electric fields,"Therefore, the present
+study can be viewed as a proposal for a quantum simulator of a planar rotor subject to
+external ﬁelds. In future work, the available analytic solutions will be used to develop analytic
+dynamical models of the trapping of atoms in an optical superlattice. We note that ultracold atoms in optical lattices are generally studied via the
+properties of the Mathieu equation that the time-independent Schro¨dinger equation
+for a simple 1D optical lattice ∝ cos2(kx) [18] reduces to. ",cond-mat.quant-gas,C,-0.38475376,-0.12761144,0.2614302
+http://arxiv.org/pdf/2208.03353v1,Bulk viscosity of resonantly interacting fermions in the quantum virial expansion,"We show that the leading-order bulk viscosity
+is obtained from the resummation only of the pinch singularity for bound pairs, and we present a linearized
+kinetic equation (71) for the resummation. However, the linearized equation is more complicated than the
+linearized Boltzmann equation and diﬃcult to solve, so that we leave the analysis of the obtained equation
+to a future work. The paper is organized as follows: In Sec. ",cond-mat.quant-gas,B,0.26637024,0.31492877,0.10265118
+http://arxiv.org/pdf/2208.05948v1,Direct observation of non-local fermion pairing in an attractive Fermi-Hubbard gas,"U/t=8.4(4), with complete reduction or even reversal of
+the CDW order on nearby bonds. In future work, mea-           [10] J. Singer, T. Schneider, and M. Pedersen, Eur. ",cond-mat.quant-gas,B,0.27369493,-0.003731344,-0.10168288
+http://arxiv.org/pdf/2208.06614v1,Benchmarks of Generalized Hydrodynamics for 1D Bose Gases,"[S28]. We also provide further analysis for
+          ˆ +∞                                                   the thermalization of the double-well to single-well quantum
+                                                                 Newton’s cradle discussed in the main text. Nm = N          dx0F (x0)ρ(x0),                        (S11)        Bragg pulse quantum Newton’s cradle.—Collisional dy-
+                                                                 namics and thermalization of a quantum Newton’s cradle un-
+          −∞                                                     der a Bragg pulse protocol in the finite-temperature quasi-
+                                                                 condensate regime has recently been studied in Ref. ",cond-mat.quant-gas,C,-0.1448669,-0.0346361,0.06596618
+http://arxiv.org/pdf/2208.07366v1,Robust stripes in the mixed-dimensional $t-J$ model,"Enhanced FM signals
+tail, explicitly utilizing additional information contained  in squeezed space emerge due to the frustrating eﬀect of
+in snapshots of the many-body wave function. hole motion on spins in squeezed space, which will be
+                                                             considered in more detail in a future work [62]. Fig. ",cond-mat.quant-gas,A,-0.0923721,-0.2902995,0.17124076
+http://arxiv.org/pdf/2208.08151v1,Dynamical Instability of 3d Stationary and Traveling Planar Dark Solitons,"Our primary focus here is on the implications of the
+                                                              transverse conﬁnement. However, these structures are
+                                                              not exact solutions for non-zero longitudinal conﬁnement,
+                                                              therefore their stability and properties as a function of
+                                                              longitudinal conﬁnement merits further study. Moreover,
+                                                              a careful inspection of the movie in [33] raises intriguing
+                                                              questions on the scattering interactions between solitonic
+                                                              vortices in conﬁned geometries. ",cond-mat.quant-gas,A,0.10348033,-0.037776895,0.3060014
+http://arxiv.org/pdf/2208.09279v1,Direct and inverse cascades in turbulent Bose-Einstein condensate,"Our results are useful for the laboratory experiments           [10] V. Zakharov, S. Musher, and A. Rubenchik, Physics
+on wave turbulence in BEC – both for explaining the                      Reports 129, 285 (1985). past experimental results of [7, 8] as well as for plan-           [11] D. V. Semikoz and I. I. Tkachev, Physical review letters
+ning future work. To demonstrate robustness of the the-                  74, 3093 (1995). ",cond-mat.quant-gas,A,0.16555464,-0.18031716,0.13162073
+http://arxiv.org/pdf/2208.09346v2,Majorana edge-modes in a spinful particle conserving model,"On
+eigenvalues (Λ0 −Λ1)/(Λ0 +Λ1) of the reduced density matrix. a further analysis of the points at U = 2.0t and t ≥ 0.8t
+                                                                         we detect that the revival of the correlations is replaced
+ﬁnd a phase hosting Majorana zero modes. In the pre-                     for a saturation in the decaying of the correlations. ",cond-mat.quant-gas,A,0.090522714,-0.19389722,0.10212244
+http://arxiv.org/pdf/2208.09382v1,Majorana Zero Modes in Fermionic Wires coupled by Aharanov-Bohm Cages,"Due to the large amount of possible pa-      and that the matrix elements of the V operator are much
+rameters to tune, we postpone the development of a con-     smaller than the energy separation between the two sub-
+crete scheme together with an experimentally reachable      spaces. We recall that a possible term PP V PP can be set
+parameter space to future work. to 0 w.l.o.g.. ",cond-mat.quant-gas,A,0.285725,-0.09215607,-0.018537022
+http://arxiv.org/pdf/2208.09382v2,Majorana Zero Modes in Fermionic Wires coupled by Aharonov-Bohm Cages,"Due to the large amount of possible pa-      and that the matrix elements of the V operator are much
+rameters to tune, we postpone the development of a con-     smaller than the energy separation between the two sub-
+crete scheme together with an experimentally reachable      spaces. We recall that a possible term PP V PP can be set
+parameter space to future work. to 0 w.l.o.g.. ",cond-mat.quant-gas,A,0.285725,-0.09215607,-0.018537022
+http://arxiv.org/pdf/2208.11990v1,Analytical solution of the disordered Tavis-Cummings model and its Fano resonances,6(a). lasing would also be interesting future works. VI. ,cond-mat.quant-gas,A,0.2841517,-0.07628952,-0.21973898
+http://arxiv.org/pdf/2208.13766v1,Pinpointing Feshbach Resonances and Testing Efimov Universalities in $^{39}$K,"function of E/En, and observe a crossover from degenerate-
+to thermal-gas behavior. Our work points to many avenues for further research. In Fig. ",cond-mat.quant-gas,B,0.13610566,0.2691962,-0.14230606
+http://arxiv.org/pdf/2208.13777v1,Parametrized path integral formulation for large fermion systems,"Essentially, we provide an eﬃcient method to consider the numerically perturbative
+expansion about ξNp. In future work, we will study the case of attractive interaction. The
+present work makes it feasible to consider the thermodynamics of large fermion systems
+with repulsive interaction by circumventing the fermion sign problem. ",cond-mat.quant-gas,B,0.119057804,0.17376189,0.059091777

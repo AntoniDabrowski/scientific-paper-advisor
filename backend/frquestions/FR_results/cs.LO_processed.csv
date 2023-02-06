@@ -1,0 +1,1939 @@
+url,title,further research,primary category,label,x,y,z
+http://arxiv.org/pdf/2201.00221v1,Event structure semantics for multiparty sessions,"Notably, typability is independent from the use of our preorder or of the standard
+       one, as proved in [BDLT21]. As regards future work, we plan to deﬁne an asynchronous transition system (ATS) [Bed88]
+for our calculus, along the lines of [BC94], and show that it provides a noninterleaving oper-
+ational semantics for networks that is equivalent to their FES semantics. This would enable
+us also to investigate the issue of reversibility, jointly on our networks and on their FES
+representations, since the ATS semantics would give us the handle to unwind networks,
+while the corresponding FESs could be unrolled following one of the methods proposed in
+existing work on reversible event structures [PU15, CKV16, GPY19, GPY21, Gra21]. ",cs.LO,B,-0.035645224,0.019543123,-0.20049036
+http://arxiv.org/pdf/2201.00221v2,Event structure semantics for multiparty sessions,"Notably, typability is independent from the use of our preorder or of the
+       standard one, as proved in [4]. As regards future work, we plan to deﬁne an asynchronous transition system
+(ATS) [5] for our calculus, along the lines of [10], and show that it provides a
+noninterleaving operational semantics for networks that is equivalent to their FES
+semantics. This would enable us also to investigate the issue of reversibility, jointly
+on our networks and on their FES representations, since the ATS semantics would
+give us the handle to unwind networks, while the corresponding FESs could be
+unrolled following one of the methods proposed in existing work on reversible
+event structures [52, 25, 35, 36, 34]. ",cs.LO,B,-0.050428916,0.047615174,-0.17975837
+http://arxiv.org/pdf/2201.00233v1,"A new criterion for $\mathcal{M}, \mathcal{N}$-adhesivity, with an application to hierarchical graphs","In particular, we have
+been able to tackle the adhesivity problem for several categories of hierarchical
+(hyper)graphs, including Milner’s bigraphs, bigraphs with sharing, and a new
+version of bigraphs with recursion. As future work, we plan to analyse other categories of graph-like objects using
+our criterion; an interesting case is that of directed bigraphs [12,3,4]. Moreover, it
+is worth to verify whether the M, N -adhesivity that we obtain from the results
+of this paper is suited for modelling speciﬁc rewriting systems, e.g. ",cs.LO,B,-0.059160255,-0.06883092,0.046690978
+http://arxiv.org/pdf/2201.00233v2,"A new criterion for $\mathcal{M}, \mathcal{N}$-adhesivity, with an application to hierarchical graphs","In particular, we have
+been able to tackle the adhesivity problem for several categories of hierarchical
+(hyper)graphs, including Milner’s bigraphs, bigraphs with sharing, and a new
+version of bigraphs with recursion. As future work, we plan to analyse other categories of graph-like objects using
+our criterion; an interesting case is that of directed bigraphs [12,3,4]. Moreover, it
+is worth to verify whether the M, N -adhesivity that we obtain from the results
+of this paper is suited for modelling speciﬁc rewriting systems, e.g. ",cs.LO,B,-0.059160255,-0.06883092,0.046690978
+http://arxiv.org/pdf/2201.00233v3,"A new criterion for $\mathcal{M}, \mathcal{N}$-adhesivity, with an application to hierarchical graphs","In particular, we have been able to tackle the
+adhesivity problem for several categories of hierarchical (hyper)graphs, including Milner’s
+bigraphs, bigraphs with sharing, and a new version of bigraphs with recursion. As future work, we plan to analyse other categories of graph-like objects using our
+criterion; an interesting case is that of directed bigraphs [GM07, BGM09, BMP20]. Moreover,
+it is worth to verify whether the M, N -adhesivity that we obtain from the results of this
+paper is suited for modelling speciﬁc rewriting systems, e.g. ",cs.LO,B,-0.07258108,-0.068262845,0.018078707
+http://arxiv.org/pdf/2201.00538v1,The Area Method in the Wolfram Language,"While this
+approach could potentially require much more computational power than the standard area method, it
+might lead to the discovery of new theorems or simplify proofs of existing results. Less “theoretical” directions of future work include integrating this package into existing geometrical
+functionality available within the Wolfram Language and improving it’s performance in the Wolfram
+cloud. This last item in particular is of note, as it makes it possible for anyone to experiment with the
+area method in a browser, without installing a local Wolfram environment or buying a license. ",cs.LO,A,0.34630257,0.20787045,0.26889855
+http://arxiv.org/pdf/2201.00540v1,Automated Generation of Illustrations for Synthetic Geometry Proofs,"For instance, the visual counterpart for the
+famous Euclid’s proposition 1 (on existence of a equilateral triangle on a given segment), can be like the
+following:
+
+     procedure proposition_01 { A B X } {
+        circle c1 A B
+        drawcircle c1
+        circle c2 B A
+        drawcircle c2
+        intersec2 X2 X c1 c2
+        cmark X
+
+     }
+
+In this visual interpretation, the point X is obtained (in the Cartesian model) as an intersection of two
+circles – one with the center A with B on it, and one the center B with A on it (the command cmark X
+annotates the point X by a small circle). Of course, one could have chosen the other intersection of two
+
+    7This LATEX proof presentation is still very verbatim and it provides much more information than a traditional proof; for
+future work we are planning to produce a more natural output. 98  Automated Generation of Illustrations for Synthetic Geometry Proofs
+
+circles. ",cs.LO,A,0.09152691,0.13082346,0.04871489
+http://arxiv.org/pdf/2201.05716v1,Mechanizing Matching Logic in Coq,"Berlin Heidelberg, Berlin, Heidelberg, 2004. We discuss some areas for future work below. [3] Denis Bogdanas and Grigore Rosu. ",cs.LO,A,0.22318296,0.5032688,0.30688262
+http://arxiv.org/pdf/2201.05716v2,Mechanizing Matching Logic in Coq,"Berlin Heidelberg, Berlin, Heidelberg, 2004. We discuss some areas for future work below. [3] Denis Bogdanas and Grigore Rosu. ",cs.LO,A,0.22318296,0.5032688,0.30688262
+http://arxiv.org/pdf/2201.05716v3,Mechanizing Matching Logic in Coq,"As mentioned in Section 7, the K framework
+   is a matching logic (speciﬁcally Kore) implementation with the advantage
+   of being able to naturally deﬁne real large-scale programming languages. As future work, we plan to formalize Kore as a matching logic theory
+   inside Coq and write a translator from Kore ﬁles to Coq ﬁles using this
+   theory, thus giving K framework a Coq-based backend. This would allow
+   languages deﬁned in K and properties of those languages proved in K to
+   be automatically translated to Coq deﬁnitions and theorems. ",cs.LO,C,-0.16156612,-0.09034241,-0.20648146
+http://arxiv.org/pdf/2201.05716v4,Mechanizing Matching Logic In Coq,"As mentioned in Section 6, the K framework is a matching logic
+       (speciﬁcally Kore) implementation with the advantage of being able to naturally deﬁne real large-
+       scale programming languages. As future work, we plan to formalize Kore as a matching logic
+       theory inside Coq and write a translator from Kore ﬁles to Coq ﬁles using this theory, thus giving
+       K framework a Coq-based backend. This would allow languages deﬁned in K and properties of
+       those languages proved in K to be automatically translated to Coq deﬁnitions and theorems. ",cs.LO,C,-0.16272767,-0.08865087,-0.20466697
+http://arxiv.org/pdf/2201.06325v1,A Tree Clock Data Structure for Causal Orderings in Concurrent Executions,"succinct vector time representations. The Goldilocks [18] algorithm         We leave this evaluation for future work. Finally, since tree clocks
+infers HB-orderings using locksets instead of vector timestamps             are a drop-in replacement of vector clocks, most of the existing
+but incurs severe slowdown [23]. ",cs.LO,B,0.3339771,-0.027060859,0.04577325
+http://arxiv.org/pdf/2201.07116v1,Robust Computation Tree Logic,"And similarly, Φ should lead to Ψ and Φ should lead to Ψ . Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality. Another promising direction is to study the synthesis problem for rCTL and
+rCTL*. ",cs.LO,B,-0.0074580107,-0.021218408,-0.28848308
+http://arxiv.org/pdf/2201.07116v2,Robust Computation Tree Logic,"And similarly, Φ should lead to Ψ and Φ should lead to Ψ . Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality. Another promising direction is to study the synthesis problem for rCTL and
+rCTL*. ",cs.LO,B,-0.0074580107,-0.021218408,-0.28848308
+http://arxiv.org/pdf/2201.07116v3,Robust Computation Tree Logic,"And similarly, Φ should lead to Ψ and Φ should lead to Ψ . Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality. Another promising direction is to study the synthesis problem for rCTL and
+rCTL*. ",cs.LO,B,-0.0074580107,-0.021218408,-0.28848308
+http://arxiv.org/pdf/2201.07116v4,Robust Computation Tree Logic,"And similarly, Φ should lead to Ψ and Φ should lead to Ψ . Then, a
+natural question that arises for further research is whether there is an extension
+of CTL (and CTL*) that can be used to reason about both robustness and
+quality. Another promising direction is to study the synthesis problem for rCTL and
+rCTL*. ",cs.LO,B,-0.0074580107,-0.021218408,-0.28848308
+http://arxiv.org/pdf/2201.08768v1,On probability-raising causality in Markov decision processes,"Future directions include PR causality when causes and effects are path properties
+and the investigation of other quality measures for PR causes inspired by other in-
+dices for binary classiﬁers used in machine learning or customized for applications of
+cause-effect reasoning in MDPs. More sophisticated notions of probabilistic backward
+causality and considerations on PR causality with external interventions as in Pearl’s
+do-calculus [34] are left for future work. Acknowledgments We would like to thank Simon Jantsch and Clemens Dubslaff for
+their helpful comments and feedback on the topic of causality in MDPs. ",cs.LO,B,0.15944088,0.29140314,-0.08912536
+http://arxiv.org/pdf/2201.09087v1,Beyond Nonexpansive Operations in Quantitative Algebraic Reasoning,"This has allowed, as an illustrative ex-
+ample, the axiomatisation of the Łukaszyk–Karmowski distance on probability
+distributions. One direction of future work is to explore if, and how, the recent results
+developed for the framework of Bacci et al. [2018b] can be adapted and gener-
+alised to our setting. ",cs.LO,A,0.047782075,0.23426422,0.17599523
+http://arxiv.org/pdf/2201.09769v1,A Sorted Datalog Hammer for Supervisor Verification Conditions Modulo Simple Linear Arithmetic,"The ﬁle interface
+between SPASS-SPL and VLog has been replaced by a close coupling resulting in a
+more comfortable application. Our contribution here solves the third point for future work mentioned in [11]
+although there is still room to also improve our soft typing discipline. In the future,
+we want SPASS-SPL to produce explications that prove that its translations are correct. ",cs.LO,B,-0.025588915,0.02371044,-0.120632
+http://arxiv.org/pdf/2201.09928v1,Learning Model Checking and the Kernel Trick for Signal Temporal Logic on Stochastic Processes,"Our STL kernel, however, can be used for many other tasks,
+some of which we sketched in Introduction. Finally, to further improve its properties,
+another direction for future work is to reﬁne the quantitative semantics so that
+equivalent formulae have the same robustness, e.g. using ideas like in [MVS+18]. ",cs.LO,B,0.11829709,0.10581988,-0.055876836
+http://arxiv.org/pdf/2201.09969v1,Monadic Monadic Second Order Logic,"In Section 8 we illustrate
+what would happen if somewhat stronger closure properties were required of a monad. We
+conclude in Section 9 by sketching main directions of future work. 2 Monads
+
+We now introduce some basic concepts and intuitions related to monads. ",cs.LO,C,-0.29757428,0.087434955,0.01827639
+http://arxiv.org/pdf/2201.10298v1,A Special Case of Schematic Syntactic Unification,"Available: https://doi.org/10.3233/FI-2013-855
+be necessary as well, and thus this is left to future work. Also left to future work is extending our results to full loop     [11] S. Escobar, J. Meseguer, and R. Sasse, “Variant narrowing
+uniﬁcation and developing an algorithm based on our sufﬁcient            and equational uniﬁcation,” Electronic Notes in Theoretical
+conditions. This algorithm can then be integrated into the               Computer Science, vol. ",cs.LO,B,0.36635077,-0.10787457,0.113255724
+http://arxiv.org/pdf/2201.10563v1,Automating Safety and Security Co-Design through Semantically-Rich Architectural Patterns,"We
+believe that finer reasoning principles can be obtained by using more specific guide-words such as
+those proposed by [10, 11]. This is left for future work. Finally, we have recently demonstrated in white paper [6] that SafSecPat can also perform
+security analysis following the ISO 21434 risk assessment. ",cs.LO,B,0.1476156,0.0071039163,-0.066228956
+http://arxiv.org/pdf/2201.10563v2,Automating Safety and Security Co-Design through Semantically-Rich Architecture Patterns,"We
+believe that finer reasoning principles can be obtained by using more specific guide-words such as
+those proposed by [13, 14]. This is left for future work. Finally, we have recently demonstrated in white paper [9] that SafSecPat can also perform
+security analysis following the ISO 21434 risk assessment. ",cs.LO,B,0.14771919,0.008737162,-0.069266185
+http://arxiv.org/pdf/2201.10632v1,A Framework for the High-Level Specification and Verification of Synchronous Digital Logic Systems,"Section 6      be partitioned (per Nerode [20]) into equivalence classes of
+explains how the results may be applied to systems which           expressions denoting the same language such that, from any
+interact with the outside world. Finally, Section 7 discusses      state, only a finite subset of equivalence classes (“intrinsic
+potential directions of future work. states”) are reachable. ",cs.LO,C,-0.12823398,0.15842879,-0.09957788
+http://arxiv.org/pdf/2201.10662v2,Semantics for two-dimensional type theory,"Schloss Dagstuhl–
+ted many syntactic rules from this paper, for a lack of space
+and convenient syntax to write these rules. We plan to spec-            Leibniz-Zentrum fuer Informatik, Dagstuhl, Germany, 5:1–5:17.
+ify a the complete set of rules, and prove completeness with
+respect to our models, in future work. h ps://doi.org/10.4230/LIPIcs.FSCD.2019.5
+
+   Finally, we are planning to construct, in UniMath, the               [2] Benedikt Ahrens, Dan Frumin, Marco Maggesi, Niccolò Veltri, and
+comprehension bicategory formalizing Licata and Harper’s
+interpretation in categories [25]. ",cs.LO,C,-0.37214094,0.16331725,-0.046892934
+http://arxiv.org/pdf/2201.10662v3,Semantics for two-dimensional type theory,"Consequently, the syntax presented here is not complete. The presentation of the
+complete syntax and a suitable completeness theorem is left for future work. 8.1 Judgments and Basic Rules
+
+BTT features contexts, substitutions, types, generalized terms, and reductions between terms. ",cs.LO,C,-0.20549944,-0.053924456,0.042047378
+http://arxiv.org/pdf/2201.11221v2,Linear lambda-calculus is linear,"Also, it may be interesting to study if a tensor connective could be added, with some
+
+notion of equivalence where Qn ⊗ Qm ≡ Qn×m, relating the ⊙ connective with the ⊗
+connective. We left this study for future work. References
+
+ 1 T. Altenkirch and J. Grattage. ",cs.LO,C,-0.17255062,0.1937539,0.1079656
+http://arxiv.org/pdf/2201.11221v3,Linear lambda-calculus is linear,"Also, it may be interesting to study if a tensor connective could be added, with some
+
+notion of equivalence where Qn ⊗ Qm ≡ Qn×m, relating the ⊙ connective with the ⊗
+connective. We left this study for future work. References
+
+ 1 T. Altenkirch and J. Grattage. ",cs.LO,C,-0.17255062,0.1937539,0.1079656
+http://arxiv.org/pdf/2201.11464v1,Foundations for Entailment Checking in Quantitative Separation Logic (extended version),"We
+derived a QSL fragment such that reasoning about a simple probabilistic heap-
+manipulating language becomes decidable. More practically, Theorem 8 allows
+reusing existing (possibly incomplete) SL solvers to solve the entailments de-
+rived by our construction—an empirical evaluation of how well existing solvers
+can deal with these entailments is an interesting direction for future work. We believe that our ﬁne-grained complexity analysis demonstrates that our
+approach can be practically feasible: the exponential blow-up in Theorem 7 stems
+from the number of probabilistic constructs in the given QSL formulae. ",cs.LO,B,0.09447296,-0.24775863,-0.08888109
+http://arxiv.org/pdf/2201.12859v1,Deciding Asynchronous Hyperproperties for Recursive Programs,"We leave this
+mula. Thus a formula from the decidable fragment with a          question for future work. unique stuttering assignment Γ is translated to a formula
+with a unique successor assignment Δ which is also from          6 Conclusion
+the decidable fragment. ",cs.LO,C,-0.025325984,-0.15630502,0.14420877
+http://arxiv.org/pdf/2202.00142v1,A Sampling-Aware Interpretation of Linear Logic: Syntax and Categorical Semantics,"of the disjoint contexts Γ1 and Γ2), guaranteeing probabilistic
+independence. For future work we would to further explore                                         [14] Paul-André Mellies. 2009. ",cs.LO,A,0.009954177,0.24986044,0.101101756
+http://arxiv.org/pdf/2202.00610v1,"First-order Temporal Logic on Finite Traces: Semantic Properties, Decidable Fragments, and Applications","Moreover, we have analysed the connections between notions from the veriﬁcation
+literature (in particular, safety [80], as well as the runtime veriﬁcation maxims of impartiality and anticipation [27]),
+and our framework of semantic conditions relating reasoning over ﬁnite and inﬁnite traces. As future work, we are interested in strengthening the results obtained in Section 4, so to obtain semantic and
+syntactic conditions that are both necessary and suﬃcient (as opposed to suﬃcient only) to characterise equivalences
+on ﬁnite and inﬁnite traces. We conjecture also that for U+∀- and R+∃-formulas, i.e., TU QL formulas in negation
+normal form involving only one kind of reﬂexive temporal operator (either U+ or R+, respectively), the equivalences
+on ﬁnite traces coincide with the equivalences on inﬁnite traces. ",cs.LO,C,-0.22963515,0.08368369,-0.080191985
+http://arxiv.org/pdf/2202.00891v1,Extracting efficient exact real number computation from proofs in constructive type theory,"Moreover, by
+proving that any concrete types satisfying our set of axioms are equivalent, it this
+sense, we showed that our axiomatization of reals is universal. In future work, we plan to extend our implementation by other important oper-
+ations on real numbers such as trigonometric and exponential functions and mathe-
+matical constants such as π and e and operations like polynomial root ﬁnding and
+matrix diagnonalization which essentially require nondeterministic limits. Further,
+by extending our framework to real functions, including a sound axiomatization of
+continuity principle, e.g., [Xu15], we could also study solution operators for ordinary
+or partial diﬀerential equations by applying recent ideas from real complexity theory
+[KST18, KSZ19]. ",cs.LO,C,-0.121466234,-0.0069699474,0.04037595
+http://arxiv.org/pdf/2202.01581v1,Are Bundles Good Deals for FOML?,"We need sharper technical tools for investigating lower bounds for
+bundled fragments. We have presented tableau-based decision procedures that are easily implementable, but
+inference systems for reasoning in these logics require further study. References
+
+  1 Hajnal Andréka, István Németi, and Johan van Benthem. ",cs.LO,B,0.13563353,-0.22970212,-0.03481918
+http://arxiv.org/pdf/2202.01581v2,Are Bundles Good Deals for FOML?,"We need sharper technical tools for investigating lower bounds for
+bundled fragments. We have presented tableau-based decision procedures that are easily implementable, but
+inference systems for reasoning in these logics require further study. References
+
+  1 Hajnal Andréka, István Németi, and Johan van Benthem. ",cs.LO,B,0.13563353,-0.22970212,-0.03481918
+http://arxiv.org/pdf/2202.01718v1,MV-Datalog+-: Effective Rule-based Reasoning with Uncertain Observations,"The further
+extension to MV-Datalog± is presented in Section 4. We conclude with ﬁnal remarks and
+a brief discussion of future work in Section 5. Proof details that had to be omitted from
+the main text due to space restrictions are provided in Appendix A. ",cs.LO,A,0.11552305,0.23938785,0.2405879
+http://arxiv.org/pdf/2202.01718v2,MV-Datalog+-: Effective Rule-based Reasoning with Uncertain Observations,"The further
+extension to MV-Datalog± is presented in Section 4. We conclude with ﬁnal remarks and
+a brief discussion of future work in Section 5. Proof details that had to be omitted from
+the main text due to space restrictions are provided in Appendix A. ",cs.LO,A,0.11552305,0.23938785,0.2405879
+http://arxiv.org/pdf/2202.01718v3,MV-Datalog+-: Effective Rule-based Reasoning with Uncertain Observations,"The further
+extension to MV-Datalog± is presented in Section 4. We conclude with ﬁnal remarks and
+a brief discussion of future work in Section 5. Proof details that had to be omitted from
+the main text due to space restrictions are provided in Appendix A. ",cs.LO,A,0.11552305,0.23938785,0.2405879
+http://arxiv.org/pdf/2202.01718v4,MV-Datalog+-: Effective Rule-based Reasoning with Uncertain Observations,"The further
+extension to MV-Datalog± is presented in Section 4. We conclude with ﬁnal remarks and
+a brief discussion of future work in Section 5. Proof details that had to be omitted from
+the main text due to space restrictions are provided in Appendix A. ",cs.LO,A,0.11552305,0.23938785,0.2405879
+http://arxiv.org/pdf/2202.02660v1,Leveraging the Power of Graph Algorithms: Efficient Algorithms for Computer-Aided Verification,"Any
+improvement upon the long-standing deterministic O(mn2/3) time algorithm
+for MEC decomposition [91] is interesting. Finally, providing a polynomial time
+algorithm for computing the winning set of parity or mean-payoﬀ objectives in
+games is a major theoretical open problem and a formidable task for future work. Bibliography
+
+ [1] A. Cimatti, M. Pistore, M. Roveri, and P. Traverso. ",cs.LO,A,0.48973322,-0.053342085,0.21363577
+http://arxiv.org/pdf/2202.03187v1,Eager Functions as Processes (long version),"We leave this for future work. We also leave for future work a thorough comparison between the technique of unique solution
+of equations and techniques based on enhancements of the bisimulation proof method (the “up-
+to” proof techniques), including if and how our completeness results can be derived using the
+latter techniques. (We recall that the “up-to” proof techniques are used in the completeness
+proofs with respect to Levy-Longo Trees and B¨ohm Trees for the call-by-name encodings. ",cs.LO,B,0.019061258,-0.28710115,0.17744474
+http://arxiv.org/pdf/2202.03567v1,Teaching Intuitionistic and Classical Propositional Logic Using Isabelle,"We see this approach scaling from propositional logic to ﬁrst-order logic and even further to
+higher-order logic. By deﬁning each logic in the same logical framework we hope to make the distinc-
+tions between them clear to the students and want to explore this in future work. Acknowledgements
+
+Thanks to Frederik Krogsdal Jacobsen and the anonymous reviewers for comments. ",cs.LO,C,-0.19463557,0.0076992735,-0.04536068
+http://arxiv.org/pdf/2202.04278v1,An algebra of alignment for relational verification,"Unno
+et al [UTK21] work with transition systems and use a constraint-
+solving approach to automatically discover a “scheduler”—a form
+of alignment described as a function that directs which element
+of the -tuple (product of transition systems) should take the next
+step. 7.3 Future work
+
+BiKAT provides a foundation for several interesting directions for
+future work in addition to questions raised in Sects. 5 and 6. ",cs.LO,B,0.16123088,0.004144259,-0.2517328
+http://arxiv.org/pdf/2202.04278v2,An algebra of alignment for relational verification,"[24] de-
+scribe a -way lock-step product encoding for single programs, that facilitates the use of -safety
+procedure speciﬁcations. 8.3 Future work
+
+BiKAT provides a foundation for several interesting directions for future work in addition to ques-
+tions raised in Sects. 6 and 7. ",cs.LO,B,0.120654404,-0.06855864,-0.2724055
+http://arxiv.org/pdf/2202.04278v3,An algebra of alignment for relational verification,"It is not clear that the framework facilitates manipulation of in-
+tricate data-dependent alignments together with simple ﬁrst-order relational assertions as used in
+automated relational veriﬁcation. 8.4 Future Work
+
+BiKAT provides a foundation for several interesting directions for future work in addition to ques-
+tions raised in Sects. 6 and 7. ",cs.LO,B,-0.03452445,-0.17507252,-0.1177025
+http://arxiv.org/pdf/2202.04546v1,Proving Non-Termination and Lower Runtime Bounds with LoAT (System Description),"LoAT is open source, its source code is available on Github,
+
+                       https://github.com/aprove-developers/LoAT,
+
+and we refer to [20] for a pre-compiled binary of LoAT. In future work, we plan to extend LoAT’s under-approximations to programs
+
+written in (a fragment of) the programming language C.
+
+References
+
+ 1. Albert, E., Genaim, S., Masud, A.N. ",cs.LO,B,0.26547283,-0.035713606,-0.124748364
+http://arxiv.org/pdf/2202.04546v2,Proving Non-Termination and Lower Runtime Bounds with LoAT (System Description),"LoAT is open source, its source code is available on Github,
+
+                        https://github.com/aprove-developers/LoAT,
+
+and we refer to [20] for a pre-compiled binary of LoAT. In future work, we plan to extend LoAT’s under-approximations to programs
+
+written in (a fragment of) the programming language C.
+16  F. Frohn, J. Giesl
+
+References
+
+ 1. Albert, E., Genaim, S., Masud, A.N. ",cs.LO,B,0.25955388,-0.035914972,-0.12642014
+http://arxiv.org/pdf/2202.04546v3,Proving Non-Termination and Lower Runtime Bounds with LoAT (System Description),"LoAT is open source, its source code is available on Github,
+
+                        https://github.com/aprove-developers/LoAT,
+
+and we refer to [20] for a pre-compiled binary of LoAT. In future work, we plan to extend LoAT’s under-approximations to programs
+
+written in (a fragment of) the programming language C.
+16  F. Frohn, J. Giesl
+
+References
+
+ 1. Albert, E., Genaim, S., Masud, A.N. ",cs.LO,B,0.25955388,-0.035914972,-0.12642014
+http://arxiv.org/pdf/2202.04546v4,Proving Non-Termination and Lower Runtime Bounds with LoAT (System Description),"LoAT is open source, its source code is available on GitHub,
+
+                        https://github.com/aprove-developers/LoAT,
+
+and we refer to [20] for a pre-compiled binary of LoAT. In future work, we plan to extend LoAT’s under-approximations to programs
+
+written in (a fragment of) the programming language C.
+
+References
+
+ 1. Albert, E., Genaim, S., Masud, A.N. ",cs.LO,B,0.26547283,-0.035713606,-0.124748364
+http://arxiv.org/pdf/2202.05412v1,Checking Continuous Stochastic Logic against Quantum Continuous-Time Markov Chains,"Furthermore, we provided the Apollonian network
+as a running example to demonstrate the method mentioned above. For future work, an interesting direction is model-checking the quantum continuous-
+time Markov decision processes (CTMDP) [YY18], in which probabilistic and nondetermin-
+istic behaviors coexist. To resolve nondeterminism, following the veriﬁcation work [Mil68,
+MSS20] in classical CTMDPs, an optimal scheduler is expected to maximize the probability
+of a given property over almost all time-stamps at each classical state. ",cs.LO,B,0.25961238,0.18289,-0.0973447
+http://arxiv.org/pdf/2202.05700v1,"Axiomatizing consciousness, with applications","The model IIT diverges from ours,
+wanting to propose a solution to the hard problem of consciousness. Although [Bitbol 2008] ar-
+gues convincingly that this is impossible, IIT is an interesting further analysis of the mechanisms
+needed for consciousness. Our axiomatization focuses on several applications, mentioned in the
+abstract and detailed below. ",cs.LO,C,-0.053242616,0.24544074,0.10102938
+http://arxiv.org/pdf/2202.05959v2,Formalization of a Stochastic Approximation Theorem,"This would have given us the added benefit of supporting general measures
+    instead of our restriction to probability measures. Refactoring our library to build on top of
+    one or more of these formalizations might be a possible direction for future work. Formal proofs about convergence of random variables (the Central Limit Theorem) have
+    been given in Avigad et al [8] using the Isabelle/HOL system. ",cs.LO,A,0.1005871,0.16563013,0.039977275
+http://arxiv.org/pdf/2202.06264v1,A Simplified Variant of Gödel's Ontological Argument,"The resulting rational
+reconstructions of argument variants would be very useful in gaining more intuition and understanding of the theory
+in question, in this case a theistic theory, which in turn could lead to its demystiﬁcation and also to the identiﬁcation
+of ﬂawed discussions in the existing literature. In future work, I would like to further deepen ongoing studies of Fitting’s (2002) proposal, which works with
+intensions rather than extension of (positive) properties. Acknowledgements: I thank Andrea Vestrucci for valuable comments that helped improve this article. ",cs.LO,A,-0.13331062,0.31091034,0.19659294
+http://arxiv.org/pdf/2202.06264v2,A Simplified Variant of Gödel's Ontological Argument,"Further variants whose relation to the presented simplified argument should be studied in
+further work include Christian (1989), Gustafsson (2019) and Świetorzecka and Łyczak
+(2020). In future work, I would also like to further deepen ongoing studies of Fitting’s (2002)
+proposal, which works with intensions rather than extensions of (positive) properties. Discussion
+
+Whether the simplified variant of Gödel’s ontological argument presented in this chapter
+actually increases or decreases the argument’s appeal and persuasiveness is a question I
+would like to pass on to philosophy and theology. ",cs.LO,C,-0.19744143,0.26769045,0.15199935
+http://arxiv.org/pdf/2202.06594v1,A formal algebraic approach for the quantitative modeling of connectors in architectures,"We apply Theorem 2 and Corollary 1, and we are done. 39
+8 Conclusion
+
+There are several directions for future work. Speciﬁcally to the results presented in the paper, recall
+that by the idempotency property of the semiring we achieved to restrict computing unnecessarily
+the weight of identical interactions resulting by the semantics of wAI(P ) and wAC(P ). ",cs.LO,C,-0.2380845,-0.08704911,0.0837089
+http://arxiv.org/pdf/2202.06594v2,A formal algebraic approach for the quantitative modeling of connectors in architectures,"We apply Theorem 2 and Corollary 1, and we are done. 39
+8 Conclusion
+
+There are several directions for future work. Speciﬁcally to the results presented in the paper, recall
+that by the idempotency property of the semiring we achieved to restrict computing unnecessarily
+the weight of identical interactions resulting by the semantics of wAI(P ) and wAC(P ). ",cs.LO,C,-0.2380845,-0.08704911,0.0837089
+http://arxiv.org/pdf/2202.06594v3,A formal algebraic approach for the quantitative modeling of connectors in architectures,"Therefore, the
+wAC(P ) connectors [s] ⊗ [r1] ⊕ [s] ⊗ [r2] ⊕ [s] ⊗ [r3] and [s] ⊗ [r1] ⊕ [s] ⊗ [r2] ⊕ [s] ⊗ [r3]
+are not congruent. 8 Conclusion
+
+There are several directions for future work. Speciﬁcally to the results presented in the paper,
+recall that by the idempotency property of the semiring K we achieved to restrict computing un-
+necessarily the weight of identical interactions resulting by the semantics of wAI(P ) and wAC(P ). ",cs.LO,C,-0.17542797,-0.00039232895,0.06672336
+http://arxiv.org/pdf/2202.06594v4,A formal algebraic approach for the quantitative modeling of connectors in architectures,"Finally, we deﬁned a concept of congruence relation for fusion-wAC(P ) connectors and
+we proved two theorems for checking such a congruence. There are several directions for future work. An important open problem is providing a con-
+gruence relation for wAC(P ) connectors in general, as well as investigating a diﬀerent modeling
+methodology for the weighted framework of connectors in order to solve their congruence problem. ",cs.LO,B,0.031729277,-0.013884645,0.07823283
+http://arxiv.org/pdf/2202.06765v1,Quantitative Strongest Post,"2013]. As future work, we plan to investigate the newly observed Hoare triples and to provide novel
+
+proof systems for them. We also plan to extend our quantitative strongest calculi with heap
+
+manipulation, similarly to the work of [Batz et al. ",cs.LO,A,0.104453065,-0.1881091,0.2555307
+http://arxiv.org/pdf/2202.06901v1,Processes Parametrised by an Algebraic Theory,"Guarded semilattices are examples
+of the so-called McCarthy algebras of [11], and conversely every McCarthy algebra in ﬁnitely
+many propositions is a guarded semilattice. We change the name to emphasise the presence of
+ﬁnite Boolean guards, as well as the inherent order structure of guarded semilattices that will be
+expanded upon in future work. Let GS denote the category of guarded semilattices and their homomorphisms. ",cs.LO,C,-0.2936305,-0.040569868,0.08706349
+http://arxiv.org/pdf/2202.06901v2,Processes Parametrised by an Algebraic Theory,"Guarded semilattices are examples
+of the so-called McCarthy algebras of [11], and conversely every McCarthy algebra in ﬁnitely
+many propositions is a guarded semilattice. We change the name to emphasise the presence of
+ﬁnite Boolean guards, as well as the inherent order structure of guarded semilattices that will be
+expanded upon in future work. Let GS denote the category of guarded semilattices and their homomorphisms. ",cs.LO,C,-0.2936305,-0.040569868,0.08706349
+http://arxiv.org/pdf/2202.07881v1,The addition of temporal neighborhood makes the logic of prefixes and sub-intervals EXPSPACE-complete,"As shown in Section 7, this is the key property
+
+that causes the increase in complexity of the satisﬁability checking problem from BDhom
+(PSPACE-complete) to ABDhom (EXPSPACE-complete). It is easy to see that the result
+given here can be easily extended to the case of homogeneous structures isomorphic to N.
+
+     As for future work, we plan to investigate the satisﬁability/model checking problems
+
+for (fragments of) HShom, interpreted over the linear orders Q and R. However, the precise
+characterization of the complexity of the satisﬁability problem for BEhom remains the main
+open problem on the path of determining the complexity of the satisﬁability problem for full
+
+HShom, over ﬁnite linear orders. [BMM+14]                                       References
+[BMM+17]
+          Davide Bresolin, Dario Della Monica, Angelo Montanari, Pietro Sala, and Guido Sciavicco. ",cs.LO,B,0.0010459349,-0.29117614,0.15835808
+http://arxiv.org/pdf/2202.08131v1,Natural Language Proof Checking in Introduction to Proof Classes -- First Experiences with Diproche,"The
+results from the submitted students’ solutions and from the questionnaire are presented and discussed in
+Section 5. In concluding the article, in Section 6 we share thoughts about what the beneﬁts of the system
+are at the moment and what could be improved in future work. 2 The Diproche System
+
+Diproche is an acronym for “DIdactical PROof CHEcking”. ",cs.LO,A,0.15675244,0.15435505,0.08555532
+http://arxiv.org/pdf/2202.09637v1,Decision Problems in a Logic for Reasoning about Reconfigurable Distributed Systems,"We reuse existing techniques for Separation Logic [40],
+showing that our conﬁguration logic is more expressive than SL, fact which is conﬁrmed
+by a number of complexity gaps. Closing up these gaps and ﬁnding tight complexity
+classes in the more general cases is considered for future work. In particular, we aim
+at lifting the boundedness assumption on the degree of the conﬁgurations that must be
+considered to check the validity of entailments. ",cs.LO,C,-0.2087717,-0.23471895,-0.008661639
+http://arxiv.org/pdf/2202.09637v2,Decision Problems in a Logic for Reasoning about Reconfigurable Distributed Systems,"We reuse existing techniques for Separation Logic [40],
+showing that our conﬁguration logic is more expressive than SL, fact which is conﬁrmed
+by a number of complexity gaps. Closing up these gaps and ﬁnding tight complexity
+classes in the more general cases is considered for future work. In particular, we aim
+at lifting the boundedness assumption on the degree of the conﬁgurations that must be
+considered to check the validity of entailments. ",cs.LO,C,-0.2087717,-0.23471895,-0.008661639
+http://arxiv.org/pdf/2202.10866v2,Stateful Structural Operational Semantics,"We believe that our results generalize to functors B
+    equipped with a natural transformation cX : BX → S. As a first step, this generalization
+    requires an abstract characterization of our streamlined and cool rule formats in terms of
+    their corresponding natural transformations, along with categorical proofs of the respective
+    congruence theorems. We leave this as an important point for future work. A further direction of possible generalization is to cover effects, such as non-determinism,
+    in a similar style as in work on evaluation-in-context [2]. ",cs.LO,C,-0.32704878,0.083961144,0.09183335
+http://arxiv.org/pdf/2202.10866v3,Stateful Structural Operational Semantics,"We believe that our results generalize to functors B
+    equipped with a natural transformation cX : BX → S. As a first step, this generalization
+    requires an abstract characterization of our streamlined and cool rule formats in terms of
+    their corresponding natural transformations, along with categorical proofs of the respective
+    congruence theorems. We leave this as an important point for future work. A further direction of possible generalization is to cover effects, such as non-determinism,
+    in a similar style as in work on evaluation-in-context [2]. ",cs.LO,C,-0.32704878,0.083961144,0.09183335
+http://arxiv.org/pdf/2202.11570v1,Monitoring hyperproperties with circuits,"Thus, our main purpose would
+be to extend the logic and the consequent monitors to capture those properties,
+rather than this restricted approach. The main objective of this logical fragment
+is to establish a formal baseline which we will attempt to extend in future work. Our approach to this extension will be to allow a notion of synchronization
+rounds among the regular monitors (or equivalently a round of communication). ",cs.LO,B,0.047402706,-0.004355422,-0.17235228
+http://arxiv.org/pdf/2202.11570v2,Monitoring hyperproperties with circuits,"Thus, our main
+purpose is to extend the logic and the consequent monitors in order to express
+and monitor for the most general class of such properties. The main objective of
+the logical fragment we give here is to establish a formal baseline which we will
+attempt to extend in future work. Our approach to an extension would be to allow a notion of synchronization
+rounds among the regular monitors (or equivalently a round of communication). ",cs.LO,B,-0.002107799,-0.025478052,-0.15645376
+http://arxiv.org/pdf/2202.12592v1,Actions over Core-closed Knowledge Bases,"This does not seem possi-
+ble in our case, as not all necessary tests over core-closed knowledge bases are
+known to be FOL-reducible. In [10] and [9], the authors concentrate on veri-
+fying and synthesizing temporal properties expressed in a variant of µ-calculus
+over description logic based dynamic systems, both problems are relevant in our
+application scenario and we will consider them in future works. 8 Conclusion
+
+We focused on the problem of analyzing cloud infrastructure encoded as de-
+scription logic knowledge bases combining complete and incomplete information. ",cs.LO,B,-0.045472585,-0.09715339,-0.27323532
+http://arxiv.org/pdf/2203.01032v1,Graph Rewriting and Relabeling with PBPO+: A Unifying Theory for Quasitoposes,"[2], which involves an elegant comma category
+construction and suitable restrictions of the PBPO notions of rewrite rule and
+rewrite step. We leave relating their and our approach to future work. Acknowledgments We would like to repeat our acknowledgments for the con-
+ference version of this paper [9]: Andrea Corradini for enlightening discussions
+on AGREE and PBPO, and useful feedback on the paper; Michael Shulman, who
+identiﬁed the suﬃcient conditions for materialization for us [39]; and anonymous
+reviewers for several useful suggestions and corrections. ",cs.LO,C,-0.18820691,0.12238938,0.022303369
+http://arxiv.org/pdf/2203.01194v1,Theoretical Foundation of Colored Petri Net through an Analysis of their Markings as Multi-classification,"We extracted the theory of a multi-classiﬁcation by reducing it to a classiﬁcation table and
+using Sympy. As future work, we intend to study this theory on its own in the light of
+linear logic – linear sequent calculus. References
+
+[1] Cristian S.and Calude Gheorghe Paun Grzegorz Rozenberg Arto Salomaa (Eds.) ",cs.LO,C,-0.28796822,0.018788546,0.1051286
+http://arxiv.org/pdf/2203.02872v1,The Orthologic of Epistemic Modals,"We should explore
+what pragmatic system naturally goes with the possibility semantics we have developed. Whether our system,
+
+                                                                     69
+or further developments of it, ultimately provides the correct account, we hope that future work will take
+on board our goal of directly characterizing the logical peculiarities of epistemic modals and conditionals,
+aiming to capture exactly where classical logic goes wrong and where it doesn’t. Acknowledgements
+
+For helpful feedback, we thank Maria Aloni, Alexandru Baltag, Yifeng Ding, Alexander Kocurek, Ahmee
+Marshall-Christensen, Guillaume Massas, Eric Pacuit, Frank Veltman, and the audience in the LIRa seminar
+at the University of Amsterdam, where we presented some of this work in February 2022. ",cs.LO,C,-0.2166775,0.16781127,-0.15243965
+http://arxiv.org/pdf/2203.02872v2,The Orthologic of Epistemic Modals,"We should explore
+what pragmatic system naturally goes with the possibility semantics we have developed. Whether our system,
+or further developments of it, ultimately provides the correct account, we hope that future work will take
+on board our goal of directly characterizing the logical peculiarities of epistemic modals and conditionals,
+aiming to capture exactly where classical logic goes wrong and where it doesn’t. Acknowledgements
+
+For helpful feedback, we thank Maria Aloni, Alexandru Baltag, Kyle Blumberg, Sam Carter, Lucas Cham-
+pollion, Ahmee Christensen, Yifeng Ding, Alexander Kocurek, J. Dmitri Gallow, Guillaume Massas, Eric
+Pacuit, Frank Veltman, and the audience in the LIRa seminar at the University of Amsterdam, where we
+presented some of this work in February 2022. ",cs.LO,C,-0.22275245,0.17130943,-0.13618128
+http://arxiv.org/pdf/2203.02872v3,The Orthologic of Epistemic Modals,"We should explore
+what pragmatic system naturally goes with the possibility semantics we have developed. Whether our system,
+or further developments of it, ultimately provides the correct account, we hope that future work will take
+on board our goal of directly characterizing the logical peculiarities of epistemic modals and conditionals,
+aiming to capture exactly where classical logic goes wrong and where it doesn’t. Acknowledgements
+
+For helpful feedback, we thank Maria Aloni, Alexandru Baltag, Kyle Blumberg, Sam Carter, Lucas Cham-
+pollion, Ahmee Christensen, Yifeng Ding, Alexander Kocurek, J. Dmitri Gallow, Guillaume Massas, Eric
+Pacuit, Frank Veltman, the audience in the LIRa seminar at the University of Amsterdam in February 2022,
+and the audience in the NASSLLI 2022 course on Possibility Semantics in June 2022. ",cs.LO,C,-0.16574755,0.19884281,-0.1676355
+http://arxiv.org/pdf/2203.04834v1,Computing unsatisfiable cores for LTLf specifications,"The results have shown feasibility and complementarities of the
+proposed algorithms. For future work, we envisage the following research endeavours. We (i) will address the
+problem of extracting minimal UCs, (ii) plan to extend the approach to other LTL/LTLf
+algorithms based on k-liveness (Claessen & S¨orensson, 2012), liveness to safety (Biere et al.,
+2002), or tableau constructions (Geatti, Gigante, Montanari, & Reynolds, 2021), (iii) intend
+to extend the problems set with benchmarks from emerging domains (e.g., AI Planning, or
+BPM), (iv) want to correlate structural information (e.g., V cardinality, temporal depth,
+number of operators) with solving algorithms, (v) aim to investigate the extension to the
+inﬁnite state case exploiting SMT techniques (Barrett, Sebastiani, Seshia, & Tinelli, 2009;
+Daniel, Cimatti, Griggio, Tonetta, & Mover, 2016). ",cs.LO,B,0.2859432,-0.06329995,-0.15579444
+http://arxiv.org/pdf/2203.05791v1,A study for recovering the cut-elimination property in cyclic proof systems by restricting the arity of inductive predicates,"However, since there is the
+left-contraction rule, we have an inﬁnitely progressing trace in the right-most path, as in Figure 4. Comparing
+our proof technique with the proof technique in [15] is reserved for future work. Table 1 shows the results we obtained about the cut-elimination property of each cyclic proof system for some
+logics. ",cs.LO,A,-0.028901536,-0.26286137,0.20084016
+http://arxiv.org/pdf/2203.07283v1,A Logic for Hyperproperties in Multi-Agent Systems,"As HyperATL∗ subsumes HyperCTL∗, it inherits the Σ21-hardness of
+HyperCTL∗ satisﬁability13. Identifying fragments of (linear) HyperATL∗ that are decidable
+(or sit below the general Σ21-hardness) is interesting future work. 13As alternating-time logics are evaluated over game structures, the satisﬁability problem can either
+stated as the search for a set of agents (containing the agents refereed to in the formula) and game structure
+over those agents or the search for a game structure given a ﬁxed set of agents (as part of the input). ",cs.LO,C,-0.056736737,-0.18014917,-0.072581
+http://arxiv.org/pdf/2203.07982v1,Linear-Time Verification of Data-Aware Dynamic Systems with Arithmetic,"Tool Results on Examples
+
+We report on results obtained with ada on some examples. However, the tool is a prototype implementation, and we in-
+tend to provide a proof of feasibility rather than a compre-
+hensive evaluation, which is left for future work. Ba ψ11 :   ♦(sold ∧ d > 0 ∧ o ≤ t)                x 2.5
+    ψ12 :  ♦(b = 1 ∧ o > t ∧ ♦(sold ∧ b = 1))          4.3
+    ψ13 :  ♦(sold ∧ b = 0)
+    ψ14 :  s = 0 U (d ≤ 0 ∨ o > t)                x 2.1
+    ψ15 :                                              5.1
+             (s = 0) ∨ ((d > 0 ∧ o ≤ t) U s = 0)
+Br ψ21 :                                          x 3.1
+    ψ22 :  ♦ (dS ≤ 0 ∨ dS ≥ 2160)
+    ψ23 :  ♦ (dP ≤ 0 ∨ dP ≥ 1440)                 x 1.1
+    ψ24 :  ♦ (dJ ≤ 0 ∨ dJ ≥ 1440)                 x 1.2
+    ψ25 :  ♦ (end ∧ total < amount + expense)     x 1.1
+    ψ26 :
+             (total = 0)                               1.0
+Bh ψ31 :   ♦ ( notify ⊤ ∧ (dismissal = 0))             1.5
+    ψ32 :                                         x 2.1
+    ψ33 :  ♦ p16
+           ♦ (p40 ∧ closed = 1 ∧ (ccode ≤ 0))        27.1
+           ♦ ( storno reopen ⊤)                   x 19.4
+                                                  x 21.7
+
+ada comes with a test script that checks 43 properties of 14
+systems, including the above. ",cs.LO,B,0.20984703,-0.024118617,-0.01864062
+http://arxiv.org/pdf/2203.08416v1,On Higher-Order Reachability Games vs May Reachability,"As men-
+tioned in Section 6, our results are closely related to the correspondence between higher-order
+word and tree languages [2]. A deeper investigation of the relationship and generalization of
+the translations that subsume the related translations [2, 11] are left for future work. Acknowledgment
+
+This work was supported by JSPS KAKENHI Grant Numbers JP20H05703. ",cs.LO,C,-0.2193385,0.06634563,0.11299322
+http://arxiv.org/pdf/2203.09225v1,Neighbourhood semantics and axioms for strategic fragment of classical stit logic,"Follows directly from Deﬁnition 3.7 and Proposition 3.6. 4 Conclusion and further research
+
+We have proposed a fragment of classical stit logic, Losstit , with a non-normal strategic
+modality [i]φ . The neighbourhood semantics for the fragment was presented, as well
+as soundness and strong completeness of Losstit w.r.t. ",cs.LO,C,-0.20936623,0.15149006,-0.09338303
+http://arxiv.org/pdf/2203.09441v1,Learning of Structurally Unambiguous Probabilistic Grammars,"Following the motivation
+of [WGY19], the present work oﬀers obtaining intrepretable models also in cases where the
+studied object exhibits non-regular (yet context-free) behavior. For future work, we think
+that improving our method to be more noise-tolerant would make the algorithm able to
+learn complex regular and context-free grammars from recurrent neural networks. [AK95]                                         References
+[AMP99]
+          D. Angluin and M. Kharitonov. ",cs.LO,B,0.16852993,0.22148965,-0.10392595
+http://arxiv.org/pdf/2203.09441v2,Learning of Structurally Unambiguous Probabilistic Grammars,"Following the motivation
+of [WGY19], the present work oﬀers obtaining intrepretable models also in cases where the
+studied object exhibits non-regular (yet context-free) behavior. For future work, we think
+that improving our method to be more noise-tolerant would make the algorithm able to
+learn complex regular and context-free grammars from recurrent neural networks. [AK95]                                         References
+[AMP99]
+          D. Angluin and M. Kharitonov. ",cs.LO,B,0.16852993,0.22148965,-0.10392595
+http://arxiv.org/pdf/2203.09885v1,Formally Modeling Autonomous Vehicles in LNT for Simulation and Testing,"Both models can be and
+have been used to test AVs: the ﬁrst one to generate tests for the entire system, which does not require a
+reﬁned abstraction of each AV component, and the second one to generate tests for validating a particular
+perception component, which requires a more precise representation of the map. As future work, we plan to unify both models. This could be beneﬁcial for the generation of more
+reﬁned test cases, i.e., including the control of the car on a precise fragment of the geographical map. ",cs.LO,B,0.10318105,0.28429246,-0.13924974
+http://arxiv.org/pdf/2203.12876v1,Asynchronous Sessions with Input Races,"We take advantage of queues in type conﬁgurations for a similar but less reﬁned control, which uses the
+predicate ensuring that a global type is inactive for a given set of messages. As future work, we plan to investigate three different variations of our typing. The ﬁrst one would
+
+be a weakening of condition ι (G, M) in Rule [IN], taking into account the order of sent messages and
+
+the expected inputs. ",cs.LO,C,-0.1339156,0.0009783059,-0.08156142
+http://arxiv.org/pdf/2203.12877v1,Higher-order Context-free Session Types in System F,"We plan to analyse the implica-
+tions of polymorphism over session types on the decidability of type equivalence. Another challenge for future work is the incorporation of higher-order kinds. The present kinds, S
+and T, are kinds of proper types. ",cs.LO,C,-0.31073934,-0.21133932,0.07520611
+http://arxiv.org/pdf/2203.14261v1,The Lattice-Theoretic Essence of PropertyDirected Reachability Analysis,"We nevertheless see that
+PDRF-Kr solves some benchmarks of substantial size, such as power2bit8.smv. This demonstrates the practical potential of LT-PDR, especially in view of the
+following improvement opportunities (we will pursue them as future work): 1)
+use of well-developed SAT solvers (we currently use toysolver5 for its good
+interface but we could use Z3); 2) allowing |Ci| > 1, a technique discussed
+
+4 https://github.com/arminbiere/aiger
+5 https://github.com/msakai/toysolver
+18  M. Kori et al. in §5.1 and implemented in IC3ref but not in PDRF-Kr; and 3) other small
+improvements, e.g. ",cs.LO,B,0.39912602,-0.03195908,-0.02811328
+http://arxiv.org/pdf/2203.14261v2,The Lattice-Theoretic Essence of PropertyDirected Reachability Analysis,"We instanti-
+ated it with several transition systems, deriving existing PDR algorithms as well
+as a new one over Markov reward models. We leave instantiating our LT-PDR
+and categorical safety problems to derive other PDR-like algorithms, such as
+PDR for hybrid systems [29], for future work. We will also work on the combination of our work and the theory of abstract
+interpretation [10, 12]. ",cs.LO,B,0.13656868,0.16258718,-0.17072436
+http://arxiv.org/pdf/2203.14261v3,The Lattice-Theoretic Essence of PropertyDirected Reachability Analysis,"We instanti-
+ated it with several transition systems, deriving existing PDR algorithms as well
+as a new one over Markov reward models. We leave instantiating our LT-PDR
+and categorical safety problems to derive other PDR-like algorithms, such as
+PDR for hybrid systems [29], for future work. We will also work on the combination of our work and the theory of abstract
+interpretation [10, 12]. ",cs.LO,B,0.13656868,0.16258718,-0.17072436
+http://arxiv.org/pdf/2203.14261v4,The Lattice-Theoretic Essence of Property Directed Reachability Analysis,"We instanti-
+ated it with several transition systems, deriving existing PDR algorithms as well
+as a new one over Markov reward models. We leave instantiating our LT-PDR
+and categorical safety problems to derive other PDR-like algorithms, such as
+PDR for hybrid systems [29], for future work. We will also work on the combination of our work and the theory of abstract
+interpretation [10, 12]. ",cs.LO,B,0.13656868,0.16258718,-0.17072436
+http://arxiv.org/pdf/2203.14809v1,Soundness of Data-Aware Processes with Arithmetic Conditions,"Our experiments show
+that the approach is eﬀective and eﬃcient, and can detect soundness bugs. In future work, we aim at realizing a tighter integration between manual and
+automated approaches for data-aware process discovery and correctness analysis. Speciﬁcally, we plan to study the integration of this technique with automated
+approaches for process discovery to either guarantee by design the soundness
+of the discovered processes, or to provide speciﬁc indications on how to repair
+them (e.g., by providing negative examples to be excluded or to guide the se-
+lection of ﬁtness parameters when discovering decisions from those appearing in
+the log). ",cs.LO,B,0.18464088,-0.050970525,-0.29428065
+http://arxiv.org/pdf/2203.14891v1,How Functorial Are (Deep) GADTs?,"Our algorithm is given in Section 3, and fully worked out sample runs
+of it are given in Section 4. Our conclusions, related work, and some directions for future work are discussed in
+Section 5. Our Agda implementation of our algorithm is available at [8], along with a collection of examples on
+which it has been run. ",cs.LO,A,0.46625832,-0.13069603,0.24727827
+http://arxiv.org/pdf/2203.15467v1,Graded Monads and Behavioural Equivalence Games,"3 (2018), 1860–5974. h ps://doi.org/10.23638/lmcs-14(3:20)2018
+A promising direction for future work is to develop the
+generic algorithmics and complexity theory of the inﬁnite                                         [8] Alexandru Baltag. 2000. ",cs.LO,A,0.18437359,-0.0920997,0.22731975
+http://arxiv.org/pdf/2203.15467v2,Graded Monads and Behavioural Equivalence Games,"These are treated similarly as traces in non-        braic behavioural equivalence in a category of Eilenberg-Moore
+deterministic LTS: Every depth-1 term can be normalized into one              algebras, and is then characterized by an inﬁnite version of the
+of the form A · ( ), where A = 1 and the are depth-0                          generic equivalence game. A promising direction for future work
+terms. To show equality of two such normal forms ∈A · ( )                     is to develop the generic algorithmics and complexity theory of the
+and ∈A · ( ) (arising as successors of the current conﬁgu-                    inﬁnite equivalence game, which has computational content via
+ration), D needs to have = , and then claim = , for all                       the implied ﬁxpoint characterization. ",cs.LO,C,-0.13169247,-0.05235046,0.13816471
+http://arxiv.org/pdf/2203.16344v1,Formalizing the Ring of Adèles of a Global Field,"In Section 5 we discuss two
+applications of the idèle group to class ﬁeld theory. Finally, we conclude Section 6 with some
+implementation remarks and a discussion of future work connected to this project. 2 The ﬁnite adèle ring of a Dedekind domain
+
+2.1 Dedekind domains and adic valuations
+
+There are several equivalent deﬁnitions of Dedekind domain, three of which have been
+formalized in mathlib [4]. ",cs.LO,C,-0.1452862,0.10809685,0.27531406
+http://arxiv.org/pdf/2203.17179v1,4DL: a four-valued Dynamic logic and its proof-theory,"Even though 4DL was created independently, it would be interesting to check,
+in the future, its connection to a logic obtained by applying the technique in [11]. Another topic for further research is the study of bisimulation. Remark. ",cs.LO,B,0.078662395,-0.029201075,0.011435319
+http://arxiv.org/pdf/2204.00076v1,Reachability Logic for Low-Level Programs,"This orders the search
+space, making it feasible to search the inﬁnite space in a structured way. Al-
+though some rudimentary ordering is done, eﬃciently searching the reachability
+space is explicitly left as future work. Reachability Logic for Low-Level Programs            11
+
+!e ≡ z ∧ e = b ∧ e = d !a ≡ z ∧ e ≡ b ∧ e = d !c ≡ z ∧ c = b ∧ e ≡ d !a ≡ z ∧ c ≡ b ∧ e ≡ d
+
+Store b !a;  !e ≡ z ∧ e = d                         !c ≡ z ∧ e ≡ d
+Store d !c;
+Exit                             !e ≡ z
+                                 !e ≡ z
+
+             Fig. ",cs.LO,C,-0.07976204,-0.16305465,-0.12109504
+http://arxiv.org/pdf/2204.02076v1,Separability and harmony in ecumenical systems,"xRx, Γ ⊢ z : C T             xRx, R, Σ ⇒ ∆, x : A, x : ♦cA; z : ⊥                     Γ⊥◦ {A▽}
+           Γ⊢z:C                         xRx, R, Σ ⇒ ∆, x : ♦cA; z : ⊥ ♦cR                    Γ⊥◦ {♦cA▽} t▽
+                                                                               T
+                                            R, Σ ⇒ ∆, x : ♦cA; z : ⊥
+
+The rules b▽, 4▽ and 5▽, shown in Figure 7, are obtained in the same manner. Restricted to the fragments described in the last section, by mixing and matching
+
+                                                       23
+these rules, we obtain ecumenical modal systems for the logics in the S5 modal cube [2]
+not deﬁned with axiom d.
+
+7 Related and future work
+
+The main idea behind Prawitz’ ecumenical system [31] is to build a proof framework
+in which classical and intuitionistic logics may co-exist in peace. Although one could
+argue that this is easily done using the well known double-negation translations by
+Kolmogorov, Go¨del, Gentzen and others [11], Prawitz’ view matches the idea presented
+by Liang and Miller in their PIL system presented in [19]: not seeing classical logic
+as a fragment of intuitionistic logic but rather to determine parts of reasoning which
+are classical or intuitionistic in nature. ",cs.LO,C,-0.3029064,0.015201861,-0.06473576
+http://arxiv.org/pdf/2204.02199v1,On an ecumenical natural deduction with stoup -- Part I: The propositional case,"The
+important relation ¬∀x¬A(x) ⊢ ∃cxA(x) between ∀ and ∃c is not derivable in
+this ﬁrst-order system with stoup. As a future work, we propose to investigate
+the ﬁrst-order system obtained by the addition of the rules mentioned above
+plus a new structural rule, the store rule:
+
+                                             ∆, A; ·
+                                              ∆; A store
+with the side condition that the main operator of A is classical. 8.2 A diﬀerent approach to purity
+
+A diﬀerent and interesting approach to pure systems worth exploring is based
+on some ideas proposed by Julien Murzi in [Mur20]. ",cs.LO,C,-0.26253542,-0.012222323,-0.050690107
+http://arxiv.org/pdf/2204.02199v2,On an ecumenical natural deduction with stoup -- Part I: The propositional case,"The
+important relation ¬∀x¬A(x) ⊢ ∃cxA(x) between ∀ and ∃c is not derivable in
+this ﬁrst-order system with stoup. As a future work, we propose to investigate
+the ﬁrst-order system obtained by the addition of the rules mentioned above
+plus a new structural rule, the store rule:
+
+                                             ∆, A; ·
+                                              ∆; A store
+with the side condition that the main operator of A is classical. 8.2 A diﬀerent approach to purity
+
+A diﬀerent and interesting approach to pure systems worth exploring is based
+on some ideas proposed by Julien Murzi in [Mur20]. ",cs.LO,C,-0.26253542,-0.012222323,-0.050690107
+http://arxiv.org/pdf/2204.02643v1,Modular pre-processing for automated reasoning in dependent type theory,"Part of the proof reconstruction features of Trakt could in principle
+            be addressed by univalent parametricity, under the assumption of the univalence axiom, but
+            an appropriate implementation for this purpose is not yet available. Future improvements It is left for future work an implementation of the snipe tactic
+            which can integrate user-deﬁned (and possibly parametric) tactics, at any suitable place in
+            the chain of transformations. Another possible improvement would be the generation of fewer instances while eliminating
+            prenex polymorphism. ",cs.LO,C,-0.14714524,-0.071863435,0.0075777275
+http://arxiv.org/pdf/2204.02643v3,Compositional pre-processing for automated reasoning in dependent type theory,"This strategy currently freezes     Trakt Add Relation
+an order for the transformations (that is to say a path in the       Inv_elt_list Inv_elt_list_bool Inv_elt_list_decidable. general methodology of Figure 1); we live for future work
+to improve ﬂexibility (see Section 5). Whenever the trakt tactic targets bool, any goal featur-
+                                                                   ing Inv_elt_list will be translated into a goal featuring its
+   With this new pre-processing, the snipe tactic automat-         Boolean counterpart Inv_elt_list_bool. ",cs.LO,B,0.0425494,-0.17306778,-0.14094375
+http://arxiv.org/pdf/2204.03882v1,About Opposition and Duality in Paraconsistent Type Theory,"Under
+        this (somewhat blurred) intentional interpretation of sets, the dualities in Section 3 make sense. However, taking into account Theorem 3.11, for a full interpretation of types as sets we just need
+        to have the interpretation of opposite basic types, but in this endeavour it is necessary to deﬁne
+        what exactly means ‘dual concept’ (at least for concepts associated with basic types), which is not
+        a simple task and is left for future work. • As B A ≡U0 A × B, thus c : B A can be understood as ‘c is a pair of individuals, the ﬁrst one
+        falling under the concept CA (or under the concept dual to CA) and the second one falling under the
+        concept CB’. ",cs.LO,C,-0.35520485,0.18445553,0.06751925
+http://arxiv.org/pdf/2204.05653v1,Functional Pearl: Dependent type inference via free higher-order unification,"These
+examples show that the approach does not require the user to have a deep understanding of higher-
+order uniﬁcation to enable type inference for their language. We have also devised two main directions for future work. First, it is important to incorporate
+E-uniﬁcation in some form. ",cs.LO,C,-0.21644247,-0.007288683,-0.04441385
+http://arxiv.org/pdf/2204.06068v3,Encodability Criteria for Quantum Based Systems,"a single source term step might be translated
+into a sequence of target term steps, but the product of the probabilities contained in the
+sequence has to be equal to the probability of the single source term step. We leave the
+derivation of a suitable probabilistic version of operational correspondence to future work. Another important aspect is in how far the quality criteria capture the fundamental
+principles of quantum based systems such as the no-cloning principle: By the laws of
+quantum mechanics, it is not possible to exactly copy a qubit. ",cs.LO,B,0.08424114,0.09948681,-0.08742136
+http://arxiv.org/pdf/2204.06528v1,Four algorithms for propositional forgetting,"It may be due to the way the algorithms are implemented. Further optimizing them is a possible direction for future work. Others include the
+extension to other logics, especially Answer Set Programming, which is relatively similar to
+propositional logics and forgetting was thoroughly investigated [WZZZ14, GKL16]. ",cs.LO,B,0.12228827,-0.0971403,-0.07381974
+http://arxiv.org/pdf/2204.06719v1,Normalization by Evaluation for the Lambek Calculus,"In other words, Lβη is not a
+presentation of the free monoidal biclosed category on the set of atomic formulae At. The extension of
+NbE to “strong” unit and tensor is left for future work. We should take inspiration from the methodolo-
+gies adopted in the NbE literature to deal with strong sums in typed λ -calculus [3, 7], which require a
+modiﬁcation of the Kripke semantics using sheaves on a particularly chosen site instead of presheaves. ",cs.LO,C,-0.24526358,0.1837208,0.09049618
+http://arxiv.org/pdf/2204.06722v1,Normalisation for Some Infectious Logics and Their Relatives,"For example, Sfde and dSfde may
+be considered as four-valued versions of Kw3 and PWK. Hence, a reasonable topic for further research is
+an investigation of normalisation for other Kleene-style logics, e.g. those which were formalised via ND
+systems in [28]. ",cs.LO,C,-0.13669765,0.0038477257,-0.090652734
+http://arxiv.org/pdf/2204.06725v1,Monadicity of Non-deterministic Logical Matrices is Undecidable,"Finally, Section 4 establishes our main results, namely the undecidability of
+monadicity for Nmatrices, and as a corollary the uncomputability of expressible multi-functions. We
+conclude, in Section 5, with a discussion of the importance of the results obtained and several topics for
+further research. 2 Preliminaries
+
+In this section we recall the notion of logical matrix, non-deterministic matrix, and their associated logics. ",cs.LO,C,-0.12957318,-0.078065835,0.019281738
+http://arxiv.org/pdf/2204.06728v1,Decidability of Intuitionistic Sentential Logic with Identity via Sequent Calculus,"An alternative form of employing backtracking seems to be by switching
+to a hypersequent format, where b-applications of L⊃ would result in extending a hypersequent with all
+possible sequents that correspond to the possible choices of implication formula. We postpone this issue,
+however, for further research. 4.2 Countermodel
+
+Suppose that the proof-procedure fails for ⇒ φ . ",cs.LO,C,-0.1702644,-0.09363481,-0.001007301
+http://arxiv.org/pdf/2204.06735v1,Algebraizability of the Logic of Quasi-N4-Lattices,"In Section 5 we show that the algebraic counterpart of LQN4 is term-equivalent to
+the class of quasi-N4-lattices. In the ﬁnal Section 6 we mention some prospects for future work. 2 Preliminaries
+
+In this section we recall two equivalent presentations of quasi-N4-lattices; these will be used to establish
+the equivalence between the two alternative algebraic semantics for the logic LQN4, which is introduced
+in the next section. ",cs.LO,C,-0.31863183,-0.027425963,0.114130504
+http://arxiv.org/pdf/2204.06737v1,A Logic for Paraconsistent Transition Systems,"• Case ϕ = ϕ1: Observe that
+
+(w ⊧  ϕ1)  =     (  ⊔    (R−(w w′) ⊓ (w′ ⊧ ϕ1)−),      ,          (R−(w w′) ⇀ (w′ ⊧ ϕ1)+))
+                                                                         ,
+
+                 w′ ∈W1                                   w′ ∈W1
+
+By induction hypothesis, this is equal to
+
+( ⊔ (R−(v v′) ⊓ (v′ ⊧ ϕ1)−) (R−(v v′) ⇀ (v′ ⊧ ϕ1)+)) = (v ⊧ ϕ1),,,
+
+v∈W2                                          v∈W2
+
+• Case ϕ = ϕ1: is analogous to the previous case. • Case ϕ = ○ϕ1: since (w ⊧ ϕ) = (v ⊧ ϕ) it is straightforward that (w ⊧ ○ϕ) = (v ⊧ ○ϕ)
+
+5 Conclusions and future work
+
+We have discussed a method to “build paraconsistent modal logics on-demand” (in style of [10]), i.e. parametric in an iMTL-algebra equipped with a metric space over its carrier. ",cs.LO,C,-0.2728384,-0.045446984,0.0603054
+http://arxiv.org/pdf/2204.06739v1,Dunn Semantics for Contra-Classical Logics,"Why? This is, as I have said, left for future work. But there are at least two more paths to
+follow after this investigation. ",cs.LO,A,0.1510253,0.24150911,0.13032044
+http://arxiv.org/pdf/2204.07003v1,Probability monads with submonads of deterministic states - Extended version,"The monad on [Inj, Set] is observational. monoidality, but we leave to future work the investigation
+                                                                                                       of noncommutative examples. Proof. ",cs.LO,C,-0.3063689,0.13181128,0.045348506
+http://arxiv.org/pdf/2204.07039v1,Methods for Efficient Unfolding of Colored Petri Nets,"The actual veriﬁcation on the
+models and queries from the 2021 Model Checking Contest shows that our unfolding technique allows
+us to solve 4% more queries compared to the second best competing tool. In future work, we plan to
+combine our approach with structural reduction techniques applied directly to the colored nets. Acknowledgments. ",cs.LO,B,0.104784094,-0.15160793,-0.08150531
+http://arxiv.org/pdf/2204.07175v1,Fundamentals of Compositional Rewriting Theory,"This failure (due concretely to SGraph not satisfying axiom (L-
+iii-b); cf. Table 3) appears to be indicative of the utility of our ﬁne-grained analysis, in that the precise role played by
+each of the assumptions found to be suﬃcient for a given compositional rewriting semantics are highlighted, such that
+perhaps in future work alternative semantics or categorical constructions might be constructible in order to overcome
+these limitations. Our results are based on a new formalism that expresses the required categorical structure in terms of certain
+ﬁbrational structures together with a small number of axioms speciﬁc to the case of rewriting. ",cs.LO,C,-0.37469584,0.00697287,-0.12170368
+http://arxiv.org/pdf/2204.07728v1,Fault-Tolerant Multiparty Session Types (Technical Report),"We present a ﬁrst attempt to solve this
+problem using a weakly reliable branching. In further research we want to analyse, whether or in how far branching
+can be extended to the case of message loss. Indeed our implementation of the rotating coordinator algorithm is not ideal. ",cs.LO,B,0.29551852,-0.073386066,0.018730646
+http://arxiv.org/pdf/2204.07728v2,FTMPST: Fault-Tolerant Multiparty Session Types,"We present a ﬁrst attempt to solve this problem using a weakly reliable
+branching. In further research we want to analyse, whether or in how far branching can be
+extended to the case of message loss. Indeed our implementation of the rotating coordinator algorithm is not ideal. ",cs.LO,B,0.29551852,-0.073386066,0.018730646
+http://arxiv.org/pdf/2204.07839v1,A Logical Analysis of Dynamic Dependence,"Section §7. concludes, places our systems in a broader setting, and
+points at directions for further research. §2. ",cs.LO,A,0.1554552,0.40981078,0.08610202
+http://arxiv.org/pdf/2204.08896v1,Model Checking Strategic Abilities in Information-sharing Systems,"In particular, notice that no hi-
+erachy is assumed on the observations of agents in vCGS, nor anything similar appears
+in standard TF attacks. As future work, we plan to implement the model-checking algorithm in the MC-
+MAS tool [38]. To date, this tool does not support communication between agents by
+means of shared variables, the only communication mechanism being synchronisation
+on joint actions. ",cs.LO,B,0.16889006,0.020852048,-0.25757557
+http://arxiv.org/pdf/2204.10493v1,MITL Verification Under Timing Uncertainty,"More generally, the timing
+uncertainty associated with satisfying the formula relates to the gap between
+the over- and under-approximations produced by the algorithm. Although its
+precise nature is deferred to future work, we anticipate a relationship between
+MITL Veriﬁcation Under Timing Uncertainty  3
+
+this gap and the notions of temporal robustness in [3,9]. Such is of relevance to
+recent works [8,12], which aim to synthesize controllers that maximise temporal
+robustness. ",cs.LO,B,0.34665692,0.12309512,-0.17719801
+http://arxiv.org/pdf/2204.10493v2,MITL Verification Under Timing Uncertainty,"More generally, the timing
+uncertainty associated with satisfying the formula relates to the gap between
+the over- and under-approximations produced by the algorithm. Although its
+MITL Veriﬁcation Under Timing Uncertainty  3
+
+precise nature is deferred to future work, we anticipate a relationship between
+this gap and the notions of temporal robustness in [3,9,13]. Such is of relevance to
+recent works [8,12], which aim to synthesize controllers that maximise temporal
+robustness. ",cs.LO,B,0.367065,0.121479,-0.13293663
+http://arxiv.org/pdf/2204.10789v1,Verification of Locally Tight Programs,"Establishing that a program is locally tight involves proving a
+property of an inﬁnite graph, and it may be possible to use the reasoning capabilities of
+vampire to assist the user of anthem in this process. This is a topic for future work. The designers of anthem chose to use vampire as its automated reasoning companion
+because vampire supports both typed ﬁrst-order reasoning and integer arithmetics, and
+because its performance outclassed other provers in preliminary experiments. ",cs.LO,B,0.15100169,-0.2246939,-0.020431206
+http://arxiv.org/pdf/2204.10912v2,Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime,"As we know that the classical LTL and
+rLTL synthesis algorithms also take doubly-exponential time, we conclude that
+adaptive and strongly adaptive strategies are not harder to compute. In future work, we aim to investigate even more general notions of adaption to
+the behavior of a not necessarily antagonistic environment. Possible approaches
+include observing the environment’s behavior and trying to compare that to
+optimal strategies for the environment. ",cs.LO,B,0.21642873,0.1772491,-0.1763872
+http://arxiv.org/pdf/2204.11023v1,Unboundedness for Recursion Schemes: A Simpler Type System,"Second (and related to ﬁrst), it seems that the number of choices for these ﬂags and markers
+is quite large, and thus ﬁnding type derivations even for quite simple recursions schemes may
+be very costly. Having these drawbacks in mind, we leave experimental evaluation of these
+algorithms for future work. In this paper we rather consider a much simpler type system, proposed by Parys in his
+survey [24], based on an earlier work concerning lambda-terms representing functions on
+numerals [21]. ",cs.LO,C,-0.056184683,-0.19109721,0.1461721
+http://arxiv.org/pdf/2204.11771v1,General Interpolation and Strong Amalgamation for Contiguous Arrays,"To avoid this, one could introduce
+right after Step 1 some form of guessing for equalities between index constants:
+however, such a guessing (based on colorings) would create branches and conse-
+quently would not produce a polynomial instance of a TI ∪ EUF -interpolation
+problem in Step 3. This issue needs further analysis. Finally, although quite challenging, it would be interesting to extend our
+interpolation results also to array theories combined with cardinality constraints,
+similar to those introduced, e.g., in [2],[27]. ",cs.LO,A,0.051416837,-0.12147265,0.23519048
+http://arxiv.org/pdf/2204.12117v1,On an Invariance Problem for Parameterized Concurrent Systems,"The reduction is polynomial if certain
+parameters are bound by a constant (i.e., the arity of the predicates, the size of
+interactions and the number of predicate atoms is an inductive rule), providing a
+2EXP upper bound for a fragment of the logic with a decidable (2EXP) entailment
+problem [4, §6]. Having a polynomial reduction motivates, moreover, future work
+on the deﬁnition of fragments of lower (e.g., polynomial) entailment complexity
+(see e.g., [9] for a fragment of Separation Logic with a polynomial entailment
+problem), that are likely to yield eﬃcient decision procedures for the havoc
+
+1 Google reports on a cascading cloud failure due to reconﬁguration: https://status. cloud.google.com/incident/appengine/19007
+invariance problem as well. ",cs.LO,A,-0.0061893323,-0.19931877,0.18585521
+http://arxiv.org/pdf/2204.12197v1,Evaluating Automatic Difficulty Estimation of Logic Formalization Exercises,"18
+automated theorem proving. For all these reasons, we believe that it is important
+that future work on algorithms for estimating the diﬃculty of logical formulas
+should be as speciﬁc as possible about the aims and purposes of the work and,
+consequently, not only about what type of learners they want to target, but also
+about the precise class of formulas whose diﬃculty the algorithm is intended to
+assess. References
+
+J.M. ",cs.LO,A,0.04891324,-0.17317005,0.1350644
+http://arxiv.org/pdf/2204.13215v1,Fairness and promptness in Muller formulas,"It follows
+that Algorithm 3 has a runs in time linear in |Fφ| and quadratic in |S|. 6 Discussion and conclusion
+
+In this section we discuss our results, some immediat corollaries and future work. The
+ﬁrst point we adress might seem technical at a ﬁrst glance, but we believe that it is worth
+mentioning, it is the maner the quantiﬁcation on the bound is used in the evaluation of
+
+                                                        25
+pLTL. ",cs.LO,A,0.3492717,-0.18646273,0.39584887
+http://arxiv.org/pdf/2204.13215v2,Fairness and promptness in Muller formulas,"Given an LTS L, a BSCC B of L and a formula Fφ ∈ F(L+(F∞ P )), the
+procedure CheckBSCC(B, L, φ) runs in time O(|φ||B|2). 14
+    Data: An LTS L = S, sinit, T, lbl : S → 2AP and a formula Fφ ∈ F L+(F∞ P )
+    Result: Whether L |=AS Fφ
+
+    CheckSystem(L, Fφ)
+         Components ← The set of all the BSCCs of L;
+         forall C ∈ Components do
+              tmp ← CheckBSCC(C, L, φ);
+              if tmp = C then
+                  return no;
+         return yes;
+
+    CheckBSCC(C, L, φ)
+         if φ ∈ AP then
+              return the set {s ∈ C | φ ∈ lbl(s)};
+         else if φ = ψ ∧ θ then
+              return CheckBSCC(C, L, ψ) ∩ CheckBSCC(C, L, θ);
+         else if φ = ψ ∨ θ then
+              return CheckBSCC(C, L, ψ) ∪ CheckBSCC(C, L, θ);
+         else if φ = F∞ P ψ then
+              tmp ← CheckBSCC(C, L, ψ);
+              if SPred∗(C, tmp) = C then
+                  return C;
+              else
+                  return ∅;
+
+  Algorithm 2: Polynomial time algorithm for the fair model checking of
+  F L+(F∞ P )
+
+6 Discussion and conclusion
+
+In this section we discuss our results, some immediate corollaries and future work. The
+ﬁrst point we address might seem technical at a ﬁrst glance, but we believe that it is
+worth mentioning. ",cs.LO,B,0.2723895,-0.16115224,0.13693084
+http://arxiv.org/pdf/2204.13215v3,Fairness and promptness in Muller formulas,"Given an LTS L, a BSCC B of L and a formula Fφ ∈ F(L+(F∞ P )),
+the procedure CheckBSCC(B, L, φ) runs in time O(|φ||B|2). 6 Discussion and conclusion
+
+In this section we discuss our results, some immediate corollaries and future work. The ﬁrst point we address might seem technical at a ﬁrst glance, but we believe
+that it is worth mentioning. ",cs.LO,A,0.28510928,-0.12883747,0.23718983
+http://arxiv.org/pdf/2204.13357v1,EvTL: A Temporal Logic for the Transient Analysis of Cyber-Physical Systems,"This
+disparity is also a consequence of the diﬀerent application context: oﬀ-line
+veriﬁcation for us, runtime veriﬁcation in [44]. However, as future work,
+we plan to develop a predictive model for the runtime monitoring of EvTL
+speciﬁcations. In particular, inspired by [9, 32] where deep neural networks
+are used as reachability predictors for predictive monitoring, we intend to
+integrate our work with learning techniques, to favour the computation and
+evaluation of the predictions. ",cs.LO,B,0.3371026,0.21405038,-0.2481559
+http://arxiv.org/pdf/2204.13654v1,On Quantitative Algebraic Higher-Order Theories,"In particular, rule (NExp) has to be replaced by a rule expressing uniform non-expansiveness
+    of approximant operators. We leave this as future work; here we just observe that the
+    appropriate language for reasoning on such structures would be the indexed λ-calculus
+    together with indexed reduction, see [5]. 9 Conclusions
+
+    Contributions. ",cs.LO,C,-0.115165,-0.0069050416,0.13170409
+http://arxiv.org/pdf/2204.14261v1,Finite Entailment of UCRPQs over ALC Ontologies,"Because the number non-                solve the original ﬁnite entailment problem. isomorphic of m-neighbourhoods in a structure of bounded
+degree is bounded, the depth of the selected bags in the tree         As for future work, the ﬁrst immediate step is to extend
+of bags is also bounded. The set of selected bags is ﬁnite         our method to deal with test atoms of the form A?, which are
+and forms a maximal antichain. ",cs.LO,A,-0.018422795,-0.14006601,0.40819997
+http://arxiv.org/pdf/2204.14261v2,Finite Entailment of UCRPQs over ALC Ontologies,"Because the num-               solve the original ﬁnite entailment problem. ber of non-isomorphic m-neighbourhoods in a structure of
+bounded degree is bounded, the depth of the selected bags              As for future work, the ﬁrst immediate step is to extend
+in the tree of bags is also bounded. The set of selected bags       our method to deal with test atoms of the form A?, which are
+is ﬁnite and forms a maximal antichain. ",cs.LO,A,-0.01934802,-0.11108726,0.38994256
+http://arxiv.org/pdf/2205.00448v1,Uniform Interpolation in Coalgebraic Modal Logic,"classical modal logic), and various logics of ﬁnite-monoid-weighted
+transition systems. All proofs are entirely semantic; we leave a proof-theoretic treatment, in
+generalization of tentative results based on cut-free sequent systems [28], for future work. In particular, such a treatment will hopefully lead to practically feasible algorithms for the
+computation of interpolants. ",cs.LO,C,-0.15238549,-0.13858734,0.03320915
+http://arxiv.org/pdf/2205.00680v1,Functions as Processes: The Case of Collapsing Non-determinism,"Within propositions-as-sessions, the
+type systems in [1] and [9] support non-determinism, but by relying on approaches very
+diﬀerent from ours: conﬂation of the additives ( and ⊕) and bounded linear logic, respec-
+tively. In future work, we plan to study the (typed) behavioral theory of sπ+, so as to formally
+state the diﬀerences between the eager and lazy semantics. We also intend to study gen-
+eral variants of ‘ ’, by deﬁning other ways of grouping branches. ",cs.LO,C_centroid,-0.27110294,0.022077097,-0.10082577
+http://arxiv.org/pdf/2205.00680v2,Functions as Processes: The Case of Collapsing Non-determinism,"Within propositions-as-sessions, the
+type systems in [1] and [9] support non-determinism, but by relying on approaches very
+diﬀerent from ours: conﬂation of the additives ( and ⊕) and bounded linear logic, respec-
+tively. In future work, we plan to study the (typed) behavioral theory of sπ+, so as to formally
+state the diﬀerences between the eager and lazy semantics. We also intend to study gen-
+eral variants of ‘ ’, by deﬁning other ways of grouping branches. ",cs.LO,C,-0.27110294,0.022077097,-0.10082577
+http://arxiv.org/pdf/2205.00784v1,On verifying expectations and observations of intelligent agents,"A discussion on
+implementation is also provided. We leave the investigations on model checking for EPL, an extension of POL, also proposed in [6], for future work. We also aim to study the satisﬁability problems of POL and EPL by adapting the techniques from [15, 29]. ",cs.LO,B,0.124630526,-0.22276802,-0.19561923
+http://arxiv.org/pdf/2205.00784v2,On verifying expectations and observations of intelligent agents,"A discussion on
+implementation is also provided. We leave the investigations on model checking for EPL, an extension of POL, also proposed in [6], for future work. We also aim to study the satisﬁability problems of POL and EPL by adapting the techniques from [16, 30]. ",cs.LO,B,0.12767318,-0.22315377,-0.19855718
+http://arxiv.org/pdf/2205.01420v1,Bridging Causal Consistent and Time Reversibility: A Stochastic Process Algebraic Approach,"In Section 4 we develop our proposal of integration for these
+two forms of reversibility in the setting of a Markovian process calculus, which is then
+equipped in Section 5 with a forward and backward Markovian bisimilarity. Finally, in
+Section 6 we conclude with some directions for future work. 2. ",cs.LO,A,0.15065196,0.3115542,0.032867253
+http://arxiv.org/pdf/2205.01420v2,Bridging Causal Reversibility and Time Reversibility: A Stochastic Process Algebraic Approach,"In Section 6 we provide
+some examples. Finally, in Section 7 we conclude with some directions for future work. 2. ",cs.LO,A,0.034353677,0.313864,0.17594296
+http://arxiv.org/pdf/2205.01449v1,Does a Program Yield the Right Distribution? Verifying Probabilistic Programs via Generating Functions,"This example furthermore shows that our technique can
+
+be generalized beyond rational functions since the PGF of the catalan(p) dis-
+
+tribution is (1 − 1 − 4p(1−p)T ) / 2p, i.e., algebraic but not rational. We leave
+
+a formal generalization of the decidability result from Theorem 4 to algebraic
+
+functions for future work. Prodigy veriﬁes this example in 1.823s. ",cs.LO,C,-0.08653503,-0.13582224,0.30890554
+http://arxiv.org/pdf/2205.01449v2,Does a Program Yield the Right Distribution? Verifying Probabilistic Programs via Generating Functions,"This example furthermore shows that our technique can
+be generalized beyond rational functions since the PGF of the catalan(p) dis-
+tribution is (1 − 1 − 4p(1−p)T ) / 2p, i.e., algebraic but not rational. We leave
+a formal generalization of the decidability result from Theorem 4 to algebraic
+functions for future work. Prodigy veriﬁes this example in 29.17ms. ",cs.LO,C,-0.07799589,-0.1327213,0.30729526
+http://arxiv.org/pdf/2205.01713v1,A Typechecker for a Set-Based Constraint Logic Programming Language,"The case study based on the LGS project provides
+empirical evidence about this claim. There are a couple lines of future work that we would like to explore. We want to
+extend the type system with union or sum types. ",cs.LO,C,-0.09917393,-0.040808946,0.13054997
+http://arxiv.org/pdf/2205.02142v1,Semimodules and the (syntactically-)linear lambda calculus,"Our model seems to support
+these: the interpretation of the additive truth would be the terminal object {⋆}, and that of the multiplicative
+conjunction, the tensor product. However, the study of the proof-terms for these constructions is not trivial
+within the LS-calculus, and so it is left for future work. 14
+Acknowledgements
+
+    We thank Guillaume Munch-Maccagnoni for pointing out some important references. ",cs.LO,C,-0.34925744,0.058426954,0.013030634
+http://arxiv.org/pdf/2205.02590v1,Low-Level Bi-Abduction,"(2) We replaced for loops with
+integer bounds by non-deterministic while loops because our abstraction and entailment are currently
+very limited when working with integers. Both of the above is planned to be resolved within our
+future work. Further, we analysed all the code assuming that heap allocation always succeeds. ",cs.LO,B,0.2256994,-0.26005828,0.102774516
+http://arxiv.org/pdf/2205.02660v1,Region-Based Merging of Open-Domain Terminological Knowledge,"These kind of consider-
+translation is deﬁned as follows. ations will be investigated in a future work. Further work
+                                                                      will also include the empirical evaluation of our method. ",cs.LO,B,0.073238626,0.13497931,0.012833327
+http://arxiv.org/pdf/2205.02660v2,Region-Based Merging of Open-Domain Terminological Knowledge,"These kind of consider-
+translation is deﬁned as follows. ations will be investigated in a future work. Further work
+                                                                      will also include the empirical evaluation of our method. ",cs.LO,B,0.073238656,0.13497919,0.012833435
+http://arxiv.org/pdf/2205.02749v1,Automating Reasoning with Standpoint Logic via Nested Sequents,"The attainment of these “certiﬁcates” from proof-
+                         K := 1 + |S| + |ϕ|                     search serve as explanations for the (in)validity of standpoint
+                                                                formulae, thus motivating our proof-theoretic approach. For each occurrence of ∨, ∧, and ♦s in ϕ (with s ∈ S), we
+know by the saturation conditions that (∨), (∧), (♦1s), (♦2s),     For future work, we aim to extend our nested systems
+and (♦∗) can be applied a maximum number of K times dur-        and proof-search algorithm to cover (i) ﬁrst-order standpoint
+ing proof search. Then, since N∨ + N∧ + s∈S N♦s ≤ |ϕ|,          logics that (ii) incorporate complex standpoints, which have
+the number of recursive calls (i.e. ",cs.LO,A,-0.0066705775,-0.3089428,0.19135445
+http://arxiv.org/pdf/2205.03198v1,A Logic-based Tractable Approximation of Probability,"This leaves open the investigation of algorithms which are more tightly cal-
+ibrated to exploring only the necessary maximal forests. In future work, we
+will develop such algorithms and provide suitable time estimations
+
+Finally, as we pointed out in Remark 1 the notion of maximal hypotheti-
+cal uncertainty resolution makes our framework interpretable normatively. Moreover the tractability results of Section 4 suggest that reasoning with
+depth-bounded belief functions may be within the means of realistic agents. ",cs.LO,B,0.24913171,0.121361196,-0.0015567727
+http://arxiv.org/pdf/2205.03659v1,A theorem prover and countermodel constructor for provability logic in HOL Light,"More recently, [68] used the HOL4 theorem prover for a general treatment of model theory
+    of modal systems. For future work, it might be interesting to make use of the formalisation
+    therein along with the main lines of our implementation of axiomatic calculi to merge the
+    two presentations – syntactic and semantic – in an exhaustive way. Our formalisation, however, has been led by the aim of developing a (prototypical)
+    theorem prover in HOL Light for normal modal logics. ",cs.LO,C,-0.29602844,0.023560584,-0.12895222
+http://arxiv.org/pdf/2205.03961v2,An STL-based Formulation of Resilience in Cyber-Physical Systems,"However, we expect that our approach can
+be extended to continuous time in a straightforward manner, because STL is
+well-deﬁned over continuous-time signals. We leave this extension for future work. Example 3. ",cs.LO,B,0.13190027,0.2072796,-0.12490287
+http://arxiv.org/pdf/2205.04111v1,Unitless Frobenius quantales,"It is the goal of
+                                       this paper to explore in depth such an axiomatization. We get to the conclusion
+                                       that unitless Frobenius and Girard quantales are structures of interest and worth
+                                       further research. In support of this conclusion we present several examples of these structures
+                                       and characterize when they have units. ",cs.LO,C,-0.3870309,0.026986577,0.11803608
+http://arxiv.org/pdf/2205.04111v2,Unitless Frobenius quantales,"It is the goal of
+                                       this paper to explore in depth such an axiomatization. We get to the conclusion
+                                       that unitless Frobenius and Girard quantales are structures of interest and worth
+                                       further research. In support of this conclusion we present several examples of these structures
+                                       and characterize when they have units. ",cs.LO,C,-0.3870309,0.026986577,0.11803608
+http://arxiv.org/pdf/2205.04392v1,Energy Büchi Problems,"There, one-clock weighted timed automata
+
+(with edge weights) are translated to ﬁnite automata weighted with so-called
+
+energy functions instead of integers. We believe that our extension to Bu¨chi
+
+conditions should also work in this extended setting, but leave the details to
+
+future work. The semantics of a WTBA A as above is the (inﬁnite) WBA A = (Σ ∪
+Ê Ê ≥0, M, S, s0, T ) given by S = {(q, v) ∈ Q ×
+                                                 X   v |= I(q)} and s0 = (q0, v0). ",cs.LO,B,0.11079572,0.023381682,0.009394592
+http://arxiv.org/pdf/2205.04392v2,Energy Büchi Problems,"There,
+
+one-clock weighted timed automata (with edge weights) are translated to ﬁnite
+
+automata weighted with so-called energy functions instead of integers. We believe
+
+that our extension to Bu¨chi conditions should also work in this extended setting,
+
+but leave the details to future work. R The semantics of a WTBA A as above is the (inﬁnite) WBA A = (M, S, s0, T )X
+given by S = {(q, v) ∈ Q ×  ≥0   v |= I(q)} and s0 = (q0, v0). ",cs.LO,B,0.12746525,0.0376413,-0.005717622
+http://arxiv.org/pdf/2205.04822v1,A Specification Logic for Programs in the Probabilistic Guarded Command Language (Extended Version),"In
+this paper, we show the simplest possible reasoning rule for loops that performs a single
+unrolling, exactly along the operational semantics. Of course, we are conﬁdent that many
+other rules for reasoning about while loops (involving invariants, preﬁxes, or converging
+chains of probabilities) can also be proven sound in pDL—left as future work. Theorem 11 (Unfolding Loops and Conditionals). ",cs.LO,B,0.053996608,-0.079156496,-0.23680852
+http://arxiv.org/pdf/2205.04822v2,A Specification Logic for Programs in the Probabilistic Guarded Command Language (Extended Version),"In
+this paper, we show the simplest possible reasoning rule for loops that performs a single
+unrolling, exactly along the operational semantics. Of course, we are conﬁdent that many
+other rules for reasoning about while loops (involving invariants, preﬁxes, or converging
+chains of probabilities) can also be proven sound in pDL—left as future work. Theorem 12 (Unfolding Loops and Conditionals). ",cs.LO,B,0.054642793,-0.07828833,-0.23423544
+http://arxiv.org/pdf/2205.04833v1,Envelopes and Waves: Safe Multivehicle Collision Avoidance for Horizontal Non-deterministic Turns,"Our timing computation can
+imations to the timing equations that are appropriate             be used to set parameters that safely compose turn-to-
+for quantiﬁcation within their polygonal region; Section          bearing horizontal maneuvers with arbitrary bounded-
+7 presents a method for quantifying the timing equa-              acceleration vertical maneuvers. tions over each piece of the domain, devising a sound
+solution for collision timing between two turning vehi-               Dubins paths, constructed of circular arc segments
+cles; and ﬁnally Section 8 discusses our conclusions and          and straight lines, are used to model horizontal motion
+future work. in many path planning and collision avoidance algo-
+                                                                  rithms, such as [5, 8, 17, 18, 24, 26]. ",cs.LO,B,0.28815106,0.09947163,-0.1014431
+http://arxiv.org/pdf/2205.04882v1,Strong Equivalence of Logic Programs with Ordered Disjunction: a Logical Perspective,"To our knowledge, all major ASP
+systems are two-valued, and it is therefore a legitimate question of how our four-valued
+framework can be embedded in such systems. We believe that a promising direction for
+future work would be to deﬁne a notion of collapsed strong equivalence for LPODs:
+
+Deﬁnition 14
+Two LPODs P1 and P2 are termed collapsed strongly equivalent under the most-preferred
+answer sets if for every LPOD P , the most-preferred answer sets of P1 ∪ P and P2 ∪ P
+become identical when F ∗ is collapsed to F . Notice that in the above deﬁnition we do not need to collapse T ∗ to T because, by
+Deﬁnition 7, answer sets do not contain the T ∗ value. ",cs.LO,C,-0.103429064,0.09195225,-0.075862154
+http://arxiv.org/pdf/2205.04911v1,Reasoning in the Description Logic ALC under Category Semantics,"We also proposed a PSPACE non-
+deterministic algorithm for checking concept unsatisﬁability in ALC∀, which implies
+that ALC∀ is PSPACE. For future work, we will investigate the question whether
+ALC∀ is PSPACE-complete. This question is open because ALC∀ (with general TBoxes)
+may not be included in ALC without TBox. ",cs.LO,C,-0.10223134,-0.22608855,-0.012681361
+http://arxiv.org/pdf/2205.04911v2,Reasoning in the Description Logic ALC under Category Semantics,"We also proposed a PSPACE non-
+deterministic algorithm for checking concept unsatisﬁability in ALC∀, which implies
+that ALC∀ is PSPACE. For future work, we will investigate the question whether
+ALC∀ is PSPACE-complete. This question is open because ALC∀ (with general TBoxes)
+may not be included in ALC without TBox. ",cs.LO,C,-0.10223134,-0.22608855,-0.012681361
+http://arxiv.org/pdf/2205.05392v1,Algebraic Presentation of Semifree Monads,"We also showed that semifree monads are instances of ideal monads, and that
+the semifree construction is not a monad transformer, but it is a comonad on
+the category of monads. There are several directions for future work. Given that the functor part of
+the semifree monad M s is a functor coproduct id +M , it would be interesting
+to understand better the relationship to coproducts of monads, and whether
+Corollary 16 could be generalised to give presentations of (certain) monad co-
+products [12]. ",cs.LO,C,-0.24682428,0.07178176,0.051057063
+http://arxiv.org/pdf/2205.06039v1,Reactive Synthesis of Smart Contract Control Flows,"https://doi.org/10.1145/3331545.3342601
+verification tools, which results in extensive formal guaran-
+tees for the smart contract control flow. For future work, we                  [14] Bernd Finkbeiner, Felix Klein, Ruzica Piskac, and Mark Santolucito. aim to push the expressiveness of pastTSL for even more                              2019. ",cs.LO,B,0.122015685,-0.035245895,-0.13340506
+http://arxiv.org/pdf/2205.06039v2,Reactive Synthesis of Smart Contract Control Flows,"https://doi.org/10.1145/3331545.3342601
+verification tools, which results in extensive formal guaran-
+tees for the smart contract control flow. For future work, we                  [14] Bernd Finkbeiner, Felix Klein, Ruzica Piskac, and Mark Santolucito. aim to push the expressiveness of pastTSL for even more                              2019. ",cs.LO,B,0.122015685,-0.035245895,-0.13340506
+http://arxiv.org/pdf/2205.06039v3,Reactive Synthesis of Smart Contract Control Flows,"This often needs several refinement
+loops and does not scale beyond small examples so far. Another line of future work might be to
+include reasoning over theories to automatically generate functions and predicates that adhere
+to assumptions like (price > 0 ∧ ¬received > 0 → ¬received ≥ price) from Section 4.1. A
+recent approach has combined TSL with syntax-guided synthesis to infer such assumptions by
+automatically extracting suitable assumptions from the specification [Choi et al. ",cs.LO,B,-0.041362148,-0.019449405,-0.20253408
+http://arxiv.org/pdf/2205.06152v1,Probabilistic Program Verification via Inductive Synthesis of Inductive Invariants,"However, there are simple programs where our technique fails to ﬁnd an
+Probabilistic Program Veriﬁcation via Inductive Synthesis  17
+
+inductive invariant (gridbig) or ﬁnds inductive invariants only for rather simple
+properties while requiring many counterexamples (gridsmall). Whether we need
+more sophisticated template-reﬁnement techniques or whether these programs
+are not amenable to piecewise linear expectations at all is left for future work. Inﬁnite-State Programs. ",cs.LO,B,0.29884532,-0.023069747,-0.12647955
+http://arxiv.org/pdf/2205.06236v1,Verifying Catamorphism-Based Contracts using Constrained Horn Clauses,"Our experiments show that the novel transformation technique we propose can suc-
+cessfully exploit the information supplied by the user-provided contracts, and indeed,
+        Verifying Catamorphism-Based Contracts using Constrained Horn Clauses 15
+
+(i) it can increase the eﬀectiveness of state-of-the-art CHC solvers in verifying contracts
+encoded as CHCs, and (ii) performs better than previous transformational approaches
+based on lemma discovery. For future work, we plan to extend the practical applicability of our veriﬁcation method
+by developing automatic translators to CHCs of programs and contracts written in the
+languages used by veriﬁers such as Dafny, Stainless, and Why3. Acknowledgments
+
+The authors warmly thank the anonymous reviewers for their helpful comments and
+suggestions. ",cs.LO,B,0.008460055,-0.21540523,-0.20319521
+http://arxiv.org/pdf/2205.06236v2,Verifying Catamorphism-Based Contracts using Constrained Horn Clauses,"Our experiments show that the novel transformation technique we propose can suc-
+cessfully exploit the information supplied by the user-provided contracts, and indeed,
+        Verifying Catamorphism-Based Contracts using Constrained Horn Clauses 15
+
+(i) it can increase the eﬀectiveness of state-of-the-art CHC solvers in verifying contracts
+encoded as CHCs, and (ii) performs better than previous transformational approaches
+based on lemma discovery. For future work, we plan to extend the practical applicability of our veriﬁcation method
+by developing automatic translators to CHCs of programs and contracts written in the
+languages used by veriﬁers such as Dafny, Stainless, and Why3. Acknowledgments
+
+The authors warmly thank the anonymous reviewers for their helpful comments and
+suggestions. ",cs.LO,B,0.008460055,-0.21540523,-0.20319521
+http://arxiv.org/pdf/2205.06360v1,Plain and Simple Inductive Invariant Inference for Distributed Protocols in TLA+,"This is, however, a relatively
+  3) Select lemma invariants from Invs so that all CTIs are       straightforward extension to our algorithm, and would like to
+      eliminated. If we cannot eliminate all CTIs, either give    explore this option in future work. up, or go to Step 1 and populate the repository with more
+      lemma invariants. ",cs.LO,B,0.18417472,-0.13676906,0.09876807
+http://arxiv.org/pdf/2205.06360v2,Plain and Simple Inductive Invariant Inference for Distributed Protocols in TLA+,"14:          end if
+                                                                                   We also remark that in the current version of our algorithm
+15:          X ← GenerateCTIs(M , Ind)                                          and in the current implementation of our tool, we only explore
+                                                                                the single ﬁnite-state instance of the STS provided by the user,
+16: end while                                                                   and we do not attempt to automatically increase the bounds of
+                                                                                the parameters within the algorithm, as is done for example in
+17: return (Ind, “Success: managed to eliminate all CTIs.”)                     the approach described in [24]. This is, however, a relatively
+                                                                                straightforward extension to our algorithm, and would like to
+18: end procedure                                                               explore this option in future work. lemma invariants. ",cs.LO,B,0.2402652,-0.17418504,0.07118982
+http://arxiv.org/pdf/2205.06584v1,A Hoare Logic with Regular Behavioral Specifications,"Another idea
+is to infer such speciﬁcations automatically, e.g., by having the user annotate
+the conditions that partition the state space, but not the regular expressions
+themselves. We think that this is feasible but we leave this idea for future work. SecC veriﬁes both case studies in less than 5s on a Thinkpad T470p. ",cs.LO,B,0.110592134,0.08775339,-0.15782297
+http://arxiv.org/pdf/2205.06892v1,Completeness and expressiveness for gs-monoidal categories,"Also the
+presentation via cospans (in particular, in the category of term graphs) provide additional
+examples, systematising a series of results that appeared in the graph transformation literature
+and putting them in a firm ground as part of the string diagram formalism. On a technical side, future work will keep the focus on the one-side on the completeness
+result, in order to strengthen it via a proper functor instead of a lax one, following the
+preliminary ideas in [19]. On the other side, it will try to establish a firm connection
+between the presentations using Kleisli and cospan categories, also addressing the cyclic case,
+and discussing the whole 2-categorical structure of CoSpan(C) for a presentation of graph
+rewriting and of inequational deduction for relations, investigated in a set-theoretical flavour
+in [11, 13]. ",cs.LO,C,-0.2535473,0.1004508,0.029889451
+http://arxiv.org/pdf/2205.06892v2,Lax completeness for gs-monoidal categories,"[20] and [18] on the equational presentation of partial theories. Also on
+the technical side, future work will keep the focus on completeness with respect
+to Rel, in order to strengthen it via a proper functor instead of a lax one, follow-
+ing the preliminary ideas in [29]. We will try and establish a stronger connection
+between the presentations using Kleisli and span categories, also addressing the
+cyclic case, and discussing the whole 2-categorical structure of Span(C) for a
+presentation of graph rewriting and of inequational deduction for relational al-
+gebras, investigated in a set-theoretical ﬂavour in [17,19] and recently (at least
+for the diagrammatic presentation of the monoidal closed case) in [2]. ",cs.LO,C,-0.35666668,0.101144545,0.062035
+http://arxiv.org/pdf/2205.08095v1,Reasoning About Vectors using an SMT Theory of Sequences,"For example, if we drop Z3 and consider just the
+commonly solved instances between cvc5 and cvc5-a (of which there are 242), cvc5-a is
+about 2.47ˆ faster (426 vs 1053 seconds). Of course, further improving the performance
+of cvc5-a is something we plan to explore in future work. 7 Conclusion
+
+We introduced calculi for checking satisﬁability in the theory of sequences, which can
+be used to model the vector data type. ",cs.LO,B,0.3054765,-0.26976025,0.04641276
+http://arxiv.org/pdf/2205.08095v2,Reasoning About Vectors using an SMT Theory of Sequences,"For example, if we drop Z3 and consider just the
+commonly solved instances between cvc5 and cvc5-a (of which there are 242), cvc5-a is
+about 2.47ˆ faster (426 vs 1053 seconds). Of course, further improving the performance
+of cvc5-a is something we plan to explore in future work. 7 Conclusion
+
+We introduced calculi for checking satisﬁability in the theory of sequences, which can
+be used to model the vector data type. ",cs.LO,B,0.3054765,-0.26976025,0.04641276
+http://arxiv.org/pdf/2205.08128v1,Local Completeness Logic on Kleene Algebra with Tests,"In particular, our KAT-based logic leverages an abstract
+interpretation of KAT, a problem that was not studied so far. Our plan for future work includes, but is not limited to, the following questions. – For a KAT with top ⊤, following the technical idea underlying the approach by
+     Zhang et al. ",cs.LO,C,-0.24050531,0.029021611,-0.0757847
+http://arxiv.org/pdf/2205.08128v2,Local Completeness Logic on Kleene Algebra with Tests,"In particular, our KAT-based logic leverages an abstract
+interpretation of KAT, a problem that was not studied so far. Our plan for future work includes, but is not limited to, the following questions. – For a KAT with top ⊤, following the technical idea underlying the approach by
+     Zhang et al. ",cs.LO,C,-0.24050531,0.029021611,-0.0757847
+http://arxiv.org/pdf/2205.08270v1,Chemical Case Studies in KeYmaera X,"13]. However,
+potential future work is broad in nature, reaching well beyond chemical reactor
+design. Techniques such as invariant checking and Taylor series are of general
+applicability using various tools, though KeYmaera X provides a rigorous im-
+plementation of both. ",cs.LO,B,0.31356913,0.010907791,-0.12973835
+http://arxiv.org/pdf/2205.08297v1,SCL(EQ): SCL for First-Order Logic with Equality,"5 Discussion
+
+We presented SCL(EQ), a new sound and complete calculus for reasoning in ﬁrst-
+order logic with equality. We will now discuss some of its aspects and present
+ideas for future work beyond the scope of this paper. The trail induced ordering, Deﬁnition 9, is the result of letting the calculus
+follow the logical structure of the clause set on the literal level and at the same
+time supporting rewriting at the term level. ",cs.LO,C,-0.26288843,-0.13600099,-0.05655352
+http://arxiv.org/pdf/2205.08373v1,Compositional Modeling with Stock and Flow Diagrams,"We see that there is a gap between the
+mathematical deﬁnition of stock-ﬂow diagrams and the present implementation: the domains of
+the ﬂow functions should be constrained by the links, but this constraint is not yet expressible in
+the data model supported by Catlab. In practice this is not a major obstacle to using stock-ﬂow
+diagrams, but it could motivate future work toward increasing the expressivity of database schemas
+and instances in Catlab. The full-ﬂedged stock ﬂow diagrams described in Section 3.5 are implemented similarly. ",cs.LO,B,-0.030723494,0.13406259,-0.12893979
+http://arxiv.org/pdf/2205.08632v1,DPO: Dynamic-Programming Optimization on Hybrid Constraints,"Our experiments
+show that DPO can outperform state-of-the-art MaxSAT solvers (MaxHS [Davies and Bacchus, 2011],
+UWrMaxSat [Piotrow, 2020], and GaussMaxHS [Soos and Meel, 2021]) by handling XOR-CNF natively
+and exploiting low-width project-join trees. 11
+    For future work, we plan to add support for hybrid inputs, such as PB and cardinality constraints. Also, DPO can be extended to solve more general problems, e.g., existential-random stochastic satisﬁability
+[Lee et al., 2018], maximum model counting [Fremont et al., 2017], and functional aggregate queries
+[Abo Khamis et al., 2016]. ",cs.LO,B,0.2016685,-0.07933703,-0.035593726
+http://arxiv.org/pdf/2205.08869v1,Automatic Complexity Analysis of Integer Programs via Triangular Weakly Non-Linear Loops,"So for the ﬁrst time, “complete” complexity analysis techniques
+like [19] for subclasses of programs with non-linear arithmetic are combined with
+incomplete techniques based on (linear) ranking functions like [6, 18]. Based on
+our approach, in future work one could integrate “complete” techniques for fur-
+ther subclasses (e.g., for solvable loops [24, 25, 29, 33] which can be transformed
+into twn-loops by suitable automorphisms [15]). Structure: After introducing preliminaries in Sect. ",cs.LO,B,0.14907052,-0.262471,0.110805646
+http://arxiv.org/pdf/2205.08920v1,Finite two-dimensional proof systems for non-finitely axiomatizable logics,"Section 6 presents a two-dimensional ﬁnite
+analytic H-system for mCi. In the ﬁnal remarks, we highlight some byproducts of our present approach and some
+features of the resulting proof systems, in addition to pointing to some directions for further research.1
+
+2 Preliminaries
+
+A propositional signature is a family Σ := {Σk}k∈ω, where each Σk is a collection of k-ary connectives. We say
+that Σ is ﬁnite when its base set k∈ω Σk is ﬁnite. ",cs.LO,C,-0.10042536,0.019920444,0.104935646
+http://arxiv.org/pdf/2205.08952v1,Zigzag normalisation for associative $n$-categories,"– Rendering takes place via a geometrization process that extracts a cubical mesh
+from the term representation, which is then processed and sent to the video card for
+rendering. This component will be described in future work. Since this is a theoretical article we will not present further details here of the imple-
+mentation. ",cs.LO,A,0.10281773,0.3464793,0.119859025
+http://arxiv.org/pdf/2205.09015v2,Ramsey Quantifiers over Automatic Structures: Complexity and Applications to Verification,"It is easy to see that ′ ⊆ {( , ) | ∈ TΓ }. Moreover, it holds
+                                                                                     For future work, we propose to investigate if Corollary 7.2 could
+that ′ is ﬁnite if and only if (A) = ∅. Indeed, if there exists                   be applied to other classes of tree rewriting systems over unranked
+  ∈ (A), then ( , ) ∈ ′ for all ≥ 0 where is the resulting                        trees, e.g., the class Trs0 of tree rewrite systems with positive
+                                                                                  guards [12], which was applied for the analysis of HTML5 applica-
+tree when padding a chain of #-symbols of length to the root of . ",cs.LO,C,-0.18026894,-0.15122502,0.12480215
+http://arxiv.org/pdf/2205.09233v1,Rensets and Renaming-Based Recursion for Syntax with Bindings,"The key to achieving this minimality
+is the simple expression of freshness from renaming in my axiomatization of
+rensets. In future work, I plan a systematic formal comparison of the relative
+expressiveness of all these nameful recursors. Recursors in other paradigms. ",cs.LO,C,-0.21344566,-0.13667208,0.004771376
+http://arxiv.org/pdf/2205.09233v2,Rensets and Renaming-Based Recursion for Syntax with Bindings,"The key to achieving this minimality
+is the simple expression of freshness from renaming in my axiomatization of
+rensets. In future work, I plan a systematic formal comparison of the relative
+expressiveness of all these nameful recursors. Recursors in other paradigms. ",cs.LO,C,-0.21344566,-0.13667208,0.004771376
+http://arxiv.org/pdf/2205.09556v1,Neural Networks in Imandra: Matrix Representation as a Verification Choice,"This suggests future solutions
+that are somewhat orthogonal to the choice of the matrix representation:
+
+ – interface with Marabou or other specialised NN solvers in order to scale;
+ – work on a set of Imandra’s native proof heuristics and tactics, tailored specif-
+
+     ically to Imandra’s NN formalisations. We leave both as future work. References
+
+ 1. ",cs.LO,B,0.13935718,0.022565953,0.036709707
+http://arxiv.org/pdf/2205.09556v2,Neural Networks in Imandra: Matrix Representation as a Verification Choice,"robustness
+veriﬁcation of image classiﬁcation networks on the MNIST dataset [1] or range
+analysis of randomly generated networks [7]. We leave these as future work. These conclusions provide a strong foundation to further develop the Check-
+INN library, as its aim is to oﬀer veriﬁcation of a wide array of neural network
+properties and we have shown that the choice of matrix implementation eventu-
+ally inﬂuences the range of veriﬁable properties. ",cs.LO,B,0.26992851,0.23339343,-0.042996902
+http://arxiv.org/pdf/2205.09583v1,Evonne: Interactive Proof Visualization for Description Logics (System Description) -- Extended Version,"We use this functionality to
+extract one justiﬁcation for a given entailment, and do not compute and compare
+all possible justiﬁcations. This is a source of optimization we might investigate
+in future work. Our implementations support two libraries for forgetting in DLs, Lethe [19]
+and Fame [25]. ",cs.LO,B,0.034103952,-0.13369751,-0.044063997
+http://arxiv.org/pdf/2205.09826v1,DPER: Dynamic Programming for Exist-Random Stochastic SAT,"Our
+experiments show that DPER contributes to the portfolio of state-of-the-art ER-SSAT solvers (DC-SSAT
+[Majercik and Boots, 2005] and erSSAT [Lee et al., 2018]) through competitiveness on low-width
+instances. For future work, we plan to add support for hybrid inputs, such as XOR, PB, and cardinality
+constraints. Also, DPER can be extended to solve more general problems, e.g., maximum model counting
+(on ERE formulas) [Fremont et al., 2017] and functional aggregate queries [Abo Khamis et al., 2016]. ",cs.LO,B,0.29533553,-0.026560869,-0.07952143
+http://arxiv.org/pdf/2205.10295v1,Linking sanctions to norms in practice,"Similarly, an axiomatization of the system
+could be interesting to investigate. Other future work that can be done based on this system is looking into
+how we can specify more complex normative systems using this framework. Currently, we do not link norms explicitly to one another, but we expect that
+this can be done. ",cs.LO,C,-0.025445385,0.2669379,-0.08169955
+http://arxiv.org/pdf/2205.11219v1,Higher-order causal theories are models of BV-logic,"Instead of the equivalence of one-way signalling and semi-localisability for ﬁrst-order channels
+(Condition PC4), we obtained equivalence with the aﬃne closure of semi-localisability for
+arbitrary higher-order systems (Theorem 29). Since existing proofs of PC4 for precausal
+categories rely on the essential uniqueness of puriﬁcation, it may be possible to strengthen this
+result in future work by incorporating notions of purity and puriﬁcation into this framework. There are still other interesting process theories that cannot be considered as either the
+base category or the result of the Caus construction in which it would be interesting to
+analyse constructions for one-way signalling and their logical role. ",cs.LO,C,-0.3188675,0.13755918,-0.12690458
+http://arxiv.org/pdf/2205.11325v1,Sound Automation of Magic Wands (extended version),"The soundness and completeness of
+our package logic, as well as key properties of combinable wands are all proved
+in Isabelle/HOL. As future work, we plan to extend the implementation of the
+two package algorithms described in Sec. 5 by porting various features of the
+pre-existing FIA implementation. ",cs.LO,C,-0.15965855,-0.31244618,-0.12523808
+http://arxiv.org/pdf/2205.11325v2,Sound Automation of Magic Wands (extended version),"The soundness and completeness of
+our package logic, as well as key properties of combinable wands are all proved
+in Isabelle/HOL. As future work, we plan to extend the implementation of the
+two package algorithms described in Sec. 5 by porting various features of the
+20  T. Dardinier et al. ",cs.LO,C,-0.1635584,-0.32005382,-0.08958914
+http://arxiv.org/pdf/2205.11325v3,Sound Automation of Magic Wands (extended version),"The soundness and completeness of
+our package logic, as well as key properties of combinable wands are all proved
+in Isabelle/HOL. As future work, we plan to extend the implementation of the
+two package algorithms described in Sec. 5 by porting various features of the
+20  T. Dardinier et al. ",cs.LO,C,-0.1635584,-0.32005382,-0.08958914
+http://arxiv.org/pdf/2205.11694v1,All Prime Numbers Have Primitive Roots,"We
+conclude the paper in Sect. 6 and give some ideas for future work. 2 Mathematical Background
+
+In this section, we discuss some mathematical foundations that are needed to prove that all prime numbers
+have primitive roots. ",cs.LO,A,0.050253056,0.04907553,0.3907638
+http://arxiv.org/pdf/2205.11704v1,ACL2s Systems Programming,"If we forget to specify
+138  ACL2s Systems Programming
+
+the package for that symbol, ACL2 will produce a helpful error message when acl2s-query-simple
+is called, informing us that the stobj state appears in a position where an “ordinary object” is expected. We note that neither acl2s-query-simple nor acl2s-query currently perform any checking to ensure
+that the provided expression does not modify the world—this is a topic of future work. Once we have evaluated the given expression and bound the constituents of the error triple it returned
+to variables, we just need to store erp and val somewhere that we will be able to access after ld ﬁnishes
+executing. ",cs.LO,B,0.05761231,-0.044518232,-0.15910727
+http://arxiv.org/pdf/2205.11707v1,A Complex Java Code Generator for ACL2 Based on a Shallow Embedding of ACL2 in Java,"Several formalizations of Java exist [15, 18, 2]. These may contain ideas relevant to extending the
+partial model of Java mentioned in Section 2.12 to a formalization of Java in ACL2 sufﬁcient to support
+formal proofs of correctness of the generated Java code with respect to the ACL2 code, which is part of
+the future work envisioned in Section 4. Acknowledgements
+
+Thanks to Limei Gilham, David Hardin, Christoph Kreitz, Eric McCarthy, Karthik Nukala, Eric Smith,
+and Stephen Westfold for using the Java code generator and for providing valuable suggestions that led
+to improvements to the tool. ",cs.LO,B,-0.08614771,-0.12876578,-0.13553175
+http://arxiv.org/pdf/2205.11708v1,A Proof-Generating C Code Generator for ACL2 Based on a Shallow Embedding of C in ACL2,"Even though the formal model puts all the arrays in the heap, the arrays passed to
+the C functions generated by ATC could be allocated in the stack (by the callers) as well; the heap of the
+formal model more generally represents externally allocated memory. 5 Future Work
+
+An obvious direction of future work is to add support for increasingly larger subsets of C. Although
+the current subset can represent some interesting programs, many other interesting programs cannot be
+represented. Work is underway to add support for structures, which are commonly used in C. The main
+challenge in supporting additional C features is perhaps the deﬁnition of their representations in the
+shallow embedding. ",cs.LO,B,0.20383044,0.072970346,-0.052955866
+http://arxiv.org/pdf/2205.11709v1,Hardware/Software Co-Assurance using the Rust Programming Language and ACL2,"While the ACL2 proof efforts required a fair amount of human labor in order to achieve the Arrayset
+formalization and proofs, now that this effort has been made, additional proof efforts involving similar
+data structures should proceed more quickly. In future work, we will continue to develop our toolchain, increasing the number of Rust features
+that we can support in the RAR subset, as well as continuing to improve the ACL2 veriﬁcation libraries
+in order to increase the ability to discharge RAR correctness proofs automatically. We will also continue
+to work with our colleagues at Kansas State University on the direct synthesis and veriﬁcation of FPGA
+hardware from RAR source code. ",cs.LO,B,0.13498299,-0.21172161,-0.08145301
+http://arxiv.org/pdf/2205.12085v1,Information Flow Guided Synthesis (Full Version),"In many situations, necessary information
+ﬂow assumptions exist even if there are no necessary behavioral assumptions. There are at least two major directions for future work. The ﬁrst direction con-
+cerns the insight that compositional synthesis proﬁts from the generality of hy-
+perproperties; at the same time, synthesis from hyperproperties is much more
+challenging than synthesis from trace properties. ",cs.LO,B,-0.00480384,0.24766283,-0.15800717
+http://arxiv.org/pdf/2205.12085v2,Information Flow Guided Synthesis (Full Version),"In many situations, necessary information
+ﬂow assumptions exist even if there are no necessary behavioral assumptions. There are at least two major directions for future work. The ﬁrst direction con-
+cerns the insight that compositional synthesis proﬁts from the generality of hy-
+perproperties; at the same time, synthesis from hyperproperties is much more
+challenging than synthesis from trace properties. ",cs.LO,B,-0.00480384,0.24766283,-0.15800717
+http://arxiv.org/pdf/2205.13008v1,Runtime Composition Of Systems of Interacting Cyber-Physical Components,"However, the time to reach the ﬁrst solution
+18  Benjamin Lion, Farhad Arbab, Carolyn Talcott
+
+increases as the number of states and transition increases (adding the protocol
+components). We leave as future work some optimization to improve on our
+results. 5 Related work
+
+Discrete Event Systems Our work represents both cyber and physical aspects of
+system with a uniﬁed model of discrete event systems. ",cs.LO,B,0.1979759,0.115253,-0.15663832
+http://arxiv.org/pdf/2205.13387v2,Coalgebraic Fuzzy geometric logic,"We have already observed that if T is an endofunctor on SFuzzy-Top then behavioural equivalence
+coincides with modal equivalence. In our future work, we will verify whether behavioural equivalence
+and modal equivalence coincide if T is an endofunctor on the category of compact fuzzy Hausdorff
+spaces. Declarations
+
+     • Conﬂict of interest
+       The authors declare that there is no conﬂict of interest. ",cs.LO,C,-0.23168215,0.19477442,0.0654829
+http://arxiv.org/pdf/2205.15138v1,Deciding Hyperproperties Combined with Functional Specifications,"Enforce-5    - TO     ✓ 262 0
+              - TO     ✓ 334 0                                         We have shown that functional specifications given in
+  Unsat-3     - TO     ✓ 491 0                                      LTL play a significant role in the undecidability of general
+  Unsat-5     - TO     ✗ 777 3                                      hyperproperties. The main open question for future work is
+  Unsat-9     - TO     ✗ 1363 5                                     whether further decidable fragments can be found by restrict-
+                       ✗ 1681 9                                     ing the operator structure of the functional specification. LTL formula 𝜓 and searches for an (un)satisfiability proof          Acknowledgments
+for (𝜓, 𝜑). ",cs.LO,C,-0.13017161,-0.22701563,-0.058259834
+http://arxiv.org/pdf/2206.00512v1,Neural Network Verification with Proof Production,"Non piecewise-linear                      Verifying DNNs via Linear Programming. Linear Program-
+                                                                                    ming (LP) [22] is the problem of optimizing a linear function
+functions, such as as sigmoid or tanh, are left for future work. over a given convex polytope. ",cs.LO,B,0.38090977,0.050964095,-0.06804463
+http://arxiv.org/pdf/2206.00512v2,Neural Network Verification with Proof Production,"Non piecewise-linear                      Verifying DNNs via Linear Programming. Linear Program-
+                                                                                    ming (LP) [22] is the problem of optimizing a linear function
+functions, such as as sigmoid or tanh, are left for future work. over a given convex polytope. ",cs.LO,B,0.38090977,0.050964095,-0.06804463
+http://arxiv.org/pdf/2206.00903v1,Satisfiability of Quantified Boolean Announcements,"This is the ﬁrst time a quantiﬁed announcement logic has
+been shown to be decidable. For further research we wish to report the decidability of the satisﬁability problem of
+yet another logic with quantiﬁcation over announcements, called positive arbitrary public
+announcement logic, APAL+. It has a primitive modality “after every public announce-
+ment of a positive formula, ϕ is true.” The positive formulas correspond to the universal
+fragment in ﬁrst-order logic. ",cs.LO,C,-0.2482462,-0.095742375,0.013237643
+http://arxiv.org/pdf/2206.01692v1,LTL with Local and Remote Data Constraints,"So a natural ques-
+tion to ask would be whether the satisﬁability problem for CLRVXF(D) is also decidable
+over N and over Z. This is still open and is one possible direction for future work. We have proved the undecidability of the satisﬁability problem for LRC⊤(D)
+(Theorem 3.1.1). ",cs.LO,C,-0.0785242,-0.2653126,0.12805326
+http://arxiv.org/pdf/2206.01797v1,Prophecy Variables for Hyperproperty Verification,"This new foundation
+the overall number of prophecies (#P). This observation is         asks for further research to devise prophecy-based (complete)
+                                                                   veriﬁcation methods that scale to larger systems. encouraging, as it indicates that the information needed by
+                                                                                           ACKNOWLEDGMENTS
+the ∃-player is concise, i.e., expressible with few automata. ",cs.LO,B,0.058636054,0.061104707,-0.007889766
+http://arxiv.org/pdf/2206.02300v1,On the horizontal compression of dag-derivations in minimal purely implicational logic,"E.H.Haeusler and J.F.C. Barros Jr.  xxix
+
+Figure 26: Comparison between Huffman and HC compression time for big tautologies of the class
+Fibonacci(n)
+
+8 Conclusion and further research
+
+We think we succeeded to a high degree in almost all of the contributions listed in the second paragraph
+of the introduction. One of the primary purposes of this report is to provide a comprehensive technical
+presentation of the Horizontal Compression method to compact propositional proofs in M⊃. ",cs.LO,A,0.045904234,-0.13675007,0.43640566
+http://arxiv.org/pdf/2206.02300v2,On the horizontal compression of dag-derivations in minimal purely implicational logic,"E.H.Haeusler and J.F.C. Barros Jr.  xxxvii
+
+Figure 29: Comparison between Huffman and HC compression time for big tautologies of the class
+Fibonacci(n)
+
+8 Conclusion and further research
+
+We think we succeeded to a high degree in almost all of the contributions listed in the second paragraph
+of the introduction. One of the primary purposes of this report is to provide a comprehensive technical
+presentation of the Horizontal Compression method to compact propositional proofs in M⊃. ",cs.LO,A,0.047832914,-0.1406856,0.43780065
+http://arxiv.org/pdf/2206.02300v3,On the horizontal compression of dag-derivations in minimal purely implicational logic,"E.H.Haeusler and J.F.C. Barros Jr.  xxxix
+
+Figure 29: Comparison between Huffman and HC compression time for big tautologies of the class
+Fibonacci(n)
+
+8 Conclusion and further research
+
+We think we succeeded to a high degree in almost all of the contributions listed in the second paragraph
+of the introduction. One of the primary purposes of this report is to provide a comprehensive technical
+presentation of the Horizontal Compression method to compact propositional proofs in M⊃. ",cs.LO,A,0.0506981,-0.13639145,0.43482703
+http://arxiv.org/pdf/2206.02606v1,Verifying generalised and structural soundness of workflow nets via relaxations,"In particular, we have introduced
+continuous soundness as an approximation of generalised soundness, and shown
+that it coincides with other types of soundness for free-choice nets. As part of future work, we plan to migrate our prototype into the process
+mining framework ProM, to make the algorithms available to practitioners. Verifying generalised and structural soundness of workﬂow nets  19
+
+analysis time (s)  6  This work       120                120
+                                      100                100
+                      LoLA
+
+                   4
+
+                   2                  50                 50
+
+                   0                  0                  0
+
+                      1 10 20 30 40       1 10 20 30 40      1 10 20 30 40
+                                   c                  c                  c
+
+Fig. ",cs.LO,B,0.19545762,0.08672723,-0.20200613
+http://arxiv.org/pdf/2206.02775v1,Randomized Synthesis for Diversity and Cost Constraints with Control Improvisation,"Our experiments demonstrated how our
+framework can be used to formalize and solve realistic robotic planning problems. There are a number of clear directions for future work. Scalability is an
+evident concern: our experiments show that our algorithms can require substan-
+tial resources to solve even relatively small LQCI problems. ",cs.LO,B,0.25000542,0.017517995,-0.21842806
+http://arxiv.org/pdf/2206.02831v1,A Category Theoretic View of Contextual Types: from Simple Types to Dependent Types,"Clarifying the pre-
+cise relationship to this line of research is an interesting direction that will however require further
+work. In future work, one may consider using the model as a way of compiling contextual types, by
+implementing the semantics. In another direction, it may be interesting to apply the syntax of
+contextual types to other presheaf categories. ",cs.LO,C,-0.19695729,0.31128228,-0.16638076
+http://arxiv.org/pdf/2206.02831v2,A Category Theoretic View of Contextual Types: from Simple Types to Dependent Types,"Clarifying the pre-
+cise relationship to this line of research is an interesting direction that will however require further
+work. In future work, one may consider using the model as a way of compiling contextual types, by
+implementing the semantics. In another direction, it may be interesting to apply the syntax of
+contextual types to other presheaf categories. ",cs.LO,C,-0.19695729,0.31128228,-0.16638076
+http://arxiv.org/pdf/2206.02992v1,SMT-Based Model Checking of Industrial Simulink Models,"Signals can be depicted as in Fig 1e. 7 Other than these types, there are types for ﬁxed-point numbers, strings, enumeration
+   values, and user-deﬁned ValueType objects; support of these types is a future work. Begin  Simulink model,   Encoder                      Model checker
+                         invariance, and
+     IR                  other parameters  (for system definition)
+generation
+                         For each subsystem/block b in the IR       No       Prove
+
+Generate block                                       Printing           invariance     Yes
+       table
+                             Encode           Yes                            ? ",cs.LO,B,0.04820572,0.14135984,-0.1317638
+http://arxiv.org/pdf/2206.03358v1,Towards a Coq formalization of a quantified modal logic,"Furthermore,
+there were no signiﬁcant complications in using this approach in the formalization of the
+Kripke soundness theorem for QRC1. This was no longer the case for the formalization
+of the Kripke completeness theorem, but we postpone discussing this to a future work,
+when the formalization is completed. One downside of this strategy is that variable names must be picked with some
+foresight. ",cs.LO,C,-0.1421927,0.017163772,0.04759245
+http://arxiv.org/pdf/2206.03358v2,Towards a Coq formalization of a quantified modal logic,"Given a constant c, a formula ϕ where c does
+not appear, an adequate model M, a world w, and a w-assignment g, we have:
+
+                        M, w g ϕ ⇐⇒ M[w, c←g(x)]|w, w g ϕ[x←c]. 6 Conclusions and future work
+
+In this work we presented a Coq mechanization of the QRC1 logic, its Kripke seman-
+tics, and a formalized proof of its soundness theorem. We discussed the diﬃculties in
+translating these objects and results to Coq as well as our proposed solutions. ",cs.LO,C,-0.19455227,-0.122409,-0.02713401
+http://arxiv.org/pdf/2206.03381v1,Software Verification of Hyperproperties Beyond k-Safety,"A direct next step
+would be to integrate our approach in a counter-example guided reﬁnement loop
+that automatically reﬁnes the current abstraction. Moreover, in future work, it
+is interesting to study if, and to what extent, the numerous other methods de-
+veloped for k-safety veriﬁcation of inﬁnite-state systems (apart from reductions)
+are applicable to the vast landscape of hyperproperties that lies beyond k-safety. Acknowledgments This work was partially supported by the DFG in project
+389792660 (Center for Perspicuous Systems, TRR 248). ",cs.LO,B,0.17255771,0.009607074,-0.19231288
+http://arxiv.org/pdf/2206.03381v2,Software Verification of Hyperproperties Beyond k-Safety,"Beutner and Finkbeiner
+[14] use prophecy variables to ensure that the game-based reading of existential
+quantiﬁcation is complete in a ﬁnite-state setting. Automatically constructing
+prophecies for inﬁnite-state systems is interesting future work. Pommellet and
+Touili [37] study the veriﬁcation of HyperLTL in inﬁnite-state systems arising
+from pushdown systems. ",cs.LO,C,-0.12970397,0.1698727,-0.10945517
+http://arxiv.org/pdf/2206.03537v1,Automated Expected Amortised Cost Analysis of Probabilistic Data Structures,"7 Conclusion
+
+In this paper, we present the ﬁrst fully-automated expected amortised cost anal-
+ysis of self-adjusting data structures, that is, of randomised splay trees, ran-
+domised splay heaps and randomised meldable heaps, which so far have only
+(semi-) manually been analysed in the literature. In future work, we envision
+to extend our analysis to related probabilistic settings such as skip lists [28]
+and randomised binary search trees [18]. We note that adaptation of the frame-
+work developed in this paper to new benchmarks will likely require to identify
+new potential functions and the extension of the type-eﬀect-system with typing
+rules for these potential functions. ",cs.LO,B,0.25973433,-0.093254074,0.0035597458
+http://arxiv.org/pdf/2206.05086v1,Finite Model Theory and Proof Complexity revisited: Distinguishing graphs in Choiceless Polynomial Time and the Extended Polynomial Calculus,"In total, the success
+chances of our suggested approach for CPT lower bounds via proof complexity depend
+highly on the true power of EPC3 (with restricted extension axioms), and its relation to
+unrestricted EPC. Investigating this remains a problem for future work. Actually, our Theorem 1 could be strengthened more: A simulation of CPT in EPC3 is
+even possible in a certain symmetry-invariant fragment of EPC3. ",cs.LO,A,0.09915107,-0.25695598,0.24070328
+http://arxiv.org/pdf/2206.05086v2,Finite Model Theory and Proof Complexity revisited: Distinguishing graphs in Choiceless Polynomial Time and the Extended Polynomial Calculus,"In total, the success
+            chances of our suggested approach for CPT lower bounds via proof complexity depend
+            highly on the true power of EPC3 (with restricted extension axioms), and its relation to
+            unrestricted EPC. Investigating this remains a problem for future work. Symmetry-invariance of the refutations
+
+            Actually, our Theorem 1 could be strengthened more: A simulation of CPT in EPC3 is
+            even possible in a certain symmetry-invariant fragment of EPC3. ",cs.LO,A_centroid,0.0715011,-0.2543182,0.20894517
+http://arxiv.org/pdf/2206.05086v3,Finite Model Theory and Proof Complexity revisited: Distinguishing graphs in Choiceless Polynomial Time and the Extended Polynomial Calculus,"In total, the success
+            chances of our suggested approach for CPT lower bounds via proof complexity depend
+            highly on the true power of EPC3 (with restricted extension axioms), and its relation to
+            unrestricted EPC. Investigating this remains a problem for future work. Symmetry-invariance of the refutations
+
+            Actually, our Theorem 1 could be strengthened more: A simulation of CPT in EPC3 is
+            even possible in a certain symmetry-invariant fragment of EPC3. ",cs.LO,A,0.0715011,-0.2543182,0.20894517
+http://arxiv.org/pdf/2206.06049v1,Characterising Modal Formulas with Examples,"On the other hand,
+it follows from the results in [11] that L+✸,∧-formulas are polynomial-time ex-
+actly learnable with membership queries. We leave it as future work to prove
+matching lower bounds for our construction, and to understand more precisely
+which modal fragments admit polynomial-sized ﬁnite characterizations and/or
+are polynomial-time exactly learnable with membership queries. Variants of Theorem 3.6 can be obtained for L−✷,✸,∧,∨ and, more generally,
+for uniform modal formulas, where certain propositional variables only occur
+positive and others only negatively. ",cs.LO,C,-0.11100079,-0.23785931,0.16172916
+http://arxiv.org/pdf/2206.06677v2,Abstraction-Based Segmental Simulation of Chemical Reaction Networks,"In particular, we have the machinery to generate abstract simulation
+runs, which take less space than the concrete ones, yet provide high precision on
+the level of detail given by the population levels deﬁned by the user. In future work, we want to investigate the error with the goal of giving formal
+error bounds. Further, we propose an adaptive version of the abstraction where
+the population abstraction and the number of precomputed segments are reﬁned
+or learned. ",cs.LO,B,0.24815282,0.03994983,-0.06947409
+http://arxiv.org/pdf/2206.07823v1,An Investigation on Kripke-style Modal Type Theories,"Here we conclude the substitution calculus for idempotent S4. We leave the generalization to dependent types,
+an explicit substitution calculus in the style of Section 6 and a normalization algorithm as future work. 5 PRESHEAF MODEL AND NORMALIZATION BY EVALUATION
+
+label: sec:presheaf
+   In this section, we build a presheaf model for the modal type theory from which we extract a normalization
+
+by evaluation (NbE) algorithm. ",cs.LO,C,-0.18542963,0.018176677,0.0035248436
+http://arxiv.org/pdf/2206.07823v2,An Investigation of Kripke-style Modal Type Theories,"Here we conclude the substitution calculus for idempotent S4. We leave the generalization to dependent types,
+an explicit substitution calculus in the style of Section 6 and a normalization algorithm as future work. 5 PRESHEAF MODEL AND NORMALIZATION BY EVALUATION
+
+In this section, we build a presheaf model for the modal type theory from which we extract a normalization by
+evaluation (NbE) algorithm. ",cs.LO,C,-0.18381447,0.019479131,0.008660451
+http://arxiv.org/pdf/2206.07823v3,An Investigation of Kripke-style Modal Type Theories,"Here we conclude the substitution calculus for idempotent S4. We leave the generalization to dependent types,
+an explicit substitution calculus in the style of Section 6 and a normalization algorithm as future work. 5 PRESHEAF MODEL AND NORMALIZATION BY EVALUATION
+
+In this section, we build a presheaf model for the modal type theory from which we extract a normalization by
+evaluation (NbE) algorithm. ",cs.LO,C,-0.18381447,0.019479131,0.008660451
+http://arxiv.org/pdf/2206.07823v4,An Investigation of Kripke-style Modal Type Theories,"Here we conclude the substitution calculus for idempotent S4. We leave the generalization to dependent types,
+an explicit substitution calculus in the style of Section 6 and a normalization algorithm as future work. 5 PRESHEAF MODEL AND NORMALIZATION BY EVALUATION
+
+In this section, we build a presheaf model for the modal type theory from which we extract a normalization by
+evaluation (NbE) algorithm. ",cs.LO,C,-0.18381447,0.019479131,0.008660451
+http://arxiv.org/pdf/2206.08714v1,Relaxing safety for metric first-order temporal logic via dynamic free variables,"The formalisation and proofs
+are available online, and corresponding deﬁnitions are linked throughout the paper and indicated with the
+(clickable) Isabelle-logo .1 We add to the relevance of our safety relaxation by providing examples in §5
+that can now be monitored due to our contributions. We discuss future work and our conclusions in §7. Related work. ",cs.LO,C,-0.11762287,-0.055778116,0.08301076
+http://arxiv.org/pdf/2206.08755v1,Compositional Exploration of Combinatorial Scientific Models,"Although gradient-like heuristics can
+still be used, there is no longer clear criteria for when to terminate the search in the case of inﬁnite model spaces. Loss (yˆ, p) = max yˆI(pˆ,t)                            (2)
+              t∈T
+
+Future work Many elements of future work are required to develop our prototype into a full-ﬂedged software tool
+for scientists with no computer science or category theory background to use. A GUI using the wiring diagram
+formalism for constructing workﬂows would improve accessibility. ",cs.LO,B,0.1352928,0.17016816,-0.2158957
+http://arxiv.org/pdf/2206.09020v1,Uniform and Modular Sequent Systems for Description Logics,"HermiT [29]). However, since the current paper merely provides a framework for constructing
+sequent systems for expressive DLs, comparing decision algorithms based on our sequent
+systems with those based on existing tableaux must be left to future work. Nevertheless,
+sequent calculi have proven beneficial in establishing meta-logical properties, and thus, we aim
+to adapt existing methods for sequent systems to obtain constructive proofs of (various forms
+of) interpolation (as in [25, 30]), and to utilize our systems in computing re-writings of concepts
+and TBoxes. ",cs.LO,C,-0.17800334,-0.19883755,0.028976835
+http://arxiv.org/pdf/2206.10234v1,The Many-Worlds Calculus: Representing Quantum Control,"While our language allows for quantum control, it does not capture another language
+that aims at formalizing quantum control, namely the PBS-Calculus [10]. How and in which
+context could we capture the PBS-Calculus is left for future work. K. Chardonnet and M. de Visme B. Valiron and R. Vilmart                                                  23:13
+
+      References
+
+ 1 Samson Abramsky and Bob Coecke. ",cs.LO,C,0.015025081,0.27760267,-0.07753485
+http://arxiv.org/pdf/2206.10234v2,The Many-Worlds Calculus,"Finally, while our language allows for quantum control, it does not entirely capture
+another language that aims at formalizing quantum control, namely the PBS-Calculus [9]. How and in which context could we capture the PBS-Calculus is left for future work. References
+
+  1 Thorsten Altenkirch and Jonathan Grattage. ",cs.LO,C,-0.0072775884,0.2756266,-0.0840456
+http://arxiv.org/pdf/2206.11495v1,Algebra-Based Reasoning for Loop Synthesis,"Additional
+heuristics for solving our constraints have been also implemented in our new tool Absynth for loop synthesis. Directions for future work include a complexity analysis of our algorithm; further investigating the properties of
+our constraint problems for improving the scalability of our procedure; generalizing our approach to multi-path loops
+and inequality invariants; restricting the solution space to integers or bounded domains; extending Absynth with
+reasoning support for arbitrary algebraic numbers; and understanding and encoding the best optimization measures
+for loop synthesis in the context of program/compiler optimization approaches. Acknowledgments
+
+We thank Sumit Gulwani and Manuel Kauers for valuable discussions on ideas leading to this work. ",cs.LO,B,0.32329005,-0.28203955,-0.07374161
+http://arxiv.org/pdf/2206.11751v1,Towards a Model Theory of Ordered Logics: Expressivity and Interpolation (Extended version),"For the other logics we proposed a novel model-theoretic
+“complete-and-repair” method of creating a model out of two bisimilar forest-like structures. There are several interesting future work directions. 1. ",cs.LO,B,-0.018402409,-0.018113757,-0.050292004
+http://arxiv.org/pdf/2206.12164v1,Elementary analytic functions in $VTC^0$,"Can VTC 0 understand diﬀerentiation and integration (or even
+simple diﬀerential equations such as Pfaﬃan chains)? We leave these open-ended questions for
+possible future work. A Detailed construction of TC0 approximations
+
+Here are the full proofs of Lemmas 3.46 and 3.57. ",cs.LO,A,0.0046652146,0.17989476,0.1267481
+http://arxiv.org/pdf/2206.12164v2,Elementary analytic functions in $VTC^0$,"Can VTC0 understand diﬀerentiation and integration (or even simple
+diﬀerential equations such as Pfaﬃan chains)? We leave these open-ended questions for possible
+future work. Acknowledgements
+
+I am grateful to the anonymous referees for many helpful suggestions to improve the presentation
+of the paper. ",cs.LO,A,0.013792826,0.27813417,-0.030692292
+http://arxiv.org/pdf/2206.13610v1,"Quantitative and Metric Rewriting: Abstract, Non-Expansive, and Graded Systems","Notice that this question may not have a Boolean
+answer: in fact, some completion procedures may be correct from the point of view of reachability problems, but not so
+when it comes to deal with optimal distances. 38We leave the detailed development of such a theory for future work. 49
+Proof. ",cs.LO,A,0.2102159,-0.0065014884,0.15016986
+http://arxiv.org/pdf/2206.13772v1,"Abstract interpretation, Hoare logic, and incorrectness logic for quantum programs","Conversely, our result also implies the non-existence of any sound and relatively
+complete Hoare or incorrectness logic for quantum programs if tuples of local subspaces are taken
+as assertions for quantum states. For future work, we plan to consider quantitative assertions where a quantum state satisﬁes a
+property with some degree (a number in [0, 1]). Natural candidates for such assertions are her-
+mitian operators between 0 and the identity, as widely used in the expectation-based quantum
+Hoare logics. ",cs.LO,C,-0.13661434,0.012461295,0.06979745
+http://arxiv.org/pdf/2206.13841v2,Program Semantics and a Verification Technique for Knowledge-Based Multi-Agent Systems,"knowledge evaluation before and after
+program execution, as well as a complete veriﬁcation method for this are all
+novelties in the ﬁeld. In future work, we will look at a meet-in-the-middle between the memoryless
+semantics in [20] and the memoryful semantics here, and methods of verifying
+logics like Lm DK but with such less “absolutist” semantics. Title Suppressed Due to Excessive Length  19
+
+References
+
+ 1. ",cs.LO,B,-0.025023622,-0.2053391,-0.26905027
+http://arxiv.org/pdf/2206.13927v1,On the Axiomatisation of Branching Bisimulation Congruence over CCS,"As a
+
+    consequence, we cannot exploit the completeness of the axiomatisation for rooted branching
+
+    bisimilarity to derive complete axiomatisations for rooted weak bisimilarity and rooted delay
+
+    bisimilarity, but we must provide new axiomatisations for them and prove their completeness
+
+    from scratch. Hence, we leave as future work the quest for complete axiomatisations for
+
+    ∼RWB and ∼RDB over (recursion, relabelling, and restriction free) CCS with left merge and
+
+    communication merge. L. Aceto, V. Castiglioni, A. Ingólfsdóttir, and B. Luttik                                             17
+
+      References
+
+ 1 Luca Aceto. ",cs.LO,C,-0.19207963,-0.1489944,0.06058249
+http://arxiv.org/pdf/2206.15169v1,Minimization of Dynamical Systems over Monoids,"These are signiﬁcantly smaller, but some
+are degenerate with one species only. We leave for future work a more detailed study on
+ﬁner intermediate reductions obtained for model-speciﬁc initial partitions preserving exactly
+the variables of interest for the modeler. Practically, modelers could decide to preserve only
+some outputs rather than all/none. ",cs.LO,A,0.0119004585,0.08768973,0.15323389
+http://arxiv.org/pdf/2206.15202v1,Tuple Interpretations and Applications to Higher-Order Runtime Complexity,"The compatibility result allows us to make use of interpretations as
+a way to bound the length of derivation chains, as it is expected from an interpretation
+method. As current, and future work, we are working on automation techniques to find
+interpretations and develop a completely rewriting-based automated tool for complexity
+analysis of functional programs. References
+
+1 C. Fuhs and C. Kop. ",cs.LO,B,-0.022489784,-0.26803297,-0.19555993
+http://arxiv.org/pdf/2206.15253v1,Cohomology in Constraint Satisfaction and Structure Isomorphism,"Further-
+    more, the results of this paper demonstrate the unexpected eﬀectiveness of a cohomological
+A. Ó Conghaile                                                                                    13
+
+approach to constraint satisfaction and structure isomorphism, analogous to that pioneered
+by Abramsky and others for the study of quantum contextuality. The results of this paper suggest several directions for future work to establish the extent
+and limits of this cohomological approach. We ask the following questions which connect it
+to important themes in algorithms, logic and ﬁnite model theory. ",cs.LO,C,-0.26360875,-0.010554042,-0.022418585
+http://arxiv.org/pdf/2207.00119v1,Reasoning in Non-normal Modal Description Logics,"We have then studied the complexity of the satisfiability
+problem restricted to fragments where modal operators can be applied to formulas only (thus
+without modalised concepts) and interpreted on neighbourhood models with constant domains. As future work, we plan to investigate along the following directions. First, we are interested in adapting our tableau algorithms to check satisfiability of formulas
+on neighbourhood models with constant domains. ",cs.LO,C,-0.05225338,-0.22198266,0.03375827
+http://arxiv.org/pdf/2207.00317v1,A Note on Process Modelling: Combining Situation Calculus and Petri Nets,"For instance, Petri net loops caused by iterative actions have not
+been considered. It is expected that further research, covering more complex cases and
+extended representation conventions, will confirm the complementarity thesis and give
+evidence of its relevance to a fully satisfactory extent. References
+
+[Aalst] W. V. der Aalst, “Process Mining,” In: Communications of the ACM, vol. ",cs.LO,B,0.118619576,0.09199004,-0.15651013
+http://arxiv.org/pdf/2207.01048v1,A Formal Framework for Distributed Cyber-Physical Systems,"The reason, as shown in the proof, comes
+from the product of 1 with a component A that may insert silent observations
+
+    2Strictly speaking, closure under ﬁnite product does not necessarily imply closure under
+inﬁnite product. We leave investigating the conditions under which closure under inﬁnite
+product holds, for future work. 13
+at arbitrary points in time. ",cs.LO,C,-0.11221577,0.09026642,0.1635223
+http://arxiv.org/pdf/2207.02045v1,A Stochastic Game Approach to Masking Fault-Tolerance: Bisimulation and Quantification,"We also provided a polynomial technique to decide whether
+a game is almost-sure failing under fairness. There are many directions for future work. As an immediate one, we have
+pending to extend the result on quantitative objectives to non-memoryless strate-
+gies. ",cs.LO,B,0.32300782,0.026258055,0.041853912
+http://arxiv.org/pdf/2207.02728v1,Formalising Fisher's Inequality: Formal Linear Algebraic Proof Techniques in Combinatorics,"The ﬁnal
+formalisation repository is available online, and will be submitted to the Isabelle AFP. For future work, it would be interesting to extend these techniques to more advanced
+settings, formalise other linear algebraic techniques and types of linear algebraic represent-
+ations, and explore the potential for automation of some of the techniques involved. Lastly,
+Fisher’s inequality itself is an important result which has several further extensions as well
+as applications to other interesting theorems yet to be formalised. ",cs.LO,A,-0.04406687,-0.04478328,0.29105234
+http://arxiv.org/pdf/2207.02822v1,Towards Concurrent Quantitative Separation Logic,"Next, in Section 4 we develop a calculus for
+reasoning about lower bounds of weakest liberal preexpectations. Its usage is demonstrated
+in Section 5, and in Section 6 we conclude and explain further research directions. The main
+part of the paper is accompanied by an extensive appendix providing elaborated proofs and
+additional details about the examples. ",cs.LO,A,0.03337197,0.08309902,0.2788462
+http://arxiv.org/pdf/2207.02822v2,Towards Concurrent Quantitative Separation Logic,"Next, in Section 4 we develop a calculus
+for reasoning about lower bounds of weakest liberal preexpectations. Its usage is demon-
+strated in Section 5, and in Section 6 we conclude and explain further research directions. The main part of the paper is accompanied by an extensive appendix providing elaborated
+proofs and additional details about the examples. ",cs.LO,A,0.049474686,0.09722119,0.29451138
+http://arxiv.org/pdf/2207.03209v1,Application of Validation Obligations to Security Concerns,"Additionally, diﬀerent model
+views enable other stakeholders to understand the model and reason about the
+requirements relevant to them without going into unnecessary details. 6 Conclusion and future work
+
+This paper shows how the VO approach can validate security concerns along-
+side safety and functional properties in a formal model. A uniform approach for
+validating diﬀerent system properties is a big plus, thus making the overall de-
+velopment process more straightforward. ",cs.LO,B,-0.020103717,0.12831062,-0.28810453
+http://arxiv.org/pdf/2207.03929v1,String Diagrams for Layered Explanations,"Since our setup remains agnostic about what the internal morphisms in a
+layered prop actually are, we expect that both of these situations can be modelled within a layered prop. We leave this investigation for future work. 5 Example: Glucose Phosphorylation
+
+In this section, we construct a minimal example — inspired by Krivine [11] — that illustrates our notion
+of an explanation (speciﬁcally, Deﬁnition 7) for an important biochemical process known as phospho-
+rylation of glucose. ",cs.LO,C,-0.123118445,0.3935911,-0.052778378
+http://arxiv.org/pdf/2207.04986v1,Order-Invariance in the Two-Variable Fragment of First-Order Logic,"Our hope is that a construction inspired by this one - albeit signiﬁcantly reﬁned - and in
+J. Grange                                                                                         19
+
+particular by the alternation of universal and neighbors segments, could possibly lead to
+establish such a result. We leave these three questions, as well as the issue of the syntactic decidability of <
+-inv C2, for further research. References
+
+  1 Albert Atserias, Anuj Dawar, and Martin Grohe. ",cs.LO,C,-0.16143626,-0.01329693,0.06058425
+http://arxiv.org/pdf/2207.05610v1,Abstraction Logic: A New Foundation for (Computer) Mathematics,"In light of this, I ﬁnd it even more surprising that AL has not been discovered
+     before. As for applications, I believe Practical Types [12] and of course Practal [17] will be
+     among its major applications, but that is future work. – “The completeness proof is vague.” I would not consider the proof vague. ",cs.LO,A,0.006598739,-0.016029902,0.0907578
+http://arxiv.org/pdf/2207.06708v1,Realizability Problem for Constraint LTL,"The semantics is extended to the
+rest of the syntax similar to the usual propositional LTL. We use the standard abbreviations
+
+1 This does need a detailed study, which we defer to future work. 4  Realizability Problem for Constraint LTL
+
+   F φ (resp. ",cs.LO,C,-0.1851215,-0.06827597,-0.27335197
+http://arxiv.org/pdf/2207.08697v1,The Theory of Call-by-Value Solvability (long version),"Publication date: July 2022. The Theory of Call-by-Value Solvability                                       35
+
+The proof of conﬂuence of →vsc ∪ →glue modulo ≡ is left to future work, because of the tedious
+technicalities of working modulo ≡, which prevent to use standard rewriting lemmas. C PROOFS OF SECTION 2 (PRELIMINARIES IN REWRITING)
+
+L  C.1 (S ,                              ). ",cs.LO,C,-0.11007012,-0.16914904,0.1827824
+http://arxiv.org/pdf/2207.09187v1,Quantitative Hennessy-Milner Theorems via Notions of Density,"In fact, we expect our main expressivity theorem to be easily
+transported to topological categories that admit an initial dense object (which takes the
+role of Vs). We leave this issue to future work. Another important direction is to develop a
+general coalgebraic treatment of characteristic logics for non-branching-time (e.g. ",cs.LO,C,-0.26184732,0.14945732,0.06302066
+http://arxiv.org/pdf/2207.09187v2,Quantitative Hennessy-Milner Theorems via Notions of Density,"In fact, we expect our main expressivity theorem to be easily
+    transported to topological categories that admit an initial dense object (which takes the
+    role of Vs). We leave this issue to future work. Another important direction is to develop a
+    general coalgebraic treatment of characteristic logics for non-branching-time (e.g. ",cs.LO,C,-0.26184732,0.14945732,0.06302066
+http://arxiv.org/pdf/2207.09190v1,Central Submonads and Notions of Computation,"It is also challenging from a computational perspective,
+because the class of eﬀectful operations described by a commutant does not necessarily commute
+with all other eﬀectful operations. Another opportunity for future work includes studying the
+relationship between the centres of strong monads and distributive laws. In particular, given two
+strong monads and a strong/commutative distributive law between them, can we show that the
+26                                                           Titouan Care e, Louis Lemonnier, and Vladimir Zamdzhiev
+
+distributive law also holds for their centres? ",cs.LO,C,-0.21199703,0.06371072,0.11529844
+http://arxiv.org/pdf/2207.09895v1,PFMC: a parallel symbolic model checker for security protocol verification,"For the last benchmark, we did observe a relatively more signiﬁcant im-
+provement in the elapsed time; however the gain does not seem to scale with
+the number of cores used. It is unclear at the moment where the bottleneck for
+parallelisation lies; this is left for future work. 26
+                   Benchmark 1 core 2 cores 4 cores 8 cores 16 cores
+                   Chen_Kudla 39.270s 31.380s 32.080s 32.040s 35.060s
+              UM_three_pass 95.310s 82.720s 84.520s 83.800s 83.260s
+    commitment-protocol 100.750s 73.700s 64.820s 62.080s 62.750s
+
+                              gcm 89.270s 81.620s 59.280s 66.940s 78.890s
+arpki-NoThreeUntrusted 6293.050s 4669.480s 3758.720s 3413.110s 3686.980s
+
+                                     Table 5. ",cs.LO,A,0.44165695,0.04626765,0.13786109
+http://arxiv.org/pdf/2207.10262v1,A Labelled Sequent Calculus for Public Announcement Logic,"Section 5 shows that GPAL allows terminating proof search. Section 6 compares
+GPAL with related works, concludes the paper and discusses future work. 2 Preliminaries
+
+2.1 EL and PAL
+
+Let Prop be a denumerable set of variables and Ag a ﬁnite set of agents. ",cs.LO,C,-0.121690825,-0.13615361,0.014689775
+http://arxiv.org/pdf/2207.10262v2,A Labelled Sequent Calculus for Public Announcement Logic,"Section 5 shows that GPAL allows terminating proof search. Section 6 compares
+GPAL with related works, concludes the paper and discusses future work. 2 Preliminaries
+
+2.1 EL and PAL
+
+Let Prop be a denumerable set of variables and Ag a ﬁnite set of agents. ",cs.LO,C,-0.121690825,-0.13615361,0.014689775
+http://arxiv.org/pdf/2207.10562v1,CheckINN: Wide Range Neural Network Verification in Imandra,"7.2 Future Work                                                                           [11] Kirsty Duncan, Ekaterina Komendantskaya, Robert J. Stewart, and Michael A. Some other considerations were left for future work. This paper                                 Lones. ",cs.LO,A,0.20673767,0.43627647,0.24271733
+http://arxiv.org/pdf/2207.10562v2,CheckINN: Wide Range Neural Network Verification in Imandra (Extended),"Exploring Imandra’s facilities to sustain the “training-for-                 PMLR, 1931–1941. http://proceedings.mlr.press/v97/fischer19a.html
+verification” cycle is left for future work. [14] T. Gehr, M. Mirman, D. Drachsler-Cohen, E. Tsankov, S. Chaudhuri, and M.
+REFERENCES
+                                                                                      Vechev. ",cs.LO,A,0.27496833,0.26417592,0.12986746
+http://arxiv.org/pdf/2207.10590v1,On Feller Continuity and Full Abstraction (Long Version),"Such a
+full abstraction property does not seem to hold, since the higher-order nature of the considered
+languages could make it possible for a ΛP context 𝐶 to inject non-continuity inside a program 𝑀 of
+Λ𝑐P. In any case, a thorough investigation along these lines is outside the scope of this paper, and
+left for future work. REFERENCES
+
+Samson Abramsky. ",cs.LO,C,-0.24467334,0.043310396,-0.19536008
+http://arxiv.org/pdf/2207.12039v1,Isabelle/HOL/GST: A Formal Proof Environment for Generalized Set Theories,"We have not yet implemented the axiom of foundation, which states
+that there are no inﬁnite chains going by steps from an object to any of its
+“children”. Many use cases do not need this, so it is not crucial, but some of our
+future work will depend on it. We plan to handle this as described in previous
+work on formalizing GSTs [5]. ",cs.LO,C,-0.18310069,0.09469196,-0.095819436
+http://arxiv.org/pdf/2207.12953v1,Extensible Proof Systems for Infinite-State Systems,"In Sections 8 and 9 we illustrate how our new approach accommodates changes
+to the proof system that are needed for eﬃcient on-the-ﬂy model checking for
+timed automata and other decidable formalisms. Conclusions and future work
+are discussed in Section 10. 2 Mathematical preliminaries
+
+This section deﬁnes basic terminology used in the sequel for ﬁnite sequences,
+(partial) functions, binary relations, lattices and ﬁxpoints, and ﬁnite trees. ",cs.LO,C,-0.117924765,-0.23730552,-0.033203486
+http://arxiv.org/pdf/2207.13577v1,Scalable Proof Producing Multi-Threaded SAT Solving with Gimsatul through Sharing instead of Copying Clauses,"However, even though checking 32-thread certiﬁcates is less than 32-times slower,
+it most likely is too slow to be run in practice. Thus we consider parallelizing DRAT checkers
+as an important future work to solve this problem. 8 Conclusion
+
+We presented the architecture of our newest solver Gimsatul which shares clauses physically
+without copying. ",cs.LO,B,0.26866367,-0.26145887,-0.08395727
+http://arxiv.org/pdf/2207.13577v2,Scalable Proof Producing Multi-Threaded SAT Solving with Gimsatul through Sharing instead of Copying Clauses,"However, even though checking 32-thread certiﬁcates is less than 32-times slower,
+it most likely is too slow to be run in practice. Thus we consider parallelizing DRAT checkers
+as an important future work to solve this problem. Alternatively we will look into producing
+proof formats with antecedent information, for which parallel checking is easier. ",cs.LO,B,0.27817985,-0.31289792,0.003313657
+http://arxiv.org/pdf/2207.13660v1,Satisfiability Bounds for $ω$-Regular Properties in Bounded-Parameter Markov Decision Processes,"We provide the solution in Section IV and an              this step for simplicity. We highlight that indeed [15] only
+illustrative case study (adjusted from [15]) in Section V.          refers to the product throughout the main body of their
+Section VI concludes and presents ideas for future work. work. ",cs.LO,A,0.06659657,0.30575737,0.24928713
+http://arxiv.org/pdf/2207.13912v1,Frobenius structures in star-autonomous categories,"9. Discussion and future work
+
+   The work [37] provides a wide playground where to test the strength of the
+results presented in this paper. For example, for a commutative Girard quantale
+Q, the category QSet, whose objects are the pairs (α, X) with α : X −−−→ Q and
+whose morphisms (α, X) −−−→ (β, Y ) are the relations R ⊆ X × Y such that xRy
+implies α(x) ≤ β(y), is ∗-autonomous. ",cs.LO,C,-0.36264676,-0.0022115791,0.14457978
+http://arxiv.org/pdf/2207.14043v1,Trace Refinement in B and Event-B,"With our technique, this task is automatically done by
+the provided tool. 8 Conclusion and future work
+
+This paper introduces BERT – a technique and a tool to reﬁne traces that
+are explicit paths through state space. With this tool, it is possible to reﬁne
+traces of abstract B and Event-B machines for their respective reﬁnement. ",cs.LO,B,0.027072154,0.06155105,-0.18928194
+http://arxiv.org/pdf/2208.00536v1,Countdown $μ$-calculus,"Also, the relation between our logic and regular cost functions (see
+e.g. [10]) is less immediate than it could seem at ﬁrst glance and requires further research. 2 Preliminaries
+
+Fixpoints. ",cs.LO,A,0.12763907,-0.029353224,0.08759922
+http://arxiv.org/pdf/2208.01005v1,Analysing Parallel Complexity of Term Rewriting,"Our setting is more ﬂexible wrt the shape of user-deﬁned
+data structures (we allow for tree constructors of arbitrary arity), and our analysis
+deals with both data structure and control in an integrated manner. Conclusion and future work. We have deﬁned parallel-innermost runtime
+complexity for TRSs and proposed an approach to its automated analysis. ",cs.LO,B,0.23388562,-0.17974402,-0.07297313
+http://arxiv.org/pdf/2208.01298v1,Conjunctive Queries for Logic-Based Information Extraction,"By analysing the proof of Theorem 5.20, the central construction of our main
+result, it seems that the most important part of maintaining core spanners is updating
+the equality selection operator – and, to a lesser extent, the regular constraints. One big question for future work is whether this may have a practical use for the
+evaluation of core spanners. Although some may consider this unlikely, there is at
+least a possibility that the techniques given could be useful. ",cs.LO,A,0.1251196,-0.12001319,0.20100343
+http://arxiv.org/pdf/2208.01443v1,Stratified Certification for k-Induction,"Additionally, we plan to obtain for-          Available: https://doi.org/10.1007/s10703-017-0295-6
+mally veriﬁed certiﬁcate checkers by using theorem proving. Finally, how to certify liveness properties is another important   [3] A. Niemetz, M. Preiner, A. Reynolds, Y. Zohar, C. W. Barrett, and
+avenue of further research. C. Tinelli, “Towards satisﬁability modulo parametric bit-vectors,” J.
+                                                                        Autom. ",cs.LO,B,0.15413103,-0.11298712,0.031651627
+http://arxiv.org/pdf/2208.02713v1,NP Decision Procedure for Monomial and Linear Integer Constraints,"The key of our development is the normal form explained in section
+2.1, which simpliﬁed the calculations signiﬁcantly. In future work, we plan to
+investigate larger classes of reverse convex constraints and the case of general
+prequadratic Diophantine constraints. References
+
+ 1. ",cs.LO,A,0.1917647,0.055299252,0.2672575
+http://arxiv.org/pdf/2208.02713v2,NP Decision Procedure for Monomial and Linear Integer Constraints,"The key of our development is the normal form of
+Section 2.2. In future work, we plan to investigate larger classes of (non-)convex
+and general prequadratic constraints. NP Decision Procedure for Monomial and Linear Arithmetic Constraints  19
+
+References
+
+ 1. ",cs.LO,A,0.1848884,0.040509332,0.26336148
+http://arxiv.org/pdf/2208.03043v1,Property Directed Reachability for Generalized Petri Nets,"This is in line with a property proved by Leroux [26], which
+states that when a ﬁnal conﬁguration is not reachable then “there exist check-
+able certiﬁcates of non-reachability in the Presburger arithmetic.” Our extension
+of PDR provides a constructive method for computing such certiﬁcates, when
+it terminates. For our future works, we would like to study more precisely the
+completeness of our approach and/or its limits. This is not something new. ",cs.LO,B,0.042993944,-0.23349617,-0.02516596
+http://arxiv.org/pdf/2208.03092v1,An Iterative Fixpoint Semantics for MKNF Hybrid Knowledge Bases with Function Symbols,", bn} ∩ IT = 0/ , so again
+M. Alberti, R. Zese, F. Riguzzi & E. Lamma  75
+
+a ∈ TK //IT (S). 5 Conclusions and future work
+
+In this paper we proposed an extension of the language of MKNF-based Hybrid Knowledge Bases to
+support function symbols in rules. We extended the syntax and proposed an iterative ﬁxpoint semantics
+for the extended language. ",cs.LO,C,-0.16774598,-0.01678512,-0.14113936
+http://arxiv.org/pdf/2208.03094v1,Knowledge Authoring with Factual English,"• KALMFL treats sentences with quantiﬁers, like “Every pet has an owner,” as facts rather than
+       rules, which points to an issue with the deﬁnition of factual sentences. For future work, we plan to address some of the aforesaid problems and to extend KALMFL with
+
+quantiﬁers, rules, temporal information, and other advanced features that have direct counterparts in
+natural languages. 7 Conclusion
+
+The original KALM [7, 8, 9] was proposed as a solution to the problem of semantic mismatch in knowl-
+edge authoring using natural languages, but this solution was limited to CNLs, which is a severe limita-
+tion both in expressiveness and human training. ",cs.LO,C,-0.13579383,0.0777992,-0.22393388
+http://arxiv.org/pdf/2208.03518v1,"A Set-Theoretic Decision Procedure for Quantifier-Free, Decidable Languages Extended with Restricted Quantifiers","Although non-trivial languages fulﬁll these restrictions (e.g., linear integer
+arithmetic), the greatest expressiveness is reached when some of these restrictions
+are lifted at the expense of termination. Hence, as a future work we plan to study
+what quantiﬁer-free languages preserve termination even though they support sets
+to some extent. In particular, the long and fruitful work on CST should help us
+in ﬁnding those languages. ",cs.LO,C,-0.20619577,-0.1845735,-0.031582326
+http://arxiv.org/pdf/2208.04634v1,On Composing Communicating Systems,"A ﬁrst item of future research consist in ﬁlling
+the bits missing due to the mismatches above. A more challenging direction for future work is looking for reﬁned composition mechanisms in order
+to get preservation of relevant properties under weaker conditions. References
+
+ [1] F. Barbanera & U. de’Liguoro (2015): Sub-behaviour relations for session-based client/server systems. ",cs.LO,B,0.060998753,0.021506686,-0.16554481
+http://arxiv.org/pdf/2208.05279v1,The Completeness of Reasoning Algorithms for Clause Sets in Description Logic ALC,"The theoretical results are expected
+to lead to some applications of the proposed techniques for clausal reasoning to description logics—such as the
+resolution principle and solvers for the Boolean satisﬁability problem (SAT solvers). Our future work will include the formalization of a conjunctive normal form and its reasoning algorithm for
+more expressive description logics corresponding to OWL. In addition, the proposed conjunctive normal form
+in ALC will be applied to fast SAT solvers to implement the reasoning algorithm for ontologies and knowledge
+bases. ",cs.LO,C,-0.13481784,-0.12177717,-0.15103875
+http://arxiv.org/pdf/2208.05507v1,A Compositional Approach to Verifying Modular Robotic Systems,"Interesting future work could involve extending Vanda to
+produce message type deﬁnitions and skeleton code for ROS nodes, based on the speciﬁcation in the
+RCL contracts. For other future work, we will apply our approach to a larger and more complex system, expanding
+the calculus to cater to other arrangements of nodes where needed. We also aim to explore more
+sophisticated contracts involving real-time constraints and, potentially, uncertainty. ",cs.LO,B,0.20918466,0.0141191725,-0.23709303
+http://arxiv.org/pdf/2208.07180v1,Smart Contract Synthesis Modulo Hyperproperties,"Here, counterexamples provided by          Future work. This work has opened many interesting
+the CEGAR loop are checked for consistency with the theory          paths for future work. To proﬁt from the expressiveness
+using an SMT solver. ",cs.LO,B,0.0073207356,-0.107597545,-0.004726466
+http://arxiv.org/pdf/2208.07200v1,Exact Separation Logic,"We have adapted the OX veriﬁcation
+of Gillian [33] to exact veriﬁcation, and have veriﬁed the examples presented here. As future work,
+we will explore the applicability of Gillian’s exact veriﬁcation to real-world code: in particular, we
+believe that the parts of the AWS codebase that have already been OX-veriﬁed by Gillian [33] can
+be adapted to exact veriﬁcation. To demonstrate overall viability of exact veriﬁcation for true bug-ﬁnding, we have introduced
+a compositional symbolic execution semantics that is able to call functions described using ex-
+act speciﬁcations, precisely pinpointing when such speciﬁcations are applicable (property (P6) of
+matchAndConsume and produce introduced §6): for example, the list algorithms require that the
+speciﬁcations are deﬁned using strictly exact list-predicate assertions. ",cs.LO,B_centroid,-0.027756233,-0.24924974,-0.26179528
+http://arxiv.org/pdf/2208.07200v2,Exact Separation Logic,"We have adapted the OX veriﬁcation
+of Gillian [33] to exact veriﬁcation, and have veriﬁed the examples presented here. As future work,
+we will explore the applicability of Gillian’s exact veriﬁcation to real-world code: in particular, we
+believe that the parts of the AWS codebase that have already been OX-veriﬁed by Gillian [33] can
+be adapted to exact veriﬁcation. To demonstrate overall viability of exact veriﬁcation for true bug-ﬁnding, we have introduced
+a compositional symbolic execution semantics that is able to call functions described using ex-
+act speciﬁcations, precisely pinpointing when such speciﬁcations are applicable (property (P6) of
+matchAndConsume and produce introduced §6): for example, the list algorithms require that the
+speciﬁcations are deﬁned using strictly exact list-predicate assertions. ",cs.LO,B,-0.027756233,-0.24924974,-0.26179528
+http://arxiv.org/pdf/2208.07644v1,Asynchronous Functional Sessions: Cyclic and Concurrent (Extended Version),"Interestingly, the asynchronous semantics of CGV is reminis-
+cent of future/promise programming paradigms (see, e.g., [9, 18, 22]), which have been little studied in
+the context of session-typed communication. As future work, we intend to consider extensions of CGV’s type system with priorities (in the spirit
+of, e.g., work by Padovani and Novara [20]) and with recursion / recursive types. Another interesting
+continuation is to study the completeness of Theorem 4.10: are all well-typed CGV programs that do not
+translate to well-typed APCP processes guaranteed to deadlock? ",cs.LO,B,0.020167131,-0.04491696,-0.12194192
+http://arxiv.org/pdf/2208.07644v2,Asynchronous Functional Sessions: Cyclic and Concurrent (Extended Version),"Another useful addition concerns recursion / recursive types. We leave these extensions to future work. Acknowledgments Thanks to Simon Fowler and the anonymous reviewers for their helpful feed-
+back. ",cs.LO,C,-0.16402248,-0.09202746,0.087613076
+http://arxiv.org/pdf/2208.12347v1,"Robustness, Scott Continuity, and Computability","For instance, let Ω ⊆ Rn be an open set. Lebesgue spaces Lp(Ω) are
+examples for future work, which are relevant in the study of partial diﬀerential equations [3]. 25
+    Other cases for future study include inﬁnite-dimensional feature spaces arising in machine learning and spaces
+of bounded measures. ",cs.LO,A,0.08347219,0.32960886,0.047230057
+http://arxiv.org/pdf/2208.12723v1,Fast Parametric Model Checking,"PMC techniques. [2] D. Ameller, M. Galster, P. Avgeriou, and X. Franch, “A survey
+    In future work, we will explore several opportunities for          on quality attributes in service-based systems,” Software quality
+extending the applicability and efﬁciency of fPMC. First,              journal, vol. ",cs.LO,B,0.28622496,-0.02347681,-0.119795784
+http://arxiv.org/pdf/2208.12723v2,Software Performability Analysis Using Fast Parametric Model Checking,"(SCCs). PMC expressions are then computed independently
+for each SCC, and then combined to obtain the ﬁnal PMC               In future work, we will explore several opportunities for
+output in the form of a single rational formula over the         extending the applicability and efﬁciency of fPMC. First,
+parameters of the system modelled by the pDTMC. ",cs.LO,B,0.28262025,0.049332246,0.1009445
+http://arxiv.org/pdf/2208.14356v1,The syntactic dual of autonomous categories enriched over generalised metric spaces,"The second
+one establishes a functorial connection between the categorical semantics of Vλ-calculus
+(presented in §3) and previous work on algebraic semantics of linear logic [DP99]. Finally
+the third provides a brief exposition of future work. 5.1. ",cs.LO,C,-0.2942598,0.1874195,0.006969859
+http://arxiv.org/pdf/2208.14356v2,The syntactic side of autonomous categories enriched over generalised metric spaces,"The second
+one establishes a functorial connection between the categorical semantics of Vλ-calculus
+(presented in §3) and previous work on algebraic semantics of linear logic [DP99]. Finally
+the third provides a brief exposition of future work. 5.1. ",cs.LO,C,-0.2942598,0.1874195,0.006969859
