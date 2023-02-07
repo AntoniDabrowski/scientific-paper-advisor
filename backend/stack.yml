@@ -15,6 +15,7 @@ services:
       - db
     networks:
       - hidden
+      - outside
 
   db:
     image: postgres
@@ -45,7 +46,6 @@ services:
       - "8000:8000"
     networks:
       - outside
-      - hidden
     volumes:
       - /etc/letsencrypt/archive/backend.spaserver.dev:/etc/nginx/certs
 
