@@ -151,7 +151,7 @@ def prepare_data_from_csv(category, part):
 
 
 def prepare_data_from_db(category):
-    records = FromArxivFR.objects.filter(category=category)
+    records = FR_ProcessedPDF.objects.filter(category=category)
 
     traces = get_empty_traces(category)
 

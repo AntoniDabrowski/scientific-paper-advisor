@@ -8,7 +8,7 @@ services:
     container_name: spa_server
     restart: "no"
     ports:
-      - 8000:8000
+      - "2137:2137"
     env_file:
       - .env
     depends_on:
@@ -26,17 +26,28 @@ services:
       POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
       POSTGRES_DB: ${DATABASE_NAME}
     ports:
-      - 5432:5432
+      - "5432:5432"
     networks:
       - hidden
 
   pdfparser:
     image: ucrel/ucrel-science-parse:3.0.1
     init: true
+    restart: always
     ports:
       - ${PDFPARSER_PORT}:${PDFPARSER_PORT}
     networks:
       - hidden
+
+  sslproxy:
+    build: ./nginx
+    restart: always
+    ports:
+      - "8000:8000"
+    networks:
+      - outside
+    volumes:
+      - /etc/letsencrypt/archive/backend.spaserver.dev:/etc/nginx/certs
 
 networks:
   hidden:
