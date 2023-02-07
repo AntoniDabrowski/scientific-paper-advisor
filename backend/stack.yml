@@ -47,7 +47,7 @@ services:
       - outside
       - hidden
     volumes:
-      - /etc/letsencrypt/live/backend.spaserver.dev:/etc/nginx/certs
+      - /etc/letsencrypt/archive/backend.spaserver.dev:/etc/nginx/certs
 
 networks:
   hidden:
