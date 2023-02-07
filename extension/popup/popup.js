@@ -2,14 +2,14 @@ window.onload = function() {
     chrome.storage.local.get(["HOST_IP"]).then((result_IP) => {
         const myIP = document.getElementById("myIP");
         if (Object.keys(result_IP).length === 0) {
-            chrome.storage.local.set({ 'HOST_IP': "34.118.92.99"});
-            myIP.value = "34.118.92.99";
+            chrome.storage.local.set({ 'HOST_IP': "backend.spaserver.dev"});
+            myIP.value = "backend.spaserver.dev";
         }
         else {
             myIP.value = result_IP["HOST_IP"];
         }
 
-        if (myIP.value == "34.118.92.99") {
+        if (myIP.value == "backend.spaserver.dev") {
             const server_button = document.getElementById("server_button");
             server_button.checked = true;
         }
@@ -53,33 +53,23 @@ window.onload = function() {
     });
 };
 
-function checkIfValidIP(str) {
-    const regexExp = /^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$/gi;
-    return regexExp.test(str);
-}
-
 const btn = document.getElementById("btn");
 btn.addEventListener('click', function(){
     var host = document.getElementById("myIP").value;
-    if (checkIfValidIP(host)) {
-        const http_protocol = document.getElementById("http");
-        const https_protocol = document.getElementById("https");
-        let current_protocol;
-        if (http_protocol.checked) {
-            current_protocol = http_protocol.value;
-            chrome.storage.local.set({ 'PROTOCOL': http_protocol.value });
-        }
-        else {
-            current_protocol = https_protocol.value;
-            chrome.storage.local.set({ 'PROTOCOL': https_protocol.value });
-        }
-
-        chrome.storage.local.set({ 'HOST_IP': host });
-        alert("Host IP set to: "+ host + "\nWith protocol: " + current_protocol);
+    const http_protocol = document.getElementById("http");
+    const https_protocol = document.getElementById("https");
+    let current_protocol;
+    if (http_protocol.checked) {
+        current_protocol = http_protocol.value;
+        chrome.storage.local.set({ 'PROTOCOL': http_protocol.value });
     }
     else {
-        alert(host + " is not valid IP adress");
+        current_protocol = https_protocol.value;
+        chrome.storage.local.set({ 'PROTOCOL': https_protocol.value });
     }
+
+    chrome.storage.local.set({ 'HOST_IP': host });
+    alert("Host IP set to: "+ host + "\nWith protocol: " + current_protocol);
 });
 
 
@@ -104,7 +94,7 @@ local_button.addEventListener('click', function(){
 const custom_button = document.getElementById("custom_button");
 custom_button.addEventListener('click', function(){
     const myIP = document.getElementById("myIP");
-    if (myIP.value == "34.118.92.99" || myIP.value == "127.0.0.1") {
+    if (myIP.value == "backend.spaserver.dev" || myIP.value == "127.0.0.1") {
         myIP.value = custom_button.value;
     }
 });

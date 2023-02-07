@@ -1,5 +1,5 @@
 export let PROTOCOL = 'https://'
-export let IP = '34.118.92.99'
+export let IP = 'backend.spaserver.dev'
 export let BACKEND_SERVER_URL = `${PROTOCOL}${IP}:8000`;
 
 export let FURTHER_RESEARCH_ENDPOINT = `${BACKEND_SERVER_URL}/frquestions/pdfparser`;
@@ -18,8 +18,8 @@ function update_endpoints(PROTOCOL, IP){
 window.onload = function() {
     chrome.storage.local.get(["HOST_IP"]).then((result) => {
         if (Object.keys(result).length === 0) {
-            IP = "34.118.92.99";
-            chrome.storage.local.set({ 'HOST_IP': "34.118.92.99"});
+            IP = "backend.spaserver.dev";
+            chrome.storage.local.set({ 'HOST_IP': "backend.spaserver.dev"});
             update_endpoints(PROTOCOL, IP);
         }
         else {
