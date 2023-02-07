@@ -8,14 +8,13 @@ services:
     container_name: spa_server
     restart: "no"
     ports:
-      - "8000:8000"
+      - "2137:2137"
     env_file:
       - .env
     depends_on:
       - db
     networks:
       - hidden
-      - outside
 
   db:
     image: postgres
@@ -43,11 +42,12 @@ services:
     image: nginx:latest
     restart: always
     ports:
-      - "80:80"
-      - "443:443"
+      - "8000:8000"
     networks:
       - outside
       - hidden
+    volumes:
+      - /etc/letsencrypt/live/backend.spaserver.dev:/etc/nginx/certs
 
 networks:
   hidden:
