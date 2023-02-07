@@ -39,7 +39,7 @@ services:
       - hidden
 
   sslproxy:
-    image: nginx:latest
+    build: ./nginx
     restart: always
     ports:
       - "8000:8000"
