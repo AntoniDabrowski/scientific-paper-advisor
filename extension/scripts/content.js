@@ -49,15 +49,14 @@ function draw_scatter_plot(scatter_menu, i, x, scatter_data, not_internal=true) 
         scatter_menu.style.display = "none";
         purge_graph(scatter.id);
     } else {
-        var article_data = extract_pdf_url(pdf_results[i]);
-        var graph_schema = get_scatter_layout(article_data);
-        scatter.style.display = "block";
+        let article_data = extract_pdf_url(pdf_results[i]);
+        let graph_schema = get_scatter_layout(article_data);
+        scatter_menu.style.display = "block";
         buttons_menu.style.display = "none";
-        show_loader(scatter.id)
+        show_loader(scatter.id);
 
         graph_schema.then(function (returned_json) {
             hide_loader(scatter.id);
-            scatter_menu.style.display = "block";
             buttons_menu.style.display = "block";
             create_scatter_on_scholar_result(scatter, returned_json, scatter_data);
         }).catch(function (error) {
@@ -177,7 +176,6 @@ if (pdf_results) {
 
         var scatter = document.createElement("div");
         scatter.id = "scatter_" + i;
-        scatter.style.display = "none";
 
         var left_button_scatter = document.createElement("button");
         left_button_scatter.textContent = 'Further research';
@@ -215,7 +213,6 @@ if (pdf_results) {
         scatter_plot.onclick = function () {
             if (scatter_menu.style.display === "none") {
                 graph_menu.style.display = "none"
-                purge_graph(scatter.id);
                 draw_scatter_plot(scatter_menu, i, this, scatter_data);
             }
         };
@@ -232,6 +229,7 @@ if (pdf_results) {
         connection_graph.onclick = function () {
             if (graph_menu.style.display === "none") {
                 scatter_menu.style.display = "none"
+                purge_graph(scatter.id);
                 draw_graph_of_connections(graph_menu, i, this);
             }
         };
