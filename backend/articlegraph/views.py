@@ -24,8 +24,12 @@ from .popularity_prediction.model import predict
 
 
 def normalize_authors_list(authors_list: List[str]):
-    authors_list = [unidecode(author).lower().split()[-1] for author in authors_list]
-    return authors_list
+    normalized_list = []
+    for authors in authors_list:
+        authors = unidecode(authors).lower().split()
+        if len(authors) > 0:
+            normalized_list.append(authors[-1])
+    return normalized_list
 
 
 class PublicationWithID:
