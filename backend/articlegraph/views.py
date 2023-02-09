@@ -323,7 +323,7 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
         # Use api to find an article with matching title and authors list.
 
         if publication['bib'].get('title', 'NOT FOUND').lower() == title.lower() \
-                and authors_check_out(authors, publication['bib'].get('authors', 'NOT FOUND')):
+                and authors_check_out(authors, publication['bib'].get('author', 'NOT FOUND')):
             # Save article to db for reuse.
             return add_publication_to_database(publication=publication)
         else:
