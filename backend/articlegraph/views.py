@@ -14,21 +14,13 @@ import requests
 from django.db.models import QuerySet
 from django.http import HttpRequest, JsonResponse
 from django.views.decorators.csrf import csrf_exempt
-from dotenv import load_dotenv
 from networkx import node_link_graph
-from scholarly import scholarly, Publication, ProxyGenerator
+from scholarly import scholarly, Publication
 from science_parse_api.api import parse_pdf
 from unidecode import unidecode
 
 from .models import ScholarlyPublication, CitationReferences, FailedPublicationGrab
 from .popularity_prediction.model import predict
-
-load_dotenv()
-
-pg = ProxyGenerator()
-success = pg.ScraperAPI(os.getenv('SCRAPERAPI_KEY'))
-print("Proxy setup success:{}".format(success))
-scholarly.use_proxy(pg)
 
 
 class PublicationWithID:
@@ -53,8 +45,7 @@ def add_publication_to_database(publication: Publication, cites: ScholarlyPublic
     authors_mash = "".join([unidecode(a).lower() for a in authors])
 
     try:
-        record = ScholarlyPublication.objects.get(title=publication['bib'].get('title').lower(),
-                                                  authors=authors_mash)
+        record = ScholarlyPublication.objects.get(title=publication['bib'].get('title').lower())
     except ScholarlyPublication.DoesNotExist:
         record = ScholarlyPublication.objects.create(title=publication['bib'].get('title').lower(),
                                                      authors=authors_mash,
@@ -122,7 +113,7 @@ class ArticleGraph(nx.Graph):
         already_used.update([r.publication['bib'].get('title') for r in results])
 
         if len(results) < self.max_articles_per_column:
-            core_article = scholarly.fill(article.publication)
+            core_article = article.publication
             if core_article.get('citedby_url') is None:
                 return results
             core_article_cites = scholarly.citedby(core_article)
@@ -233,7 +224,7 @@ class ArticleGraph(nx.Graph):
                                       article_from=pub.idx,
                                       subset=edge_subset - 1)
 
-        self.trim_subset(edge_subset + 1)
+        self.trim_subset(edge_subset - 1)
 
     def add_article_node(self, idx, article: Publication, subset: int, article_from=None, lock=None):
         if lock is not None:
@@ -288,16 +279,15 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
 
     timeout_failed_search = date.today() - timedelta(days=int(os.getenv('TIMEOUT_OF_FAILED_SEARCH_IN_DAYS')))
 
-    if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
+    if ScholarlyPublication.objects.filter(title=title).exists():
         # Publication found. Get from the database
         print("Record for publication {} retrieved from the database.".format(title))
-        db_records = ScholarlyPublication.objects.get(title=title, authors=authors_mash)
+        db_records = ScholarlyPublication.objects.get(title=title)
         if isinstance(db_records, QuerySet):
             raise RuntimeError('Database contain more than one result with this title and authors.')
         else:
             return PublicationWithID(idx=db_records.pk, publication=db_records.publication)
     elif FailedPublicationGrab.objects.filter(title=title,
-                                              authors=authors_mash,
                                               attemptdate__gte=timeout_failed_search).exists():
         # We already looked for this article and failed
         raise RuntimeError('Article {} is recorded in the database as a failed searched.'.format(title))
@@ -310,11 +300,12 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
         counter = 0
         for publication in publication_generator:
             # Use api to find an article with matching title and authors list.
+
             if publication['bib'].get('title', 'NOT FOUND').lower() == title.lower():
                 # Save article to db for reuse.
                 return add_publication_to_database(publication=publication)
-
-            add_publication_to_database(publication=publication)  # Save any found articles
+            else:
+                add_publication_to_database(publication=publication)  # Save any found articles
 
             counter += 1
             if counter == os.getenv('LIMIT_OF_ARTICLES_TO_SEARCH_THROUGH'):
