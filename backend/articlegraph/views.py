@@ -14,21 +14,22 @@ import requests
 from django.db.models import QuerySet
 from django.http import HttpRequest, JsonResponse
 from django.views.decorators.csrf import csrf_exempt
-from dotenv import load_dotenv
 from networkx import node_link_graph
-from scholarly import scholarly, Publication, ProxyGenerator
+from scholarly import scholarly, Publication
 from science_parse_api.api import parse_pdf
 from unidecode import unidecode
 
 from .models import ScholarlyPublication, CitationReferences, FailedPublicationGrab
 from .popularity_prediction.model import predict
 
-load_dotenv()
 
-pg = ProxyGenerator()
-success = pg.ScraperAPI(os.getenv('SCRAPERAPI_KEY'))
-print("Proxy setup success:{}".format(success))
-scholarly.use_proxy(pg)
+def normalize_authors_list(authors_list: List[str]):
+    normalized_list = []
+    for authors in authors_list:
+        authors = unidecode(authors).lower().split()
+        if len(authors) > 0:
+            normalized_list.append(authors[-1])
+    return normalized_list
 
 
 class PublicationWithID:
@@ -49,19 +50,17 @@ class PublicationWithID:
 
 
 def add_publication_to_database(publication: Publication, cites: ScholarlyPublication = None):
-    authors = sorted(publication['bib'].get('author'))
-    authors_mash = "".join([unidecode(a).lower() for a in authors])
+    authors = normalize_authors_list(publication['bib'].get('author'))
 
     try:
-        record = ScholarlyPublication.objects.get(title=publication['bib'].get('title').lower(),
-                                                  authors=authors_mash)
+        record = ScholarlyPublication.objects.get(title=publication['bib'].get('title').lower())
     except ScholarlyPublication.DoesNotExist:
         record = ScholarlyPublication.objects.create(title=publication['bib'].get('title').lower(),
-                                                     authors=authors_mash,
+                                                     authors=authors,
                                                      publication=publication)
     else:
         record.title = publication['bib'].get('title').lower()
-        record.authors = authors_mash
+        record.authors = authors
         record.publication = publication
         record.save()
 
@@ -122,7 +121,7 @@ class ArticleGraph(nx.Graph):
         already_used.update([r.publication['bib'].get('title') for r in results])
 
         if len(results) < self.max_articles_per_column:
-            core_article = scholarly.fill(article.publication)
+            core_article = article.publication
             if core_article.get('citedby_url') is None:
                 return results
             core_article_cites = scholarly.citedby(core_article)
@@ -233,7 +232,7 @@ class ArticleGraph(nx.Graph):
                                       article_from=pub.idx,
                                       subset=edge_subset - 1)
 
-        self.trim_subset(edge_subset + 1)
+        self.trim_subset(edge_subset - 1)
 
     def add_article_node(self, idx, article: Publication, subset: int, article_from=None, lock=None):
         if lock is not None:
@@ -273,6 +272,17 @@ def articles_match(publication_dict, authors, title):
     return title == publication_dict['title'] and authors == publication_authors
 
 
+def authors_check_out(first_authors_set: List[str], other_authors_set: List[str]):
+    def intersection(lst1, lst2):
+        lst3 = [value for value in lst1 if value in lst2]
+        return lst3
+
+    first_authors_set = normalize_authors_list(first_authors_set)
+    other_authors_set = normalize_authors_list(other_authors_set)
+
+    return intersection(first_authors_set, other_authors_set) != []
+
+
 def find_article(title: str, authors: List[str]) -> PublicationWithID:
     """
     :param title: Title of the article.
@@ -282,46 +292,53 @@ def find_article(title: str, authors: List[str]) -> PublicationWithID:
         have been found in Google Scholar.
     """
     # Check the database for stored data
-    authors = sorted([author.replace('.', '') for author in authors])
-    authors_mash = "".join([unidecode(a).lower() for a in authors])
+    authors = normalize_authors_list(authors)
     title = title.lower()
 
     timeout_failed_search = date.today() - timedelta(days=int(os.getenv('TIMEOUT_OF_FAILED_SEARCH_IN_DAYS')))
 
-    if ScholarlyPublication.objects.filter(title=title, authors=authors_mash).exists():
+    if ScholarlyPublication.objects.filter(title=title).exists():
         # Publication found. Get from the database
         print("Record for publication {} retrieved from the database.".format(title))
-        db_records = ScholarlyPublication.objects.get(title=title, authors=authors_mash)
+
+        db_records = ScholarlyPublication.objects.get(title=title)
         if isinstance(db_records, QuerySet):
-            raise RuntimeError('Database contain more than one result with this title and authors.')
+            for potential_article in db_records:
+                potential_authors = potential_article.authors
+                if authors_check_out(authors, potential_authors):
+                    return PublicationWithID(idx=potential_article.pk, publication=potential_article.publication)
         else:
-            return PublicationWithID(idx=db_records.pk, publication=db_records.publication)
+            if authors_check_out(authors, db_records.authors):
+                return PublicationWithID(idx=db_records.pk, publication=db_records.publication)
+
     elif FailedPublicationGrab.objects.filter(title=title,
-                                              authors=authors_mash,
                                               attemptdate__gte=timeout_failed_search).exists():
         # We already looked for this article and failed
         raise RuntimeError('Article {} is recorded in the database as a failed searched.'.format(title))
-    else:
-        # query need to reflect what we put into the Google Scholar search bar.
-        print("Looking for article {} in scholarly.".format(title))
-        query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
-        publication_generator = scholarly.search_pubs(query=query)
 
-        counter = 0
-        for publication in publication_generator:
-            # Use api to find an article with matching title and authors list.
-            if publication['bib'].get('title', 'NOT FOUND').lower() == title.lower():
-                # Save article to db for reuse.
-                return add_publication_to_database(publication=publication)
+    # query need to reflect what we put into the Google Scholar search bar.
 
+    print("Looking for article {} in scholarly.".format(title))
+    query = title + " " + " ".join(["author:\"{}\"".format(author) for author in authors])
+    publication_generator = scholarly.search_pubs(query=query)
+
+    counter = 0
+    for publication in publication_generator:
+        # Use api to find an article with matching title and authors list.
+
+        if publication['bib'].get('title', 'NOT FOUND').lower() == title.lower() \
+                and authors_check_out(authors, publication['bib'].get('author', 'NOT FOUND')):
+            # Save article to db for reuse.
+            return add_publication_to_database(publication=publication)
+        else:
             add_publication_to_database(publication=publication)  # Save any found articles
 
-            counter += 1
-            if counter == os.getenv('LIMIT_OF_ARTICLES_TO_SEARCH_THROUGH'):
-                break
+        counter += 1
+        if counter == int(os.getenv('LIMIT_OF_ARTICLES_TO_SEARCH_THROUGH')):
+            break
 
     # Matching article wasn't found.
-    FailedPublicationGrab.objects.update_or_create(title=title, authors=authors_mash)  # Record failed search attempt
+    FailedPublicationGrab.objects.update_or_create(title=title, authors=authors)  # Record failed search attempt
     raise RuntimeError('Article not found in Scholar.')
 
 
